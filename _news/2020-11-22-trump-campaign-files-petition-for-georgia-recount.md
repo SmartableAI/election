@@ -444,6 +444,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump claims Biden must prove votes weren't 'illegally obtained' in order to enter White House"
+    excerpt: "President Trump on Friday claimed that President-elect Joe Biden must prove that the votes he received in the presidential election were not “illegally obtained” in order to enter the White House -- the latest sign that Trump is not giving up his efforts to challenge the result."
+    publishedDateTime: 2020-11-27T17:35:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/amZifCI9xwo/trump-biden-illegally-obtained-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-illegally-obtained-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-illegally-obtained-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b5d8907-832c-454a-88d2-e1bd843f5702/e53d9336-9bb5-4e3e-9758-0d7c04ed5f47/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Michigan lawmakers meet with Trump, say they are unaware of info that would change election results"
     excerpt: "Michigan’s top two legislative leaders met at the White House Friday afternoon with President Trump and his legal team to discuss the president’s legal dispute to the vote count in their state. "
     publishedDateTime: 2020-11-21T01:00:03Z
@@ -777,6 +793,22 @@ related:
     quality: 166
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b65dfe9-319e-4e08-a256-c6cde70ed79a/ee0017c1-25bb-4755-9b4f-abc4b832ac7f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Federal appeals court dismisses Trump campaign lawsuit over Pennsylvania voting procedures"
+    excerpt: "A federal appeals court dismissed a lawsuit by the Trump campaign over Pennsylvania's voting procedures on Friday, paving the way for the issue to escalate all the way up to the Supreme Court."
+    publishedDateTime: 2020-11-27T18:23:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qazw6G0PAVE/federal-appeals-court-dismisses-trump-campaign-lawsuit-pennsylvania-voting-procedures"
+    ampWebUrl: "https://www.foxnews.com/politics/federal-appeals-court-dismisses-trump-campaign-lawsuit-pennsylvania-voting-procedures.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-appeals-court-dismisses-trump-campaign-lawsuit-pennsylvania-voting-procedures.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4d7d32f1-3cbe-4d32-b262-11636ff1aadc/f7d0832f-1bc7-4025-a734-dddd2036d2b7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1120,6 +1152,22 @@ related:
     quality: 134
     images:
       - url: "https://images.wsj.net/im-263840?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
+  - title: "Federal Judges Deny Trump Campaign’s Appeal of Pennsylvania Ballot Challenge"
+    excerpt: "A federal appeals court denied the Trump campaign’s appeal in its Pennsylvania case, striking another blow to the president’s dwindling legal avenues to contest the outcome of the election."
+    publishedDateTime: 2020-11-27T18:39:00Z
+    webUrl: "https://www.wsj.com/articles/federal-judges-deny-trump-campaigns-appeal-of-pennsylvania-ballot-challenge-11606501438"
+    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judges-deny-trump-campaigns-appeal-of-pennsylvania-ballot-challenge-11606501438"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judges-deny-trump-campaigns-appeal-of-pennsylvania-ballot-challenge-11606501438"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-265473?width=620&size=1.5"
         width: 620
         height: 413
         isCached: true

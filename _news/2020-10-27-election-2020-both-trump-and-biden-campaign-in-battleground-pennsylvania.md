@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
 type: article
 quality: 154
-heat: 5314
+heat: 5354
 published: true
 
 provider:
@@ -735,6 +735,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "U.S. appeals court rejects Trump campaign's Pennsylvania election case"
+    excerpt: "A federal appeals court on Friday rejected a request by U.S. President Donald Trump's campaign to block President-elect Joe Biden from being declared the winner of the battleground state of Pennsylvania,"
+    publishedDateTime: 2020-11-27T18:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-pennsylvania-idUSKBN2872AZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2872AZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2872AZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201127&t=2&i=1542693700&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAQ167"
+        width: 819
+        height: 545
+        isCached: true
   - title: "Joe Biden has narrow lead over President Donald Trump in new Florida poll"
     excerpt: "The survey from the University of North Florida had Biden up by one percentage point in Florida, within the poll's margin of error."
     publishedDateTime: 2020-10-20T11:19:00Z
@@ -1134,6 +1150,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/e168c91b2013bd6b210aea3b6d06321cebd33388/0_56_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b9e0f3db31c62f7d03657b8f843bed68"
         width: 600
         height: 360
+        isCached: true
+  - title: "U.S. federal appeals court rejects Trump campaign's Pennsylvania election case"
+    excerpt: "A U.S. federal appeals court on Friday rejected a request by U.S. President Donald Trump's campaign to block President-elect Joe Biden from being declared the winner of the battleground state of Pennsylvania."
+    publishedDateTime: 2020-11-27T18:21:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2872AZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2872AZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2872AZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201127&t=2&i=1542693700&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAQ167"
+        width: 819
+        height: 545
         isCached: true
   - title: "Election 2020 live updates: Biden leads Trump in Wisconsin, Georgia; Americans are stressed about the election"
     excerpt: "At just six days until Election Day, the presidential campaigns focus on Arizona, which appears to be still up for grabs."

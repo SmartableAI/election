@@ -335,6 +335,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump administration moves ahead on gutting bird protections"
+    excerpt: "The Trump administration is moving forward on gutting a longstanding federal protection for roughly 1,000 species of birds in the United States"
+    publishedDateTime: 2020-11-27T18:50:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-administration-moves-ahead-gutting-bird-protections-74430870"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-administration-moves-ahead-gutting-bird-protections-74430870"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-administration-moves-ahead-gutting-bird-protections-74430870"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/WNT/201116_wn_index_654_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Election 2020 live updates: Michigan GOP legislators to meet with Trump; Trump withdraws Michigan lawsuit"
     excerpt: "The Republican leaders of the Michigan House and Senate are expected to meet with President Donald Trump at the White House."
     publishedDateTime: 2020-11-19T19:48:00Z

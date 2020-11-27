@@ -89,6 +89,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "US appeals court rejects Trump appeal over Pennsylvania race"
+    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals"
+    publishedDateTime: 2020-11-27T18:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-appeals-court-rejects-trump-appeal-pennsylvania-race-74430808"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-appeals-court-rejects-trump-appeal-pennsylvania-race-74430808"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-appeals-court-rejects-trump-appeal-pennsylvania-race-74430808"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d7de96f2884b407fb21c7a693cf79eb4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Trump campaign’s disingenuous spin on its watered-down voter fraud claims"
     excerpt: "The campaign is disputing a Washington Post article about its scaled-back lawsuit in Pennsylvania. But a look at the lawsuit — and its claims about The Post's reporting — reveal the truth."
     publishedDateTime: 2020-11-16T18:26:00Z

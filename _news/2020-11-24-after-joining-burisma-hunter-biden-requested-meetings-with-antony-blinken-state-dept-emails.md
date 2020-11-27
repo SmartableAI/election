@@ -207,6 +207,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Joe Biden’s Transition and Cabinet Picks: What Happens Next"
+    excerpt: "The president-elect’s team now has access to cybersecurity assistance, FBI background checks for prospective nominees, the ability to see classified information—and more intelligence sharing."
+    publishedDateTime: 2020-11-25T03:09:00Z
+    webUrl: "https://www.wsj.com/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123?mod=latest_headlines"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-264330/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden's expected secretary of state pick Blinken criticized over Iraq War, consulting work"
     excerpt: "President-elect Joe Biden's expected pick for secretary of state received criticism for his recent consulting work and early support for the Iraq War as outlets reported Antony Blinken would soon be announced for the post."
     publishedDateTime: 2020-11-23T15:26:00Z

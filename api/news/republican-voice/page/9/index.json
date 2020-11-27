@@ -2,6 +2,118 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-22-mcconnell-on-bidens-court-commission-plan-court-packing-ought-to-be-completely-unacceptable.md",
+      "title": "McConnell on Biden’s court commission plan: ‘Court packing ought to be completely unacceptable’",
+      "excerpt": "Sen. Majority Leader Mitch McConnell said that Joe Biden’s plan to form a commission to “reform” the court system meant that he was “open to” court packing. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFbqic80cbE/mcconnell-bidens-court-commission-plan-court-packing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFbqic80cbE/mcconnell-bidens-court-commission-plan-court-packing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19899717-32ae-4f23-b506-19f2a7bb297e/e55fec0a-f492-4aee-b8b3-6cccdd79288b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-bidens-court-commission-plan-court-packing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-bidens-court-commission-plan-court-packing.amp",
+      "publishedDateTime": "2020-10-22T14:50:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-trump-lambasts-lesley-stahl-for-pressing-him-on-tough-questions-thats-no-way-to-talk.md",
+      "title": "Trump lambasts Lesley Stahl for pressing him on 'tough questions': 'That's no way to talk'",
+      "excerpt": "President Trump, in a testy interview with CBS's Lesly Stahl, chastized the veteran reporter telling her \"that's no way to talk\" when she ribbed him about his ability to take \"tough questions\" during an interview meant to air on 60 Minutes on Sunday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m3M0n6CFYvs/trump-chastises-leslie-stahl-on-pressing-him-for-tough-questions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m3M0n6CFYvs/trump-chastises-leslie-stahl-on-pressing-him-for-tough-questions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd47da4d-02e5-45b9-a0f3-c6dfa1b62229/ec7f5fd6-cc4d-4598-999c-4cd944044c5b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-chastises-leslie-stahl-on-pressing-him-for-tough-questions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-chastises-leslie-stahl-on-pressing-him-for-tough-questions.amp",
+      "publishedDateTime": "2020-10-22T14:10:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-no-surprise-russia-and-iran-want-trump-out-national-security-adviser-obrien.md",
       "title": "'No surprise' Russia and Iran want Trump out: National Security Adviser O'Brien",
       "excerpt": "National Security Adviser Robert O'Brien explained on “Fox & Friends” on Thursday why he believes Iran and Russia allegedly tried to interfere with the 2020 elections.",
@@ -1547,118 +1659,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-trump-says-choice-is-american-dream-or-socialist-hellhole-in-2020-race.md",
-      "title": "Trump says choice is 'American Dream' or 'socialist hellhole' in 2020 race",
-      "excerpt": "President Trump on Tuesday equated the race between himself and Democratic nominee Joe Biden in the 2020 presidential election as a choice between the \"American Dream\" and a \"socialist hellhole.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBGWc24bTug/trump-biden-american-dream-socialist-hellhole",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBGWc24bTug/trump-biden-american-dream-socialist-hellhole",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293704879004-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-american-dream-socialist-hellhole.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-american-dream-socialist-hellhole.amp",
-      "publishedDateTime": "2020-10-20T07:13:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-nc-governor-caught-on-hot-mic-telling-biden-theyll-drag-cal-cunningham-across-the-line-after-scandal.md",
-      "title": "NC governor caught on hot mic telling Biden they'll drag Cal Cunningham ‘across the line’ after scandal",
-      "excerpt": "\"I think Cal's going to get across the line, too,\" Gov. Roy Cooper appeared to say on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T1tj-Snexq0/roy-cooper-joe-biden-hot-mic-cal-cunningham",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T1tj-Snexq0/roy-cooper-joe-biden-hot-mic-cal-cunningham",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20282026845724.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/roy-cooper-joe-biden-hot-mic-cal-cunningham.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roy-cooper-joe-biden-hot-mic-cal-cunningham.amp",
-      "publishedDateTime": "2020-10-20T06:46:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-dr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
 type: article
 quality: 140
-heat: 880
+heat: 900
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/32b8297ec32f902df24ecd4718ffb3f090ce14c7/0_175_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37023af91c0b87e9ef1c2426e8d01221"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump administration moves ahead on gutting bird protections"
+    excerpt: "The Trump administration is moving forward on gutting a longstanding federal protection for roughly 1,000 species of birds in the United States"
+    publishedDateTime: 2020-11-27T18:50:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-administration-moves-ahead-gutting-bird-protections-74430870"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-administration-moves-ahead-gutting-bird-protections-74430870"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-administration-moves-ahead-gutting-bird-protections-74430870"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/WNT/201116_wn_index_654_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "President Trump pardons Michael Flynn, who pleaded guilty to lying to FBI"
     excerpt: "President Donald Trump announced on Twitter he has pardoned former n Michael Flynn. \"It is my Great Honor to announce that General Michael T. Flynn has been granted a Full Pardon,\" he wrote. \"Congratulations to @GenFlynn and his wonderful family,"

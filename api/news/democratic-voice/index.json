@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-27-democrats-deride-dark-money-but-a-new-analysis-shows-it-helped-boost-joe-biden.md",
+      "title": "Democrats deride 'dark' money, but a new analysis shows it helped boost Joe Biden",
+      "excerpt": "Democrats have denounced anonymous money in politics for years, but 2020 brought a tidal wave of it into the election to benefit their party.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tzoCqbkftjs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tzoCqbkftjs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201103020149-joe-biden-pittsburgh-heinz-field1102-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/27/politics/dark-money-democrats-joe-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/dark-money-democrats-joe-biden/index.html",
+      "publishedDateTime": "2020-11-27T07:44:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-trumps-continued-rhetoric-over-election-hampers-recovery-as-americans-face-heightened-economic-and-health-fears.md",
       "title": "Trump's continued rhetoric over election hampers recovery as Americans face heightened economic and health fears",
       "excerpt": "President Donald Trump finally confirmed Thursday that he will vacate the White House in January after weeks of plunging America into a dark period of uncertainty—where the fate of democracy sometimes seemed to be hanging by a thread—but he largely ignored the mounting challenges his successor is facing",
@@ -226,63 +282,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-26-flournoy-gets-progressive-boost-in-bidens-search-for-pentagon-chief.md",
-      "title": "Flournoy gets progressive boost in Biden's search for Pentagon chief",
-      "excerpt": "\"We believe Michèle Flournoy is the best candidate for the job,\" a group of arms control veterans write in an open letter to Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "originalUrl": "https://www.politico.com/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d1/b8/2ffd1b81423daf4161ba1ad258a2/201125-michele-flournoy-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "publishedDateTime": "2020-11-25T18:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-25-trump-invites-pennsylvania-gop-lawmakers-to-white-house-after-calling-in-to-baseless-voter-fraud-event.md",
       "title": "Trump invites Pennsylvania GOP lawmakers to White House after calling in to baseless voter fraud event",
       "excerpt": "President Donald Trump's planned trip to join his attorney Rudy Giuliani in Gettysburg, Pennsylvania, on Wednesday has been canceled, two sources familiar with the matter tell CNN.\n    \n",
@@ -351,7 +350,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 570,
+      "heat": 610,
       "tags": null,
       "images": [
         {
@@ -616,63 +615,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-virginia-democrats-thrilled-with-biden-victory-arent-looking-for-carbon-copy.md",
-      "title": "Virginia Democrats, Thrilled With Biden Victory, Aren’t Looking for Carbon Copy",
-      "excerpt": "Suburban women who played a huge role in Joe Biden’s victory are not convinced that they need a white man to win their governor’s race next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/23/us/politics/23VIRGINIA-DEMS-photo/23VIRGINIA-DEMS-photo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.amp.html",
-      "publishedDateTime": "2020-11-24T02:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -1663,6 +1605,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/17/politics/georgia-recount/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/georgia-recount/index.html",
       "publishedDateTime": "2020-11-17T15:36:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-the-point-lindsey-graham-just-crossed-another-line-in-defending-trump.md",
+      "title": "The Point: Lindsey Graham just crossed another line in defending Trump",
+      "excerpt": "Fresh off a surprisingly pedestrian election win on November 3, Lindsey Graham has decided to take on a new role: The most aggressive enforcer of the idea that President Donald Trump maybe -- just maybe! -- didn't lose the 2020 election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ImG-25Dh4jk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ImG-25Dh4jk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201030173830-13d-lindsey-graham-play-button-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/17/politics/lindsey-graham-2020-election-georgia-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/lindsey-graham-2020-election-georgia-trump/index.html",
+      "publishedDateTime": "2020-11-17T15:16:35-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

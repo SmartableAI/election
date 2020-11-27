@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-con
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-congratulations/index.html"
 type: article
 quality: 190
-heat: 570
+heat: 610
 published: true
 
 provider:
@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pompeo says State Department will 'honor' promise to conduct transition to Biden administration"
+    excerpt: "Secretary of State Mike Pompeo said the State Department would \"honor\" the Trump administration's \"promise\" earlier this week to begin the transition with the incoming Biden administration, weeks after suggesting the President would win a second term.\n    \n"
+    publishedDateTime: 2020-11-27T17:04:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rllA-u6OXpA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/pompeo-transition-promise/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/pompeo-transition-promise/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110133307-mike-pompeo-2020-transition-presser-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Exclusive: One-on-one with Biden in first post-election interview"
     excerpt: "In his first interview since the election, President-elect Joe Biden speaks with Lester Holt about his cabinet picks, the formal transition of power, his plan for distributing the Covid-19 vaccine and reopening schools."
     publishedDateTime: 2020-11-24T23:57:00Z
@@ -284,6 +300,22 @@ related:
     quality: 135
     images:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/there_is_hope_on_the_way.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Exclusive one-on-one with Joe Biden: extended interview"
+    excerpt: "President-elect Joe Biden speaks out to Lester Holt in an exclusive interview — Biden’s first since the election — about his Cabinet picks, the pandemic, his top priorities for his first 100 days and more."
+    publishedDateTime: 2020-11-26T00:01:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/exclusive-one-on-one-with-joe-biden-extended-interview-96637509833"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96637509833"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96637509833"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/biden_interview_for_web_frame_28006.jpg"
         width: 1920
         height: 1080
         isCached: true

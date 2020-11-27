@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "US appeals court rejects Trump appeal over Pennsylvania race"
+    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals"
+    publishedDateTime: 2020-11-27T18:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-appeals-court-rejects-trump-appeal-pennsylvania-race-74430808"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-appeals-court-rejects-trump-appeal-pennsylvania-race-74430808"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-appeals-court-rejects-trump-appeal-pennsylvania-race-74430808"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d7de96f2884b407fb21c7a693cf79eb4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump campaign moves to seek partial recount of Wisconsin, hoping to overturn results"
     excerpt: "The Trump campaign says it will seek recounts in Dane and Milwaukee counties, Wisconsin's two most populous and liberal-leaning counties."
     publishedDateTime: 2020-11-18T17:11:00Z
