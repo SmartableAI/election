@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/georgia-presidential-ele
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/georgia-presidential-election-recount/index.html"
 type: article
 quality: 167
-heat: 187
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "'Just ridiculous': CNN speaks to Georgia voter the Trump campaign falsely accused of casting ballot in the name of a dead woman"
-    excerpt: "President Donald Trump's campaign and Fox News host Tucker Carlson alleged last week that a vote cast by a Georgia woman named Deborah Jean Christiansen was fraudulent.\n    \n"
-    publishedDateTime: 2020-11-18T15:33:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Zci4ml9gl0E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/fact-check-georgia-dead-voter-deborah-jean-christiansen/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/fact-check-georgia-dead-voter-deborah-jean-christiansen/index.html"
+  - title: "Trump says he'll travel to Georgia to support Republican Senate candidates in runoff election"
+    excerpt: "President Donald Trump said Thursday he will travel to Georgia to support the state's Republican Senate candidates ahead of the January 5 runoff election.\n    \n"
+    publishedDateTime: 2020-11-27T02:11:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzHZPjjJvNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 147
+    quality: 179
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117142614-donald-trump-1113-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126174410-01-donald-trump-white-house-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GA secretary of state: I'm a proud Trump supporter but numbers don't lie"
+    excerpt: "Georgia Secretary of State Brad Raffensperger spoke after his office confirmed that President-elect Joe Biden defeated President Donald Trump in the state and found no widespread fraud after a statewide audit.\n    \n"
+    publishedDateTime: 2020-11-20T13:56:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vS1u39yPSrY/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/20/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/20/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120084211-secretary-of-state-brad-raffensperger-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia secretary of state says Trump threw him under bus despite his support"
+    excerpt: "Georgia Secretary of State Brad Raffensperger on Wednesday lambasted President Donald Trump, saying that the commander in chief threw him under the bus although he voted for him.\n    \n"
+    publishedDateTime: 2020-11-25T13:34:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i5d0Wd5rurY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/brad-raffensperger-trump-usa-today-oped/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/brad-raffensperger-trump-usa-today-oped/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

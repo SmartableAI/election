@@ -144,6 +144,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Says He Pardoned Michael Flynn, Ex-National Security Adviser"
+    excerpt: "President Trump said he has pardoned former national security adviser Michael Flynn, using his lame-duck executive power to protect an ally who pleaded guilty to lying to the FBI."
+    publishedDateTime: 2020-11-27T03:02:00Z
+    webUrl: "https://www.wsj.com/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-264930/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "OG3j1OamKAp0KZ/o11+y7tenCs89BoZJ4uKKjlp8tPpnGKwQtaRVFHv26clpfgCF9q9Lr5ZpvE0C8WuaeAEGgT/Uuu3oENXz8FwQ/h1vUHqF626JwZTBhicl/whOf8vXinnY3R7vXQhObE8iFy23vDkZIMIw24Ymct5hknGkC0Bj99eiVcwDu0gDGqLd0/r8v1/jCRuXgpDNT00ygrN/mGQuB/8+mqjxO5H4YaVaBgi9LXaJbI8IvYNANxtNUHABtlyrOn6HEsuIAIQ7Ej7DvDER5gvdM4tDUNJimqSzQVARF0qieiitYfpvmijzw5BD/TE6lPAZKVS2sPkEInwsmsvGRV2pD6G381hQ5ShL4WY=;+1rowvPZv+ce3v436uoLIw=="
 ---

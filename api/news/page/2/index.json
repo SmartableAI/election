@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-25-aoc-ilhan-omar-try-to-block-deficit-hawk-from-biden-administration.md",
+      "title": "AOC, Ilhan Omar try to block 'deficit hawk' from Biden administration",
+      "excerpt": "Squad members Reps. Alexandria Ocasio-Cortez, D-N.Y. and Ilhan Omar, D-Minn., are mounting a petition against Biden nominating his former chief of staff Bruce Reed, who they say is a “deficit hawk,” to a role within the incoming administration. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC1EBAjpbxM/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC1EBAjpbxM/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/squad-thumb.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration.amp",
+      "publishedDateTime": "2020-11-24T16:27:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-senior-biden-staffer-called-palestinian-suicide-bombings-the-last-resort-of-a-desperate-people.md",
+      "title": "Senior Biden staffer called Palestinian suicide bombings ‘the last resort of a desperate people’",
+      "excerpt": "Biden's pick for Deputy Director of the White House Office of Legislative Affairs referred to Palestinian suicide bombings as \"the last resort of a desperate people\" in 2002.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h0J2FB8CEdw/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h0J2FB8CEdw/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20321761004454.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california.amp",
+      "publishedDateTime": "2020-11-24T16:05:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-the-trump-administration-is-considering-shortening-the-recommended-quarantine-time-for-covid-19.md",
       "title": "The Trump administration is considering shortening the recommended quarantine time for Covid-19",
       "excerpt": "President Donald Trump's coronavirus task force is reviewing evidence about how long people need to quarantine to be safe and slow the spread of Covid-19, according to Assistant Secretary for Health Adm. Brett Giroir.\n    \n",
@@ -14,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 203,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -1259,110 +1371,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-melania-trump-celebrates-arrival-of-annual-white-house-christmas-tree.md",
-      "title": "Melania Trump celebrates arrival of annual White House Christmas tree",
-      "excerpt": "First lady Melania Trump on Monday celebrated the arrival of the annual White House Christmas tree — without President Trump or their son Barron Trump, who have attended the event in past",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/",
-      "originalUrl": "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/Trump.1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/amp/",
-      "publishedDateTime": "2020-11-23T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-biden-picks-blinken-mayorkas-sullivan-for-key-cabinet-positions.md",
-      "title": "Biden picks Blinken, Mayorkas, Sullivan for key Cabinet positions",
-      "excerpt": "President-elect Joe Biden on Monday announced a number of key Cabinet appointments, including Antony Blinken as secretary of state, Alejandro Mayorkas as secretary of homeland security, and Avril Haines to serve as the first woman to lead the intelligence community, among other positions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Os3JWsL3FUM/biden-key-cabinet-nominees-blinken-sullivan-mayorkas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Os3JWsL3FUM/biden-key-cabinet-nominees-blinken-sullivan-mayorkas",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-sullivan-mayorkas.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-sullivan-mayorkas.amp",
-      "publishedDateTime": "2020-11-23T09:28:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

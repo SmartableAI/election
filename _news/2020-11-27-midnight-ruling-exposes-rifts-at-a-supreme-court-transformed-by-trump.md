@@ -32,37 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "GA secretary of state: I'm a proud Trump supporter but numbers don't lie"
-    excerpt: "Georgia Secretary of State Brad Raffensperger spoke after his office confirmed that President-elect Joe Biden defeated President Donald Trump in the state and found no widespread fraud after a statewide audit.\n    \n"
-    publishedDateTime: 2020-11-20T13:56:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vS1u39yPSrY/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/20/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/20/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn"
+  - title: "The Trump administration is considering shortening the recommended quarantine time for Covid-19"
+    excerpt: "President Donald Trump's coronavirus task force is reviewing evidence about how long people need to quarantine to be safe and slow the spread of Covid-19, according to Assistant Secretary for Health Adm. Brett Giroir.\n    \n"
+    publishedDateTime: 2020-11-24T22:39:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kG7dcpjim5o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/quarantine-time-recommendation-trump-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/quarantine-time-recommendation-trump-administration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120084211-secretary-of-state-brad-raffensperger-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200731101534-03-coronavirus-hearing-0731-brett-giroir-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia secretary of state says Trump threw him under bus despite his support"
-    excerpt: "Georgia Secretary of State Brad Raffensperger on Wednesday lambasted President Donald Trump, saying that the commander in chief threw him under the bus although he voted for him.\n    \n"
-    publishedDateTime: 2020-11-25T13:34:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i5d0Wd5rurY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/brad-raffensperger-trump-usa-today-oped/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/brad-raffensperger-trump-usa-today-oped/index.html"
+  - title: "Working for Trump Ends in Getting Fired or Getting Covid, Kimmel Says"
+    excerpt: "President Trump fired Christopher Krebs, a senior cybersecurity official, via Twitter on Tuesday. “Usually to get rid of Krebs, Trump uses a little comb and some medicated shampoo,” Jimmy Kimmel joked."
+    publishedDateTime: 2020-11-19T13:55:00Z
+    webUrl: "https://www.nytimes.com/2020/11/19/arts/television/late-night-kimmel-trump-covid.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/19/arts/television/late-night-kimmel-trump-covid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/19/arts/television/late-night-kimmel-trump-covid.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/11/19/arts/19latenight/19latenight-facebookJumbo.png"
+        width: 970
+        height: 507
+        isCached: true
+  - title: "Covid-19 Live Updates: Antibody Treatment Given to Trump Gets F.D.A. Emergency Approval"
+    excerpt: "New York City and New York State differ on how they measure the crucial milestone of 3 percent positivity. Unlike the rest of the U.S., Hawaii has seen a decline in infections. South Korea and Japan face surges."
+    publishedDateTime: 2020-11-22T14:40:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/22/world/covid19-coronavirus"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/22/world/covid19-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/22/world/covid19-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/22/us/22virus-briefing-newmexico/22virus-briefing-newmexico-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "aGdAM77dPWTy2ynKVcl8XvoJpBleDKw4sg47+TRgysjJt/K/iETuIwczZr4TTl7yVDDQOo5n7908RkGwE9pAi97PQC+t3eu+Kzfr1sMuu2Z36goLk23nFfhh0mtUszmcHLw9xFKIYamjpD4wjipHShjxuc3/5L5XWO20dHM+FbCnCiZz2ETCLPtECYqe2maFaI/HDwN8D2sX0FhLpScfj1fjMxehWM5o6bu3a7tnK2zs9MlUVVxGhJBgu2G4OQDzSOMIRpRBh9/axJG0II82gvi+GXQfcCcBH+3l23Bj2ZZLjO5drH3+VPtgkcJi40I+0Ri7a9ccgR+8qhXvgH5C3Dku55PsxCTxopUvFpQRV+Q=;af11t4gxA+r0s8OXYC4wKA=="

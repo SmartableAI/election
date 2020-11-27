@@ -336,6 +336,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump says for first time he'll leave office if Electoral College votes for Biden"
+    excerpt: "President Donald Trump said for the first time Thursday he will leave office if the Electoral College votes for President-elect Joe Biden but made clear he's not prepared to concede.\n    \n"
+    publishedDateTime: 2020-11-27T03:12:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oY2wGDGxKH4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-leave-office-electoral-college/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-leave-office-electoral-college/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126185050-trump-thanksgiving-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Republican congressman urges Trump to accept Biden's win and begin transition process"
     excerpt: "A Republican congressman implored President Donald Trump to accept President-elect Joe Biden's win on Tuesday, urging him to begin the presidential transition process as the nation grapples with a number of urgent challenges.\n    \n"
     publishedDateTime: 2020-11-17T19:35:09Z

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Midnight Ruling Exposes Rifts at a Supreme Court Transformed by Trump"
+    excerpt: "The justices issued six opinions, several of them unusually bitter, in upholding challenges from churches and synagogues to state pandemic restrictions on religious services."
+    publishedDateTime: 2020-11-26T22:45:00Z
+    webUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/26/us/politics/26dc-scotus-church2/26dc-scotus-church2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Covid-19 Live Updates: Antibody Treatment Given to Trump Gets F.D.A. Emergency Approval"
     excerpt: "New York City and New York State differ on how they measure the crucial milestone of 3 percent positivity. Unlike the rest of the U.S., Hawaii has seen a decline in infections. South Korea and Japan face surges."
     publishedDateTime: 2020-11-22T14:40:00Z

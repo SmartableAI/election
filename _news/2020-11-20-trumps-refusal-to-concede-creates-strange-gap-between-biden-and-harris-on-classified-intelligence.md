@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 1821
+heat: 1841
 published: true
 
 provider:
@@ -333,6 +333,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120193209-donald-trump-november-20-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump says for first time he'll leave office if Electoral College votes for Biden"
+    excerpt: "President Donald Trump said for the first time Thursday he will leave office if the Electoral College votes for President-elect Joe Biden but made clear he's not prepared to concede.\n    \n"
+    publishedDateTime: 2020-11-27T03:12:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oY2wGDGxKH4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-leave-office-electoral-college/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-leave-office-electoral-college/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126185050-trump-thanksgiving-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

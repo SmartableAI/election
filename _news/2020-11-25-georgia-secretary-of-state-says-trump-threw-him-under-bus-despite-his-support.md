@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump says he'll travel to Georgia to support Republican Senate candidates in runoff election"
+    excerpt: "President Donald Trump said Thursday he will travel to Georgia to support the state's Republican Senate candidates ahead of the January 5 runoff election.\n    \n"
+    publishedDateTime: 2020-11-27T02:11:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzHZPjjJvNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126174410-01-donald-trump-white-house-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GA secretary of state: I'm a proud Trump supporter but numbers don't lie"
     excerpt: "Georgia Secretary of State Brad Raffensperger spoke after his office confirmed that President-elect Joe Biden defeated President Donald Trump in the state and found no widespread fraud after a statewide audit.\n    \n"
     publishedDateTime: 2020-11-20T13:56:50Z
@@ -47,21 +63,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Midnight Ruling Exposes Rifts at a Supreme Court Transformed by Trump"
-    excerpt: "The justices issued six opinions, several of them unusually bitter, in upholding challenges from churches and synagogues to state pandemic restrictions on religious services."
-    publishedDateTime: 2020-11-26T22:45:00Z
-    webUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
+  - title: "Trump campaign requests Georgia recount that's unlikely to change his loss in the state"
+    excerpt: "Georgia will conduct another recount of its presidential ballots following a Trump campaign request Saturday, but the recount is extremely unlikely to change his loss in the state.\n    \n"
+    publishedDateTime: 2020-11-22T05:38:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/57IMkYkp5ok/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/georgia-presidential-election-recount/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/georgia-presidential-election-recount/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 167
     images:
-      - url: "https://static01.nyt.com/images/2020/11/26/us/politics/26dc-scotus-church2/26dc-scotus-church2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111113617-ballot-counting-georgia-1105-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "Tq9I9SyXoP6gZH7FWzppDji5LaNLRa2t1RvufcWAig5APH5i6ekqMGmcPX4G+z4/gHw8fr9Iye+5GYQ+sd7u2hXfRz5QmD5kQ8gphhiHN4Y6WRNjDF2PjgY30mkZggANh2e9Y3XTL9Il/DI5QjK88JhM0rmtQrLqxlb6epOmcEC6cl/tfdJZacCjUv1jT0AmJrzSy0JqXjKeFAyAdxknAhSZO717d7+KMK5LsBaZBOhxt+MjSm38c5shpeOa0cAgZCWJZCXTKCPM0XULSiMrP0x/UcWT41k/EKPY1h8XnjmzYneahotZHNTeNB+Vn+rPCf+BpxkWwlgohtxJkvBI/GgYx5iVzH2OaTt5Z4Nz1vg=;gxAdQ8QuxPNE4CUxzXwX4g=="

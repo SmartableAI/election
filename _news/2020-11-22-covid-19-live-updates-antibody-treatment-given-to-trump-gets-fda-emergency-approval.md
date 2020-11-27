@@ -64,6 +64,22 @@ related:
         width: 970
         height: 507
         isCached: true
+  - title: "Midnight Ruling Exposes Rifts at a Supreme Court Transformed by Trump"
+    excerpt: "The justices issued six opinions, several of them unusually bitter, in upholding challenges from churches and synagogues to state pandemic restrictions on religious services."
+    publishedDateTime: 2020-11-26T22:45:00Z
+    webUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/26/us/politics/26dc-scotus-church2/26dc-scotus-church2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "pqlbvbotMghz79x0jZytNavxFUsCn2gMOHhGL1K0u8jfFxx9uPOe59ijl37dKv8/aC7NT6qbzjbWjddSQDdsQ7QMaEql6ZnzQTxtRih6NvlZynH+MH9k8c/c34WJD2w0VSZEmO8GYoStMkkcdjkqr/iO+zxwVx6aNk7zTjAfIxSNFybcgwW+nhfnZ97Y8yI0cjAISz5y52NV7GQj+EDVzwyWP3KNCz5TZYUUXeeSxweEeYpW4G5lg5KSDRjptmhDfJ7/J+IxThHyYXLpgcuvq3QCKR0KM60A9jgmwDguYCHL+AO8LEsn+FYp11XLPfybXWZ7erqAVu/E4QTivXjnKzeyIAv/zXnNk3tc8ydNAik=;gOlaizVBpziAsn3qOsYiYA=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "U.S. envoy to Iran says more sanctions coming, urges Biden to maintain leverage"
 excerpt: "The Trump administration plans to tighten sanctions on Tehran during its final months in power, the top U.S. envoy on Iran said on Wednesday, as he urged President-elect Joe Biden to use the leverage to press for a deal that reduces the regional and nuclear threats"
 publishedDateTime: 2020-11-26T11:46:00Z
-originalUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions/u-s-envoy-to-iran-says-more-sanctions-coming-urges-biden-to-maintain-leverage-idUSKBN2852A7"
-webUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions/u-s-envoy-to-iran-says-more-sanctions-coming-urges-biden-to-maintain-leverage-idUSKBN2852A7"
+originalUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions-int-idUSKBN2852DD"
+webUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions-int-idUSKBN2852DD"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852DD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852DD"
 type: article
@@ -447,6 +447,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Top California air, climate regulator hopes to run Biden EPA"
+    excerpt: "Mary Nichols will soon leave her job as California’s top air regulator after more than four decades of advocating for ambitious climate policies in the nation’s most populous state"
+    publishedDateTime: 2020-11-27T05:52:00Z
+    webUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Progressives worry about lobbying, corporate ties in Biden administration"
     excerpt: "When President-elect Joe Biden unveiled his national security team on Tuesday, there were several noticeable absences, including a nominee to lead the Department of Defense. Michele Flournoy, a leading candidate for the role who served in senior posts at the Pentagon during the Clinton and Obama administrations,"
     publishedDateTime: 2020-11-26T19:26:00Z
@@ -878,21 +894,21 @@ related:
   - title: "Biden continues to work on transition"
     excerpt: "Watch \"President-elect Joe Biden continues to work on transition\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-26T17:48:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201126190310-president-elect-joe-biden-continues-to-work-on-transition/"
+    webUrl: "https://www.cbsnews.com/live/video/20201127060243-president-elect-joe-biden-continues-to-work-on-transition/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/26/story_07870338_1606417804.jpg"
-        width: 1280
-        height: 720
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/27/story_07876275_1606456986.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Biden urges 'sacrifice' in Thanksgiving address"
     excerpt: "Rough Cuts Biden urges 'sacrifice' in Thanksgiving address. Posted . U.S. President-elect Joe Biden and his wife released a video acknowledging the scaled-back Thanksgiving celebr"
     publishedDateTime: 2020-11-27T04:30:00Z
-    webUrl: "https://www.reuters.com/video/watch/biden-urges-sacrifice-in-thanksgiving-ad-id722408740"
+    webUrl: "https://www.reuters.com/video/watch/idOVD6CLUCF"
     type: article
     provider:
       name: Reuters
@@ -1052,6 +1068,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "I9B6t4IrNk0lhdP5Rjvs+T1b68AV3mxcQZ6iwp4uK+V6HdBxXKqRopppYSOcuU1U4B4rE2EoMpM7WCAyCDnwk5jx8jZq+UBF8wlgjaY7vRxHNmw0Gho4I1YnvhDOSsG0YHNdbtU2wEklW26qVe0ZR7YWPKUSmvK80TDJV29HRWXv98e0mCdSBSVXhOb3YMJfEjYlHRlhCWweYsFJzUyG78q7v/R5sqX+aWeqcDeqrB9yo9hUsM443M3wCwI4GKkiuTgEj/9h5JM+mwKbm2NzbAiqX5nn09DH0eH4fhnzPV+KpCc0yY3QXzL7SDjJL4ZfPlBNnCSL9ZUwI+ScaekcWQe8yzWcfaZVLDPDqLprH4xxflaWv4J0XlV2esUbp8NKimdoDvFVKqB19wZADQLPdi2DFPSMpvL9X3XPNIRYHIgvOAnV4c3mnhrVllPwRU802HW3DQsz6HrDBIOXHdvKf3K+a6HhJjpblg8lkpIkVHxjqiqeptoHZ6i2fTzikk9sozzPURWqaYPPNQx5YEAcoA==;it5FiiHcm5Itz/8XntgUAg=="
+secured: "19tZq08LXJX2fBP92/DbnhAGarXKxH0pwppLkBruaB2lpW+4kkCot32LgvHEo0T4OYFA+J4gTT6nKKnw3eJsjKQ4vaLcy/9PJ3/7FCSAJct6N7Q5b+JWucp2Sia4QCukkDJgsiSMCrOE6Ermf1WGnGN3qUl+HkfAk5jIbMD+xSs845nwQfeV1cDMvD/4YnuJnwduXfoQtjdAR3T6/ZP6ZZPSGIOI+Fe75QI/gijmk/ROwyDJfLE+QZmfUTtOrXkOxJ8WnB6nmmo4s4mzBklAmtIbEj32TUS8vwbxvdi+ZdGNrAZvlCphloU6fFIIgys3JzGO20ACYua4E5Fe+UPBPTF1fKEXESriViIIEsCrkeM=;JR9UloOnWqv6yxJoZs6Bdg=="
 ---
 

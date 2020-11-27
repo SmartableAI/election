@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -115,6 +115,22 @@ related:
     excerpt: "President Trump said he has pardoned former national security adviser Michael Flynn, using his lame-duck executive power to protect an ally who pleaded guilty to lying to the FBI."
     publishedDateTime: 2020-11-26T04:42:00Z
     webUrl: "https://www.wsj.com/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532?mod=business_minor_pos4"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-264930/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Says He Pardoned Michael Flynn, Ex-National Security Adviser"
+    excerpt: "President Trump said he has pardoned former national security adviser Michael Flynn, using his lame-duck executive power to protect an ally who pleaded guilty to lying to the FBI."
+    publishedDateTime: 2020-11-27T03:02:00Z
+    webUrl: "https://www.wsj.com/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
     ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
     type: article

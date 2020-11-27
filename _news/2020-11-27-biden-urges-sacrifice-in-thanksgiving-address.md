@@ -3,8 +3,8 @@ category: news
 title: "Biden urges 'sacrifice' in Thanksgiving address"
 excerpt: "Rough Cuts Biden urges 'sacrifice' in Thanksgiving address. Posted . U.S. President-elect Joe Biden and his wife released a video acknowledging the scaled-back Thanksgiving celebr"
 publishedDateTime: 2020-11-27T04:30:00Z
-originalUrl: "https://www.reuters.com/video/watch/biden-urges-sacrifice-in-thanksgiving-ad-id722408740"
-webUrl: "https://www.reuters.com/video/watch/biden-urges-sacrifice-in-thanksgiving-ad-id722408740"
+originalUrl: "https://www.reuters.com/video/watch/idOVD6CLUCF"
+webUrl: "https://www.reuters.com/video/watch/idOVD6CLUCF"
 type: article
 quality: 105
 heat: -1
@@ -445,6 +445,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Top California air, climate regulator hopes to run Biden EPA"
+    excerpt: "Mary Nichols will soon leave her job as California’s top air regulator after more than four decades of advocating for ambitious climate policies in the nation’s most populous state"
+    publishedDateTime: 2020-11-27T05:52:00Z
+    webUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Progressives worry about lobbying, corporate ties in Biden administration"
     excerpt: "When President-elect Joe Biden unveiled his national security team on Tuesday, there were several noticeable absences, including a nominee to lead the Department of Defense. Michele Flournoy, a leading candidate for the role who served in senior posts at the Pentagon during the Clinton and Obama administrations,"
     publishedDateTime: 2020-11-26T19:26:00Z
@@ -512,7 +528,7 @@ related:
   - title: "U.S. envoy to Iran says more sanctions coming, urges Biden to maintain leverage"
     excerpt: "The Trump administration plans to tighten sanctions on Tehran during its final months in power, the top U.S. envoy on Iran said on Wednesday, as he urged President-elect Joe Biden to use the leverage to press for a deal that reduces the regional and nuclear threats"
     publishedDateTime: 2020-11-26T11:46:00Z
-    webUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions/u-s-envoy-to-iran-says-more-sanctions-coming-urges-biden-to-maintain-leverage-idUSKBN2852A7"
+    webUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions-int-idUSKBN2852DD"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852DD"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852DD"
     type: article
@@ -892,16 +908,16 @@ related:
   - title: "Biden continues to work on transition"
     excerpt: "Watch \"President-elect Joe Biden continues to work on transition\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-26T17:48:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201126190310-president-elect-joe-biden-continues-to-work-on-transition/"
+    webUrl: "https://www.cbsnews.com/live/video/20201127060243-president-elect-joe-biden-continues-to-work-on-transition/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/26/story_07870338_1606417804.jpg"
-        width: 1280
-        height: 720
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/27/story_07876275_1606456986.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "President-elect Biden names four White House staffers, including directors for legislative affairs and personnel"
     excerpt: "President-elect Joe Biden named four more White House staffers Friday, including directors overseeing legislation and personnel."
@@ -1052,6 +1068,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "7pYS+RY4KyTJ4yZMBLwEvn4ifYnDSRex/3FfsQnArpVq9g9cRLoHdtppFSvlhDHjRUFTWA1zzfICMpfxYSV+XqjdDD4DiQLZ8AKoaaEsS4xHyjhQtSgRx7t2Fuziaia6cBG4H6hDw6TR5IQdpLaVs6ISguEFLBh23QncNW+oj7DMJXqkAtf3E3zg3jLduVsBX9xSgue0kcKtgC/YDbXNu64Z4CsvEd8rcgzuvjKm6JIsmYxuxbdcds03k48kft58UdBHC8JfiCOoB+rJn5zRa/GrbbZeK8nImARS8sL8w0ARLRjeWYm/AO8AwMIda+ZEDgyxthioemYnhitrSWf6SmZ7AwlvR4J632NobT3SFzc=;eWRRSUhDOkqMXCm/3Bk98w=="
+secured: "YWwhv/WcRdDUgVbCdei27DjydyNL4mctBRw0Gnssi+002aaLUFnEHNH+mDFrDAcWqYl7bOZEQS9SgNJz2YqIRZ+om0nagfHQPiK700FTIox7jqsvhU0akQe5ptH8sH2gZFkD+oyYZUGd2KDViSysAbHCCncoAqlq4aqxeqpqCCEUjoTswTY6ncJyHnafiz6oTT4GKKg2sn3SNxCY5jLqQc8Yhr/p4pZnzZhjVIRq+JSGAc13gkND7GfRl0nlLk3/jhOR/8UYsIKtYpCOPD+F5Kaj8PsDth3i7wbc+9ndxqHO1q+S/5c9ytiNjUxDcXvIyAp4Bba267rWXLww2D0HkaWWW1tnEhXi1OFS7w2wpUI=;TfmsGojlOaYjcovq2Anqfg=="
 ---
 
