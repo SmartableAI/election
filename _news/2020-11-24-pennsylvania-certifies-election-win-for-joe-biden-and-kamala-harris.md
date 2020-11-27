@@ -351,9 +351,9 @@ related:
         height: 224
         isCached: true
   - title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
-    excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
-    publishedDateTime: 2020-11-24T19:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd587c8f08850ef86c57ac"
+    excerpt: "“They are, to a person, the right women and men for these crucial positions,” Harris said, adding they are expected “to be focused on one thing, and one thing alone, doing what is best for the people of the United States of America.” Kamala Harris ..."
+    publishedDateTime: 2020-11-24T21:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd6d5d8f08850ef86c58bf"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     type: article
@@ -420,11 +420,11 @@ related:
         height: 800
         isCached: true
   - title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
-    excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
+    excerpt: "Pennsylvania has certified the results that Democratic candidates Joe Biden and Kamala Harris have won the race for president and vice president. The news came Tuesday morning that Pennsylvania Secretary of State Kathy Boockvar had certified the results."
     publishedDateTime: 2020-11-24T23:17:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
-    ampWebUrl: "https://amp.freep.com/amp/6408670002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6408670002"
+    webUrl: "https://www.freep.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
+    ampWebUrl: "https://amp.freep.com/amp/6407257002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6407257002"
     type: article
     provider:
       name: Detroit Free Press

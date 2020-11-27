@@ -1159,6 +1159,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Court Denies Trump Campaign’s Appeal in Pennsylvania Ballot Challenge"
+    excerpt: "In a ruling that leaves the president few remaining legal avenues to contest the election outcome, a judge said the Trump campaign’s arguments lacked merit and didn’t justify depriving millions of people of the right to vote."
+    publishedDateTime: 2020-11-27T20:14:00Z
+    webUrl: "https://www.wsj.com/articles/federal-judges-deny-trump-campaigns-appeal-of-pennsylvania-ballot-challenge-11606501438"
+    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judges-deny-trump-campaigns-appeal-of-pennsylvania-ballot-challenge-11606501438"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judges-deny-trump-campaigns-appeal-of-pennsylvania-ballot-challenge-11606501438"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-265473/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Federal Judges Deny Trump Campaign’s Appeal of Pennsylvania Ballot Challenge"
     excerpt: "A federal appeals court denied the Trump campaign’s appeal in its Pennsylvania case, striking another blow to the president’s dwindling legal avenues to contest the outcome of the election."
     publishedDateTime: 2020-11-27T18:39:00Z

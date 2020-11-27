@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
-excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
-publishedDateTime: 2020-11-24T19:13:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd587c8f08850ef86c57ac"
-webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd587c8f08850ef86c57ac"
+excerpt: "“They are, to a person, the right women and men for these crucial positions,” Harris said, adding they are expected “to be focused on one thing, and one thing alone, doing what is best for the people of the United States of America.” Kamala Harris ..."
+publishedDateTime: 2020-11-24T21:14:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd6d5d8f08850ef86c58bf"
+webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd6d5d8f08850ef86c58bf"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
 type: article
@@ -423,11 +423,11 @@ related:
         height: 675
         isCached: true
   - title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
-    excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
+    excerpt: "Pennsylvania has certified the results that Democratic candidates Joe Biden and Kamala Harris have won the race for president and vice president. The news came Tuesday morning that Pennsylvania Secretary of State Kathy Boockvar had certified the results."
     publishedDateTime: 2020-11-24T23:17:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
-    ampWebUrl: "https://amp.freep.com/amp/6408670002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6408670002"
+    webUrl: "https://www.freep.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
+    ampWebUrl: "https://amp.freep.com/amp/6407257002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6407257002"
     type: article
     provider:
       name: Detroit Free Press
@@ -730,6 +730,6 @@ related:
       domain: marketplace.org
     quality: 35
 
-secured: "lsXTA7wnBMHaMoGcK8gLCP7T/LfUnz3dBMBt8he4nprbcY9xU/U3LO0On0ZviURYBRhZUGCIs5u5EBeH27/T81wA+gad9XraMa4RY/ZI2efe0pSKmLl+QXKu0qqom5Icvx7x7ZRYOBESyu6EUz0TzHhtsH/uPP9B8xcLmqDIDqokeAWVek9cA2Yw8oslJ0TTbiB7o5A3IL3C3zVG3YCfH/HfVA2RnE58c67knmJ6WU4Mq+zMs+vToO6vcd1xJUXF1tFawsYF9zeLFUBSNDai7XhNJz8GJlTLK/qobRJNmSRDbrew42ri4J40brcR5NKCgmqUPQndcYbuZTQvH+sIrObdyatPEMbmnd13Q1/W6FMO2BiJQnWp8IwvtTxoCYiX5DEwzBZrRLfNozyLCkpVjaAmm17zhv0NcjmgOnQMsrvWSlDs48rO/HvyBbbu0AYOIr7dQSPxYuDPSyFf5IVq15ZdKDwn6kzKu/V2ptV3vBBA+NpXm1LF7uornn326HfSX6TA9BJXYlaTnRf6sd0tdg==;u+4j2wvU9aq16hW1woh/oQ=="
+secured: "We6CH/DWf1K9bhbi95fxomRvx+lx+su8dWymxu76ARMGts8jPiyKMkOk3C/wE2MULpH7P7enhhanwH6RBUyIpXtepl7PWgJB1YqGGkq6shk43NaqzgNKvurLOdvg8BQs8jdQAgvNwePxoLMh6cHmQeb20XTg8rnL69Ng+gpJlgdKBHD3jPzSVrsq9qJlIv/Cxbvup2gw6OZfVgPsispwaI7g65cfzJBkf3kJBh4zAwa3azUPYZ0XVegMRRm2OiQppVkM3aEv9S7OLG1r6e0XJvtaFTr5DbIN6sJPs3kXmkXPZy/QIOY3HGMKV5CSMY6wp8H4SNEOOU231ba4HPxuDfmsZzSLSsstwDEQE3UxfhN+6dy+ou1gX5UMYwXJgmYhZRJGI0hyNhFnrMvIaLaiVICNwdZTrRl5pCP0cn0KtogH4EblJUz9g2MqeWUeg7keCczwK9CMJZ7/IyYzZrB+xMJM3oWddOtAnwzPgu33adZP4pYwvTAtaZ9BNZTs57qU0bwtS5/uggKcFiVFXeDr+w==;0DY7d4a4rWmRqBG+l3Y7Yg=="
 ---
 

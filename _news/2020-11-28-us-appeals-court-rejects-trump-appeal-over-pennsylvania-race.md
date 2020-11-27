@@ -1,22 +1,22 @@
 ---
 category: news
 title: "US appeals court rejects Trump appeal over Pennsylvania race"
-excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals"
-publishedDateTime: 2020-11-27T18:27:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/us-appeals-court-rejects-trump-appeal-pennsylvania-race-74430808"
-webUrl: "https://abcnews.go.com/Politics/wireStory/us-appeals-court-rejects-trump-appeal-pennsylvania-race-74430808"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-appeals-court-rejects-trump-appeal-pennsylvania-race-74430808"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-appeals-court-rejects-trump-appeal-pennsylvania-race-74430808"
+excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case that could reach the U.S. Supreme Court if Trump appeals"
+publishedDateTime: 2020-11-27T17:44:00Z
+originalUrl: "https://www.washingtonpost.com/politics/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race/2020/11/27/31b26fde-30d8-11eb-9dd6-2d0179981719_story.html"
+webUrl: "https://www.washingtonpost.com/politics/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race/2020/11/27/31b26fde-30d8-11eb-9dd6-2d0179981719_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race/2020/11/27/31b26fde-30d8-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race/2020/11/27/31b26fde-30d8-11eb-9dd6-2d0179981719_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_d7de96f2884b407fb21c7a693cf79eb4_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -217,6 +217,6 @@ related:
         height: 600
         isCached: true
 
-secured: "auxGEcNlTTd/FHGKFAEqMQfwcKwcGcqd1m9tuavIDd/1o6AdlkejSodXybYSI0A4aAGvJwrfKKiw9qY+Oh7wz8bDVvS8zLQ+r6wekOQ2tc1kyPABJM1XTNOOua5flWcwvaoNFaQFutoDKdxLx8vax9Bsiuy4dux4HfYI0wusCHk3sAkmZEfVvBmhYD6ILMUcXADOQZNlBnZpjCdVFy8fQ+TBDdArMQ7LHW0jo0LkqtQnO7Pwj4IbOj5VikXXRoRO0y9fwzMq5QT+fdaqNH5cSahO1/ZPzoiNqenZv/AsQftyEThZ8xfJJo2hwtbCUHsr34f31kGv2zgEZc0nr066+ipmwWQO5fFc/6M0E9C+COM=;ElO8VckW6QmWtnmPe5aEwg=="
+secured: "dBMJyYMI31oIV440OWXK73urJd6uOVbkLx7E0KKnovl8qCOaa3oOUXdnzucULRsTO4OSiOXQKblIlMWw095fAn91yQxhsPTmu3TGnFITrj3ZsEyrXaYpe6LAMoOtKyUjwhH2d7CGl5Sj9Rr669Ldu30Hd4cd1GPMT06RuJ1RPenoF23C+Q83wqX+ckgxc+PCIwQVzf/vAI0umbcOOwAbT8Nlr1fzjFI6CyEcYzHNa2D69jdCbVWYML/+4yebxT0ho8MTbSNQsEHkhgdGUi5ELPkS5R8Y09dAOyqvNyjTSj5GyqWvqAktQnbu40jfYC/vXqC82q+g3VkFufAVUuDr2ZhY2Fa7FKI4uBXVkKGdvrM=;sXipVRZ7uMvIFRcsDZVPRQ=="
 ---
 

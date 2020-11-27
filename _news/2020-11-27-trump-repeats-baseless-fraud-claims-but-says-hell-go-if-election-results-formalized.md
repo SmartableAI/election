@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump loses appeal in Pennsylvania: \"Calling an election unfair does not make it so\""
+    excerpt: "The Trump campaign lost another battle Friday in their attempt to prove mass fraud in the election, something thus far they've been unable to do. This time, the Third Circuit Court of Appeals denied the campaign's request for an injunction in Pennsylvania to undo the Keystone State's certification of its votes."
+    publishedDateTime: 2020-11-27T20:09:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-pennsylvania-appeal-loss-today-2020-11-27/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-pennsylvania-appeal-loss-today-2020-11-27/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-pennsylvania-appeal-loss-today-2020-11-27/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 133
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/25/0c0c189a-1cc0-45ce-b60d-1d2fe30aebb9/thumbnail/1200x630/2d99a8710f49d1ebcbf50b3e2faccce2/rudy.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'Don't talk to me that way': Trump lashes out at White House reporter over election question"
     excerpt: "Trump angrily admonished Reuters reporter Jeff Mason after he asked if he would concede the election after the Electoral College voted for Biden."
     publishedDateTime: 2020-11-27T16:46:00Z

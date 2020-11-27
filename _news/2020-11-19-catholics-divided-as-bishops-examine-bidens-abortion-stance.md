@@ -1142,6 +1142,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Court Denies Trump Campaign’s Appeal in Pennsylvania Ballot Challenge"
+    excerpt: "In a ruling that leaves the president few remaining legal avenues to contest the election outcome, a judge said the Trump campaign’s arguments lacked merit and didn’t justify depriving millions of people of the right to vote."
+    publishedDateTime: 2020-11-27T20:14:00Z
+    webUrl: "https://www.wsj.com/articles/federal-judges-deny-trump-campaigns-appeal-of-pennsylvania-ballot-challenge-11606501438"
+    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judges-deny-trump-campaigns-appeal-of-pennsylvania-ballot-challenge-11606501438"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judges-deny-trump-campaigns-appeal-of-pennsylvania-ballot-challenge-11606501438"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-265473/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Pennsylvania’s High Court Rejects Trump Campaign Bid to Throw Out Ballots"
     excerpt: "Pennsylvania’s highest court declines to invalidate thousands of mail-in and absentee ballots with minor errors, likely bringing an end to the issue, which has been the subject of substantial post-election litigation in the state."
     publishedDateTime: 2020-11-23T22:07:00Z

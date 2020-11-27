@@ -401,6 +401,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Appeals court deals Trump-Giuliani Pennsylvania lawsuit yet another blow"
+    excerpt: "A federal appeals court Friday rejected the Trump campaign's effort to revive its lawsuit claiming that Pennsylvania officials conducted the election in a way that discriminated against those who voted."
+    publishedDateTime: 2020-11-27T19:26:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/appeals-court-deals-trump-giuliani-pennsylvania-lawsuit-yet-another-blow-n1249144"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249144"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249144"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_48/3431433/201127-rudy_giuliani-mc-1826_66aabca8641ad717f38b5227ec4069c5.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "A law firm has stopped representing the Trump campaign in a Pennsylvania suit."
     excerpt: "Porter Wright Morris & Arthur, the law firm leading the Trump campaign’s efforts to cast doubt on the presidential election results in Pennsylvania, abruptly withdrew from a federal lawsuit that it filed days earlier on behalf of President Trump."
     publishedDateTime: 2020-11-13T20:16:00Z

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
-excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
+excerpt: "Pennsylvania has certified the results that Democratic candidates Joe Biden and Kamala Harris have won the race for president and vice president. The news came Tuesday morning that Pennsylvania Secretary of State Kathy Boockvar had certified the results."
 publishedDateTime: 2020-11-24T23:17:00Z
-originalUrl: "https://www.freep.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
-webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
-ampWebUrl: "https://amp.freep.com/amp/6408670002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6408670002"
+originalUrl: "https://www.freep.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
+webUrl: "https://www.freep.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
+ampWebUrl: "https://amp.freep.com/amp/6407257002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6407257002"
 type: article
 quality: 105
 heat: -1
@@ -351,9 +351,9 @@ related:
         height: 224
         isCached: true
   - title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
-    excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
-    publishedDateTime: 2020-11-24T19:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd587c8f08850ef86c57ac"
+    excerpt: "“They are, to a person, the right women and men for these crucial positions,” Harris said, adding they are expected “to be focused on one thing, and one thing alone, doing what is best for the people of the United States of America.” Kamala Harris ..."
+    publishedDateTime: 2020-11-24T21:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd6d5d8f08850ef86c58bf"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     type: article
@@ -727,6 +727,6 @@ related:
       domain: marketplace.org
     quality: 35
 
-secured: "CcMGQFSPLDZcD12LNu192HBG3SS6m76hrORUQr42X//TI99mYHcglCJgnAePqrsAQpRnhAvYrjjKQe/i2l7xy8ZwtihOTgbHptQvbvliPj2M0tWxOf5QTTxdbwTK5cH+v1hq1qGBtfK0kOj+WCODbvhvdGYyxrZ4c1VEufdfbrGu4w8F7jYOF9s5Q4NcDJeRzk2RVuFfUA1ACa4/PyuPFXexGLYKE4GX9/3QTEGmIZPguRMj1IYwqZIjhFPhs5MV20qQH05MO5pp3/u6jAIF60gqA9j/m45y31IGN1MeVfJCLFA3JP6J3eTsWalJ9ifiACpSNLAv6xLlK1G6rUxA9YVX3rhl1DCEmwkl+DHDKJS2iWofTLD+EgqHvJ0pklZYyA8b3kpLWWs0ESpr/BmtoPQy/eHX+GJ3CoQQ0nGhjEG59UUzI6VL0JeInJNurHCjh5NtajYGJhOvypMa3xEsT5QLRzmZUGB7hcZH1BcJWKI7G5Pm6UuLRFowx3o/WQYSePjcp/LeWmXqUsc0u6JWLQ==;pTWWfgn2Zr3lyAEVWJxGLA=="
+secured: "8B8BEN5kuloWy3vWFgpvY5ZJOf2EEXdeL5PfZNuGZlky0Bge8caTPfY9KerE63lWwKmzPIhC8JUcD4bxvaG1y4ryTd6/IyDH09B3eVISvl2Ut+y5DhbE7HxazfhDtoA/iSuh9IlLb+7QucFeKJOmwaiRxgIpzuEaOCZq7dXwAzvtoBeIlF2gtyOrY7tsLLnQLrGVShBPQBceyTSCnc75O7zRwxznZqoRBUWWMaZcwMMVSYdLudfZU91wMuoTTDRG5Fg1LHslcSDvRlK/X1se9t+W5OJJAM7UmHYUZg9CMsQTOKkNkr3J9g2jVztFgSPdQCJEGYlilosyRE7SsSbxrYFIreydd0DGnBbdqw8eGXQ=;WNSSdZwtV6IgMwyOWG//oA=="
 ---
 

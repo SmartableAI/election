@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-dr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
 type: article
 quality: 140
-heat: 900
+heat: 920
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542044618&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL038"
         width: 808
         height: 545
+        isCached: true
+  - title: "Federal appeals court issues stinging rejection of Trump campaign election fraud lawsuit"
+    excerpt: "The U.S. Third Circuit Court has rejected the Trump campaign’s appeal of a federal lawsuit filed in Pennsylvania that challenged the outcome of the 2020 elections."
+    publishedDateTime: 2020-11-27T20:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/federal-appeals-court-issues-stinging-rejection-trump-campaign/story?id=74431333"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/federal-appeals-court-issues-stinging-rejection-trump-campaign/story?id=74431333"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/federal-appeals-court-issues-stinging-rejection-trump-campaign/story?id=74431333"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 131
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump2-ap-ml-201127_1606503385536_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Romney blasts ‘undemocratic’ Trump for pressuring Republicans to overturn election results"
     excerpt: "Romney joined Sen. Ben Sasse (R-Neb.) on Thursday as the only GOP senators to publicly oppose the president, as Trump and his campaign continue lobbing baseless allegations of widespread voter fraud in Michigan and other states."

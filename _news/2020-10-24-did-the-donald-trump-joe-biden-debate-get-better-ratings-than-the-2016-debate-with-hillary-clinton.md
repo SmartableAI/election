@@ -750,6 +750,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Federal court rejects Trump election lawsuit in Pennsylvania"
+    excerpt: "Trump’s legal team vows to appeal to supreme court after yet another defeat, as judge says claims ‘have no merit’"
+    publishedDateTime: 2020-11-27T20:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/27/trump-voter-fraud-lawsuit-rejected-pennsylvania-court"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/27/trump-voter-fraud-lawsuit-rejected-pennsylvania-court"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/trump-voter-fraud-lawsuit-rejected-pennsylvania-court"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/e6f2259d304f6f787a135065b88b79b3493bd809/0_130_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fd84facba09f851884fd458239cee7f8"
+        width: 600
+        height: 360
+        isCached: true
   - title: "U.S. appeals court rejects Trump campaign's Pennsylvania election case"
     excerpt: "A federal appeals court on Friday rejected a request by U.S. President Donald Trump's campaign to block President-elect Joe Biden from being declared the winner of the battleground state of Pennsylvania,"
     publishedDateTime: 2020-11-27T18:51:00Z
