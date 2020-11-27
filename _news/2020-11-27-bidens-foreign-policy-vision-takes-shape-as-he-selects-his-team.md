@@ -3,8 +3,8 @@ category: news
 title: "Biden's Foreign Policy Vision Takes Shape as He Selects His Team"
 excerpt: "President-elect Joe Biden has started selecting core members of his foreign policy and national security team, revealing a slate of experienced — if not all that surprising — Cabinet picks with the goal of returning some stability and credibility to America’s relationship with the rest of the world."
 publishedDateTime: 2020-11-26T17:49:00Z
-originalUrl: "https://www.realclearpolitics.com/2020/11/26/bidens_foreign_policy_vision_takes_shape_as_he_selects_his_team_530114.html"
-webUrl: "https://www.realclearpolitics.com/2020/11/26/bidens_foreign_policy_vision_takes_shape_as_he_selects_his_team_530114.html"
+originalUrl: "https://www.realclearpolitics.com/2020/11/26/bidens_foreign_policy_vision_takes_shape_as_he_selects_his_team_530114.html#!"
+webUrl: "https://www.realclearpolitics.com/2020/11/26/bidens_foreign_policy_vision_takes_shape_as_he_selects_his_team_530114.html#!"
 type: article
 quality: 65
 heat: -1
@@ -180,6 +180,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "I3ug7pzwx6VCXvtZ/SvkF3a7X9KqBbGX4HuFagV+E48iUZOScPIc20gRsRecuNBB3igcuwaaQifiLgpE3HWHQNRUmoxMzfQzmPXtq6mG2wHZMpd0E1wzOuYXy46eCg8bngt+p34G2wh26FNL2so9OzsCVy5f2udkZTkjWEg6Z6AjhXviSJCNTyqavXlVpZePEG4dNr86R6Wsig9YghxbJq3NqrffFkw7lC1hd1DtgGsMwtwufaswoZF1HiBfhW0zPg254QzB4qx4mQzIB4Cjw0gZ5TrU43UaY8InyTne6CZK7FBvxdfgXlPQKOUvORwFV3gmtskWN97p4xJwpi0u1jhUOUfWOKtSxUXTDk4zxpP/Jfaf3pqxc9M6NyIYdFpiwpj6xvuYBN3qrQwPEHD+X4o35zeuNT0XE5NsC7CEXbt5MNVEw9NbhjzCe+EUsb93LMYfQZGURnYvbHTXOT7BL1QMDHgrGy1YRNlDeUS+HG2TjEa/+tjXyWRX6jlmNJt7iVniYISaGsUASJU6xJwLXg==;kNlIcgoCJk0y0ZKIcsREHw=="
+secured: "zjx+K6wgeOW8BkCajBUfCI9Lh6nqivhRzNBskRqmJvzWoRf25S/3zqLzfGVtZp72H0yA70aK2nisD7Tq1ABQqHJrXoNiYzSQaBuYH6C2YW7KdXehdE7huIEI9MER6K/c504StDs7S2zv3SYpaU2Yi+glDqkvLEXC+qam+h5D8/ZU2c1FzX3TUd8p+wBDWrLNvfzgwlvag5OOwnUKRz1KtjXrVWaLEgicHgI1w0ByuX5SyLmRtmv7sQr4ysqJMvo5Js8+/lLEEIF+RPAIU/MXrMYJ9OE88L41HO0DFvBOUSAjhS+JIqGn4lla+pbj03rc9zsHkURzm4rnF5BC+VBXJg0njlYm6tKz0Vzq+iO57nM=;wD6a8OrXQZ+znZQdZvF+mA=="
 ---
 

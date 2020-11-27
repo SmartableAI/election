@@ -905,6 +905,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden urges 'sacrifice' in Thanksgiving address"
+    excerpt: "Rough Cuts Biden urges 'sacrifice' in Thanksgiving address. Posted . U.S. President-elect Joe Biden and his wife released a video acknowledging the scaled-back Thanksgiving celebr"
+    publishedDateTime: 2020-11-27T04:30:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-urges-sacrifice-in-thanksgiving-ad-id722408740"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201127&i=OVD6CLUCF&r=OVD6CLUCF&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "President-elect Joe Biden to announce first picks for Cabinet on Tuesday"
     excerpt: "President-elect Joe Biden will announce several Cabinet picks on Tuesday, according to incoming White House chief of staff Ron Klain. CBS News correspondent Nikole Killion joins CBSN's Lana Zak to discuss how delays to Mr."
     publishedDateTime: 2020-11-23T02:19:00Z

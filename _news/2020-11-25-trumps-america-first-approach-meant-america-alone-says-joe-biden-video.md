@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-ameri
 webUrl: "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-america-first-approach-meant-america-alone-says-joe-biden-video"
 type: article
 quality: 127
-heat: 367
+heat: 387
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542482301&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1SJ"
         width: 818
         height: 545
+        isCached: true
+  - title: "Biden says 'America is back' at the head of the table – but is that a good thing?"
+    excerpt: "After four years of Trump, many diplomats are hopeful – but US critics say the idea of a return to a ‘golden age’ is a delusion"
+    publishedDateTime: 2020-11-26T17:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/15b1ca4a91a070ff0a9b6ca8feaca7827d6267f2/0_287_4579_2748/master/4579.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4d71b9496b19b99400f322775a13b90f"
+        width: 600
+        height: 360
         isCached: true
   - title: "Most Americans want protections for LGBTQ people. Biden could finally make that happen"
     excerpt: "After four years of President Trump, victories for Biden and LGBTQ state lawmakers have created a \"reason for hope\" for many LGBTQ Americans."

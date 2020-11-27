@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 1801
+heat: 1821
 published: true
 
 provider:
@@ -893,6 +893,22 @@ related:
     quality: 149
     images:
       - url: "https://static01.nyt.com/images/2020/11/23/climate/23CLI-GM/23CLI-GM-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump, Still Claiming Victory, Says He Will Leave if Electors Choose Biden"
+    excerpt: "Taking questions from reporters for the first time since Election Day, the president also said he would travel to Georgia to support Republican candidates before two runoffs that will determine control of the Senate."
+    publishedDateTime: 2020-11-27T01:07:00Z
+    webUrl: "https://www.nytimes.com/2020/11/26/us/politics/trump-election-georgia.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/26/us/politics/trump-election-georgia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/us/politics/trump-election-georgia.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/26/lens/26dc-trump-photo/26dc-trump-photo-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

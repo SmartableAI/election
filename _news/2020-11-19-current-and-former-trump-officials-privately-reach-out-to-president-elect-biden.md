@@ -912,6 +912,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump, Still Claiming Victory, Says He Will Leave if Electors Choose Biden"
+    excerpt: "Taking questions from reporters for the first time since Election Day, the president also said he would travel to Georgia to support Republican candidates before two runoffs that will determine control of the Senate."
+    publishedDateTime: 2020-11-27T01:07:00Z
+    webUrl: "https://www.nytimes.com/2020/11/26/us/politics/trump-election-georgia.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/26/us/politics/trump-election-georgia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/us/politics/trump-election-georgia.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/26/lens/26dc-trump-photo/26dc-trump-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump Using Last Days to Lock in Policies and Make Biden’s Task More Difficult"
     excerpt: "At a wide range of departments and agencies, Mr. Trump’s political appointees are going to extraordinary lengths to try to prevent Mr. Biden from rolling back the president’s legacy."
     publishedDateTime: 2020-11-21T18:14:00Z

@@ -113,10 +113,10 @@ related:
         isCached: true
   - title: "Trump says coronavirus vaccine deliveries to begin next week"
     excerpt: "U.S. President Donald Trump said on Thursday that delivery of the coronavirus vaccine would begin next week and the week after."
-    publishedDateTime: 2020-11-26T22:36:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-idUSL1N2IC1S0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IC1S0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IC1S0"
+    publishedDateTime: 2020-11-27T03:39:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-idUSKBN2862GY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2862GY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2862GY"
     type: article
     provider:
       name: Reuters

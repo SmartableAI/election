@@ -896,6 +896,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump, Still Claiming Victory, Says He Will Leave if Electors Choose Biden"
+    excerpt: "Taking questions from reporters for the first time since Election Day, the president also said he would travel to Georgia to support Republican candidates before two runoffs that will determine control of the Senate."
+    publishedDateTime: 2020-11-27T01:07:00Z
+    webUrl: "https://www.nytimes.com/2020/11/26/us/politics/trump-election-georgia.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/26/us/politics/trump-election-georgia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/us/politics/trump-election-georgia.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/26/lens/26dc-trump-photo/26dc-trump-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Current and former Trump officials privately reach out to President-elect Biden"
     excerpt: "The officials stressed that the outreach does not replace the national security and Covid-19 briefings the Trump administration has been refusing to provide Biden."
     publishedDateTime: 2020-11-19T12:23:00Z
