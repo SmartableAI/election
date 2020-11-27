@@ -288,6 +288,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump says he will leave office if Electoral College votes for Biden"
+    excerpt: "President Trump said Thursday that he would leave office if the Electoral College votes for President-elect Joe Biden, while also promising to keep up with his legal fight."
+    publishedDateTime: 2020-11-27T13:36:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDmRpAN92qc/live-updates-election-11-27-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-27-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-27-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2046661-af49-43f7-be94-c44b4151c606/4f7e54a9-6753-4532-8282-e80392731859/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump touts fracking policy in Pennsylvania rally, says Biden 'will shut it all down'"
     excerpt: "President Trump told backers at an Erie, Pa., rally Tuesday night that the battleground state is crucial to his chances of winning re-election, and his stance on fracking is crucial to the Keystone state."
     publishedDateTime: 2020-10-21T02:09:43Z
@@ -1197,6 +1213,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Challenge on Global Warming"
+    excerpt: "President-elect Joe Biden recognizes the dangers of global warming and vows to confront the problem head on. Good, because we just wasted four years. There are three camps for everyone who have any opinion on what happened with this 2020 election."
+    publishedDateTime: 2020-11-27T12:24:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/27/bidens_challenge_on_global_warming_530177.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "s/DlhofvZ7YLUGBbO58idmzhlDcbSePB+r5aVTt1if8j/48M+Z+haWmvC0NLTYk+GHKS7UH9HtbnOkDncqgP8fQ8wBMw46tAO89BkK9ujvg21uq1F+EEL3Ba1prpzrp2BkaFMbTFFQbdQHRAHc2+a3YPdn1qyOqiJ8YP+7sJVD09dpNfmbin0uuEOIRXrNlXkGWxCiP5YCmCcn0FSLG86bgFihhSpQ/y/+1x8jTWtSCec6+fOrN8CzOF29ie0q/afdn5gxAPdn4D9mffJF/U+dunO1YSSGcKjMx+9pGv/gVumC/4qTlsojE9ynBJ8Xl7WQEN9mwC5mG0U+GN01n7CqCu8872WF21qAn4iC2Ea3PK0tcJjkgsOr97GDhti4kqEWtloIkfsILiluZQ7S7vyccZgnJ167z+gQoOShIknMYmkIE1mhkWnmumNxi1IocDREsqsNdj6TqFcpNvp7gTuUnewT/om5lcr7Y+KTug8Ozm/vbJUcA6HBq5D9w5VZKSfybxMkfZEoyJB1zAqBZBxw==;YHhjhoSiZcDm4PhH/31euQ=="
 ---

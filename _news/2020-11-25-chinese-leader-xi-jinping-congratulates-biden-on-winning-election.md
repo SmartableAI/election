@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-con
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-congratulations/index.html"
 type: article
 quality: 190
-heat: 550
+heat: 570
 published: true
 
 provider:
@@ -316,6 +316,22 @@ related:
     quality: 131
     images:
       - url: "https://static01.nyt.com/images/2020/11/16/us/politics/16virus-brief-biden-virus/16virus-brief-biden-virus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Transition Live Updates: Trump, Still Making Fraud Claims, Says He’ll Leave White House if Electors Vote for Biden"
+    excerpt: "When asked whether he would leave office in January after the Electoral College cast its votes for President-elect Joe Biden on Dec. 14 as expected, President Trump replied: “Certainly I will.”"
+    publishedDateTime: 2020-11-27T14:25:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/27/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/27/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/27/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/27/world/27TRANSITION-BRIEFING-TRUMP1/27TRANSITION-BRIEFING-TRUMP1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

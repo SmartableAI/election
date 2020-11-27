@@ -41,6 +41,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump repeats baseless \"fraud\" claims but says he'll go if election results formalized"
+    excerpt: "The president said it would be a \"mistake\" for the Electoral College to uphold what he claims, without proof, was an election marred by \"massive fraud.\""
+    publishedDateTime: 2020-11-27T13:51:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-says-hell-leave-if-electoral-college-votes-biden/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-says-hell-leave-if-electoral-college-votes-biden/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-says-hell-leave-if-electoral-college-votes-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 132
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/27/a84e6a05-6f92-418a-b995-bfbb250c7869/thumbnail/1200x630/c7323ae807fae8f6e60d60695c3e44ae/trump-white-house-diplomatic-room.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fact check: Map showing Trump landslide based on false report of seized election servers in Germany"
     excerpt: "A map that shows Trump at 410 votes was displayed during a segment on the conspiracy theory about an Army raid to seize servers in Germany."
     publishedDateTime: 2020-11-19T10:11:00Z

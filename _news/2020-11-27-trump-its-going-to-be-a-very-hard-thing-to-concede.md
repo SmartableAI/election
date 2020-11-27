@@ -93,6 +93,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Eye Opener: Trump, Biden address Americans on Thanksgiving"
+    excerpt: "President Trump answered questions from reporters for the first time since the election, and said it would be \"very hard\" for him to concede. Also, President-elect Joe Biden called on Americans to do their part and stay calm in his Thanksgiving address."
+    publishedDateTime: 2020-11-27T14:47:00Z
+    webUrl: "https://www.cbsnews.com/video/eye-opener-trump-biden-address-americans-on-thanksgiving/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/27/f26f817a-a957-4309-9223-a1b0ca97fb11/thumbnail/1200x630/7a1dec56b908164811b865c24b3a47bb/cbsn-fusion-eye-opener-trump-biden-address-americans-on-thanksgiving-thumbnail-596697-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "OJ6yR8PTF5Z4A9J5UntCgCd1fXkGMEShSIL42dV6m6h6Yb+cA9BT9fSfleuCKc/5am4mGblFcSRUBsXfa2wXTXb2EoFJjGjgxarfK+ZRwy4LQM2CbiLko+wpssdMquzi7j5u79AmVjvliJMzGJs3Nvmy4Bo87hBbsS1k6u53hDM5txIkQQa6dH4GkuMucioyLcmN5sw0BcRCTOnojItE90aB9QVcoWA5hTtVyXF3Hk00f08uEpblp+bI3KxYlWLCABK/xAPBselChS8zENShDHPZuOyRlqM0aJDyqKGp4iROU7q9KdGXn0IYaBHidxgJ8Wzu6n3gTFtLmUT5CLuUrassAz3x9FwaV/rfrRzU2Cs=;e/2jfmyWeu/K6TQ4zu3z+Q=="
 ---

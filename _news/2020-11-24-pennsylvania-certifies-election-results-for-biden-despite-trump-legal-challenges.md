@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-certifies-election-res
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp"
 type: article
 quality: 200
-heat: 1680
+heat: 1720
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
     quality: 184
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Trump says he will leave office if Electoral College votes for Biden"
+    excerpt: "President Trump said Thursday that he would leave office if the Electoral College votes for President-elect Joe Biden, while also promising to keep up with his legal fight."
+    publishedDateTime: 2020-11-27T13:36:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDmRpAN92qc/live-updates-election-11-27-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-27-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-27-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2046661-af49-43f7-be94-c44b4151c606/4f7e54a9-6753-4532-8282-e80392731859/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1196,6 +1212,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Challenge on Global Warming"
+    excerpt: "President-elect Joe Biden recognizes the dangers of global warming and vows to confront the problem head on. Good, because we just wasted four years. There are three camps for everyone who have any opinion on what happened with this 2020 election."
+    publishedDateTime: 2020-11-27T12:24:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/27/bidens_challenge_on_global_warming_530177.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "a9OMG5iY2Y0VN32Mp2kKAajTiXpr12liAizIoVpG+XxOCH15df9J28WkqCtuyDCovf/f/x2cP5y+zkIChjZA6RoKX7Mxtnzcac8cSeoVfk+4j7TSj0I3pFWQ53SAnJywYCDe7sQDDsA5QUCjoF8xQ2Obte6BMIUTA3M+H4ZWfnmovTp0WQNlzqSlrhFCIhay9QlAyZ05PMIgoZ3fB0gGeJVL51IFk7cUn4/KveK/se7ldaRj7EzTDoEzQqr4Ce8w54Mdcd+hNigs7QbRwvbCeQMlHUzrBQ8opkmjsBkKV1bMhTl0bNg63YzlpKbBWNZ0RcYvLS0CN8zb3tyKZgmGuB6z+qkLxDi8hdoUxh1bb5Q=;ajoDS2Zxfq/R5isAh2a4Pg=="
 ---

@@ -319,6 +319,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Transition Live Updates: Trump, Still Making Fraud Claims, Says He’ll Leave White House if Electors Vote for Biden"
+    excerpt: "When asked whether he would leave office in January after the Electoral College cast its votes for President-elect Joe Biden on Dec. 14 as expected, President Trump replied: “Certainly I will.”"
+    publishedDateTime: 2020-11-27T14:25:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/27/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/27/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/27/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/27/world/27TRANSITION-BRIEFING-TRUMP1/27TRANSITION-BRIEFING-TRUMP1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "VwpDl6aRwzKdpUsak+wVwuhUz4fYsxy58ngHc4yWPL1LA6RlQNjm25OpuExAmurCetHu8cAe6SbV9l0Ud4RPQ8zgBVoRFv19gYi/apaidzF842MUY2rDwspHYuosLHgAdgW1oK2Z4ONEIlQINByAN9E9LJACdvRql92XOd7uXPJMXgyB8Izb60MBkONWyfGbsSIzgMPFesi87+caKdBj2up9KfmcqJff9tj0okQWmeXgcOgMSTdfWAPfvGU6liMlpTxK5JZge5dlkOhIbZ84OMn4f53jTdaVvmpuajgNHaryszeOsYZeQhkUPDSgi0S0vwKoFoSDkmWvCXmsl39MNNczZP2PyU3kJoOW+sLc/g4=;2JCdDb/QBIrbPBrhKbeXnQ=="
 ---

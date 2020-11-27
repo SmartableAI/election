@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-26-democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat.md",
-      "title": "Democratic fight emerges ahead of appointment to fill Kamala Harris’ Senate seat",
-      "excerpt": "A cross-country lobbying campaign for Vice President-elect Kamala Harris’ Senate seat has pitted factions divided by race, gender and geography against one another and heightened internal",
+      "path": "_news/2020-11-27-kamala-harris-calls-teen-who-went-viral-for-painting-portrait-of-vice-president-elect.md",
+      "title": "Kamala Harris calls teen who went viral for painting portrait of vice president-elect",
+      "excerpt": "\"You really have a gift, my goodness. I was so touched to see it,\" Vice President-elect Kamala Harris told the 14-year-old artist.",
       "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/",
-      "originalUrl": "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/",
+      "webUrl": "https://www.cbsnews.com/news/kamala-harris-tyler-gordon-portrait/",
+      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-tyler-gordon-portrait/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 218,
       "tags": null,
       "images": [
         {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_ea094ba89905318495f9d2a79bd2c69a-h_b6055c4a4a32d16317462659e297de20.jpg?w=1024&h=576",
-          "width": 1024,
-          "height": 576,
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/26/ac748686-00fb-4ed8-bc47-b26f134cf02d/thumbnail/1200x630/1479e37ae938cc507f7a50f93f6c3f65/screen-shot-2020-11-26-at-1-42-40-pm.png",
+          "width": 909,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/",
-      "publishedDateTime": "2020-11-26T06:03:00-08:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-tyler-gordon-portrait/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-tyler-gordon-portrait/",
+      "publishedDateTime": "2020-11-26T13:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -53,7 +62,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/article/Willie-Brown-Gavin-Newsom-Kamala-Harris-Senate-20-15753719.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -105,7 +114,7 @@
       "originalUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 208,
+      "heat": 228,
       "tags": null,
       "images": [
         {

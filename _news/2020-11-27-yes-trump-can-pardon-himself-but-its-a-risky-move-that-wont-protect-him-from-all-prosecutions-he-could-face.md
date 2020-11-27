@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump spent Thanksgiving night railing against Section 230 on Twitter as #DiaperDon went viral"
+    excerpt: "Twitter users mocked the president using the hashtag #DiaperDon after he sat at a smaller-than-usual table during a news conference."
+    publishedDateTime: 2020-11-27T12:31:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-calls-end-section-230-diaperdon-goes-viral-twitter-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-calls-end-section-230-diaperdon-goes-viral-twitter-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-calls-end-section-230-diaperdon-goes-viral-twitter-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fc0e445037cbd00186128d1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "VIGOpMWwoFTFDZCb+VVhVEl9FqlvOAK8GCgAV4CLT77zXQwK2JMXa43regDwUIlNErAtU7fKJowN++9HJEAU2odmwciE5Hq4Kvj3OmkfHs29OcuCB5bgctmrUiEzQfkyGKaU4EcEGIsWq/SO2c8sRqErPjm3gMDD3w/oq1YQkVL3FpfUPQ9rb9kiyb7hFk6kKBKwuQQwUWSDdNgNsSKRb1LdeshMyaebC7g/D0VGCbI2gFZuxIyCElpyJAVkuRpoprYuYKun13o8mq2/Yj0M3fVQLG27ECqMUhQVxbmTrNP43DzgbxPvjP5RnPYE3GG03aHBWp4a8nBEhRuWlX7ciM2rp/5q9aNJj8PKWdJzUIs=;LgIIwVeqCQFvU205PapAzw=="
 ---

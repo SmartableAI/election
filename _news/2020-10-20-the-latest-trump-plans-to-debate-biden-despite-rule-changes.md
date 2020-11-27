@@ -4236,10 +4236,10 @@ related:
         isCached: true
   - title: "Inching toward exit, Trump says he'll leave if Biden wins Electoral College vote"
     excerpt: "U.S. President Donald Trump said on Thursday he will leave the White House if the Electoral College votes for President-elect Joe Biden, the closest he has come to conceding the Nov. 3 election, even as he repeated unfounded claims of massive voter fraud."
-    publishedDateTime: 2020-11-27T02:39:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idUSKBN2861KU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2861KU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2861KU"
+    publishedDateTime: 2020-11-27T07:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-idUKKBN28615T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28615T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28615T"
     type: article
     provider:
       name: Reuters
