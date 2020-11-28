@@ -368,6 +368,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Aides’ Ties to Firms Present Biden With Early Ethics Test"
+    excerpt: "Some of the president-elect’s choices for top posts have done work for undisclosed corporate clients and aided a fund that invests in government contractors."
+    publishedDateTime: 2020-11-28T16:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/28/us/politics/28dc-biden-westexec/merlin_180453024_afacfb19-71d8-4125-b7a2-fd592224b286-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Transition Gets Underway in Earnest as Biden Team Fans Out Across Capital"
     excerpt: "Within hours of the Trump administration’s decision to stop blocking the process, representatives of the president-elect began coordinating the handover of power."
     publishedDateTime: 2020-11-25T00:44:00Z

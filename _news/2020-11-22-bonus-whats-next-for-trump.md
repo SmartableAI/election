@@ -63,10 +63,10 @@ related:
         isCached: true
   - title: "Trump loses appeal in Pennsylvania: \"Calling an election unfair does not make it so\""
     excerpt: "The Trump campaign lost another battle Friday in their attempt to prove mass fraud in the election, something thus far they've been unable to do. This time, the Third Circuit Court of Appeals denied the campaign's request for an injunction in Pennsylvania to undo the Keystone State's certification of its votes."
-    publishedDateTime: 2020-11-27T20:09:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-pennsylvania-appeal-loss-today-2020-11-27/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-pennsylvania-appeal-loss-today-2020-11-27/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-pennsylvania-appeal-loss-today-2020-11-27/"
+    publishedDateTime: 2020-11-28T12:32:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-pennsylvania-appeal-loss-2020-election/?intcid=CNI-00-10aaa3b"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-pennsylvania-appeal-loss-2020-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-pennsylvania-appeal-loss-2020-election/"
     type: article
     provider:
       name: CBS News

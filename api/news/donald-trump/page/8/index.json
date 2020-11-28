@@ -2,6 +2,54 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-21-replay-trump-make-america-great-again-rally-in-erie-pa.md",
+      "title": "Replay: Trump \"Make America Great Again\" Rally In Erie, PA",
+      "excerpt": "President Trump holds a Make America Great Again rally Monday night at the Erie International Airport in Erie, PA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2020/10/20/watch_live_trump_holds_a_make_america_great_again_rally_in_erie_pa.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/20/watch_live_trump_holds_a_make_america_great_again_rally_in_erie_pa.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/521717.jpg",
+          "width": 1136,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-trump-departs-arizona-after-day-of-rallies-in-tucson-prescott.md",
       "title": "Trump departs Arizona after day of rallies in Tucson, Prescott",
       "excerpt": "President Donald Trump spent much of his day Monday in Arizona, with stops in Prescott and Tucson. The goal: Pick up as many votes as possible in rural and southern parts of the state in what is ...",

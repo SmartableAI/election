@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden gains votes in Wisconsin county after Trump-ordered recount"
 excerpt: "Milwaukee recount, which cost Trump campaign $3m, boosts Democratic president-elect days before state must certify result"
 publishedDateTime: 2020-11-28T07:05:00Z
-originalUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount?from=samsung_news_daily_card"
-webUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount?from=samsung_news_daily_card"
+originalUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
+webUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
 ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
 type: article
@@ -588,6 +588,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "pDjMWPqWvXj8byM5JWt2MyiXGqpht5Lg1JgWNvbk+ZsBDoEbqKl9NQBrGPvWZXJdvcWXWANaTD6AAKpmlEz24waNRCbsATh8oeku9oryA5ZRNtJmR6TNihGOA5SmIpNe0Na5FXLaUSoG4Ybgt1VhmVdz0FPCkjqZOh2Bm3+U59oDvJDsLc6eKqODYYUQnQPa//azdU7HRCJX4e2RlDWvL0ghj5Ci5BfFYzQ6JTLdHawgkBZP97IBaiss1dU/Y6OASx6GCVw35n6GGjypdAKGHOk+DCLe8gkcWB+QAB/Hw3SCO4ZgWht4f3LJirljEvnr2hy/Mai93l3pdVJpAqFDEDVreL1gpwjhJgnW3nZgX2w=;EDTlV2Mf0cyrJqsjoF8EPQ=="
+secured: "AwV7M9A5nsqmaueb1WV8IH9Ijy8HRxmbmgHQChl3IdmQytyWGN/UxS6rib1+UG1klOHVXOd8VMHDIuzeP30neDh/pEUPaoY1RJFle6l+yb14sSlF2bdz6hrmab6SEpThS6kRhKzEKUM2lcvkz7ylwfqNF5jS7HRiPZ+7YdO2IuKHzcfTeG5pMMkQCIe2yGVJDOBexWxaYqmlYCNCbDccVue0rCfSFEhfDXG/pOzzCMUXAb160ZQmi9TElVrjV3Ky4k0K4MxHt43ZOBiumifXGEcwmqv3Za2v97Myv+pcx1EuD9UYJ5rGxzN6Ury/MHOEUlXAsxNepDnhILB4vnflNfEm+V1Va6S54EF7/XxJPAw=;I41A/RmF3HNH4rt1BxR6Bg=="
 ---
 

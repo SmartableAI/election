@@ -4286,6 +4286,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Trump reportedly wants to hold a 2024 campaign event during Biden's inauguration"
+    excerpt: "Donald Trump is strategizing ways to stay relevant amid incoming Biden administration, the Daily Beast reported, citing sources close to the president."
+    publishedDateTime: 2020-11-28T16:48:00Z
+    webUrl: "https://www.businessinsider.com/trump-reportedly-wants-2024-campaign-event-during-bidens-inauguration-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-reportedly-wants-2024-campaign-event-during-bidens-inauguration-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-reportedly-wants-2024-campaign-event-during-bidens-inauguration-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5fc2683e50e71a0011557ce9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "US elections 2020: Joe Biden's and Donald Trump's possible paths to power"
     excerpt: "Lauren Gambino, political correspondent for Guardian US, discusses which states Biden will need to win to take the White House, and what Trump will need to do to retain the presidency"
     publishedDateTime: 2020-10-20T02:00:00Z
@@ -4630,6 +4646,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/db17ceff-b50c-47ce-bc33-dd34f73d0e0f-GTY_1190233605.JPG?auto=webp&crop=2610,1469,x0,y587&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump demands Biden prove he won election, continues to lob fraud accusations"
+    excerpt: "President Trump is now demanding that President-elect Joe Biden prove he actually won the election. While Mr. Trump and his campaign repeatedly insist the race was rigged, court ruling after court ruling has upheld the outcome."
+    publishedDateTime: 2020-11-28T13:38:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-demands-biden-prove-he-won-election-continues-to-lob-fraud-accusations/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 132
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/28/cc5d8a2d-af7b-440e-8aba-bfb3960569ab/thumbnail/1200x630/f3ca4b9a685890b224979d92b49ec67e/cbsn-fusion-trump-demands-biden-prove-he-won-election-continues-to-lob-fraud-accusations-thumbnail-597367-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden goes ahead of Trump in Michigan as vote count continues in state's largest counties"
     excerpt: "President Trump has tried to claim victory with millions of votes still to be tallied in key states such as Michigan and Pennsylvania."

@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Top California air, climate regulator hopes to run Biden EPA"
-excerpt: "Over four decades, Mary Nichols has been the regulator behind some of the nation’s most ambitious climate policies and, in recent years, she’s been their staunchest defender against President Donald Trump's effort to dismantle them."
-publishedDateTime: 2020-11-27T10:34:00Z
-originalUrl: "https://www.businessinsider.com/top-california-air-climate-regulator-hopes-to-run-biden-epa-2020-11"
-webUrl: "https://www.businessinsider.com/top-california-air-climate-regulator-hopes-to-run-biden-epa-2020-11"
-ampWebUrl: "https://www.businessinsider.com/top-california-air-climate-regulator-hopes-to-run-biden-epa-2020-11?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-california-air-climate-regulator-hopes-to-run-biden-epa-2020-11?amp"
+excerpt: "Mary Nichols will soon leave her job as California's top air regulator after more than four decades of advocating for ambitious climate policies in the nation's most populous state"
+publishedDateTime: 2020-11-27T10:18:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/top-california-air-climate-regulator-hopes-run-biden-74424053"
+webUrl: "https://abcnews.go.com/Politics/wireStory/top-california-air-climate-regulator-hopes-run-biden-74424053"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/top-california-air-climate-regulator-hopes-run-biden-74424053"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-california-air-climate-regulator-hopes-run-biden-74424053"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_c8310049242f49cb95676b4f77c86dd7_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Georgia certifies election results, making Biden victory official"
@@ -1142,6 +1148,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "+h3eGfAnlyNc/uMZ+dfhCffRIqqvmZ4iUguRgTk0FXjQO4KkJ0y9OjiqaHNgdRFUEkyFSVghOQ173WhneGsiujk1h4D3JT8S/JhkrE2nwtHccrcwXa53iwp0gKuoBRLetMnSTaPAHbwQIFv7a/7eSt+7iwtLMRtfdtRAxAZCkDVjaj4ChG7M38Mki8C/zbKUBncSKLaPCBuYucuGHAxy9O8cQXSpFKY909iQNL/y65JakABug+2faqRn281NDGA5Uqo5wf0cwCwY82clgxd06vaqSXhJ6HEE0PLenoTOu6oJ9xdfZCPtEnmlaIBQGvAMX/VvlvRDOHBpTj2rHR/vk13v2DeqVIMlih3LmR71rJM=;KKlScyAi3syXEa6metG/FQ=="
+secured: "bhtTXShlxytLrtP4Ajcer7cp8Z/gMlMecu47lZ/0Bgy4FJl+Tv1nHng2S2onv4JfZq8MbRcWKw1W8U+ES/kJ3+np9BQmomTaRszV6FPqUXD+Tb5X4d4XjfpWkmCuP4RhQI2VkBFbKhC9ahwGxjHJLxji2XO8nEWKT17zpcS1ktpGUDwotu0xD1AUfoZ99qEqvlPSYlfqvKXXvM90uN/jsv2B5KzF0hJgB4KXPrncgmWE3NvI16M4gkjSwKpvZlrpw9yGgipA4ZHBC9XK7gJX/FqIMYijSOJHi+l84/+nHbpStvmJbvOLhRJl1G4/9TDtvic3Mg0PkIw7Vx/JbwSyrV3DyD3hpuXw+vOPXaDQI/c=;hvBTf6Ah+z+XZQyR6rqX8g=="
 ---
 

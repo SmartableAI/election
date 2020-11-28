@@ -2,11 +2,11 @@
 category: news
 title: "Trump loses appeal in Pennsylvania: \"Calling an election unfair does not make it so\""
 excerpt: "The Trump campaign lost another battle Friday in their attempt to prove mass fraud in the election, something thus far they've been unable to do. This time, the Third Circuit Court of Appeals denied the campaign's request for an injunction in Pennsylvania to undo the Keystone State's certification of its votes."
-publishedDateTime: 2020-11-27T20:09:00Z
-originalUrl: "https://www.cbsnews.com/news/trump-pennsylvania-appeal-loss-today-2020-11-27/"
-webUrl: "https://www.cbsnews.com/news/trump-pennsylvania-appeal-loss-today-2020-11-27/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/trump-pennsylvania-appeal-loss-today-2020-11-27/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-pennsylvania-appeal-loss-today-2020-11-27/"
+publishedDateTime: 2020-11-28T12:32:00Z
+originalUrl: "https://www.cbsnews.com/news/trump-pennsylvania-appeal-loss-2020-election/?intcid=CNI-00-10aaa3b"
+webUrl: "https://www.cbsnews.com/news/trump-pennsylvania-appeal-loss-2020-election/?intcid=CNI-00-10aaa3b"
+ampWebUrl: "https://www.cbsnews.com/amp/news/trump-pennsylvania-appeal-loss-2020-election/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-pennsylvania-appeal-loss-2020-election/"
 type: article
 quality: 133
 heat: -1
@@ -384,6 +384,6 @@ related:
       domain: abcnews.go.com
     quality: 85
 
-secured: "j6xTYn3Ge3ox5gvVrwyw8VNaXO/gntH5ySN3ugncGak9D9FygG9N0jDPg8j7U7ibJoP8pgzpTBIIB5GmxpNWzmRJt0buRu0SgrTgQlAOOWNRdtcI6014tFzfmCNIkgb6mG4k9SKghD94GEtPh0MNi6k5AnQhDTYIvRSZJrL+/F3U0hVPFCFQh2KLcrfTPZEWPS3uewAN9azxcWnr+Z3ZcDtJ+/cCUOkikeOaycgVsXWfXbKacOIkQDI6vC+TUyFSzMz51QaC3EhCezIJ0W1doskjY1fhe4YJhphAH6bacfx2+YNyjaO9UwZjNn3jqZQiEz+hZiavqnxTQOmgKZZS+RFzlnjanHMab5A+2Cre47k=;0UMd0NuL34eVXYTSAtgnTg=="
+secured: "fj2yfwyL/UEhiqwz23k4m7bAfxFR2N1EAP2TSFyCfgvjRdCR9PY83M1K6vUwSdHcZ/yqqN8wuQcIVH63xuq+acFrwSoYwals1QfzG+5rf7aOqaaOSig9otH9rGt8BMyvjvwbdUdeQ9MO3FcxxX/IMjp2EReiM8lEZGw9KjMp0Xn+xKRVeQ8APNkSTNdtvuKFyZzq4eknjPCRn0gmIOgc5xFL8U8+rR0cpaCkYNgk9JZ7s7wBDp/MeqSOd15pr8WXv2vfA9uThdtWNEftnWyn0HVICMsojR6QVWdml/q9UnXODhIbACEUt1hN827zlTLM5P5w7glrFob5jiB5CJ+fmlbHGLd0RxR8qm11gchmhHY=;ztlGqoDKZOADJAdR/24iiQ=="
 ---
 

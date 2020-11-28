@@ -2,6 +2,105 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-10-21-trump-takes-aim-at-familiar-target-obama.md",
+      "title": "Trump takes aim at familiar target: Obama",
+      "excerpt": "Hours before former President Barack Obama headlined his first in-person rally for Democratic presidential nominee Joe Biden, President Trump’s re-election campaign took aim at both Obama and Biden.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UCts-RsTNy0/trump-takes-aim-at-an-old-and-familiar-target-obama",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UCts-RsTNy0/trump-takes-aim-at-an-old-and-familiar-target-obama",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d9c8eb4-85dd-456e-93e6-f7e90207a826/48b8e16c-a1dd-4ef8-8eed-517736fdd999/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-takes-aim-at-an-old-and-familiar-target-obama.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-takes-aim-at-an-old-and-familiar-target-obama.amp",
+      "publishedDateTime": "2020-10-21T13:38:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally.md",
+      "title": "Mike Pence touts coronavirus vaccine, knocks Joe Biden in New Hampshire rally",
+      "excerpt": "PORTSMOUTH, N.H. — Vice President Mike Pence knocked Democratic nominee Joe Biden’s health and tax plans and touted the economic gains under the Trump administration as he rallied voters just 13 days before Election Day in a swing state where the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/",
+      "originalUrl": "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems01.jpg?w=1024&h=755",
+          "width": 1024,
+          "height": 755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/",
+      "publishedDateTime": "2020-10-21T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-maryland-man-facing-federal-charge-for-allegedly-threatening-biden-and-harris.md",
       "title": "Maryland man facing federal charge for allegedly threatening Biden and Harris",
       "excerpt": "A Maryland man is facing a federal charge for allegedly threatening Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris, authorities announced Wednesday.\n    \n",
@@ -1202,119 +1301,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-ivanka-trump-in-wisconsin-touted-fathers-pledge-to-return-jobs-to-us.md",
-      "title": "Ivanka Trump in Wisconsin touted father's pledge to return jobs to US",
-      "excerpt": "Ivanka Trump made her second visit to Wisconsin in just two weeks in an effort to drum up support for her father in a battleground state that will prove crucial to this year's election outcome. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZ_JVUxUJVg/ivanka-trump-makes-second-visit-to-wisconsin-in-two-weeks-to-appeal-to-voters-in-battleground-state",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZ_JVUxUJVg/ivanka-trump-makes-second-visit-to-wisconsin-in-two-weeks-to-appeal-to-voters-in-battleground-state",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/791c6f0a-8505-4efb-bed7-8e4b4d281a93/f53a79c0-7494-41ab-848c-939f9a336fe6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-makes-second-visit-to-wisconsin-in-two-weeks-to-appeal-to-voters-in-battleground-state.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-makes-second-visit-to-wisconsin-in-two-weeks-to-appeal-to-voters-in-battleground-state.amp",
-      "publishedDateTime": "2020-10-20T18:03:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-here-are-hunter-bidens-alleged-text-messages-giuliani-just-turned-over-to-the-delaware-state-police.md",
-      "title": "Here Are Hunter Biden's Alleged Text Messages Giuliani Just Turned Over to the Delaware State Police",
-      "excerpt": "Rudy Giuliani handed over \"very, very sensitive\" text messages to the Delaware State Police that are allegedly from Hunter Biden to his father, former Vice President Joe Biden. In the text messages, Hunter allegedly accused his sister-in-law and former lover,",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/bethbaumann/2020/10/20/here-are-hunter-bidens-alleged-text-messages-giuliani-just-turned-over-to-the-de-n2578470",
-      "originalUrl": "https://townhall.com/tipsheet/bethbaumann/2020/10/20/here-are-hunter-bidens-alleged-text-messages-giuliani-just-turned-over-to-the-de-n2578470",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/289/ad5ed7d9-d644-4c3a-9934-2d0be5614beb.png",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/bethbaumann/2020/10/20/here-are-hunter-bidens-alleged-text-messages-giuliani-just-turned-over-to-the-de-n2578470?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/10/20/here-are-hunter-bidens-alleged-text-messages-giuliani-just-turned-over-to-the-de-n2578470?amp=true",
-      "publishedDateTime": "2020-10-20T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

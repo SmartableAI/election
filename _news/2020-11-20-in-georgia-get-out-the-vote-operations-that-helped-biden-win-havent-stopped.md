@@ -495,6 +495,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Top California air, climate regulator hopes to run Biden EPA"
+    excerpt: "Mary Nichols will soon leave her job as California's top air regulator after more than four decades of advocating for ambitious climate policies in the nation's most populous state"
+    publishedDateTime: 2020-11-27T10:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/top-california-air-climate-regulator-hopes-run-biden-74424053"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/top-california-air-climate-regulator-hopes-run-biden-74424053"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-california-air-climate-regulator-hopes-run-biden-74424053"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c8310049242f49cb95676b4f77c86dd7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Progressives worry about lobbying, corporate ties in Biden administration"
     excerpt: "When President-elect Joe Biden unveiled his national security team on Tuesday, there were several noticeable absences, including a nominee to lead the Department of Defense. Michele Flournoy, a leading candidate for the role who served in senior posts at the Pentagon during the Clinton and Obama administrations,"
     publishedDateTime: 2020-11-26T19:26:00Z
@@ -967,17 +983,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Top California air, climate regulator hopes to run Biden EPA"
-    excerpt: "Over four decades, Mary Nichols has been the regulator behind some of the nation’s most ambitious climate policies and, in recent years, she’s been their staunchest defender against President Donald Trump's effort to dismantle them."
-    publishedDateTime: 2020-11-27T10:34:00Z
-    webUrl: "https://www.businessinsider.com/top-california-air-climate-regulator-hopes-to-run-biden-epa-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/top-california-air-climate-regulator-hopes-to-run-biden-epa-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-california-air-climate-regulator-hopes-to-run-biden-epa-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "President-elect Biden names four White House staffers, including directors for legislative affairs and personnel"
     excerpt: "President-elect Joe Biden named four more White House staffers Friday, including directors overseeing legislation and personnel."
     publishedDateTime: 2020-11-20T16:07:00Z
