@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden gains votes in Wisconsin county after Trump-ordered recount"
+    excerpt: "Milwaukee recount, which cost Trump campaign $3m, boosts Democratic president-elect days before state must certify result"
+    publishedDateTime: 2020-11-28T07:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount?from=samsung_news_daily_card"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/ddac0d843201d2f07ae923c9c75e6e9dee8aad0d/0_93_4902_2941/master/4902.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e827a2f566149a99e376f5ffcc828b5c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "‘We need you’: GOP hunts for new voters in Trump territory"
     excerpt: "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time"
     publishedDateTime: 2020-10-28T04:47:00Z

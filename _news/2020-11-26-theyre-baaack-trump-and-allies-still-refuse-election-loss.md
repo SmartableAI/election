@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/theyre-baaack-trump-and-alli
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/theyre-baaack-trump-and-allies-still-refuse-election-loss/2020/11/26/dbbfd81a-2fe6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 580
+heat: 600
 published: true
 
 provider:
@@ -374,6 +374,15 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "AP FACT CHECK: Trump distorts military role in vaccines"
+    excerpt: "From the get-go, President Donald Trump has suggested that the military would be central in developing, producing and distributing vaccines for the pandemic"
+    publishedDateTime: 2020-11-28T14:34:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/ap-fact-check-trump-distorts-military-role-vaccines-74435789"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
 
 secured: "hs81fLJLzi+5LXt4+RAfPFcUe5jIU6qm1edi/CtDGvfNq4sfQZt/vbiLT5CuenNUT/E/ZdwNAsQKXn1mFTuSDU6gyMHjI2uPI1oPtctUb/1+wCFMBNEWIMNUDAsRWJLp0Lm/Q4wC40KayuvePzXuGS0J9LQVtb7JaLBZQy7u9CI3hkJPOCU9tt78xmu8vWd5bVbLSZRKYtEeAmxDcSwcVKtIMg8O+a/2+SBhKt0wi1aBJcRP5svPrvjHQtTnUiB5tojq3rRtWZ+CNR9aobEtmzmXtL7pwrzALpyvvrI3/m0j70MQMYqtVkhMpY9tarafUhGaHdY+uBMOQQTMYYgIWdB8Q7hJjxTLDnC6k7aofNM=;TFQOaa6SJM1DXHorARpUAQ=="
 ---

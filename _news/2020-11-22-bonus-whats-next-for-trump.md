@@ -374,6 +374,15 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "AP FACT CHECK: Trump distorts military role in vaccines"
+    excerpt: "From the get-go, President Donald Trump has suggested that the military would be central in developing, producing and distributing vaccines for the pandemic"
+    publishedDateTime: 2020-11-28T14:34:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/ap-fact-check-trump-distorts-military-role-vaccines-74435789"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
 
 secured: "IohYY9VjoODLNO+iMpaiHnu5wztBVKsIqlbXF8PXQN/l9LdVhQ6MXSBHBRWwari7hBsFgS6hyjn8EFU9rCev/54gjyB0EyMPnpvPjfobFIIsm3wkLLLe8Eu6Lyh0WbSAEjSa+E8yycDdwi3/bmUCKLxrR1nE9fN/Qmdrlh2pePop5CfUISqhRXSo1MrEALrm4VhuLq2FTorjCFE01MJvryvZMRwbIW10niRbH4mD1nGwjBIZi3+4FK3iz6VJd5vUlJXmDpLySQFMFS5UoSoZybutIaxuR1RpR8/C77pbS4KMGTZg4AKD9nIXxYF9zEx3r/qwrkSMpqqXz4Mc3jsa2prNR/3R08cW1iAbr0Zpc17hkB1zRLTHInj6IQzujrfOLvZEjKneJP5K+s9gVWcvnNsClAbUJDEE9Efi5953qYrK6mNAT56aogxH0iS+3BD4LGxY4BLHmWYqEU75jO9s/2+Y2RnNXax8pb6kd5iOrPFIvUdZ7WmV7ZHujifCM9G6kM6VkRLWyQejYTMFa7aaOA==;9XdmHvGKll2ELhaes7CThA=="
 ---

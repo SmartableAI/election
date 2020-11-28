@@ -1,31 +1,33 @@
 ---
 category: news
-title: "President-Elect Joe Biden Hits 80 Million Votes In Year Of Record Turnout"
-excerpt: "The 2020 presidential election saw the most votes in U.S. history at 156 million and counting, and the highest participation rate since 1900."
-publishedDateTime: 2020-11-25T13:06:00Z
-originalUrl: "https://www.npr.org/2020/11/25/937248659/president-elect-biden-hits-80-million-votes-in-year-of-record-turnout"
-webUrl: "https://www.npr.org/2020/11/25/937248659/president-elect-biden-hits-80-million-votes-in-year-of-record-turnout"
+title: "Trump-Biden transition live updates: New lawsuit seeks to nix Georgia results"
+excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
+publishedDateTime: 2020-11-28T06:28:00Z
+originalUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
 type: article
-quality: 104
+quality: 137
 heat: -1
 published: false
 
 provider:
-  name: NPR
-  domain: npr.org
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://media.npr.org/assets/img/2020/11/20/gettyimages-1229644791_wide-2b7d082ed19493e6de2f1ed2f923ee1f103776b7.jpg?s=1400"
-    width: 1400
-    height: 787
+  - url: "https://s.abcnews.com/images/Politics/sidney-powell-rt-file-ml-201127_1606499215570_hpMain_16x9_1600.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -124,22 +126,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1677818/president-elect-joe-biden-delivers-thanksgiving-address.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Trump-Biden transition live updates: New lawsuit seeks to nix Georgia results"
-    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
-    publishedDateTime: 2020-11-28T06:28:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 137
-    images:
-      - url: "https://s.abcnews.com/images/Politics/sidney-powell-rt-file-ml-201127_1606499215570_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Is Joe Biden's win a turning point in a hard year of bad news?"
     excerpt: "I usually expect the worst, but this US election feels like a light at the end of the tunnel"
@@ -1022,6 +1008,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President-Elect Joe Biden Hits 80 Million Votes In Year Of Record Turnout"
+    excerpt: "The 2020 presidential election saw the most votes in U.S. history at 156 million and counting, and the highest participation rate since 1900."
+    publishedDateTime: 2020-11-25T13:06:00Z
+    webUrl: "https://www.npr.org/2020/11/25/937248659/president-elect-biden-hits-80-million-votes-in-year-of-record-turnout"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 104
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/20/gettyimages-1229644791_wide-2b7d082ed19493e6de2f1ed2f923ee1f103776b7.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "House Democrat says Congress has few options to help Biden's transition to power"
     excerpt: "More than a week after President-elect Joe Biden was projected to win the 2020 election, Democratic lawmakers are still pushing the federal government to provide resources, office space and funding to his transition team."
     publishedDateTime: 2020-11-18T16:49:00Z
@@ -1143,6 +1143,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "u/pe4KhfcLmqkPuGmuZFvI+/M3BjvjIVEzu/Eqg2AMDNWTGpqqOTphIqCAY1cWCPkMjlB2pAWKs4agRdb46P6miMvkjkLap6QE02oP0vQu7Z+AXjm+jo83SyJEYVVBszR0tgO5UWziIxA394tFNE1MEkjzF1FstWTFIS2xhij10UGwD6L35kAccVqNJBqkWEn7qg6H2C9RG9CMks/roNBddC9eMI/lny+dyrUtlnxacmlg+HJzlIKgoAory37LL5cxZzjAnuFsUV1FqpHWnoyOR/eAI2mV+h9O4v/QOaOfSIPUMhMgPDV1OV7Zq9H7AhAKARTts+Er34Mim4/QQ8fVddcsY6gxg0oRaVXWtYfsOhrP8TgJ+VaZsjAqQsCSCjZQF5D/4Ww0ofjjyzSCW3Fso0NO/lsxImG90hD3IxBcNuy61NpsaF09PWdy4KbY+5rWk7ZmjEoDehZKbl/5vuZlZ0sPUV8SsM0DPJfpUY6nRD/D/hulE5vJNDCTXLpDTQQ7h91E12AVKTTmw8p/236A==;99cTcOAjPuc4RGINQRBYAg=="
+secured: "Rep9xmlcHe+cUSnYgRH8dwxJ/TT9ZiHh9AzNKba1Cq+bmkPZcrcQIE7gFVjSU9IHGtWyzaAw2age533ch4OeUF1yDOCUQac8MRLJvRvQdmx8amjNelPAolME90ZC6HdqDxbt5HzNMtgsdl7l4jJ/apq1jUsI1PZMWZGg48LRmrHzQDyv2bCcqq8D2hEtGUI1W22iNylzEoaGY3/UU3zSuxtNH02TGRs/RLX+z0RSbUfmZAOX8t9jc0SOCFfNctJ8XTR9BlmeSQYiCdw0l+vJ6QaoEMdhE+BLW0o7uXkCSUQKRQIwZ4ceQz5b9Eg/+LFs+dS1q1FtsfnvZP8yYlITK56KFGU80QX5DvX8sn78gIM=;FVjGNu4SVui7g3eTQGqmyQ=="
 ---
 

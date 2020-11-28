@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Trump wants to throw out ballots from 238,000 Wisconsin voters"
-excerpt: "The affected voters face losing their voice in the election after following state guidance that was promoted widely, including by the president."
-publishedDateTime: 2020-11-28T04:39:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/trump-wants-throw-out-ballots-238-000-wisconsin-voters/6437897002/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/trump-wants-throw-out-ballots-238-000-wisconsin-voters/6437897002/"
-ampWebUrl: "https://amp.usatoday.com/amp/6437897002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6437897002"
+title: "Joe Biden gains votes in Wisconsin county after Trump-ordered recount"
+excerpt: "Milwaukee recount, which cost Trump campaign $3m, boosts Democratic president-elect days before state must certify result"
+publishedDateTime: 2020-11-28T07:05:00Z
+originalUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount?from=samsung_news_daily_card"
+webUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount?from=samsung_news_daily_card"
+ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
 type: article
-quality: 125
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/11/01/PMJS/76378a31-ccf9-4b45-bd15-719180b883c5-MJS_Early_voting_nws_sears_1-1.jpg?auto=webp&crop=3378,1901,x0,y500&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://i.guim.co.uk/img/media/ddac0d843201d2f07ae923c9c75e6e9dee8aad0d/0_93_4902_2941/master/4902.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e827a2f566149a99e376f5ffcc828b5c"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -78,22 +78,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541647819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH19T"
         width: 817
         height: 545
-        isCached: true
-  - title: "Joe Biden gains votes in Wisconsin county after Trump-ordered recount"
-    excerpt: "Milwaukee recount, which cost Trump campaign $3m, boosts Democratic president-elect days before state must certify result"
-    publishedDateTime: 2020-11-28T07:05:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount?from=samsung_news_daily_card"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 140
-    images:
-      - url: "https://i.guim.co.uk/img/media/ddac0d843201d2f07ae923c9c75e6e9dee8aad0d/0_93_4902_2941/master/4902.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e827a2f566149a99e376f5ffcc828b5c"
-        width: 600
-        height: 360
         isCached: true
   - title: "Recount in Wisconsin county demanded by Trump increases Biden's margin"
     excerpt: "A recount in Wisconsin's largest county demanded by Republican President Donald Trump's election campaign ended Friday with Democratic President-elect Joe Biden gaining votes."
@@ -222,6 +206,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/97f8e63/2147483647/strip/true/crop/3639x2377+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F30%2F81aab5264727991f7a823d391e72%2Fbiden-65717.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Trump wants to throw out ballots from 238,000 Wisconsin voters"
+    excerpt: "The affected voters face losing their voice in the election after following state guidance that was promoted widely, including by the president."
+    publishedDateTime: 2020-11-28T04:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/trump-wants-throw-out-ballots-238-000-wisconsin-voters/6437897002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6437897002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6437897002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PMJS/76378a31-ccf9-4b45-bd15-719180b883c5-MJS_Early_voting_nws_sears_1-1.jpg?auto=webp&crop=3378,1901,x0,y500&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump campaign would have to pay nearly $8 million for Wisconsin recount"
     excerpt: "President Donald Trump's campaign would have to pay nearly $8 million to start a recount in Wisconsin, a state he narrowly lost two weeks ago."
@@ -588,6 +588,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "yK9QYXaz06oy+AupBRYaSo4oV4Xdbv23SmCiGuawrFgXiQqC+GOO0IlNJrLNlkdrEo41R5WS2YGBd+e7hAzICTv/laInlUXY/vyBkCFDVz09IxYOqHDXlNaIBWyM5uCZG3YMRdwivrZtaL5S/3+Wa8dc2ldoNKU1mls5UPyVVR+MLadhAxNovPffXQqeUkymdjCd1uC4yc/U8F4ONzXKAmxGi/dq81hU7zB3rtx1R8anm/0EygLdlUq1pS2FI2b0bSnQQXYXn49RfLdhlicS97Ne4IFToIF5MdaxdUxrLxHq9uWBriobPV1u3d/T+9VvLbiV0jpMe8K+NiPEV9wm4kh4C6XqupXvWca/M2Hnup0=;GEKG0MSZuq/AIwr4DbW+vQ=="
+secured: "pDjMWPqWvXj8byM5JWt2MyiXGqpht5Lg1JgWNvbk+ZsBDoEbqKl9NQBrGPvWZXJdvcWXWANaTD6AAKpmlEz24waNRCbsATh8oeku9oryA5ZRNtJmR6TNihGOA5SmIpNe0Na5FXLaUSoG4Ybgt1VhmVdz0FPCkjqZOh2Bm3+U59oDvJDsLc6eKqODYYUQnQPa//azdU7HRCJX4e2RlDWvL0ghj5Ci5BfFYzQ6JTLdHawgkBZP97IBaiss1dU/Y6OASx6GCVw35n6GGjypdAKGHOk+DCLe8gkcWB+QAB/Hw3SCO4ZgWht4f3LJirljEvnr2hy/Mai93l3pdVJpAqFDEDVreL1gpwjhJgnW3nZgX2w=;EDTlV2Mf0cyrJqsjoF8EPQ=="
 ---
 

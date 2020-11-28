@@ -1,34 +1,26 @@
 ---
 category: news
-title: "Trump officials move to relax rules on killing birds"
-excerpt: "The Trump administration published an environmental analysis Friday finding that its proposal not to hold companies responsible for killing birds “incidentally” would not cause undue harm, clearly the way for it to finalize the rollback before the president’s term ends on Jan."
-publishedDateTime: 2020-11-27T15:51:00Z
-originalUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/"
-webUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/"
-ampWebUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
+title: "AP FACT CHECK: Trump distorts military role in vaccines"
+excerpt: "From the get-go, President Donald Trump has suggested that the military would be central in developing, producing and distributing vaccines for the pandemic"
+publishedDateTime: 2020-11-28T14:34:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/ap-fact-check-trump-distorts-military-role-vaccines-74435789"
+webUrl: "https://abcnews.go.com/Health/wireStory/ap-fact-check-trump-distorts-military-role-vaccines-74435789"
 type: article
-quality: 125
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOKXIAFSLII6TLGIDWCHXLGKOM.jpg&w=1440"
-    width: 1440
-    height: 972
-    isCached: true
 
 related:
   - title: "They’re baaack: Trump and allies still refuse election loss"
@@ -190,6 +182,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ROPITHRON4I6XBQN66MZLGOLYI.jpg&w=1440"
         width: 1440
         height: 988
+        isCached: true
+  - title: "Trump officials move to relax rules on killing birds"
+    excerpt: "The Trump administration published an environmental analysis Friday finding that its proposal not to hold companies responsible for killing birds “incidentally” would not cause undue harm, clearly the way for it to finalize the rollback before the president’s term ends on Jan."
+    publishedDateTime: 2020-11-27T15:51:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOKXIAFSLII6TLGIDWCHXLGKOM.jpg&w=1440"
+        width: 1440
+        height: 972
         isCached: true
   - title: "Trump may be coming to terms with loss he won’t acknowledge"
     excerpt: "President Donald Trump still won’t bring himself to concede the election he decisively lost to President-elect Joe Biden"
@@ -374,16 +382,7 @@ related:
         width: 1484
         height: 834
         isCached: true
-  - title: "AP FACT CHECK: Trump distorts military role in vaccines"
-    excerpt: "From the get-go, President Donald Trump has suggested that the military would be central in developing, producing and distributing vaccines for the pandemic"
-    publishedDateTime: 2020-11-28T14:34:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/ap-fact-check-trump-distorts-military-role-vaccines-74435789"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 85
 
-secured: "/2enq4pPCduFTtpQYp4UMQHP8DoJ97KbcVmfZa329p3mKOxQ6t63nqLCz3uMU3ufvrolUIi44RzEDOhp3IS9l/Y5rHTnPn/7sxuJOINYpH/3+nUHS6RaUGLt/5BHtmOwT5ykGq9O+n0wcBqhdKflX1VbkTXFpPpyjasYuK6rxzw3mKgRnP7iw1cP+DoVKVGt/saO5sd6UdEQ5V/Nzjwf6vbvJaxw8/gdWFFarE7K7CpBMyiHKnJniqPTasytwIZv9EFQnrWXRnBPQ4Pnk69i5A0za8IblwXeeoNtvRgQf7NgggLqQ8XtURFjGNB0ADnGTzizjwbDvB6tvnm5E8aep0zZdN8qOuzmcKYUojBxAcY=;eCpm8zFMrGhsPc8ysINC8Q=="
+secured: "LhRZN1PNZKCTVBFeQUIIousxipHsiqQ2cgPtslQqwoPC+qLMLimkFXhJ+g9FsNjRXM3TP9SLrde8tGK/bYxkg3y2ZyiE68csczAdnO52MbPshfZzLHgPvrv8tOLXlY38uS2i7aW0PtTB40sPWs/pJs1KCkV7dtiZQ2NSD6oY3G0LOH006xL+eGUUfYT8WK0jDJVVQKboUpuCtBtC2E/bjJVWkEsdGaqz31BDzRFcZB5BTkTWmjWZVMZKEWpC2rv4HLY9oHtY7LrNrnyS2zMBV8zhyrWVLTSERtE5v7Fle68iQOozlsEUnqXvtIzY4Vxo4YMo/PJyvht5r6hLuxfOPCk1Byqi5QXDgjvdXx+oI7Y=;vX/Jl1GbTv2P0OgefhqaGQ=="
 ---
 

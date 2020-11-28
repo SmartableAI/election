@@ -127,6 +127,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump-Biden transition live updates: New lawsuit seeks to nix Georgia results"
+    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
+    publishedDateTime: 2020-11-28T06:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/Politics/sidney-powell-rt-file-ml-201127_1606499215570_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Is Joe Biden's win a turning point in a hard year of bad news?"
     excerpt: "I usually expect the worst, but this US election feels like a light at the end of the tunnel"
     publishedDateTime: 2020-11-14T08:00:00Z
