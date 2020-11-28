@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Recount in Wisconsin county demanded by Trump increases Biden's margin"
-excerpt: "A recount in Wisconsin's largest county demanded by Republican President Donald Trump's election campaign ended Friday with Democratic President-elect Joe Biden gaining votes."
-publishedDateTime: 2020-11-28T02:24:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-wisconsin-idUKKBN28802A"
-webUrl: "https://www.reuters.com/article/uk-usa-election-wisconsin-idUKKBN28802A"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28802A"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28802A"
+title: "Trump wants to throw out ballots from 238,000 Wisconsin voters"
+excerpt: "The affected voters face losing their voice in the election after following state guidance that was promoted widely, including by the president."
+publishedDateTime: 2020-11-28T04:39:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/trump-wants-throw-out-ballots-238-000-wisconsin-voters/6437897002/"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/trump-wants-throw-out-ballots-238-000-wisconsin-voters/6437897002/"
+ampWebUrl: "https://amp.usatoday.com/amp/6437897002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6437897002"
 type: article
-quality: 140
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542721774&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR012"
-    width: 817
-    height: 545
+  - url: "https://www.gannett-cdn.com/presto/2020/11/01/PMJS/76378a31-ccf9-4b45-bd15-719180b883c5-MJS_Early_voting_nws_sears_1-1.jpg?auto=webp&crop=3378,1901,x0,y500&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -76,6 +76,22 @@ related:
     quality: 140
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541647819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH19T"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Recount in Wisconsin county demanded by Trump increases Biden's margin"
+    excerpt: "A recount in Wisconsin's largest county demanded by Republican President Donald Trump's election campaign ended Friday with Democratic President-elect Joe Biden gaining votes."
+    publishedDateTime: 2020-11-28T02:24:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-wisconsin-idUKKBN28802A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28802A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28802A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542721774&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR012"
         width: 817
         height: 545
         isCached: true
@@ -190,22 +206,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/97f8e63/2147483647/strip/true/crop/3639x2377+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F30%2F81aab5264727991f7a823d391e72%2Fbiden-65717.jpg"
         width: 320
         height: 209
-        isCached: true
-  - title: "Trump wants to throw out ballots from 238,000 Wisconsin voters"
-    excerpt: "The affected voters face losing their voice in the election after following state guidance that was promoted widely, including by the president."
-    publishedDateTime: 2020-11-28T04:39:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/trump-wants-throw-out-ballots-238-000-wisconsin-voters/6437897002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6437897002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6437897002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PMJS/76378a31-ccf9-4b45-bd15-719180b883c5-MJS_Early_voting_nws_sears_1-1.jpg?auto=webp&crop=3378,1901,x0,y500&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Trump campaign would have to pay nearly $8 million for Wisconsin recount"
     excerpt: "President Donald Trump's campaign would have to pay nearly $8 million to start a recount in Wisconsin, a state he narrowly lost two weeks ago."
@@ -572,6 +572,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Yl7TNoa4S/9M+2wUYiu7rxJsb7Nxi+BrEWEgXvc/75Hd35z7PoT9N1am1Z7Q3PgK9fyjbgtUa9iiMR4ZISckRK53UaHyTECYJPtKcp4SvhwhgWCnK7OfSNP43ZqN4h/oKw91GoIAFpI4iTjXxm8uqj6HCdB/TuHlpfulkZWf9BKTwTN/iLzSkmjlcV4MxzdKdfCJZOK/hHwMhH0ixAIO5Vwa9W+BzXhyly9+tMAhdWc8g/tSxfBlc2Ts10ZaY8Xri/jRm1fvRQ9n9vXZGOzS9IvhCIuPY8MLZTwU9h3ZmWQlku9AVGCgBEiNBgoCM3avY0o6J3KoTm3RXrGU9SxYHAzuHTh3+pB9R92uFfqUWd4=;5MSJ7PeK9LjMDLN0FnWvJw=="
+secured: "yK9QYXaz06oy+AupBRYaSo4oV4Xdbv23SmCiGuawrFgXiQqC+GOO0IlNJrLNlkdrEo41R5WS2YGBd+e7hAzICTv/laInlUXY/vyBkCFDVz09IxYOqHDXlNaIBWyM5uCZG3YMRdwivrZtaL5S/3+Wa8dc2ldoNKU1mls5UPyVVR+MLadhAxNovPffXQqeUkymdjCd1uC4yc/U8F4ONzXKAmxGi/dq81hU7zB3rtx1R8anm/0EygLdlUq1pS2FI2b0bSnQQXYXn49RfLdhlicS97Ne4IFToIF5MdaxdUxrLxHq9uWBriobPV1u3d/T+9VvLbiV0jpMe8K+NiPEV9wm4kh4C6XqupXvWca/M2Hnup0=;GEKG0MSZuq/AIwr4DbW+vQ=="
 ---
 

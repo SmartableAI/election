@@ -3,8 +3,8 @@ category: news
 title: "Biden urges 'sacrifice' in Thanksgiving address"
 excerpt: "Rough Cuts Biden urges 'sacrifice' in Thanksgiving address. Posted . U.S. President-elect Joe Biden and his wife released a video acknowledging the scaled-back Thanksgiving celebr"
 publishedDateTime: 2020-11-27T04:30:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVD6CLUCF"
-webUrl: "https://www.reuters.com/video/watch/idOVD6CLUCF"
+originalUrl: "https://www.reuters.com/video/watch/biden-urges-sacrifice-in-thanksgiving-ad-id722408740"
+webUrl: "https://www.reuters.com/video/watch/biden-urges-sacrifice-in-thanksgiving-ad-id722408740"
 type: article
 quality: 105
 heat: -1
@@ -1127,6 +1127,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "l5tebL8CWtV3wJ2TheDtmA+C/+RhNGFFxAL1b1jwmzUcl18tE3diJQpTYDcqdeSQ6X4j7eD41K8TvQj0d8tGL2j7qlM3JQxv9BpMaA6++hYi/Mpgvqa39nU3dCd5s5fDTdRYd3QeExTGvGWDQ09OkE2LP7C/ftQntsUEZc+yOBJpOnS+I/W7plPiq/8RCI6iWkEjTgP77clgxl0HeGmovljQl4AZLpdekb59zTpGL5hnDj+xgnK333Rk/Je42WYeEEBM6Ad65IkZNZfelNSfsbv6RqXC6zUAxyMDKLfHmLcAprlPTeD7P+zq8qcit6ge7XPnQkdMIz/Ybm+H4qLqUaHPEBk6sF67AIi0z3YYGss=;aPi2DU8hpi5ysDJ2yE1ZdA=="
+secured: "poLjMwEeq+qqjJ+k34NLxhZgTSHdtKMBsYNa9cHzkrhW/ydopQHLHW/o67dzqmnYTp6G6mNSFFscncnS3IvPkbiNDDYYs2h2BBrAJ94Tfu/CqzxcgjIhEU618eavFqXEMKO138/FeiYuPxvd4ohF9J27m6TQsyIfq9A4c7jtwCgfWzXM2voXyrp47FLY6tspnowXzQdaVkxF5pauIXWSeyPdyzgilR4YY6+KfAJOpzL2bhxllwc1C+HIogTmZk67lmeiIy9VTOGSC1f+1AqXVT1Thx4W8G6Kb3NxShTUMRVHGQ8XpePVEAvcb0/GNcI3Jo3NTwBC0GkvBhO1C3evPFNy4VII1lihRxxpH3PjMb8=;Ne9zZhSKYKw/OsPFWml/Pg=="
 ---
 

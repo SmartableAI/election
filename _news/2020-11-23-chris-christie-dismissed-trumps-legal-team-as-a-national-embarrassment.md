@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Killing of suspected Iranian nuclear mastermind risks confrontation as Trump exits"
+    excerpt: "An Iranian scientist long suspected by the West of masterminding a secret nuclear bomb programme was killed in an ambush near Tehran on Friday that could provoke confrontation between Iran and its foes in the last weeks of Donald Trump's presidency."
+    publishedDateTime: 2020-11-28T12:49:00Z
+    webUrl: "https://www.reuters.com/article/us-iran-nuclear-scientist-idUSKBN2871OE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2871OE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2871OE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201127&t=2&i=1542679617&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAQ10W"
+        width: 968
+        height: 545
+        isCached: true
 
 secured: "S9H2ssvBvGdR6aOxjFIaC5q15GwxORLSEvA70z6PGRlWwwPpmXwjZRGlPJoEnWiiXa2xme64OHFXKyAIkArY8hOJq6t6h0UtwkfD9/O72XM4LvvPhhSzx0aLpgbV/wFZ2aUENKf6epFISd6BfK0uHZA9xEO67/MVzcpZt2Y9IDgaAPcCiM5GUU2dHw7Ar0xWEuShtxKFHy7Fvb0idJUEnQSHzniNzatbzjLt1QUhoiBrvB7rqmvks9Sj5EQiqqd+VbhAQ1TPepDHBijUi62qURBbSKBuuf0wiqRiLAVxotbhQ5KRS1OrhWKGzLM+ER14fgfj0uwgkdkv8VfnL+R+Y7RlIQQ2AvFakzE+lBGa84zHSliTahcynMaRmFI8JQlLzhrGUPnGzgu2X8ilJAKfHdRY3P7tTp1voVI9kZwFzdaSWMMsk7bvNqk030Q0pBzmEgQfmV8bdCpynkvT7dVgLCLTVBfj4MDrJgQVI4fozCmI/WMvI6xMe73JRel6NZ0Dm1u063LN9q2dfZJ7IVCbUQ==;JmIbrqRwTgHBmUn5sbgKvw=="
 ---
