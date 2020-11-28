@@ -2,6 +2,62 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-10-25-trump-shirks-covid-19-guidelines-while-greeting-a-nearly-maskless-crowd.md",
+      "title": "Trump shirks Covid-19 guidelines while greeting a nearly maskless crowd",
+      "excerpt": "During a campaign stop in Maine, President Donald Trump, without a mask, greeted a largely maskless crowd and signed autographs while in close proximity. CNN medical analyst Dr. Jonathan Reiner says the President's messaging undermines the effort of health professionals advising their patients.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7YgfpVAODTk/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7YgfpVAODTk/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201025173013-trump-campaign-maine-crowd-no-mask-reiner-nr-vpx-00001905-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
+      "publishedDateTime": "2020-10-25T15:02:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-nypd-cop-suspended-for-using-loudspeaker-to-say-trump-2020-while-on-duty.md",
       "title": "NYPD cop suspended for using loudspeaker to say 'Trump 2020' while on duty",
       "excerpt": "A New York police officer has reportedly been suspended without pay for using the department vehicle’s loudspeaker to proclaim his support for President Donald Trump’s 2020 campaign.",
@@ -1292,58 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-on-kamala-harris-us-wont-have-socialist-president-especially-a-female-socialist.md",
-      "title": "Trump on Kamala Harris: U.S. won't have socialist president, \"especially a female socialist\"",
-      "excerpt": "President Trump was back on the campaign trail Friday in his \"home state\" of Florida after the second and final debate against Democratic nominee Joe Biden. Mr. Trump is trying to win over seniors and women,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/",
-      "originalUrl": "https://www.cbsnews.com/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/20/021f18e6-a586-49c0-9a21-c58e187d4dc3/thumbnail/1200x630/5002ee90f26625444a995cd674070d36/gettyimages-1229173896.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/",
-      "publishedDateTime": "2020-10-23T19:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Live political updates: Trump says he would 'certainly' leave White House once Electoral College votes for Biden"
+    excerpt: "President Donald Trump has yet to concede the race but his administration cleared the way this week for Biden's team to have access to federal resources and briefings during the transition. Be sure to refresh this page often to get the latest information on the election and the transition."
+    publishedDateTime: 2020-11-28T01:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/26/trump-thanksgiving-political-updates/6430438002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6430438002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6430438002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "OJ6yR8PTF5Z4A9J5UntCgCd1fXkGMEShSIL42dV6m6h6Yb+cA9BT9fSfleuCKc/5am4mGblFcSRUBsXfa2wXTXb2EoFJjGjgxarfK+ZRwy4LQM2CbiLko+wpssdMquzi7j5u79AmVjvliJMzGJs3Nvmy4Bo87hBbsS1k6u53hDM5txIkQQa6dH4GkuMucioyLcmN5sw0BcRCTOnojItE90aB9QVcoWA5hTtVyXF3Hk00f08uEpblp+bI3KxYlWLCABK/xAPBselChS8zENShDHPZuOyRlqM0aJDyqKGp4iROU7q9KdGXn0IYaBHidxgJ8Wzu6n3gTFtLmUT5CLuUrassAz3x9FwaV/rfrRzU2Cs=;e/2jfmyWeu/K6TQ4zu3z+Q=="
 ---

@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says he'll travel to Georgia to support Republican Senate candidates in runoff election"
-    excerpt: "President Donald Trump said Thursday he will travel to Georgia to support the state's Republican Senate candidates ahead of the January 5 runoff election.\n    \n"
-    publishedDateTime: 2020-11-27T02:11:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzHZPjjJvNo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
+  - title: "Biden picks up small number of votes in Milwaukee County after Trump-requested recount"
+    excerpt: "President-elect Joe Biden saw a small net gain in votes as Milwaukee County, Wisconsin's largest, certified its presidential general election results Friday after a recount requested by the Trump campaign.\n    \n"
+    publishedDateTime: 2020-11-28T01:46:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ARIVU6gRNbY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/milwaukee-county-certifies-election-result/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/milwaukee-county-certifies-election-result/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 179
+    quality: 182
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126174410-01-donald-trump-white-house-1126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104114449-03-election-1104-milwaukee-wi-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -60,22 +60,6 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120084211-secretary-of-state-brad-raffensperger-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Georgia secretary of state says Trump threw him under bus despite his support"
-    excerpt: "Georgia Secretary of State Brad Raffensperger on Wednesday lambasted President Donald Trump, saying that the commander in chief threw him under the bus although he voted for him.\n    \n"
-    publishedDateTime: 2020-11-25T13:34:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i5d0Wd5rurY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/brad-raffensperger-trump-usa-today-oped/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/brad-raffensperger-trump-usa-today-oped/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

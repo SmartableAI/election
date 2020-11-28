@@ -41,6 +41,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Former head of U.S. election security calls Trump team fraud allegations 'farcical'"
+    excerpt: "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\"."
+    publishedDateTime: 2020-11-28T01:36:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-krebs-idINKBN28801I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28801I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28801I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542720087&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR00W"
+        width: 753
+        height: 545
+        isCached: true
   - title: "Trump loses appeal in Pennsylvania: \"Calling an election unfair does not make it so\""
     excerpt: "The Trump campaign lost another battle Friday in their attempt to prove mass fraud in the election, something thus far they've been unable to do. This time, the Third Circuit Court of Appeals denied the campaign's request for an injunction in Pennsylvania to undo the Keystone State's certification of its votes."
     publishedDateTime: 2020-11-27T20:09:00Z

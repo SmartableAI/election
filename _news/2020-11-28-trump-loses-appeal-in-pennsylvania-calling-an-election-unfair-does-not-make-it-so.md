@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Former head of U.S. election security calls Trump team fraud allegations 'farcical'"
+    excerpt: "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\"."
+    publishedDateTime: 2020-11-28T01:36:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-krebs-idINKBN28801I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28801I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28801I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542720087&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR00W"
+        width: 753
+        height: 545
+        isCached: true
   - title: "Trump repeats baseless \"fraud\" claims but says he'll go if election results formalized"
     excerpt: "The president said it would be a \"mistake\" for the Electoral College to uphold what he claims, without proof, was an election marred by \"massive fraud.\""
     publishedDateTime: 2020-11-27T13:51:00Z

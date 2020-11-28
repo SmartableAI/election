@@ -1,22 +1,22 @@
 ---
 category: news
-title: "US appeals court rejects Trump appeal over Pennsylvania race"
-excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case that could reach the U.S. Supreme Court if Trump appeals"
-publishedDateTime: 2020-11-27T17:44:00Z
-originalUrl: "https://www.washingtonpost.com/politics/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race/2020/11/27/31b26fde-30d8-11eb-9dd6-2d0179981719_story.html"
-webUrl: "https://www.washingtonpost.com/politics/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race/2020/11/27/31b26fde-30d8-11eb-9dd6-2d0179981719_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race/2020/11/27/31b26fde-30d8-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race/2020/11/27/31b26fde-30d8-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+title: "U.S. appeals court rejects Trump appeal over Pennsylvania race"
+excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results, in a case expected to reach the U.S. Supreme Court if Trump appeals."
+publishedDateTime: 2020-11-28T02:10:00Z
+originalUrl: "https://www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
+webUrl: "https://www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
+ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?_amp=true"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/025f283/2147483647/strip/true/crop/2250x1470+0+148/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2Fd7%2Ff2a2f876a9c5e89d656995c7e5e7%2Fd8e652343354489388066c03aeb545e3"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -233,6 +233,6 @@ related:
         height: 600
         isCached: true
 
-secured: "dBMJyYMI31oIV440OWXK73urJd6uOVbkLx7E0KKnovl8qCOaa3oOUXdnzucULRsTO4OSiOXQKblIlMWw095fAn91yQxhsPTmu3TGnFITrj3ZsEyrXaYpe6LAMoOtKyUjwhH2d7CGl5Sj9Rr669Ldu30Hd4cd1GPMT06RuJ1RPenoF23C+Q83wqX+ckgxc+PCIwQVzf/vAI0umbcOOwAbT8Nlr1fzjFI6CyEcYzHNa2D69jdCbVWYML/+4yebxT0ho8MTbSNQsEHkhgdGUi5ELPkS5R8Y09dAOyqvNyjTSj5GyqWvqAktQnbu40jfYC/vXqC82q+g3VkFufAVUuDr2ZhY2Fa7FKI4uBXVkKGdvrM=;sXipVRZ7uMvIFRcsDZVPRQ=="
+secured: "TeDqw3Scycl6G9VG7vzt+byeAeca1B8nYQM5i5qoQrslFJokadXcQrTLmWDOTTGdnrXQmunc1oLZGZ3o4lblW3LivPjBCVdmN0NxADBWclxG5ik9yMQ8tJFQyc2uh/sena5oVkdMISIQbXedSza0Ns+jKq41F4RbdGx87esmrP3ROZm+txxgzo30ke9AZqhbm1nCPcQ/3yn42YNNo5C0+P/uCRHmY3i7dJHGg8emvKkreCQhmvm6wWzLd22Our18zbZFun9TxDHA+w2R6w+CNfi9/dkUuFfFY4gNxzSJNWlyCPvmbMQB3mrCBEM6JmQjYjq4il/TIEFFGl3yNMEMpHoYQdDvsiezl0eW99XSsH4=;ie522Hxs3kAEoz0jftH/JQ=="
 ---
 

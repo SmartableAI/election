@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-11-09-campaign-leaders-agree-ohio-still-a-battleground-despite-donald-trumps-two-victories.md",
+      "title": "Campaign leaders agree Ohio still a battleground despite Donald Trump's two victories",
+      "excerpt": "Ohio campaign leaders for both President Donald Trump and former Vice President Joe Biden said Thursday that Ohio is still a battleground.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/05/campaign-leaders-agree-ohio-still-battleground-despite-donald-trump-victory-joe-biden/6149084002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/05/campaign-leaders-agree-ohio-still-battleground-despite-donald-trump-victory-joe-biden/6149084002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/05/NCOD/313f5c19-f353-49b3-a68a-8ef0bfe7b9a8-vote_rally_JB_01.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6149084002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6149084002",
+      "publishedDateTime": "2020-11-08T12:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-wonder-woman-star-lynda-carter-celebrates-kamala-harris-win-on-45th-anniversary-of-the-show.md",
       "title": "'Wonder Woman' star Lynda Carter celebrates Kamala Harris' win on 45th anniversary of the show",
       "excerpt": "Wonder Woman” actress Lynda Carter shared a congratulatory note to Vice President-elect Kamala Harris on a special day for fans of the superhero TV series.",
@@ -1273,58 +1325,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-election-2020-exit-polls-political-pundits-utterly-failed-to-predict-donald-trumps-voters.md",
-      "title": "Election 2020 exit polls: Political pundits utterly failed to predict Donald Trump's voters",
-      "excerpt": "How could the polling be so wrong that it seems Donald Trump gained support among women and racial minorities? There really was a shy Trump voter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/11/07/election-2020-exit-polls-trump-minorities-race-women-column/6191966002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/11/07/election-2020-exit-polls-trump-minorities-race-women-column/6191966002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 410,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/29/USAT/95eda6cb-d6de-4681-af51-0488a19e59f5-AP_Electon_2020_Trump.jpg?auto=webp&crop=3599,2024,x0,y183&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6191966002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191966002",
-      "publishedDateTime": "2020-11-07T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

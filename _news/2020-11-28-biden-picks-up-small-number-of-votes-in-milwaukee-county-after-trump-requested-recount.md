@@ -1,0 +1,69 @@
+---
+category: news
+title: "Biden picks up small number of votes in Milwaukee County after Trump-requested recount"
+excerpt: "President-elect Joe Biden saw a small net gain in votes as Milwaukee County, Wisconsin's largest, certified its presidential general election results Friday after a recount requested by the Trump campaign.\n    \n"
+publishedDateTime: 2020-11-28T01:46:41Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ARIVU6gRNbY/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ARIVU6gRNbY/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/milwaukee-county-certifies-election-result/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/milwaukee-county-certifies-election-result/index.html"
+type: article
+quality: 182
+heat: 222
+published: true
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104114449-03-election-1104-milwaukee-wi-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "GA secretary of state: I'm a proud Trump supporter but numbers don't lie"
+    excerpt: "Georgia Secretary of State Brad Raffensperger spoke after his office confirmed that President-elect Joe Biden defeated President Donald Trump in the state and found no widespread fraud after a statewide audit.\n    \n"
+    publishedDateTime: 2020-11-20T13:56:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vS1u39yPSrY/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/20/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/20/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120084211-secretary-of-state-brad-raffensperger-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump campaign requests Georgia recount that's unlikely to change his loss in the state"
+    excerpt: "Georgia will conduct another recount of its presidential ballots following a Trump campaign request Saturday, but the recount is extremely unlikely to change his loss in the state.\n    \n"
+    publishedDateTime: 2020-11-22T05:38:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/57IMkYkp5ok/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/georgia-presidential-election-recount/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/georgia-presidential-election-recount/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111113617-ballot-counting-georgia-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "nm/6sGTtkYtS5RslvIsCOJFDr5CFlnRi+i7lWzorMjEAs+MbnCu1BDLdtDYalE/hc7pXoXB/9H3bgNCDH+bJ9EsrkiWgMZ+0LNCIU4Cils8m4QLI1jW8kEupnitZ2UVR5H2TWLspKv9MEg/iU2FT16h3stTWFrxMIBoiR4jadhGKdVhX4zBGCoyb/CB2+FSA/RquvU93v7U/C/W8U8DDMn9Oh+7e2RhLoCB3FoGK9ZFlMD3IhF8YO0a6O+yEtFRpEkYT68q9h5vuhui/kg1wY1laLHYhzgeACQ/9GO30PJiZuHuqKy4Lnc4MTVpsE5VsUeI5qPHcQLWbQeDpsKiUEoUCCuvOFBqSfdJ51XDfg3E=;2zJBL2HjOWxXH/4EakNjFA=="
+---
+

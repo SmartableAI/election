@@ -627,6 +627,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Brian Howey: The prospects for Trump and Pence in 2024"
+    excerpt: "Whether it’s North Side Gym in Elkhart or the Southport Fieldhouse, or packing Evansville’s Ford Center with 11,000 supporters in September 2018, President Trump was at the spearhead of a"
+    publishedDateTime: 2020-11-28T01:41:00Z
+    webUrl: "https://www.kokomotribune.com/brian-howey-the-prospects-for-trump-and-pence-in-2024/article_a5df7dbe-30fd-11eb-83bb-d3f7ce95802a.html"
+    type: article
+    provider:
+      name: Kokomo Tribune
+      domain: kokomotribune.com
+    quality: 70
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/kokomotribune.com/content/tncms/assets/v3/editorial/f/b3/fb318d50-1ac0-11eb-a03e-cf51658a5e07/5f9c2b30bd8d8.image.jpg?resize=800%2C550"
+        width: 800
+        height: 550
+        isCached: true
   - title: "President Trump and Vice President Pence Hold Rally in Traverse City, Michigan"
     excerpt: "Trump and Vice President Mike Pence deliver remarks at a campaign rally in Traverse City, Michigan. President Trump and Vice President Mike Pence deliver remarks at a campaign rally in Traverse City,"
     publishedDateTime: 2020-11-02T22:41:00Z

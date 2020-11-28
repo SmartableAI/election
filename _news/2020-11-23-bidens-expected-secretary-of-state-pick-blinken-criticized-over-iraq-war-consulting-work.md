@@ -227,7 +227,7 @@ related:
   - title: "Joe Biden’s Transition and Cabinet Picks: What Happens Next"
     excerpt: "The president-elect’s team now has access to cybersecurity assistance, FBI background checks for prospective nominees, the ability to see classified information—and more intelligence sharing."
     publishedDateTime: 2020-11-25T03:09:00Z
-    webUrl: "https://www.wsj.com/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123"
+    webUrl: "https://www.wsj.com/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123?mod=latest_headlines"
     ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123"
     type: article

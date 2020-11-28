@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden’s Transition and Cabinet Picks: What Happens Next"
 excerpt: "The president-elect’s team now has access to cybersecurity assistance, FBI background checks for prospective nominees, the ability to see classified information—and more intelligence sharing."
 publishedDateTime: 2020-11-25T03:09:00Z
-originalUrl: "https://www.wsj.com/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123"
-webUrl: "https://www.wsj.com/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123"
+originalUrl: "https://www.wsj.com/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123?mod=latest_headlines"
 ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123"
 type: article
@@ -241,6 +241,6 @@ related:
         height: 320
         isCached: true
 
-secured: "sC7RBRcA0Pa83WGypqxu9FT2vYPUp7rjPTeY2VIBzN3Db/nxBPoc1DBQRU9S5all63V7dy0YXz1UnctLT0yJwllfwoLlzZFL606Kc1pHMlMIGZJau9jIUP63NlNU0RLRkl0XD0BkR1RPV9iWMxR+tBVDArqTFRit0SHw01j3G8n4xBsHuNApeKe1xuyEL/exu7MA79uCD5n+E56kPWGczmvvBjE7w3OtbvsjieAaJhCRnbpN9DEiGeZmTVRRacfItDlB4dykEodUKV0alwMhWx9Gdq2sBekY4YMjm4W5vJZbygUcP5FPSbFTulLStYze5r1OCmgN247x/kRSiRPh1hIfZMV5xPDzH07PC0UQd9QDyrU2j69ZbPD1QWJeen3T/Zet8TozYoF/U07TqXK2kqTX33NrikqgrJCD3mhNQi/PyBxXeEEYqYb5xoi082HJRUdVwDf4B7Ab7qkCYM2TTtboaSAq8r0Rg7LK8Maz4odI5/BCfhl+WR00FBVWqQlk3Ju31qrrFKCmSia5rdtkHA==;UW5r7Gui80IsIGuh9sqoAQ=="
+secured: "kYibVvYw5Qr90B2WzFdwRWTh0Z0cpX+eRN8xTcFb29VcJPpenuK6c9cPUpuBxWXFuG2Ran9ElWe2LLyPT6s4qa9i8rKsgf+xnTF0a+QD561+m3mwR0wFOpBa1cW05rrzMQrwHa+TLqePQpGgM5uAQ3n3hkMU/KSTbFDL5LQkcDTtUjaqN1H1fiW0EsMuRWbytuJimf+S7QH21WvgC7ld5/A4WKSZlLzRhwuqe23OyYurE0gyLWN8ue73tO4UHYjD/JmPeWT12NBsXJ1CTwoD78kNtGMlyZEUK1PEohaYxxITSTsC4uegK+UFNcyndP7yBqfCKOX82frdCvGWM36MM4musvuyiGcQUGz51kQWxDE=;a17uo/TNGC8Wxq3Jk7bIUw=="
 ---
 

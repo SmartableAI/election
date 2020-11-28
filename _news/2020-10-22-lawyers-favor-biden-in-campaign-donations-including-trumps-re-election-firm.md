@@ -4534,6 +4534,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Donald Trump says he will leave White House if electoral college votes for Joe Biden"
+    excerpt: "President’s comments are the closest he has come to admitting defeat in election and set stage for college vote on 14 December"
+    publishedDateTime: 2020-11-27T16:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden?fbclid=IwAR1sYdPoTekpng8l4Q9hs6FjbhKwQ8O2yGf00fA3lYVmH15P5mtj0KBNii8"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 133
+    images:
+      - url: "https://i.guim.co.uk/img/media/755405bf9d02bc44a7cd2985df5d5f4c68ea5d83/0_201_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d693631fc3d6aa138b12ad27ee158249"
+        width: 600
+        height: 360
+        isCached: true
   - title: "As Obama stumps for Biden, another chance to vanquish Trump and protect his own legacy"
     excerpt: "Obama argued his administration’s accomplishments were tied to the outcome. That’s true again as the 44th president ramps up his advocacy in the 2020 campaign’s final days."
     publishedDateTime: 2020-10-23T22:27:00Z
