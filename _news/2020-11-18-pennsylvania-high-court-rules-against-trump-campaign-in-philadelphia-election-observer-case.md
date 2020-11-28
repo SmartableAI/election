@@ -350,6 +350,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Trump claims Biden must prove his votes were legal to become president"
+    excerpt: "President Trump on Friday claimed that Democrat Joe Biden must prove his win in Pennsylvania wasn't \"fraudulently or illegally obtained\" to become president. "
+    publishedDateTime: 2020-11-28T07:28:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BpVj8U08b4w/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/903d7caa-6386-4844-aa0c-b4697bfe26e7/57c22f54-2652-4ec5-84ce-0c8701537f33/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Biden campaign manager heads to White House as Trump hails 'bit victory'"
     excerpt: "Follow for the latest developments on the 2020 election."
     publishedDateTime: 2020-11-17T11:07:13Z

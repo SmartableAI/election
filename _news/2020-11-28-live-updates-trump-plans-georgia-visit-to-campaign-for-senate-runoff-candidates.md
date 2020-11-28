@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Live Updates: Trump to campaign in Georgia for GOP senators ahead of January runoff"
-excerpt: "President Trump said Thursday that he plans to visit Georgia to campaign for incumbent Republican Sens. Kelly Loeffler and David Perdue ahead of their Jan. 5 runoff elections. "
-publishedDateTime: 2020-11-27T12:15:48Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vVYQur-2_hY/live-updates-georgia-senate-runoff-november-27"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vVYQur-2_hY/live-updates-georgia-senate-runoff-november-27"
-ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-runoff-november-27.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-runoff-november-27.amp"
+title: "LIVE UPDATES: Trump plans Georgia visit to campaign for Senate runoff candidates"
+excerpt: "Follow for the latest updates on the January U.S. Senate runoffs in Georgia"
+publishedDateTime: 2020-11-28T08:36:52Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aMxmbeYxM_U/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aMxmbeYxM_U/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates.amp"
 type: article
-quality: 169
+quality: 170
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd7fefb9-d30f-4b07-b566-01eaa53e3755/8d5fa08e-5e27-4a9c-a15b-c6985dcf9a95/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f81d5bb-aaa9-4e45-b0bb-04c49b11546c/7ff0a562-bdd7-4c0c-97eb-8c80f3b3ca71/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -79,19 +79,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Trump plans Georgia visit to campaign for Senate runoff candidates"
-    excerpt: "Follow for the latest updates on the January U.S. Senate runoffs in Georgia"
-    publishedDateTime: 2020-11-28T08:36:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aMxmbeYxM_U/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates.amp"
+  - title: "Live Updates: Trump to campaign in Georgia for GOP senators ahead of January runoff"
+    excerpt: "President Trump said Thursday that he plans to visit Georgia to campaign for incumbent Republican Sens. Kelly Loeffler and David Perdue ahead of their Jan. 5 runoff elections. "
+    publishedDateTime: 2020-11-27T12:15:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vVYQur-2_hY/live-updates-georgia-senate-runoff-november-27"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-runoff-november-27.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-runoff-november-27.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f81d5bb-aaa9-4e45-b0bb-04c49b11546c/7ff0a562-bdd7-4c0c-97eb-8c80f3b3ca71/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd7fefb9-d30f-4b07-b566-01eaa53e3755/8d5fa08e-5e27-4a9c-a15b-c6985dcf9a95/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -158,6 +158,6 @@ related:
         height: 500
         isCached: true
 
-secured: "YHmzx4/mDxlfJHDXcwCg7gVHVtdVkKa+/ehlfx/pjULmHxSXX4tw5nJ5oY/ut3E8f1t3YrhXHqj6UzLbe2fhiMdaEWPebTQydUUkrlHSuJ/9LTUOogEA1Nw62tJQ1oMMcfCbGNrfO3mb3/Q5ZnhYj7PxdmuzE6/PsR6Uc0dau0XwCLAvdz9wDKr9e1JI0wO0CBKrhVJOROCv0GZ0UqzJ8sDZVS7MPmC1I7kiqDok3NWrCfDF6kX2+16mxQXbG3YXniHrAvQsAyglvH65f0gLkhTuVIGeZPqMBVuzWzB2QdjbDkYIxXrgUTOVfmjjsQsLd+O1w77jiFgxbRM3JpKJxgw+IahP5duHT5y8OYT6K7c=;ljC+bZgwhpA+e1fqRqYdIw=="
+secured: "2IhfN17BijWa7dcaRa+XVTUAcvv8i204RNWvP5UlapFULSedjKy5Vy0lKS21Inn3jRx9ub6bndBs/XV2X6eKxZXzFcOn7SX4gwwguzenxWF226GpIEwGrlB9sJ6iGGPns8nX58rrVowrLxeesA1G7mpPhUGV/maGAqTvUzIGzSe6hcSAngPPWE11elVizAE9GhXHpigFi95ihtiNawqopaZz4NRDmHIzL1c8kT+Ob7p86BL+Z101aL5hYxD0v9fE8y1X5+EaWivFcOK7BrB/C/q7M1RTPXslqe6M+cimIjgbMhRWftlgQvE8m/AHgmhFwJvfq+ItnPGRVpsmBWEL74nWFJHu5k5MATHkD5V31aY=;5ILwkVSXIYmzr+wjikc5wA=="
 ---
 

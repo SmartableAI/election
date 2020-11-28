@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump says he will leave office if Electoral College votes for Biden"
-excerpt: "President Trump said Thursday that he would leave office if the Electoral College votes for President-elect Joe Biden, and also alleged “massive fraud” in the vote count and promised to keep up with his legal fight."
-publishedDateTime: 2020-11-27T00:06:56Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GE1uDdh9e-c/trump-says-he-will-leave-office-electoral-college-votes-biden"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GE1uDdh9e-c/trump-says-he-will-leave-office-electoral-college-votes-biden"
-ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-will-leave-office-electoral-college-votes-biden.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-will-leave-office-electoral-college-votes-biden.amp"
+title: "LIVE UPDATES: Trump claims Biden must prove his votes were legal to become president"
+excerpt: "President Trump on Friday claimed that Democrat Joe Biden must prove his win in Pennsylvania wasn't \"fraudulently or illegally obtained\" to become president. "
+publishedDateTime: 2020-11-28T07:28:31Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BpVj8U08b4w/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BpVj8U08b4w/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president.amp"
 type: article
-quality: 190
+quality: 183
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/1Trump.jpg"
-    width: 604
-    height: 344
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/903d7caa-6386-4844-aa0c-b4697bfe26e7/57c22f54-2652-4ec5-84ce-0c8701537f33/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -174,6 +174,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump says he will leave office if Electoral College votes for Biden"
+    excerpt: "President Trump said Thursday that he would leave office if the Electoral College votes for President-elect Joe Biden, and also alleged “massive fraud” in the vote count and promised to keep up with his legal fight."
+    publishedDateTime: 2020-11-27T00:06:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GE1uDdh9e-c/trump-says-he-will-leave-office-electoral-college-votes-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-will-leave-office-electoral-college-votes-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-will-leave-office-electoral-college-votes-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/1Trump.jpg"
+        width: 604
+        height: 344
         isCached: true
   - title: "Biden’s Electoral College victory projected to be same as Trump’s in 2016"
     excerpt: "After the secretary of state Brad Raffensberger certified Joe Biden winning Georgia after the state’s recount, the president-elect’s electoral victory margin is equal to that of President Trump in 2016. "
@@ -332,22 +348,6 @@ related:
     quality: 183
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d839f2e5-8d70-41f4-8154-eb3f68428ce7/40bab2b2-e7da-4186-bd50-ee573bd704e8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump claims Biden must prove his votes were legal to become president"
-    excerpt: "President Trump on Friday claimed that Democrat Joe Biden must prove his win in Pennsylvania wasn't \"fraudulently or illegally obtained\" to become president. "
-    publishedDateTime: 2020-11-28T07:28:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BpVj8U08b4w/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/903d7caa-6386-4844-aa0c-b4697bfe26e7/57c22f54-2652-4ec5-84ce-0c8701537f33/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1318,6 +1318,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "Igm6aR2wdrHxaAnyrh1xIAcH/Sad1WzrexB1ls8XsR2JxoFywVloMb+bofTmHQ3mIMdBsw23cASEQti83zQQx86AD16UN+JsL4ILeR49C54vsmCoIES27fJXXuAxHOOG46CBbVm1NwLslOKCrhIxaYmVqMHqd3qnmSBIKGuku1SgNmWhbevFsKJczMLF/hFnbZZ8unK7Hrq0mKsYqUQybty6D1WRCAt5Nq111Y/r2K8a8OQBhGmYyqg5b+IMAEgmcMApcbH1rlArX986cl06sC2+Tb+J/n0ZHiw0ozmnsgoWHS9jmkkAieiyhokWSTySAIdqdGrjTYPT0FngGaSn7wOIXdfeCOJYfD90Rc8r8mI=;Kww699CHyWeHM3odq2jkYA=="
+secured: "SIVY3HCDVpb1jpNs2ZiKPuLQgNwF+9es026AEtaULdruUZCvDHzxdt25BVUTDWCKSYe6Ilx/tLojBVbOt3IzyTzUeUMpbj7iLNEWdiC8/JxB66QK+dz+mNKknixGpwxpKU8tuquFVDYE7TJJ2xhIMl1nVWEXvilaxXZwgn7YBv9OMeZufQdx/hk88GqYvOQmGiZ0UkXn4cd0QV0N2ZhVLMA5B4N5g72X9IZRyke0nub6K7CkHUEAaeeqIe6mlvkIsCtfHeg+Hm10lwtH3kbA8zYSx03aWvJS6/1cB4jEc0keWCxfFunGLdh8Yu8tsskM+zbVtYmWhmiyFWn+5vtDqjfW5stQzEH2lV/a9TRU4j8=;LPdE0DB+ao3PQndr1E470w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-con
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-congratulations/index.html"
 type: article
 quality: 190
-heat: 650
+heat: 670
 published: true
 
 provider:
@@ -398,6 +398,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/27/world/27TRANSITION-BRIEFING-TRUMP1/27TRANSITION-BRIEFING-TRUMP1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden was pilloried for his criminal justice record. During his presidency, advocates expect change."
+    excerpt: "\"The only thing that he has to go in and do is continue to capitalize off of the momentum,” one criminal justice reform advocate said."
+    publishedDateTime: 2020-11-27T23:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-was-pilloried-his-criminal-justice-record-president-advocates-expect-n1248923"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248923"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248923"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_48/3430552/201123-joe-biden-jm-1644_4afc97d601e1f8baf60ef02aec02b8f1.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "7ec3muiqeGzKDDIfpBSSWMHxw8xI10XLLT/0/kq1oeVqxDU/AmpvmueFuWXxHd3gEQR4flSvwobhqihIKiN4/TskJoj4r8ltfG80Co0P2nLW6pXT1Sb/D/CmoIHA1/ayotxL17+CysA4Wi7xjxyFgh+v/8bjikyKP+3DRvDFCEMuQzhukJ1lVQUxQzxyG4sdFcJnnM+3EknnsnAkGwmTwTCx5/aEQZ1E2WUvXMzgBSjUjW/QhIe/zP47je+v0gDvRq0MRSeoKcQ4ka6annPf29ZRYLqznuIpDO21nBVs8GnICKIWpvcvcAU90bVgoQu3qAZPcMpZFmzp2FEOmQQZmeDFASBM4foi8yKBIWk7hh4=;pBD/nQc48ZIWcZSllaazTQ=="

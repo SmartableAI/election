@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden Considers Roger Ferguson to Lead National Economic Council, Gary Gensler for Deputy Treasury Secretary"
-excerpt: "President-elect Joe Biden is considering TIAA CEO Roger Ferguson to be his National Economic Council director and former Commodity Futures Trading Commission chairman Gary Gensler as Deputy Treasury Secretary,"
+excerpt: "Joe Biden is considering Roger Ferguson to lead the National Economic Council and Gary Gensler as Deputy Treasury secretary."
 publishedDateTime: 2020-11-25T22:32:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/?amp"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/?amp"
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/"
 ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/?amp"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 660
     isCached: true
 
-secured: "u7wgy+1LFCGEV+PS/1rZVfvUsfwoxmOK1Uy1WZXpGr74tkghPp/gdt+KxZRwpeoDgSzc2vKWX/RQzPVQ6jBPFXQWnWYsF06l2gDUoRaubVTsJDufGKkvrNTxyXp9wJiBr8VB8fYvQQLDIhjiE1CVgwcZ7i81HCaIUzEwNLacMtROWFeVECMbsNk9qvQ9jYtRA18PgFQsG8BlqUgMLh95LbyTLP81VINsMwRT/Q20Wmt4ZjoBQ0LyQbd7EkPgFaSdbHjwXZjr79ntNhXkO+JuyCXwe8E3aqEumNwJfjaUfmiVmhY2kgxHhoMDxzg2FlzonZoY5yLxGNP0jB4h2VVoQAg/8o1hQgxusGmwtURlfeO1b+eEXknku9tMHjWomxjuR5vs4PteZXy66V0hTk01NQT86Rxslq6n83in+Je/jjSbd8RfKBIshGhV72bkKM0fFK2tWuCg1+3Y/U6YhslxAzWvd6QXuP20hX0+xslSdtURZaksQ8vF8Q0A2odmU5oVdRwveqQNCW8B0QMVmG+ouw==;YzCHZEGpcQEJzKKxoGl1ag=="
+secured: "u7vtlsKsG0Frl9D643XoSrfA3/ZXPV8F98EQJS9al5eGy6UW+OwUM4O9hK6Q1C0wel1nQD6aslOQl8cWBkqlk82W23Wi98yqURS/LYjOWZ2bL7e8N/eAcJdGGfYXgIGGV3O2C9p6HNi7L3r/MSscG4aGByFQbN+ajbHUcj2L73YJevmvfGuOop/farjKRRih0XSaxZHlX2YaNc364Z93prMxXqG7Uujg4WaH1sfOftixjjitm/6BjhyqrKbN9d0dB5+B5vBY29hHcOxNpdELaoGrEjrzM1n48CLUNJ7fJz+QVYZMehi1E7FK1IA7jRYpq34kDVn1F2v13WugV2IwN26PDaaOTqrHt4SL8+SNggw=;/4XGG/aY5y/XfT/Je1xRtw=="
 ---
 

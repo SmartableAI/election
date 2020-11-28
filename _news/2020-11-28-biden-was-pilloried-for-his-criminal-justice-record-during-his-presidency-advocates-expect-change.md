@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump refers to ‘Biden administration’ in sign of election acceptance"
-excerpt: "President Trump took questions for the first time since the election on Thanksgiving and committed to leaving the White House after President-elect Biden’s win is formalized by the Electoral College."
-publishedDateTime: 2020-11-28T00:14:00Z
-originalUrl: "https://www.nbcnews.com/nightly-news/video/trump-refers-to-biden-administration-in-sign-of-election-acceptance-96764485696"
-webUrl: "https://www.nbcnews.com/nightly-news/video/trump-refers-to-biden-administration-in-sign-of-election-acceptance-96764485696"
-ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96764485696"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96764485696"
+title: "Biden was pilloried for his criminal justice record. During his presidency, advocates expect change."
+excerpt: "\"The only thing that he has to go in and do is continue to capitalize off of the momentum,” one criminal justice reform advocate said."
+publishedDateTime: 2020-11-27T23:25:00Z
+originalUrl: "https://www.nbcnews.com/politics/white-house/biden-was-pilloried-his-criminal-justice-record-president-advocates-expect-n1248923"
+webUrl: "https://www.nbcnews.com/politics/white-house/biden-was-pilloried-his-criminal-justice-record-president-advocates-expect-n1248923"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248923"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248923"
 type: article
-quality: 165
+quality: 120
 heat: -1
 published: false
 
@@ -22,13 +22,13 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_kod_transition_of_power_biden_201127_1920x1080.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://media1.s-nbcnews.com/i/newscms/2020_48/3430552/201123-joe-biden-jm-1644_4afc97d601e1f8baf60ef02aec02b8f1.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -272,6 +272,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump refers to ‘Biden administration’ in sign of election acceptance"
+    excerpt: "President Trump took questions for the first time since the election on Thanksgiving and committed to leaving the White House after President-elect Biden’s win is formalized by the Electoral College."
+    publishedDateTime: 2020-11-28T00:14:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-refers-to-biden-administration-in-sign-of-election-acceptance-96764485696"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96764485696"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96764485696"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 165
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_kod_transition_of_power_biden_201127_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Pompeo says State Department will 'honor' promise to conduct transition to Biden administration"
     excerpt: "Secretary of State Mike Pompeo said the State Department would \"honor\" the Trump administration's \"promise\" earlier this week to begin the transition with the incoming Biden administration, weeks after suggesting the President would win a second term.\n    \n"
     publishedDateTime: 2020-11-27T17:04:22Z
@@ -400,23 +416,7 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden was pilloried for his criminal justice record. During his presidency, advocates expect change."
-    excerpt: "\"The only thing that he has to go in and do is continue to capitalize off of the momentum,” one criminal justice reform advocate said."
-    publishedDateTime: 2020-11-27T23:25:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-was-pilloried-his-criminal-justice-record-president-advocates-expect-n1248923"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248923"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248923"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 120
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_48/3430552/201123-joe-biden-jm-1644_4afc97d601e1f8baf60ef02aec02b8f1.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
-secured: "h29a5sbza8VEPwz0QPRLwPS9VgwWckm69y3nXjaiGNi3F9FN+5dKtzv3vCgPXb6jzV4MUv+bvPB9cxnuLQ2m5VkggiW6onqldYJ3z8wAc66Ur3s84DdBKMRSyDZReTnV78dSzD6oaaMfm0esYVHhIaLX2Nv9KG6wIbdHfgfYtVd7+VCmNc5De+S1eBXnp6pNEb+tbiyJMEA43Pp4bJzmp7vSE16DR569phrtON+Xj+qrimmWH1DECD0A0uLmJ3BR8DFuP0bnYiS7ja8ezAoskqsfUS+7grST6UhyBekBUyYsrxyW8qNTnf6nGBpradxSdWKbwEaASl/F08Vbjrfycykv40FutkCytWaGPGEB/9E=;weWWzZ6D62MYMpEf4+DEEw=="
+secured: "mAIs7S9XYE4xtYauUF/+Ft2E9mFsnlrHVm0BIDdT9GS2b1OWbAnzbadFjoeWBMRvMfehcrwFTC95ISUc+jsj+3ynIEIGUEdfiCfjzqo0Ukx4/T4hBgt9TRWzP+ECrRU6BTnLYRUzUwtYADLsyOcIjZ3u3xH4YM2vgoA/cDrpaXXaSl/zwOc1Sem7R2x3GG9lPXOUpq46QdgK70Cvudi1Ax+kXlQRhhFOz0PtlXUKBSsGJ8TVdUkI4vF4G+yQHpUL9Fn6K1mRuTcMIy66E9SuPKSLQGA/cwUwr8kC64KRIwpLWkkZFheSt11smqXShW5RlrYRWmvy/6dYHHbWVv2j3Wwyesy+ROMu+OQzdue1Wls=;NZZQgH/VGmtA+maqHV960Q=="
 ---
 

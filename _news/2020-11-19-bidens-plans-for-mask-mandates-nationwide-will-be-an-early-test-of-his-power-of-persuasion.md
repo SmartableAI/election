@@ -399,6 +399,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden was pilloried for his criminal justice record. During his presidency, advocates expect change."
+    excerpt: "\"The only thing that he has to go in and do is continue to capitalize off of the momentum,” one criminal justice reform advocate said."
+    publishedDateTime: 2020-11-27T23:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-was-pilloried-his-criminal-justice-record-president-advocates-expect-n1248923"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248923"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248923"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_48/3430552/201123-joe-biden-jm-1644_4afc97d601e1f8baf60ef02aec02b8f1.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "yfJNbp5zbn4SgJZghS5Uqsm9yKjDFEVeUuQWtd4UYJaMDO8T+blU5qoED9x/yL/uMwtJPT/LUZIBhC8uq65+XyxxgCXAgQnvKAJ9mKssqq7HM7zAWpwIphpEzvS6rvOBjHLSeZaHq1KR4cOzHaR6YbKHVF5r8NfmuJUjOcDZk5w/f+aS6XpV+3mhnEbfpdrCFf0QocL0dRnYxnpYNjzMCawA5MqtHDxLp6PJMndgnwZozDcXQYFKszA4zo23L/sQ7R3j03UUombSbk37w50HsnI1DEEAUvSmXppY04YyA+le+bCRFCt7MSKpjQew8ijM23EhTpiRPYjCl8uCwbC6/sJS4WFjpcau4Dci5eh2GqI=;lT4BjvLzOJOCvUOuGsv/Yg=="
 ---
