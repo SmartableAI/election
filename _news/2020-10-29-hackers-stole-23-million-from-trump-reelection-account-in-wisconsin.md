@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-2
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/"
 type: article
 quality: 140
-heat: 820
+heat: 840
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 140
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541647819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH19T"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Recount in Wisconsin county demanded by Trump increases Biden's margin"
+    excerpt: "A recount in Wisconsin's largest county demanded by Republican President Donald Trump's election campaign ended Friday with Democratic President-elect Joe Biden gaining votes."
+    publishedDateTime: 2020-11-28T02:24:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-wisconsin-idUKKBN28802A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28802A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28802A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542721774&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR012"
         width: 817
         height: 545
         isCached: true

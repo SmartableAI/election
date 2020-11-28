@@ -43,6 +43,17 @@ related:
         width: 909
         height: 630
         isCached: true
+  - title: "Janet Yellen and Kamala Harris keep shattering glass ceilings – but global elite boys club remains"
+    excerpt: "Young, University of Massachusetts Amherst and Tuugi Chuluun, Loyola University Maryland (THE CONVERSATION) Janet Yellen may soon become the first woman to lead the Treasury Department, about six years after shattering another glass ceiling at the top of the Federal Reserve."
+    publishedDateTime: 2020-11-25T13:37:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 91
   - title: "Kamala Harris Calls Bay Area Teen to Thank Him for Painted Portrait"
     excerpt: "A Bay Area teenager with impressive artistic skills has captured the attention of Vice President-elect Kamala Harris."
     publishedDateTime: 2020-11-26T19:22:00Z

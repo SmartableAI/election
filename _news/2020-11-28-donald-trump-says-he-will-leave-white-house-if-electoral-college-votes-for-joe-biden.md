@@ -8,7 +8,7 @@ webUrl: "https://www.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-wi
 ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
 type: article
-quality: 133
+quality: 143
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://i.guim.co.uk/img/media/755405bf9d02bc44a7cd2985df5d5f4c68ea5d83/0_201_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d693631fc3d6aa138b12ad27ee158249"
@@ -12352,6 +12353,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "09zbjT/uNi81g0xygNBU0rb3wx9oybWkbVocnGkbDGTpUO7yAZEShzQot4FVJPv7wC1Eg+SMvn7r6fpP3NzopSA/0lYBIG/RxWbBcHDgxe/X0Ig6tcQdjeuEC+tM0tTyPYfHcdHtkRSEYoOEFvv4GH3/wFFeooBh0geva9XcX4mCWboz3WLD7t+UaJysrsfsPEjXJ+vchJ5iJMZKkyFKdQcLyNQeQz90US45rsH3UU2vWjJqv0Bk1ZTkr04bna7xOorLb/cwa6VxwNWam5nII3kt1frniptpDn/R3qFzql1dwqGtefNpt+uFnQnAJAcYKiV8MYwWGLyN9vI5/Dx1bAxee6JNH6BAXM9Jvm+4AxU=;rDTKHFRsXnloUpafpolMQw=="
+secured: "pP0XKH3J5eaVU6/EQ+wGhwpUXUvIUjgJ+Wkjt6k/DEVpYs0hcRANAexSmsIjM/eVxa8iR5ZEgZbnBfF/3jeFxm2l4HYm+66AAQkdv3lPcOszYTaiyL/0qEy6f8Tx7kUlCreKe3/m8BZTLX5ZGc1XRjf94lzxnB+i7uoO7KFjbcvNShFarH63Du/RBewM5532vvbtZhMB+qRAXYURlSa8Y9Nz56R2SL4ktVfUT49WbSWmSni5hDMuVtpzGZgHz0x/8fpVPJdWDuo0PgR8ydwBB9rmh6P67QOZPiTxgGhdKoHrInhJXNjXQpZhk7NzjYuVHdqze3lezKZRWPjlA6HPN03QSLlijiKHeuYNgmWs1N2aBWOJy0icjcPZd3b4noTqvx1u6Of9mujTXtTT6Y1MUfcl98pP+Kms0UWcGBEHICxU2qRGKCUFYQd/3dLQh7GUVSUO43KXpfEKuyzwu1jR4FlXCEI9MCXsOzGc5ODcTgwM+upuLKCOuvTSVtfqEeTfFOpRQzt1iwvNHyPEMgHvLQ==;LQTvvJXkqE0DkZY43tCUag=="
 ---
 

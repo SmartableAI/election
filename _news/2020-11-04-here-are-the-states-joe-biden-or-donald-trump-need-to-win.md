@@ -1223,6 +1223,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump says he will leave White House if electoral college votes for Joe Biden"
+    excerpt: "President’s comments are the closest he has come to admitting defeat in election and set stage for college vote on 14 December"
+    publishedDateTime: 2020-11-27T16:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden?fbclid=IwAR1sYdPoTekpng8l4Q9hs6FjbhKwQ8O2yGf00fA3lYVmH15P5mtj0KBNii8"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 143
+    images:
+      - url: "https://i.guim.co.uk/img/media/755405bf9d02bc44a7cd2985df5d5f4c68ea5d83/0_201_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d693631fc3d6aa138b12ad27ee158249"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Husband likes Biden, wife likes Trump. How the 2020 election is testing families and friendships"
     excerpt: "While this isn’t new – the troupe of an opinionated uncle at the Thanksgiving table does exist for a reason – the fallout families face over these differences has worsened as the discourse around modern American politics has intensified."
     publishedDateTime: 2020-10-21T14:44:00Z
@@ -4531,22 +4547,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/joe-biden-wilmington-01-gty-jc-201112_1605219129611_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Donald Trump says he will leave White House if electoral college votes for Joe Biden"
-    excerpt: "President’s comments are the closest he has come to admitting defeat in election and set stage for college vote on 14 December"
-    publishedDateTime: 2020-11-27T16:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden?fbclid=IwAR1sYdPoTekpng8l4Q9hs6FjbhKwQ8O2yGf00fA3lYVmH15P5mtj0KBNii8"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 133
-    images:
-      - url: "https://i.guim.co.uk/img/media/755405bf9d02bc44a7cd2985df5d5f4c68ea5d83/0_201_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d693631fc3d6aa138b12ad27ee158249"
-        width: 600
-        height: 360
         isCached: true
   - title: "Lawyers favor Biden in campaign donations, including Trump's re-election firm"
     excerpt: "Lawyers at Jones Day, a firm that has earned millions of dollars as outside counsel to U.S. President Donald Trump's re-election campaign, have donated nearly $90,000 to his Democratic rival Joe Biden's campaign since last year compared to $50 to Trump's campaign,"

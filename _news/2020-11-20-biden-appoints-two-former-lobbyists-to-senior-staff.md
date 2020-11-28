@@ -208,6 +208,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'Squad' members pressure Joe Biden to deliver on progressive agenda"
+    excerpt: "Well, my hope is that by shining the light on this it lights - sunlight is a great disinfectant and what we got to have is put pressure on these counties to make sure that they are actually taking the proper precautions with their absentee ballots,"
+    publishedDateTime: 2020-11-27T13:07:00Z
+    webUrl: "https://www.foxnews.com/transcript/squad-members-pressure-joe-biden-to-deliver-on-progressive-agenda"
+    ampWebUrl: "https://www.foxnews.com/transcript/squad-members-pressure-joe-biden-to-deliver-on-progressive-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/squad-members-pressure-joe-biden-to-deliver-on-progressive-agenda.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b2a1e1b-4d5a-452d-8186-0fc9f2dfe0a3/3cc6197e-65e3-4e86-bf57-402d92fc305e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "3gV+hGAQD9/LFLdas7TRGGAat8285mGGzg7XDCC2VJZDH4YAVnc0EDVVin5jJcIdyi9Ti75p3Rg5UsZx+1/QlGDE/BBTyXbdmwfhMD4zz1t+CaKg+sL4WuVfrXWndegxnU6WDB072cHPb3WfBDx9dCnLvHYcE1YrLArvVjWy+bsBjbjvaS2Ge6ABwDRG8lV0bUItA+KCx4ZBwZQIsAAZR40tdb1rMGrBz4u52k4BDlpRoXMspFa0gCnjZWh3RmKNrqdwSssmRoc7N+ylpn6xna+j8ZcPjhxbXb5RZK1XsCwIDCPIRk71cZPxsVTsIVMuT8Imp2CSXHPdGFE8ac5DNBO/bMcUoW4RnV4Lad9+XA8=;pZYRzkOOu+6UG8HWYNo3Ng=="
 ---

@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Appeals court rejects Trump challenge of Pennsylvania race"
-excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals"
-publishedDateTime: 2020-11-27T19:44:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/us-appeals-court-rejects-trump-appeal-pennsylvania-race-74430808"
-webUrl: "https://abcnews.go.com/Politics/wireStory/us-appeals-court-rejects-trump-appeal-pennsylvania-race-74430808"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-appeals-court-rejects-trump-appeal-pennsylvania-race-74430808"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-appeals-court-rejects-trump-appeal-pennsylvania-race-74430808"
+title: "Appeals Court Rejects Trump Challenge of Pennsylvania Race"
+excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals."
+publishedDateTime: 2020-11-28T02:18:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
+webUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_d7de96f2884b407fb21c7a693cf79eb4_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Trump campaign jettisons major parts of its legal challenge against Pennsylvania’s election results"
@@ -233,6 +227,6 @@ related:
         height: 600
         isCached: true
 
-secured: "eabUskeTZCumlC7xuiRCTDnNSD4Dz3dQhyBJz1Hu2I5pQXTQ+w9xErGpbO3fnWwYwODYcjF9dOxDOF+LwHxWD4omncv5v6W3M8vNZiQpWhdEIajLarWEoABwy90js+/z+ossQRg5394lsWsjE++Tkedxapztm5aKWLzzE8blfL83tO9wbMt/5x3xIgcG0Skdhf8pYFk7dtbwPUtE9tJ6ahvaM+MJWTfd/s28fwzwY5dKlIyyg9vkwRnGl7wU2RMeyG6Ede80815hX5mIFiDTUdRHI5dqbUoQVvu/+ZSHjxXqfOR4fPz1x0RGjOyhSZsE7j83FMQZgayKE5dJ1ixb9N5qAbA5BVusDuAgNMInjV5voZnAdECABP29zsTtJWtAiv224jtD86ZBLDng61wCNogpdt3GzQRy437zpmh37QWJ8jm2UUJ9PCPYBZS/ONmoJep1hT/LoLs1Q8HzS48Z6gjFyvugNIvgdijGRjke4UfgfZGg5rMAGy+EmHP37enKe/ZPzAcK/mJw/WBEnpVkkg==;HAz27OjyBbut8KBQrqDpBA=="
+secured: "cs0FSqM1Kzb3EUO9LblHOy5uhhwkps8LwjjNwRBj5OMMvckm9DBRzXd+GzT6eQbGYzyEfO+xaXArCPh1eJPopizU3rI2k8reNgd8aU9IHZA+LXVXyMpsM8+zF7LWNk+4yn8GaldicHzq+vysU7b95YWqRfJ9sryHN2ml6Gsdhydn4VRSqgi3SKUQV57cK/2g8rjealmuqnWlw9eFLGzPFW1tj+Ofn71ST4iq+3RCVeVr1+aZP7v8yDgR9sESDJTklQbtyhfLjraDOnkb2fm2KmhhCpFMRrIiEkjE9FUua/cPxLFqcxQhpAkq4dQTWR3HGS1igyhHwsUpsXoSgjJ8xAFAdKGcU4B5U/i+gv8KPDjhCCTHY5H1mM9Soo5pkNFJfNKjppVhQOmDh3DiwB1iqnpAHqZKn28/xXBU6RPc0L4HbqsR0sLOfMVts2yzYvwuHpniX8BFD/NpBpDKAwCl44RXcuf3OFDDEzCO6vVsfqsmJktpNgcAN5dFi5EJ1SXUdhIIkLwBoNrmsHX4kr/xXg==;CtQyPxNKiRd1IumrwJPdzw=="
 ---
 
