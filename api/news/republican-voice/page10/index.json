@@ -2,6 +2,63 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-21-here-are-hunter-bidens-alleged-text-messages-giuliani-just-turned-over-to-the-delaware-state-police.md",
+      "title": "Here Are Hunter Biden's Alleged Text Messages Giuliani Just Turned Over to the Delaware State Police",
+      "excerpt": "Rudy Giuliani handed over \"very, very sensitive\" text messages to the Delaware State Police that are allegedly from Hunter Biden to his father, former Vice President Joe Biden. In the text messages, Hunter allegedly accused his sister-in-law and former lover,",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/tipsheet/bethbaumann/2020/10/20/here-are-hunter-bidens-alleged-text-messages-giuliani-just-turned-over-to-the-de-n2578470",
+      "originalUrl": "https://townhall.com/tipsheet/bethbaumann/2020/10/20/here-are-hunter-bidens-alleged-text-messages-giuliani-just-turned-over-to-the-de-n2578470",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/289/ad5ed7d9-d644-4c3a-9934-2d0be5614beb.png",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/tipsheet/bethbaumann/2020/10/20/here-are-hunter-bidens-alleged-text-messages-giuliani-just-turned-over-to-the-de-n2578470?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/10/20/here-are-hunter-bidens-alleged-text-messages-giuliani-just-turned-over-to-the-de-n2578470?amp=true",
+      "publishedDateTime": "2020-10-20T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-activist-group-plans-widespread-disruptive-election-activities-to-thwart-potential-trump-coup.md",
       "title": "Activist group plans widespread, ‘disruptive’ election activities to thwart potential Trump ‘coup’",
       "excerpt": "'Trump will not leave office without mass mobilization and direct action,' the group says on its website.",

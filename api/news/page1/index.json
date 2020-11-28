@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-29-kamala-harris-scoops-up-gifts-promotes-small-businesses-at-holiday-market.md",
+      "title": "Kamala Harris scoops up gifts, promotes small businesses at holiday market",
+      "excerpt": "Vice President-elect Kamala Harris hit up a Washington, DC outdoor holiday market Saturday — and found herself the perfect stocking stuffer. With husband Doug Emhoff at her side, a laughing",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/11/28/kamala-harris-shops-promotes-small-businesses-at-holiday-market/",
+      "originalUrl": "https://nypost.com/2020/11/28/kamala-harris-shops-promotes-small-businesses-at-holiday-market/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/kamala-harris-doug-emhoff-holiday-shopping-MAIN.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/11/28/kamala-harris-shops-promotes-small-businesses-at-holiday-market/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/28/kamala-harris-shops-promotes-small-businesses-at-holiday-market/amp/",
+      "publishedDateTime": "2020-11-28T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-29-canada-blocks-bulk-exports-of-some-prescription-drugs-in-response-to-trump-import-plan.md",
       "title": "Canada blocks bulk exports of some prescription drugs in response to Trump import plan",
       "excerpt": "Canada on Saturday blocked bulk exports of prescription drugs if they would create a shortage at home, in response to outgoing U.S. President Donald Trump's efforts to allow imports from Canada to lower some drug prices for Americans.",
@@ -213,7 +261,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-biden-cabinet-idINL1N2I92JE",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -377,7 +425,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1286,58 +1334,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-kamala-harris-calls-teen-who-went-viral-for-painting-portrait-of-vice-president-elect.md",
-      "title": "Kamala Harris calls teen who went viral for painting portrait of vice president-elect",
-      "excerpt": "\"You really have a gift, my goodness. I was so touched to see it,\" Vice President-elect Kamala Harris told the 14-year-old artist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/kamala-harris-tyler-gordon-portrait/",
-      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-tyler-gordon-portrait/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 238,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/26/ac748686-00fb-4ed8-bc47-b26f134cf02d/thumbnail/1200x630/1479e37ae938cc507f7a50f93f6c3f65/screen-shot-2020-11-26-at-1-42-40-pm.png",
-          "width": 909,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-tyler-gordon-portrait/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-tyler-gordon-portrait/",
-      "publishedDateTime": "2020-11-26T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

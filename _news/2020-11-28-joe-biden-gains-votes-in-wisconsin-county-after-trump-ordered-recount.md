@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden gains votes in Wisconsin county after Trump-ordered recount"
 excerpt: "Milwaukee recount, which cost Trump campaign $3m, boosts Democratic president-elect days before state must certify result"
 publishedDateTime: 2020-11-28T07:05:00Z
-originalUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount?from=samsung_news_daily_card"
-webUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount?from=samsung_news_daily_card"
+originalUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
+webUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
 ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
 type: article
@@ -588,6 +588,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "vdc1RxkHh3CK+cvMTUT1APd3ULM1vGEbi5FZ9gGFw5M9u52GmAIiJ76hoBVBd9Jow3fzo4Q1KIYe+3h+TGV02aQaYPIY64rjrpiyGwYOHwlOcwjIf02YbfzyobIZ+stIOS8KuSDhs4P4AkqXnMsT5GiMUQ4RhZC7SrkXG7iWAWUmbwobycQyUlLUexNxLROqXaIfh4/Y4o02EUK/Ba+WcNYtYKhKwKZ7gTVWH6q8Lj1y/d8HZOgmZiFVBvkzu6rNMh0kXgAyXGPDo9OexOytMG5RZpYtjjabE+YNNypsVBIQdwCu1WsiqbDwBZOwl6kbAbDd3KK97ge+EDrdiZ09VM7ONA4LFRs02FIXCH431ko=;0PnMuGjM9qMXpYKRy0ysNQ=="
+secured: "POecC5TtSCfPFXgCJd0jThVPspc5yiVGCE0qTVEqa2fUnyGq/0/WTdgvlR2JWYsRAc+Ii8hdIcUL0Nq4UbfBH9KkfYxNs4yvxo3c7VX0dDIQkOzaLgkjcYafhiaMWTkdydP7k1Lbu1dHo8iSk4syh52xeeSCE7hEvz2bFa6JqGkxZuoT0igVnnxWyywoNvSWy4Y3JjbehuYwlBH+4rHxtf/PPErBmQKgQZw6Cs2SzdCLVa55lWpQIO+FQsAy9+z7NLEeXOyF2dziiJNJf+PfwWeFPpi0mFCGHCjVgcKrgKJqDNNx17TPnpp+UUd70x8BYDxpMtG6xMZuKABLDBNUFwr9CUAMa7tJRQLvptadXwI=;E1y8DYk1mdg9NwK6ISSzbQ=="
 ---
 

@@ -269,6 +269,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Jewish and pro-Israel groups angling to cement Trump gains"
+    excerpt: "With President-elect Joe Biden just weeks away from moving into the White House, Jewish and pro-Israel groups are racing to nail down many of the gains from the Trump era — and are planning to"
+    publishedDateTime: 2020-11-28T18:55:00Z
+    webUrl: "https://nypost.com/2020/11/28/jewish-and-pro-israel-groups-angling-to-cement-trump-gains/"
+    ampWebUrl: "https://nypost.com/2020/11/28/jewish-and-pro-israel-groups-angling-to-cement-trump-gains/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/28/jewish-and-pro-israel-groups-angling-to-cement-trump-gains/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/trump-jerusalem.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "KH+uw/VidVmEP7lqjjmJoA+yioxJ8h7z+WEm9M8MP9ZME3j2H3zkEn3CMin8q+/mXpp6Cy4RonBTprGng6MbM5LsrX+/wglZpUE/j9Na52FK28fFNGWyWBlN22T3QedMjILxLBexFasuHuDepq/jsWZJNKuu93aI1QJh2AWjaME5puADrDSRm2yZZAk5bxfg7y0mtpM+Q2eT+ACjPL1jsfvpa0zuxbnONi8KSDQ0wxr2ZdocyPFYV4LMubTp2+HXTwExW7F1Yc+8mvDzmDxIvi16u6xOhk6lDNJ22HgBHu8PjlOoyeB6hle8EVlPWZmr9RYHPCr9NwUhsVor0+DreDuuO8HIPYh7auuf4uqaha8=;nFg9lk89ZBA2fV1HUZYCdQ=="
 ---

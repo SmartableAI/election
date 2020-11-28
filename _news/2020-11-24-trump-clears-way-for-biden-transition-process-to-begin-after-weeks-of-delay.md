@@ -1239,6 +1239,22 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Trump eggs on Pennsylvania Republicans’ attempt to undo vote certification"
+    excerpt: "President Trump boosted Pennsylvania state Republicans’ efforts to contest the results of the presidential election with a Saturday tweet. “So much credit to all of the brave men and women"
+    publishedDateTime: 2020-11-28T20:18:00Z
+    webUrl: "https://nypost.com/2020/11/28/trump-eggs-on-pennsylvania-gop-attempt-to-undo-certification/"
+    ampWebUrl: "https://nypost.com/2020/11/28/trump-eggs-on-pennsylvania-gop-attempt-to-undo-certification/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/28/trump-eggs-on-pennsylvania-gop-attempt-to-undo-certification/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/trump-pennsylvania-election.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Federal Judges Deny Trump Campaign’s Appeal of Pennsylvania Ballot Challenge"
     excerpt: "A federal appeals court denied the Trump campaign’s appeal in its Pennsylvania case, striking another blow to the president’s dwindling legal avenues to contest the outcome of the election."
     publishedDateTime: 2020-11-27T18:39:00Z

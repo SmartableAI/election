@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-27-kamala-harris-calls-teen-who-went-viral-for-painting-portrait-of-vice-president-elect.md",
+      "title": "Kamala Harris calls teen who went viral for painting portrait of vice president-elect",
+      "excerpt": "\"You really have a gift, my goodness. I was so touched to see it,\" Vice President-elect Kamala Harris told the 14-year-old artist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/kamala-harris-tyler-gordon-portrait/",
+      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-tyler-gordon-portrait/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 238,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/26/ac748686-00fb-4ed8-bc47-b26f134cf02d/thumbnail/1200x630/1479e37ae938cc507f7a50f93f6c3f65/screen-shot-2020-11-26-at-1-42-40-pm.png",
+          "width": 909,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-tyler-gordon-portrait/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-tyler-gordon-portrait/",
+      "publishedDateTime": "2020-11-26T13:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-julian-assanges-partner-appeals-to-trump-to-pardon-him.md",
       "title": "Julian Assange's partner appeals to Trump to pardon him",
       "excerpt": "Julian Assange’s partner, Stella Moris, has tweeted President Donald Trump on Thanksgiving, appealing to him to pardon the WikiLeaks founder",
@@ -1301,62 +1353,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-biden-emphasizes-foreign-policy-team-will-lead-the-world-not-retreat.md",
-      "title": "Biden emphasizes foreign policy team will 'lead the world, not retreat'",
-      "excerpt": "President-elect Joe Biden says that his newly named foreign policy and national security team will keep the nation \"safe and secure\" and will show that \"America is back.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UAJfwkzCAcA/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UAJfwkzCAcA/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat.amp",
-      "publishedDateTime": "2020-11-24T12:09:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

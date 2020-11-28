@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-29-kamala-harris-scoops-up-gifts-promotes-small-businesses-at-holiday-market.md",
+      "title": "Kamala Harris scoops up gifts, promotes small businesses at holiday market",
+      "excerpt": "Vice President-elect Kamala Harris hit up a Washington, DC outdoor holiday market Saturday — and found herself the perfect stocking stuffer. With husband Doug Emhoff at her side, a laughing",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/11/28/kamala-harris-shops-promotes-small-businesses-at-holiday-market/",
+      "originalUrl": "https://nypost.com/2020/11/28/kamala-harris-shops-promotes-small-businesses-at-holiday-market/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/kamala-harris-doug-emhoff-holiday-shopping-MAIN.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/11/28/kamala-harris-shops-promotes-small-businesses-at-holiday-market/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/28/kamala-harris-shops-promotes-small-businesses-at-holiday-market/amp/",
+      "publishedDateTime": "2020-11-28T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-kamala-harris-called-a-nurse-on-thanksgiving-to-thank-her-for-fighting-on-the-covid-frontlines.md",
       "title": "Kamala Harris called a nurse on Thanksgiving to thank her for fighting on the Covid frontlines",
       "excerpt": "A friendly phone call is all too normal during Thanksgiving -- that is unless it's coming from the vice president-elect, herself.\n    \n",
@@ -1530,63 +1578,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-in-final-rally-kamala-harris-urges-pennsylvania-to-use-power-and-vote.md",
-      "title": "In final rally, Kamala Harris urges Pennsylvania to use 'power' and vote",
-      "excerpt": "In her final campaign rally before Election Day, Kamala Harris urged Pennsylvania to get out and vote. Harris said, “Your vote is your voice and your voice is your power.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/in-final-rally-kamala-harris-urges-pennsylvania-to-use-power-and-vote-95196229930",
-      "originalUrl": "https://www.nbcnews.com/video/in-final-rally-kamala-harris-urges-pennsylvania-to-use-power-and-vote-95196229930",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/kamalalastrally.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo95196229930",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95196229930",
-      "publishedDateTime": "2020-11-02T18:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
       ]
     }
   ],

@@ -48,7 +48,7 @@ related:
   - title: "Factbox: The Biden Cabinet - President-elect begins to build a team"
     excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the nation's diversity."
     publishedDateTime: 2020-11-28T20:25:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2880IZ"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN2880IZ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2880IZ"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2880IZ"
     type: article
@@ -60,6 +60,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542749964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR0C4"
         width: 817
         height: 545
+        isCached: true
+  - title: "Joe Biden’s Plans To Carry Out Every Proposal On The LGBTQ Community’s List"
+    excerpt: "President-elect Joe Biden just released his plans for the LGBTQ community and he wants to grant all of it's wishes."
+    publishedDateTime: 2020-11-28T21:13:00Z
+    webUrl: "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702"
+    ampWebUrl: "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/24/soundbiteus-president-elect-joe-biden-introduces-a-seasoned.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "q1pIBaFnYrNDjhn27a31/iW3x+49/ULNAwcKpWW1afPBH97zQi6I05Y37OeFwp5R1vXSl7epYvmLN0jTUbscloS4I5oUuG8OBIv40vcGsEDt5jZB2cmXnJ0YQlgKIHD9yD4lQ7Afo2tNmzcWdLm3d0cJCEZNAgsEJzVBg3zdNnnW/AKvmdAXkHXrn+bUNtnWXYActaKMEGzC+49Yc/t0TldvuwV7ob1U7/Yd0gRmnlBrTXRlVXXj7IoTaTCpRf3vxxfyve1ZcS4sLFWzk3Ojma192meg8MBzMU0kcJo+Kdj1la9J+3nmzTbRewpdYsmxVCrcG9k8tUCI2bPB/SDAsdlrzoOxN/2vhlD2HkIySbvHanZnMxQYerQ3uDURNN8wdBnsmOdJO1OPer2Ssq666r7azx8z6TblkmYNUWsa6958ZoahnTyCnAaSMqmhaXlWzBsLd3UmkGlcZY1EmjMwoh4BrxBpwnjfgEgPEfrVpy0pYHap3QPkR3DiZFfYMNWVNP+Sc5hXyoRhscGqi6gAGA==;N9hGrnfM939EyfG2B8TfZw=="

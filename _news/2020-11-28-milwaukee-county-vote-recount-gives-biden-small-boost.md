@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/milwaukee-county-vote-recoun
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/09/ad794d08-da70-4784-af10-7a0a27efa50d/thumbnail/1200x630/0a490c83b38cebb34e0afc20cddf570f/gettyimages-1229520125.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Wisconsin county recount boosts Biden's margin"
+    excerpt: "Top News Wisconsin county recount boosts Biden's margin. Posted . President Donald Trump's election campaign demanded recounts in two of Wisconsin's most populous and Democratic-l"
+    publishedDateTime: 2020-11-28T20:26:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD6HLTCV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201128&i=OVD6HLTCV&r=OVD6HLTCV&t=2"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "WgxQ43mh559t/PG3UH0hKTASfOWMs+ALX1Wo+sZNfzrufZa6L9zQIp3ptQ3OtItMs+GzhlHiGyujb7Kh9eC/ngWGwiktPLveSVgj55rq8XDantIex1DExw2Zq1x9fLbJX3Dj/eK+uzzCCd5+XeX5tNiC2HFn733zpdVx4vqvD7tlvz2Co1Qg3PSt0UlzuQmeZb3VRMdx8jsRqa81K5OZiWFco6Pu+TzzkJq1ULWWArqYEyAdGSBzpp7H9LzjKzvxNRSUGFflKBvkvRJXxQWHPuawkskmBf2X7lIXHwmWdp7c/e4sapRs/NSvD7++KmXgf37Y+33uUhojBMSzkBnt6IHGH10JJn48Iv1KEHfVtdA=;O9NQX3ZD/pNjIqyeE4qe6w=="
