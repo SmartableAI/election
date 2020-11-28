@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/new-york-grocery-store-discount-adve
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10?amp"
 type: article
 quality: 117
-heat: -1
-published: false
+heat: 157
+published: true
 
 provider:
   name: Business Insider
@@ -31,86 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "‘We need you’: GOP hunts for new voters in Trump territory"
-    excerpt: "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time"
-    publishedDateTime: 2020-10-28T04:47:00Z
-    webUrl: "https://www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+  - title: "Incoming Sarasota School Board member getting backlash for calling Trump supporters ‘Nazis’"
+    excerpt: "The newest member of the Sarasota County School Board is facing backlash for calling Trump supporters Nazis in a 2017 Facebook post."
+    publishedDateTime: 2020-10-20T20:07:00Z
+    webUrl: "https://www.usatoday.com/story/news/education/2020/10/19/sarasota-school-board-member-called-trump-supporters-nazis-2017/3710042001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3710042001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3710042001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "President Trump casts a 'very secure vote' for himself in-person in Florida"
-    excerpt: "\"I voted for a guy named Trump,\" the president said after casting his ballot in person in his newly adopted home state of Florida."
-    publishedDateTime: 2020-10-26T01:29:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 123
-    images:
-      - url: "https://i.insider.com/5f9447ca4743a3001216b782?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/NSHT/c84afe4c-edcb-4ae9-946f-328495ddf94e-EdwardsTom_01.jpg?auto=webp&crop=4149,2334,x0,y399&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund"
-    excerpt: "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump."
-    publishedDateTime: 2020-10-29T21:58:00Z
-    webUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
+  - title: "Seattle, Portland, New York Sue Over Trump's 'Anarchy' Label"
+    excerpt: "New York, Seattle and Portland — three cities recently labeled “anarchist jurisdictions” by the U.S. Justice Department — are suing to to invalidate the designation and to fight off the Trump administration’s efforts to withhold federal dollars."
+    publishedDateTime: 2020-10-22T22:55:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-22/nyc-to-join-seattle-portland-in-suit-over-federal-funding"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 90
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-screenshot2.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Hackers Stole $2.3M From Wisconsin GOP, How Does It Affect Trump's Reelection Bid?"
-    excerpt: "The Wisconsin Republican Party has announced that hackers have stolen $2.3 million from funds meant for Donald Trump’s reelection campaign. The hackers compromised Republican ve"
-    publishedDateTime: 2020-10-29T17:55:00Z
-    webUrl: "https://www.ibtimes.com/hackers-stole-23m-wisconsin-gop-how-does-it-affect-trumps-reelection-bid-3072626"
-    ampWebUrl: "https://www.ibtimes.com/hackers-stole-23m-wisconsin-gop-how-does-it-affect-trumps-reelection-bid-3072626?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hackers-stole-23m-wisconsin-gop-how-does-it-affect-trumps-reelection-bid-3072626?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 84
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/us-president-donald-trump-claps-during-a-rally.jpg"
-        width: 1024
-        height: 708
-        isCached: true
-  - title: "Fox News Interviews ‘Suburban Mom’ Voting for Trump, Fails to Reveal Her Past as GOP Senate Staffer"
-    excerpt: "Fox News' Martha MacCallum interviews suburban mom 'writer' on panel of women voting for Trump, fails to disclose her past as GOP staffer for Sen. Rick Santorum"
-    publishedDateTime: 2020-10-30T04:25:00Z
-    webUrl: "https://www.mediaite.com/news/fox-news-interviews-suburban-mom-voting-for-trump-fails-to-reveal-her-past-as-gop-senate-staffer/"
-    ampWebUrl: "https://www.mediaite.com/news/fox-news-interviews-suburban-mom-voting-for-trump-fails-to-reveal-her-past-as-gop-senate-staffer/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/fox-news-interviews-suburban-mom-voting-for-trump-fails-to-reveal-her-past-as-gop-senate-staffer/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 61
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Martha-MacCallum-Interviews-Former-GOP-Senate-Staffer-on-Women-Voter-Panel-Doesnt-Disclose-Her-Past-1200x676.jpg"
-        width: 1200
-        height: 676
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "6U+iWUnWgS92tZ2DK1APBMIlLzjG/tgmd0rwLE7tJSamcgpvuYzcL0NV1sOMPfVaiiwlP4tOAep+yR5/0zsI/cezDFjtvKDcRewUhI8gki2bBOgepDwQ0D6d2qVv4WzXq7486Pzt4PKyGfgiOMiu0aQN3yerXI6jdyTA5of4+gfFlSYrQKqZ0nIc7lLKAh9ipUDijSlduZ3p2JnzeFg79kqy8tL+NZMpDPtsdxFhY1UJeCM1DQhifoEbSmxcTnc2vyMgtK7GF99nENVWN563HRBu/xcuYU7y/aFqwAvR/+LItg3erxgeQ0JILjAwsI6YWYiYc8sbPlVzgMMuH0tBUfxFgLjyNDXqyp8Rl0mD6lA=;UCAFNpZjaHLuje+ZwKRPTQ=="
 ---

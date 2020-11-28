@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Attorney heading up Trump campaign's Wisconsin recount effort is seeking to throw out his own vote"
+    excerpt: "Jim Troupis, a former Dane County judge and Cross Plains attorney, voted early using the state's in-person absentee option."
+    publishedDateTime: 2020-11-23T02:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/22/attorney-heading-up-trump-recount-wants-throw-out-his-own-vote/6382647002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6382647002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6382647002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/21/PMJS/f177309e-811b-46d6-b7f4-2da8cebb9b00-RECOUNT_05318.JPG?auto=webp&crop=3899,2194,x0,y207&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "QI36e68xhWZwsO74bNYXqFlJgOfZ2RHU3Mki/IvTE5LqwqLU9h8ZwJlYK7YjlN0GY/hPMElgFElbg8MjnNWw89+iDDTSzVV5tArktNJaHM4DEESEYR8xvMiIoF04508Hfwl1WWbqNoP62ryjfFO/CFESNz83CTGdy3yBTB0QmXIUWeQQDfFE5hUuRl3j2vjzMXG+cIzCp6U3/5IsAqcIlxuf156dH8M0L2jI2sLJPyT0jdkLjWXCtaaGIgB8KCqkn9BJzmw74F0ZuaxVOcNonu2Dmde/WBKLtzgxeJ0lwqYuiRFNzEQOyW5Fk5pnEadMlKgr2k3y3zz0zo7LP5jSCAmMZMdgwwcJ2M520WpkiIMZJ9ATQaTgSeLVWatMWf3bcgAYK74d5G/Dh0A9CdHP8L3uPva3lkBbdHgA49VKZM3jm8PTfUaEyq778022xBa7onbIde4OGzb+VCiKisbukJFRHa5gVS2h24Rh63PAwPHJzWIfkcaWABcJsB+uFbNzQHy3uQxFAHKEFEM02ku9dA==;78VxF6I4TIA+Q/8pGXiccg=="
 ---

@@ -2,6 +2,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-10-cindy-mccain-john-mccain-would-be-very-pleased-at-bidens-win.md",
+      "title": "Cindy McCain: John McCain 'would be very pleased' at Biden's win",
+      "excerpt": "The late Arizona Republican Sen. John McCain would be happy that Joe Biden has won the presidency, his widow Cindy McCain said Monday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/op2hrklDPAA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/op2hrklDPAA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201109214113-cindy-mccain-clip-ac360-vpx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/cindy-mccain-john-mccain-pleased-biden-win-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/cindy-mccain-john-mccain-pleased-biden-win-cnntv/index.html",
+      "publishedDateTime": "2020-11-09T19:00:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-mcconnell-trump-100-within-his-rights-to-look-into-allegations-of-irregularities.md",
       "title": "McConnell: Trump '100% within his rights to look into allegations of irregularities'",
       "excerpt": "Senate Majority Leader Mitch McConnell on Monday sided with and defended President Donald Trump, who has yet to concede the presidential election, saying that Trump is \"100% within his rights to look into allegations of irregularities and weigh his legal options.\"\n    \n",
@@ -1310,62 +1366,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same-consideration.md",
-      "title": "South Dakota Gov. Noem: Al Gore got his day in court -- Trump deserves the same consideration",
-      "excerpt": "South Dakota Gov. Kristi Noem urged the country to “afford the 70.6 million Americans that voted for President Trump the same consideration\" provided to former vice president Al Gore in the 2000 legal battle that resulted in a Supreme Court decision and a George W. Bush victory. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3NPbvsCk-Vc/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3NPbvsCk-Vc/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4689ca75-6f39-4bbe-b645-17162d916614/67040cce-933e-44d7-9ff7-b525665743e4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same.amp",
-      "publishedDateTime": "2020-11-08T18:13:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

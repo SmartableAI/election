@@ -109,6 +109,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "President Trump is seeking a recount in two Wisconsin counties, but what he’s really doing is preparing for a lawsuit."
+    excerpt: "By pursuing the recount, Trump has given himself a vehicle for a lawsuit that would likely go before a judge by early December."
+    publishedDateTime: 2020-11-20T00:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/wisconsin-recount-could-quickly-turn-into-lawsuit/6349231002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6349231002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6349231002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/PMJS/10cc0a7d-458e-462e-bcbd-9068a3e897f7-MJS_5.jpg?auto=webp&crop=5471,3077,x1,y268&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Trump Tweets Donald Trump Jr. Is Doing Well After COVID-19 Diagnosis"
     excerpt: "Donald Trump Jr. learned of his positive result earlier this week and has had no symptoms, according to a spokesperson"
     publishedDateTime: 2020-11-21T15:31:00Z

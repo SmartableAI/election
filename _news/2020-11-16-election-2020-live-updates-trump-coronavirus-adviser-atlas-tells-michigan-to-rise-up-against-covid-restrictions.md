@@ -272,6 +272,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Land conservation plan stirs fight over Trump restrictions"
+    excerpt: "U.S. officials say proposed land conservation purchases in dozens of states would preserve natural areas and increase access to tourist destinations"
+    publishedDateTime: 2020-11-20T21:54:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/land-conservation-plan-stirs-fight-trump-restrictions-74324311"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/land-conservation-plan-stirs-fight-trump-restrictions-74324311"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/land-conservation-plan-stirs-fight-trump-restrictions-74324311"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_6f702168544143a0b452c89e1c1ab5f0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump summons Michigan GOP leaders for extraordinary meeting"
     excerpt: "President Donald Trump has summoned Michigan’s Republican legislative leaders to the White House for an extraordinary meeting Friday"
     publishedDateTime: 2020-11-21T12:17:00Z

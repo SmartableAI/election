@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-tr
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-trump-for-re-election/"
 type: article
 quality: 120
-heat: 160
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -31,37 +31,46 @@ images:
     isCached: true
 
 related:
-  - title: "'West Wing' star Martin Sheen: Donald Trump gets away with more than any TV president could"
-    excerpt: "West Wing' is my escape from the Trump era. Its TV public servants know what the right thing is and they're on speaking terms with their better angels."
-    publishedDateTime: 2020-10-29T22:54:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/28/west-wing-escapism-martin-sheen-interview-donald-trump-column/3746508001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3746508001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3746508001"
+  - title: "President Trump casts a 'very secure vote' for himself in-person in Florida"
+    excerpt: "\"I voted for a guy named Trump,\" the president said after casting his ballot in person in his newly adopted home state of Florida."
+    publishedDateTime: 2020-10-26T01:29:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/27/USAT/55afa79f-4713-404f-84ab-457a4f87edaf-AP_TV-West_Wing-Voting_Special.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f9447ca4743a3001216b782?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Kristin Cavallari's Ex-Husband Jay Cutler Endorses Donald Trump For President Like Jack Nicklaus"
-    excerpt: "Kristin Cavallari's ex-husband, Jay Cutler, has seemingly endorsed Donald Trump after reposting Jack Nicklaus' message about the POTUS."
-    publishedDateTime: 2020-10-30T02:24:00Z
-    webUrl: "https://www.ibtimes.com/kristin-cavallaris-ex-husband-jay-cutler-endorses-donald-trump-president-jack-3072802"
-    ampWebUrl: "https://www.ibtimes.com/kristin-cavallaris-ex-husband-jay-cutler-endorses-donald-trump-president-jack-3072802?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kristin-cavallaris-ex-husband-jay-cutler-endorses-donald-trump-president-jack-3072802?amp=1"
+  - title: "Without Florida, There’s Almost No Path for Donald Trump to Stay in the White House"
+    excerpt: "There’s almost no plausible path to a second term for President Donald Trump without winning his adoptive home state. This week in the D.C. Brief, we’re going to take the temperature in ..."
+    publishedDateTime: 2020-10-26T19:33:00Z
+    webUrl: "https://time.com/5903917/trump-florida/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 62
+      name: Time
+      domain: time.com
+    quality: 79
+  - title: "Gun-Toting ‘Guards’ at Florida Polls Claim They Were Hired By Trump Campaign — Trump Campaign Denies"
+    excerpt: "Two armed men dressed as security guards told cops they were hired by the Trump campaign to set up near a Florida early voting location — a claim that President Donald Trump's campaign denied through a spokesperson."
+    publishedDateTime: 2020-10-22T13:24:00Z
+    webUrl: "https://www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/"
+    ampWebUrl: "https://www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 60
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/08/29/jaycutler11.png"
-        width: 1152
-        height: 649
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Florida-Early-Voting.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "EGcf+gF3IeU5zivT62ykBMtzW8JIMwLo+8GIeslPRW9rXdS1m2EVqmVzEnGxE9xCrsJLqpCB1p5R2YWRzrNHlb8O/3iGZ40sGbBoL7dIOYxaVgoFo7sYVr1RwzeOxegDFgIJO0i/zyN/E0yo4/7GNxSNj+YHeRHkfQqe2be8FCieM6gtEIvfABmef2G/hw0Z9xGe6i/VnJ8SFzIKuzXhQGF/G1Njl9t3mfT9766r5pv2wRnMb3z2zFkxWwFaAb+CZa7yUZ293t5E6T7CZ7o+BIOh2en75PdqvEztLMCd8n0EYMBCBj6qM/zcdgv78kQ6wdbdCONEBoxB7F6k14Dpuk+vYX4AujO4K/OAOm0RbvV8GJY3sEnE1gRymIdUUXhoIV0LY7uEbDclVaqdJMBb0mgCg31v1UUpF0RwRjtql9VRGGtZBAGvjGM5iuQ0lFTcWRAbMTO3LWeyDpHefObj1s8/XsuZyq1TsLlQ2pZE2HF4SBSMe/TzrN7KJNOo1/oo7ctJ3E9DlVaw9WJmymA3hQ==;XnUvXMymZ/5myBytgzT29w=="

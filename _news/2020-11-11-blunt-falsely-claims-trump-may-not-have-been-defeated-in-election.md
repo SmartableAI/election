@@ -173,22 +173,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Donald Trump has won Missouri"
-    excerpt: "The state has 10 electoral votes and was not expected to be competitive. It has voted for a Republican president in nine of the last 12 elections."
-    publishedDateTime: 2020-11-05T02:33:00Z
-    webUrl: "https://www.businessinsider.com/missouri-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/missouri-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/missouri-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa2ab8369331a0011bc7341?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump sues in 3 states, laying ground for contesting outcome"
     excerpt: "The Trump campaign says it has filed lawsuits in Pennsylvania, Michigan and Georgia, laying the groundwork for contesting battleground states"
     publishedDateTime: 2020-11-05T09:04:00Z
@@ -234,22 +218,6 @@ related:
     quality: 115
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/30/NPPP/6e5b7ee4-f6f8-4bbf-8765-e922a7017e91-Election_2020_Biden.jpg?auto=webp&crop=5718,3217,x0,y290&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Florida judge leading a vote-counting board donated to Trump 12 times, breaking judicial rules"
-    excerpt: "The Florida judge leading Duval County’s vote-counting board has donated repeatedly to President Trump’s re-election campaign."
-    publishedDateTime: 2020-10-29T14:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/29/judge-brent-shore-florida-duval-county-vote-counting-head-trump-donations/6068234002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6068234002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6068234002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NFTU/7cb2302c-7824-4bb4-8511-52dba15d3133-IMG_7191.jpg?auto=webp&crop=4031,2267,x1,y90&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -331,17 +299,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump campaign says more legal action coming, predicts victory as early as Friday"
-    excerpt: "President Donald Trump's campaign said on Thursday it expected to launch additional legal action in Pennsylvania and Nevada and predicted that the Republican incumbent would emerge victorious in the U."
-    publishedDateTime: 2020-11-05T16:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-star/trump-campaign-says-more-legal-action-coming-predicts-victory-as-early-as-friday-idUSKBN27L26X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L26X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L26X"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
   - title: "Trump begins Election Day with 'Fox & Friends' interview: Live updates on Trump, Pence"
     excerpt: "President Trump plans to spend the day making calls, giving interviews, monitoring events from the White House."
     publishedDateTime: 2020-11-03T16:55:00Z

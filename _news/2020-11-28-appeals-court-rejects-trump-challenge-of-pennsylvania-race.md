@@ -121,6 +121,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump campaign moves to seek partial recount of Wisconsin, hoping to overturn results"
+    excerpt: "The Trump campaign says it will seek recounts in Dane and Milwaukee counties, Wisconsin's two most populous and liberal-leaning counties."
+    publishedDateTime: 2020-11-18T17:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/18/donald-trump-campaign-seek-partial-recount-wisconsin/6340896002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6340896002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6340896002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ed262a37-92af-4224-a0d3-88b36a331cec-TRUMP_KENOSHA_1048.JPG?auto=webp&crop=3899,2194,x0,y289&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Politics Chat: Trump's GOP Support May Be Waning As He Contests Election Results"
     excerpt: "There are cracks in the wall of Republican support for Donald Trump but not enough to make the president concede that he lost the election."
     publishedDateTime: 2020-11-22T12:20:00Z

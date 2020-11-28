@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539130142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R186"
         width: 817
         height: 545
-        isCached: true
-  - title: "Susan Collins still won't say if she's voting for Donald Trump with less than a week until election"
-    excerpt: "Trump trails Joe Biden by 13 points in a race that could determine whether Democrats flip control of the Senate"
-    publishedDateTime: 2020-10-29T20:07:00Z
-    webUrl: "https://www.salon.com/2020/10/29/susan-collins-still-wont-say-if-shes-voting-for-donald-trump-with-less-than-a-week-until-election/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 56
-    images:
-      - url: "https://media.salon.com/2020/06/trump-collins-0605201.jpg"
-        width: 846
-        height: 571
         isCached: true
 
 secured: "H5taUhlpkncqoC7y4+yIhQKm4OghbC1Cb6qwb/xDA6Dbek+AgHoW8mmFFgSPxjvzYqvBcabNVjs/agvMU4fpQLCvFlQWgAqku4U7OB8kaoOnlj2iaspxBhHQU9qXiEcnvEygJr+a7JXmVe1WR44659iaDS8laa+YqiOJOP6lg1Vd6F+nBmW2pV/t/t/LylSa2viI8M9CQUT9dwgaApnu2kFY+H9NIBdBDV/5MoVOx9yTi92eDJe5byhEUSDBrzmbENCRRytXinKLnzhN5WPvUiYzo9IFtrLTFjStUa5SJ+DorZtVxk/GUap8GN9N99AGKnZ/HKH6SLrczle6kvxg6eMQ+Nw7vOuzMVFB40OTqqs=;XvBzpMjBv86EMw0VNH3qVw=="

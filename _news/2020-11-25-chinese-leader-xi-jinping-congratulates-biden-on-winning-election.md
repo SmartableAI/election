@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-con
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-congratulations/index.html"
 type: article
 quality: 190
-heat: 710
+heat: 730
 published: true
 
 provider:
@@ -382,6 +382,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/21/reader-center/21Biden-A1/merlin_180251556_476811a3-5035-44e4-9f6a-ef2895d98938-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "On the Trail: Joe Biden’s long road to the White House"
+    excerpt: "Joe Biden has been running for public office for nearly 50 years. For the last 13 of them, NBC News' Mike Memoli has been in the front row - covering Biden as the Vice President and then as a candidate through this historic election season."
+    publishedDateTime: 2020-11-28T19:46:00Z
+    webUrl: "https://www.nbcnews.com/now/video/on-the-trail-joe-biden-s-long-road-to-the-white-house-96764485693"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96764485693"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96764485693"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_biden_trail_white_house_20201129-thumb.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Transition Gets Underway in Earnest as Biden Team Fans Out Across Capital"
     excerpt: "Within hours of the Trump administration’s decision to stop blocking the process, representatives of the president-elect began coordinating the handover of power."

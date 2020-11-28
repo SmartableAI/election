@@ -23,21 +23,53 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Column: White House of Horrors: A Halloween-themed poem about Donald Trump"
-    excerpt: "The latest TrumPoem, a rhyming account of the presidency of Donald J. Trump, loosely based on his words and acts."
-    publishedDateTime: 2020-10-30T10:11:00Z
-    webUrl: "https://www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html?outputType=amp"
+  - title: "President Trump casts a 'very secure vote' for himself in-person in Florida"
+    excerpt: "\"I voted for a guy named Trump,\" the president said after casting his ballot in person in his newly adopted home state of Florida."
+    publishedDateTime: 2020-10-26T01:29:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 123
     images:
-      - url: "https://www.chicagotribune.com/resizer/j-XTbKD9PYU9tz4KDyqMTvFLhiQ=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/NZWX7L47I5C4LGNNJC3VIP5CPM.jpg"
+      - url: "https://i.insider.com/5f9447ca4743a3001216b782?width=1200&format=jpeg"
         width: 1200
-        height: 802
+        height: 600
+        isCached: true
+  - title: "Golf legend Jack Nicklaus endorses Trump for reelection, calls him \"more diverse\" than any president he's seen"
+    excerpt: "Golf legend Jack Nicklaus said Wednesday that he voted for President Donald Trump, heaping praise on the commander chief while urging Americans to cast their ballots for the president. The18-time major champion posted his endorsement on Twitter,"
+    publishedDateTime: 2020-10-29T19:27:00Z
+    webUrl: "https://www.cbsnews.com/news/jack-nicklaus-endorses-president-trump-for-re-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-trump-for-re-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-trump-for-re-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/29/d729524b-cd24-44f4-9dd1-182757438ac8/thumbnail/1200x630/ccabf10bc005548b9ebac519a087d98b/gettyimages-1128321909.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Gun-Toting ‘Guards’ at Florida Polls Claim They Were Hired By Trump Campaign — Trump Campaign Denies"
+    excerpt: "Two armed men dressed as security guards told cops they were hired by the Trump campaign to set up near a Florida early voting location — a claim that President Donald Trump's campaign denied through a spokesperson."
+    publishedDateTime: 2020-10-22T13:24:00Z
+    webUrl: "https://www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/"
+    ampWebUrl: "https://www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 60
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Florida-Early-Voting.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "bEPhj0jlDRMAhyrSDqkjJa0gvyhli43o+sYtjbdU4E0VOsAmX112JPzCWWoaBxcedXJ2h1DAt/4V3IMNbXpchutlUd/mzJajcqXmOw3ieObtUcFqpLwXOQxcZICjWknVWvTYqJOINLGz459ymOcw8VRp19ddzaMk3V8jgED9MwV1P9WE3giCB4KT9uw3nGGNIEH1/FQiwi92CiCY5Xh7GFip4tegc/usaQapLmCw4hfr3phpkSoliprmtZvvSjLDAFhHeQSfeM84LRgd7UobKbkX27UCLf9peXfcKyXgnl4FQPF0PMtml0vSTQxGE+Ei+4/9oRC+aAz+yEbJGG3I069HeofhCbEV1CzDIhY1hCfPXYiOoscTn5/MVCTcjG/LX9iDIOUZLylN3vOwb+M/rJapmgts6ZrdB1nhQ7rlNOze4MfWbV6FMnM9672Or7wgdASSly0PS8TAXvDQJ7rYt76Qm4sbGqBAE1MhyY9nM+v+s3z05rth6IZjJK8TGalXe7VwVywYE7b2cjzN5Ix3tw==;XmIO1NdCTHHPzhAsgGxqzQ=="

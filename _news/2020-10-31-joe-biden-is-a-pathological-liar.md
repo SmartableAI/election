@@ -73,6 +73,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "How Wisconsin and Michigan could deliver Biden the presidency"
+    excerpt: "The Washington Post’s Philip Bump analyzes how Democratic presidential nominee Joe Biden flipped key states blue in 2020 and what it means for his chances of winning the presidency."
+    publishedDateTime: 2020-11-05T02:01:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/how-wisconsin-and-michigan-could-deliver-biden-the-presidency/2020/11/04/457c21ca-f628-4aa3-9f11-19c95a27808f_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-05-2020/t_eb6152e9dd9141bca371527b44fc6a64_name_20201104_DemetriusFreeman_wapo_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
   - title: "Lady Gaga Criticized Over Joe Biden Endorsement Video"
     excerpt: "Lady Gaga criticized after campaigning for Joe Biden in a new video Several netizens slammed the singer’s appeal Others thanked Gaga because she inspired them to vote Lady Gaga received mixed responses from the netizens after sharing a video campaigning for Democratic presidential candidate Joe Biden."
     publishedDateTime: 2020-11-02T05:29:00Z

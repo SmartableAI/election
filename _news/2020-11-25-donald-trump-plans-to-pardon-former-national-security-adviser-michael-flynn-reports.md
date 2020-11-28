@@ -127,6 +127,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "For President Trump, defections and gaffes hamper 2020 election court challenges"
+    excerpt: "Over the three weeks since the election, President Trump's legal bid to challenge the results has unfolded in unpredictable ways with a revolving cast of characters."
+    publishedDateTime: 2020-11-24T15:11:00Z
+    webUrl: "https://abcnews.go.com/US/president-trump-defections-gaffes-hamper-2020-election-court/story?id=74367708"
+    ampWebUrl: "https://abcnews.go.com/amp/US/president-trump-defections-gaffes-hamper-2020-election-court/story?id=74367708"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/president-trump-defections-gaffes-hamper-2020-election-court/story?id=74367708"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/Politics/sidney-pow_hpMain_20201122-211137_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump fires top U.S. election cybersecurity official who defended security of vote"
     excerpt: "President Donald Trump on Tuesday fired top U.S. cybersecurity official Chris Krebs in a tweet, accusing him without evidence of making a \"highly inaccurate\" statement affirming the security of the Nov."
     publishedDateTime: 2020-11-18T06:46:00Z
@@ -271,6 +287,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump team requests official recount of Georgia presidential vote"
+    excerpt: "President Trump's legal team says his campaign has requested an official recount of votes in the Georgia presidential race using safeguards including signature matching."
+    publishedDateTime: 2020-11-22T04:34:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f587f3c/2147483647/strip/true/crop/3975x2596+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb9%2Fee%2F767d85ba4bf48dbe023f78da0899%2Fa32de59bb9f3444596f970c6e31b3e80"
+        width: 320
+        height: 209
+        isCached: true
   - title: "As Trump gets more brazen about trying to steal the election, can congressional Republicans ditch him?"
     excerpt: "Congressional Republicans reluctantly backed President Trump on his false voter fraud claims in the hope that the situation would provide a natural exit ramp for them. His legal cases would wind down,"
     publishedDateTime: 2020-11-20T22:30:00Z
@@ -334,6 +366,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XPTXHPH6VEI6NG3YQJGMVOKEGU.jpg&w=1440"
         width: 1440
         height: 1145
+        isCached: true
+  - title: "Touting drug prices, Trump pushes his election win"
+    excerpt: "The Trump administration issued regulations Friday that could lower the prices Americans pay for many prescription drugs. In announcing the new policy President Donald Trump again claimed he had won the presidential election."
+    publishedDateTime: 2020-11-20T20:58:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/20/touting-drug-prices-trump-pushes-his-election-win/6362587002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9a143bdf-7170-406c-a781-9ab3e09a43e6_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "What Trump allies said about election results in 2016"
     excerpt: "President-elect Donald Trump. Now, those same people are baselessly suggesting Trump lost due to widespread fraud."

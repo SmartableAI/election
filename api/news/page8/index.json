@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-17-new-york-times-trump-asked-advisers-about-possible-strike-on-iranian-nuclear-site.md",
+      "title": "New York Times: Trump asked advisers about possible strike on Iranian nuclear site",
+      "excerpt": "President Donald Trump last week asked senior aides what possibilities he had for an offensive strike on Iran's primary nuclear site, The New York Times reported Monday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DWHlTSLyJ34/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DWHlTSLyJ34/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201114102305-01-trump-rose-garden-1113-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/16/politics/trump-possible-offensive-iran-nuclear-site/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-possible-offensive-iran-nuclear-site/index.html",
+      "publishedDateTime": "2020-11-16T19:31:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-pence-fauci-praise-vaccine-developments.md",
       "title": "Pence, Fauci Praise Vaccine Developments",
       "excerpt": "Vice President Mike Pence praised recent vaccine advancements during a call with governors Monday, calling it welcome news for Americans. Mr. Pence spoke soon after Moderna said early results showed its experimental coronavirus vaccine [was 94.",
@@ -707,7 +763,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2020/11/15/4aab8048-279b-11eb-9b14-ad872157ebc9_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 366,
+      "heat": 386,
       "tags": null,
       "images": [
         {
@@ -1268,62 +1324,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-darrell-issa-trump-on-par-with-lincoln-reagan-with-value-added-to-the-republican-party.md",
-      "title": "Darrell Issa: Trump on par with Lincoln, Reagan with value added to the Republican Party",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ABnE3NXhjUk/darrell-issa-trump-lincoln-reagan-value-to-republican-party",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ABnE3NXhjUk/darrell-issa-trump-lincoln-reagan-value-to-republican-party",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee0c5fb7-89f6-497f-bb85-9e7c233cdde5/b552cba5-dad2-42a4-97d2-09d5b9d5b151/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/darrell-issa-trump-lincoln-reagan-value-to-republican-party.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/darrell-issa-trump-lincoln-reagan-value-to-republican-party.amp",
-      "publishedDateTime": "2020-11-14T14:26:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

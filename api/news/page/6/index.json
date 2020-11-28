@@ -2,6 +2,118 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-19-washington-post-trump-spoke-to-gop-official-who-now-wants-to-rescind-vote-to-certify-detroits-results.md",
+      "title": "Washington Post: Trump spoke to GOP official who now wants to 'rescind' vote to certify Detroit's results",
+      "excerpt": "The two Republican members of the Wayne County Board of Canvassers want to \"rescind\" their votes to certify the presidential results from the county, the largest in Michigan and home to the city of Detroit, even though the board has already certified the results.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YIoIZm5GH6c/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YIoIZm5GH6c/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201027173041-vote-by-mail-stickers-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/19/politics/gop-michigan-results-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/gop-michigan-results-trump/index.html",
+      "publishedDateTime": "2020-11-19T08:38:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-trump-campaign-drops-lawsuit-challenging-michigan-voting-results.md",
+      "title": "Trump campaign drops lawsuit challenging Michigan voting results",
+      "excerpt": "President Trump's reelection campaign said Thursday that it is dropping a lawsuit challenging voting results in Michigan, which show Democrat Joe Biden narrowly carrying the battleground state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a98bd85-8cb6-40db-a341-bed123126296/b14b578b-9eab-4265-bd71-466ccf3a8c4c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp",
+      "publishedDateTime": "2020-11-19T08:20:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-19-spike.md",
       "title": "Biden hasn't said anything on Newsom dinner controversy amid COVID-19 spike",
       "excerpt": "California Gov. Gavin Newsom is still facing backlash for dining at a restaurant with a large group while pushing new coronavirus restrictions on indoor dining during a spike in cases, and President-elect Joe Biden has yet to weigh in on the matter.",
@@ -941,63 +1053,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-19-trump-fires-again-this-time-a-cybersecurity-official.md",
-      "title": "Trump Fires Again, This Time a Cybersecurity Official",
-      "excerpt": "Two readers say the president fired an election official, Christopher Krebs, for his honesty and integrity. Also: A post-mortem on polling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/18/us/18dc-krebs-print/merlin_154823772_a5a1cf78-6b17-457c-b44a-78e80f318254-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
-      "publishedDateTime": "2020-11-18T11:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-19-a-federal-judge-ordered-the-trump-administration-to-end-a-program-that-deports-immigrant-children-who-cross-the-southern-border-alone.md",
       "title": "A federal judge ordered the Trump administration to end a program that deports immigrant children who cross the southern border alone",
       "excerpt": "The Trump administration policy has resulted in thousands of rapid deportations of minors during the coronavirus pandemic.",
@@ -1300,62 +1355,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-violence-mike-lee-feinstein-friends.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-violence-mike-lee-feinstein-friends.amp",
       "publishedDateTime": "2020-11-18T07:20:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-jones-yates-becerra-among-names-floated-for-biden-attorney-general.md",
-      "title": "Jones, Yates, Becerra among names floated for Biden attorney general",
-      "excerpt": "President-elect Joe Biden is considering several individuals to serve as the attorney general in his administration, including former Alabama Sen. Doug Jones, former Deputy Attorney General Sally Yates and California Attorney General Xavier Becerra, Fox News is told.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QLNEDa-nrMM/jones-yates-becerra-biden-attorney-general-names",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QLNEDa-nrMM/jones-yates-becerra-biden-attorney-general-names",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jones-yates-becerra-biden-attorney-general-names.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jones-yates-becerra-biden-attorney-general-names.amp",
-      "publishedDateTime": "2020-11-18T05:53:40-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

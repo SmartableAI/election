@@ -7,8 +7,8 @@ originalUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/03
 webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/03/trump-says-losing-never-easy/6146200002/"
 type: article
 quality: 101
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: USA Today
@@ -27,38 +27,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Trump 'not thinking' of election night speech yet"
-    excerpt: "Politics Trump 'not thinking' of election night speech yet. Posted . President Donald Trump visited the Republican National Committee campaign headquarters in Arlington, Virginia,"
-    publishedDateTime: 2020-11-03T20:01:00Z
-    webUrl: "https://www.reuters.com/video/watch/trump-not-thinking-of-election-night-spe-idOVD30RPB3?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30RPB3&r=OVD30RPB3&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Trump plans election night party at his D.C. hotel: 'It will be absolutely EPIC'"
-    excerpt: "WASHINGTON — President Donald Trump has his eye on hosting an election night party at his own hotel in the nation’s capital. Over the weekend, the campaign pushed out fundraising emails in the ..."
-    publishedDateTime: 2020-10-27T18:36:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/26/donald-trump-plans-election-night-party-his-trump-/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/26/donald-trump-plans-election-night-party-his-trump-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/26/donald-trump-plans-election-night-party-his-trump-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 85
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/21/Election_2020_Trump_92474.jpg-40751_c0-0-4140-2415_s1200x700.jpg?7d80f224ac3e9ad9770dfc5082c4de06f51ff5c2"
-        width: 1200
-        height: 700
-        isCached: true
 
 secured: "zIQvom6sRsxlaGCbtJ1icALiIw7aeVOiZW02LcWj37xd6yPZFMXHfHYmgNeP+tGMVoRb0kYyc8oYHexaH4okcedav2cXWEp+PD8eclwd5kzBNV9ejo/tn9493xXR5l338N3kqDuxjkCbAhpU0CYjT1id/HsMmvU3RE5wjFkIhowsFO80kk2Z6S1sFT4AC5104Dd9WFanBvc6J8qSt7gISCTVKKtUhMp+DKWwufFJ4h7L0pihU+ea6r/sJtbCQNKdiRnVSy27dHNbLzr1cDR6vlOwMVtz8w4GS+6UwapYD6auy52BDXyd+SzzQQ99FDDRK2hK44jNugac98qwoG6VIr9RnhonmQ5FtTJRXZS/c6o=;u26/u3be3HuEyQQ41BqJAw=="
 ---

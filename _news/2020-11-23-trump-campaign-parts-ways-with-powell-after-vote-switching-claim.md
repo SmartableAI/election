@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2820UB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820UB"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://i.insider.com/5fbb973350e71a0011556be6?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Attorney heading up Trump campaign's Wisconsin recount effort is seeking to throw out his own vote"
+    excerpt: "Jim Troupis, a former Dane County judge and Cross Plains attorney, voted early using the state's in-person absentee option."
+    publishedDateTime: 2020-11-23T02:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/22/attorney-heading-up-trump-recount-wants-throw-out-his-own-vote/6382647002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6382647002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6382647002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/21/PMJS/f177309e-811b-46d6-b7f4-2da8cebb9b00-RECOUNT_05318.JPG?auto=webp&crop=3899,2194,x0,y207&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "O+WC0PcmCN/2a4wyckF4pwomR6gjZvB5Q0gBqW8kNNM9Wc3/3EhxEx+qKpKyKoENxLhc0awTZO7NQ+VdfvcE+htPegUXDvFZIizbya7Qh6NQNLPGztqOeo8/5YSeyasP9K7WCeFSgJAIZ+QeqY9u9LC3lS6dlUq1vS8Cjlv/r/ZxHNcNYLs6gXSZWsDplWGnDFkxOzdpVmeuF0RsmplY9+2IWkPLq7T+kAtKY5BlknE1KNatJxcMJN/+JzwQOT26j6Wx34d0TrbEzWyFEVdH2HX0zL6+odWV6UPzSWDVb/71lo26vhRG//Eo2osO9zhbNZmrwSiSlkZsE9FBg6agbkbTsCMWkL72yUGGHmbjozP0oDiY0RoO2oN4521b/AsguZuPTO/S38YGO8eRel8YPchY+E+ucVoEULnTsYDYbEAl/W95P6ES7RhMxlzcsm6cIkMESF3g9XeB5yfi1Xyrpgvuu1vKAZ0XovghA3XXD5iK3WasZuB/9XsjDpcoKvWqUKmObbycq6Ki9QYxMd33dw==;5EafIAuxS7RUUeaC9ZugPQ=="

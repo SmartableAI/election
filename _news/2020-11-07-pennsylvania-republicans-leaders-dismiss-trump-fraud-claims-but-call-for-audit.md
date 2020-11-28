@@ -59,22 +59,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "What are the recount rules? We break them down and how they could help Donald Trump win Wisconsin, Arizona or Pennsylvania"
-    excerpt: "Wisconsin is one of several states that could be ripe for recounts as the country awaits final results in the presidential election."
-    publishedDateTime: 2020-11-05T01:56:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/how-recount-wisconsin-arizona-michigan-could-help-trump-win/6163544002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6163544002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6163544002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 99
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/30/USAT/22b34afe-9577-45c3-9d0b-6c34cfb6fbdf-Abril_first_time_voter.JPG?auto=webp&crop=2315,1303,x0,y617&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Kamala Harris tells Pennsylvania she's not going to talk about 'the other guy'"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris told supporters in Pennsylvania on Monday that she doesn’t want to talk about “the other guy” — President Trump — on the eve of Election Day."
     publishedDateTime: 2020-11-02T17:59:00Z

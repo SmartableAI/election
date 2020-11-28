@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-dr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
 type: article
 quality: 140
-heat: 940
+heat: 960
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/fdecd60107ee26ff8ec9fc6b7c101755148aca56/0_123_5704_3423/master/5704.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=97cfb0a42dc3034f2a07ffb6a4f8db8f"
         width: 600
         height: 360
+        isCached: true
+  - title: "Land conservation plan stirs fight over Trump restrictions"
+    excerpt: "U.S. officials say proposed land conservation purchases in dozens of states would preserve natural areas and increase access to tourist destinations"
+    publishedDateTime: 2020-11-20T21:54:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/land-conservation-plan-stirs-fight-trump-restrictions-74324311"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/land-conservation-plan-stirs-fight-trump-restrictions-74324311"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/land-conservation-plan-stirs-fight-trump-restrictions-74324311"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_6f702168544143a0b452c89e1c1ab5f0_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump summons Michigan GOP leaders for extraordinary meeting"
     excerpt: "President Donald Trump has summoned Michigan’s Republican legislative leaders to the White House for an extraordinary meeting Friday"

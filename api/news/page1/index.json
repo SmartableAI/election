@@ -2,6 +2,157 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-29-canada-blocks-bulk-exports-of-some-prescription-drugs-in-response-to-trump-import-plan.md",
+      "title": "Canada blocks bulk exports of some prescription drugs in response to Trump import plan",
+      "excerpt": "Canada on Saturday blocked bulk exports of prescription drugs if they would create a shortage at home, in response to outgoing U.S. President Donald Trump's efforts to allow imports from Canada to lower some drug prices for Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/canada-blocks-bulk-exports-of-some-prescription-drugs-in-response-to-trump-import-plan-2020-11",
+      "originalUrl": "https://www.businessinsider.com/canada-blocks-bulk-exports-of-some-prescription-drugs-in-response-to-trump-import-plan-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/canada-blocks-bulk-exports-of-some-prescription-drugs-in-response-to-trump-import-plan-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/canada-blocks-bulk-exports-of-some-prescription-drugs-in-response-to-trump-import-plan-2020-11?amp",
+      "publishedDateTime": "2020-11-28T12:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-former-top-cybersecurity-official-says-trump-firing-by-tweet-was-not-how-i-wanted-to-go-out.md",
+      "title": "Former top cybersecurity official says Trump firing by tweet was 'not how I wanted to go out'",
+      "excerpt": "Christopher Krebs, the former top cybersecurity official, said President Donald Trump's decision to unceremoniously fire him via tweet last week was \"not how I wanted to go out.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bj_tstiA2pI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bj_tstiA2pI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201117192237-chris-krebs-2019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/28/politics/chris-krebs-trump-election-security-60-minutes-interview/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/chris-krebs-trump-election-security-60-minutes-interview/index.html",
+      "publishedDateTime": "2020-11-28T12:17:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-29-musician-john-fogerty-on-the-irony-of-playing-fortunate-son-at-a-trump-rally.md",
+      "title": "Musician John Fogerty on the irony of playing 'Fortunate Son' at a Trump rally",
+      "excerpt": "National arts reporter interviews former Creedence Clearwater Revival singer John Fogerty on Instagram Live on Nov. 28.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/entertainment/musician-john-fogerty-on-the-irony-of-playing-fortunate-son-at-a-trump-rally/2020/11/28/a1e56c7a-9bdb-48d6-a60f-6e7647ebeb07_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/entertainment/musician-john-fogerty-on-the-irony-of-playing-fortunate-son-at-a-trump-rally/2020/11/28/a1e56c7a-9bdb-48d6-a60f-6e7647ebeb07_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-28-2020/t_a0ae02a7069c4b1791015469192742dd_name_JohnFogertyThumb_copy.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+          "width": 1484,
+          "height": 834,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-28T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-29-not-a-hearing-arizona-legislators-trump-lawyers-plan-public-meeting-on-election-at-phoenix-hotel-monday.md",
       "title": "Not a hearing: Arizona legislators, Trump lawyers plan public meeting on election at Phoenix hotel Monday",
       "excerpt": "The meeting at the Hyatt Regency in downtown Phoenix is not a hearing of the Legislature as Finchem and Trump campaign's legal team have cast it.",
@@ -62,7 +213,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-biden-cabinet-idINL1N2I92JE",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -103,59 +254,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount.md",
-      "title": "Joe Biden gains votes in Wisconsin county after Trump-ordered recount",
-      "excerpt": "Milwaukee recount, which cost Trump campaign $3m, boosts Democratic president-elect days before state must certify result",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 990,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ddac0d843201d2f07ae923c9c75e6e9dee8aad0d/0_93_4902_2941/master/4902.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e827a2f566149a99e376f5ffcc828b5c",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount",
-      "publishedDateTime": "2020-11-27T23:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
       ]
     },
     {
@@ -268,6 +366,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-milwaukee-county-vote-recount-gives-biden-small-boost.md",
+      "title": "Milwaukee County vote recount gives Biden small boost",
+      "excerpt": "Milwaukee County completed its recount of presidential ballots, finding only small changes in vote totals for one of the two Wisconsin counties recounting ballots",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-27T16:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1031,58 +1181,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-27-joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic.md",
-      "title": "Joe and Jill Biden write op-ed celebrating smaller Thanksgiving amid pandemic",
-      "excerpt": "President-elect Joe Biden and his wife, Jill, wrote an op-ed on Thursday celebrating Thanksgiving and sympathizing with families who remain separated over the holiday due to the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/?ftag=CNM-00-10aab7e",
-      "originalUrl": "https://www.cbsnews.com/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/?ftag=CNM-00-10aab7e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/09/ad794d08-da70-4784-af10-7a0a27efa50d/thumbnail/1200x630/0a490c83b38cebb34e0afc20cddf570f/gettyimages-1229520125.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/",
-      "publishedDateTime": "2020-11-26T16:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-27-angry-trump-promises-rally-in-battleground-state-of-georgia.md",
       "title": "Angry Trump promises rally in battleground state of Georgia",
       "excerpt": "President Donald Trump on Thursday renewed baseless claims that “massive fraud” and crooked local officials in battleground states led to his election defeat, and said he’ll go to Georgia for a rally",
@@ -1240,114 +1338,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-julian-assanges-partner-appeals-to-trump-to-pardon-him.md",
-      "title": "Julian Assange's partner appeals to Trump to pardon him",
-      "excerpt": "Julian Assange’s partner, Stella Moris, has tweeted President Donald Trump on Thanksgiving, appealing to him to pardon the WikiLeaks founder",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
-      "publishedDateTime": "2020-11-26T08:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-dem-leaders-condemn-trumps-pardon-of-michael-flynn-abuse-of-power.md",
-      "title": "Dem leaders condemn Trump's pardon of Michael Flynn: 'Abuse of power'",
-      "excerpt": "Democratic leaders lambasted President Trump for pardoning his former national security adviser Michael Flynn on Wednesday, condemning the move as a \"brazen\" abuse of power. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szBHABvHeHc/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szBHABvHeHc/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76bd622f-fcba-4d7b-bb97-89d043391e11/7a684cb0-6b30-4f99-a87f-ee7e37eebddd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power.amp",
-      "publishedDateTime": "2020-11-26T08:47:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

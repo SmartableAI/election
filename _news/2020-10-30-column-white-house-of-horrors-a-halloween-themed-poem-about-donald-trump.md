@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-w
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html?outputType=amp"
 type: article
 quality: 123
-heat: 143
+heat: 123
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 802
     isCached: true
-
-related:
-  - title: "Without Florida, There’s Almost No Path for Donald Trump to Stay in the White House"
-    excerpt: "There’s almost no plausible path to a second term for President Donald Trump without winning his adoptive home state. This week in the D.C. Brief, we’re going to take the temperature in ..."
-    publishedDateTime: 2020-10-26T19:33:00Z
-    webUrl: "https://time.com/5903917/trump-florida/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 79
 
 secured: "732VfEL28x9Fnns7cR3V8sAsi+YuG9qPSJolLU8FYhS7UhJEl5rb+2qHpzo5Rd/DmpWSYMqbQVhP2v+SxqC9e0uK74JvDfoJJP7KZA0N3AC/nBTIPmIQg6U0z7NMEUfkihf65NCsAqV8jyKv8yIXdf3balCKh+TG0r32ak09d5+SWvTZkktUQ7sqnB1sbVEDCz7374aLEqO1ft6ioavfPWRwFHlieJZKAWvR3JUKF+HDjCIvSxq6WlGx/ZVK0O4q0Akl03UzmG/DscduAG6kQyl57E9yUE7JYdPfbA3rQydm8tW4MEcZZPrQpK9W2sbIQH7VawFlcl1fet7kT5LIm4hiyurpiQyh/DfgBQ8hfV4wjVr9PJeliHoIbuTF+1jOA5u+ryrNMdgG5Nd7t/RwZu20iyGVgMR9mls2GqcK7BJK+r6AY5u/mc9jO+PlRxRqgL+/X6gNjXoSL20cbpkxvImXfRTHMXDGRpze8p+YQ1UR1DVjoHrCvZheR0Dyah245fnYzGXIo9tKVPR48zUJGg==;G0ze9E5ENbCyEIduI9QqWQ=="
 ---

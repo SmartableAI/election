@@ -792,58 +792,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-06-facebook-shuts-down-large-pro-trump-stop-the-steal-group-for-spreading-election-misinformation-and-calling-for-violence.md",
-      "title": "Facebook Shuts Down Large Pro-Trump 'Stop the Steal' Group for Spreading Election Misinformation and Calling for Violence",
-      "excerpt": "Trump group which had amassed over 364,000 members in less than 48 hours, for promoting election misinformation regarding ongoing vote counts. With protests over the ongoing tally of votes sweeping through a number of U.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/5907902/stop-the-steal-facebook-group-trump-election/",
-      "originalUrl": "https://time.com/5907902/stop-the-steal-facebook-group-trump-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2020/10/TIME_Reddit_Doom.gif?w&#x3D;600",
-          "width": 1500,
-          "height": 966,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-06-fact-check-viral-video-does-not-show-trump-ballots-being-burned.md",
       "title": "Fact check: Viral video does not show Trump ballots being burned",
       "excerpt": "A video that purports to show a bag of ballots for U.S. President Donald Trump being burned is fake, officials have confirmed.",
@@ -852,7 +800,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-factcheck-ballots-video-idUSKBN27L241",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1278,7 +1226,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1387,7 +1335,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/03/live-updates-florida-election-day-voting-turnout-ballots-trump-biden/6038318002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 740,
+      "heat": 680,
       "tags": null,
       "images": [
         {
@@ -1594,6 +1542,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-cnns-don-lemon-hits-network-for-airing-trumps-propaganda-visit-to-rnc-office.md",
+      "title": "CNN's Don Lemon hits network for airing Trump's 'propaganda' visit to RNC office",
+      "excerpt": "CNN anchor Don Lemon questioned the judgment of his own network Tuesday after it broadcast remarks President Trump made during his visit to a Republican National Committee office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc",
+      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81df12e9-89a4-4281-90fe-5e64638e305c/ebed9e3f-ad42-4ef4-847c-2443a3c03962/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp",
+      "publishedDateTime": "2020-11-03T14:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

@@ -2,21 +2,21 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2020-11-06-facebook-shuts-down-large-pro-trump-stop-the-steal-group-for-spreading-election-misinformation-and-calling-for-violence.md",
-      "title": "Facebook Shuts Down Large Pro-Trump 'Stop the Steal' Group for Spreading Election Misinformation and Calling for Violence",
-      "excerpt": "Trump group which had amassed over 364,000 members in less than 48 hours, for promoting election misinformation regarding ongoing vote counts. With protests over the ongoing tally of votes sweeping through a number of U.",
+      "path": "_news/2020-11-06-donald-trumps-aides-are-increasingly-gloomy-and-mad-at-other-gop-officials.md",
+      "title": "Donald Trump's aides are increasingly gloomy – and mad at other GOP officials",
+      "excerpt": "Some aides to President Donald Trump said they're not giving up on the election, but they're also bracing for the worst. They're also upset with other Republicans who have not spoken out against the ongoing election count as forcefully as Trump has.",
       "sourceUrl": null,
-      "webUrl": "https://time.com/5907902/stop-the-steal-facebook-group-trump-election/",
-      "originalUrl": "https://time.com/5907902/stop-the-steal-facebook-group-trump-election/",
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/trump-aides-gloomy-election-mad-gop/6181186002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/trump-aides-gloomy-election-mad-gop/6181186002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 142,
       "tags": null,
       "images": [
         {
-          "url": "https://api.time.com/wp-content/uploads/2020/10/TIME_Reddit_Doom.gif?w&#x3D;600",
-          "width": 1500,
-          "height": 966,
+          "url": "https://www.gannett-cdn.com/presto/2020/11/04/USAT/8e6c2ca7-73ee-4a93-b47f-7fc5415e3f65-AFP_AFP_8UJ3N7.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T14:24:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6181186002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6181186002",
+      "publishedDateTime": "2020-11-05T15:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Time",
-        "domain": "time.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-factcheck-ballots-video-idUSKBN27L241",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1202,7 +1202,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/04/wisconsin-results-down-wire-again-milwaukee-ballot-count/6123344002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {

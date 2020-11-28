@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-sullivan-mayorkas.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 168
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1fb50e8-f4fd-425d-9b2d-08dd32d77629/a69bb578-d024-4d13-902f-ea215b4f647c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "BLM supporters continue to protest Biden's consideration of LA Mayor Garcetti for cabinet"
+    excerpt: "Black Lives Matter activists protested outside the home of Los Angeles Mayor Eric Garcetti to protest the mayor’s potential nomination to President-elect Joe Biden’s cabinet. "
+    publishedDateTime: 2020-11-28T20:24:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p5fuVHUMcII/blm-supporters-protest-bidens-mayor-garcetti-cabinet"
+    ampWebUrl: "https://www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9c7e661-973a-421d-9d3c-c492d013a8c8/0f7df908-dfcb-4ff5-a3e7-cb7708020b06/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -384,6 +384,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "On the Trail: Joe Biden’s long road to the White House"
+    excerpt: "Joe Biden has been running for public office for nearly 50 years. For the last 13 of them, NBC News' Mike Memoli has been in the front row - covering Biden as the Vice President and then as a candidate through this historic election season."
+    publishedDateTime: 2020-11-28T19:46:00Z
+    webUrl: "https://www.nbcnews.com/now/video/on-the-trail-joe-biden-s-long-road-to-the-white-house-96764485693"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96764485693"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96764485693"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_biden_trail_white_house_20201129-thumb.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Transition Gets Underway in Earnest as Biden Team Fans Out Across Capital"
     excerpt: "Within hours of the Trump administration’s decision to stop blocking the process, representatives of the president-elect began coordinating the handover of power."
     publishedDateTime: 2020-11-25T00:44:00Z
@@ -449,6 +465,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "Qan7uI9I9d72nV4/kYutPsMJGbXw8zbYXj/E2WOP7d0dUDR2Fbr9TMeBG4icmo92iOGc+XrFVbW46gjLZtOUgrl+MN7kG0nx+SbkGhKzXvMFkXpl14iiUjzOYbIog+OuQXl3yV+TC+kc95ucYzVY4/KnhoypbzffZWzI32A0W1AXwkTQyuRsswLIGqVPQtQh+Gsb6GXuB0opdGhkiUHQTn4W3Zq8ihIlxD6pXC/LJBrelNgJPcrRregyURCrNQu57detVqKnKAQw1D3xhNzolbt+MpvUpkki7j+ersRsLP4xay3lixnsAUEcb5Cy0Lea+Cc4uVeSLjgRy7Fy2oRNdcBW4jvu6/J7k0+Kr0oDZL4=;ptGFhYRfSk2ZkGWHUYv5tQ=="
+secured: "I6JVHye8AhkvSRGVnMNThgoq7PiVmIqM5zhonuwMAlJ0K5uacwQNx9643CyKRDK4kAbsErfV4QsXm3NGp/ov/u4SUVfgRnp4LsvoHrQZ+UQQ4yoQFaM1omg2axS0fdf/d4x9vU1bhBs+o5P0Q+YKoP26Jl2T+BO5kKYjKadruDNsNOYfbp0koAdX7fD+9vSrj8/Bex09ZgOHjxzwRfJWHsIfBnSMW2hdZrYb4yoL6a+fsfkvqLPr6B8krufkWbARK+y959WvnmVj6XNCwH+P0GvKQWSVr82+U2AxgX9gJm8thsc68xS+kE4mwF3y8hSVBLoWu+nw9H7jO2veG+eZu9CPwtloAR+StRy5el05YWUPqktOqwGS02xGtE0ykp8SkANzdmAksfhJuLJuTry20brXO//k/hMt8OhROgXXovp1KqT+srePtO/qM5wxX4sidqUhJkzR/Haqn5WbhCd8qvK58n1PKFQI1d1BAJK36S2RthfcYAOVvF0Hn47AvpG9/mxUnArLLQEJXhmKeezZkw==;K2/v1j0xzXPmXjVfAWkqNQ=="
 ---
 

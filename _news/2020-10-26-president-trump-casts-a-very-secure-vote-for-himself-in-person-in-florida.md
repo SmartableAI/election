@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-pr
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
 type: article
 quality: 123
-heat: -1
-published: false
+heat: 183
+published: true
 
 provider:
   name: Business Insider
@@ -31,85 +31,46 @@ images:
     isCached: true
 
 related:
-  - title: "‘We need you’: GOP hunts for new voters in Trump territory"
-    excerpt: "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time"
-    publishedDateTime: 2020-10-28T04:47:00Z
-    webUrl: "https://www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+  - title: "Golf legend Jack Nicklaus endorses Trump for reelection, calls him \"more diverse\" than any president he's seen"
+    excerpt: "Golf legend Jack Nicklaus said Wednesday that he voted for President Donald Trump, heaping praise on the commander chief while urging Americans to cast their ballots for the president. The18-time major champion posted his endorsement on Twitter,"
+    publishedDateTime: 2020-10-29T19:27:00Z
+    webUrl: "https://www.cbsnews.com/news/jack-nicklaus-endorses-president-trump-for-re-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-trump-for-re-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-trump-for-re-election/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/29/d729524b-cd24-44f4-9dd1-182757438ac8/thumbnail/1200x630/ccabf10bc005548b9ebac519a087d98b/gettyimages-1128321909.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "New York grocery store sparked backlash with a 20% discount offer for Trump supporters"
-    excerpt: "Store owner Jose Colon told Fox News he also meant to extend the 20% off promotional offer to backers of Democratic presidential nominee Joe Biden."
-    publishedDateTime: 2020-10-24T20:35:00Z
-    webUrl: "https://www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10?amp"
+  - title: "Without Florida, There’s Almost No Path for Donald Trump to Stay in the White House"
+    excerpt: "There’s almost no plausible path to a second term for President Donald Trump without winning his adoptive home state. This week in the D.C. Brief, we’re going to take the temperature in ..."
+    publishedDateTime: 2020-10-26T19:33:00Z
+    webUrl: "https://time.com/5903917/trump-florida/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5f948c93f21803001222bcc5?width=1200&format=jpeg"
-        width: 814
-        height: 407
-        isCached: true
-  - title: "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund"
-    excerpt: "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump."
-    publishedDateTime: 2020-10-29T21:58:00Z
-    webUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 90
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-screenshot2.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Hackers Stole $2.3M From Wisconsin GOP, How Does It Affect Trump's Reelection Bid?"
-    excerpt: "The Wisconsin Republican Party has announced that hackers have stolen $2.3 million from funds meant for Donald Trump’s reelection campaign. The hackers compromised Republican ve"
-    publishedDateTime: 2020-10-29T17:55:00Z
-    webUrl: "https://www.ibtimes.com/hackers-stole-23m-wisconsin-gop-how-does-it-affect-trumps-reelection-bid-3072626"
-    ampWebUrl: "https://www.ibtimes.com/hackers-stole-23m-wisconsin-gop-how-does-it-affect-trumps-reelection-bid-3072626?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hackers-stole-23m-wisconsin-gop-how-does-it-affect-trumps-reelection-bid-3072626?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 84
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/us-president-donald-trump-claps-during-a-rally.jpg"
-        width: 1024
-        height: 708
-        isCached: true
-  - title: "Fox News Interviews ‘Suburban Mom’ Voting for Trump, Fails to Reveal Her Past as GOP Senate Staffer"
-    excerpt: "Fox News' Martha MacCallum interviews suburban mom 'writer' on panel of women voting for Trump, fails to disclose her past as GOP staffer for Sen. Rick Santorum"
-    publishedDateTime: 2020-10-30T04:25:00Z
-    webUrl: "https://www.mediaite.com/news/fox-news-interviews-suburban-mom-voting-for-trump-fails-to-reveal-her-past-as-gop-senate-staffer/"
-    ampWebUrl: "https://www.mediaite.com/news/fox-news-interviews-suburban-mom-voting-for-trump-fails-to-reveal-her-past-as-gop-senate-staffer/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/fox-news-interviews-suburban-mom-voting-for-trump-fails-to-reveal-her-past-as-gop-senate-staffer/amp/"
+      name: Time
+      domain: time.com
+    quality: 79
+  - title: "Gun-Toting ‘Guards’ at Florida Polls Claim They Were Hired By Trump Campaign — Trump Campaign Denies"
+    excerpt: "Two armed men dressed as security guards told cops they were hired by the Trump campaign to set up near a Florida early voting location — a claim that President Donald Trump's campaign denied through a spokesperson."
+    publishedDateTime: 2020-10-22T13:24:00Z
+    webUrl: "https://www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/"
+    ampWebUrl: "https://www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/amp/"
     type: article
     provider:
       name: Mediaite
       domain: mediaite.com
-    quality: 61
+    quality: 60
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Martha-MacCallum-Interviews-Former-GOP-Senate-Staffer-on-Women-Voter-Panel-Doesnt-Disclose-Her-Past-1200x676.jpg"
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Florida-Early-Voting.jpg"
         width: 1200
-        height: 676
+        height: 630
         isCached: true
 
 secured: "/sUiX6TdOJIgG/MnQbnHve7Rg44/J02FYmMwaKBdhqN24tKcmmlfssx0SiegUtWDPO9OIkoJcfcCB9sVP9hSuzeL+YRJJ97x0yBAr5ewllgKtXXW5FtlLQGLlkcPIsNLLpqBBprrEv/LTz+0jSAXi69GApEZln0j/P8CyER3qMTZB0hzPky8nUtNtL4+nr7jrZh7Kz4/0DTwG6+wd2lPmYMrs3WSiO+FNVvB9oElbRW+h9AvXfxGXfFQPkq7BAyHJK/5MqLrEwQFRFeke2hcTlrM6D0cgJYfCrBm0AF7FnPmQixhuH7mahddzBsHX2+00xm8mN2ydkdNaaW414ZvPBOOV+psQ5sN4qCyUgtnUIo=;iDlZvmqasCpjJqWcBY875g=="
