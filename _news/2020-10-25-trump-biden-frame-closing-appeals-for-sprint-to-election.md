@@ -4121,6 +4121,22 @@ related:
         width: 825
         height: 545
         isCached: true
+  - title: "Joe Biden calls for shared sacrifice to fight the pandemic as Trump rails about baseless election accusations"
+    excerpt: "President-elect Joe Biden urged Americans on the eve of Thanksgiving to recommit to fighting the coronavirus, not one another — even as President Trump continued to ignore the pandemic while he spent another day venting over baseless claims of election fraud."
+    publishedDateTime: 2020-11-26T01:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/joe-biden-calls-for-shared-sacrifice-to-fight-the-pandemic-as-trump-rails-about-baseless-election-accusations/2020/11/25/fe03638a-2f35-11eb-bae0-50bb17126614_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/joe-biden-calls-for-shared-sacrifice-to-fight-the-pandemic-as-trump-rails-about-baseless-election-accusations/2020/11/25/fe03638a-2f35-11eb-bae0-50bb17126614_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/joe-biden-calls-for-shared-sacrifice-to-fight-the-pandemic-as-trump-rails-about-baseless-election-accusations/2020/11/25/fe03638a-2f35-11eb-bae0-50bb17126614_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 136
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CRSDW3BPL4I6XOXAKC5ROETGCQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Factbox: Trump, Biden's paths to victory in U.S. presidential election"
     excerpt: "President Donald Trump and Democratic challenger Joe Biden on Wednesday each faced narrow paths to potential victory in a close-fought U.S. presidential election that will be determined by a razor-thin margin."
     publishedDateTime: 2020-11-04T12:44:00Z

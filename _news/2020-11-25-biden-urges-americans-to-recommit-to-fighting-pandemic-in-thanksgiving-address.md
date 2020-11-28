@@ -319,6 +319,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The labor market mess awaiting Joe Biden"
+    excerpt: "Many of the solutions he's offering — massive infrastructure, clean energy and technology investments — will need the approval of a largely hostile Congress."
+    publishedDateTime: 2020-11-25T09:36:00Z
+    webUrl: "https://www.politico.com/news/2020/11/25/biden-labor-market-jobs-440498"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/25/biden-labor-market-jobs-440498"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/25/biden-labor-market-jobs-440498"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b4/25/ef2406b8439e91979a4beb46c42a/ap20297681321948-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Exclusive one-on-one with Joe Biden: extended interview"
     excerpt: "President-elect Joe Biden speaks out to Lester Holt in an exclusive interview — Biden’s first since the election — about his Cabinet picks, the pandemic, his top priorities for his first 100 days and more."
     publishedDateTime: 2020-11-26T00:01:00Z

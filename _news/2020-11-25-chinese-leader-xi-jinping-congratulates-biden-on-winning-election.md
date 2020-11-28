@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-con
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-congratulations/index.html"
 type: article
 quality: 190
-heat: 630
+heat: 650
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/there_is_hope_on_the_way.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "The labor market mess awaiting Joe Biden"
+    excerpt: "Many of the solutions he's offering — massive infrastructure, clean energy and technology investments — will need the approval of a largely hostile Congress."
+    publishedDateTime: 2020-11-25T09:36:00Z
+    webUrl: "https://www.politico.com/news/2020/11/25/biden-labor-market-jobs-440498"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/25/biden-labor-market-jobs-440498"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/25/biden-labor-market-jobs-440498"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b4/25/ef2406b8439e91979a4beb46c42a/ap20297681321948-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Exclusive one-on-one with Joe Biden: extended interview"
     excerpt: "President-elect Joe Biden speaks out to Lester Holt in an exclusive interview — Biden’s first since the election — about his Cabinet picks, the pandemic, his top priorities for his first 100 days and more."
