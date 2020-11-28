@@ -95,6 +95,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Court Denies Trump Appeal: ‘Calling an Election Unfair Does Not Make It So’"
+    excerpt: "A federal appeals court Friday denied the Trump campaign’s appeal in Pennsylvania, writing that the case lacked proof and had no merit, and striking another blow to [the president’s dwindling legal av"
+    publishedDateTime: 2020-11-28T00:16:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/tfB3COnIUFcYliLYOlRc"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-265473?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "OMB Lists Positions Stripped of Job Protection Under Trump Order"
     excerpt: "Youre fired. They defined his celebrity on reality television, and they could now make him infamous among career civil servants"
     publishedDateTime: 2020-11-23T22:41:00Z

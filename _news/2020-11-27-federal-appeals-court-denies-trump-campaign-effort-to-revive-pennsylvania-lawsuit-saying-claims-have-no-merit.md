@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Federal appeals court slams Trump campaign efforts to turn tide in Pennsylvania ruling, saying 'claims have no merit'"
+    excerpt: "A federal appeals court denied the Trump campaign's effort to revive a federal lawsuit challenging the election results in Pennsylvania, ruling \"the claims have no merit.\"\n    \n"
+    publishedDateTime: 2020-11-28T00:13:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h9kQVfOphD0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/trump-pennsylvania-lawsuit-appeal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/trump-pennsylvania-lawsuit-appeal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 152
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121185207-01-pennsylvania-mail-in-ballot-counting-1112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Transition Highlights: Judge Dismisses Trump Lawsuit in Pennsylvania"
     excerpt: "Senator Pat Toomey of Pennsylvania, a Republican, said that with the dismissal, the president had “exhausted” his legal options in the state. Senator Kelly Loeffler of Georgia is in isolation after testing positive for the coronavirus."
     publishedDateTime: 2020-11-26T22:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-26-2020.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-26-2020.amp"
 type: article
 quality: 185
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9649eda-3c54-4b54-843e-66c817d257a1/8c70831b-bb19-4800-91d5-ed29bb44f6b2/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Court Denies Trump Appeal: ‘Calling an Election Unfair Does Not Make It So’"
+    excerpt: "A federal appeals court Friday denied the Trump campaign’s appeal in Pennsylvania, writing that the case lacked proof and had no merit, and striking another blow to [the president’s dwindling legal av"
+    publishedDateTime: 2020-11-28T00:16:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/tfB3COnIUFcYliLYOlRc"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-265473?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
   - title: "OMB Lists Positions Stripped of Job Protection Under Trump Order"
     excerpt: "Youre fired. They defined his celebrity on reality television, and they could now make him infamous among career civil servants"

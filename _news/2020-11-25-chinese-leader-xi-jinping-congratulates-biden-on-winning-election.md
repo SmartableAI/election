@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-con
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-congratulations/index.html"
 type: article
 quality: 190
-heat: 610
+heat: 630
 published: true
 
 provider:
@@ -254,6 +254,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109161922-biden-mask-1109-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump refers to ‘Biden administration’ in sign of election acceptance"
+    excerpt: "President Trump took questions for the first time since the election on Thanksgiving and committed to leaving the White House after President-elect Biden’s win is formalized by the Electoral College."
+    publishedDateTime: 2020-11-28T00:14:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-refers-to-biden-administration-in-sign-of-election-acceptance-96764485696"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96764485696"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96764485696"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 165
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_kod_transition_of_power_biden_201127_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Pompeo says State Department will 'honor' promise to conduct transition to Biden administration"
     excerpt: "Secretary of State Mike Pompeo said the State Department would \"honor\" the Trump administration's \"promise\" earlier this week to begin the transition with the incoming Biden administration, weeks after suggesting the President would win a second term.\n    \n"

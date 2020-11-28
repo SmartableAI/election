@@ -1175,6 +1175,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump campaign vows to appeal Pennsylvania case to Supreme Court"
+    excerpt: "A federal appeals court on Friday upheld the results of Pennsylvania’s presidential election — leading President Trump’s campaign to vow a final challenge before the US Supreme Court."
+    publishedDateTime: 2020-11-28T00:43:00Z
+    webUrl: "https://nypost.com/2020/11/27/trump-campaign-vows-to-appeal-pennsylvania-case-to-supreme-court/"
+    ampWebUrl: "https://nypost.com/2020/11/27/trump-campaign-vows-to-appeal-pennsylvania-case-to-supreme-court/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/27/trump-campaign-vows-to-appeal-pennsylvania-case-to-supreme-court/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/201127-trump-lawsuit.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Federal Judges Deny Trump Campaign’s Appeal of Pennsylvania Ballot Challenge"
     excerpt: "A federal appeals court denied the Trump campaign’s appeal in its Pennsylvania case, striking another blow to the president’s dwindling legal avenues to contest the outcome of the election."
     publishedDateTime: 2020-11-27T18:39:00Z

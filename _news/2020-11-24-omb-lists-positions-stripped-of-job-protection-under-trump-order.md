@@ -108,6 +108,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Court Denies Trump Appeal: ‘Calling an Election Unfair Does Not Make It So’"
+    excerpt: "A federal appeals court Friday denied the Trump campaign’s appeal in Pennsylvania, writing that the case lacked proof and had no merit, and striking another blow to [the president’s dwindling legal av"
+    publishedDateTime: 2020-11-28T00:16:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/tfB3COnIUFcYliLYOlRc"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-265473?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "bzy2QIHF4AsMqKDXLaL4mvjHwDIPwJw5+cOucPjrqdjxN+VV0RKHk6gE5MLxYZt5cl4xDJiFO9bMCE4S0xnuNALJlkL07ahFgKx6hGrRJJymo0I8nrlv7clBlI+UliiBYTabM3Q1AyPBKo/TJh+3bojlAWW+llktkbENoNRxucCQED77dJzM9d0xdv027YD7kRtvHlFg3vV7m1wg0LGDXwEWs4WqQXybhHxj4nfegNV+s/fFQyyDgCbpBNsYyX1oAnxdEVswPDREFVpmBlBJCZIHDlPqaBowou8uOh1TMh2IJ8uhKM6KVfEeg++nlPpjSQil4nacfDJLEPWPQd1/mkbu2Byy6O4Bd9rNcutNuY0=;TtRT8xPDKQpkXTpNYRXWgw=="
 ---

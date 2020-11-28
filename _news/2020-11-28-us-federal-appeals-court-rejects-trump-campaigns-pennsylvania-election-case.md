@@ -2,9 +2,9 @@
 category: news
 title: "U.S. federal appeals court rejects Trump campaign's Pennsylvania election case"
 excerpt: "A U.S. federal appeals court on Friday rejected a request by U.S. President Donald Trump's campaign to block President-elect Joe Biden from being declared the winner of the battleground state of Pennsylvania."
-publishedDateTime: 2020-11-27T22:56:00Z
-originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2872AZ"
-webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2872AZ"
+publishedDateTime: 2020-11-27T23:04:00Z
+originalUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2872AZ"
+webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2872AZ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2872AZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2872AZ"
 type: article
@@ -3945,6 +3945,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "9m8gKQ6cQhybSGEbNd0VE/RvX0S/aHoEMQMjJMrTkUiNL19JZJju2a6bofDcqT734EdipmKCXUJ3h6KS7pjvJWc/KW6R8B+SRdc6prrOAyMl/t+bZmgAFrUY6pugHbUZXxsd7qChOTmr0COIlP/99aqYzEnVDXaZ0GBtn52u0FWO7QQd6yzLc4+jg1fyabCwTXIDLaGs5lGkZVWSbTCDhN5H9BioitXp/66YOksd/Kr+KMjT/hxQDsh0ocubt1tK6f6roEZk6FX+QFMaIkNP4GCBsjFS1T5assgk9YnTBuHU6/45ofoBVqKL07LIWuPYKj6wtVhLohKzXwYzgSyIv78oea8emcOH5ByouTgOtBk=;vMfhAUEQjhOoJK3Qpjft8A=="
+secured: "HXQhtWENlwyT4wXlGNX5EWmgVSDneqMFFZ4samgjo7c6lPKaVI11FgVqEyuLqO4irCDuv8jG6j8FdjAH5x3nl2QvjiUmiH1M+9SCf0XpoxF/v4YxAnLN0+tnv0Mty1VNNBciBLxhoclBmpRW/2YdVOVs4h+yV8DPzyxMhzkh9kJ83o0/KFnSTf7Uk45wUOZoCR1bnEtX+a1AHo3XrvdtmamSUQCnYbh1DHi7/Iak+LVyQ2/j+S2Sg6EhU7la05P2hygNRjihyMGGhWjEHrvl+FAs6YhPjpjE1WcxKsFgQOMgXaXoXEf1wwtTWecrBhQbYe9pQeJT6AVE2QZ5ZRVVMgbkqgu69KIbWzaa+SiEu2g=;/oA50FLKImtU3UJekwvRVg=="
 ---
 

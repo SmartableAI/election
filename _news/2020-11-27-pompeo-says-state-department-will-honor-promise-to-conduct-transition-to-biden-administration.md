@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump refers to ‘Biden administration’ in sign of election acceptance"
+    excerpt: "President Trump took questions for the first time since the election on Thanksgiving and committed to leaving the White House after President-elect Biden’s win is formalized by the Electoral College."
+    publishedDateTime: 2020-11-28T00:14:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-refers-to-biden-administration-in-sign-of-election-acceptance-96764485696"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96764485696"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96764485696"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 165
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_kod_transition_of_power_biden_201127_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Exclusive: One-on-one with Biden in first post-election interview"
     excerpt: "In his first interview since the election, President-elect Joe Biden speaks with Lester Holt about his cabinet picks, the formal transition of power, his plan for distributing the Covid-19 vaccine and reopening schools."
     publishedDateTime: 2020-11-24T23:57:00Z
