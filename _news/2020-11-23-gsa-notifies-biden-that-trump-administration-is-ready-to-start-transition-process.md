@@ -183,6 +183,38 @@ related:
         width: 604
         height: 344
         isCached: true
+  - title: "Biden gets boost from Wisconsin recount that cost Trump $3M"
+    excerpt: "President-elect Joe Biden picked up 132 more votes after an election recount in Milwaukee County, among the two places in Wisconsin that President Trump spent $3 million to force a recount."
+    publishedDateTime: 2020-11-28T17:48:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZU6vMKqo9G0/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c997284-a2ad-47fe-8a05-dd9d47ff0bf6/bed80447-4fdb-48ff-a8f2-52976986e621/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ohio certifies presidential election results, Trump win"
+    excerpt: "Ohio certified its election results on Friday with all 18 of the state's electors pledging to vote for President Trump. "
+    publishedDateTime: 2020-11-28T18:09:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RCijj7ZVSnU/ohio-certifies-its-votes-in-favor-of-president-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-certifies-its-votes-in-favor-of-president-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-certifies-its-votes-in-favor-of-president-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26ff8af5-384e-4f73-bd1d-784787f40d43/7f6bf810-5390-42c3-bf1b-fb616e019314/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden’s Electoral College victory projected to be same as Trump’s in 2016"
     excerpt: "After the secretary of state Brad Raffensberger certified Joe Biden winning Georgia after the state’s recount, the president-elect’s electoral victory margin is equal to that of President Trump in 2016. "
     publishedDateTime: 2020-11-20T23:50:37Z

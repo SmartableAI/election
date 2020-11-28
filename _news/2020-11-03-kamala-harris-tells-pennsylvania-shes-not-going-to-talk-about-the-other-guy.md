@@ -71,6 +71,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "What are the recount rules? We break them down and how they could help Donald Trump win Wisconsin, Arizona or Pennsylvania"
+    excerpt: "Wisconsin is one of several states that could be ripe for recounts as the country awaits final results in the presidential election."
+    publishedDateTime: 2020-11-05T01:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/how-recount-wisconsin-arizona-michigan-could-help-trump-win/6163544002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6163544002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6163544002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 99
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/30/USAT/22b34afe-9577-45c3-9d0b-6c34cfb6fbdf-Abril_first_time_voter.JPG?auto=webp&crop=2315,1303,x0,y617&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "SJESmvEy4wlZbvHYfkA3A0qDhmfJbaML9P/KQn2EQOEs2Ex919+s75PNt1GG4Mma9SUg5dSnzQ5QLrvrCN3pIxr2uZnw5i1L5Ses210Fzzh6bv+yWVp1B31bG+k7swoJNJnkVHvfECYCvZZfra3AiX8WY5xJHeZHR7vo7s7zOXmN1lDvkHCuysLug2a90+2IwOLD1A4hBNjug5D1uHhysCUFFvvZ6ome9lHP2jq9DdXZtxR0KQhzbJBlBb6PVWRkDUKGhvbWE/JlXj7X49QhKU1b401y24Rvp/JgaaLsVwBNC4RoLuWDHxEBvFFVEsS+JUtMqP+kby1nSsJxRdwMat/2n32bO5ncUHMRHKraVHGkBkiPcBsLd3vAMLM/IPkNKbP8GGc/D9+xZ8isG4GP9nrgQPFr5TFvUMwq7ePFgBEPIg47YohjPAjYqO90Pr3sRksyPPlqGgdWQsc7UGmXQsW7dVPyXvD5vcEG9s+pilPDzlyC2WmGVKXJP0P3BbY9oT0qvGO8ru1Ve86fe8jGmg==;8fVgbjWqwK8khnTqu/oV2g=="
 ---

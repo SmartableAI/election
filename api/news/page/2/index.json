@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-26-what-is-president-trump-doing-on-thanksgiving.md",
+      "title": "What is President Trump doing on Thanksgiving?",
+      "excerpt": "For the first time since he was sworn in as president nearly four years ago, President Trump will not spend Thanksgiving at his Mar-a-Lago resort in Florida.  ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wEwuxYjKClA/what-is-president-trump-doing-on-thanksgiving",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wEwuxYjKClA/what-is-president-trump-doing-on-thanksgiving",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/33478f5e-5929-44a4-ab6e-2513364ed583/e5e9f1da-ae85-4261-b45e-c723c100e82f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/what-is-president-trump-doing-on-thanksgiving.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/what-is-president-trump-doing-on-thanksgiving.amp",
+      "publishedDateTime": "2020-11-26T05:25:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-theyre-baaack-trump-and-allies-still-refuse-election-loss.md",
       "title": "They’re baaack: Trump and allies still refuse election loss",
       "excerpt": "A day after Trump said his administration should begin working with Biden’s team, three more lawsuits were filed by allies attempting to stop the certification in two more battl",
@@ -607,7 +663,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 690,
+      "heat": 710,
       "tags": null,
       "images": [
         {
@@ -1305,58 +1361,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-dc-comics-investigating-proud-boys-for-using-its-logo-to-advertise-a-pro-trump-march-in-washington.md",
-      "title": "DC Comics 'investigating' Proud Boys for using its logo to advertise a pro-Trump march in Washington",
-      "excerpt": "The company behind Superman is considering legal action after the Proud Boys used the DC Comics logo, according to an email obtained by Insider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/proud-boys-trump-march-dc-comics-washington-lawsuit-trademark-investigation-2020-11",
-      "originalUrl": "https://www.businessinsider.com/proud-boys-trump-march-dc-comics-washington-lawsuit-trademark-investigation-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fbd24df50e71a00115570cb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

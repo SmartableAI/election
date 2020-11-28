@@ -211,6 +211,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump camp drops Nevada appeal in mail ballot counting case"
+    excerpt: "A legal effort in Nevada by the Donald Trump campaign and state Republicans to stop the count of mail ballots in Las Vegas is over. A document submitted in an appeal pending before the state Supreme Court says a settlement was reached requiring Clark County election officials to add “additional observation access” at a ballot processing facility in Las Vegas."
+    publishedDateTime: 2020-11-05T23:48:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "FCWIjPq8FMpvWjW7owo/UhWauHy4oAl1kYZP8gZ5Ow1/3EvqoXXoCZkTPeOOdK2ES/Hsw6OkLQXOE2N2GAnMAWSTLxDIOis+tTjsRTVXTn7XoG+fqNDVi8u5AmKizYdCBeLlA5IwqGxCtP4rkTDmJq1x8XSjr6YFPO1LzjXUU25H9RkHu4+sLH2cdZNQjVVmXC1rhfSW2r+X43PR4KqXIsRKR3B9tcvsFaw/jB2tzggik2DGDMcAFpPpemKQInkZg79wxyBUYHBktt+b34yCU7Ok7iZEFZsylhRNRLRA5FQ+EmkhIlKIPPkRSJHTRrrsOLKFahPhGT0o6blNvNesXIpE5357Cn8qzK0N/1G8FrY=;EjC/Zfs33f5PoZYcnPUaHg=="
 ---

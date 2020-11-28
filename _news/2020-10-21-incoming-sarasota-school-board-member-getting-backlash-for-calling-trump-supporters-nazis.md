@@ -31,31 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "New York grocery store sparked backlash with a 20% discount offer for Trump supporters"
-    excerpt: "Store owner Jose Colon told Fox News he also meant to extend the 20% off promotional offer to backers of Democratic presidential nominee Joe Biden."
-    publishedDateTime: 2020-10-24T20:35:00Z
-    webUrl: "https://www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10?amp"
+  - title: "Trump keeps calling $750 tax payment a 'filing fee.' Experts say there's no such thing"
+    excerpt: "President Donald Trump keeps bringing up what he calls a $750 filing fee for his federal income tax returns. What's that all about?"
+    publishedDateTime: 2020-10-25T22:12:00Z
+    webUrl: "https://www.usatoday.com/story/money/columnist/2020/10/23/president-donald-trump-keeps-bringing-up-what-he-calls-750-filing-fee-his-federal-income-tax-returns/6010994002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6010994002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6010994002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "RNC chairwoman say Republicans who distance themselves from Trump are 'hurting themselves in the long run'"
+    excerpt: "Her comments came after Trump lashed out at Nebraska Sen. Ben Sasse for leaked audio from a constituent town hall where he criticized the president."
+    publishedDateTime: 2020-10-18T18:14:00Z
+    webUrl: "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 117
+    quality: 107
     images:
-      - url: "https://i.insider.com/5f948c93f21803001222bcc5?width=1200&format=jpeg"
-        width: 814
-        height: 407
+      - url: "https://i.insider.com/5f8c7e90c21cfb0019468a88?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Seattle, Portland, New York Sue Over Trump's 'Anarchy' Label"
-    excerpt: "New York, Seattle and Portland — three cities recently labeled “anarchist jurisdictions” by the U.S. Justice Department — are suing to to invalidate the designation and to fight off the Trump administration’s efforts to withhold federal dollars."
-    publishedDateTime: 2020-10-22T22:55:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2020-10-22/nyc-to-join-seattle-portland-in-suit-over-federal-funding"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "cpJePVIBJpZZxD/p9X4c0m9pOIv3TCQMaIJKcJ9rTitlKVXEFR9/IXI2SIdb9IQztEZfiab7PLcs0PICgtQmamKsCV5Eqa2KnTmGyR/ZATz4XADpjze8gcTIUU0nJUyNhCtAAe+YPeRZEUG5trgIHWW1z1fU8V8QKX8UGoursBZMYscnUFqCBiWLBRKoIkFGKGKHiWEJxEvoU34Dlr+1DTCoFNZt8cABr1Zd3yrXsRmCVg3KixQqvKOYUa7TodcQNd0SK0vjh1rnz2JSEeY2Ia34ZcwZk+OeVmVIPQrVadY7+c3wcUBWofF8T+EJIW5x5gdPqmfqjSoizj7viIBK41nI6UznUX4R86OaSUvrAXs=;gc1eoXfeA0Wb83HTahr+1Q=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "FACTBOX-The Biden Cabinet: President-elect begins to build a team"
 excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the nation's diversity."
 publishedDateTime: 2020-11-28T15:28:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2I92JE"
-webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2I92JE"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2I92JE"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2I92JE"
+originalUrl: "https://www.reuters.com/article/usa-biden-cabinet-idINL1N2I92JE"
+webUrl: "https://www.reuters.com/article/usa-biden-cabinet-idINL1N2I92JE"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINL1N2I92JE"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL1N2I92JE"
 type: article
 quality: 125
 heat: 145
@@ -46,6 +46,6 @@ related:
         height: 540
         isCached: true
 
-secured: "LVZfsBzIi9yfMbkzY+2Mr72x9a3hmJkPv1OIWqhEuMyVoI0+4oyZMmkqElOgB53wr/5XnI6+PlesJR3aRLKd56iSd68GHwDyLrDyHUa81FUG6PXHrM+mzUR4krejy/p7Otf04jtH00gq6MbFWRHfeOMEYw3kf+/1o8t/BZr623UXzm3Q3ET7Ps534IZm1TKY7JVAa9fu9jZe+0zYhtSvyBSQ9w/vwXW+CEnoyfmhttjAYCiMpENwcoaHPtMtxafuyOOxHDbWVHV9MxuyyaGSnEGyG1eqjZ7e8LfjLWchjlqM87b7xdE1xWQbPXltO7HZMJNEiBxnYKCnQeyWKUFwj+v6k32712G2Kj03YqMPYhk=;m3zCZetzbEZWvUY3czSjsw=="
+secured: "am+0HPu9L72G7cFQvPn1HJaVVYrd+xwy3D4X+XLmM3TmmvD5wsXHcCWY78lEeCLYW6+LcuM8eH0uUMQAnvwdms3X5+J26aWIfv+F3FgMmtHM1I/ZssNihUV8omOkGW4urlW+3lPLEI5LledOMQAMYjsfwnlCFRCG/ugoWGV/GvwDT+eSaHYhs/z3r0T4+HBhBbWJDn7kAhGu0a0/Srke4VjjfKToxZjAX3NX8VyfbQvgzzNEyk53wZYL/PtTJenbOZQJ/sJjX4gmJ0UeE+ZY7lZQSLRYZFIdY6V6ePefpn3BN3JE+1hDEFI2uJ2ys7rWs4utLqfrC0eYdzNg5dVfojx3ymLvrgRMi2Eu89DInBo=;prYNVKcZYXoRQYmkIPaDgA=="
 ---
 

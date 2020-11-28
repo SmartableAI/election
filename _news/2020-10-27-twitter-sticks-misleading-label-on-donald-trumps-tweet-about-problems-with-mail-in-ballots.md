@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6049734002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6049734002"
 type: article
 quality: 114
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: Detroit Free Press
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "'West Wing' star Martin Sheen: Donald Trump gets away with more than any TV president could"
-    excerpt: "West Wing' is my escape from the Trump era. Its TV public servants know what the right thing is and they're on speaking terms with their better angels."
-    publishedDateTime: 2020-10-29T22:54:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/28/west-wing-escapism-martin-sheen-interview-donald-trump-column/3746508001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3746508001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3746508001"
+  - title: "Twitter slapped yet another Trump tweet about mail-in voting with a 'misleading' label, and stopped other users from retweeting it"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 President Donald Trump has been fact-checked by Twitter. Again. Trump tweeted about mail-in voting on Monday, claiming there were ..."
+    publishedDateTime: 2020-10-27T11:15:00Z
+    webUrl: "https://www.businessinsider.com/twitter-trump-tweet-mail-voting-warning-label-minsinformation-block-retweet-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/twitter-trump-tweet-mail-voting-warning-label-minsinformation-block-retweet-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-trump-tweet-mail-voting-warning-label-minsinformation-block-retweet-2020-10?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/27/USAT/55afa79f-4713-404f-84ab-457a4f87edaf-AP_TV-West_Wing-Voting_Special.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
 
 secured: "CEyttHaih5nQoLChuleTWxblYhH543wPOCaQglONUL61KTbUMNYlW0c/TCM8RvzQkrIMXBNVmB4QfDuK6T3EgvUQfHjsj73dSNFfg88YyfxV/u5VgZqZ9eZkZ7kSFVm8YU+yEQNG25GbkebzY+mNjJF8Emsx6S/uNYGHzWG8HO3U57mXCHf9SYug7llBt+rcZgCd7hWFLRfJkcxpW5QWU4KgyXvEVjqHmfMkUtfYHYIdvfkyOFbwUcipTrIOWh13v95Z1QfKBrc8ZHntzlDblFmz/5quwGYZrCdpzSf+LDWGsXghSSN7D/0KJdEwi4ff7JNfB4u7IXGYvZSn9PrBHTQrnElQgnaRAkoKXK/wpTI=;j96tT3OFzBHoAy7oQpy+gQ=="

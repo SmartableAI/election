@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L241"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L241"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -210,6 +210,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/febb7731-ae5d-42a6-bad2-b3ebfc343aca-XXX_GP_Pensacola_Trump_Rally_30.jpg?auto=webp&crop=2999,1687,x0,y211&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump camp drops Nevada appeal in mail ballot counting case"
+    excerpt: "A legal effort in Nevada by the Donald Trump campaign and state Republicans to stop the count of mail ballots in Las Vegas is over. A document submitted in an appeal pending before the state Supreme Court says a settlement was reached requiring Clark County election officials to add “additional observation access” at a ballot processing facility in Las Vegas."
+    publishedDateTime: 2020-11-05T23:48:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "JV4tblRHSGrwveQTiS/sg0+xaUNBpIUoHkfKGTLGvPeCUonQtiYt0Ez94hTIzRtVq8XdPlZxeDwWj0/fecQwtWls5pV+7WcgIw/WmSjc4zN7RUie927K65UMTsZ9+QzEol429X5WVwCbDcccvOoYPPz5xzf9eolbb9idYLHMjzFC2tMpXfWO9fvRZSd8EG+70/97X1wxnbFXGBcEIQXVQsH43Rv4KYCWM+3PIKzYJUWFiwrLFcZMAZVxiecQ8dpkRD3T04g2/DHZaAuWoJQ+9GfJP5K7yEBfUxDxj1qSzt9L8MH/wQWadtp6vvQLVE+E8ABE1mA1RHgnlsJLRkUniPdaMJcJGKQfZixKe0Ugw30=;nhXg87mtquykDuYS3Eti5A=="

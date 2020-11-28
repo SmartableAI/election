@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Wisconsin recount would cost Trump campaign about $7.9 million, state officials say"
+    excerpt: "The Wisconsin Elections Commission said on Monday that a statewide vote recount would cost an estimated $7.9 million, money that President Donald Trump's campaign would have to pay in advance should it request one."
+    publishedDateTime: 2020-11-16T22:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN27W2W7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2W7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2W7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541418792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1MH"
+        width: 817
+        height: 545
+        isCached: true
   - title: "We asked nine legal experts about Trump's latest lawsuit challenging election results in Pennsylvania. Their verdict: Dead on arrival."
     excerpt: "President Donald Trump's campaign has sued Pennsylvania elections officials over mail balloting. Legal experts say the case is baseless."
     publishedDateTime: 2020-11-10T04:27:00Z

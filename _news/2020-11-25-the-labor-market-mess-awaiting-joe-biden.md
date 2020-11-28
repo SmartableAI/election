@@ -368,6 +368,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "‘Dear Joe’: Advice for Biden"
+    excerpt: "What is the greatest challenge facing President-elect Joe Biden? We asked readers that question, and what advice they would give him."
+    publishedDateTime: 2020-11-28T17:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/28/opinion/letters/joe-biden-advice.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/28/opinion/letters/joe-biden-advice.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/28/opinion/letters/joe-biden-advice.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/21/reader-center/21Biden-A1/merlin_180251556_476811a3-5035-44e4-9f6a-ef2895d98938-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Transition Gets Underway in Earnest as Biden Team Fans Out Across Capital"
     excerpt: "Within hours of the Trump administration’s decision to stop blocking the process, representatives of the president-elect began coordinating the handover of power."
     publishedDateTime: 2020-11-25T00:44:00Z

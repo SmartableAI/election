@@ -125,22 +125,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump-Biden transition live updates: New lawsuit seeks to nix Georgia results"
-    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
-    publishedDateTime: 2020-11-28T06:28:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 137
-    images:
-      - url: "https://s.abcnews.com/images/Politics/sidney-powell-rt-file-ml-201127_1606499215570_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Is Joe Biden's win a turning point in a hard year of bad news?"
     excerpt: "I usually expect the worst, but this US election feels like a light at the end of the tunnel"
     publishedDateTime: 2020-11-14T08:00:00Z
@@ -477,22 +461,6 @@ related:
         width: 360
         height: 245
         isCached: true
-  - title: "Mexico's president again declines to recognize Biden win"
-    excerpt: "Mexican President Andres Manuel Lopez Obrador on Wednesday again declined to congratulate Joe Biden for winning the U.S. presidential election, making him stand out increasingly among world leaders who have withheld their recognition."
-    publishedDateTime: 2020-11-25T22:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-mexico-idUSKBN285294"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN285294"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN285294"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542429462&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO173"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Top California air, climate regulator hopes to run Biden EPA"
     excerpt: "Mary Nichols will soon leave her job as California's top air regulator after more than four decades of advocating for ambitious climate policies in the nation's most populous state"
     publishedDateTime: 2020-11-27T10:18:00Z
@@ -713,36 +681,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump campaign calls for another Georgia recount as more election lawsuits fail"
-    excerpt: "Trump campaign is now asking for a second recount in Georgia after the state certified President-elect Joe Biden as the winner on Friday. The campaign continues to lose election lawsuit challenges in court."
-    publishedDateTime: 2020-11-23T16:15:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-campaign-calls-for-georgia-recount-election-lawsuit-losses/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 116
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/23/9d9ee8b8-1391-4875-9a2e-47257af90deb/thumbnail/1200x630/0f05cb62de9e3d9ba3ff14a64ee7f8ca/cbsn-fusion-trump-campaign-calls-for-georgia-recount-after-continued-election-lawsuit-losses-thumbnail-594109-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe Biden becomes first presidential candidate in U.S. history to surpass 80 million votes"
-    excerpt: "President-elect Joe Biden has now surpassed 80 million votes, the most in history, with the final ballots still being counted. More votes were cast in the 2020 presidential election than in any other in U."
-    publishedDateTime: 2020-11-26T01:16:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-first-presidential-candidate-surpass-80-million-votes/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-first-presidential-candidate-surpass-80-million-votes/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-first-presidential-candidate-surpass-80-million-votes/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 115
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/25/92fc61ae-0991-4f4e-9634-5ae33feed4f0/thumbnail/1200x630g2/a68d76ac07e9ad86eacfbef021f9966a/gettyimages-1229449195.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "President-elect Joe Biden expected to name Antony Blinken as secretary of state, sources say"
     excerpt: "Antony J. Blinken, one of President-elect Joe Biden’s closest foreign policy advisers, is expected to be nominated for secretary of state, according to people close to the process."
     publishedDateTime: 2020-11-23T11:28:00Z
@@ -772,22 +710,6 @@ related:
     quality: 110
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QNYKKSBOTEI6XOXAKC5ROETGCQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump campaign requests recount of hand-recounted results in Georgia, which is unlikely to change outcome"
-    excerpt: "The Trump campaign on Saturday requested a formal recount of the 5 million presidential votes in Georgia in an apparent effort to exhaust its options for challenging the result in a state that narrowly backed President-elect Joe Biden."
-    publishedDateTime: 2020-11-22T04:51:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-campaign-requests-recount-of-hand-recounted-results-in-georgia-which-is-unlikely-to-change-outcome/2020/11/21/18ad955e-2c73-11eb-8fa2-06e7cbb145c0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-campaign-requests-recount-of-hand-recounted-results-in-georgia-which-is-unlikely-to-change-outcome/2020/11/21/18ad955e-2c73-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-campaign-requests-recount-of-hand-recounted-results-in-georgia-which-is-unlikely-to-change-outcome/2020/11/21/18ad955e-2c73-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 108
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLRUQDRMPQI6XD5CA3T4XMKFYA.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -832,20 +754,6 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/06/ee03f2d0-a208-482b-a218-258f99734fc8/thumbnail/1200x630/5c1c42c68fc76852f130a31cf6864aaa/cbsn-fusion-georgia-secretary-of-state-says-they-will-head-to-a-recount-thumbnail-582579-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe Biden confirmed as Georgia winner after recount"
-    excerpt: "President-elect wins state’s 16 electoral college votes following hand recount of about 5 million votes"
-    publishedDateTime: 2020-11-20T14:27:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/nov/19/joe-biden-president-georgia-recount"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/f06f74bf85b8c68d941a81d2102b9fd7585e3ca6/137_0_3240_1945/master/3240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cdfe85e788f145de25daa8dc865006fa"
         width: 1200
         height: 630
         isCached: true
@@ -916,20 +824,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New voters gave Biden a boost, but not everywhere"
-    excerpt: "Millions more Americans cast ballots than in 2016. The counties that saw the largest turnout increases drove Biden's win, but Democratic gains were uneven."
-    publishedDateTime: 2020-11-25T04:52:00Z
-    webUrl: "https://www.washingtonpost.com/graphics/2020/elections/new-voters/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VPM7LBPMRJD5ZNHAJR767RM6KY.jpg&w=1200"
-        width: 1200
-        height: 730
-        isCached: true
   - title: "US STOCKS-Dow hits all-time high on Biden transition, rebound hopes"
     excerpt: "Wall Street’s main indexes jumped on Tuesday and the blue-chip Dow hit a record high as the formal go-ahead for President-elect Joe Biden’s transition to th"
     publishedDateTime: 2020-11-24T20:44:00Z
@@ -941,34 +835,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "President-elect Joe Biden urges unity in Thanksgiving address"
-    excerpt: "In an address to the nation the day before Thanksgiving, President-elect Joe Biden spoke about the difficulty of being apart from loved ones at the holidays but encouraged everyone to follow health officials' guidelines to help save lives in the coronavirus pandemic."
-    publishedDateTime: 2020-11-25T20:49:00Z
-    webUrl: "https://www.cbsnews.com/video/president-elect-joe-biden-thanksgiving-address/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/25/50bc3dc3-0060-4208-a59c-9301e7c7d46c/thumbnail/1200x630/022db9dc6e771834def28b4632977c3e/cbsn-fusion-president-elect-joe-biden-thanksgiving-address-thumbnail-595957-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden continues to work on transition"
-    excerpt: "Watch \"President-elect Joe Biden continues to work on transition\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-26T17:48:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201127060243-president-elect-joe-biden-continues-to-work-on-transition/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/27/story_07876275_1606456986.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Biden urges 'sacrifice' in Thanksgiving address"
     excerpt: "Rough Cuts Biden urges 'sacrifice' in Thanksgiving address. Posted . U.S. President-elect Joe Biden and his wife released a video acknowledging the scaled-back Thanksgiving celebr"
     publishedDateTime: 2020-11-27T04:30:00Z
@@ -1012,20 +878,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/23/fa44d308-e61c-4ea7-9137-25740292a053/thumbnail/1200x630/f2768a8e2568955440af08d82047d228/cbsn-fusion-president-elect-joe-biden-to-announce-first-picks-for-cabinet-on-tuesday-thumbnail-593838-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "President-Elect Joe Biden Hits 80 Million Votes In Year Of Record Turnout"
-    excerpt: "The 2020 presidential election saw the most votes in U.S. history at 156 million and counting, and the highest participation rate since 1900."
-    publishedDateTime: 2020-11-25T13:06:00Z
-    webUrl: "https://www.npr.org/2020/11/25/937248659/president-elect-biden-hits-80-million-votes-in-year-of-record-turnout"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 104
-    images:
-      - url: "https://media.npr.org/assets/img/2020/11/20/gettyimages-1229644791_wide-2b7d082ed19493e6de2f1ed2f923ee1f103776b7.jpg?s=1400"
-        width: 1400
-        height: 787
         isCached: true
   - title: "House Democrat says Congress has few options to help Biden's transition to power"
     excerpt: "More than a week after President-elect Joe Biden was projected to win the 2020 election, Democratic lawmakers are still pushing the federal government to provide resources, office space and funding to his transition team."
@@ -1077,20 +929,6 @@ related:
     quality: 96
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/20/26bcea9d-61c6-46a2-bec3-90374efb7a01/thumbnail/1200x630/fa6baa8432663e20547af60cc030b900/cbsn-fusion-doctor-on-president-elect-bidens-covid-19-advisory-board-discusses-cdc-travel-guidelines-thumbnail-591798-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "If confirmed, President-elect Biden's picks for his national security team could make history"
-    excerpt: "President-elect Joe Biden's historic national security picks have been announced. Nikole Killion has more on the Biden administration rollout."
-    publishedDateTime: 2020-11-24T13:32:00Z
-    webUrl: "https://www.cbsnews.com/video/if-confirmed-president-elect-bidens-picks-for-his-national-security-team-could-make-history/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 94
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/24/884090df-4181-4096-9eb3-ba4fc7bd2e11/thumbnail/1200x630/1a9d983a707ca1add7c8eb2f0aa3d13c/bidencabinet-594889-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

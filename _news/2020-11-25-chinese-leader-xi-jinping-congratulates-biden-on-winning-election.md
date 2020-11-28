@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-con
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-congratulations/index.html"
 type: article
 quality: 190
-heat: 690
+heat: 710
 published: true
 
 provider:
@@ -364,6 +364,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/28/us/politics/28dc-biden-westexec/merlin_180453024_afacfb19-71d8-4125-b7a2-fd592224b286-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "‘Dear Joe’: Advice for Biden"
+    excerpt: "What is the greatest challenge facing President-elect Joe Biden? We asked readers that question, and what advice they would give him."
+    publishedDateTime: 2020-11-28T17:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/28/opinion/letters/joe-biden-advice.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/28/opinion/letters/joe-biden-advice.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/28/opinion/letters/joe-biden-advice.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/21/reader-center/21Biden-A1/merlin_180251556_476811a3-5035-44e4-9f6a-ef2895d98938-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

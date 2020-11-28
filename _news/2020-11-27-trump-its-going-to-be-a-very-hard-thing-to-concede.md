@@ -93,36 +93,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Eye Opener: Trump, Biden address Americans on Thanksgiving"
-    excerpt: "President Trump answered questions from reporters for the first time since the election, and said it would be \"very hard\" for him to concede. Also, President-elect Joe Biden called on Americans to do their part and stay calm in his Thanksgiving address."
-    publishedDateTime: 2020-11-27T14:47:00Z
-    webUrl: "https://www.cbsnews.com/video/eye-opener-trump-biden-address-americans-on-thanksgiving/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/27/f26f817a-a957-4309-9223-a1b0ca97fb11/thumbnail/1200x630/7a1dec56b908164811b865c24b3a47bb/cbsn-fusion-eye-opener-trump-biden-address-americans-on-thanksgiving-thumbnail-596697-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Live political updates: Trump says he would 'certainly' leave White House once Electoral College votes for Biden"
-    excerpt: "President Donald Trump has yet to concede the race but his administration cleared the way this week for Biden's team to have access to federal resources and briefings during the transition. Be sure to refresh this page often to get the latest information on the election and the transition."
-    publishedDateTime: 2020-11-28T01:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/26/trump-thanksgiving-political-updates/6430438002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6430438002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6430438002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "OJ6yR8PTF5Z4A9J5UntCgCd1fXkGMEShSIL42dV6m6h6Yb+cA9BT9fSfleuCKc/5am4mGblFcSRUBsXfa2wXTXb2EoFJjGjgxarfK+ZRwy4LQM2CbiLko+wpssdMquzi7j5u79AmVjvliJMzGJs3Nvmy4Bo87hBbsS1k6u53hDM5txIkQQa6dH4GkuMucioyLcmN5sw0BcRCTOnojItE90aB9QVcoWA5hTtVyXF3Hk00f08uEpblp+bI3KxYlWLCABK/xAPBselChS8zENShDHPZuOyRlqM0aJDyqKGp4iROU7q9KdGXn0IYaBHidxgJ8Wzu6n3gTFtLmUT5CLuUrassAz3x9FwaV/rfrRzU2Cs=;e/2jfmyWeu/K6TQ4zu3z+Q=="
 ---
