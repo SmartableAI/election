@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z343"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z343"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 205
+published: true
 
 provider:
   name: Reuters
@@ -31,97 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "An anonymous senior Trump campaign advisor said Trump 'basically just conceded' by 'recommending' that the GSA start the Biden-Harris transition"
-    excerpt: "Emily Murphy, the head of the General Services Administration, has allowed President-elect Joe Biden to access resources to begin the transition."
-    publishedDateTime: 2020-11-24T14:03:00Z
-    webUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 128
-    images:
-      - url: "https://i.insider.com/5fbc971050e71a0011556fe8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden says U.S. 'ready to lead' again on global stage"
-    excerpt: "U.S. President-elect Joe Biden on Tuesday began a new phase in his transition to the White House after the Trump administration gave the Democrat access to critical resources that will enable him to take the reins of power in January."
-    publishedDateTime: 2020-11-25T00:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election/biden-forges-ahead-with-building-team-after-trump-clears-way-for-transition-idUSKBN2841BA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2841BA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2841BA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542321930&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1GU"
-        width: 801
-        height: 545
-        isCached: true
-  - title: "State Department tells staff: transition to Biden administration has begun"
-    excerpt: "The U.S. State Department has informed staff that the transition process has begun and a team had been assigned inside the agency to support a handover to the incoming Biden administration, according to an internal email seen by Reuters on Wednesday."
-    publishedDateTime: 2020-11-26T00:10:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-biden-statedepartment/state-department-tells-staff-transition-to-biden-administration-has-begun-idUSKBN2852XS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852XS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852XS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542458526&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1KP"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Eye Opener: Trump, Biden address Americans on Thanksgiving"
-    excerpt: "President Trump answered questions from reporters for the first time since the election, and said it would be \"very hard\" for him to concede. Also, President-elect Joe Biden called on Americans to do their part and stay calm in his Thanksgiving address."
-    publishedDateTime: 2020-11-27T14:47:00Z
-    webUrl: "https://www.cbsnews.com/video/eye-opener-trump-biden-address-americans-on-thanksgiving/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/27/f26f817a-a957-4309-9223-a1b0ca97fb11/thumbnail/1200x630/7a1dec56b908164811b865c24b3a47bb/cbsn-fusion-eye-opener-trump-biden-address-americans-on-thanksgiving-thumbnail-596697-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Live political updates: Trump says he would 'certainly' leave White House once Electoral College votes for Biden"
-    excerpt: "President Donald Trump has yet to concede the race but his administration cleared the way this week for Biden's team to have access to federal resources and briefings during the transition. Be sure to refresh this page often to get the latest information on the election and the transition."
-    publishedDateTime: 2020-11-28T01:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/26/trump-thanksgiving-political-updates/6430438002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6430438002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6430438002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump: ‘It’s going to be a very hard thing to concede’"
-    excerpt: "President Trump on Nov. 26 said that he would leave the White House if the electoral college voted for President-elect Joe Biden next month."
-    publishedDateTime: 2020-11-27T00:04:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/trump-its-going-to-be-a-very-hard-thing-to-concede/2020/11/26/ed3b2845-0e12-41dd-9483-f97e0fea7d5a_video.html"
+  - title: "Kamala Harris on ‘the difference between charity and duty’"
+    excerpt: "Vice President-elect Kamala Harris spoke about Americans “duty\" to their communities during a Thanksgiving address at D.C. Central Kitchen on Nov. 25."
+    publishedDateTime: 2020-11-25T23:30:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/kamala-harris-on-the-difference-between-charity-and-duty/2020/11/25/099aab8d-7b0f-4e43-b68b-2eb58225965a_video.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-26-2020/t_bbfdd35035ff4803938b222a5fabc9d6_name_Screen_Shot_2020_11_26_at_6_46_14_PM.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-25-2020/t_4123531793634076a85e79a952ef5903_name_harris.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
-        height: 907
+        height: 834
+        isCached: true
+  - title: "Kamala Harris Shares Her Family's Favorite Cornbread Dressing Recipe"
+    excerpt: "With Thanksgiving only a couple days away, Vice President-elect Kamala Harris decided to share her recipe for cornbread dressing. “During difficult times I have always turned to cooking,” she wrote in an Instagram post on Tuesday with her recipe."
+    publishedDateTime: 2020-11-25T16:14:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-shares-her-familys-favorite-cornbread-dressing-recipe/2745847/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-shares-her-familys-favorite-cornbread-dressing-recipe/2745847/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/kamala-harris-shares-her-familys-favorite-cornbread-dressing-recipe/2745847/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/kamala-harris-cornbread-dressing-te-main-201125_e8382611305aa6bff826a8c0e0dfe593.fit-2000w.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris Calls Bay Area Teen to Thank Him for Painted Portrait"
+    excerpt: "A Bay Area teenager with impressive artistic skills has captured the attention of Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-11-26T19:22:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-calls-bay-area-teen-to-thank-him-for-painted-portrait/2747755/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-calls-bay-area-teen-to-thank-him-for-painted-portrait/2747755/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/kamala-harris-calls-bay-area-teen-to-thank-him-for-painted-portrait/2747755/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/TylerGordon.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris shares how to brine a turkey in viral video"
+    excerpt: "A 2019 video of Vice President-elect Kamala Harris offering tips on how to brine a Thanksgiving turkey is spreading across social media faster than you can pass the gravy. The video was captured and posted on Twitter by Washington Post journalist Jonathan Capehart who asked Harris for her tips on cooking a turkey as she was preparing for an appearance on MSNBC's \"PoliticsNation."
+    publishedDateTime: 2020-11-26T19:18:00Z
+    webUrl: "https://www.chron.com/bayarea/article/Kamala-Harris-turkey-bring-corn-bread-recipe-15756405.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/35/05/20304200/33/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "atcekd6owyK4VbeGCKcjWwEzNvoN7HR/XhrwnVwEv786z8POrvP2ZXhCPtaBuPun60AXnSzVcNRpxFimLSrdRskJfUv6HytbiudAc2vziDh+yEWt90xoSJS9fuHsPTXaljM3B5rPmY9yOnVWen1sekXaO+TVNLu59cDPxxA55RF1nYZbveH2FDJhsQ6uBO9Zm+vSyRMQzXEwA01Emz6hbc0yoD2Jsjwf9SpgIvufOZplOJ3x0hE1Z9fo9U4tsYBuAyL7/zFqbs2NXQfJPtsYgTUe/AgsP+q7xmHDGxIpFZakA7rraD3yG1GvE5TTxDnH7vG0iKJbvm3Bq+yOAdVg+k93V8iVmTBmU4MF95/SRxlKaw0MWobxqWWpMD/rLGT3GB4LdHnd9sCbkxXdu5RZnjDjx/bqiavpYaAZFM47bCx+whI06Y/5eYzcNYeATzScBVAwzIrFtcr0TzqlTBji89puQvjyO2Z6ffX3zSuHATMBsqhSnji3m03PwcTOGlK5fd9GiPhnfNGNWwGvAtGhiA==;xBpFKVfJqaX27UELZMaZ9g=="

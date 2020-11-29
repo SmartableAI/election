@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Live Updates: Trump says he won election, repeats claims of voting irregularities"
-    excerpt: "President Trump called into an event held by Pennsylvania Republicans on Wednesday, where he reiterated his claim that he won the Nov. 3 election and reasserted claims of voting irregularities."
-    publishedDateTime: 2020-11-26T06:07:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rw50pE_dIaI/live-updates-election-11-26-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-26-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-26-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/33478f5e-5929-44a4-ab6e-2513364ed583/e5e9f1da-ae85-4261-b45e-c723c100e82f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Live Updates: Giuliani says Powell not part of Trump’s legal team after election fraud claims"
     excerpt: "President Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”"
     publishedDateTime: 2020-11-23T04:13:07Z
@@ -63,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rudy Giuliani: Sidney Powell not part of Trump’s legal team"
+    excerpt: "President Donald Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”"
+    publishedDateTime: 2020-11-23T01:25:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGqgSrgNypg/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team"
+    ampWebUrl: "https://www.foxnews.com/politics/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20324809203443.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Live Updates: Trump's legal team criticized by Rush Limbaugh"
     excerpt: "Rush Limbaugh knocked President Trump's legal team for underdelivering at last week's widely-hyped press conference alleging widespread voter fraud that stole a \"landslide\" victory from their client. "
     publishedDateTime: 2020-11-24T03:53:42Z
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f055062c-e8a5-4647-89bb-d129b30f2cb3/8a55bd0b-ea6c-410d-95b5-28ff9a70808a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "NJ Dem called out for 'nasty' bar complaint against Giuliani, other Trump lawyers"
+    excerpt: "Rep. Bill Pascrell Jr., D-N.J., announced that he had filed complaints with various state bars calling for the disbarment of Rudy Giuliani and other attorneys representing President Trump's campaign, only to be accused of being a \"political hack\" whose actions will likely be meaningless."
+    publishedDateTime: 2020-11-25T13:38:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zGo4NIcO40I/nj-dem-called-out-for-nasty-bar-complaint-against-giuliani-other-trump-lawyers"
+    ampWebUrl: "https://www.foxnews.com/politics/nj-dem-called-out-for-nasty-bar-complaint-against-giuliani-other-trump-lawyers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-dem-called-out-for-nasty-bar-complaint-against-giuliani-other-trump-lawyers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a39d9ca-7e33-421e-862b-e0365bb7572a/56154299-b3ae-4b7d-8280-f85802fb865c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -141,35 +157,49 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Court Denies Trump Appeal: ‘Calling an Election Unfair Does Not Make It So’"
-    excerpt: "A federal appeals court Friday denied the Trump campaign’s appeal in Pennsylvania, writing that the case lacked proof and had no merit, and striking another blow to [the president’s dwindling legal av"
-    publishedDateTime: 2020-11-28T00:16:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/tfB3COnIUFcYliLYOlRc"
+  - title: "Mulvaney slams Giuliani leading Trump campaign legal efforts: 'This is not a television program'"
+    excerpt: "Former acting White House Chief of Staff Mick Mulvaney blasted the Trump campaign’s legal efforts to reverse the outcome of the 2020 presidential race, saying this “is not a television program,” and that the push should be led by election lawyers, instead of Trump personal attorney Rudy Giuliani."
+    publishedDateTime: 2020-11-18T14:37:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TsnKDL202_8/mulvaney-slams-giuliani-trump-campaign-legal-fight"
+    ampWebUrl: "https://www.foxnews.com/politics/mulvaney-slams-giuliani-trump-campaign-legal-fight.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mulvaney-slams-giuliani-trump-campaign-legal-fight.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 128
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
     images:
-      - url: "https://images.wsj.net/im-265473?size=1.5"
-        width: 1280
-        height: 853
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "OMB Lists Positions Stripped of Job Protection Under Trump Order"
-    excerpt: "Youre fired. They defined his celebrity on reality television, and they could now make him infamous among career civil servants"
-    publishedDateTime: 2020-11-23T22:41:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.amp.html"
+  - title: "Chris Christie rips Trump's legal team as ‘national embarrassment’"
+    excerpt: "Former New Jersey Governor Chris on Sunday ripped President Donald Trump’s legal team who have been waging unsuccessful legal challenges to his loss in the November Election, calling their efforts a “national embarrassment.”"
+    publishedDateTime: 2020-11-22T20:27:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5aPvSdfwdDU/chris-christie-trump-legal-team-national-embarrassment"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
     images:
-      - url: "https://assets.realclear.com/images/47/473955_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20327567521283.jpg"
+        width: 1024
+        height: 740
+        isCached: true
+  - title: "Dominion rep responds to Trump campaign claims in Fox News interview: 'Physically impossible' to switch votes"
+    excerpt: "Trump campaign attorney Sidney Powell claims that the 2020 election was significantly impacted by votes cast through machines from Dominion Voting Systems being altered to go to Joe Biden instead of President Trump, but according to Dominion spokesperson Michael Steel, this could not have occurred."
+    publishedDateTime: 2020-11-22T21:01:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rQzRFFxSzGo/dominion-rep-responds-to-trump-campaign-impossible-to-switch-votes"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 136
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20325565789319-e1606069535796.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "P0qwpDCRbfsHlZTswDBDuZ2PE8otWfQkMxLtvS/NBdDoCAFfo9POUpfjUNU+/25ZT9j/jUfkvkpjBbtW5gXcjh0O4oKZloegb7gDGlpckLOdb0lalkYjsrYblhLXFZ5GNZOlqTAPL1Yfq9E9v+jKPS2x6ts1+RNBTSjFabGaP/LoCj8mITuFIBfUZW+IfPvFKRyVRsnLwofv3t3+8iy5GSGjOrJMJsLc+WjtVnYZhJlnjggdg8WgqkrnFcW8jpYU7BrMnlSHjV9umf8BALpk01hrYS8sgf0ekzP+tXzmXuOqq7njAbDhZ8A2tgJSEqX+gnRJ3DZye/KcQpBtXAb9RR50zeJktXgxt4rRQWS0dZk=;Uo0+KKRgeDMmyeDodU1q3w=="

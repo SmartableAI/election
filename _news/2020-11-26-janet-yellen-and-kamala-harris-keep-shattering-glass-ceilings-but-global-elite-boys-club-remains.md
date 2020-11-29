@@ -54,22 +54,6 @@ related:
       name: Houston Chronicle
       domain: houstonchronicle.com
     quality: 91
-  - title: "Kamala Harris Calls Bay Area Teen to Thank Him for Painted Portrait"
-    excerpt: "A Bay Area teenager with impressive artistic skills has captured the attention of Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-11-26T19:22:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-calls-bay-area-teen-to-thank-him-for-painted-portrait/2747755/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-calls-bay-area-teen-to-thank-him-for-painted-portrait/2747755/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/kamala-harris-calls-bay-area-teen-to-thank-him-for-painted-portrait/2747755/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
-    images:
-      - url: "https://media.nbcnewyork.com/2020/11/TylerGordon.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Democratic fight emerges ahead of appointment to fill Kamala Harris’ Senate seat"
     excerpt: "A cross-country lobbying campaign for Vice President-elect Kamala Harris’ Senate seat has pitted factions divided by race, gender and geography against one another and heightened internal"
     publishedDateTime: 2020-11-26T14:03:00Z
@@ -85,20 +69,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_ea094ba89905318495f9d2a79bd2c69a-h_b6055c4a4a32d16317462659e297de20.jpg?w=1024&h=576"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Kamala Harris shares how to brine a turkey in viral video"
-    excerpt: "A 2019 video of Vice President-elect Kamala Harris offering tips on how to brine a Thanksgiving turkey is spreading across social media faster than you can pass the gravy. The video was captured and posted on Twitter by Washington Post journalist Jonathan Capehart who asked Harris for her tips on cooking a turkey as she was preparing for an appearance on MSNBC's \"PoliticsNation."
-    publishedDateTime: 2020-11-26T19:18:00Z
-    webUrl: "https://www.chron.com/bayarea/article/Kamala-Harris-turkey-bring-corn-bread-recipe-15756405.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/35/05/20304200/33/rawImage.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "'She called me!!!!!': Vice President-elect Kamala Harris phones California teen to thank him for painting her portrait"
     excerpt: "Tyler Gordon said he painted Kamala Harris' portrait because he was inspired by the barriers she broke to be elected as vice president."

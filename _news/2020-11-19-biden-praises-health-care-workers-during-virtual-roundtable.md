@@ -400,6 +400,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Blunt deflects on calling Biden 'president-elect'"
+    excerpt: "Roy Blunt repeatedly declined to refer to Joe Biden as the “president-elect” on Sunday, despite acknowledgments from some fellow Senate Republicans colleagues who have recognized the former vice president’s electoral win."
+    publishedDateTime: 2020-11-29T16:49:00Z
+    webUrl: "https://www.politico.com/news/2020/11/29/roy-blunt-deflects-biden-president-elect-441099"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/29/roy-blunt-deflects-biden-president-elect-441099"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/29/roy-blunt-deflects-biden-president-elect-441099"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/a5/3f/9d3c0b374bfd9989507e1f5d68e2/20201129-royblunt-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Transition Gets Underway in Earnest as Biden Team Fans Out Across Capital"
     excerpt: "Within hours of the Trump administration’s decision to stop blocking the process, representatives of the president-elect began coordinating the handover of power."
     publishedDateTime: 2020-11-25T00:44:00Z

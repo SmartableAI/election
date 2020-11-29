@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Full Panel: President Trump still falsely claiming voter fraud"
+    excerpt: "Kasie Hunt, Michael Eric Dyson, O. Kay Henderson and Hugh Hewitt join the Meet the Press roundtable to talk about the president's attempts to find voter fraud and the president-elect's transition challenges."
+    publishedDateTime: 2020-11-29T15:03:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-president-trump-still-falsely-claiming-voter-fraud-96816709743"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96816709743"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96816709743"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/mtp_full_panel_201129_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "3rYkN/SjMgW+aB24OOuPQwP/vusJB5iIoYm6vckZK8/SOdGkBosWhIaeTSOuFvHsC9HmO8ZgxoKrOGfnKHakytEmF0n0YMxXvqiUgaHJXkWfBlan2j4zmyfOzVJkvNR1Ao326JTI8AB7dU+kNZr022Ptg20R4N17G13PlblZkvIBhkoMBvcr2kzQFd6lONrs/DECUVW3fcDOJbwnBBU+IS8Iy8h3RZagfhk7m8kmtPCQuuWBMMSTxCm3L8a1IWzWxG1hoW3PsVwK9Pi2gD3HjRJdtqbWvjPVWt3fK6nQnGx+u4Fd5oUwRLdjyGFLC2BaVVQGeqNqmAW/hoNtBBKMAtrjX96myoWqHrsH05OPE6w=;fCrNaro1wrweRCgf1qP0Gw=="
 ---

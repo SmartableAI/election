@@ -39,6 +39,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump expresses doubt on whether Supreme Court will hear election cases"
+    excerpt: "President Donald Trump said on Sunday that it might be difficult to get his election fraud allegations heard before the U.S. Supreme Court, expressing doubt about his legal strategy as his hopes of overturning the Nov."
+    publishedDateTime: 2020-11-29T16:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump/trump-expresses-doubt-on-whether-supreme-court-will-hear-election-cases-idUSKBN2890MO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890MO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890MO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542815328&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0GP"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Former head of U.S. election security calls Trump team fraud allegations 'farcical'"
     excerpt: "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\"."
     publishedDateTime: 2020-11-28T01:36:00Z

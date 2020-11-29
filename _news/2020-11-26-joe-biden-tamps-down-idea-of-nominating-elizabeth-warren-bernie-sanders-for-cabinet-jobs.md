@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden's Novel Approach to Climate Change Could Side-Step a Divided Congress"
-    excerpt: "As the country burned and flooded, Joe Biden leaned into climate change more than any other general-election presidential contender in U.S. history. Now, even as he faces the possibility of a divided Congress,"
-    publishedDateTime: 2020-11-28T23:01:00Z
-    webUrl: "https://time.com/5910008/joe-biden-climate-change-election/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 101
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/joe-biden-climate-03.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
 
 secured: "XcP0KWdtMBIg+mZEHdbE5g7Pn4tvw3q5Z7ua4hxooH7Otiwx6ThOmmhWfHAYeo4DcbAZn6fdnZE9QPeHuHxO3Y1ZPS7QLfJ2fQq2SC9WwsiS9QtdgwYDqf1dn2d0qGZpgQuwVa6yyhH0W9nyOxd8EHnkTnJBki39xzQvgZg/UFbfCtRtSJDCLhUO6srozJly/4A7pvquCtWaFcU6bKwdSsof5muIhYgtsx4evchHNYO0xDl3f3v4eY5TmJRxvdBUPpXPd11al8RVXs+UqUjlmGX59fX7MMjMgBiGTrdVY/O9b7pIHnudKDUFANHiQ2YXbX6SL/u6Od31uToFHl6OwOS6JleGLoo6H/GFs2clhGU=;kO1mf17vKrh9hS8kyTOIVQ=="
 ---

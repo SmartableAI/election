@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/milwaukee-county-certifi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/milwaukee-county-certifies-election-result/index.html"
 type: article
 quality: 182
-heat: 222
+heat: 242
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111113617-ballot-counting-georgia-1105-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Full Panel: President Trump still falsely claiming voter fraud"
+    excerpt: "Kasie Hunt, Michael Eric Dyson, O. Kay Henderson and Hugh Hewitt join the Meet the Press roundtable to talk about the president's attempts to find voter fraud and the president-elect's transition challenges."
+    publishedDateTime: 2020-11-29T15:03:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-president-trump-still-falsely-claiming-voter-fraud-96816709743"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96816709743"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96816709743"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/mtp_full_panel_201129_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "nm/6sGTtkYtS5RslvIsCOJFDr5CFlnRi+i7lWzorMjEAs+MbnCu1BDLdtDYalE/hc7pXoXB/9H3bgNCDH+bJ9EsrkiWgMZ+0LNCIU4Cils8m4QLI1jW8kEupnitZ2UVR5H2TWLspKv9MEg/iU2FT16h3stTWFrxMIBoiR4jadhGKdVhX4zBGCoyb/CB2+FSA/RquvU93v7U/C/W8U8DDMn9Oh+7e2RhLoCB3FoGK9ZFlMD3IhF8YO0a6O+yEtFRpEkYT68q9h5vuhui/kg1wY1laLHYhzgeACQ/9GO30PJiZuHuqKy4Lnc4MTVpsE5VsUeI5qPHcQLWbQeDpsKiUEoUCCuvOFBqSfdJ51XDfg3E=;2zJBL2HjOWxXH/4EakNjFA=="

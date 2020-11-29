@@ -28,145 +28,37 @@ images:
     isCached: true
 
 related:
-  - title: "Live Updates: Trump says he won election, repeats claims of voting irregularities"
-    excerpt: "President Trump called into an event held by Pennsylvania Republicans on Wednesday, where he reiterated his claim that he won the Nov. 3 election and reasserted claims of voting irregularities."
-    publishedDateTime: 2020-11-26T06:07:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rw50pE_dIaI/live-updates-election-11-26-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-26-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-26-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/33478f5e-5929-44a4-ab6e-2513364ed583/e5e9f1da-ae85-4261-b45e-c723c100e82f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Giuliani says Powell not part of Trump’s legal team after election fraud claims"
-    excerpt: "President Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”"
-    publishedDateTime: 2020-11-23T04:13:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dBS2FivkC9M/live-updates-legal-11-23-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-11-23-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-11-23-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2f64660-af14-4fc7-853e-2a62959e7f2f/2471b49c-cd18-4715-8494-84efba624eff/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Trump's legal team criticized by Rush Limbaugh"
-    excerpt: "Rush Limbaugh knocked President Trump's legal team for underdelivering at last week's widely-hyped press conference alleging widespread voter fraud that stole a \"landslide\" victory from their client. "
-    publishedDateTime: 2020-11-24T03:53:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gvL2kh9z3nY/live-updates-election-legal-11-24-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-legal-11-24-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-legal-11-24-2020.amp"
+  - title: "Trump seizes on local Nevada race to raise suspicions of wider problem"
+    excerpt: "President Trump called Nevada’s Clark County's decision to decline certifying one of its local races due to a number of discrepancies “a big victory,” and suggested that the issue could be evidence of a wider problem in the state."
+    publishedDateTime: 2020-11-17T07:35:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AbxyA80riSg/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f055062c-e8a5-4647-89bb-d129b30f2cb3/8a55bd0b-ea6c-410d-95b5-28ff9a70808a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "LIVE UPDATES: Trump plans Georgia visit to campaign for Senate runoff candidates"
-    excerpt: "Follow for the latest updates on the January U.S. Senate runoffs in Georgia"
-    publishedDateTime: 2020-11-28T08:36:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aMxmbeYxM_U/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f81d5bb-aaa9-4e45-b0bb-04c49b11546c/7ff0a562-bdd7-4c0c-97eb-8c80f3b3ca71/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump speaks out in first interview since Election Day"
-    excerpt: "Follow for the latest updates on the 2020 election."
-    publishedDateTime: 2020-11-29T06:23:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j7TrB3K9YWM/live-updates-blm-activists-protest-la-mayor-as-potential-cabinet-pick"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-resize-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Trump to campaign in Georgia for GOP senators ahead of January runoff"
-    excerpt: "President Trump said Thursday that he plans to visit Georgia to campaign for incumbent Republican Sens. Kelly Loeffler and David Perdue ahead of their Jan. 5 runoff elections. "
-    publishedDateTime: 2020-11-27T12:15:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vVYQur-2_hY/live-updates-georgia-senate-runoff-november-27"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-runoff-november-27.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-runoff-november-27.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd7fefb9-d30f-4b07-b566-01eaa53e3755/8d5fa08e-5e27-4a9c-a15b-c6985dcf9a95/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump campaign eyes Supreme Court after appeals panel tosses Pa. fraud case"
-    excerpt: "The Trump 2020 Campaign looked ahead to a potential Supreme Court fight after a panel of federal appeals judges in Pennsylvania dismissed the campaign's lawsuit over alleged voter fraud in the presidential election. "
-    publishedDateTime: 2020-11-28T06:44:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p-Ot-6MG-y4/live-updates-trump-campaign-eyes-supreme-court-after-appeals-panel-tosses-pa-fraud-case"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-campaign-eyes-supreme-court-after-appeals-panel-tosses-pa-fraud-case.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-campaign-eyes-supreme-court-after-appeals-panel-tosses-pa-fraud-case.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/529a207d-73d0-460c-9fde-43b3a041b0a5/6f32cf3d-90c4-48e9-85d9-f9b631b23713/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Dominion counters Trump legal team after press conference claims: 'No ties to Venezuela or Cuba'"
-    excerpt: "Election technology firm Dominion Voting Systems responded to allegations made by President Trump’s top lawyers, who claimed election fraud and foreign interference conducted through the voting software in an incendiary Thursday press conference."
-    publishedDateTime: 2020-11-20T14:34:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sc9CucTQrxY/election-tech-dominion-counters-giuliani-venezuela-cuba"
-    ampWebUrl: "https://www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9649eda-3c54-4b54-843e-66c817d257a1/8c70831b-bb19-4800-91d5-ed29bb44f6b2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Court Denies Trump Appeal: ‘Calling an Election Unfair Does Not Make It So’"
-    excerpt: "A federal appeals court Friday denied the Trump campaign’s appeal in Pennsylvania, writing that the case lacked proof and had no merit, and striking another blow to [the president’s dwindling legal av"
-    publishedDateTime: 2020-11-28T00:16:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/tfB3COnIUFcYliLYOlRc"
+  - title: "Trump Partner Shelves Office Tower Sales Effort That Hoped to Raise $5 Billion"
+    excerpt: "The Trump family’s partner in two of its most valuable properties halted plans to sell the buildings, cutting off what could have been a big cash payout for the Trump Organization, which has hundreds of millions of dollars in debt coming due."
+    publishedDateTime: 2020-11-20T20:31:00Z
+    webUrl: "https://www.wsj.com/articles/trump-partner-shelves-office-tower-sales-effort-that-hoped-to-raise-5-billion-11605903350?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-partner-shelves-office-tower-sales-effort-that-hoped-to-raise-5-billion-11605903350"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-partner-shelves-office-tower-sales-effort-that-hoped-to-raise-5-billion-11605903350"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 128
+    quality: 131
     images:
-      - url: "https://images.wsj.net/im-265473?size=1.5"
+      - url: "https://images.wsj.net/im-262906/social"
         width: 1280
-        height: 853
+        height: 640
         isCached: true
 
 secured: "bzy2QIHF4AsMqKDXLaL4mvjHwDIPwJw5+cOucPjrqdjxN+VV0RKHk6gE5MLxYZt5cl4xDJiFO9bMCE4S0xnuNALJlkL07ahFgKx6hGrRJJymo0I8nrlv7clBlI+UliiBYTabM3Q1AyPBKo/TJh+3bojlAWW+llktkbENoNRxucCQED77dJzM9d0xdv027YD7kRtvHlFg3vV7m1wg0LGDXwEWs4WqQXybhHxj4nfegNV+s/fFQyyDgCbpBNsYyX1oAnxdEVswPDREFVpmBlBJCZIHDlPqaBowou8uOh1TMh2IJ8uhKM6KVfEeg++nlPpjSQil4nacfDJLEPWPQd1/mkbu2Byy6O4Bd9rNcutNuY0=;TtRT8xPDKQpkXTpNYRXWgw=="

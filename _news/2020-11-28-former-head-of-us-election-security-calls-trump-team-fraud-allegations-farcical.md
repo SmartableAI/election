@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump expresses doubt on whether Supreme Court will hear election cases"
+    excerpt: "President Donald Trump said on Sunday that it might be difficult to get his election fraud allegations heard before the U.S. Supreme Court, expressing doubt about his legal strategy as his hopes of overturning the Nov."
+    publishedDateTime: 2020-11-29T16:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump/trump-expresses-doubt-on-whether-supreme-court-will-hear-election-cases-idUSKBN2890MO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890MO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890MO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542815328&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0GP"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump loses appeal in Pennsylvania: \"Calling an election unfair does not make it so\""
     excerpt: "The Trump campaign lost another battle Friday in their attempt to prove mass fraud in the election, something thus far they've been unable to do. This time, the Third Circuit Court of Appeals denied the campaign's request for an injunction in Pennsylvania to undo the Keystone State's certification of its votes."
     publishedDateTime: 2020-11-28T12:32:00Z

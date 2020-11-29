@@ -727,6 +727,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration prepares to inherit controversial Trump immigration policies "
+    excerpt: "When President-elect Joe Biden comes into office, he will inherit the Trump administration's restrictionist immigration agenda, which cut access to asylum and has kept migrants in limbo in Mexico while they await humanitarian protection in the US.\n    \n"
+    publishedDateTime: 2020-11-29T15:02:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SzZZmWyIx5k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-trump-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-trump-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125153328-02-biden-thanksgiving-remarks-1125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Republicans eye 2024 White House bids and debate post-Trump era as 2020 election ends"
     excerpt: "Four years ago, Sen. Marco Rubio made a bid for the White House. And four years from now, the Florida Republican might do it again.\n    \n"
     publishedDateTime: 2020-11-02T22:16:21Z
