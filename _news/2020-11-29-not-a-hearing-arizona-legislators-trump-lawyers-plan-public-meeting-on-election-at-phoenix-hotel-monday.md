@@ -3,8 +3,8 @@ category: news
 title: "Not a hearing: Arizona legislators, Trump lawyers plan public meeting on election at Phoenix hotel Monday"
 excerpt: "The meeting at the Hyatt Regency in downtown Phoenix is not a hearing of the Legislature as Finchem and Trump campaign's legal team have cast it."
 publishedDateTime: 2020-11-28T16:31:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/28/arizona-legislators-trump-lawyers-plan-phoenix-meeting-election/6449311002/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/28/arizona-legislators-trump-lawyers-plan-phoenix-meeting-election/6449311002/"
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/28/arizona-legislators-trump-lawyers-plan-phoenix-meeting-election/6449311002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/28/arizona-legislators-trump-lawyers-plan-phoenix-meeting-election/6449311002/?scrolla=5eb6d68b7fedc32c19ef33b4"
 ampWebUrl: "https://amp.usatoday.com/amp/6449311002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6449311002"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "2fSlV2I1SCR0bZnbM451VNZbtWA5yqARxNhmqNOFV+nxjPWTIRueHoXVNVcdAM6jtS/nmtFa3hnqnxoeB1mvs0MaEmci/pMQN6UuSx+YYXpCYYoinir1VFiT0lTmbv+56paGszDsmYG/IR4f2X7QpNMeGkPPg/PuF2NCzlsbzLdimPz7W2iMhLzS+P3fG9KiP+6F6dfFBafr9cRDMrkEU1XSvxDHCy7KEHSHbsGFBBc/zKcRaIu1L1IAtu1KeVxuVN6u4nKRg14Q/M2MAh6tKSAbKKvjRUunEmN1kbP4RHcB38wWYtJNPD/bHJHssffWXIKyWFRSdUcwzZcwAy4/W+No5An2006dxfCcT+WW5bsKmFIV7j4Mx/2NiTBEBvopXrpA8Tmopt/BCbG6TieQIcfeCc+/n8QKkKrXPhGUTT6Y5XP9ILG4VxeXDEu249npH+lLamp5cU8Dlbsu7uFTj+vev9GT750NJH9lHvFlRMlwOLDtqt8phNiJGkSCckxOr7+DQMVH1dvX9ewFnkf0/Q==;Iketa4jJmnvMdyNjjvLgIg=="
+secured: "qrgHwwhch0537lc1oVxyno2Sn3WlqdzKgecsmiBBr2xcYYYiyvD1PQ64YqitWxsywx69SFU0oyyY/J63uSIxQyqatgwNJZ5dFgRnY243eKnS7qHLWvLzf4vIOKjY12fsn/ieVGpPVAPzJcyXGXrRnVFLHoi1ioIFXVhr9BSBYAEc4OMVnCxh53BAM9iCTxIHwqTXpnWC/FCXjZyMpq/TF0QfIxmem1sGEq4R3SavjmccrpiPsPcTEpPwxd0GFZCiU4y7R46Y/CMWDMzRQOPBcsP6Cz7Fz6x7kbCEO3u1Hf7NpzUobi7RRe5SGbPfd/z7R/UFIQdPjOHgD963HWm/Sy3ogU50dtlUfIW/s0ToNbQ=;BJNj7zneWy4o9F4bLYsqzQ=="
 ---
 

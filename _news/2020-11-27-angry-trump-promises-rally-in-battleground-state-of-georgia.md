@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/angry-trump-promises-rally-i
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1484
     height: 779
     isCached: true
+
+related:
+  - title: "U.S. Supreme Court weighs Trump bid to bar illegal immigrants from census totals"
+    excerpt: "The Supreme Court on Monday is set to take up President Donald Trump's unprecedented and contentious effort to exclude illegal immigrants from the population totals used to allocate U.S. House of Representatives districts to states."
+    publishedDateTime: 2020-11-29T12:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-census/u-s-supreme-court-weighs-trump-bid-to-bar-illegal-immigrants-from-census-totals-idUSKBN2890F4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890F4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890F4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542800006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS09M"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "Q4CR37SlyWtSXSRjW1UjTlLpL+WEMoVy5iGa4PXwXuIL1scpZj1YkFMKozo2ES/b5P3l0s5RlKglMXM4MJjPls216IFyH/c8HOO1dL2xnsfqIxlBlERNVzaAhHMB968P4zOuUXuEQ2oB+cQsqLPLboj25yQCUp4y3hi/+0VQs/403NPTGiGgkB/U8Ax9Pz94EMgTZi3+mxAoIf2LGkjXiMp6/l8v6nXBHp10z9iyncTq//9SL87QErnrJ78EEQ8NY4jYc2Ph2izG5Y+10jNYT8OhoSjj5cVap5mSSlNXllZjUK+yoSe4yvmQE3b/0q/RGody1h8NCEdeBUcbGUWpThr52mElOv8ebsPoa1rPVoU=;+ebpEepUI5tXzhM26DHFHw=="
 ---
