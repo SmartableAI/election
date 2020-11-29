@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 1841
+heat: 1861
 published: true
 
 provider:
@@ -895,6 +895,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_48/3431339/201126-trump-thanksgiving-axc-555p_b052bc564714c23a6d8e1b64858a9eb8.JPG"
         width: 6048
         height: 4024
+        isCached: true
+  - title: "Biden and Harris announce all-female communications team"
+    excerpt: "Biden said the team will \"bring diverse perspectives to their work and a shared commitment to building this country back better.\""
+    publishedDateTime: 2020-11-29T22:38:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-harris-announce-all-female-communications-team-n1249293"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249293"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249293"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_48/3430781/201124-joe-biden-jm-1329_1896fbcf4ab91146d6ccd31a11e1e8f7.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "G.M. Drops Its Support for Trump Climate Rollbacks and Aligns With Biden"
     excerpt: "General Motors said it would no longer back President Trump’s lawsuit seeking to strip California of the power to set fuel economy standards."

@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden announces all-female senior White House communications team "
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Sunday announced an all-female White House senior communications team.\n    \n"
+    publishedDateTime: 2020-11-29T22:48:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hxmhZyiQRjo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-white-house-female-communications-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-white-house-female-communications-team/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103080726-02-white-house-1103-restricted-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia confirms Biden victory and finds no widespread fraud after statewide audit"
     excerpt: "Georgia elections officials said Thursday that plans to release results of a statewide ballot audit have been delayed while one county completes its review, but are expected shortly.\n    \n"
     publishedDateTime: 2020-11-20T00:38:42Z
@@ -108,6 +124,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to name economic team this week, with three women in top roles to help build recovery"
+    excerpt: "President-elect Joe Biden is set to formally name key members of his economic team on Monday, with the long-expected announcement of Janet Yellen as Treasury Secretary, CNN has learned, along with two other women in top roles to help him navigate the nation's punishing fiscal headwinds in hopes of building"
+    publishedDateTime: 2020-11-29T22:44:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-LEoanAyZ4o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125151119-01-biden-thanksgiving-remarks-1125-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

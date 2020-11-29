@@ -912,6 +912,22 @@ related:
         width: 6048
         height: 4024
         isCached: true
+  - title: "Biden and Harris announce all-female communications team"
+    excerpt: "Biden said the team will \"bring diverse perspectives to their work and a shared commitment to building this country back better.\""
+    publishedDateTime: 2020-11-29T22:38:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-harris-announce-all-female-communications-team-n1249293"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249293"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249293"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_48/3430781/201124-joe-biden-jm-1329_1896fbcf4ab91146d6ccd31a11e1e8f7.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "G.M. Drops Its Support for Trump Climate Rollbacks and Aligns With Biden"
     excerpt: "General Motors said it would no longer back President Trump’s lawsuit seeking to strip California of the power to set fuel economy standards."
     publishedDateTime: 2020-11-23T20:09:00Z

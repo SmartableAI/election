@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-con
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-congratulations/index.html"
 type: article
 quality: 190
-heat: 810
+heat: 830
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124162912-emily-murphy-gsa-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to be examined by orthopedist after twisting ankle "
+    excerpt: "President-elect Joe Biden will be examined by an orthopedist Sunday afternoon \"out of an abundance of caution\" after twisting his ankle Saturday while playing with his dog, Major, his office announced.\n    \n"
+    publishedDateTime: 2020-11-29T22:02:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jV9r3dcdz7A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-twisted-ankle/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-twisted-ankle/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125153328-02-biden-thanksgiving-remarks-1125-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

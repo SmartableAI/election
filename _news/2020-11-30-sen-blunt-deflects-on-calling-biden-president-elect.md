@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to be examined by orthopedist after twisting ankle "
+    excerpt: "President-elect Joe Biden will be examined by an orthopedist Sunday afternoon \"out of an abundance of caution\" after twisting his ankle Saturday while playing with his dog, Major, his office announced.\n    \n"
+    publishedDateTime: 2020-11-29T22:02:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jV9r3dcdz7A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-twisted-ankle/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-twisted-ankle/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125153328-02-biden-thanksgiving-remarks-1125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Rahm Emanuel under consideration to become Biden's transportation secretary"
     excerpt: "Former Chicago Mayor Rahm Emanuel is under consideration to lead the department of transportation, people familiar with the matter say, a move that would enrage progressive activists if the former Illinois congressman and White House chief of staff in the Obama administration was ultimately nominated"
     publishedDateTime: 2020-11-19T21:36:19Z
@@ -529,6 +545,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "LNWQAvHfr1sMeR0sDOQwmbveeQa/umEUrqOpYai4ZF+PIbu2G6RUTyyNVdXtqXuPMo/bqsnc1M/0wKtk76WymYzj8uQVq1BZgczRELCwJaXuPHaaQNnsLi0FkRmzY95NLh5Sx0dVR5vEUYoVg9CSdgUKdT7jjSNTtzq/e9PrbhHpg0TGvNsnD+Kf6LCrqK4kxpqpGPM0s/hNj12Okm0pmNArUV34uEcapNA47OP2WxqJqChdLLJn+fdMIR88/Gy6tj6iKECw+Ajvv52SfIFJ5caQ2KB/C0c2PKqmx/odYh1dWbJwcaswHlWNogfAWf1u2GJO029WE9A7yPPaH0mZ1XohZraXx1SIo8BIsrasPsc=;v+yf1/hgEkT2AzmA9LHTEw=="
+secured: "g+vliR4DjL4unAVDW+2i+Z1Qg1CvGeiv5weGBcKmuthdgQqtWZJvDngYQEfbGAkGWlTyDSN4hdFuGPA6noCXgeTMhdz2p7tvOciS8cgVwSJgXWb9bmqQlGk+h/ZIG6dOmULoM1jHR/Zr+GcaQvyLGy3zRiLSesUiXVqk9geUKWwyXD4nLspkanF1x6P5xlgYjaBWeAkJU4ESz75JYTuW5CBkrmUgCXQ7ZmKbx/XNqIp8dRrtXdivdFo/1o1fipwPPeb5i6+K2CA4RWM86RESqZGF0fDZ0Hm0cAuV5lZ2BlAHyjT1DQp2aLTcg3g9vn1Fu3cmNyQ4CplRCO2zNmDfjxPoBQ6TrwE5vRN8HAvTlpdEJZ3UGPJ+Q08DiTUGgrvMCdr3rCOuqVFXYOgQGVdqDLNX7YMZ/53R3RdWjmwbIXk3Sv6dr3GxCGiGU6j/ZwZJdDPybsfcroK3nOshCcwgZMVjM5043AsMCoT9qTuCVH1jvRyLf3eKBczNs5cGe7T3yubTJLezskBlK7Rbb9U7UQ==;iPqUU9sU9kQWHXeO67HMeg=="
 ---
 

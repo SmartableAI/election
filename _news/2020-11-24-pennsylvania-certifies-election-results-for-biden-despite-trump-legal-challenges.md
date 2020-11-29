@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-certifies-election-res
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp"
 type: article
 quality: 200
-heat: 1960
+heat: 1980
 published: true
 
 provider:
@@ -670,6 +670,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6d9e51d-2daa-4ee4-993c-9d1fa6e0611c/5c17bc87-6137-4f4a-b565-09d40ca86268/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "President-elect Joe Biden twisted ankle while playing with dog Major"
+    excerpt: "President-elect Joe Biden reportedly twisted his ankle on Saturday and is expected to be examined by an orthopedist \"out of an abundance of caution,\" according to officials. "
+    publishedDateTime: 2020-11-29T21:14:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qoP89oxDrkE/biden-twisted-ankle-playing-with-dog-examined"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-twisted-ankle-playing-with-dog-examined.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-twisted-ankle-playing-with-dog-examined.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/f2fcca38-image-1.png?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump won't break with tradition, will proceed with annual Turkey pardon"
     excerpt: "Despite the angst surrounding the growing number of coronavirus cases nationwide and the ongoing upheaval over President Trump's refusal to concede the election to President-elect Joe Biden, there will still be a turkey pardon at the White House next week. "

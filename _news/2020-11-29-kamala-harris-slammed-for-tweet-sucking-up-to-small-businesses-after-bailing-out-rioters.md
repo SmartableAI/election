@@ -1,0 +1,54 @@
+---
+category: news
+title: "Kamala Harris slammed for tweet sucking up to small businesses after bailing out rioters"
+excerpt: "Vice President-elect Kamala Harris was widely slammed on Twitter this weekend for committing to helping small businesses affected by the pandemic despite having openly supported protesters at the height of social unrest over the summer."
+publishedDateTime: 2020-11-29T21:59:24Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OPhxh2LL8zU/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OPhxh2LL8zU/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters"
+ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters.amp"
+type: article
+quality: 176
+heat: 196
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+  - Kamala Harris
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333665999101-1.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
+    isCached: true
+
+related:
+  - title: "Kamala Harris scoops up gifts, promotes small businesses at holiday market"
+    excerpt: "Vice President-elect Kamala Harris hit up a Washington, DC outdoor holiday market Saturday — and found herself the perfect stocking stuffer. With husband Doug Emhoff at her side, a laughing"
+    publishedDateTime: 2020-11-28T22:27:00Z
+    webUrl: "https://nypost.com/2020/11/28/kamala-harris-shops-promotes-small-businesses-at-holiday-market/"
+    ampWebUrl: "https://nypost.com/2020/11/28/kamala-harris-shops-promotes-small-businesses-at-holiday-market/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/28/kamala-harris-shops-promotes-small-businesses-at-holiday-market/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/kamala-harris-doug-emhoff-holiday-shopping-MAIN.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "gStClBFyRfpE5r1F1Nn2zx9VSGnxGeZS3CMAM/f93myyI2PsxtO2lsZ4igNCCgAGD8YFIYDtN4ygukWBXhlrBwKx5tZ6o/fjAfYrAD0iPPNbQuUJYXSj6FO4s21BYqwZYxdrnZMPNN43lN8u/861UJeJoK4Em4qjRrewaDW3zsrN6DxkZMItKU46ZKhUSV0eFXifk9BZJks5iQBPyXIZ5BZloR5AVWJI1Xk60kiOByH6fjlrLfy3OSdCQbE/FWkJhI4k5BOLJr3uQPzy1KwDrGSab0GeowAkxUzP3n8bfy9YojSzMLz7fRFeU0talPQ8SO/wrbwOgO1xI3w6nibZktiGEwPmocTfwvhyns7HigA=;1eUmK0Q2CRY5cpxxD16dpA=="
+---
+
