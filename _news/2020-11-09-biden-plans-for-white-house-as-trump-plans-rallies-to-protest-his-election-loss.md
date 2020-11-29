@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 16481
+heat: 16501
 published: true
 
 provider:
@@ -3007,6 +3007,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/4a40f6b/2147483647/strip/true/crop/3999x2612+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F42%2F51%2F76e7ddce4ceabad1ee81dc235198%2Ftrump-65275.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Republicans turn to Biden transition as Trump's legal options dwindle"
+    excerpt: "Senior U.S. Republicans on Sunday said a transition to a Joe Biden presidency looks inevitable as President Donald Trump questioned whether the Supreme Court would even hear any of the challenges his campaign has vowed to pursue."
+    publishedDateTime: 2020-11-29T16:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN2890NN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890NN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890NN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542816486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0HC"
+        width: 771
+        height: 545
         isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"

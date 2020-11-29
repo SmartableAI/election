@@ -70,6 +70,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris visits outdoor Washington, D.C. market for Small Business Saturday"
+    excerpt: "Vice President-elect Kamala Harris stressed the importance of supporting small businesses amid the COVID-19 pandemic as she visited an outdoor market in Washington, D.C. for Small Business Saturday."
+    publishedDateTime: 2020-11-29T17:03:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 70
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5851606665676/2020/1/5226819b3561030471050fc4702b6888/v1.5/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday.jpg"
+        width: 800
+        height: 531
+        isCached: true
   - title: "Janet Yellen and Kamala Harris keep shattering glass ceilings - but global elite boys club remains"
     excerpt: "Janet Yellen may soon become the first woman to lead the Treasury Department, about six years after shattering another glass ceiling at the top of the Federal R"
     publishedDateTime: 2020-11-25T18:05:00Z

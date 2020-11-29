@@ -415,6 +415,38 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "How Joe Biden Can Unify the Country"
+    excerpt: "Joe Biden’s greatest challenge will be trying to win the trust of the more than 73 million people who voted for President Trump. This matters if we are ever to have a chance of returning to some form of normalcy."
+    publishedDateTime: 2020-11-29T17:03:00Z
+    webUrl: "https://www.nytimes.com/2020/11/29/opinion/letters/joe-biden-unify-us.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/29/opinion/letters/joe-biden-unify-us.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/29/opinion/letters/joe-biden-unify-us.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/24/multimedia/24-bidentransition-HP/24-bidentransition-HP-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Sen. Blunt deflects on calling Biden 'president-elect'"
+    excerpt: "Sen. Roy Blunt called Donald Trump \"president-elect\" the day after the 2016 election. | Manuel Balce Ceneta/AP Photo Sen. Roy Blunt repeatedly declined to refer to Joe Biden as the “president-elect” on Sunday,"
+    publishedDateTime: 2020-11-29T18:28:00Z
+    webUrl: "https://www.politico.com/news/2020/11/29/roy-blunt-deflects-biden-president-elect-441099"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/29/roy-blunt-deflects-biden-president-elect-441099"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/29/roy-blunt-deflects-biden-president-elect-441099"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/a5/3f/9d3c0b374bfd9989507e1f5d68e2/20201129-royblunt-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Transition Gets Underway in Earnest as Biden Team Fans Out Across Capital"
     excerpt: "Within hours of the Trump administration’s decision to stop blocking the process, representatives of the president-elect began coordinating the handover of power."
     publishedDateTime: 2020-11-25T00:44:00Z

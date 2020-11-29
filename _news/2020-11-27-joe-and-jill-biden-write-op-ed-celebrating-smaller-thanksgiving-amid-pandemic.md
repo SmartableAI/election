@@ -3,8 +3,8 @@ category: news
 title: "Joe and Jill Biden write op-ed celebrating smaller Thanksgiving amid pandemic"
 excerpt: "President-elect Joe Biden and his wife, Jill, wrote an op-ed on Thursday celebrating Thanksgiving and sympathizing with families who remain separated over the holiday due to the coronavirus pandemic."
 publishedDateTime: 2020-11-27T00:56:00Z
-originalUrl: "https://www.cbsnews.com/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/?ftag=CNM-00-10aab7e"
-webUrl: "https://www.cbsnews.com/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/?ftag=CNM-00-10aab7e"
+originalUrl: "https://www.cbsnews.com/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/"
+webUrl: "https://www.cbsnews.com/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/"
 ampWebUrl: "https://www.cbsnews.com/amp/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "M9KrqibSGz4sZwIaPH85ahz3ENyghaOXJvof1CwJPR54tVZXKNU2gaJnARrCfXTcwmZtmjZhurgq8n4zWseRstgd5OtZ6gda648S1+X7wCjW7HgWLO6cW+Xbc319Fu5F0IdBa06ZMCDIHgM2PEH2VY39EoxdMceHAMco78ahqwo2OLTMAvqOySbsNsIa2SrgYWcNrgdHbNCYHs6B5k7FiqtgilTliMX5RufnT+SPe4HB8iLU7uDx+Vj+GIwrqLmYhKLdcQPMXLRqIEenZpwGl79gMEiZxvOSlFEtMQ+qwTOOwfqR07dJWuY1XWJk6Az/u2/y0rTcp5BKKuXejwgGkbegVbk5cqnF1trgIcCuyvsdFAuRcoYgQmMqhfdZAyeF5UKP58hoYosrcq5F0YytUgpJXO/JZ/5R1aQUQoAn5+PknQ4XKxLrmZ6AIDDXKLCkCehQIlbl9s90oLVOe6jkCSTq/Y/6z9pMpElwOvUffZYRVtAVGFvP+imbkoojhvoDuzAsKChXYsLy1sP+bCosag==;GC0zRvqjWb2zMolVgiiK4A=="
+secured: "r0PQv/5FpU5tpVTFOK2sgJt9GzsZoSTaG/Pnt45+wzMidTHCVXXymynyrMJ5HT+KhmBltlMW4Fb9h0GeS1bXHTPANLcAAG/wfiFZiKsT8v7h6lHkN/Iuk0S+g6RN47/YVSPp+wwkDyFPvu+D67/Hst3Tj36TXYoQ1sGh6XMmdmoVd4ETIx/TK9stcMFu4NYZJCPd0Ds8mByLjjJleE5oxVifXzDOxEX393q7SCQ9c0z2RJm6a1d79kvMhgYyWNEHEXgxodWnD/WXq3lEJ+p5G8Re/pqgkbAvMCr6ofekOYF02ApvOhsZeR1BzODSg305YaEbxfcyvgqTOMv7727vmkIaYIw1UbWWm/KUYNvTyLI=;6lV/JB2hvUjjWTJCj5Rjjg=="
 ---
 

@@ -3023,6 +3023,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Republicans turn to Biden transition as Trump's legal options dwindle"
+    excerpt: "Senior U.S. Republicans on Sunday said a transition to a Joe Biden presidency looks inevitable as President Donald Trump questioned whether the Supreme Court would even hear any of the challenges his campaign has vowed to pursue."
+    publishedDateTime: 2020-11-29T16:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN2890NN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890NN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890NN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542816486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0HC"
+        width: 771
+        height: 545
+        isCached: true
   - title: "Final presidential Trump-Biden debate scores more than 55 million viewers"
     excerpt: "The final number for the first debate on Sept. 29 was 73.1 million viewers. Second presidential debates typically draw a smaller audience than the first."
     publishedDateTime: 2020-10-23T19:42:00Z

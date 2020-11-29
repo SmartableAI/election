@@ -111,6 +111,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Completed Wisconsin recount confirms Biden’s win over Trump"
+    excerpt: "Wisconsin has finished its recount of votes cast in this month’s presidential election, with only miniscule changes in the results that saw Joe Biden defeat President Trump in the battleground state."
+    publishedDateTime: 2020-11-29T18:11:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-29/completed-wisconsin-recount-confirms-bidens-win-over-trump"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-29/completed-wisconsin-recount-confirms-bidens-win-over-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-29/completed-wisconsin-recount-confirms-bidens-win-over-trump?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/aeb333e/2147483647/strip/true/crop/5547x3623+0+38/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fce%2Fdf%2F4669521f82907c8b38d65e57cfa1%2F2e1001a727e347c1bb132f6491a8c6df"
+        width: 320
+        height: 209
+        isCached: true
   - title: "‘We need you’: GOP hunts for new voters in Trump territory"
     excerpt: "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time"
     publishedDateTime: 2020-10-28T04:47:00Z
