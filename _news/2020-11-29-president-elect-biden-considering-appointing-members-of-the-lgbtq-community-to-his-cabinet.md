@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Explainer: What to expect from Biden's foreign policy"
-excerpt: "What to expect from Biden's foreign policy. Posted [NFA] The following are some of the policy issues that President-elect Joe Biden's foreign policy team face"
-publishedDateTime: 2020-11-26T15:10:00Z
-originalUrl: "https://www.reuters.com/video/watch/explainer-what-to-expect-from-bidens-for-id722389066?chan=6g5ka85"
-webUrl: "https://www.reuters.com/video/watch/explainer-what-to-expect-from-bidens-for-id722389066?chan=6g5ka85"
+title: "President-elect Biden considering appointing members of the LGBTQ+ community to his cabinet"
+excerpt: "President-elect Joe Biden is set to have one of the most diverse cabinets the nation has ever seen. Advocates and allies are hoping that diversity includes LGBTQ+ representation as well. LGBTQ Victory Institute Vice President Ruben Gonzalez discusses potential cabinet picks."
+publishedDateTime: 2020-11-28T21:58:00Z
+originalUrl: "https://www.cbsnews.com/video/president-elect-biden-considering-appointing-members-of-the-lgbtq-community-to-his-cabinet/"
+webUrl: "https://www.cbsnews.com/video/president-elect-biden-considering-appointing-members-of-the-lgbtq-community-to-his-cabinet/"
 type: article
-quality: 105
+quality: 95
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20201126&i=OVD67MCPR&r=OVD67MCPR&t=2"
-    width: 960
-    height: 540
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/d688dce4-44fc-4ba3-90f6-3dead692d3ed/thumbnail/1200x630/2ec41d29d884f7b9634745ae99cfad73/cbsn-fusion-president-elect-biden-considering-appointing-members-of-the-lgbtq-community-to-his-cabinet-thumbnail-597544-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -61,19 +61,19 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "President-elect Biden considering appointing members of the LGBTQ+ community to his cabinet"
-    excerpt: "President-elect Joe Biden is set to have one of the most diverse cabinets the nation has ever seen. Advocates and allies are hoping that diversity includes LGBTQ+ representation as well. LGBTQ Victory Institute Vice President Ruben Gonzalez discusses potential cabinet picks."
-    publishedDateTime: 2020-11-28T21:58:00Z
-    webUrl: "https://www.cbsnews.com/video/president-elect-biden-considering-appointing-members-of-the-lgbtq-community-to-his-cabinet/"
+  - title: "Explainer: What to expect from Biden's foreign policy"
+    excerpt: "What to expect from Biden's foreign policy. Posted [NFA] The following are some of the policy issues that President-elect Joe Biden's foreign policy team face"
+    publishedDateTime: 2020-11-26T15:10:00Z
+    webUrl: "https://www.reuters.com/video/watch/explainer-what-to-expect-from-bidens-for-id722389066?chan=6g5ka85"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 95
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/d688dce4-44fc-4ba3-90f6-3dead692d3ed/thumbnail/1200x630/2ec41d29d884f7b9634745ae99cfad73/cbsn-fusion-president-elect-biden-considering-appointing-members-of-the-lgbtq-community-to-his-cabinet-thumbnail-597544-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.reuters.com/resources/r/?d=20201126&i=OVD67MCPR&r=OVD67MCPR&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Joe Biden’s Plans To Carry Out Every Proposal On The LGBTQ Community’s List"
     excerpt: "President-elect Joe Biden just released his plans for the LGBTQ community and he wants to grant all of it's wishes."
@@ -108,6 +108,6 @@ related:
         height: 534
         isCached: true
 
-secured: "q1pIBaFnYrNDjhn27a31/iW3x+49/ULNAwcKpWW1afPBH97zQi6I05Y37OeFwp5R1vXSl7epYvmLN0jTUbscloS4I5oUuG8OBIv40vcGsEDt5jZB2cmXnJ0YQlgKIHD9yD4lQ7Afo2tNmzcWdLm3d0cJCEZNAgsEJzVBg3zdNnnW/AKvmdAXkHXrn+bUNtnWXYActaKMEGzC+49Yc/t0TldvuwV7ob1U7/Yd0gRmnlBrTXRlVXXj7IoTaTCpRf3vxxfyve1ZcS4sLFWzk3Ojma192meg8MBzMU0kcJo+Kdj1la9J+3nmzTbRewpdYsmxVCrcG9k8tUCI2bPB/SDAsdlrzoOxN/2vhlD2HkIySbvHanZnMxQYerQ3uDURNN8wdBnsmOdJO1OPer2Ssq666r7azx8z6TblkmYNUWsa6958ZoahnTyCnAaSMqmhaXlWzBsLd3UmkGlcZY1EmjMwoh4BrxBpwnjfgEgPEfrVpy0pYHap3QPkR3DiZFfYMNWVNP+Sc5hXyoRhscGqi6gAGA==;N9hGrnfM939EyfG2B8TfZw=="
+secured: "AsoDzyVe+SqaC8mDkZJ9wE/sYqs0zFaew8EU5U6cTCq8Syk9FZrlmFjjYPmpN3bNhcCtfeObXjuMO+D9M+1kjUks2/4Pa48oyNVf7S9lgZ3SrgU/NG+2LAttFm/8NPDelkRsMLASDlISAWVCOibFiPS5LwLfsSQBw2ltjeuiTN/csu8zlcM5K34Zab6+SA/SLFjdEySXvFseYuf4KMIgudDYeJs6dIxU6YydtWFkfcTKd20pblS5TahhvCLYAva7iReAyyEu1ERDWvg888+EDod8Y3K31UnncrrMJoWkK6KEtDoXGF10En+jE6W/HcmPwNdFJsZSVA3YhNKoxmgewBNfSTsKSNkzAx8a4UvI1LA=;mWGqUh93Uoo7D/rHtTBOIQ=="
 ---
 

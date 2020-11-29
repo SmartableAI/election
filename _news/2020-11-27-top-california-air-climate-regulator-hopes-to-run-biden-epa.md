@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Top California air, climate regulator hopes to run Biden EPA"
-excerpt: "Mary Nichols will soon leave her job as California's top air regulator after more than four decades of advocating for ambitious climate policies in the nation's most populous state"
-publishedDateTime: 2020-11-27T10:18:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/top-california-air-climate-regulator-hopes-run-biden-74424053"
-webUrl: "https://abcnews.go.com/Politics/wireStory/top-california-air-climate-regulator-hopes-run-biden-74424053"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/top-california-air-climate-regulator-hopes-run-biden-74424053"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-california-air-climate-regulator-hopes-run-biden-74424053"
+excerpt: "Mary Nichols will soon leave her job as California’s top air regulator after more than four decades of advocating for ambitious climate policies in the nation’s most populous state"
+publishedDateTime: 2020-11-27T05:52:00Z
+originalUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html"
+webUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html"
+ampWebUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_c8310049242f49cb95676b4f77c86dd7_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -1148,6 +1148,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "bhtTXShlxytLrtP4Ajcer7cp8Z/gMlMecu47lZ/0Bgy4FJl+Tv1nHng2S2onv4JfZq8MbRcWKw1W8U+ES/kJ3+np9BQmomTaRszV6FPqUXD+Tb5X4d4XjfpWkmCuP4RhQI2VkBFbKhC9ahwGxjHJLxji2XO8nEWKT17zpcS1ktpGUDwotu0xD1AUfoZ99qEqvlPSYlfqvKXXvM90uN/jsv2B5KzF0hJgB4KXPrncgmWE3NvI16M4gkjSwKpvZlrpw9yGgipA4ZHBC9XK7gJX/FqIMYijSOJHi+l84/+nHbpStvmJbvOLhRJl1G4/9TDtvic3Mg0PkIw7Vx/JbwSyrV3DyD3hpuXw+vOPXaDQI/c=;hvBTf6Ah+z+XZQyR6rqX8g=="
+secured: "XDXP8yoRQm2SJkl8hscjGSQXaC5e8ARFoJ3BEdozqpkGq68bz0ClYr8aBINZ6OaY5aRFFUvCCSt6TzD7PVptFNS3bCRvXZyUzpCho+yciOFm/c7Ir5Zw0xMbjruNvkhBZET033ldLKtug3x9sNIkmP5pcX1zyS1tywu7ZA0SuV1p+Mu4bgEbwE5KZQE/rnD5UGLkYi7sI10EKR4pFd6LXaLUTMHHXOY5n6bdj5vi545l6U80mspRCIpb7uyzhoILwr+Hi870U6B6mqJWW+dKeIcq0dKtgGO6OXave4yTsmRtZXI8HZFgP8ky7Kr39Nuty8nfy7gsX2f6v+xHX3rBZm2JEmcJm3+qISSUWxdKzoU=;y3femo7kMBBIrja51FvqQw=="
 ---
 
