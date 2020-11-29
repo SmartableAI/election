@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-certifies-election-res
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp"
 type: article
 quality: 200
-heat: 1920
+heat: 1940
 published: true
 
 provider:
@@ -1034,6 +1034,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-265230/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden Plans to Roll Back Trump-Era Education Policies"
+    excerpt: "The president-elect has vowed to bring sweeping changes to education and to reverse some of the civil rights-related moves made under President Trump."
+    publishedDateTime: 2020-11-29T13:12:00Z
+    webUrl: "https://www.wsj.com/articles/biden-plans-to-roll-back-trump-era-education-policies-11606654802"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-plans-to-roll-back-trump-era-education-policies-11606654802"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plans-to-roll-back-trump-era-education-policies-11606654802"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-263007/social"
         width: 1280
         height: 640
         isCached: true

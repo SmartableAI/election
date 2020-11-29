@@ -286,6 +286,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Belief in Trump Fiction Can Be Worn Down by Fact"
+    excerpt: "President Donald Trump keeps claiming that the 2020 election was stolen from him, and was replete with fraud. He has spread the false assertion that voting machines made by Dominion Voting Systems Inc."
+    publishedDateTime: 2020-11-29T12:13:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/28/belief_in_trump_fiction_can_be_worn_down_by_fact_530263.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "2rdog6Lps4lgf0QZ2NKolr6kwvp/MvYYSo/LC7YBvjI/ffsCXPZEKS1Hboc+SUypdGnuNokp4Xg6fa32MQYOhKzLDJN0WXjUuUlX1eRg+DR7+uEYX+6y44HeyCaDReFQI+NohqrWM20qycnASncyoLWL4GP2+6mrJ2pYXRXuoo+DOPTi/WACR1in5I3bW3CzZMzEoKO0mouT0CroD07I/TTPC1IBFR6pysm94U9l3J7d/aXay1V3OS602eyyaXaoF15IlF8jCWJaYbtakVzTrRVJF/438E+2P/7enkkhfuj9rGaiRJ08PA91GEhXolhKb7V/QjFVHugmPM2oc4ePIOjGUVGGeOHjRP45F9/XHcI=;sPSrnP2hd82IXpuJBJBm1w=="
 ---

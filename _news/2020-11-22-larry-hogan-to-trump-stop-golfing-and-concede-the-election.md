@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-trump-stop-golfing-conc
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-trump-stop-golfing-concede-election.amp"
 type: article
 quality: 190
-heat: 510
+heat: 530
 published: true
 
 provider:
@@ -285,6 +285,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Belief in Trump Fiction Can Be Worn Down by Fact"
+    excerpt: "President Donald Trump keeps claiming that the 2020 election was stolen from him, and was replete with fraud. He has spread the false assertion that voting machines made by Dominion Voting Systems Inc."
+    publishedDateTime: 2020-11-29T12:13:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/28/belief_in_trump_fiction_can_be_worn_down_by_fact_530263.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "e3+naHSxYJt9zo0+AqqDvc3yyBHb4+65SDx3kPsscaMZaG+eH4WoYpWtzoAazDBzBWtevKoWgfIKOldjXrh/FJ3uo/uXguQ+Lts79y73Az6E8TzeGGpLNMoR42kk8RUv52YYTIrw8RKGP1mtnkhSFHIwiUquyLtuo5tXNZBJxTrmwPdwVk3cVisrH8bx9HHN/qJlQUKtzM/G7EBZhHvymj5X9MYTj0rXfOtjXI2m8A7J5k3Pl29OMvFAfiOHMvHOU6fl853hjMQpO5L7b6R/P1N2s2vikAiu4MAP2OuAeo2TBoAhMDVjt7l5wx37jl+4cb8QbFFDIo/HphE5SO9qO3e+S37qtmKTU/m1xyKm7kw=;/J7CLUOmxE6sNlk6Mo2Szg=="
 ---

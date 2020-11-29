@@ -79,6 +79,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Trump speaks out in first interview since Election Day"
+    excerpt: "Follow for the latest updates on the 2020 election."
+    publishedDateTime: 2020-11-29T06:23:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j7TrB3K9YWM/live-updates-blm-activists-protest-la-mayor-as-potential-cabinet-pick"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-resize-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Trump to campaign in Georgia for GOP senators ahead of January runoff"
     excerpt: "President Trump said Thursday that he plans to visit Georgia to campaign for incumbent Republican Sens. Kelly Loeffler and David Perdue ahead of their Jan. 5 runoff elections. "
     publishedDateTime: 2020-11-27T12:15:48Z

@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-29-analysis-the-worsening-pandemic-raises-the-stakes-for-bidens-economic-program.md",
+      "title": "Analysis: The worsening pandemic raises the stakes for Biden's economic program",
+      "excerpt": "Sitting in an Iowa diner a year ago, candidate Joe Biden aimed his economic agenda at the widening gap between America's rich and everyone else.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dnwxF5kTNQs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dnwxF5kTNQs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/29/politics/biden-economic-policies-covid/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-economic-policies-covid/index.html",
+      "publishedDateTime": "2020-11-29T06:15:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-29-coronavirus-deaths-joe-biden-holiday-windows-your-weekend-briefing.md",
+      "title": "Coronavirus Deaths, Joe Biden, Holiday Windows: Your Weekend Briefing",
+      "excerpt": "Here are the week’s top stories, and a look ahead. 1. The numbers of coronavirus-related deaths are at their highest levels since the spring. On April 15, 2,752 people in the U.S. died from Covid-19,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/29/briefing/coronavirus-deaths-joe-biden-holiday-windows.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/29/briefing/coronavirus-deaths-joe-biden-holiday-windows.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/28/us/29weekend-briefing-web-virus/29weekend-briefing-web-virus-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/29/briefing/coronavirus-deaths-joe-biden-holiday-windows.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/29/briefing/coronavirus-deaths-joe-biden-holiday-windows.amp.html",
+      "publishedDateTime": "2020-11-29T03:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-29-rep-elissa-slotkin-of-michigan-reportedly-eyed-as-bidens-cia-director.md",
       "title": "Rep. Elissa Slotkin of Michigan reportedly eyed as Biden's CIA director",
       "excerpt": "U.S. Rep. Elissa Slotkin of Michigan is reportedly among those under consideration to head the CIA in President-elect Joe Biden's administration.",
@@ -1170,62 +1283,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-27-democrats-deride-dark-money-but-a-new-analysis-shows-it-helped-boost-joe-biden.md",
-      "title": "Democrats deride 'dark' money, but a new analysis shows it helped boost Joe Biden",
-      "excerpt": "Democrats have denounced anonymous money in politics for years, but 2020 brought a tidal wave of it into the election to benefit their party.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tzoCqbkftjs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tzoCqbkftjs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201103020149-joe-biden-pittsburgh-heinz-field1102-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/27/politics/dark-money-democrats-joe-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/dark-money-democrats-joe-biden/index.html",
-      "publishedDateTime": "2020-11-27T07:44:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-27-betrayed-black-asylum-seekers-say-trump-administration-is-ramping-up-deportations-by-force-and-fraud.md",
       "title": "‘Betrayed’ Black asylum seekers say Trump administration is ramping up deportations by force and fraud",
       "excerpt": "ICE uses physical abuse, solitary confinement and false documents to force Black and African asylum seekers onto 'death planes,' The Times has found through interviews and legal documents.",
@@ -1275,62 +1332,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-tulsi-gabbard-urges-trump-to-grant-clemency-to-assange-snowden.md",
-      "title": "Tulsi Gabbard urges Trump to grant clemency to Assange, Snowden",
-      "excerpt": "U.S. Rep. Tulsi Gabbard has called on President Trump to pardon National Security Agency (NSA) whistleblower Edward Snowden and WikiLeaks founder Julian Assange before the president leaves office on Jan. 20, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L-EdHt74eO0/tulsi-gabbard-urges-trump-to-grant-clemency-to-assange-snowden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L-EdHt74eO0/tulsi-gabbard-urges-trump-to-grant-clemency-to-assange-snowden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/AP20221566698304.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tulsi-gabbard-urges-trump-to-grant-clemency-to-assange-snowden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tulsi-gabbard-urges-trump-to-grant-clemency-to-assange-snowden.amp",
-      "publishedDateTime": "2020-11-27T02:16:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

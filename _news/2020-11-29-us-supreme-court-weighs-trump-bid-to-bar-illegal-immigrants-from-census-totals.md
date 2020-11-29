@@ -3,8 +3,8 @@ category: news
 title: "U.S. Supreme Court weighs Trump bid to bar illegal immigrants from census totals"
 excerpt: "The Supreme Court on Monday is set to take up President Donald Trump's unprecedented and contentious effort to exclude illegal immigrants from the population totals used to allocate U.S. House of Representatives districts to states."
 publishedDateTime: 2020-11-29T12:21:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-court-census/u-s-supreme-court-weighs-trump-bid-to-bar-illegal-immigrants-from-census-totals-idUSKBN2890F4"
-webUrl: "https://www.reuters.com/article/us-usa-court-census/u-s-supreme-court-weighs-trump-bid-to-bar-illegal-immigrants-from-census-totals-idUSKBN2890F4"
+originalUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN2890F4"
+webUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN2890F4"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890F4"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890F4"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 779
         isCached: true
 
-secured: "OIUVK7pcfuw6NbUF1WcmTfa16ZllQMY6L2w4jh/TJxMAMVvYQpPvStjBH9TjpL/DpBUW/RyhUFCVfm/OwAsn7IPsquJG8Kf9e+EOlu7mDLCJTkNOa3LGAx8qO2D7wabkAm2htGgVXfwv2dNhSUEnjizwkspOuewH/iWtVukCgZ0tCcqaD0pLTO7HOgwwdjb7tYcaMKk4FaZVbCL1g6S5SsBv3ag/FwW9hw1abyHy4NJW9OIOQObPzr/CQxLj6z7XQFdlkzPy8HnnmY53m/+IZYbAIN3N39zLxrEimfiv7yjtg7X7UHv6bWD73TF+5VzSF/NRG4FtOozg8h/S/s282UU+josrrPxzPpH+swXs03o=;HX7xHkIydYNp2j4uIzQQ9A=="
+secured: "JQc07bji1uC1tAg4C3cFg8g7AwMbAhqQ4G7D3kORkNQozfe+SOvCH5vfEjXPar28LEAnC+FqqAk7Bq5AjItP8xO0UUCVCZ1SeBPE0SsrVeCgR8raPuIC7iJb2Mjk6s8Au0W0fZk6FqPupI+d3zsefacGszbsJ6vxZ/o5HnkI+8edvd1EENhVWgaIKGTPsrO8C2FnAY0HrlT9yTTV2FCGCV/KD8ABCHhD/ymXDzFxNVVv+ZmfRO5mLSXtMCGdWZGPTTCSHWEp0lUHSMCKmJ8AtEnHAOdVqqMmXgxD2yC0yjvr9ukW/dGi3xvTfcTxgv5YnS7MfaQQ8ck2rD/bUomRMAeloDbcVl50vfqGq2lKliw=;6ONLgiGHS+vnS2c+O2R53g=="
 ---
 

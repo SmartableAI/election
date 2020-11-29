@@ -95,6 +95,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Trump speaks out in first interview since Election Day"
+    excerpt: "Follow for the latest updates on the 2020 election."
+    publishedDateTime: 2020-11-29T06:23:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j7TrB3K9YWM/live-updates-blm-activists-protest-la-mayor-as-potential-cabinet-pick"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-resize-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Trump campaign eyes Supreme Court after appeals panel tosses Pa. fraud case"
     excerpt: "The Trump 2020 Campaign looked ahead to a potential Supreme Court fight after a panel of federal appeals judges in Pennsylvania dismissed the campaign's lawsuit over alleged voter fraud in the presidential election. "
     publishedDateTime: 2020-11-28T06:44:56Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-26-2020.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-26-2020.amp"
 type: article
 quality: 185
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
     quality: 170
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f81d5bb-aaa9-4e45-b0bb-04c49b11546c/7ff0a562-bdd7-4c0c-97eb-8c80f3b3ca71/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump speaks out in first interview since Election Day"
+    excerpt: "Follow for the latest updates on the 2020 election."
+    publishedDateTime: 2020-11-29T06:23:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j7TrB3K9YWM/live-updates-blm-activists-protest-la-mayor-as-potential-cabinet-pick"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-resize-1.jpg"
         width: 1280
         height: 720
         isCached: true
