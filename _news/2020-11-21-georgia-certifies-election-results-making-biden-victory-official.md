@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-secretary-state-certifie
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
 type: article
 quality: 140
-heat: 1620
+heat: 1640
 published: true
 
 provider:
@@ -574,6 +574,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542433096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO18I"
         width: 818
         height: 545
+        isCached: true
+  - title: "After Biden win, Rehoboth Beach celebrates local boy made good: ‘He’s our Joe’"
+    excerpt: "Bikinis and beach umbrellas are marked to sell. The only hint of summer is the tangy scent of vinegar-doused french fries wafting from the one Thrasher’s stand that has remained open. Late fall and winter is when Rehoboth Beach typically gets to crawl back into its shell,"
+    publishedDateTime: 2020-11-27T22:54:00Z
+    webUrl: "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QASGXPBOUQI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
   - title: "Most Mexicans back president's holdout stance on congratulating Biden, poll shows"
     excerpt: "A majority of Mexicans support President Andres Manuel Lopez Obrador's decision to hold off congratulating Joe Biden so far on his victory in the U.S. presidential election, an opinion poll showed on Tuesday."

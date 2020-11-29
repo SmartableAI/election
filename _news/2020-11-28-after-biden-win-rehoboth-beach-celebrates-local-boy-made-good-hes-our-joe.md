@@ -1,14 +1,14 @@
 ---
 category: news
-title: "President-elect Joe Biden posed in his vintage Corvette. But he promises a big push for electric vehicles."
-excerpt: "He has set out an ambitious agenda to get Americans into battery-powered cars as climate change shapes his administration’s transportation policy."
-publishedDateTime: 2020-11-25T16:04:00Z
-originalUrl: "https://www.washingtonpost.com/local/trafficandcommuting/biden-electric-cars/2020/11/25/5076e316-2e6f-11eb-bae0-50bb17126614_story.html"
-webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/biden-electric-cars/2020/11/25/5076e316-2e6f-11eb-bae0-50bb17126614_story.html"
-ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/biden-electric-cars/2020/11/25/5076e316-2e6f-11eb-bae0-50bb17126614_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/biden-electric-cars/2020/11/25/5076e316-2e6f-11eb-bae0-50bb17126614_story.html?outputType=amp"
+title: "After Biden win, Rehoboth Beach celebrates local boy made good: ‘He’s our Joe’"
+excerpt: "Bikinis and beach umbrellas are marked to sell. The only hint of summer is the tangy scent of vinegar-doused french fries wafting from the one Thrasher’s stand that has remained open. Late fall and winter is when Rehoboth Beach typically gets to crawl back into its shell,"
+publishedDateTime: 2020-11-27T22:54:00Z
+originalUrl: "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html"
+webUrl: "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html"
+ampWebUrl: "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp"
 type: article
-quality: 107
+quality: 121
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2AKP7VBOSQI6XOXAKC5ROETGCQ.jpg&w=1440"
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QASGXPBOUQI6XHOWFUAXTGAXDE.jpg&w=1440"
     width: 1440
-    height: 960
+    height: 961
     isCached: true
 
 related:
@@ -591,22 +591,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "After Biden win, Rehoboth Beach celebrates local boy made good: ‘He’s our Joe’"
-    excerpt: "Bikinis and beach umbrellas are marked to sell. The only hint of summer is the tangy scent of vinegar-doused french fries wafting from the one Thrasher’s stand that has remained open. Late fall and winter is when Rehoboth Beach typically gets to crawl back into its shell,"
-    publishedDateTime: 2020-11-27T22:54:00Z
-    webUrl: "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QASGXPBOUQI6XHOWFUAXTGAXDE.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
   - title: "Most Mexicans back president's holdout stance on congratulating Biden, poll shows"
     excerpt: "A majority of Mexicans support President Andres Manuel Lopez Obrador's decision to hold off congratulating Joe Biden so far on his victory in the U.S. presidential election, an opinion poll showed on Tuesday."
     publishedDateTime: 2020-11-17T15:28:00Z
@@ -806,6 +790,22 @@ related:
     quality: 108
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLRUQDRMPQI6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "President-elect Joe Biden posed in his vintage Corvette. But he promises a big push for electric vehicles."
+    excerpt: "He has set out an ambitious agenda to get Americans into battery-powered cars as climate change shapes his administration’s transportation policy."
+    publishedDateTime: 2020-11-25T16:04:00Z
+    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/biden-electric-cars/2020/11/25/5076e316-2e6f-11eb-bae0-50bb17126614_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/biden-electric-cars/2020/11/25/5076e316-2e6f-11eb-bae0-50bb17126614_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/biden-electric-cars/2020/11/25/5076e316-2e6f-11eb-bae0-50bb17126614_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 107
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2AKP7VBOSQI6XOXAKC5ROETGCQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -1164,6 +1164,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Sr9u8eJqAuOnLZ0ljQAU20SnxGiz32wytZ71Kl/BaCBnWusLNIH95SRghdN7DDVusmJLEqtPUipamvJulh+07UlKjj/VnNZ38OrFwkxCEk4rw/IIwlaQ21GlhdIWG1d4z0YetFZyvWp/F6Vu8ATwrqfLJVL1/ulzd6amTPOLcIvDNKgtqEjnqRr64V77D+MbFqYM0EIHNd4lkKteODI7RKZ3NdsqBGTqtkT1EuT4bXoe/qpVvPHoLSfUTspFmWKVuDAXvvVbWNgKwsGPiFOj1lUl1AGCaTqu8Jy8zLXq62TuT/nze8MZeG4Ph/rW4FhatJf5SRpS3QyguVTpTUD0BZllpeTqKRsMYnZDhMt4wgqIqUPmwa+TJPCpzhsMiKRnnyldkgYAPeaDgeKWBEwBc331KB9wBuWjnxhjPp+vqAEOBMB6R3hsMwr0zLRbYxZ5BLO5LbMhgrxRwbyOvl8zdt85nuCfStScjKF9cuWtFp6ejmWBjtsvvli7h8gnRgD3gUdJ++fRkYXlXk1hrwxhKA==;Yon23QX2KbKyXW+1Zyk+1w=="
+secured: "UiJ4s6uvrR4mlMsbMbOvi6EEm4tRKOThT8VP+C0qflx/AI2wFxd0s797aD3hHGiNZPKalTtYm17HFvYcAjbYlNthBacOFhQMRqY4s4Vo8dOQaCVsR2/dsIcopFg23Mvt1krjSmAFGMIyuJWepArWuiiEO2wUI2B5DlNBQV4vTcCmdTSlDE6215z9IwnJIITn7DWZlme5Z5y75f9W1Z/2+bf03r2FGkpQ+gtAFWFlxcpTjOjDrH8eetqZMbhnU//B47HsJNIg599jgzzkS2w0hnLA60zFpKDy2Ao7p1Nsf8rL6s+y/M1hNaE9VDhCmaVv6bFBX36IMcmBCKjNjwu8RQX9tBJaiUicNYivjAMeKJY=;tKVDz+CEuDpNknbz8cD2uQ=="
 ---
 

@@ -591,6 +591,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "After Biden win, Rehoboth Beach celebrates local boy made good: ‘He’s our Joe’"
+    excerpt: "Bikinis and beach umbrellas are marked to sell. The only hint of summer is the tangy scent of vinegar-doused french fries wafting from the one Thrasher’s stand that has remained open. Late fall and winter is when Rehoboth Beach typically gets to crawl back into its shell,"
+    publishedDateTime: 2020-11-27T22:54:00Z
+    webUrl: "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QASGXPBOUQI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
   - title: "Ahead of recount results, Georgia officials say Biden likely to remain the winner"
     excerpt: "A key battleground state in the 2020 presidential election is expected on Thursday to affirm Democrat Joe Biden's victory over President Donald Trump, which would deal yet another setback to Trump's scattershot efforts to hold on to power."
     publishedDateTime: 2020-11-19T10:07:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Factbox: The Biden Cabinet - President-elect begins to build a team"
 excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the nation's diversity."
 publishedDateTime: 2020-11-28T20:25:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN2880IZ"
-webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN2880IZ"
+originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2880IZ"
+webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2880IZ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2880IZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2880IZ"
 type: article
@@ -108,6 +108,6 @@ related:
         height: 534
         isCached: true
 
-secured: "4t/TxFrO7NAKpsGXmAJC5YIJToWExTdQAdtReMpYJX5yRBaiPt0KtOmP2NK+Q58iD4mK/u55+gN9dZ0Dy4NSmHXnORDi5ttX5mGkcweMxWC1FcjG1jXY2gsai4/gEmVCQMTDdpoDit1Gn83cHsLojw+jjxf9P9x12pDSdWAOUEiA3aCatQJzEcfE9sY9sefxaRGJmVfdCgTfdjxJLZzSM6k4rIsDra2amlcENBCAPw+vnXVbNu/daZeQzzn54fe/m5+jaFbCs4GSWz8wS0A5oDQo4h9Y5m1OI0rJaIyFTSl3q4pjQkDlLnCclPINOQvXnbQ1U3dCCZGFTZCA3A03FIVgL2D+79cSqnojAe7sz3Kvb6Ab1IHP+wsKrvUdFtMsDoEX9karv29dooOO6XtM/YBVxZqXNZl4gaVJmS978JkE/zUMOcmGC7r/Syx/KHBUR2or5bNDbxryuiftPJtI3o6igMalAw64CDEHQISS0A5UAbTdaIOFG2D5NCMSpNMuXMhswPwYaFV5gNvIDRQL4A==;6pRzipHX3jcQL6X72NmQ4Q=="
+secured: "AmRDjy1yrsyV5JIRt11oHjhf0yWHWJeSAowERr7MUg3bR2GRse+LuJU0iiuhBBn5UuAdF+NCA+0Xdq6RHPSskseM5V+pphjlisA/ZjypSLXpFgVvlKYf2QL0R83VrYttr/pZAi3ZwXi4MXkrPWhvrS+ahheKC8diaINhNzDaXMNo/ttgqe6ApRD8Xrfw/2+TANvl6f0frPXplwG8kBLBl3oLthezzHAyUDu1Sn45dDb/8Tdke/cBJxIqh2CNK+tOnqtCzlEPSoucQStaCehXbqofFTeBHCKvVoL13X5IiGrqYFbx237cq4A0IX6mQjW/DpNo19Y+faNQNcdBguadGsT+mDlHzsPkCspA5h08I60=;srEFvmWxkKssgPYdiv/1SQ=="
 ---
 
