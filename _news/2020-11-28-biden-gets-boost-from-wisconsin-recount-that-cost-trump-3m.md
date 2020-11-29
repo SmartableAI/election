@@ -287,6 +287,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Trump insists Wisconsin, Pennsylvania election fights far from over"
+    excerpt: "Follow below for the latest updates on Trump's 2020 legal challenges."
+    publishedDateTime: 2020-11-29T05:11:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aIiXEqIAr3E/live-updates-trump-insists-wisconsin-pennsylvania-election-fights-far-from-over"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-insists-wisconsin-pennsylvania-election-fights-far-from-over.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-insists-wisconsin-pennsylvania-election-fights-far-from-over.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19a6b591-6678-4c2d-b043-188055ad4171/842562e2-78f4-434f-ad07-3ae0beee5066/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden tweet about leaving Afghanistan by 2014 resurfaces as Trump pulls troops"
     excerpt: "President Trump’s announced plan to withdraw troops from Afghanistan and Iraq has been met with mixed reactions with some Republicans pushing back on the idea, but President-elect Joe Biden has been relatively mum."
     publishedDateTime: 2020-11-18T02:27:33Z

@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden gains votes in Wisconsin county after Trump-ordered recount"
 excerpt: "Milwaukee recount, which cost Trump campaign $3m, boosts Democratic president-elect days before state must certify result"
 publishedDateTime: 2020-11-28T07:05:00Z
-originalUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount?from=samsung_news_daily_card"
-webUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount?from=samsung_news_daily_card"
+originalUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
+webUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
 ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
 type: article
@@ -588,6 +588,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "oeYxZj2wfE1yTGlfeutK1vEf+20llOzVnKsRO9rGx7ZKKKWkEJdWnMZ5DrGt67bmyzKvVBlTBwqMQ3DyiZtZ00bgiuXnbXviZ2w0N7yhQ0RXDQMS2R4mpII0zRAQiQkRzNh/BPHqalvnoNa+5Z9zLXniGqMEBHlhYrZlLVrF9fchgNP2zua/LoFeh2tvolT6Un4MFZOreCaeeAl+U7nnbLU/fECcQZlgjFqOWPtW6hkWbMfpUt8fPzX90cOi+cJBuBXWAMB8VMSC+1uWyUBNKC7l1rGAj9hr9frE/8Mpq2UaNLURRwjNNWmzb7BN8XkcSqDB+eLpPXOI6kSktD4+8RrAF5id96ZIDtbYjDhHe6aJv89MjcOkGUWB/cBBPyXKDeGXwMARcPpojnSAPE7gbsxsTpyMc7oihqt53/31oc2C4SNzm4YwwNDq7C5KbWQ8iH66vKhAgDBtJMi6mOhEJjNwWIs0YrbKnaqbOtLAPd2R8P7Q8nJJpHB2m4dL1fcgOMHHX4mbidETatYOu+W5Pg==;ueuOsxg9WIGvmGkAhmxO0Q=="
+secured: "JZWapVQdNpWt55Of76wXa8soy5TvUmkO3650w5mXlEVd87lXbBhDiP6EkPTCkgfPHlhATZI/rQUWGNAdc3G3gUGTfBSxnywjvMeUgNruIZjOiZSM6jumvBaImPw9yvDkhTJ9JqazpIt+GxMvUY2NFYLFZniWy67rV4eTArSvDW1aDE96IVJJbyN1EnrIeNKfMFyWs1/m4A4O92nZDxDhLj8FOFDnWOpSOhtyojtGpNcXHGiGqXIoORnJJzDDRQdJm/gJY3L5kKiqFVGAilSMirTPPAuP3sPeQaHc/XI0P8hnsiyhPV6SBf4PS+Hdb+IgJdOSGGEebD0VYqiO9lplw9ur/Nb+/UEV0j7DSdAts2c=;z9s+U2iW6HVk6HhzJpeSeg=="
 ---
 

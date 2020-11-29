@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-certifies-election-res
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp"
 type: article
 quality: 200
-heat: 1900
+heat: 1920
 published: true
 
 provider:
@@ -284,6 +284,22 @@ related:
     quality: 185
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/136edf0b-46df-4daf-a851-e680fbfc13d6/ae1cd84e-3eac-48e4-9006-31e425302bfb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump insists Wisconsin, Pennsylvania election fights far from over"
+    excerpt: "Follow below for the latest updates on Trump's 2020 legal challenges."
+    publishedDateTime: 2020-11-29T05:11:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aIiXEqIAr3E/live-updates-trump-insists-wisconsin-pennsylvania-election-fights-far-from-over"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-insists-wisconsin-pennsylvania-election-fights-far-from-over.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-insists-wisconsin-pennsylvania-election-fights-far-from-over.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19a6b591-6678-4c2d-b043-188055ad4171/842562e2-78f4-434f-ad07-3ae0beee5066/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump says he will leave office if Electoral College votes for Biden"
-excerpt: "President Trump said Thursday that he would leave office if the Electoral College votes for President-elect Joe Biden, and also alleged “massive fraud” in the vote count and promised to keep up with his legal fight."
-publishedDateTime: 2020-11-27T00:06:56Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GE1uDdh9e-c/trump-says-he-will-leave-office-electoral-college-votes-biden"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GE1uDdh9e-c/trump-says-he-will-leave-office-electoral-college-votes-biden"
-ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-will-leave-office-electoral-college-votes-biden.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-will-leave-office-electoral-college-votes-biden.amp"
+title: "LIVE UPDATES: Trump insists Wisconsin, Pennsylvania election fights far from over"
+excerpt: "Follow below for the latest updates on Trump's 2020 legal challenges."
+publishedDateTime: 2020-11-29T05:11:42Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aIiXEqIAr3E/live-updates-trump-insists-wisconsin-pennsylvania-election-fights-far-from-over"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aIiXEqIAr3E/live-updates-trump-insists-wisconsin-pennsylvania-election-fights-far-from-over"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-insists-wisconsin-pennsylvania-election-fights-far-from-over.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-insists-wisconsin-pennsylvania-election-fights-far-from-over.amp"
 type: article
-quality: 190
+quality: 185
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/1Trump.jpg"
-    width: 604
-    height: 344
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19a6b591-6678-4c2d-b043-188055ad4171/842562e2-78f4-434f-ad07-3ae0beee5066/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -175,6 +175,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says he will leave office if Electoral College votes for Biden"
+    excerpt: "President Trump said Thursday that he would leave office if the Electoral College votes for President-elect Joe Biden, and also alleged “massive fraud” in the vote count and promised to keep up with his legal fight."
+    publishedDateTime: 2020-11-27T00:06:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GE1uDdh9e-c/trump-says-he-will-leave-office-electoral-college-votes-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-will-leave-office-electoral-college-votes-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-will-leave-office-electoral-college-votes-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/1Trump.jpg"
+        width: 604
+        height: 344
+        isCached: true
   - title: "Biden gets boost from Wisconsin recount that cost Trump $3M"
     excerpt: "President-elect Joe Biden picked up 132 more votes after an election recount in Milwaukee County, among the two places in Wisconsin that President Trump spent $3 million to force a recount."
     publishedDateTime: 2020-11-28T17:48:11Z
@@ -284,22 +300,6 @@ related:
     quality: 185
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/136edf0b-46df-4daf-a851-e680fbfc13d6/ae1cd84e-3eac-48e4-9006-31e425302bfb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump insists Wisconsin, Pennsylvania election fights far from over"
-    excerpt: "Follow below for the latest updates on Trump's 2020 legal challenges."
-    publishedDateTime: 2020-11-29T05:11:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aIiXEqIAr3E/live-updates-trump-insists-wisconsin-pennsylvania-election-fights-far-from-over"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-insists-wisconsin-pennsylvania-election-fights-far-from-over.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-insists-wisconsin-pennsylvania-election-fights-far-from-over.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19a6b591-6678-4c2d-b043-188055ad4171/842562e2-78f4-434f-ad07-3ae0beee5066/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1382,6 +1382,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "Igm6aR2wdrHxaAnyrh1xIAcH/Sad1WzrexB1ls8XsR2JxoFywVloMb+bofTmHQ3mIMdBsw23cASEQti83zQQx86AD16UN+JsL4ILeR49C54vsmCoIES27fJXXuAxHOOG46CBbVm1NwLslOKCrhIxaYmVqMHqd3qnmSBIKGuku1SgNmWhbevFsKJczMLF/hFnbZZ8unK7Hrq0mKsYqUQybty6D1WRCAt5Nq111Y/r2K8a8OQBhGmYyqg5b+IMAEgmcMApcbH1rlArX986cl06sC2+Tb+J/n0ZHiw0ozmnsgoWHS9jmkkAieiyhokWSTySAIdqdGrjTYPT0FngGaSn7wOIXdfeCOJYfD90Rc8r8mI=;Kww699CHyWeHM3odq2jkYA=="
+secured: "IzKNRA3DfJVTCuoAC6qWSxidqhvk62IOdrur7ATIylXzCe9CD7REUpJucM1avaAJ4JJjqLGaLtm7wOK1CUPiFsvkgU5Xux6R3cJdfMbmU7MZn9jLyFZSNjNsx5vxju1tXTUTPQuhUkVX5/lhDRZkFMiH7vIomFAzfoCdJmUjP3sKsjq/k1iqzpQFOIUPnsqJcd0FdQbZzjC0zOyJcrv2m4Ori5myj8VzBOY4ZybuEnnpCTDVNgAHpVKPh2Nb6qQkdkdqXsCaqXyBiFR48ovH7T3w9ppW6sUvr01QrPZDmqBQ5xlVXr6fwE/Em37CCjRa4JSETgyxwdMOHjoTBU/i8jD4d8jNedGKWJD4Te440N0=;tfItKS6A23NFKLcaFzApzA=="
 ---
 

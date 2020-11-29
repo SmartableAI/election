@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Democrats feuding over who Biden will pick as agriculture secretary"
-excerpt: "A fight is breaking out among Democrats over who President-elect Joe Biden should choose for agriculture secretary, with one of his key allies advocating for an African American lawmaker to head the department and refocus it on hunger rather than rural America."
-publishedDateTime: 2020-11-27T15:47:15Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qAKUA6sLsXo/democrats-feuding-biden-pick-agriculture-secretary"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qAKUA6sLsXo/democrats-feuding-biden-pick-agriculture-secretary"
-ampWebUrl: "https://www.foxnews.com/politics/democrats-feuding-biden-pick-agriculture-secretary.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-feuding-biden-pick-agriculture-secretary.amp"
+title: "BLM supporters continue to protest Biden's consideration of LA Mayor Garcetti for cabinet"
+excerpt: "Black Lives Matter activists protested outside the home of Los Angeles Mayor Eric Garcetti to protest the mayor’s potential nomination to President-elect Joe Biden’s cabinet."
+publishedDateTime: 2020-11-28T20:30:00Z
+originalUrl: "https://www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet"
+webUrl: "https://www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet"
+ampWebUrl: "https://www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet.amp"
 type: article
-quality: 175
+quality: 126
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ee1e249-8ac5-463e-aa31-19bbadd0e5b0/33c22b54-330a-4095-9eeb-7439bfeb5523/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9c7e661-973a-421d-9d3c-c492d013a8c8/0f7df908-dfcb-4ff5-a3e7-cb7708020b06/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -78,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Democrats feuding over who Biden will pick as agriculture secretary"
+    excerpt: "A fight is breaking out among Democrats over who President-elect Joe Biden should choose for agriculture secretary, with one of his key allies advocating for an African American lawmaker to head the department and refocus it on hunger rather than rural America."
+    publishedDateTime: 2020-11-27T15:47:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qAKUA6sLsXo/democrats-feuding-biden-pick-agriculture-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-feuding-biden-pick-agriculture-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-feuding-biden-pick-agriculture-secretary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ee1e249-8ac5-463e-aa31-19bbadd0e5b0/33c22b54-330a-4095-9eeb-7439bfeb5523/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden's national security adviser pick played key role in Clinton email scandal"
     excerpt: "Jake Sullivan served as deputy chief of staff to Hillary Clinton during her time as secretary of state and later served as a top policy adviser during her campaign."
@@ -239,22 +256,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "BLM supporters continue to protest Biden's consideration of LA Mayor Garcetti for cabinet"
-    excerpt: "Black Lives Matter activists protested outside the home of Los Angeles Mayor Eric Garcetti to protest the mayor’s potential nomination to President-elect Joe Biden’s cabinet."
-    publishedDateTime: 2020-11-28T20:30:00Z
-    webUrl: "https://www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet"
-    ampWebUrl: "https://www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9c7e661-973a-421d-9d3c-c492d013a8c8/0f7df908-dfcb-4ff5-a3e7-cb7708020b06/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden's expected secretary of state pick Blinken criticized over Iraq War, consulting work"
     excerpt: "President-elect Joe Biden's expected pick for secretary of state received criticism for his recent consulting work and early support for the Iraq War as outlets reported Antony Blinken would soon be announced for the post."
     publishedDateTime: 2020-11-23T15:26:00Z
@@ -272,6 +273,6 @@ related:
         height: 320
         isCached: true
 
-secured: "f3EMK7DSU7cETL/qI3hd/EMxewzdZGhuG/0/lstadLwEa5Tbt49r9X4UOaor4Rh8kFpGrRLatydL0LBkW6AHZE5G3TP2K1fNYype/rxi+DOwK4xM2m2AIsFyqXjQ/C10/lDN56Gjq8JEe8d1oz/R8DcIZa2cEU07VJ9un2o5YdG3hbfnGhaYe0/W1m7fNuBVh+yBvDDJbtv5hXBzrPmHvqqumIXGVCLqYR0LodOigJ0R0TGDuIfSRgIpwVtReGbdDPkeHgayWQOOTDjc1A06MrqTiLgovguimN0Hkre2wPNLybpJCuVcwFGxARbrX+bPPgQBNP2YW4lYLQ1lz4IVaEKiieEH6wMVioCCjt1bCk8=;46sKBFBm16k+uzDTqjdF/g=="
+secured: "3pQMZVemckZ+rLAq7bh7qCA89PQkf1cbD/0u0PbeZpkLvVR9hl+MKpwO1K33b7qhkSIyLicy74CMRQn3EoyaJmGsEGnoBhCZ3zziR3i+SSCkZFnXg8X2zdho4lLQzwYcoFHih1Oc9cbwTMj9JUf5HYg+8nlLhOH6iKrb0tzzSiXvKLr36W3XXaCUgbfCAvi4o6daLcomLYKH0BIES3t9aWw99h1moobU/Db0TDW5SQe9ttGiaIuJD2X3iSANzYaxGdBBy35wOnwDXHjuJJYNGDY5GqFlKaZINAjvtv06IHphNlAE8zAhUGLKr8rfW7QMT7OvPiTZPNTDOto1z/kvBjZw73lo4r1wdNyhTKLfn2U=;tcyQ+nFuub4y/CZBvVIqqw=="
 ---
 
