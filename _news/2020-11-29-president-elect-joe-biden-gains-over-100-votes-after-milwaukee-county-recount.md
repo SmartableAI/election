@@ -110,7 +110,7 @@ related:
   - title: "Wisconsin counties finish recounts, Biden's lead reconfirmed"
     excerpt: "The recount of presidential ballots in Wisconsin’s two largest counties finished on Sunday, confirming that Democratic President-elect Joe Biden defeated President Donald Trump in the key swing state by more than 20,"
     publishedDateTime: 2020-11-29T17:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN2890R2"
+    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin/wisconsin-counties-finish-recounts-bidens-lead-reconfirmed-idUSKBN2890R2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890R2"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890R2"
     type: article
@@ -380,6 +380,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/d688dce4-44fc-4ba3-90f6-3dead692d3ed/thumbnail/1200x630/2ec41d29d884f7b9634745ae99cfad73/cbsn-fusion-president-elect-biden-considering-appointing-members-of-the-lgbtq-community-to-his-cabinet-thumbnail-597544-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Three major developments in President-elect Joe Biden's transition to the White House"
+    excerpt: "Since President-elect Joe Biden’s victory earlier this month, President Donald Trump has refused to concede and continues to make baseless claims of voter fraud –– pushing election lawsuit battles across the country,"
+    publishedDateTime: 2020-11-29T17:17:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/11/29/when-inauguration-joe-bidens-white-house-updates/6443749002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6443749002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6443749002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/62d96c6a-b6f3-4091-aacb-149110e7fa61-AP20324781057068.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "WuAAZwJ+YEXDanx2NdxRbi1i5BfdQG6O7LimhVO1nmnMZdVoG2WGDWUWgBlduLNmy2SBZH/Ogc7HnEF0/VIZLTiopzhrajK5MA590/zWAgSIzlEXtdiXInU6bhg4cAaIXQopq9e/CtuskS9uf70N5eqxhAHxIsaa92H25eF5fB92ATjmuUAIuax3bfHF64KvjmFPOxROxpjEdwwnsagnSARNMUMpTDTKncGFk9ZqyZDVN9cJotMJKhSVNLNpCZ8m5YeFdFDew0uvt86bQIyusjJVetATvQ2/+6AKh3q7m3k5TzQ7XjpdZFqmf6pp6pqFQ4CMLUWW7v44k4VgLe/R/MyPH90j39zwzas+Zpuulj9IcWLbiVuUyfIfl4kAdiVvSjk80vPUo4Z/b5RIuOC1+hIFA/2NcdHWi6LNgSlAfHBs6PJUDi9hcosAB7YoI3ZsOPNO3YmMy2qYFNZHEeMYi1sXdgo9iq0hrPCbOF7DBaVPpM5UrDN1AklFj7N7tuXRrl2uYQ+9yJf93j2h2sOluQ==;EM133k/aCqfnAlA1xvY5nQ=="

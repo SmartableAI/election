@@ -3,8 +3,8 @@ category: news
 title: "Wisconsin counties finish recounts, Biden's lead reconfirmed"
 excerpt: "The recount of presidential ballots in Wisconsin’s two largest counties finished on Sunday, confirming that Democratic President-elect Joe Biden defeated President Donald Trump in the key swing state by more than 20,"
 publishedDateTime: 2020-11-29T17:38:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN2890R2"
-webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN2890R2"
+originalUrl: "https://www.reuters.com/article/us-usa-election-wisconsin/wisconsin-counties-finish-recounts-bidens-lead-reconfirmed-idUSKBN2890R2"
+webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin/wisconsin-counties-finish-recounts-bidens-lead-reconfirmed-idUSKBN2890R2"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890R2"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890R2"
 type: article
@@ -385,7 +385,23 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Three major developments in President-elect Joe Biden's transition to the White House"
+    excerpt: "Since President-elect Joe Biden’s victory earlier this month, President Donald Trump has refused to concede and continues to make baseless claims of voter fraud –– pushing election lawsuit battles across the country,"
+    publishedDateTime: 2020-11-29T17:17:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/11/29/when-inauguration-joe-bidens-white-house-updates/6443749002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6443749002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6443749002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/62d96c6a-b6f3-4091-aacb-149110e7fa61-AP20324781057068.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "kwerIS8JXT15f8Hx3CI0ikCOPdapSbtsFPb3amqQNYKD0XyukeARcQvDDeM7pKm5crF6B/d10NHEt5ibEPWwQtUNCa93UiK4HCTP6f4FQqSNmKTBNLwBxsgj7xVRSQ060mZsqdnmR5KE0XC1082Dqyyz+qz2y+8lvzLBw0vL5JnvhyI9oErGj0Hup0Yyase76V8Mfgxy2LGrtUEQNjZ46bDLFA/bjDPFjw1eXT/gk3Mb8mnbX5DUvlJVdXrAyuOkMSafxZOzeyVgVL8s6+j2zMxieAqazULvaImRbHrQHikY9HDUcHpFkTSv5RA4DRqQoc4fjeEfTY5Oy86mZpSrAsDslaYvw1qKoXsYvxFRghg=;hemgzl/e8Nl4PH1Q0S2MCA=="
+secured: "zN4hNQnrp5alqMy9WoLCEZ0tUXGzFvGXBGKlgoOvjABMr7MzcMm5301Zs71JinwBviRd2KIRDb3l4Qs2lrgnqb03oqLFVGrha/BRYq+JjpT3h0fKgwKSDybUHGeDNuvolfT5jRR2eyUfVg2Li8+PzfSBzx8TwrPHBjhHZzmeHVTheGKCfEfo3nw5PAbnlssyTbZxVpUzqWNIONr/A2/qB7Bu/q1JarugDTARWMvNQ9Nui9PQRL0ynAJG7nFws7OQf4xG+9YDfY3A6J8GHpZfSplSBPpVzCSbTIJ+OtjJIzmstzgO1hU3RYt43pvdyl0sZ0kkpMZjo3oNDLYA61YTswp4UugxYBXnfK4Yy6RBd+M=;QVOSPq7nqhe1hOGMSLLkow=="
 ---
 

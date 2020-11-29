@@ -2,15 +2,15 @@
 category: news
 title: "Rep. Elissa Slotkin of Michigan reportedly eyed as Biden's CIA director"
 excerpt: "U.S. Rep. Elissa Slotkin of Michigan is reportedly among those under consideration to head the CIA in President-elect Joe Biden's administration."
-publishedDateTime: 2020-11-29T09:54:50Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ghmE6evmVmk/rep-elissa-slotkin-of-michigan-reportedly-eyed-as-bidens-cia-director"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ghmE6evmVmk/rep-elissa-slotkin-of-michigan-reportedly-eyed-as-bidens-cia-director"
+publishedDateTime: 2020-11-29T10:07:00Z
+originalUrl: "https://www.foxnews.com/politics/rep-elissa-slotkin-of-michigan-reportedly-eyed-as-bidens-cia-director"
+webUrl: "https://www.foxnews.com/politics/rep-elissa-slotkin-of-michigan-reportedly-eyed-as-bidens-cia-director"
 ampWebUrl: "https://www.foxnews.com/politics/rep-elissa-slotkin-of-michigan-reportedly-eyed-as-bidens-cia-director.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elissa-slotkin-of-michigan-reportedly-eyed-as-bidens-cia-director.amp"
 type: article
-quality: 175
-heat: 215
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -47,23 +48,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Exclusive: Former CIA station chief Darrell Blocker floated to lead agency under Biden, source says"
-    excerpt: "EXCLUSIVE: While President-elect Joe Biden has yet to announce his pick for CIA director, an array of names has been highlighted, and among them is Darrell M. Blocker -- one of the highest-serving persons of color to have served in the clandestine service, Fox News has learned."
-    publishedDateTime: 2020-11-27T17:37:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZqbN5nL4JEs/exclusive-darrel-blocker-biden-cia"
-    ampWebUrl: "https://www.foxnews.com/politics/exclusive-darrel-blocker-biden-cia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/exclusive-darrel-blocker-biden-cia.amp"
+  - title: "Kamala Harris: Biden Cabinet Nominees Have \"Unwavering Belief In America's Ideals\""
+    excerpt: "Elect Joe Biden's announcement of diplomatic and foreign policy cabinet picks on Tuesday. VICE PRESIDENT-ELECT KAMALA HARRIS: President-Elect Biden and I have long known that when we were elected we would inherit a series of unprecedented challenges upon walking into the White House."
+    publishedDateTime: 2020-11-24T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/24/kamala_harris_biden_cabinet_nominees_have_unwavering_belief_in_americas_ideals.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 74
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://assets.realclear.com/images/52/528073.jpg"
+        width: 946
+        height: 708
         isCached: true
 
-secured: "0DeleDekVPow6eyOrKOZve3MguRy0JOkzBdIoHPy5rQAhuLEcp+DCpT0FYeZOMCy18T3PJ7VYaXTDgmB/tWgqJJxo2FDUMJXuKIAjfGZM9q4/Xz69o0Nj8FFnHr8ktb/u1BGmtmc19enlxgZDcCD8vViiH5WVXp4Zvixm7eeC9rnCJKFg2WPj3kWDeZehEHeRXY1panWMBxe5tL81MUyWqoE3Xpx0zYAxRk+JNb86VdYQOQ8mXBbte10jurNoGePs8aeJv5vhqZqJbG/OyEGN0wu7NoCS7jishq/JRjQAEn9Qc3H4TgGscDdjr+4rLqVvyn7hv5raXDB7+RFX/npENGCI0UcWDqR7/Ez70/KAAk=;i0XIA8f/fVfADg8IEx6LbA=="
+secured: "rPz68XPqbSrWcDbrK7hKOxkOL6HiDrR2w/f0pOay2sfKr2LgD9haDxS/qIh2FoeP6NfkC4Fn5x6Pb703GMOVlnuq/qzR9+s4Glr1RdTXu4G/Q7QCCKObUhgb2/L2ku47vlO9KM1BRxcN5pUgxdA2QVYgaWv+1Yedu9SGcA4iPEltdfnO9IT5IIUsQzAEMKbOFzryfR6BwIcyIKR44Qth9eFTmBBm/+L2AqkFvmJ73+cs+dXZlLim8m/TDbsFuzmUoeAk8AF5uRw2nBDIp6v8JV6y89DD8uWZG9E1drWlnTzlltHWN237AIxyrK3kKgLV9+dzaMSQFYdaY4Gzu6MCzrTXl48m7q6RIjGgjA1TFl4=;4D/LYhsZB7Kqcq4evujluw=="
 ---
 

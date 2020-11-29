@@ -7,8 +7,8 @@ originalUrl: "https://www.realclearpolitics.com/video/2020/11/20/obama_to_kamala
 webUrl: "https://www.realclearpolitics.com/video/2020/11/20/obama_to_kamala_harris_follow_your_instincts_and_follow_your_values.html#!"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: RealClearPolitics
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris: Biden Cabinet Nominees Have \"Unwavering Belief In America's Ideals\""
-    excerpt: "Elect Joe Biden's announcement of diplomatic and foreign policy cabinet picks on Tuesday. VICE PRESIDENT-ELECT KAMALA HARRIS: President-Elect Biden and I have long known that when we were elected we would inherit a series of unprecedented challenges upon walking into the White House."
-    publishedDateTime: 2020-11-24T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/24/kamala_harris_biden_cabinet_nominees_have_unwavering_belief_in_americas_ideals.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 74
-    images:
-      - url: "https://assets.realclear.com/images/52/528073.jpg"
-        width: 946
-        height: 708
-        isCached: true
   - title: "Kamala Harris: \"Last Month The Unemployment Rate For Black Americans Was Almost Twice The Rate Of Others\""
     excerpt: "Sen. Kamala Harris spoke about her priorities for the coming months of transition during a brief appearance Monday in Delaware: KAMALA HARRIS: Good afternoon. President-elect Biden and I just met with some of our nation's business and union leaders."
     publishedDateTime: 2020-11-16T21:36:00Z

@@ -36,6 +36,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump: DOJ 'missing in action' on alleged election fraud"
+    excerpt: "President Trump told host Maria Bartiromo in an exclusive interview that he has “not seen anything” from the DOJ or the Federal Bureau of Investigation on investigating the 2020 election."
+    publishedDateTime: 2020-11-29T19:01:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gXYjt2FY5vQ/trump-doj-missing-in-action-alleged-election-fraud"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-doj-missing-in-action-alleged-election-fraud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doj-missing-in-action-alleged-election-fraud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump says for first time that Biden 'won,' adds that he is not conceding"
     excerpt: "President Trump for the first time on Sunday signaled that Joe Biden \"won\" the 2020 presidential election that he continues to say was \"rigged\" against him, adding that he is not conceding the race."
     publishedDateTime: 2020-11-15T13:52:59Z

@@ -224,6 +224,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's lead in Dane County, Wisconsin, narrows by just 45 votes after recount"
+    excerpt: "President-elect Joe Biden's lead over President Donald Trump narrowed by 45 votes in Dane County, Wisconsin, as it certified its 2020 presidential general election results following a recount requested by the Trump campaign.\n    \n"
+    publishedDateTime: 2020-11-29T19:37:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YOgXrcCZYUQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-dane-county-wisconsin-recount/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-dane-county-wisconsin-recount/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/131017120746-03-joe-biden-1017-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Biden considering former campaign aides for top White House communications roles"
     excerpt: "Several women who worked on Joe Biden's campaign are being considered for top White House communications roles in the Biden-Harris administration, sources with knowledge of the deliberations tell CNN.\n    \n"
     publishedDateTime: 2020-11-18T20:38:57Z
@@ -513,6 +529,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "87RIX3yEZF6tdBT/GAptbHXrC6TdEdx5aWloRAioKLdkLCqB5ofTPLeBN/eFCJ9gGcilTi1uBbOfoQUP6kmXyXOCzB/tVkcrk0noEQRsA2bcTt9q+aE0Fv7YBk5C6P/F/6dZaNAU5XaPM5CvUz5muJRVG6zeM+ZQbNw0oW8V3cotzH0ZzTTgXZQojdpLw6fHDvCu/+iDXFO7rCVuajwk3HCh3gY/c43eBPzJAHPr/LRGswYtEj3TUq/FGH46Sfom8iu2NCFr52gnodLEi6sqJLjJ5H61iuns/ljpkRJUzbw0aD/q/QKNEG9uR18tmZub+ixnpopXMg1haZXGrRvKj17/OxzclWG5d8nVCNfjdr8=;tU181sPw8oW57L4fDiOLkg=="
+secured: "CZMkLM+ZMc0ChndZ58N6YVB1AnneMa1t4hT4TVk6MucCYueixH8zIjzGd4Jq118oFUlxBkp5Rvr3dZzXKhLBv0xzmjM+5s11cFVNZu6+BOGZMPKxqRpGK6/h+okpMhBxPWKUSZDfLnYjOxXFsAFr+KhEIIUpsGtc97wEVs0Ql9NdjXs1Ptyxz3nnNDWDMtHSFv7KN8+8LaJmErfwxK8uPUIVOxABwrZbn/yrd8giofpdgsmzUkCECFTwYLciB46WXR/vbLfj0hZFcYGJgasi/jPlvglCjsJdTcIeS4TquEGJNdcYs9Uwsc7LQt+bm2flK6GEdmUIwssjZmW8FQsIerRP1yt+5G/84IO33rEqljgaUsSwMB1KMQMm5NOdBNRZU5LvwwbeQuThO2IuqyX2HSRZ3hIXKl+uyIDxVDEnnxeNomovp30F4MQifHZ/ede92W1m35p+lZG+HBC7vfhI2oTTI4ZTdGgBjjzm3ofjhb/jDVFkYscpt+V32+bhRkc4daWW2y7XgXd5t54U8BorMQ==;7Bc0AtVi+OC1uPJwRZTSaw=="
 ---
 

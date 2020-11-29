@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-con
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-congratulations/index.html"
 type: article
 quality: 190
-heat: 790
+heat: 810
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125151119-01-biden-thanksgiving-remarks-1125-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden's lead in Dane County, Wisconsin, narrows by just 45 votes after recount"
+    excerpt: "President-elect Joe Biden's lead over President Donald Trump narrowed by 45 votes in Dane County, Wisconsin, as it certified its 2020 presidential general election results following a recount requested by the Trump campaign.\n    \n"
+    publishedDateTime: 2020-11-29T19:37:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YOgXrcCZYUQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-dane-county-wisconsin-recount/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-dane-county-wisconsin-recount/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/131017120746-03-joe-biden-1017-story-top.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Biden considering former campaign aides for top White House communications roles"
     excerpt: "Several women who worked on Joe Biden's campaign are being considered for top White House communications roles in the Biden-Harris administration, sources with knowledge of the deliberations tell CNN.\n    \n"

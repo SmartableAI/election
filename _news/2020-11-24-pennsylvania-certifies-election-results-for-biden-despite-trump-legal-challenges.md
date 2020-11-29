@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-certifies-election-res
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp"
 type: article
 quality: 200
-heat: 1940
+heat: 1960
 published: true
 
 provider:
@@ -764,6 +764,22 @@ related:
     quality: 171
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/551b764d-28cb-48cb-a00f-88ff0df252a7/ae07e1b9-4457-48af-9dc6-d5a6b141d76f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden still ahead as Wisconsin completes recount; certification deadline looms"
+    excerpt: "Wisconsin completed a partial recount Sunday, which added to President-elect Joe Biden's lead in the 2020 presidential election by an additional 87 votes ahead of Tuesday, when the state is set to certify results."
+    publishedDateTime: 2020-11-29T18:55:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CJ9Nl7R_6Lc/wisconsin-completes-recount-trump-biden-dane-milwaukee-counties"
+    ampWebUrl: "https://www.foxnews.com/politics/wisconsin-completes-recount-trump-biden-dane-milwaukee-counties.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-completes-recount-trump-biden-dane-milwaukee-counties.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a19c5cd3-3984-4e9c-b3a4-1edf67fa3b4f/85d956c8-d416-4ff1-aebc-ac9f56022513/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

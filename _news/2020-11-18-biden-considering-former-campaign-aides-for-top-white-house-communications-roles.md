@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's lead in Dane County, Wisconsin, narrows by just 45 votes after recount"
+    excerpt: "President-elect Joe Biden's lead over President Donald Trump narrowed by 45 votes in Dane County, Wisconsin, as it certified its 2020 presidential general election results following a recount requested by the Trump campaign.\n    \n"
+    publishedDateTime: 2020-11-29T19:37:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YOgXrcCZYUQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-dane-county-wisconsin-recount/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-dane-county-wisconsin-recount/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/131017120746-03-joe-biden-1017-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Biden picks loyal lieutenant to lead mission to restore US reputation on world stage"
     excerpt: "Antony Blinken, President-elect Joe Biden's pick for secretary of state, has worked with the former vice president for so long that one former State Department official said that \"it's difficult to know where one person's policy vision ends and the other's begins.\"\n    \n"
     publishedDateTime: 2020-11-24T00:33:49Z

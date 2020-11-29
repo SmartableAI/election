@@ -114,7 +114,7 @@ related:
   - title: "Wisconsin counties finish recounts, Biden's lead reconfirmed"
     excerpt: "The recount of presidential ballots in Wisconsin’s two largest counties finished on Sunday, confirming that Democratic President-elect Joe Biden defeated President Donald Trump in the key swing state by more than 20,"
     publishedDateTime: 2020-11-29T17:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN2890R2"
+    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin/wisconsin-counties-finish-recounts-bidens-lead-reconfirmed-idUSKBN2890R2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890R2"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890R2"
     type: article
@@ -384,6 +384,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/7811606583294/2020/1/cf33271cf4070f966585c8d3e536d871/v1.5/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Three major developments in President-elect Joe Biden's transition to the White House"
+    excerpt: "Since President-elect Joe Biden’s victory earlier this month, President Donald Trump has refused to concede and continues to make baseless claims of voter fraud –– pushing election lawsuit battles across the country,"
+    publishedDateTime: 2020-11-29T17:17:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/11/29/when-inauguration-joe-bidens-white-house-updates/6443749002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6443749002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6443749002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/62d96c6a-b6f3-4091-aacb-149110e7fa61-AP20324781057068.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "bK2wQzrg288ryygZiTLrvgVLl1BmcZu3xTfzWwVgR71+W2uA9zL4GRaZBT9oadmMuKOm7hFeiOq1T0uarSlR18cS8N4VMiAs1AwJZ6Y7m1HO+cRaRuEyRc/Chi+YdJuNM/RcCvMrXawaCxYzm9i79+1CuOy7N5ZIuSipfwENnQvOx2qT6CXP1XzxCTcucT25yRc07Du21KCewQoKEXvuXo0uBQbbLk5OY1fuGiGSvPjskjmWCZc1w3BqUXw/qGtlqaX0sT1+4VNXOtMQpVMddSOoFFU5lNgVCZmOV7VnkXLX1Rn2kVws64S0ULS2g4IUNSE1OTMBqBc+0DPAz9YqdXQ/bR/2dY4MISW0QOhpD2o=;yA0KO+eXCGjF8KNaTl8Tnw=="
