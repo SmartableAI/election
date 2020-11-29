@@ -2,21 +2,21 @@
 category: news
 title: "Ex-Trump campaign aide sues over Russia probe surveillance"
 excerpt: "A former Trump campaign associate who was the target of a secret surveillance warrant during the FBI’s Russia investigation says in a federal lawsuit that he was the victim of “unlawful spying.”"
-publishedDateTime: 2020-11-28T20:28:00Z
-originalUrl: "https://www.washingtonpost.com/politics/ex-trump-campaign-aide-sues-over-russia-probe-surveillance/2020/11/28/3c178abe-31b8-11eb-9dd6-2d0179981719_story.html"
-webUrl: "https://www.washingtonpost.com/politics/ex-trump-campaign-aide-sues-over-russia-probe-surveillance/2020/11/28/3c178abe-31b8-11eb-9dd6-2d0179981719_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/ex-trump-campaign-aide-sues-over-russia-probe-surveillance/2020/11/28/3c178abe-31b8-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ex-trump-campaign-aide-sues-over-russia-probe-surveillance/2020/11/28/3c178abe-31b8-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+publishedDateTime: 2020-11-28T22:12:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_4db4577615d342bf863d6a1b5ccf9ede_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -123,6 +123,6 @@ related:
       domain: businessinsider.com
     quality: 105
 
-secured: "T8/H5jqW8Zze1xnfSJLGvAvtSTEZ7VXGT7vqDOheC9c76+n+I05JyvcI6K8oK6tq/b/1h6ByN7r4ooIN9qlCgHrxjM5PeJ354JszTQiE94HtmTPcSzVLOycA22faatf460phbzzo14fwhZMMR2U1CkXq9lJmbS3R53Nm6FPcUNDFyGHE1W6sCadKFsIYRvXUxbw4dMUMpj//vNvjmcskgrMAQCaNuHitxa+Uu4MRsy03THviRa+DpIfv4W0gDTAL0QowozCMMnn1B7zQ6ZstyxV3SXCirs+5bGln6WR1CNcGZmgfF9x3YZNLew1SakEzKRtaqeNuk2pROM45qg04gkrgtrt8fJzmkc/pbUnmV1k=;avjdZ9zU2Ta/JBo9J/u5Pg=="
+secured: "0855q7hyi/5A0X6GA9AVFI8lmGZTqbTrKwyiiowTpgPi5ICjqUkZklYB7igd27cvwLUsuJ+HEE2/38LKmcTFlC2MITcDD//LJBEQlLsJXGOUW7QtxRP8Ja4XvI/i8hVkJmjLeRm+cMod7lzBCYxns7V/+XasElvzjf5j2OUsbqLfRjoVdLmcObLG7VClriJPEcut+e8Qqg5vrTfCRrxiAsZfhdv8J5pjK+w6+oHSryzVogLmwvCYOXgbyju7BIR+PS2iIrLhyDGMGOx4Sbjr4mW8OyE5uf9M1lhxDmGFcBGJw9R4pnj5rttgV9xaUJRs83hr2OjaaYvtqWmbmrQvkaBLlmzCzvJfamm1yxvW1y4=;XJx2vim6uqKvOG9CI/qRlw=="
 ---
 

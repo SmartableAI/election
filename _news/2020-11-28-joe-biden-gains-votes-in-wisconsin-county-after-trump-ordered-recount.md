@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden gains votes in Wisconsin county after Trump-ordered recount"
 excerpt: "Milwaukee recount, which cost Trump campaign $3m, boosts Democratic president-elect days before state must certify result"
 publishedDateTime: 2020-11-28T07:05:00Z
-originalUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
-webUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
+originalUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount?from=samsung_news_daily_card"
+webUrl: "https://www.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount?from=samsung_news_daily_card"
 ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/28/joe-biden-gains-votes-in-wisconsin-county-after-trump-ordered-recount"
 type: article
@@ -588,6 +588,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "POecC5TtSCfPFXgCJd0jThVPspc5yiVGCE0qTVEqa2fUnyGq/0/WTdgvlR2JWYsRAc+Ii8hdIcUL0Nq4UbfBH9KkfYxNs4yvxo3c7VX0dDIQkOzaLgkjcYafhiaMWTkdydP7k1Lbu1dHo8iSk4syh52xeeSCE7hEvz2bFa6JqGkxZuoT0igVnnxWyywoNvSWy4Y3JjbehuYwlBH+4rHxtf/PPErBmQKgQZw6Cs2SzdCLVa55lWpQIO+FQsAy9+z7NLEeXOyF2dziiJNJf+PfwWeFPpi0mFCGHCjVgcKrgKJqDNNx17TPnpp+UUd70x8BYDxpMtG6xMZuKABLDBNUFwr9CUAMa7tJRQLvptadXwI=;E1y8DYk1mdg9NwK6ISSzbQ=="
+secured: "ypqZkksst4S8dlgAqi686dCb2Pm+RPNacbEguyjWaA36lbBOVBhzB5g+r9dQ9H+jVHRqjryfYbS1H3ExyQkTvqZHAmIPgbkPiXPFSuLKlC3kISfTfEX6bn752yRK0bKs3PL4WS9fgogG9ixHRAM8HEcWWoRZYxcBrsfUVpCHDV+Tbnq9KaxCnA8H5NJ0CBZaqzQzWYSaZ6J7xMGafrsLrxbENt3e+UYVMwfBMXszzOz7b528c7yTS3oV3UDIvt3yq9PXeqdkA/T3250eZRNe8uxk75mHOxza8FT7rGY79vTcdT/9fSrh6HocFdjGKdU9+WGpA98P1HK/ykSurNQuXu/tzif6wAvMoExQwXRSXNs=;L9FwXOPB3tZUbGnYNQQ6gg=="
 ---
 

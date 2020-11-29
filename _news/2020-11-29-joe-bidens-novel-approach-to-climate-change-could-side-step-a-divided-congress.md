@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Joe Biden tamps down idea of nominating Elizabeth Warren, Bernie Sanders for Cabinet jobs"
-excerpt: "\"We already have significant representation among progressives in our administration, but there's nothing really off the table,\" Biden said."
-publishedDateTime: 2020-11-26T04:12:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2020/11/25/transition-biden-tamps-down-nomination-sanders-warren-cabinet/6423813002/"
-webUrl: "https://www.azcentral.com/story/news/politics/2020/11/25/transition-biden-tamps-down-nomination-sanders-warren-cabinet/6423813002/"
-ampWebUrl: "https://amp.azcentral.com/amp/6423813002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6423813002"
+title: "Joe Biden's Novel Approach to Climate Change Could Side-Step a Divided Congress"
+excerpt: "As the country burned and flooded, Joe Biden leaned into climate change more than any other general-election presidential contender in U.S. history. Now, even as he faces the possibility of a divided Congress,"
+publishedDateTime: 2020-11-28T23:01:00Z
+originalUrl: "https://time.com/5910008/joe-biden-climate-change-election/"
+webUrl: "https://time.com/5910008/joe-biden-climate-change-election/"
 type: article
-quality: 66
+quality: 101
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Time
+  domain: time.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/bacfa0f3-f1c4-465f-8bb6-c532c5f612f3-GTY_1194927451.JPG?auto=webp&crop=5374,3023,x0,y362&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://api.time.com/wp-content/uploads/2020/11/joe-biden-climate-03.jpg"
+    width: 2400
+    height: 1600
     isCached: true
 
 related:
@@ -75,21 +77,23 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden's Novel Approach to Climate Change Could Side-Step a Divided Congress"
-    excerpt: "As the country burned and flooded, Joe Biden leaned into climate change more than any other general-election presidential contender in U.S. history. Now, even as he faces the possibility of a divided Congress,"
-    publishedDateTime: 2020-11-28T23:01:00Z
-    webUrl: "https://time.com/5910008/joe-biden-climate-change-election/"
+  - title: "Joe Biden tamps down idea of nominating Elizabeth Warren, Bernie Sanders for Cabinet jobs"
+    excerpt: "\"We already have significant representation among progressives in our administration, but there's nothing really off the table,\" Biden said."
+    publishedDateTime: 2020-11-26T04:12:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/11/25/transition-biden-tamps-down-nomination-sanders-warren-cabinet/6423813002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6423813002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6423813002"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 101
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 66
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/joe-biden-climate-03.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/bacfa0f3-f1c4-465f-8bb6-c532c5f612f3-GTY_1194927451.JPG?auto=webp&crop=5374,3023,x0,y362&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
-secured: "XcP0KWdtMBIg+mZEHdbE5g7Pn4tvw3q5Z7ua4hxooH7Otiwx6ThOmmhWfHAYeo4DcbAZn6fdnZE9QPeHuHxO3Y1ZPS7QLfJ2fQq2SC9WwsiS9QtdgwYDqf1dn2d0qGZpgQuwVa6yyhH0W9nyOxd8EHnkTnJBki39xzQvgZg/UFbfCtRtSJDCLhUO6srozJly/4A7pvquCtWaFcU6bKwdSsof5muIhYgtsx4evchHNYO0xDl3f3v4eY5TmJRxvdBUPpXPd11al8RVXs+UqUjlmGX59fX7MMjMgBiGTrdVY/O9b7pIHnudKDUFANHiQ2YXbX6SL/u6Od31uToFHl6OwOS6JleGLoo6H/GFs2clhGU=;kO1mf17vKrh9hS8kyTOIVQ=="
+secured: "dZZbAewMW0r38kNztbEwEzvBONHJsx/bxvDYan9Vhmn9avxQB4IuPZTgMBf8VixlJ9ri16XGtcbHD//vJq0V6f7gBzBbU0DI3DY2YN2MqztEq/2fR2oQISPPdguXvHnXWpV7qU/7szrnEhLTqUjr8keLgaqa1N+KdQtWBA6sBqdgs2k4sG8EFZycT3X4nQs28P922P9a1RsGCJbezW4p/uDltLH/4VhET61VB3qSpIkwv4SBp578ZnwOsjtj89HkeyAJ5go6q4U5RKKEFEp58TCiKXMejfTeL8mcw3ejLBvdsZRtlSeIOaxHnlLBN4Pewf4XEU+LX8MJDPSV/CvAq5Wl9u4u8aQfS+5Ov4jBKGM=;BqHbBi+sVLJpCNoD5fsjPg=="
 ---
 

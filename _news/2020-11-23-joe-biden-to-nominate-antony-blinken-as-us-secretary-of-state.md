@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominat
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/920b6a85-b0ba-4fad-8081-a8faa3fa72aa-Yellen.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden's Novel Approach to Climate Change Could Side-Step a Divided Congress"
+    excerpt: "As the country burned and flooded, Joe Biden leaned into climate change more than any other general-election presidential contender in U.S. history. Now, even as he faces the possibility of a divided Congress,"
+    publishedDateTime: 2020-11-28T23:01:00Z
+    webUrl: "https://time.com/5910008/joe-biden-climate-change-election/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 101
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/joe-biden-climate-03.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Joe Biden tamps down idea of nominating Elizabeth Warren, Bernie Sanders for Cabinet jobs"
     excerpt: "\"We already have significant representation among progressives in our administration, but there's nothing really off the table,\" Biden said."

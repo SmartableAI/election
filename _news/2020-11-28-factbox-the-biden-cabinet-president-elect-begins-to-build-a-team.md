@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINL1N2I92JE"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL1N2I92JE"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/24/soundbiteus-president-elect-joe-biden-introduces-a-seasoned.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "President-elect Joe Biden gains over 100 votes after Milwaukee County recount"
+    excerpt: "Elect Joe Biden gained more than 100 more votes in Milwaukee County in a recount, adding to his lead. The Trump campaign submitted a recount petition and paid a $3 million fee to the Wisconsin Elections Commission for the partial recount of presidential election results ordered last week,"
+    publishedDateTime: 2020-11-28T19:36:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7811606583294/2020/1/cf33271cf4070f966585c8d3e536d871/v1.5/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount.jpg"
+        width: 800
+        height: 534
         isCached: true
 
 secured: "B+Eku5PXaMfh45Hf/rSeNbaaD/Qe+urN7owiQY4AZwpenBsNxyrme22BTO2YkoNy8yV2xsRaBlAYIxLiEnxT0ACGd9F90DvqE3kZHrmKlEVXXumzSw0hTJagrbqbozFcr6qRT0/yefpVyDdBJBdllpUG/ZxhllZ1YX4HSpEWOMn0YopTdu9yrGrcMDZmpAGCkswjhqjsfCbA9/FstvUNt9YtUOnAx2OJx0R/hVVE0dnr6dFdVymZEL1K9cLUiyEm6lca71HlAESF/pbu6yKcQwGj90+Z+ZMAKlkidvg1EmKT08u81YKmcm4LGUbz9dABHAGGGnYziYYlS6ejzL5Yi3N3uVBaQsxPjoop0EEvahc=;alsQxqzYRchOp46t4lyUEA=="

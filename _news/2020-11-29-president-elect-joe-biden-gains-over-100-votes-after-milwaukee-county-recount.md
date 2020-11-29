@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Explainer: What to expect from Biden's foreign policy"
-excerpt: "What to expect from Biden's foreign policy. Posted [NFA] The following are some of the policy issues that President-elect Joe Biden's foreign policy team face"
-publishedDateTime: 2020-11-26T15:10:00Z
-originalUrl: "https://www.reuters.com/video/watch/explainer-what-to-expect-from-bidens-for-id722389066?chan=6g5ka85"
-webUrl: "https://www.reuters.com/video/watch/explainer-what-to-expect-from-bidens-for-id722389066?chan=6g5ka85"
+title: "President-elect Joe Biden gains over 100 votes after Milwaukee County recount"
+excerpt: "Elect Joe Biden gained more than 100 more votes in Milwaukee County in a recount, adding to his lead. The Trump campaign submitted a recount petition and paid a $3 million fee to the Wisconsin Elections Commission for the partial recount of presidential election results ordered last week,"
+publishedDateTime: 2020-11-28T19:36:00Z
+originalUrl: "https://www.upi.com/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
+webUrl: "https://www.upi.com/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
+ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
+cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
 type: article
-quality: 105
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20201126&i=OVD67MCPR&r=OVD67MCPR&t=2"
-    width: 960
-    height: 540
+  - url: "https://cdnph.upi.com/sv/ph/og/upi/7811606583294/2020/1/cf33271cf4070f966585c8d3e536d871/v1.5/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount.jpg"
+    width: 800
+    height: 534
     isCached: true
 
 related:
@@ -61,6 +59,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Explainer: What to expect from Biden's foreign policy"
+    excerpt: "What to expect from Biden's foreign policy. Posted [NFA] The following are some of the policy issues that President-elect Joe Biden's foreign policy team face"
+    publishedDateTime: 2020-11-26T15:10:00Z
+    webUrl: "https://www.reuters.com/video/watch/explainer-what-to-expect-from-bidens-for-id722389066?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201126&i=OVD67MCPR&r=OVD67MCPR&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Joe Biden’s Plans To Carry Out Every Proposal On The LGBTQ Community’s List"
     excerpt: "President-elect Joe Biden just released his plans for the LGBTQ community and he wants to grant all of it's wishes."
     publishedDateTime: 2020-11-28T21:13:00Z
@@ -77,23 +89,7 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "President-elect Joe Biden gains over 100 votes after Milwaukee County recount"
-    excerpt: "Elect Joe Biden gained more than 100 more votes in Milwaukee County in a recount, adding to his lead. The Trump campaign submitted a recount petition and paid a $3 million fee to the Wisconsin Elections Commission for the partial recount of presidential election results ordered last week,"
-    publishedDateTime: 2020-11-28T19:36:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/7811606583294/2020/1/cf33271cf4070f966585c8d3e536d871/v1.5/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount.jpg"
-        width: 800
-        height: 534
-        isCached: true
 
-secured: "q1pIBaFnYrNDjhn27a31/iW3x+49/ULNAwcKpWW1afPBH97zQi6I05Y37OeFwp5R1vXSl7epYvmLN0jTUbscloS4I5oUuG8OBIv40vcGsEDt5jZB2cmXnJ0YQlgKIHD9yD4lQ7Afo2tNmzcWdLm3d0cJCEZNAgsEJzVBg3zdNnnW/AKvmdAXkHXrn+bUNtnWXYActaKMEGzC+49Yc/t0TldvuwV7ob1U7/Yd0gRmnlBrTXRlVXXj7IoTaTCpRf3vxxfyve1ZcS4sLFWzk3Ojma192meg8MBzMU0kcJo+Kdj1la9J+3nmzTbRewpdYsmxVCrcG9k8tUCI2bPB/SDAsdlrzoOxN/2vhlD2HkIySbvHanZnMxQYerQ3uDURNN8wdBnsmOdJO1OPer2Ssq666r7azx8z6TblkmYNUWsa6958ZoahnTyCnAaSMqmhaXlWzBsLd3UmkGlcZY1EmjMwoh4BrxBpwnjfgEgPEfrVpy0pYHap3QPkR3DiZFfYMNWVNP+Sc5hXyoRhscGqi6gAGA==;N9hGrnfM939EyfG2B8TfZw=="
+secured: "4w2lp102SHxKj6aUuW8+ufmSimganHdNbyORjNrOalX82+lMbGHx85CUyLasUvUzGnzPmBeVnav7YuUsCdCrtA3kHD4aQB/eaxvlQY+6oLhNmORvvA9Qo2TMrJOsthP1WJa+D9vYEmTBnYuKUp/R3IE+1o96sE+kGnpx7lj3UKlRoWAAD/oKSt2l4ASrhV1sKeScz9t3K0ilbYwc07AbIJ0ZECm41fD+d+VmQW9GGlEUMKZzl+Kmr9W8WYcjwzn79NPs1BE5gGPsfhhBlKZlLvG29J3irMF/QM2JpNLBjiQmqNwbxhtw00r587cTy8G74MSZVXn767hEhe7VEthO+ZcfHjqXfWYHOb+HON0ZY6E=;pDv67tXxEbP5jIZTle0Flw=="
 ---
 

@@ -77,6 +77,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "President-elect Joe Biden gains over 100 votes after Milwaukee County recount"
+    excerpt: "Elect Joe Biden gained more than 100 more votes in Milwaukee County in a recount, adding to his lead. The Trump campaign submitted a recount petition and paid a $3 million fee to the Wisconsin Elections Commission for the partial recount of presidential election results ordered last week,"
+    publishedDateTime: 2020-11-28T19:36:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7811606583294/2020/1/cf33271cf4070f966585c8d3e536d871/v1.5/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount.jpg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "mCAXRgZ/YAsYhF77yq1NP21v7/i/ULNUifUfN4Ha4ddugaWYBGAhSwKmFUuh64Cxcyw7ydM/l/Z0hdwftl4hyVmPlpcRFDP/bFQBqWbuymcSHa7hzOGcS0oCh2xc5mnFZR6D/Tm/e25W/qeoZg85fPGZ8Bl2qZk2PMja97MRpESWrxpR+dch/oLSF5/K1YcXSjWpdjC3+3kqLoTTYG3njAsOY9xX7ShiTfCcXCligysnwXMxt8JbEetWR7EXdjVi3xw+gPcK6wZewzJWashg7glRWhTRISCuZ9HYia8VM6jElyhnRASVR6vmYLbexPSDuQ2w59WeTOOzM1heAdnataKy5TkbmfeW64dEbe+1xUE=;susGQNKYiG72ZKtE95+ulQ=="
 ---

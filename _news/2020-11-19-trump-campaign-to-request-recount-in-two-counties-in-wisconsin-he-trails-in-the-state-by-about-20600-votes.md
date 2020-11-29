@@ -97,19 +97,19 @@ related:
         isCached: true
   - title: "Ex-Trump campaign aide sues over Russia probe surveillance"
     excerpt: "A former Trump campaign associate who was the target of a secret surveillance warrant during the FBI’s Russia investigation says in a federal lawsuit that he was the victim of “unlawful spying.”"
-    publishedDateTime: 2020-11-28T20:28:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ex-trump-campaign-aide-sues-over-russia-probe-surveillance/2020/11/28/3c178abe-31b8-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ex-trump-campaign-aide-sues-over-russia-probe-surveillance/2020/11/28/3c178abe-31b8-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ex-trump-campaign-aide-sues-over-russia-probe-surveillance/2020/11/28/3c178abe-31b8-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    publishedDateTime: 2020-11-28T22:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4db4577615d342bf863d6a1b5ccf9ede_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump pardons Flynn, taking direct aim at Russia probe"
     excerpt: "President Donald Trump pardoned former national security adviser Michael Flynn on Wednesday, taking direct aim in the final days of his administration at a Russia investigation that he has long insisted was motivated by political bias."
