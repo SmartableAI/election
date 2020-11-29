@@ -143,6 +143,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Trump's unverified voter fraud claims are impacting Georgia's Senate runoff"
+    excerpt: "Senate runoff in Georgia could determine which party controls the Senate in the Biden administration. As President Trump continues to launch baseless claims against the integrity of the 2020 election,"
+    publishedDateTime: 2020-11-29T09:33:00Z
+    webUrl: "https://www.cbsnews.com/video/how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/fd2cd95e-564f-447c-adb8-9b69b714dec7/thumbnail/1200x630/b7ca1f84f36f2bcfe83b5a597d6062bb/cbsn-fusion-how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff-thumbnail-597494-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "V0LD76zK4P3tEs6v0uIf1Reyq+3R3U+GMb5c2LakGWqhm4oDXUeqZnzmYGpMJdgMvnzCaYIaoLbL8NawcBfwhmzntPkwji3mEXPKz1b3qpaLR8Roc54bH0p4DbR2qgcamb3zbieicS5ahBwuyrBxgR/XduHWIeFhMXwqyxiRVCdwZWF20KAzR75R9RPps81/sYiFyUxiKh+ArN5lN1Fi8ToyFnj4mPrdeZm4YPVRdzLSIrUGT0m/Rq+RQNrZ6kspSU9jjlJq7+vny9XrOEzkkbwr2aQlXb3Txu4zP7tRnE172zH2w7FOmL6/uJdSLAZi4W9T1oI8MOwk5e6rbHP0tQwJMRBVvgSXqiKU+y5ztYY=;O7HZVEh0yoP/oeUqqgDJig=="
 ---

@@ -1,22 +1,20 @@
 ---
 category: news
-title: "For Trump advocate Sidney Powell, a playbook steeped in conspiracy theories"
-excerpt: "The appellate lawyer has emerged as a key voice on the far right, fueling skepticism that Joe Biden rightfully won presidential contests in key battleground states."
-publishedDateTime: 2020-11-28T22:39:00Z
-originalUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html"
-webUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+title: "How Trump's unverified voter fraud claims are impacting Georgia's Senate runoff"
+excerpt: "Senate runoff in Georgia could determine which party controls the Senate in the Biden administration. As President Trump continues to launch baseless claims against the integrity of the 2020 election,"
+publishedDateTime: 2020-11-29T09:33:00Z
+originalUrl: "https://www.cbsnews.com/video/how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff/"
+webUrl: "https://www.cbsnews.com/video/how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff/"
 type: article
-quality: 123
+quality: 101
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/fd2cd95e-564f-447c-adb8-9b69b714dec7/thumbnail/1200x630/b7ca1f84f36f2bcfe83b5a597d6062bb/cbsn-fusion-how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff-thumbnail-597494-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -62,6 +60,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/512e097/2147483647/strip/true/crop/3034x1982+0+21/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F66%2F110684d9467c885e9125a53f9c39%2Fap20325745047715.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "For Trump advocate Sidney Powell, a playbook steeped in conspiracy theories"
+    excerpt: "The appellate lawyer has emerged as a key voice on the far right, fueling skepticism that Joe Biden rightfully won presidential contests in key battleground states."
+    publishedDateTime: 2020-11-28T22:39:00Z
+    webUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Justice Dept. meets Trump, Giuliani vote-fraud claims with silent skepticism"
     excerpt: "The Justice Department has met President Trump’s fantastical claims of widespread voter fraud with two weeks of skeptical silence, not taking any overt moves to investigate what Trump’s lawyer, Rudolph W."
@@ -143,21 +157,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Trump's unverified voter fraud claims are impacting Georgia's Senate runoff"
-    excerpt: "Senate runoff in Georgia could determine which party controls the Senate in the Biden administration. As President Trump continues to launch baseless claims against the integrity of the 2020 election,"
-    publishedDateTime: 2020-11-29T09:33:00Z
-    webUrl: "https://www.cbsnews.com/video/how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 101
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/fd2cd95e-564f-447c-adb8-9b69b714dec7/thumbnail/1200x630/b7ca1f84f36f2bcfe83b5a597d6062bb/cbsn-fusion-how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff-thumbnail-597494-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "qdPoZI4lEj5thYw+saCgd+xknapwPj8/08BBTD1srdt3Ms2kWo3BxqvD/0M4XgHvMcMLQesP1JNiCB96bfvklApVH1XkJfXSRv+ZoeQ/oyCL9Pynk3nE/FHAdJdr48yQSGpjWs57uUKB5x3rK5yRCQz63ld2r/0rYzzsgp8ja0TEit1eac5KtvglooR8bBhBwyXukJ2W0eQNXrHqpJgvwxHLQHXjJRbrQ/E4lUoyduS8rvhYDjfPfTAYEtvM4TecSDO+Nf6jTZWs+B5soaE6SKb1eD3bEHVy4Gk4B8z8SF+cfoRJByeB8DLnn7qd5f0X7tW8if4SklaF3Jyh785M9cZLwKyJaUoBgNTKQ5ALxg7xSO1dSIMUDNd5PTexN5PlKXrsbrwrMGCKMPhiADGTzjogihZPLr+MiH8wX2mhLrRayCsxdhRJq629qLC933Ni8vJ/EBNWaag/QB8jdWuZfPYm60tdLGFQ/surNmbRVcp/ErK8gB7TlzSlCOz+OUF1BS0WCX7MN6v7R+MYtuPyWw==;v2LeIcDry7Fih3CN/GlizA=="
+secured: "bqIS97kMxvd8qc/Ol48168E/SNLwkcNiSSyNFh+zK+xgq9CKRaWHHX8WqeOeYJ2mbYZXPUMpMT/SGETa7mIWLCqJM1rF1YXJYG+1RV6ogeWqITkxcWwf8m6dXEiVZl3dRtuOBzsEPNeRBi3leUhB5ootPQwX8auAlen0Z3LpgewgY8iqtN7mzPOT0wcyYCChepVECcI5lECZWV+B/gkALbZxVIAkavwBWEbqHfHOkDy1fxbJlc6+IqLrKW+ij0F6/rbpUu+lvyRwFRDjGsjD/H+H50mQ0t8AYOdBEZaOFiu93ckHV90WOUcnEEVFkn9Rp9JaPakOpFmiAknhU2XevQIf1AfsBe7BOZUrJI6OnmQ=;fafeDn1StC7HDe5V+emkWg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/rep-michael-waltz-biden-cabinet-pic
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-michael-waltz-biden-cabinet-picks-obama-foreign-policy.amp"
 type: article
 quality: 161
-heat: 181
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris: Biden Cabinet Nominees Have \"Unwavering Belief In America's Ideals\""
-    excerpt: "Elect Joe Biden's announcement of diplomatic and foreign policy cabinet picks on Tuesday. VICE PRESIDENT-ELECT KAMALA HARRIS: President-Elect Biden and I have long known that when we were elected we would inherit a series of unprecedented challenges upon walking into the White House."
-    publishedDateTime: 2020-11-24T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/24/kamala_harris_biden_cabinet_nominees_have_unwavering_belief_in_americas_ideals.html"
+  - title: "Rep. Elissa Slotkin of Michigan reportedly eyed as Biden's CIA director"
+    excerpt: "U.S. Rep. Elissa Slotkin of Michigan is reportedly among those under consideration to head the CIA in President-elect Joe Biden's administration."
+    publishedDateTime: 2020-11-29T09:54:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ghmE6evmVmk/rep-elissa-slotkin-of-michigan-reportedly-eyed-as-bidens-cia-director"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-elissa-slotkin-of-michigan-reportedly-eyed-as-bidens-cia-director.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elissa-slotkin-of-michigan-reportedly-eyed-as-bidens-cia-director.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 74
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://assets.realclear.com/images/52/528073.jpg"
-        width: 946
-        height: 708
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1189038820.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Exclusive: Former CIA station chief Darrell Blocker floated to lead agency under Biden, source says"
+    excerpt: "EXCLUSIVE: While President-elect Joe Biden has yet to announce his pick for CIA director, an array of names has been highlighted, and among them is Darrell M. Blocker -- one of the highest-serving persons of color to have served in the clandestine service, Fox News has learned."
+    publishedDateTime: 2020-11-27T17:37:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZqbN5nL4JEs/exclusive-darrel-blocker-biden-cia"
+    ampWebUrl: "https://www.foxnews.com/politics/exclusive-darrel-blocker-biden-cia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/exclusive-darrel-blocker-biden-cia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "dmZv2p9/zEclBpMgN8+jq44FebGpQjd0xUVmSA0anlmZyGfeBbYZErwJth6PWSUaPn25yLLWn31yjdS41pKxNOUqOF/b/TrlAmCGf2DODvcS9+3+hCQ2xXwytpZt3T+BwsqdaDAm9SZg4o13F3ndevAehJhuE6DjpNEwsJkxTMcHvZw0ZCC5HfRzzRd6tLnFnMsy7FlJUwr9Ynr2ERu8c3ZP8s0ZpMCqsT3bPVr2vktFyfrbYiHiYfKso+FTUtQRz0i0P3oHuRGfJd8Oq92r+2ktXZf5zeTFA2hGcI+L5MJ9fz1sEZdPQ1C0+v5qCKqW3aDmkPF1cFq/MHw8ZQxMJaoUV8JcmlQGM/P2luWkyCg=;ZGHOcxXm35nRPNhESL/Btg=="

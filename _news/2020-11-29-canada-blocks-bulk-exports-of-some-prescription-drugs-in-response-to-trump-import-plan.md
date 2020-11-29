@@ -3,10 +3,10 @@ category: news
 title: "Canada blocks bulk exports of some prescription drugs in response to Trump import plan"
 excerpt: "Canada on Saturday blocked bulk exports of prescription drugs if they would create a shortage at home, in response to outgoing U.S. President Donald Trump's efforts to allow imports from Canada to lower some drug prices for Americans."
 publishedDateTime: 2020-11-29T00:49:00Z
-originalUrl: "https://www.reuters.com/article/usa-healthcare-canada-idUSKBN2880RJ"
-webUrl: "https://www.reuters.com/article/usa-healthcare-canada-idUSKBN2880RJ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2880RJ"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2880RJ"
+originalUrl: "https://www.reuters.com/article/usa-healthcare-canada-idCAKBN2880RJ"
+webUrl: "https://www.reuters.com/article/usa-healthcare-canada-idCAKBN2880RJ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2880RJ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2880RJ"
 type: article
 quality: 117
 heat: 117
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "N7hctmSrC5nisXpt0qyuwD2eugC7wUZItgDfJEs0VB0g4vTrKl4wJpCAB6V2ObUziWE1NhObnqu1tpFcTVeX25EKpE/8vS2fvt4uGI/PQYwlgMmKsd+SWUx2Q9pfPLWOFZQfk472/DKfBRrRzHzAtM9zBeNXyoC4Gr60bC31f/fMqWprOGX31vEXCqBErjZ+JsEfrq5ihDPah6cmq4q147hpVRJn0HOlKt8UezBVaCZ5M2nIcMgb1qswO6dP+fcsW5MTo5zHHOHLtRsT0UUd28OfCg9JVf2rB8FsB/VK89YSAgfWgBk5s46oSQGOKdy4HEVFE2pHCAcfMG2XpjoCI4lvGpJ7P7McY2zjF1kL1lAUKp3QyI4fkD6/+xgVcIAsxmY8A7EEU5Az1PUO3aNiME1WKXBgLbEHok18BxzNXfH0/6tb7MHwTq/U+pn5WT5qVjtg5JtXvqah3Snrz8mu6T9c+fc9P8dqEcBDUNgJlqAvjyMeDaCFQFeHt9l61TnVvrDr53+6q34iGRk+a3P0/A==;EoE1wah+vTak2j/TVJd1cA=="
+secured: "xf9PbC13VHtjLPG+VE9O5Thdmm5SzUABeeMtCCNOt2Vvh2zTCWzNuH7O//+7M5T2uLviJtWE6l/y8Gv2+UrH8mY5zP76WTMkDRK8r3N52POzNRIUsp7HmVrTK+npgKI8FnW/642R7w6OPVIHd/EU8U3Cdvp8N2xt9kuIW56NX+jXBUvB+CiSthggzi/2NyEWD5mLcsyIONdp5tN56e6DkmIrxVLvqIzxuqV+DIHYJ8rd964tUOtRJ6brab2J66VIpk/g/mqKhkuFvNvb37QKvvCKM4fcQazEMeIawqiV/h83UhDskm6geDuUyA24Kz3h5tNQzMn+AV87nqo14CgXwshDuUtl/IyC/baMpx+dGtI=;JQNe2ZQ0fDcWHRtXPbwPNQ=="
 ---
 

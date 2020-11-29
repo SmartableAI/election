@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2820UB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820UB"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/21/PMJS/f177309e-811b-46d6-b7f4-2da8cebb9b00-RECOUNT_05318.JPG?auto=webp&crop=3899,2194,x0,y207&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How Trump's unverified voter fraud claims are impacting Georgia's Senate runoff"
+    excerpt: "Senate runoff in Georgia could determine which party controls the Senate in the Biden administration. As President Trump continues to launch baseless claims against the integrity of the 2020 election,"
+    publishedDateTime: 2020-11-29T09:33:00Z
+    webUrl: "https://www.cbsnews.com/video/how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/fd2cd95e-564f-447c-adb8-9b69b714dec7/thumbnail/1200x630/b7ca1f84f36f2bcfe83b5a597d6062bb/cbsn-fusion-how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff-thumbnail-597494-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "O+WC0PcmCN/2a4wyckF4pwomR6gjZvB5Q0gBqW8kNNM9Wc3/3EhxEx+qKpKyKoENxLhc0awTZO7NQ+VdfvcE+htPegUXDvFZIizbya7Qh6NQNLPGztqOeo8/5YSeyasP9K7WCeFSgJAIZ+QeqY9u9LC3lS6dlUq1vS8Cjlv/r/ZxHNcNYLs6gXSZWsDplWGnDFkxOzdpVmeuF0RsmplY9+2IWkPLq7T+kAtKY5BlknE1KNatJxcMJN/+JzwQOT26j6Wx34d0TrbEzWyFEVdH2HX0zL6+odWV6UPzSWDVb/71lo26vhRG//Eo2osO9zhbNZmrwSiSlkZsE9FBg6agbkbTsCMWkL72yUGGHmbjozP0oDiY0RoO2oN4521b/AsguZuPTO/S38YGO8eRel8YPchY+E+ucVoEULnTsYDYbEAl/W95P6ES7RhMxlzcsm6cIkMESF3g9XeB5yfi1Xyrpgvuu1vKAZ0XovghA3XXD5iK3WasZuB/9XsjDpcoKvWqUKmObbycq6Ki9QYxMd33dw==;5EafIAuxS7RUUeaC9ZugPQ=="

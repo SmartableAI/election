@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's legal defeats pile up while his attacks on Georgia's election system raise GOP concerns"
+    excerpt: "President Donald Trump is pushing contradictory messages about Georgia, calling the state's election system fraudulent at the same time he is urging his supporters to turn out for Republican Sens. Kelly Loeffler and David Perdue in twin runoff races that will determine control of the US Senate."
+    publishedDateTime: 2020-11-28T21:00:00Z
+    webUrl: "https://www.cnn.com/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 138
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "bJLVmG4S6n6Pr8VUbdNlF+RAA/oRRinnD+YIMVLFMsWHWUl8r21d+N1BhzX8qhV9dyTfoyQHSXk3PWudUQMcQY/bRKP3y28MCQTglnBnkhdI8hPMfTIyubcRs6b059zd3TtDShRF27yHf/qjTtCcIYAqMCAohRBrZ9EV9CFrDbtFhXjRC6TXM7qnWKukzETpmACZ48s38qH4UNvkyoA0L0nxA4FaUl9UoEyLZt0mTU96YztFixHO9EqJs7bb+fgeJfSG+p8pWi0c8q8fL4u9BO6Z89jUS3mFyV1YNOmslAnFl3+4GxHd8IHQV8TiMn5QaPKDXNFwS2kAcprCNcu/RsdoyZvPKMUcwqY0udAOZo0=;J280tyb2Mpk+gmRCZn9qlg=="
 ---
