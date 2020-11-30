@@ -715,6 +715,22 @@ related:
         width: 853
         height: 545
         isCached: true
+  - title: "Biden identifies more administration officials, Trump vows continued election fight"
+    excerpt: "President-elect Joe Biden chose more senior aides to lead his administration's efforts to defeat the coronavirus and rebuild the U.S. economy, and his office confirmed on Sunday he would begin receiving classified briefings that are an essential step toward taking"
+    publishedDateTime: 2020-11-30T06:23:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idINKBN2890NW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2890NW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2890NW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 149
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542849124&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT02Y"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Election 2020 live updates: Trump, Biden racing toward Election Day with more rallies"
     excerpt: "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more rallies and concerts on Sunday."
     publishedDateTime: 2020-10-25T13:37:00Z

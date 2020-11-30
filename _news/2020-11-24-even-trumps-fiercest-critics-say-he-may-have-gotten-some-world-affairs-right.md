@@ -33,10 +33,10 @@ images:
 related:
   - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
     excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus"
-    publishedDateTime: 2020-11-29T22:28:00Z
-    webUrl: "https://www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/29/2c63d476-3292-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/29/2c63d476-3292-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/29/2c63d476-3292-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    publishedDateTime: 2020-11-30T05:34:00Z
+    webUrl: "https://www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/30/b1cbfd06-32cd-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/30/b1cbfd06-32cd-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/30/b1cbfd06-32cd-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -78,6 +78,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542487310&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP00M"
         width: 817
         height: 545
+        isCached: true
+  - title: "A Pennsylvania state lawmaker reportedly received the results of his positive COVID-19 test during a meeting with Trump"
+    excerpt: "All participants at the meeting took COVID-19 tests, but the positive results were not announced until they were in the White House, a source said."
+    publishedDateTime: 2020-11-30T06:44:00Z
+    webUrl: "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5fc48f9f50e71a0011557e18?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "‘Mini desk. Tiny hands. Small soul’: Trump mocked for giving speech at little table"
     excerpt: "DiaperDon trends on Twitter after outgoing president’s furniture steals limelight"

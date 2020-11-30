@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Trump questions whether Supreme Court would hear election challenge as options dwindle"
-excerpt: "President Donald Trump questioned on Sunday whether the Supreme Court would ever hear a case airing his unproven allegations of widespread election fraud as more U.S. Republicans said a transition to a Joe Biden presidency looked inevitable."
-publishedDateTime: 2020-11-30T03:19:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN2890NP"
-webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN2890NP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2890NP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2890NP"
+excerpt: "President Donald Trump on Sunday questioned whether the Supreme Court would ever hear a case airing his unproven allegations of widespread election fraud as senior U.S. Republicans said a transition to a Joe Biden presidency looked inevitable."
+publishedDateTime: 2020-11-30T02:21:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN2890NP"
+webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN2890NP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2890NP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2890NP"
 type: article
 quality: 132
 heat: -1
@@ -478,6 +478,6 @@ related:
       domain: abcnews.go.com
     quality: 85
 
-secured: "82pTE4xRUdHv11saJZONkdEmCF4A7om3WLsq0i3Y4VqHED0NVj4NltCP/0yUHLTvdbKS+II5/drKLE4/uZdzavDu/R0UMEn2c/Agvnsuz9ywvUHNi0Pe/gy2k70Vc198QIrwTq2WTV25AF/cP7NNBU5jQJ/Eik3TuzrVDP79WcFj0hpPF84bP87HLzfyOaGqCUJYH5FKBUO0vcTuK1F6mYaY9PnZQapggGDiXRCIO/6g2wcWieKFhnzvyntKAhZoEW0wOrPUsT4fNor6R189e5dzT8K9Fsg8WHXecEwZAPJFPZp7+LMwBpZdsi2LqId8jnMDo54+Z11xwOWmBC3K674HkCjuNe8T5Wqmhkbqrp4=;zFWjvme7oZGF6l8HqiPiSw=="
+secured: "DUI4iFEzm7pqY6+LYBlP7rPuMv2LFVLTOTCInttIRg7bl9ngyw7u6PLYt4VtAlDwmk4HlxN00TRpLRC75N5Y+4opZCvXTISfCuz83reVmsoumHpD/93a41WMyHUkzyLPJerABSXjL0IK9CNp4fiObsJ220wLXoTSrE3SGywlsJzQWLAVSAHOtC0HzbmJsNElraIrXT+8sOb8VPBneN1gYtnBfdqgM1429ld/plDFVUwL+IZIp5WDy+RenxDHNEcRVw43kgmyOFyVYDljEiJcoQpYKebRXudCPuuedFXr+4fF+b1GGKB1c7yO087yO37x2r0J+iUZKzFv++lRir7rCNToGfHFqCzV+PhcDYyU4ro=;HgaC4y9NoV803GgaNDvHdg=="
 ---
 

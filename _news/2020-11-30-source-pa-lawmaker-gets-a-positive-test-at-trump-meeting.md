@@ -2,14 +2,14 @@
 category: news
 title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
 excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus"
-publishedDateTime: 2020-11-29T22:28:00Z
-originalUrl: "https://www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/29/2c63d476-3292-11eb-9699-00d311f13d2d_story.html"
-webUrl: "https://www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/29/2c63d476-3292-11eb-9699-00d311f13d2d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/29/2c63d476-3292-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/29/2c63d476-3292-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+publishedDateTime: 2020-11-30T05:34:00Z
+originalUrl: "https://www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/30/b1cbfd06-32cd-11eb-9699-00d311f13d2d_story.html"
+webUrl: "https://www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/30/b1cbfd06-32cd-11eb-9699-00d311f13d2d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/30/b1cbfd06-32cd-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/30/b1cbfd06-32cd-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "A Pennsylvania state lawmaker reportedly received the results of his positive COVID-19 test during a meeting with Trump"
+    excerpt: "All participants at the meeting took COVID-19 tests, but the positive results were not announced until they were in the White House, a source said."
+    publishedDateTime: 2020-11-30T06:44:00Z
+    webUrl: "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5fc48f9f50e71a0011557e18?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "‘Mini desk. Tiny hands. Small soul’: Trump mocked for giving speech at little table"
     excerpt: "DiaperDon trends on Twitter after outgoing president’s furniture steals limelight"
     publishedDateTime: 2020-11-27T20:07:00Z
@@ -107,6 +123,6 @@ related:
         height: 600
         isCached: true
 
-secured: "qR3RWvrhUYBTG2C3Po/y9uG86FpNC9KLxYz51oheOFS23t9Mr7mhpGaPVw6Gqf9ddV8zTkeG5uIYa3kn0ytAzopnOchkGl7v5SyIpjGewzFPhv2daaCTQBCPIWg9wMkUUKb2pS8D5maaESWjfKsgMvfpYlRR3kdQOfhP4ON8w9grgNXqU81u9W+42BMPglRdvjhkXSPAd+YGfBuy9kC+C7Z0CLl57riIsi3ElJRKOD3v1mOflO5uiu0KUJxqHJciFSRySCBon6foN96y7lxAKYcdcoGBkp2T2sdTAZHMlzmqpEddWzsvcZwbyltCaB+c6BIn27bkC1rBwN5k8n+6UIzsMRCX0RxhwI53iHicgaQ=;NWp8g9VL1Mqpl1SABuutvQ=="
+secured: "TgZaeMaLCYrylCuag7o+qyCTTTTbH0w1XP1w+0ez3gS/3Y59jUaxLFUpEwvvkgrP1YC0R01Pu/2noY77eF500hWUvYDuZ1yl6pXTq5w+6oAMPeZpZGPnCy2cqe+bnH4iRm5bMbmxE8bzsbFJS+YxIQaRTEqsgOHccDYkp3m+J+qpIrg8orWz5kyCpnffA6EpbClxT1V26xId7WQMNziHm6H1ocakT6iavC76FK9YGPvOAdwOcdYbIWhcTIyJw3QCnWQq6HLftaP8NUnNvvUOsoKI+q1XHSNkQPvD2BZ+rtTwp4voHDuVt6SIdMl69KqjvJmJqn5BOTwz402+8bGLM20p03NmWVwCzrqZLyKPGoo=;V9jHBfAO97aR17Mlt/6Q8w=="
 ---
 
