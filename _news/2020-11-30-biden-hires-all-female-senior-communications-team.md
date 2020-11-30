@@ -63,22 +63,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden chooses an all-female senior White House press team"
-    excerpt: "President-elect Joe Biden will have an all-female communications team at his White House, led by campaign communications director Kate Bedingfield."
-    publishedDateTime: 2020-11-29T22:51:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-11-29/biden-chooses-an-all-female-senior-white-house-press-team"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-29/biden-chooses-an-all-female-senior-white-house-press-team?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-29/biden-chooses-an-all-female-senior-white-house-press-team?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/d0905f2/2147483647/strip/true/crop/4902x3202+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F44%2Fe0%2Fb14d08af4c349b87fafc63e086ec%2Felection-2020-wisconsin-recount-84374.jpg"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Biden sprains ankle while playing with his dog Major, office says"
     excerpt: "The president-elect was walking his dog Major on Saturday when he twisted his ankle, the transition team said."
     publishedDateTime: 2020-11-29T23:18:00Z
@@ -160,6 +144,6 @@ related:
         height: 675
         isCached: true
 
-secured: "w7gESa4WWjjBXvJYbmVSP/xkmZA2uHSts72g/fIaarDvTHAd5ZQEyNbPzXejORCXF7MJjvCj86j5lMAppqX44+v9qwVOiJF5l93xMuofxXkIkw28grk1y/MN8ng/M2FFBvdIYI68IEH9tGcplBG4AyZPFxiXiN/jEz5ZRTvqsn0omF2BzBcSQ+PxFBi6RLUrR5X5GzSbdu15cfqj0WPVkMOV8cYTeQw3vi7CB5sfkP/Rj4AO152ABsda2rRx/ikscXzUUfQSt25S9lJWDuehGwq/Z4yHuh24tDF062pYRcgcsDpggdDbyAA3sEUeTw/+thpxY6017MOuzJD8V+SNqCPWjENzNiUYL+RqmIWftDo=;8P6XTwNuM9gPRKZudK4Bcg=="
+secured: "vtBw3YQLd/HYLC8ioG8pXNi3WsSbXYNuLXFQB1+cB+nF7n443gDRZcay+mXDhU1aS3LYeYM1XgOFfv0xLW71+IhyT9wBRixIZJGSz92xvabai7ezIJ63uTlYIWe0cw0zL2EO2Cu23vpLPLiXo+zraM5guEUD2k/p7sOzRXZn3IfO1zrP9l/5B1pO9obMQb9sENTSJdCPQ5V0Y/Hsqe+y56QjCZ9tM22uHd4rwOzYyIRCXnnnhB+5nytAkpcijZu3AF0LPrwUR6tzdtMk3wPd06QYonEEGgg200ANUSTByhO3VaRbCuql5zF/m41phPrSvhKd0EOXdlEFu1r6YyH3DtFzqpdIdn3L6nvzW7d7Q2U+UtQuVGtXS6/o6irGxJJCP+PaKZ01KrMGSHlI0FbvGfn4evj0Drjo+qNAsLItuP68ciMMd4sUYzxZNfh/ykNi5M0605fvXgSmJiGIDmrr08EnlLviWdkQTwc8BvFsszcODKorp1YB6E0j4Lh4iv9CBLwM3l2zLCy37JVOn1ZAWQ==;Zqg/nk1eJiWPT5baz3Gwyw=="
 ---
 

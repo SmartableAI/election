@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump 'ashamed' to have endorsed Republican Georgia governor"
+    excerpt: "President Donald Trump said Sunday he was “ashamed” for endorsing the Republican governor of Georgia after he lost in the state to Democrat Joe Biden"
+    publishedDateTime: 2020-11-29T21:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9517c546180741c3a92a1a18459fb0a1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "8+XnhIqe8OxyEn+T5WNUvTK4RfMnPlnT/PXwJrnXUbufoJ/15l5oQIOw8dgYSaF4LahKB+Asb9wiskRQUdZBYn5W1Q7TxIrtdelKa6wVpQ55zKRRL9U9dgm5Ep97npMHGnjWp9bKmvY8JoKQ5L1CcnFO5i+bI18RzobiXAGPamtFNYVveo0YcIkP+M1icmuHjcjJsGZYOZjB4utVScrvszBGBjZHhVp/0nrXP7K7VL5MxpWevHqetGKwgcb1nIc7AtdIyzZ6NpL9p+3Zb3It5VK54PyuoHX9djgvRGyaPRrl8FkJYyoiGzVu+uP2D32RqAbtiDJDbdliBmUxpq2b0O6UFuec08qTsX1//LkhZ4rjOfo7LfZ0N9yywi4RPZNTdpkVDUk4skhocL/j8Vm36siphUrdbtVJ7On4CDJk79L8+OuH15tMknCR059dSgzWWi4CfFdDWgm/Ga9Ye98bnNi4aN8mTwdFdptmSNKK09iLAW2XhlmuvvYuLB6jf2T+2zrz6jlGCAD8suzlfDdiCQ==;Y0QXjM+vAE1k/iH4AXGQDg=="
 ---

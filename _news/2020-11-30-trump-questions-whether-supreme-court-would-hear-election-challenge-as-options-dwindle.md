@@ -2,11 +2,11 @@
 category: news
 title: "Trump questions whether Supreme Court would hear election challenge as options dwindle"
 excerpt: "President Donald Trump on Sunday questioned whether the Supreme Court would ever hear a case airing his unproven allegations of widespread election fraud as senior U.S. Republicans said a transition to a Joe Biden presidency looked inevitable."
-publishedDateTime: 2020-11-29T21:36:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-idINKBN2890NW"
-webUrl: "https://www.reuters.com/article/usa-election-idINKBN2890NW"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2890NW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2890NW"
+publishedDateTime: 2020-11-30T02:21:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN2890NP"
+webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN2890NP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2890NP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2890NP"
 type: article
 quality: 132
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542833015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0M4"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542849124&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT02Y"
     width: 817
     height: 545
     isCached: true
@@ -462,6 +462,6 @@ related:
       domain: abcnews.go.com
     quality: 85
 
-secured: "WxZIba23biv9YDSy0WDURv1dR+BMwkdF4p+/JrqZJkXSLpiHghGEnhuav/G9Oe1ZlmSJOYzizh3sbtJx4oMDCO9RKsH3W4VE67S+99Vp9DkM//wxAytRrpm8cFVEzy/1Y1ddPahHIWBz3m6Vmk4dY4sUkpQU4Lf79+rXBRP/NC23A4I0+qZU8dVTSxkMr4UnbIj591FdMNbZ7yFWgxPdL6zjL/dd1b0PUFtoC2Io/s+C73ng5N1ddVuHJEON/jGKM+8qKPwBw0dDz0aS1o5TRQZZYNF4pEEg89atDFhhdmWfagLD9TuFqbLhe1cvh4taC1klCMvlfgmUa/N2HGjymtqfIynDNC5p7fLdY9iKWDD2Vm34RFJms90wcGYSvGVz8ZnPSH3T5/YP1NtFBH8C34Dt0oVhHdBQxypOiK81FRq1btyIGrJE+pXbijJXHr+oXJK9F/s5lAWNOH/CUjDrY5zC7BeKEDn2MWKp42TuV2o5T3OJVf399Z47iEGyuJCTnXBZOR4JaLTGTTpubQl+Xg==;PDnDGd+x52Vac2lLvBvzoQ=="
+secured: "5NGmp+3RQHHmDqPEwQd4hK/abkjcn4B3fWmr3Ibkzf4/1GnFWLsV4kECMVMvrcOocyklwzBleWX6HMLfAQ4VWTl5yrPS3W/+pucWYinKrp6P//eET6XnHDDp6GtUPf5WP1DHCuyETfsljrnq1KZQm0XaKgS6HqbuKAPAxJpfskg4e4p7xV6riWJbZni8BWnd7T9ptZ3pX9sslbJfVsgo8S+rbGPHJEq36K5/yMy0rH3mZwb9mSv/gq30nFeewlr1D3yYCXv85CeGj919M9XUs7E2jCht3lmEhP/dEbMUdgE1MeWMXnmg4mXTQqyjcnn4iJ9m5MSl7QOJA0hl/5cBnSMAgpqsr0beKF6JIhbSV/M=;WW3NW1Lg5EvU+tMapaSQ6Q=="
 ---
 

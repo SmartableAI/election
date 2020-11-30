@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-emphasizes-his-foreign-policy
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dcc4a60-2e7a-4b21-82e5-908af45fef71/4b4cac47-c6f6-44a1-b6cc-278017292d33/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden chooses an all-female senior White House press team"
+    excerpt: "President-elect Joe Biden will have an all-female senior communications team at his White House, led by campaign communications director Kate Bedingfield."
+    publishedDateTime: 2020-11-30T00:56:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8TTcynz6e80/biden-chooses-an-all-female-senior-white-house-press-team"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-chooses-an-all-female-senior-white-house-press-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chooses-an-all-female-senior-white-house-press-team.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20334841172795.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden mum on defense secretary pick as progressives push against top contender Flournoy"
     excerpt: "As President-elect Joe Biden announced the core of his incoming national security team on Monday, he withheld one key name: his pick for defense secretary. "

@@ -113,17 +113,17 @@ related:
         isCached: true
   - title: "Trump questions whether Supreme Court would hear election challenge as options dwindle"
     excerpt: "President Donald Trump on Sunday questioned whether the Supreme Court would ever hear a case airing his unproven allegations of widespread election fraud as senior U.S. Republicans said a transition to a Joe Biden presidency looked inevitable."
-    publishedDateTime: 2020-11-29T21:36:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-idINKBN2890NW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2890NW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2890NW"
+    publishedDateTime: 2020-11-30T02:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN2890NP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2890NP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2890NP"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 132
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542833015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0M4"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542849124&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT02Y"
         width: 817
         height: 545
         isCached: true
@@ -462,6 +462,6 @@ related:
       domain: abcnews.go.com
     quality: 85
 
-secured: "yVDerOhS/vqElVC8IzgPFfA00/zSdFzCAAK8lmDglSrUtX123IZX6C8nWlbIs/5PAPQC5dYr/G/r/3E/kfxK0pR36NE+IilVB9CDpI8Mklw4ZHd8rd7EDgF/5MWcjHl4xBO0vGsx6tc11qVwD7HK7SiwA5nPsNxUy8nv5Cv7nsVKfbX4OZ5btkK9opulzcQji7e6qF3JelzPYuvW+2iM4IqVCMcUZUgSCggEN165hCkBzfIZl2FIRVppjeWc7qwIt2IwWhp4k6CRdBhOQ4kuUiX6tayLi/ULZHy3FEc62KXaXZzb/EhFdEHjHLcT8pwC+dXeD6vPDjxUd4o9KxW20vhlHE2oyEeO1gb5ZhIEhhQ=;pBgQc9bio1B4MFhJVfExEQ=="
+secured: "L+wLg3MBrE9HW5bmqfnt153oEjils2mNyLYGkfn4fGDwYI+kJCC0B8L8ark90Aua8mN/qzzEq3EwpljCQnrDZ1v1vN80EeKBU3RTYZSkC2FGlTFfa/SPDbIBzqfUt43NGx6iVtzQCjS6wYszvZakuUslpn2aliOchs3NVkrbl54Jpc46gUMCqnDA3lh8TCA/mWUoClBxoeD+JiCCLsn6y+WPNssVNpQ+LgkSpYSrus48A2nO7FqJzP4WQ/HFQxJS8fArG7O5/qUTNXIIGpD2ZhYoPGkctUTsYkaLE/yCMEkRUClfdXAGx1/qkZdUqRWZikTkTCj/1vY6FzvVngL592ALpcYxCakPOVUWYgdyR6qY8uqAM/lZTiHO39JiP1Q05FzcrJxur/XBI6y+COUP6Xrbev1cnG4GUJ6uTk6g1rg3WMXz4gWc/bryeYO3bCavkmwkkmaf/0XX28u1FJHPKFHF7OQ3+1azoxUlrWk5TkZ5iGFFwsw3ugxPscRgDo9I5ovkgjtU7GEd4gMyMTxLdw==;8oql/4qJCelnEFETDtMmlA=="
 ---
 

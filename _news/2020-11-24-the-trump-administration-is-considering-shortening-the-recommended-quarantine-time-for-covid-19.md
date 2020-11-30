@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/quarantine-time-recommen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/quarantine-time-recommendation-trump-administration/index.html"
 type: article
 quality: 163
-heat: 223
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Working for Trump Ends in Getting Fired or Getting Covid, Kimmel Says"
-    excerpt: "President Trump fired Christopher Krebs, a senior cybersecurity official, via Twitter on Tuesday. “Usually to get rid of Krebs, Trump uses a little comb and some medicated shampoo,” Jimmy Kimmel joked."
-    publishedDateTime: 2020-11-19T13:55:00Z
-    webUrl: "https://www.nytimes.com/2020/11/19/arts/television/late-night-kimmel-trump-covid.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/19/arts/television/late-night-kimmel-trump-covid.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/19/arts/television/late-night-kimmel-trump-covid.amp.html"
+  - title: "Trump admits 'it's hard to get to the Supreme Court'"
+    excerpt: "CNN's Amara Walker and Carl Bernstein discuss President Trump's admission during a Fox News interview that \"it's hard\" to get cases to the Supreme Court and how Trump's continued legal challenges could undermine future election processes.\n    \n"
+    publishedDateTime: 2020-11-29T19:57:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lg3rilrlAME/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static01.nyt.com/images/2020/11/19/arts/19latenight/19latenight-facebookJumbo.png"
-        width: 970
-        height: 507
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050331-02-donald-trump-thanksgiving-1126-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Midnight Ruling Exposes Rifts at a Supreme Court Transformed by Trump"
     excerpt: "The justices issued six opinions, several of them unusually bitter, in upholding challenges from churches and synagogues to state pandemic restrictions on religious services."
@@ -63,19 +63,19 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Covid-19 Live Updates: Antibody Treatment Given to Trump Gets F.D.A. Emergency Approval"
-    excerpt: "New York City and New York State differ on how they measure the crucial milestone of 3 percent positivity. Unlike the rest of the U.S., Hawaii has seen a decline in infections. South Korea and Japan face surges."
-    publishedDateTime: 2020-11-22T14:40:00Z
-    webUrl: "https://www.nytimes.com/live/2020/11/22/world/covid19-coronavirus"
-    ampWebUrl: "https://www.nytimes.com/live/2020/11/22/world/covid19-coronavirus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/22/world/covid19-coronavirus.amp.html"
+  - title: "The King of Trump TV Thinks You’re Dumb Enough to Buy It"
+    excerpt: "Chris Ruddy, the C.E.O. of Newsmax, has found a business opportunity in feeding Trump supporters the fantasy that the president could still win the election."
+    publishedDateTime: 2020-11-30T01:07:00Z
+    webUrl: "https://www.nytimes.com/2020/11/29/business/media/newsmax-chris-ruddy-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/29/business/media/newsmax-chris-ruddy-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/29/business/media/newsmax-chris-ruddy-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 127
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/22/us/22virus-briefing-newmexico/22virus-briefing-newmexico-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/29/business/29BENSMITH-01/29BENSMITH-01-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

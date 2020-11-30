@@ -97,17 +97,17 @@ related:
         isCached: true
   - title: "Trump questions whether Supreme Court would hear election challenge as options dwindle"
     excerpt: "President Donald Trump on Sunday questioned whether the Supreme Court would ever hear a case airing his unproven allegations of widespread election fraud as senior U.S. Republicans said a transition to a Joe Biden presidency looked inevitable."
-    publishedDateTime: 2020-11-29T21:36:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-idINKBN2890NW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2890NW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2890NW"
+    publishedDateTime: 2020-11-30T02:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN2890NP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2890NP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2890NP"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 132
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542833015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0M4"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542849124&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT02Y"
         width: 817
         height: 545
         isCached: true

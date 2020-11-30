@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-12-trump-vaccine-trashing-cuomo-snubbed-azar-skipped-17-white-house-meetings.md",
+      "title": "'Trump vaccine'-trashing Cuomo snubbed Azar, skipped 17 White House meetings",
+      "excerpt": "New York Gov. Andrew Cuomo has skipped more than a dozen White House meetings.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z2mbbIru8GU/cuomo-snubbed-azar-skipped-17-white-house-meetings",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z2mbbIru8GU/cuomo-snubbed-azar-skipped-17-white-house-meetings",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffbc3a34-e906-4c30-a8c2-d1beb6a03f9e/9ec6b368-4889-404c-bf5a-e3c01a768c45/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-snubbed-azar-skipped-17-white-house-meetings.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-snubbed-azar-skipped-17-white-house-meetings.amp",
+      "publishedDateTime": "2020-11-12T09:03:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-trump-letting-litigation-play-out-in-key-election-states-pa-voters-allege-unequal-system-mcenany.md",
       "title": "Trump 'letting litigation play out' in key election states, PA voters allege 'unequal system': McEnany",
       "excerpt": "Trump campaign senior adviser Kayleigh McEnany previewed \"a number of affidavits\" to be filed in Pennsylvania Thursday alleging an \"unequal system.\"",
@@ -1594,62 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp",
       "publishedDateTime": "2020-11-09T04:25:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-biden-should-support-push-for-transparency-in-vote-as-ultimate-presidential-act-turley.md",
-      "title": "Biden should support push for transparency in vote as ‘ultimate presidential act’: Turley",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzLKyzFSgdU/biden-should-support-push-for-transparency-in-vote-as-ultimate-presidential-act-turley",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzLKyzFSgdU/biden-should-support-push-for-transparency-in-vote-as-ultimate-presidential-act-turley",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-should-support-push-for-transparency-in-vote-as-ultimate-presidential-act-turley.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-should-support-push-for-transparency-in-vote-as-ultimate-presidential-act-turley.amp",
-      "publishedDateTime": "2020-11-08T22:48:04-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

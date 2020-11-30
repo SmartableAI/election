@@ -192,6 +192,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden moves quickly to build a diverse administration"
+    excerpt: "President-elect Joe Biden has repeatedly promised to build a government that \"looks like America.\" He's not wasting any time in delivering on that front.\n    \n"
+    publishedDateTime: 2020-11-30T02:19:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dXXJx2GZBk4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-announcements-women-black-people-of-color-cabinet-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-announcements-women-black-people-of-color-cabinet-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160601182004-jen-psaki-state-2014-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Tom Donilon no longer in the running to be Biden's CIA director"
+    excerpt: "President-elect Joe Biden is still weighing who will lead the Central Intelligence Agency, but Tom Donilon is no longer under consideration for the post, CNN has learned.\n    \n"
+    publishedDateTime: 2020-11-30T02:12:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p6sz2Ka_Npo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-administration-cia-director-tom-donilon/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-administration-cia-director-tom-donilon/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/131201122247-tom-donilon-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Rahm Emanuel under consideration to become Biden's transportation secretary"
     excerpt: "Former Chicago Mayor Rahm Emanuel is under consideration to lead the department of transportation, people familiar with the matter say, a move that would enrage progressive activists if the former Illinois congressman and White House chief of staff in the Obama administration was ultimately nominated"
     publishedDateTime: 2020-11-19T21:36:19Z
@@ -336,6 +368,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's doctor says he has hairline fractures in his foot after slipping while playing with his dog"
+    excerpt: "President-elect Joe Biden will be examined by an orthopedist Sunday afternoon \"out of an abundance of caution\" after twisting his ankle Saturday while playing with his dog, Major, his office announced.\n    \n"
+    publishedDateTime: 2020-11-30T01:31:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jV9r3dcdz7A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-twisted-ankle/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-twisted-ankle/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125153328-02-biden-thanksgiving-remarks-1125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden praises health care workers during virtual roundtable"
     excerpt: "President-elect Joe Biden held a virtual roundtable with frontline health care workers and assured them he would advocate for them as president and promised \"there is hope on the way.\"Nov. 18, 2020 © 2020 NBC UNIVERSAL"
     publishedDateTime: 2020-11-19T05:16:00Z
@@ -431,6 +479,22 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_biden_trail_white_house_20201129-thumb.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden Aides’ Ties to Consulting and Investment Firms Pose Ethics Test"
+    excerpt: "Some of the president-elect’s choices for top posts have done work for undisclosed corporate clients and aided a fund that invests in government contractors."
+    publishedDateTime: 2020-11-30T02:15:00Z
+    webUrl: "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/28/us/politics/28dc-biden-westexec/merlin_180453024_afacfb19-71d8-4125-b7a2-fd592224b286-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Blunt deflects on calling Biden 'president-elect'"
     excerpt: "Roy Blunt repeatedly declined to refer to Joe Biden as the “president-elect” on Sunday, despite acknowledgments from some fellow Senate Republicans colleagues who have recognized the former vice president’s electoral win."
