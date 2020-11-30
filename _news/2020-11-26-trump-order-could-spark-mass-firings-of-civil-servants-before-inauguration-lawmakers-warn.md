@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Exclusive: Trump to add China's SMIC and CNOOC to defense blacklist - sources"
+    excerpt: "The Trump administration is poised to add China's top chipmaker SMIC and national offshore oil and gas producer CNOOC to a blacklist of alleged Chinese military companies, according to a document and sources,"
+    publishedDateTime: 2020-11-30T08:30:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-military-companies-exclusiv-idINKBN28A036"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28A036"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28A036"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542893627&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0KS"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Live political updates: President Trump expected to spend Thanksgiving at the White House"
     excerpt: "President Donald Trump and the first lady will be spending Thanksgiving at the White House for the first time since he began his tenure as president instead of at his Mar-a-Lago club in Florida. It is uncertain whether the change in scenery is attributable to the rising number of coronavirus cases,"
     publishedDateTime: 2020-11-26T15:10:00Z

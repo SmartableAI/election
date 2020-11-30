@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/julian-assanges-p
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520"
 type: article
 quality: 125
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump spent Thanksgiving night railing against Section 230 on Twitter as #DiaperDon went viral"
-    excerpt: "Twitter users mocked the president using the hashtag #DiaperDon after he sat at a smaller-than-usual table during a news conference."
-    publishedDateTime: 2020-11-27T12:31:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-calls-end-section-230-diaperdon-goes-viral-twitter-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-calls-end-section-230-diaperdon-goes-viral-twitter-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-calls-end-section-230-diaperdon-goes-viral-twitter-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5fc0e445037cbd00186128d1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Yes, Trump can pardon himself — but it's a risky move that won't protect him from all prosecutions he could face"
     excerpt: "If the president were to issue himself a pardon before leaving office, it would likely be construed as an admission of guilt."
     publishedDateTime: 2020-11-26T17:45:00Z

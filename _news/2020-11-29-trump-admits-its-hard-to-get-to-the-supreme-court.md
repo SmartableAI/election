@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-new
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/29/business/29BENSMITH-01/29BENSMITH-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Supreme Court Takes Up Trump Plan to Exclude Unauthorized Immigrants in Redistricting"
+    excerpt: "The administration’s efforts, which are subject to practical hurdles, would upset a constitutional consensus and could shift political power from Democratic states to Republican ones."
+    publishedDateTime: 2020-11-30T10:14:00Z
+    webUrl: "https://www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30dc-scotus/30dc-scotus-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

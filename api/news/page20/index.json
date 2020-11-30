@@ -2,6 +2,62 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-10-30-sean-hannity-biden-depicting-scary-image-of-america-despite-surging-economy.md",
+      "title": "Sean Hannity: Biden depicting ‘scary’ image of America despite surging economy",
+      "excerpt": "Joe Biden is making America out to be a country besieged by doom and gloom with five days left until the election, but “Hannity” host Sean Hannity argued Thursday the nation is actually on an upswing.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6f1nW8Ae14k/sean-hannity-biden-scary-image-america-economy-surge",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6f1nW8Ae14k/sean-hannity-biden-scary-image-america-economy-surge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db7e772-dce2-4517-a262-a44c6851edc8/70157bed-10cb-4dd7-a8aa-65deb9ad5c57/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sean-hannity-biden-scary-image-america-economy-surge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sean-hannity-biden-scary-image-america-economy-surge.amp",
+      "publishedDateTime": "2020-10-29T21:04:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-trump-meets-with-army-unit-that-conducted-al-baghdadi-raid-awards-citation.md",
       "title": "Trump meets with Army unit that conducted Al-Baghdadi raid, awards citation",
       "excerpt": "President Trump has awarded a citation to the Army special operations unit that conducted the 2019 raid resulting in the death of notorious Islamic State leader Abu Bakr Al-Baghdadi.",
@@ -1290,49 +1346,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-mike-pence-in-wilmington-choice-is-whether-america-remains-america.md",
-      "title": "Mike Pence in Wilmington: Choice is 'Whether America remains America'",
-      "excerpt": "The vice president spoke during a campaign visit to Wilmington where he addressed the current administration's record and urged attendants to vote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.starnewsonline.com/story/news/2020/10/27/vice-president-mike-pence-holds-rally-wilmington/6047599002/",
-      "originalUrl": "https://www.starnewsonline.com/story/news/2020/10/27/vice-president-mike-pence-holds-rally-wilmington/6047599002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/28/NSTN/bcc67ab6-2a37-4a48-a380-5dbd588ecad8-NCWIL-102720-PG-PENCE32.JPG?auto=webp&crop=1999,1125,x0,y135&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.starnewsonline.com/amp/6047599002",
-      "cdnAmpWebUrl": "https://amp-starnewsonline-com.cdn.ampproject.org/c/s/amp.starnewsonline.com/amp/6047599002",
-      "publishedDateTime": "2020-10-29T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Star-News",
-        "domain": "starnewsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

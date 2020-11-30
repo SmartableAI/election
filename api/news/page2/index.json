@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-28-biden-picks-up-small-number-of-votes-in-milwaukee-county-after-trump-requested-recount.md",
+      "title": "Biden picks up small number of votes in Milwaukee County after Trump-requested recount",
+      "excerpt": "President-elect Joe Biden saw a small net gain in votes as Milwaukee County, Wisconsin's largest, certified its presidential general election results Friday after a recount requested by the Trump campaign.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ARIVU6gRNbY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ARIVU6gRNbY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 262,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201104114449-03-election-1104-milwaukee-wi-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/27/politics/milwaukee-county-certifies-election-result/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/milwaukee-county-certifies-election-result/index.html",
+      "publishedDateTime": "2020-11-27T17:46:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-mattis-did-not-disclose-consultant-role-in-column-denouncing-trumps-america-first-policy.md",
       "title": "Mattis did not disclose consultant role in column denouncing Trump's 'America First' policy",
       "excerpt": "The column did not reference the retired four-star general’s work with the Cohen Group, an international business advisory firm active in China.",
@@ -779,7 +835,7 @@
       "originalUrl": "https://abcnews.go.com/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1322,63 +1378,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days.md",
-      "title": "Biden says he'll push 'pathway to citizenship for over 11 million undocumented people' in first 100 days",
-      "excerpt": "President-elect Joe Biden has committed to forging \"a pathway to citizenship for over 11 million undocumented people in America\" in the first 100 days of his administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days",
-      "originalUrl": "https://www.foxnews.com/politics/biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e67c64a5-3121-4d70-b27b-f5327c5bda17/5ba09a5a-6506-4f42-a9e9-df98aee139b7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days.amp",
-      "publishedDateTime": "2020-11-25T12:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

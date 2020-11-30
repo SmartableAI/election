@@ -80,6 +80,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Supreme Court Takes Up Trump Plan to Exclude Unauthorized Immigrants in Redistricting"
+    excerpt: "The administration’s efforts, which are subject to practical hurdles, would upset a constitutional consensus and could shift political power from Democratic states to Republican ones."
+    publishedDateTime: 2020-11-30T10:14:00Z
+    webUrl: "https://www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30dc-scotus/30dc-scotus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "TScVMrGVNfdUw928qg6bVLHKK3CCKXwkD17JY3HeIX8UC3Rd11GhJuw0pV4JuT+06Q+mxk21vPEhAvmY3vx99gNpDafmNcMk24tgJvMvLtn7eDS/+MWy3tx1MVzePvf0/3n56wxXBSkxRrCNChXwQwyBWmI14mhtv5Kark/jGDvskxTHidLInAVSLsRsM8GjojZujtin7FsNPVxbI+jyoQEJ5dkBN0uym77Vt1kDqfw4pFHJHzC+znjInXcTM0oFciS8JFbKytjrog2z1iMsFm7mevlr7vp6AwAbpHd12vP4l7RXwAu+LgqZftXMTyBMp6GNXlYsaeBRd5JJiy+r0frmMlHJLsZpiMjvDmAnkftzTu1A8e6BvglEJkwq/qJMeb+ZXSU80yF+jgHLp4nSblpM+W4eVtfmgTSO9d/p0qOyuq+Oui59EKKMlqLvHtob3qjVjObmSai9otTklohyXwgsWAJt9FNxxj4yiEhyCbrPdREIIIqBThm+RXo7K+e/pQ2fUXGCTDil7SL8Z/Hm/g==;y+CnTWjHrVQesrRRQxtNpg=="
 ---

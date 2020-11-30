@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Live political updates: President Trump expected to spend Thanksgiving at the White House"
-excerpt: "President Donald Trump and the first lady will be spending Thanksgiving at the White House for the first time since he began his tenure as president instead of at his Mar-a-Lago club in Florida. It is uncertain whether the change in scenery is attributable to the rising number of coronavirus cases,"
-publishedDateTime: 2020-11-26T15:10:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2020/11/26/trump-thanksgiving-political-updates/6430438002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2020/11/26/trump-thanksgiving-political-updates/6430438002/"
-ampWebUrl: "https://amp.usatoday.com/amp/6430438002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6430438002"
+title: "Exclusive: Trump to add China's SMIC and CNOOC to defense blacklist - sources"
+excerpt: "The Trump administration is poised to add China's top chipmaker SMIC and national offshore oil and gas producer CNOOC to a blacklist of alleged Chinese military companies, according to a document and sources,"
+publishedDateTime: 2020-11-30T08:30:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-china-military-companies-exclusiv-idINKBN28A036"
+webUrl: "https://www.reuters.com/article/us-usa-china-military-companies-exclusiv-idINKBN28A036"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28A036"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28A036"
 type: article
-quality: 116
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542893627&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0KS"
+    width: 818
+    height: 545
     isCached: true
 
 related:
@@ -63,21 +63,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Exclusive: Trump to add China's SMIC and CNOOC to defense blacklist - sources"
-    excerpt: "The Trump administration is poised to add China's top chipmaker SMIC and national offshore oil and gas producer CNOOC to a blacklist of alleged Chinese military companies, according to a document and sources,"
-    publishedDateTime: 2020-11-30T08:30:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-military-companies-exclusiv-idINKBN28A036"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28A036"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28A036"
+  - title: "Live political updates: President Trump expected to spend Thanksgiving at the White House"
+    excerpt: "President Donald Trump and the first lady will be spending Thanksgiving at the White House for the first time since he began his tenure as president instead of at his Mar-a-Lago club in Florida. It is uncertain whether the change in scenery is attributable to the rising number of coronavirus cases,"
+    publishedDateTime: 2020-11-26T15:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/26/trump-thanksgiving-political-updates/6430438002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6430438002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6430438002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542893627&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0KS"
-        width: 818
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump order could spark mass firings of civil servants before inauguration, lawmakers warn"
     excerpt: "U.S. government civil servants could face mass firings under an executive order before President Donald Trump leaves office, and Democratic lawmakers, watchdog groups and unions are scrambling to block it."
@@ -139,6 +139,6 @@ related:
         height: 600
         isCached: true
 
-secured: "B85vDogL4BjOFFN2FvEI6XEEJet+ThZOVqFihsdIhe1kexx5Mv/3G37m1FW+lK31fsR3PzzxEo27xuPUZ7er2YT+KV0cf23fxBqDRG6BKUz5sNVfwMF+29UQfuwUT5V9REykXduYtV9FlhC+7hd2HSorhlqKnOVXo74t66fYMVDCHrM6uRpu8xXpgV44itpbroJW8hmzagjBQBGIs8xRz7lpJNkv1CWissfloco4en4EiWdJZUTmXztJdid54jmD6M9Pat+xwXwYl9BkVMpxM03J2EIHd7rcDBEEg/mqNTwVpGhx6VgrGsvLc1vqSkZtQ++aMu2LEr14+PPkXyEJivUr2WtrclZacA4mBJpwgY0=;LEp8kP+mg6d0NoljoDOc0w=="
+secured: "r1p5DunUbp9GL50N445L9ZYmGlt/Kxd7gWFOpWdJ34+ijSDMxL0OSmMmyhcpU8HXpOofV12OmkNynqPSIm9Ehq/Qddh6KMurOXMBlDDSmW4gR3fe6GbF/asRfUWI36AvCZIvwbONP5ixEGTrJeW9RV/S4a4qBwxVd0IrUoZePYXO2/j0/oifg5pJKhkdP0SdHdbNlFyiFWszjyuWUvcTtqrIYPZfqkKRPmPD4l0Gjm8wnry6kc0xFFebGrpJzB794mVYUK5o7/KJmydlVl3KgkevpXF46RPWMbvkNE2qaXBgLeMnIDw4ukfZPvMhfGTI6Rdlx2GelaYGeeDb2lo6EQA5o0NwcsqmnAV/lX+ItD0=;qPneVXCdER5Amjhb1cmlRw=="
 ---
 
