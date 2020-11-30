@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-04-trump-ally-tweets-misleading-images-of-philadelphia-voting.md",
+      "title": "Trump Ally Tweets Misleading Images of Philadelphia Voting",
+      "excerpt": "Early Tuesday, a Trump campaign official posted an unfounded suggestion on Twitter that Democrats were illegally campaigning at a voting site in Philadelphia. Twitter labeled the tweet “misleading” and later “manipulated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/03/business/03distortions-photo-ogtweet/03distortions-photo-ogtweet-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.amp.html",
+      "publishedDateTime": "2020-11-03T16:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-ex-gov-and-ex-inmate-rod-blagojevich-votes-trump-having-commuted-sentence.md",
       "title": "Ex-Gov. and Ex-Inmate Rod Blagojevich Votes, Trump Having Commuted Sentence",
       "excerpt": "Former Illinois Gov. Rod Blagojevich cast his first ballot Tuesday since President Trump [earlier this year]( commuted his 14-year sentence for multiple corruption crimes. He voted a split ticket. “It",
@@ -1547,58 +1604,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-us-air-force-f-16s-intercepted-an-unauthorized-aircraft-flying-in-a-restricted-area-over-a-trump-rally.md",
-      "title": "US Air Force F-16s intercepted an unauthorized aircraft flying in a restricted area over a Trump rally",
-      "excerpt": "When President Donald Trump saw the F-16 deploy signal flares, he told a crowd that they were putting on a display for him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10",
-      "originalUrl": "https://www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f99e8aa69331a0011bc5f19?width=1200&format=jpeg",
-          "width": 998,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10?amp",
-      "publishedDateTime": "2020-10-28T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

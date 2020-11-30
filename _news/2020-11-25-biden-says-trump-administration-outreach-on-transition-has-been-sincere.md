@@ -1420,6 +1420,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden News Coverage Goes to the Dogs"
+    excerpt: "News coverage of Joe Biden is already going to the dogs — and cats. Literally. Dogged reporters who howled at every tweet by President Trump are now writing about the incoming pet owner in chief bringing animals to the White House."
+    publishedDateTime: 2020-11-29T20:52:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/29/biden_news_coverage_goes_to_the_dogs_530307.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/528318_5_.jpg"
+        width: 750
+        height: 499
+        isCached: true
   - title: "Biden's Challenge on Global Warming"
     excerpt: "President-elect Joe Biden recognizes the dangers of global warming and vows to confront the problem head on. Good, because we just wasted four years. There are three camps for everyone who have any opinion on what happened with this 2020 election."
     publishedDateTime: 2020-11-27T12:24:00Z

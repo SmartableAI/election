@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Completed Wisconsin recount confirms Biden’s win over Trump"
-excerpt: "Wisconsin has finished its recount of votes cast in this month’s presidential election, with only miniscule changes in the results that saw Joe Biden defeat President Trump in the battleground state."
-publishedDateTime: 2020-11-29T18:11:00Z
-originalUrl: "https://www.latimes.com/world-nation/story/2020-11-29/completed-wisconsin-recount-confirms-bidens-win-over-trump"
-webUrl: "https://www.latimes.com/world-nation/story/2020-11-29/completed-wisconsin-recount-confirms-bidens-win-over-trump"
-ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-29/completed-wisconsin-recount-confirms-bidens-win-over-trump?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-29/completed-wisconsin-recount-confirms-bidens-win-over-trump?_amp=true"
+title: "Completed Wisconsin recount confirms Biden's win over Trump"
+excerpt: "Wisconsin has finished a recount of its presidential results, confirming Democrat Joe Biden’s victory over President Donald Trump in the key battleground state"
+publishedDateTime: 2020-11-30T00:08:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/completed-wisconsin-recount-confirms-bidens-win-trump-74449883"
+webUrl: "https://abcnews.go.com/Politics/wireStory/completed-wisconsin-recount-confirms-bidens-win-trump-74449883"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/completed-wisconsin-recount-confirms-bidens-win-trump-74449883"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/completed-wisconsin-recount-confirms-bidens-win-trump-74449883"
 type: article
 quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/aeb333e/2147483647/strip/true/crop/5547x3623+0+38/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fce%2Fdf%2F4669521f82907c8b38d65e57cfa1%2F2e1001a727e347c1bb132f6491a8c6df"
-    width: 320
-    height: 209
+  - url: "https://s.abcnews.com/images/Politics/WireAP_b9b135c1a0664f76beb3de015cc4d184_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -604,6 +604,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "1OpYxq/kTqSnrGg1S+ZKewlua48e7pwag56em7fgqNNnlzAPY/MVhcWUcFvyb8dpgIWHwCMZcA/0S2ifDRhtc91J13fRnYpQIjUb2toibwhOjxU3ONGjA2qXzvft3WnrbEJYKO5KEoXOeACfzc7/VFX+nZFhLWvvtk62RbwJXKAMDUwrKt7XzcEejOGrGy0so9m6ImvqqmZeUhyR/FI7N8HDqDL/gxxycpk1TyRdL810VBkKPFRpc7QdduQJdAhHJmUUEjhHL2HkLhWkbe7K3Dyt/+2QJJAfl4U6aP8Thr9j0kQI19UcDB9KuowRqIrXAv59ifz1VE7RPE1sTuHt/3mRSnsV7NMaii0Xso3ik3c=;33Cw+uRDiZDG6WM6MeEWSA=="
+secured: "AC3eJ1Eiqbot3/FdR9DI5eHM/LriapO7j/p/WVfa7rBU8WRoDoosUqoZCztmPSuIXVx+y73Rf5gv85iHPd3mEK0eYpiH7ArOTn2+iPt1+04tNBEVcAn+EsYyPS7l0UI0Nbec5E9ZiNyX60KLiH7xFbB/ZIU0AtypdNmtV1VcRZwZTju8AroMwM72WIZhLUN2fdSAAq1w9XrP9CtM8J5EKNsqRuUhfHGH8h43NOYbu5LoytRfCJsIcHXaPNX5hqgB2dcPqeZ/QqumLDtvPAA0yXW0mJ/dQI5NbYQu2lRbTNpFkIVoSuiLBt/rzR3blsgmQ78fh5+pKTnbYlRQN408K2bp5ly7uTPk8G3ATCbJhpg=;n2BUt0SxUioJA7bwPqsHug=="
 ---
 

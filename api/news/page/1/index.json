@@ -2,6 +2,166 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-30-doctor-says-biden-fractured-foot-while-playing-with-his-dog.md",
+      "title": "Doctor says Biden fractured foot while playing with his dog",
+      "excerpt": "WILMINGTON, Del. — President-elect Joe Biden fractured his foot while playing with one of his dogs, but doctors found “no obvious fracture” while examining him Sunday, according to his doctor. Biden suffered the injury on Saturday and visited an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/doctor-says-biden-fractured-foot-while-playing-with-his-dog/2020/11/29/0a3bd566-32a5-11eb-9699-00d311f13d2d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/doctor-says-biden-fractured-foot-while-playing-with-his-dog/2020/11/29/0a3bd566-32a5-11eb-9699-00d311f13d2d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/doctor-says-biden-fractured-foot-while-playing-with-his-dog/2020/11/29/0a3bd566-32a5-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/doctor-says-biden-fractured-foot-while-playing-with-his-dog/2020/11/29/0a3bd566-32a5-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-29T16:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-bidens-win-means-some-guantanamo-prisoners-may-be-released.md",
+      "title": "Biden's win means some Guantanamo prisoners may be released",
+      "excerpt": "The oldest prisoner at the Guantanamo Bay detention center went to his latest review board hearing with a degree of hope, something that has been scarce during his 16 years locked up without charges at the U.S. base in Cuba.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UymplZGk0zA/biden-presidency-guantanamo-prisoners-released",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UymplZGk0zA/biden-presidency-guantanamo-prisoners-released",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20330676665625-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-presidency-guantanamo-prisoners-released.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidency-guantanamo-prisoners-released.amp",
+      "publishedDateTime": "2020-11-29T16:41:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-fired-director-of-us-cyber-agency-chris-krebs-explains-why-president-trumps-claims-of-election-interference-are-false.md",
+      "title": "Fired director of U.S. cyber agency Chris Krebs explains why President Trump's claims of election interference are false",
+      "excerpt": "Chris Krebs, a lifelong Republican, was put in charge of the agency handling election security by President Trump two years ago. When Krebs said the election was the country's most secure ever, Mr. Trump fired him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
+      "originalUrl": "https://www.cbsnews.com/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/29/e2b50259-6c0b-488f-b6b9-a5979fcfbb4b/thumbnail/1200x630/40ec454e5a61da816f8e82a5eb85fab9/chriskrebsarticle.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
+      "publishedDateTime": "2020-11-29T16:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-source-pa-lawmaker-gets-a-positive-test-at-trump-meeting.md",
       "title": "Source: Pa. lawmaker gets a positive test at Trump meeting",
       "excerpt": "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus",
@@ -176,7 +336,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 693,
+      "heat": 713,
       "tags": null,
       "images": [
         {
@@ -758,58 +918,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-29-joe-bidens-plans-to-carry-out-every-proposal-on-the-lgbtq-communitys-list.md",
-      "title": "Joe Biden’s Plans To Carry Out Every Proposal On The LGBTQ Community’s List",
-      "excerpt": "President-elect Joe Biden just released his plans for the LGBTQ community and he wants to grant all of it's wishes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702",
-      "originalUrl": "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/24/soundbiteus-president-elect-joe-biden-introduces-a-seasoned.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1",
-      "publishedDateTime": "2020-11-28T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-28-former-top-cybersecurity-official-says-trump-firing-by-tweet-was-not-how-i-wanted-to-go-out.md",
       "title": "Former top cybersecurity official says Trump firing by tweet was 'not how I wanted to go out'",
       "excerpt": "Christopher Krebs, the former top cybersecurity official, said President Donald Trump's decision to unceremoniously fire him via tweet last week was \"not how I wanted to go out.\"\n    \n",
@@ -1248,118 +1356,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-donor-sues-pro-trump-group-for-25m-over-empty-promises-on-voter-fraud.md",
-      "title": "Donor sues pro-Trump group for $2.5M over 'empty promises' on voter fraud",
-      "excerpt": "A pro-Trump group is being sued by a donor for not delivering on promises to overturn the election results in President Trump's favor. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NpXyfpMVFtc/donor-sues-pro-trump-group-inability-to-prove-voter-fraud",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NpXyfpMVFtc/donor-sues-pro-trump-group-inability-to-prove-voter-fraud",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd7fefb9-d30f-4b07-b566-01eaa53e3755/8d5fa08e-5e27-4a9c-a15b-c6985dcf9a95/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/donor-sues-pro-trump-group-inability-to-prove-voter-fraud.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donor-sues-pro-trump-group-inability-to-prove-voter-fraud.amp",
-      "publishedDateTime": "2020-11-27T11:27:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-trump-team-removes-members-of-pentagons-defense-policy-board-including-kissinger-albright.md",
-      "title": "Trump team removes members of Pentagon's Defense Policy Board, including Kissinger, Albright",
-      "excerpt": "The Defense Department on Friday said that a number of members of its Defense Policy Board -- including former Secretaries of State Henry Kissinger and Madeleine Albright -- had been removed.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jwr-1vClAIw/trump-pentagon-defense-policy-board",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jwr-1vClAIw/trump-pentagon-defense-policy-board",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/jennifer-griffin-99438.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-pentagon-defense-policy-board.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pentagon-defense-policy-board.amp",
-      "publishedDateTime": "2020-11-27T10:44:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

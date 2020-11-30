@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y01A"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y01A"
 type: article
 quality: 140
-heat: 900
+heat: 920
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NC7L5BBN2AI6XHOWFUAXTGAXDE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Ousted Trump cybersecurity director debunks 2020 election rumors"
+    excerpt: "Fired CISA director Chris Krebs told 60 Minutes that domestic disinformation around the 2020 election posed a greater risk than foreign."
+    publishedDateTime: 2020-11-30T00:38:00Z
+    webUrl: "https://www.cbsnews.com/news/chris-krebs-2020-election-rumors-60-minutes-2020-11-29/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/chris-krebs-2020-election-rumors-60-minutes-2020-11-29/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chris-krebs-2020-election-rumors-60-minutes-2020-11-29/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/29/36484b24-925e-4add-98b3-28f1d9c7ba91/thumbnail/1200x630/508fe5080bdda952eab00ffa8146f87c/ot-krebsa.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "For President Trump, defections and gaffes hamper 2020 election court challenges"
     excerpt: "Over the three weeks since the election, President Trump's legal bid to challenge the results has unfolded in unpredictable ways with a revolving cast of characters."

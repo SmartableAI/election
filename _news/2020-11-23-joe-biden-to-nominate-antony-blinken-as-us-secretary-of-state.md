@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominat
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TGSF3ORSRII6XDJYNLVBVWZYHE.jpg&w=1440"
         width: 1440
         height: 956
+        isCached: true
+  - title: "Biden sprains ankle while playing with his dog Major, office says"
+    excerpt: "The president-elect was walking his dog Major on Saturday when he twisted his ankle, the transition team said."
+    publishedDateTime: 2020-11-29T23:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OHHPGW4C3JBXJOKY6F27T4GEME.jpg&w=1440"
+        width: 960
+        height: 540
         isCached: true
   - title: "Joe Biden twists his ankle after slipping while playing with dog"
     excerpt: "President-elect to be examined by doctor after accident while playing with his pet German shepherd"

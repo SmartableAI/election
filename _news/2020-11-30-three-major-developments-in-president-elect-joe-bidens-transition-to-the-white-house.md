@@ -2,19 +2,23 @@
 category: news
 title: "Three major developments in President-elect Joe Biden's transition to the White House"
 excerpt: "Since President-elect Joe Biden’s victory earlier this month, President Donald Trump has refused to concede and continues to make baseless claims of voter fraud –– pushing election lawsuit battles across the country,"
-publishedDateTime: 2020-11-29T17:17:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2020/11/29/when-inauguration-joe-bidens-white-house-updates/6443749002/"
-webUrl: "https://www.azcentral.com/story/news/politics/2020/11/29/when-inauguration-joe-bidens-white-house-updates/6443749002/"
-ampWebUrl: "https://amp.azcentral.com/amp/6443749002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6443749002"
+publishedDateTime: 2020-11-29T17:02:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2020/11/29/when-inauguration-joe-bidens-white-house-updates/6443749002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2020/11/29/when-inauguration-joe-bidens-white-house-updates/6443749002/"
+ampWebUrl: "https://amp.usatoday.com/amp/6443749002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6443749002"
 type: article
-quality: 68
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -110,7 +114,7 @@ related:
   - title: "Biden picks top campaign aides in key communications roles"
     excerpt: "President-elect Joe Biden on Sunday tapped key campaign staff and advisors to lead his communications team, naming former Obama State Department spokeswoman Jen Psaki as his White House press secretary and campaign spokeswoman Kate Bedingfield as communications director."
     publishedDateTime: 2020-11-29T22:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-communications-idUSKBN2890YK"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-communications/biden-picks-top-campaign-aides-in-key-communications-roles-idUSKBN2890YK"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890YK"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890YK"
     type: article
@@ -122,6 +126,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542835857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0N3"
         width: 817
         height: 545
+        isCached: true
+  - title: "President-elect Joe Biden hires all-female communications staff"
+    excerpt: "Harris administration appointed the country's first all-female communications team to relay messages from the White House."
+    publishedDateTime: 2020-11-30T00:29:00Z
+    webUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fc4269350e71a0011557de4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Wisconsin counties finish recounts, Biden's lead reconfirmed"
     excerpt: "The recount of presidential ballots in Wisconsin’s two largest counties finished on Sunday, confirming that Democratic President-elect Joe Biden defeated President Donald Trump in the key swing state by more than 20,"
@@ -462,6 +482,6 @@ related:
         height: 534
         isCached: true
 
-secured: "AwWnTEbpMHRgpYxj1DIFSejFzk1wDo4DR9bgbEMqFMVWg9NRxQzAJhu3prThc+QACDfXP6dI769WmR3hh/+HBykLYAr1mjK7xDrMG2rQ5E+rSUgxEu/2SNjatZy08SKLIzMWXE8UPAQvffuUVKHdIYujb6Y+9rtTPSaHfZSLePhjFuVdzceyzBdbuef/Ntw69GELWVEacE2E7Ikwhdged25OqeETzK3LWjpog0/fui9atdpi4lO5/fLN/Rw1nCaYDf+OQnjPmQXtUUvSjRVcPyitZ96ArX8ywJi2w8LwbRIldXBiNK0meJeQCyJS9964ZVIr/y+Khs4SAQPTjtieq/E7oqbGEb7ZtUr+/pn8ddg=;SazlxSWEuhfS/kLiQ4AfLA=="
+secured: "XRTTzvFKdk8Wy2J53ObHa81L0cfxweqM/iQyXH2QrQKKoxeWLUG/ScfLYARrK1ol7ocNZj7FFYBsq7jPjRiB4iQ5T92REzRHTI61Z8kqQE2RWvyY8f6bsVPIWLet4gUhZhtMcKK0EtOAkeMFbt9v5Hsp0/x6TpwQ47syrBnlZYf2K8FHH0yQLG0c5fvikZFjgAJPXAiXXzYQShGeQkjDRmeS2JNEZgZi5DoeN/7B4+IqmOuxEW6N3DrtIJqy7NQwa1l9HFGMmCQE6UdxHzKVpaeUTwwO1eP2pExgF33UJbnhOAJQ8hc3WADz/zdm5D+cLgzx128xo07F83egrEmAxOALx0ljPvOYx5GYFGtMhU0=;nHjI5xezF0f5m2ICnoGjyA=="
 ---
 

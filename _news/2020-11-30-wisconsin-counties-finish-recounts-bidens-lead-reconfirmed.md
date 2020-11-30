@@ -114,7 +114,7 @@ related:
   - title: "Biden picks top campaign aides in key communications roles"
     excerpt: "President-elect Joe Biden on Sunday tapped key campaign staff and advisors to lead his communications team, naming former Obama State Department spokeswoman Jen Psaki as his White House press secretary and campaign spokeswoman Kate Bedingfield as communications director."
     publishedDateTime: 2020-11-29T22:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-communications-idUSKBN2890YK"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-communications/biden-picks-top-campaign-aides-in-key-communications-roles-idUSKBN2890YK"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890YK"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890YK"
     type: article
@@ -126,6 +126,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542835857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0N3"
         width: 817
         height: 545
+        isCached: true
+  - title: "President-elect Joe Biden hires all-female communications staff"
+    excerpt: "Harris administration appointed the country's first all-female communications team to relay messages from the White House."
+    publishedDateTime: 2020-11-30T00:29:00Z
+    webUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fc4269350e71a0011557de4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Dialing into Pa. GOP meeting, President Trump shows no sign of concession"
     excerpt: "Trump phoned into a meeting of Pa. Republican lawmakers to say he believes he was \"cheated\" out of a victory in the 2020 election and the outcome should be turned over."
@@ -250,6 +266,22 @@ related:
     quality: 118
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ed262a37-92af-4224-a0d3-88b36a331cec-TRUMP_KENOSHA_1048.JPG?auto=webp&crop=3899,2194,x0,y289&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Three major developments in President-elect Joe Biden's transition to the White House"
+    excerpt: "Since President-elect Joe Biden’s victory earlier this month, President Donald Trump has refused to concede and continues to make baseless claims of voter fraud –– pushing election lawsuit battles across the country,"
+    publishedDateTime: 2020-11-29T17:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/29/when-inauguration-joe-bidens-white-house-updates/6443749002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6443749002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6443749002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/62d96c6a-b6f3-4091-aacb-149110e7fa61-AP20324781057068.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -449,23 +481,7 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Three major developments in President-elect Joe Biden's transition to the White House"
-    excerpt: "Since President-elect Joe Biden’s victory earlier this month, President Donald Trump has refused to concede and continues to make baseless claims of voter fraud –– pushing election lawsuit battles across the country,"
-    publishedDateTime: 2020-11-29T17:17:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2020/11/29/when-inauguration-joe-bidens-white-house-updates/6443749002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6443749002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6443749002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 68
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/62d96c6a-b6f3-4091-aacb-149110e7fa61-AP20324781057068.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "zN4hNQnrp5alqMy9WoLCEZ0tUXGzFvGXBGKlgoOvjABMr7MzcMm5301Zs71JinwBviRd2KIRDb3l4Qs2lrgnqb03oqLFVGrha/BRYq+JjpT3h0fKgwKSDybUHGeDNuvolfT5jRR2eyUfVg2Li8+PzfSBzx8TwrPHBjhHZzmeHVTheGKCfEfo3nw5PAbnlssyTbZxVpUzqWNIONr/A2/qB7Bu/q1JarugDTARWMvNQ9Nui9PQRL0ynAJG7nFws7OQf4xG+9YDfY3A6J8GHpZfSplSBPpVzCSbTIJ+OtjJIzmstzgO1hU3RYt43pvdyl0sZ0kkpMZjo3oNDLYA61YTswp4UugxYBXnfK4Yy6RBd+M=;QVOSPq7nqhe1hOGMSLLkow=="
+secured: "5593bNLy4oKi2qYiJZ0G+VhpbrWtOosdhZD/lKhx3DLEOPD/lEn906rFk/PdWcpLC/zE9MoYxpUfyZWV/0rw9B+xG9NK7THrUReRS2epnIzS9oA+XmHQFWf1l+BnsbnLhdYu9RKwit+Ua518aXqiT/b3Woip16fus3ozBxj09fStZpe8FwOMMNu4V91knMwYpi09nAoHNkySexe/vO8i31THVisN5mSLylanrk+BdD8MskgXLWkNG7MrNm+75E2NU5T08ZMtpdrOV5i0C/ndAW6F1VcnCZ9lUlweIfJ2FRUPIsiRFPBvVp8g68sQKjF/Ovavv8tDbaBY0NF56lEwkmpKn3QrdRILSOUVxKGQ51OHzXYybBxaEqdhD5o8QApfPeOj3wECkYQs23L1no+FhtWl4p1wPRMcUHDZc3YXXEUhCcbCZ8qP/L/4XPTrf1CAjtwlFtFd5LSZTbFc7JsuWUX9xL6upXbFf6Xt6P8dHoeMC6hzc4PRRKft3aqp1KCV+LJthAxySAeQabPQSBJAbA==;9IPFpSVBF0kBrYJ966+Aaw=="
 ---
 

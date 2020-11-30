@@ -2,115 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-11-19-kevin-mccarthy-the-house-minority-leader-doesnt-think-trump-is-going-away.md",
-      "title": "Kevin McCarthy, the House Minority Leader, Doesn’t Think Trump Is Going Away",
-      "excerpt": "The California Republican believes his party’s victories in 2020 came thanks to the president, not in spite of him: “He brought turnout.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/18/us/politics/18mccarthy-qa/18mccarthy-qa-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.amp.html",
-      "publishedDateTime": "2020-11-18T12:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-a-federal-judge-ordered-the-trump-administration-to-end-a-program-that-deports-immigrant-children-who-cross-the-southern-border-alone.md",
-      "title": "A federal judge ordered the Trump administration to end a program that deports immigrant children who cross the southern border alone",
-      "excerpt": "The Trump administration policy has resulted in thousands of rapid deportations of minors during the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11",
-      "originalUrl": "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fb546ef83df950018ac20df?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp",
-      "publishedDateTime": "2020-11-18T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-candace-owens-newsom-will-follow-marxist-blm-appoint-black-woman-to-replace-kamala-harris-in-senate.md",
       "title": "Candace Owens: Newsom will follow 'Marxist' BLM, appoint Black woman to replace Kamala Harris in Senate",
       "excerpt": "California Gov. Gavin Newsom will bend the knee to Black Lives Matter, author Candace Owens argued on Wednesday, reacting to the organization calling on Newsom to appoint a Black woman to fill the senate seat vacated by Kamala Harris.",
@@ -612,7 +503,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-usa-election-trump-krebs-idUKKBN27Y01A",
       "featuredContent": null,
       "highlight": null,
-      "heat": 900,
+      "heat": 920,
       "tags": null,
       "images": [
         {
@@ -1350,6 +1241,115 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-justice-dems-group-behind-aoc-boosts-rep-ro-khanna-for-harris-senate-seat.md",
+      "title": "Justice Dems, group behind AOC, boosts Rep. Ro Khanna for Harris' Senate seat",
+      "excerpt": "Justice Democrats, a far-left PAC aligned with Rep. Alexandria Ocasio-Cortez, D-N.Y., is pushing for Rep. Ro Khanna, D-Calif., to get the Senate seat that will be vacated by Vice President-elect Kamala Harris.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5YlIEI_kWw/justice-democrats-ro-khanna-california-senate-harris",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5YlIEI_kWw/justice-democrats-ro-khanna-california-senate-harris",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 322,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315750551129.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/justice-democrats-ro-khanna-california-senate-harris.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/justice-democrats-ro-khanna-california-senate-harris.amp",
+      "publishedDateTime": "2020-11-17T05:25:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-latino-voters-who-fled-dictatorships-demand-four-more-years-for-trump.md",
+      "title": "Latino voters who fled dictatorships demand four more years for Trump",
+      "excerpt": "Many Latino Trump supporters who escaped authoritarian regimes fear they are once again witnessing widespread election fraud despite lack of evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/11/17/latino-trump-voters-fear-stolen-election-amid-fraud-conspiracies/6257746002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/17/latino-trump-voters-fear-stolen-election-amid-fraud-conspiracies/6257746002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/15/USAT/a93122e0-6b9a-4924-a36e-05d72d17be1c-LatinosForTrump-Socialism.jpg?auto=webp&crop=5759,3240,x0,y384&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6257746002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6257746002",
+      "publishedDateTime": "2020-11-17T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

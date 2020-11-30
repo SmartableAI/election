@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 956
         isCached: true
+  - title: "Biden sprains ankle while playing with his dog Major, office says"
+    excerpt: "The president-elect was walking his dog Major on Saturday when he twisted his ankle, the transition team said."
+    publishedDateTime: 2020-11-29T23:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OHHPGW4C3JBXJOKY6F27T4GEME.jpg&w=1440"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Joe Biden twists his ankle after slipping while playing with dog"
     excerpt: "President-elect to be examined by doctor after accident while playing with his pet German shepherd"
     publishedDateTime: 2020-11-29T22:37:00Z
@@ -144,6 +160,6 @@ related:
         height: 675
         isCached: true
 
-secured: "JdSe4KwDm41p3JzrGJ8KOsa8l2kw1C8v/lIuss45XWNE+av3uOi+vFdSLpdFgdYAyCyM824DtRwDUs7IUrHzAd2WkRtFbMRwGH5uwoioAyaMUhWUmJcHwX5EZgL5bWfsMKR12RSRyUwOaReai0xjDB1xMr2USESQBVhIunClzCSWgH6NnAdo/vxS9I7xayzXIC6J2pRmmUvEd2mpyaiVF27W5gEPF7MfRaBSKIiNknuKZdn5dZ434GlbVmVZJ2k5ZP4D7PQLCNJU4IIxWgdLufGzhVmw8E2nwUgNSizeTWvD21rLUFmOUVXvD5L5NPy7h2dxLPE9zSnuXJuOes/7jDINsgQD0Je0cjSyo3Ji418=;rOsLJ0gTN76yqx001LOz3A=="
+secured: "fI/Tb/KGCByxJaowENM9NP/6Yt8qGrC5OOcBzfjwElCKCRaFl+uQsRkCk12TzD0gCDtlRyigwqGA0UvOoorRuui0U7B15nh/2VH/x4XSg5xX20uaP6ZOJywVduJsw/i5qSuFeKBWSRzj6+fr56rkzTmRiYst+AXWt0CNXy1nj4m01Y1eMw5ziRFGn1qO+eCd8jOIMDEkO1eVbHmZ58/vl1R59nxkC5ixyFLiXqpLkcZFLrUsuM5LFB8x9hA86TfG3Gzs+X4su48gnqvxvlBvR5hwALBMC5mRjlZgsGGY8lZ/8xigl7VvVEqrz6fDFccTTKnA1MgL84DcPL+0TEytSOUSc19sBywpKpJO/4OSALAcS0agOSMPeYfkm8mRotQEvPsEAAYyXa+S1zHV7S9VhAzv4rlVC+XDAaX66k+hjGYZPIsW/IfVftibW1E6cueZU+DBg4QFzyXEYQX9APVfFQpW4EaoHgUivakj24rUIHQSlYdD6KmMIgYypLJBo57uDrMfyMnspv+PaW2L3LEjLg==;pxQXWb+Qxp0rrSnpcPdw7g=="
 ---
 

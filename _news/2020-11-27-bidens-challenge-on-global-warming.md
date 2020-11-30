@@ -1425,6 +1425,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden News Coverage Goes to the Dogs"
+    excerpt: "News coverage of Joe Biden is already going to the dogs — and cats. Literally. Dogged reporters who howled at every tweet by President Trump are now writing about the incoming pet owner in chief bringing animals to the White House."
+    publishedDateTime: 2020-11-29T20:52:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/29/biden_news_coverage_goes_to_the_dogs_530307.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/528318_5_.jpg"
+        width: 750
+        height: 499
+        isCached: true
 
 secured: "vOeZWFV1qeMeS5Z6Mor6T4HEMq/zKATonnb+hlp8vMMDmZH9m2+vYHjOkt78b+ZX2pDICzxoKF5my6ET5/29d+aLsMPYnH+cesG4oaTo4n4JkuNwYziz+jwKKee5rROMHkC09GfhvE1oiHfjaqS3T4Kg2UhY4rkPjmVh856ytg4mPBkUV4Z9NdjxaC5SPWVXlU1RUiPBQoZ1kDgAgQxBt1d4tiUIct1ri0w0M2oBqIdmGnujN2B605MWIBsVRY77Lh7PGar2s+qvD77xYmEgvi1kdcAlvyvoOBGjbU1kEBMIZCKIRCZKNWJp3KDZ0cksNJsmTO7HYW7F0l0zkGBcZpHZ29eD+DZwuETZ2SOyWk0=;8cW2O1ywx/1QF6LKVqBM8w=="
 ---

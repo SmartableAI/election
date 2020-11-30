@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-19-pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch.md",
+      "title": "Pence spox debunks Huffington Post reporter who claimed VP, Karen Pence didn't wear masks at SpaceX launch",
+      "excerpt": "A spokesperson for Vice President Mike Pence shot down reporting from a Huffington Post journalist who reported that he and Second Lady Karen Pence did not wear masks at Sunday's visit to NASA's Kennedy Space Center. NASA has made its first operational ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch",
+      "originalUrl": "https://www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8217561e-a887-4ebd-870b-46991c42ed85/8224b5b1-d79b-453c-ae86-3b548ec28b55/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch.amp",
+      "publishedDateTime": "2020-11-18T16:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-sen-kennedy-blasts-cuomo-complaints-about-trump-ego-compares-it-to-being-called-ugly-by-a-frog.md",
       "title": "Sen. Kennedy blasts Cuomo complaints about Trump 'ego', compares it to 'being called ugly by a frog'",
       "excerpt": "Democratic New York Gov. Andrew Cuomo is the last person with any standing to complain about President Trump's \"ego,\" Sen. John Kennedy, R-La., told \"Bill Hemmer Reports\" Wednesday.",
@@ -1595,62 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/cuomo-snubbed-azar-skipped-17-white-house-meetings.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-snubbed-azar-skipped-17-white-house-meetings.amp",
       "publishedDateTime": "2020-11-12T09:03:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-trump-letting-litigation-play-out-in-key-election-states-pa-voters-allege-unequal-system-mcenany.md",
-      "title": "Trump 'letting litigation play out' in key election states, PA voters allege 'unequal system': McEnany",
-      "excerpt": "Trump campaign senior adviser Kayleigh McEnany previewed \"a number of affidavits\" to be filed in Pennsylvania Thursday alleging an \"unequal system.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qr6hqgI4oFg/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qr6hqgI4oFg/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany.amp",
-      "publishedDateTime": "2020-11-12T07:14:01-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,21 +2,25 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-11-28-after-biden-win-rehoboth-beach-celebrates-local-boy-who-made-good-hes-our-joe.md",
-      "title": "After Biden win, Rehoboth Beach celebrates local boy who made good: ‘He’s our Joe’",
-      "excerpt": "Bikinis and beach umbrellas are marked to sell. The only hint of summer is the tangy scent of vinegar-doused french fries wafting from the one Thrasher’s stand that has remained open. Late fall and winter is when Rehoboth Beach typically gets to crawl back into its shell,",
+      "path": "_news/2020-11-27-donor-sues-pro-trump-group-for-25m-over-empty-promises-on-voter-fraud.md",
+      "title": "Donor sues pro-Trump group for $2.5M over 'empty promises' on voter fraud",
+      "excerpt": "A pro-Trump group is being sued by a donor for not delivering on promises to overturn the election results in President Trump's favor. ",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NpXyfpMVFtc/donor-sues-pro-trump-group-inability-to-prove-voter-fraud",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NpXyfpMVFtc/donor-sues-pro-trump-group-inability-to-prove-voter-fraud",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QASGXPBOUQI6XHOWFUAXTGAXDE.jpg&w=1440",
-          "width": 1440,
-          "height": 961,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd7fefb9-d30f-4b07-b566-01eaa53e3755/8d5fa08e-5e27-4a9c-a15b-c6985dcf9a95/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +28,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-27T10:06:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/donor-sues-pro-trump-group-inability-to-prove-voter-fraud.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donor-sues-pro-trump-group-inability-to-prove-voter-fraud.amp",
+      "publishedDateTime": "2020-11-27T11:27:39-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +54,63 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-trump-team-removes-members-of-pentagons-defense-policy-board-including-kissinger-albright.md",
+      "title": "Trump team removes members of Pentagon's Defense Policy Board, including Kissinger, Albright",
+      "excerpt": "The Defense Department on Friday said that a number of members of its Defense Policy Board -- including former Secretaries of State Henry Kissinger and Madeleine Albright -- had been removed.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jwr-1vClAIw/trump-pentagon-defense-policy-board",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jwr-1vClAIw/trump-pentagon-defense-policy-board",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/jennifer-griffin-99438.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-pentagon-defense-policy-board.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pentagon-defense-policy-board.amp",
+      "publishedDateTime": "2020-11-27T10:44:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -382,58 +442,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-27-joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic.md",
-      "title": "Joe and Jill Biden write op-ed celebrating smaller Thanksgiving amid pandemic",
-      "excerpt": "President-elect Joe Biden and his wife, Jill, wrote an op-ed on Thursday celebrating Thanksgiving and sympathizing with families who remain separated over the holiday due to the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/",
-      "originalUrl": "https://www.cbsnews.com/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/09/ad794d08-da70-4784-af10-7a0a27efa50d/thumbnail/1200x630/0a490c83b38cebb34e0afc20cddf570f/gettyimages-1229520125.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/",
-      "publishedDateTime": "2020-11-26T16:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-27-angry-trump-promises-rally-in-battleground-state-of-georgia.md",
       "title": "Angry Trump promises rally in battleground state of Georgia",
       "excerpt": "President Donald Trump on Thursday renewed baseless claims that “massive fraud” and crooked local officials in battleground states led to his election defeat, and said he’ll go to Georgia for a rally",
@@ -550,7 +558,7 @@
       "originalUrl": "https://www.cbsnews.com/news/kamala-harris-tyler-gordon-portrait/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 238,
       "tags": null,
       "images": [
         {
@@ -1092,49 +1100,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-26-joe-biden-says-this-is-not-a-third-obama-term-in-first-sit-down-interview.md",
-      "title": "Joe Biden says ‘this is not a third Obama term’ in first sit-down interview",
-      "excerpt": "Although his list of cabinet nominees included many Obama-era alumni, Joe Biden said the challenges facing him were unique",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
-      "publishedDateTime": "2020-11-25T16:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-25-trump-invites-pennsylvania-gop-lawmakers-to-white-house-after-calling-in-to-baseless-voter-fraud-event.md",
       "title": "Trump invites Pennsylvania GOP lawmakers to White House after calling in to baseless voter fraud event",
       "excerpt": "President Donald Trump's planned trip to join his attorney Rudy Giuliani in Gettysburg, Pennsylvania, on Wednesday has been canceled, two sources familiar with the matter tell CNN.\n    \n",
@@ -1248,58 +1213,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-26-joe-biden-says-lets-be-thankful-for-democracy-in-message-of-unity-live.md",
-      "title": "Joe Biden says 'Let's be thankful for democracy' in message of unity – live",
-      "excerpt": "Biden will speak in Wilmington as US records highest daily Covid deaths since May and 172,935 new cases",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbeb83c8f08850ef86c6ad4",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbeb83c8f08850ef86c6ad4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/24f99c0d55da1b4d269627546f6fde1b348710d6/0_162_4928_2956/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3362e2ec893a9005aef414c6b8f5edc",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates",
-      "publishedDateTime": "2020-11-25T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-25-chinese-leader-xi-jinping-congratulates-biden-on-winning-election.md",
       "title": "Chinese leader Xi Jinping congratulates Biden on winning election",
       "excerpt": "Chinese President Xi Jinping on Wednesday sent a congratulatory message to President-elect Joe Biden, more than two weeks after the Democratic candidate was projected the winner of the US presidential election.\n    \n",
@@ -1353,6 +1266,114 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-willie-brown-demands-gavin-newsom-replace-kamala-harris-with-a-black-woman.md",
+      "title": "Willie Brown demands Gavin Newsom replace Kamala Harris with a Black woman",
+      "excerpt": "Willie Brown does not want Kamala Harris' Senate seat to go a Latino, stating, \"Racial minorities should know they should not try to fill each other's vacancies.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/article/Willie-Brown-Gavin-Newsom-Kamala-Harris-Senate-20-15753719.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/article/Willie-Brown-Gavin-Newsom-Kamala-Harris-Senate-20-15753719.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/70/31/06/14782875/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-25T09:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-matt-schlapp-nevada-allowing-trump-team-to-present-election-fraud-case-a-great-step.md",
+      "title": "Matt Schlapp: Nevada allowing Trump team to present election fraud case 'a great step'",
+      "excerpt": "Nevada is ready to hear the Trump campaign's case regarding illegal balloting allegations in Clark County, American Conservative Union chairman Matt Schlapp told “Hannity” Tuesday night.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T2IVhhohVNA/matt-schlapp-nevada-trump-2020-campaign-voter-fraud-evidence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T2IVhhohVNA/matt-schlapp-nevada-trump-2020-campaign-voter-fraud-evidence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a39d9ca-7e33-421e-862b-e0365bb7572a/56154299-b3ae-4b7d-8280-f85802fb865c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/matt-schlapp-nevada-trump-2020-campaign-voter-fraud-evidence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-schlapp-nevada-trump-2020-campaign-voter-fraud-evidence.amp",
+      "publishedDateTime": "2020-11-24T20:44:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

@@ -176,6 +176,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden Expected to Name Top Economic Officials This Week"
+    excerpt: "President-elect Joseph R. Biden Jr. is expected to nominate Neera Tanden, a divisive figure within the Democratic Party, to lead the budget office. He also named an all-female communications staff."
+    publishedDateTime: 2020-11-29T22:38:00Z
+    webUrl: "https://www.nytimes.com/2020/11/29/us/politics/biden-cabinet-tanden-rouse-adeyemo.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/29/us/politics/biden-cabinet-tanden-rouse-adeyemo.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/29/us/politics/biden-cabinet-tanden-rouse-adeyemo.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/29/us/politics/29dc-bidenecon/29dc-bidenecon-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden promises some student loan forgiveness. Student borrowers hope he delivers."
     excerpt: "While President-elect Joe Biden has said he would implement his student loan forgiveness plan \"immediately,\" he has not committed to widespread student debt cancellation."
     publishedDateTime: 2020-11-26T01:27:00Z

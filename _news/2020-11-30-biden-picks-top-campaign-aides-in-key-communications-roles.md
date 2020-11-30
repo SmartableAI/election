@@ -3,8 +3,8 @@ category: news
 title: "Biden picks top campaign aides in key communications roles"
 excerpt: "President-elect Joe Biden on Sunday tapped key campaign staff and advisors to lead his communications team, naming former Obama State Department spokeswoman Jen Psaki as his White House press secretary and campaign spokeswoman Kate Bedingfield as communications director."
 publishedDateTime: 2020-11-29T22:51:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-communications-idUSKBN2890YK"
-webUrl: "https://www.reuters.com/article/us-usa-biden-communications-idUSKBN2890YK"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-communications/biden-picks-top-campaign-aides-in-key-communications-roles-idUSKBN2890YK"
+webUrl: "https://www.reuters.com/article/us-usa-biden-communications/biden-picks-top-campaign-aides-in-key-communications-roles-idUSKBN2890YK"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890YK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890YK"
 type: article
@@ -110,6 +110,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542749964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR0C4"
         width: 817
         height: 545
+        isCached: true
+  - title: "President-elect Joe Biden hires all-female communications staff"
+    excerpt: "Harris administration appointed the country's first all-female communications team to relay messages from the White House."
+    publishedDateTime: 2020-11-30T00:29:00Z
+    webUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fc4269350e71a0011557de4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Wisconsin counties finish recounts, Biden's lead reconfirmed"
     excerpt: "The recount of presidential ballots in Wisconsin’s two largest counties finished on Sunday, confirming that Democratic President-elect Joe Biden defeated President Donald Trump in the key swing state by more than 20,"
@@ -250,6 +266,22 @@ related:
     quality: 118
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ed262a37-92af-4224-a0d3-88b36a331cec-TRUMP_KENOSHA_1048.JPG?auto=webp&crop=3899,2194,x0,y289&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Three major developments in President-elect Joe Biden's transition to the White House"
+    excerpt: "Since President-elect Joe Biden’s victory earlier this month, President Donald Trump has refused to concede and continues to make baseless claims of voter fraud –– pushing election lawsuit battles across the country,"
+    publishedDateTime: 2020-11-29T17:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/29/when-inauguration-joe-bidens-white-house-updates/6443749002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6443749002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6443749002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/62d96c6a-b6f3-4091-aacb-149110e7fa61-AP20324781057068.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -449,23 +481,7 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Three major developments in President-elect Joe Biden's transition to the White House"
-    excerpt: "Since President-elect Joe Biden’s victory earlier this month, President Donald Trump has refused to concede and continues to make baseless claims of voter fraud –– pushing election lawsuit battles across the country,"
-    publishedDateTime: 2020-11-29T17:17:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2020/11/29/when-inauguration-joe-bidens-white-house-updates/6443749002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6443749002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6443749002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 68
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/62d96c6a-b6f3-4091-aacb-149110e7fa61-AP20324781057068.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "ruK11v1yviFhQwj+uhtuaofEg7bhhuTAPmTAEYb1990hfBntrZ0KHawAbZCK1SQbUGPsdBjZFdQ0V16sr4UwYj5669n+Ya7ovX8GE2c2lMTMOn8/xmlPgtoDHWLfjKBci8bEerTYvLnWmQ8LSAu/U22c1bSkekbix54gHw7qSl7KdDRfrmOxJmu5eFOBHqy82ka/ozdzyNby7LUbJsr5pAmAXn2GA1i3WIntCRARnXHvh6X7tJbJvlihuZFhyufxBIo9+szWIfuEcR2BZpcjgzEIz8hqvYZL4twk84s9KQTXWdCjlcZ2KDMD9PeNBhol/zHXQGgl3oiuvkV1lJ1Nkh2Jn+9PWNhZds61Tg+ccvA=;SOJYTFLHuy+3lOnNzhT/bw=="
+secured: "9YZf7vIbDEWjqpAE7jd98XOukG2X2MqQaH+KwW1J3znsgJ18QowgZ+d2sKgaGQrUgpvxnaHm5kJ8mTNvP64YW4dyMuM3l1s8LEmxuVfDfsvX4/3zaOEc812HPQr5i9vvmeFCbrtqlHKAN3V5Sn+9NKZBSBEnm2OI8YnRPqdOqTuwKzEYWUo/BIv4QrLgQBQk7433lXuc844D9zskWqvfF7U3pybG7bqOCa3o92NsMD3bFvHL+MYkFpNdkgHatS7xA6bKpFy/VJWv+XuBdBkrPGAuJaP37XaSekrSAD8Qhwb6zuW6eWYkCClPegsNXgnF2iKb86LNeJQ3RREuM04k+n6WCJQzqZs5eZiK6081re4=;lgqQjUSomqWAqKi9bCBS8w=="
 ---
 
