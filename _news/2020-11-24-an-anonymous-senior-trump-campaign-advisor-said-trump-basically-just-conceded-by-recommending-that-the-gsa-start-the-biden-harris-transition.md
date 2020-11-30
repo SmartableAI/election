@@ -112,6 +112,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Supreme Court hears Trump bid to bar illegal immigrants from U.S. census count"
+    excerpt: "U.S. Supreme Court justices on Monday began hearing arguments on President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states,"
+    publishedDateTime: 2020-11-30T15:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
+        width: 817
+        height: 545
+        isCached: true
   - title: "President Trump's war on immigration takes on political overtone at Supreme Court"
     excerpt: "The president is seeking to exclude undocumented immigrants from census calculations used to apportion House seats, electoral votes and federal funds."
     publishedDateTime: 2020-11-29T14:11:00Z
@@ -224,6 +240,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "U.S. Supreme Court mulls Trump bid to exclude illegal immigrants from population count"
+    excerpt: "U.S. Supreme Court justices on Monday are set to consider President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states, a facet of his hardline stance toward immigration being pursued in his"
+    publishedDateTime: 2020-11-30T16:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-census/u-s-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
+        width: 817
+        height: 545
+        isCached: true
   - title: "From the coronavirus to the environment, Biden plans to take government in new direction"
     excerpt: "A review of Biden's plans so far suggests that among his priorities will be tackling COVID-19, rolling back Trump actions, expanding on Obama initiatives."
     publishedDateTime: 2020-11-24T21:05:00Z
@@ -317,14 +349,14 @@ related:
   - title: "Completed Wisconsin recount confirms Biden's win"
     excerpt: "Wisconsin finished its two-county presidential results recount on Sunday, confirming Democrat Joe Biden's victory over President Donald Trump. The Dane and Milwaukee County totals found Biden adding 87 to his 20,"
     publishedDateTime: 2020-11-30T07:58:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/30/completed-wisconsin-recount-confirms-bidens-win/6461498002/"
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/30/completed-wisconsin-recount-confirms-bidens-win/6461555002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/41c3301f-0cfb-49be-aaf3-818f4eb64a0d_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f5b631a3-708f-48cf-887b-dbfad2735704_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Melania Trump's White House holiday decor spotlights essential workers"
+    excerpt: "'Tis the holiday season at the White House. All of the halls, from the East Room to the Red Room, were decked by over 125 volunteers this weekend and unveiled Monday to feature classic holiday décor with an \"America the Beautiful\" theme for the Trumps' final Christmas in office.\n    \n"
+    publishedDateTime: 2020-11-30T15:13:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4piMF8Sq3os/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130093329-01-white-house-holiday-decorations-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump posts video that misleads on the President's LGBTQ policies"
     excerpt: "Melania Trump tweeted a video of herself posted Thursday discussing for three minutes the efforts the Trump administration has made to support the rights of the gay community, blaming sentiments that President Donald Trump opposes gay rights on his \"many enemies in the political establishment.\"\n    \n"
     publishedDateTime: 2020-10-30T21:05:30Z

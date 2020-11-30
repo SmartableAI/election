@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Janet Yellen and Kamala Harris keep shattering glass ceilings – but global elite boys club remains"
-excerpt: "Young, University of Massachusetts Amherst and Tuugi Chuluun, Loyola University Maryland (THE CONVERSATION) Janet Yellen may soon become the first woman to lead the Treasury Department, about six years after shattering another glass ceiling at the top of the Federal Reserve."
-publishedDateTime: 2020-11-25T13:37:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
+title: "What Did Kamala Harris Say On Twitter That’s Causing A Stir?"
+excerpt: "A fact-check from The Washington Post found most of those arrested during summer protests in Minnesota didn’t have to pay a cash bail."
+publishedDateTime: 2020-11-30T16:18:00Z
+originalUrl: "https://www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534"
+webUrl: "https://www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534"
+ampWebUrl: "https://www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534?amp=1"
 type: article
-quality: 91
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/09/kamala-harris.jpg"
+    width: 1024
+    height: 766
+    isCached: true
 
 related:
   - title: "Kamala Harris calls teen who went viral for painting portrait of vice president-elect"
@@ -41,22 +47,17 @@ related:
         width: 909
         height: 630
         isCached: true
-  - title: "What Did Kamala Harris Say On Twitter That’s Causing A Stir?"
-    excerpt: "A fact-check from The Washington Post found most of those arrested during summer protests in Minnesota didn’t have to pay a cash bail."
-    publishedDateTime: 2020-11-30T16:18:00Z
-    webUrl: "https://www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534"
-    ampWebUrl: "https://www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534?amp=1"
+  - title: "Janet Yellen and Kamala Harris keep shattering glass ceilings – but global elite boys club remains"
+    excerpt: "Young, University of Massachusetts Amherst and Tuugi Chuluun, Loyola University Maryland (THE CONVERSATION) Janet Yellen may soon become the first woman to lead the Treasury Department, about six years after shattering another glass ceiling at the top of the Federal Reserve."
+    publishedDateTime: 2020-11-25T13:37:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/09/kamala-harris.jpg"
-        width: 1024
-        height: 766
-        isCached: true
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 91
   - title: "Omaha's Symone Sanders will be chief spokeswoman for VP-elect Kamala Harris"
     excerpt: "Symone Sanders is a graduate of Mercy High and Creighton University; her mother is publisher of the Omaha Star."
     publishedDateTime: 2020-11-29T23:29:00Z
@@ -138,6 +139,6 @@ related:
         height: 676
         isCached: true
 
-secured: "4++i3Qw7iM2TXmaRztkaGruxLuODI/qR4HAcvqY89JSVfeARoQRgpfxJ4wnMhD45dDCEYkzWodxog/0f7Pl9NU5Ikx4k07eRFqkOotoOw0B/jxxZ++flhxLZTd2uqFVQpmUSzoWEr4+Q3CZORRlEZhGaPt8Nna6zLXkXWOTx43TuuQhcVophVi1CkPfhc1bYmIRHAfei72QckA4/8nSdiztz19OiRlaYrr+BKc/YIoOitcBCUNUGMjUxxYV5vzxFm16L6hcRMkBkpXZTwe/h4nIkYgzIl9oBkk0+j284WOq0pHl82XQphYAC6QnFz/vQXtmq4uYz2a92SHGZ+/tKfN1W58qkTWAWqQqm5sYjOD0=;tM+RPXEwIvPeH+97AcOQNQ=="
+secured: "Bc+fUO0vprozuRqN8EmMAHAw3xfumWI3qDKZjXcwl671NUlVbuBgvKAWzsHg4jJ8AYfznNlKLrmb3gYgTFjrpWLMtxabDWL0s9MYBkr6tq8iX2rosc1vWYeDYSsTIm2r6Bz96JJvyttNDbuDK393YaX82BznXIt9oaztOjlogwioV+HkY8/rPpQGkbHl76HBuU8jzqqa9zRrOsuAFU2iePmhD+xRfB012KFBpm3wmH4OzDFsgv4Hh4z/PI+Ksqzqs+7wzVPBrpme4XuwF4lJXhTFWYAHWAg/UoDl22hDfZMPiefmxFAANTxiojtDmA8mtf3Bz8H35esSewGhAywgD5wJt8xbosS5wQ8WhfwHe7U=;vCMrZMf0ySeRU6IJ3mSpVQ=="
 ---
 

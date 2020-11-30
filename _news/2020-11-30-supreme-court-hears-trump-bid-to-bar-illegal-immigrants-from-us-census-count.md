@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden gains 87 votes in Trump's $3M Wisconsin recount as Dane County wraps up review. President plans lawsuit."
-excerpt: "Biden netted 132 votes in Milwaukee County and Trump netted 45 votes in Dane County. Taken together, that increased Biden's statewide lead to 21,695."
-publishedDateTime: 2020-11-29T17:28:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/29/wisconsin-recount-completed-biden-gains-dane-country/6456378002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/29/wisconsin-recount-completed-biden-gains-dane-country/6456378002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-ampWebUrl: "https://amp.usatoday.com/amp/6456378002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6456378002"
+title: "Supreme Court hears Trump bid to bar illegal immigrants from U.S. census count"
+excerpt: "U.S. Supreme Court justices on Monday began hearing arguments on President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states,"
+publishedDateTime: 2020-11-30T15:44:00Z
+originalUrl: "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
+webUrl: "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
 type: article
-quality: 120
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/ffd79519-3119-4182-b2c8-3743924ea336-MJS_recount_4_hoffman.jpg_RECOUNT.jpg?auto=webp&crop=4516,2541,x0,y210&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -127,22 +127,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Supreme Court hears Trump bid to bar illegal immigrants from U.S. census count"
-    excerpt: "U.S. Supreme Court justices on Monday began hearing arguments on President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states,"
-    publishedDateTime: 2020-11-30T15:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
-        width: 817
-        height: 545
-        isCached: true
   - title: "President Trump's war on immigration takes on political overtone at Supreme Court"
     excerpt: "The president is seeking to exclude undocumented immigrants from census calculations used to apportion House seats, electoral votes and federal funds."
     publishedDateTime: 2020-11-29T14:11:00Z
@@ -158,6 +142,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/05/30/USAT/69ac00ae-95d1-4bf3-a68c-8cc7972d3dd5-AP_Supreme_Court_Census_Citizenship.JPG?auto=webp&crop=4199,2352,x0,y251&format=pjpg&width=1200"
         width: 1200
         height: 672
+        isCached: true
+  - title: "Biden gains 87 votes in Trump's $3M Wisconsin recount as Dane County wraps up review. President plans lawsuit."
+    excerpt: "Biden netted 132 votes in Milwaukee County and Trump netted 45 votes in Dane County. Taken together, that increased Biden's statewide lead to 21,695."
+    publishedDateTime: 2020-11-29T17:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/29/wisconsin-recount-completed-biden-gains-dane-country/6456378002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6456378002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6456378002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/ffd79519-3119-4182-b2c8-3743924ea336-MJS_recount_4_hoffman.jpg_RECOUNT.jpg?auto=webp&crop=4516,2541,x0,y210&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Live political updates: Trump says he would 'certainly' leave White House once Electoral College votes for Biden"
     excerpt: "President Donald Trump has yet to concede the race but his administration cleared the way this week for Biden's team to have access to federal resources and briefings during the transition. Be sure to refresh this page often to get the latest information on the election and the transition."
@@ -406,6 +406,6 @@ related:
         height: 600
         isCached: true
 
-secured: "LyM+5lS4YEQtKYPoAMOVhmEBM5scorUXxtWh8ah0DfsDAryzU++fdSIbNjXfh8vXMqEsgLS06cpE9fcfYssY7/7hxv+zzxWeur3GHhDwsVX4/WDza2OH4VpMoUDAXS4lz9Fb+ntdmg/WajUYHrbYu8QwMcN2G6JEDFG6E1txyewTAGf4uNsZtYxFkVxKtphTiao4RlRm5JxHcZaiiF1ZYi+bIFToZtfYMittq8sALdvo58fMlhPiZyGuk40WcUPppQ6gfuIkWqJb53d2vD2Ccyk4aHvYveFAvcT+Y1IgSIBfaZ65nFmFZfsPAc24pnnGjuZUyKAVRjNCuTQfZqH1LXnHCig0NBsfkr1pr+eUcpExxJljRwDHway1DWX7/1mvtkw2kU+N24cBDF0/BYw0RxZTprMhPCmD55bSr86FY3uID/iYxlPNGVoOvIalv1bllAIw9v90HPTOEt7e0UjiLnaMaSLP6U+ZZHnyy1CMp0xrFzr22F+h1zFAmrUFukKtujFFW1prKZsowDw7mTTtzg==;VgXtNCTa/skDsdoNF7VO8Q=="
+secured: "T+18xHpRXkcR7EmcaofC+MVMST/+4ozwaeQTkPH4Z1fmqbioggEIEXnDCH85O6EaMrg1JeaZhjiEK9IQqdPBCbc7N9JMret3j/v6MlLnuIXf8xW5NvMeAmhygrUn+/zUMjQl49pm66oYivXDPRIq3NafvRr975+yPEiaNFvk6e0ITLP+lRVjhQlChVLpohqfD4/z0joQQGVRDj2/Dqt7YvB28a3Jk/zKWPZNK9wnTsfJfkoUhYaCs35mlows+9ms2O5ABVAjzgjTy0wH95xSRmY45RZf2zMsMGUC1G5Ou/4FOuKhlyqnTQ4hv58Xo3k/ChG7rEvr6MaNHACXPP3UpSJkNfIgJhq+d1mMiOcoULA=;D8dUDLkT1vFFIy+V6bxIYw=="
 ---
 

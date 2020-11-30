@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump's legal defeats pile up while his attacks on Georgia's election system raise GOP concerns"
-excerpt: "President Donald Trump is pushing contradictory messages about Georgia, calling the state's election system fraudulent at the same time he is urging his supporters to turn out for Republican Sens. Kelly Loeffler and David Perdue in twin runoff races that will determine control of the US Senate."
-publishedDateTime: 2020-11-28T21:00:00Z
-originalUrl: "https://www.cnn.com/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-webUrl: "https://www.cnn.com/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+title: "Canada to Trump: You can't take our prescription drugs"
+excerpt: "Canada is putting the kibosh on President Donald Trump's efforts to lower drug prices by importing medications from our northern neighbor.\n    \n"
+publishedDateTime: 2020-11-30T16:16:43Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnI4UU8-Rj4/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnI4UU8-Rj4/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
 type: article
-quality: 138
+quality: 175
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/190103095059-20190103-drug-prices-gfx-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -64,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Canada to Trump: You can't take our prescription drugs"
-    excerpt: "Canada is putting the kibosh on President Donald Trump's efforts to lower drug prices by importing medications from our northern neighbor.\n    \n"
-    publishedDateTime: 2020-11-30T16:16:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnI4UU8-Rj4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190103095059-20190103-drug-prices-gfx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Georgia secretary of state says Trump threw him under bus despite his support"
     excerpt: "Georgia Secretary of State Brad Raffensperger on Wednesday lambasted President Donald Trump, saying that the commander in chief threw him under the bus although he voted for him.\n    \n"
     publishedDateTime: 2020-11-25T13:34:43Z
@@ -96,7 +79,23 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's legal defeats pile up while his attacks on Georgia's election system raise GOP concerns"
+    excerpt: "President Donald Trump is pushing contradictory messages about Georgia, calling the state's election system fraudulent at the same time he is urging his supporters to turn out for Republican Sens. Kelly Loeffler and David Perdue in twin runoff races that will determine control of the US Senate."
+    publishedDateTime: 2020-11-28T21:00:00Z
+    webUrl: "https://www.cnn.com/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 138
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
-secured: "erN2rYdYvKIg7RzFuw5RiHol6usjJeAvqaXi8ag6/KDc0+erZUFtgQgrghyrmlrUOdG+1MRclZKrt54WAKknwB7xZWsaU0ZgwQ9vnovO2VBWEw8yMuyErbx3pTO4QBk3aGwKKKsLNZr7uvxbkon9hIPNBOj8GlL03eGVCWq+mZzBy/7TKnpdMQeTSFVdh+Hy2uAXf35B9ikH3rHxL6bUkyCJ4H1yleTV2lT8Esm+V7ZpDCLf02taEYtQUesM7xeRrj9Nby7owtxXy46kRx0DzUEVfmPFjCock2NECD1vLZN750LS/4bfkjjnBGwOv2+I6+VBh7jMusjvlRA5nqmp/qiX9spBfrzXMR3Idi3YtvkYUzUzFFUUzelQBsrBEKmlqpD+PzZ2u/h7bLmWo2sL4xLJJCnr6QQ4zqyBIlo8i1p0Almb9ZJ4gdhVBcMJqXGHFRzBKgTfMD3UdW4edlN1phzwIXSdw5GSfKXSyNs4DQpEFy3ki1N3oFf1RA9Wpbx1Q6tgxypJSJLla9lw5T/aRg==;NyR3VfVgYzXqGAylYnCTNg=="
+secured: "4SAAW/sld4k6xNoLJVn386uQAjFB6rBGNUMwkNiPAwYClQz9cUkuOYUfgYPBqg0gQTTP3QxyvNJeakopdcgup7qpP3BVw8QwMNuAJ13B2vWUiaEKA3nyeu1vP/4XrLCQevafhcB7eLqG7grd8cIwf9/ouK5VjnRLLC8kQIKPEkGA5sfu6a8qbb7Wuixvu71ComuhzdO40fJj7bkO+m1drU6Pg+RiSwghEivzJgt8MO/8sEllOlo93yvd4zd+l8kdbLWw0aCZz6KCh7DixKUZKujK8YstovHENUKfSSsJwtHC5p22xPJv2oQ4b7LkADWW5tu3ZAZLEbxRUxwKRGWDxyCjqBMgAlk0o2kHGOBZy2w=;OTFJ89i1u0ny+5D3CIZyRw=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pennsylvania lawmaker learns of positive COVID-19 test while meeting with Trump: report"
+    excerpt: "A Pennsylvania state senator abruptly left a meeting with President Trump after being told he was positive for the coronavirus, a source told AP."
+    publishedDateTime: 2020-11-30T10:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/30/trump-meeting-pa-lawmaker-mastriano-told-he-has-covid-report/6461577002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6461577002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6461577002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/30/USAT/c13c2134-3d9a-42a8-93cc-895d30d08dd1-AP20312766885485.jpg?auto=webp&crop=5268,2964,x0,y268&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Chris Christie dismissed Trump's legal team as 'a national embarrassment'"
     excerpt: "The former New Jersey governor and staunch ally of the president said that in cases of voter fraud, there is \"an obligation to present the evidence.\""
     publishedDateTime: 2020-11-22T17:31:00Z

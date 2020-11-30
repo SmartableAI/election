@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-tyler-gordon-portrait
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-tyler-gordon-portrait/"
 type: article
 quality: 118
-heat: 238
+heat: 258
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Houston Chronicle
       domain: houstonchronicle.com
     quality: 91
+  - title: "What Did Kamala Harris Say On Twitter That’s Causing A Stir?"
+    excerpt: "A fact-check from The Washington Post found most of those arrested during summer protests in Minnesota didn’t have to pay a cash bail."
+    publishedDateTime: 2020-11-30T16:18:00Z
+    webUrl: "https://www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534"
+    ampWebUrl: "https://www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/09/kamala-harris.jpg"
+        width: 1024
+        height: 766
+        isCached: true
   - title: "Omaha's Symone Sanders will be chief spokeswoman for VP-elect Kamala Harris"
     excerpt: "Symone Sanders is a graduate of Mercy High and Creighton University; her mother is publisher of the Omaha Star."
     publishedDateTime: 2020-11-29T23:29:00Z
