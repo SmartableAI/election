@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Biden to receive first presidential daily briefing"
+    excerpt: ""
+    publishedDateTime: 2020-11-30T04:50:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ixx6PQIJ67M/live-updates-biden-to-receive-first-presidential-daily-briefing"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-to-receive-first-presidential-daily-briefing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-to-receive-first-presidential-daily-briefing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57eef4cf-e3b7-4faa-9e42-64adf7fa2b16/53ed1ef5-d63d-4971-9edf-cd960aca9139/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Mitt Romney accuses Trump of trying to 'subvert' will of the people"
     excerpt: "Follow for the latest updates on President Trump's legal fight over the 2020 election."
     publishedDateTime: 2020-11-20T08:04:06Z

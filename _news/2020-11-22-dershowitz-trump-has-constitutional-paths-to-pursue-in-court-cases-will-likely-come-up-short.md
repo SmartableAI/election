@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Live Updates: Trump says he won election, repeats claims of voting irregularities"
-    excerpt: "President Trump called into an event held by Pennsylvania Republicans on Wednesday, where he reiterated his claim that he won the Nov. 3 election and reasserted claims of voting irregularities."
-    publishedDateTime: 2020-11-26T06:07:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rw50pE_dIaI/live-updates-election-11-26-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-26-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-26-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/33478f5e-5929-44a4-ab6e-2513364ed583/e5e9f1da-ae85-4261-b45e-c723c100e82f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "rEr4qM8scXnoe5CoNt+C55HxcSISuvVGdvAR/dv5R0Pn68qg8Ha2C5JaMDkIfv7yThkDiUBTyVILOvXu/uE8yNjujklPfHMFNrF4fCgOCF0spdBg0CNKF0SHts+HQyNLuL+JariYXaV9w7j4AJ+OrZRSLr3pMS3PrSyh0jsL8Vi9Qs0LFYlQFvFf0pn/ysBOKFvoB/NpUrMp5rk/rLLiFSY7GIEW9QvtSIcZ0uOAWToCzKKkFDWaS5VQa8L/jZPi0aV2FuFXIeLIZsKExXssRhzb89GKVRa5RKU9/rY+poTbDFc7vl9+fTFNkSDLrBXPujP/QAISlfELOUV5j5kHzHq6ry+2T56UnLhi/xjJuLo=;IVcvOJ2S86oWZ4DddCuHRA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-seizes-on-nevadas-clark-count
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem.amp"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://images.wsj.net/im-262906/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "OMB Lists Positions Stripped of Job Protection Under Trump Order"
-    excerpt: "Youre fired. They defined his celebrity on reality television, and they could now make him infamous among career civil servants"
-    publishedDateTime: 2020-11-23T22:41:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/47/473955_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "KirSkWzKBp4XodVHxuQ54FRVUOEn42verQeJ2S14ytCscq9mtNbiuWkUctaTvkUMUymhh9RJVMzHOvprQ1gyNAN6XWiO4dada6fpkjt0MmQiy52nVp+VCOQrbHRBPfBk4b/TNG9Jc+TPvql48Ej2/xDZfDoq99UYjpD5uL1fjmoI6lvr2TRLnh50zYWjTUaUWhRRNphyCvKt/P3bKN8WBhhYEQmEr0BX6f4+bQJchGiYDWDil490vgIrX0iXRtjs8UdVIGTjqY2tW76aUvfTQ2K2tiO9cXVqqGm5m2spb+apLQIRwyeZEQ4s9kgjheSb7HeIIT1tHV0R4waElTKn9QJZ4ommjpY7QN+kvlUpYbo=;Vzm+Cqjd6/Qpx4sCdsrLDw=="

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Trump questions whether Supreme Court would hear election challenge as options dwindle"
-excerpt: "President Donald Trump on Sunday questioned whether the Supreme Court would ever hear a case airing his unproven allegations of widespread election fraud as senior U.S. Republicans said a transition to a Joe Biden presidency looked inevitable."
-publishedDateTime: 2020-11-30T02:21:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN2890NP"
-webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN2890NP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2890NP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2890NP"
+excerpt: "President Donald Trump questioned on Sunday whether the Supreme Court would ever hear a case airing his unproven allegations of widespread election fraud as more U.S. Republicans said a transition to a Joe Biden presidency looked inevitable."
+publishedDateTime: 2020-11-30T03:19:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN2890NP"
+webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN2890NP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2890NP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2890NP"
 type: article
 quality: 132
 heat: -1
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "AP FACT CHECK: Trump clings to bevy of bogus election claims"
+    excerpt: "President Donald Trump clung to false notions Sunday that Joe Biden stole the presidential election, citing thousands of votes magically switched to the president-elect and poll watchers illegally barred on Election Day,"
+    publishedDateTime: 2020-11-30T01:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-clings-bevy-bogus-election-74450952"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-bevy-bogus-election-74450952"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-bevy-bogus-election-74450952"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c8bb9f93c441453bba9524f96f509a06_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump expresses doubt on whether Supreme Court will hear election cases"
     excerpt: "President Donald Trump said on Sunday that it might be difficult to get his election fraud allegations heard before the U.S. Supreme Court, expressing doubt about his legal strategy as his hopes of overturning the Nov."
@@ -462,6 +478,6 @@ related:
       domain: abcnews.go.com
     quality: 85
 
-secured: "5NGmp+3RQHHmDqPEwQd4hK/abkjcn4B3fWmr3Ibkzf4/1GnFWLsV4kECMVMvrcOocyklwzBleWX6HMLfAQ4VWTl5yrPS3W/+pucWYinKrp6P//eET6XnHDDp6GtUPf5WP1DHCuyETfsljrnq1KZQm0XaKgS6HqbuKAPAxJpfskg4e4p7xV6riWJbZni8BWnd7T9ptZ3pX9sslbJfVsgo8S+rbGPHJEq36K5/yMy0rH3mZwb9mSv/gq30nFeewlr1D3yYCXv85CeGj919M9XUs7E2jCht3lmEhP/dEbMUdgE1MeWMXnmg4mXTQqyjcnn4iJ9m5MSl7QOJA0hl/5cBnSMAgpqsr0beKF6JIhbSV/M=;WW3NW1Lg5EvU+tMapaSQ6Q=="
+secured: "82pTE4xRUdHv11saJZONkdEmCF4A7om3WLsq0i3Y4VqHED0NVj4NltCP/0yUHLTvdbKS+II5/drKLE4/uZdzavDu/R0UMEn2c/Agvnsuz9ywvUHNi0Pe/gy2k70Vc198QIrwTq2WTV25AF/cP7NNBU5jQJ/Eik3TuzrVDP79WcFj0hpPF84bP87HLzfyOaGqCUJYH5FKBUO0vcTuK1F6mYaY9PnZQapggGDiXRCIO/6g2wcWieKFhnzvyntKAhZoEW0wOrPUsT4fNor6R189e5dzT8K9Fsg8WHXecEwZAPJFPZp7+LMwBpZdsi2LqId8jnMDo54+Z11xwOWmBC3K674HkCjuNe8T5Wqmhkbqrp4=;zFWjvme7oZGF6l8HqiPiSw=="
 ---
 

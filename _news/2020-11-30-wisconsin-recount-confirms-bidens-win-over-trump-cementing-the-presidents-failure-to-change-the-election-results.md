@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-recount-over/2020/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html?outputType=amp"
 type: article
 quality: 133
-heat: 713
+heat: 733
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542835857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0N3"
         width: 817
         height: 545
+        isCached: true
+  - title: "Milwaukee County vote recount gives Biden small boost"
+    excerpt: "Milwaukee County completed its recount of presidential ballots, finding only small changes in vote totals for one of the two Wisconsin counties recounting ballots"
+    publishedDateTime: 2020-11-30T03:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/milwaukee-county-vote-recount-biden-small-boost-74434679"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/milwaukee-county-vote-recount-biden-small-boost-74434679"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/milwaukee-county-vote-recount-biden-small-boost-74434679"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "President-elect Joe Biden hires all-female communications staff"
     excerpt: "Harris administration appointed the country's first all-female communications team to relay messages from the White House."

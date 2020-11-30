@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Biden to receive first presidential daily briefing"
+    excerpt: ""
+    publishedDateTime: 2020-11-30T04:50:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ixx6PQIJ67M/live-updates-biden-to-receive-first-presidential-daily-briefing"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-to-receive-first-presidential-daily-briefing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-to-receive-first-presidential-daily-briefing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57eef4cf-e3b7-4faa-9e42-64adf7fa2b16/53ed1ef5-d63d-4971-9edf-cd960aca9139/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden denounces 'all acts of violence' after attacks on Trump supporters at MAGA rally; Schumer, Pelosi silent"
     excerpt: "President-elect Joe Biden denounced \"all acts of violence\" in a statement to Fox News after attacks on President Trump's supporters at the so-called Million MAGA March in Washington, D.C., on Saturday."
     publishedDateTime: 2020-11-16T19:35:29Z

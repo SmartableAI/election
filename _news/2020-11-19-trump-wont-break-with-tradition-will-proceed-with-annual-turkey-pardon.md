@@ -703,6 +703,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "President-elect Joe Biden to receive first President’s Daily Brief"
+    excerpt: "President-elect Joe Biden on Monday will receive his first presidential daily briefing – a report that will contain information from the nation’s intelligence agencies. "
+    publishedDateTime: 2020-11-30T02:58:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nIQxsIEmkv0/president-elect-joe-biden-to-receive-first-presidents-daily-brief"
+    ampWebUrl: "https://www.foxnews.com/politics/president-elect-joe-biden-to-receive-first-presidents-daily-brief.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-elect-joe-biden-to-receive-first-presidents-daily-brief.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20332448254027.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump campaign files appeal after Pennsylvania judge shoots down lawsuit"
     excerpt: "President Trump’s legal team on Sunday filed an appeal to a federal judge’s ruling that struck down his campaign’s effort to block the certification of votes in Pennsylvania."
     publishedDateTime: 2020-11-22T20:14:10Z
