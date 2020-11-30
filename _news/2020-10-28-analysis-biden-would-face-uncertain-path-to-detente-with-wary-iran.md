@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D1E2"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D1E2"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/10/27/biden_wide-d2ce06a26f17d40267637f287c6c07c5694d9841.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "How Wisconsin and Michigan could deliver Biden the presidency"
+    excerpt: "The Washington Post’s Philip Bump analyzes how Democratic presidential nominee Joe Biden flipped key states blue in 2020 and what it means for his chances of winning the presidency."
+    publishedDateTime: 2020-11-05T02:01:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/how-wisconsin-and-michigan-could-deliver-biden-the-presidency/2020/11/04/457c21ca-f628-4aa3-9f11-19c95a27808f_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-05-2020/t_eb6152e9dd9141bca371527b44fc6a64_name_20201104_DemetriusFreeman_wapo_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
   - title: "'Joe Biden is a pathological liar'"
     excerpt: "This coming Tuesday, as you head off to the polls to cast your vote, remember this: Joe Biden is a pathological liar. Donald Trump may be rude and crude. He may be abrasive and off-putting."

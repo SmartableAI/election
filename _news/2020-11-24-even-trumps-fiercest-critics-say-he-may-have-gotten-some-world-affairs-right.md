@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6353491002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6353491002"
 type: article
 quality: 122
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
+    excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The Associated Press on Sunday."
+    publishedDateTime: 2020-11-30T19:14:00Z
+    webUrl: "https://www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
     excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The."
     publishedDateTime: 2020-11-30T05:35:00Z

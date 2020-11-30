@@ -111,6 +111,36 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump campaign moves to seek partial recount of Wisconsin, hoping to overturn results"
+    excerpt: "The Trump campaign says it will seek recounts in Dane and Milwaukee counties, Wisconsin's two most populous and liberal-leaning counties."
+    publishedDateTime: 2020-11-18T17:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/18/donald-trump-campaign-seek-partial-recount-wisconsin/6340896002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6340896002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6340896002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ed262a37-92af-4224-a0d3-88b36a331cec-TRUMP_KENOSHA_1048.JPG?auto=webp&crop=3899,2194,x0,y289&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Politics Chat: Trump's GOP Support May Be Waning As He Contests Election Results"
+    excerpt: "There are cracks in the wall of Republican support for Donald Trump but not enough to make the president concede that he lost the election."
+    publishedDateTime: 2020-11-22T12:20:00Z
+    webUrl: "https://www.npr.org/2020/11/22/937708572/politics-chat-trumps-gop-support-may-be-waning-as-he-contests-election-results"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 115
+    images:
+      - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Trump seeks expedited appeal of Pennsylvania ruling against effort to toss mail-in ballots"
     excerpt: "Lawyers for President Donald Trump's re-election campaign said on Saturday they are seeking expedited appeal of a Pennsylvania judge's ruling against their effort to throw out mail-in ballots."
     publishedDateTime: 2020-11-22T02:19:00Z
@@ -186,17 +216,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Appeals Court Rejects Trump Challenge of Pennsylvania Race"
-    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals."
-    publishedDateTime: 2020-11-28T02:18:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "osuYXw7sjeGSAR6vO6IYAVoeYjvUg+ixe/eiTNVgJDMB+7cts1CGTZv0X4yScTbeXvMVXEnmm801hkOos8u6nz1Jhr322IOIyXVZnHNt1ca7ImfEtM00Kan0fBQ3IWsGizeTeFewa0P4mw1p/h6yKxWMpdWTLndmvkaXl/Fb/acL1a2DfS/lHbTG27lqq0Hl1vSGetWy11Bnn+qt5PFoaAkDruywhNtRM6197IXnZsEZJOoDlMF8I7zsv5E+Xpcn1hEEB1wI6zsnwpkAk9/IkLOUj12PyJLwvKri+mVHi5S3BE0qAlwgvcahu/trtTBdjehwUnlzuyqyVDeN5RCFK0cXZav08FZQvrW96m+2mVA=;9SB+1taENC83vpGFZg92vw=="
 ---

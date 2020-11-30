@@ -2,6 +2,218 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-29-canada-blocks-bulk-exports-of-some-prescription-drugs-in-response-to-trump-import-plan.md",
+      "title": "Canada blocks bulk exports of some prescription drugs in response to Trump import plan",
+      "excerpt": "Canada on Saturday blocked bulk exports of prescription drugs if they would create a shortage at home, in response to outgoing U.S. President Donald Trump's efforts to allow imports from Canada to lower some drug prices for Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-healthcare-canada-idCAKBN2880RJ",
+      "originalUrl": "https://www.reuters.com/article/usa-healthcare-canada-idCAKBN2880RJ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542764319&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR0I7",
+          "width": 876,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2880RJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2880RJ",
+      "publishedDateTime": "2020-11-28T16:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-29-ex-trump-campaign-adviser-carter-page-sues-fbi-comey-mccabe-and-others-for-75m-over-russia-probe-surveillance.md",
+      "title": "Ex-Trump campaign adviser Carter Page sues FBI, Comey, McCabe and others for $75M over Russia probe surveillance",
+      "excerpt": "Earlier this year, the Justice Department found it had “insufficient” cause to wiretap Page during its probe into Russian election interference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/28/carter-page-ex-trump-aide-sues-comey-fbi-over-russia-surveillance/6453096002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/28/carter-page-ex-trump-aide-sues-comey-fbi-over-russia-surveillance/6453096002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/09/20/USAT/eb2eb1d4-d4f5-4121-b463-96276dbb3600-Carter_page.JPG?auto=webp&crop=4999,2798,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6453096002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6453096002",
+      "publishedDateTime": "2020-11-28T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-trump-continues-fight-in-wis-pa-we-have-found-many-illegal-votes.md",
+      "title": "Trump continues fight in Wis., Pa.: ‘We have found many illegal votes’",
+      "excerpt": "President Trump promised to bring a case disputing the Wisconsin vote count after the recount was completed there, and said his campaign was disputing a number of votes far bigger than the margin President-elect Joe Biden won. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/08KthVMg2IQ/trump-fight-wis-pa-illegal-votes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/08KthVMg2IQ/trump-fight-wis-pa-illegal-votes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20331846075368.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-fight-wis-pa-illegal-votes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fight-wis-pa-illegal-votes.amp",
+      "publishedDateTime": "2020-11-28T15:33:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-29-joe-bidens-plans-to-carry-out-every-proposal-on-the-lgbtq-communitys-list.md",
+      "title": "Joe Biden’s Plans To Carry Out Every Proposal On The LGBTQ Community’s List",
+      "excerpt": "President-elect Joe Biden just released his plans for the LGBTQ community and he wants to grant all of it's wishes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702",
+      "originalUrl": "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/24/soundbiteus-president-elect-joe-biden-introduces-a-seasoned.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1",
+      "publishedDateTime": "2020-11-28T13:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-28-former-top-cybersecurity-official-says-trump-firing-by-tweet-was-not-how-i-wanted-to-go-out.md",
       "title": "Former top cybersecurity official says Trump firing by tweet was 'not how I wanted to go out'",
       "excerpt": "Christopher Krebs, the former top cybersecurity official, said President Donald Trump's decision to unceremoniously fire him via tweet last week was \"not how I wanted to go out.\"\n    \n",
@@ -110,58 +322,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-29-not-a-hearing-arizona-legislators-trump-lawyers-plan-public-meeting-on-election-at-phoenix-hotel-monday.md",
-      "title": "Not a hearing: Arizona legislators, Trump lawyers plan public meeting on election at Phoenix hotel Monday",
-      "excerpt": "The meeting at the Hyatt Regency in downtown Phoenix is not a hearing of the Legislature as Finchem and Trump campaign's legal team have cast it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/28/arizona-legislators-trump-lawyers-plan-phoenix-meeting-election/6449311002/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/28/arizona-legislators-trump-lawyers-plan-phoenix-meeting-election/6449311002/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6449311002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6449311002",
-      "publishedDateTime": "2020-11-28T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-28-trump-calls-on-congress-to-help-decimated-restaurant-industry.md",
       "title": "Trump calls on Congress to help ‘decimated’ restaurant industry",
       "excerpt": "President Trump took to Twitter on Friday night to urge Congress to pass the next coronavirus stimulus package and aid failing restaurants as the second wave of the pandemic is forcing some parts of the country to re-enter stricter social distancing guidelines.",
@@ -230,7 +390,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 262,
+      "heat": 282,
       "tags": null,
       "images": [
         {
@@ -271,6 +431,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-milwaukee-county-vote-recount-gives-biden-small-boost.md",
+      "title": "Milwaukee County vote recount gives Biden small boost",
+      "excerpt": "Milwaukee County completed its recount of presidential ballots, finding only small changes in vote totals for one of the two Wisconsin counties recounting ballots",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-27T16:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -922,114 +1134,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-27-trump-says-hell-travel-to-georgia-to-support-republican-senate-candidates-in-runoff-election.md",
-      "title": "Trump says he'll travel to Georgia to support Republican Senate candidates in runoff election",
-      "excerpt": "President Donald Trump said Thursday he will travel to Georgia to support the state's Republican Senate candidates ahead of the January 5 runoff election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzHZPjjJvNo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzHZPjjJvNo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201126174410-01-donald-trump-white-house-1126-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html",
-      "publishedDateTime": "2020-11-26T18:11:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic.md",
-      "title": "Joe and Jill Biden write op-ed celebrating smaller Thanksgiving amid pandemic",
-      "excerpt": "President-elect Joe Biden and his wife, Jill, wrote an op-ed on Thursday celebrating Thanksgiving and sympathizing with families who remain separated over the holiday due to the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/",
-      "originalUrl": "https://www.cbsnews.com/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/09/ad794d08-da70-4784-af10-7a0a27efa50d/thumbnail/1200x630/0a490c83b38cebb34e0afc20cddf570f/gettyimages-1229520125.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/",
-      "publishedDateTime": "2020-11-26T16:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-27-angry-trump-promises-rally-in-battleground-state-of-georgia.md",
       "title": "Angry Trump promises rally in battleground state of Georgia",
       "excerpt": "President Donald Trump on Thursday renewed baseless claims that “massive fraud” and crooked local officials in battleground states led to his election defeat, and said he’ll go to Georgia for a rally",
@@ -1038,7 +1142,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1146,7 +1250,7 @@
       "originalUrl": "https://www.cbsnews.com/news/kamala-harris-tyler-gordon-portrait/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 258,
+      "heat": 318,
       "tags": null,
       "images": [
         {
@@ -1219,114 +1323,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-family-small-group-thanksgiving-urges-americans-sacrifice-gatherings.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-family-small-group-thanksgiving-urges-americans-sacrifice-gatherings.amp",
       "publishedDateTime": "2020-11-26T10:18:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-julian-assanges-partner-appeals-to-trump-to-pardon-him.md",
-      "title": "Julian Assange's partner appeals to Trump to pardon him",
-      "excerpt": "Julian Assange’s partner, Stella Moris, has tweeted President Donald Trump on Thanksgiving, appealing to him to pardon the WikiLeaks founder",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
-      "publishedDateTime": "2020-11-26T08:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-dem-leaders-condemn-trumps-pardon-of-michael-flynn-abuse-of-power.md",
-      "title": "Dem leaders condemn Trump's pardon of Michael Flynn: 'Abuse of power'",
-      "excerpt": "Democratic leaders lambasted President Trump for pardoning his former national security adviser Michael Flynn on Wednesday, condemning the move as a \"brazen\" abuse of power. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szBHABvHeHc/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szBHABvHeHc/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76bd622f-fcba-4d7b-bb97-89d043391e11/7a684cb0-6b30-4f99-a87f-ee7e37eebddd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power.amp",
-      "publishedDateTime": "2020-11-26T08:47:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

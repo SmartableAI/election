@@ -41,6 +41,22 @@ related:
         width: 909
         height: 630
         isCached: true
+  - title: "Kamala Harris Calls Bay Area Teen to Thank Him for Painted Portrait"
+    excerpt: "A Bay Area teenager with impressive artistic skills has captured the attention of Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-11-26T19:22:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-calls-bay-area-teen-to-thank-him-for-painted-portrait/2747755/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-calls-bay-area-teen-to-thank-him-for-painted-portrait/2747755/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/kamala-harris-calls-bay-area-teen-to-thank-him-for-painted-portrait/2747755/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/TylerGordon.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "What Did Kamala Harris Say On Twitter That’s Causing A Stir?"
     excerpt: "A fact-check from The Washington Post found most of those arrested during summer protests in Minnesota didn’t have to pay a cash bail."
     publishedDateTime: 2020-11-30T16:18:00Z
@@ -121,6 +137,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Kamala Harris shares how to brine a turkey in viral video"
+    excerpt: "A 2019 video of Vice President-elect Kamala Harris offering tips on how to brine a Thanksgiving turkey is spreading across social media faster than you can pass the gravy. The video was captured and posted on Twitter by Washington Post journalist Jonathan Capehart who asked Harris for her tips on cooking a turkey as she was preparing for an appearance on MSNBC's \"PoliticsNation."
+    publishedDateTime: 2020-11-26T19:18:00Z
+    webUrl: "https://www.chron.com/bayarea/article/Kamala-Harris-turkey-bring-corn-bread-recipe-15756405.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/35/05/20304200/33/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "'She called me!!!!!': Vice President-elect Kamala Harris phones California teen to thank him for painting her portrait"
     excerpt: "Tyler Gordon said he painted Kamala Harris' portrait because he was inspired by the barriers she broke to be elected as vice president."
     publishedDateTime: 2020-11-25T00:00:00Z
@@ -137,6 +167,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Omaha native will be chief spokeswoman for Harris"
+    excerpt: "Omaha native Symone Sanders will serve as chief spokeswoman for Vice President-elect Kamala Harris. President-elect Joe Biden announced Sanders' role on his history-making communications team Sunday."
+    publishedDateTime: 2020-11-30T18:41:00Z
+    webUrl: "https://omaha.com/eedition/sunrise/articles/omaha-native-will-be-chief-spokeswoman-for-harris/article_986c2dae-a9b4-58ab-9204-46d36f1e72f4.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 35
 
 secured: "4++i3Qw7iM2TXmaRztkaGruxLuODI/qR4HAcvqY89JSVfeARoQRgpfxJ4wnMhD45dDCEYkzWodxog/0f7Pl9NU5Ikx4k07eRFqkOotoOw0B/jxxZ++flhxLZTd2uqFVQpmUSzoWEr4+Q3CZORRlEZhGaPt8Nna6zLXkXWOTx43TuuQhcVophVi1CkPfhc1bYmIRHAfei72QckA4/8nSdiztz19OiRlaYrr+BKc/YIoOitcBCUNUGMjUxxYV5vzxFm16L6hcRMkBkpXZTwe/h4nIkYgzIl9oBkk0+j284WOq0pHl82XQphYAC6QnFz/vQXtmq4uYz2a92SHGZ+/tKfN1W58qkTWAWqQqm5sYjOD0=;tM+RPXEwIvPeH+97AcOQNQ=="
 ---

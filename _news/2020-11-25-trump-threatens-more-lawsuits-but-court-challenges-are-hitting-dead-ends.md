@@ -31,118 +31,97 @@ images:
     isCached: true
 
 related:
-  - title: "Latino voters who fled dictatorships demand four more years for Trump"
-    excerpt: "Many Latino Trump supporters who escaped authoritarian regimes fear they are once again witnessing widespread election fraud despite lack of evidence."
-    publishedDateTime: 2020-11-17T13:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/17/latino-trump-voters-fear-stolen-election-amid-fraud-conspiracies/6257746002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6257746002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6257746002"
+  - title: "Arizona, Wisconsin to certify election results Monday, Trump may challenge outcome"
+    excerpt: "President Donald Trump has challenged results in several states, but the president has faced setbacks in many of those legal battles."
+    publishedDateTime: 2020-11-30T15:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6462445002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6462445002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 125
+    quality: 134
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/15/USAT/a93122e0-6b9a-4924-a36e-05d72d17be1c-LatinosForTrump-Socialism.jpg?auto=webp&crop=5759,3240,x0,y384&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/a4f30290-dae6-438d-bac6-9a31bad382f3-AFP_AFP_8UN26Z.jpg?auto=webp&crop=1023,575,x0,y77&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 674
         isCached: true
-  - title: "Lobster biz hopes for stability after tumultuous Trump era"
-    excerpt: "President Donald Trump positioned himself as a friend of New England’s lobstermen, but members of the industry said they are looking forward to the possibility of stability under President-elect Joe B"
-    publishedDateTime: 2020-11-22T15:42:00Z
-    webUrl: "https://www.washingtonpost.com/business/lobster-biz-hopes-for-stability-after-tumultuous-trump-era/2020/11/22/5d569582-2cd9-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/lobster-biz-hopes-for-stability-after-tumultuous-trump-era/2020/11/22/5d569582-2cd9-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/lobster-biz-hopes-for-stability-after-tumultuous-trump-era/2020/11/22/5d569582-2cd9-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+  - title: "Wisconsin recount confirms Biden’s win over Trump, cementing the president’s failure to change the election results"
+    excerpt: "The state’s two largest counties spent more than a week recounting ballots, but the final tally barely changed."
+    publishedDateTime: 2020-11-29T16:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 133
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "'Elders' group of ex-leaders founded by Mandela urges Trump to accept defeat"
-    excerpt: "The Elders, a group of prominent former world leaders, voiced concern on Thursday at U.S. President Donald Trump's refusal to concede electoral defeat, saying it showed disrespect for the integrity of American democracy."
-    publishedDateTime: 2020-11-12T14:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-elders-idUSKBN27S20C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S20C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S20C"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540980986&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB177"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump lawyers suffer embarrassing rebukes from judges over voter fraud claims"
-    excerpt: "Over and over again over the past week, Trump's lawyers have been forced to account for their lack of evidence. It often hasn't gone well."
-    publishedDateTime: 2020-11-11T16:57:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4X74IKWYGMI6NIHG2UBNM5I3ZA&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YNFQS4RSKEI6XNM4VW3RKPIQYI.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 1044
         isCached: true
-  - title: "Latinas for Trump founder unseated Florida Democrat after ‘shadow candidate’ with his surname entered the race"
-    excerpt: "Alex Rodriguez did not live in Miami and had never been involved in politics. But he did share a last name with the Democratic incumbent in a heated race for state Senate."
-    publishedDateTime: 2020-11-20T16:31:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/20/florida-election-trump-senator-rodriguez/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/20/florida-election-trump-senator-rodriguez/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/20/florida-election-trump-senator-rodriguez/?outputType=amp"
+  - title: "Not a hearing: Arizona legislators, Trump lawyers plan public meeting on election at Phoenix hotel Monday"
+    excerpt: "The meeting at the Hyatt Regency in downtown Phoenix is not a hearing of the Legislature as Finchem and Trump campaign's legal team have cast it."
+    publishedDateTime: 2020-11-28T16:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/28/arizona-legislators-trump-lawyers-plan-phoenix-meeting-election/6449311002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6449311002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6449311002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FMDZT4PMMJABVGESEOJQP6BKA4.png&w=1440"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Spokesman: Trump's son Don Jr. has tested positive this week for coronavirus, has been isolating and has no symptoms"
-    excerpt: "Trump's son Don Jr. has tested positive this week for coronavirus, has been isolating and has no symptoms. 24/7 coverage of breaking news and live events"
-    publishedDateTime: 2020-11-21T18:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/spokesman-trumps-son-don-jr-tested-positive-week-74326930"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/spokesman-trumps-son-don-jr-tested-positive-week-74326930"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/spokesman-trumps-son-don-jr-tested-positive-week-74326930"
+  - title: "Biden gains 87 votes in Trump's $3M Wisconsin recount as Dane County wraps up review. President plans lawsuit."
+    excerpt: "Biden netted 132 votes in Milwaukee County and Trump netted 45 votes in Dane County. Taken together, that increased Biden's statewide lead to 21,695."
+    publishedDateTime: 2020-11-29T17:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/29/wisconsin-recount-completed-biden-gains-dane-country/6456378002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6456378002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6456378002"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 102
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/ffd79519-3119-4182-b2c8-3743924ea336-MJS_recount_4_hoffman.jpg_RECOUNT.jpg?auto=webp&crop=4516,2541,x0,y210&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "A Trump speechwriter who was sacked in 2018 for meeting white nationalists has been rehired to oversee US Holocaust memorials"
-    excerpt: "President Donald Trump appointed Darren Beattie to join the Commission for the Preservation of America's Heritage Abroad on Wednesday."
-    publishedDateTime: 2020-11-19T10:51:00Z
-    webUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+  - title: "Biden gains 87 votes in Trump's $3 million Wisconsin recount as Dane County wraps up review. President plans lawsuit."
+    excerpt: "Dane County wrapped up its recount Sunday, affirming Democrat Joe Biden’s victory in Wisconsin. President Donald Trump is preparing a lawsuit."
+    publishedDateTime: 2020-11-29T21:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/29/dane-county-recount-show-biden-won-wisconsin-trump-prepares-lawsuit/6455880002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6455880002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6455880002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
     images:
-      - url: "https://i.insider.com/5fb64cfa32f2170011f6ff67?width=1200&format=jpeg"
-        width: 1064
-        height: 532
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/ffd79519-3119-4182-b2c8-3743924ea336-MJS_recount_4_hoffman.jpg_RECOUNT.jpg?auto=webp&crop=4516,2541,x0,y210&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Appeals Court Rejects Trump Challenge of Pennsylvania Race"
+    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals."
+    publishedDateTime: 2020-11-28T02:18:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "DG/Vu9fbuZZIcZCh3O8rq83A5q7qZOh47BaQpe9eWSFybnX1HXJzDdZnHP1p6NSJXZtT25QFLofLJrIerPXZF6sB1UoEJ7d+UuOc5rIc4jyur5y8m9dC9w7aFmpeTrW5ELTjczW42OjZ7XEGfUAyepgcH/r3ulI7EtMOZDihFyNWRFlr/1ghqKmRWNRlYWUhW6qPsAEcm1FfVpQc4tmy0bipV5l0Ri7XCEBY+CO0Ni+6i/8lT1o3qvEh/69E7BlHkM9tYzUP/boUHUEJrABO+v5BjJSWeUCqgQK20FkAu5UGAlfIRKpYydyikzjCexal3WGOfy8OvAMQ06Np/YeOc0Z632kMFpAaZ7/YNvJpI6OLD/exFIv6d+B5rQmq3fx3iS2BLeT3qWa5tBqRfJDGrWOcU1VrgGwPcmgNPkLykUt7NJMOsfvx8suOjbK+GtnR/zEnO1bit9HjMQIFmQOx5iU9wL6Kuxw2iUvFdtoe6822/XaU862XI8ko8NFTgZUCjISj9m4gINTFIUIbKEjVdg==;oFzzV8xCtzDvxJSEIsqRgA=="
 ---

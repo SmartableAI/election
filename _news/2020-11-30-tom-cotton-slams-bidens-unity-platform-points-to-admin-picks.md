@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-slams-bidens-unity-platf
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-slams-bidens-unity-platform-points-to-admin-picks.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden pick privately trashed him in 2015, said he would make Clinton look better by comparison"
+    excerpt: "Neera Tanden is President-elect Joe Biden's pick for director of the Office of Management and Budget, but a leaked email from 2015 indicates that Tanden may not have always believed Biden was the best Democratic presidential candidate for the job."
+    publishedDateTime: 2020-11-30T19:19:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hMFklZua2hU/biden-cabinet-nominee-tanden-privately-trashed-biden-2015-email"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-tanden-privately-trashed-biden-2015-email.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-nominee-tanden-privately-trashed-biden-2015-email.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20335233191090-e1606762419788.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "RZrivCxDbtotKBaLI1j8T/uaTaEYIhIlJj1BOiN4cfaILT21rFZLLqtGRFi1shZgw+w/5wC0F2U6itvS/9W4U2N4COqBHqBpwiRzhVHZduHvOq3rCquSvaj31LpEsSk1ZPTbvtosHEOMGBD8OSrm9msr0pzAt+8B8YZjWhW9PG0oopmpQFXvJ/wJ8AlN42yKT4sz3aC+mboU/R8B+xSEzNWjM3ZRvPsxz3j3NcvqPxNaNOqBVKt3hvMhydYA1LEuWKPOLFz21yQgaV7CshpDQYFkMehj2sBFSxAipD4o0lzMYKTxtqESIDPg8pwYo1BR0HeUO6ZwMSG0kjZAd1lZ/q0KTxKWC3Xx0iJu9bjPSjs=;EpZEut02x7VVnWY6198Pvw=="
 ---

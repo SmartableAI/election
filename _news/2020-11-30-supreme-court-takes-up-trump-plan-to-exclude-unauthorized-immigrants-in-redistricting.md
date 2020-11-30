@@ -112,6 +112,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Supreme Court skeptical of Trump's plan to exclude undocumented immigrants from census"
+    excerpt: "Several justices, including some conservative ones, seemed to doubt that the president had such a sweeping power to modify the census results."
+    publishedDateTime: 2020-11-30T17:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-skeptical-trump-s-plan-exclude-undocumented-immigrants-census-n1249373"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249373"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249373"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3431877/201130-donald-trump-jm-1222_09c5176df224157034d1666e28d89ff9.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "2xENm+BHErH4FbaigK/BHY1ebFz9EfQ5rVjA9JkVcdcKBU7PnQ8bnvqVMFhYVDOIhxbGf5BuvmH+hMcHjGutEUaRcgIMti3xpr6eYhGOMBDYUdFmF2ARoSbGFnrQhPK4ACY8d6lT6jYCqtJysZ/FzSZjbVoKQcTqfqZIOQMudBry07Wh3ifHE2fFZ+l6bPO6DF8fTSf/wXtKtQoC0sdJ7V4Qpx2jsYRAFdSmvLLEwDwGHICSO4H1CSLDkEJGrTUOwbOKtIX+eGbCWvqOsuK0a5Bd6bL8JtYYHGG5esW8tP86kK5ZatidTKkYsSjJru021WO4PY7BQymQAbFYP1GboLWp6cUqoKfIx9lKu8bVjNw=;QBhHoglM9coUoINPKVtygg=="
 ---

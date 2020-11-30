@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
+    excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
+    publishedDateTime: 2020-11-29T22:12:00Z
+    webUrl: "https://www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5fc364fd50e71a0011557d50?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "8+XnhIqe8OxyEn+T5WNUvTK4RfMnPlnT/PXwJrnXUbufoJ/15l5oQIOw8dgYSaF4LahKB+Asb9wiskRQUdZBYn5W1Q7TxIrtdelKa6wVpQ55zKRRL9U9dgm5Ep97npMHGnjWp9bKmvY8JoKQ5L1CcnFO5i+bI18RzobiXAGPamtFNYVveo0YcIkP+M1icmuHjcjJsGZYOZjB4utVScrvszBGBjZHhVp/0nrXP7K7VL5MxpWevHqetGKwgcb1nIc7AtdIyzZ6NpL9p+3Zb3It5VK54PyuoHX9djgvRGyaPRrl8FkJYyoiGzVu+uP2D32RqAbtiDJDbdliBmUxpq2b0O6UFuec08qTsX1//LkhZ4rjOfo7LfZ0N9yywi4RPZNTdpkVDUk4skhocL/j8Vm36siphUrdbtVJ7On4CDJk79L8+OuH15tMknCR059dSgzWWi4CfFdDWgm/Ga9Ye98bnNi4aN8mTwdFdptmSNKK09iLAW2XhlmuvvYuLB6jf2T+2zrz6jlGCAD8suzlfDdiCQ==;Y0QXjM+vAE1k/iH4AXGQDg=="
 ---

@@ -1447,6 +1447,22 @@ related:
       name: Time
       domain: time.com
     quality: 82
+  - title: "Biden, Harris to begin receiving classified Presidential Daily Brief for the first time"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will begin receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan 20."
+    publishedDateTime: 2020-11-30T18:27:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 82
+    images:
+      - url: "https://www.baltimoresun.com/resizer/wavSoYc6wjMeOzZdUem95afekPo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GCALR3A6ENCEHHOG4KLHACH524.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Racism, sexism and a victory. How Kamala Harris made history as Joe Biden’s vice president"
     excerpt: "Kamala Harris will become the nation’s 49th vice president, making her the first woman of color to hold the second highest office in an increasingly diverse nation."
     publishedDateTime: 2020-11-07T15:58:00Z

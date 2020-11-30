@@ -111,6 +111,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden’s win over Trump in Wisconsin set to be certified"
+    excerpt: "Joe Biden’s victory in battleground Wisconsin is scheduled to be certified following a partial recount that only added to his 20,600-vote margin over President Donald Trump"
+    publishedDateTime: 2020-11-30T20:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/bidens-win-over-trump-in-wisconsin-set-to-be-certified/2020/11/30/cb3d5dd6-3348-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/bidens-win-over-trump-in-wisconsin-set-to-be-certified/2020/11/30/cb3d5dd6-3348-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bidens-win-over-trump-in-wisconsin-set-to-be-certified/2020/11/30/cb3d5dd6-3348-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "‘We need you’: GOP hunts for new voters in Trump territory"
     excerpt: "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time"
     publishedDateTime: 2020-10-28T04:47:00Z

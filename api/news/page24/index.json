@@ -2,6 +2,63 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-10-27-stephen-colbert-mike-pence-is-americas-spare-tire.md",
+      "title": "Stephen Colbert: Mike Pence Is ‘America’s Spare Tire’",
+      "excerpt": "After the White House called the vice president an essential worker, Colbert said: “At best, he is vice essential. You want him in the trunk, but you hope to never have to use him.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/27/arts/27latenight/27latenight-facebookJumbo.png",
+          "width": 996,
+          "height": 521,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.amp.html",
+      "publishedDateTime": "2020-10-27T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-trump-admin-dismantles-firewall-for-editorial-independence-at-us-funded-media-outlets.md",
       "title": "Trump admin dismantles 'firewall' for editorial independence at U.S.-funded media outlets",
       "excerpt": "A senior U.S. official appointed by President Donald Trump has scrapped a federal regulation designed to protect the editorial independence of Voice of America and other U.S.-funded media outlets, amid accusations he is undermining the journalistic ...",
@@ -1309,58 +1366,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall-street-journal-nyt.md",
-      "title": "White House lawyer helped shop controversial Hunter Biden story to Wall Street Journal: NYT",
-      "excerpt": "A controversial story alleging wrongdoing by former Vice President Joe Biden's family in foreign business dealings was pitched by Trump allies to the Wall Street Journal before it appeared in the New York Post,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall",
-      "originalUrl": "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall?amp",
-      "publishedDateTime": "2020-10-25T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

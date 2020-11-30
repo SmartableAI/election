@@ -127,6 +127,22 @@ related:
         width: 1024
         height: 665
         isCached: true
+  - title: "Dialing into Pa. GOP meeting, President Trump shows no sign of concession"
+    excerpt: "Trump phoned into a meeting of Pa. Republican lawmakers to say he believes he was \"cheated\" out of a victory in the 2020 election and the outcome should be turned over."
+    publishedDateTime: 2020-11-26T02:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/dialing-pa-gop-meeting-president-trump-shows-sign/story?id=74405323"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/dialing-pa-gop-meeting-president-trump-shows-sign/story?id=74405323"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/dialing-pa-gop-meeting-president-trump-shows-sign/story?id=74405323"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Giuliani-gty-er-201125_1606338655585_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'Abuse of the rule of law': 1,000 ex-judges, legal experts slam Trump's false claims of voter fraud"
     excerpt: "\"Court challenges ... must be based on facts, on evidence,\" says the letter from 1,000 attorneys, including retired federal and state judges, state attorneys general and law professors."
     publishedDateTime: 2020-11-13T15:15:00Z

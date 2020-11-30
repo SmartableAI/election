@@ -58,6 +58,22 @@ related:
       name: Houston Chronicle
       domain: houstonchronicle.com
     quality: 91
+  - title: "Kamala Harris Calls Bay Area Teen to Thank Him for Painted Portrait"
+    excerpt: "A Bay Area teenager with impressive artistic skills has captured the attention of Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-11-26T19:22:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-calls-bay-area-teen-to-thank-him-for-painted-portrait/2747755/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-calls-bay-area-teen-to-thank-him-for-painted-portrait/2747755/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/kamala-harris-calls-bay-area-teen-to-thank-him-for-painted-portrait/2747755/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/TylerGordon.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Omaha's Symone Sanders will be chief spokeswoman for VP-elect Kamala Harris"
     excerpt: "Symone Sanders is a graduate of Mercy High and Creighton University; her mother is publisher of the Omaha Star."
     publishedDateTime: 2020-11-29T23:29:00Z
@@ -122,6 +138,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Kamala Harris shares how to brine a turkey in viral video"
+    excerpt: "A 2019 video of Vice President-elect Kamala Harris offering tips on how to brine a Thanksgiving turkey is spreading across social media faster than you can pass the gravy. The video was captured and posted on Twitter by Washington Post journalist Jonathan Capehart who asked Harris for her tips on cooking a turkey as she was preparing for an appearance on MSNBC's \"PoliticsNation."
+    publishedDateTime: 2020-11-26T19:18:00Z
+    webUrl: "https://www.chron.com/bayarea/article/Kamala-Harris-turkey-bring-corn-bread-recipe-15756405.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/35/05/20304200/33/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "'She called me!!!!!': Vice President-elect Kamala Harris phones California teen to thank him for painting her portrait"
     excerpt: "Tyler Gordon said he painted Kamala Harris' portrait because he was inspired by the barriers she broke to be elected as vice president."
     publishedDateTime: 2020-11-25T00:00:00Z
@@ -138,7 +168,16 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Omaha native will be chief spokeswoman for Harris"
+    excerpt: "Omaha native Symone Sanders will serve as chief spokeswoman for Vice President-elect Kamala Harris. President-elect Joe Biden announced Sanders' role on his history-making communications team Sunday."
+    publishedDateTime: 2020-11-30T18:41:00Z
+    webUrl: "https://omaha.com/eedition/sunrise/articles/omaha-native-will-be-chief-spokeswoman-for-harris/article_986c2dae-a9b4-58ab-9204-46d36f1e72f4.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 35
 
-secured: "Bc+fUO0vprozuRqN8EmMAHAw3xfumWI3qDKZjXcwl671NUlVbuBgvKAWzsHg4jJ8AYfznNlKLrmb3gYgTFjrpWLMtxabDWL0s9MYBkr6tq8iX2rosc1vWYeDYSsTIm2r6Bz96JJvyttNDbuDK393YaX82BznXIt9oaztOjlogwioV+HkY8/rPpQGkbHl76HBuU8jzqqa9zRrOsuAFU2iePmhD+xRfB012KFBpm3wmH4OzDFsgv4Hh4z/PI+Ksqzqs+7wzVPBrpme4XuwF4lJXhTFWYAHWAg/UoDl22hDfZMPiefmxFAANTxiojtDmA8mtf3Bz8H35esSewGhAywgD5wJt8xbosS5wQ8WhfwHe7U=;vCMrZMf0ySeRU6IJ3mSpVQ=="
+secured: "IoFpFMMWb29EhO50j8nmvW8FWnzcydz+yuiyDprnV52Hhx0/te6yKhuajSZ7iTN7HvYnr7ZjQz4blA0CNcBF1p6UfeKDHkL95ti8JT89nQjNP81gnxhAkJTF8l7E6PAB7c24yOTEVwDw355sO5rzWLyLdgH2+CYXgLe8+hKstcwe1m9p5iTSSrWhhc3D8Z40OYfTOOyjXrYjJm5YdFdowau6lXevqqsKmLHTQe8mwVboNrKfzZeuA9elo4+u28sTM0x++1CWHgDBCT1NVuf8U2NHCTjhdlhSD0FSD+fStncYN+e84Pjkm3udY5x0wc3WuNbL234K2we+W9V9zDtfOr+t94jpSPtMuHxG87mmNvkjQ85k/EBjzR2IBGe5/clesBgU6ipN1tqpGxycz8g3gw3C/HZMCQznPCtFiGf/h2nOjj38BAR+DLh8XRbWtZbPgiTEEXMYPRrLwV3elXeNtq5EohXITThCLIA0e0LpjU4x+g/FcUHZsCspKBKUmOEXGoNoS56BoGhfFCCh0jNGzQ==;vThWWXsP3AZuPwMTFmr2GA=="
 ---
 

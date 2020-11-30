@@ -224,6 +224,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump lawyers allege Arizona election fraud conspiracy in GOP 'hearing'"
+    excerpt: "President Trump's personal attorney Rudy Giuliani urged Arizona state legislators to get to the bottom of an alleged voter fraud conspiracy during a \"hearing\" Monday, the same day that the state certified the election for Democratic President-elect Joe Biden."
+    publishedDateTime: 2020-11-30T20:12:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p4GaJ3kAp0Q/trump-giuliani-arizona-election-fraud-gop-hearing"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-giuliani-arizona-election-fraud-gop-hearing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-giuliani-arizona-election-fraud-gop-hearing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20335611828048.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden’s Electoral College victory projected to be same as Trump’s in 2016"
     excerpt: "After the secretary of state Brad Raffensberger certified Joe Biden winning Georgia after the state’s recount, the president-elect’s electoral victory margin is equal to that of President Trump in 2016. "
     publishedDateTime: 2020-11-20T23:50:37Z
@@ -271,6 +287,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62e92172-67dd-4365-a047-6be137fd72d2/9943ce69-5c00-44cd-b562-7f17e66ab3ba/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Arizona certifies Biden as election winner, with Wisconsin expected to follow"
+    excerpt: "President Trump suffered another setback in his push to overturn his defeat in the presidential election, as Arizona on Monday certified President-elect Joe Biden's victory in the state."
+    publishedDateTime: 2020-11-30T19:33:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e6v8sUJNSuA/arizona-wisconsin-election-certification-biden-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/arizona-wisconsin-election-certification-biden-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-wisconsin-election-certification-biden-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump officials warn of new border surge if Biden reverses immigration policies"
     excerpt: "President-elect Joe Biden promised to reverse a number of key immigration policies enacted under President Trump, raising fears of a surge at the southern border, which administration officials believe they already are seeing."

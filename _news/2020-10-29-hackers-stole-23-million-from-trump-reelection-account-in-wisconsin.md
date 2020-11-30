@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-2
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/"
 type: article
 quality: 140
-heat: 900
+heat: 920
 published: true
 
 provider:
@@ -101,6 +101,22 @@ related:
     webUrl: "https://www.washingtonpost.com/national/completed-wisconsin-recount-confirms-bidens-win-over-trump/2020/11/30/e958a236-32fc-11eb-9699-00d311f13d2d_story.html"
     ampWebUrl: "https://www.washingtonpost.com/national/completed-wisconsin-recount-confirms-bidens-win-over-trump/2020/11/30/e958a236-32fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/completed-wisconsin-recount-confirms-bidens-win-over-trump/2020/11/30/e958a236-32fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden’s win over Trump in Wisconsin set to be certified"
+    excerpt: "Joe Biden’s victory in battleground Wisconsin is scheduled to be certified following a partial recount that only added to his 20,600-vote margin over President Donald Trump"
+    publishedDateTime: 2020-11-30T20:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/bidens-win-over-trump-in-wisconsin-set-to-be-certified/2020/11/30/cb3d5dd6-3348-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/bidens-win-over-trump-in-wisconsin-set-to-be-certified/2020/11/30/cb3d5dd6-3348-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bidens-win-over-trump-in-wisconsin-set-to-be-certified/2020/11/30/cb3d5dd6-3348-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

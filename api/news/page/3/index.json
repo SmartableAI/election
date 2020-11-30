@@ -2,6 +2,114 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-27-julian-assanges-partner-appeals-to-trump-to-pardon-him.md",
+      "title": "Julian Assange's partner appeals to Trump to pardon him",
+      "excerpt": "Julian Assange’s partner, Stella Moris, has tweeted President Donald Trump on Thanksgiving, appealing to him to pardon the WikiLeaks founder",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
+      "publishedDateTime": "2020-11-26T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-dem-leaders-condemn-trumps-pardon-of-michael-flynn-abuse-of-power.md",
+      "title": "Dem leaders condemn Trump's pardon of Michael Flynn: 'Abuse of power'",
+      "excerpt": "Democratic leaders lambasted President Trump for pardoning his former national security adviser Michael Flynn on Wednesday, condemning the move as a \"brazen\" abuse of power. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szBHABvHeHc/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szBHABvHeHc/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76bd622f-fcba-4d7b-bb97-89d043391e11/7a684cb0-6b30-4f99-a87f-ee7e37eebddd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-leaders-condemn-trumps-pardoning-of-michael-flynn-abuse-of-power.amp",
+      "publishedDateTime": "2020-11-26T08:47:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-theyre-baaack-trump-and-allies-still-refuse-election-loss.md",
       "title": "They’re baaack: Trump and allies still refuse election loss",
       "excerpt": "A day after Trump said his administration should begin working with Biden’s team, three more lawsuits were filed by allies attempting to stop the certification in two more battl",
@@ -10,7 +118,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/theyre-baaack-trump-and-allies-still-refuse-election-loss/2020/11/26/dbbfd81a-2fe6-11eb-9dd6-2d0179981719_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 740,
+      "heat": 860,
       "tags": null,
       "images": [
         {
@@ -107,58 +215,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-representatives-for-tiger-kings-joe-exotic-are-said-to-be-chasing-trump-down-for-a-pardon-and-spending-thousands-of-dollars-to-get-it.md",
-      "title": "Representatives for 'Tiger King's' Joe Exotic are said to be chasing Trump down for a pardon and spending thousands of dollars to get it",
-      "excerpt": "Representatives for the former zookeeper ran up a $10,000 tab at one of Trump's hotels in an effort to get his attention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11",
-      "originalUrl": "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fbefa81037cbd0018612744?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp",
-      "publishedDateTime": "2020-11-25T22:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -287,7 +343,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 194,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -608,7 +664,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 990,
+      "heat": 1050,
       "tags": null,
       "images": [
         {
@@ -1302,62 +1358,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-pennsylvania-certifies-election-results-for-biden-despite-trump-legal-challenges.md",
-      "title": "Pennsylvania certifies election results for Biden despite Trump legal challenges",
-      "excerpt": "The Pennsylvania State Department certified the results of the presidential election in favor of President-elect Joe Biden and Vice President-elect Kamala Harris, Gov. Tom Wolf said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vgaEb92DpEg/pennsylvania-certifies-election-results-biden-trump-legal-challenges",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vgaEb92DpEg/pennsylvania-certifies-election-results-biden-trump-legal-challenges",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 2020,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp",
-      "publishedDateTime": "2020-11-24T08:21:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

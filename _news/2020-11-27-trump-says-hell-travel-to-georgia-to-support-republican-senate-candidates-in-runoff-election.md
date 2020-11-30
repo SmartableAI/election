@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
 type: article
 quality: 179
-heat: 259
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Georgia Republican officials reject Trump's calls to overturn election results"
+    excerpt: "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger, both Republicans, on Monday rebuffed President Donald Trump's calls to overturn the state's election results more than a week after they certified Joe Biden as the winner.\n    \n"
+    publishedDateTime: 2020-11-30T19:06:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ui8p6fIzrZI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/brian-kemp-brad-raffensperger-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/brian-kemp-brad-raffensperger-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120184839-governor-brian-kemp-1112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's legal defeats pile up while his attacks on Georgia's election system raise GOP concerns "
     excerpt: "President Donald Trump found himself trapped in an election riddle of his own making Friday -- continuing to push false claims that the election was a \"total scam,\" even after another humiliating court rebuke in Pennsylvania, while insisting that his supporters should turn out in Georgia's January Senate"
     publishedDateTime: 2020-11-28T05:15:49Z
@@ -44,6 +60,22 @@ related:
     quality: 177
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump administration removes experts from Defense Policy Board"
+    excerpt: "Several high profile members of the Defense Policy Board were removed on Wednesday by the Trump administration, in yet another purge of longstanding foreign policy experts and national security establishment figures in the final days of the Trump era, according to three defense officials.\n    \n"
+    publishedDateTime: 2020-11-26T18:39:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k8suVwUNIo4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180602110519-pentagon-logo-podium-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -94,6 +126,36 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Experts worry Trump can't be trusted with nation's secrets after leaving office"
+    excerpt: "Some ex-intelligence officials are saying that when President Donald Trump leaves office, he should not receive access to classified information about the country's national security secrets."
+    publishedDateTime: 2020-11-27T14:04:00Z
+    webUrl: "https://www.nbcnews.com/now/video/experts-worry-trump-can-t-be-trusted-with-nation-s-secrets-after-leaving-office-96714821678"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96714821678"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96714821678"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_trump_natsec_secrets_201127_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Donald Trump Jr. aides launch super PAC as Georgia worries mount"
+    excerpt: "The president's son stars in a new ad campaign as Republicans worry Trump's voter fraud accusations will depress GOP turnout in the Senate runoffs."
+    publishedDateTime: 2020-11-30T09:44:00Z
+    webUrl: "https://www.politico.com/news/2020/11/30/donald-trump-jr-super-pac-georgia-worries-mount-441205"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d1/90/320a62d547098438aa9ed817e738/gettyimages-1268372750-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "1wx0a0fV6PIU3+zv2TdfUDmjGncOLDI2TMopcoY6uYj1XOwBSx9CKZYYQ+xvRyshtIM5cBRX/w6YVAfQ9nRZ7ZPe4rb/O19kW2aEW9bT2d/PrDI9avzDpzGajZbIIupYLfcRX6BqFwdgR0V0GEi76XZg//oklESqtwsEYuG9O5y901Ewr9jEBL4HCVT+6ew3f4cv70SRxraXvMX6kHF/FluiohDVHSL1ht7MsmKqP5ec3ITZxU+dydv4QYwZ3Om5R6uqpND9XPka4BxiX9Gpyg63RyC0AVPmcYGDai01Jr+auAeZi29sBLk+oDwJEx+121u7j1mRTE86OsgDsPnicyU4Z7WfhuVqyapQxWIf3gg=;0fyb41PdGGorcfTLKhrdAg=="

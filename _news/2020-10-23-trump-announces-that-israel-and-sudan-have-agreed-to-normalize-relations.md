@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration removes experts from Defense Policy Board"
-    excerpt: "Several high profile members of the Defense Policy Board were removed on Wednesday by the Trump administration, in yet another purge of longstanding foreign policy experts and national security establishment figures in the final days of the Trump era, according to three defense officials.\n    \n"
-    publishedDateTime: 2020-11-26T18:39:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k8suVwUNIo4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180602110519-pentagon-logo-podium-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump supporters at rallies continue to get stranded in chilly temperatures"
     excerpt: "Following at least four of President Donald Trump's rallies in the last two weeks, transportation issues left hundreds of supporters stranded for hours.\n    \n"
     publishedDateTime: 2020-11-02T18:16:48Z

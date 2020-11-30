@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-24-pennsylvania-certifies-election-results-for-biden-despite-trump-legal-challenges.md",
+      "title": "Pennsylvania certifies election results for Biden despite Trump legal challenges",
+      "excerpt": "The Pennsylvania State Department certified the results of the presidential election in favor of President-elect Joe Biden and Vice President-elect Kamala Harris, Gov. Tom Wolf said Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vgaEb92DpEg/pennsylvania-certifies-election-results-biden-trump-legal-challenges",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vgaEb92DpEg/pennsylvania-certifies-election-results-biden-trump-legal-challenges",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 2060,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp",
+      "publishedDateTime": "2020-11-24T08:21:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-joe-concha-media-coverage-of-biden-transition-has-been-just-like-the-campaign-no-scrutiny.md",
       "title": "Joe Concha: Media coverage of Biden transition has been just like the campaign, 'no scrutiny'",
       "excerpt": "President-elect Joe Biden’s transition period will be fawned over by the media compared with President Trump, Fox News contributor Joe Concha said on Tuesday.",
@@ -55,6 +111,59 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-an-anonymous-senior-trump-campaign-advisor-said-trump-basically-just-conceded-by-recommending-that-the-gsa-start-the-biden-harris-transition.md",
+      "title": "An anonymous senior Trump campaign advisor said Trump 'basically just conceded' by 'recommending' that the GSA start the Biden-Harris transition",
+      "excerpt": "Emily Murphy, the head of the General Services Administration, has allowed President-elect Joe Biden to access resources to begin the transition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fbc971050e71a0011556fe8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp",
+      "publishedDateTime": "2020-11-24T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Kamala Harris"
       ]
     },
     {
@@ -180,7 +289,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/world/2020/11/24/even-trump-critics-say-he-may-have-gotten-some-foreign-policy-right/6353491002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -284,7 +393,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2020-11-23/gm-flips-to-californias-side-in-pollution-fight-with-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1097,7 +1206,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-powell-idUSKBN2820UB",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1226,118 +1335,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp",
       "publishedDateTime": "2020-11-22T13:18:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-biden-had-been-getting-intelligence-briefings-contrary-to-what-transition-team-says-nunes.md",
-      "title": "Biden 'had been getting' intelligence briefings, contrary to what transition team says: Nunes",
-      "excerpt": "President-elect Joe Biden “had been getting” intelligence briefings contrary to what his transition team claims, House Intelligence Committee ranking member Devin Nunes, R-Calif., told “Sunday Morning Futures” in an exclusive interview.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TuT50yYk2bo/biden-transition-intelligence-briefings-devin-nunes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TuT50yYk2bo/biden-transition-intelligence-briefings-devin-nunes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-transition-intelligence-briefings-devin-nunes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-intelligence-briefings-devin-nunes.amp",
-      "publishedDateTime": "2020-11-22T12:19:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-larry-hogan-to-trump-stop-golfing-and-concede-the-election.md",
-      "title": "Larry Hogan to Trump: 'Stop golfing and concede' the election",
-      "excerpt": "Maryland Gov. Larry Hogan tore into President Trump on Sunday, telling the current White House resident to get off the golf course and concede to losing the election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gIIqcM86FI8/larry-hogan-trump-stop-golfing-concede-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gIIqcM86FI8/larry-hogan-trump-stop-golfing-concede-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 550,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/larry-hogan-trump-stop-golfing-concede-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-trump-stop-golfing-concede-election.amp",
-      "publishedDateTime": "2020-11-22T12:14:53-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2020/11/15/4aab8048-279b-11eb-9b14-ad872157ebc9_story.html?outputType=amp"
 type: article
 quality: 126
-heat: 346
+heat: 366
 published: true
 
 provider:
@@ -111,6 +111,36 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump campaign moves to seek partial recount of Wisconsin, hoping to overturn results"
+    excerpt: "The Trump campaign says it will seek recounts in Dane and Milwaukee counties, Wisconsin's two most populous and liberal-leaning counties."
+    publishedDateTime: 2020-11-18T17:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/18/donald-trump-campaign-seek-partial-recount-wisconsin/6340896002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6340896002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6340896002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ed262a37-92af-4224-a0d3-88b36a331cec-TRUMP_KENOSHA_1048.JPG?auto=webp&crop=3899,2194,x0,y289&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Politics Chat: Trump's GOP Support May Be Waning As He Contests Election Results"
+    excerpt: "There are cracks in the wall of Republican support for Donald Trump but not enough to make the president concede that he lost the election."
+    publishedDateTime: 2020-11-22T12:20:00Z
+    webUrl: "https://www.npr.org/2020/11/22/937708572/politics-chat-trumps-gop-support-may-be-waning-as-he-contests-election-results"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 115
+    images:
+      - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Trump seeks expedited appeal of Pennsylvania ruling against effort to toss mail-in ballots"
     excerpt: "Lawyers for President Donald Trump's re-election campaign said on Saturday they are seeking expedited appeal of a Pennsylvania judge's ruling against their effort to throw out mail-in ballots."
     publishedDateTime: 2020-11-22T02:19:00Z
@@ -186,17 +216,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Appeals Court Rejects Trump Challenge of Pennsylvania Race"
-    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals."
-    publishedDateTime: 2020-11-28T02:18:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "CyqmBMzTSViavaYuOnPqi+Qd3/bgVP+vrEjzVFb+QM4JCLbW/KPSr5Wt3aFNJ0Cqo1/GfPmxelt7ECg5A7mFpEu9/2EvLhNlOO90bUI+GryHUQNlvRfepiYOg7DVjsF+wFOa0Nloq+9EoSN8Or0BuLHBeN20kHS+z/VMfe1zW5R8IvEFp0eVvq3UzjY3eoIwHN/QAuTxsiPH6egtbF7D78dQd1++idX+H21RG3dV3ucgOcKD5/D0NnW/PqRSHu5RwzjOPSAdoWxcrxQL9m6k+yEyJ35njV5NH7mJqoaGV5hqEbv1nWt96Z1oy9eXUKfAYFJVdFCvhSKa6D0qGw1sOT+N4Z3EgFy8CPEiM5Yi1oH2eJrfRAjSMJFn/0iR/UvNEHmORiKq2G+Y5LvCXYjARvWNOJmmixHIjI+vmUU3Ww2yrP4zxMBm955s7KTzuCjAQbXRlzpe7rAbqfyth9EjxRTpyx5AY1yXEEsKgZunju8aVPwHh+E8Kjn6kgkJPuCoC4pjzffg3Lwl1jU+foa/PA==;gTG6rk9Kzy0iEE49LqafMQ=="
 ---

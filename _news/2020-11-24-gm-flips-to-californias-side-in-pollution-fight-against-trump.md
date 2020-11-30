@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-23/gm-flips-to-ca
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-23/gm-flips-to-californias-side-in-pollution-fight-with-trump?_amp=true"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/23/PPAS/7be99e8d-9f7d-4727-a4d5-d8781eff99c3-barra.jpg?auto=webp&crop=5267,2963,x0,y267&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Trump's war on immigration takes on political overtone at Supreme Court"
+    excerpt: "The president is seeking to exclude undocumented immigrants from census calculations used to apportion House seats, electoral votes and federal funds."
+    publishedDateTime: 2020-11-29T14:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/29/donald-trumps-immigration-election-policies-collide-supreme-court/6391231002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6391231002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6391231002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/05/30/USAT/69ac00ae-95d1-4bf3-a68c-8cc7972d3dd5-AP_Supreme_Court_Census_Citizenship.JPG?auto=webp&crop=4199,2352,x0,y251&format=pjpg&width=1200"
+        width: 1200
+        height: 672
         isCached: true
 
 secured: "S7RggAMeBGwFbwogk86cx3FAghv+G4jU+xFXfMjKnWVOWZwfjvb5th7kxQmthQAyY+1hoaEkh04dPSZnsrn1/ePr5eAps3sMQLVRB8l0nMQWm4I6T6mCYP6MOnxvQz2Z8gurWFJU2H3r6UN5N5oJbBzGvpYbxjW4tJEIFg5QpCvcbCfg5uQmKSXk5NaEc0SiSilxTJVJmMd80nPAbZCs9Ki5hI6BpJqPljzc5n9t5kYObdTEIuQSK3l2VhU0ENxPMjQfEqTKJgdeyMv8YEsjDe7PNtoSpbKRo3W+Y74VeEr8RKpvGOZIIz3PCWcbuguDQzrGqc+13OunTCNS99Dluk9VN+0W2zjoBh9lS7eJ5+0=;wNgQQyiANwXBlr9j3C5w/w=="

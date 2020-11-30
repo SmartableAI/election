@@ -47,6 +47,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Election 2020 Today: Biden chooses advisers, breaks foot"
+    excerpt: "Here’s what’s happening Monday in Election 2020 and President-elect Joe Biden 's transition. BIDEN'S ECONOMIC PICKS: President-elect Joe Biden is expected in the coming days to name several of his most senior economic advisers."
+    publishedDateTime: 2020-11-30T20:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/election-2020-today-biden-chooses-advisers-breaks-foot-74458906"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/election-2020-today-biden-chooses-advisers-breaks-foot-74458906"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/election-2020-today-biden-chooses-advisers-breaks-foot-74458906"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_2049e707cb124f88b7ae0ef8dd0602ae_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump-Biden transition live updates: Biden rolls out economic team leaders"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 51 days. Georgia Secretary of State Brad Raffensperger spoke before reporters Monday morning at the state capitol building in Atlanta and announced that his office has opened investigations into four third-party groups that he claimed are \"working to register people in other states to vote here in Georgia."
+    publishedDateTime: 2020-11-30T17:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 138
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-01-ap-iwb-201125_1606334957574_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "The Latest: Biden names 2 aides to legislative affairs team"
     excerpt: "WASHINGTON — The Latest on President-elect Joe Biden (all times local): 11:35 a.m. Support our journalism. Subscribe today. President-elect Joe Biden has named two longtime Capitol Hill aides to his legislative affairs team."
     publishedDateTime: 2020-11-23T16:40:00Z
@@ -411,6 +443,34 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201126&i=OVD67MCPR&r=OVD67MCPR&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Biden injures foot while playing with his dog"
+    excerpt: "President-elect Joe Biden suffered hairline fractures in his foot while playing with his dog on Nov. 29. Biden will wear a walking boot for several weeks."
+    publishedDateTime: 2020-11-30T12:56:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/biden-injures-foot-while-playing-with-his-dog/2020/11/30/0482afcf-7ec3-4de1-b0c7-997f0069284e_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-30-2020/t_f5bb8ecea79743948f03ae468fdb512f_name_Screen_Shot_2020_11_30_at_7_39_06_AM_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
+  - title: "President-elect Biden names senior members of economic team"
+    excerpt: "President-elect Joe Biden will announce senior members of his economic team tomorrow, including his nominee for Treasury Secretary Janet Yellen. This comes as he's facing divisions from the progressive wing of the party over some of his potential picks."
+    publishedDateTime: 2020-11-30T18:52:00Z
+    webUrl: "https://www.cbsnews.com/video/president-elect-biden-economic-team-janet-yellen/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/30/5dabf651-0fae-4b55-a201-6ff9266b1fbc/thumbnail/1200x630/f152343bf9a3140c38fea89c2d25975a/cbsn-fusion-president-elect-biden-economic-team-janet-yellen-thumbnail-598419-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
     excerpt: "Joanna Walters in New York (now) and Martin Belam (earlier) Joe Biden has just confirmed in person that Anthony Blinken will become his secretary of state. Blinken is there with other new picks. They are standing some distance from each other and are ..."

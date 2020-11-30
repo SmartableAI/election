@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Arizona certifies Biden's victory"
+    excerpt: "Arizona certified its election results on Monday, awarding the state's 11 electoral votes to President-elect Joe Biden and clearing the way for Senator-elect Mark Kelly, a Democrat, to be sworn in this week.\n    \n"
+    publishedDateTime: 2020-11-30T19:59:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pCqDXgjlyfA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/joe-biden-arizona-certification/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/joe-biden-arizona-certification/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124132329-03-biden-admin-announcement-1124-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden moves quickly to build a diverse administration"
     excerpt: "President-elect Joe Biden has repeatedly promised to build a government that \"looks like America.\" He's not wasting any time in delivering on that front.\n    \n"
     publishedDateTime: 2020-11-30T02:19:28Z
@@ -236,6 +252,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125151119-01-biden-thanksgiving-remarks-1125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here are the historic firsts in Biden's administration "
+    excerpt: "Several of President-elect Joe Biden's nominees would make history if confirmed by the United States Senate to serve in top roles in his incoming administration.\n    \n"
+    publishedDateTime: 2020-11-30T17:28:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/swylSRkYuTM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/historic-firsts-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/historic-firsts-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130111218-historic-firsts-biden-admin-yellen-mayorkas-haines-adeyemo-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -558,6 +590,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/05/13/us/onpolitics-penny/onpolitics-penny-facebookJumbo-v4.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Biden's transition challenges grow by the day"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2020-11-30T14:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/biden-s-transition-challenges-grow-day-n1249339"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249339"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249339"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3431808/201130-joe-biden-jm-0811_2cf02c2713d90360b25f8e0882afd432.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Blunt deflects on calling Biden 'president-elect'"
     excerpt: "Roy Blunt repeatedly declined to refer to Joe Biden as the “president-elect” on Sunday, despite acknowledgments from some fellow Senate Republicans colleagues who have recognized the former vice president’s electoral win."

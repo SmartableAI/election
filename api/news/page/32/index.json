@@ -2,6 +2,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-10-19-report-vice-president-mike-pence-to-visit-tallahassee-on-saturday.md",
+      "title": "Report: Vice President Mike Pence to visit Tallahassee on Saturday",
+      "excerpt": "Pence 2020 campaign stop in Tallahassee this Saturday. The news came Friday morning from ABC News, which was on a media call",
+      "sourceUrl": null,
+      "webUrl": "https://www.tallahassee.com/story/news/2020/10/19/report-vice-president-mike-pence-visit-tallahassee-saturday/3709719001/",
+      "originalUrl": "https://www.tallahassee.com/story/news/2020/10/19/report-vice-president-mike-pence-visit-tallahassee-saturday/3709719001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/9e77f718-2a68-4075-94d5-e7360a7f5a9b-VicePresidentPence_Peoria_Oct8_4.JPG?auto=webp&crop=2999,1687,x0,y100&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.tallahassee.com/amp/3709719001",
+      "cdnAmpWebUrl": "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3709719001",
+      "publishedDateTime": "2020-10-19T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tallahassee Democrat",
+        "domain": "tallahassee.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-supreme-court-to-review-trumps-remain-in-mexico-policy.md",
       "title": "Supreme Court to review Trump's 'Remain in Mexico' policy",
       "excerpt": "The Supreme Court is agreeing to review a Trump administration policy that makes asylum-seekers wait in Mexico for U.S. court hearings",

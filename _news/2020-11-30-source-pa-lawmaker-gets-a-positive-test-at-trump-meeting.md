@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
+    excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The Associated Press on Sunday."
+    publishedDateTime: 2020-11-30T19:14:00Z
+    webUrl: "https://www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "Ff1rz3TIFqU7TzQsE0Uy842eDT91dbJYVYYYmGwF5/WqWkkUtVm+G+Z9sUDVibZS4tpHOLn5MKDxuYmfujuw00vdYXd8dqWxPjDZO2kGuJxC9xR/De6VzA/QT/p8nMyahEYBOZCUYTY7SBoo+5WXo/TZgJHfKiITpifSpmA8buhb1BH4JwICfrLgZ0zMVfwRvsYSYLNlvgl1PWHevyvJRoYgJlY+Sb3LiIwv0s28/qEYftNW6oCOULjW/r9JHWSMTQrMoXeYWqGld7W2nyLe8p6Omkgvs+TLwJelwfxDxG7WSIVML/ixt4W6LwpgX+GUaFrYJFANJX9GRb1CfTEVoiC0LwFcTNeBwifXUN9ds2w=;rXXxSsS03yxqURfZH2OqqQ=="
 ---

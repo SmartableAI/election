@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Why Joe Biden's broken foot reveals how different his White House will be from Donald Trump's"
+    excerpt: "Days before Thanksgiving last year, President Donald Trump made an unannounced and previously unscheduled trip to Walter Reed medical center. The White House said the trip was for a \"quick exam and labs.\" We still don't know why he actually went -- or what the outcome of his visit was.\n    \n"
+    publishedDateTime: 2020-11-30T18:11:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fa3dXM1Avk8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/joe-biden-broken-foot-donald-trump-walter-reed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/joe-biden-broken-foot-donald-trump-walter-reed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201129190207-biden-motorcade-foot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump campaign requests Georgia recount that's unlikely to change his loss in the state"
     excerpt: "Georgia will conduct another recount of its presidential ballots following a Trump campaign request Saturday, but the recount is extremely unlikely to change his loss in the state.\n    \n"
     publishedDateTime: 2020-11-22T05:38:23Z

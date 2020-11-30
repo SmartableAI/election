@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Which Trump official has coronavirus now? This reporter always seems to know first."
-    excerpt: "If you want to find out who in the Trump administration has tested positive for coronavirus, you should probably just set an alert for Jennifer Jacobs’s tweets. The Bloomberg reporter has emerged as the preeminent source for intel on covid-19 cases in and around the White House."
-    publishedDateTime: 2020-11-24T20:08:00Z
-    webUrl: "https://www.washingtonpost.com/media/2020/11/24/white-house-trump-coronavirus-jennifer-jacobs-bloomberg/"
-    ampWebUrl: "https://www.washingtonpost.com/media/2020/11/24/white-house-trump-coronavirus-jennifer-jacobs-bloomberg/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/11/24/white-house-trump-coronavirus-jennifer-jacobs-bloomberg/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OUYQYUQI3AI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Judge orders Trump administration to stop expelling unaccompanied migrant children at US-Mexico border"
     excerpt: "A U.S. judge has barred the Trump administration from expelling unaccompanied migrant children detained at the border under an emergency health order."
     publishedDateTime: 2020-11-19T09:13:00Z

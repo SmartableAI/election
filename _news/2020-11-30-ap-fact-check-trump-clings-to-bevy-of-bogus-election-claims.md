@@ -63,6 +63,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Debunking Trump allies’ latest arguments about fraud in the 2020 election"
+    excerpt: "The 2020 presidential contest ended four weeks ago Tuesday, but for President Trump and his allies, the fight continues. The president, as you’re no doubt well aware, continues to insist that it was he,"
+    publishedDateTime: 2020-11-30T20:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/30/debunking-trump-teams-latest-arguments-about-fraud-2020-election/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/30/debunking-trump-teams-latest-arguments-about-fraud-2020-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/30/debunking-trump-teams-latest-arguments-about-fraud-2020-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 139
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CVGQRKRPI4I6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Debunking the Trump team’s latest arguments about fraud in the 2020 election"
+    excerpt: "The 2020 presidential contest ended four weeks ago Tuesday, but for President Trump and his allies the fight continues. The president, as you’re no doubt well aware, continues to insist that it was he and not President-elect Joe Biden,"
+    publishedDateTime: 2020-11-30T18:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/30/debunking-trump-teams-latest-arguments-about-fraud-2020-election/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/30/debunking-trump-teams-latest-arguments-about-fraud-2020-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/30/debunking-trump-teams-latest-arguments-about-fraud-2020-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 137
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CVGQRKRPI4I6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Former head of U.S. election security calls Trump team fraud allegations 'farcical'"
     excerpt: "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\"."
     publishedDateTime: 2020-11-28T01:36:00Z
@@ -303,6 +335,22 @@ related:
         width: 600
         height: 378
         isCached: true
+  - title: "Supreme court questions Trump bid to bar undocumented immigrants from census"
+    excerpt: "But justices seem hesitant to immediately stop policy, which could affect distribution of congressional seats"
+    publishedDateTime: 2020-11-30T20:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/30/supreme-court-us-census-undocumented-immigrants-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/30/supreme-court-us-census-undocumented-immigrants-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/30/supreme-court-us-census-undocumented-immigrants-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/ae5a128bf3337a53e3ca2f6c3cc12c8ff58e56c1/0_123_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=24c143f907bd231016a14d185c68eb66"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Here’s how seriously you should take the Trump legal team’s conspiracy theories"
     excerpt: "Powell, who serves as an attorney both for Trump and former national security adviser Michael Flynn, walked to the lectern, thanked Giuliani — and then went buckwild. “What we are really dealing with here and uncovering more by the day is the massive influence of communist money through Venezuela,"
     publishedDateTime: 2020-11-20T02:39:00Z
@@ -318,6 +366,36 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump continues to deny election results"
+    excerpt: "Watch \"President Trump continues to deny election results; repeats baseless claims of election fraud\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-30T20:38:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201130194720-president-trump-continues-to-deny-election-results-repeats-baseless-claims-of-election-fraud/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/30/story_07907014_1606765864.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Justices skeptical of Trump bid to exclude all undocumented immigrants from census"
+    excerpt: "President Donald Trump's sweeping order to exclude all undocumented immigrants from the 2020 Census faced skepticism Monday from a majority on the U.S. Supreme Court."
+    publishedDateTime: 2020-11-30T19:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/justices-skeptical-trump-bid-exclude-undocumented-immigrants-census/story?id=74465536"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/justices-skeptical-trump-bid-exclude-undocumented-immigrants-census/story?id=74465536"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/justices-skeptical-trump-bid-exclude-undocumented-immigrants-census/story?id=74465536"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/supreme-court-rt-jt-201130_1606763537529_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "With Fox’s Maria Bartiromo as his first post-election interviewer, Trump found a sympathetic ear and few questions"
     excerpt: "Trump broke his relative silence by calling into Maria Bartiromo’s “Sunday Morning Futures” show for 45 minutes. It was a major exclusive that he handed to Bartiromo, a veteran financial journalist who has emerged over the last four years as one of the biggest backers of Trump’s presidency within the Fox News Media corporate ecosystem."
@@ -493,6 +571,17 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 85
+  - title: "Supreme Court Seems Skeptical of Trump's Census Plan"
+    excerpt: "The Supreme Court sounds skeptical that President Donald Trump could categorically exclude people living in the country illegally from the population count used to allot seats among the states in the House of Representatives."
+    publishedDateTime: 2020-11-30T17:23:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-30/supreme-court-seems-skeptical-of-trumps-census-plan"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-30/supreme-court-seems-skeptical-of-trumps-census-plan?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-30/supreme-court-seems-skeptical-of-trumps-census-plan?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "O8FfztTACJ8kjJrVG6KZ4d7+H8WdrJYrs6B1aeRJ/kEZ5vhUXBI6gftHY9jdbyujHRBJOSMcXmVTb31h+7u5CrOebcFhLhT9ucu9Qth0sVGbj2ob/8YbeJ9jK8axJBmGJg+LENESATpDjMUhSFPUBpZ1M4vzDaAzDWW5IUDLDEDnWqWutl3N9tW+gTJZzlpaIwA5hfqp0OvwsCcUWCXw+sNcgVZajEHSsb004Bh53XNIzOpkdW0D6+fp30jVjHO7djyYYGpEMrJRZVAwVpsP5emJNsskI3tBvTTyLuHnhlTe286FIfzZiTGaXi7EfA7fNVf1Q+ckR0eTrsqQkBB30ZOw3lbpHwMP6BxS4wV/8go=;e0D5P11lkg51p5QVps5Rbw=="
 ---

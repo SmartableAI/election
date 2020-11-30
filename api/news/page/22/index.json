@@ -2,6 +2,63 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-10-29-wsj-opinion-vote-for-joe-biden-seriously.md",
+      "title": "WSJ Opinion: Vote for Joe Biden? Seriously?",
+      "excerpt": "Joe Biden is Bernie Sanders in sheep’s clothing. Compared to the Democrats’ grim vision of America, President Trump is the optimist. Images: AFP/Ge",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-vote-for-joe-biden-seriously/AEDF9C03-D181-4E55-AEBD-4FDB0ABC4987",
+      "originalUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-vote-for-joe-biden-seriously/AEDF9C03-D181-4E55-AEBD-4FDB0ABC4987",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://m.wsj.net/video/20201028/102820opvidwonderland/102820opvidwonderland_1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-trump-says-miles-taylor-should-be-prosecuted-after-reveal-as-anonymous-administration-critic.md",
       "title": "Trump says Miles Taylor 'should be prosecuted' after reveal as 'Anonymous' administration critic",
       "excerpt": "President Trump called Wednesday night for former Department of Homeland Security chief of staff Miles Taylor to face prosecution after he revealed himself as “Anonymous,” the former senior administration official who authored a New York Times op-ed criticizing the presidency in 2018.",
@@ -777,7 +834,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-iran-analysis-int/analysis-biden-would-face-uncertain-path-to-detente-with-wary-iran-idUSKBN27D1E2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1307,50 +1364,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-winnable-but-not-yet-won-why-joe-biden-and-mike-pence-are-both-headed-to-iowa-this-week.md",
-      "title": "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week",
-      "excerpt": "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
-      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/24/NBCC/07831130-e474-4b4b-b229-60370625a964-IMG_0726.JPG?auto=webp&crop=6075,3418,x0,y95&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/3754115001",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3754115001",
-      "publishedDateTime": "2020-10-27T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Joe Biden"
       ]
     }
   ],

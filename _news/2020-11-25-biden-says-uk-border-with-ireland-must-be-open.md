@@ -47,21 +47,21 @@ related:
         width: 825
         height: 545
         isCached: true
-  - title: "Biden says U.S. 'ready to lead' again on global stage"
-    excerpt: "U.S. President-elect Joe Biden on Tuesday began a new phase in his transition to the White House after the Trump administration gave the Democrat access to critical resources that will enable him to take the reins of power in January."
-    publishedDateTime: 2020-11-25T00:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election/biden-forges-ahead-with-building-team-after-trump-clears-way-for-transition-idUSKBN2841BA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2841BA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2841BA"
+  - title: "Laura Ingraham says that Biden will be president: ‘This constitutes living in reality’"
+    excerpt: "On Thursday night, though, after President Trump finally submitted to an official government transition to Biden, Laura Ingraham sounded a different note. While arguing that there are still “serious questions” about the election and noting that she backs Trump’s continued legal challenges,"
+    publishedDateTime: 2020-11-24T07:26:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/11/24/ingraham-biden-fox-victory-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/24/ingraham-biden-fox-victory-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/24/ingraham-biden-fox-victory-trump/?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542321930&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1GU"
-        width: 801
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OREKJGAGEBFKJHV5L3A5RZLVGE.png&w=1440"
+        width: 1440
+        height: 813
         isCached: true
   - title: "Biden COVID-19 task force says transition delay could be compromising U.S. virus response"
     excerpt: "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,"

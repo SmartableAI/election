@@ -31,133 +31,131 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration removes gray wolf from endangered species list"
-    excerpt: "The Trump administration is dropping the gray wolf from the endangered species list under the assertion that the animal's population has sufficiently recovered, a move conservation groups decry as shortsighted and promise to challenge in court.\n    \n"
-    publishedDateTime: 2020-10-29T20:45:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lfIqmsf742c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/trump-administration-gray-wolf-endangered-list/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/trump-administration-gray-wolf-endangered-list/index.html"
+  - title: "Georgia Republican officials reject Trump's calls to overturn election results"
+    excerpt: "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger, both Republicans, on Monday rebuffed President Donald Trump's calls to overturn the state's election results more than a week after they certified Joe Biden as the winner.\n    \n"
+    publishedDateTime: 2020-11-30T19:06:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ui8p6fIzrZI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/brian-kemp-brad-raffensperger-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/brian-kemp-brad-raffensperger-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120184839-governor-brian-kemp-1112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump says he'll travel to Georgia to support Republican Senate candidates in runoff election"
+    excerpt: "President Donald Trump said Thursday he will travel to Georgia to support the state's Republican Senate candidates ahead of the January 5 runoff election.\n    \n"
+    publishedDateTime: 2020-11-27T02:11:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzHZPjjJvNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126174410-01-donald-trump-white-house-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's legal defeats pile up while his attacks on Georgia's election system raise GOP concerns "
+    excerpt: "President Donald Trump found himself trapped in an election riddle of his own making Friday -- continuing to push false claims that the election was a \"total scam,\" even after another humiliating court rebuke in Pennsylvania, while insisting that his supporters should turn out in Georgia's January Senate"
+    publishedDateTime: 2020-11-28T05:15:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xAwCxnu1PRg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Canada to Trump: You can't take our prescription drugs"
+    excerpt: "Canada is putting the kibosh on President Donald Trump's efforts to lower drug prices by importing medications from our northern neighbor.\n    \n"
+    publishedDateTime: 2020-11-30T16:16:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnI4UU8-Rj4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180720124911-08-endangered-species-act-grey-wolf-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190103095059-20190103-drug-prices-gfx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump announces that Israel and Sudan have agreed to normalize relations"
-    excerpt: "President Donald Trump announced Friday that Sudan and Israel have agreed to normalize relations -- a foreign policy achievement for the incumbent president less than two weeks before the US presidential election.\n    \n"
-    publishedDateTime: 2020-10-23T16:29:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mpQdPNhUfAk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/trump-sudan-israel/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-sudan-israel/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023110745-sudan-israel-trump-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump supporters at rallies continue to get stranded in chilly temperatures"
-    excerpt: "Following at least four of President Donald Trump's rallies in the last two weeks, transportation issues left hundreds of supporters stranded for hours.\n    \n"
-    publishedDateTime: 2020-11-02T18:16:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A6aP7hMdzj8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration pushes allies to pressure China over its nuclear program"
-    excerpt: "The Trump administration is working to pressure NATO allies to collectively crackdown on China's nuclear program as it looks to limit Beijing's growing influence in the global arms race.\n    \n"
-    publishedDateTime: 2020-10-29T20:52:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sk502hws9xY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/us-china-nuclear-pressure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/us-china-nuclear-pressure/index.html"
+  - title: "Georgia secretary of state says Trump threw him under bus despite his support"
+    excerpt: "Georgia Secretary of State Brad Raffensperger on Wednesday lambasted President Donald Trump, saying that the commander in chief threw him under the bus although he voted for him.\n    \n"
+    publishedDateTime: 2020-11-25T13:34:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i5d0Wd5rurY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/brad-raffensperger-trump-usa-today-oped/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/brad-raffensperger-trump-usa-today-oped/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200126113335-01-china-missiles-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's unhappy warrior pitch to voters includes insults and highly specific grievances"
-    excerpt: "President Donald Trump is ending his reelection bid in a frenzied cross-country push for votes in states he won -- some handily -- four years ago. But he is not pretending to be happy about it.\n    \n"
-    publishedDateTime: 2020-10-28T15:32:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A_PvDI_mF7M/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/trump-election-2020-insults/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/trump-election-2020-insults/index.html"
+  - title: "Trump's legal defeats pile up while his attacks on Georgia's election system raise GOP concerns"
+    excerpt: "President Donald Trump is pushing contradictory messages about Georgia, calling the state's election system fraudulent at the same time he is urging his supporters to turn out for Republican Sens. Kelly Loeffler and David Perdue in twin runoff races that will determine control of the US Senate."
+    publishedDateTime: 2020-11-28T21:00:00Z
+    webUrl: "https://www.cnn.com/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 138
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028010254-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "NYC and other cities to take legal action against Trump administration's 'anarchy' designation"
-    excerpt: "New York City plans to file a joint complaint Thursday challenging the Trump administration's designation of Democratic-led cities as \"anarchist\" jurisdictions in hopes of blocking the President's threat to withhold federal funding, according to the city's top lawyer.\n    \n"
-    publishedDateTime: 2020-10-22T16:49:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ouwWXPTyN4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/nyc-trump-administration-complaint-anarchy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/nyc-trump-administration-complaint-anarchy/index.html"
+  - title: "Experts worry Trump can't be trusted with nation's secrets after leaving office"
+    excerpt: "Some ex-intelligence officials are saying that when President Donald Trump leaves office, he should not receive access to classified information about the country's national security secrets."
+    publishedDateTime: 2020-11-27T14:04:00Z
+    webUrl: "https://www.nbcnews.com/now/video/experts-worry-trump-can-t-be-trusted-with-nation-s-secrets-after-leaving-office-96714821678"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96714821678"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96714821678"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/151207083912-bill-de-blasio-donald-trump-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_trump_natsec_secrets_201127_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Washington Post: Trump administration to roll back federal protections from Alaska's Tongass National Forest"
-    excerpt: "Federal protections for Alaska's Tongass National Forest will be lifted this week by the Trump administration, allowing \"logging and other forms of development\" to occur in the world's largest intact temperate rainforest known as America's Amazon, The Washington Post reported Wednesday.\n    \n"
-    publishedDateTime: 2020-10-28T16:22:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aHbswDwT7dw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
+  - title: "Donald Trump Jr. aides launch super PAC as Georgia worries mount"
+    excerpt: "The president's son stars in a new ad campaign as Republicans worry Trump's voter fraud accusations will depress GOP turnout in the Senate runoffs."
+    publishedDateTime: 2020-11-30T09:44:00Z
+    webUrl: "https://www.politico.com/news/2020/11/30/donald-trump-jr-super-pac-georgia-worries-mount-441205"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 156
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190913160012-tongass-forest-3-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'We had a shortage last night of beds for babies': House report outlines chaos of Trump administration's family separation policy"
-    excerpt: "\"We had a shortage last night of beds for babies,\" an official at the Office of Refugee Resettlement wrote to the agency's director on November 11, 2017.\n    \n"
-    publishedDateTime: 2020-10-29T13:31:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gu6UCAaICEU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/family-separation-report/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/family-separation-report/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 146
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190821121231-01-cbp-migrant-family-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/d1/90/320a62d547098438aa9ed817e738/gettyimages-1268372750-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "lM2DSiRORolptQiR+t2npqEZ6r2BG8dnTfwMZu+IccVg/uZAXuo7QrWo/VcevDe9BK20klrktsRPsSXGFAeWEelqOQ8AyaFjqfTXtE+DQhrVlajL7bVuzTS106F2gsftMSMkz6rq5vL5ykELvo2nw7eA+RWzsL0gkMP8j6lM3dWK9W4aEv7bA2wRstr/r7MSDNonEDPHJxEvy3vsfsByTo+SlzKEIKRmvtLnMUtFrf8ebcpjfZ71rLrkXi4ap1QvPmpytIiInYIZIM9l2THhAYFteByja8N99j7jOARDCSrEsehI4CcRA0po/WTsHR0jnkI11xbShxnDU0F0Us5q2zEoWKAwS2zl7T6Mxpm3rOI=;plWTVGscTWVz2JVYJSlYkw=="

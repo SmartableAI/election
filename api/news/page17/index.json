@@ -2,6 +2,62 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-11-04-rnc-speaker-kim-klacik-falls-short-in-house-bid-despite-viral-campaign-ad-trump-support.md",
+      "title": "RNC speaker Kim Klacik falls short in House bid despite viral campaign ad, Trump support",
+      "excerpt": "Republican newcomer Kim Klacik fell short on Election Day in her bid to win a U.S. House seat in a Maryland district that includes inner-city Baltimore.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAtCWORKoZA/baltimore-kim-klacik-kweisi-mfume-maryland-7-district",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAtCWORKoZA/baltimore-kim-klacik-kweisi-mfume-maryland-7-district",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/baltimore-kim-klacik-kweisi-mfume-maryland-7-district.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/baltimore-kim-klacik-kweisi-mfume-maryland-7-district.amp",
+      "publishedDateTime": "2020-11-03T22:28:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-republican-lindsey-graham-defeats-well-funded-democratic-challenger-jaime-harrison-in-south-carolina.md",
       "title": "Republican Lindsey Graham defeats well-funded Democratic challenger Jaime Harrison in South Carolina ",
       "excerpt": "South Carolina Republican Sen. Lindsey Graham will return to the Senate for a fourth term after defeating Democratic challenger Jaime Harrison.\n    \n",
@@ -1261,63 +1317,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-what-to-watch-in-battleground-florida-a-really-tough-state-to-call-biden-lashes-out-at-desantis.md",
-      "title": "What to watch in battleground Florida — A 'really tough state' to call — Biden lashes out at DeSantis",
-      "excerpt": "BY THE NUMBERS — So far, 4,649,919 vote-by-mail ballots have been cast for the November election, according to the latest information on the state Division of Elections website. Of those, 2,112,081 have come from Democrats and 1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2020/11/03/what-to-watch-in-battleground-florida-a-really-tough-state-to-call-biden-lashes-out-at-desantis-490787",
-      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2020/11/03/what-to-watch-in-battleground-florida-a-really-tough-state-to-call-biden-lashes-out-at-desantis-490787",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
-          "width": 900,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

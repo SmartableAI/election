@@ -1447,6 +1447,22 @@ related:
       name: Time
       domain: time.com
     quality: 82
+  - title: "Biden, Harris to begin receiving classified Presidential Daily Brief for the first time"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will begin receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan 20."
+    publishedDateTime: 2020-11-30T18:27:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 82
+    images:
+      - url: "https://www.baltimoresun.com/resizer/wavSoYc6wjMeOzZdUem95afekPo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GCALR3A6ENCEHHOG4KLHACH524.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "PHOTOS: Car rally celebrating Joe Biden and Kamala Harris’ victory streams through Denver"
     excerpt: "A car rally celebrating Joe Biden and Kamala Harris’ winning 2020 ticket drove through Denver on Sunday, Nov. 8, 2020."
     publishedDateTime: 2020-11-09T02:29:00Z

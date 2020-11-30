@@ -29,165 +29,101 @@ images:
     isCached: true
 
 related:
-  - title: "Wisconsin recount confirms Biden’s win over Trump, cementing the president’s failure to change the election results"
-    excerpt: "The state’s two largest counties spent more than a week recounting ballots, but the final tally barely changed."
-    publishedDateTime: 2020-11-29T16:47:00Z
-    webUrl: "https://www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+  - title: "Trump campaign jettisons major parts of its legal challenge against Pennsylvania’s election results"
+    excerpt: "The campaign removed an allegation that more than 600,000 votes should be invalidated, capitulating on one of its most aggressive legal claims."
+    publishedDateTime: 2020-11-16T01:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2020/11/15/4aab8048-279b-11eb-9b14-ad872157ebc9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2020/11/15/4aab8048-279b-11eb-9b14-ad872157ebc9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2020/11/15/4aab8048-279b-11eb-9b14-ad872157ebc9_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 133
+    quality: 126
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YNFQS4RSKEI6XNM4VW3RKPIQYI.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MHR53PBHU4I6XGYUVWDSCV7LZE.jpg&w=1440"
         width: 1440
-        height: 1044
+        height: 939
         isCached: true
-  - title: "An anonymous senior Trump campaign advisor said Trump 'basically just conceded' by 'recommending' that the GSA start the Biden-Harris transition"
-    excerpt: "Emily Murphy, the head of the General Services Administration, has allowed President-elect Joe Biden to access resources to begin the transition."
-    publishedDateTime: 2020-11-24T14:03:00Z
-    webUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 128
-    images:
-      - url: "https://i.insider.com/5fbc971050e71a0011556fe8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Milwaukee County vote recount gives Biden small boost"
-    excerpt: "Milwaukee County completed its recount of presidential ballots, finding only small changes in vote totals for one of the two Wisconsin counties recounting ballots"
-    publishedDateTime: 2020-11-28T00:37:00Z
-    webUrl: "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Milwaukee County vote recount gives Biden small boost"
-    excerpt: "Milwaukee County completed its recount of presidential ballots, finding only small changes in vote totals for one of the two Wisconsin counties recounting ballots"
-    publishedDateTime: 2020-11-30T03:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/milwaukee-county-vote-recount-biden-small-boost-74434679"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/milwaukee-county-vote-recount-biden-small-boost-74434679"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/milwaukee-county-vote-recount-biden-small-boost-74434679"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Dialing into Pa. GOP meeting, President Trump shows no sign of concession"
-    excerpt: "Trump phoned into a meeting of Pa. Republican lawmakers to say he believes he was \"cheated\" out of a victory in the 2020 election and the outcome should be turned over."
-    publishedDateTime: 2020-11-26T02:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/dialing-pa-gop-meeting-president-trump-shows-sign/story?id=74405323"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/dialing-pa-gop-meeting-president-trump-shows-sign/story?id=74405323"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/dialing-pa-gop-meeting-president-trump-shows-sign/story?id=74405323"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/Giuliani-gty-er-201125_1606338655585_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
-    excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
-    publishedDateTime: 2020-11-29T22:12:00Z
-    webUrl: "https://www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 124
-    images:
-      - url: "https://i.insider.com/5fc364fd50e71a0011557d50?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Supreme Court hears Trump bid to bar illegal immigrants from U.S. census count"
-    excerpt: "U.S. Supreme Court justices on Monday began hearing arguments on President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states,"
-    publishedDateTime: 2020-11-30T15:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
+  - title: "Pennsylvania high court to hear Trump challenge to thousands of votes"
+    excerpt: "The Pennsylvania Supreme Court said on Wednesday it would take up an appeal by President Donald Trump's campaign challenging thousands of mail-in votes cast in Philadelphia that were missing information on the return envelopes."
+    publishedDateTime: 2020-11-18T20:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-pennsylvania-idUSKBN27Y2UO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y2UO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y2UO"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 121
+    quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
-        width: 817
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541682714&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1PZ"
+        width: 784
         height: 545
         isCached: true
-  - title: "President Trump's war on immigration takes on political overtone at Supreme Court"
-    excerpt: "The president is seeking to exclude undocumented immigrants from census calculations used to apportion House seats, electoral votes and federal funds."
-    publishedDateTime: 2020-11-29T14:11:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/29/donald-trumps-immigration-election-policies-collide-supreme-court/6391231002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6391231002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6391231002"
+  - title: "Judge rules against Trump global media chief after firings"
+    excerpt: "A federal judge has ruled against the head of the agency that runs the Voice of America and other U.S.-funded news outlets."
+    publishedDateTime: 2020-11-22T06:43:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-21/judge-rules-against-trump-global-media-chief-after-firings"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-21/judge-rules-against-trump-global-media-chief-after-firings?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-21/judge-rules-against-trump-global-media-chief-after-firings?_amp=true"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/05/30/USAT/69ac00ae-95d1-4bf3-a68c-8cc7972d3dd5-AP_Supreme_Court_Census_Citizenship.JPG?auto=webp&crop=4199,2352,x0,y251&format=pjpg&width=1200"
-        width: 1200
-        height: 672
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e64ec44/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2F9d%2Fc375d0cb481499e86ebe3abf6a2d%2Ftrump-54999.jpg"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Biden gains 87 votes in Trump's $3M Wisconsin recount as Dane County wraps up review. President plans lawsuit."
-    excerpt: "Biden netted 132 votes in Milwaukee County and Trump netted 45 votes in Dane County. Taken together, that increased Biden's statewide lead to 21,695."
-    publishedDateTime: 2020-11-29T17:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/29/wisconsin-recount-completed-biden-gains-dane-country/6456378002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6456378002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6456378002"
+  - title: "Trump campaign legal team distances itself from Powell"
+    excerpt: "The Trump campaign’s legal team is moving to distance itself from a firebrand conservative attorney, Sidney Powell"
+    publishedDateTime: 2020-11-23T06:44:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/ffd79519-3119-4182-b2c8-3743924ea336-MJS_recount_4_hoffman.jpg_RECOUNT.jpg?auto=webp&crop=4516,2541,x0,y210&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/US/WireAP_17cfc180a8774b43bb88b736e14821fe_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Live political updates: Trump says he would 'certainly' leave White House once Electoral College votes for Biden"
-    excerpt: "President Donald Trump has yet to concede the race but his administration cleared the way this week for Biden's team to have access to federal resources and briefings during the transition. Be sure to refresh this page often to get the latest information on the election and the transition."
-    publishedDateTime: 2020-11-28T01:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/26/trump-thanksgiving-political-updates/6430438002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6430438002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6430438002"
+  - title: "U.S. appeals court rejects Trump appeal over Pennsylvania race"
+    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results, in a case expected to reach the U.S. Supreme Court if Trump appeals."
+    publishedDateTime: 2020-11-28T02:10:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?_amp=true"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/025f283/2147483647/strip/true/crop/2250x1470+0+148/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2Fd7%2Ff2a2f876a9c5e89d656995c7e5e7%2Fd8e652343354489388066c03aeb545e3"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "The Trump campaign’s disingenuous spin on its watered-down voter fraud claims"
+    excerpt: "The campaign is disputing a Washington Post article about its scaled-back lawsuit in Pennsylvania. But a look at the lawsuit — and its claims about The Post's reporting — reveal the truth."
+    publishedDateTime: 2020-11-16T18:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/trump-campaigns-disingenuous-spin-its-watered-down-voter-fraud-claims/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/trump-campaigns-disingenuous-spin-its-watered-down-voter-fraud-claims/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/trump-campaigns-disingenuous-spin-its-watered-down-voter-fraud-claims/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OQY4HNABC4I6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump campaign moves to seek partial recount of Wisconsin, hoping to overturn results"
     excerpt: "The Trump campaign says it will seek recounts in Dane and Milwaukee counties, Wisconsin's two most populous and liberal-leaning counties."
@@ -205,203 +141,78 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Laura Ingraham says that Biden will be president: ‘This constitutes living in reality’"
-    excerpt: "On Thursday night, though, after President Trump finally submitted to an official government transition to Biden, Laura Ingraham sounded a different note. While arguing that there are still “serious questions” about the election and noting that she backs Trump’s continued legal challenges,"
-    publishedDateTime: 2020-11-24T07:26:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/24/ingraham-biden-fox-victory-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/24/ingraham-biden-fox-victory-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/24/ingraham-biden-fox-victory-trump/?outputType=amp"
+  - title: "Trump seeks expedited appeal of Pennsylvania ruling against effort to toss mail-in ballots"
+    excerpt: "Lawyers for President Donald Trump's re-election campaign said on Saturday they are seeking expedited appeal of a Pennsylvania judge's ruling against their effort to throw out mail-in ballots."
+    publishedDateTime: 2020-11-22T02:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pensylvania-appeal-idUSKBN28201W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28201W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28201W"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
+      name: Reuters
+      domain: reuters.com
+    quality: 115
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OREKJGAGEBFKJHV5L3A5RZLVGE.png&w=1440"
-        width: 1440
-        height: 813
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542036740&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL00V"
+        width: 691
+        height: 545
         isCached: true
-  - title: "Biden gains 87 votes in Trump's $3 million Wisconsin recount as Dane County wraps up review. President plans lawsuit."
-    excerpt: "Dane County wrapped up its recount Sunday, affirming Democrat Joe Biden’s victory in Wisconsin. President Donald Trump is preparing a lawsuit."
-    publishedDateTime: 2020-11-29T21:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/29/dane-county-recount-show-biden-won-wisconsin-trump-prepares-lawsuit/6455880002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6455880002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6455880002"
+  - title: "Fact check: Partly false claim about discarded ballots in Pennsylvania amplified by Eric Trump"
+    excerpt: "Viral posts are partly false about less than a dozen discarded ballots in Pennsylvania. They weren't found in a ditch and aren't evidence of fraud."
+    publishedDateTime: 2020-11-10T14:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/10/fact-check-partly-false-claim-discarded-ballots-pennsylvania/6213556002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6213556002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6213556002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 117
+    quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/ffd79519-3119-4182-b2c8-3743924ea336-MJS_recount_4_hoffman.jpg_RECOUNT.jpg?auto=webp&crop=4516,2541,x0,y210&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/NPPP/60eeaa8e-35d4-429c-be95-1e820b641547-APTOPIX_Election_2020_Pennsylvania_Vote_Counting.jpg?auto=webp&crop=4355,2450,x0,y220&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "U.S. Supreme Court mulls Trump bid to exclude illegal immigrants from population count"
-    excerpt: "U.S. Supreme Court justices on Monday are set to consider President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states, a facet of his hardline stance toward immigration being pursued in his"
-    publishedDateTime: 2020-11-30T11:39:00Z
-    webUrl: "https://www.reuters.com/article/topNews/idUSKBN28A1B5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "U.S. Supreme Court mulls Trump bid to exclude illegal immigrants from population count"
-    excerpt: "U.S. Supreme Court justices on Monday are set to consider President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states, a facet of his hardline stance toward immigration being pursued in his"
-    publishedDateTime: 2020-11-30T16:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-census/u-s-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "From the coronavirus to the environment, Biden plans to take government in new direction"
-    excerpt: "A review of Biden's plans so far suggests that among his priorities will be tackling COVID-19, rolling back Trump actions, expanding on Obama initiatives."
-    publishedDateTime: 2020-11-24T21:05:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 116
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/bdbe1ab/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F54%2Fce%2Fbb2ca196c0e9e959721af595922e%2Fla-me-ln-road-closures-for-vice-president-bide-001"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Congress is briefly reconvening, under pressure from Trump and Biden to pass a COVID-19 stimulus bill after months of gridlock"
-    excerpt: "Congress has spent months arguging over the details of a follow-up stimulus package, to the immense frustration of many."
-    publishedDateTime: 2020-11-30T12:07:00Z
-    webUrl: "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp"
+  - title: "Rudy Giuliani straight-up asked a federal judge to ignore Pennsylvania voters and declare Trump won the state"
+    excerpt: "President Donald Trump lost Pennsylvania by more than 80,000 votes, but his legal team wants a judge to hand him the state's electoral votes anyway."
+    publishedDateTime: 2020-11-19T19:16:00Z
+    webUrl: "https://www.businessinsider.com/giuliani-asks-federal-judge-ignore-voters-declare-trump-pennsylvania-winner-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/giuliani-asks-federal-judge-ignore-voters-declare-trump-pennsylvania-winner-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-asks-federal-judge-ignore-voters-declare-trump-pennsylvania-winner-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 112
+    quality: 106
     images:
-      - url: "https://i.insider.com/5fc4ce3550e71a0011557e44?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fb6bf8732f2170011f701c4?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Attorney heading up Trump campaign's Wisconsin recount effort is seeking to throw out his own vote"
-    excerpt: "Jim Troupis, a former Dane County judge and Cross Plains attorney, voted early using the state's in-person absentee option."
-    publishedDateTime: 2020-11-23T02:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/22/attorney-heading-up-trump-recount-wants-throw-out-his-own-vote/6382647002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6382647002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6382647002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/21/PMJS/f177309e-811b-46d6-b7f4-2da8cebb9b00-RECOUNT_05318.JPG?auto=webp&crop=3899,2194,x0,y207&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Wisconsin and Michigan could deliver Biden the presidency"
-    excerpt: "The Washington Post’s Philip Bump analyzes how Democratic presidential nominee Joe Biden flipped key states blue in 2020 and what it means for his chances of winning the presidency."
-    publishedDateTime: 2020-11-05T02:01:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/how-wisconsin-and-michigan-could-deliver-biden-the-presidency/2020/11/04/457c21ca-f628-4aa3-9f11-19c95a27808f_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-05-2020/t_eb6152e9dd9141bca371527b44fc6a64_name_20201104_DemetriusFreeman_wapo_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
-  - title: "Wisconsin county recount boosts Biden's margin"
-    excerpt: "Top News Wisconsin county recount boosts Biden's margin. Posted . President Donald Trump's election campaign demanded recounts in two of Wisconsin's most populous and Democratic-l"
-    publishedDateTime: 2020-11-28T20:26:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD6HLTCV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201128&i=OVD6HLTCV&r=OVD6HLTCV&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Completed Wisconsin recount confirms Biden's win"
-    excerpt: "Wisconsin finished its two-county presidential results recount on Sunday, confirming Democrat Joe Biden's victory over President Donald Trump. The Dane and Milwaukee County totals found Biden adding 87 to his 20,"
-    publishedDateTime: 2020-11-30T07:58:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/30/completed-wisconsin-recount-confirms-bidens-win/6461555002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f5b631a3-708f-48cf-887b-dbfad2735704_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "President Trump is seeking a recount in two Wisconsin counties, but what he’s really doing is preparing for a lawsuit."
-    excerpt: "By pursuing the recount, Trump has given himself a vehicle for a lawsuit that would likely go before a judge by early December."
-    publishedDateTime: 2020-11-20T00:05:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/wisconsin-recount-could-quickly-turn-into-lawsuit/6349231002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6349231002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6349231002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 101
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/19/PMJS/10cc0a7d-458e-462e-bcbd-9068a3e897f7-MJS_5.jpg?auto=webp&crop=5471,3077,x1,y268&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden promises to fix discrimination in housing. Here are 3 ways he plans to tackle it."
-    excerpt: "President-elect Joe Biden wants to root out discriminatory housing practices via a barrage of measures, down to changing the way houses get appraised."
-    publishedDateTime: 2020-11-22T14:48:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-housing-policy-real-estate-discrimination-2020-11"
+  - title: "Trump's legal team cried vote fraud, but courts found none"
+    excerpt: "As they frantically searched for ways to salvage President Donald Trump's failed reelection bid, his campaign pursued a dizzying game of legal hopscotch that centered on the biggest prize of all: Pennsylvania."
+    publishedDateTime: 2020-11-22T17:52:00Z
+    webUrl: "https://www.businessinsider.com/trumps-legal-team-cried-vote-fraud-but-courts-found-none-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trumps-legal-team-cried-vote-fraud-but-courts-found-none-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-legal-team-cried-vote-fraud-but-courts-found-none-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 95
-    images:
-      - url: "https://i.insider.com/5fb6911732f2170011f70056?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden's team has made contact with Dr. Fauci, and the president-elect said he has been 'very, very helpful' in briefings with staff"
-    excerpt: "The contact between Fauci and Biden's team comes as the US may be entering the darkest stage yet of the coronavirus pandemic."
-    publishedDateTime: 2020-11-25T06:08:00Z
-    webUrl: "https://www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11?amp"
+    quality: 105
+  - title: "Pennsylvania lawyers shredded Rudy Giuliani's arguments in Trump's biggest election lawsuit, calling them 'disgraceful' and 'really inventive'"
+    excerpt: "One defense lawyer described Giuliani as living in a \"fantasy world\" and said his arguments were \"disgraceful in an American courtroom.\""
+    publishedDateTime: 2020-11-18T08:31:00Z
+    webUrl: "https://www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 95
+    quality: 104
     images:
-      - url: "https://i.insider.com/5fbde6e132f2170011f71164?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fb451bfee44e7001ac113d8?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

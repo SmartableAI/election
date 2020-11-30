@@ -2,6 +2,62 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-12-possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors.md",
+      "title": "Possible Biden Cabinet pick Heidi Heitkamp once took fire for outing sexual assault survivors",
+      "excerpt": "Former Sen. Heidi Heitkamp, who faced backlash during the 2018 primaries that she ultimately lost after she mistakenly outed sexual assault survivors in a campaign ad, is on the shortlist for a position in President-elect Joe Biden's Cabinet. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ngXipgv4QY/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ngXipgv4QY/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8584a22-9b2b-40cf-ac7a-4bf9f5a394fe/111f8dad-4350-4347-b837-4e0d7316d4ed/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors.amp",
+      "publishedDateTime": "2020-11-12T15:05:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-john-mccains-widow-says-its-time-for-trump-to-accept-the-results-and-get-on-with-the-healing.md",
       "title": "John McCain's widow says it's time for Trump to 'accept the results and get on with the healing'",
       "excerpt": "Cindy McCain described Joe Biden as \"a man of honor\" who would \"heal the wounds caused by the outgoing administration.\"",
@@ -1279,58 +1335,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-fox-news-cuts-away-from-trump-campaign-news-conference-cant-in-good-countenance-continue-showing-this.md",
-      "title": "Fox News cuts away from Trump campaign news conference: 'Can't in good countenance continue showing this'",
-      "excerpt": "Fox News anchor Neil Cavuto broke in and cut away from the news conference after \"explosive charges\" were made about voter fraud without evidence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/09/fox-cuts-coverage-kayleigh-mcenany-trump-campaign-press-conference/6228124002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/09/fox-cuts-coverage-kayleigh-mcenany-trump-campaign-press-conference/6228124002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/09/USAT/c71df6e1-0af4-437e-8010-343af0b5c535-Fox_News.PNG?auto=webp&crop=981,552,x207,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6228124002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228124002",
-      "publishedDateTime": "2020-11-11T01:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
         "domain": "usatoday.com",
         "images": [
           {

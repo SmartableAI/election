@@ -280,6 +280,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden promises to fix discrimination in housing. Here are 3 ways he plans to tackle it."
+    excerpt: "President-elect Joe Biden wants to root out discriminatory housing practices via a barrage of measures, down to changing the way houses get appraised."
+    publishedDateTime: 2020-11-22T14:48:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-housing-policy-real-estate-discrimination-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5fb6911732f2170011f70056?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "7QbK1V3c+UD5NIcx14TBtln9nsMhcUymlh/NUIitJq4UE/z9zKwkQMQE5BYnjPldUTFVBIhBadecKSdMg37BGq160QXXVBq8sjrLMOWgcElDLiL5Zz8chjXB9oTuQvlrVucHPryAO+yhQy30FJ8XJ3waSlOVNR1/QLG1S6MgTaLnHHkjBfaZO+9H3W2mK05Rjjw7Wo4vmbs8q6IFRAcPJYJUGSU6z8kHIb7WwqGpHkPCWTKzGNTc1IFPWgQBU3661kJ16WIVwh+ZwfW6ebqOgrk2LKA2qNmJu5iFh7Gh7dVAB3IAtkoJz9XEU8tb+uq1m39Xq9QVo7fOyYP7YfkkzHhefwjJtq2oXO8kqTB5M38=;tEUGUhSI4ibA+jWy+7J3LA=="
 ---

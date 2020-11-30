@@ -2,6 +2,275 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-01-former-top-admiral-alarmed-by-pentagon-purge-says-trump-still-has-time-to-do-something-really-destructive.md",
+      "title": "Former top admiral alarmed by Pentagon purge says Trump still has time to do something 'really destructive'",
+      "excerpt": "\"There are some real Trump loyalists there now in charge,\" former Chairman of the Joint Chiefs of Staff Adm. Mike Mullen said Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11",
+      "originalUrl": "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc54a4550e71a0011558043?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp",
+      "publishedDateTime": "2020-11-30T12:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-georgia-republican-officials-reject-trumps-calls-to-overturn-election-results.md",
+      "title": "Georgia Republican officials reject Trump's calls to overturn election results",
+      "excerpt": "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger, both Republicans, on Monday rebuffed President Donald Trump's calls to overturn the state's election results more than a week after they certified Joe Biden as the winner.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ui8p6fIzrZI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ui8p6fIzrZI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 346,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120184839-governor-brian-kemp-1112-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/30/politics/brian-kemp-brad-raffensperger-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/brian-kemp-brad-raffensperger-trump/index.html",
+      "publishedDateTime": "2020-11-30T11:06:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-presidential-transition-live-updates-trump-team-files-last-ditch-lawsuits-ahead-of-deadline-to-finalize-the-election.md",
+      "title": "Presidential Transition Live Updates: Trump Team Files Last Ditch Lawsuits Ahead of Deadline to Finalize the Election",
+      "excerpt": "The safe harbor deadline — the date by which any election controversies must be settled — is Dec. 8. President-elect Joe Biden’s nominees send a clear message that his economic policymaking will be shaped by liberal thinkers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump",
+      "originalUrl": "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/us/politics/30transition-briefing-trump-cases1/30transition-briefing-trump-cases1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/30/us/joe-biden-trump.amp.html",
+      "publishedDateTime": "2020-11-30T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-supreme-court-hears-trump-bid-to-bar-illegal-immigrants-from-us-census-count.md",
+      "title": "Supreme Court hears Trump bid to bar illegal immigrants from U.S. census count",
+      "excerpt": "U.S. Supreme Court justices on Monday began hearing arguments on President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5",
+      "originalUrl": "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28A1B5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5",
+      "publishedDateTime": "2020-11-30T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-arizona-wisconsin-to-certify-election-results-monday-trump-may-challenge-outcome.md",
+      "title": "Arizona, Wisconsin to certify election results Monday, Trump may challenge outcome",
+      "excerpt": "President Donald Trump has challenged results in several states, but the president has faced setbacks in many of those legal battles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/25/USAT/a4f30290-dae6-438d-bac6-9a31bad382f3-AFP_AFP_8UN26Z.jpg?auto=webp&crop=1023,575,x0,y77&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6462445002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6462445002",
+      "publishedDateTime": "2020-11-30T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-jonathan-turley-says-trumps-attacks-on-judges-over-election-rulings-unfair.md",
       "title": "Jonathan Turley says Trump's attacks on judges over election rulings 'unfair'",
       "excerpt": "G.W. University Law Professor Jonathan Turley said on Monday that President Trump's \"attacks\" against judges over their decisions on the 2020 election dispute are \"unfair.\"",
@@ -66,7 +335,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 740,
+      "heat": 820,
       "tags": null,
       "images": [
         {
@@ -107,6 +376,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-congress-is-briefly-reconvening-under-pressure-from-trump-and-biden-to-pass-a-covid-19-stimulus-bill-after-months-of-gridlock.md",
+      "title": "Congress is briefly reconvening, under pressure from Trump and Biden to pass a COVID-19 stimulus bill after months of gridlock",
+      "excerpt": "Congress has spent months arguging over the details of a follow-up stimulus package, to the immense frustration of many.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11",
+      "originalUrl": "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc4ce3550e71a0011557e44?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp",
+      "publishedDateTime": "2020-11-30T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -266,58 +587,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-30-a-pennsylvania-state-lawmaker-reportedly-received-the-results-of-his-positive-covid-19-test-during-a-meeting-with-trump.md",
-      "title": "A Pennsylvania state lawmaker reportedly received the results of his positive COVID-19 test during a meeting with Trump",
-      "excerpt": "All participants at the meeting took COVID-19 tests, but the positive results were not announced until they were in the White House, a source said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11",
-      "originalUrl": "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc48f9f50e71a0011557e18?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp",
-      "publishedDateTime": "2020-11-29T22:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-30-live-updates-trump-says-doj-missing-in-action-during-election-challenge.md",
       "title": "Live Updates: Trump says DOJ 'missing in action' during election challenge",
       "excerpt": "Follow for the latest updates on the 2020 election legal fight.",
@@ -438,7 +707,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -659,7 +928,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -700,58 +969,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-wisconsin-recount-confirms-bidens-win-over-trump-cementing-the-presidents-failure-to-change-the-election-results.md",
-      "title": "Wisconsin recount confirms Biden’s win over Trump, cementing the president’s failure to change the election results",
-      "excerpt": "The state’s two largest counties spent more than a week recounting ballots, but the final tally barely changed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 613,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YNFQS4RSKEI6XNM4VW3RKPIQYI.jpg&w=1440",
-          "width": 1440,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-29T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1130,218 +1347,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-canada-blocks-bulk-exports-of-some-prescription-drugs-in-response-to-trump-import-plan.md",
-      "title": "Canada blocks bulk exports of some prescription drugs in response to Trump import plan",
-      "excerpt": "Canada on Saturday blocked bulk exports of prescription drugs if they would create a shortage at home, in response to outgoing U.S. President Donald Trump's efforts to allow imports from Canada to lower some drug prices for Americans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-healthcare-canada-idCAKBN2880RJ",
-      "originalUrl": "https://www.reuters.com/article/usa-healthcare-canada-idCAKBN2880RJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542764319&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR0I7",
-          "width": 876,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2880RJ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2880RJ",
-      "publishedDateTime": "2020-11-28T16:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-ex-trump-campaign-adviser-carter-page-sues-fbi-comey-mccabe-and-others-for-75m-over-russia-probe-surveillance.md",
-      "title": "Ex-Trump campaign adviser Carter Page sues FBI, Comey, McCabe and others for $75M over Russia probe surveillance",
-      "excerpt": "Earlier this year, the Justice Department found it had “insufficient” cause to wiretap Page during its probe into Russian election interference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/28/carter-page-ex-trump-aide-sues-comey-fbi-over-russia-surveillance/6453096002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/28/carter-page-ex-trump-aide-sues-comey-fbi-over-russia-surveillance/6453096002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/09/20/USAT/eb2eb1d4-d4f5-4121-b463-96276dbb3600-Carter_page.JPG?auto=webp&crop=4999,2798,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6453096002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6453096002",
-      "publishedDateTime": "2020-11-28T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-trump-continues-fight-in-wis-pa-we-have-found-many-illegal-votes.md",
-      "title": "Trump continues fight in Wis., Pa.: ‘We have found many illegal votes’",
-      "excerpt": "President Trump promised to bring a case disputing the Wisconsin vote count after the recount was completed there, and said his campaign was disputing a number of votes far bigger than the margin President-elect Joe Biden won. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/08KthVMg2IQ/trump-fight-wis-pa-illegal-votes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/08KthVMg2IQ/trump-fight-wis-pa-illegal-votes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20331846075368.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-fight-wis-pa-illegal-votes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fight-wis-pa-illegal-votes.amp",
-      "publishedDateTime": "2020-11-28T15:33:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-joe-bidens-plans-to-carry-out-every-proposal-on-the-lgbtq-communitys-list.md",
-      "title": "Joe Biden’s Plans To Carry Out Every Proposal On The LGBTQ Community’s List",
-      "excerpt": "President-elect Joe Biden just released his plans for the LGBTQ community and he wants to grant all of it's wishes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702",
-      "originalUrl": "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/24/soundbiteus-president-elect-joe-biden-introduces-a-seasoned.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1",
-      "publishedDateTime": "2020-11-28T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
