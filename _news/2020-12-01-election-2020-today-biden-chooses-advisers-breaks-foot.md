@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Arizona certifies Biden’s narrow victory over Trump"
+    excerpt: "Arizona officials certified the state’s election results on Monday, formalizing Democrat Joe Biden’s narrow victory over Donald Trump even as the Republican president’s attorneys continued to make baseless claims of fraud about the state’s vote count."
+    publishedDateTime: 2020-11-30T21:12:00Z
+    webUrl: "https://www.washingtonpost.com/national/arizona-certifies-bidens-narrow-victory-over-trump/2020/11/30/c8777340-3350-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/arizona-certifies-bidens-narrow-victory-over-trump/2020/11/30/c8777340-3350-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/arizona-certifies-bidens-narrow-victory-over-trump/2020/11/30/c8777340-3350-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump-Biden transition live updates: Biden rolls out economic team leaders"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 51 days. Georgia Secretary of State Brad Raffensperger spoke before reporters Monday morning at the state capitol building in Atlanta and announced that his office has opened investigations into four third-party groups that he claimed are \"working to register people in other states to vote here in Georgia."
     publishedDateTime: 2020-11-30T17:42:00Z
@@ -271,6 +287,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Latest: Biden, foreign leaders talk about pandemic"
+    excerpt: "President-elect Joe Biden spent Monday at home accepting congratulatory calls from foreign leaders, a day after being diagnosed with stress fractures in his foot"
+    publishedDateTime: 2020-11-30T13:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Wisconsin counties finish recounts, Biden's lead reconfirmed"
     excerpt: "The recount of presidential ballots in Wisconsin’s two largest counties finished on Sunday, confirming that Democratic President-elect Joe Biden defeated President Donald Trump in the key swing state by more than 20,"
     publishedDateTime: 2020-11-29T17:38:00Z
@@ -458,6 +490,17 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "FACTBOX-The Biden Cabinet: President-elect begins to build a team"
+    excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the nation's diversity."
+    publishedDateTime: 2020-11-30T22:43:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG1ET"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IG1ET"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IG1ET"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "President-elect Biden names senior members of economic team"
     excerpt: "President-elect Joe Biden will announce senior members of his economic team tomorrow, including his nominee for Treasury Secretary Janet Yellen. This comes as he's facing divisions from the progressive wing of the party over some of his potential picks."
     publishedDateTime: 2020-11-30T18:52:00Z
@@ -544,6 +587,6 @@ related:
         height: 660
         isCached: true
 
-secured: "SZ+nqQPZkymvRpTMV9uuLKwxSuNPa3oLTncTG9ATEWjuMbeXtbydAi97v2UmSk1gO+1uohnJ81OQqUd30Ym8oLoKMcJyH21A76SW+ll9dbOx9VS5TJmGUNF4ODbsfe5Cf1Lyr5bHmaQazwBHNOG09lm0pgBw0IiG9IWWLza0SfBShPST6DbFdkr1oAkIjW3OxcAXgiKEJ67633ohmEblKBy6lnFMkbzERgW+7O7Ei6EIEeJZoBUr9erYjZ+En3BaLNb4dAVPJHrEz0IJxT1SCWx5395rfx4kxlwmv9hXs7BHBv+0HforvUf7ZgjmjH1nETYSGO0X0itFY2//8V9cdcRPBIM8sTypxQEvPwEIk/o=;/cRvtYTMynBjPx2R2SZqVw=="
+secured: "Fp1bO3FCwEhVo1Q0MmJN/a5EwPdDOgq8PRRmNQQxN3yWRYVUdfbcHpi476EiZpWvuXBRDN+a0sS0R86xHGd1X9P5vr3PdYy1ebXapswuoUx+y7pSu8i6b8JyrCe7iC0rW+98FWpB8tB1qDhJAx4r1IEdtO5FvfLml+RZc4ZzhGxBlyJjHVeF/oIuTppvSb+3PWsBLKFb7JzSwHn7sqUDJwtdoliOB5UWArZg9VFa5dh5/G0SgEsKnTVAEHCRiI/PEqhlEZV6rzyln0BNSWnn8KSjs35P0l/BXx/0qrRHI/vSOqdRq/RgtbFQJ9H+m0cB1Wzfp1J0kvp32VrXRXY6+N+D6udMVeewRLMoZHHpQjzFEOCENZsQ0vjsSqWwONx3/7cWbadDv+i5K14L81J2aqBOhrQCzRLoSa7/HDrbVzB/8ulpKCOGZrPHUtFCoiFFyhxGRiCl6HgWNJVN2yHGkejZnY9pFBhskcn5nPXW65dckrxYOah//pi6Vh/xx72e0H2giQRPRzF87+NZbqsspQ==;SWrnM9pGyeoWuUF24UQ3Jg=="
 ---
 

@@ -57,6 +57,38 @@ related:
         width: 1440
         height: 1044
         isCached: true
+  - title: "Arizona and Wisconsin certify Joe Biden's win as Trump continues to challenge results – live"
+    excerpt: "State officials effectively put to rest any doubt that Biden won as Trump campaign made its fifth request for Georgia officials to audit signatures"
+    publishedDateTime: 2020-11-30T22:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/30/us-election-joe-biden-donald-trump-coronavirus-covid-19-live-updates?page=with:block-5fc542bf8f08959b167738a7"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/30/us-election-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/30/us-election-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 129
+    images:
+      - url: "https://i.guim.co.uk/img/media/5d777dd5ba2466782f5b778dfcce7caa34bda9c0/0_260_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10758a1db0394570a074f5176379b121"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Biden confirmed as winner in Wisconsin ahead of promised lawsuit from President Donald Trump"
+    excerpt: "Joe Biden confirmed as winner in Wisconsin ahead of promised lawsuit from President Donald Trump. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-11-30T21:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/joe-biden-confirmed-as-winner-in-wisconsin-ahead-of-promised-lawsuit-from-president-donald-trump/2020/11/30/c41488c0-3354-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/joe-biden-confirmed-as-winner-in-wisconsin-ahead-of-promised-lawsuit-from-president-donald-trump/2020/11/30/c41488c0-3354-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/joe-biden-confirmed-as-winner-in-wisconsin-ahead-of-promised-lawsuit-from-president-donald-trump/2020/11/30/c41488c0-3354-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 127
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump threatens more lawsuits, but court challenges are hitting dead ends"
     excerpt: "Pennsylvania officials asked a federal appeals court Tuesday to put an end to the Trump campaign's legal challenge of an election that has now been certified."
     publishedDateTime: 2020-11-25T06:04:00Z

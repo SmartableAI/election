@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/brian-kemp-brad-raffensp
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/brian-kemp-brad-raffensperger-trump/index.html"
 type: article
 quality: 186
-heat: 346
+heat: 366
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190103095059-20190103-drug-prices-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Trump's falsehood-filled weekend"
+    excerpt: "President Donald Trump was relatively quiet over the Thanksgiving holiday. But by Friday he was back to lighting up Twitter with a range of false claims about the 2020 presidential election. From Friday evening to Sunday evening, Trump tweeted and retweeted more than a dozen claims of election fraud,"
+    publishedDateTime: 2020-11-30T21:19:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4f6JgzD6BtA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/trump-post-election-fox-news-interview-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/trump-post-election-fox-news-interview-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127145444-01-trump-golfing-1127-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

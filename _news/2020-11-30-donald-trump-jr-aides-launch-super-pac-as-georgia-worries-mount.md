@@ -110,6 +110,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Trump's falsehood-filled weekend"
+    excerpt: "President Donald Trump was relatively quiet over the Thanksgiving holiday. But by Friday he was back to lighting up Twitter with a range of false claims about the 2020 presidential election. From Friday evening to Sunday evening, Trump tweeted and retweeted more than a dozen claims of election fraud,"
+    publishedDateTime: 2020-11-30T21:19:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4f6JgzD6BtA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/trump-post-election-fox-news-interview-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/trump-post-election-fox-news-interview-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127145444-01-trump-golfing-1127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia secretary of state says Trump threw him under bus despite his support"
     excerpt: "Georgia Secretary of State Brad Raffensperger on Wednesday lambasted President Donald Trump, saying that the commander in chief threw him under the bus although he voted for him.\n    \n"
     publishedDateTime: 2020-11-25T13:34:43Z
@@ -159,6 +175,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "KRRJiGuoG4I11frnPmDMYjDsK6fgugYkIfkWsXYa46FlMBBS6yGorNSCKMDDxMyHuyUZS7Kc86xbRa2gq7ETDGGxZFzueXnf7u7evYTjOqQutFmKbNYtaurYbHtKal58d2k6+Opbvq3mu+p4OgD1bEm01CUSk6ltaTSo+tp4oLSOYL3Q96pmAzuHMS8YjwvYQnMc+DNUXhWIpvQkhQRQ2vRwritT93I0NZfOpI5U/QG/NQbsYQaCEo/HZqCTdM6KG1j9bu5ojObrdk9trWl5XeynksCxZFwhpFWTSQBbujiikV26F6h5kgFLdLzdK0ZoiEYXhaA/Ox/eEpk00lS6EQwsT8GwEa6bIv13fGXlA9s=;I/hb4lKzns0iztqYtlB+jw=="
+secured: "scAOIZhZSVM/7KdgITR5d4cVgkPaQMV+ASzt9o0gkYuI6uJnlGwXlG3UkbtWh2BY7IeLQKeo8jWhBE3lv6nC5cWJ9LnHpmmF5qk5tVE8H8+K42j8S3UnXM5TQa3NxDrVqJG6P+zSFfV+AXiUR9teLZ01YvsIEKMSk1Zlr35AaJ9b8SxB5PWIlKdUiE6n/yIqc80vYq3DEpiu7Q9WmWJIKZyRnGug+/vW0Uwx/ETgUL00f6MZpsX/5KJLTLMXJ3APjbQsfVWGxE0DmVgsdwZxA7Z+gG0HmcowOI8YDVLsvw35CwFDDPOH71qlioxiGRA8J87qiFFzlGai2eSYu591C1ovbK5JiCtT8oh3oKgabvEBej4gyioI4/MSXcrI5IGtTjJkQFwU9TaswMtNjRaRz4lichFFexlRirhipTVG/ddpoRkWFB3kxG6i8hvpzmNZBvQd5Bmuv2OihMBna8K39feP2AAsre4QvUjkvfZK4Fu30aaaZgmUrlI3C7eYglGuVMW4MzqOwkPPea6sCX+pkA==;V+NI/Nmzl726UcLA+lqNyw=="
 ---
 

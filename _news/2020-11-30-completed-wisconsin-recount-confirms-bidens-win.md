@@ -3,8 +3,8 @@ category: news
 title: "Completed Wisconsin recount confirms Biden's win"
 excerpt: "Wisconsin finished its two-county presidential results recount on Sunday, confirming Democrat Joe Biden's victory over President Donald Trump. The Dane and Milwaukee County totals found Biden adding 87 to his 20,"
 publishedDateTime: 2020-11-30T07:58:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2020/11/30/completed-wisconsin-recount-confirms-bidens-win/6461498002/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/30/completed-wisconsin-recount-confirms-bidens-win/6461498002/"
+originalUrl: "https://www.usatoday.com/videos/news/nation/2020/11/30/completed-wisconsin-recount-confirms-bidens-win/6461555002/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/30/completed-wisconsin-recount-confirms-bidens-win/6461555002/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/41c3301f-0cfb-49be-aaf3-818f4eb64a0d_poster.jpg?quality=10"
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f5b631a3-708f-48cf-887b-dbfad2735704_poster.jpg?quality=10"
     width: 1920
     height: 1080
     isCached: true
@@ -92,6 +92,6 @@ related:
         height: 540
         isCached: true
 
-secured: "T+T3PAq39dCFAByzozPbpUGXDT9L8q7R+nxyObBXWICKaYSE97X+Um/vnoBIemrSSi3Ih9lJTEi0CM8aNtcBbZU8L8Nk45ZQjae3mWxS/FT1ebxtC6xuPzka0jdghCGnxfLxJFlNFd3DDtggrW/e05Vxkmq+T56QtoPFfb6bNeMv548n3ORGHrV4gzlDyyKUUkg98D1PojRhN+Ycq6mxj6G4LT4hObOz7qU5gVNOmpX2PgzrIaHcxUAMctgpo2cDgDd8F0kLj/fvFW6senf+0C1MSJRVY+NccqUqfiyVLo2CaUi7d6Q0LZ3xIrJPCBBqvFoAjaqzGWPXL9+/WetvRng06fFicn4xHDa+D2f+dZ8=;k3TKrDpcPRsBAbQKTzwL0g=="
+secured: "vyG8CZwaWt150eANPo38+Bx7xpmV74Q+OSBpauqwfEeiRa/0XGi3W0Ffl7AabivAup2d7hFMC61T/XtJNuc4s/Rra7Vijd1e52KAvcuU5kE/0VSpIkBMejNIvizP5mgLAXwJqjr9X9RUzSJ3GOUUs8cqHLs1xV48F0T4ghzjFqbRL/onjjMxCKtgCPZZDbQIr6mskQs22Fv9+OGci+zespRomFbi8NVV37vgfUyZAJRA2SjT/Qh/JLnO0WGmhcA2RvxVf6kupqpQW+nbTykBSP5ArM0iBrgHU5wKGSL/+RI1CTAKZble1ZRbKV8Gc9l4F6v9MQ5TUApMAOPck4tabfNfczoEgaiJ5CupWzNiMN8=;xcRfzN8JZz9iDyQphxSabw=="
 ---
 

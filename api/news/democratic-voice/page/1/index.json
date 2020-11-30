@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-30-bidens-delay-in-picking-a-defense-secretary-opens-top-contenders-to-uncomfortable-scrutiny.md",
+      "title": "Biden's delay in picking a defense secretary opens top contenders to uncomfortable scrutiny ",
+      "excerpt": "President-elect Joe Biden enters the month of December with a question still looming over one of the most critical decisions in his Cabinet: Who will he nominate to be Secretary of Defense?\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3n0UEFSHgpo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3n0UEFSHgpo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201130145456-biden-1125-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/30/politics/biden-secretary-of-defense-pick-scrutiny/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/biden-secretary-of-defense-pick-scrutiny/index.html",
+      "publishedDateTime": "2020-11-30T14:09:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-georgia-republican-officials-reject-trumps-calls-to-overturn-election-results.md",
       "title": "Georgia Republican officials reject Trump's calls to overturn election results",
       "excerpt": "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger, both Republicans, on Monday rebuffed President Donald Trump's calls to overturn the state's election results more than a week after they certified Joe Biden as the winner.\n    \n",
@@ -14,7 +70,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 346,
+      "heat": 366,
       "tags": null,
       "images": [
         {
@@ -1631,63 +1687,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-working-for-trump-ends-in-getting-fired-or-getting-covid-kimmel-says.md",
-      "title": "Working for Trump Ends in Getting Fired or Getting Covid, Kimmel Says",
-      "excerpt": "President Trump fired Christopher Krebs, a senior cybersecurity official, via Twitter on Tuesday. “Usually to get rid of Krebs, Trump uses a little comb and some medicated shampoo,” Jimmy Kimmel joked.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/19/arts/television/late-night-kimmel-trump-covid.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/19/arts/television/late-night-kimmel-trump-covid.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/19/arts/19latenight/19latenight-facebookJumbo.png",
-          "width": 970,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/19/arts/television/late-night-kimmel-trump-covid.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/19/arts/television/late-night-kimmel-trump-covid.amp.html",
-      "publishedDateTime": "2020-11-19T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }
