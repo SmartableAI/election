@@ -2,6 +2,610 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-11-04-republican-lindsey-graham-defeats-well-funded-democratic-challenger-jaime-harrison-in-south-carolina.md",
+      "title": "Republican Lindsey Graham defeats well-funded Democratic challenger Jaime Harrison in South Carolina ",
+      "excerpt": "South Carolina Republican Sen. Lindsey Graham will return to the Senate for a fourth term after defeating Democratic challenger Jaime Harrison.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SAOC6yhAW0U/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SAOC6yhAW0U/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201030180100-lindsey-graham-jaime-harrison-sc-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/03/politics/south-carolina-senate-race-2020/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/03/politics/south-carolina-senate-race-2020/index.html",
+      "publishedDateTime": "2020-11-03T21:25:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-ex-espn-host-jemele-hill-says-its-on-white-people-if-trump-wins-reelection-no-one-else.md",
+      "title": "Ex-ESPN host Jemele Hill says 'it's on White people' if Trump wins reelection: 'No one else'",
+      "excerpt": "ESPN host Jemele Hill declared Tuesday that only White people are to blame if President Trump defeats Democratic nominee Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection",
+      "originalUrl": "https://www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Jemele-Hill-TWEET.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection.amp",
+      "publishedDateTime": "2020-11-03T20:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-latest-election-day-updates-trump-has-a-commanding-lead-in-florida.md",
+      "title": "Latest Election Day updates: Trump has a commanding lead in Florida",
+      "excerpt": "Our live coverage of Election Day includes updates on voter turnout, the latest on Trump and Biden, and news from polling places around Florida.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/03/live-updates-florida-election-day-voting-turnout-ballots-trump-biden/6038318002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/03/live-updates-florida-election-day-voting-turnout-ballots-trump-biden/6038318002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 680,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/02/NPPP/5c24e614-5e1a-445b-94a7-cad671b83233-Early_Voting_2020_41.jpg?auto=webp&crop=3617,2035,x0,y289&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6038318002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6038318002",
+      "publishedDateTime": "2020-11-03T20:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results.md",
+      "title": "Biden surrogate Coons says campaign is 'cautiously optimistic' about election results",
+      "excerpt": "The Biden campaign is \"cautiously optimistic\" heading into election night and believes it will ultimately come out ahead in the key battleground of Pennsylvania, one of its surrogates told Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8aiajxzvDEo/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8aiajxzvDEo/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results.amp",
+      "publishedDateTime": "2020-11-03T17:40:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-trump-ally-tweets-misleading-images-of-philadelphia-voting.md",
+      "title": "Trump Ally Tweets Misleading Images of Philadelphia Voting",
+      "excerpt": "Early Tuesday, a Trump campaign official posted an unfounded suggestion on Twitter that Democrats were illegally campaigning at a voting site in Philadelphia. Twitter labeled the tweet “misleading” and later “manipulated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/03/business/03distortions-photo-ogtweet/03distortions-photo-ogtweet-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.amp.html",
+      "publishedDateTime": "2020-11-03T16:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-indian-village-where-kamala-harris-grandfather-was-born-prays-for-her-win.md",
+      "title": "Indian village where Kamala Harris' grandfather was born prays for her win",
+      "excerpt": "People gathered Tuesday in a village in India that was once home to the forebears of D Kamala Harris to pray for her ticket's victory in the U.S. presidential election, Reuters news agency reported .",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/kamala-harris-india-village-pray-thulasendrapuram/",
+      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-india-village-pray-thulasendrapuram/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 403,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/9a2dcf7c-b38e-4b38-8498-1312f8920fdb/thumbnail/1200x630/fa3363ef12a674571be1f09b90bea2fe/ap-20308325491643.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-india-village-pray-thulasendrapuram/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-india-village-pray-thulasendrapuram/",
+      "publishedDateTime": "2020-11-03T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-ex-gov-and-ex-inmate-rod-blagojevich-votes-trump-having-commuted-sentence.md",
+      "title": "Ex-Gov. and Ex-Inmate Rod Blagojevich Votes, Trump Having Commuted Sentence",
+      "excerpt": "Former Illinois Gov. Rod Blagojevich cast his first ballot Tuesday since President Trump [earlier this year]( commuted his 14-year sentence for multiple corruption crimes. He voted a split ticket. “It",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/qhoXZ5nBoDLKDHlCGZw0",
+      "originalUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/qhoXZ5nBoDLKDHlCGZw0",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-254286?size=1.5",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T14:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-barbara-res-helped-build-trump-tower-she-says-she-saw-donald-trump-ignore-experts-and-disrespect-employees-in-her-18-years-working-with-him.md",
+      "title": "Barbara Res helped build Trump Tower. She says she saw Donald Trump ignore experts and disrespect employees in her 18 years working with him.",
+      "excerpt": "Donald Trump has long displayed certain behaviors, says Barbara Res, whose new book \"Tower of Lies\" recounts almost 2 decades of working with him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/barbara-res-donald-trump-real-estate-trump-tower-2020-11",
+      "originalUrl": "https://www.businessinsider.com/barbara-res-donald-trump-real-estate-trump-tower-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa0958969331a0011bc6e16?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T14:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary.md",
+      "title": "Colorado Sen. Michael Bennet not interested in being Biden's education secretary",
+      "excerpt": "Colorado’s senior Democratic senator has said he would not be interested in serving as education secretary under a prospective Joe Biden’s administration, despite his background in public education.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/URD0qG8SsMk/colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/URD0qG8SsMk/colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f63ae9c-e71d-44c6-bb32-f901a0c56576/06f4d830-7558-44eb-9e75-5af937341bd4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary.amp",
+      "publishedDateTime": "2020-11-03T14:46:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-cnns-don-lemon-hits-network-for-airing-trumps-propaganda-visit-to-rnc-office.md",
+      "title": "CNN's Don Lemon hits network for airing Trump's 'propaganda' visit to RNC office",
+      "excerpt": "CNN anchor Don Lemon questioned the judgment of his own network Tuesday after it broadcast remarks President Trump made during his visit to a Republican National Committee office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc",
+      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81df12e9-89a4-4281-90fe-5e64638e305c/ebed9e3f-ad42-4ef4-847c-2443a3c03962/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp",
+      "publishedDateTime": "2020-11-03T14:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-trump-mistakenly-introduced-the-rapper-lil-pump-as-little-pimp-at-his-final-campaign-rally.md",
+      "title": "Trump mistakenly introduced the rapper Lil Pump as 'Little Pimp' at his final campaign rally",
+      "excerpt": "One of the big superstars of the world, Little Pimp!' said President Trump as he introduced the rapper Lil Pump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11",
+      "originalUrl": "https://www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa14fc969331a0011bc6ea8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11?amp",
+      "publishedDateTime": "2020-11-03T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-in-st-petersburg-fla-trumps-character-is-in-focus.md",
       "title": "In St. Petersburg, Fla., Trump's Character Is in Focus",
       "excerpt": "With millions of Floridians having already voted, the Election Day line quickly diminished outside the largest polling location in St. Petersburg, Fla. The city resides in Pinellas County, one of the bellwether counties in the country's largest battleground state.",
@@ -714,613 +1318,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-exclusive-tired-of-trump-deutsche-bank-wants-out-but-sees-no-good-options-sources.md",
-      "title": "Exclusive: Tired of Trump, Deutsche Bank wants out but sees no good options - sources",
-      "excerpt": "Deutsche Bank AG is looking for ways to end its relationship with President Donald Trump after the U.S. elections, as it tires of the negative publicity stemming from the ties, according to three senior bank officials with direct knowledge of the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539756536&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA208L",
-          "width": 805,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27J0G0",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0G0",
-      "publishedDateTime": "2020-11-02T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.md",
-      "title": "Trump says Supreme Court decision on Pennsylvania ballots is 'dangerous,' 'will 'induce violence'",
-      "excerpt": "President Trump Monday called a Supreme Court decision that said Pennsylvania could allow mail ballots through Friday “dangerous,” adding it would lead to “violence.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySMpc_U52AI/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySMpc_U52AI/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/271cf1eb-74b0-4238-8cc6-dd9c23ed7c2c/f9d2a304-3484-48d2-8f7d-116c5e2edfc6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.amp",
-      "publishedDateTime": "2020-11-02T21:22:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-biden-closes-out-his-campaign-in-pennsylvania-promising-the-beginning-of-a-new-day.md",
-      "title": "Biden closes out his campaign in Pennsylvania, promising 'the beginning of a new day' ",
-      "excerpt": "Joe Biden closed his presidential campaign Monday night in Pennsylvania, lambasting President Donald Trump's handling of the coronavirus pandemic and promising to unite a country in crisis if he wins Tuesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/55crqGjmnSE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/55crqGjmnSE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201102141226-02-biden-philadelphia-1101-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/02/politics/biden-pennsylvania-closing-rally/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/biden-pennsylvania-closing-rally/index.html",
-      "publishedDateTime": "2020-11-02T19:31:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-sen-kennedy-calls-trump-an-insult-to-the-political-elite-who-never-talks-down-to-the-working-class.md",
-      "title": "Sen. Kennedy calls Trump 'an insult to the political elite' who never 'talks down' to the working class",
-      "excerpt": "The devotion of Donald Trump voters to their candidate stems from two factors, Sen. John Kennedy, R-La., told \"Tucker Carlson Tonight\" Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7jamlbG6Hw/sen-john-kennedy-trump-an-insult-to-the-political-elite",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7jamlbG6Hw/sen-john-kennedy-trump-an-insult-to-the-political-elite",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bee7c401-096b-4170-b016-408119f9f8fe/9b8497ea-e0bf-4985-8235-bbe6fdf7b1bb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-trump-an-insult-to-the-political-elite.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-trump-an-insult-to-the-political-elite.amp",
-      "publishedDateTime": "2020-11-02T18:56:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-in-final-rally-kamala-harris-urges-pennsylvania-to-use-power-and-vote.md",
-      "title": "In final rally, Kamala Harris urges Pennsylvania to use 'power' and vote",
-      "excerpt": "In her final campaign rally before Election Day, Kamala Harris urged Pennsylvania to get out and vote. Harris said, “Your vote is your voice and your voice is your power.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/in-final-rally-kamala-harris-urges-pennsylvania-to-use-power-and-vote-95196229930",
-      "originalUrl": "https://www.nbcnews.com/video/in-final-rally-kamala-harris-urges-pennsylvania-to-use-power-and-vote-95196229930",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/kamalalastrally.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo95196229930",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95196229930",
-      "publishedDateTime": "2020-11-02T18:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-the-point-marco-rubio-goes-full-trump-on-election-eve.md",
-      "title": "The Point: Marco Rubio goes full Trump on election eve",
-      "excerpt": "Even as some ambitious 2024 Republicans have begun to distance themselves from Donald Trump's version of, uh, conservatism, Florida's Sen. Marco Rubio offered the equivalent of a bear hug for the incumbent just 48 hours before Election Day. \n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SV6u7GaW7tk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SV6u7GaW7tk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 350,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190128124838-01-marco-rubio-dec2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html",
-      "publishedDateTime": "2020-11-02T15:30:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations.md",
-      "title": "Trump Caravan Participants Who Blocked New Jersey Highway Face Possible Citations",
-      "excerpt": "A caravan of President Trump supporters could be issued summonses for obstructing traffic on the Garden State Parkway on Sunday, New Jersey State Police officials said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223",
-      "originalUrl": "https://www.wsj.com/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-253655/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223",
-      "publishedDateTime": "2020-11-02T14:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-president-trump-installs-commission-to-promote-patriotic-education-counter-radical-views-of-us-history.md",
-      "title": "President Trump installs commission to promote 'patriotic education,' counter 'radical' views of US history",
-      "excerpt": "President Trump signed an executive order Monday designed to promote what he called \"patriotic education\" and to push back on the idea that the country is \"irredeemably and systemically racist.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqkZCtY9HW8/trump-1776-commission-critical-race-theory",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqkZCtY9HW8/trump-1776-commission-critical-race-theory",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c303b0a9-1733-49b4-986c-15bd16d64504/f6005f74-a2af-475a-ad1e-c59d8b2faff2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-1776-commission-critical-race-theory.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-1776-commission-critical-race-theory.amp",
-      "publishedDateTime": "2020-11-02T13:12:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-biden-gets-an-endorsement-from-silicon-valley-live-business-updates.md",
-      "title": "Biden Gets an Endorsement From Silicon Valley: Live Business Updates",
-      "excerpt": "A group of 11 founders, investors and business leaders from the technology industry endorsed Democratic presidential nominee Joseph R. Biden Jr. in a letter published on Monday, s",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus",
-      "originalUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/30/business/30markets-brf-markets/merlin_179245557_12422739-1663-479d-9813-613dc9789fb3-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html",
-      "publishedDateTime": "2020-11-02T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-trumps-appointee-barrett-takes-part-in-first-supreme-court-arguments.md",
-      "title": "Trump's appointee Barrett takes part in first Supreme Court arguments",
-      "excerpt": "Amy Coney Barrett participated in her first case as a member of the U.S. Supreme Court on Monday, with President Donald Trump's appointee welcomed by Chief Justice John Roberts before questioning one of the lawyers in a dispute in which an environmental group is",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN27I24T",
-      "originalUrl": "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN27I24T",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539694713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA118G",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27I24T",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27I24T",
-      "publishedDateTime": "2020-11-02T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-after-fire-fauci-chants-trump-tells-crowd-let-me-wait-till-a-little-bit-after-the-election.md",
-      "title": "After \"Fire Fauci\" chants, Trump tells crowd: \"Let me wait till a little bit after the election\"",
-      "excerpt": "Speaking at a big campaign rally in Opa-locka, Florida, Mr. Trump voiced frustration that the pandemic which has killed more than 231,000 Americans continues to dominate the news, sparking chants of \"Fire Fauci\" from the crowd.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/trump-rally-fire-fauci-chants-after-election/",
-      "originalUrl": "https://www.cbsnews.com/news/trump-rally-fire-fauci-chants-after-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/02/8180f174-a565-4c3d-b9d2-788be32f5164/thumbnail/1200x630/4cf0bb67e8323ce21d5569410f9a527d/gettyimages-1229411509.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-rally-fire-fauci-chants-after-election/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-fire-fauci-chants-after-election/",
-      "publishedDateTime": "2020-11-02T08:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

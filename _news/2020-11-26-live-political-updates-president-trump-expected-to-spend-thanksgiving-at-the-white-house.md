@@ -31,112 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
-    excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus"
-    publishedDateTime: 2020-11-30T05:34:00Z
-    webUrl: "https://www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/30/b1cbfd06-32cd-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/30/b1cbfd06-32cd-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/30/b1cbfd06-32cd-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Even Trump's fiercest critics say he may have gotten some world affairs right"
-    excerpt: "Some experts, ex-diplomats and even President Donald Trump's opponents concede his overseas initiatives have produced limited, qualified successes."
-    publishedDateTime: 2020-11-24T08:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/11/24/even-trump-critics-say-he-may-have-gotten-some-foreign-policy-right/6353491002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6353491002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6353491002"
+  - title: "Politics updates: Biden sprains foot ankle playing with dog; Trump mocked for 'I came up with vaccines' claim"
+    excerpt: "Trump mocked for his latest attempt to take credit for a COVID vaccine; GOP Sen. Blunt refuses to call Biden the president-elect – politics updates."
+    publishedDateTime: 2020-11-30T08:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/29/political-updates-donald-trump-joe-biden-president-transition/6449096002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6449096002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6449096002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 122
+    quality: 121
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/e35eb054-4f0c-4242-817e-388e7e50cf16-GTY_1222600011.jpg?auto=webp&crop=3615,2033,x0,y74&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/29/USAT/00288076-ff0d-47d5-b774-babb23ac3b4a-GTY_1229788118.jpg?auto=webp&crop=4499,2531,x0,y175&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Exclusive: Trump to add China's SMIC and CNOOC to defense blacklist - sources"
-    excerpt: "The Trump administration is poised to add China's top chipmaker SMIC and national offshore oil and gas producer CNOOC to a blacklist of alleged Chinese military companies, according to a document and sources,"
-    publishedDateTime: 2020-11-30T08:30:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-military-companies-exclusiv-idINKBN28A036"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28A036"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28A036"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542893627&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0KS"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Trump order could spark mass firings of civil servants before inauguration, lawmakers warn"
-    excerpt: "U.S. government civil servants could face mass firings under an executive order before President Donald Trump leaves office, and Democratic lawmakers, watchdog groups and unions are scrambling to block it."
-    publishedDateTime: 2020-11-26T02:56:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-transition-civilservants-idUSKBN28538O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28538O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28538O"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 115
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542487310&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP00M"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "A Pennsylvania state lawmaker reportedly received the results of his positive COVID-19 test during a meeting with Trump"
-    excerpt: "All participants at the meeting took COVID-19 tests, but the positive results were not announced until they were in the White House, a source said."
-    publishedDateTime: 2020-11-30T06:44:00Z
-    webUrl: "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5fc48f9f50e71a0011557e18?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "‘Mini desk. Tiny hands. Small soul’: Trump mocked for giving speech at little table"
-    excerpt: "DiaperDon trends on Twitter after outgoing president’s furniture steals limelight"
-    publishedDateTime: 2020-11-27T20:07:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 99
-  - title: "Representatives for 'Tiger King's' Joe Exotic are said to be chasing Trump down for a pardon and spending thousands of dollars to get it"
-    excerpt: "Representatives for the former zookeeper ran up a $10,000 tab at one of Trump's hotels in an effort to get his attention."
-    publishedDateTime: 2020-11-26T06:56:00Z
-    webUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5fbefa81037cbd0018612744?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "B85vDogL4BjOFFN2FvEI6XEEJet+ThZOVqFihsdIhe1kexx5Mv/3G37m1FW+lK31fsR3PzzxEo27xuPUZ7er2YT+KV0cf23fxBqDRG6BKUz5sNVfwMF+29UQfuwUT5V9REykXduYtV9FlhC+7hd2HSorhlqKnOVXo74t66fYMVDCHrM6uRpu8xXpgV44itpbroJW8hmzagjBQBGIs8xRz7lpJNkv1CWissfloco4en4EiWdJZUTmXztJdid54jmD6M9Pat+xwXwYl9BkVMpxM03J2EIHd7rcDBEEg/mqNTwVpGhx6VgrGsvLc1vqSkZtQ++aMu2LEr14+PPkXyEJivUr2WtrclZacA4mBJpwgY0=;LEp8kP+mg6d0NoljoDOc0w=="

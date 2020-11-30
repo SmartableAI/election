@@ -2,6 +2,585 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-10-23-im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects.md",
+      "title": "‘I’m going to do what’s right’: Bramnick criticism of Trump could hurt his statewide prospects",
+      "excerpt": "He is one of three major Republicans either running or known to be openly flirting with seeking the party’s nomination to challenge Democratic Gov. Phil Murphy next year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/new-jersey/story/2020/10/22/im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects-1329556",
+      "originalUrl": "https://www.politico.com/states/new-jersey/story/2020/10/22/im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects-1329556",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/fb/f6/788d630745c693ac95fb3e095bba/201022-bramnick-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-fact-check-did-biden-get-35-million-from-russia.md",
+      "title": "Fact check: Did Biden get $3.5 million from Russia?",
+      "excerpt": "President Donald Trump claimed that former Vice President Joe Biden received $3.5 million from Russia and that it \"came through Putin because he was very friendly with the former mayor of Moscow, and it was the mayor of Moscow's wife. You got $3.5 million. Your family got $3.5 million.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w6_gyVcEArM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w6_gyVcEArM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201022212519-32-debate-nashville-1022-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/biden-3-5-million-russia/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/biden-3-5-million-russia/index.html",
+      "publishedDateTime": "2020-10-22T22:21:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-they-are-so-well-taken-care-of-trump-defends-separating-migrant-children-from-parents.md",
+      "title": "'They are so well taken care of': Trump defends separating migrant children from parents",
+      "excerpt": "Former Vice President Joe Biden promised citizenship for the nation's undocumented immigrants while President Donald Trump defended his own record.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/22/biden-slams-trump-promises-citizenship-undocumented-immigrants/3738323001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/22/biden-slams-trump-promises-citizenship-undocumented-immigrants/3738323001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3738323001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3738323001",
+      "publishedDateTime": "2020-10-22T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.md",
+      "title": "New Jersey judge throws out Trump campaign mail-in ballot lawsuit",
+      "excerpt": "A federal judge in New Jersey Thursday threw out an August lawsuit filed by the Trump campaign in relation to mail-in voting.  ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sv9BGKAUejY/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sv9BGKAUejY/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1963c64d-d3e7-4868-9a06-8939df701d4d/347f5a13-791d-4178-a0ba-6670d52fead8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.amp",
+      "publishedDateTime": "2020-10-22T21:26:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-people-embrace-rebranding-of-proud-boys-to-poor-boys-after-biden-misspeaks.md",
+      "title": "People embrace rebranding of 'Proud Boys' to 'Poor Boys' after Biden misspeaks",
+      "excerpt": "Social media users expressed amusement Thursday when Democratic nominee for president Joe Biden mistakenly called the Proud Boys the \"poor boys\" during a debate with President Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/522387-people-embrace-rebranding-of-proud-boys-to-poor-boys-after-biden-misspeaks",
+      "originalUrl": "https://thehill.com/homenews/522387-people-embrace-rebranding-of-proud-boys-to-poor-boys-after-biden-misspeaks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_102220upi3_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/522387-people-embrace-rebranding-of-proud-boys-to-poor-boys-after-biden-misspeaks?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/522387-people-embrace-rebranding-of-proud-boys-to-poor-boys-after-biden-misspeaks?amp",
+      "publishedDateTime": "2020-10-22T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-fact-check-is-kamala-harris-more-liberal-than-bernie-sanders-charlotte-observer.md",
+      "title": "Fact Check: Is Kamala Harris ‘more liberal than Bernie Sanders’? | Charlotte Observer",
+      "excerpt": "President Donald Trump said during Thursday’s debate that Kamala Harris is “more liberal than Bernie Sanders” and is eager to see government-run health care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/news/politics-government/election/article246645198.html",
+      "originalUrl": "https://www.charlotteobserver.com/news/politics-government/election/article246645198.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/b428e196-612e-452c-83b9-15d61114f11b/dcd15672-7f2e-445a-b020-202ff75ee139/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.charlotteobserver.com/news/politics-government/election/article246645198.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246645198.html",
+      "publishedDateTime": "2020-10-22T19:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-biden-campaign-slams-hunter-biden-associates-claims-about-overseas-business-as-desperate-pathetic-farce.md",
+      "title": "Biden campaign slams Hunter Biden associate's claims about overseas business as 'desperate, pathetic farce'",
+      "excerpt": "“Joe Biden has never even considered being involved in business with his family,\" the campaign said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LgTMdgOK2o4/biden-campaign-response-tony-bobulinski-hunter-overseas-business-china",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LgTMdgOK2o4/biden-campaign-response-tony-bobulinski-hunter-overseas-business-china",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b886986e-6a50-4d72-8925-ddcbb05b95ac/599caf0b-699f-4990-b357-251ea96b44b4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-campaign-response-tony-bobulinski-hunter-overseas-business-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-response-tony-bobulinski-hunter-overseas-business-china.amp",
+      "publishedDateTime": "2020-10-22T17:03:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-mcconnell-on-bidens-court-commission-plan-court-packing-ought-to-be-completely-unacceptable.md",
+      "title": "McConnell on Biden’s court commission plan: ‘Court packing ought to be completely unacceptable’",
+      "excerpt": "Sen. Majority Leader Mitch McConnell said that Joe Biden’s plan to form a commission to “reform” the court system meant that he was “open to” court packing. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFbqic80cbE/mcconnell-bidens-court-commission-plan-court-packing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFbqic80cbE/mcconnell-bidens-court-commission-plan-court-packing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19899717-32ae-4f23-b506-19f2a7bb297e/e55fec0a-f492-4aee-b8b3-6cccdd79288b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-bidens-court-commission-plan-court-packing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-bidens-court-commission-plan-court-packing.amp",
+      "publishedDateTime": "2020-10-22T14:50:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-trump-lambasts-lesley-stahl-for-pressing-him-on-tough-questions-thats-no-way-to-talk.md",
+      "title": "Trump lambasts Lesley Stahl for pressing him on 'tough questions': 'That's no way to talk'",
+      "excerpt": "President Trump, in a testy interview with CBS's Lesly Stahl, chastized the veteran reporter telling her \"that's no way to talk\" when she ribbed him about his ability to take \"tough questions\" during an interview meant to air on 60 Minutes on Sunday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m3M0n6CFYvs/trump-chastises-leslie-stahl-on-pressing-him-for-tough-questions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m3M0n6CFYvs/trump-chastises-leslie-stahl-on-pressing-him-for-tough-questions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd47da4d-02e5-45b9-a0f3-c6dfa1b62229/ec7f5fd6-cc4d-4598-999c-4cd944044c5b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-chastises-leslie-stahl-on-pressing-him-for-tough-questions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-chastises-leslie-stahl-on-pressing-him-for-tough-questions.amp",
+      "publishedDateTime": "2020-10-22T14:10:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-trump-grants-clemency-to-former-gary-boxer-charles-duke-tanner-imprisoned-for-drug-crimes.md",
+      "title": "Trump grants clemency to former Gary boxer Charles ‘Duke’ Tanner imprisoned for drug crimes",
+      "excerpt": "Charles “Duke” Tanner, a former Gary boxer serving a 30-year sentence on federal drug and conspiracy convictions, was granted clemency Wednesday by President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-tanner-trump-clemency-st-1023-20201022-b4f2vcqmqng5nbm3pvic7qu4su-story.html",
+      "originalUrl": "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-tanner-trump-clemency-st-1023-20201022-b4f2vcqmqng5nbm3pvic7qu4su-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/Pm-aHlFSnssyVo3j_nF3vTocN34=/630x630/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/75BMD65FYJBY7BZZN4SN7Z6BYE.jpg",
+          "width": 630,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-tanner-trump-clemency-st-1023-20201022-b4f2vcqmqng5nbm3pvic7qu4su-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/post-tribune/ct-ptb-tanner-trump-clemency-st-1023-20201022-b4f2vcqmqng5nbm3pvic7qu4su-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-22T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-lesley-stahl-to-mike-pence-you-have-both-insulted-60-minutes.md",
+      "title": "Lesley Stahl to Mike Pence: 'You have both insulted 60 Minutes'",
+      "excerpt": "Reporter Lesley Stahl of “60 Minutes” told Vice President Mike Pence that he and President Trump “insulted” her program by not answering her questions to her satisfaction. “I feel that you both have insulted ‘60 Minutes’ by not answering any ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2020/oct/22/lesley-stahl-mike-pence-you-have-both-insulted-60-/",
+      "originalUrl": "https://www.washingtontimes.com/news/2020/oct/22/lesley-stahl-mike-pence-you-have-both-insulted-60-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/10/22/Election_2020_Pence_05076.jpg-220a6_c0-0-4026-2348_s1200x700.jpg?7d40882c60682ddff6ace7ac60a6e1b790e33187",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2020/oct/22/lesley-stahl-mike-pence-you-have-both-insulted-60-/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/22/lesley-stahl-mike-pence-you-have-both-insulted-60-/",
+      "publishedDateTime": "2020-10-22T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-no-surprise-russia-and-iran-want-trump-out-national-security-adviser-obrien.md",
       "title": "'No surprise' Russia and Iran want Trump out: National Security Adviser O'Brien",
       "excerpt": "National Security Adviser Robert O'Brien explained on “Fox & Friends” on Thursday why he believes Iran and Russia allegedly tried to interfere with the 2020 elections.",
@@ -761,579 +1340,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-biden-proposes-panel-to-study-reforming-out-of-whack-us-judiciary.md",
-      "title": "Biden proposes panel to study reforming 'out of whack' U.S. judiciary",
-      "excerpt": "U.S. Democratic presidential candidate Joe Biden delivers remarks during a voter mobilization event, at Miramar Regional Park in Miramar, Florida, U.S., October 13, 2020. REUTERS/Tom Bren",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/biden-proposes-panel-to-study-reforming-idUSKBN277238",
-      "originalUrl": "https://www.reuters.com/news/picture/biden-proposes-panel-to-study-reforming-idUSKBN277238",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538470114&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9L175",
-          "width": 810,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-biden-calls-for-bipartisan-commission-to-propose-ways-to-reform-the-court-system.md",
-      "title": "Biden calls for 'bipartisan commission' to propose ways to 'reform the court system'",
-      "excerpt": "Biden faces pressure to take a position on adding seats to the Supreme Court as Trump’s nominee advances toward a Senate vote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-calls-bipartisan-commission-propose-ways-reform-court-system-n1244271",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-calls-bipartisan-commission-propose-ways-reform-court-system-n1244271",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_43/3422105/201022-joe-biden-cincinatti-jm-0931_816bd6ee28dec090bc4549dd0d88c9eb.jpg",
-          "width": 2500,
-          "height": 1496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244271",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244271",
-      "publishedDateTime": "2020-10-22T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-linda-ronstadt-slams-donald-trumps-state-of-emergency-at-the-us-southern-border-encouraging-resentment.md",
-      "title": "Linda Ronstadt slams Donald Trump's 'state of emergency' at the U.S. southern border, 'encouraging resentment'",
-      "excerpt": "Linda Ronstadt bashed Donald Trump and his administration’s handling of the situation at the United States’ southern border.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment",
-      "originalUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Rodstadt-Trump_Getty-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment.amp",
-      "publishedDateTime": "2020-10-22T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-12-days-out-from-election-day-mike-pence-is-holding-a-rally-in-deeply-red-indiana-why.md",
-      "title": "12 days out from Election Day, Mike Pence is holding a rally in deeply red Indiana. Why?",
-      "excerpt": "Vice President Mike Pence will collect some much-needed campaign dollars from his home state during a trip sandwiched between battleground states.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 331,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/20/USAT/30b6b6a8-f313-416b-bda7-2d96d93cab19-AP_Election_2020_Pence.jpg?auto=webp&crop=3478,1956,x0,y177&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3720360001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3720360001",
-      "publishedDateTime": "2020-10-22T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation.md",
-      "title": "Byron York's Daily Memo: Joe Biden (sort of) addresses Hunter Biden accusation",
-      "excerpt": "ADDRESSES HUNTER BIDEN ACCUSATION. The Democratic presidential nominee isn't campaigning in person this week -- an odd choice in the final days of a hard-fought campaign. But Joe Biden did do a video interview Wednesday with a Wisconsin television station,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation",
-      "originalUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/9f02367/2147483647/strip/true/crop/1060x600+0+0/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F1b%2Fdd%2F5520d8a2407eb68282a5cf5f8e59%2Fdaily-memo-default-1060x600.png",
-          "width": 1060,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation?_amp=true",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation?_amp=true",
-      "publishedDateTime": "2020-10-22T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-vice-president-mike-pence-to-make-campaign-stop-in-pittsburgh.md",
-      "title": "Vice President Mike Pence To Make Campaign Stop In Pittsburgh",
-      "excerpt": "Vice President Mike Pence speaks to supporters during a rally at Weldall Manufacturing on October 13, 2020 in Waukesha, Wisconsin. ( Scott Olson/Getty Images) PITTSBURGH, PA — Vice President ...",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/pennsylvania/pittsburgh/vice-president-mike-pence-make-campaign-stop-pittsburgh",
-      "originalUrl": "https://patch.com/pennsylvania/pittsburgh/vice-president-mike-pence-make-campaign-stop-pittsburgh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/getty/22920172/20201022/075313/styles/patch_image/public/gettyimages-1280045144___22074708591.jpg?width=984",
-          "width": 911,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/pennsylvania/pittsburgh/amp/29034204/vice-president-mike-pence-to-make-campaign-stop-in-pittsburgh",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29034204/vice-president-mike-pence-to-make-campaign-stop-in-pittsburgh",
-      "publishedDateTime": "2020-10-22T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-election-2020-updates-i-think-the-mute-is-very-unfair-trump-on-debate-mics.md",
-      "title": "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics",
-      "excerpt": "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328",
-      "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 296,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-1-rt-er-201021_1603316702002_hpMain_16x9_1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328",
-      "publishedDateTime": "2020-10-22T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.md",
-      "title": "Biden faces backlash for saying 'America was an idea' that 'we've never lived up to'",
-      "excerpt": "Joe Biden was facing intense backlash Wednesday night for referring to America as an \"idea\" that \"we've never lived up to.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8dr8oiN-7Vg/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8dr8oiN-7Vg/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f93da98f-cf85-410a-865f-986bff199415/14f02d01-20fb-42ab-be54-7fb6e3dfe8d7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp",
-      "publishedDateTime": "2020-10-21T23:52:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-gallery-pence-visits-the-granite-state.md",
-      "title": "Gallery: Pence visits the Granite State",
-      "excerpt": "Visit the post for more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/",
-      "originalUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems15-1.jpg?w=1024&h=627",
-          "width": 1024,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/amp/",
-      "publishedDateTime": "2020-10-21T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china-goodwin.md",
-      "title": "Hunter biz partner confirms e-mail, details Joe Biden’s push to make millions from China: Goodwin",
-      "excerpt": "Wait until Scranton hears about this. One of Joe Biden’s ways of contrasting himself with President Trump has been to declare the election a battle of Park Avenue values vs. Scranton, Pa., values.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/",
-      "originalUrl": "https://nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/biden-china-nypost-cover.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/amp/",
-      "publishedDateTime": "2020-10-21T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine.md",
-      "title": "Hunter Biden: Here's what he has said about his Burisma role in Ukraine",
-      "excerpt": "The son of former Vice President Joe Biden has mostly remained mum on the allegations of impropriety while working on the board of Ukrainian oil company Burisma. Here’s what he has said about it in the past.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0M2AcnWkhFg/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0M2AcnWkhFg/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f3a7762-f52e-46a0-9028-8d3839245c76/529fc3a8-4e55-4ff9-a9aa-8dfd05a806c2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine.amp",
-      "publishedDateTime": "2020-10-21T21:36:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -903,6 +903,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "First Thing: Biden boosts diversity of top team while Trump continues election assault"
+    excerpt: "The president-elect has announced an all-female senior communications team, while Trump continues to rail against the election result. Plus, November’s coronavirus cases are double last month’s record"
+    publishedDateTime: 2020-11-30T11:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/30/first-thing-biden-boosts-diversity-of-top-team-while-trump-continues-election-assault"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/30/first-thing-biden-boosts-diversity-of-top-team-while-trump-continues-election-assault"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/30/first-thing-biden-boosts-diversity-of-top-team-while-trump-continues-election-assault"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 147
+    images:
+      - url: "https://i.guim.co.uk/img/media/e9327a7fdce17edfa5c72e082c05cfc34cb02268/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b4d1a6c4d4a6aa03c703c17210ecf462"
+        width: 600
+        height: 360
+        isCached: true
   - title: "For Trump and Biden, debate fuels allegations of improper family foreign deals"
     excerpt: "President Donald Trump leveled new attacks at the son of former Vice President Joe Biden at Thursday night’s debate."
     publishedDateTime: 2020-10-23T03:34:00Z

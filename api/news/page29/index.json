@@ -2,6 +2,607 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-10-21-maryland-man-facing-federal-charge-for-allegedly-threatening-biden-and-harris.md",
+      "title": "Maryland man facing federal charge for allegedly threatening Biden and Harris",
+      "excerpt": "A Maryland man is facing a federal charge for allegedly threatening Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris, authorities announced Wednesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y--nriY6APo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y--nriY6APo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 377,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200810103806-joe-biden-kamala-harris-lead-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/maryland-man-threat-biden-harris/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/maryland-man-threat-biden-harris/index.html",
+      "publishedDateTime": "2020-10-21T12:45:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-inside-melania-trumps-unprecedented-campaign-trail-absence.md",
+      "title": "Inside Melania Trump's unprecedented campaign trail absence",
+      "excerpt": "First lady Melania Trump -- in a historic break from precedent -- has yet to set foot on the campaign trail this year even as her husband, President Donald Trump, fights for votes, especially among suburban White women with whom she could hold appeal.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RINuL4HzoFk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RINuL4HzoFk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190604162208-01-melania-trump-0603-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html",
+      "publishedDateTime": "2020-10-21T12:31:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-biden-endorses-texas-democratic-house-candidate-julie-oliver.md",
+      "title": "Biden endorses Texas Democratic House candidate Julie Oliver",
+      "excerpt": "Democratic presidential nominee Joe Biden has thrown his support behind progressive congressional candidate Julie Oliver in her race for a House seat in central Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district",
+      "originalUrl": "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_101820getty_webb.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp",
+      "publishedDateTime": "2020-10-21T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-biden-corruption-and-the-thursday-debate-opinion.md",
+      "title": "Biden Corruption and the Thursday Debate | Opinion",
+      "excerpt": "We have a scandal involving Vice President Joe Biden, his brothers and his son dealing with China, Russia, Ukraine, Romania, Kazakhstan, Oman and possibly other foreign influence buyers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101",
+      "originalUrl": "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 485,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1656418/bidens.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1",
+      "publishedDateTime": "2020-10-21T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-man-accused-of-threatening-biden-harris-in-note-to-neighbor.md",
+      "title": "Man accused of threatening Biden, Harris in note to neighbor",
+      "excerpt": "A Maryland man has been charged with making death threats against Democratic presidential candidate Joe Biden and running mate U.S. Sen. Kamala Harris in a letter left on the doorstep of a neighbor wh",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 3970,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_a6b9ced35bd543a295f3a608c3f79711_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399",
+      "publishedDateTime": "2020-10-21T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-panicked-sen-ron-johnson-touts-trump-to-wisconsin-leaders.md",
+      "title": "'Panicked' Sen. Ron Johnson touts Trump to Wisconsin leaders",
+      "excerpt": "A “panicked” Sen. Ron Johnson is urging members of the state chamber of commerce in battleground Wisconsin to vote for President Donald Trump",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_0ebf4b9746484c1c86c0e2d61e5e0069_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980",
+      "publishedDateTime": "2020-10-21T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-trump-and-harris-head-to-north-carolina-today-and-pence-speaks-in-new-hampshire-and-ohio.md",
+      "title": "Trump and Harris head to North Carolina today, and Pence speaks in New Hampshire and Ohio.",
+      "excerpt": "Holds a rally in Gastonia, N.C. Former Vice President Joseph R. Biden Jr. No events scheduled; preparing for Thursday’s debate. Vice President Mike Pence 1:30 p.m.: Holds a rally in Portsmouth, N.H. 6 p.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/21/us/elections/trump-and-harris-head-to-north-carolina-today-and-pence-speaks-in-new-hampshire-and-ohio.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/21/us/elections/trump-and-harris-head-to-north-carolina-today-and-pence-speaks-in-new-hampshire-and-ohio.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/21/multimedia/21elections-briefing-kamala/21elections-briefing-kamala-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/21/us/elections/trump-and-harris-head-to-north-carolina-today-and-pence-speaks-in-new-hampshire-and-ohio.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/us/elections/trump-and-harris-head-to-north-carolina-today-and-pence-speaks-in-new-hampshire-and-ohio.amp.html",
+      "publishedDateTime": "2020-10-21T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-the-trump-jobs-boom-is-a-convenient-myth.md",
+      "title": "The Trump ‘Jobs Boom’ Is a Convenient Myth",
+      "excerpt": "Covid economy, but unemployment declined steadily starting in 2010.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
+      "originalUrl": "https://www.wsj.com/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-247630?width=620&size=1.5",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
+      "publishedDateTime": "2020-10-21T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-biden-counting-on-press-big-tech-to-protect-him-from-answering-questions-cruz.md",
+      "title": "Biden counting on press, Big Tech to protect him from answering questions: Cruz",
+      "excerpt": "Sen. Ted Cruz, R-Texas, slammed Big Tech and the mainstream media on \"America's Newsroom\" Wednesday for covering for Joe Biden amid bombshell reports of Hunter Biden's international business dealings.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/41ZRRWz5D6k/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/41ZRRWz5D6k/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz.amp",
+      "publishedDateTime": "2020-10-21T09:06:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-meadows-says-trump-tweets-to-declassify-russia-probe-docs-were-not-direct-orders.md",
+      "title": "Meadows says Trump tweets to declassify Russia probe docs 'were not' direct orders",
+      "excerpt": "White House chief of staff Mark Meadows rejected suggestions this week that President Trump’s tweets earlier this month calling for the “total declassification” of all documents related to the Russia investigation and the FBI’s probe into Hillary Clinton’s private email server were an explicit order",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXsdBGgFzjI/meadows-trump-tweets-declassify-russia-probe-documents",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXsdBGgFzjI/meadows-trump-tweets-declassify-russia-probe-documents",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/meadows-trump-tweets-declassify-russia-probe-documents.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-trump-tweets-declassify-russia-probe-documents.amp",
+      "publishedDateTime": "2020-10-21T07:48:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-trump-envoy-traveled-to-syria-for-talks-on-missing-americans.md",
+      "title": "Trump envoy traveled to Syria for talks on missing Americans",
+      "excerpt": "A senior White House official made an unusual, secret visit to Syria for high-level talks aimed at securing the release of two Americans who have been missing for years amid the country’s long civil w",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/WireAP_efc880968da349c0a4dc41b8f6155a29_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
+      "publishedDateTime": "2020-10-21T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-live-at-130-vp-mike-pence-visits-portsmouth-for-rally.md",
       "title": "Live at 1:30: VP Mike Pence visits Portsmouth for rally",
       "excerpt": "Vice President Mike Pence will be in the Granite State on Wednesday for a campaign event. He is scheduled to speak to supporters at a rally in Portsmouth at 1:30 p.m. The event will be streamed live above this article on WMUR.",
@@ -714,582 +1315,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-former-republican-national-committee-chairman-michael-steele-endorses-joe-biden.md",
-      "title": "Former Republican National Committee Chairman Michael Steele endorses Joe Biden",
-      "excerpt": "I'm a lifelong Republican – and I'm still a Republican. But this ballot is how we restore the soul of our nation,\" said Michael Steele, who called Joe Biden \"a good man.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/michael-steele-former-rnc-chairman-endorses-joe-biden/?intcid=CNI-00-10aaa3b",
-      "originalUrl": "https://www.cbsnews.com/news/michael-steele-former-rnc-chairman-endorses-joe-biden/?intcid=CNI-00-10aaa3b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/20/8b2ae190-028b-48df-97ab-e57073925f6d/thumbnail/1200x630/e15f5b854e52d31c88c781a758089c07/gettyimages-824448112.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/michael-steele-former-rnc-chairman-endorses-joe-biden/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/michael-steele-former-rnc-chairman-endorses-joe-biden/",
-      "publishedDateTime": "2020-10-20T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-trump-critics-who-embraced-hogan-are-baffled-by-his-vote-for-long-dead-reagan.md",
-      "title": "Trump critics who embraced Hogan are baffled by his vote for long-dead Reagan",
-      "excerpt": "Larry Hogan’s decision to repudiate President Trump by casting a write-in vote for Ronald Reagan has drawn swift and sustained backlash from many Democratic supporters and some anti-Trump Republicans who had admired Hogan’s willingness to break with the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/63KJTAQSQII6XISYMFFM6K4QNU.jpg&w=1440",
-          "width": 1280,
-          "height": 1025,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html?outputType=amp",
-      "publishedDateTime": "2020-10-20T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-trump-abruptly-ends-60-minutes-interview-before-taping-joint-appearance-with-pence.md",
-      "title": "Trump abruptly ends '60 Minutes' interview before taping joint appearance with Pence",
-      "excerpt": "President Donald Trump abruptly ended a solo interview with CBS News' \"60 Minutes\" Tuesday and did not return for an appearance he was supposed to tape with Vice President Mike Pence, according to multiple sources familiar with what happened.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYSwD5qaplc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYSwD5qaplc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 473,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201019175506-donald-trump-october-18-2020-01-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minutes/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minutes/index.html",
-      "publishedDateTime": "2020-10-20T14:23:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.md",
-      "title": "Massachusetts Gov. Charlie Baker floated as possible Cabinet member for Joe Biden",
-      "excerpt": "Baker finds himself among a handful of Republicans currently under consideration for Cabinet posts should Biden beat Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html",
-      "originalUrl": "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SCABQQT6OZCHVNUUEPFM2KFSZM.JPG",
-          "width": 3000,
-          "height": 2187,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html?outputType=amp",
-      "publishedDateTime": "2020-10-20T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-activist-group-plans-widespread-disruptive-election-activities-to-thwart-potential-trump-coup.md",
-      "title": "Activist group plans widespread, ‘disruptive’ election activities to thwart potential Trump ‘coup’",
-      "excerpt": "'Trump will not leave office without mass mobilization and direct action,' the group says on its website.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oqI-lfacqow/activist-group-election-protests-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oqI-lfacqow/activist-group-election-protests-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7786f99-ad7f-4cdb-bd56-8793a0d5fd0b/505220a6-fdbe-42af-9fb5-742193594d08/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/activist-group-election-protests-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/activist-group-election-protests-trump.amp",
-      "publishedDateTime": "2020-10-20T13:39:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-call-the-proposed-probe-of-trump-and-his-enablers-what-it-really-is-mccarthyism.md",
-      "title": "Call the proposed probe of Trump and his ‘enablers’ what it really is: McCarthyism",
-      "excerpt": "It’s one thing to investigate whether Trump officials broke any laws during their service; that’s appropriate and should be handled by the Justice Department. Reich’s goal is much broader: “name every official,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6TSBQMARNQI6XISYMFFM6K4QNU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/?outputType=amp",
-      "publishedDateTime": "2020-10-20T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.md",
-      "title": "Watch: Trail Blazers’ CJ McCollum interviews VP nominee Kamala Harris during Remaking America",
-      "excerpt": "The Blazers' starting shooting guard interviewed the democratic candidate for Vice President in his new show, Remaking America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html",
-      "originalUrl": "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OIANM34RPNFNJD6AY4FG5OBJQM.JPG",
-          "width": 2968,
-          "height": 2220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html?outputType=amp",
-      "publishedDateTime": "2020-10-20T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-trump-says-were-up-in-nc-amid-reported-internal-worries-about-keeping-state-red.md",
-      "title": "Trump says 'we're up' in NC amid reported internal worries about keeping state red",
-      "excerpt": "Polls show Trump essentially tied with Democratic nominee Joe Biden",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFGyaaY0NdA/trump-north-carolina-biden-polls",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFGyaaY0NdA/trump-north-carolina-biden-polls",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20289760366040-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-north-carolina-biden-polls.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-biden-polls.amp",
-      "publishedDateTime": "2020-10-20T13:00:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-biden-considering-former-ohio-gov-kasich-for-cabinet-position-report.md",
-      "title": "Biden considering former Ohio Gov. Kasich for Cabinet position: Report",
-      "excerpt": "Kasich is one of several conservative politicians and executives being considered.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ggq3QOQYLUY/biden-considering-kasich-cabinet-position",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ggq3QOQYLUY/biden-considering-kasich-cabinet-position",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23d0ced5-35cd-4c65-bd68-90fc2c44909e/cc99c12a-752d-44dd-a3fe-d312ae773476/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-considering-kasich-cabinet-position.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-considering-kasich-cabinet-position.amp",
-      "publishedDateTime": "2020-10-20T12:48:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-photo-altered-to-ice-cube-50-center-in-trump-2020-hats.md",
-      "title": "Photo altered to Ice Cube, 50 Center in 'Trump 2020' hats",
-      "excerpt": "An altered photo of rappers Ice Cube and 50 Cent in hats that appear to show support for President Donald Trump circulated widely on social media Tuesday, fueled in part by a tweet by Eric Trump",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/photo-altered-ice-cube-50-center-trump-2020-73719756",
-      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/photo-altered-ice-cube-50-center-trump-2020-73719756",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Entertainment/WireAP_81e131d935a94eb8b2511404169cbee9_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/photo-altered-ice-cube-50-center-trump-2020-73719756",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/photo-altered-ice-cube-50-center-trump-2020-73719756",
-      "publishedDateTime": "2020-10-20T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-trumps-tweet-on-total-declassification-of-russia-docs-not-an-order-white-house-tells-judge.md",
-      "title": "Trump's tweet on 'total' declassification of Russia docs not an order, White House tells judge",
-      "excerpt": "The White House chief of staff told the judge to ignore Trump's tweet saying he had authorized the declassification of 'any & all documents' relating to the Russia probe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/white-house/trump-s-tweet-total-declassification-russia-docs-not-order-white-n1244022",
-      "originalUrl": "https://www.nbcnews.com/politics/white-house/trump-s-tweet-total-declassification-russia-docs-not-order-white-n1244022",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_43/3421533/201020-mark-meadows-jm-1223_4f352f1cd014dfe5fff1f27e1f61d38d.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244022",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244022",
-      "publishedDateTime": "2020-10-20T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

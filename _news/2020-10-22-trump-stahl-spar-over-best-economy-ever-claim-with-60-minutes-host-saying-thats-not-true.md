@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump rips ‘60 Minutes’ for not contacting him after Chris Krebs interview"
+    excerpt: "President Trump blasted CBS’ “60 Minutes” for not contacting him for comment after interviewing the administration’s former cybersecurity chief, whom Trump fired earlier"
+    publishedDateTime: 2020-11-30T14:28:00Z
+    webUrl: "https://nypost.com/2020/11/30/trump-blasts-60-minutes-for-not-contacting-him-to-comment-on-chris-krebs/"
+    ampWebUrl: "https://nypost.com/2020/11/30/trump-blasts-60-minutes-for-not-contacting-him-to-comment-on-chris-krebs/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/30/trump-blasts-60-minutes-for-not-contacting-him-to-comment-on-chris-krebs/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/chris-krebs-34.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "MG4cd5oJFoUpTHZttAI1/uFV2/WDn0aaqpYS2lTxr8tfhjmQg2xHaO+Pis7+PC/ALRsJATSrJFWlnrbwznURXdLaG5DKFK/oqRAPLyKJU1LyJ7FXZB5S4zbtZMSVz9rqMMppy1+b77AmqDipbsNLtK0pfnowvg2W8+/EzHUexizhpkAZgJ4svZc8BSwkKFRPQrnCrgwLePVmw4EYHaPZzr7mWu+8iLvauSDEOwepAmGiQStFElT0cNpJ5Lv7PFuuuKPXCiTPZcqbhk+ezgTJkylREMGlpIw8D06E5GnvA4Uu09SgNa5rAuOL3PXBqKxLEUqHerJT6fxTv80B0ukqmK9IFJyxS9c2FWHUSbC9HtE=;H9e3kUAW67TE7M8Rxae+iQ=="
 ---

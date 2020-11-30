@@ -2,6 +2,62 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-21-biden-counting-on-press-big-tech-to-protect-him-from-answering-questions-cruz.md",
+      "title": "Biden counting on press, Big Tech to protect him from answering questions: Cruz",
+      "excerpt": "Sen. Ted Cruz, R-Texas, slammed Big Tech and the mainstream media on \"America's Newsroom\" Wednesday for covering for Joe Biden amid bombshell reports of Hunter Biden's international business dealings.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/41ZRRWz5D6k/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/41ZRRWz5D6k/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz.amp",
+      "publishedDateTime": "2020-10-21T09:06:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-meadows-says-trump-tweets-to-declassify-russia-probe-docs-were-not-direct-orders.md",
       "title": "Meadows says Trump tweets to declassify Russia probe docs 'were not' direct orders",
       "excerpt": "White House chief of staff Mark Meadows rejected suggestions this week that President Trump’s tweets earlier this month calling for the “total declassification” of all documents related to the Russia investigation and the FBI’s probe into Hillary Clinton’s private email server were an explicit order",

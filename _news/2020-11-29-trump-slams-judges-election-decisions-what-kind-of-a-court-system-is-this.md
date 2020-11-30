@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-sunday-morning-futures-judges
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-sunday-morning-futures-judges-election-lawsuits.amp"
 type: article
 quality: 186
-heat: 206
+heat: 226
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fired election security official calls fraud claims 'nonsense'; Trump slams system as 'international joke'"
+    excerpt: "Former Cybersecurity and Infrastructure Security Agency (CISA) Director Chris Krebs on Sunday emphatically defended the security of the 2020 election in the wake of his firing by President Trump, as the president slammed the report on Twitter and claimed that U.S. election security is an \"international"
+    publishedDateTime: 2020-11-30T13:23:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/apXEy_qCuKw/fired-elections-official-says-fraud-claims-nonsense-in-interview-trump-slams-system-as-international-joke"
+    ampWebUrl: "https://www.foxnews.com/politics/fired-elections-official-says-fraud-claims-nonsense-in-interview-trump-slams-system-as-international-joke.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fired-elections-official-says-fraud-claims-nonsense-in-interview-trump-slams-system-as-international-joke.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Dershowitz: Trump has 'constitutional paths' to pursue in court cases, will likely come up short"
     excerpt: "Harvard Law Professor Emeritus Alan Dershowitz said Sunday that while President Trump has a number of legal theories he can pursue in his efforts to swing the 2020 election result in his favor, it does not appear likely that these efforts will be successful."
     publishedDateTime: 2020-11-22T17:34:49Z

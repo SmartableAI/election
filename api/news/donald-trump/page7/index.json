@@ -2,6 +2,272 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-27-no-dividends-no-problem-trump-megadonor-sheldon-adelson-has-given-at-least-180-million-this-year-despite-troubles-at-his-company.md",
+      "title": "No Dividends, No Problem: Trump Megadonor Sheldon Adelson Has Given At Least $180 Million This Year, Despite Troubles At His Company",
+      "excerpt": "Regardless of what happens with his casino empire, Sheldon Adelson has more than enough cash to remain one of the biggest political donors in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michelatindera/2020/10/27/no-dividends-no-problem-trump-megadonor-sheldon-adelson-has-given-at-least-180-million-this-year-despite-troubles-at-his-company/",
+      "originalUrl": "https://www.forbes.com/sites/michelatindera/2020/10/27/no-dividends-no-problem-trump-megadonor-sheldon-adelson-has-given-at-least-180-million-this-year-despite-troubles-at-his-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f978c5a40130f51d658e810%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1896%26cropY1%3D0%26cropY2%3D1067",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-explainer-can-trump-call-in-troops-to-quell-election-day-unrest.md",
+      "title": "Explainer: Can Trump call in troops to quell Election Day unrest?",
+      "excerpt": "U.S. President Donald Trump has declined to commit to a peaceful transfer of power if he decides the Nov. 3 presidential election results are fraudulent and has proposed mobilizing troops under the 200-year-old Insurrection Act to put down unrest if he won.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-insurrection-explainer/explainer-can-trump-call-in-troops-to-quell-election-day-unrest-idUSKBN27C1DC",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-insurrection-explainer/explainer-can-trump-call-in-troops-to-quell-election-day-unrest-idUSKBN27C1DC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 360,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538958726&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0WM",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27C1DC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1DC",
+      "publishedDateTime": "2020-10-27T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-trump-admin-dismantles-firewall-for-editorial-independence-at-us-funded-media-outlets.md",
+      "title": "Trump admin dismantles 'firewall' for editorial independence at U.S.-funded media outlets",
+      "excerpt": "A senior U.S. official appointed by President Donald Trump has scrapped a federal regulation designed to protect the editorial independence of Voice of America and other U.S.-funded media outlets, amid accusations he is undermining the journalistic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/trump-admin-dismantles-firewall-editorial-independence-u-s-funded-media-n1244885",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/trump-admin-dismantles-firewall-editorial-independence-u-s-funded-media-n1244885",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_25/3391302/200619-michael-pack-us-senate-ew-130p_018ee22d262c51378e6ba0ca49f89c27.jpg",
+          "width": 2500,
+          "height": 1400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244885",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244885",
+      "publishedDateTime": "2020-10-27T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-election-2020-both-trump-and-biden-campaign-in-battleground-pennsylvania.md",
+      "title": "Election 2020: Both Trump and Biden campaign in battleground Pennsylvania",
+      "excerpt": "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more campaign events Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
+      "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 5394,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/biden-event-02-gty-jef-201026_1603744290053_hpMain_16x9_1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987",
+      "publishedDateTime": "2020-10-26T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-trump-attacked-biden-for-warning-against-4-more-years-of-george-but-the-democrat-has-long-called-himself-a-gaffe-machine.md",
+      "title": "Trump attacked Biden for warning against '4 more years of George,' but the Democrat has long called himself a 'gaffe machine'",
+      "excerpt": "Joe Biden called President Donald Trump \"George\" during a campaign event. Biden has been open about his stutter, calling himself a \"gaffe machine.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10",
+      "originalUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f96ad79f21803001222bdca?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp",
+      "publishedDateTime": "2020-10-26T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-biden-on-attacks-on-mental-fitness-trump-thought-911-attack-was-711-attack.md",
       "title": "Biden on attacks on mental fitness: Trump thought '9/11 attack was 7/11 attack'",
       "excerpt": "Former Vice President Joe Biden (D) defended his mental acuity and took shots at President Trump during an interview airing Sunday on CBS's \"60 Minutes.\"",
@@ -1302,271 +1568,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-trump-posts-full-60-minutes-interview-us-elections-news.md",
-      "title": "Trump posts full ’60 Minutes’ interview: US Elections news",
-      "excerpt": "President Donald Trump posts entire CBS interview ahead of its scheduled air time, showing him walking out. After last month’s chaotic debate, President Donald Trump and his Democratic rival, Joe Biden,",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
-      "originalUrl": "https://www.aljazeera.com/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 580,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2020/10/2020-10-22T121407Z_1438368857_RC2ONJ97NGLC_RTRMADP_3_USA-ELECTION-GLOBAL-CLIMATECHANGE.jpg?resize=1200%2C630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
-      "publishedDateTime": "2020-10-22T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-trump-got-81-of-the-evangelical-vote-in-2016-meet-the-conservatives-who-are-working-to-vote-him-out.md",
-      "title": "Trump got 81% of the evangelical vote in 2016. Meet the conservatives who are working to vote him out.",
-      "excerpt": "Trump rallies in swing states to convince fellow evangelical Christians not to vote for Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10",
-      "originalUrl": "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f90995c2121130018740043?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp",
-      "publishedDateTime": "2020-10-22T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-john-brennan-says-trump-wouldnt-qualify-for-a-security-clearance-for-a-variety-of-reasons.md",
-      "title": "John Brennan says Trump wouldn't qualify for a security clearance \"for a variety of reasons'",
-      "excerpt": "When asked if someone with the amount of debt President Trump has would qualify for a security clearance, former CIA director John Brennan said he thinks President Trump wouldn’t qualify for a security clearance “for a variety of reasons.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/john-brennan-says-trump-wouldnt-qualify-for-a-security-clearance-for-a-variety-of-reasons/2020/10/22/521a71f3-dbab-406f-953e-d560b1d2b61a_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/john-brennan-says-trump-wouldnt-qualify-for-a-security-clearance-for-a-variety-of-reasons/2020/10/22/521a71f3-dbab-406f-953e-d560b1d2b61a_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/10-22-2020/t_749b9a4d6d5f496687300cc597144b45_name_Screen_Shot_2020_10_22_at_11_23_58_AM_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-jennifer-lawrence-says-trump-changed-everything-about-her-political-views.md",
-      "title": "Jennifer Lawrence says Trump 'changed everything' about her political views",
-      "excerpt": "Jennifer Lawrence said on Wednesday that despite formerly voting Republican, she won't be supporting Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/10/21/trump-election-changed-jennifer-lawrences-republican-views/6004508002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/10/21/trump-election-changed-jennifer-lawrences-republican-views/6004508002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/12/26/USAT/27985702-65b1-4f3c-bd87-16531ef2393b-1040038846.JPG?auto=webp&crop=3999,2249,x1,y144&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6004508002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6004508002",
-      "publishedDateTime": "2020-10-22T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-trump-finds-yet-another-democrat-hes-eager-to-lock-up.md",
-      "title": "Trump finds yet another Democrat he's eager to 'lock up'",
-      "excerpt": "Trump now wants to \"lock up\" the chairman of the House Intelligence Committee. Adam Schiff at least has quite a bit of company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-finds-yet-another-democrat-he-s-eager-lock-ncna1244285",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-finds-yet-another-democrat-he-s-eager-lock-ncna1244285",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_07/3224556/schiff_trump_russia_probe_60450-78995-maddowblog_f880ee5abeaa8d630c9e91def873f2fd.jpg",
-          "width": 830,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244285",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244285",
-      "publishedDateTime": "2020-10-22T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

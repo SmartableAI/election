@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden chooses an all-female senior White House press team"
-    excerpt: "President-elect Joe Biden will have an all-female senior communications team at his White House, led by campaign communications director Kate Bedingfield."
-    publishedDateTime: 2020-11-30T00:56:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8TTcynz6e80/biden-chooses-an-all-female-senior-white-house-press-team"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-chooses-an-all-female-senior-white-house-press-team.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chooses-an-all-female-senior-white-house-press-team.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20334841172795.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden mum on defense secretary pick as progressives push against top contender Flournoy"
     excerpt: "As President-elect Joe Biden announced the core of his incoming national security team on Monday, he withheld one key name: his pick for defense secretary. "
     publishedDateTime: 2020-11-24T20:26:18Z

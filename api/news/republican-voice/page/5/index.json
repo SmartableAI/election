@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-09-trump-has-a-duty-to-supporters-to-fight-for-transparent-review-of-ballots-miranda-devine.md",
+      "title": "Trump ‘has a duty’ to supporters to fight for ‘transparent’ review of ballots: Miranda Devine",
+      "excerpt": "President Trump “has a duty” to “half of America which voted for him to look into” ballot-counting in the 2020 presidential election “so that it's all transparent,” New York Post columnist Miranda Devine told “Fox & Friends” on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y_8SzD0HMwc/trump-duty-supporters-transparent-review-ballot-counting-miranda-devine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y_8SzD0HMwc/trump-duty-supporters-transparent-review-ballot-counting-miranda-devine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Miranda-Devine-1109.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T07:12:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-biden-coronavirus-team-to-include-rick-bright-ousted-hhs-official.md",
       "title": "Biden coronavirus team to include Rick Bright, ousted HHS official",
       "excerpt": "Rick Bright, the ousted Health and Human Services official, will be one of 10 advisory board members on Democratic President-elect Joe Biden's coronavirus task force, Biden's transition team announced on Monday.",
@@ -1594,62 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp",
       "publishedDateTime": "2020-11-04T00:47:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-trump-narrows-gap-in-heavily-latino-texas-county-that-clinton-won-by-79.md",
-      "title": "Trump narrows gap in heavily Latino Texas county that Clinton won by 79%",
-      "excerpt": "President Trump has made up a lot of ground in Starr County, Texas, since 2016 in what once a Democratic stronghold, according to results from the Texas Secretary of State's Office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dNQ6wDn6dPw/trump-narrows-gap-to-5-in-heavily-latino-texas-county-that-clinton-won-by-60",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dNQ6wDn6dPw/trump-narrows-gap-to-5-in-heavily-latino-texas-county-that-clinton-won-by-60",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-narrows-gap-to-5-in-heavily-latino-texas-county-that-clinton-won-by-60.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-narrows-gap-to-5-in-heavily-latino-texas-county-that-clinton-won-by-60.amp",
-      "publishedDateTime": "2020-11-03T22:56:49-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

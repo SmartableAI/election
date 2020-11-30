@@ -2,6 +2,602 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-23-stephen-moore-says-that-trump-will-leave-office-triumphant-comparing-him-to-winston-churchill.md",
+      "title": "Stephen Moore says that Trump will leave office 'triumphant,' comparing him to Winston Churchill",
+      "excerpt": "\"Sometimes I think he's like Winston Churchill,\" Moore said of President Trump who took offense to similar comparisons made in the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11",
+      "originalUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fbab1dc50e71a0011556b3f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11?amp",
+      "publishedDateTime": "2020-11-22T11:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-chris-christie-calls-trumps-legal-team-a-national-embarrassment.md",
+      "title": "Chris Christie calls Trump's legal team a 'national embarrassment' ",
+      "excerpt": "A staunch ally of Donald Trump said Sunday it was time for the President to end his futile gambit to overturn the results of the election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwx-NTHUpCA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwx-NTHUpCA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201003121933-chris-christie-0927-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/22/politics/chris-christie-donald-trump-election/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/chris-christie-donald-trump-election/index.html",
+      "publishedDateTime": "2020-11-22T10:26:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-trump-rails-against-paris-climate-accord-in-virtual-g20-event.md",
+      "title": "Trump rails against Paris climate accord in virtual G20 event",
+      "excerpt": "President Donald Trump railed against the Paris climate accord and touted American oil and natural gas production during a virtual session focused on safeguarding the environment on the final day of the Group of 20 summit.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1UHhTt-FW3M/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1UHhTt-FW3M/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201121020808-01-donald-trump-1120-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/22/politics/trump-paris-climate-accord-g20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/trump-paris-climate-accord-g20/index.html",
+      "publishedDateTime": "2020-11-22T09:30:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-donald-trump-appears-to-admit-covid-is-running-wild-in-the-us.md",
+      "title": "Donald Trump appears to admit Covid is 'running wild' in the US",
+      "excerpt": "Comments, in contrast to pre-election rhetoric, come as FDA approves emergency use authorisation for Regeneron antibody therapy",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/11babe9d3a64c4d54f512bcefe3890e0b1c37495/0_12_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ac28a2429a8046cea6435f95cff76d4b",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us",
+      "publishedDateTime": "2020-11-21T19:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-wisconsin-officials-trump-observers-obstructing-recount.md",
+      "title": "Wisconsin officials: Trump observers obstructing recount",
+      "excerpt": "Election officials in Wisconsin said Saturday that Trump poll watchers were “obstructing” the recount and acting in “bad faith” as tabulations continue in Milwaukee and Dane counties.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5-bIrhScJX8/wisconsin-officials-trump-observers-obstructing-recount",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5-bIrhScJX8/wisconsin-officials-trump-observers-obstructing-recount",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ed7bef1-abb4-4144-990f-945e21d96f1b/fe3038f6-9b82-4c44-8dcb-f8f7736bfd04/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/wisconsin-officials-trump-observers-obstructing-recount.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-officials-trump-observers-obstructing-recount.amp",
+      "publishedDateTime": "2020-11-21T16:54:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-rep-elect-august-pfluger-of-texas-calls-biden-oil-plans-extremely-alarming.md",
+      "title": "Rep.-elect August Pfluger of Texas calls Biden oil plans 'extremely alarming'",
+      "excerpt": "An Air Force veteran newly elected to represent an oil-rich Texas district said President-elect Joe Biden's proposals on taxes, and the oil and gas industry are \"extremely alarming.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yZm37Y7Z9iw/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yZm37Y7Z9iw/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/August-Pfluger-FOX.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming.amp",
+      "publishedDateTime": "2020-11-21T12:02:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.md",
+      "title": "Trump calls into virtual G20 summit, talks COVID-19 with world leaders",
+      "excerpt": "President Trump took part in the first of two virtual meetings with world leaders Saturday as part of a coronavirus-throttled G20 summit — in what could be the last international gathering of his presidency.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdxC1b1tUtI/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdxC1b1tUtI/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/G20-GETTY.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.amp",
+      "publishedDateTime": "2020-11-21T11:40:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-mcenany-trumps-path-to-victory-is-supreme-court-exposing-systemic-voter-fraud.md",
+      "title": "McEnany: Trump's path to victory is Supreme Court, exposing 'systemic' voter fraud",
+      "excerpt": "The path to challenging \"systemic voter fraud\" during the 2020 presidential election is through the courts, Trump campaign adviser Kayleigh McEnany said Saturday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v-8F2dqxSNM/mcenany-democrats-seized-on-a-pandemic-to-create-voter-fraud-epidemic",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v-8F2dqxSNM/mcenany-democrats-seized-on-a-pandemic-to-create-voter-fraud-epidemic",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcenany-democrats-seized-on-a-pandemic-to-create-voter-fraud-epidemic.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-democrats-seized-on-a-pandemic-to-create-voter-fraud-epidemic.amp",
+      "publishedDateTime": "2020-11-21T11:32:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-who-needs-russia-loudest-attacks-on-us-vote-are-from-trump.md",
+      "title": "Who needs Russia? Loudest attacks on US vote are from Trump",
+      "excerpt": "In the weeks before the presidential election, federal authorities warned that foreign countries could spread false information about the results to discredit the legitimacy of the outcome",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/russia-loudest-attacks-us-vote-trump-74325908",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/russia-loudest-attacks-us-vote-trump-74325908",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_b02740a5fba14ae7b27cb28de2934cc4_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/russia-loudest-attacks-us-vote-trump-74325908",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/russia-loudest-attacks-us-vote-trump-74325908",
+      "publishedDateTime": "2020-11-21T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-less-pomp-and-circumstance-biden-inauguration-likely-to-be-scaled-down-affair-in-response-to-covid.md",
+      "title": "Less pomp and circumstance? Biden inauguration likely to be scaled-down affair in response to COVID",
+      "excerpt": "Joe Biden's inauguration in January is expected to look a lot different than previous presidential inaugurals. The reason: COVID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/21/joe-biden-inauguration-amid-pandemic-scaled-down-affair/6278654002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/21/joe-biden-inauguration-amid-pandemic-scaled-down-affair/6278654002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6278654002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6278654002",
+      "publishedDateTime": "2020-11-21T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-georgia-certifies-election-results-making-biden-victory-official.md",
+      "title": "Georgia certifies election results, making Biden victory official",
+      "excerpt": "Georgia certified the general election Friday, officially making President-elect Biden the victor. The Trump campaign has until Tuesday to request a recount.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511",
+      "originalUrl": "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1640,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/raffensperger1-ap-ml-201120_1605881698070_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511",
+      "publishedDateTime": "2020-11-20T19:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-biden-team-slams-treasury-decision-to-curtail-fed-lending-powers-calls-move-deeply-irresponsible.md",
       "title": "Biden team slams Treasury decision to curtail Fed lending powers, calls move ‘deeply irresponsible’",
       "excerpt": "The Federal Reserve and Treasury Department had a rare public falling out over whether the central bank should retain emergency lending powers.",
@@ -726,603 +1322,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-dominion-counters-trump-legal-team-after-press-conference-claims-no-ties-to-venezuela-or-cuba.md",
-      "title": "Dominion counters Trump legal team after press conference claims: 'No ties to Venezuela or Cuba'",
-      "excerpt": "Election technology firm Dominion Voting Systems responded to allegations made by President Trump’s top lawyers, who claimed election fraud and foreign interference conducted through the voting software in an incendiary Thursday press conference.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sc9CucTQrxY/election-tech-dominion-counters-giuliani-venezuela-cuba",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sc9CucTQrxY/election-tech-dominion-counters-giuliani-venezuela-cuba",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9649eda-3c54-4b54-843e-66c817d257a1/8c70831b-bb19-4800-91d5-ed29bb44f6b2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp",
-      "publishedDateTime": "2020-11-20T06:34:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-ivanka-trump-slams-new-york-tax-investigations-as-100-motivated-by-politics-publicity-and-rage.md",
-      "title": "Ivanka Trump slams New York tax investigations as '100% motivated by politics, publicity and rage'",
-      "excerpt": "Ivanka Trump late Thursday condemned two investigations into President Trump and his businesses as \"100% motivated by politics.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mN7BcJ-zo5Q/ivanka-trump-new-york-tax-investigations-motivated-politics",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mN7BcJ-zo5Q/ivanka-trump-new-york-tax-investigations-motivated-politics",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20307822386035.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-new-york-tax-investigations-motivated-politics.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-new-york-tax-investigations-motivated-politics.amp",
-      "publishedDateTime": "2020-11-20T05:38:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-election-2020-live-updates-biden-to-meet-with-pelosi-schumer.md",
-      "title": "ELECTION 2020 LIVE UPDATES: Biden to meet with Pelosi, Schumer",
-      "excerpt": "Follow for the latest developments in the 2020 election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HT_EivXLUSM/live-updates-elections-2020-nov-20-2020",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HT_EivXLUSM/live-updates-elections-2020-nov-20-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 450,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f052cb7c-eb11-4b09-a6d3-03469e7b0739/92fc3b81-6048-4b27-adfe-2dbea62e35ec/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-elections-2020-nov-20-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-elections-2020-nov-20-2020.amp",
-      "publishedDateTime": "2020-11-20T04:31:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-fannie-freddie-overseer-seeks-to-end-federal-control-before-trump-leaves.md",
-      "title": "Fannie, Freddie Overseer Seeks to End Federal Control Before Trump Leaves",
-      "excerpt": "The federal regulator who oversees Fannie Mae and Freddie Mac is pushing to speed up the mortgage giants’ exit from 12 years of government control but has yet to reach an agreement he needs with Treasury Secretary Steven Mnuchin,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/fannie-freddie-overseer-seeks-to-end-federal-control-before-trump-leaves-11605873600",
-      "originalUrl": "https://www.wsj.com/articles/fannie-freddie-overseer-seeks-to-end-federal-control-before-trump-leaves-11605873600",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-261113/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/fannie-freddie-overseer-seeks-to-end-federal-control-before-trump-leaves-11605873600",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/fannie-freddie-overseer-seeks-to-end-federal-control-before-trump-leaves-11605873600",
-      "publishedDateTime": "2020-11-20T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-biden-top-democrats-lay-groundwork-for-multibillion-dollar-push-to-boost-us-broadband.md",
-      "title": "Biden, top Democrats lay groundwork for multibillion dollar push to boost U.S. broadband",
-      "excerpt": "President-elect Joe Biden and top congressional Democrats are laying the groundwork to seek a massive increase in federal broadband spending next year, hoping they can secure billions of dollars in new government aid to improve internet access and affordability -- and help people stay online during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R55O6VRKQQI6XHBBHTCQDUEYD4.jpg&w=1440",
-          "width": 1440,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/?outputType=amp",
-      "publishedDateTime": "2020-11-20T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-new-york-subpoenas-trump-organization-records-on-consulting-fees-paid-to-ivanka.md",
-      "title": "New York subpoenas Trump Organization records on consulting fees paid to Ivanka",
-      "excerpt": "New York’s attorney general has sent a subpoena to the Trump Organization for records related to consulting fees paid to Ivanka Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/6ae8be4/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F3b%2F8b3c08284a4b9772eac3ad91e97a%2Felection-2020-trump-86023.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes?_amp=true",
-      "publishedDateTime": "2020-11-20T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-romney-rips-trump-in-late-night-tweet-calls-presidents-actions-effort-to-subvert-will-of-people.md",
-      "title": "Romney rips Trump in late-night tweet, calls president's actions effort to ‘subvert’ will of people",
-      "excerpt": "Sen. Mitt Romney, R-Utah, took to Twitter late Thursday to rip President Trump, saying the president had failed to make “even a plausible case of widespread fraud or conspiracy before a court of law” pertaining to the 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R30_7KDD5KY/romney-rips-trump-in-tweet-calls-actions-effort-to-subvert-will-of-people",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R30_7KDD5KY/romney-rips-trump-in-tweet-calls-actions-effort-to-subvert-will-of-people",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/romney-rips-trump-in-tweet-calls-actions-effort-to-subvert-will-of-people.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-rips-trump-in-tweet-calls-actions-effort-to-subvert-will-of-people.amp",
-      "publishedDateTime": "2020-11-19T21:21:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-trump-administration-does-not-support-lockdown-school-closures-pence.md",
-      "title": "Trump administration does not support lockdown, school closures: Pence",
-      "excerpt": "The Trump administration does not support another lockdown or school closures to stem the spread of the deadly coronavirus, Vice President Mike Pence said on Thursday, even as infections have hit record highs in recent days in the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-pence-idUKKBN27Z36O",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-pence-idUKKBN27Z36O",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541832318&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1W8",
-          "width": 837,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27Z36O",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z36O",
-      "publishedDateTime": "2020-11-19T20:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-mitt-romney-calls-trumps-attempt-to-overturn-michigan-election-undemocratic.md",
-      "title": "Mitt Romney calls Trump's attempt to overturn Michigan election 'undemocratic'",
-      "excerpt": "Two prominent Republican senators on Thursday ripped President Donald Trump's attempt to overturn the results of the presidential election in Michigan, with one going so far as to call the President's strategy \"undemocratic.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a0m6tgoZeAY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a0m6tgoZeAY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 306,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922170758-mitt-romney-filipovic-oped-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/19/politics/mitt-romney-ben-sasse-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/mitt-romney-ben-sasse-trump/index.html",
-      "publishedDateTime": "2020-11-19T20:42:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-harvard-petition-demands-accountability-before-trump-officials-are-invited-to-campus.md",
-      "title": "Harvard petition demands ‘accountability’ before Trump officials are invited to campus",
-      "excerpt": "Trump allies, including Kayleigh McEnany and Alan Dershowitz, decried the open letter from Harvard affiliates and vowed to challenge it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/education/2020/11/19/harvard-trump-petition/",
-      "originalUrl": "https://www.washingtonpost.com/education/2020/11/19/harvard-trump-petition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6RVMGIRIEMI6XHBBHTCQDUEYD4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/education/2020/11/19/harvard-trump-petition/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2020/11/19/harvard-trump-petition/?outputType=amp",
-      "publishedDateTime": "2020-11-19T20:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-biden-says-federal-reserves-interest-rate-policy-has-been-positive.md",
-      "title": "Biden says Federal Reserve's interest rate policy has been 'positive'",
-      "excerpt": "U.S. President-elect Joe Biden on Thursday said he supports the way the Federal Reserve has managed interest rate policy and that he has selected a person to run the Treasury Department.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L",
-      "originalUrl": "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541824389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UT",
-          "width": 825,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Z34L",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L",
-      "publishedDateTime": "2020-11-19T18:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

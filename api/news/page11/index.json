@@ -2,6 +2,602 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-13-john-mccains-widow-says-its-time-for-trump-to-accept-the-results-and-get-on-with-the-healing.md",
+      "title": "John McCain's widow says it's time for Trump to 'accept the results and get on with the healing'",
+      "excerpt": "Cindy McCain described Joe Biden as \"a man of honor\" who would \"heal the wounds caused by the outgoing administration.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11",
+      "originalUrl": "https://www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fad9cdf1e8d500019813396?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11?amp",
+      "publishedDateTime": "2020-11-12T14:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-trump-vaccine-trashing-cuomo-snubbed-azar-skipped-17-white-house-meetings.md",
+      "title": "'Trump vaccine'-trashing Cuomo snubbed Azar, skipped 17 White House meetings",
+      "excerpt": "New York Gov. Andrew Cuomo has skipped more than a dozen White House meetings.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z2mbbIru8GU/cuomo-snubbed-azar-skipped-17-white-house-meetings",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z2mbbIru8GU/cuomo-snubbed-azar-skipped-17-white-house-meetings",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffbc3a34-e906-4c30-a8c2-d1beb6a03f9e/9ec6b368-4889-404c-bf5a-e3c01a768c45/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-snubbed-azar-skipped-17-white-house-meetings.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-snubbed-azar-skipped-17-white-house-meetings.amp",
+      "publishedDateTime": "2020-11-12T09:03:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-how-long-can-republicans-keep-helping-trump-delegitimize-the-election.md",
+      "title": "How long can Republicans keep helping Trump delegitimize the election?",
+      "excerpt": "There are some cracks starting to show – but strong political reasons for Republicans to hang on until Georgia Senate runoffs in January",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 760,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2BIDWBEJYI6XHCKBXDCILCICQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/?outputType=amp",
+      "publishedDateTime": "2020-11-12T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-pelosi-says-republicans-are-refusing-to-accept-reality-of-biden-victory.md",
+      "title": "Pelosi says Republicans are \"refusing to accept reality\" of Biden victory",
+      "excerpt": "Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer condemned Republicans for not acting on coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/pelosi-says-republicans-are-refusing-to-accept-reality-of-biden-victory/",
+      "originalUrl": "https://www.cbsnews.com/news/pelosi-says-republicans-are-refusing-to-accept-reality-of-biden-victory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/29/f4b52dcf-1c12-4048-b720-3b1b12f92395/thumbnail/1200x630/26875a3fadc2b361a01f8a587c12ace9/gettyimages-1229343901.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/pelosi-says-republicans-are-refusing-to-accept-reality-of-biden-victory/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pelosi-says-republicans-are-refusing-to-accept-reality-of-biden-victory/",
+      "publishedDateTime": "2020-11-12T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-trump-letting-litigation-play-out-in-key-election-states-pa-voters-allege-unequal-system-mcenany.md",
+      "title": "Trump 'letting litigation play out' in key election states, PA voters allege 'unequal system': McEnany",
+      "excerpt": "Trump campaign senior adviser Kayleigh McEnany previewed \"a number of affidavits\" to be filed in Pennsylvania Thursday alleging an \"unequal system.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qr6hqgI4oFg/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qr6hqgI4oFg/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany.amp",
+      "publishedDateTime": "2020-11-12T07:14:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.md",
+      "title": "Mississippi lawmaker apologizes after calling for state to leave US over Biden win",
+      "excerpt": "The prospect of a Joe Biden presidency was a deal breaker, one Republican state lawmaker in Mississippi appeared to say last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qhBo0ep2WUo/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qhBo0ep2WUo/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8419c359-d988-43d2-a50c-f30f8e478624/000564f8-cd7e-46c0-a921-27cb7fc5fc8c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.amp",
+      "publishedDateTime": "2020-11-12T00:02:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.md",
+      "title": "GOP senator says he’ll ‘step in’ if Biden doesn’t receive intel briefings by Friday",
+      "excerpt": "President-elect Joe Biden should be able to receive intelligence briefings by Friday, a Republican member of the U.S. Senate said in a radio interview that aired Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wr802TtyVrY/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wr802TtyVrY/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Lankford_Senate.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.amp",
+      "publishedDateTime": "2020-11-11T20:56:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-biden-chooses-longtime-adviser-ron-klain-as-chief-of-staff.md",
+      "title": "Biden chooses longtime adviser Ron Klain as chief of staff",
+      "excerpt": "WASHINGTON -- President-elect Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience in the top role in his White House.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_025bae0c36904b74920fce02f688b0d9_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460",
+      "publishedDateTime": "2020-11-11T20:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-donald-trump-supporters-can-get-free-food-at-kentucky-restaurants-owned-by-the-same-couple-but-theres-a-catch.md",
+      "title": "Donald Trump supporters can get free food at Kentucky restaurants owned by the same couple. But there's a catch.",
+      "excerpt": "Louisville restaurant owners Troy King and Selena Johnson are offering free food to anyone who trades in Donald Trump merchandise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/11/11/kentucky-restaurant-free-meal-donald-trump-maga-supporters/6261164002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/11/kentucky-restaurant-free-meal-donald-trump-maga-supporters/6261164002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/01/21/PLOU/959e4d35-d555-469a-98b0-632ce95f5d86-0116DINE_6ForksBurgerCo02_DRL.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6261164002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6261164002",
+      "publishedDateTime": "2020-11-11T20:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-another-term.md",
+      "title": "With backing from Trump, RNC chair McDaniel expected to run for another term",
+      "excerpt": "With the backing of President Trump, Ronna McDaniel’s expected to run for a second 4-year term as chair of the Republican National Committee (RNC).",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nxwKhzTgbBU/with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-second-term",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nxwKhzTgbBU/with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-second-term",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-second-term.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-second-term.amp",
+      "publishedDateTime": "2020-11-11T18:22:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-biden-names-ron-klain-as-his-white-house-chief-of-staff.md",
+      "title": "Biden names Ron Klain as his White House chief of staff",
+      "excerpt": "President-elect Joe Biden is poised to name his White House chief of staff as early as Thursday, with longtime adviser Ron Klain the leading finalist for the post, three people familiar with the matter tell CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SlMmhpresEc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SlMmhpresEc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201111195626-ron-klain-200310-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/index.html",
+      "publishedDateTime": "2020-11-11T17:36:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster-masquerading-as-diplomatic-triumph.md",
       "title": "McMaster warns Biden on Iran deal: Don't resurrect 'political disaster masquerading as diplomatic triumph'",
       "excerpt": "President-elect Joe Biden should not rejoin the 2015 Iran nuclear deal once he takes office, former National Security Adviser Gen. H.R. McMaster told \"Special Report\" Wednesday.",
@@ -756,618 +1352,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-jimmy-kimmel-trump-is-a-reality-show-host-who-cant-accept-reality.md",
-      "title": "Jimmy Kimmel: Trump Is a Reality Show Host Who Can’t Accept Reality",
-      "excerpt": "Republicans are handling the president with kid gloves because those are the only gloves that fit him,” Kimmel joked of President Trump’s refusal to concede to Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/11/arts/11latenight/11latenight-facebookJumbo.png",
-          "width": 865,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
-      "publishedDateTime": "2020-11-10T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-ayala-we-did-it-kamala-harris-shatters-a-glass-ceiling-but-a-big-one-remains.md",
-      "title": "Ayala: ‘We did it’ — Kamala Harris shatters a glass ceiling, but a big one remains",
-      "excerpt": "Major events, both tragic and uplifting, unite us in front of our TV screens. They create indelible shared memories.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/news_columnists/elaine_ayala/article/Ayala-We-did-it-Kamala-Harris-shatters-15714523.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/news_columnists/elaine_ayala/article/Ayala-We-did-it-Kamala-Harris-shatters-15714523.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/15/14/51/20236926/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T22:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-why-a-trump-loss-may-be-no-match-for-rupert-murdochs-realpolitik.md",
-      "title": "Why a Trump Loss May Be No Match for Rupert Murdoch’s Realpolitik",
-      "excerpt": "Fox News has lasted through “multiple presidents, and they’re going to be around for multiple more,” said one right-wing media executive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/09/business/09murdoch-trump/09murdoch-trump-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
-      "publishedDateTime": "2020-11-10T18:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.md",
-      "title": "Biden transition reveals 'agency review teams' amid spat over transfer of power",
-      "excerpt": "The teams are meant to ensure a smooth transfer to the incoming presidential administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1sdntkJFJY/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1sdntkJFJY/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42ba2bdd-cc7c-44ce-bc73-a64ff6d608d7/37ae05d5-a334-4987-aa8c-c64e46fc0b31/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp",
-      "publishedDateTime": "2020-11-10T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-pompeo-rejects-criticism-of-second-trump-administration-remark-says-us-has-one-president-at-a-time.md",
-      "title": "Pompeo rejects criticism of 'second Trump administration' remark, says US has 'one president ... at a time'",
-      "excerpt": "Secretary of State Mike Pompeo has rejected criticism of remarks he made Tuesday in which he said that the State Department would ensure \"a smooth transition to a second Trump administration.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ud_ZkW3g830/mike-pompeo-trump-administration-one-president-at-a-time",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ud_ZkW3g830/mike-pompeo-trump-administration-one-president-at-a-time",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be5ee69f-d07b-4ce2-94b3-49542bf4a361/c66c74b5-8b94-49cd-b059-8a3e287e3253/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-pompeo-trump-administration-one-president-at-a-time.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-trump-administration-one-president-at-a-time.amp",
-      "publishedDateTime": "2020-11-10T16:08:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-andrew-cuomo-says-he-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.md",
-      "title": "Andrew Cuomo says he 'would've decked' Trump over insults if he wasn't NY governor",
-      "excerpt": "Trump and Cuomo have exchanged insults in the media for months, with each politician accusing the other of poor leadership during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bviDPDqbvcI/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bviDPDqbvcI/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73918fbe-82d4-4470-b2f1-60013a0a9794/1a1fc4c2-4ce7-476b-b39b-88baee82ae59/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.amp",
-      "publishedDateTime": "2020-11-10T14:18:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-douglas-emhoff-harris-husband-to-sever-ties-with-law-firm-by-inauguration-day.md",
-      "title": "Douglas Emhoff, Harris' husband, to sever ties with law firm by Inauguration Day",
-      "excerpt": "Douglas Emhoff, the husband of Vice President-elect Kamala Harris, will sever all ties with his law firm DLA Piper by Inauguration Day, according to a campaign spokesperson.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W4aqWbhPVHw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W4aqWbhPVHw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201110145840-harris-emhoff-0812-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/douglas-emhoff-law-firm/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/douglas-emhoff-law-firm/index.html",
-      "publishedDateTime": "2020-11-10T12:49:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-vice-president-mike-pence-expected-in-sanibel-on-tuesday.md",
-      "title": "Vice President Mike Pence expected in Sanibel on Tuesday",
-      "excerpt": "An FAA alert suggests that Pence's visit will span Tuesday through Saturday. Pence has a long history of vacationing on the island.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/local/2020/11/10/mike-pence-visiting-lee-county-florida/6226614002/",
-      "originalUrl": "https://www.usatoday.com/story/news/local/2020/11/10/mike-pence-visiting-lee-county-florida/6226614002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/06/02/PFTM/b0ded584-03ed-4b97-b26a-18363eead202-pence.jpg?auto=webp&crop=599,337,x1,y268&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6226614002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6226614002",
-      "publishedDateTime": "2020-11-10T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-authoritarians-from-mussolini-to-trump.md",
-      "title": "Authoritarians From Mussolini to Trump",
-      "excerpt": "Ghiat contributes to this literature in a book that compares Trump to a wide variety of earlier strongmen, including Mussolini, Hitler,, Francisco Franco, Muammar Qaddafi, Silvio Berlusconi and Mobutu Sese Seko,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/11/books/review/11Fukuyama-combo/11Fukuyama-combo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html",
-      "publishedDateTime": "2020-11-10T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all.md",
-      "title": "Democrats are struggling to extinguish the ‘Trump effect’ once and for all",
-      "excerpt": "Democrats harbored aspirations of a Democratic House, Democratic Senate and Joe Biden in the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TZ65QrixcPU/democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TZ65QrixcPU/democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all.amp",
-      "publishedDateTime": "2020-11-10T09:03:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-trump-slams-mccabe-as-ex-fbi-official-testifies-virtually.md",
-      "title": "Trump slams McCabe as ex-FBI official testifies virtually",
-      "excerpt": "President Trump on Tuesday slammed ex-FBI deputy director Andrew McCabe, urging Republicans not to let him “get away with totally criminal activity” as the former official testified virtually before the Senate Judiciary Committee.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o_8J3cy-uBI/trump-slams-mccabe-as-ex-fbi-official-testifies-virtually",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o_8J3cy-uBI/trump-slams-mccabe-as-ex-fbi-official-testifies-virtually",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-mccabe-as-ex-fbi-official-testifies-virtually.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-mccabe-as-ex-fbi-official-testifies-virtually.amp",
-      "publishedDateTime": "2020-11-10T08:39:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

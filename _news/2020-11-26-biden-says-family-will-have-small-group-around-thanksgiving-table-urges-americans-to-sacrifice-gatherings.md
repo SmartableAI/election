@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-family-small-group-thanksgivi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-family-small-group-thanksgiving-urges-americans-sacrifice-gatherings.amp"
 type: article
 quality: 156
-heat: -1
-published: false
+heat: 176
+published: true
 
 provider:
   name: Fox News
@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "What is President Trump doing on Thanksgiving?"
-    excerpt: "For the first time since he was sworn in as president nearly four years ago, President Trump will not spend Thanksgiving at his Mar-a-Lago resort in Florida.  "
-    publishedDateTime: 2020-11-26T13:25:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wEwuxYjKClA/what-is-president-trump-doing-on-thanksgiving"
-    ampWebUrl: "https://www.foxnews.com/politics/what-is-president-trump-doing-on-thanksgiving.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/what-is-president-trump-doing-on-thanksgiving.amp"
+  - title: "Joe And Jill Biden Deliver Thanksgiving Day Message: \"I Know Better Days Are Coming\""
+    excerpt: "President-elect Joe Biden and his wife Jill Biden recorded a special message for Thanksgiving posted on YouTube with the title \"Thankful\" on Thursday. \"We might not be able to join our hands around a table with our loved ones,"
+    publishedDateTime: 2020-11-26T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/26/joe_and_jill_biden_deliver_thanksgiving_day_message_i_know_better_days_are_coming.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 58
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/33478f5e-5929-44a4-ab6e-2513364ed583/e5e9f1da-ae85-4261-b45e-c723c100e82f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/52/528211.jpg"
+        width: 1354
+        height: 1014
         isCached: true
 
 secured: "WY7zPKFIYJnG81hd5097GC+iaANB1mK8Rl6U3X/QU6o6GaWPBnliczobm+3V/JEJdHYeKYtjw8ZHuPYQLdtlPE4r1buI3UwlRlG391Nsyr81fa8Pz4MJuCEJCffTJTPs6P+Dc5G6nsnvlNzs80X3uGSU/f4wHch4qzPrU1AIR/pWCR28JxoKpzHidQyFGHOXnTSo8h7Q1IqGyhKjs/hyDVk/7sOW8D59WLiDQVYPTeHO9RzWD0qEaczT3wzitizi9Dm7EBh9rhQGUZZAf/2MJR4zUoORiK3BnX+ZQy5bA7H752FYLXYXAIzvhnIYUm+bcsu7nFyu5+yeCfMSoX9+GzNYjSk8M8nzgk1opEwWhQA=;+8LkG6ydg6S3KRFBMTz1ZQ=="

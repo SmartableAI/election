@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/60-minutes-airs-trump-interview-cut
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/60-minutes-airs-trump-interview-cut-short-by-president.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/90750d5f-eb89-4a23-a199-ce1017a390d9/1edef06c-8465-4365-973c-2b89bcce42ef/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump rips ‘60 Minutes’ for not contacting him after Chris Krebs interview"
+    excerpt: "President Trump blasted CBS’ “60 Minutes” for not contacting him for comment after interviewing the administration’s former cybersecurity chief, whom Trump fired earlier"
+    publishedDateTime: 2020-11-30T14:28:00Z
+    webUrl: "https://nypost.com/2020/11/30/trump-blasts-60-minutes-for-not-contacting-him-to-comment-on-chris-krebs/"
+    ampWebUrl: "https://nypost.com/2020/11/30/trump-blasts-60-minutes-for-not-contacting-him-to-comment-on-chris-krebs/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/30/trump-blasts-60-minutes-for-not-contacting-him-to-comment-on-chris-krebs/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/chris-krebs-34.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "nHT57N+CUzu6REIIvN3nDS9h0UNkhTNNa5thip2uSQ/YCWTNPxEKmupbI7vWKuCKoaihQeLQiA9hCIa82tiV55wWW0qB/V07nKSajg9TIYDb+/xV3LjVlo9tr6sFMrmTQULjO3u3PnNl/2VarKi9HTKSm0knJuBaKEmBSGWkTXbn29tX0yWZ49d/QgBDfNNEzE0noyElT52K744UPs5n5h26t+mobB63V3ismWTa1vcNPgbqJGQDzMbtUOJt5GXDXLn9HI4pgxUtOmUzt6fO1qmIzPbHz8hAMI05qe6qywCVZo3+wIfapg1Sjd8e38PGgUS76lZbAPnz4DaVEMrwkZuDoHl3sAdJF5SxxB1Rfjk=;c0lgf9WQw0M+4yqoPXOQsg=="

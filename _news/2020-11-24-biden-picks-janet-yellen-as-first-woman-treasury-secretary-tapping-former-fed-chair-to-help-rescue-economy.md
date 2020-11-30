@@ -47,70 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Jill Biden, Joe’s chief protector, stepping up as first lady"
-    excerpt: "No,” Jill Biden, then clad in a bikini, wrote in Sharpie across her stomach and then marched through a strategy session in which advisers were trying to talk her husband into challenging Republican President George W."
-    publishedDateTime: 2020-11-29T15:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/jill-biden-joes-chief-protector-stepping-up-as-first-lady/2020/11/29/aaa394c8-3253-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/jill-biden-joes-chief-protector-stepping-up-as-first-lady/2020/11/29/aaa394c8-3253-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-joes-chief-protector-stepping-up-as-first-lady/2020/11/29/aaa394c8-3253-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden hires all-female senior communications team"
-    excerpt: "Biden’s press team will be led by Kate Bedingfield, a veteran Biden aide who served as his campaign communications director and will hold the same title in his White House. “Communicating directly and truthfully to the American people is one of the most important duties of a President,"
-    publishedDateTime: 2020-11-29T21:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TGSF3ORSRII6XDJYNLVBVWZYHE.jpg&w=1440"
-        width: 1440
-        height: 956
-        isCached: true
-  - title: "Biden names all-woman communications team"
-    excerpt: "President-elect Joe Biden on Sunday tapped key campaign staff and advisors to lead his all-woman communications team, naming former Obama State Department spokeswoman Jen Psaki as his White House press secretary and campaign spokeswoman Kate Bedingfield as"
-    publishedDateTime: 2020-11-30T08:24:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-communications-idUSKBN2890YK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890YK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890YK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542835857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0N3"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden sprains ankle while playing with his dog Major, office says"
-    excerpt: "The president-elect was walking his dog Major on Saturday when he twisted his ankle, the transition team said."
-    publishedDateTime: 2020-11-29T23:18:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OHHPGW4C3JBXJOKY6F27T4GEME.jpg&w=1440"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Joe Biden twists his ankle after slipping while playing with dog"
     excerpt: "President-elect to be examined by doctor after accident while playing with his pet German shepherd"
     publishedDateTime: 2020-11-29T22:37:00Z
@@ -126,22 +62,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/3d4d93dc050b36cf24160f62dac46f0610d73943/127_0_1873_1124/master/1873.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=377e89ec9b309c2c517f1f6547405579"
         width: 600
         height: 360
-        isCached: true
-  - title: "Biden tries to spread calm, as some Democrats worry about his willingness to fight"
-    excerpt: "The president-elect has made good on his campaign vow to lower the temperature as he deals with Republicans and Democrats."
-    publishedDateTime: 2020-11-26T11:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-transition-conciliatory-tone/2020/11/25/aacd4ed6-29bf-11eb-8fa2-06e7cbb145c0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-transition-conciliatory-tone/2020/11/25/aacd4ed6-29bf-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-transition-conciliatory-tone/2020/11/25/aacd4ed6-29bf-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KEVH72BKXEI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Joe Biden tamps down idea of nominating Elizabeth Warren, Bernie Sanders for Cabinet jobs"
     excerpt: "\"We already have significant representation among progressives in our administration, but there's nothing really off the table,\" Biden said."

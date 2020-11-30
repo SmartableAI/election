@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-30-source-pa-lawmaker-gets-a-positive-test-at-trump-meeting.md",
-      "title": "Source: Pa. lawmaker gets a positive test at Trump meeting",
-      "excerpt": "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus",
+      "path": "_news/2020-11-30-exclusive-trump-to-add-chinas-smic-and-cnooc-to-defense-blacklist-sources.md",
+      "title": "Exclusive: Trump to add China's SMIC and CNOOC to defense blacklist - sources",
+      "excerpt": "The Trump administration is poised to add China's top chipmaker SMIC and national offshore oil and gas producer CNOOC to a blacklist of alleged Chinese military companies, according to a document and sources,",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/30/b1cbfd06-32cd-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/30/b1cbfd06-32cd-11eb-9699-00d311f13d2d_story.html",
+      "webUrl": "https://www.reuters.com/article/us-usa-china-military-companies-exclusiv-idINKBN28A036",
+      "originalUrl": "https://www.reuters.com/article/us-usa-china-military-companies-exclusiv-idINKBN28A036",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 122,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542893627&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0KS",
+          "width": 818,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +76,120 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/30/b1cbfd06-32cd-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting/2020/11/30/b1cbfd06-32cd-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-29T21:34:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28A036",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28A036",
+      "publishedDateTime": "2020-11-30T00:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-politics-updates-biden-sprains-foot-ankle-playing-with-dog-trump-mocked-for-i-came-up-with-vaccines-claim.md",
+      "title": "Politics updates: Biden sprains foot ankle playing with dog; Trump mocked for 'I came up with vaccines' claim",
+      "excerpt": "Trump mocked for his latest attempt to take credit for a COVID vaccine; GOP Sen. Blunt refuses to call Biden the president-elect – politics updates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/29/political-updates-donald-trump-joe-biden-president-transition/6449096002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/29/political-updates-donald-trump-joe-biden-president-transition/6449096002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/29/USAT/00288076-ff0d-47d5-b774-babb23ac3b4a-GTY_1229788118.jpg?auto=webp&crop=4499,2531,x0,y175&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6449096002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6449096002",
+      "publishedDateTime": "2020-11-30T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-a-pennsylvania-state-lawmaker-reportedly-received-the-results-of-his-positive-covid-19-test-during-a-meeting-with-trump.md",
+      "title": "A Pennsylvania state lawmaker reportedly received the results of his positive COVID-19 test during a meeting with Trump",
+      "excerpt": "All participants at the meeting took COVID-19 tests, but the positive results were not announced until they were in the White House, a source said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11",
+      "originalUrl": "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc48f9f50e71a0011557e18?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp",
+      "publishedDateTime": "2020-11-29T22:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -218,7 +322,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 793,
+      "heat": 573,
       "tags": null,
       "images": [
         {
@@ -627,6 +731,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-28-mini-desk-tiny-hands-small-soul-trump-mocked-for-giving-speech-at-little-table.md",
+      "title": "‘Mini desk. Tiny hands. Small soul’: Trump mocked for giving speech at little table",
+      "excerpt": "DiaperDon trends on Twitter after outgoing president’s furniture steals limelight",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture",
+      "publishedDateTime": "2020-11-27T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-28-trumps-furniture-fail-thats-not-a-desk-donald-its-a-table-for-tv-dinners.md",
       "title": "Trump's furniture fail: that's not a desk, Donald – it's a table for TV dinners",
       "excerpt": "The Resolute desk at the White House is made of timbers taken from a Royal Navy ship. It projects pure power. Is that why the defeated US president has switched to an occasional table he can barely squeeze his legs under?",
@@ -887,6 +1034,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-26-representatives-for-tiger-kings-joe-exotic-are-said-to-be-chasing-trump-down-for-a-pardon-and-spending-thousands-of-dollars-to-get-it.md",
+      "title": "Representatives for 'Tiger King's' Joe Exotic are said to be chasing Trump down for a pardon and spending thousands of dollars to get it",
+      "excerpt": "Representatives for the former zookeeper ran up a $10,000 tab at one of Trump's hotels in an effort to get his attention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11",
+      "originalUrl": "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fbefa81037cbd0018612744?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp",
+      "publishedDateTime": "2020-11-25T22:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-oan-touted-by-donald-trump-for-its-great-news-suspended-from-youtube-for-covid-19-misinformation.md",
       "title": "OAN, touted by Donald Trump for its 'Great News,' suspended from YouTube for COVID-19 misinformation",
       "excerpt": "OAN, which had been warned about violating a COVID-19 misinformation policy, according to YouTube, won't be allowed to upload videos for one week.",
@@ -947,7 +1146,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-america-first-approach-meant-america-alone-says-joe-biden-video",
       "featuredContent": null,
       "highlight": null,
-      "heat": 387,
+      "heat": 347,
       "tags": null,
       "images": [
         {
@@ -1153,6 +1352,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-24-even-trumps-fiercest-critics-say-he-may-have-gotten-some-world-affairs-right.md",
+      "title": "Even Trump's fiercest critics say he may have gotten some world affairs right",
+      "excerpt": "Some experts, ex-diplomats and even President Donald Trump's opponents concede his overseas initiatives have produced limited, qualified successes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/world/2020/11/24/even-trump-critics-say-he-may-have-gotten-some-foreign-policy-right/6353491002/",
+      "originalUrl": "https://www.usatoday.com/story/news/world/2020/11/24/even-trump-critics-say-he-may-have-gotten-some-foreign-policy-right/6353491002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/23/USAT/e35eb054-4f0c-4242-817e-388e7e50cf16-GTY_1222600011.jpg?auto=webp&crop=3615,2033,x0,y74&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6353491002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6353491002",
+      "publishedDateTime": "2020-11-24T00:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-melania-trump-receives-2020-white-house-christmas-tree.md",
       "title": "Melania Trump receives 2020 White House Christmas tree",
       "excerpt": "The first lady stepped out on the North Portico of the White House to accept the tree, a 18.5-foot-high Fraser Fir from West Virginia.",
@@ -1282,267 +1533,6 @@
       "ampWebUrl": "https://www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11?amp",
       "publishedDateTime": "2020-11-23T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-befriended-by-trump-populists-in-europes-east-brace-for-change.md",
-      "title": "Befriended by Trump, Populists in Europe’s East Brace for Change",
-      "excerpt": "Populist and authoritarian politicians in Central Europe, who viewed President Trump as a valuable ally, are bracing for the incoming Biden administration’s new stress on promoting democracy and the rule of law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
-      "originalUrl": "https://www.wsj.com/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-263590/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
-      "publishedDateTime": "2020-11-23T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-melania-trump-celebrates-arrival-of-annual-white-house-christmas-tree.md",
-      "title": "Melania Trump celebrates arrival of annual White House Christmas tree",
-      "excerpt": "First lady Melania Trump on Monday celebrated the arrival of the annual White House Christmas tree — without President Trump or their son Barron Trump, who have attended the event in past",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/",
-      "originalUrl": "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/Trump.1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/amp/",
-      "publishedDateTime": "2020-11-23T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-frank-bruni-column-who-will-we-be-without-donald-trump.md",
-      "title": "Frank Bruni column: Who will we be without Donald Trump?",
-      "excerpt": "It has been an animating, organizing principle for the Democratic Party, a bond among civic-minded people of otherwise divergent persuasions and a pillar of many Americans’ political identity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-us-without-donald-trump-20201123-rjj5rgmkczbrrfwbm6dguzcmau-story.html",
-      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-us-without-donald-trump-20201123-rjj5rgmkczbrrfwbm6dguzcmau-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/Xbdxdnt7xvdYlVJ1fpHPSGlNv3M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6XDCRG2OU6S4R7Q2WOPAL5WB4E.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-us-without-donald-trump-20201123-rjj5rgmkczbrrfwbm6dguzcmau-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-us-without-donald-trump-20201123-rjj5rgmkczbrrfwbm6dguzcmau-story.html?outputType=amp",
-      "publishedDateTime": "2020-11-23T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-trump-campaign-parts-ways-with-powell-after-vote-switching-claim.md",
-      "title": "Trump campaign parts ways with Powell after vote-switching claim",
-      "excerpt": "U.S. President Donald Trump's election campaign on Sunday distanced itself from Sidney Powell, a lawyer who claimed at a news conference last week that electronic voting systems had switched millions of ballots to President-elect Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-powell-idUSKBN2820UB",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-powell-idUSKBN2820UB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542089529&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL0IP",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2820UB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820UB",
-      "publishedDateTime": "2020-11-22T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-stephen-moore-says-that-trump-will-leave-office-triumphant-comparing-him-to-winston-churchill.md",
-      "title": "Stephen Moore says that Trump will leave office 'triumphant,' comparing him to Winston Churchill",
-      "excerpt": "\"Sometimes I think he's like Winston Churchill,\" Moore said of President Trump who took offense to similar comparisons made in the past.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11",
-      "originalUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fbab1dc50e71a0011556b3f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11?amp",
-      "publishedDateTime": "2020-11-22T11:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

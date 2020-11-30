@@ -2,6 +2,603 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-11-09-mcconnell-backs-trump-legal-fight-in-election-results.md",
+      "title": "McConnell backs Trump legal fight in election results",
+      "excerpt": "The Trump campaign has mounted legal challenges and alleged voting irregularities or outright fraud in several states.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Eq3rdDcR1No/mcconnell-trump-legal-fight-election-voter-fraud-claims",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Eq3rdDcR1No/mcconnell-trump-legal-fight-election-voter-fraud-claims",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 770,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6057d5f-dd82-42f4-8fe6-9d5d8da50365/fd86e58d-8190-42a5-98f1-d3e7f3fdd002/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-trump-legal-fight-election-voter-fraud-claims.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-legal-fight-election-voter-fraud-claims.amp",
+      "publishedDateTime": "2020-11-09T13:47:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-mike-pence-heading-to-florida-for-some-time-off.md",
+      "title": "Mike Pence heading to Florida for some time off",
+      "excerpt": "Vice President Mike Pence appears ready to take some time off a week after the election and is scheduled to travel to Sanibel this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html",
+      "originalUrl": "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.orlandosentinel.com/resizer/QdFXkmhBXzHQxxU8fmvKKjwxr2w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SEX4UHCYTJSBVUHFJBBID32F7M.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp",
+      "publishedDateTime": "2020-11-09T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando Sentinel",
+        "domain": "orlandosentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-mogherini-difficult-4-years-with-trump.md",
+      "title": "Mogherini: 'Difficult 4 years' with Trump",
+      "excerpt": "Former EU Foreign Affairs head Federica Mogherini tells Amanpour she feels \"relief at seeing America back\" and says Europeans will feel \"less lonely\" come January.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
+      "originalUrl": "https://www.cnn.com/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201109200508-federica-mogherini-amanpour-biden-foreign-policy-trump-00042509-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
+      "publishedDateTime": "2020-11-09T12:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-ex-israeli-un-ambassador-danon-on-what-a-biden-presidency-means-for-middle-east-peace.md",
+      "title": "Ex-Israeli UN Ambassador Danon on what a Biden presidency means for Middle East peace",
+      "excerpt": "Israel's former ambassador to the United Nations Danny Danon provided insight on Monday into what a Biden presidency could mean for Middle East peace.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_dPucYgxA6U/israeli-un-ambassador-danon-biden-presidency-middle-east-peace",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_dPucYgxA6U/israeli-un-ambassador-danon-biden-presidency-middle-east-peace",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/israeli-un-ambassador-danon-biden-presidency-middle-east-peace.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israeli-un-ambassador-danon-biden-presidency-middle-east-peace.amp",
+      "publishedDateTime": "2020-11-09T12:06:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-pence-on-2020-race-it-aint-over-til-its-overand-this-aint-over.md",
+      "title": "Pence on 2020 race: ‘It ain’t over til it’s over...and this AIN’T over!’",
+      "excerpt": "Vice President Mike Pence on Monday rallied his staff, saying the 2020 presidential race “ain’t over,” as the Trump campaign mounts legal battles in a number of key battleground states where President-elect Joe Biden is leading.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GoO-6W5iqH0/pence-on-2020-race-it-aint-over-til-its-over-and-this-aint-over",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GoO-6W5iqH0/pence-on-2020-race-it-aint-over-til-its-over-and-this-aint-over",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-on-2020-race-it-aint-over-til-its-over-and-this-aint-over.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-on-2020-race-it-aint-over-til-its-over-and-this-aint-over.amp",
+      "publishedDateTime": "2020-11-09T11:39:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-biden-urges-americans-to-wear-masks-not-a-political-statement.md",
+      "title": "Biden urges Americans to wear masks: ‘Not a political statement’",
+      "excerpt": "President-elect Joe Biden says that wearing a mask remains “the most potent weapon” against the coronavirus, and emphasizes that “a mask is not a political statement.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rnKPKSd6mzU/biden-urges-americans-masks-not-a-political-statement",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rnKPKSd6mzU/biden-urges-americans-masks-not-a-political-statement",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-urges-americans-masks-not-a-political-statement.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-americans-masks-not-a-political-statement.amp",
+      "publishedDateTime": "2020-11-09T10:23:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-rep-van-drew-trump-ripped-the-band-aid-off-changed-american-politics.md",
+      "title": "Rep. Van Drew: Trump ripped the band-aid off, changed American politics",
+      "excerpt": "Democrat-turned Republican Rep. Jeff Van Drew, R-N.J., told “Fox & Friends” on Monday that he wanted to thank President Trump for helping to shape the new Republican Party saying he thinks “the president broke everything open.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2LbggWPoMP8/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2LbggWPoMP8/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp",
+      "publishedDateTime": "2020-11-09T09:17:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-trump-not-backing-down-campaign-manager-says-urging-staff-to-have-patience-amid-legal-battles.md",
+      "title": "Trump 'not backing down,' campaign manager says, urging staff to 'have patience' amid legal battles",
+      "excerpt": "The Trump campaign on Monday said President Trump is “not backing down,” as his team mounts legal battles in a number of key battleground states where President-elect Joe Biden led by a razor-thin margin.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCJCScrL5_k/trump-not-backing-down-campaign-manager-legal-battles",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCJCScrL5_k/trump-not-backing-down-campaign-manager-legal-battles",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp",
+      "publishedDateTime": "2020-11-09T09:17:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-ben-carson-is-the-latest-trump-official-to-test-positive-for-coronavirus.md",
+      "title": "Ben Carson is the latest Trump official to test positive for coronavirus",
+      "excerpt": "Housing and Urban Development Secretary Ben Carson tested positive for coronavirus Monday morning, his deputy chief of staff Coalter Baker confirmed to CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BqbsqN5xwus/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BqbsqN5xwus/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190920135244-01-ben-carson-lead-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/ben-carson-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/ben-carson-coronavirus/index.html",
+      "publishedDateTime": "2020-11-09T08:51:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week.md",
+      "title": "The long love affair between Fox News and Trump may be over. Here’s how it ended last week.",
+      "excerpt": "For months, the president fretted over a sense that the network’s loyalty was softening. After Fox called Arizona for Biden, the battle was on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZM2GYLRCUYI6XHCKBXDCILCICQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-09T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-mitch-mcconnell-is-reportedly-taking-the-lead-on-stimulus-negotiations-as-the-trump-administration-sits-out.md",
+      "title": "Mitch McConnell is reportedly taking the lead on stimulus negotiations as the Trump administration sits out",
+      "excerpt": "Joe Biden may also leap into the talks on a coronavirus relief plan. Democrats and Republicans are far apart on measures like unemployment benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11",
+      "originalUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f984f3c861cb70019936b04?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp",
+      "publishedDateTime": "2020-11-09T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-the-point-the-most-important-line-in-joe-bidens-victory-speech.md",
       "title": "The Point: The most important line in Joe Biden's victory speech",
       "excerpt": "On Saturday night, President-elect Joe Biden did something the man he will replace in the White House never did in four years: He reached out the people who didn't vote for him.\n    \n",
@@ -338,7 +935,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 16541,
+      "heat": 16561,
       "tags": null,
       "images": [
         {
@@ -770,578 +1367,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-kamala-harris-ancestral-village-in-indian-celebrates-politicians-success.md",
-      "title": "Kamala Harris’ ancestral village in Indian celebrates politicians success",
-      "excerpt": "Kamala Harris’ ancestral village in Indian lit fireworks and played music to celebrate the California politician’s success in the U.S. elections. Harris, who will become Vice President, has Indian and Jamaican heritage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/kamala-harris-ancestral-village-in-indian-celebrates-politicians-success-95555141952",
-      "originalUrl": "https://www.nbcnews.com/video/kamala-harris-ancestral-village-in-indian-celebrates-politicians-success-95555141952",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/India-celebrations-thumbnail.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo95555141952",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95555141952",
-      "publishedDateTime": "2020-11-08T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-her-story-is-our-story-alpha-kappa-alpha-sorority-sisters-bask-in-kamala-harris-victory.md",
-      "title": "'Her story is our story:' Alpha Kappa Alpha sorority sisters bask in Kamala Harris' victory",
-      "excerpt": "Michelle Arrington was on a plane headed to a beach reunion with her Alpha Kappa Alpha Sorority sisters Saturday when American history happened.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sej38i-hN54/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sej38i-hN54/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190124204506-kamala-harris-aka-sorority-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html",
-      "publishedDateTime": "2020-11-08T14:19:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-campaign-leaders-agree-ohio-still-a-battleground-despite-donald-trumps-two-victories.md",
-      "title": "Campaign leaders agree Ohio still a battleground despite Donald Trump's two victories",
-      "excerpt": "Ohio campaign leaders for both President Donald Trump and former Vice President Joe Biden said Thursday that Ohio is still a battleground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/05/campaign-leaders-agree-ohio-still-battleground-despite-donald-trump-victory-joe-biden/6149084002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/05/campaign-leaders-agree-ohio-still-battleground-despite-donald-trump-victory-joe-biden/6149084002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/05/NCOD/313f5c19-f353-49b3-a68a-8ef0bfe7b9a8-vote_rally_JB_01.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6149084002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6149084002",
-      "publishedDateTime": "2020-11-08T12:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-wonder-woman-star-lynda-carter-celebrates-kamala-harris-win-on-45th-anniversary-of-the-show.md",
-      "title": "'Wonder Woman' star Lynda Carter celebrates Kamala Harris' win on 45th anniversary of the show",
-      "excerpt": "Wonder Woman” actress Lynda Carter shared a congratulatory note to Vice President-elect Kamala Harris on a special day for fans of the superhero TV series.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/wonder-woman-lynda-carter-kamala-harris-45-anniversary",
-      "originalUrl": "https://www.foxnews.com/entertainment/wonder-woman-lynda-carter-kamala-harris-45-anniversary",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-08T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election.md",
-      "title": "‘Now we’re uplifted’: Kamala Harris’ Bay Area friends exhale, extol historic election",
-      "excerpt": "Tears, cheers as Harris breaks another barrier with election as the first woman and the first person of color to become vice president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/",
-      "originalUrl": "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715",
-          "width": 1024,
-          "height": 715,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/",
-      "publishedDateTime": "2020-11-08T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-former-president-george-w-bush-extends-warm-congratulations-to-president-elect-joe-biden.md",
-      "title": "Former President George W. Bush extends 'warm congratulations' to President-elect Joe Biden",
-      "excerpt": "\"I just talked to the President-elect of the United States, Joe Biden,\" former President Bush said, adding that he extended \"warm congratulations.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/07/USAT/bc96049b-8aec-468f-b955-e7b1af5bd757-AFP_1W10ON.jpg?auto=webp&crop=2956,1663,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6204399002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002",
-      "publishedDateTime": "2020-11-08T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-new-york-gov-cuomo-predicts-scientists-will-speak-unmuzzled-now-that-trump-is-out-of-office.md",
-      "title": "New York Gov. Cuomo predicts scientists will speak 'unmuzzled' now that 'Trump is out of office'",
-      "excerpt": "Cuomo said \"the political pressure of denying COVID is gone\" after Joe Biden's victory was called in the 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cuomo-scientists-unmuzzled-trump-biden-election-2020-11",
-      "originalUrl": "https://www.businessinsider.com/cuomo-scientists-unmuzzled-trump-biden-election-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa813571df1d500182197a8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cuomo-scientists-unmuzzled-trump-biden-election-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cuomo-scientists-unmuzzled-trump-biden-election-2020-11?amp",
-      "publishedDateTime": "2020-11-08T09:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-romney-says-trump-should-follow-every-legal-option-he-has-but-choose-words-carefully.md",
-      "title": "Romney says Trump should 'follow every legal option he has,' but choose words 'carefully'",
-      "excerpt": "Sen. Mitt Romney, R-Utah, has no problem with President Trump challenging the 2020 election results in court, but said that he should tone down his public rhetoric.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3aIPzEJwJ4M/romney-trump-election-legal-options-choose-words-carefully",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3aIPzEJwJ4M/romney-trump-election-legal-options-choose-words-carefully",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2afb325-628d-4555-9f91-0f96e2a4c747/64e456b4-b4e1-4314-8170-0a961286f86f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/romney-trump-election-legal-options-choose-words-carefully.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-trump-election-legal-options-choose-words-carefully.amp",
-      "publishedDateTime": "2020-11-08T07:10:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-jared-kushner-has-approached-trump-about-conceding-2020-election.md",
-      "title": "Jared Kushner has approached Trump about conceding 2020 election",
-      "excerpt": "Jared Kushner, President Donald Trump's son-in-law and senior adviser, has approached the President about conceding the election, two sources told CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tSO9kPadSX0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tSO9kPadSX0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 430,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190709100922-jared-kushner-06292019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html",
-      "publishedDateTime": "2020-11-08T06:32:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-buttigieg-republican-senate-would-go-against-will-of-the-people-by-opposing-biden-agenda.md",
-      "title": "Buttigieg: Republican Senate would go against 'will of the people' by opposing Biden agenda",
-      "excerpt": "Biden transition team member Pete Buttigieg said Sunday that even if they win enough races to maintain control of the Senate, Republicans would be opposing the will of the American people if they stand in the way of President-elect Joe Biden's agenda.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1tBWRPjP60w/buttigieg-republican-senate-against-will-of-the-people-opposing-biden-agenda",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1tBWRPjP60w/buttigieg-republican-senate-against-will-of-the-people-opposing-biden-agenda",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dea0373-0e3a-4553-a06f-06cb35f47eeb/c05a3bbe-6cb4-408e-83fb-cd62b8ad9f62/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/buttigieg-republican-senate-against-will-of-the-people-opposing-biden-agenda.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-republican-senate-against-will-of-the-people-opposing-biden-agenda.amp",
-      "publishedDateTime": "2020-11-08T06:28:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-after-a-second-loss-to-greg-pence-jeannine-lee-lake-sets-her-sights-on-2022.md",
-      "title": "After a second loss to Greg Pence, Jeannine Lee Lake sets her sights on 2022",
-      "excerpt": "With 97% of precincts counted in this year's Sixth District Congressional race, Greg Pence had 68.6% of the vote to Jeannine Lee Lake's 27.8%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestarpress.com/story/news/local/2020/11/08/after-second-loss-greg-pence-jeannine-lee-lake-sets-sights-2022/6189470002/",
-      "originalUrl": "https://www.thestarpress.com/story/news/local/2020/11/08/after-second-loss-greg-pence-jeannine-lee-lake-sets-sights-2022/6189470002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/06/PMUN/9f434446-2b64-4dbc-b26c-8a6d2cf551b1-jersey_22.jpg?auto=webp&crop=719,405,x0,y240&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.thestarpress.com/amp/6189470002",
-      "cdnAmpWebUrl": "https://amp-thestarpress-com.cdn.ampproject.org/c/s/amp.thestarpress.com/amp/6189470002",
-      "publishedDateTime": "2020-11-08T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star Press",
-        "domain": "thestarpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

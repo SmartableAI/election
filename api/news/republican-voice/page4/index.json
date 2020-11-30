@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-12-rep-debbie-dingell-democrats-need-to-examine-why-millions-of-voters-supported-trump.md",
+      "title": "Rep. Debbie Dingell: Democrats need to examine why millions of voters supported Trump",
+      "excerpt": "Democrats must take a close look at why President Trump received more than 72 million votes in this month's election, Rep. Debbie Dingell, D-Mich., told \"Your World\" Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-O7cp_-T7Q/debbie-dingell-democrats-2020-election-trump-voters",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-O7cp_-T7Q/debbie-dingell-democrats-2020-election-trump-voters",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/209326cc-92d6-4863-89c9-75e6a9cf1c32/e6cf906a-65c1-44ce-9c3d-9ee228487ae4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp",
+      "publishedDateTime": "2020-11-12T15:28:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors.md",
       "title": "Possible Biden Cabinet pick Heidi Heitkamp once took fire for outing sexual assault survivors",
       "excerpt": "Former Sen. Heidi Heitkamp, who faced backlash during the 2018 primaries that she ultimately lost after she mistakenly outed sexual assault survivors in a campaign ad, is on the shortlist for a position in President-elect Joe Biden's Cabinet. ",
@@ -1594,62 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/nicole-saphier-raises-concern-for-biden-pledging-a-draconian-universal-mask-mandate.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nicole-saphier-raises-concern-for-biden-pledging-a-draconian-universal-mask-mandate.amp",
       "publishedDateTime": "2020-11-09T07:22:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-trump-has-a-duty-to-supporters-to-fight-for-transparent-review-of-ballots-miranda-devine.md",
-      "title": "Trump ‘has a duty’ to supporters to fight for ‘transparent’ review of ballots: Miranda Devine",
-      "excerpt": "President Trump “has a duty” to “half of America which voted for him to look into” ballot-counting in the 2020 presidential election “so that it's all transparent,” New York Post columnist Miranda Devine told “Fox & Friends” on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y_8SzD0HMwc/trump-duty-supporters-transparent-review-ballot-counting-miranda-devine",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y_8SzD0HMwc/trump-duty-supporters-transparent-review-ballot-counting-miranda-devine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Miranda-Devine-1109.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T07:12:40-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

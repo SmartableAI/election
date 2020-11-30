@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 245
 published: true
 
 provider:
@@ -79,17 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Congress braces for Biden's national coronavirus strategy"
-    excerpt: "WASHINGTON (AP) — Congress is bracing for President-elect Joe Biden to move beyond the Trump administration’s state-by-state approach to the and build out a national strategy to fight the pandemic and distribute the eventual vaccine."
-    publishedDateTime: 2020-11-25T23:40:00Z
-    webUrl: "https://www.businessinsider.com/congress-braces-for-bidens-national-coronavirus-strategy-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/congress-braces-for-bidens-national-coronavirus-strategy-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-braces-for-bidens-national-coronavirus-strategy-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Vice President Mike Pence delivers remarks at the White House Coronavirus Task Force briefing"
     excerpt: "Vice President Mike Pence delivered remarks at the White House Coronavirus Task Force briefing today. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
     publishedDateTime: 2020-11-19T22:31:00Z

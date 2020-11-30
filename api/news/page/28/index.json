@@ -2,6 +2,579 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-10-22-biden-proposes-panel-to-study-reforming-out-of-whack-us-judiciary.md",
+      "title": "Biden proposes panel to study reforming 'out of whack' U.S. judiciary",
+      "excerpt": "U.S. Democratic presidential candidate Joe Biden delivers remarks during a voter mobilization event, at Miramar Regional Park in Miramar, Florida, U.S., October 13, 2020. REUTERS/Tom Bren",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/biden-proposes-panel-to-study-reforming-idUSKBN277238",
+      "originalUrl": "https://www.reuters.com/news/picture/biden-proposes-panel-to-study-reforming-idUSKBN277238",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538470114&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9L175",
+          "width": 810,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-biden-calls-for-bipartisan-commission-to-propose-ways-to-reform-the-court-system.md",
+      "title": "Biden calls for 'bipartisan commission' to propose ways to 'reform the court system'",
+      "excerpt": "Biden faces pressure to take a position on adding seats to the Supreme Court as Trump’s nominee advances toward a Senate vote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-calls-bipartisan-commission-propose-ways-reform-court-system-n1244271",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-calls-bipartisan-commission-propose-ways-reform-court-system-n1244271",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_43/3422105/201022-joe-biden-cincinatti-jm-0931_816bd6ee28dec090bc4549dd0d88c9eb.jpg",
+          "width": 2500,
+          "height": 1496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244271",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244271",
+      "publishedDateTime": "2020-10-22T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-linda-ronstadt-slams-donald-trumps-state-of-emergency-at-the-us-southern-border-encouraging-resentment.md",
+      "title": "Linda Ronstadt slams Donald Trump's 'state of emergency' at the U.S. southern border, 'encouraging resentment'",
+      "excerpt": "Linda Ronstadt bashed Donald Trump and his administration’s handling of the situation at the United States’ southern border.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment",
+      "originalUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Rodstadt-Trump_Getty-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment.amp",
+      "publishedDateTime": "2020-10-22T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-12-days-out-from-election-day-mike-pence-is-holding-a-rally-in-deeply-red-indiana-why.md",
+      "title": "12 days out from Election Day, Mike Pence is holding a rally in deeply red Indiana. Why?",
+      "excerpt": "Vice President Mike Pence will collect some much-needed campaign dollars from his home state during a trip sandwiched between battleground states.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 331,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/20/USAT/30b6b6a8-f313-416b-bda7-2d96d93cab19-AP_Election_2020_Pence.jpg?auto=webp&crop=3478,1956,x0,y177&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3720360001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3720360001",
+      "publishedDateTime": "2020-10-22T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation.md",
+      "title": "Byron York's Daily Memo: Joe Biden (sort of) addresses Hunter Biden accusation",
+      "excerpt": "ADDRESSES HUNTER BIDEN ACCUSATION. The Democratic presidential nominee isn't campaigning in person this week -- an odd choice in the final days of a hard-fought campaign. But Joe Biden did do a video interview Wednesday with a Wisconsin television station,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation",
+      "originalUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/9f02367/2147483647/strip/true/crop/1060x600+0+0/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F1b%2Fdd%2F5520d8a2407eb68282a5cf5f8e59%2Fdaily-memo-default-1060x600.png",
+          "width": 1060,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation?_amp=true",
+      "publishedDateTime": "2020-10-22T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-vice-president-mike-pence-to-make-campaign-stop-in-pittsburgh.md",
+      "title": "Vice President Mike Pence To Make Campaign Stop In Pittsburgh",
+      "excerpt": "Vice President Mike Pence speaks to supporters during a rally at Weldall Manufacturing on October 13, 2020 in Waukesha, Wisconsin. ( Scott Olson/Getty Images) PITTSBURGH, PA — Vice President ...",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/pennsylvania/pittsburgh/vice-president-mike-pence-make-campaign-stop-pittsburgh",
+      "originalUrl": "https://patch.com/pennsylvania/pittsburgh/vice-president-mike-pence-make-campaign-stop-pittsburgh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/getty/22920172/20201022/075313/styles/patch_image/public/gettyimages-1280045144___22074708591.jpg?width=984",
+          "width": 911,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/pennsylvania/pittsburgh/amp/29034204/vice-president-mike-pence-to-make-campaign-stop-in-pittsburgh",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29034204/vice-president-mike-pence-to-make-campaign-stop-in-pittsburgh",
+      "publishedDateTime": "2020-10-22T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-election-2020-updates-i-think-the-mute-is-very-unfair-trump-on-debate-mics.md",
+      "title": "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics",
+      "excerpt": "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328",
+      "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 296,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-1-rt-er-201021_1603316702002_hpMain_16x9_1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328",
+      "publishedDateTime": "2020-10-22T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.md",
+      "title": "Biden faces backlash for saying 'America was an idea' that 'we've never lived up to'",
+      "excerpt": "Joe Biden was facing intense backlash Wednesday night for referring to America as an \"idea\" that \"we've never lived up to.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8dr8oiN-7Vg/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8dr8oiN-7Vg/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f93da98f-cf85-410a-865f-986bff199415/14f02d01-20fb-42ab-be54-7fb6e3dfe8d7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp",
+      "publishedDateTime": "2020-10-21T23:52:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-gallery-pence-visits-the-granite-state.md",
+      "title": "Gallery: Pence visits the Granite State",
+      "excerpt": "Visit the post for more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/",
+      "originalUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems15-1.jpg?w=1024&h=627",
+          "width": 1024,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/amp/",
+      "publishedDateTime": "2020-10-21T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china-goodwin.md",
+      "title": "Hunter biz partner confirms e-mail, details Joe Biden’s push to make millions from China: Goodwin",
+      "excerpt": "Wait until Scranton hears about this. One of Joe Biden’s ways of contrasting himself with President Trump has been to declare the election a battle of Park Avenue values vs. Scranton, Pa., values.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/",
+      "originalUrl": "https://nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/biden-china-nypost-cover.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/amp/",
+      "publishedDateTime": "2020-10-21T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine.md",
+      "title": "Hunter Biden: Here's what he has said about his Burisma role in Ukraine",
+      "excerpt": "The son of former Vice President Joe Biden has mostly remained mum on the allegations of impropriety while working on the board of Ukrainian oil company Burisma. Here’s what he has said about it in the past.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0M2AcnWkhFg/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0M2AcnWkhFg/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f3a7762-f52e-46a0-9028-8d3839245c76/529fc3a8-4e55-4ff9-a9aa-8dfd05a806c2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine.amp",
+      "publishedDateTime": "2020-10-21T21:36:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-vp-pence-makes-campaign-stop-in-hermon-speaks-one-on-one-with-tv5.md",
       "title": "VP Pence makes campaign stop in Hermon, speaks one-on-one with TV5",
       "excerpt": "HERMON, Maine (WABI) - The road to re-election runs through Northern Maine. That’s what the Vice President said today at a. TV5 was at the rally and spoke with Pence following his remarks. President Trump won Maine’s Second District four years ago,",
@@ -746,607 +1319,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-maryland-man-facing-federal-charge-for-allegedly-threatening-biden-and-harris.md",
-      "title": "Maryland man facing federal charge for allegedly threatening Biden and Harris",
-      "excerpt": "A Maryland man is facing a federal charge for allegedly threatening Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris, authorities announced Wednesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y--nriY6APo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y--nriY6APo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 377,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200810103806-joe-biden-kamala-harris-lead-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/maryland-man-threat-biden-harris/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/maryland-man-threat-biden-harris/index.html",
-      "publishedDateTime": "2020-10-21T12:45:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-inside-melania-trumps-unprecedented-campaign-trail-absence.md",
-      "title": "Inside Melania Trump's unprecedented campaign trail absence",
-      "excerpt": "First lady Melania Trump -- in a historic break from precedent -- has yet to set foot on the campaign trail this year even as her husband, President Donald Trump, fights for votes, especially among suburban White women with whom she could hold appeal.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RINuL4HzoFk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RINuL4HzoFk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190604162208-01-melania-trump-0603-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html",
-      "publishedDateTime": "2020-10-21T12:31:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-biden-endorses-texas-democratic-house-candidate-julie-oliver.md",
-      "title": "Biden endorses Texas Democratic House candidate Julie Oliver",
-      "excerpt": "Democratic presidential nominee Joe Biden has thrown his support behind progressive congressional candidate Julie Oliver in her race for a House seat in central Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district",
-      "originalUrl": "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_101820getty_webb.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp",
-      "publishedDateTime": "2020-10-21T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-biden-corruption-and-the-thursday-debate-opinion.md",
-      "title": "Biden Corruption and the Thursday Debate | Opinion",
-      "excerpt": "We have a scandal involving Vice President Joe Biden, his brothers and his son dealing with China, Russia, Ukraine, Romania, Kazakhstan, Oman and possibly other foreign influence buyers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101",
-      "originalUrl": "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 485,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1656418/bidens.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1",
-      "publishedDateTime": "2020-10-21T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-man-accused-of-threatening-biden-harris-in-note-to-neighbor.md",
-      "title": "Man accused of threatening Biden, Harris in note to neighbor",
-      "excerpt": "A Maryland man has been charged with making death threats against Democratic presidential candidate Joe Biden and running mate U.S. Sen. Kamala Harris in a letter left on the doorstep of a neighbor wh",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 3970,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_a6b9ced35bd543a295f3a608c3f79711_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399",
-      "publishedDateTime": "2020-10-21T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-panicked-sen-ron-johnson-touts-trump-to-wisconsin-leaders.md",
-      "title": "'Panicked' Sen. Ron Johnson touts Trump to Wisconsin leaders",
-      "excerpt": "A “panicked” Sen. Ron Johnson is urging members of the state chamber of commerce in battleground Wisconsin to vote for President Donald Trump",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_0ebf4b9746484c1c86c0e2d61e5e0069_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980",
-      "publishedDateTime": "2020-10-21T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-trump-and-harris-head-to-north-carolina-today-and-pence-speaks-in-new-hampshire-and-ohio.md",
-      "title": "Trump and Harris head to North Carolina today, and Pence speaks in New Hampshire and Ohio.",
-      "excerpt": "Holds a rally in Gastonia, N.C. Former Vice President Joseph R. Biden Jr. No events scheduled; preparing for Thursday’s debate. Vice President Mike Pence 1:30 p.m.: Holds a rally in Portsmouth, N.H. 6 p.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/21/us/elections/trump-and-harris-head-to-north-carolina-today-and-pence-speaks-in-new-hampshire-and-ohio.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/21/us/elections/trump-and-harris-head-to-north-carolina-today-and-pence-speaks-in-new-hampshire-and-ohio.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/21/multimedia/21elections-briefing-kamala/21elections-briefing-kamala-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/21/us/elections/trump-and-harris-head-to-north-carolina-today-and-pence-speaks-in-new-hampshire-and-ohio.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/us/elections/trump-and-harris-head-to-north-carolina-today-and-pence-speaks-in-new-hampshire-and-ohio.amp.html",
-      "publishedDateTime": "2020-10-21T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-trump-jobs-boom-is-a-convenient-myth.md",
-      "title": "The Trump ‘Jobs Boom’ Is a Convenient Myth",
-      "excerpt": "Covid economy, but unemployment declined steadily starting in 2010.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
-      "originalUrl": "https://www.wsj.com/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-247630?width=620&size=1.5",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
-      "publishedDateTime": "2020-10-21T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-biden-counting-on-press-big-tech-to-protect-him-from-answering-questions-cruz.md",
-      "title": "Biden counting on press, Big Tech to protect him from answering questions: Cruz",
-      "excerpt": "Sen. Ted Cruz, R-Texas, slammed Big Tech and the mainstream media on \"America's Newsroom\" Wednesday for covering for Joe Biden amid bombshell reports of Hunter Biden's international business dealings.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/41ZRRWz5D6k/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/41ZRRWz5D6k/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 291,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz.amp",
-      "publishedDateTime": "2020-10-21T09:06:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-meadows-says-trump-tweets-to-declassify-russia-probe-docs-were-not-direct-orders.md",
-      "title": "Meadows says Trump tweets to declassify Russia probe docs 'were not' direct orders",
-      "excerpt": "White House chief of staff Mark Meadows rejected suggestions this week that President Trump’s tweets earlier this month calling for the “total declassification” of all documents related to the Russia investigation and the FBI’s probe into Hillary Clinton’s private email server were an explicit order",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXsdBGgFzjI/meadows-trump-tweets-declassify-russia-probe-documents",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXsdBGgFzjI/meadows-trump-tweets-declassify-russia-probe-documents",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/meadows-trump-tweets-declassify-russia-probe-documents.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-trump-tweets-declassify-russia-probe-documents.amp",
-      "publishedDateTime": "2020-10-21T07:48:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-trump-envoy-traveled-to-syria-for-talks-on-missing-americans.md",
-      "title": "Trump envoy traveled to Syria for talks on missing Americans",
-      "excerpt": "A senior White House official made an unusual, secret visit to Syria for high-level talks aimed at securing the release of two Americans who have been missing for years amid the country’s long civil w",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/WireAP_efc880968da349c0a4dc41b8f6155a29_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
-      "publishedDateTime": "2020-10-21T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

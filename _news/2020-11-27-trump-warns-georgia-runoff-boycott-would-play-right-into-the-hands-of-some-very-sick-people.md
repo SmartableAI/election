@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-runoff-boycott-would-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people.amp"
 type: article
 quality: 164
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump presses 'hapless' Georgia governor to overrule secretary of state on signature matching"
+    excerpt: "President Trump called on Republican Georgia Gov. Brian Kemp to override Secretary of State Brad Raffensperger on matching signatures during the state's recount, in a tweet Monday."
+    publishedDateTime: 2020-11-30T14:34:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gJVoONUUgn4/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98f88203-24d7-48e9-933e-73bf757b5e5a/9f7d0c25-3767-460e-9963-bfa3a70ae474/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Ho0oUq+xn+qg6Hp64I+wN2WeTbZvCKyHMNNul9SCA1Dmxtr+gHktMDB+B3+RGiWCNtVt1vZrQm9tupzVFLJ1M10g4/rt0xahP0zMKl99gNCXElbpw/3zEvVIkzaEqF1B2JkL1r1FWm/znft3LYXEfzrQgRT70VVdgp/X1Ptn3k03nqkMZQxdwWkaOvqHQSwQ6cKQmePv9Zi0f+KRAbhhM1mM5iLq7LN5BQC59VDo9edY285n51hBZ7We8QVU74ScVQhyq89czbYYJdxjV6b1e0+GfcRJmefU//GGU0vhU8CkNUxwx5KzFJnaKiAb2dBm1n6AFxQLNgZiaaD6EFn8ClwE8hMlz3TwQUO7QO5eq2E=;2oPQ8xDmOGA9WtntcTz0zg=="
 ---

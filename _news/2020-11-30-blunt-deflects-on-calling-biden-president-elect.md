@@ -224,6 +224,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden unveils senior leadership team charged with planning inauguration"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Monday announced the senior leadership of the committee charged with planning and executing what will be an unprecedented presidential inauguration, as it is set to take place during a global pandemic.\n    \n"
+    publishedDateTime: 2020-11-30T14:53:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dRbbA1Ypefs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/biden-inauguration-committee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/biden-inauguration-committee/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125151119-01-biden-thanksgiving-remarks-1125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden weighs history-making picks for defense secretary"
+    excerpt: "President-elect Joe Biden is entering the month of December weighing several barrier-breaking candidates to be his Secretary of Defense.\n    \n"
+    publishedDateTime: 2020-11-30T13:39:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M1sYE5UkZ0c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/biden-defense-secretary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/biden-defense-secretary/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130125434-jeh-johnson-michele-flournoy-lloyd-austin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tom Donilon no longer in the running to be Biden's CIA director"
     excerpt: "President-elect Joe Biden is still weighing who will lead the Central Intelligence Agency, but Tom Donilon is no longer under consideration for the post, CNN has learned.\n    \n"
     publishedDateTime: 2020-11-30T02:12:49Z

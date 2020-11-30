@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Fired election security official calls fraud claims 'nonsense'; Trump slams system as 'international joke'"
+    excerpt: "Former Cybersecurity and Infrastructure Security Agency (CISA) Director Chris Krebs on Sunday emphatically defended the security of the 2020 election in the wake of his firing by President Trump, as the president slammed the report on Twitter and claimed that U.S. election security is an \"international"
+    publishedDateTime: 2020-11-30T13:23:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/apXEy_qCuKw/fired-elections-official-says-fraud-claims-nonsense-in-interview-trump-slams-system-as-international-joke"
+    ampWebUrl: "https://www.foxnews.com/politics/fired-elections-official-says-fraud-claims-nonsense-in-interview-trump-slams-system-as-international-joke.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fired-elections-official-says-fraud-claims-nonsense-in-interview-trump-slams-system-as-international-joke.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "rEr4qM8scXnoe5CoNt+C55HxcSISuvVGdvAR/dv5R0Pn68qg8Ha2C5JaMDkIfv7yThkDiUBTyVILOvXu/uE8yNjujklPfHMFNrF4fCgOCF0spdBg0CNKF0SHts+HQyNLuL+JariYXaV9w7j4AJ+OrZRSLr3pMS3PrSyh0jsL8Vi9Qs0LFYlQFvFf0pn/ysBOKFvoB/NpUrMp5rk/rLLiFSY7GIEW9QvtSIcZ0uOAWToCzKKkFDWaS5VQa8L/jZPi0aV2FuFXIeLIZsKExXssRhzb89GKVRa5RKU9/rY+poTbDFc7vl9+fTFNkSDLrBXPujP/QAISlfELOUV5j5kHzHq6ry+2T56UnLhi/xjJuLo=;IVcvOJ2S86oWZ4DddCuHRA=="
 ---

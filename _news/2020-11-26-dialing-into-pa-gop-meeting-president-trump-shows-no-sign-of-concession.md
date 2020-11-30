@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "FACTBOX-The Biden Cabinet: President-elect begins to build a team"
-    excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the nation's diversity."
-    publishedDateTime: 2020-11-28T15:28:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-idINL1N2I92JE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINL1N2I92JE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL1N2I92JE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542749964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR0C4"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Milwaukee County vote recount gives Biden small boost"
     excerpt: "Milwaukee County completed its recount of presidential ballots, finding only small changes in vote totals for one of the two Wisconsin counties recounting ballots"
     publishedDateTime: 2020-11-28T00:37:00Z
@@ -94,38 +78,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Factbox: The Biden Cabinet - President-elect begins to build a team"
-    excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the nation's diversity."
-    publishedDateTime: 2020-11-28T20:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN2880IZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2880IZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2880IZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542749964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR0C4"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden picks top campaign aides in key communications roles"
-    excerpt: "President-elect Joe Biden on Sunday tapped key campaign staff and advisors to lead his communications team, naming former Obama State Department spokeswoman Jen Psaki as his White House press secretary and campaign spokeswoman Kate Bedingfield as communications director."
-    publishedDateTime: 2020-11-29T22:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-communications/biden-picks-top-campaign-aides-in-key-communications-roles-idUSKBN2890YK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890YK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890YK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542835857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0N3"
-        width: 817
-        height: 545
         isCached: true
   - title: "Milwaukee County vote recount gives Biden small boost"
     excerpt: "Milwaukee County completed its recount of presidential ballots, finding only small changes in vote totals for one of the two Wisconsin counties recounting ballots"
@@ -143,38 +95,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "President-elect Joe Biden hires all-female communications staff"
-    excerpt: "Harris administration appointed the country's first all-female communications team to relay messages from the White House."
-    publishedDateTime: 2020-11-30T00:29:00Z
-    webUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fc4269350e71a0011557de4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Wisconsin counties finish recounts, Biden's lead reconfirmed"
-    excerpt: "The recount of presidential ballots in Wisconsin’s two largest counties finished on Sunday, confirming that Democratic President-elect Joe Biden defeated President Donald Trump in the key swing state by more than 20,"
-    publishedDateTime: 2020-11-29T17:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin/wisconsin-counties-finish-recounts-bidens-lead-reconfirmed-idUSKBN2890R2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890R2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890R2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542819350&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0J3"
-        width: 1022
-        height: 545
-        isCached: true
   - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
     excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
     publishedDateTime: 2020-11-29T22:12:00Z
@@ -190,36 +110,6 @@ related:
       - url: "https://i.insider.com/5fc364fd50e71a0011557d50?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "President-elect Joe Biden twists ankle after slipping while playing with dog"
-    excerpt: "President-elect Joe Biden twisted his ankle after slipping while playing with his dog, his office said on Sunday."
-    publishedDateTime: 2020-11-29T21:38:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-idUKKBN2890WS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2890WS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2890WS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542834160&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0MH"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Eye Opener: Trump, Biden address Americans on Thanksgiving"
-    excerpt: "President Trump answered questions from reporters for the first time since the election, and said it would be \"very hard\" for him to concede. Also, President-elect Joe Biden called on Americans to do their part and stay calm in his Thanksgiving address."
-    publishedDateTime: 2020-11-27T14:47:00Z
-    webUrl: "https://www.cbsnews.com/video/eye-opener-trump-biden-address-americans-on-thanksgiving/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/27/f26f817a-a957-4309-9223-a1b0ca97fb11/thumbnail/1200x630/7a1dec56b908164811b865c24b3a47bb/cbsn-fusion-eye-opener-trump-biden-address-americans-on-thanksgiving-thumbnail-596697-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "President Trump's war on immigration takes on political overtone at Supreme Court"
     excerpt: "The president is seeking to exclude undocumented immigrants from census calculations used to apportion House seats, electoral votes and federal funds."
@@ -285,22 +175,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Three major developments in President-elect Joe Biden's transition to the White House"
-    excerpt: "Since President-elect Joe Biden’s victory earlier this month, President Donald Trump has refused to concede and continues to make baseless claims of voter fraud –– pushing election lawsuit battles across the country,"
-    publishedDateTime: 2020-11-29T17:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/29/when-inauguration-joe-bidens-white-house-updates/6443749002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6443749002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6443749002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/62d96c6a-b6f3-4091-aacb-149110e7fa61-AP20324781057068.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Laura Ingraham says that Biden will be president: ‘This constitutes living in reality’"
     excerpt: "On Thursday night, though, after President Trump finally submitted to an official government transition to Biden, Laura Ingraham sounded a different note. While arguing that there are still “serious questions” about the election and noting that she backs Trump’s continued legal challenges,"
     publishedDateTime: 2020-11-24T07:26:00Z
@@ -336,7 +210,7 @@ related:
   - title: "U.S. Supreme Court mulls Trump bid to exclude illegal immigrants from population count"
     excerpt: "U.S. Supreme Court justices on Monday are set to consider President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states, a facet of his hardline stance toward immigration being pursued in his"
     publishedDateTime: 2020-11-30T11:39:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-census/u-s-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
+    webUrl: "https://www.reuters.com/article/topNews/idUSKBN28A1B5"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
     type: article
@@ -442,14 +316,14 @@ related:
   - title: "Completed Wisconsin recount confirms Biden's win"
     excerpt: "Wisconsin finished its two-county presidential results recount on Sunday, confirming Democrat Joe Biden's victory over President Donald Trump. The Dane and Milwaukee County totals found Biden adding 87 to his 20,"
     publishedDateTime: 2020-11-30T07:58:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/30/completed-wisconsin-recount-confirms-bidens-win/6461555002/"
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/30/completed-wisconsin-recount-confirms-bidens-win/6461498002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f5b631a3-708f-48cf-887b-dbfad2735704_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/41c3301f-0cfb-49be-aaf3-818f4eb64a0d_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
@@ -468,20 +342,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/19/PMJS/10cc0a7d-458e-462e-bcbd-9068a3e897f7-MJS_5.jpg?auto=webp&crop=5471,3077,x1,y268&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Joe Biden's Novel Approach to Climate Change Could Side-Step a Divided Congress"
-    excerpt: "As the country burned and flooded, Joe Biden leaned into climate change more than any other general-election presidential contender in U.S. history. Now, even as he faces the possibility of a divided Congress,"
-    publishedDateTime: 2020-11-28T23:01:00Z
-    webUrl: "https://time.com/5910008/joe-biden-climate-change-election/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 101
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/joe-biden-climate-03.jpg"
-        width: 2400
-        height: 1600
         isCached: true
   - title: "Joe Biden promises to fix discrimination in housing. Here are 3 ways he plans to tackle it."
     excerpt: "President-elect Joe Biden wants to root out discriminatory housing practices via a barrage of measures, down to changing the way houses get appraised."
@@ -512,36 +372,6 @@ related:
       - url: "https://i.insider.com/5fbde6e132f2170011f71164?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "President-elect Biden considering appointing members of the LGBTQ+ community to his cabinet"
-    excerpt: "President-elect Joe Biden is set to have one of the most diverse cabinets the nation has ever seen. Advocates and allies are hoping that diversity includes LGBTQ+ representation as well. LGBTQ Victory Institute Vice President Ruben Gonzalez discusses potential cabinet picks."
-    publishedDateTime: 2020-11-28T21:58:00Z
-    webUrl: "https://www.cbsnews.com/video/president-elect-biden-considering-appointing-members-of-the-lgbtq-community-to-his-cabinet/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 95
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/d688dce4-44fc-4ba3-90f6-3dead692d3ed/thumbnail/1200x630/2ec41d29d884f7b9634745ae99cfad73/cbsn-fusion-president-elect-biden-considering-appointing-members-of-the-lgbtq-community-to-his-cabinet-thumbnail-597544-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "President-elect Joe Biden gains over 100 votes after Milwaukee County recount"
-    excerpt: "Elect Joe Biden gained more than 100 more votes in Milwaukee County in a recount, adding to his lead. The Trump campaign submitted a recount petition and paid a $3 million fee to the Wisconsin Elections Commission for the partial recount of presidential election results ordered last week,"
-    publishedDateTime: 2020-11-28T19:36:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/7811606583294/2020/1/cf33271cf4070f966585c8d3e536d871/v1.5/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount.jpg"
-        width: 800
-        height: 534
         isCached: true
 
 secured: "BN2wy6UDk9b2+aV/7TpvOIQWvITRqwtaOoJTAH7SlqQd96IEi9edHNz7NyU3a7UAA+4JuR0qmbBBC6t3Q1miasZhbR/PXRr4OS9inx27LcGPwD7XYHumiNcT/CnY90zpHDlgye1dgnoO17uWryIGjO/T+JEu33RwcDzNer7VbLVWU43a92MOLQwl8qV0dgbbYsaAYCYjImXZLLmsAGsbyUvCLmc0Tgihdq/nkF62pJEwHP3YhaHJeKwVm6rX0PWoDmjR/BUDxjJfFFAa7xB3I09LIjekjTLxl5ZHcbxiGdU0P3mKp0c7UUH2akkPC6UNepf50XhqqgyPCPu+HrimL5Yv3dOWITCbDSCPoGSSaYmADktSjXYjLHOBwrGpwVR+fdVYkr0h93Y/Q1zKc0Ki9moIFN9+os28laC2A+BpjeyMInVBVxecX1PRh0Rl8qquUfxM0ohVqD6gWQ3n1Mu9eSbJRtxrAAfio8qkHYD5WBQD14nJJndXIjzTZZ6mqijCzLB7IHZPVWrbq7mbO0u6Nw==;5VJWTLE5i/xLyDuz/DHIcg=="
