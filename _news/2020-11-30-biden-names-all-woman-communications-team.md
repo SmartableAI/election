@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden sprains ankle while playing with his dog Major, office says"
-excerpt: "The president-elect was walking his dog Major on Saturday when he twisted his ankle, the transition team said."
-publishedDateTime: 2020-11-29T23:18:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/"
-webUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/"
-ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
+title: "Biden names all-woman communications team"
+excerpt: "President-elect Joe Biden on Sunday tapped key campaign staff and advisors to lead his all-woman communications team, naming former Obama State Department spokeswoman Jen Psaki as his White House press secretary and campaign spokeswoman Kate Bedingfield as"
+publishedDateTime: 2020-11-30T08:24:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-communications-idUSKBN2890YK"
+webUrl: "https://www.reuters.com/article/us-usa-biden-communications-idUSKBN2890YK"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890YK"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890YK"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OHHPGW4C3JBXJOKY6F27T4GEME.jpg&w=1440"
-    width: 960
-    height: 540
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542835857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0N3"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -79,21 +79,21 @@ related:
         width: 1440
         height: 956
         isCached: true
-  - title: "Biden names all-woman communications team"
-    excerpt: "President-elect Joe Biden on Sunday tapped key campaign staff and advisors to lead his all-woman communications team, naming former Obama State Department spokeswoman Jen Psaki as his White House press secretary and campaign spokeswoman Kate Bedingfield as"
-    publishedDateTime: 2020-11-30T08:24:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-communications-idUSKBN2890YK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890YK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890YK"
+  - title: "Biden sprains ankle while playing with his dog Major, office says"
+    excerpt: "The president-elect was walking his dog Major on Saturday when he twisted his ankle, the transition team said."
+    publishedDateTime: 2020-11-29T23:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542835857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0N3"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OHHPGW4C3JBXJOKY6F27T4GEME.jpg&w=1440"
+        width: 960
+        height: 540
         isCached: true
   - title: "Joe Biden twists his ankle after slipping while playing with dog"
     excerpt: "President-elect to be examined by doctor after accident while playing with his pet German shepherd"
@@ -160,6 +160,6 @@ related:
         height: 675
         isCached: true
 
-secured: "KLzYe149rd+81Po0DGi9kJdu6yutcqXIIjJwcztzxTHx50OVl2RghMf5ddRc0RmtnvXW4egAWfOLvrY6uZOwABpQ6229oPLJxXclX1mhMytPh63BvUcIrStKa0s9A9rZE2Etv3RQ2n6nTvGLA+5zfQ6qO3VEneETZ4rogiAX8HGiWh77rkLfL9HG5olIlZZ0PflVmBecwt6sQ49chlQlN5/pVlRVjPTySDbKhuD6lL1CIRxqroK4FuHZpEdWknCwqorbJ8GyjLpRqPLKh8dw5N8MjTWFToOQkJIL/j1myj6zMR4yYaYNsto/PZ0Mftn3IYxpW42a1abuH42A9wOWWNbmQRRLqNdx64xFBt/XgDmvYaePFfjVRVMWTvpqrxHx6NHNMxuqfvEGTdsWyKE2oZzmywA8gL9LR9JrtG8M6DlJmTtuzHrRDnP8Pfmu3TGvdBFK9dfSZZQxGgyEIVTq2OcQHxTq1tCYMPXgtiGFvaG+da1Bn5QIJ229Dd8ZaKBBWJsfcs7eBgFXahofxHRHPA==;nxnrIc/uBMMjbSdo/6U/hQ=="
+secured: "EB/Ml0UlBOoEDNLq0+HMn+aqQxcppGYIqVRpd1jDTDjMpdqqzhTyyRBw0ezx9KAji6/NLgIcnra5iOR7YCB8bsRhUKMCoaNO7KgxVU+u8HgR33LQJESqPJBI9Zx3iK/v1e3ICoS1NvZUleE2xJc+Qyz5GdTNCKoJtcs/8UBMTpd/jpxf8sW0JdAeXDkGRFRTlBTEXqCohM9x0do4YAWjzW0nopPVkjUR8/KfEr5YfXyBPv4LP5zvUPoOjjtrie5GJNqw3Gsgq963uogXPD4kifRaW12xPYVokUuzLuDhHLz1PeCWPE5RQYqLvT7VCyyS0NdtHjswpkykYQkL345qs4z5/67HrSjAR4DtXfGKwLs=;ji7dDg6MWuE/ahgzQUvN5Q=="
 ---
 

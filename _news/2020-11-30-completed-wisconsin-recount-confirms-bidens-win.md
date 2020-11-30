@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Biden gains 87 votes in Trump's $3M Wisconsin recount as Dane County wraps up review. President plans lawsuit."
-excerpt: "Biden netted 132 votes in Milwaukee County and Trump netted 45 votes in Dane County. Taken together, that increased Biden's statewide lead to 21,695."
-publishedDateTime: 2020-11-29T17:28:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/29/wisconsin-recount-completed-biden-gains-dane-country/6456378002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/29/wisconsin-recount-completed-biden-gains-dane-country/6456378002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-ampWebUrl: "https://amp.usatoday.com/amp/6456378002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6456378002"
+title: "Completed Wisconsin recount confirms Biden's win"
+excerpt: "Wisconsin finished its two-county presidential results recount on Sunday, confirming Democrat Joe Biden's victory over President Donald Trump. The Dane and Milwaukee County totals found Biden adding 87 to his 20,"
+publishedDateTime: 2020-11-30T07:58:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2020/11/30/completed-wisconsin-recount-confirms-bidens-win/6461498002/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/30/completed-wisconsin-recount-confirms-bidens-win/6461498002/"
 type: article
-quality: 120
+quality: 105
 heat: -1
 published: false
 
@@ -22,12 +20,12 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/ffd79519-3119-4182-b2c8-3743924ea336-MJS_recount_4_hoffman.jpg_RECOUNT.jpg?auto=webp&crop=4516,2541,x0,y210&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/41c3301f-0cfb-49be-aaf3-818f4eb64a0d_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -253,6 +251,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Biden gains 87 votes in Trump's $3M Wisconsin recount as Dane County wraps up review. President plans lawsuit."
+    excerpt: "Biden netted 132 votes in Milwaukee County and Trump netted 45 votes in Dane County. Taken together, that increased Biden's statewide lead to 21,695."
+    publishedDateTime: 2020-11-29T17:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/29/wisconsin-recount-completed-biden-gains-dane-country/6456378002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6456378002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6456378002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/ffd79519-3119-4182-b2c8-3743924ea336-MJS_recount_4_hoffman.jpg_RECOUNT.jpg?auto=webp&crop=4516,2541,x0,y210&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Live political updates: Trump says he would 'certainly' leave White House once Electoral College votes for Biden"
     excerpt: "President Donald Trump has yet to concede the race but his administration cleared the way this week for Biden's team to have access to federal resources and briefings during the transition. Be sure to refresh this page often to get the latest information on the election and the transition."
     publishedDateTime: 2020-11-28T01:27:00Z
@@ -407,20 +421,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Completed Wisconsin recount confirms Biden's win"
-    excerpt: "Wisconsin finished its two-county presidential results recount on Sunday, confirming Democrat Joe Biden's victory over President Donald Trump. The Dane and Milwaukee County totals found Biden adding 87 to his 20,"
-    publishedDateTime: 2020-11-30T07:58:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/30/completed-wisconsin-recount-confirms-bidens-win/6461498002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/41c3301f-0cfb-49be-aaf3-818f4eb64a0d_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "President Trump is seeking a recount in two Wisconsin counties, but what he’s really doing is preparing for a lawsuit."
     excerpt: "By pursuing the recount, Trump has given himself a vehicle for a lawsuit that would likely go before a judge by early December."
     publishedDateTime: 2020-11-20T00:05:00Z
@@ -512,6 +512,6 @@ related:
         height: 534
         isCached: true
 
-secured: "LyM+5lS4YEQtKYPoAMOVhmEBM5scorUXxtWh8ah0DfsDAryzU++fdSIbNjXfh8vXMqEsgLS06cpE9fcfYssY7/7hxv+zzxWeur3GHhDwsVX4/WDza2OH4VpMoUDAXS4lz9Fb+ntdmg/WajUYHrbYu8QwMcN2G6JEDFG6E1txyewTAGf4uNsZtYxFkVxKtphTiao4RlRm5JxHcZaiiF1ZYi+bIFToZtfYMittq8sALdvo58fMlhPiZyGuk40WcUPppQ6gfuIkWqJb53d2vD2Ccyk4aHvYveFAvcT+Y1IgSIBfaZ65nFmFZfsPAc24pnnGjuZUyKAVRjNCuTQfZqH1LXnHCig0NBsfkr1pr+eUcpExxJljRwDHway1DWX7/1mvtkw2kU+N24cBDF0/BYw0RxZTprMhPCmD55bSr86FY3uID/iYxlPNGVoOvIalv1bllAIw9v90HPTOEt7e0UjiLnaMaSLP6U+ZZHnyy1CMp0xrFzr22F+h1zFAmrUFukKtujFFW1prKZsowDw7mTTtzg==;VgXtNCTa/skDsdoNF7VO8Q=="
+secured: "M/+gFZSBq+V5uFVliLmtPleB9AlmaTYlL9Ypi2jnNCjpBLldaDB8Jt3FjwU+aoz1aSGPTILEvMXGLwtllnsbcaAzjhS7sw+tlL3PKEBJDfLb+162bwPuMuzCNmfTA9StVHa1ThgnIfiLT/OAtwMKI6zNl8XIsmTLXiWl+ou8eGtMFG9m2usbx8MdqWn+PCDXmy9NUee45HsFJZ+XwQ6fcPoJNoR3Ndr39MbHAPulWyysaErcbMaK/ahebW2MzmEEILdKqBfBgXzxMofdgIF9PGAeX2YwXW4JbgyjX9+hCETvboFFfXFvAxLMyxV4sGXmp1qA6TqUG4ksW2Wqdnwa66H3myyfnu5b2uktecMOlxs=;lMdZc43pw0g596xG2B30UQ=="
 ---
 
