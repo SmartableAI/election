@@ -349,6 +349,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "U.S. Supreme Court mulls Trump bid to exclude illegal immigrants from population count"
+    excerpt: "U.S. Supreme Court justices on Monday are set to consider President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states, a facet of his hardline stance toward immigration being pursued in his"
+    publishedDateTime: 2020-11-30T11:39:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-census/u-s-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
+        width: 817
+        height: 545
+        isCached: true
   - title: "From the coronavirus to the environment, Biden plans to take government in new direction"
     excerpt: "A review of Biden's plans so far suggests that among his priorities will be tackling COVID-19, rolling back Trump actions, expanding on Obama initiatives."
     publishedDateTime: 2020-11-24T21:05:00Z
@@ -378,6 +394,22 @@ related:
       - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
         width: 800
         height: 800
+        isCached: true
+  - title: "Congress is briefly reconvening, under pressure from Trump and Biden to pass a COVID-19 stimulus bill after months of gridlock"
+    excerpt: "Congress has spent months arguging over the details of a follow-up stimulus package, to the immense frustration of many."
+    publishedDateTime: 2020-11-30T12:07:00Z
+    webUrl: "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5fc4ce3550e71a0011557e44?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "How Wisconsin and Michigan could deliver Biden the presidency"
     excerpt: "The Washington Post’s Philip Bump analyzes how Democratic presidential nominee Joe Biden flipped key states blue in 2020 and what it means for his chances of winning the presidency."

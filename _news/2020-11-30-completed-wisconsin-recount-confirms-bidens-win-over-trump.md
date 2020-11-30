@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Completed Wisconsin recount confirms Biden's win over Trump"
+title: "Completed Wisconsin recount confirms Biden’s win over Trump"
 excerpt: "Wisconsin has finished a recount of its presidential results, confirming Democrat Joe Biden’s victory over President Donald Trump in the key battleground state"
-publishedDateTime: 2020-11-30T00:08:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/completed-wisconsin-recount-confirms-bidens-win-trump-74449883"
-webUrl: "https://abcnews.go.com/Politics/wireStory/completed-wisconsin-recount-confirms-bidens-win-trump-74449883"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/completed-wisconsin-recount-confirms-bidens-win-trump-74449883"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/completed-wisconsin-recount-confirms-bidens-win-trump-74449883"
+publishedDateTime: 2020-11-30T11:12:00Z
+originalUrl: "https://www.washingtonpost.com/national/completed-wisconsin-recount-confirms-bidens-win-over-trump/2020/11/30/e958a236-32fc-11eb-9699-00d311f13d2d_story.html"
+webUrl: "https://www.washingtonpost.com/national/completed-wisconsin-recount-confirms-bidens-win-over-trump/2020/11/30/e958a236-32fc-11eb-9699-00d311f13d2d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/completed-wisconsin-recount-confirms-bidens-win-over-trump/2020/11/30/e958a236-32fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/completed-wisconsin-recount-confirms-bidens-win-over-trump/2020/11/30/e958a236-32fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 140
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_b9b135c1a0664f76beb3de015cc4d184_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -604,6 +604,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "AC3eJ1Eiqbot3/FdR9DI5eHM/LriapO7j/p/WVfa7rBU8WRoDoosUqoZCztmPSuIXVx+y73Rf5gv85iHPd3mEK0eYpiH7ArOTn2+iPt1+04tNBEVcAn+EsYyPS7l0UI0Nbec5E9ZiNyX60KLiH7xFbB/ZIU0AtypdNmtV1VcRZwZTju8AroMwM72WIZhLUN2fdSAAq1w9XrP9CtM8J5EKNsqRuUhfHGH8h43NOYbu5LoytRfCJsIcHXaPNX5hqgB2dcPqeZ/QqumLDtvPAA0yXW0mJ/dQI5NbYQu2lRbTNpFkIVoSuiLBt/rzR3blsgmQ78fh5+pKTnbYlRQN408K2bp5ly7uTPk8G3ATCbJhpg=;n2BUt0SxUioJA7bwPqsHug=="
+secured: "6MM9l8doIKCDAh6DdCv+OXraKNHi9sjpRhDQUvMvZ9diDYv+Oh6RDUFXi4Ttm6fShIcxRLjjmQBvCtEXWlCf12F3uG8sj4i7+2F3rm00NdY4qthErt/t4KEEUtt/UK4J6GXemhD8G+DptRUuVsYyKMi0UzTn2pz18O3LIdcIjf9c8bEvz/c19fwe5rZ3KE8SiNJqDI3FcoScUheW70gOpPQNbWUeC6YNc11qTfcRZRBXl9+2NnqhHYi53piylU7EpzmVYvYR02gwUVIg+pHkO/rv1v2AfyudwYNiFzf1oyLwr5B7cnQa8hHKCjtit7ZQVCwiqNbMnp2W65u34ms+PjS+WPF2GaYlj6DSoVaEREY=;Pg1fAzwAcmlu6rpqckCryg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/man-accused-threatenin
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399"
 type: article
 quality: 150
-heat: 3950
+heat: 3970
 published: true
 
 provider:
@@ -1234,6 +1234,22 @@ related:
       - url: "https://www.tampabay.com/resizer/0yVU-dEPeGa4HkHZtyWqzMoqy0I=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/5GXVBD75NJHBPE5PC4ZX7OMPNQ.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Biden, Harris to receive first presidential intelligence briefings"
+    excerpt: "U.S. President-elect Joe Biden is scheduled to receive his first presidential intelligence briefing on national security threats Monday as he prepares for his transition into office."
+    publishedDateTime: 2020-11-30T12:05:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/11/30/Biden-Harris-to-receive-first-presidential-intelligence-briefings/6361606734101/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/30/Biden-Harris-to-receive-first-presidential-intelligence-briefings/6361606734101/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/30/Biden-Harris-to-receive-first-presidential-intelligence-briefings/6361606734101/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6361606734101/2020/1/4ab660c5c81dfba3c4ff40c92454f373/v1.5/Biden-Harris-to-receive-first-presidential-intelligence-briefings.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Kamala Harris’ husband Doug Emhoff to campaign in West Michigan for Biden"
     excerpt: "Doug Emhoff, the husband of Democratic vice presidential nominee Kamala Harris, is planning several campaign visits in Michigan Friday. Joe Biden’s presidential campaign announced Emhoff will visit Muskegon County,"

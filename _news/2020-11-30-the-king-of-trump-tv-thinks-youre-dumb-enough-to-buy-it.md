@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Supreme Court hears arguments in Trump plan to cut undocumented immigrants from Census"
+    excerpt: "The Supreme Court on Monday will return and take up another of President Donald Trump's immigration-related policies as it considers the attempt to exclude undocumented immigrants from being counted in the Census totals when seats in Congress are divvied up between the states next year.\n    \n"
+    publishedDateTime: 2020-11-30T12:03:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/swnpTxDOwdk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/census-supreme-court-oral-arguments/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/census-supreme-court-oral-arguments/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200311103024-01-us-census-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Trump administration is considering shortening the recommended quarantine time for Covid-19"
     excerpt: "President Donald Trump's coronavirus task force is reviewing evidence about how long people need to quarantine to be safe and slow the spread of Covid-19, according to Assistant Secretary for Health Adm. Brett Giroir.\n    \n"
     publishedDateTime: 2020-11-24T22:39:35Z

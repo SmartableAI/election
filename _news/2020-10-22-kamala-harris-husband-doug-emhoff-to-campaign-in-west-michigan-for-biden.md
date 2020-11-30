@@ -1246,6 +1246,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Biden, Harris to receive first presidential intelligence briefings"
+    excerpt: "U.S. President-elect Joe Biden is scheduled to receive his first presidential intelligence briefing on national security threats Monday as he prepares for his transition into office."
+    publishedDateTime: 2020-11-30T12:05:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/11/30/Biden-Harris-to-receive-first-presidential-intelligence-briefings/6361606734101/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/30/Biden-Harris-to-receive-first-presidential-intelligence-briefings/6361606734101/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/30/Biden-Harris-to-receive-first-presidential-intelligence-briefings/6361606734101/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6361606734101/2020/1/4ab660c5c81dfba3c4ff40c92454f373/v1.5/Biden-Harris-to-receive-first-presidential-intelligence-briefings.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Kamala Harris: Biden win needed to secure pre-existing condition protections"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Monday that the presidential election is directly tied to whether or not people will continue to enjoy insurance protections for pre-existing conditions under Obamacare."
     publishedDateTime: 2020-10-20T07:12:00Z

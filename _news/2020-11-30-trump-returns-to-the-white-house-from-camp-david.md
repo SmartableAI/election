@@ -285,6 +285,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Note: Deadlines and dead ends pile up losses for Trump"
+    excerpt: "The weekend brought an end to Wisconsin's partial recount -- as funded by the Trump campaign -- with President-elect Joe Biden actually netting 87 additional votes, in results sch"
+    publishedDateTime: 2020-11-30T11:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-gty-ml-201127_1606495893630_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Barack Obama: ‘Donald Trump and I tell very different stories about America’"
     excerpt: "Four years after leaving office, he’s officially the world’s most admired man.But what is Obama’s legacy? The former president talks Trump, Biden and America’s new dawn"
     publishedDateTime: 2020-11-21T09:53:00Z

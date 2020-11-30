@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to receive first president's daily intelligence brief Monday"
+    excerpt: "President-elect Joe Biden marks a milestone on his path to the White House Monday when he gets his first President's Daily Brief -- the intelligence community's collection of secrets, intelligence, and analysis about long- and short-term threats US leaders need to know to run the country and keep it"
+    publishedDateTime: 2020-11-30T11:06:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p1QSAuoadSk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/biden-harris-monday-first-pdb/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/biden-harris-monday-first-pdb/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119170200-05-biden-harris-presser-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tom Donilon no longer in the running to be Biden's CIA director"
     excerpt: "President-elect Joe Biden is still weighing who will lead the Central Intelligence Agency, but Tom Donilon is no longer under consideration for the post, CNN has learned.\n    \n"
     publishedDateTime: 2020-11-30T02:12:49Z
@@ -494,6 +510,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/28/us/politics/28dc-biden-westexec/merlin_180453024_afacfb19-71d8-4125-b7a2-fd592224b286-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden Moves on to Economic Hires"
+    excerpt: "Joe Biden plans to formally name his choices this week to fill the administration’s top economic policy positions. News of his picks has been trickling out, and it appears he is hoping to assemble a diverse,"
+    publishedDateTime: 2020-11-30T12:03:00Z
+    webUrl: "https://www.nytimes.com/2020/11/30/us/politics/biden-economic-appointments.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/30/us/politics/biden-economic-appointments.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/us/politics/biden-economic-appointments.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/05/13/us/onpolitics-penny/onpolitics-penny-facebookJumbo-v4.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Blunt deflects on calling Biden 'president-elect'"
     excerpt: "Roy Blunt repeatedly declined to refer to Joe Biden as the “president-elect” on Sunday, despite acknowledgments from some fellow Senate Republicans colleagues who have recognized the former vice president’s electoral win."

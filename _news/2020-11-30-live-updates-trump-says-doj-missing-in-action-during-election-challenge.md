@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Live Updates: Trump says DOJ 'missing in action' during election challenge"
-excerpt: ""
+excerpt: "Follow for the latest updates on the 2020 election legal fight."
 publishedDateTime: 2020-11-30T04:20:13Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QGxQx6bPQ3I/live-updates-trump-says-doj-missing-in-action-during-election-challenge"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QGxQx6bPQ3I/live-updates-trump-says-doj-missing-in-action-during-election-challenge"

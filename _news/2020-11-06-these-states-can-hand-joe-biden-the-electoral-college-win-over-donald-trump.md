@@ -4171,6 +4171,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden transition kicks into gear, as Trump acknowledges dwindling legal options"
+    excerpt: "President-elect Joe Biden is expected to unveil his picks for several top economic positions as early as Monday when he will also finally receive his first classified intelligence briefing, an essential step towards taking control of national security."
+    publishedDateTime: 2020-11-30T11:32:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28A1AB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1AB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1AB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0Q0"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump, Biden frame closing appeals for sprint to election"
     excerpt: "Their final debate behind them, President Donald Trump and Democrat Joe Biden are packaging their divergent personal styles and policy prescriptions into closing messages for the final sprint to Election Day."
     publishedDateTime: 2020-10-24T21:01:00Z

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Live Updates: Biden to receive first presidential daily briefing"
-excerpt: ""
+excerpt: "Follow for the latest updates on the 2020 elections."
 publishedDateTime: 2020-11-30T04:50:17Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ixx6PQIJ67M/live-updates-biden-to-receive-first-presidential-daily-briefing"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ixx6PQIJ67M/live-updates-biden-to-receive-first-presidential-daily-briefing"

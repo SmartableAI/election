@@ -347,6 +347,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "U.S. Supreme Court mulls Trump bid to exclude illegal immigrants from population count"
+    excerpt: "U.S. Supreme Court justices on Monday are set to consider President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states, a facet of his hardline stance toward immigration being pursued in his"
+    publishedDateTime: 2020-11-30T11:39:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-census/u-s-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
+        width: 817
+        height: 545
+        isCached: true
   - title: "From the coronavirus to the environment, Biden plans to take government in new direction"
     excerpt: "A review of Biden's plans so far suggests that among his priorities will be tackling COVID-19, rolling back Trump actions, expanding on Obama initiatives."
     publishedDateTime: 2020-11-24T21:05:00Z
@@ -362,6 +378,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/bdbe1ab/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F54%2Fce%2Fbb2ca196c0e9e959721af595922e%2Fla-me-ln-road-closures-for-vice-president-bide-001"
         width: 320
         height: 209
+        isCached: true
+  - title: "Congress is briefly reconvening, under pressure from Trump and Biden to pass a COVID-19 stimulus bill after months of gridlock"
+    excerpt: "Congress has spent months arguging over the details of a follow-up stimulus package, to the immense frustration of many."
+    publishedDateTime: 2020-11-30T12:07:00Z
+    webUrl: "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5fc4ce3550e71a0011557e44?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Attorney heading up Trump campaign's Wisconsin recount effort is seeking to throw out his own vote"
     excerpt: "Jim Troupis, a former Dane County judge and Cross Plains attorney, voted early using the state's in-person absentee option."
