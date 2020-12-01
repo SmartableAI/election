@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Congress is briefly reconvening, under pressure from Trump and Biden to pass a COVID-19 stimulus bill after months of gridlock"
-    excerpt: "Congress has spent months arguging over the details of a follow-up stimulus package, to the immense frustration of many."
-    publishedDateTime: 2020-11-30T12:07:00Z
-    webUrl: "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp"
+  - title: "Fact check: Graphic comparing Trump and Obama is from 2018 and contains an approval rating error"
+    excerpt: "In November 2020, a 2018 graphic comparing President Donald Trump and President Barack Obama “by the numbers” resurfaced on social media. The chart presents figures showing the Trump administration had outperformed the Obama administration in terms of presidential"
+    publishedDateTime: 2020-11-30T21:26:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-obama-trump-by-the-numbers/fact-check-graphic-comparing-trump-and-obama-is-from-2018-and-contains-an-approval-rating-error-idUSKBN28A2CA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A2CA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A2CA"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 112
     images:
-      - url: "https://i.insider.com/5fc4ce3550e71a0011557e44?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "A Pennsylvania state lawmaker reportedly received the results of his positive COVID-19 test during a meeting with Trump"
-    excerpt: "All participants at the meeting took COVID-19 tests, but the positive results were not announced until they were in the White House, a source said."
-    publishedDateTime: 2020-11-30T06:44:00Z
-    webUrl: "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5fc48f9f50e71a0011557e18?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542935392&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1DM"
+        width: 818
+        height: 545
         isCached: true
 
 secured: "YldGB4IAALlEC++vg9fj2978Zcwq/Bdq66dIfFChviTBOv1ju9+TMnNFg1adBzjMiOaMHjNBSM+Ew1rjzxrp+O0YfARsGLC5ffwZiuQ1kIJzL6VKmBSTExJx7nJ0+khpIIAvHRRdkqKoXYpcDzt3eE36kvVVDEuG5mBp4jqpg2m8PZ3ziReuF7FlibddSQxNlOGcIuSpWnE3Qo2M8FFHk7nw74WZJCNBqNLCAZmWinWBtPrGyaFSo3djrPbNE7m+6dS21m4MQwGhGR+rWi4qqLY39CreEH32+IKLeRqnAXLIzrp625Pot+/IhkMjpa6XYHDWW/0b3IRAwrnd5gR2STlBCqWVMcYqo874AK8F3rM=;6eY0Lwb+xhCjnPqzYaI1NA=="

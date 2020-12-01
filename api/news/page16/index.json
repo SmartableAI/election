@@ -2,62 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2020-11-06-trump-touts-gains-with-minorities-and-women-were-the-party-of-inclusion.md",
-      "title": "Trump touts gains with minorities and women: 'We're the party of inclusion'",
-      "excerpt": "President Trump touting his party’s gains with women and minorities, declared the Republican Party the “party of inclusion” in a news conference Thursday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xvg69Ti-dgI/trump-party-of-inclusion",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xvg69Ti-dgI/trump-party-of-inclusion",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f2655c9-ae5d-4607-94a3-33e61a24b66c/648337d5-952b-4c9a-8f58-2469df653a0f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-party-of-inclusion.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-party-of-inclusion.amp",
-      "publishedDateTime": "2020-11-05T16:56:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-06-donald-trumps-aides-are-increasingly-gloomy-and-mad-at-other-gop-officials.md",
       "title": "Donald Trump's aides are increasingly gloomy – and mad at other GOP officials",
       "excerpt": "Some aides to President Donald Trump said they're not giving up on the election, but they're also bracing for the worst. They're also upset with other Republicans who have not spoken out against the ongoing election count as forcefully as Trump has.",
@@ -1331,6 +1275,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-media-polls-election-black-support-vote-candace-owens-brian-kilmeade.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-media-polls-election-black-support-vote-candace-owens-brian-kilmeade.amp",
       "publishedDateTime": "2020-11-04T05:56:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-aoc-sounds-alarm-over-latino-turnout-for-biden.md",
+      "title": "AOC sounds alarm over Latino turnout for Biden",
+      "excerpt": "Democratic U.S. Rep. Alexandria Ocasio-Cortez vented her frustrations over lackluster Democratic turnout among Latinos Tuesday evening.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-o4OvNsoSDY/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-o4OvNsoSDY/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 515,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp",
+      "publishedDateTime": "2020-11-04T00:47:21-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

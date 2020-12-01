@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z36O"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z36O"
 type: article
 quality: 140
-heat: 220
+heat: 180
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's closest business ally just admitted that the president lost the election"
-    excerpt: "The result of the 2020 election is \"very certain,\" and Joe Biden is the president-elect, Blackstone CEO and Trump ally Stephen Schwarzman told Axios."
-    publishedDateTime: 2020-11-23T14:20:00Z
-    webUrl: "https://www.businessinsider.com/biden-won-admits-trump-ally-and-blackstone-ceo-stephen-schwarzmann-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-won-admits-trump-ally-and-blackstone-ceo-stephen-schwarzmann-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-won-admits-trump-ally-and-blackstone-ceo-stephen-schwarzmann-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 135
-    images:
-      - url: "https://i.insider.com/5fbbba6050e71a0011556c19?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump administration denies permit for controversial Alaska mine"
     excerpt: "The Trump administration has denied a permit to build a gold and copper mine near the headwaters of the world’s largest sockeye salmon fishery in southwest Alaska."
     publishedDateTime: 2020-11-26T02:19:00Z
@@ -78,20 +62,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BWJA7BU6OII6VPQGV5KRJ3QDQU.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Trump says he'll go if he loses Electoral College"
-    excerpt: "President Donald Trump said that he will leave the White House if the Electoral College formalizes President-Elect Joe Biden's victory - even as he insisted such a decision would be a “mistake.” (Nov."
-    publishedDateTime: 2020-11-27T07:09:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/27/trump-says-hell-go-if-he-loses-electoral-college/6435291002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2a720054-e759-4b07-b5a2-733b3ebe319a_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "SHtiDYZXxgvdkK3gsctijAshz0agFQ7rnXHHRSCpc88g+0MtTpm9lWj1n/y9gJ4QiahncM+3E0sAsOAEF8BhDL5O7Sh+CxxWUsYfbB7OJGB5hoRQu4HqO8h4F0YrqSai1AGeYqwndVDFUQ/ZB28bJSOl5irmjLsc7sM+RUtMtM6FixMm2M981DU9TwlL+9xK3vDBDAYjguZ4nkzDYy1FHks58wKHiu19RjN25cjkXP+WZeD6DOWOLpnVrXKe0dK5KbTWdUxIm0b5A9Ru6kxVKnMg97ZCOE9r3O4x5056Mp/97NSeyTkWhjuH3O3IW9HuNZ4i7QoOkLTpRoD7el33we1VGuzbk9U1fjqanyYM8TE=;nxtlTHnKnDfzmcUmMlvq0Q=="

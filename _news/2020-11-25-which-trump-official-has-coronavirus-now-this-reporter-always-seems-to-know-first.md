@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump has been distorting the military's role in work on a coronavirus vaccine from the very start"
+    excerpt: "The military has contributed mightily to the project, but it won't produce, store, distribute, or administer the vaccines."
+    publishedDateTime: 2020-11-30T23:00:00Z
+    webUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fc576ac50e71a0011558155?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "7se8LPfkrsX792zEfCOwbKTvykiF8EvIXOGM7oUXqaVsHqzA1htxmLk/eoigCgv+NtOSgo41adNIDspJY3DBi9655yhSSQJ6JuaItSjGbmEruzcPVXgD2aDNm0jZPp0beN601s5gqGLa3TTTYqCMjpQilVcUG+NtnpfvnkQ1cIPW5y6p3+giMTGOdZDZyaWFOke2XqImGhOFE2rkxKTozDnDUtfoxbP47R+WnRgsk58s0nHGvLXkJcOb4RcOPj6XGlhLwYL+0Ru2eoNOq/VLAC7K0+KlVWrF9hDCFvgiqVOa2DQBLgMzKAacJuJn0+LqVqExIs3ZvKB6WQMyM44JnCjIBcE+0wACjdnp/eBINSyT1lHZULQXKdNIQql4hWFNnWqCvMLTow8pLl+qywx9dCkUV73lOQZkxbE8ZE83mw/OOKjT6UDsN+rKYyM39p/cMl/sUq2bEspZlqhmWkwFHMwEkN6B8wGMYvpYdypvf045MKoQkp6hUXI9S34AOVDNqcHSrTb47oSm+imJa7hI1Q==;Szzpjm3DYow6krH/YslYdw=="
 ---

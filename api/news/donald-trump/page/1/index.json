@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-01-post-election-gallup-poll-biden-favorability-rises-to-55-while-trumps-dips-to-42.md",
+      "title": "Post-election Gallup poll: Biden favorability rises to 55% while Trump's dips to 42%",
+      "excerpt": "WASHINGTON – According to a new poll from Gallup, President-elect Joe Biden’s favorability rating is up following the conclusion of the election while President Donald Trumps",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/30/poll-biden-favorability-rises-while-trumps-falls-post-election/6471704002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/30/poll-biden-favorability-rises-while-trumps-falls-post-election/6471704002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1088,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/01/USAT/30672691-3610-4f9a-8828-e1c1beaf8e2c-AP_Biden-LGBTQ_Rights.jpg?auto=webp&crop=5999,3375,x0,y600&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6471704002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6471704002",
+      "publishedDateTime": "2020-11-30T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-fact-check-graphic-comparing-trump-and-obama-is-from-2018-and-contains-an-approval-rating-error.md",
       "title": "Fact check: Graphic comparing Trump and Obama is from 2018 and contains an approval rating error",
       "excerpt": "In November 2020, a 2018 graphic comparing President Donald Trump and President Barack Obama “by the numbers” resurfaced on social media. The chart presents figures showing the Trump administration had outperformed the Obama administration in terms of presidential",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-factcheck-obama-trump-by-the-numbers/fact-check-graphic-comparing-trump-and-obama-is-from-2018-and-contains-an-approval-rating-error-idUSKBN28A2CA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -171,7 +223,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -223,7 +275,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 294,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -247,58 +299,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-congress-is-briefly-reconvening-under-pressure-from-trump-and-biden-to-pass-a-covid-19-stimulus-bill-after-months-of-gridlock.md",
-      "title": "Congress is briefly reconvening, under pressure from Trump and Biden to pass a COVID-19 stimulus bill after months of gridlock",
-      "excerpt": "Congress has spent months arguging over the details of a follow-up stimulus package, to the immense frustration of many.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11",
-      "originalUrl": "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc4ce3550e71a0011557e44?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp",
-      "publishedDateTime": "2020-11-30T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -455,6 +455,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-a-pennsylvania-state-lawmaker-reportedly-received-the-results-of-his-positive-covid-19-test-during-a-meeting-with-trump.md",
+      "title": "A Pennsylvania state lawmaker reportedly received the results of his positive COVID-19 test during a meeting with Trump",
+      "excerpt": "All participants at the meeting took COVID-19 tests, but the positive results were not announced until they were in the White House, a source said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11",
+      "originalUrl": "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc48f9f50e71a0011557e18?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp",
+      "publishedDateTime": "2020-11-29T22:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1151,7 +1203,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/theyre-baaack-trump-and-allies-still-refuse-election-loss/2020/11/26/dbbfd81a-2fe6-11eb-9dd6-2d0179981719_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 860,
+      "heat": 780,
       "tags": null,
       "images": [
         {
@@ -1255,7 +1307,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-america-first-approach-meant-america-alone-says-joe-biden-video",
       "featuredContent": null,
       "highlight": null,
-      "heat": 347,
+      "heat": 387,
       "tags": null,
       "images": [
         {
@@ -1412,7 +1464,7 @@
       "originalUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 208,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -1511,58 +1563,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-even-trumps-fiercest-critics-say-he-may-have-gotten-some-world-affairs-right.md",
-      "title": "Even Trump's fiercest critics say he may have gotten some world affairs right",
-      "excerpt": "Some experts, ex-diplomats and even President Donald Trump's opponents concede his overseas initiatives have produced limited, qualified successes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/world/2020/11/24/even-trump-critics-say-he-may-have-gotten-some-foreign-policy-right/6353491002/",
-      "originalUrl": "https://www.usatoday.com/story/news/world/2020/11/24/even-trump-critics-say-he-may-have-gotten-some-foreign-policy-right/6353491002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/23/USAT/e35eb054-4f0c-4242-817e-388e7e50cf16-GTY_1222600011.jpg?auto=webp&crop=3615,2033,x0,y74&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6353491002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6353491002",
-      "publishedDateTime": "2020-11-24T00:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

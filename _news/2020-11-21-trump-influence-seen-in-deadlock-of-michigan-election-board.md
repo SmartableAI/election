@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-dr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
 type: article
 quality: 140
-heat: 960
+heat: 940
 published: true
 
 provider:
@@ -334,22 +334,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542367249&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO05R"
         width: 775
         height: 545
-        isCached: true
-  - title: "How Trump is destroying the presidential transition process"
-    excerpt: "Analysis: what does Joe Biden lose from the president’s refusal to acknowledge defeat? Crucial time needed to fill positions and prevent serious national security risks"
-    publishedDateTime: 2020-11-27T13:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/nov/27/donald-trump-destroying-presidential-transition-process-joe-biden"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/27/donald-trump-destroying-presidential-transition-process-joe-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/donald-trump-destroying-presidential-transition-process-joe-biden"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/32b8297ec32f902df24ecd4718ffb3f090ce14c7/0_175_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37023af91c0b87e9ef1c2426e8d01221"
-        width: 600
-        height: 360
         isCached: true
   - title: "Trump administration moves ahead on gutting bird protections"
     excerpt: "The Trump administration is moving forward on gutting a longstanding federal protection for roughly 1,000 species of birds in the United States"

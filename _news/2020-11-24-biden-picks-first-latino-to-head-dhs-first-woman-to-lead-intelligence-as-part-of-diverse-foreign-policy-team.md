@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden picks Alejandro Mayorkas, a son of Jewish Cuban refugees, to lead the Department of Homeland Security"
-    excerpt: "Mayorkas was second-in-command at DHS under President Barack Obama. He would be the first immigrant and first Hispanic American to lead the department."
-    publishedDateTime: 2020-11-23T22:01:00Z
-    webUrl: "https://www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html?outputType=amp"
+  - title: "The Latest: Biden, foreign leaders talk about pandemic"
+    excerpt: "President-elect Joe Biden spent Monday at home accepting congratulatory calls from foreign leaders, a day after being diagnosed with stress fractures in his foot"
+    publishedDateTime: 2020-11-30T13:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 107
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VV7ENMBNZQI6XFWCVLB7CYRBLU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "After Biden win, Rehoboth Beach celebrates local boy who made good: ‘He’s our Joe’"
+    excerpt: "Bikinis and beach umbrellas are marked to sell. The only hint of summer is the tangy scent of vinegar-doused french fries wafting from the one Thrasher’s stand that has remained open. Late fall and winter is when Rehoboth Beach typically gets to crawl back into its shell,"
+    publishedDateTime: 2020-11-27T18:06:00Z
+    webUrl: "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QASGXPBOUQI6XHOWFUAXTGAXDE.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 961
+        isCached: true
+  - title: "Joe Biden’s Plans To Carry Out Every Proposal On The LGBTQ Community’s List"
+    excerpt: "President-elect Joe Biden just released his plans for the LGBTQ community and he wants to grant all of it's wishes."
+    publishedDateTime: 2020-11-28T21:13:00Z
+    webUrl: "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702"
+    ampWebUrl: "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/24/soundbiteus-president-elect-joe-biden-introduces-a-seasoned.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "2WKddSWHBcbxDemtgnkOlXVWbd+MincVulY0/A8eap12jKl5yLzykRAwIeQd9FKjN/oVSIh4IvYOqTHM2ADvwhTam7eb0gYK8RZGaFFzlel3jvvrPTCeHDQPQaNRgzMi2IdlLDr5L7c7YjH+4QGm/VTkSJjUhhpvM6d+DmnOLj4snIskd9jMZpL8BlV/Nr6Q9TUD0cG2lIfiQxr59l8SFovfnymhbjofRN9Mdpgvv7eYk9Jz/FQMjSqJr/0XzWyEoP/k4yT/1AQGpT3f3LzgxN5DFYNcK1ijonNqa+QCjTVp2mnMxUNDYeG13uoB6PHlUz6qZlD9aEmfAPessB/vTnEWqY1rtWdaji3DNWZtOQc=;7nBHIgpGuUkZFoPEYmpnjA=="

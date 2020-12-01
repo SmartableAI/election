@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/donald-trump-michael-fly
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/donald-trump-michael-flynn-pardon/index.html"
 type: article
 quality: 174
-heat: 174
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "READ: Trump's pardon of Michael Flynn"
+    excerpt: "The Justice Department on Monday released a copy of President Donald Trump's pardon last week of former national security adviser Michael Flynn.\n    \n"
+    publishedDateTime: 2020-11-30T23:07:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CWMM6zvlHNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/flynn-pardon-read-file/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/flynn-pardon-read-file/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130175525-trump-flynn-pardon-signature-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "XqS4YYTCJGmdgMpdBGoH9q+ss7lVG83dLM3mpraCKAIPNF56gn2M385krfJ27L1VDYWYLcJOAQOyYi8kzE4ymbqY9m6jJo7Gdir4UQomMTGvmxilNs0IsRXieC8i/mm92iwdAcEcUhstcuYYC3UoEtm7ObRzNZyhX5xdSQvT3yJrg7R4g4+a5DlWUb+q6ehvgaDR6j8mmPVfixX7z+2/9puQWFRGTKh9nZ8l0bH1GmWoZdFOQAH9RcQflXcQ4zCQ/tmNCMk08uyaSfZPAl94CJHJR+o3kGa4NulF5aE0nvtnHEjZJJmcRJz39K9fLBP+9s5HudIGYhyUxxdHhAOH2JDX9kirZ0B9dMbMfuhpM00=;eGPBiP/iYPckdAGZ+f/HGw=="
 ---

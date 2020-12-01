@@ -47,6 +47,22 @@ related:
         width: 825
         height: 545
         isCached: true
+  - title: "The Latest: Biden names 2 aides to legislative affairs team"
+    excerpt: "WASHINGTON — The Latest on President-elect Joe Biden (all times local): 11:35 a.m. Support our journalism. Subscribe today. President-elect Joe Biden has named two longtime Capitol Hill aides to his legislative affairs team."
+    publishedDateTime: 2020-11-23T16:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-names-2-aides-to-legislative-affairs-team/2020/11/23/a1fe7d2c-2daa-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-names-2-aides-to-legislative-affairs-team/2020/11/23/a1fe7d2c-2daa-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-names-2-aides-to-legislative-affairs-team/2020/11/23/a1fe7d2c-2daa-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden says UK border with Ireland must be open"
     excerpt: "U.S. President-elect Joe Biden said on Tuesday he did not want to see a guarded border between Ireland and the United Kingdom, adding that he had previously discussed the matter with the British and Irish prime ministers and other European leaders."
     publishedDateTime: 2020-11-25T05:38:00Z
@@ -63,21 +79,21 @@ related:
         width: 740
         height: 545
         isCached: true
-  - title: "Laura Ingraham says that Biden will be president: ‘This constitutes living in reality’"
-    excerpt: "On Thursday night, though, after President Trump finally submitted to an official government transition to Biden, Laura Ingraham sounded a different note. While arguing that there are still “serious questions” about the election and noting that she backs Trump’s continued legal challenges,"
-    publishedDateTime: 2020-11-24T07:26:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/24/ingraham-biden-fox-victory-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/24/ingraham-biden-fox-victory-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/24/ingraham-biden-fox-victory-trump/?outputType=amp"
+  - title: "Biden taps Blinken as secretary of state as foreign policy team takes shape"
+    excerpt: "President-elect Joe Biden on Monday named the key members of his foreign policy team, tapping Antony Blinken as the next U.S. secretary of state, Jake Sullivan as national security adviser and Linda Thomas-Greenfield as the U."
+    publishedDateTime: 2020-11-23T23:40:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN2830ET"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2830EI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2830EI"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OREKJGAGEBFKJHV5L3A5RZLVGE.png&w=1440"
-        width: 1440
-        height: 813
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542227095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN02V"
+        width: 824
+        height: 545
         isCached: true
   - title: "Biden COVID-19 task force says transition delay could be compromising U.S. virus response"
     excerpt: "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,"
@@ -95,6 +111,39 @@ related:
         width: 781
         height: 545
         isCached: true
+  - title: "AP source: Biden taps ex-Fed chair Yellen to lead treasury"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has chosen former Federal Reserve Chair Janet Yellen to serve as treasury secretary, a pivotal role in which she would help shape and direct his economic policies,"
+    publishedDateTime: 2020-11-23T22:15:00Z
+    webUrl: "https://www.businessinsider.com/ap-source-biden-taps-ex-fed-chair-yellen-to-lead-treasury-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/ap-source-biden-taps-ex-fed-chair-yellen-to-lead-treasury-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-source-biden-taps-ex-fed-chair-yellen-to-lead-treasury-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "The Latest: Biden says his picks show US back on world stage"
+    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+    publishedDateTime: 2020-11-24T19:42:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-biden-says-his-picks-show-us-back-on-world-stage-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-says-his-picks-show-us-back-on-world-stage-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-says-his-picks-show-us-back-on-world-stage-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
+    excerpt: "Joanna Walters in New York (now) and Martin Belam (earlier) Joe Biden has just confirmed in person that Anthony Blinken will become his secretary of state. Blinken is there with other new picks. They are standing some distance from each other and are ..."
+    publishedDateTime: 2020-11-24T18:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd4b358f08850ef86c56cd"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 102
 
 secured: "QZnn2zAqhaLcE16c/vxLJjJ53JoWG5Yks8xAU7AfM4dKM+1Tb6Qr5J50Yex0UGKV3+QdC76NUq2NK/m8OE/EQsHEShM8jYHJ4/zxLtLMe62WfSNNxFv7zhpaEo/aDpTN8boKZLOnEwQMFIaXZ1vSXVwfkd42yxI+3rjMJxJcvzEG/NS/Upg7iFYeDMa2+UsqKEl2r2k766EdRxEPl9JaFAHvQqHvbXvc9+lk+xLkvyvttfhwZIAAWPM49PC5crqJBkjY8VyOyqmEwfXDdsLcKa4mlQAaLy7E1gf4WVQRLxu4VQt+DykzVLYRjVnnnlJds0aKHxm/EzmabUYPvgq3mz+Xfot9NKUcJmo67btIsdGS0a7fKDMonM+XC7aAwu1VVPwe3cLC2X1uMhbvlVxqofaF0BM798sFCH4lK+MDERxiTaOcaXeyfOhXOm7dUfgkZEoSEN/m4ahRFjux1CdpL11nJoSuLCzf0RMaZuNh5fPU+EeWvFjWb4XHNP62yTFQDed3RhZ5wSCCJuOe16UdpQ==;Fk/Mp9phdA4TI2KFon0k0Q=="
 ---

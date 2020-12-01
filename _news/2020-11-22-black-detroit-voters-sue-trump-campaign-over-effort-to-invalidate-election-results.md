@@ -95,38 +95,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Drip by drip, U.S. Republicans slowly break from Trump election claims"
-    excerpt: "More prominent Republicans on Monday joined the call for President Donald Trump to end efforts to overturn his election defeat and allow President-elect Joe Biden to begin the formal transition to a new administration."
-    publishedDateTime: 2020-11-24T00:17:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2832O7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2832O7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2832O7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542193989&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM1CZ"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Where is Trump still trying to fight election results?"
-    excerpt: "President Trump is giving mixed signals on Twitter about whether he acknowledges he lost, saying he hasn’t conceded, but approving his government’s recognition of President-elect Joe Biden’s transition into the White House."
-    publishedDateTime: 2020-11-24T18:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/24/where-is-trump-still-trying-fight-election-results/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/24/where-is-trump-still-trying-fight-election-results/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/24/where-is-trump-still-trying-fight-election-results/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NC7L5BBN2AI6XHOWFUAXTGAXDE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Ousted Trump cybersecurity director debunks 2020 election rumors"
     excerpt: "Fired CISA director Chris Krebs told 60 Minutes that domestic disinformation around the 2020 election posed a greater risk than foreign."
     publishedDateTime: 2020-11-30T00:38:00Z
@@ -191,22 +159,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Lame-duck president pardons turkey; Trump breaks post-election isolation for tradition"
-    excerpt: "President Donald Trump emerged from self-imposed isolation on Tuesday to show that at least one thing in Washington would run according to tradition: the pardoning of a Thanksgiving turkey."
-    publishedDateTime: 2020-11-24T21:48:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-turkey/lame-duck-president-pardons-turkey-trump-breaks-post-election-isolation-for-tradition-idUSKBN28436H"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28436H"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28436H"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 132
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542335983&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1MS"
-        width: 806
-        height: 545
-        isCached: true
   - title: "With Senate on the line, Trump's claims of election fraud put Georgia Republicans in bind"
     excerpt: "President Donald Trump's baseless attacks on the U.S. election may be endangering Republican chances of keeping control of the Senate, as Republican candidates in twin January runoffs in Georgia try to drive voters to the polls while amplifying Trump's claim that the"
     publishedDateTime: 2020-11-24T23:52:00Z
@@ -221,22 +173,6 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542322421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1HP"
         width: 817
-        height: 545
-        isCached: true
-  - title: "Factbox: Trump suffers major defeat in legal battle to overturn the election, but presses on"
-    excerpt: "U.S. President Donald Trump's campaign and his allies have suffered a string of judicial defeats in their bid to prevent states from certifying President-Elect Joe Biden as the winner of the Nov. 3 presidential election."
-    publishedDateTime: 2020-11-23T11:26:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-legal-challenges-factbox-idUSKBN28317I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28317I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28317I"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 129
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542136694&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM0MG"
-        width: 808
         height: 545
         isCached: true
   - title: "Options dwindling, Trump faces likely setback in Georgia recount"

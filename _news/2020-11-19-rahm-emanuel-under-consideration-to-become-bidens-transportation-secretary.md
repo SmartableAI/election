@@ -303,6 +303,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Wisconsin finalizes Biden's victory after partial recount"
+    excerpt: "The Wisconsin Elections Commission finalized the state's presidential results on Monday, affirming President-elect Joe Biden's victory after a recount in Wisconsin's two most populous counties.\n    \n"
+    publishedDateTime: 2020-11-30T23:30:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-YSFFn9Hhms/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/joe-biden-wisconsin-victory-finalized/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/joe-biden-wisconsin-victory-finalized/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125153328-02-biden-thanksgiving-remarks-1125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden urges Americans to recommit to fighting pandemic in Thanksgiving address"
     excerpt: "President-elect Joe Biden on Wednesday urged Americans to recommit to fighting the deadly coronavirus pandemic in a Thanksgiving address ahead of the holiday.\n    \n"
     publishedDateTime: 2020-11-25T21:38:04Z

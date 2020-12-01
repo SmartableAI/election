@@ -31,76 +31,12 @@ images:
     isCached: true
 
 related:
-  - title: "Election 2020 Today: Biden chooses advisers, breaks foot"
-    excerpt: "Here’s what’s happening Monday in Election 2020 and President-elect Joe Biden’s transition. BIDEN’S ECONOMIC PICKS: President-elect Joe Biden is expected in the coming days to name several of his most senior economic advisers."
-    publishedDateTime: 2020-11-30T12:57:00Z
-    webUrl: "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Arizona certifies Biden’s narrow victory over Trump"
-    excerpt: "Arizona officials certified the state’s election results on Monday, formalizing Democrat Joe Biden’s narrow victory over Donald Trump even as the Republican president’s attorneys continued to make baseless claims of fraud about the state’s vote count."
-    publishedDateTime: 2020-11-30T21:12:00Z
-    webUrl: "https://www.washingtonpost.com/national/arizona-certifies-bidens-narrow-victory-over-trump/2020/11/30/c8777340-3350-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/arizona-certifies-bidens-narrow-victory-over-trump/2020/11/30/c8777340-3350-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/arizona-certifies-bidens-narrow-victory-over-trump/2020/11/30/c8777340-3350-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Election 2020 Today: Biden chooses advisers, breaks foot"
-    excerpt: "Here’s what’s happening Monday in Election 2020 and President-elect Joe Biden 's transition. BIDEN'S ECONOMIC PICKS: President-elect Joe Biden is expected in the coming days to name several of his most senior economic advisers."
-    publishedDateTime: 2020-11-30T20:56:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/election-2020-today-biden-chooses-advisers-breaks-foot-74458906"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/election-2020-today-biden-chooses-advisers-breaks-foot-74458906"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/election-2020-today-biden-chooses-advisers-breaks-foot-74458906"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_2049e707cb124f88b7ae0ef8dd0602ae_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump-Biden transition live updates: Biden rolls out economic team leaders"
-    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 51 days. Georgia Secretary of State Brad Raffensperger spoke before reporters Monday morning at the state capitol building in Atlanta and announced that his office has opened investigations into four third-party groups that he claimed are \"working to register people in other states to vote here in Georgia."
-    publishedDateTime: 2020-11-30T17:42:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 138
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-01-ap-iwb-201125_1606334957574_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The Latest: Biden names 2 aides to legislative affairs team"
-    excerpt: "WASHINGTON — The Latest on President-elect Joe Biden (all times local): 11:35 a.m. Support our journalism. Subscribe today. President-elect Joe Biden has named two longtime Capitol Hill aides to his legislative affairs team."
-    publishedDateTime: 2020-11-23T16:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-names-2-aides-to-legislative-affairs-team/2020/11/23/a1fe7d2c-2daa-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-names-2-aides-to-legislative-affairs-team/2020/11/23/a1fe7d2c-2daa-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-names-2-aides-to-legislative-affairs-team/2020/11/23/a1fe7d2c-2daa-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+  - title: "Milwaukee County vote recount gives Biden small boost"
+    excerpt: "Milwaukee County completed its recount of presidential ballots, finding only small changes in vote totals for one of the two Wisconsin counties recounting ballots"
+    publishedDateTime: 2020-11-28T00:37:00Z
+    webUrl: "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -110,150 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "VIRUS TODAY: Americans travel as Biden addresses nation"
-    excerpt: "Here’s what’s happening Wednesday with the coronavirus pandemic in the U.S.: — Millions of Americans are traveling for the Thanksgiving holiday despite warnings from health officials that family gatherings could make a bad situation worse."
-    publishedDateTime: 2020-11-25T21:03:00Z
-    webUrl: "https://www.washingtonpost.com/health/virus-today-americans-travel-as-biden-addresses-nation/2020/11/25/9bec9fdc-2f61-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/virus-today-americans-travel-as-biden-addresses-nation/2020/11/25/9bec9fdc-2f61-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/virus-today-americans-travel-as-biden-addresses-nation/2020/11/25/9bec9fdc-2f61-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "FACTBOX-The Biden Cabinet: President-elect begins to build a team"
-    excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the nation's diversity."
-    publishedDateTime: 2020-11-28T15:28:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-idINL1N2I92JE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINL1N2I92JE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL1N2I92JE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542749964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR0C4"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Factbox: The Biden Cabinet - President-elect begins to build a team"
-    excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the nation's diversity."
-    publishedDateTime: 2020-11-28T20:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN2880IZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2880IZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2880IZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542749964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR0C4"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Jill Biden, Joe’s chief protector, stepping up as first lady"
-    excerpt: "No,” Jill Biden, then clad in a bikini, wrote in Sharpie across her stomach and then marched through a strategy session in which advisers were trying to talk her husband into challenging Republican President George W."
-    publishedDateTime: 2020-11-29T15:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/jill-biden-joes-chief-protector-stepping-up-as-first-lady/2020/11/29/aaa394c8-3253-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/jill-biden-joes-chief-protector-stepping-up-as-first-lady/2020/11/29/aaa394c8-3253-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-joes-chief-protector-stepping-up-as-first-lady/2020/11/29/aaa394c8-3253-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden chooses an all-female senior White House press team"
-    excerpt: "President-elect Joe Biden will have an all-female communications team at his White House, led by campaign communications director Kate Bedingfield."
-    publishedDateTime: 2020-11-30T06:11:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-11-29/biden-chooses-an-all-female-senior-white-house-press-team"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-29/biden-chooses-an-all-female-senior-white-house-press-team?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-29/biden-chooses-an-all-female-senior-white-house-press-team?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/d0905f2/2147483647/strip/true/crop/4902x3202+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F44%2Fe0%2Fb14d08af4c349b87fafc63e086ec%2Felection-2020-wisconsin-recount-84374.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Biden hires all-female senior communications team"
-    excerpt: "Biden’s press team will be led by Kate Bedingfield, a veteran Biden aide who served as his campaign communications director and will hold the same title in his White House. “Communicating directly and truthfully to the American people is one of the most important duties of a President,"
-    publishedDateTime: 2020-11-29T21:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TGSF3ORSRII6XDJYNLVBVWZYHE.jpg&w=1440"
-        width: 1440
-        height: 956
-        isCached: true
-  - title: "Biden names all-woman communications team"
-    excerpt: "President-elect Joe Biden on Sunday tapped key campaign staff and advisors to lead his all-woman communications team, naming former Obama State Department spokeswoman Jen Psaki as his White House press secretary and campaign spokeswoman Kate Bedingfield as"
-    publishedDateTime: 2020-11-30T08:24:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-communications-idUSKBN2890YK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890YK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890YK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542835857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0N3"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden picks top campaign aides in key communications roles"
-    excerpt: "President-elect Joe Biden on Sunday tapped key campaign staff and advisors to lead his communications team, naming former Obama State Department spokeswoman Jen Psaki as his White House press secretary and campaign spokeswoman Kate Bedingfield as communications director."
-    publishedDateTime: 2020-11-29T22:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-communications/biden-picks-top-campaign-aides-in-key-communications-roles-idUSKBN2890YK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890YK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890YK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542835857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0N3"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden sprains ankle while playing with his dog Major, office says"
-    excerpt: "The president-elect was walking his dog Major on Saturday when he twisted his ankle, the transition team said."
-    publishedDateTime: 2020-11-29T23:18:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OHHPGW4C3JBXJOKY6F27T4GEME.jpg&w=1440"
-        width: 960
-        height: 540
         isCached: true
   - title: "Doctor says Biden fractured foot while playing with his dog"
     excerpt: "WILMINGTON, Del. — President-elect Joe Biden fractured his foot while playing with one of his dogs, but doctors found “no obvious fracture” while examining him Sunday, according to his doctor. Biden suffered the injury on Saturday and visited an ..."
@@ -271,37 +63,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "President-elect Joe Biden hires all-female communications staff"
-    excerpt: "Harris administration appointed the country's first all-female communications team to relay messages from the White House."
-    publishedDateTime: 2020-11-30T00:29:00Z
-    webUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
+  - title: "Milwaukee County vote recount gives Biden small boost"
+    excerpt: "Milwaukee County completed its recount of presidential ballots, finding only small changes in vote totals for one of the two Wisconsin counties recounting ballots"
+    publishedDateTime: 2020-11-30T03:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/milwaukee-county-vote-recount-biden-small-boost-74434679"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/milwaukee-county-vote-recount-biden-small-boost-74434679"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/milwaukee-county-vote-recount-biden-small-boost-74434679"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://i.insider.com/5fc4269350e71a0011557de4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Latest: Biden, foreign leaders talk about pandemic"
-    excerpt: "President-elect Joe Biden spent Monday at home accepting congratulatory calls from foreign leaders, a day after being diagnosed with stress fractures in his foot"
-    publishedDateTime: 2020-11-30T13:49:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Wisconsin counties finish recounts, Biden's lead reconfirmed"
     excerpt: "The recount of presidential ballots in Wisconsin’s two largest counties finished on Sunday, confirming that Democratic President-elect Joe Biden defeated President Donald Trump in the key swing state by more than 20,"
@@ -319,272 +95,65 @@ related:
         width: 1022
         height: 545
         isCached: true
-  - title: "Biden picks Cuban-American lawyer Mayorkas as U.S. homeland security chief"
-    excerpt: "President-elect Joe Biden will nominate Alejandro Mayorkas to become U.S. secretary of homeland security, Biden's transition team said on Monday, entrusting the Cuban immigrant to help reverse outgoing President Donald Trump's hard-line immigration policies."
-    publishedDateTime: 2020-11-24T06:55:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-homeland-idINKBN2832I5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2832I5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2832I5"
+  - title: "Wisconsin certifies Joe Biden as winner following recount"
+    excerpt: "Joe Biden’s victory in Wisconsin has been certified following a partial recount that added slightly to his 20,600-vote margin over President Trump."
+    publishedDateTime: 2020-12-01T00:18:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-30/wisconsin-certifies-joe-biden-as-winner-following-recount"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-30/wisconsin-certifies-joe-biden-as-winner-following-recount?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-30/wisconsin-certifies-joe-biden-as-winner-following-recount?_amp=true"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542228607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM19M"
-        width: 817
-        height: 545
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/4f37cdd/2147483647/strip/true/crop/4258x2781+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff9%2Fde%2F27e8a8844982a6aa5f1387360bc1%2Fap20334644546013.jpg"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Biden taps Blinken as secretary of state as foreign policy team takes shape"
-    excerpt: "President-elect Joe Biden on Monday named the key members of his foreign policy team, tapping Antony Blinken as the next U.S. secretary of state, Jake Sullivan as national security adviser and Linda Thomas-Greenfield as the U."
-    publishedDateTime: 2020-11-23T23:40:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN2830ET"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2830EI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2830EI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542227095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN02V"
-        width: 824
-        height: 545
-        isCached: true
-  - title: "State Department tells staff: transition to Biden administration has begun"
-    excerpt: "The U.S. State Department has informed staff that the transition process has begun and a team had been assigned inside the agency to support a handover to the incoming Biden administration, according to an internal email seen by Reuters on Wednesday."
-    publishedDateTime: 2020-11-26T00:10:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-biden-statedepartment/state-department-tells-staff-transition-to-biden-administration-has-begun-idUSKBN2852XS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852XS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852XS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542458526&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1KP"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "President-elect Joe Biden twists ankle after slipping while playing with dog"
-    excerpt: "President-elect Joe Biden twisted his ankle after slipping while playing with his dog, his office said on Sunday."
-    publishedDateTime: 2020-11-29T21:38:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-idUKKBN2890WS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2890WS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2890WS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542834160&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0MH"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Eye Opener: Trump, Biden address Americans on Thanksgiving"
-    excerpt: "President Trump answered questions from reporters for the first time since the election, and said it would be \"very hard\" for him to concede. Also, President-elect Joe Biden called on Americans to do their part and stay calm in his Thanksgiving address."
-    publishedDateTime: 2020-11-27T14:47:00Z
-    webUrl: "https://www.cbsnews.com/video/eye-opener-trump-biden-address-americans-on-thanksgiving/"
+  - title: "Joe and Jill Biden write op-ed celebrating smaller Thanksgiving amid pandemic"
+    excerpt: "President-elect Joe Biden and his wife, Jill, wrote an op-ed on Thursday celebrating Thanksgiving and sympathizing with families who remain separated over the holiday due to the coronavirus pandemic."
+    publishedDateTime: 2020-11-27T00:56:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-and-jill-biden-write-op-ed-celebrating-smaller-thanksgiving-amid-pandemic/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 120
+    quality: 122
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/27/f26f817a-a957-4309-9223-a1b0ca97fb11/thumbnail/1200x630/7a1dec56b908164811b865c24b3a47bb/cbsn-fusion-eye-opener-trump-biden-address-americans-on-thanksgiving-thumbnail-596697-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/09/ad794d08-da70-4784-af10-7a0a27efa50d/thumbnail/1200x630/0a490c83b38cebb34e0afc20cddf570f/gettyimages-1229520125.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden tries to spread calm, as some Democrats worry about his willingness to fight"
-    excerpt: "The president-elect has made good on his campaign vow to lower the temperature as he deals with Republicans and Democrats."
-    publishedDateTime: 2020-11-26T11:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-transition-conciliatory-tone/2020/11/25/aacd4ed6-29bf-11eb-8fa2-06e7cbb145c0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-transition-conciliatory-tone/2020/11/25/aacd4ed6-29bf-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-transition-conciliatory-tone/2020/11/25/aacd4ed6-29bf-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+  - title: "Wisconsin county recount boosts Biden's margin"
+    excerpt: "Top News Wisconsin county recount boosts Biden's margin. Posted . President Donald Trump's election campaign demanded recounts in two of Wisconsin's most populous and Democratic-l"
+    publishedDateTime: 2020-11-28T20:26:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD6HLTCV"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KEVH72BKXEI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://static.reuters.com/resources/r/?d=20201128&i=OVD6HLTCV&r=OVD6HLTCV&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Three major developments in President-elect Joe Biden's transition to the White House"
-    excerpt: "Since President-elect Joe Biden’s victory earlier this month, President Donald Trump has refused to concede and continues to make baseless claims of voter fraud –– pushing election lawsuit battles across the country,"
-    publishedDateTime: 2020-11-29T17:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/29/when-inauguration-joe-bidens-white-house-updates/6443749002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6443749002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6443749002"
+  - title: "Completed Wisconsin recount confirms Biden's win"
+    excerpt: "Wisconsin finished its two-county presidential results recount on Sunday, confirming Democrat Joe Biden's victory over President Donald Trump. The Dane and Milwaukee County totals found Biden adding 87 to his 20,"
+    publishedDateTime: 2020-11-30T07:58:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/30/completed-wisconsin-recount-confirms-bidens-win/6461555002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/62d96c6a-b6f3-4091-aacb-149110e7fa61-AP20324781057068.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AP source: Biden taps ex-Fed chair Yellen to lead treasury"
-    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has chosen former Federal Reserve Chair Janet Yellen to serve as treasury secretary, a pivotal role in which she would help shape and direct his economic policies,"
-    publishedDateTime: 2020-11-23T22:15:00Z
-    webUrl: "https://www.businessinsider.com/ap-source-biden-taps-ex-fed-chair-yellen-to-lead-treasury-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/ap-source-biden-taps-ex-fed-chair-yellen-to-lead-treasury-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-source-biden-taps-ex-fed-chair-yellen-to-lead-treasury-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "The Latest: Biden says his picks show US back on world stage"
-    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
-    publishedDateTime: 2020-11-24T19:42:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-biden-says-his-picks-show-us-back-on-world-stage-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-says-his-picks-show-us-back-on-world-stage-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-says-his-picks-show-us-back-on-world-stage-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Congress braces for Biden's national coronavirus strategy"
-    excerpt: "WASHINGTON (AP) — Congress is bracing for President-elect Joe Biden to move beyond the Trump administration’s state-by-state approach to the and build out a national strategy to fight the pandemic and distribute the eventual vaccine."
-    publishedDateTime: 2020-11-25T23:40:00Z
-    webUrl: "https://www.businessinsider.com/congress-braces-for-bidens-national-coronavirus-strategy-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/congress-braces-for-bidens-national-coronavirus-strategy-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-braces-for-bidens-national-coronavirus-strategy-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Explainer: What to expect from Biden's foreign policy"
-    excerpt: "What to expect from Biden's foreign policy. Posted [NFA] The following are some of the policy issues that President-elect Joe Biden's foreign policy team face"
-    publishedDateTime: 2020-11-26T15:10:00Z
-    webUrl: "https://www.reuters.com/video/watch/explainer-what-to-expect-from-bidens-for-id722389066?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20201126&i=OVD67MCPR&r=OVD67MCPR&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Biden injures foot while playing with his dog"
-    excerpt: "President-elect Joe Biden suffered hairline fractures in his foot while playing with his dog on Nov. 29. Biden will wear a walking boot for several weeks."
-    publishedDateTime: 2020-11-30T12:56:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/biden-injures-foot-while-playing-with-his-dog/2020/11/30/0482afcf-7ec3-4de1-b0c7-997f0069284e_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-30-2020/t_f5bb8ecea79743948f03ae468fdb512f_name_Screen_Shot_2020_11_30_at_7_39_06_AM_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
-  - title: "FACTBOX-The Biden Cabinet: President-elect begins to build a team"
-    excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the nation's diversity."
-    publishedDateTime: 2020-11-30T22:43:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG1ET"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IG1ET"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IG1ET"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "President-elect Biden names senior members of economic team"
-    excerpt: "President-elect Joe Biden will announce senior members of his economic team tomorrow, including his nominee for Treasury Secretary Janet Yellen. This comes as he's facing divisions from the progressive wing of the party over some of his potential picks."
-    publishedDateTime: 2020-11-30T18:52:00Z
-    webUrl: "https://www.cbsnews.com/video/president-elect-biden-economic-team-janet-yellen/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/30/5dabf651-0fae-4b55-a201-6ff9266b1fbc/thumbnail/1200x630/f152343bf9a3140c38fea89c2d25975a/cbsn-fusion-president-elect-biden-economic-team-janet-yellen-thumbnail-598419-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
-    excerpt: "Joanna Walters in New York (now) and Martin Belam (earlier) Joe Biden has just confirmed in person that Anthony Blinken will become his secretary of state. Blinken is there with other new picks. They are standing some distance from each other and are ..."
-    publishedDateTime: 2020-11-24T18:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd4b358f08850ef86c56cd"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 102
-  - title: "Joe Biden's Novel Approach to Climate Change Could Side-Step a Divided Congress"
-    excerpt: "As the country burned and flooded, Joe Biden leaned into climate change more than any other general-election presidential contender in U.S. history. Now, even as he faces the possibility of a divided Congress,"
-    publishedDateTime: 2020-11-28T23:01:00Z
-    webUrl: "https://time.com/5910008/joe-biden-climate-change-election/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 101
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/joe-biden-climate-03.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "President-elect Biden considering appointing members of the LGBTQ+ community to his cabinet"
-    excerpt: "President-elect Joe Biden is set to have one of the most diverse cabinets the nation has ever seen. Advocates and allies are hoping that diversity includes LGBTQ+ representation as well. LGBTQ Victory Institute Vice President Ruben Gonzalez discusses potential cabinet picks."
-    publishedDateTime: 2020-11-28T21:58:00Z
-    webUrl: "https://www.cbsnews.com/video/president-elect-biden-considering-appointing-members-of-the-lgbtq-community-to-his-cabinet/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 95
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/d688dce4-44fc-4ba3-90f6-3dead692d3ed/thumbnail/1200x630/2ec41d29d884f7b9634745ae99cfad73/cbsn-fusion-president-elect-biden-considering-appointing-members-of-the-lgbtq-community-to-his-cabinet-thumbnail-597544-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "President-elect Joe Biden gains over 100 votes after Milwaukee County recount"
-    excerpt: "Elect Joe Biden gained more than 100 more votes in Milwaukee County in a recount, adding to his lead. The Trump campaign submitted a recount petition and paid a $3 million fee to the Wisconsin Elections Commission for the partial recount of presidential election results ordered last week,"
-    publishedDateTime: 2020-11-28T19:36:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/7811606583294/2020/1/cf33271cf4070f966585c8d3e536d871/v1.5/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Joe Biden Considers Roger Ferguson to Lead National Economic Council, Gary Gensler for Deputy Treasury Secretary"
-    excerpt: "President-elect Joe Biden is considering TIAA CEO Roger Ferguson to be his National Economic Council director and former Commodity Futures Trading Commission chairman Gary Gensler as Deputy Treasury Secretary,"
-    publishedDateTime: 2020-11-25T22:32:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 54
-    images:
-      - url: "https://media.nbcnewyork.com/2020/11/106802622-1606341920317-roger.jpg?fit=990%2C660"
-        width: 990
-        height: 660
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f5b631a3-708f-48cf-887b-dbfad2735704_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "W01x9XGYrd0yuV35YsXTIkZgAYlA7VuMOEVfzOSGkyQ87RvGqvan5zfzNB0NbQ80RL+HMYKCZe6ZSKOGsvuZ5ralhaf2CCopjhcmokFxOCjDYKLR9cUUQyDX8ARlYq7PmAsPpdOS7HPeKBFKTCVvrOxtghoSOtfsK2BBeGJRWIB9zwO9J72rdYPKaoDtzaZAUHSbEaZcFgSF+lDgcYkQPF4dLhD5sGgXCdVUU8xQjfcaPNcv0qlepTkjuQeJ/BXkSH9fFIPd4bZWtUcGdqWWfRc3YdUZUhsdg3hHFCUgvL5voBrk9Mv5vcbrSfuipuFL3WytTEs0pv5P+b5NH438qkqj2PFi7xlrEXyzixAiN61bhpjQ60bYhtEGrNQe4N56lVHdyYTIpcUNuJh6MPo8ecl0oz5wi0dyuprhqUrbDPgBa9hvJNqsSviytWDaP76oAS6vOf9LmujawEBPWHIhX9gTmauyVkd9pGW6PdTHNg4NMcqbCQq2EG/v8C9PvNYWmvbNbl5M5LUUqfPqr17Ekw==;FeJIlmf3jCPXOA25dxxczg=="

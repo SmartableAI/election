@@ -47,22 +47,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "AP FACT CHECK: Trump clings to bevy of bogus election claims"
-    excerpt: "President Donald Trump clung to false notions Sunday that Joe Biden stole the presidential election, citing thousands of votes magically switched to the president-elect and poll watchers illegally barred on Election Day,"
-    publishedDateTime: 2020-11-30T01:34:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-clings-bevy-bogus-election-74450952"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-bevy-bogus-election-74450952"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-bevy-bogus-election-74450952"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c8bb9f93c441453bba9524f96f509a06_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump expresses doubt on whether Supreme Court will hear election cases"
     excerpt: "President Donald Trump said on Sunday that it might be difficult to get his election fraud allegations heard before the U.S. Supreme Court, expressing doubt about his legal strategy as his hopes of overturning the Nov."
     publishedDateTime: 2020-11-29T16:35:00Z
@@ -78,22 +62,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542815328&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0GP"
         width: 817
         height: 545
-        isCached: true
-  - title: "Debunking the Trump team’s latest arguments about fraud in the 2020 election"
-    excerpt: "The 2020 presidential contest ended four weeks ago Tuesday, but for President Trump and his allies the fight continues. The president, as you’re no doubt well aware, continues to insist that it was he and not President-elect Joe Biden,"
-    publishedDateTime: 2020-11-30T18:08:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/30/debunking-trump-teams-latest-arguments-about-fraud-2020-election/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/30/debunking-trump-teams-latest-arguments-about-fraud-2020-election/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/30/debunking-trump-teams-latest-arguments-about-fraud-2020-election/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 137
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CVGQRKRPI4I6XHOWFUAXTGAXDE.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Former head of U.S. election security calls Trump team fraud allegations 'farcical'"
     excerpt: "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\"."
@@ -287,22 +255,6 @@ related:
         width: 1440
         height: 972
         isCached: true
-  - title: "Trump may be coming to terms with loss he won’t acknowledge"
-    excerpt: "President Donald Trump still won’t bring himself to concede the election he decisively lost to President-elect Joe Biden"
-    publishedDateTime: 2020-11-27T16:48:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-may-be-coming-to-terms-with-loss-he-wont-acknowledge/2020/11/27/5f5d43f8-30d0-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-may-be-coming-to-terms-with-loss-he-wont-acknowledge/2020/11/27/5f5d43f8-30d0-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-may-be-coming-to-terms-with-loss-he-wont-acknowledge/2020/11/27/5f5d43f8-30d0-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "The Note: Deadlines and dead ends pile up losses for Trump"
     excerpt: "The weekend brought an end to Wisconsin's partial recount -- as funded by the Trump campaign -- with President-elect Joe Biden actually netting 87 additional votes, in results sch"
     publishedDateTime: 2020-11-30T11:20:00Z
@@ -366,20 +318,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Trump continues to deny election results"
-    excerpt: "Watch \"President Trump continues to deny election results; repeats baseless claims of election fraud\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-30T20:38:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201130194720-president-trump-continues-to-deny-election-results-repeats-baseless-claims-of-election-fraud/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/30/story_07907014_1606765864.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Justices skeptical of Trump bid to exclude all undocumented immigrants from census"
     excerpt: "President Donald Trump's sweeping order to exclude all undocumented immigrants from the 2020 Census faced skepticism Monday from a majority on the U.S. Supreme Court."
@@ -583,6 +521,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "8n7krjC1dTQMopJdg8mrVomafJTY4h+KzUyainilbvtLAFJpdg9nh0su0fxN7dc3pO7X9kkXmEDJdiP824YJU76O1RrjEWfW/ykK0vBq1lwNeaCrOWPMXM+lI07yzFSvWkJp2FJDFufYVu6mdfA3SzUpVPfsKpCc/7Z7JnPKw/KBIgj8ctiVSSsED+KBcMSGXm5157BEL2isZrWrrWj4/CoVVtAAnUQCV6c3w1j+TKDOCGUnkKTjVJZXR99AWZUO2eAC5p/43AK2wx2b0Ft2bVifGwgsInmDnhqM0J9c1WiI3yV6NUGIDZ33zbi6iEOzXETkjdUQVEGQ0Nknt9nlGQrgSrrd+agjIAiEm8Z5t/I=;FgRx7j59fTE+O3ToVXMptg=="
+secured: "XGmIb1HOEEIcM5B8iQ0X+oQYYjy5m4zW2zvTTNbKdHzVBdp6Z1D5z7Hnsw1iClgHmWyCCDS4gGxIAv7hB/DrlNLPyxYQkzJcaykrf9P3rByazuP/6wg8KYcqkDiwkoqTqoFP5iX+RnNf/ZXSD5oacOsuHsFvpk/lrL67DnZz4vX/2yBSmk3eu3DXS3lUBjeD8ImjkqF6kHFjZ7WLMveeAZhb7/mwCtFTZscO9nSd0LRBQpmV/KME3LcmgAxw0YVA9Ex95/ksaxhj8kwolzuA5q0IGbPcCt3ZPBcvu4HFbwqmY/vq8sizV+lhcxJpzCVmYclPkunsdVO4QWdQl3rBzQA3IDmNQpjaGqNYDewIPVdxJzv3JlW3vq6PE4ZXIeoNr3Ro/Up36ByXCPkYALXNJOMVfQWqSz+DdbrRjA/TzK74uAnbHmdSiFmKOhabYGGU5BN5NYHG5+nEHUPIM9iCLRSgS7wGTxl1li37OoS988JsP68/RyWNVPqjfPBQZiYZclrE/oD3SPiFDxSmpzotAg==;iH907RAtFYeICsUUKB/qXg=="
 ---
 

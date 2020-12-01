@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
 type: article
 quality: 121
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump has been distorting the military's role in work on a coronavirus vaccine from the very start"
+    excerpt: "The military has contributed mightily to the project, but it won't produce, store, distribute, or administer the vaccines."
+    publishedDateTime: 2020-11-30T23:00:00Z
+    webUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fc576ac50e71a0011558155?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "OT5ltVePc4wF1zibRWXsXgL/SMWifeaypqmkP2GlV1yW3KD+I9vrvOg6UAD4if3BVcYaRe5lwh7phPfwaWG1ce4y9eWSx9PMEFfl4GtpM9pNCPoY58Bj9QcmKOTrIgaEupuVukH2PlFHgVCps8/1sV3iR2JIsLLT3pBw3Ow+z5ktDAhb3E2YN+C6QaZzDm6arjIJ3CWTkw/RsiEomqRpZVm2SEoLIVGcpY428yILDuDDlXaDebfeOVXGZB9iga8wegg4ZVzP1RkmqQeJkcptkK/YHSt619VX1xWWiWR475TnkAQZO6Y6YWsPaReFsN6vRqPp8rsyDNPgvP+w+5FAbc76Aua3KjXymKlBGVcn3PXO77pgOXRyFuJJ1g3XPO6d1KFPVoAXNlNcewrnnYs4xUmwC9cQOM3417X2ex92zdBcOJN83DcDiihdjI3r9NGaRTRccysGj1L3Grp8xeUCHFH9k44r58sSyAfdHZK98D0pBLI1pCTpjt/sJCKFavB/qW9b9GGMPh6F4I4ROkJhLA==;KdFuzdwqLcLG5BVklr3IYg=="

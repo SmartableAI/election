@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Justice Department releases Trump's pardon of Flynn and asks court for dismissal"
+    excerpt: "The Justice Department on Monday released a copy of President Donald Trump's pardon of former national security adviser Michael Flynn and formally asked a federal court to dismiss the case against him.\n    \n"
+    publishedDateTime: 2020-11-30T23:28:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rc1liRHkvaI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/michael-flynn-pardon-filing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/michael-flynn-pardon-filing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124230912-03-michael-flynn-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court hears arguments in Trump plan to cut undocumented immigrants from Census"
     excerpt: "The Supreme Court on Monday will return and take up another of President Donald Trump's immigration-related policies as it considers the attempt to exclude undocumented immigrants from being counted in the Census totals when seats in Congress are divvied up between the states next year.\n    \n"
     publishedDateTime: 2020-11-30T12:03:56Z

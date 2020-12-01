@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6462445002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6462445002"
 type: article
 quality: 134
-heat: 294
+heat: 254
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wisconsin recount confirms Biden’s win over Trump, cementing the president’s failure to change the election results"
-    excerpt: "The state’s two largest counties spent more than a week recounting ballots, but the final tally barely changed."
-    publishedDateTime: 2020-11-29T16:47:00Z
-    webUrl: "https://www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 133
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YNFQS4RSKEI6XNM4VW3RKPIQYI.jpg&w=1440"
-        width: 1440
-        height: 1044
-        isCached: true
   - title: "Arizona and Wisconsin certify Joe Biden's win as Trump continues to challenge results – live"
     excerpt: "State officials effectively put to rest any doubt that Biden won as Trump campaign made its fifth request for Georgia officials to audit signatures"
     publishedDateTime: 2020-11-30T22:21:00Z
@@ -122,22 +106,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/ffd79519-3119-4182-b2c8-3743924ea336-MJS_recount_4_hoffman.jpg_RECOUNT.jpg?auto=webp&crop=4516,2541,x0,y210&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden gains 87 votes in Trump's $3 million Wisconsin recount as Dane County wraps up review. President plans lawsuit."
-    excerpt: "Dane County wrapped up its recount Sunday, affirming Democrat Joe Biden’s victory in Wisconsin. President Donald Trump is preparing a lawsuit."
-    publishedDateTime: 2020-11-29T21:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/29/dane-county-recount-show-biden-won-wisconsin-trump-prepares-lawsuit/6455880002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6455880002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6455880002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/ffd79519-3119-4182-b2c8-3743924ea336-MJS_recount_4_hoffman.jpg_RECOUNT.jpg?auto=webp&crop=4516,2541,x0,y210&format=pjpg&width=1200"
         width: 1200

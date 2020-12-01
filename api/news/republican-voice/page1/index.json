@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-30-biden-inaugural-committee-accepting-donations-from-corporate-entities.md",
+      "title": "Biden inaugural committee accepting donations from 'corporate entities'",
+      "excerpt": "The committee will not accept contributions from lobbyists, political action committees, fossil fuel companies or their executives.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3s-hKuko31g/biden-inaugural-committee-accepting-donations-from-corporate-entities",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3s-hKuko31g/biden-inaugural-committee-accepting-donations-from-corporate-entities",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54d15292-fc7e-4ce1-bd16-2a480887a89b/fa468610-f38b-44b4-b6b3-22a37e1f168c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-inaugural-committee-accepting-donations-from-corporate-entities.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inaugural-committee-accepting-donations-from-corporate-entities.amp",
+      "publishedDateTime": "2020-11-30T14:58:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-biden-cabinet-pick-hyped-dossier-promoted-conspiracy-about-russian-hackers-changing-votes.md",
       "title": "Biden Cabinet pick hyped dossier, promoted conspiracy about Russian hackers changing votes",
       "excerpt": "Neera Tandem, one of President-elect Joe Biden’s Cabinet picks, has vigorously upheld the results of the November Election, yet past tweets show her promoting the anti-Trump Steele Dossier as well as conspiracies about Russian hackers influencing the outcome of the 2016 presidential election.",
@@ -14,7 +70,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1127,7 +1183,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1482,62 +1538,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat.amp",
       "publishedDateTime": "2020-11-24T12:09:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-josh-hawley-criticizes-biden-cabinet-picks-as-corporatists-war-enthusiasts-and-big-tech-sellouts.md",
-      "title": "Josh Hawley criticizes Biden Cabinet picks as 'corporatists,' 'war enthusiasts' and Big Tech 'sellouts'",
-      "excerpt": "Sen. Josh Hawley on Tuesday criticized President-elect Joe Biden's cabinet picks.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/36KXPicr0aE/hawley-biden-cabinet-picks",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/36KXPicr0aE/hawley-biden-cabinet-picks",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c99b2eab-fccd-4bca-bd8a-6c50dcb0b717/753df433-c345-48e6-b3a0-496c55d655a5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hawley-biden-cabinet-picks.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-cabinet-picks.amp",
-      "publishedDateTime": "2020-11-24T11:27:54-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

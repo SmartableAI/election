@@ -2,15 +2,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-30-election-2020-today-biden-chooses-advisers-breaks-foot.md",
-      "title": "Election 2020 Today: Biden chooses advisers, breaks foot",
-      "excerpt": "Here’s what’s happening Monday in Election 2020 and President-elect Joe Biden’s transition. BIDEN’S ECONOMIC PICKS: President-elect Joe Biden is expected in the coming days to name several of his most senior economic advisers.",
+      "path": "_news/2020-11-30-the-latest-biden-foreign-leaders-talk-about-pandemic.md",
+      "title": "The Latest: Biden, foreign leaders talk about pandemic",
+      "excerpt": "President-elect Joe Biden spent Monday at home accepting congratulatory calls from foreign leaders, a day after being diagnosed with stress fractures in his foot",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html",
+      "webUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 880,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-30T04:57:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-30T05:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -163,58 +163,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-29-joe-bidens-plans-to-carry-out-every-proposal-on-the-lgbtq-communitys-list.md",
-      "title": "Joe Biden’s Plans To Carry Out Every Proposal On The LGBTQ Community’s List",
-      "excerpt": "President-elect Joe Biden just released his plans for the LGBTQ community and he wants to grant all of it's wishes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702",
-      "originalUrl": "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/24/soundbiteus-president-elect-joe-biden-introduces-a-seasoned.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1",
-      "publishedDateTime": "2020-11-28T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-28-milwaukee-county-vote-recount-gives-biden-small-boost.md",
       "title": "Milwaukee County vote recount gives Biden small boost",
       "excerpt": "Milwaukee County completed its recount of presidential ballots, finding only small changes in vote totals for one of the two Wisconsin counties recounting ballots",
@@ -223,7 +171,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -240,58 +188,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp",
       "publishedDateTime": "2020-11-27T16:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-after-biden-win-rehoboth-beach-celebrates-local-boy-who-made-good-hes-our-joe.md",
-      "title": "After Biden win, Rehoboth Beach celebrates local boy who made good: ‘He’s our Joe’",
-      "excerpt": "Bikinis and beach umbrellas are marked to sell. The only hint of summer is the tangy scent of vinegar-doused french fries wafting from the one Thrasher’s stand that has remained open. Late fall and winter is when Rehoboth Beach typically gets to crawl back into its shell,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QASGXPBOUQI6XHOWFUAXTGAXDE.jpg&w=1440",
-          "width": 1440,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-27T10:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -593,7 +489,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-america-first-approach-meant-america-alone-says-joe-biden-video",
       "featuredContent": null,
       "highlight": null,
-      "heat": 347,
+      "heat": 387,
       "tags": null,
       "images": [
         {
@@ -703,7 +599,7 @@
       "originalUrl": "https://www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -755,7 +651,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -859,7 +755,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1640,
+      "heat": 1440,
       "tags": null,
       "images": [
         {
@@ -1072,7 +968,7 @@
       "originalUrl": "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1124,7 +1020,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1563,6 +1459,110 @@
       "ampWebUrl": "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11?amp",
       "publishedDateTime": "2020-11-15T05:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-biden-needs-to-hit-the-ground-running.md",
+      "title": "'Biden needs to hit the ground running'",
+      "excerpt": "Watch \"NY Senator Kirsten Gillibrand explains why President-elect Joe Biden needs to hit the ground running and have a comprehensive plan to combat the coron\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20201114051309-ny-senator-kirsten-gillibrand-explains-why-president-elect-joe-biden-needs-to-hit-the-ground-running-and-have-a-comprehensive-plan-to-c/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20201114051309-ny-senator-kirsten-gillibrand-explains-why-president-elect-joe-biden-needs-to-hit-the-ground-running-and-have-a-comprehensive-plan-to-c/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2020/11/14/story_07694294_1605331505.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T15:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-a-biden-covid-19-advisor-suggested-a-national-lockdown-lasting-up-to-6-weeks-but-said-the-idea-was-unlikely-to-gain-support.md",
+      "title": "A Biden COVID-19 advisor suggested a national lockdown lasting up to 6 weeks, but said the idea was unlikely to gain support",
+      "excerpt": "Michael Osterholm told ABC News that he had not discussed this idea with others and added he did not believe it would gain support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11",
+      "originalUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fad008a7f8f4200182a671c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp",
+      "publishedDateTime": "2020-11-13T12:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
 type: article
 quality: 128
-heat: 208
+heat: 228
 published: true
 
 provider:
@@ -64,35 +64,53 @@ related:
         width: 801
         height: 545
         isCached: true
-  - title: "Live political updates: Trump says he would 'certainly' leave White House once Electoral College votes for Biden"
-    excerpt: "President Donald Trump has yet to concede the race but his administration cleared the way this week for Biden's team to have access to federal resources and briefings during the transition. Be sure to refresh this page often to get the latest information on the election and the transition."
-    publishedDateTime: 2020-11-28T01:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/26/trump-thanksgiving-political-updates/6430438002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6430438002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6430438002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump: ‘It’s going to be a very hard thing to concede’"
-    excerpt: "President Trump on Nov. 26 said that he would leave the White House if the electoral college voted for President-elect Joe Biden next month."
-    publishedDateTime: 2020-11-27T00:04:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/trump-its-going-to-be-a-very-hard-thing-to-concede/2020/11/26/ed3b2845-0e12-41dd-9483-f97e0fea7d5a_video.html"
+  - title: "Biden hires all-female senior communications team"
+    excerpt: "Biden’s press team will be led by Kate Bedingfield, a veteran Biden aide who served as his campaign communications director and will hold the same title in his White House. “Communicating directly and truthfully to the American people is one of the most important duties of a President,"
+    publishedDateTime: 2020-11-29T21:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-26-2020/t_bbfdd35035ff4803938b222a5fabc9d6_name_Screen_Shot_2020_11_26_at_6_46_14_PM.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 907
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TGSF3ORSRII6XDJYNLVBVWZYHE.jpg&w=1440"
+        width: 1440
+        height: 956
+        isCached: true
+  - title: "President-elect Joe Biden hires all-female communications staff"
+    excerpt: "Harris administration appointed the country's first all-female communications team to relay messages from the White House."
+    publishedDateTime: 2020-11-30T00:29:00Z
+    webUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fc4269350e71a0011557de4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "State Department tells staff: transition to Biden administration has begun"
+    excerpt: "The U.S. State Department has informed staff that the transition process has begun and a team had been assigned inside the agency to support a handover to the incoming Biden administration, according to an internal email seen by Reuters on Wednesday."
+    publishedDateTime: 2020-11-26T00:10:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-statedepartment/state-department-tells-staff-transition-to-biden-administration-has-begun-idUSKBN2852XS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852XS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852XS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542458526&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1KP"
+        width: 817
+        height: 545
         isCached: true
 
 secured: "lkYXZvKu9d9d6b3sQlk1GUF/XU6H2qUx4XLGqDwLJqL4hWscyuUd6Zulli0UzV8m24wjRftpjxZOQ60eHFqYVDCur5ky4bhWk6BEQRzOOAI6njHQUd2bezfVUe+ZfqH9yNxu4nP/+VNGfDbmCBKSqmyNFWcbzZ35ofN3/PLX5zVCzH0Mcv/nXAowntqcEUeKU2wvIgTZ4ptWqvvsYlsYSC062vfhTmwyBAgYIK8V8l2TAYF0TQ5bUWJsc6E7bC7e2CQsf+me/Xqpayj3q8Mum7OkmxXN60ByZCfsRD1oPLvOEfTlNCZBTmUp+e6/aRP7Q/8yRF1X/K1OyL2n6uJgJkytH0I6rkggw5WJa+VF1/1MwnT+lYAvX/nATBKWCZBcQ0HeVOBnIG+maYWnNSeP6IjX1tHyzGDNsDmmb64of3gWPaQ58rU7gdn0qF+NoZYITshXpPg8kzySm9jBjQ1h94s0XvrXXlRHMLbJOKu6zjxz4WcsnY2m7ao732MBSSjtWF5UIFryb0aw9S7nfdOnDg==;ZA8/sTEmoslixbhSte5zvQ=="

@@ -47,22 +47,6 @@ related:
         width: 837
         height: 545
         isCached: true
-  - title: "Trump's closest business ally just admitted that the president lost the election"
-    excerpt: "The result of the 2020 election is \"very certain,\" and Joe Biden is the president-elect, Blackstone CEO and Trump ally Stephen Schwarzman told Axios."
-    publishedDateTime: 2020-11-23T14:20:00Z
-    webUrl: "https://www.businessinsider.com/biden-won-admits-trump-ally-and-blackstone-ceo-stephen-schwarzmann-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-won-admits-trump-ally-and-blackstone-ceo-stephen-schwarzmann-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-won-admits-trump-ally-and-blackstone-ceo-stephen-schwarzmann-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 135
-    images:
-      - url: "https://i.insider.com/5fbbba6050e71a0011556c19?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump administration denies permit for controversial Alaska mine"
     excerpt: "The Trump administration has denied a permit to build a gold and copper mine near the headwaters of the world’s largest sockeye salmon fishery in southwest Alaska."
     publishedDateTime: 2020-11-26T02:19:00Z
@@ -78,20 +62,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/85542cc/2147483647/strip/true/crop/4739x3095+31+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2Fb3%2Fcb8179a14a158c3a35d43cfacb54%2Fla-photos-1staff-460440-alaska-environmental-stories-010-ls.jpg"
         width: 320
         height: 209
-        isCached: true
-  - title: "Trump says he'll go if he loses Electoral College"
-    excerpt: "President Donald Trump said that he will leave the White House if the Electoral College formalizes President-Elect Joe Biden's victory - even as he insisted such a decision would be a “mistake.” (Nov."
-    publishedDateTime: 2020-11-27T07:09:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/27/trump-says-hell-go-if-he-loses-electoral-college/6435291002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2a720054-e759-4b07-b5a2-733b3ebe319a_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "sAD4V1FniswizCJJjmpQyF+RnSEeBJ/mlJd/LKSFU1ctth1ngmHUBDy5GQ4+AKD+ZRSRMN6kqNh9/phFBKBn19t9EiSJTY0tP+LxIUx1uOjG5dpNTF5SMRnoL2LhbzQ+adjCwrhtS4XboSzWfrJI4t1j176izMaexkj1KoEV0xasAcmEKAyTJPrnfhrrTu8sG+7/YOmbQEQd2vV/K8lgD6AcenOjHtMiwH+7E/hv52/JZwAiBrjgkaMnWQeMIg9k4lzmuuQz0+dbqHIDyQUU8Sms/dNmSTXnTHk77+kM2Uzz5Mhv9LwBbWNcOk1151wMUFwpxcLpMAwxJPj+EJi3xvDYY8I2vdX3XtRJu5kNNug=;oBTE8rz6ysySky7Il/J4Jg=="

@@ -58,62 +58,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-24-josh-hawley-criticizes-biden-cabinet-picks-as-corporatists-war-enthusiasts-and-big-tech-sellouts.md",
-      "title": "Josh Hawley criticizes Biden Cabinet picks as 'corporatists,' 'war enthusiasts' and Big Tech 'sellouts'",
-      "excerpt": "Sen. Josh Hawley on Tuesday criticized President-elect Joe Biden's cabinet picks.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/36KXPicr0aE/hawley-biden-cabinet-picks",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/36KXPicr0aE/hawley-biden-cabinet-picks",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c99b2eab-fccd-4bca-bd8a-6c50dcb0b717/753df433-c345-48e6-b3a0-496c55d655a5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hawley-biden-cabinet-picks.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-cabinet-picks.amp",
-      "publishedDateTime": "2020-11-24T11:27:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-24-cdc-ready-for-biden-transition-this-is-what-weve-been-waiting-for.md",
       "title": "CDC ready for Biden transition: \"This is what we've been waiting for\"",
       "excerpt": "Leadership at the Centers for Disease Control and Prevention, beset by a Trump White House that was harshly critical of the agency's coronavirus response, are anticipating the Biden transition team and the change a new administration will bring, senior health officials tell CNN.\n    \n",
@@ -342,7 +286,7 @@
       "originalUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 208,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -829,7 +773,7 @@
       "originalUrl": "https://www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1262,7 +1206,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1359,6 +1303,62 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.md",
+      "title": "Rudy Giuliani: Sidney Powell not part of Trump’s legal team",
+      "excerpt": "President Donald Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGqgSrgNypg/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGqgSrgNypg/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20324809203443.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.amp",
+      "publishedDateTime": "2020-11-22T17:25:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

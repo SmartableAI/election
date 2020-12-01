@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A2CA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A2CA"
 type: article
 quality: 112
-heat: 112
+heat: 132
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 545
     isCached: true
 
-secured: "ifyFwg1FUq+VAKZujrztNfDNET2svn0GIV52XF0DYoMw/hEF4aTWO4la4LBeRVq0QjPAJ/Fh8B3M66nZjdRHpC9BnmoFnAwFeFyYDOrHTDEoT8da4y1vVKgTE8u734Of6KbmdAv5xo3oTAGCUNVok51TbIx33aLqGBHnhmEW1wcG6djCkW1WBRpZXmmeImwfj3ykxtq/ihC36Tw+7s6G+QVrTC83MkvkIBS6hByaY1Isst5BggVcEQJjjCLSdhDSC3NlmgGjTbf3bodqm7h8fi37yU6fKvrTOaE1c6K4ujRy5D4oxCR35eLhjqZeKewd2KSN9b4vpZBTgs3P/9U9siVC5LXX9pLXh6RukFudWxQ=;A0yhuOi7OZ+j4j4CuKo1Sg=="
+related:
+  - title: "Representatives for 'Tiger King's' Joe Exotic are said to be chasing Trump down for a pardon and spending thousands of dollars to get it"
+    excerpt: "Representatives for the former zookeeper ran up a $10,000 tab at one of Trump's hotels in an effort to get his attention."
+    publishedDateTime: 2020-11-26T06:56:00Z
+    webUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5fbefa81037cbd0018612744?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "iLJo5n5zE5UhMcCs0Ex2T1dCW9KSOKp96j0V6SEFy6z1oJPCup9LYb0+sz3fsBLHHNmfp3e66YuhQ7J6y1RZvNiUXHqKrXIRsa8edZMKPtXzUU96WUcxf08lTv/U75jvWW2WIR5HRjTQ0oH1ox+CY1q6pgEgiWLSFmPuJIr1s3p+yMTSfAXONkaNfAvgFxw+w7XP6/MyN/FPpDIW57k6oL40k+NY0/9wHUEb514m/m/sKxhKT7MgRStATHLhyqWDc6udw4w2IS5Kd7t9/x/Ywb67fLjB6JsKlLHVXl+IkSZ0LfaMPIQyY7a8DicJKAqcXKy3IoRjdtQ6LzWU+aHHi+EMHDGZuxLQMKaGX3ws46OBWYwPZgOopoIsRWRN3meV7dEuIJWUzPyDltaYsUwOp1TOSYcrtlDAPeexyOCcjX+qnl6GN/HA+TyoJ5+KqvyE9uYwDslOYFnbIPC+uRx/A2tkABgB4v2k2bVW+mTxU0dV5DT4YkAdzmfBqVJYqEDRy5Zix5Cw7vpc/dwv32tR0A==;Kj+eamLr+D8DJL9ruNJvcg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp"
 type: article
 quality: 101
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: Business Insider
@@ -29,40 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Congress is briefly reconvening, under pressure from Trump and Biden to pass a COVID-19 stimulus bill after months of gridlock"
-    excerpt: "Congress has spent months arguging over the details of a follow-up stimulus package, to the immense frustration of many."
-    publishedDateTime: 2020-11-30T12:07:00Z
-    webUrl: "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5fc4ce3550e71a0011557e44?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Representatives for 'Tiger King's' Joe Exotic are said to be chasing Trump down for a pardon and spending thousands of dollars to get it"
-    excerpt: "Representatives for the former zookeeper ran up a $10,000 tab at one of Trump's hotels in an effort to get his attention."
-    publishedDateTime: 2020-11-26T06:56:00Z
-    webUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5fbefa81037cbd0018612744?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "cajmBm69DFgeyDdd3gI0qtiOs/gh6N17kw0mukdvFagYiiyxrOdght0uskK+9HEi3StZU89SepeIAkW51p9KsCOcKlYEj3kDFHaqTYQlgtBCdNK5NL8EJ3pwrFsxLbNI/R2/fH3yZPcw19+LxLuQyPTw10kXkM0vjkFlJaUO9CAmCTp/YXCPiNkiByhAHHUnfCAidcUIwQRhBgEAu0qFb89qdHokraLftpPRbmAhCaEtBhE3MXLEaRBHcVQY1z/ODiwzocC03ceNK2bsX+SLx5DIsIenW1mbCVugpv3Xde6qKP/PcyUOHIPjjCy0y2doJmZYrDczxauBmtU0eHpZSi0/1+sUpKPn7TsGwZKzb0g9uYvi8/+BjfTZ0ZUmoii0NhTTAC/Pb4is0YJo79JUAksUAZ0EPaPl0UaRbkI936S+Wqq5F5KRz15A3pmG/jfrztb+Bb/pKrMTyMOtwQ+qgIm2lWyTqM701dddjDOSbilsQnBIV0wUwnMhWScbDVW3/CjabTGIGJcpkVtDtsr2LA==;Dqig+Na/JMx76KwMDpp2Ig=="
 ---

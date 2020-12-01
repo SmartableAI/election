@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Dr. Scott Atlas resigns as special adviser to Trump on coronavirus"
+    excerpt: "EXCLUSIVE: Dr. Scott Atlas, President Trump’s special adviser on the coronavirus pandemic, formally resigned from his post on Monday, Fox News has learned."
+    publishedDateTime: 2020-11-30T23:51:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IHDbv7iPNzI/dr-scott-atlas-resigns-special-adviser-trump-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/dr-scott-atlas-resigns-special-adviser-trump-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-resigns-special-adviser-trump-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "AOC blasts Trump adviser for suggesting more coronavirus relief is not needed: 'People need help'"
     excerpt: "Rep. Alexandria Ocasio-Cortez took aim at one of President Trump's top economic advisers for suggesting that another coronavirus relief package is not necessary, arguing that \"people need help\" as COVID-19 cases surge. "
     publishedDateTime: 2020-11-19T14:00:57Z

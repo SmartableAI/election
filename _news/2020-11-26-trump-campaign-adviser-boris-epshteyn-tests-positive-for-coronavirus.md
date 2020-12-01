@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-adviser-boris-epshte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-adviser-boris-epshteyn-tests-positive-for-coronavirus.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dr. Scott Atlas resigns as special adviser to Trump on coronavirus"
+    excerpt: "EXCLUSIVE: Dr. Scott Atlas, President Trump’s special adviser on the coronavirus pandemic, formally resigned from his post on Monday, Fox News has learned."
+    publishedDateTime: 2020-11-30T23:51:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IHDbv7iPNzI/dr-scott-atlas-resigns-special-adviser-trump-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/dr-scott-atlas-resigns-special-adviser-trump-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-resigns-special-adviser-trump-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Corey Lewandowski the latest Trump ally to test positive for coronavirus"
     excerpt: "Trump campaign adviser Corey Lewandowski tested positive for COVID-19 on Wednesday, making him the latest official in the Trump orbit to be diagnosed with the novel coronavirus."
     publishedDateTime: 2020-11-12T18:07:08Z

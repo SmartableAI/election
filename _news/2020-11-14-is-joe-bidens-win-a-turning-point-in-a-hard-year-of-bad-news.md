@@ -127,22 +127,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump-Biden transition live updates: New lawsuit seeks to nix Georgia results"
-    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
-    publishedDateTime: 2020-11-28T06:28:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 137
-    images:
-      - url: "https://s.abcnews.com/images/Politics/sidney-powell-rt-file-ml-201127_1606499215570_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Biden's beach hideaway has political sun shining on Rehoboth"
     excerpt: "Rehoboth Beach, Delaware, is a resort town that's known known for Atlantic waves that are sometimes surfable, as well as fresh-cut French fries and a mile wooden boardwalk that dates to the 1870s"
     publishedDateTime: 2020-11-15T16:46:00Z
@@ -527,22 +511,6 @@ related:
         width: 1440
         height: 933
         isCached: true
-  - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
-    excerpt: "Trump continues to contest election as ‘corrupt’ and ‘fake’ as GSA officially declares president-elect Biden apparent winner"
-    publishedDateTime: 2020-11-24T14:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd15df8f0868ed26c11714"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/b6a0aee0c0f376cadca09ab0427c121490235af5/0_0_4969_3392/master/4969.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bbdfab7ba0823cd4e6cbb8d2518a5276"
-        width: 600
-        height: 410
-        isCached: true
   - title: "Georgia confirms Biden's victory in state as it completes hand audit of ballots"
     excerpt: "Georgia confirmed Democratic President-elect Joe Biden as the winner of the Nov. 3 election in the state as it completed a hand audit of ballots on Thursday, Secretary of State Brad Raffensperger said."
     publishedDateTime: 2020-11-20T07:33:00Z
@@ -745,22 +713,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "President-elect Joe Biden expected to name Antony Blinken as secretary of state, sources say"
-    excerpt: "Antony J. Blinken, one of President-elect Joe Biden’s closest foreign policy advisers, is expected to be nominated for secretary of state, according to people close to the process."
-    publishedDateTime: 2020-11-23T11:28:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-blinken-secretary-state-biden-20201123-wnttxizx6fh7hfc3rs2gxivzai-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-blinken-secretary-state-biden-20201123-wnttxizx6fh7hfc3rs2gxivzai-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-blinken-secretary-state-biden-20201123-wnttxizx6fh7hfc3rs2gxivzai-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 114
-    images:
-      - url: "https://www.chicagotribune.com/resizer/P_cTD6Cd8IFZ0-iYj7geHMpoi9g=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UODTB3WA7BAKZDAT2QXVN3JNHA.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Biden searches for attorney general to restore Justice Dept.’s independence, refocus on civil rights"
     excerpt: "After years seemingly at the center of every major political fight in Washington, the Justice Department is about to get new leadership, and President-elect Joe Biden’s choice for attorney general will have to balance competing demands within his party on thorny issues of civil rights,"
     publishedDateTime: 2020-11-25T00:22:00Z
@@ -904,20 +856,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Eye Opener: Biden transition moves forward with approval from GSA"
-    excerpt: "The Trump administration official in charge of the presidential transition says she's giving President-elect Biden access to government resources and funding. Also, millions of Americans are still planning to travel for the Thanksgiving holiday despite warnings from the CDC."
-    publishedDateTime: 2020-11-24T14:49:00Z
-    webUrl: "https://www.cbsnews.com/video/eye-opener-biden-transition-moves-forward-with-approval-from-gsa/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/24/be3c8a72-e029-48ba-a0dc-3274fde1ceef/thumbnail/1200x630/1e0628aa52eb75fc7771d2e45a647dc8/cbsn-fusion-eye-opener-biden-transition-moves-forward-with-approval-from-gsa-thumbnail-594974-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New voters gave Biden a boost, but not everywhere"
     excerpt: "Millions more Americans cast ballots than in 2016. The counties that saw the largest turnout increases drove Biden's win, but Democratic gains were uneven."
     publishedDateTime: 2020-11-25T04:52:00Z
@@ -956,34 +894,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/25/ccfb7d1f-a8ad-4994-b4d6-b7c7e17e3de8/thumbnail/1200x630/1f27a442d08fb87aefb11d11845dbaad/cbsn-fusion-biden-nominations-foreign-policy-possibility-iran-nuclear-deal-thumbnail-595755-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "President-elect Joe Biden urges unity in Thanksgiving address"
-    excerpt: "In an address to the nation the day before Thanksgiving, President-elect Joe Biden spoke about the difficulty of being apart from loved ones at the holidays but encouraged everyone to follow health officials' guidelines to help save lives in the coronavirus pandemic."
-    publishedDateTime: 2020-11-25T20:49:00Z
-    webUrl: "https://www.cbsnews.com/video/president-elect-joe-biden-thanksgiving-address/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/25/50bc3dc3-0060-4208-a59c-9301e7c7d46c/thumbnail/1200x630/022db9dc6e771834def28b4632977c3e/cbsn-fusion-president-elect-joe-biden-thanksgiving-address-thumbnail-595957-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden continues to work on transition"
-    excerpt: "Watch \"President-elect Joe Biden continues to work on transition\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-26T17:48:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201127060243-president-elect-joe-biden-continues-to-work-on-transition/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/27/story_07876275_1606456986.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "Biden urges 'sacrifice' in Thanksgiving address"
     excerpt: "Rough Cuts Biden urges 'sacrifice' in Thanksgiving address. Posted . U.S. President-elect Joe Biden and his wife released a video acknowledging the scaled-back Thanksgiving celebr"
@@ -1029,20 +939,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "President-Elect Joe Biden Hits 80 Million Votes In Year Of Record Turnout"
-    excerpt: "The 2020 presidential election saw the most votes in U.S. history at 156 million and counting, and the highest participation rate since 1900."
-    publishedDateTime: 2020-11-25T13:06:00Z
-    webUrl: "https://www.npr.org/2020/11/25/937248659/president-elect-biden-hits-80-million-votes-in-year-of-record-turnout"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 104
-    images:
-      - url: "https://media.npr.org/assets/img/2020/11/20/gettyimages-1229644791_wide-2b7d082ed19493e6de2f1ed2f923ee1f103776b7.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "House Democrat says Congress has few options to help Biden's transition to power"
     excerpt: "More than a week after President-elect Joe Biden was projected to win the 2020 election, Democratic lawmakers are still pushing the federal government to provide resources, office space and funding to his transition team."
     publishedDateTime: 2020-11-18T16:49:00Z
@@ -1068,20 +964,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 98
-  - title: "Head of GSA is allowing President-elect Joe Biden to begin transitioning to White House"
-    excerpt: "Emily Murphy, the head of the General Services Administration, says she'll allow President-elect Joe Biden to begin his transition to the White House."
-    publishedDateTime: 2020-11-24T13:58:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/24/gsa-allows-president-elect-biden-transition-white-house/6404973002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/83f1456a-2f5f-4e56-bff6-bcc2c105d8a7-VPC_GSA_CLEARS_WAY_FOR_BIDEN_TRANSITION_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Doctor on President-elect Biden's COVID-19 advisory board discusses CDC travel guidelines"
     excerpt: "Dr. Atul Gawande of President-elect Biden's COVID-19 advisory board joins \"CBS This Morning\" to discuss the CDC's guidelines on Thanksgiving travel and his concerns about the delay in the transfer of power from the Trump administration to the future Biden administration."
     publishedDateTime: 2020-11-20T14:24:00Z
@@ -1093,20 +975,6 @@ related:
     quality: 96
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/20/26bcea9d-61c6-46a2-bec3-90374efb7a01/thumbnail/1200x630/fa6baa8432663e20547af60cc030b900/cbsn-fusion-doctor-on-president-elect-bidens-covid-19-advisory-board-discusses-cdc-travel-guidelines-thumbnail-591798-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "If confirmed, President-elect Biden's picks for his national security team could make history"
-    excerpt: "President-elect Joe Biden's historic national security picks have been announced. Nikole Killion has more on the Biden administration rollout."
-    publishedDateTime: 2020-11-24T13:32:00Z
-    webUrl: "https://www.cbsnews.com/video/if-confirmed-president-elect-bidens-picks-for-his-national-security-team-could-make-history/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 94
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/24/884090df-4181-4096-9eb3-ba4fc7bd2e11/thumbnail/1200x630/1a9d983a707ca1add7c8eb2f0aa3d13c/bidencabinet-594889-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -1123,22 +991,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/14/4915ad22-c06c-421d-bfef-cc05adef7dfc/thumbnail/1200x630/81c0785255cc2dc4c1023fc9fb34f789/cbsn-fusion-iran-expands-stockpile-enriched-uranium-joe-biden-challenge-thumbnail-588204-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "President-elect Joe Biden calls for unity during Thanksgiving address"
-    excerpt: "President-elect Joe Biden called for unity and encouraged Americans to stay vigilant against the COVID-19 virus during a Thanksgiving address Wednesday afternoon."
-    publishedDateTime: 2020-11-25T17:50:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/11/25/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address/9541606323109/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/25/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address/9541606323109/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/25/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address/9541606323109/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/ph/st/th/9541606323109/2020/upi/464e54565895c15a13cfc84f4e20cd51/v1.5/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address.jpg?lg=2"
-        width: 800
-        height: 533
         isCached: true
   - title: "Mike Pence tells Georgia crowd presidential election isn’t over"
     excerpt: "U.S. Vice President Mike Pence traveled to Georgia to rally for Senate candidates Friday with two events. But he made it clear there’s unfinished business regarding the November vote. “As our election contest continues here in Georgia and in courts throughout the country,"
