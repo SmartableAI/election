@@ -2,6 +2,167 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-03-biden-gets-an-endorsement-from-silicon-valley-live-business-updates.md",
+      "title": "Biden Gets an Endorsement From Silicon Valley: Live Business Updates",
+      "excerpt": "A group of 11 founders, investors and business leaders from the technology industry endorsed Democratic presidential nominee Joseph R. Biden Jr. in a letter published on Monday, s",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus",
+      "originalUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/30/business/30markets-brf-markets/merlin_179245557_12422739-1663-479d-9813-613dc9789fb3-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html",
+      "publishedDateTime": "2020-11-02T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-facebook-admits-it-improperly-blocked-some-political-ads-due-to-technical-issues-as-joe-bidens-campaign-slams-it-for-being-wholly-unprepared.md",
+      "title": "Facebook admits it 'improperly' blocked some political ads due to 'technical issues' as Joe Biden's campaign slams it for being 'wholly unprepared'",
+      "excerpt": "Facebook said no ads were blocked \"because of any partisan consideration,\" as Biden's camp accused the company of offering \"no clarity\" on the issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/facebook-admits-tech-glitch-political-ad-ban-biden-camp-furious-2020-10?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.businessinsider.com/facebook-admits-tech-glitch-political-ad-ban-biden-camp-furious-2020-10?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ee3a894f34d0518a8716ae2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/facebook-admits-tech-glitch-political-ad-ban-biden-camp-furious-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-admits-tech-glitch-political-ad-ban-biden-camp-furious-2020-10?amp",
+      "publishedDateTime": "2020-10-29T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-glenn-greenwald-leaves-the-intercept-claiming-he-was-censored-over-an-article-he-wrote-on-joe-biden.md",
+      "title": "Glenn Greenwald leaves The Intercept, claiming he was ‘censored’ over an article he wrote on Joe Biden",
+      "excerpt": "Journalist Glenn Greenwald said Thursday that he was leaving The Intercept, the news website he helped found, claiming that it had refused to publish an article he wrote on Joe Biden unless he removed sections that were critical of the Democratic presidential nominee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-glenn-greenwald-intercept-20201029-ksh5aqo26jfddkeleglhrc3jhi-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-glenn-greenwald-intercept-20201029-ksh5aqo26jfddkeleglhrc3jhi-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/8esg7_jTAjqy-k39KqyHXl_N1cw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UOQYWABV3BA3HDK7NXTIVLEG4Y.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-glenn-greenwald-intercept-20201029-ksh5aqo26jfddkeleglhrc3jhi-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-glenn-greenwald-intercept-20201029-ksh5aqo26jfddkeleglhrc3jhi-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-29T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-chuck-todd-slammed-for-saying-joe-biden-takes-covid-19-too-seriously.md",
       "title": "Chuck Todd Slammed For Saying Joe Biden Takes COVID-19 'Too Seriously'",
       "excerpt": "The MSNBC host said that Biden was accepting a smaller footprint by not engaging in high-risk campaign acitivities",
@@ -1165,7 +1326,7 @@
       "originalUrl": "https://thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1419,168 +1580,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-biden-calls-for-bipartisan-commission-to-propose-ways-to-reform-the-court-system.md",
-      "title": "Biden calls for 'bipartisan commission' to propose ways to 'reform the court system'",
-      "excerpt": "Biden faces pressure to take a position on adding seats to the Supreme Court as Trump’s nominee advances toward a Senate vote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-calls-bipartisan-commission-propose-ways-reform-court-system-n1244271",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-calls-bipartisan-commission-propose-ways-reform-court-system-n1244271",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_43/3422105/201022-joe-biden-cincinatti-jm-0931_816bd6ee28dec090bc4549dd0d88c9eb.jpg",
-          "width": 2500,
-          "height": 1496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244271",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244271",
-      "publishedDateTime": "2020-10-22T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation.md",
-      "title": "Byron York's Daily Memo: Joe Biden (sort of) addresses Hunter Biden accusation",
-      "excerpt": "ADDRESSES HUNTER BIDEN ACCUSATION. The Democratic presidential nominee isn't campaigning in person this week -- an odd choice in the final days of a hard-fought campaign. But Joe Biden did do a video interview Wednesday with a Wisconsin television station,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation",
-      "originalUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/9f02367/2147483647/strip/true/crop/1060x600+0+0/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F1b%2Fdd%2F5520d8a2407eb68282a5cf5f8e59%2Fdaily-memo-default-1060x600.png",
-          "width": 1060,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation?_amp=true",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation?_amp=true",
-      "publishedDateTime": "2020-10-22T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china-goodwin.md",
-      "title": "Hunter biz partner confirms e-mail, details Joe Biden’s push to make millions from China: Goodwin",
-      "excerpt": "Wait until Scranton hears about this. One of Joe Biden’s ways of contrasting himself with President Trump has been to declare the election a battle of Park Avenue values vs. Scranton, Pa., values.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/",
-      "originalUrl": "https://nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/biden-china-nypost-cover.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/amp/",
-      "publishedDateTime": "2020-10-21T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

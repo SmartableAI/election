@@ -2,6 +2,118 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-28-ari-fleischer-biden-is-taking-advantage-of-a-broken-down-media-that-is-biased-against-trump.md",
+      "title": "Ari Fleischer: Biden is 'taking advantage of' a 'broken-down media' that is 'biased against Trump'",
+      "excerpt": "The Biden campaign is \"taking advantage\" of the media bias against President Trump to keep the controversy surrounding former Vice President Joe Biden's son Hunter out of the spotlight, former White House Press Secretary Ari Fleischer claimed Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj5ZGug0TOo/ari-fleischer-biden-taking-advantage-broken-down-media",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj5ZGug0TOo/ari-fleischer-biden-taking-advantage-broken-down-media",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ari-fleischer-biden-taking-advantage-broken-down-media.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-biden-taking-advantage-broken-down-media.amp",
+      "publishedDateTime": "2020-10-28T12:36:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-trump-philadelphia-police-shooting-a-terrible-event-but-rioting-comes-from-group-joe-biden-supports.md",
+      "title": "Trump: Philadelphia police shooting a 'terrible event,' but rioting comes from group Joe Biden 'supports'",
+      "excerpt": "President Trump called on Democrats in Philadelphia to crack down on recent rioting, and blamed Joe Biden for not condemning the unrest strongly enough. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fRiwxoXz5tY/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fRiwxoXz5tY/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3de87600-dbcb-4a99-96cb-260adff5cd13/76b665ff-3f3c-446c-a671-d8b9ba729f56/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports.amp",
+      "publishedDateTime": "2020-10-28T12:25:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-joe-biden-could-be-compromised-by-chinese-communist-party-rep-crenshaw.md",
       "title": "Joe Biden could be compromised by Chinese Communist Party: Rep. Crenshaw",
       "excerpt": "Joe Biden needs to answer whether or not he's compromised by China before the Nov. 3 election, Rep. Dan Crenshaw, R-Texas, said Wednesday.",
@@ -1553,119 +1665,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/aoc-tells-jane-fonda-its-ok-to-be-trumps-public-enemy-no-1-thats-a-good-thing.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-tells-jane-fonda-its-ok-to-be-trumps-public-enemy-no-1-thats-a-good-thing.amp",
       "publishedDateTime": "2020-10-24T22:21:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-harris-voting-for-president-is-about-honoring-ancestors-who-fought-for-civil-rights.md",
-      "title": "Harris: Voting for president is about ‘honoring ancestors’ who fought for civil rights",
-      "excerpt": "Democratic vice presidential candidate Kamala Harris headed to Cleveland  Saturday to reach out to voters in one of the closest races for the presidency in the U.S.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9MaeVCSa3lE/harris-vote-president-honor-ancestors-civil-rights",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9MaeVCSa3lE/harris-vote-president-honor-ancestors-civil-rights",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/811ca535-be57-4b71-adc1-4fe7047b47b8/85e13a02-9e52-4c03-8d4d-1e3635b6692c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-vote-president-honor-ancestors-civil-rights.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-vote-president-honor-ancestors-civil-rights.amp",
-      "publishedDateTime": "2020-10-24T19:43:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-trump-told-donors-holding-republican-senate-would-be-very-tough-report.md",
-      "title": "Trump told donors holding Republican Senate would be 'very tough': report",
-      "excerpt": "President Trump privately told donors it would be “very tough” for Republicans to maintain control of the Senate come November because he cannot support all of the party’s candidates, according to a report. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U3V2jQYz-_M/trump-donors-republican-senate-very-tough",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U3V2jQYz-_M/trump-donors-republican-senate-very-tough",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-BT-1.jpg",
-          "width": 1280,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-donors-republican-senate-very-tough.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-donors-republican-senate-very-tough.amp",
-      "publishedDateTime": "2020-10-24T17:37:59-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

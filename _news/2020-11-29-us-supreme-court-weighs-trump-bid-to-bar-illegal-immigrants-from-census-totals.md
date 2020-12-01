@@ -63,22 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
-    excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
-    publishedDateTime: 2020-11-29T22:12:00Z
-    webUrl: "https://www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 124
-    images:
-      - url: "https://i.insider.com/5fc364fd50e71a0011557d50?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Stocks ready to rally in '21 but outgoing Trump is risk: Pacific Life Fund Advisors"
     excerpt: "U.S. stock markets are poised to rally in 2021, bolstered by the predictability of a new U.S. president, fresh stimulus and infrastructure spending, plus a coronavirus vaccine. But there is a potential wild card: outgoing President Donald Trump,"
     publishedDateTime: 2020-12-01T03:45:00Z

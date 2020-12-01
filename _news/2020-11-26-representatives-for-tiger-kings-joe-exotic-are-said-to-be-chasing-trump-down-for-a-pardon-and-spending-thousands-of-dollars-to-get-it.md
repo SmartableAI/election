@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump lawyer Joe diGenova says election security chief fired by the president should be 'taken out at dawn and shot'"
-    excerpt: "Chris Krebs has become a target for the Trump campaign after saying that the November 3 election was \"the most secure in American history.\""
-    publishedDateTime: 2020-12-01T14:58:00Z
-    webUrl: "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp"
+  - title: "Fact check: Graphic comparing Trump and Obama is from 2018 and contains an approval rating error"
+    excerpt: "In November 2020, a 2018 graphic comparing President Donald Trump and President Barack Obama “by the numbers” resurfaced on social media. The chart presents figures showing the Trump administration had outperformed the Obama administration in terms of presidential"
+    publishedDateTime: 2020-11-30T21:26:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-obama-trump-by-the-numbers/fact-check-graphic-comparing-trump-and-obama-is-from-2018-and-contains-an-approval-rating-error-idUSKBN28A2CA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A2CA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A2CA"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
+      name: Reuters
+      domain: reuters.com
+    quality: 112
     images:
-      - url: "https://i.insider.com/5fc62c86037cbd00186130a8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Fired director of U.S. cyber agency Chris Krebs explains why President Trump's claims of election interference are false"
-    excerpt: "Chris Krebs, a lifelong Republican, was put in charge of the agency handling election security by President Trump two years ago. When Krebs said the election was the country's most secure ever, Mr. Trump fired him."
-    publishedDateTime: 2020-11-30T00:39:00Z
-    webUrl: "https://www.cbsnews.com/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 115
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/29/e2b50259-6c0b-488f-b6b9-a5979fcfbb4b/thumbnail/1200x630/40ec454e5a61da816f8e82a5eb85fab9/chriskrebsarticle.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Sean Hannity says Trump should pardon himself and his family to avoid a ‘witch hunt.’ Experts say it’s not that simple."
-    excerpt: "Five days after President Trump pardoned his former national security adviser Michael Flynn, Fox News host and Trump ally Sean Hannity offered a suggestion on Monday about who the president should pardon next: himself and his family."
-    publishedDateTime: 2020-12-01T16:13:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RDK2IJVBFMI6VPQGV5KRJ3QDQU.jpg&w=1440"
-        width: 1440
-        height: 942
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542935392&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1DM"
+        width: 818
+        height: 545
         isCached: true
 
 secured: "YldGB4IAALlEC++vg9fj2978Zcwq/Bdq66dIfFChviTBOv1ju9+TMnNFg1adBzjMiOaMHjNBSM+Ew1rjzxrp+O0YfARsGLC5ffwZiuQ1kIJzL6VKmBSTExJx7nJ0+khpIIAvHRRdkqKoXYpcDzt3eE36kvVVDEuG5mBp4jqpg2m8PZ3ziReuF7FlibddSQxNlOGcIuSpWnE3Qo2M8FFHk7nw74WZJCNBqNLCAZmWinWBtPrGyaFSo3djrPbNE7m+6dS21m4MQwGhGR+rWi4qqLY39CreEH32+IKLeRqnAXLIzrp625Pot+/IhkMjpa6XYHDWW/0b3IRAwrnd5gR2STlBCqWVMcYqo874AK8F3rM=;6eY0Lwb+xhCjnPqzYaI1NA=="

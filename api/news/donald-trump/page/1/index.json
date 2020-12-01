@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-02-a-witness-in-trump-ally-sidney-powells-lawsuits-says-the-voting-results-in-edison-county-indicate-fraud-no-such-place-exists.md",
+      "title": "A witness in Trump ally Sidney Powell's lawsuits says the voting results in 'Edison County' indicate fraud. No such place exists.",
+      "excerpt": "The lawsuit is being pushed by allies of President Donald Trump in an effort to fight voters and declare him the winner of Michigan's electoral votes.",
+      "sourceUrl": null,
+      "webUrl": "https://businessinsider.com/sidney-powell-election-lawsuit-witness-vote-problems-edison-county-2020-12",
+      "originalUrl": "https://businessinsider.com/sidney-powell-election-lawsuit-witness-vote-problems-edison-county-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc6705d037cbd00186131db?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/sidney-powell-election-lawsuit-witness-vote-problems-edison-county-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sidney-powell-election-lawsuit-witness-vote-problems-edison-county-2020-12?amp",
+      "publishedDateTime": "2020-12-01T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-the-daily-202-ousted-us-attorney-removed-by-barr-as-he-investigated-trump-associates-lands-new-job.md",
       "title": "The Daily 202: Ousted U.S. attorney, removed by Barr as he investigated Trump associates, lands new job",
       "excerpt": "During a noon meeting in a suite at the Pierre hotel in Manhattan on a Friday in June, Attorney General Bill Barr pressured Geoffrey Berman to step aside as the U.S. attorney for the Southern District of New York.",
@@ -54,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-trump-lawyer-joe-digenova-says-election-security-chief-fired-by-the-president-should-be-taken-out-at-dawn-and-shot.md",
-      "title": "Trump lawyer Joe diGenova says election security chief fired by the president should be 'taken out at dawn and shot'",
-      "excerpt": "Chris Krebs has become a target for the Trump campaign after saying that the November 3 election was \"the most secure in American history.\"",
+      "path": "_news/2020-12-02-sean-hannity-says-trump-should-pardon-himself-and-his-family-to-avoid-a-witch-hunt-experts-say-its-not-that-simple.md",
+      "title": "Sean Hannity says Trump should pardon himself and his family to avoid a ‘witch hunt.’ Experts say it’s not that simple.",
+      "excerpt": "Five days after President Trump pardoned his former national security adviser Michael Flynn, Fox News host and Trump ally Sean Hannity offered a suggestion on Monday about who the president should pardon next: himself and his family.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12",
+      "webUrl": "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5fc62c86037cbd00186130a8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RDK2IJVBFMI6VPQGV5KRJ3QDQU.jpg&w=1440",
+          "width": 1440,
+          "height": 942,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +128,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp",
-      "publishedDateTime": "2020-12-01T06:58:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/?outputType=amp",
+      "publishedDateTime": "2020-12-01T08:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -158,21 +210,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-post-election-gallup-poll-biden-favorability-rises-to-55-while-trumps-dips-to-42.md",
-      "title": "Post-election Gallup poll: Biden favorability rises to 55% while Trump's dips to 42%",
-      "excerpt": "WASHINGTON – According to a new poll from Gallup, President-elect Joe Biden’s favorability rating is up following the conclusion of the election while President Donald Trumps",
+      "path": "_news/2020-12-01-the-latest-graham-trump-should-attend-bidens-inauguration.md",
+      "title": "The Latest: Graham: Trump should attend Biden’s inauguration",
+      "excerpt": "Lindsey Graham says he thinks President Donald Trump should attend President-elect Joe Biden’s inauguration because it would be “good for the country.”",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/30/poll-biden-favorability-rises-while-trumps-falls-post-election/6471704002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/30/poll-biden-favorability-rises-while-trumps-falls-post-election/6471704002/",
+      "webUrl": "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1228,
+      "heat": 1370,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/01/USAT/30672691-3610-4f9a-8828-e1c1beaf8e2c-AP_Biden-LGBTQ_Rights.jpg?auto=webp&crop=5999,3375,x0,y600&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -180,16 +232,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6471704002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6471704002",
-      "publishedDateTime": "2020-11-30T16:40:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-30T16:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -206,7 +258,8 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Donald Trump",
+        "Joe Biden"
       ]
     },
     {
@@ -218,7 +271,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-factcheck-obama-trump-by-the-numbers/fact-check-graphic-comparing-trump-and-obama-is-from-2018-and-contains-an-approval-rating-error-idUSKBN28A2CA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -374,7 +427,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 334,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -522,58 +575,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-30-politics-updates-biden-sprains-foot-ankle-playing-with-dog-trump-mocked-for-i-came-up-with-vaccines-claim.md",
-      "title": "Politics updates: Biden sprains foot ankle playing with dog; Trump mocked for 'I came up with vaccines' claim",
-      "excerpt": "Trump mocked for his latest attempt to take credit for a COVID vaccine; GOP Sen. Blunt refuses to call Biden the president-elect – politics updates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/29/political-updates-donald-trump-joe-biden-president-transition/6449096002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/29/political-updates-donald-trump-joe-biden-president-transition/6449096002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/29/USAT/00288076-ff0d-47d5-b774-babb23ac3b4a-GTY_1229788118.jpg?auto=webp&crop=4499,2531,x0,y175&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6449096002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6449096002",
-      "publishedDateTime": "2020-11-30T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-30-this-is-propaganda-fox-news-maria-bartiromo-slammed-for-softball-trump-interview.md",
       "title": "'This is propaganda': Fox News' Maria Bartiromo slammed for 'softball' Trump interview",
       "excerpt": "Fox News anchor Maria Bartiromo faced criticism Sunday for failing to challenge President Trump on his claims of widespread election fraud.",
@@ -606,6 +607,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-fired-director-of-us-cyber-agency-chris-krebs-explains-why-president-trumps-claims-of-election-interference-are-false.md",
+      "title": "Fired director of U.S. cyber agency Chris Krebs explains why President Trump's claims of election interference are false",
+      "excerpt": "Chris Krebs, a lifelong Republican, was put in charge of the agency handling election security by President Trump two years ago. When Krebs said the election was the country's most secure ever, Mr. Trump fired him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
+      "originalUrl": "https://www.cbsnews.com/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/29/e2b50259-6c0b-488f-b6b9-a5979fcfbb4b/thumbnail/1200x630/40ec454e5a61da816f8e82a5eb85fab9/chriskrebsarticle.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
+      "publishedDateTime": "2020-11-29T16:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1094,7 +1147,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1146,7 +1199,7 @@
       "originalUrl": "https://abcnews.go.com/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1294,59 +1347,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-25-trumps-america-first-approach-meant-america-alone-says-joe-biden-video.md",
-      "title": "Trump's America-first approach 'meant America alone', says Joe Biden – video",
-      "excerpt": "President-elect Joe Biden says his presidency would not be 'a third Obama term' and that he would consider appointing a Republican",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-america-first-approach-meant-america-alone-says-joe-biden-video",
-      "originalUrl": "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-america-first-approach-meant-america-alone-says-joe-biden-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 387,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3b5387289c02728ddcd625e8fbb7739ce859f9cf/0_202_3047_1829/master/3047.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28a1692bd9f6f64c8271b0beb3ee0451",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T17:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-25-corn-vs-cob-trump-pardons-lucky-thanksgiving-turkey-but-avoids-political-jokes.md",
       "title": "Corn vs. Cob: Trump pardons 'lucky' Thanksgiving turkey but avoids political jokes",
       "excerpt": "President Donald Trump partook in an annual holiday tradition – the pardoning of the National Thanksgiving Turkey, a turkey named Corn.",
@@ -1355,7 +1355,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/24/president-donald-trump-pardons-thanksgiving-turkey-skips-political-jokes/6406179002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1459,7 +1459,7 @@
       "originalUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 228,
+      "heat": 168,
       "tags": null,
       "images": [
         {

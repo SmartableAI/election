@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-24-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election.md",
+      "title": "WEB EXTRA: VP Mike Pence and Karen Pence Vote In 2020 Election",
+      "excerpt": "Vice President Mike Pence and Second Lady Karen Pence voted in the 2020 general election in Indianapolis, IN on Friday. The Pences submitted their absentee ballots in person.",
+      "sourceUrl": null,
+      "webUrl": "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/",
+      "originalUrl": "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/",
+      "cdnAmpWebUrl": "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/",
+      "publishedDateTime": "2020-10-23T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-vice-president-mike-pence-will-host-rally-in-kinston-on-sunday.md",
       "title": "Vice President Mike Pence will host rally in Kinston on Sunday",
       "excerpt": "KINSTON, N.C. (WTVD) -- With a little more than a week before the election, Vice President Mike Pence will visit the Tar Heel state for a planned rally one day after President Donald Trump.",

@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-11-authoritarians-from-mussolini-to-trump.md",
+      "title": "Authoritarians From Mussolini to Trump",
+      "excerpt": "Ghiat contributes to this literature in a book that compares Trump to a wide variety of earlier strongmen, including Mussolini, Hitler,, Francisco Franco, Muammar Qaddafi, Silvio Berlusconi and Mobutu Sese Seko,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/11/books/review/11Fukuyama-combo/11Fukuyama-combo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html",
+      "publishedDateTime": "2020-11-10T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-why-texass-overwhelmingly-latino-rio-grande-valley-turned-toward-trump.md",
       "title": "Why Texas’s overwhelmingly Latino Rio Grande Valley turned toward Trump",
       "excerpt": "But something different happened along the Rio Grande. Republicans ran up their numbers in the overwhelmingly Hispanic, reliably Democratic counties along the border, taking advantage of the habitual underinvestment and lack of infrastructure there,",
@@ -1521,58 +1578,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-they-gonna-do-him-dirty-50-cent-says-donald-trump-is-going-to-jail.md",
-      "title": "'They Gonna Do Him Dirty': 50 Cent Says Donald Trump Is Going to Jail",
-      "excerpt": "\"You ever herd [sic] a president say stop counting the f**king votes. LOL SMH,\" the rapper tweeted on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/50-cent-donald-trump-election-1545225",
-      "originalUrl": "https://www.newsweek.com/50-cent-donald-trump-election-1545225",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1665432/50-cent-says-trumps-going-jail.jpg",
-          "width": 3256,
-          "height": 2163,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1",
-      "publishedDateTime": "2020-11-05T10:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

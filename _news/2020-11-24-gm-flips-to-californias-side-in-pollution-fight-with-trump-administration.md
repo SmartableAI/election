@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Trump's war on immigration takes on political overtone at Supreme Court"
-    excerpt: "The president is seeking to exclude undocumented immigrants from census calculations used to apportion House seats, electoral votes and federal funds."
-    publishedDateTime: 2020-11-29T14:11:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/29/donald-trumps-immigration-election-policies-collide-supreme-court/6391231002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6391231002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6391231002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/05/30/USAT/69ac00ae-95d1-4bf3-a68c-8cc7972d3dd5-AP_Supreme_Court_Census_Citizenship.JPG?auto=webp&crop=4199,2352,x0,y251&format=pjpg&width=1200"
-        width: 1200
-        height: 672
-        isCached: true
 
 secured: "acMFo+PslK5cBa8863Pah+gPtaYapSLrd5FUK8uwWYWvU6dSEXLJCmWYNgKIFeTwByzY6JREWqTmukzr2mQyBawe+ppX339JqdgPvLpq3+wWq/8LHnpbTK1QsCmG91E7KXV3IwcSCAfEihgbgVP4n3GPm7/Lv9G3ftzx0+MBDRSiNu1HUQV6z2eQuln7307BMGBkBsaUjUWg1ZRbBcF1e3Tb8mSxkeLnIf/BpGpN2pMxZ3fAnPhGBnLfpoS9w2ZwoTjCMbHuCAxfle6tFFuahwTjeBoz3DAp6xUuQdP1hhTvtCUOzEQHrbOVflK5rWrhxxezOEwRO5AyU54TBm5Co8Hy1u6ftGx/eCUwGBzv8lluLqFEJP9Gv0XF7wF2QCwKh3Eebp/ZJfnP3pUVm1nNwR8hBSDkFaBAfmOgMpNMIiZB9BegiouReN/f2wM1hYLAhN1tltlij2CCcy0eKvl4ZLLmFduVcbC7wUkk4bhT3phrMYshztB+NCnJG91PYgG7KrvBfK81Fn9r8JT53YlrwQ==;dwkhu8DYgMPX0oDY9idXjA=="
 ---

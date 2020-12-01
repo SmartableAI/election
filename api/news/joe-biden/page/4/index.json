@@ -2,6 +2,168 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-22-biden-calls-for-bipartisan-commission-to-propose-ways-to-reform-the-court-system.md",
+      "title": "Biden calls for 'bipartisan commission' to propose ways to 'reform the court system'",
+      "excerpt": "Biden faces pressure to take a position on adding seats to the Supreme Court as Trump’s nominee advances toward a Senate vote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-calls-bipartisan-commission-propose-ways-reform-court-system-n1244271",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-calls-bipartisan-commission-propose-ways-reform-court-system-n1244271",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_43/3422105/201022-joe-biden-cincinatti-jm-0931_816bd6ee28dec090bc4549dd0d88c9eb.jpg",
+          "width": 2500,
+          "height": 1496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244271",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244271",
+      "publishedDateTime": "2020-10-22T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation.md",
+      "title": "Byron York's Daily Memo: Joe Biden (sort of) addresses Hunter Biden accusation",
+      "excerpt": "ADDRESSES HUNTER BIDEN ACCUSATION. The Democratic presidential nominee isn't campaigning in person this week -- an odd choice in the final days of a hard-fought campaign. But Joe Biden did do a video interview Wednesday with a Wisconsin television station,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation",
+      "originalUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/9f02367/2147483647/strip/true/crop/1060x600+0+0/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F1b%2Fdd%2F5520d8a2407eb68282a5cf5f8e59%2Fdaily-memo-default-1060x600.png",
+          "width": 1060,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation?_amp=true",
+      "publishedDateTime": "2020-10-22T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china-goodwin.md",
+      "title": "Hunter biz partner confirms e-mail, details Joe Biden’s push to make millions from China: Goodwin",
+      "excerpt": "Wait until Scranton hears about this. One of Joe Biden’s ways of contrasting himself with President Trump has been to declare the election a battle of Park Avenue values vs. Scranton, Pa., values.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/",
+      "originalUrl": "https://nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/biden-china-nypost-cover.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/amp/",
+      "publishedDateTime": "2020-10-21T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-rudy-giuliani-gives-alleged-hunter-biden-hard-drive-to-delaware-authorities.md",
       "title": "Rudy Giuliani gives alleged Hunter Biden hard drive to Delaware authorities",
       "excerpt": "Giuliani visited the New Castle County Police Department in Delaware on Monday and handed over a copy of what he says was Hunter Biden’s hard drive, according to a spokesperson for the Delaware Department of Justice.",

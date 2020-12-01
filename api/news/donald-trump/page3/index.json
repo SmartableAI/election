@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-18-trump-and-allies-pitch-yet-another-woeful-voter-fraud-theory-in-nevada.md",
+      "title": "Trump and allies pitch yet another woeful voter-fraud theory in Nevada",
+      "excerpt": "Officials have moved to re-do a race in Clark County. It's not the voter fraud smoking gun Trump and his allies suggest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WMYTA4RA3YI6XLKTJQP5USMQPU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/?outputType=amp",
+      "publishedDateTime": "2020-11-17T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-latino-voters-who-fled-dictatorships-demand-four-more-years-for-trump.md",
       "title": "Latino voters who fled dictatorships demand four more years for Trump",
       "excerpt": "Many Latino Trump supporters who escaped authoritarian regimes fear they are once again witnessing widespread election fraud despite lack of evidence.",
@@ -852,7 +904,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/donald-trump-wins-north-carolina-74199063",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1502,63 +1554,6 @@
       "ampWebUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
       "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
       "publishedDateTime": "2020-11-10T18:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-authoritarians-from-mussolini-to-trump.md",
-      "title": "Authoritarians From Mussolini to Trump",
-      "excerpt": "Ghiat contributes to this literature in a book that compares Trump to a wide variety of earlier strongmen, including Mussolini, Hitler,, Francisco Franco, Muammar Qaddafi, Silvio Berlusconi and Mobutu Sese Seko,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/11/books/review/11Fukuyama-combo/11Fukuyama-combo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html",
-      "publishedDateTime": "2020-11-10T10:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Times",

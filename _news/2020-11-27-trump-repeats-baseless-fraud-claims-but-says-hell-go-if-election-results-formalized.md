@@ -63,19 +63,19 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Debunking Trump allies’ latest arguments about fraud in the 2020 election"
-    excerpt: "The 2020 presidential contest ended four weeks ago Tuesday, but for President Trump and his allies, the fight continues. The president, as you’re no doubt well aware, continues to insist that it was he,"
-    publishedDateTime: 2020-11-30T20:02:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/30/debunking-trump-teams-latest-arguments-about-fraud-2020-election/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/30/debunking-trump-teams-latest-arguments-about-fraud-2020-election/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/30/debunking-trump-teams-latest-arguments-about-fraud-2020-election/?outputType=amp"
+  - title: "Trump raises more than $150 million appealing to false election claims"
+    excerpt: "The record influx of donations is one reason Trump and some allies are inclined to continue a legal onslaught and public affairs blitz despite repeated failures to challenge President-elect Joe Biden’s victory."
+    publishedDateTime: 2020-12-01T02:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-raises-more-than-150-million-appealing-to-false-election-claims/2020/11/30/82e922e6-3347-11eb-afe6-e4dbee9689f8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-raises-more-than-150-million-appealing-to-false-election-claims/2020/11/30/82e922e6-3347-11eb-afe6-e4dbee9689f8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-raises-more-than-150-million-appealing-to-false-election-claims/2020/11/30/82e922e6-3347-11eb-afe6-e4dbee9689f8_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 139
+    quality: 140
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CVGQRKRPI4I6XHOWFUAXTGAXDE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZGSLP7BOQAI6XHOWFUAXTGAXDE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -126,22 +126,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/25/0c0c189a-1cc0-45ce-b60d-1d2fe30aebb9/thumbnail/1200x630/2d99a8710f49d1ebcbf50b3e2faccce2/rudy.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Trump questions whether Supreme Court would hear election challenge as options dwindle"
-    excerpt: "President Donald Trump on Sunday questioned whether the Supreme Court would ever hear a case airing his unproven allegations of widespread election fraud as senior U.S. Republicans said a transition to a Joe Biden presidency looked inevitable."
-    publishedDateTime: 2020-11-30T02:21:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN2890NP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2890NP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2890NP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 132
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542849124&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT02Y"
-        width: 817
-        height: 545
         isCached: true
   - title: "'Don't talk to me that way': Trump lashes out at White House reporter over election question"
     excerpt: "Trump angrily admonished Reuters reporter Jeff Mason after he asked if he would concede the election after the Electoral College voted for Biden."
@@ -287,22 +271,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Senate confirms two Trump picks for energy regulation panel"
-    excerpt: "The U.S. Senate on Monday confirmed two of President Donald Trump's picks for the Federal Energy Regulatory Commission (FERC), in a move that could secure a Republican majority on the panel through June."
-    publishedDateTime: 2020-12-01T01:46:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-senate-ferc-idUSKBN28B3DC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3DC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3DC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542985386&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01VA"
-        width: 817
-        height: 545
-        isCached: true
   - title: "What the Trump family’s new political committees can and can’t do"
     excerpt: "The president isn’t the only Trump who appears to be exploring the boundaries of campaign fundraising. Aides to his son Donald Trump Jr. have formed a political action committee called Save the U.S. Senate PAC that is focused on the run-off elections in Georgia in early January."
     publishedDateTime: 2020-12-01T12:04:00Z
@@ -318,6 +286,38 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I46LDCBMAYI6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 959
+        isCached: true
+  - title: "Trump raises $170 million as he looks to future"
+    excerpt: "President Donald Trump has raised roughly $170 million since his Election Day defeat, a sum garnered through a nonstop stream of solicitations that have falsely claimed the election was stolen while requesting contributions for an “election defense fund."
+    publishedDateTime: 2020-12-01T18:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-raises-170-million-as-he-looks-to-future/2020/12/01/37078652-33ff-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-raises-170-million-as-he-looks-to-future/2020/12/01/37078652-33ff-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-raises-170-million-as-he-looks-to-future/2020/12/01/37078652-33ff-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump administration moves to strip federal protections for migratory birds"
+    excerpt: "The Trump administration moved forward Friday on gutting a longstanding federal protection for the nation's birds, over objections from former federal officials and many scientists that billions more birds will likely perish as a result."
+    publishedDateTime: 2020-12-01T16:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/12/01/trump-administration-moves-gut-federal-protections-migratory-birds/6463879002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6463879002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6463879002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/30/PGRF/9bfd80db-f79b-45b8-b49c-f57b55a20c05-AP20323772023717.jpg?auto=webp&crop=2249,1266,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Barack Obama: ‘Donald Trump and I tell very different stories about America’"
     excerpt: "Four years after leaving office, he’s officially the world’s most admired man.But what is Obama’s legacy? The former president talks Trump, Biden and America’s new dawn"

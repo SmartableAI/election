@@ -55,6 +55,22 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "Biden urges Americans to be safe during holiday, fight coronavirus pandemic"
+    excerpt: "U.S. President-elect Joe Biden on Wednesday pleaded with Americans to take steps to remain safe as COVID-19 cases surge on the eve of the Thanksgiving holiday and pledged again to make combating the pandemic a top priority when he takes office in January."
+    publishedDateTime: 2020-11-25T22:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2851FD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2851FD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2851FD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542482301&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1SJ"
+        width: 818
+        height: 545
+        isCached: true
   - title: "From the coronavirus to the environment, Biden plans to take government in new direction"
     excerpt: "A review of Biden's plans so far suggests that among his priorities will be tackling COVID-19, rolling back Trump actions, expanding on Obama initiatives."
     publishedDateTime: 2020-11-24T21:05:00Z
@@ -103,17 +119,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Congress braces for Biden's national coronavirus strategy"
-    excerpt: "WASHINGTON (AP) — Congress is bracing for President-elect Joe Biden to move beyond the Trump administration’s state-by-state approach to the and build out a national strategy to fight the pandemic and distribute the eventual vaccine."
-    publishedDateTime: 2020-11-25T23:40:00Z
-    webUrl: "https://www.businessinsider.com/congress-braces-for-bidens-national-coronavirus-strategy-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/congress-braces-for-bidens-national-coronavirus-strategy-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-braces-for-bidens-national-coronavirus-strategy-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Biden's team has made contact with Dr. Fauci, and the president-elect said he has been 'very, very helpful' in briefings with staff"
     excerpt: "The contact between Fauci and Biden's team comes as the US may be entering the darkest stage yet of the coronavirus pandemic."
     publishedDateTime: 2020-11-25T06:08:00Z

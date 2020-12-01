@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-25-senior-biden-staffer-called-palestinian-suicide-bombings-the-last-resort-of-a-desperate-people.md",
+      "title": "Senior Biden staffer called Palestinian suicide bombings ‘the last resort of a desperate people’",
+      "excerpt": "Biden's pick for Deputy Director of the White House Office of Legislative Affairs referred to Palestinian suicide bombings as \"the last resort of a desperate people\" in 2002.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h0J2FB8CEdw/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h0J2FB8CEdw/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20321761004454.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california.amp",
+      "publishedDateTime": "2020-11-24T16:05:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-biden-emphasizes-foreign-policy-team-will-lead-the-world-not-retreat.md",
+      "title": "Biden emphasizes foreign policy team will 'lead the world, not retreat'",
+      "excerpt": "President-elect Joe Biden says that his newly named foreign policy and national security team will keep the nation \"safe and secure\" and will show that \"America is back.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UAJfwkzCAcA/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UAJfwkzCAcA/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat.amp",
+      "publishedDateTime": "2020-11-24T12:09:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-pennsylvania-certifies-election-results-for-biden-despite-trump-legal-challenges.md",
       "title": "Pennsylvania certifies election results for Biden despite Trump legal challenges",
       "excerpt": "The Pennsylvania State Department certified the results of the presidential election in favor of President-elect Joe Biden and Vice President-elect Kamala Harris, Gov. Tom Wolf said Tuesday.",
@@ -1537,119 +1649,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bowman-biden-payback-black-communities.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bowman-biden-payback-black-communities.amp",
       "publishedDateTime": "2020-11-19T18:22:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-pence-to-campaign-friday-in-georgia-runoffs-but-no-word-on-a-trump-trip.md",
-      "title": "Pence to campaign Friday in Georgia runoffs, but no word on a Trump trip",
-      "excerpt": "Vice President Mike Pence heads to Georgia on Friday, to campaign with Sens. David Perdue and Kelly Loeffler, the Republican incumbents in the state’s twin Senate runoff elections. But there's no word on whether President Trump will head to Georgia.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dbCjbBeWboc/pence-campaign-friday-georgia-runoffs-trump-trip",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dbCjbBeWboc/pence-campaign-friday-georgia-runoffs-trump-trip",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 539,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-campaign-friday-georgia-runoffs-trump-trip.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-campaign-friday-georgia-runoffs-trump-trip.amp",
-      "publishedDateTime": "2020-11-19T14:24:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-trump-faces-economic-redline.md",
-      "title": "Trump faces economic redline",
-      "excerpt": "When it comes to who’s-telling-whom, economic interests usually dictate political actions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HW6LqRkl98I/trump-faces-economic-redline",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HW6LqRkl98I/trump-faces-economic-redline",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-faces-economic-redline.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-faces-economic-redline.amp",
-      "publishedDateTime": "2020-11-19T13:53:47-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

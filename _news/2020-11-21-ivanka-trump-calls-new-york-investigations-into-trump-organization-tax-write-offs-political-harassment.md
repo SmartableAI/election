@@ -47,22 +47,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Trump order could spark mass firings of civil servants before inauguration, lawmakers warn"
-    excerpt: "U.S. government civil servants could face mass firings under an executive order before President Donald Trump leaves office, and Democratic lawmakers, watchdog groups and unions are scrambling to block it."
-    publishedDateTime: 2020-11-26T02:56:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-transition-civilservants-idUSKBN28538O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28538O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28538O"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 115
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542487310&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP00M"
-        width: 817
-        height: 545
-        isCached: true
   - title: "New York fraud investigations into Trump have expanded to include consulting fee write-offs, some of which appeared to be paid to Ivanka Trump"
     excerpt: "A Times investigation found one consulting fee exactly matched a payment disclosed by Ivanka Trump that she received from a firm she co-owns."
     publishedDateTime: 2020-11-20T07:43:00Z

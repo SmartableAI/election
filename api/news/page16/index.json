@@ -2,6 +2,327 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-11-08-breakingviews-biden-win-sets-scene-for-storm-before-the-calm.md",
+      "title": "Breakingviews - Biden win sets scene for storm before the calm",
+      "excerpt": "Americans chose Joe Biden as their 46th president. That should usher in a more predictable period for policymaking, and decisive action on containing Covid-19. But he faces three major challenges: voters’ effective rejection of his party’s punchier ideas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540367165&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60HN",
+          "width": 990,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27N0NT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0NT",
+      "publishedDateTime": "2020-11-07T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-joe-biden-urges-patience-unity-as-he-waits-with-the-rest-of-america.md",
+      "title": "Joe Biden urges patience, unity as he waits with the rest of America",
+      "excerpt": "Joe Biden — like the rest of America — is still waiting. Despite being on the cusp of the presidency, Biden did not give the victory speech he and his campaign hoped he would deliver on Friday night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/07/joe-biden-urges-patience-unity-he-waits-rest-america/6201879002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/07/joe-biden-urges-patience-unity-he-waits-rest-america/6201879002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/07/PWIL/8fe8140d-f5ef-4032-bf35-6123ab4fbc90-AP20312142716387.jpg?auto=webp&crop=3983,2240,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6201879002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6201879002",
+      "publishedDateTime": "2020-11-07T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-election-2020-exit-polls-political-pundits-utterly-failed-to-predict-donald-trumps-voters.md",
+      "title": "Election 2020 exit polls: Political pundits utterly failed to predict Donald Trump's voters",
+      "excerpt": "How could the polling be so wrong that it seems Donald Trump gained support among women and racial minorities? There really was a shy Trump voter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/11/07/election-2020-exit-polls-trump-minorities-race-women-column/6191966002/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/11/07/election-2020-exit-polls-trump-minorities-race-women-column/6191966002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 410,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/29/USAT/95eda6cb-d6de-4681-af51-0488a19e59f5-AP_Electon_2020_Trump.jpg?auto=webp&crop=3599,2024,x0,y183&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6191966002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191966002",
+      "publishedDateTime": "2020-11-07T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-democrat-in-greenwich-ecstatic-kamala-harris-on-cusp-of-being-vp.md",
+      "title": "Democrat in Greenwich 'ecstatic' Kamala Harris on cusp of being VP",
+      "excerpt": "Joe Biden seemed poised on Friday to take Pennsylvania and, most likely, the presidency. The victory, if and when it comes, was applauded by local experts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/elections/article/The-writing-is-on-the-wall-Greenwich-and-15708337.php",
+      "originalUrl": "https://www.houstonchronicle.com/elections/article/The-writing-is-on-the-wall-Greenwich-and-15708337.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/15/11/41/20224098/13/rawImage.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-07T00:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-bernie-sanders-thanks-praises-progressives-for-bidens-victory-before-race-is-called.md",
+      "title": "Bernie Sanders thanks, praises progressives for 'Biden's victory' before race is called",
+      "excerpt": "Sen. Bernie Sanders thanked progressives Friday afternoon for aiding Democratic nominee Joe Biden’s 2020 presidential efforts – even with the race still too close to call.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f2Dal4MmAE0/bernie-sanders-progressives-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f2Dal4MmAE0/bernie-sanders-progressives-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20074794494233.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bernie-sanders-progressives-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-progressives-biden.amp",
+      "publishedDateTime": "2020-11-06T19:28:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-where-is-mike-pence.md",
+      "title": "Where is Mike Pence?",
+      "excerpt": "Vice President Mike Pence hasn’t been seen publicly for three days. Pence, who heads the coronavirus task force and serves as president of the Senate, was not with the president in the briefing room Thursday night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-06-trump-biden-election-results-n1246707/ncrd1246885",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-06-trump-biden-election-results-n1246707/ncrd1246885",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_45/3425842/201104-post-election-live-blog-main-cover-cs_677f87a787c5da5efad0d320bdbc0748.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1246707",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1246707",
+      "publishedDateTime": "2020-11-06T19:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-home-vandalized-after-california-man-hangs-effigy-of-biden.md",
       "title": "Home vandalized after California man hangs effigy of Biden",
       "excerpt": "The Northern California home of a supporter of President Donald Trump was vandalized Friday after an effigy of Joe Biden accompanied by the word \"cheater\" was hung from its second-story roof with a rope,",
@@ -1008,327 +1329,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-trump-agenda-won-up-and-down-the-ballot-as-pundits-and-polls-missed-the-mark-again-kellyanne-conway.md",
-      "title": "'Trump agenda won up and down the ballot' as pundits and polls missed the mark again: Kellyanne Conway",
-      "excerpt": "The pollsters and pundits got the 2020 presidential race wrong yet again, Kellyanne Conway, former Trump 2016 campaign manager, told \"Fox & Friends.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S2QHUutMvW4/2020-election-polls-race-trump-results-kellyanne-conway",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S2QHUutMvW4/2020-election-polls-race-trump-results-kellyanne-conway",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/2020-election-polls-race-trump-results-kellyanne-conway.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/2020-election-polls-race-trump-results-kellyanne-conway.amp",
-      "publishedDateTime": "2020-11-05T09:16:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-ap-votecast-trump-makes-inroads-with-latinos-in-key-states.md",
-      "title": "AP VoteCast: Trump makes inroads with Latinos in key states",
-      "excerpt": "The U.S. presidential election highlighted sharply different views on the ongoing public health crisis, a stubborn economic downturn and racial inequality, while showing that candidates can’t always t",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-votecast-trump-voters-skeptical-vote-count-74022500",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-votecast-trump-voters-skeptical-vote-count-74022500",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_519142f97e0b49c58f372a548550a06a_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-votecast-trump-voters-skeptical-vote-count-74022500",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-votecast-trump-voters-skeptical-vote-count-74022500",
-      "publishedDateTime": "2020-11-05T01:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-trump-is-trying-to-claim-the-presidency-by-saying-we-hereby-claim-key-states-but-that-is-not-how-elections-work.md",
-      "title": "Trump is trying to claim the presidency by saying 'we hereby claim' key states but that is not how elections work",
-      "excerpt": "\"We have claimed, for Electoral Vote purposes, the Commonwealth of Pennsylvania,\" the president tweeted on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11",
-      "originalUrl": "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa32879f7d1cb0019e39e0f?width=1200&format=jpeg",
-          "width": 975,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp",
-      "publishedDateTime": "2020-11-05T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-anderson-cooper-cuts-off-rick-santorum-after-he-said-businesses-didnt-board-up-their-storefronts-to-keep-donald-trump-supporters-from-looting.md",
-      "title": "Anderson Cooper cuts off Rick Santorum after he said businesses didn't board up their storefronts 'to keep Donald Trump supporters from looting'",
-      "excerpt": "\"They boarded up businesses in New York City, not to keep Donald Trump supporters from looting, okay?\" Santorum said during a CNN panel Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11",
-      "originalUrl": "https://www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa36e4df7d1cb0019e39e7d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11?amp",
-      "publishedDateTime": "2020-11-04T22:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid.md",
-      "title": "Biden's 1 electoral vote from Nebraska district could prove pivotal to his White House bid",
-      "excerpt": "Omaha, Neb., became “Jomaha” as Democratic nominee Joe Biden won a single electoral vote from the state’s 2nd Congressional District.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid",
-      "originalUrl": "https://www.foxnews.com/politics/bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20293774864185.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid.amp",
-      "publishedDateTime": "2020-11-04T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-michigan-secretary-of-state-calls-trump-lawsuit-frivolous.md",
-      "title": "Michigan secretary of state calls Trump lawsuit 'frivolous'",
-      "excerpt": "Michigan's secretary of state said on Wednesday that a lawsuit by U.S. President Donald Trump seeking to halt counting of votes was \"frivolous.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-michigan-lawsuit-idUSKBN27L065",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-michigan-lawsuit-idUSKBN27L065",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540057550&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA403F",
-          "width": 846,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27L065",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L065",
-      "publishedDateTime": "2020-11-04T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -82,7 +82,7 @@ related:
   - title: "Trump sues Wisconsin governor, officials to try to reverse election results"
     excerpt: "President Donald Trump sued Wisconsin officials Tuesday in a last-ditch effort to reclaim a state he lost by about 20,700 votes."
     publishedDateTime: 2020-12-01T16:47:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/01/donald-trump-sues-try-reverse-bidens-election-win-wisconsin/6477315002/"
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/01/donald-trump-sues-try-reverse-bidens-election-win-wisconsin/6477315002/?scrolla=5eb6d68b7fedc32c19ef33b4"
     ampWebUrl: "https://amp.usatoday.com/amp/6477315002"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6477315002"
     type: article

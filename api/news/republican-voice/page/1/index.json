@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-01-pence-returns-to-georgia-on-friday-obama-stars-in-new-ossoff-tv-ad.md",
+      "title": "Pence returns to Georgia on Friday; Obama stars in new Ossoff TV ad",
+      "excerpt": "Vice President Mike Pence will return to Georgia on Friday to hit the campaign trail in the state’s twin Jan. 5 Senate runoff elections, where the Republicans' Senate majority is at stake.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HChPSLnQKKo/pence-returns-to-georgia-obama-stars-new-ossoff-ad",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HChPSLnQKKo/pence-returns-to-georgia-obama-stars-new-ossoff-ad",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-returns-to-georgia-obama-stars-new-ossoff-ad.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-returns-to-georgia-obama-stars-new-ossoff-ad.amp",
+      "publishedDateTime": "2020-12-01T09:57:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-fired-cybersecurity-chief-may-include-trump-attorney-in-lawsuit-over-death-threats.md",
+      "title": "Fired cybersecurity chief may include Trump attorney in lawsuit over death threats",
+      "excerpt": "Former Cybersecurity and Infrastructure Security Agency Director Chris Krebs said Tuesday he plans to take legal action against people who have threatened his life after he disagreed with his onetime boss, President Trump, over the validity of the Nov. 3 election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWbFVmoKkmo/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWbFVmoKkmo/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20323077316005-e1605728670595.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp",
+      "publishedDateTime": "2020-12-01T09:26:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-executive-at-nonprofit-that-helped-in-georgia-audit-has-history-of-anti-trump-tweets.md",
       "title": "Executive at nonprofit that helped in Georgia audit has history of anti-Trump tweets",
       "excerpt": "The executive director of a San Francisco-based nonprofit that was tapped by Georgia’s secretary of state to assist in the state’s audit has a history of anti-Trump tweets, but has insisted that he does not “bring them to work.”",
@@ -1538,118 +1651,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration.amp",
       "publishedDateTime": "2020-11-24T16:27:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-senior-biden-staffer-called-palestinian-suicide-bombings-the-last-resort-of-a-desperate-people.md",
-      "title": "Senior Biden staffer called Palestinian suicide bombings ‘the last resort of a desperate people’",
-      "excerpt": "Biden's pick for Deputy Director of the White House Office of Legislative Affairs referred to Palestinian suicide bombings as \"the last resort of a desperate people\" in 2002.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h0J2FB8CEdw/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h0J2FB8CEdw/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20321761004454.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california.amp",
-      "publishedDateTime": "2020-11-24T16:05:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-biden-emphasizes-foreign-policy-team-will-lead-the-world-not-retreat.md",
-      "title": "Biden emphasizes foreign policy team will 'lead the world, not retreat'",
-      "excerpt": "President-elect Joe Biden says that his newly named foreign policy and national security team will keep the nation \"safe and secure\" and will show that \"America is back.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UAJfwkzCAcA/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UAJfwkzCAcA/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-emphasizes-his-foreign-policy-team-will-lead-the-world-not-retreat.amp",
-      "publishedDateTime": "2020-11-24T12:09:49-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

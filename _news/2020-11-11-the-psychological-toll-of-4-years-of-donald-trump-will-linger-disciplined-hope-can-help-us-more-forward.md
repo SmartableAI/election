@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "America's bellwethers crumbled in aligning with Trump in '20"
+    excerpt: "Indiana's Vigo County had been America’s most reliable presidential bellwether, voting in line with the rest of the nation since 1956"
+    publishedDateTime: 2020-11-19T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fe367a2fc1344c12bbb8e0178298717e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump remains silent as US passes 250,000 COVID-19 deaths"
     excerpt: "The White House did not respond to repeated inquiries from ABC News on whether Trump had any plans to recognize the more than 250,000 reported deaths related to COVID-19, although"
     publishedDateTime: 2020-11-19T20:43:00Z

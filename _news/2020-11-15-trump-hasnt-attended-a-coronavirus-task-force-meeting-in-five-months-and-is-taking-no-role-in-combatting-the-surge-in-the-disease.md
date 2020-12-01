@@ -139,6 +139,20 @@ related:
         width: 3899
         height: 2596
         isCached: true
+  - title: "‘My Frustration Turned Into Anger.’ Some Americans Who Lost Family Members to COVID-19 Have Turned Against Donald Trump"
+    excerpt: "While it’s impossible to know how many former Trump supporters who lost family to COVID-19 changed their minds the way Zeman did, it’s clear that the pandemic has catalyzed a nationwide politics of grief."
+    publishedDateTime: 2020-11-19T21:40:00Z
+    webUrl: "https://time.com/5913055/coronavirus-family-members-political-grief/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 81
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/Barbara-Zeman.jpg?w=720"
+        width: 720
+        height: 432
+        isCached: true
 
 secured: "4M/UzcGk3PNwSKyTpP7iWhPZnxYvc9vsCNZSB6oRJrysC+AtboBG1uV8LGb2M0LKUPFT5BorN1WgqtMbS9F/WRgV3vx9O3FXQEkiE5eo0FfmAfoe8NH92bgxJHFxs8Sd1PlSgoenOYKcp6qRv3T/1l9lKy3yu1EkVAoz62ayBSGxgRrWJ20yRqfj1vD9pKXPULOdr2lRhMq/AkqRJ96aC2pIddwHBOq7zm1Xbq8i20D0w1KTw0hkzNUhl8fQtrQKBCK6NtLalUfn9EmGKfrfAu4TNZaPpNIjyRdEVPLQLlMOiomKBtbQBVgq2v6YSikWGoIgCCS5NiO6NbFC+NUy1D2zyhCmKo8d53x9dudGMpY=;HVU/zAbkgx1PNzjMl+J7rg=="
 ---

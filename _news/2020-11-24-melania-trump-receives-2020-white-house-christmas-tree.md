@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6393835002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6393835002"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/30/USAT/c13c2134-3d9a-42a8-93cc-895d30d08dd1-AP20312766885485.jpg?auto=webp&crop=5268,2964,x0,y268&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Melania Trump, like America, may be more in love with President Trump than his critics would hope"
+    excerpt: "The camera pans from her stiletto heel, up her sparkly gown, to her familiar face — it’s Melania Trump! (Her head superimposed on the body of the actual bachelorette.) Is Melania Trump really looking forward to being rid of President Trump as much as tens of millions of Americans are?"
+    publishedDateTime: 2020-11-17T13:04:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSOXTPAXDQI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Chris Christie dismissed Trump's legal team as 'a national embarrassment'"
     excerpt: "The former New Jersey governor and staunch ally of the president said that in cases of voter fraud, there is \"an obligation to present the evidence.\""

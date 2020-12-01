@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-01-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween.md",
+      "title": "Lizzo dresses as fly in Mike Pence's hair for Halloween",
+      "excerpt": "Lizzo used Halloween to troll Vice President Pence, dressing up as the highly buzzed-about fly that landed on his head during the vice presidential debate while encouraging her fans to vote.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/blogs/in-the-know/in-the-know/523769-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween",
+      "originalUrl": "https://thehill.com/blogs/in-the-know/in-the-know/523769-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/lizzo_instagram_10312020.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/blogs/in-the-know/in-the-know/523769-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/523769-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween?amp",
+      "publishedDateTime": "2020-10-31T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-31-vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc.md",
       "title": "VP Mike Pence, Stacey Abrams, Jill Biden campaign in NC",
       "excerpt": "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election.",
@@ -1501,40 +1553,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election.md",
-      "title": "WEB EXTRA: VP Mike Pence and Karen Pence Vote In 2020 Election",
-      "excerpt": "Vice President Mike Pence and Second Lady Karen Pence voted in the 2020 general election in Indianapolis, IN on Friday. The Pences submitted their absentee ballots in person.",
-      "sourceUrl": null,
-      "webUrl": "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/",
-      "originalUrl": "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/",
-      "cdnAmpWebUrl": "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/",
-      "publishedDateTime": "2020-10-23T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

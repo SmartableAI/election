@@ -63,22 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
-    excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
-    publishedDateTime: 2020-11-29T22:12:00Z
-    webUrl: "https://www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 124
-    images:
-      - url: "https://i.insider.com/5fc364fd50e71a0011557d50?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "U.S. Supreme Court weighs Trump bid to bar illegal immigrants from census totals"
     excerpt: "The Supreme Court on Monday is set to take up President Donald Trump's unprecedented and contentious effort to exclude illegal immigrants from the population totals used to allocate U.S. House of Representatives districts to states."
     publishedDateTime: 2020-11-29T12:21:00Z

@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-30-biden-cabinet-pick-hyped-dossier-promoted-conspiracy-about-russian-hackers-changing-votes.md",
+      "title": "Biden Cabinet pick hyped dossier, promoted conspiracy about Russian hackers changing votes",
+      "excerpt": "Neera Tandem, one of President-elect Joe Biden’s Cabinet picks, has vigorously upheld the results of the November Election, yet past tweets show her promoting the anti-Trump Steele Dossier as well as conspiracies about Russian hackers influencing the outcome of the 2016 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SB6VssnK354/biden-cabinet-pick-hyped-dossier-promoted-conspiracy-russian",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SB6VssnK354/biden-cabinet-pick-hyped-dossier-promoted-conspiracy-russian",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20334841054377.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-cabinet-pick-hyped-dossier-promoted-conspiracy-russian.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-pick-hyped-dossier-promoted-conspiracy-russian.amp",
+      "publishedDateTime": "2020-11-30T14:03:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland.md",
+      "title": "Biden will try to revitalize 'smoke and mirrors' Iran deal: KT McFarland",
+      "excerpt": "The Biden administration will \"try to revitalize\" the 2015 Iran nuclear deal, former Deputy National Security Adviser K.T. McFarland predicted Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sk7kP4n7r70/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sk7kP4n7r70/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland.amp",
+      "publishedDateTime": "2020-11-30T13:58:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-fact-check-graphic-comparing-trump-and-obama-is-from-2018-and-contains-an-approval-rating-error.md",
       "title": "Fact check: Graphic comparing Trump and Obama is from 2018 and contains an approval rating error",
       "excerpt": "In November 2020, a 2018 graphic comparing President Donald Trump and President Barack Obama “by the numbers” resurfaced on social media. The chart presents figures showing the Trump administration had outperformed the Obama administration in terms of presidential",
@@ -10,7 +122,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-factcheck-obama-trump-by-the-numbers/fact-check-graphic-comparing-trump-and-obama-is-from-2018-and-contains-an-approval-rating-error-idUSKBN28A2CA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -166,7 +278,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 334,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -207,58 +319,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-the-latest-biden-foreign-leaders-talk-about-pandemic.md",
-      "title": "The Latest: Biden, foreign leaders talk about pandemic",
-      "excerpt": "President-elect Joe Biden spent Monday at home accepting congratulatory calls from foreign leaders, a day after being diagnosed with stress fractures in his foot",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-30T05:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -315,6 +375,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-election-2020-today-biden-chooses-advisers-breaks-foot.md",
+      "title": "Election 2020 Today: Biden chooses advisers, breaks foot",
+      "excerpt": "Here’s what’s happening Monday in Election 2020 and President-elect Joe Biden’s transition. BIDEN’S ECONOMIC PICKS: President-elect Joe Biden is expected in the coming days to name several of his most senior economic advisers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 840,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-30T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -402,58 +514,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-politics-updates-biden-sprains-foot-ankle-playing-with-dog-trump-mocked-for-i-came-up-with-vaccines-claim.md",
-      "title": "Politics updates: Biden sprains foot ankle playing with dog; Trump mocked for 'I came up with vaccines' claim",
-      "excerpt": "Trump mocked for his latest attempt to take credit for a COVID vaccine; GOP Sen. Blunt refuses to call Biden the president-elect – politics updates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/29/political-updates-donald-trump-joe-biden-president-transition/6449096002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/29/political-updates-donald-trump-joe-biden-president-transition/6449096002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/29/USAT/00288076-ff0d-47d5-b774-babb23ac3b4a-GTY_1229788118.jpg?auto=webp&crop=4499,2531,x0,y175&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6449096002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6449096002",
-      "publishedDateTime": "2020-11-30T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -691,6 +751,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-fired-director-of-us-cyber-agency-chris-krebs-explains-why-president-trumps-claims-of-election-interference-are-false.md",
+      "title": "Fired director of U.S. cyber agency Chris Krebs explains why President Trump's claims of election interference are false",
+      "excerpt": "Chris Krebs, a lifelong Republican, was put in charge of the agency handling election security by President Trump two years ago. When Krebs said the election was the country's most secure ever, Mr. Trump fired him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
+      "originalUrl": "https://www.cbsnews.com/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/29/e2b50259-6c0b-488f-b6b9-a5979fcfbb4b/thumbnail/1200x630/40ec454e5a61da816f8e82a5eb85fab9/chriskrebsarticle.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
+      "publishedDateTime": "2020-11-29T16:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1221,114 +1333,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-ex-trump-campaign-adviser-carter-page-sues-fbi-comey-mccabe-and-others-for-75m-over-russia-probe-surveillance.md",
-      "title": "Ex-Trump campaign adviser Carter Page sues FBI, Comey, McCabe and others for $75M over Russia probe surveillance",
-      "excerpt": "Earlier this year, the Justice Department found it had “insufficient” cause to wiretap Page during its probe into Russian election interference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/28/carter-page-ex-trump-aide-sues-comey-fbi-over-russia-surveillance/6453096002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/28/carter-page-ex-trump-aide-sues-comey-fbi-over-russia-surveillance/6453096002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/09/20/USAT/eb2eb1d4-d4f5-4121-b463-96276dbb3600-Carter_page.JPG?auto=webp&crop=4999,2798,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6453096002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6453096002",
-      "publishedDateTime": "2020-11-28T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-trump-continues-fight-in-wis-pa-we-have-found-many-illegal-votes.md",
-      "title": "Trump continues fight in Wis., Pa.: ‘We have found many illegal votes’",
-      "excerpt": "President Trump promised to bring a case disputing the Wisconsin vote count after the recount was completed there, and said his campaign was disputing a number of votes far bigger than the margin President-elect Joe Biden won. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/08KthVMg2IQ/trump-fight-wis-pa-illegal-votes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/08KthVMg2IQ/trump-fight-wis-pa-illegal-votes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20331846075368.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-fight-wis-pa-illegal-votes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fight-wis-pa-illegal-votes.amp",
-      "publishedDateTime": "2020-11-28T15:33:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/julian-assanges-p
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520"
 type: article
 quality: 125
-heat: 165
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Giuliani discussed ‘pre-emptive pardon' with Trump, report says – live"
+    excerpt: "New York Times reports lawyer has discussed possibility with president, but not yet clear what Giuliani would need pardon for – follow all the latest news"
+    publishedDateTime: 2020-12-01T18:35:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc68c458f08c1b9f135793d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/c11052f35fb1f65fe7c377c654ef0658772a6589/0_27_4860_2916/master/4860.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=da753df18c72d2a40197acf879c33f5f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Rudy Giuliani talked to Trump about getting a preemptive pardon before the president leaves office, report says"
     excerpt: "Giuliani is the focus of a federal criminal investigation into whether he violated foreign lobbying laws through his dealings in Ukraine."
     publishedDateTime: 2020-12-01T15:49:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://i.insider.com/5fbfc93a50e71a00115578df?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump attorney Rudy Giuliani coming to Michigan to give testimony on 2020 election"
+    excerpt: "Rudy Giuliani, attorney for President Donald Trump, is coming to Michigan Wednesday to address a legislative committee probing Michigan’s 2020 election process."
+    publishedDateTime: 2020-12-01T16:19:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/12/trump-attorney-rudy-giuliani-coming-to-michigan-to-give-testimony-on-2020-election.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/12/trump-attorney-rudy-giuliani-coming-to-michigan-to-give-testimony-on-2020-election.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/12/trump-attorney-rudy-giuliani-coming-to-michigan-to-give-testimony-on-2020-election.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OUA5RKJTANEJLMY2CFI2PWMQZI.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "PtWi6NxSEX60Tw1/PyGQo+VYSyEHvUvhrNELHjs7rgn3aCsknzHt3AOr9jTBnFrvQzG9cygfh8qoWenIwIHsVMhB/qtrp0kQWRi0ALO3Zm6Ad5Qirre3t0YLTVUsxJU7ybL2atzDMwtwAyk/wM1qX3KevkJI2QaN1tuHT8yWTGeoKdHzE9xxRpcQkPakqwjyYmHUn2CIyVdNFXluWaQhRycSAIAfgNQuDuMLdtbaYcGaReinZFNUdBGOhaJ67VNReOk86SHx36OfLIiOiN++mkcABHV5GqtJcj0wDN0Gr+V0eQgIk61kzIN2Cy1OqkTyr/1PqPVWzA63xW6PgCV9rNgJ44MjZ4skeI3Qe+YjrA4=;6mI5acXoRClI8Lgvr4PbMg=="

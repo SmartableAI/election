@@ -31,85 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Latest: Biden, foreign leaders talk about pandemic"
-    excerpt: "President-elect Joe Biden spent Monday at home accepting congratulatory calls from foreign leaders, a day after being diagnosed with stress fractures in his foot"
-    publishedDateTime: 2020-11-30T13:49:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+  - title: "Biden picks Alejandro Mayorkas, a son of Jewish Cuban refugees, to lead the Department of Homeland Security"
+    excerpt: "Mayorkas was second-in-command at DHS under President Barack Obama. He would be the first immigrant and first Hispanic American to lead the department."
+    publishedDateTime: 2020-11-23T22:01:00Z
+    webUrl: "https://www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 107
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden budget pick Neera Tanden a lightning rod in Washington"
-    excerpt: "Neera Tanden, President-elect Joe Biden's outspoken nominee to head the Office of Management and Budget, faces a challenge winning Senate confirmation after a Washington career in which she has crossed powerful figures on both the right and left."
-    publishedDateTime: 2020-12-01T09:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUSKBN28B3GL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3GL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3GL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542989720&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01X4"
-        width: 823
-        height: 545
-        isCached: true
-  - title: "After Biden win, Rehoboth Beach celebrates local boy who made good: ‘He’s our Joe’"
-    excerpt: "Bikinis and beach umbrellas are marked to sell. The only hint of summer is the tangy scent of vinegar-doused french fries wafting from the one Thrasher’s stand that has remained open. Late fall and winter is when Rehoboth Beach typically gets to crawl back into its shell,"
-    publishedDateTime: 2020-11-27T18:06:00Z
-    webUrl: "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QASGXPBOUQI6XHOWFUAXTGAXDE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VV7ENMBNZQI6XFWCVLB7CYRBLU.jpg&w=1440"
         width: 1440
-        height: 961
-        isCached: true
-  - title: "Black Lives Matter and other activists protest possible Biden appointment for Garcetti"
-    excerpt: "Groups opposed to L.A. Mayor Eric Garcetti possibly joining the Biden administration demonstrated outside Garcetti's residence on Monday for the seventh straight day."
-    publishedDateTime: 2020-12-01T03:02:00Z
-    webUrl: "https://www.latimes.com/california/story/2020-11-30/black-lives-matter-los-angeles-garcetti-biden-protests"
-    ampWebUrl: "https://www.latimes.com/california/story/2020-11-30/black-lives-matter-los-angeles-garcetti-biden-protests?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-30/black-lives-matter-los-angeles-garcetti-biden-protests?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 117
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/d2b8b03/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2F9b%2Ff2f5489a4db4a2d9343b35db7727%2Fla-photos-1staff-545331-me-0522-unusual-getaway-day-005.IK.JPG"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Joe Biden’s Plans To Carry Out Every Proposal On The LGBTQ Community’s List"
-    excerpt: "President-elect Joe Biden just released his plans for the LGBTQ community and he wants to grant all of it's wishes."
-    publishedDateTime: 2020-11-28T21:13:00Z
-    webUrl: "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702"
-    ampWebUrl: "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/24/soundbiteus-president-elect-joe-biden-introduces-a-seasoned.jpg"
-        width: 1024
-        height: 576
+        height: 960
         isCached: true
 
 secured: "2WKddSWHBcbxDemtgnkOlXVWbd+MincVulY0/A8eap12jKl5yLzykRAwIeQd9FKjN/oVSIh4IvYOqTHM2ADvwhTam7eb0gYK8RZGaFFzlel3jvvrPTCeHDQPQaNRgzMi2IdlLDr5L7c7YjH+4QGm/VTkSJjUhhpvM6d+DmnOLj4snIskd9jMZpL8BlV/Nr6Q9TUD0cG2lIfiQxr59l8SFovfnymhbjofRN9Mdpgvv7eYk9Jz/FQMjSqJr/0XzWyEoP/k4yT/1AQGpT3f3LzgxN5DFYNcK1ijonNqa+QCjTVp2mnMxUNDYeG13uoB6PHlUz6qZlD9aEmfAPessB/vTnEWqY1rtWdaji3DNWZtOQc=;7nBHIgpGuUkZFoPEYmpnjA=="

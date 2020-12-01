@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-18-university-dean-resigns-over-statement-that-called-biden-voters-ignorant-anti-american-and-anti-christian.md",
+      "title": "University dean resigns over statement that called Biden voters \"ignorant, anti-American and anti-Christian\"",
+      "excerpt": "A dean at a university in Virginia has resigned after posting a statement on Facebook that called supporters of President-elect Joe Biden “ignorant, anti-American and anti-Christian.” Virginia Wesleyan University announced the resignation Monday in a statement on its website.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/education/2020/11/17/virginia-wesleyan-university-dean-resigns-statement-biden-voters/6325744002/",
+      "originalUrl": "https://www.usatoday.com/story/news/education/2020/11/17/virginia-wesleyan-university-dean-resigns-statement-biden-voters/6325744002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/07/USAT/865081a8-2c31-4568-a288-c275f590d8b5-AP_Election_2020_Washington.jpg?auto=webp&crop=4987,2806,x0,y253&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6325744002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6325744002",
+      "publishedDateTime": "2020-11-17T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-joe-bidens-irish-supporters-are-celebrating-the-victory-of-their-favorite-uncle-as-he-faces-boris-johnson-over-brexit.md",
+      "title": "Joe Biden's Irish supporters are celebrating the victory of their 'favorite uncle' as he faces Boris Johnson over Brexit",
+      "excerpt": "A Biden campaign source said they expected Ireland to be Joe Biden's first state visit once in the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/joe-biden-irish-supporters-celebrate-expect-brexit-showdown-with-uk-2020-11",
+      "originalUrl": "https://www.businessinsider.com/joe-biden-irish-supporters-celebrate-expect-brexit-showdown-with-uk-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5faeb2ce1c741f0019ac9a72?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/joe-biden-irish-supporters-celebrate-expect-brexit-showdown-with-uk-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-irish-supporters-celebrate-expect-brexit-showdown-with-uk-2020-11?amp",
+      "publishedDateTime": "2020-11-16T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-sunrise-movement-leader-its-on-us-to-make-sure-biden-embraces-environmental-mandate.md",
+      "title": "Sunrise Movement leader: 'It's on us' to make sure Biden embraces environmental 'mandate'",
+      "excerpt": "A leader in the environmental advocacy group the Sunrise Movement expressed optimism that activists would be able to hold President-elect Joe Biden’s “feet to the fire” on climate issues.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/hilltv/rising/526137-sunrise-movement-leader-its-on-us-to-make-sure-biden-embraces-environmental",
+      "originalUrl": "https://thehill.com/hilltv/rising/526137-sunrise-movement-leader-its-on-us-to-make-sure-biden-embraces-environmental",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/biden11162020.jpg",
+          "width": 791,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/hilltv/rising/526137-sunrise-movement-leader-its-on-us-to-make-sure-biden-embraces-environmental?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/526137-sunrise-movement-leader-its-on-us-to-make-sure-biden-embraces-environmental?amp",
+      "publishedDateTime": "2020-11-16T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-15-biden-promised-a-railroad-revolution-that-could-see-faster-trains-and-a-return-to-amtraks-nostalgic-past-heres-what-americans-might-see.md",
       "title": "Biden promised a 'railroad revolution' that could see faster trains and a return to Amtrak's nostalgic past — here's what Americans might see",
       "excerpt": "A Biden presidency could open up billions in funding to finally get Amtrak the infrastructure and trains that it needs to be competitive.",
@@ -1421,167 +1577,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-biden-gets-an-endorsement-from-silicon-valley-live-business-updates.md",
-      "title": "Biden Gets an Endorsement From Silicon Valley: Live Business Updates",
-      "excerpt": "A group of 11 founders, investors and business leaders from the technology industry endorsed Democratic presidential nominee Joseph R. Biden Jr. in a letter published on Monday, s",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus",
-      "originalUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/30/business/30markets-brf-markets/merlin_179245557_12422739-1663-479d-9813-613dc9789fb3-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html",
-      "publishedDateTime": "2020-11-02T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-facebook-admits-it-improperly-blocked-some-political-ads-due-to-technical-issues-as-joe-bidens-campaign-slams-it-for-being-wholly-unprepared.md",
-      "title": "Facebook admits it 'improperly' blocked some political ads due to 'technical issues' as Joe Biden's campaign slams it for being 'wholly unprepared'",
-      "excerpt": "Facebook said no ads were blocked \"because of any partisan consideration,\" as Biden's camp accused the company of offering \"no clarity\" on the issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facebook-admits-tech-glitch-political-ad-ban-biden-camp-furious-2020-10?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "originalUrl": "https://www.businessinsider.com/facebook-admits-tech-glitch-political-ad-ban-biden-camp-furious-2020-10?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ee3a894f34d0518a8716ae2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facebook-admits-tech-glitch-political-ad-ban-biden-camp-furious-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-admits-tech-glitch-political-ad-ban-biden-camp-furious-2020-10?amp",
-      "publishedDateTime": "2020-10-29T23:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-glenn-greenwald-leaves-the-intercept-claiming-he-was-censored-over-an-article-he-wrote-on-joe-biden.md",
-      "title": "Glenn Greenwald leaves The Intercept, claiming he was ‘censored’ over an article he wrote on Joe Biden",
-      "excerpt": "Journalist Glenn Greenwald said Thursday that he was leaving The Intercept, the news website he helped found, claiming that it had refused to publish an article he wrote on Joe Biden unless he removed sections that were critical of the Democratic presidential nominee.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-glenn-greenwald-intercept-20201029-ksh5aqo26jfddkeleglhrc3jhi-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-glenn-greenwald-intercept-20201029-ksh5aqo26jfddkeleglhrc3jhi-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/8esg7_jTAjqy-k39KqyHXl_N1cw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UOQYWABV3BA3HDK7NXTIVLEG4Y.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-glenn-greenwald-intercept-20201029-ksh5aqo26jfddkeleglhrc3jhi-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-glenn-greenwald-intercept-20201029-ksh5aqo26jfddkeleglhrc3jhi-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-29T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
