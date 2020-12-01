@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/milwaukee-county-certifi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/milwaukee-county-certifies-election-result/index.html"
 type: article
 quality: 182
-heat: 282
+heat: 262
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Some Republicans, including Roy Blunt, would like to see Trump at Biden's inauguration "
-    excerpt: "When President Donald Trump lost this year's election to Joe Biden, almost nobody around him said they could envision the losing incumbent attending his successor's inauguration.\n    \n"
-    publishedDateTime: 2020-11-29T18:22:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oah7zvIHH1w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/trump-biden-inauguration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/trump-biden-inauguration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 182
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126141904-trump-biden-split-112620-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "GA secretary of state: I'm a proud Trump supporter but numbers don't lie"
     excerpt: "Georgia Secretary of State Brad Raffensperger spoke after his office confirmed that President-elect Joe Biden defeated President Donald Trump in the state and found no widespread fraud after a statewide audit.\n    \n"
     publishedDateTime: 2020-11-20T13:56:50Z

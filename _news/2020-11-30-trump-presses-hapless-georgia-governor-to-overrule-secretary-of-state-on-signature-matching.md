@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Georgia Rep.-elect Carolyn Bourdeaux, only Democrat to flip seat, says party should talk to Trump supporters"
+    excerpt: "Bourdeaux's win in suburban Atlanta was a major bright spot for House Democrats who otherwise had a tough 2020 election by losing unexpected seats and shrinking their majority."
+    publishedDateTime: 2020-12-01T11:32:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACmi8YABZLQ/georgia-rep-elect-carolyn-bourdeaux-only-democrat-flip-seat"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-rep-elect-carolyn-bourdeaux-only-democrat-flip-seat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-rep-elect-carolyn-bourdeaux-only-democrat-flip-seat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/640/320/44875041_1154346124727858_2661149590434086912_n.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "tQAI1g/2EwrUkJ9zZqKIhTCZka8YAC1A6hyy8dAnOfH4FXnVQqgZn9UaxZF8vQWHjVJEJQjML7faPVLjnzG5bC9fh8ulFJdIrFjO5UAoxWzfC1vYRl4jeQycWwNoRdh1K6rkQPerw57LAKMkfneThtw6P2YTzjTOj/n3vaNwJA/3y/GXF3HsMYKx887wEvSTgxK6g8KtFFAImgiP9r7utak9oFyi3pJvzYhwQUeOtXxl8DqC+pQ7s4u8V4l0BNarTQzSmPchQl2api9Ykbu1Z+ceb2J/7uQMFuNJr73bbL68Xa4Fi9uuox5+JvePSLKeiJUIcFNBODpyqBUbr4FZnyUlFt8ys43TGkxl+K8acSg=;/bZTd1IYF0IwS2tWskg2zA=="
 ---

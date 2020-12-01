@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump attorney issues call for violence against truth-telling former election cybersecurity official"
+    excerpt: "An attorney for the Trump campaign on Monday issued a call for violence against Chris Krebs, a former cybersecurity official who was unceremoniously ousted from his post by President Donald Trump after he rejected the President's unfounded claims of widespread voter fraud.\n    \n"
+    publishedDateTime: 2020-12-01T04:38:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8KMyXTVyliA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/joe-digenova-attorney-trump-campaign-chris-krebs-violence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/joe-digenova-attorney-trump-campaign-chris-krebs-violence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180319134937-joseph-e-digenova-smerconish-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "XqS4YYTCJGmdgMpdBGoH9q+ss7lVG83dLM3mpraCKAIPNF56gn2M385krfJ27L1VDYWYLcJOAQOyYi8kzE4ymbqY9m6jJo7Gdir4UQomMTGvmxilNs0IsRXieC8i/mm92iwdAcEcUhstcuYYC3UoEtm7ObRzNZyhX5xdSQvT3yJrg7R4g4+a5DlWUb+q6ehvgaDR6j8mmPVfixX7z+2/9puQWFRGTKh9nZ8l0bH1GmWoZdFOQAH9RcQflXcQ4zCQ/tmNCMk08uyaSfZPAl94CJHJR+o3kGa4NulF5aE0nvtnHEjZJJmcRJz39K9fLBP+9s5HudIGYhyUxxdHhAOH2JDX9kirZ0B9dMbMfuhpM00=;eGPBiP/iYPckdAGZ+f/HGw=="
 ---

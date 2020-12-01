@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-runoff-boycott-would-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people.amp"
 type: article
 quality: 164
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98f88203-24d7-48e9-933e-73bf757b5e5a/9f7d0c25-3767-460e-9963-bfa3a70ae474/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Georgia Rep.-elect Carolyn Bourdeaux, only Democrat to flip seat, says party should talk to Trump supporters"
+    excerpt: "Bourdeaux's win in suburban Atlanta was a major bright spot for House Democrats who otherwise had a tough 2020 election by losing unexpected seats and shrinking their majority."
+    publishedDateTime: 2020-12-01T11:32:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACmi8YABZLQ/georgia-rep-elect-carolyn-bourdeaux-only-democrat-flip-seat"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-rep-elect-carolyn-bourdeaux-only-democrat-flip-seat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-rep-elect-carolyn-bourdeaux-only-democrat-flip-seat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/640/320/44875041_1154346124727858_2661149590434086912_n.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "Ho0oUq+xn+qg6Hp64I+wN2WeTbZvCKyHMNNul9SCA1Dmxtr+gHktMDB+B3+RGiWCNtVt1vZrQm9tupzVFLJ1M10g4/rt0xahP0zMKl99gNCXElbpw/3zEvVIkzaEqF1B2JkL1r1FWm/znft3LYXEfzrQgRT70VVdgp/X1Ptn3k03nqkMZQxdwWkaOvqHQSwQ6cKQmePv9Zi0f+KRAbhhM1mM5iLq7LN5BQC59VDo9edY285n51hBZ7We8QVU74ScVQhyq89czbYYJdxjV6b1e0+GfcRJmefU//GGU0vhU8CkNUxwx5KzFJnaKiAb2dBm1n6AFxQLNgZiaaD6EFn8ClwE8hMlz3TwQUO7QO5eq2E=;2oPQ8xDmOGA9WtntcTz0zg=="

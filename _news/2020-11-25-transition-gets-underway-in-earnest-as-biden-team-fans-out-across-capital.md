@@ -702,6 +702,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Weeks Late, Biden Gets His Briefings"
+    excerpt: "After weeks of waiting, Joe Biden and Kamala Harris received their first full presidential intelligence briefings yesterday, their transition team announced. Most presidents-elect begin to receive the briefings shortly after the election,"
+    publishedDateTime: 2020-12-01T12:04:00Z
+    webUrl: "https://www.nytimes.com/2020/12/01/us/politics/biden-intelligence-briefings.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/01/us/politics/biden-intelligence-briefings.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/us/politics/biden-intelligence-briefings.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/05/20/us/onpolitics-coffee/onpolitics-coffee-facebookJumbo.jpg"
+        width: 827
+        height: 433
+        isCached: true
   - title: "Biden was asked about canceling student loan debt. Progressives saw an opening."
     excerpt: "The question the reporter asked  Joseph R. Biden Jr. on Monday was simple enough: Did canceling student-loan debt figure into his plans for the economy and would he take executive action to do it? “It does figure in my plan,"
     publishedDateTime: 2020-11-19T17:53:00Z

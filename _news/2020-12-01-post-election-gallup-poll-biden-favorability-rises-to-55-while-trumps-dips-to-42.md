@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6471704002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6471704002"
 type: article
 quality: 148
-heat: 1168
+heat: 1208
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://i.insider.com/5fbbba6050e71a0011556c19?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Power Up: One reason Trump keeps pushing to overturn Biden win: He's raking in cash"
+    excerpt: "President Trump has raised more than $150 million pushing his false claims about a rigged election, but a big chunk of the money could wind up as a down payment for the president's post-White House political operation – another sign that the blundering efforts to overturn the election results may not really be about winning at all."
+    publishedDateTime: 2020-12-01T11:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/power-up-one-reason-trump-keeps-pushing-overturn-biden-win-it-raking-cash/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/power-up-one-reason-trump-keeps-pushing-overturn-biden-win-it-raking-cash/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/power-up-one-reason-trump-keeps-pushing-overturn-biden-win-it-raking-cash/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZAI342BSOEI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Wisconsin recount confirms Biden’s win over Trump, cementing the president’s failure to change the election results"
     excerpt: "The state’s two largest counties spent more than a week recounting ballots, but the final tally barely changed."
@@ -598,6 +614,22 @@ related:
     quality: 112
     images:
       - url: "https://i.insider.com/5fc4ce3550e71a0011557e44?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Arizona's Republican governor dunked on Trump after the president criticized him for certifying that the state voted for Biden"
+    excerpt: "Gov. Doug Ducey has responded after the president dialed into his state's election hearings to allege \"corruption,\" then went on a Twitter rampage."
+    publishedDateTime: 2020-12-01T11:37:00Z
+    webUrl: "https://www.businessinsider.com/arizona-gop-gov-doug-ducey-slams-trump-state-certification-criticism-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/arizona-gop-gov-doug-ducey-slams-trump-state-certification-criticism-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-gop-gov-doug-ducey-slams-trump-state-certification-criticism-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5fc12a4250e71a0011557ada?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

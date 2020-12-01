@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/cdc-biden-transition/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/cdc-biden-transition/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden readies major stimulus push and flurry of executive actions in first 100 days"
+    excerpt: "President-elect Joe Biden and his transition team are preparing for an early, all-out push to pass an ambitious new stimulus bill, while also drawing up plans for a flurry of executive actions aimed at delivering on campaign promises and undoing the Trump administration's efforts to undermine key government"
+    publishedDateTime: 2020-12-01T12:02:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ACcFlaxuQ68/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/biden-first-100-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/biden-first-100-days/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125153328-02-biden-thanksgiving-remarks-1125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Advice for Biden? We Want to Hear Yours"
     excerpt: "We ask readers how the incoming president should confront the serious challenges that will face him. What do you see as the greatest challenge facing Joe Biden’s presidency? What advice would you give him to overcome it and avoid the pitfalls?"
     publishedDateTime: 2020-11-18T02:19:00Z

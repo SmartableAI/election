@@ -32,37 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump sees 'the writing on the wall' despite what he maintains publicly about the election, advisers say "
-    excerpt: "Despite what President Donald Trump is tweeting and saying publicly in the wake of Arizona and Wisconsin certifying President-elect Joe Biden's victory Monday, Trump sees the scoreboard and understands he has no chance of hanging on to the presidency, two White House advisers told CNN.\n    \n"
-    publishedDateTime: 2020-12-01T02:27:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GHexN5-hjxI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/trump-writing-on-the-wall-election-advisers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/trump-writing-on-the-wall-election-advisers/index.html"
+  - title: "Trump says he'll travel to Georgia to support Republican Senate candidates in runoff election"
+    excerpt: "President Donald Trump said Thursday he will travel to Georgia to support the state's Republican Senate candidates ahead of the January 5 runoff election.\n    \n"
+    publishedDateTime: 2020-11-27T02:11:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzHZPjjJvNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 179
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130002955-donald-trump-videoconference-1126-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126174410-01-donald-trump-white-house-1126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Gave W.H.O. a List of Demands. Hours Later, He Walked Away."
-    excerpt: "When President Trump quit the health organization, he left a list of seven demands on the table. Here they are."
-    publishedDateTime: 2020-11-27T14:43:00Z
-    webUrl: "https://www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.amp.html"
+  - title: "Canada to Trump: You can't take our prescription drugs"
+    excerpt: "Canada is putting the kibosh on President Donald Trump's efforts to lower drug prices by importing medications from our northern neighbor.\n    \n"
+    publishedDateTime: 2020-11-30T16:16:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnI4UU8-Rj4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static01.nyt.com/images/2020/11/23/world/00trump-who-1/00trump-who-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190103095059-20190103-drug-prices-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia secretary of state says Trump threw him under bus despite his support"
+    excerpt: "Georgia Secretary of State Brad Raffensperger on Wednesday lambasted President Donald Trump, saying that the commander in chief threw him under the bus although he voted for him.\n    \n"
+    publishedDateTime: 2020-11-25T13:34:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i5d0Wd5rurY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/brad-raffensperger-trump-usa-today-oped/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/brad-raffensperger-trump-usa-today-oped/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Donald Trump Jr. aides launch super PAC as Georgia worries mount"
+    excerpt: "The president's son stars in a new ad campaign as Republicans worry Trump's voter fraud accusations will depress GOP turnout in the Senate runoffs."
+    publishedDateTime: 2020-11-30T09:44:00Z
+    webUrl: "https://www.politico.com/news/2020/11/30/donald-trump-jr-super-pac-georgia-worries-mount-441205"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d1/90/320a62d547098438aa9ed817e738/gettyimages-1268372750-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "bw4z1DBrJ0VSL7NdtuDeCkhXoe0SmTy8C3T0JnljsUJkm/xTzjbFEX4g0Pqt3Lk8w3eIgZr6LwddB7XoUfUjD72PPHURLhhyTi3eeAyYEMyaQUMZfdQMi7eDk4dniA7fQbGAaTNUBJGzqTQD0zv/XPwpBd2FQnb+7oMb0JWx84ZqcA8Ao/BzCm6XxEybS1xeo/BMpyeaaPaleZsYbBenbu3xA/z8x4LgupJVOx7EAOxsdLt/zRx10y9hKg8ZuXAhW4nbVTj0ku1mj7mwrQmXB0imWWb8Y+SK8CYwz/Eww9sH5U8eGxLxYpbZNJNy9uFyulFlUfIqP6EetahTZtKLEXU4c3AW4COJ3bakhZ0ahIQ=;e0ubfNMgJJ7KwPZmth6ZRA=="

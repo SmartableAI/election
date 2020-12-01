@@ -301,6 +301,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Power Up: One reason Trump keeps pushing to overturn Biden win: He's raking in cash"
+    excerpt: "President Trump has raised more than $150 million pushing his false claims about a rigged election, but a big chunk of the money could wind up as a down payment for the president's post-White House political operation – another sign that the blundering efforts to overturn the election results may not really be about winning at all."
+    publishedDateTime: 2020-12-01T11:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/power-up-one-reason-trump-keeps-pushing-overturn-biden-win-it-raking-cash/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/power-up-one-reason-trump-keeps-pushing-overturn-biden-win-it-raking-cash/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/power-up-one-reason-trump-keeps-pushing-overturn-biden-win-it-raking-cash/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZAI342BSOEI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Wisconsin recount confirms Biden’s win over Trump, cementing the president’s failure to change the election results"
     excerpt: "The state’s two largest counties spent more than a week recounting ballots, but the final tally barely changed."
     publishedDateTime: 2020-11-29T16:47:00Z
@@ -601,6 +617,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Arizona's Republican governor dunked on Trump after the president criticized him for certifying that the state voted for Biden"
+    excerpt: "Gov. Doug Ducey has responded after the president dialed into his state's election hearings to allege \"corruption,\" then went on a Twitter rampage."
+    publishedDateTime: 2020-12-01T11:37:00Z
+    webUrl: "https://www.businessinsider.com/arizona-gop-gov-doug-ducey-slams-trump-state-certification-criticism-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/arizona-gop-gov-doug-ducey-slams-trump-state-certification-criticism-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-gop-gov-doug-ducey-slams-trump-state-certification-criticism-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5fc12a4250e71a0011557ada?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Eye Opener: Biden transition moves forward with approval from GSA"
     excerpt: "The Trump administration official in charge of the presidential transition says she's giving President-elect Biden access to government resources and funding. Also, millions of Americans are still planning to travel for the Thanksgiving holiday despite warnings from the CDC."
     publishedDateTime: 2020-11-24T14:49:00Z
@@ -815,6 +847,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "AKY4ArvrMGJMUogmBINltd+x5IWCpSp9KNumEpQlslxmKQgUWuJtUlAJtctAPGG4P6HeojMUdFK1NnaGno2/KJeEl1JzhyeVDtxSmvezgKBBMw9Z5GxP7zF2qyb/gDp4NIpoVlXVvCgSrFOCPBJpfKiDiSykmCzK0H/x1oaZ68lSBkFnD5BAmPK93+IzuO5JKzx2QZhPy1idIc/LwNEuAx+3uhaC9Zoz5YJSeWc5HslmLdKBfunAY8MymFDaItZKbebLytI8NKJ4yan2bFU+PNvCxdx+oazVURl+C/pmM8+/q8UJj+33f8DNoL80JfRyGNT5g2qbbRWDZKeMbVB4iEiysyZqG0eYRH8MYC4Tvg0=;D6umrf+ijKcvZSsnkh/Zfw=="
+secured: "ek797CWwPOEJ0XtOjWIfs7FlEMGPYhwpal/nfOsanXOjM5vDotDCuiZINEBtQ5k6Ar9wV+kIlbPCEX/3XlYWqGf+kOgtzqyLyH0RGweNk3IhA4Zf2eYW2+S+w9CuVbNa7pybkjCn8hjbXIDra1onqbRZfqXsKqIGAeb2vgfkNflYWixyH7BooQvSHqob8cp34yjifF4fKhZRbt1TVDY4tS4KcGaBrq12RqoUAl4uZfbwdCqQ6x9QnGo0wwEFAZFVrs870mQS2zxuNL8Pt0jJUjF3EYhOZEFl5Y4ug8hYiOHcEeIk4AdlZTq0AImDJ6KjwSaED/HuM5z3KfgGn0ms3n9raaU+5Qlo/UWOdhGHD8NLVUOyS+mKpbUxTbqOoT+FspkEW9u7FJemMcNama+Oimwy1pqJTJGsXFZSdqSHT0Z0soZ4kXw43tUS+yX0CweG1JYtk2ct55F3uR/Udyqi2ZXgc0i4MUVXDqHPoCbUnsMVeCnMMcyQrHj1R2yAy8h3oc8VPm0YLMHjwPlf5RMRhA==;lIThyr6iMbvkYwBAe/uQow=="
 ---
 

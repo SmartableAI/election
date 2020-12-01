@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/12/01/magazine/should-i-stop-speaking-t
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/magazine/should-i-stop-speaking-to-my-trump-supporting-friends.amp.html"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -31,6 +31,230 @@ images:
     height: 549
     isCached: true
 
-secured: "CZE3JFvU8K8QdLj8+MwRmGoueQb6Js26NhxL+A64RnC+1LAjRqrwIwmHVFisxVKJkhnCbM3DK8kM3iEKuD56J9k8WhEpsIf02Q8upu9E8V5rL4lqdwgellIcE8DX7DVP7ZGPR3lN+Legg16xDJ2UKOiJaYM34WkqvefzacI4dpKBrfu1Us04FVlBuwphJDNZJLO/PUdgKYfLRXPLT3mRar7jm/NHaxWvPdDGZjDqnLv50D01dpvG7AUb6pvn3HRDMt/IYt3/jFuAiidjnsPaSu5Q6WYV0gV6yYC5yhNnHijhdNti/Kfd71y+bQ62iEhtPZB7dwFmNC8PCbw1gnT6TOzoy38Vr5SCJ/+O5zdAGjc=;YgrfERnxUsi51DTMAoqVXg=="
+related:
+  - title: "Arizona Gov. Doug Ducey defends election process after Trump attack"
+    excerpt: "Arizona Republican Gov. Doug Ducey sent a lengthy string of tweets Monday night defending the state's election process after being attacked by President Donald Trump for his handling of it.\n    \n"
+    publishedDateTime: 2020-12-01T04:57:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ss76q36fRQc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/doug-ducey-defends-election-arizona-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/doug-ducey-defends-election-arizona-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181103123215-02-doug-ducey-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia Republican officials reject Trump's calls to overturn election results"
+    excerpt: "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger, both Republicans, on Monday rebuffed President Donald Trump's calls to overturn the state's election results more than a week after they certified Joe Biden as the winner.\n    \n"
+    publishedDateTime: 2020-11-30T19:06:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ui8p6fIzrZI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/brian-kemp-brad-raffensperger-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/brian-kemp-brad-raffensperger-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120184839-governor-brian-kemp-1112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Some Republicans, including Roy Blunt, would like to see Trump at Biden's inauguration "
+    excerpt: "When President Donald Trump lost this year's election to Joe Biden, almost nobody around him said they could envision the losing incumbent attending his successor's inauguration.\n    \n"
+    publishedDateTime: 2020-11-29T18:22:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oah7zvIHH1w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/trump-biden-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/trump-biden-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126141904-trump-biden-split-112620-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's legal defeats pile up while his attacks on Georgia's election system raise GOP concerns "
+    excerpt: "President Donald Trump found himself trapped in an election riddle of his own making Friday -- continuing to push false claims that the election was a \"total scam,\" even after another humiliating court rebuke in Pennsylvania, while insisting that his supporters should turn out in Georgia's January Senate"
+    publishedDateTime: 2020-11-28T05:15:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xAwCxnu1PRg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump administration removes experts from Defense Policy Board"
+    excerpt: "Several high profile members of the Defense Policy Board were removed on Wednesday by the Trump administration, in yet another purge of longstanding foreign policy experts and national security establishment figures in the final days of the Trump era, according to three defense officials.\n    \n"
+    publishedDateTime: 2020-11-26T18:39:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k8suVwUNIo4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180602110519-pentagon-logo-podium-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Trump's falsehood-filled weekend"
+    excerpt: "President Donald Trump was relatively quiet over the Thanksgiving holiday. But by Friday he was back to lighting up Twitter with a range of false claims about the 2020 presidential election. From Friday evening to Sunday evening, Trump tweeted and retweeted more than a dozen claims of election fraud,"
+    publishedDateTime: 2020-11-30T21:19:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4f6JgzD6BtA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/trump-post-election-fox-news-interview-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/trump-post-election-fox-news-interview-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127145444-01-trump-golfing-1127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump still has power to make policy. Watch what he does"
+    excerpt: "Another key state -- Arizona -- certified its election results on Monday. And Wisconsin did too, after a recount requested by Republicans wound up affirming Joe Biden's victory there. Yet President Donald Trump is in a state of suspended animation, pushing conspiracy theories about his loss as the world"
+    publishedDateTime: 2020-12-01T03:28:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XJKQ4NN4wEM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/what-matters-november-30/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/what-matters-november-30/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130000216-donald-trump-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Dr. Scott Atlas resigns from Trump administration"
+    excerpt: "Dr. Scott Atlas, a highly controversial member of the White House's coronavirus task force, has resigned from his post in the Trump administration, according to a person who works with the task force.\n    \n"
+    publishedDateTime: 2020-12-01T00:49:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Al5Mp4xIf94/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/scott-atlas-resigns-trump-administration-coronavirus-task-force/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/scott-atlas-resigns-trump-administration-coronavirus-task-force/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021132548-atlas-trump-september-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump sees 'the writing on the wall' despite what he maintains publicly about the election, advisers say "
+    excerpt: "Despite what President Donald Trump is tweeting and saying publicly in the wake of Arizona and Wisconsin certifying President-elect Joe Biden's victory Monday, Trump sees the scoreboard and understands he has no chance of hanging on to the presidency, two White House advisers told CNN.\n    \n"
+    publishedDateTime: 2020-12-01T02:27:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GHexN5-hjxI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/trump-writing-on-the-wall-election-advisers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/trump-writing-on-the-wall-election-advisers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130002955-donald-trump-videoconference-1126-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP senators' strategy on Trump's election fraud claims: Keep quiet and carry on "
+    excerpt: "A wide range of Republican senators are shrugging off President Donald Trump's evidence-free claims that mass voter fraud cost him the election, ignoring their party leader's relentless attacks against a foundation of American democracy amid their growing expectation that the matter will be resolved"
+    publishedDateTime: 2020-12-01T02:44:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jZHRsL5biNA/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's legal defeats pile up while his attacks on Georgia's election system raise GOP concerns"
+    excerpt: "President Donald Trump is pushing contradictory messages about Georgia, calling the state's election system fraudulent at the same time he is urging his supporters to turn out for Republican Sens. Kelly Loeffler and David Perdue in twin runoff races that will determine control of the US Senate."
+    publishedDateTime: 2020-11-28T21:00:00Z
+    webUrl: "https://www.cnn.com/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 138
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Midnight Ruling Exposes Rifts at a Supreme Court Transformed by Trump"
+    excerpt: "The justices issued six opinions, several of them unusually bitter, in upholding challenges from churches and synagogues to state pandemic restrictions on religious services."
+    publishedDateTime: 2020-11-26T22:45:00Z
+    webUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/26/us/politics/26dc-scotus-church2/26dc-scotus-church2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "The King of Trump TV Thinks You’re Dumb Enough to Buy It"
+    excerpt: "Chris Ruddy, the C.E.O. of Newsmax, has found a business opportunity in feeding Trump supporters the fantasy that the president could still win the election."
+    publishedDateTime: 2020-11-30T01:07:00Z
+    webUrl: "https://www.nytimes.com/2020/11/29/business/media/newsmax-chris-ruddy-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/29/business/media/newsmax-chris-ruddy-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/29/business/media/newsmax-chris-ruddy-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/29/business/29BENSMITH-01/29BENSMITH-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Experts worry Trump can't be trusted with nation's secrets after leaving office"
+    excerpt: "Some ex-intelligence officials are saying that when President Donald Trump leaves office, he should not receive access to classified information about the country's national security secrets."
+    publishedDateTime: 2020-11-27T14:04:00Z
+    webUrl: "https://www.nbcnews.com/now/video/experts-worry-trump-can-t-be-trusted-with-nation-s-secrets-after-leaving-office-96714821678"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96714821678"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96714821678"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_trump_natsec_secrets_201127_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "YWsq/6kw71dDT5TyXsixp2WiBfAHvSln7RAWmqaEmxX9pdUlemtRVi2S8gBS21VI42MS+ArBZLtgrrTMib37TV0H/Ukd0wrlfEQgORMDbv9m9x8wTB0qha/p4R7PxDWlxgzLbHqVemUhpiBurqHdNW7VlaOdYbjeT013UtcGrmjvHTjVkbsJtMPI9mU6lgrNvMPieQdgazqADkdAZV5mNjvOfTWaL8NWq4Bh/ACJs55iP6HlJAQB1xJEGUDHQwL54BSgwrkHcyADKXjmxlnrI8+vdJcs+LRXZ2w4zYY3oGVKodS1FHH4DoO6zQ84xMm5MPLtT91UbEFXX9KStxsvUCAakip/AC6+nQ/ided+JUE=;wKWN4Y/cIk8JErcZ7fwccw=="
 ---
 

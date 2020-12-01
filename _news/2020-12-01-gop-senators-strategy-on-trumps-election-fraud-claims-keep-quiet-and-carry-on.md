@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Arizona Gov. Doug Ducey defends election process after Trump attack"
+    excerpt: "Arizona Republican Gov. Doug Ducey sent a lengthy string of tweets Monday night defending the state's election process after being attacked by President Donald Trump for his handling of it.\n    \n"
+    publishedDateTime: 2020-12-01T04:57:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ss76q36fRQc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/doug-ducey-defends-election-arizona-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/doug-ducey-defends-election-arizona-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181103123215-02-doug-ducey-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia Republican officials reject Trump's calls to overturn election results"
     excerpt: "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger, both Republicans, on Monday rebuffed President Donald Trump's calls to overturn the state's election results more than a week after they certified Joe Biden as the winner.\n    \n"
     publishedDateTime: 2020-11-30T19:06:47Z
@@ -45,19 +61,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump says he'll travel to Georgia to support Republican Senate candidates in runoff election"
-    excerpt: "President Donald Trump said Thursday he will travel to Georgia to support the state's Republican Senate candidates ahead of the January 5 runoff election.\n    \n"
-    publishedDateTime: 2020-11-27T02:11:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzHZPjjJvNo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
+  - title: "Some Republicans, including Roy Blunt, would like to see Trump at Biden's inauguration "
+    excerpt: "When President Donald Trump lost this year's election to Joe Biden, almost nobody around him said they could envision the losing incumbent attending his successor's inauguration.\n    \n"
+    publishedDateTime: 2020-11-29T18:22:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oah7zvIHH1w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/trump-biden-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/trump-biden-inauguration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 179
+    quality: 182
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126174410-01-donald-trump-white-house-1126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126141904-trump-biden-split-112620-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -90,22 +106,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180602110519-pentagon-logo-podium-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Canada to Trump: You can't take our prescription drugs"
-    excerpt: "Canada is putting the kibosh on President Donald Trump's efforts to lower drug prices by importing medications from our northern neighbor.\n    \n"
-    publishedDateTime: 2020-11-30T16:16:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnI4UU8-Rj4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190103095059-20190103-drug-prices-gfx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -157,19 +157,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia secretary of state says Trump threw him under bus despite his support"
-    excerpt: "Georgia Secretary of State Brad Raffensperger on Wednesday lambasted President Donald Trump, saying that the commander in chief threw him under the bus although he voted for him.\n    \n"
-    publishedDateTime: 2020-11-25T13:34:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i5d0Wd5rurY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/brad-raffensperger-trump-usa-today-oped/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/brad-raffensperger-trump-usa-today-oped/index.html"
+  - title: "Trump sees 'the writing on the wall' despite what he maintains publicly about the election, advisers say "
+    excerpt: "Despite what President Donald Trump is tweeting and saying publicly in the wake of Arizona and Wisconsin certifying President-elect Joe Biden's victory Monday, Trump sees the scoreboard and understands he has no chance of hanging on to the presidency, two White House advisers told CNN.\n    \n"
+    publishedDateTime: 2020-12-01T02:27:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GHexN5-hjxI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/trump-writing-on-the-wall-election-advisers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/trump-writing-on-the-wall-election-advisers/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130002955-donald-trump-videoconference-1126-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -189,6 +189,54 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Midnight Ruling Exposes Rifts at a Supreme Court Transformed by Trump"
+    excerpt: "The justices issued six opinions, several of them unusually bitter, in upholding challenges from churches and synagogues to state pandemic restrictions on religious services."
+    publishedDateTime: 2020-11-26T22:45:00Z
+    webUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/26/us/politics/26dc-scotus-church2/26dc-scotus-church2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "The King of Trump TV Thinks You’re Dumb Enough to Buy It"
+    excerpt: "Chris Ruddy, the C.E.O. of Newsmax, has found a business opportunity in feeding Trump supporters the fantasy that the president could still win the election."
+    publishedDateTime: 2020-11-30T01:07:00Z
+    webUrl: "https://www.nytimes.com/2020/11/29/business/media/newsmax-chris-ruddy-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/29/business/media/newsmax-chris-ruddy-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/29/business/media/newsmax-chris-ruddy-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/29/business/29BENSMITH-01/29BENSMITH-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Should I Stop Speaking to My Trump-Supporting Friends?"
+    excerpt: "The magazine’s Ethicist columnist on ending friendships with those who back the president, identifying as L.G.B.T.Q. on medical-school applications — and more."
+    publishedDateTime: 2020-12-01T10:05:00Z
+    webUrl: "https://www.nytimes.com/2020/12/01/magazine/should-i-stop-speaking-to-my-trump-supporting-friends.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/01/magazine/should-i-stop-speaking-to-my-trump-supporting-friends.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/magazine/should-i-stop-speaking-to-my-trump-supporting-friends.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/06/magazine/06mag-ethicist/06mag-ethicist-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Experts worry Trump can't be trusted with nation's secrets after leaving office"
     excerpt: "Some ex-intelligence officials are saying that when President Donald Trump leaves office, he should not receive access to classified information about the country's national security secrets."
     publishedDateTime: 2020-11-27T14:04:00Z
@@ -204,20 +252,6 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_trump_natsec_secrets_201127_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Donald Trump Jr. aides launch super PAC as Georgia worries mount"
-    excerpt: "The president's son stars in a new ad campaign as Republicans worry Trump's voter fraud accusations will depress GOP turnout in the Senate runoffs."
-    publishedDateTime: 2020-11-30T09:44:00Z
-    webUrl: "https://www.politico.com/news/2020/11/30/donald-trump-jr-super-pac-georgia-worries-mount-441205"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/d1/90/320a62d547098438aa9ed817e738/gettyimages-1268372750-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "lIFlvzLCtNbfkwyStTziO/I0Inc4nb6eMLMPFtVhtV4Kazx/owjbU1U7crnxvZbYxvrW9csqy7lf+AmmLgMEJpJBrBZtd0IgtNtgtv3asgzVIDtCVWQivZ18iFfsJjeVAr/5T7Gx/GxvZTVsebO14+dfh+AVeLQV7LJgfWIcoRRL4LJzvKIVibhKXkYvmzzAJ2XzZzhHi1aQ9LzdZkBSCKfs2GqeNxH+R33Pnv1NWSbpoY3Z+mfJbufTUXnVelisnGzTWTaRonP2o5tOTL4QFY0omZoKsKdRro6knWz0KeIWU6BL0uLMWkOPzPgKVju9BvLcR4pPknY20Tt1qSgS7CjHbgUt5mlTerqaE2EGuPo=;b6zWbWN/CyinrXr4Tn0ioA=="

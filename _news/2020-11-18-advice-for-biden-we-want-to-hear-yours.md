@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden readies major stimulus push and flurry of executive actions in first 100 days"
+    excerpt: "President-elect Joe Biden and his transition team are preparing for an early, all-out push to pass an ambitious new stimulus bill, while also drawing up plans for a flurry of executive actions aimed at delivering on campaign promises and undoing the Trump administration's efforts to undermine key government"
+    publishedDateTime: 2020-12-01T12:02:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ACcFlaxuQ68/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/biden-first-100-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/biden-first-100-days/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125153328-02-biden-thanksgiving-remarks-1125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says transition communication from White House 'has been sincere'"
     excerpt: "In an exclusive interview with NBC News’ Lester Holt, President-elect Joe Biden described the transition of power process, categorizing the outreach from the White House as “sincere.”"
     publishedDateTime: 2020-11-24T22:07:00Z

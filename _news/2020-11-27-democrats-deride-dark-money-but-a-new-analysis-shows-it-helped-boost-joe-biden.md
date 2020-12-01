@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Analysis: How Joe Biden and Mark Kelly show Arizona is now a purple state"
+    excerpt: "Democrat Mark Kelly will be sworn in on Wednesday as Arizona's junior US senator, finishing the final two years of the term won by the late Sen. John McCain in 2016. Both President-elect Joe Biden and Kelly were certified as the winners of their respective Arizona races on Monday.\n    \n"
+    publishedDateTime: 2020-12-01T12:03:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_kgr6sV1xdo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/arizona-shift-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/arizona-shift-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106195236-44-america-votes-1103-arizona-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: The worsening pandemic raises the stakes for Biden's economic program"
     excerpt: "Sitting in an Iowa diner a year ago, candidate Joe Biden aimed his economic agenda at the widening gap between America's rich and everyone else.\n    \n"
     publishedDateTime: 2020-11-29T14:15:35Z
@@ -44,22 +60,6 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to name diverse economic team, with three women in top roles to help build recovery"
-    excerpt: "President-elect Joe Biden is set to formally name key members of his economic team on Monday, with the long-expected announcement of Janet Yellen as Treasury Secretary, CNN has learned, along with two other women in top roles to help him navigate the nation's punishing fiscal headwinds in hopes of building"
-    publishedDateTime: 2020-11-30T15:52:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-LEoanAyZ4o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130103441-biden-economic-admin-1130-announcement-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
