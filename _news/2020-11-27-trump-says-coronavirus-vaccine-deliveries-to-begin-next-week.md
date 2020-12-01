@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Scott Atlas resigns as special adviser to Trump on coronavirus"
+    excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump, a White House official said on Monday, after a controversial four months during which he clashed repeatedly with other members of the coronavirus task force."
+    publishedDateTime: 2020-12-01T01:43:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-atlas-idUSKBN28B3AS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542984625&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01U3"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Mike Pence will not quarantine after four aides test positive for coronavirus"
     excerpt: "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said."
     publishedDateTime: 2020-10-25T19:24:00Z
@@ -312,6 +328,20 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Alisyn-Camerota-Hogan-Gidley-10-28.jpg"
         width: 1200
         height: 624
+        isCached: true
+  - title: "Trump's Controversial Coronavirus Advisor Resigns: Report"
+    excerpt: "One of President Donald Trump's favored coronavirus advisors who sparked controversy over his comments against mask-wearing and other issues has resigned, US media reported Monday. Fox News obtained the resignation letter dated December 1 for Scott Atlas,"
+    publishedDateTime: 2020-12-01T01:05:00Z
+    webUrl: "https://www.ibtimes.com/trumps-controversial-coronavirus-advisor-resigns-report-3091738"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/30/dr-scott-atlas-pictured-october-one-of-president.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "North Carolina campaigns continue for Vice President Mike Pence after chief of staff tests positive for coronavirus"
     excerpt: "Vice President Mike Pence will campaign in North Carolina Sunday after his chief of staff tested positive for the coronavirus."

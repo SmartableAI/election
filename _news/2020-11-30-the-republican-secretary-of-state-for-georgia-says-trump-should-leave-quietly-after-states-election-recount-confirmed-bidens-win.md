@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump headed to Georgia as turnout driver, but also a threat"
+    excerpt: "Some establishment Republicans are sounding alarms that President Donald Trump’s conspiratorial denials of his own defeat could threaten the party’s ability to win a Senate majority and counter Presid"
+    publishedDateTime: 2020-12-01T02:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "U.S. Supreme Court weighs Trump bid to bar illegal immigrants from census totals"
     excerpt: "The Supreme Court on Monday is set to take up President Donald Trump's unprecedented and contentious effort to exclude illegal immigrants from the population totals used to allocate U.S. House of Representatives districts to states."
     publishedDateTime: 2020-11-29T12:21:00Z

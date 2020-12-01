@@ -159,6 +159,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden names liberal econ team as pandemic threatens workers"
+    excerpt: "With unemployment still high and a new economic slump possible this winter, President-elect Joe Biden has announced a liberal team of economic advisers"
+    publishedDateTime: 2020-12-01T02:07:00Z
+    webUrl: "https://www.washingtonpost.com/business/biden-names-liberal-econ-team-as-pandemic-threatens-workers/2020/11/30/f0d3c8e2-3379-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/biden-names-liberal-econ-team-as-pandemic-threatens-workers/2020/11/30/f0d3c8e2-3379-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-names-liberal-econ-team-as-pandemic-threatens-workers/2020/11/30/f0d3c8e2-3379-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden still searching for defense secretary"
     excerpt: "The president-elect announced several members of his national security team last week, but has not selected a defense secretary."
     publishedDateTime: 2020-12-01T00:54:00Z

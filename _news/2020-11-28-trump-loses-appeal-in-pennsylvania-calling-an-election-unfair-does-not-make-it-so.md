@@ -95,6 +95,22 @@ related:
         width: 753
         height: 545
         isCached: true
+  - title: "Former Trump lawyer Sidney Powell still pushing conspiracy-filled election lawsuits"
+    excerpt: "Sidney Powell may no longer be part of President Trump's official legal team, but she has not slowed in her effort to reverse the outcome of the 2020 elections."
+    publishedDateTime: 2020-12-01T02:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-lawyer-sidney-powell-pushing-conspiracy-filled-election/story?id=74471227"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-lawyer-sidney-powell-pushing-conspiracy-filled-election/story?id=74471227"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-lawyer-sidney-powell-pushing-conspiracy-filled-election/story?id=74471227"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/sidney-pow_hpMain_20201122-211137_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump repeats baseless \"fraud\" claims but says he'll go if election results formalized"
     excerpt: "The president said it would be a \"mistake\" for the Electoral College to uphold what he claims, without proof, was an election marred by \"massive fraud.\""
     publishedDateTime: 2020-11-27T13:51:00Z
@@ -270,6 +286,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-gty-ml-201127_1606495893630_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Senate confirms two Trump picks for energy regulation panel"
+    excerpt: "The U.S. Senate on Monday confirmed two of President Donald Trump's picks for the Federal Energy Regulatory Commission (FERC), in a move that could secure a Republican majority on the panel through June."
+    publishedDateTime: 2020-12-01T01:46:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-senate-ferc-idUSKBN28B3DC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3DC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3DC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542985386&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01VA"
+        width: 817
+        height: 545
         isCached: true
   - title: "Barack Obama: ‘Donald Trump and I tell very different stories about America’"
     excerpt: "Four years after leaving office, he’s officially the world’s most admired man.But what is Obama’s legacy? The former president talks Trump, Biden and America’s new dawn"
