@@ -239,6 +239,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Mitch McConnell for the first time appears to accept President-elect Joe Biden's election victory over Trump"
+    excerpt: "The Senate Majority Leader spoke of a \"new administration\" when discussing future COVID-19 economic stimulus negotiations."
+    publishedDateTime: 2020-12-01T20:17:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-wins-presidential-election-mitch-mcconnell-accepts-results-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-wins-presidential-election-mitch-mcconnell-accepts-results-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-wins-presidential-election-mitch-mcconnell-accepts-results-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 136
+    images:
+      - url: "https://i.insider.com/5fa19bd769331a0011bc703b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Power Up: One reason Trump keeps pushing to overturn Biden win: He's raking in cash"
     excerpt: "President Trump has raised more than $150 million pushing his false claims about a rigged election, but a big chunk of the money could wind up as a down payment for the president's post-White House political operation – another sign that the blundering efforts to overturn the election results may not really be about winning at all."
     publishedDateTime: 2020-12-01T11:31:00Z

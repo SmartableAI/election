@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "U.S. judiciary, shaped by Trump, thwarts his election challenges"
+    excerpt: "U.S. President Donald Trump's reshaping of the federal judiciary has done little to help him win lawsuits challenging the election outcome, with Trump appointees rebuffing him and the U.S. Supreme Court showing little interest in getting involved."
+    publishedDateTime: 2020-12-01T18:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-judges-idUSKBN28B60O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B60O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B60O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543089803&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03D0"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Former Trump lawyer Sidney Powell still pushing conspiracy-filled election lawsuits"
     excerpt: "Sidney Powell may no longer be part of President Trump's official legal team, but she has not slowed in her effort to reverse the outcome of the 2020 elections."
     publishedDateTime: 2020-12-01T02:35:00Z
@@ -364,6 +380,22 @@ related:
     quality: 121
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Swing state counties that used Dominion voting machines mostly voted for Trump"
+    excerpt: "Voting machines provided to counties by Dominion Voting Systems allowed a national conspiracy involving both Democrats and Republicans to flip votes cast for President Trump to ones for President-elect Joe Biden."
+    publishedDateTime: 2020-12-01T20:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/swing-state-counties-that-used-dominion-voting-machines-mostly-voted-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/swing-state-counties-that-used-dominion-voting-machines-mostly-voted-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/swing-state-counties-that-used-dominion-voting-machines-mostly-voted-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZADBZ3BOTEI6XHOWFUAXTGAXDE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true

@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "U.S. judiciary, shaped by Trump, thwarts his election challenges"
+    excerpt: "U.S. President Donald Trump's reshaping of the federal judiciary has done little to help him win lawsuits challenging the election outcome, with Trump appointees rebuffing him and the U.S. Supreme Court showing little interest in getting involved."
+    publishedDateTime: 2020-12-01T18:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-judges-idUSKBN28B60O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B60O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B60O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543089803&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03D0"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Former head of U.S. election security calls Trump team fraud allegations 'farcical'"
     excerpt: "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\"."
     publishedDateTime: 2020-11-28T01:36:00Z
@@ -366,6 +382,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/ae5a128bf3337a53e3ca2f6c3cc12c8ff58e56c1/0_123_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=24c143f907bd231016a14d185c68eb66"
         width: 600
         height: 360
+        isCached: true
+  - title: "Swing state counties that used Dominion voting machines mostly voted for Trump"
+    excerpt: "Voting machines provided to counties by Dominion Voting Systems allowed a national conspiracy involving both Democrats and Republicans to flip votes cast for President Trump to ones for President-elect Joe Biden."
+    publishedDateTime: 2020-12-01T20:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/swing-state-counties-that-used-dominion-voting-machines-mostly-voted-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/swing-state-counties-that-used-dominion-voting-machines-mostly-voted-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/swing-state-counties-that-used-dominion-voting-machines-mostly-voted-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZADBZ3BOTEI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Justices skeptical of Trump bid to exclude all undocumented immigrants from census"
     excerpt: "President Donald Trump's sweeping order to exclude all undocumented immigrants from the 2020 Census faced skepticism Monday from a majority on the U.S. Supreme Court."

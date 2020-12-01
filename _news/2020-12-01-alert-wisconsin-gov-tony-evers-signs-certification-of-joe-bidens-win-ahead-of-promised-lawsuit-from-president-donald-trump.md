@@ -235,6 +235,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Mitch McConnell for the first time appears to accept President-elect Joe Biden's election victory over Trump"
+    excerpt: "The Senate Majority Leader spoke of a \"new administration\" when discussing future COVID-19 economic stimulus negotiations."
+    publishedDateTime: 2020-12-01T20:17:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-wins-presidential-election-mitch-mcconnell-accepts-results-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-wins-presidential-election-mitch-mcconnell-accepts-results-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-wins-presidential-election-mitch-mcconnell-accepts-results-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 136
+    images:
+      - url: "https://i.insider.com/5fa19bd769331a0011bc703b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump's closest business ally just admitted that the president lost the election"
     excerpt: "The result of the 2020 election is \"very certain,\" and Joe Biden is the president-elect, Blackstone CEO and Trump ally Stephen Schwarzman told Axios."
     publishedDateTime: 2020-11-23T14:20:00Z

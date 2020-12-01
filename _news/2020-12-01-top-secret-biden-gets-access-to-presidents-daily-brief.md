@@ -303,22 +303,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden weighs Rahm Emanuel for transportation secretary"
-    excerpt: "President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel to serve as his transportation secretary"
-    publishedDateTime: 2020-12-01T05:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Wisconsin certifies Joe Biden as winner following recount"
     excerpt: "Joe Biden’s victory in Wisconsin has been certified following a partial recount that added slightly to his 20,600-vote margin over President Trump."
     publishedDateTime: 2020-12-01T00:18:00Z
@@ -349,6 +333,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543087688&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB039D"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden urges Congress to pass coronavirus package, promises more action"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
+    publishedDateTime: 2020-12-01T20:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-urges-congress-to-pass-coronavirus-package-promises-more-action-idUSL1N2IH242"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543101682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03ID"
+        width: 758
         height: 545
         isCached: true
   - title: "Controversial postal chief poised to remain in Biden administration"
@@ -554,6 +554,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/7811606583294/2020/1/cf33271cf4070f966585c8d3e536d871/v1.5/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Joe Biden: President-elect seen in protective boot on fractured foot"
+    excerpt: "Joe Biden is seen wearing a protective boot on his right foot, which he fractured playing with his dog."
+    publishedDateTime: 2020-12-01T20:37:00Z
+    webUrl: "https://www.bbc.co.uk/news/election-us-2020-55151354"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p0905xmn.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Joe Biden Considers Roger Ferguson to Lead National Economic Council, Gary Gensler for Deputy Treasury Secretary"
     excerpt: "President-elect Joe Biden is considering TIAA CEO Roger Ferguson to be his National Economic Council director and former Commodity Futures Trading Commission chairman Gary Gensler as Deputy Treasury Secretary,"

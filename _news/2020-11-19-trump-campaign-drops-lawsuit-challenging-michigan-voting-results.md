@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/302a6c03-2397-4711-b51e-017975e01310/a4ae4050-9975-4bf0-a30c-4e40959ae5a4/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Campaign Files More Election Challenges in Wisconsin, Michigan"
+    excerpt: "The Wisconsin Supreme Court is being asked to disqualify more than 200,000 mail-in ballots; a Michigan judge’s decision dismissing claims is appealed."
+    publishedDateTime: 2020-12-01T20:17:00Z
+    webUrl: "https://www.wsj.com/articles/trump-campaign-files-more-election-challenges-in-wisconsin-michigan-11606849219?mod=business_minor_pos5"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-files-more-election-challenges-in-wisconsin-michigan-11606849219"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-files-more-election-challenges-in-wisconsin-michigan-11606849219"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-266615/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump Says He Pardoned Michael Flynn, Ex-National Security Adviser"
     excerpt: "President Trump said he has pardoned former national security adviser Michael Flynn, using his lame-duck executive power to protect an ally who pleaded guilty to lying to the FBI."

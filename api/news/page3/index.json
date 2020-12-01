@@ -2,6 +2,215 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-29-coronavirus-deaths-joe-biden-holiday-windows-your-weekend-briefing.md",
+      "title": "Coronavirus Deaths, Joe Biden, Holiday Windows: Your Weekend Briefing",
+      "excerpt": "Here are the week’s top stories, and a look ahead. 1. The numbers of coronavirus-related deaths are at their highest levels since the spring. On April 15, 2,752 people in the U.S. died from Covid-19,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/29/briefing/coronavirus-deaths-joe-biden-holiday-windows.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/29/briefing/coronavirus-deaths-joe-biden-holiday-windows.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/28/us/29weekend-briefing-web-virus/29weekend-briefing-web-virus-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/29/briefing/coronavirus-deaths-joe-biden-holiday-windows.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/29/briefing/coronavirus-deaths-joe-biden-holiday-windows.amp.html",
+      "publishedDateTime": "2020-11-29T03:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-29-he-understands-washington-joe-scarborough-finds-echoes-of-truman-in-biden.md",
+      "title": "'He understands Washington': Joe Scarborough finds echoes of Truman in Biden",
+      "excerpt": "Joe host, author of a new book on Harry S Truman, sees parallels in the two presidents’ efforts to rebuild",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
+      "originalUrl": "https://www.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0c784c506893f0daeb8873a502c6060bfa00b248/0_0_5184_3110/master/5184.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=719db21f257d74441bd1723dd6f565b6",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
+      "publishedDateTime": "2020-11-29T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-29-trump-to-give-first-post-2020-election-interview-to-foxs-maria-bartiromo-sunday.md",
+      "title": "Trump to give first post-2020 election interview to Fox’s Maria Bartiromo Sunday",
+      "excerpt": "Maria Bartiromo will interview President Trump on Fox Business on Sunday morning — his first since the election.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/11/28/trump-to-give-first-post-2020-election-interview-to-foxs-maria-bartiromo/",
+      "originalUrl": "https://nypost.com/2020/11/28/trump-to-give-first-post-2020-election-interview-to-foxs-maria-bartiromo/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/TrumpInterview.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/11/28/trump-to-give-first-post-2020-election-interview-to-foxs-maria-bartiromo/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/28/trump-to-give-first-post-2020-election-interview-to-foxs-maria-bartiromo/amp/",
+      "publishedDateTime": "2020-11-28T17:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-29-canada-blocks-bulk-exports-of-some-prescription-drugs-in-response-to-trump-import-plan.md",
+      "title": "Canada blocks bulk exports of some prescription drugs in response to Trump import plan",
+      "excerpt": "Canada on Saturday blocked bulk exports of prescription drugs if they would create a shortage at home, in response to outgoing U.S. President Donald Trump's efforts to allow imports from Canada to lower some drug prices for Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-healthcare-canada-idCAKBN2880RJ",
+      "originalUrl": "https://www.reuters.com/article/usa-healthcare-canada-idCAKBN2880RJ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542764319&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR0I7",
+          "width": 876,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2880RJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2880RJ",
+      "publishedDateTime": "2020-11-28T16:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-29-ex-trump-campaign-adviser-carter-page-sues-fbi-comey-mccabe-and-others-for-75m-over-russia-probe-surveillance.md",
       "title": "Ex-Trump campaign adviser Carter Page sues FBI, Comey, McCabe and others for $75M over Russia probe surveillance",
       "excerpt": "Earlier this year, the Justice Department found it had “insufficient” cause to wiretap Page during its probe into Russian election interference.",
@@ -1114,222 +1323,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-defund-police-supporters-tell-biden-theyre-not-going-away.md",
-      "title": "Defund-police supporters tell Biden they're 'not going away'",
-      "excerpt": "Far-left advocates of defunding the police say they are \"not going away\" just because Joe Biden won the presidency.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GtVm9mSJUZ0/defund-police-supporters-biden-going-away",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GtVm9mSJUZ0/defund-police-supporters-biden-going-away",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a4ccc22-74ac-4b55-a7d7-044271b4aab8/7adcaf6a-fc3c-456c-95df-9c1af8f69f92/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/defund-police-supporters-biden-going-away.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/defund-police-supporters-biden-going-away.amp",
-      "publishedDateTime": "2020-11-26T14:14:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-biden-says-family-will-have-small-group-around-thanksgiving-table-urges-americans-to-sacrifice-gatherings.md",
-      "title": "Biden says family will have 'small group' around Thanksgiving table, urges Americans to sacrifice gatherings",
-      "excerpt": "President-elect Joe Biden called on Americans to make a sacrifice this Thanksgiving by foregoing large gatherings and noted that his own family is giving up their tradition to comply with coronavirus guidelines. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G3E6Q2S_bMw/biden-family-small-group-thanksgiving-urges-americans-sacrifice-gatherings",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G3E6Q2S_bMw/biden-family-small-group-thanksgiving-urges-americans-sacrifice-gatherings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20330726010055.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-family-small-group-thanksgiving-urges-americans-sacrifice-gatherings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-family-small-group-thanksgiving-urges-americans-sacrifice-gatherings.amp",
-      "publishedDateTime": "2020-11-26T10:18:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-biden-says-america-is-back-at-the-head-of-the-table-but-is-that-a-good-thing.md",
-      "title": "Biden says 'America is back' at the head of the table – but is that a good thing?",
-      "excerpt": "After four years of Trump, many diplomats are hopeful – but US critics say the idea of a return to a ‘golden age’ is a delusion",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/15b1ca4a91a070ff0a9b6ca8feaca7827d6267f2/0_287_4579_2748/master/4579.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4d71b9496b19b99400f322775a13b90f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy",
-      "publishedDateTime": "2020-11-26T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-julian-assanges-partner-appeals-to-trump-to-pardon-him.md",
-      "title": "Julian Assange's partner appeals to Trump to pardon him",
-      "excerpt": "Julian Assange’s partner, Stella Moris, has tweeted President Donald Trump on Thanksgiving, appealing to him to pardon the WikiLeaks founder",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520",
-      "publishedDateTime": "2020-11-26T08:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

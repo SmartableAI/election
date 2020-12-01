@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-slammed-tweet-small-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters.amp"
 type: article
 quality: 176
-heat: 216
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,6 +32,38 @@ images:
     isCached: true
 
 related:
+  - title: "Frontrunners for Kamala Harris Senate seat praised Fidel Castro"
+    excerpt: "Two frontrunners for Vice President-elect Kamala Harris' Senate seat have praised former Cuban dictator Fidel Castro."
+    publishedDateTime: 2020-12-01T20:06:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zw0vpbP4QwY/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro"
+    ampWebUrl: "https://www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de47a4eb-0b8d-43c2-ba35-cc931180a7d2/602f172e-409f-4f04-8430-39e2e6b7a327/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Frontrunners for Kamala Harris Senate seat praised Fidel Castro"
+    excerpt: "Two frontrunners for Vice President-elect Kamala Harris' Senate seat have praised former Cuban dictator Fidel Castro."
+    publishedDateTime: 2020-12-01T20:23:00Z
+    webUrl: "https://www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro"
+    ampWebUrl: "https://www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de47a4eb-0b8d-43c2-ba35-cc931180a7d2/602f172e-409f-4f04-8430-39e2e6b7a327/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris scoops up gifts, promotes small businesses at holiday market"
     excerpt: "Vice President-elect Kamala Harris hit up a Washington, DC outdoor holiday market Saturday — and found herself the perfect stocking stuffer. With husband Doug Emhoff at her side, a laughing"
     publishedDateTime: 2020-11-28T22:27:00Z

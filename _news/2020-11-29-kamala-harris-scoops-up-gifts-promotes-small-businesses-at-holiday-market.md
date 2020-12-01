@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Frontrunners for Kamala Harris Senate seat praised Fidel Castro"
+    excerpt: "Two frontrunners for Vice President-elect Kamala Harris' Senate seat have praised former Cuban dictator Fidel Castro."
+    publishedDateTime: 2020-12-01T20:06:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zw0vpbP4QwY/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro"
+    ampWebUrl: "https://www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de47a4eb-0b8d-43c2-ba35-cc931180a7d2/602f172e-409f-4f04-8430-39e2e6b7a327/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris slammed for tweet sucking up to small businesses after bailing out rioters"
     excerpt: "Vice President-elect Kamala Harris was widely slammed on Twitter this weekend for committing to helping small businesses affected by the pandemic despite having openly supported protesters at the height of social unrest over the summer."
     publishedDateTime: 2020-11-29T21:59:24Z
@@ -43,6 +59,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333665999101-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Frontrunners for Kamala Harris Senate seat praised Fidel Castro"
+    excerpt: "Two frontrunners for Vice President-elect Kamala Harris' Senate seat have praised former Cuban dictator Fidel Castro."
+    publishedDateTime: 2020-12-01T20:23:00Z
+    webUrl: "https://www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro"
+    ampWebUrl: "https://www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de47a4eb-0b8d-43c2-ba35-cc931180a7d2/602f172e-409f-4f04-8430-39e2e6b7a327/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris slammed for tweet sucking up to small businesses after bailing out rioters"
     excerpt: "Vice President-elect Kamala Harris was widely slammed on Twitter this weekend for committing to helping small businesses affected by the pandemic despite having openly supported protesters at the height of social unrest over the summer."

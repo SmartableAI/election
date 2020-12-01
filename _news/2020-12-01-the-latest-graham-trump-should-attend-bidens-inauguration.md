@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-graham-trump-shou
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1370
+heat: 1390
 published: true
 
 provider:
@@ -223,6 +223,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CVGQRKRPI4I6XHOWFUAXTGAXDE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Mitch McConnell for the first time appears to accept President-elect Joe Biden's election victory over Trump"
+    excerpt: "The Senate Majority Leader spoke of a \"new administration\" when discussing future COVID-19 economic stimulus negotiations."
+    publishedDateTime: 2020-12-01T20:17:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-wins-presidential-election-mitch-mcconnell-accepts-results-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-wins-presidential-election-mitch-mcconnell-accepts-results-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-wins-presidential-election-mitch-mcconnell-accepts-results-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 136
+    images:
+      - url: "https://i.insider.com/5fa19bd769331a0011bc703b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump's closest business ally just admitted that the president lost the election"
     excerpt: "The result of the 2020 election is \"very certain,\" and Joe Biden is the president-elect, Blackstone CEO and Trump ally Stephen Schwarzman told Axios."

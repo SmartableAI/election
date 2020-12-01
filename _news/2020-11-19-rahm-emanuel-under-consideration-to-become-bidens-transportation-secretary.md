@@ -319,6 +319,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden unlikely to tap Democrats from Congress for administration posts"
+    excerpt: "As President-elect Joe Biden prepares to announce more key nominations and appointments to his administration, the door is closing on the prospect of tapping Democrats from one of his most cherished places in Washington: the halls of Congress.\n    \n"
+    publishedDateTime: 2020-12-01T20:35:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y9yn6dZpx0s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/biden-administration-congress-members/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/biden-administration-congress-members/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201132456-02-biden-economic-team-1201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden urges Americans to recommit to fighting pandemic in Thanksgiving address"
     excerpt: "President-elect Joe Biden on Wednesday urged Americans to recommit to fighting the deadly coronavirus pandemic in a Thanksgiving address ahead of the holiday.\n    \n"
     publishedDateTime: 2020-11-25T21:38:04Z

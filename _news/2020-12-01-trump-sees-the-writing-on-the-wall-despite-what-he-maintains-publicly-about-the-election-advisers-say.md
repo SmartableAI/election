@@ -237,6 +237,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Barr says no evidence of widespread voter fraud, defying Trump"
+    excerpt: "Barr contradicted President Trump's claims of fraud in an interview Tuesday, taking an unusual step of publicly disagreeing with the president."
+    publishedDateTime: 2020-12-01T20:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/barr-says-no-evidence-widespread-voter-fraud-defying-trump-n1249581"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249581"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249581"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432248/201201-william-barr-ew-300p_25113da429ea4a6abcb10d98c0dc2b7f.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
     publishedDateTime: 2020-12-01T16:55:00Z

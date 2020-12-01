@@ -237,6 +237,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Mitch McConnell for the first time appears to accept President-elect Joe Biden's election victory over Trump"
+    excerpt: "The Senate Majority Leader spoke of a \"new administration\" when discussing future COVID-19 economic stimulus negotiations."
+    publishedDateTime: 2020-12-01T20:17:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-wins-presidential-election-mitch-mcconnell-accepts-results-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-wins-presidential-election-mitch-mcconnell-accepts-results-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-wins-presidential-election-mitch-mcconnell-accepts-results-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 136
+    images:
+      - url: "https://i.insider.com/5fa19bd769331a0011bc703b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump's closest business ally just admitted that the president lost the election"
     excerpt: "The result of the 2020 election is \"very certain,\" and Joe Biden is the president-elect, Blackstone CEO and Trump ally Stephen Schwarzman told Axios."
     publishedDateTime: 2020-11-23T14:20:00Z
@@ -966,6 +982,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "cKpCgtN8IEiaU81t6QiXE/WYH3VzVx/XYsAAWlwE5AbmR8na6wZq+e2LRUgRk+ibc7hd8h6fF2VJCfmaYOOKIfiL5iIM8r4ujM5Qe3FanDxSnVJcJ1EhAJoYDR2a7v3QdCqYTiEeIHEkL/jdA1c30U/9LsMWoIkyh1mIRnW9Chem3AMQ7H8GcEw1wIolRaSR7CVMXCKs/calbJ6E/5zcTQ5Jqlkv6I56bEyCZ9XeoEuC7DGV8d7rFCKDvxmTvkaHdlPNzdXC0ue+z5NOhLqSo8Pcq0dGXKxFBIPUcRVqpdvUr2SmbBxmzZarKQ+ZwZXskTVMhs+azShOX9gfcte2+ZWiQ63IYqoW9TYaw6HALIo=;HnrdWbA7xVdXgiZfYW2z+Q=="
+secured: "r6bgnCcC0elUq4IMXzaUH+D+ZQm/b5bFxfKoK9tzZz3a22z1gfJN7sIEvD8X2rnONvAMoViRDh1k+vTclwRiuERaLEGFa+z7Q3bPcLJ7cudLPTFPTEXU0E5H//MYFzS0urBMfIR5ie0unXHvrCV1/8eiruHm//rCXrhmtgElWeaY7iO8X+qckcqpKlrKmnknBGevzDWLsMMQdHersmmgQanwGXrLFiUD4EkiElh0vt1czHV8Nnj/oNaW0xIVY9aENxcU1veodhmrjhrXsQwSGh7C9HpXjJPiYcFA/RRpPyw5uGXvDkagtHRse4ZLN++pJV0J5erSH+GHahaXD4CuEl9XF89JMBc7FP9LSkyxKbqEIBgee7yU0GqdQd0au0PFKoDkrwXulGEha3aRZHxMx7NACwtKTm0svTp/+ESXUnbIK6zCUEqilPGqNcSNwqG7Nw1Ih1ajaVTNG3EgQSI3nxXd4ZWPOrnZuADYlrIdfmFBzkrtGD5dPh6CHHvYKoz+IpElOT5p/ZgqGc5KG4cx6Q==;kYrmLjUNutdhRH44/71HEA=="
 ---
 

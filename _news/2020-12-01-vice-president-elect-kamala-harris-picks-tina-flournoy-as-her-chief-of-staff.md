@@ -2,7 +2,7 @@
 category: news
 title: "Vice President-elect Kamala Harris picks Tina Flournoy as her chief of staff"
 excerpt: "Tina Flournoy, who is currently serving as chief of staff to former President Bill Clinton, has been chosen to be Vice President-elect Kamala Harris' chief of staff, according to a source with knowledge of the decision.\n    \n"
-publishedDateTime: 2020-12-01T05:46:27Z
+publishedDateTime: 2020-12-01T19:18:05Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2PmUWMV9mtY/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2PmUWMV9mtY/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/index.html"
@@ -49,6 +49,6 @@ related:
         height: 550
         isCached: true
 
-secured: "y8t3EWotjevc2W5Bhmx35jLo7izMYDrHZS6RDLntJmOh4MlP7xU9z1UhleI9GWpX8nxMYrsBNhZefa0sFBrIaMybtaF68dzwqJIOQu1QGx+qMoquLJXVWL0xfZj1CGZ16Uzx5MvcOEYLhzy5ZAyP0qPUpuYhg2DDLhPOiMcohJbaD8gCJ/ruOpHg1IETtyP/ME+lrW+zz1QwIaiSYDHcNRZekd4ps4FjWT95epCLXXa3drc08iYdSPlgPmI56KghTxPd3h2NaOF0Mf/3broaZVjqVTu6WMIzOLMj398tm15wEXxVuUfhAVsCRWLiu8WlAyn7cemZcWJbhM/q/Sl43Qm7MrGctKwXD55fwzbw+4U=;a4xK2mwcTXf4hBlBY4pwPw=="
+secured: "qL7TApqUs0zv19vRJSC41lg3VAzN8RDa5/NBZMMvM1VEdFw0xd1xOulAWtm0xPojpF7crl7ZANVflz64abVFTbp4XDHKd/oZ551tyLFr+KvjLtrZKoRHO7IfhquSejT00N57twtsdAaF3hcFino4N2/7zgy1NWzs8KhaT4a/2LGsnk4HsgskkSFvmEtm1HMDR3qMbBzDKBXw9Fj6EhcTem2MG+MdEH9gYCxvjful/F69j1luPG0KAe7+7ilasunPcX0YllMpdI29q1VfCZdCoKdPrviAln8CtEZifpQudan1pEty0uexg/4hGSQJa+BAcAKH188l31h60EgD0XpDYsOSHdFjg7s53ZrBRnTp9s0=;wIigmlE4jT5SurSrA0nwzw=="
 ---
 

@@ -287,22 +287,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden weighs Rahm Emanuel for transportation secretary"
-    excerpt: "President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel to serve as his transportation secretary"
-    publishedDateTime: 2020-12-01T05:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Top secret: Biden gets access to President’s Daily Brief"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris began receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan. 20"
     publishedDateTime: 2020-12-01T01:59:00Z
@@ -349,6 +333,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543087688&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB039D"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden urges Congress to pass coronavirus package, promises more action"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
+    publishedDateTime: 2020-12-01T20:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-urges-congress-to-pass-coronavirus-package-promises-more-action-idUSL1N2IH242"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543101682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03ID"
+        width: 758
         height: 545
         isCached: true
   - title: "Controversial postal chief poised to remain in Biden administration"
@@ -555,6 +555,20 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Joe Biden: President-elect seen in protective boot on fractured foot"
+    excerpt: "Joe Biden is seen wearing a protective boot on his right foot, which he fractured playing with his dog."
+    publishedDateTime: 2020-12-01T20:37:00Z
+    webUrl: "https://www.bbc.co.uk/news/election-us-2020-55151354"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p0905xmn.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Joe Biden Considers Roger Ferguson to Lead National Economic Council, Gary Gensler for Deputy Treasury Secretary"
     excerpt: "President-elect Joe Biden is considering TIAA CEO Roger Ferguson to be his National Economic Council director and former Commodity Futures Trading Commission chairman Gary Gensler as Deputy Treasury Secretary,"
     publishedDateTime: 2020-11-25T22:32:00Z
@@ -572,6 +586,6 @@ related:
         height: 660
         isCached: true
 
-secured: "KqLEjgSzNZPKg3sD9+Ig15g7zlCKhXUFKdLVqJtPo2v+2zEAVnEm4aenrzXCOR/HA0RLSzseMwdPSt8dF4bkVn1fQjILCUysSsiytmIOe2IzLJK8e9uq8QXVmlCUFz/6B1sZMd1+LaH9AGrN4l65GXaqZaMhErvfH4jGcQb8VSh1Ed4b1n+TGjZgDWXg8vtqAD9Il4DPwIyaZQdjaYfP8V1yFcr91og4HdQfTSvklwx85WAo+sTCCOwIgBWeoXvJ0u6O14E2zzQe6KkgTN0AA+73G9vU3pvNR03Np3EqpZlfcWD7SgNq8kRUnEyg0Exrqt23Va4/KOsJPcEv2pjROt07sCNJUJpd6oUMB5mxLnI=;rENnNrq2eXuGeoonLRQtOw=="
+secured: "dkkRhsSVROOiRWgo4Llg4NP3XoO8DAj4HEAhMbCmEWPRXDijSQQ7Zu4LzLeqJoPXKfFG8qWXaNi/1wGOXB+sE9KFkvxnXWinU6GOJbge8i6q1QZoGCb1crqbJyExQoVALCNQYoyQIyyvlpE0t9ilcnmxU+SQnohJjdFvUG1a1e8ssL9qyurPSkmBJeXcSLMj8yChNVWA3XPgvSTkH8S4H4GaYiT9pioUsi6klZY1RNXie+qqthxxOTxFS9DcjLZ3fnYfbXa6lh0NnD31MXy5ZL/GMiiuwXf+1Nn7fsppJWLRU5UmcKAdhDQe7PKDGL5Zl02+tqXw/UfdQBPDxevU00YEBbGWwPZSPjBKjZfDXbDhHoN5I+K75vremvcbVyZXIctSKrBDrgm8CVD74nqHmTaYbh6ai9HczB64cnMzq4+G/+8I4f3ndlmnfMlafYmq74r0OBigmB3qVInE3gT5sR6L+VXczezBZwxtv9scQnf24Rlsh8EO1pG+mEL4SpqCxvCjHYJk4cFXwnmACv14vg==;orEnVTBFQPFxexcsRMedBg=="
 ---
 

@@ -299,22 +299,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden weighs Rahm Emanuel for transportation secretary"
-    excerpt: "President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel to serve as his transportation secretary"
-    publishedDateTime: 2020-12-01T05:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Top secret: Biden gets access to President’s Daily Brief"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris began receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan. 20"
     publishedDateTime: 2020-12-01T01:59:00Z
@@ -361,6 +345,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543087688&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB039D"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden urges Congress to pass coronavirus package, promises more action"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
+    publishedDateTime: 2020-12-01T20:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-urges-congress-to-pass-coronavirus-package-promises-more-action-idUSL1N2IH242"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543101682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03ID"
+        width: 758
         height: 545
         isCached: true
   - title: "Controversial postal chief poised to remain in Biden administration"
@@ -566,6 +566,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/7811606583294/2020/1/cf33271cf4070f966585c8d3e536d871/v1.5/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Joe Biden: President-elect seen in protective boot on fractured foot"
+    excerpt: "Joe Biden is seen wearing a protective boot on his right foot, which he fractured playing with his dog."
+    publishedDateTime: 2020-12-01T20:37:00Z
+    webUrl: "https://www.bbc.co.uk/news/election-us-2020-55151354"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p0905xmn.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "pLrtr2i7VTyegR0WHt0xCM/mZ+uFj5NrH6YDuPeDUUeHdiNDfUFTN+oVcS/k5Sv1s6S+f2JVfYCD6hPKkSPWc2H5K0OH/SJ9iYYdEUzwxOMYvyIxWQJy90547yPm7I3iy0ZkgoI+ztfVXOlHt38E9pTUoyA2I9L0VHy6zbsDwXkIdfYXnwIo1uAu4R+9Z0tQjb+3dImC/XGNGfH1UN4duUn5fXbxUz6tD00XHjd5nkA8ZbdqvSRqgJhN7rP71WYMs3YD646DToV6ZK0ZYICZVikDEwIBMzuDq0OpyH4ea3NmMRGCTcYosULOQE3RnrlYWwnA8EupAriPiufRr87wFMAtWG31mRVvliqS/8jVKJ0=;Vla86M1g0PPnJhS8Yc5KAQ=="
