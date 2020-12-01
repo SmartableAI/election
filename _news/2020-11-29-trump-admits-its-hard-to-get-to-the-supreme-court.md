@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-new
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/29/business/29BENSMITH-01/29BENSMITH-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Raises $170 Million as He Denies His Loss and Eyes the Future"
+    excerpt: "The president’s campaign has ratcheted up its appeals for cash, but 75 percent of every contribution is going to a new political action committee that could fund his next political move."
+    publishedDateTime: 2020-12-01T04:51:00Z
+    webUrl: "https://www.nytimes.com/2020/11/30/us/politics/trump-campaign-donations.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/30/us/politics/trump-campaign-donations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/us/politics/trump-campaign-donations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30trump-money-photo/30trump-money-photo-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

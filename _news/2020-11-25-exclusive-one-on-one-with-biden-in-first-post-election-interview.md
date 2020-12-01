@@ -480,6 +480,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden transition braces for tough Senate confirmation for Neera Tanden"
+    excerpt: "Joe Biden's transition team is bracing for a tough Senate confirmation battle for the President-elect's nominee to lead the Office of Management and Budget, who is already facing fierce opposition from Senate Republicans.\n    \n"
+    publishedDateTime: 2020-12-01T03:24:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_SvRsdBzX30/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130111604-neera-tanden-biden-admin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden praises health care workers during virtual roundtable"
     excerpt: "President-elect Joe Biden held a virtual roundtable with frontline health care workers and assured them he would advocate for them as president and promised \"there is hope on the way.\"Nov. 18, 2020 © 2020 NBC UNIVERSAL"
     publishedDateTime: 2020-11-19T05:16:00Z

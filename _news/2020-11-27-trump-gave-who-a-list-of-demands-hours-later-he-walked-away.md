@@ -32,21 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump digs deeper into debunked conspiracy theories instead of embracing reality "
-    excerpt: "At first, President Donald Trump's refusal to concede an election he clearly lost appeared to many of his allies a temporary stage of grief. Give it a few days, some shrugged. A week, tops.\n    \n"
-    publishedDateTime: 2020-11-20T14:52:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i-3-GJql1x0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/trump-conspiracy-theories-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/trump-conspiracy-theories-election-2020/index.html"
+  - title: "Trump sees 'the writing on the wall' despite what he maintains publicly about the election, advisers say "
+    excerpt: "Despite what President Donald Trump is tweeting and saying publicly in the wake of Arizona and Wisconsin certifying President-elect Joe Biden's victory Monday, Trump sees the scoreboard and understands he has no chance of hanging on to the presidency, two White House advisers told CNN.\n    \n"
+    publishedDateTime: 2020-12-01T02:27:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GHexN5-hjxI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/trump-writing-on-the-wall-election-advisers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/trump-writing-on-the-wall-election-advisers/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120140503-02-white-house-1118-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130002955-donald-trump-videoconference-1126-restricted-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Presidential Transition Live Updates: Trump Team Files Last Ditch Lawsuits Ahead of Deadline to Finalize the Election"
+    excerpt: "The safe harbor deadline — the date by which any election controversies must be settled — is Dec. 8. President-elect Joe Biden’s nominees send a clear message that his economic policymaking will be shaped by liberal thinkers."
+    publishedDateTime: 2020-11-30T18:13:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/30/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30transition-briefing-trump-cases1/30transition-briefing-trump-cases1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "t8rRGdFgmdVY4p/qG24bKgs/C9WjFdjpZROc1sG5JQLDWesLnjYcgRfS5uK5riLen/Sit4TrEuOedojgXXeu0RBlV9JVVEA6heE8vUaOh9fJfR5b2ZeAN+GS5TZxKZijlSsYxiphKOXu7VcV8DzFXKDU4cptnG/JyESyDrltH5mRk3+COejtcXI8AIIs0DLs/4z5yy3sLTUBn/lOePScwlflUKJE7xxC0SZDj2D1raWIKxX9DnJXYEUKSKh6RvLti5AuqHgXw3GZXbtz+0/FzUrHelML3bMKOMOo6nIUFB2jxBcxun43epWLppvgAq2q55T+306hONfSe+WxT7wVHB2VDPpvO+UkbtJGUGTBtxhAq5aSqvQ9pMRKjK7XY/xumJI/C2BTfZCmeed7Dkt1GX80hJbNStqAf5scl3ejp/0hQXcVnElBskNvNsTI5t2q0SUjtsfUj8rJotkKoZDGH5D9y03/iLwCFjXIsuDXXlvDFSmFP6euEnwlfBptoDwuR/5w72k2UfNffGDXd8AYMg==;7CPakfoEilRRZ53CG975zw=="

@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump still has power to make policy. Watch what he does"
+    excerpt: "Another key state -- Arizona -- certified its election results on Monday. And Wisconsin did too, after a recount requested by Republicans wound up affirming Joe Biden's victory there. Yet President Donald Trump is in a state of suspended animation, pushing conspiracy theories about his loss as the world"
+    publishedDateTime: 2020-12-01T03:28:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XJKQ4NN4wEM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/what-matters-november-30/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/what-matters-november-30/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130000216-donald-trump-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dr. Scott Atlas resigns from Trump administration"
     excerpt: "Dr. Scott Atlas, a highly controversial member of the White House's coronavirus task force, has resigned from his post in the Trump administration, according to a person who works with the task force.\n    \n"
     publishedDateTime: 2020-12-01T00:49:12Z
@@ -157,6 +173,20 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP senators' strategy on Trump's election fraud claims: Keep quiet and carry on "
+    excerpt: "A wide range of Republican senators are shrugging off President Donald Trump's evidence-free claims that mass voter fraud cost him the election, ignoring their party leader's relentless attacks against a foundation of American democracy amid their growing expectation that the matter will be resolved"
+    publishedDateTime: 2020-12-01T02:44:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jZHRsL5biNA/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

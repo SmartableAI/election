@@ -464,6 +464,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden transition braces for tough Senate confirmation for Neera Tanden"
+    excerpt: "Joe Biden's transition team is bracing for a tough Senate confirmation battle for the President-elect's nominee to lead the Office of Management and Budget, who is already facing fierce opposition from Senate Republicans.\n    \n"
+    publishedDateTime: 2020-12-01T03:24:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_SvRsdBzX30/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130111604-neera-tanden-biden-admin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Exclusive: One-on-one with Biden in first post-election interview"
     excerpt: "In his first interview since the election, President-elect Joe Biden speaks with Lester Holt about his cabinet picks, the formal transition of power, his plan for distributing the Covid-19 vaccine and reopening schools."
     publishedDateTime: 2020-11-24T23:57:00Z

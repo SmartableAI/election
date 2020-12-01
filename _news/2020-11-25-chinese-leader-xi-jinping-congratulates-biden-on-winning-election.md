@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-con
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-congratulations/index.html"
 type: article
 quality: 190
-heat: 1070
+heat: 1090
 published: true
 
 provider:
@@ -460,6 +460,20 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125153328-02-biden-thanksgiving-remarks-1125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden transition braces for tough Senate confirmation for Neera Tanden"
+    excerpt: "Joe Biden's transition team is bracing for a tough Senate confirmation battle for the President-elect's nominee to lead the Office of Management and Budget, who is already facing fierce opposition from Senate Republicans.\n    \n"
+    publishedDateTime: 2020-12-01T03:24:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_SvRsdBzX30/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130111604-neera-tanden-biden-admin-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

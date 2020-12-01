@@ -233,6 +233,17 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Scott Atlas resigns as special adviser to Trump on coronavirus -Fox News"
+    excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump on the coronavirus, Fox News reported on Monday, after a controversial four months at the White House in which he clashed repeatedly with other members of the task force responding to the deadly"
+    publishedDateTime: 2020-12-01T01:45:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-atlas-idUSW1N2HQ0F6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HQ0F6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HQ0F6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
   - title: "Trump Let the Right Make Him the Herbert Hoover of the Coronavirus"
     excerpt: "Perhaps we will look back at the 2020 election and conclude that Donald Trump, who was always going to be Donald Trump, never had a chance to beat an opponent who led him in virtually every poll ..."
     publishedDateTime: 2020-10-26T15:54:00Z

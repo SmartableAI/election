@@ -463,6 +463,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden transition braces for tough Senate confirmation for Neera Tanden"
+    excerpt: "Joe Biden's transition team is bracing for a tough Senate confirmation battle for the President-elect's nominee to lead the Office of Management and Budget, who is already facing fierce opposition from Senate Republicans.\n    \n"
+    publishedDateTime: 2020-12-01T03:24:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_SvRsdBzX30/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130111604-neera-tanden-biden-admin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Exclusive: One-on-one with Biden in first post-election interview"
     excerpt: "In his first interview since the election, President-elect Joe Biden speaks with Lester Holt about his cabinet picks, the formal transition of power, his plan for distributing the Covid-19 vaccine and reopening schools."
     publishedDateTime: 2020-11-24T23:57:00Z
@@ -736,6 +750,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "SF3hMQGaYk7AU56A8JDdSPKvIMv1k6TlioelFnjMKVVPZeu5lf/4RNKEeoaaTwvLU9bGZF/+BQbxGr9KLCAXLJemW9Ti3gewtt5rP2Xb/nMc0Xtlr6G6a/kRZmKnVp9gt3IyNRKP1uhpdV+EzOn2+sJirOrpvenC7PK1lwUsn/q1314u4oW472jX6myS58rd21iHFvYEld8aYn3QzGp4Ol+HPpNmvxhaJmRiOGlOUxv4EUjCaaE6cVME3+7uSWRY1noUEzAys+Fr5zYBVcgTbBwAvI5V4uXmkaKBmmZ/Kq6K9OrEvRQZjajFXeSMWw82bAeqYDZD/tt/LkE58rTewcp5zUJcN9uMu8vnDcZ33Bw=;p3/dURU487QjPAbXXd/y/Q=="
+secured: "iZdHlQHWEQc5wC1R3uiMash56nB40fZ5aGzn9QQ5NbQgOnwUFdcdEbcLB5+6rdAJXawwBpGfLUJGOATpI6ANFC9WG8PSVJr510VSuj4LFKTPtS9IEcWn2LYEbLVqvMrZod0KQV/t6HrZ/Fg6PaXwthZUNaEXVKOogX7UtIDDy0Dbg1Xq8ICmuV6iJ6Lc65ozzBNiczuYjSPj/gcLV0pr5N9Dj8mbBrOKOPYdPxpm/YqqEgpfZQ6HXPfbCMh2+ZkvDFeOOl9dYwcb6v6A0Xz0xnEHC7wNvfUiEov97TivxPaxuP4I2Db15XDkQ/t4sILOyC6M0YIo2cHiFhJi4MhPahoUsFoHfRbeg0gtI6JKoz4=;/ATmX/ozLaJQjg652A2wKw=="
 ---
 

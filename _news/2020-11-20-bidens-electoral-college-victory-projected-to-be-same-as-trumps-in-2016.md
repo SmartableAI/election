@@ -239,6 +239,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Live Updates: Arizona, Wisconsin certify election results for Biden"
+    excerpt: "President Trump suffered another setback in his push to overturn his defeat in the presidential election, as Arizona on Monday certified President-elect Joe Biden's victory in the state."
+    publishedDateTime: 2020-12-01T03:48:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/23aMvB4EcFg/live-updates-election-12-1-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-12-1-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-12-1-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3212f6e9-d407-4a26-afce-c45958a41c08/58384915-7131-4732-88d5-2bd8ef6d9eac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says Trump administration outreach on transition has been 'sincere'"
     excerpt: "President-elect Joe Biden said outreach from the Trump administration has been “sincere,” since the General Services Administration ascertained his win on Tuesday. "
     publishedDateTime: 2020-11-25T01:44:08Z

@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Black Lives Matter and other activists protest possible Biden appointment for Garcetti"
+    excerpt: "Groups opposed to L.A. Mayor Eric Garcetti possibly joining the Biden administration demonstrated outside Garcetti's residence on Monday for the seventh straight day."
+    publishedDateTime: 2020-12-01T03:02:00Z
+    webUrl: "https://www.latimes.com/california/story/2020-11-30/black-lives-matter-los-angeles-garcetti-biden-protests"
+    ampWebUrl: "https://www.latimes.com/california/story/2020-11-30/black-lives-matter-los-angeles-garcetti-biden-protests?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-30/black-lives-matter-los-angeles-garcetti-biden-protests?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 117
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d2b8b03/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2F9b%2Ff2f5489a4db4a2d9343b35db7727%2Fla-photos-1staff-545331-me-0522-unusual-getaway-day-005.IK.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Biden picks first Latino to head DHS, first woman to lead intelligence as part of diverse foreign policy team"
     excerpt: "President-elect Joe Biden chose Alejandro Mayorkas, who arrived as a refugee from Cuba, to lead the Department of Homeland Security."
     publishedDateTime: 2020-11-23T20:47:00Z

@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Arizona certifies Biden's win as Trump's legal team holds an event in the state over the president's baseless claims of voter fraud"
+    excerpt: "The election was secure \"despite numerous unfounded claims to the contrary,\" Secretary of State Katie Hobbs said on Monday."
+    publishedDateTime: 2020-12-01T03:37:00Z
+    webUrl: "https://www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fc54f13037cbd0018612f22?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "cs0FSqM1Kzb3EUO9LblHOy5uhhwkps8LwjjNwRBj5OMMvckm9DBRzXd+GzT6eQbGYzyEfO+xaXArCPh1eJPopizU3rI2k8reNgd8aU9IHZA+LXVXyMpsM8+zF7LWNk+4yn8GaldicHzq+vysU7b95YWqRfJ9sryHN2ml6Gsdhydn4VRSqgi3SKUQV57cK/2g8rjealmuqnWlw9eFLGzPFW1tj+Ofn71ST4iq+3RCVeVr1+aZP7v8yDgR9sESDJTklQbtyhfLjraDOnkb2fm2KmhhCpFMRrIiEkjE9FUua/cPxLFqcxQhpAkq4dQTWR3HGS1igyhHwsUpsXoSgjJ8xAFAdKGcU4B5U/i+gv8KPDjhCCTHY5H1mM9Soo5pkNFJfNKjppVhQOmDh3DiwB1iqnpAHqZKn28/xXBU6RPc0L4HbqsR0sLOfMVts2yzYvwuHpniX8BFD/NpBpDKAwCl44RXcuf3OFDDEzCO6vVsfqsmJktpNgcAN5dFi5EJ1SXUdhIIkLwBoNrmsHX4kr/xXg==;CtQyPxNKiRd1IumrwJPdzw=="
 ---

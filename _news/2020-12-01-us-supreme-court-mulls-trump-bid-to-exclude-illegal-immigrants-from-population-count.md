@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's arguments on undocumented immigrants?..."
+    excerpt: "Watch \"What are Trump's legal arguments on removing undocumented immigrants from the census\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-01T04:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201201043811-what-are-trumps-legal-arguments-on-removing-undocumented-immigrants-from-the-census/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/01/story_07914228_1606797964.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "udq1lPaHL2H+wI7lGvQQGbhAN31UtNv0JUcI7E8RSGKJclFYO0tDm5na4WAV7/N1pnjLNep08yl0i8qXUp62+W4HThPnRxYfB1gPoH/zYKRTCySd5Ost+UH5LfhjZThy/y5Lmy7H17+acm7U5DbcxSdjZllKjx/qAR7lin2wqkwyaHKoz2RFrR9X6qkQEHgSt58ouOZKm+LqTFrveQmxDWN2i+m/kQWeRc2s/vacCrD6H75XNm9G0JdDcEbxyIXMCFoVuQHiFrCpjTH9kmpt0lnuOSt1jEDcySmn6NrXKAEqak693X6Bdnh/7hHp4+fBcliiGc3ihcladPKiorm/UiGUTOmHlsI2aHuzury8S48=;Bbuea3Fk1yVkhDs6tVcssg=="
 ---

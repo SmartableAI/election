@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-01-trump-sees-the-writing-on-the-wall-despite-what-he-maintains-publicly-about-the-election-advisers-say.md",
+      "title": "Trump sees 'the writing on the wall' despite what he maintains publicly about the election, advisers say ",
+      "excerpt": "Despite what President Donald Trump is tweeting and saying publicly in the wake of Arizona and Wisconsin certifying President-elect Joe Biden's victory Monday, Trump sees the scoreboard and understands he has no chance of hanging on to the presidency, two White House advisers told CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GHexN5-hjxI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GHexN5-hjxI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201130002955-donald-trump-videoconference-1126-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/30/politics/trump-writing-on-the-wall-election-advisers/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/trump-writing-on-the-wall-election-advisers/index.html",
+      "publishedDateTime": "2020-11-30T18:27:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-read-trumps-pardon-of-michael-flynn.md",
       "title": "READ: Trump's pardon of Michael Flynn",
       "excerpt": "The Justice Department on Monday released a copy of President Donald Trump's pardon last week of former national security adviser Michael Flynn.\n    \n",
@@ -126,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 386,
+      "heat": 426,
       "tags": null,
       "images": [
         {
@@ -170,63 +226,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-presidential-transition-live-updates-trump-team-files-last-ditch-lawsuits-ahead-of-deadline-to-finalize-the-election.md",
-      "title": "Presidential Transition Live Updates: Trump Team Files Last Ditch Lawsuits Ahead of Deadline to Finalize the Election",
-      "excerpt": "The safe harbor deadline — the date by which any election controversies must be settled — is Dec. 8. President-elect Joe Biden’s nominees send a clear message that his economic policymaking will be shaped by liberal thinkers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump",
-      "originalUrl": "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/30/us/politics/30transition-briefing-trump-cases1/30transition-briefing-trump-cases1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/30/us/joe-biden-trump.amp.html",
-      "publishedDateTime": "2020-11-30T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-29-trump-admits-its-hard-to-get-to-the-supreme-court.md",
       "title": "Trump admits 'it's hard to get to the Supreme Court'",
       "excerpt": "CNN's Amara Walker and Carl Bernstein discuss President Trump's admission during a Fox News interview that \"it's hard\" to get cases to the Supreme Court and how Trump's continued legal challenges could undermine future election processes.\n    \n",
@@ -239,7 +238,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -859,7 +858,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1070,
+      "heat": 1090,
       "tags": null,
       "images": [
         {
@@ -1422,7 +1421,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 190,
+      "heat": 170,
       "tags": null,
       "images": [
         {
