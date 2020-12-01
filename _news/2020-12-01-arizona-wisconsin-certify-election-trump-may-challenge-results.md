@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump wants to throw out ballots from 238,000 Wisconsin voters"
-excerpt: "The affected voters face losing their voice in the election after following state guidance that was promoted widely, including by the president."
-publishedDateTime: 2020-11-28T04:39:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/trump-wants-throw-out-ballots-238-000-wisconsin-voters/6437897002/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/trump-wants-throw-out-ballots-238-000-wisconsin-voters/6437897002/"
-ampWebUrl: "https://amp.usatoday.com/amp/6437897002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6437897002"
+title: "Arizona, Wisconsin certify election; Trump may challenge results"
+excerpt: "President Donald Trump has challenged results in several states but faced setbacks in many of those legal battles."
+publishedDateTime: 2020-12-01T07:38:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/"
+ampWebUrl: "https://amp.usatoday.com/amp/6462445002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6462445002"
 type: article
-quality: 125
+quality: 140
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/11/01/PMJS/76378a31-ccf9-4b45-bd15-719180b883c5-MJS_Early_voting_nws_sears_1-1.jpg?auto=webp&crop=3378,1901,x0,y500&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/a4f30290-dae6-438d-bac6-9a31bad382f3-AFP_AFP_8UN26Z.jpg?auto=webp&crop=1023,575,x0,y77&format=pjpg&width=1200"
     width: 1200
-    height: 675
+    height: 674
     isCached: true
 
 related:
@@ -78,22 +78,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541647819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH19T"
         width: 817
         height: 545
-        isCached: true
-  - title: "Arizona, Wisconsin certify election; Trump may challenge results"
-    excerpt: "President Donald Trump has challenged results in several states but faced setbacks in many of those legal battles."
-    publishedDateTime: 2020-12-01T07:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6462445002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6462445002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/a4f30290-dae6-438d-bac6-9a31bad382f3-AFP_AFP_8UN26Z.jpg?auto=webp&crop=1023,575,x0,y77&format=pjpg&width=1200"
-        width: 1200
-        height: 674
         isCached: true
   - title: "‘We need you’: GOP hunts for new voters in Trump territory"
     excerpt: "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time"
@@ -206,6 +190,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/97f8e63/2147483647/strip/true/crop/3639x2377+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F30%2F81aab5264727991f7a823d391e72%2Fbiden-65717.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Trump wants to throw out ballots from 238,000 Wisconsin voters"
+    excerpt: "The affected voters face losing their voice in the election after following state guidance that was promoted widely, including by the president."
+    publishedDateTime: 2020-11-28T04:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/trump-wants-throw-out-ballots-238-000-wisconsin-voters/6437897002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6437897002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6437897002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PMJS/76378a31-ccf9-4b45-bd15-719180b883c5-MJS_Early_voting_nws_sears_1-1.jpg?auto=webp&crop=3378,1901,x0,y500&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump campaign would have to pay nearly $8 million for Wisconsin recount"
     excerpt: "President Donald Trump's campaign would have to pay nearly $8 million to start a recount in Wisconsin, a state he narrowly lost two weeks ago."
@@ -572,6 +572,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "yK9QYXaz06oy+AupBRYaSo4oV4Xdbv23SmCiGuawrFgXiQqC+GOO0IlNJrLNlkdrEo41R5WS2YGBd+e7hAzICTv/laInlUXY/vyBkCFDVz09IxYOqHDXlNaIBWyM5uCZG3YMRdwivrZtaL5S/3+Wa8dc2ldoNKU1mls5UPyVVR+MLadhAxNovPffXQqeUkymdjCd1uC4yc/U8F4ONzXKAmxGi/dq81hU7zB3rtx1R8anm/0EygLdlUq1pS2FI2b0bSnQQXYXn49RfLdhlicS97Ne4IFToIF5MdaxdUxrLxHq9uWBriobPV1u3d/T+9VvLbiV0jpMe8K+NiPEV9wm4kh4C6XqupXvWca/M2Hnup0=;GEKG0MSZuq/AIwr4DbW+vQ=="
+secured: "ocQDhfDo+YF+2kfxgCK3ysEo7gSKSHOgOoZNNtEYIXKA8Vu93BSzkIZKkmc3LwEdALYa1tEgbEHCr3YyXsVSU95Vn4cK1Cu2vaFvpdeSx9oV1j6lH9sfot7GsV7Xs7w0EU5xtNQtYdLYNP9GU6lrXaOo1g8fIpjIQO7d6yQtC0ZvNKOMHBPI6Ni63gs0rrJpSc1LZDmmHedFD1mayD06hqx6VbL5/9tYIfPAQ/lZyREdG+RcWHM+CPgRz2JbsYzP+i+u2U363mlYZ/EEswgkvV7QwHFBDER9q28+oZjaMWuBT3DNLi/CgXT6lTwj1N/rfOsJAUEdJ0GfdifThwxS1dPSKJyKoEjCF847P3s/x8c=;GZdsl9jpQrcqyOo9InXThQ=="
 ---
 

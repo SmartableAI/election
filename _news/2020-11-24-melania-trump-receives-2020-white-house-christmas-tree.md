@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6393835002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6393835002"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://i.insider.com/5f7904f6282c500018c7875e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Melania Trump Humiliation: Trevor Noah Mocked FLOTUS With Holiday Sweatshirt Design"
+    excerpt: "Trevor Noah released a holiday sweatshirt with a design that seemingly mocked Melania Trump because it was printed with the FLOTUS' infamous line about Christmas."
+    publishedDateTime: 2020-12-01T04:06:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-humiliation-trevor-noah-mocked-flotus-holiday-sweatshirt-design-3091788"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-humiliation-trevor-noah-mocked-flotus-holiday-sweatshirt-design-3091788?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-humiliation-trevor-noah-mocked-flotus-holiday-sweatshirt-design-3091788?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 69
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/08/first-lady-melania-trump-attends-congressional-spouses-luncheon.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "3Q0c9imCq2mHIZs+LhIqf3ReBVj7bSh+ux0lW+iQmKzVC8q85+SPSoSFEdh04g+qrjm6MVAtL5l54hGkC6fVM7KNuo/2DqX4LylgfYmzH9v1FalJ3/u2WfqOc+ZFsq/3fyrVys47xYykbbHiJvy3NbERxb2HE8hicasRiacXJSmKWqDl0YVASgddFtXwqxr/ErnAmLyb8OhGxj9wcM+ZdMpjjCWNyixzFoTtcup3C3S7YSrMiqGCK7phuCq0hHIIousDZ4FaCmqgzQDR8WDiSNEoIZVtDlJDQW1+hxwkOnsDNpn0HErVnLjPYDGr0Cl8THOYeLSLN2jNv0PuAtTjULfUsBTQOZ8GYWX4DMIhoVew0IGztSkygLzPGHkgMIW8f20x+VFMOSu4itRLukjXkhVTv2ucychyrjYZ/4yb4HK1OFdskMaEjxMX8N435xHGuqaBUe2X6IU0TlgzMmr+kgVbqyBw7bNcr2HSMAVr+njQVw6QW5hpTIbpd0b+pEekSHrhzSBBvXWTVdooy5Qofg==;s28fULbLgfT2w6K8NQYDEA=="

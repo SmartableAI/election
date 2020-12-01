@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Arizona certifies Biden's win as Trump's legal team holds an event in the state over the president's baseless claims of voter fraud"
-excerpt: "The election was secure \"despite numerous unfounded claims to the contrary,\" Secretary of State Katie Hobbs said on Monday."
-publishedDateTime: 2020-12-01T03:37:00Z
-originalUrl: "https://www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
-webUrl: "https://www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
-ampWebUrl: "https://www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?amp"
+title: "Wisconsin governor certifies Biden as winner of state"
+excerpt: "Wisconsin Governor Tony Evers on Monday certified Democrat Joe Biden as the winner of the state's presidential election."
+publishedDateTime: 2020-12-01T06:03:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-election-usa-evers-idUKKBN28A36T"
+webUrl: "https://www.reuters.com/article/uk-usa-election-usa-evers-idUKKBN28A36T"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28A36T"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28A36T"
 type: article
-quality: 110
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://i.insider.com/5fc54f13037cbd0018612f22?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542985696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1SL"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -79,22 +79,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Wisconsin governor certifies Biden as winner of state"
-    excerpt: "Wisconsin Governor Tony Evers on Monday certified Democrat Joe Biden as the winner of the state's presidential election."
-    publishedDateTime: 2020-12-01T06:03:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-usa-evers-idUKKBN28A36T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28A36T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28A36T"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542985696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1SL"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump threatens more lawsuits, but court challenges are hitting dead ends"
     excerpt: "Pennsylvania officials asked a federal appeals court Tuesday to put an end to the Trump campaign's legal challenge of an election that has now been certified."
     publishedDateTime: 2020-11-25T06:04:00Z
@@ -143,6 +127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Arizona certifies Biden's win as Trump's legal team holds an event in the state over the president's baseless claims of voter fraud"
+    excerpt: "The election was secure \"despite numerous unfounded claims to the contrary,\" Secretary of State Katie Hobbs said on Monday."
+    publishedDateTime: 2020-12-01T03:37:00Z
+    webUrl: "https://www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fc54f13037cbd0018612f22?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Wisconsin and Arizona make it official as Trump fails to stop vote certification in all six states where he contested his defeat"
     excerpt: "The president and his allies vowed to continue pressing legal claims challenging the election results in several states — but such efforts have met with resounding failures in the courts."
     publishedDateTime: 2020-12-01T08:24:00Z
@@ -171,6 +171,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "+TlRMKVKbGkEoDbjvTJZCx6Hnt6+uUREGiCo9XElpHCgI/7IMzad4y49SQhXKchr/Dy7PcfoiRgonhKoCdnG8WbziShI9AFx3clsaOrWQSaSnmyFPq/YoxlQlu+aE+gYIvE8twU9HKpK/W5r1LKtZMFco6JuqCF402dK29ywSALhJIXRtkiKsI0BsBNiwhVsiZUfJ8EkbIVC1KIPrM/PF0NfCPu1aXgZ3Y2rl6lUX9g3tq5Hv4aBW/J2Wj61OV3QkaLszUOuKu27A8IquoE5beKel5cIP3ocnsXvAWEpXtJg1nTTUksW4rST+tmjNrrZMoC+HLWG177UfAlhUz/GAwdPtYgTmXPrredGDY1ehKbXRt9dxc7k85cIM5fiV4+ipear+eyF+v2+LK1all7iAMSnXPpg6auoeNeL7vIecciBb3ZSBEGxS4JI7EEylfRSHn6Z3do/zupF6tPDRsutuO0B6yqbLwdP6BNq/pHuxLUt5k6mXdvV4dWOvrsTyBdoZp1vitp/hSFknOBT9H5s7w==;0ItHoW+mo33awI/eFABdfw=="
+secured: "csZfacS+efAXufqVd0AKcVJ59ZxtpQvWxJwiRFMzooRyMJTBQcpU02ZyjifJNFpT3eEX9NdzqAOMNLlSMjwdYAfzkQFTHmlOgjRH+MMQuGqPPY4ul/F82ZcbL7T+bRKOMmvLtoddMQvlS72Zt9LQaB/pz1gzZ1z4ZiYE70ZvlzmxLWUIbSRka3i1K263RJXv8FqMkK7OWHkGF8JZjZh/+Oe25qRBVLFpbp+sJJKID3RoSn2ebM2HnYWQ0942/X1v5sP3YmIM0+9y6xAVqpXv9Ip8LCE5CblqtlFoffdpEBhSLVMnVZ1V+0gpImA0+5HGCFlvCTiQrZQeFnQp+OfNHMTDF7CdIpHxz8nmX02ToJk=;2w7l2XSTATAaxMCAy7FYvg=="
 ---
 

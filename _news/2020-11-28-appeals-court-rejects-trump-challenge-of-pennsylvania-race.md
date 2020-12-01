@@ -73,6 +73,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Wisconsin governor certifies Biden as winner of state"
+    excerpt: "Wisconsin Governor Tony Evers on Monday certified Democrat Joe Biden as the winner of the state's presidential election."
+    publishedDateTime: 2020-12-01T06:03:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-usa-evers-idUKKBN28A36T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28A36T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28A36T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542985696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1SL"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump threatens more lawsuits, but court challenges are hitting dead ends"
     excerpt: "Pennsylvania officials asked a federal appeals court Tuesday to put an end to the Trump campaign's legal challenge of an election that has now been certified."
     publishedDateTime: 2020-11-25T06:04:00Z
@@ -136,6 +152,22 @@ related:
       - url: "https://i.insider.com/5fc54f13037cbd0018612f22?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Wisconsin and Arizona make it official as Trump fails to stop vote certification in all six states where he contested his defeat"
+    excerpt: "The president and his allies vowed to continue pressing legal claims challenging the election results in several states — but such efforts have met with resounding failures in the courts."
+    publishedDateTime: 2020-12-01T08:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 96
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NKGJIERTLMI6XDJYNLVBVWZYHE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "cs0FSqM1Kzb3EUO9LblHOy5uhhwkps8LwjjNwRBj5OMMvckm9DBRzXd+GzT6eQbGYzyEfO+xaXArCPh1eJPopizU3rI2k8reNgd8aU9IHZA+LXVXyMpsM8+zF7LWNk+4yn8GaldicHzq+vysU7b95YWqRfJ9sryHN2ml6Gsdhydn4VRSqgi3SKUQV57cK/2g8rjealmuqnWlw9eFLGzPFW1tj+Ofn71ST4iq+3RCVeVr1+aZP7v8yDgR9sESDJTklQbtyhfLjraDOnkb2fm2KmhhCpFMRrIiEkjE9FUua/cPxLFqcxQhpAkq4dQTWR3HGS1igyhHwsUpsXoSgjJ8xAFAdKGcU4B5U/i+gv8KPDjhCCTHY5H1mM9Soo5pkNFJfNKjppVhQOmDh3DiwB1iqnpAHqZKn28/xXBU6RPc0L4HbqsR0sLOfMVts2yzYvwuHpniX8BFD/NpBpDKAwCl44RXcuf3OFDDEzCO6vVsfqsmJktpNgcAN5dFi5EJ1SXUdhIIkLwBoNrmsHX4kr/xXg==;CtQyPxNKiRd1IumrwJPdzw=="

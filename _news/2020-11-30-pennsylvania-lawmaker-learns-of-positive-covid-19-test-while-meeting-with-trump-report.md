@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Melania Trump Humiliation: Trevor Noah Mocked FLOTUS With Holiday Sweatshirt Design"
+    excerpt: "Trevor Noah released a holiday sweatshirt with a design that seemingly mocked Melania Trump because it was printed with the FLOTUS' infamous line about Christmas."
+    publishedDateTime: 2020-12-01T04:06:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-humiliation-trevor-noah-mocked-flotus-holiday-sweatshirt-design-3091788"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-humiliation-trevor-noah-mocked-flotus-holiday-sweatshirt-design-3091788?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-humiliation-trevor-noah-mocked-flotus-holiday-sweatshirt-design-3091788?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 69
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/08/first-lady-melania-trump-attends-congressional-spouses-luncheon.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "tPMF1sQN9c2wzY+JUVZH3TMjVWdv1n0nNLPjKz76zXOu0GRO0PVffbSi42/teBpYK9bYyobjEyuGMSDnrhD5o8/LNQa6lKZErTNbMeTyaYDZQ1AnswlLY9VWvH3qbUW/hewnj0d38C4a3efL+HV7tIGXuWprSQUMP7dRXd9s55wiPamBA8ORvUl3o+NgKLPlHvIi4mLZPlv2G9X+0cozg01yQHjn0640sZI4XC0UvFB6OemyZwRN0Su55cJFjw1yK6wD/behzqKrhUXf8+7uWN1H82MohEbAISypeCPQ6GgKZN7+Kx+NT8kLB6AR5WCMg1I2UBwwDxcfmqAHtC5HMro49f9ZBN467MvqG0P7cRA=;IA2EBDuYulikrtjfVrQttA=="
 ---

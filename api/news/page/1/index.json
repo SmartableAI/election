@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-01-pennsylvania-lawmaker-learns-of-positive-covid-19-test-while-meeting-with-trump-source.md",
+      "title": "Pennsylvania lawmaker learns of positive COVID-19 test while meeting with Trump: source",
+      "excerpt": "A Pennsylvania state senator abruptly left a meeting with President Trump after being told he was positive for the coronavirus, a source told AP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/30/trump-meeting-pa-lawmaker-mastriano-told-he-has-covid-report/6461577002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/30/trump-meeting-pa-lawmaker-mastriano-told-he-has-covid-report/6461577002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/30/USAT/c13c2134-3d9a-42a8-93cc-895d30d08dd1-AP20312766885485.jpg?auto=webp&crop=5268,2964,x0,y268&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6461577002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6461577002",
+      "publishedDateTime": "2020-11-30T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-trump-sees-the-writing-on-the-wall-despite-what-he-maintains-publicly-about-the-election-advisers-say.md",
       "title": "Trump sees 'the writing on the wall' despite what he maintains publicly about the election, advisers say ",
       "excerpt": "Despite what President Donald Trump is tweeting and saying publicly in the wake of Arizona and Wisconsin certifying President-elect Joe Biden's victory Monday, Trump sees the scoreboard and understands he has no chance of hanging on to the presidency, two White House advisers told CNN.\n    \n",
@@ -217,7 +269,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/30/poll-biden-favorability-rises-while-trumps-falls-post-election/6471704002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1128,
+      "heat": 1168,
       "tags": null,
       "images": [
         {
@@ -761,7 +813,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -1049,58 +1101,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-a-pennsylvania-state-lawmaker-reportedly-received-the-results-of-his-positive-covid-19-test-during-a-meeting-with-trump.md",
-      "title": "A Pennsylvania state lawmaker reportedly received the results of his positive COVID-19 test during a meeting with Trump",
-      "excerpt": "All participants at the meeting took COVID-19 tests, but the positive results were not announced until they were in the White House, a source said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11",
-      "originalUrl": "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc48f9f50e71a0011557e18?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-lawmaker-gets-positive-covid-19-test-at-trump-meeting-2020-11?amp",
-      "publishedDateTime": "2020-11-29T22:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

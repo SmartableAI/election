@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
-excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
-publishedDateTime: 2020-11-30T23:03:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/wisconsin-gov-tony-evers-signs-certification-joe-bidens-74470525"
-webUrl: "https://abcnews.go.com/US/wireStory/wisconsin-gov-tony-evers-signs-certification-joe-bidens-74470525"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/wisconsin-gov-tony-evers-signs-certification-joe-bidens-74470525"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/wisconsin-gov-tony-evers-signs-certification-joe-bidens-74470525"
+title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
+excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."
+publishedDateTime: 2020-11-30T23:16:00Z
+originalUrl: "https://www.chron.com/news/article/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
+webUrl: "https://www.chron.com/news/article/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
+ampWebUrl: "https://www.chron.com/news/amp/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
 type: article
-quality: 116
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -571,6 +567,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
+    excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
+    publishedDateTime: 2020-11-30T23:03:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/wisconsin-gov-tony-evers-signs-certification-joe-bidens-74470525"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/wisconsin-gov-tony-evers-signs-certification-joe-bidens-74470525"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/wisconsin-gov-tony-evers-signs-certification-joe-bidens-74470525"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "President-elect Joe Biden expected to name Antony Blinken as secretary of state, sources say"
     excerpt: "Antony J. Blinken, one of President-elect Joe Biden’s closest foreign policy advisers, is expected to be nominated for secretary of state, according to people close to the process."
     publishedDateTime: 2020-11-23T11:28:00Z
@@ -789,22 +801,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
-    excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."
-    publishedDateTime: 2020-11-30T23:16:00Z
-    webUrl: "https://www.chron.com/news/article/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 63
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Trump Headed to Georgia as Turnout Driver, but Also a Threat"
     excerpt: "Some establishment Republicans are sounding alarms that President Donald Trump’s conspiratorial denials of his own defeat could threaten the party’s ability to win a Senate majority and counter President-elect Joe Biden’s administration."
     publishedDateTime: 2020-12-01T04:07:00Z
@@ -817,6 +813,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "c3H0CseODLYvOtKqX3NORI/62XsJOe0vZPgis8NR8DOIB9MeaVQLq1mhoidZTfKsP9qyI15Eg3Y83H88ZVhXsBfZkOoejyiBlxjI5kqOchNnA6eWMrdUOPDHQM91tlN9STTdMnIGei/YdG5v5aiwn8n/BvJVT2YUE2y8hTY8w3FUe4NCyMkjsF4v8ruUzCpvshBaEwz9ydG87MNp4F39MjKW/RI/OUdLwTk0LNt0uDxQh7EJIIv/FMYhO7NnPn3StGw3PnZ9Jv91Vx+cesWDjqx5xxiANYFVNi2Qb8dkPyryyRettvavBWpP9j/IBqWtJICeOly7m/paTVXvNzUfVIOG2ODJ8aiexuOwGvxL2gI=;p7uEu7qTo3fSqiDs9o11FA=="
+secured: "mU0aOa91hAlBlU2ZS4GnNszOAsLmetmSR3feMDCNJaiXBKz3fAei6cwoU3G36DpOPV3HQnu5Scvyq9QDoKqyQSE0CizOCHvd3DCp5H7d4Utnbkry0/AjY6+dD196SkZnkd7wBX64eslOJUvbeT8oL45G1aVsVFnheVWbAtIgTlHuOoRuem90RpjKXibIqZOVE+y2PtroDvH/vaC8+7EfSn9Fn4ZYEPkkzAQKauoT8/BISz4FJCC/ZA2f3o/AjDndcNjhEMYwJUqYfyxGKFFq2/ZbUeif0bYNHp9yuZ9uCJVEjA80LKUDqmjYkifuvAsPzyPRc8eAHm7h6Pjn+h6Pci8StFquLBxmjLSRrOpu2oQ=;6lTnE1v/PLz/6R1bPkGpSg=="
 ---
 

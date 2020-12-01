@@ -63,22 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump headed to Georgia as turnout driver, but also a threat"
-    excerpt: "Some establishment Republicans are sounding alarms that President Donald Trump’s conspiratorial denials of his own defeat could threaten the party’s ability to win a Senate majority and counter Presid"
-    publishedDateTime: 2020-12-01T02:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
     excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
     publishedDateTime: 2020-11-29T22:12:00Z
@@ -97,15 +81,20 @@ related:
         isCached: true
   - title: "Stocks ready to rally in '21 but outgoing Trump is risk: Pacific Life Fund Advisors"
     excerpt: "U.S. stock markets are poised to rally in 2021, bolstered by the predictability of a new U.S. president, fresh stimulus and infrastructure spending, plus a coronavirus vaccine. But there is a potential wild card: outgoing President Donald Trump,"
-    publishedDateTime: 2020-12-01T06:48:00Z
-    webUrl: "https://www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11?amp"
+    publishedDateTime: 2020-12-01T03:45:00Z
+    webUrl: "https://www.reuters.com/article/us-investment-summit-pacificlife-idUSKBN28A34F"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A34F"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A34F"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542972639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1RT"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "8+XnhIqe8OxyEn+T5WNUvTK4RfMnPlnT/PXwJrnXUbufoJ/15l5oQIOw8dgYSaF4LahKB+Asb9wiskRQUdZBYn5W1Q7TxIrtdelKa6wVpQ55zKRRL9U9dgm5Ep97npMHGnjWp9bKmvY8JoKQ5L1CcnFO5i+bI18RzobiXAGPamtFNYVveo0YcIkP+M1icmuHjcjJsGZYOZjB4utVScrvszBGBjZHhVp/0nrXP7K7VL5MxpWevHqetGKwgcb1nIc7AtdIyzZ6NpL9p+3Zb3It5VK54PyuoHX9djgvRGyaPRrl8FkJYyoiGzVu+uP2D32RqAbtiDJDbdliBmUxpq2b0O6UFuec08qTsX1//LkhZ4rjOfo7LfZ0N9yywi4RPZNTdpkVDUk4skhocL/j8Vm36siphUrdbtVJ7On4CDJk79L8+OuH15tMknCR059dSgzWWi4CfFdDWgm/Ga9Ye98bnNi4aN8mTwdFdptmSNKK09iLAW2XhlmuvvYuLB6jf2T+2zrz6jlGCAD8suzlfDdiCQ==;Y0QXjM+vAE1k/iH4AXGQDg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/angry-trump-promises-rally-i
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump headed to Georgia as turnout driver, but also a threat"
-    excerpt: "Some establishment Republicans are sounding alarms that President Donald Trump’s conspiratorial denials of his own defeat could threaten the party’s ability to win a Senate majority and counter Presid"
-    publishedDateTime: 2020-12-01T02:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
     excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
     publishedDateTime: 2020-11-29T22:12:00Z
@@ -97,15 +81,20 @@ related:
         isCached: true
   - title: "Stocks ready to rally in '21 but outgoing Trump is risk: Pacific Life Fund Advisors"
     excerpt: "U.S. stock markets are poised to rally in 2021, bolstered by the predictability of a new U.S. president, fresh stimulus and infrastructure spending, plus a coronavirus vaccine. But there is a potential wild card: outgoing President Donald Trump,"
-    publishedDateTime: 2020-12-01T06:48:00Z
-    webUrl: "https://www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11?amp"
+    publishedDateTime: 2020-12-01T03:45:00Z
+    webUrl: "https://www.reuters.com/article/us-investment-summit-pacificlife-idUSKBN28A34F"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A34F"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A34F"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542972639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1RT"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "Q4CR37SlyWtSXSRjW1UjTlLpL+WEMoVy5iGa4PXwXuIL1scpZj1YkFMKozo2ES/b5P3l0s5RlKglMXM4MJjPls216IFyH/c8HOO1dL2xnsfqIxlBlERNVzaAhHMB968P4zOuUXuEQ2oB+cQsqLPLboj25yQCUp4y3hi/+0VQs/403NPTGiGgkB/U8Ax9Pz94EMgTZi3+mxAoIf2LGkjXiMp6/l8v6nXBHp10z9iyncTq//9SL87QErnrJ78EEQ8NY4jYc2Ph2izG5Y+10jNYT8OhoSjj5cVap5mSSlNXllZjUK+yoSe4yvmQE3b/0q/RGody1h8NCEdeBUcbGUWpThr52mElOv8ebsPoa1rPVoU=;+ebpEepUI5tXzhM26DHFHw=="
 ---

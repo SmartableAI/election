@@ -1,14 +1,14 @@
 ---
 category: news
-title: "FACTBOX-The Biden Cabinet: President-elect begins to build a team"
+title: "Factbox: The Biden Cabinet - President-elect begins to build a team"
 excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the nation's diversity."
-publishedDateTime: 2020-12-01T02:09:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG216"
-webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG216"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IG216"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IG216"
+publishedDateTime: 2020-12-01T03:32:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-biden-cabinet-factbox-idUKKBN28A2KX"
+webUrl: "https://www.reuters.com/article/uk-usa-biden-cabinet-factbox-idUKKBN28A2KX"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28A2KX"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28A2KX"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542963715&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1HS"
+    width: 816
+    height: 545
+    isCached: true
 
 related:
   - title: "Post-election Gallup poll: Biden favorability rises to 55% while Trump's dips to 42%"
@@ -783,7 +789,34 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
+    excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."
+    publishedDateTime: 2020-11-30T23:16:00Z
+    webUrl: "https://www.chron.com/news/article/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 63
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Trump Headed to Georgia as Turnout Driver, but Also a Threat"
+    excerpt: "Some establishment Republicans are sounding alarms that President Donald Trump’s conspiratorial denials of his own defeat could threaten the party’s ability to win a Senate majority and counter President-elect Joe Biden’s administration."
+    publishedDateTime: 2020-12-01T04:07:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-30/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-30/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-30/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
-secured: "FzPcOpbkl9ibejRFRIRgdjKKkqZUwTlfNpNVJX3nQimKQnIeyDUzJ0I7nSq6alLmbHzACdy+1SNST/eveoyXUV5Kui2srVmpogDL3NGh6i9Kkg5+wtmxw1M7UDKgK39wzQ///jIpJnLqOG6ChRpo/IcK6O0C96w7XZRu9SSpB2wC1AjzrC9PHgE72tCN5RzSvuCr5r7nBKFBx9r47aKq+EHIbusO9Lw8AafgXzXniExmmpTaC7Xd6Nl1T+5WHQvxb5YF1CK7uEP4dIkQnjBBkZzbjMfm7tE0YdJDS4EvtlqaKUa+0Cp01iJPy+75IuDLlP8F1FRbKWIVwzQEiSdfRtqoWmgX1keNyPfdBX32ixQ=;lhrExVWBT8Y6wHU0tTwgcA=="
+secured: "Kaxq6UrmbrcF3sTwdbYmd7URkwKgufmOkybnABbv7iMFeUI/XNfKvpIRM5PVgsHFmwnUExYn0qj19YqAqmRaqe/2P772jsE0juJ6uRmNAFstdYrj7DhD8T+/pFgxtZq8gpO7MaPZHeCy1GrCRbhjQ+VMlYKzEehuwadk59Dl+fycB1UKsHAnOMDr2d0w403mIsYqFXf0+Iv6E5EB7s6WpTyXT7Nm9kA7uaXudyzVP7rIJ7pwxsh140kWkLEdBGryFObDJJzOF8rmnqLEhGr7O5wfyGiP0YlMZRRJh4VpaL9vCyOMst1FNtGsc/jY7Q3mxUKVDKILKuN+de095fRCHLuwwjLo2OujcVjwOgw5tCQ=;k0gMA59wDt/gs6WoZ3Lktw=="
 ---
 

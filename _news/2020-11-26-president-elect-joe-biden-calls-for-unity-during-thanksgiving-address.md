@@ -427,6 +427,22 @@ related:
         width: 823
         height: 545
         isCached: true
+  - title: "Factbox: The Biden Cabinet - President-elect begins to build a team"
+    excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the nation's diversity."
+    publishedDateTime: 2020-12-01T03:32:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-cabinet-factbox-idUKKBN28A2KX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28A2KX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28A2KX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542963715&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1HS"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
     excerpt: "Trump continues to contest election as ‘corrupt’ and ‘fake’ as GSA officially declares president-elect Biden apparent winner"
     publishedDateTime: 2020-11-24T14:28:00Z
@@ -683,17 +699,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "FACTBOX-The Biden Cabinet: President-elect begins to build a team"
-    excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the nation's diversity."
-    publishedDateTime: 2020-12-01T02:09:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG216"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IG216"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IG216"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "President-elect Biden names senior members of economic team"
     excerpt: "President-elect Joe Biden will announce senior members of his economic team tomorrow, including his nominee for Treasury Secretary Janet Yellen. This comes as he's facing divisions from the progressive wing of the party over some of his potential picks."
     publishedDateTime: 2020-11-30T18:52:00Z
@@ -780,6 +785,33 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
+    excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."
+    publishedDateTime: 2020-11-30T23:16:00Z
+    webUrl: "https://www.chron.com/news/article/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 63
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Trump Headed to Georgia as Turnout Driver, but Also a Threat"
+    excerpt: "Some establishment Republicans are sounding alarms that President Donald Trump’s conspiratorial denials of his own defeat could threaten the party’s ability to win a Senate majority and counter President-elect Joe Biden’s administration."
+    publishedDateTime: 2020-12-01T04:07:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-30/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-30/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-30/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "mNGSTEYOh5vbkzBXM2fh30BiQYzJhScsy71nGU4AdZmYgYmzyD1C1qhcC3b/bxqz8ikG3avtaS3B87HafBoA/pkNTAR2Mp2HkQHOdcO/TevYIEjAx559L+s43WdwXITnAUy6EdCMi5wgDn3u1fPhpGlk88gKUzU9MPVMIkc0liWae2oyWmhbrAVH1yDXPx4FUVvlZzzr8S0PhgjFsGG5m8JGXkXRt9z1XUgJb9RSwyt0bDLQTENqkiHMq6RLx3HqMdT8f7hfXUIBYiJlmpIdRRO+N7E5kzsWKofiXJgyr72A9EqfmOojx4kxrrMDTj9cyvfPv+3frOVvx5nspH92Ut0FTh1s4zxqMlPVdN5w5Nk=;7bqgXRR2wfiUzPowzqOEpw=="
 ---

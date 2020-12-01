@@ -75,6 +75,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Arizona, Wisconsin certify election; Trump may challenge results"
+    excerpt: "President Donald Trump has challenged results in several states but faced setbacks in many of those legal battles."
+    publishedDateTime: 2020-12-01T07:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6462445002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6462445002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/a4f30290-dae6-438d-bac6-9a31bad382f3-AFP_AFP_8UN26Z.jpg?auto=webp&crop=1023,575,x0,y77&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "‘We need you’: GOP hunts for new voters in Trump territory"
     excerpt: "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time"
     publishedDateTime: 2020-10-28T04:47:00Z
