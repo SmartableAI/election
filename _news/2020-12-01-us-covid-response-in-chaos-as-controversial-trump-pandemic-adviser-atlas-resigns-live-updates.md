@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump has been distorting the military's role in work on a coronavirus vaccine from the very start"
-excerpt: "The military has contributed mightily to the project, but it won't produce, store, distribute, or administer the vaccines."
-publishedDateTime: 2020-11-30T23:00:00Z
-originalUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11"
-webUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11"
-ampWebUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
+title: "US Covid response in chaos as controversial Trump pandemic adviser Atlas resigns – live updates"
+excerpt: "Country sees 28th consecutive day with over 100,000 new coronavirus cases recorded"
+publishedDateTime: 2020-12-01T10:25:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc618658f082dcb6f2c931d"
+webUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc618658f082dcb6f2c931d"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
 type: article
-quality: 111
+quality: 113
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5fc576ac50e71a0011558155?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://i.guim.co.uk/img/media/595f33227c6a5f7fc09d82f7ef39d6ca4d3c12da/0_253_3789_2273/master/3789.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=98dce1515493b48d2f887063293c65e2"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -95,21 +95,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "US Covid response in chaos as controversial Trump pandemic adviser Atlas resigns – live updates"
-    excerpt: "Country sees 28th consecutive day with over 100,000 new coronavirus cases recorded"
-    publishedDateTime: 2020-12-01T10:25:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc618658f082dcb6f2c931d"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
+  - title: "Trump has been distorting the military's role in work on a coronavirus vaccine from the very start"
+    excerpt: "The military has contributed mightily to the project, but it won't produce, store, distribute, or administer the vaccines."
+    publishedDateTime: 2020-11-30T23:00:00Z
+    webUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 113
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
     images:
-      - url: "https://i.guim.co.uk/img/media/595f33227c6a5f7fc09d82f7ef39d6ca4d3c12da/0_253_3789_2273/master/3789.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=98dce1515493b48d2f887063293c65e2"
-        width: 600
-        height: 360
+      - url: "https://i.insider.com/5fc576ac50e71a0011558155?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump's arguments on undocumented immigrants?..."
     excerpt: "Watch \"What are Trump's legal arguments on removing undocumented immigrants from the census\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -126,6 +126,6 @@ related:
         height: 720
         isCached: true
 
-secured: "LYARwxeTMI+VpiCcIyLrE1yO/A6mvtKFs/viCqrOVRDRsuEjYJQhOSWSs0o5KDbSE2VPtmWrbY5B8Ur1BrOOZuI5gzPCg7POla28QEH8xihYsTzBx+UzkF8CjO1tX1DAbduEN26AnGPhqRCQgcOLXN/JVNjWeZzfT0YswL1y/AGEnQ2o5cZPNhdt9jW6rEtWlLCRt3SQpe+Z0TmMpFTEwzNxvrPjhnjlJytrscqNqmvfa9X6qipLYKUnERVZGdpFIoadYm4VLjqe9CR/9w4bF2vqr5YrwRFSlq2lp67RkV9VG0yBfeE2/F6B5T12+YjYL3kKpE+3v2IJQkO4bJGBddrwXLbsN1D5pRhOpeOtDvo=;Aa3fdwc8OgEYqfTPl5WLJw=="
+secured: "u+l3yJ1e3eDTK8/v8hSwE+LLclSA+mHoUShugFhIWJjRJR32C8202W8AZ7Q3tXnRR7fAhjMLRcqiLnKFJDxMkQpAw+tTmzLb80qI9m/5BjPXdCvTnxmyk11U9GaibKaKfoB64iAP8qKf64gWnR1w9/RQQ0i0z4J6XKioeTWPzwoMGCesn1NVMpAejTAT0RVOA3LsqjueOI8pDmELBifEDMBVzQbynQed9k/VTek+dHjQy8Oh2RYWJQkYc25XD5JEauxC8VoG0IxcZrRaUh1N2aj41vjoG8HsgUYaL+NuJTbWWJBhCzTLo76GkGa9qfDxYfR6bzhgJr9UEayCpcOp2NhkcTPFnndIGtXxDPP2K1g=;uj1DXwcaPOW12lD2y3TN2Q=="
 ---
 

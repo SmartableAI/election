@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/joe-biden-cons
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/?amp"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 990
     height: 660
     isCached: true
+
+related:
+  - title: "Biden weighs Rahm Emanuel for transportation secretary"
+    excerpt: "CHICAGO (AP) — President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel, a substantial and somewhat divisive figure in Democratic Party politics, to serve as his transportation secretary."
+    publishedDateTime: 2020-12-01T09:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "pLrtr2i7VTyegR0WHt0xCM/mZ+uFj5NrH6YDuPeDUUeHdiNDfUFTN+oVcS/k5Sv1s6S+f2JVfYCD6hPKkSPWc2H5K0OH/SJ9iYYdEUzwxOMYvyIxWQJy90547yPm7I3iy0ZkgoI+ztfVXOlHt38E9pTUoyA2I9L0VHy6zbsDwXkIdfYXnwIo1uAu4R+9Z0tQjb+3dImC/XGNGfH1UN4duUn5fXbxUz6tD00XHjd5nkA8ZbdqvSRqgJhN7rP71WYMs3YD646DToV6ZK0ZYICZVikDEwIBMzuDq0OpyH4ea3NmMRGCTcYosULOQE3RnrlYWwnA8EupAriPiufRr87wFMAtWG31mRVvliqS/8jVKJ0=;Vla86M1g0PPnJhS8Yc5KAQ=="
 ---

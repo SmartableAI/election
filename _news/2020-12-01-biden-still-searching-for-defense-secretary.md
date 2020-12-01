@@ -159,21 +159,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden weighs Rahm Emanuel for transportation secretary"
-    excerpt: "President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel to serve as his transportation secretary"
-    publishedDateTime: 2020-12-01T05:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+  - title: "Biden names liberal econ team as pandemic threatens workers"
+    excerpt: "With unemployment still high and a new economic slump possible this winter, President-elect Joe Biden has announced a liberal team of economic advisers"
+    publishedDateTime: 2020-12-01T05:12:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e1eb1f0937a946559f4c1685d17ddba3_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Top secret: Biden gets access to President’s Daily Brief"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris began receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan. 20"
@@ -237,17 +237,6 @@ related:
         width: 1484
         height: 834
         isCached: true
-  - title: "Biden names liberal econ team as pandemic threatens workers"
-    excerpt: "With unemployment still high and the pandemic threatening yet another economic slump, President-elect Joe Biden is assembling a team of liberal advisers who have long focused on the nation’s workers and government efforts to address economic inequality."
-    publishedDateTime: 2020-12-01T06:12:00Z
-    webUrl: "https://www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Joe Biden's Novel Approach to Climate Change Could Side-Step a Divided Congress"
     excerpt: "As the country burned and flooded, Joe Biden leaned into climate change more than any other general-election presidential contender in U.S. history. Now, even as he faces the possibility of a divided Congress,"
     publishedDateTime: 2020-11-28T23:01:00Z
@@ -279,6 +268,6 @@ related:
         height: 675
         isCached: true
 
-secured: "hiumY6GiFXQjdcxf6/ny5wQCYprPvA2o3ZuvQ8Xywa1mbnSDTiHRTnqxQIxJAlYZwMEV9X0oolgNuKtdGqyTJx8s3k/7eYMIolPxXGBKE5YVfmQZgL2j1Ybyozm3X/UrA3Ll//QdduO5yg8DTh9N/noxjSunNe26JC9aIAGSnGN+03BqTYBkDmcV8Xp7KAusoD9/YYkg64nUz7SVupE+Tet1q6EROcD+pATvC3ukrJafsApZtBMxFIXYRKFpNfHf+ALgJl+7NpLUSNcVsTUK2fByuOofmOlv9wOsMlDXkVuTpYmc0pqsaA+FaqgMVVbwogBfLe65PjWGgIiihID4JoyIj/QdD0QgyzCs1qbOZck=;whSQmY4OTkBiaOI0AVGKog=="
+secured: "gmzc43wZRSZtoTyIVU77L5SnYR8UepZiO71BWcSFkLLEZMQ6p9VvdjgEHUCrE7s5usm1Z1pi3lhdJ0KnRG7LE2oLLyQJa3owoOoYnivPHkU0vk+fJ2YyN2mJhX37H2EhAytCXJJmTXS6QJpGBUVEAw9q1335/ZSmyCcPedXZK+h3/Xh4gfZ5LOzbTm93eRj5X02ILXrfckHfEG6edGfWk+GHl2n7EAksfndkXFy0qMJ+v7yviY7AIx86UySmjtrFUvZ7hb0PwVnLX3osS94F47oqcyqWpNtxU6j4SHoIE+49hPRM1ZnrTftG2FlIKtLuoU+PNAZ9ZeJeiVRJRdKllMAvhtOJwa+qi0ac/DFnvzHHFLPSJjlaUETO0Yg4Au06nyLcHOTup3udifAiDoxwKyMtmHyNioorjhRk6CCIRYXxcbzepkGsk10rE5HapKwDnczelLeijCDFFZOGX9TlZSMiX0fhVzUfff/tTp7IXR/Y1+7ejvgQ1TdOkeknpy+aNXkkB4lBOpjiqzqByyoOvg==;fBM+O0F2gohKLpRCjw302g=="
 ---
 

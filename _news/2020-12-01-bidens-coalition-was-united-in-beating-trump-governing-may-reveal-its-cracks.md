@@ -1,31 +1,31 @@
 ---
 category: news
-title: "President-elect Biden names senior members of economic team"
-excerpt: "President-elect Joe Biden will announce senior members of his economic team tomorrow, including his nominee for Treasury Secretary Janet Yellen. This comes as he's facing divisions from the progressive wing of the party over some of his potential picks."
-publishedDateTime: 2020-11-30T18:52:00Z
-originalUrl: "https://www.cbsnews.com/video/president-elect-biden-economic-team-janet-yellen/"
-webUrl: "https://www.cbsnews.com/video/president-elect-biden-economic-team-janet-yellen/"
+title: "Biden's Coalition Was United In Beating Trump. Governing May Reveal Its Cracks"
+excerpt: "Joe Biden won by tapping into a diverse group of voters who were on a mission to defeat President Trump. But now without Trump, Biden faces a daunting challenge to keep that coalition together."
+publishedDateTime: 2020-12-01T09:01:00Z
+originalUrl: "https://www.npr.org/2020/12/01/939098913/bidens-coalition-was-united-in-beating-trump-governing-may-reveal-its-cracks"
+webUrl: "https://www.npr.org/2020/12/01/939098913/bidens-coalition-was-united-in-beating-trump-governing-may-reveal-its-cracks"
 type: article
-quality: 105
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: NPR
+  domain: npr.org
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/30/5dabf651-0fae-4b55-a201-6ff9266b1fbc/thumbnail/1200x630/f152343bf9a3140c38fea89c2d25975a/cbsn-fusion-president-elect-biden-economic-team-janet-yellen-thumbnail-598419-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://media.npr.org/assets/img/2020/11/30/gettyimages-1229787981_wide-8c5bbb4cd944362015198263749515a545ebda1e.jpg?s=1400"
+    width: 1400
+    height: 787
     isCached: true
 
 related:
@@ -569,20 +569,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden's Coalition Was United In Beating Trump. Governing May Reveal Its Cracks"
-    excerpt: "Joe Biden won by tapping into a diverse group of voters who were on a mission to defeat President Trump. But now without Trump, Biden faces a daunting challenge to keep that coalition together."
-    publishedDateTime: 2020-12-01T09:01:00Z
-    webUrl: "https://www.npr.org/2020/12/01/939098913/bidens-coalition-was-united-in-beating-trump-governing-may-reveal-its-cracks"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 116
-    images:
-      - url: "https://media.npr.org/assets/img/2020/11/30/gettyimages-1229787981_wide-8c5bbb4cd944362015198263749515a545ebda1e.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "President-elect Joe Biden expected to name Antony Blinken as secretary of state, sources say"
     excerpt: "Antony J. Blinken, one of President-elect Joe Biden’s closest foreign policy advisers, is expected to be nominated for secretary of state, according to people close to the process."
     publishedDateTime: 2020-11-23T11:28:00Z
@@ -698,6 +684,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2a720054-e759-4b07-b5a2-733b3ebe319a_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "President-elect Biden names senior members of economic team"
+    excerpt: "President-elect Joe Biden will announce senior members of his economic team tomorrow, including his nominee for Treasury Secretary Janet Yellen. This comes as he's facing divisions from the progressive wing of the party over some of his potential picks."
+    publishedDateTime: 2020-11-30T18:52:00Z
+    webUrl: "https://www.cbsnews.com/video/president-elect-biden-economic-team-janet-yellen/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/30/5dabf651-0fae-4b55-a201-6ff9266b1fbc/thumbnail/1200x630/f152343bf9a3140c38fea89c2d25975a/cbsn-fusion-president-elect-biden-economic-team-janet-yellen-thumbnail-598419-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "President-Elect Joe Biden Hits 80 Million Votes In Year Of Record Turnout"
     excerpt: "The 2020 presidential election saw the most votes in U.S. history at 156 million and counting, and the highest participation rate since 1900."
@@ -815,6 +815,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "05D1hEnC/aH8Twa5rv+n+abTYZtrTp6Oa8ExXcFwES+LDhZN1bX4ZEXOLIfH3W9KlALfXKHWkQ7ZdWM9T/Y0xmdgkUkFCs3vDrenQ82u4lZCP1ZwbOV291JjMP0aOO/yvQ9iZXVLsin2Y1lfDL5x9RaMfOL/1Iebs9FXOxlQusDZiicL5i/tiK5Gr6yTTQwcZIE951skfmwZOnfrGezmfD+aNgwJksM5zj0+ScFZnMOYB4qmDW4g8Uw3Ww67cUoaRLeMHcIC0V2XRV2HDKZFJNnN4aTTRB1wNROj7Zu9xJghvY37BxBMj3dveMHEw7KzeIAFrW3p8c0jkb6BxJrBmazPK16FbaOlkVon6qkm2VI/rJ80P+v+0MglyaC4ZqVClvr9lg1DIzBOtYcCVYeB1D9PcnqX4dl3pSFvEFfcql+ocB0hGOqOhSWojSLwOnjF/E2IuxsuuXfrgEEqOe+7TORK9z/k5D/R5N6TagfLs8dTRwVFS4+im2cFsjbCq2iPEiADafkcb7kDTug9Dr07WQ==;qkOXqAdah39fjz4lQwGOvg=="
+secured: "AKY4ArvrMGJMUogmBINltd+x5IWCpSp9KNumEpQlslxmKQgUWuJtUlAJtctAPGG4P6HeojMUdFK1NnaGno2/KJeEl1JzhyeVDtxSmvezgKBBMw9Z5GxP7zF2qyb/gDp4NIpoVlXVvCgSrFOCPBJpfKiDiSykmCzK0H/x1oaZ68lSBkFnD5BAmPK93+IzuO5JKzx2QZhPy1idIc/LwNEuAx+3uhaC9Zoz5YJSeWc5HslmLdKBfunAY8MymFDaItZKbebLytI8NKJ4yan2bFU+PNvCxdx+oazVURl+C/pmM8+/q8UJj+33f8DNoL80JfRyGNT5g2qbbRWDZKeMbVB4iEiysyZqG0eYRH8MYC4Tvg0=;D6umrf+ijKcvZSsnkh/Zfw=="
 ---
 

@@ -47,6 +47,20 @@ related:
         width: 1440
         height: 800
         isCached: true
+  - title: "Fired Official Says Correcting Trump's Fraud Claims The 'Right Thing To Do'"
+    excerpt: "Christopher Krebs, who led the federal government's efforts to secure the 2020 election, called the operation near seamless despite President Trump's claims to the contrary."
+    publishedDateTime: 2020-12-01T09:01:00Z
+    webUrl: "https://www.npr.org/2020/12/01/940133163/fired-official-says-correcting-trumps-fraud-claims-the-right-thing-to-do"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 103
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/30/krebs-11.30_wide-e43cef9ee4556529e051f15e1859cbca4ac3c851.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
 
 secured: "qFvqRGPEqs9JaMJN4Eg0KzDNeKHYReRvVZLqFIo2uNSagPxV+DvkA3u4bq7QmGvleWC9imC6M9Cl12empSSwdBd2sWSpOoII49WDrf/1ytGtx9j0ALy0Ury+UN9sSB+7xX1EvRxnGg+AprHUAKT48AhG+CWmI2zxYfDYbrqh4u9QB+rwgNM0PVKYMDHJCkRbJu5LMRFBlS760LlQyuwVIP2NYJusNlRg8HnGYv0m7gO7VuVmVqnc2TKFxcMNkMBFIG5tdaK8Y+HlThE7+3pUOTv8E3K4CUzYnTvZRkXZNEP4bNAgT/jjvgcQ4el0CVJbG26aDk1CGtY2OSGVKv3bW+aLqvziM6MKUJD0zozZfdiMYTe0k5lqJFu7hhTiernwbu5M284xYCaWdr36Ftgo8yIQW65eXfk4WD7J6XF8ltDzZElJzc4EY1Jsqi9YxQcGXiTtzxxgs8ofK/EyJTfZZehC+aGmMG2/BzuE4gqorH6hvMmfHG0qtQHwzgew/9R5tTXaq7EuhOtpn8A2VlMGMw==;SRsqUGnVW/TfAg7kuzs0kw=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden budget pick Neera Tanden a lightning rod in Washington"
+    excerpt: "Neera Tanden, President-elect Joe Biden's outspoken nominee to head the Office of Management and Budget, faces a challenge winning Senate confirmation after a Washington career in which she has crossed powerful figures on both the right and left."
+    publishedDateTime: 2020-12-01T09:39:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-omb-idUKKBN28B3HR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28B3HR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28B3HR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542989720&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01X4"
+        width: 823
+        height: 545
+        isCached: true
   - title: "Black Lives Matter and other activists protest possible Biden appointment for Garcetti"
     excerpt: "Groups opposed to L.A. Mayor Eric Garcetti possibly joining the Biden administration demonstrated outside Garcetti's residence on Monday for the seventh straight day."
     publishedDateTime: 2020-12-01T03:02:00Z

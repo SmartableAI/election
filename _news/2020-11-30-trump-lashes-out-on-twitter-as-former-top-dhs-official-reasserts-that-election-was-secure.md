@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-el
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/?outputType=amp"
 type: article
 quality: 130
-heat: 150
+heat: 170
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://i.insider.com/5fc0e445037cbd00186128d1?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Fired Official Says Correcting Trump's Fraud Claims The 'Right Thing To Do'"
+    excerpt: "Christopher Krebs, who led the federal government's efforts to secure the 2020 election, called the operation near seamless despite President Trump's claims to the contrary."
+    publishedDateTime: 2020-12-01T09:01:00Z
+    webUrl: "https://www.npr.org/2020/12/01/940133163/fired-official-says-correcting-trumps-fraud-claims-the-right-thing-to-do"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 103
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/30/krebs-11.30_wide-e43cef9ee4556529e051f15e1859cbca4ac3c851.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
 
 secured: "L6ugyxC52zkar4CRDstCYY3V/bB0Ye427hiRFsFHxA8SSxyPphaMc7eoAQLNzLrGjwKtbjrunnPFKr6Mk4TGje/qAocCCBqxFhdeL9pUiKwMHtIaLLelgrwvqYSDtEM/dXmQnfnKOa1kBs0qXSuo5fTucCM2OC6sLtOa3qDickBiDshkwbW+X1KUgGNjcDaX1JwTBjhWe6olowUg29889LYTw3TC0+U6GNGsKUvlhIaAq+TeyTIfiJ26XDTYVz2xzh2dKmHXsGC0NsYm12OmFEiw8QgScirtAT7x4VTFFYj1dIZ5chOq/6R8dz9SDId0vJ0XsfzSv/u/DWSlTGXhO+fr1/c51BrpKVOZjitwTko=;binKsT8ZeM4z8y5yCrtltQ=="
