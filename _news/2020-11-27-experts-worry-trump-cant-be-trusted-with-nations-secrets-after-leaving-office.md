@@ -254,6 +254,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
+    excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
+    publishedDateTime: 2020-12-01T16:55:00Z
+    webUrl: "https://www.nytimes.com/2020/12/01/business/geoffrey-berman-fried-frank.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/01/business/geoffrey-berman-fried-frank.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/business/geoffrey-berman-fried-frank.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/01/business/01economy-briefing-berman/01economy-briefing-berman-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "mJqucR83s4MYW9tlbOnXh0E745Ma2v0MW+OLvcqtGbwo/gNVVdyM3S6dYtWIedeAxgLCatDFesfPi0WdtCLUIvj4S81S2OIG6yaPETc1cVuq6riac7zsHu9dl/9+IlwPOtuvkW5LIbw45t0qRxX/fHGq3v8qEBjHtJUHeLHtudeSC7t1Ci7F3UjjP5gjUT+xikKaaOlkeOzeDd0s5aR6xeHXcqz4tVduj0jf4w5PzJj+hI0fWtzPYf8rRgMby1vPZlHAgf3FUfxtYoQmvds0REkYlSw5DW+AJHPxgN/GngKPrj4NrEwLzg81zfqMwQCuxhob9R2Dv3xwkeoTw2wLeNSp8DPMSepBNf1VSQZT8KY=;wGkCcozS6FczColIkyCTIw=="
 ---

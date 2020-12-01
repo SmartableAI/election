@@ -3359,6 +3359,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
+    excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."
+    publishedDateTime: 2020-12-01T16:56:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-census-biden-idUSKBN28B5D7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5D7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5D7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543073421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB033D"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Lawyers from both parties puzzled by Donald Trump's election legal strategy"
     excerpt: "After weeks of speculation about the potential for a tight 2020 presidential contest to wind up in court, the Trump campaign appears to have unveiled its strategy: a succession of lawsuits in hard-fought swing states and a full-court press to give the impression that the election and ballot-counting process were rife with fraud."
     publishedDateTime: 2020-11-06T12:11:00Z

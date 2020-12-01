@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-kreb
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp"
 type: article
 quality: 117
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/29/e2b50259-6c0b-488f-b6b9-a5979fcfbb4b/thumbnail/1200x630/40ec454e5a61da816f8e82a5eb85fab9/chriskrebsarticle.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Sean Hannity says Trump should pardon himself and his family to avoid a ‘witch hunt.’ Experts say it’s not that simple."
+    excerpt: "Five days after President Trump pardoned his former national security adviser Michael Flynn, Fox News host and Trump ally Sean Hannity offered a suggestion on Monday about who the president should pardon next: himself and his family."
+    publishedDateTime: 2020-12-01T16:13:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RDK2IJVBFMI6VPQGV5KRJ3QDQU.jpg&w=1440"
+        width: 1440
+        height: 942
         isCached: true
   - title: "Representatives for 'Tiger King's' Joe Exotic are said to be chasing Trump down for a pardon and spending thousands of dollars to get it"
     excerpt: "Representatives for the former zookeeper ran up a $10,000 tab at one of Trump's hotels in an effort to get his attention."

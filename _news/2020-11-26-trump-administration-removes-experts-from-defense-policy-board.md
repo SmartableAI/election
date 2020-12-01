@@ -237,6 +237,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
+    excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
+    publishedDateTime: 2020-12-01T16:55:00Z
+    webUrl: "https://www.nytimes.com/2020/12/01/business/geoffrey-berman-fried-frank.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/01/business/geoffrey-berman-fried-frank.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/business/geoffrey-berman-fried-frank.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/01/business/01economy-briefing-berman/01economy-briefing-berman-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Experts worry Trump can't be trusted with nation's secrets after leaving office"
     excerpt: "Some ex-intelligence officials are saying that when President Donald Trump leaves office, he should not receive access to classified information about the country's national security secrets."
     publishedDateTime: 2020-11-27T14:04:00Z

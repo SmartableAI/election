@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Rudy Giuliani talked to Trump about getting a preemptive pardon before the president leaves office, report says"
+    excerpt: "Giuliani is the focus of a federal criminal investigation into whether he violated foreign lobbying laws through his dealings in Ukraine."
+    publishedDateTime: 2020-12-01T15:49:00Z
+    webUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5fb7b84b32f2170011f7040d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "VIGOpMWwoFTFDZCb+VVhVEl9FqlvOAK8GCgAV4CLT77zXQwK2JMXa43regDwUIlNErAtU7fKJowN++9HJEAU2odmwciE5Hq4Kvj3OmkfHs29OcuCB5bgctmrUiEzQfkyGKaU4EcEGIsWq/SO2c8sRqErPjm3gMDD3w/oq1YQkVL3FpfUPQ9rb9kiyb7hFk6kKBKwuQQwUWSDdNgNsSKRb1LdeshMyaebC7g/D0VGCbI2gFZuxIyCElpyJAVkuRpoprYuYKun13o8mq2/Yj0M3fVQLG27ECqMUhQVxbmTrNP43DzgbxPvjP5RnPYE3GG03aHBWp4a8nBEhRuWlX7ciM2rp/5q9aNJj8PKWdJzUIs=;LgIIwVeqCQFvU205PapAzw=="
 ---

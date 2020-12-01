@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/index.html"
 type: article
 quality: 166
-heat: 186
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's delay in picking a defense secretary opens top contenders to uncomfortable scrutiny "
-    excerpt: "President-elect Joe Biden enters the month of December with a question still looming over one of the most critical decisions in his Cabinet: Who will he nominate to be Secretary of Defense?\n    \n"
-    publishedDateTime: 2020-11-30T22:09:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3n0UEFSHgpo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/biden-secretary-of-defense-pick-scrutiny/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/biden-secretary-of-defense-pick-scrutiny/index.html"
+  - title: "Biden expected to introduce key members of economic team Tuesday "
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Tuesday afternoon are expected to introduce key members of their economic team at an event in Wilmington, Delaware.\n    \n"
+    publishedDateTime: 2020-12-01T15:36:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q1uuFmApTkQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/biden-economic-team-event/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/biden-economic-team-event/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130145456-biden-1125-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130103441-biden-economic-admin-1130-announcement-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: The worsening pandemic raises the stakes for Biden's economic program"
+    excerpt: "Sitting in an Iowa diner a year ago, candidate Joe Biden aimed his economic agenda at the widening gap between America's rich and everyone else.\n    \n"
+    publishedDateTime: 2020-11-29T14:15:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dnwxF5kTNQs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-economic-policies-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-economic-policies-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

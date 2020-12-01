@@ -3360,6 +3360,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
+    excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."
+    publishedDateTime: 2020-12-01T16:56:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-census-biden-idUSKBN28B5D7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5D7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5D7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543073421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB033D"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Live election updates: Biden campaign to 'barnstorm Pennsylvania'; Trump vows to go 'in with our lawyers'"
     excerpt: "Election Day is nearly upon us, but not before voters in several states get one more day to add to the already record-shattering early vote totals."
     publishedDateTime: 2020-11-02T09:12:00Z

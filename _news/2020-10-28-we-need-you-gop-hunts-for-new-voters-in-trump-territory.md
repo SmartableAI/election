@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Trump sues Wisconsin governor, officials to try to reverse election results"
+    excerpt: "President Donald Trump sued Wisconsin officials Tuesday in a last-ditch effort to reclaim a state he lost by about 20,700 votes."
+    publishedDateTime: 2020-12-01T16:47:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/01/donald-trump-sues-try-reverse-bidens-election-win-wisconsin/6477315002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6477315002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6477315002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 138
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/PMJS/a22167b5-40a6-449c-b7d2-471b660b7260-MJS-recount_dirr_1.jpg?auto=webp&crop=1919,1079,x1,y197&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "As virus surges, Trump rallies keep packing in thousands"
     excerpt: "Donald Trump’s campaign rallies are among the nation’s biggest events held in defiance of coronavirus-related crowd restrictions"
     publishedDateTime: 2020-10-30T01:13:00Z
