@@ -79,6 +79,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Legacy civil rights groups feel left out of Biden transition"
+    excerpt: "Biden has named several Black officials to fill high profile jobs, but the civil rights leaders want to be included in the decision-making process."
+    publishedDateTime: 2020-12-01T20:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/legacy-civil-rights-groups-feel-left-out-biden-transition-n1249495"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249495"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249495"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432088/201201-derrick_johnson-mc-1152_9f8ecccc4c4f61fd4f90136f36e97245.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Presidential Transition: Georgia Nears Its Recount Deadline, With Biden Ahead by Over 12,000 Votes"
     excerpt: "Republicans in Michigan faced accusations of racism after refusing to certify results in Wayne County, which includes Detroit, a majority-Black city. A Jewish group denounced the White House’s pick for a federal preservation commission."
     publishedDateTime: 2020-11-19T23:24:00Z

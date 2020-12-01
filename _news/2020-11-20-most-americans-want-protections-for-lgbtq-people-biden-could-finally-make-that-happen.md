@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "In Thanksgiving message, Joe Biden reminds Americans \"we're at war with a virus, not with each other\""
-    excerpt: "Washington — President-elect Joe Biden urged Americans to resist surrendering to the \"fatigue\" of the coronavirus pandemic and come together with the shared goal of defeating the virus, echoing calls of public health officials who are calling for the nation to scale down their Thanksgiving celebrations amid the surge in COVID-19 cases nationwide."
-    publishedDateTime: 2020-11-25T20:44:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 110
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/25/8e3e3b24-051d-4285-a0a2-de21efdfe8a4/thumbnail/1200x630g8/58eaece4ff4e082cf8a78dcf603888e3/gettyimages-1229785663.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "jA6Bmu/B+ZTBgtlzXTH988VX2lMxgtS3CRjZCtjSw7RtGa9N1i5pwbHfscMDytGW+mFp6Y1ZCpKqjwqS3K6mPGcSYSW8104Tej9wazbcGb85wblO0hsw1bbxYkcboUE07JNgmjNSLa8oL8Zq2bvVopkd25FpXKHr+U1OE9W6ZBkac0ESP2FAutht1ak5XcvUeANSv+ZlG3+mu+oiRpcrrX9zuocsV7amgFAU6dsKTTUX0h/bC0K0+Nc1dewiP2THqvqwYs0s8SbbEpZ81uMufXZPaVZnXO+WT9VRPmriFQaYTAZxzhQj/9bRT5BN8oFAkw2AbghM96xBZxhbeFm4qOa7njtS7g/SP5+cDDHKGkI=;/BgTvpDvNIsDs5RmSrIs+w=="
 ---

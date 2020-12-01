@@ -41,6 +41,22 @@ related:
         width: 360
         height: 239
         isCached: true
+  - title: "Trump to meet next week with industry, government officials on COVID vaccine"
+    excerpt: "President Donald Trump will gather leaders from industry and government next week for a summit on the coronavirus vaccine, the White House said on Tuesday, as the outgoing president seeks to emphasize his role in the speedy development of a vaccine."
+    publishedDateTime: 2020-12-01T21:07:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-vaccines-trump-idUSKBN28B69R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B69R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B69R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543100580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03HX"
+        width: 886
+        height: 545
+        isCached: true
 
 secured: "x0f8Z/d+UH7NAd1UufSZjHd7/qInfAstezhwNIdzjcMIIiQnjbeaxRiL6x0DADrDzL0OLyesnuiYE37T6pox0p2PWnM1lNtklzsIef5+GmXNVICFrU6ga5LPb/dDUyBmMSlO7Kk99quJP/EGMfUuYXQfwHL6WT1mwXhQRE9DtjjOSuGEmihm9C4Q2yrQ9um7iDMp/50OchbxgWJaI8ZWCFw81+91BSz3IHcu4deSvOCVGSZxXjXwmNB7BW6dHhykN90lZWPi+g0iqBfW6MyDZHxbhFaO6PnbwIN6matMhMnzeO5xUl7HZ9f0WHaDGR9jj9nqKwT1duqya+cqbZrnvkCJzWPSQqaqsttnZDO0PZU=;8Y1Eh3xqvH94pDsSnp4skg=="
 ---

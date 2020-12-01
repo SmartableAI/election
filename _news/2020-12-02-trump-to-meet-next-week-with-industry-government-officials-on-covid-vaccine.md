@@ -1,0 +1,64 @@
+---
+category: news
+title: "Trump to meet next week with industry, government officials on COVID vaccine"
+excerpt: "President Donald Trump will gather leaders from industry and government next week for a summit on the coronavirus vaccine, the White House said on Tuesday, as the outgoing president seeks to emphasize his role in the speedy development of a vaccine."
+publishedDateTime: 2020-12-01T21:07:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-vaccines-trump-idUSKBN28B69R"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-vaccines-trump-idUSKBN28B69R"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B69R"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B69R"
+type: article
+quality: 122
+heat: -1
+published: false
+
+provider:
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543100580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03HX"
+    width: 886
+    height: 545
+    isCached: true
+
+related:
+  - title: "Pence Says Covid Vaccine Distribution Could Begin Mid-December"
+    excerpt: "Vice President Mike Pence told governors on Monday that distribution of a coronavirus vaccine could begin by the third week of December, signaling that U.S. regulators will swiftly approve an emergency authorization for the first shots."
+    publishedDateTime: 2020-12-01T01:53:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN4Wcn.T9FtA/v0/360x-1.jpg"
+        width: 360
+        height: 239
+        isCached: true
+  - title: "Trump to meet COVID-19 vaccine makers, distributors next week: Stat News"
+    excerpt: "The Trump administration has invited vaccine manufacturers, drug distributors and government officials to a COVID-19 Vaccine Summit next week at the White House, Stat News reported on Tuesday, citing an invitation obtained by the news organization."
+    publishedDateTime: 2020-12-01T18:24:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-vaccines/trump-to-meet-covid-19-vaccine-makers-distributors-next-week-stat-news-idUSKBN28B5TV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+
+secured: "taeXsImHBE7DO90ETrcgde+ss2g3bIqCtvTfJzY7KJ0zGW9Hw42iX02jKvxYIhU6djo8zMm9jf9kj6P5guP9TUgidZz0j8HWhTbhGcEkbW6cPciF//3OcrzNBsvfnvyGEEAGZiEzdRHBQWGwyHrVsipiogvKGS7JDbL/8C4GHqCzr/omJMu+SGPbLrJLc+ElWMICMI8CLg+vNNcF0zcJAAHzNSKYb9mU8DN67G3+ENrT0HUd9PKNppbvNsf79fvkI1Ml8LvAywMp13nJ9k+8/Q0EELyENw/ZTKr6p8V/Dp88yvEygRQIeRJS4pfTYEhFUVYpW1WPl3s8qvuc8M3hOHz35DrNv0P1xThleaPLNys=;JZdOPRp1NtLiM4AochcFlQ=="
+---
+

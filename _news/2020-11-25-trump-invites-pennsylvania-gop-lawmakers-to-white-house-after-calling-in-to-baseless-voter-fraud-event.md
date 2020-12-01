@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-heari
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-hearing-giuliani/index.html"
 type: article
 quality: 159
-heat: 219
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Federal appeals court denies Trump campaign effort to revive Pennsylvania lawsuit saying 'claims have no merit'"
-    excerpt: "A federal appeals court denied the Trump campaign's effort to revive a federal lawsuit challenging the election results in Pennsylvania, ruling \"the claims have no merit.\"\n    \n"
-    publishedDateTime: 2020-11-27T19:57:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h9kQVfOphD0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/trump-pennsylvania-lawsuit-appeal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/trump-pennsylvania-lawsuit-appeal/index.html"
+  - title: "Trump associates, including Giuliani, are asking for pardons"
+    excerpt: "President Donald Trump's associates are making appeals to him in the hopes of obtaining pardons before he leaves office, a source familiar with the matter told CNN on Tuesday.\n    \n"
+    publishedDateTime: 2020-12-01T22:44:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y1hUJ1HJvYk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/trump-rudy-giuliani-pardons/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/trump-rudy-giuliani-pardons/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 155
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121185207-01-pennsylvania-mail-in-ballot-counting-1112-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190925034820-giuliani-trump-split-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Federal appeals court slams Trump campaign efforts to turn tide in Pennsylvania ruling, saying 'claims have no merit'"
-    excerpt: "A federal appeals court denied the Trump campaign's effort to revive a federal lawsuit challenging the election results in Pennsylvania, ruling \"the claims have no merit.\"\n    \n"
-    publishedDateTime: 2020-11-28T00:13:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h9kQVfOphD0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/trump-pennsylvania-lawsuit-appeal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/trump-pennsylvania-lawsuit-appeal/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 152
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121185207-01-pennsylvania-mail-in-ballot-counting-1112-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Transition Highlights: Judge Dismisses Trump Lawsuit in Pennsylvania"
-    excerpt: "Senator Pat Toomey of Pennsylvania, a Republican, said that with the dismissal, the president had “exhausted” his legal options in the state. Senator Kelly Loeffler of Georgia is in isolation after testing positive for the coronavirus."
-    publishedDateTime: 2020-11-26T22:13:00Z
-    webUrl: "https://www.nytimes.com/live/2020/11/21/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/11/21/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/21/us/joe-biden-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/21/world/21transition-briefing-pennsylvaniaSUB/21transition-briefing-pennsylvaniaSUB-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "oqKSq/irUFeNhrXVXA1wld7cx0zbd/a0sG9uLMQzNoRj2LSCnc01OUrKi7BZstJ/vT2CUZmZMIkWYWpzDea2Esht0u61eaJH4jlITLEUG2FogYE4klLizNl7IL3PRXWIuzqw4YBuUWozaIyYRfava/PzIeX9f5HAzo0IRTn6scC1gGmsIRdScMCk1v+aoMVL/EDpszHIffnQtxQIMcS6WFzkc8y6sTU0sefLz2FgMJD7TxZ3ga2wieDhoxYh7t2Ugfi2hgHmhurjKd9rjQ0ULpVX1CJ/IvLrEj9ZiEptVnpArY6XRR4sf/LzjWqDOuzNAyoFFWCwApff0iYGQaBMIOcr7eGPJiQ1eEzNBOkaeSc=;8Xi+vwg6mJaBaXNJ0YLglw=="

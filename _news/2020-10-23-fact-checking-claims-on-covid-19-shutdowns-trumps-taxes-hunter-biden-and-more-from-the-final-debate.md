@@ -1951,6 +1951,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "US Supreme Court asked to block Biden win in Pennsylvania"
+    excerpt: "Republicans attempting to undo President-elect Joe Biden’s victory in Pennsylvania have asked the U.S. Supreme Court to take up their lawsuit, three days after it was thrown out by the battleground st"
+    publishedDateTime: 2020-12-01T21:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/us-supreme-court-asked-to-block-biden-win-in-pennsylvania/2020/12/01/9e564fae-341e-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/us-supreme-court-asked-to-block-biden-win-in-pennsylvania/2020/12/01/9e564fae-341e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/us-supreme-court-asked-to-block-biden-win-in-pennsylvania/2020/12/01/9e564fae-341e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump targets Pennsylvania women, but will need do so without wife Melania"
     excerpt: "President Trump hoped to bring his wife Melania Trump to a Pennsylvania rally to help him attract women voters, but she will not go because of a 'lingering cough.\""
     publishedDateTime: 2020-10-20T19:23:00Z

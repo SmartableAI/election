@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "McConnell plans for new coronavirus relief bill that President Trump will sign into law"
+    excerpt: "Senate Majority Leader Mitch McConnell said Republicans are eyeing a new targeted coronavirus relief bill based on what President Trump would sign into law, and poured cold water on a new bipartisan $908 billion proposal his colleagues put forth earlier Tuesday."
+    publishedDateTime: 2020-12-01T21:31:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v3tOElJBfEA/mcconnell-plans-for-new-coronavirus-relief-bill-that-president-trump-will-sign-into-law"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-plans-for-new-coronavirus-relief-bill-that-president-trump-will-sign-into-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-plans-for-new-coronavirus-relief-bill-that-president-trump-will-sign-into-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a05a6f71-adcf-43b7-8139-dd0c114c7d1f/45c6487d-dc28-4d26-bb45-979df0143ac0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "jLArMxkuScLNLSBoOENaRKTGBN38nR+K4pCPECPogzvTaH7EmRyv+cIzVPsmA8Q73kUUvb7T52iK1Wv8XWtWjUemfhTertQ1ppiLWG/JeDU8HKn653pqqpdfQ1HO98qHGnx2ifQ75wGSYOLtubZhtTg0snk6aIlb8KmsUy0pxH61GV8Jo4LiwSGSCNlM6+S7fGLGGU+bDJgJ9jFQTf0nmm7vfE5Az3TqyySs4lXOGiB/p5lxbMR5xfWaedv4uFD6zJ9rixbehSADHbqWolvt+du2tLwVzxQQYDa1Mc+nn5eFrkb3CUC6Akqbvf1qnHkD1B0242I73baEH+k2twssHLkRJKWjZoRp+zyA6EADU6g=;MwqcxG1L8L2HmxpOTNTmQA=="
 ---

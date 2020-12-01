@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/theyre-baaack-trump-and-alli
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/theyre-baaack-trump-and-allies-still-refuse-election-loss/2020/11/26/dbbfd81a-2fe6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 880
+heat: 900
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 140
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543089803&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03D0"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump allies Barr, Giuliani at odds on discredited election fraud claims"
+    excerpt: "Cracks emerged between two of President Donald Trump's key legal allies on Tuesday as Attorney General William Barr said his department had found no evidence of the widespread voter fraud Trump alleges,"
+    publishedDateTime: 2020-12-01T22:52:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN28B685"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B685"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B685"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543106880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03GT"
         width: 817
         height: 545
         isCached: true

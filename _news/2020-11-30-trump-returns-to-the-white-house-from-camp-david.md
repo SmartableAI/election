@@ -93,6 +93,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump allies Barr, Giuliani at odds on discredited election fraud claims"
+    excerpt: "Cracks emerged between two of President Donald Trump's key legal allies on Tuesday as Attorney General William Barr said his department had found no evidence of the widespread voter fraud Trump alleges,"
+    publishedDateTime: 2020-12-01T22:52:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN28B685"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B685"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B685"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543106880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03GT"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Former head of U.S. election security calls Trump team fraud allegations 'farcical'"
     excerpt: "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\"."
     publishedDateTime: 2020-11-28T01:36:00Z

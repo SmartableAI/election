@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lg
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1"
 type: article
 quality: 73
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: International Business Times
@@ -29,6 +29,24 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Biden shortlist for White House key environmental post shows focus on environmental justice"
+    excerpt: "President-elect Joe Biden is vetting three environmental justice leaders to head up the White House agency that will take the lead in coordinating efforts to safeguard communities disproportionately affected by pollution,"
+    publishedDateTime: 2020-12-01T11:29:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN28B4LN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B4LN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B4LN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543044431&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB02IH"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "79wt4+WjcoviN2ZcUzTVuduyRAQr35gt6ePOohWYg9r1b1f18bngjkTWUaapfehltxmMj4RWCIIxO10OFAr/FbZQG21CqsWqhKs6f5o8xbkHtxsGEw33CwVpiDXVqVih/0XJO/WmJmqXaW545Y8mfWu7dxz4AtEWGwBD4gk5Z3v9cPTNP7PFUHr0th4seGacf+HTozwblFI51CQOCKONK3/xypt44q5Ghm56s3WUIslmNuN9cq052VPW2Z12A32c70Ln4tHwEHgEm1gFtDx+AdHp9vpW3kLO3VW27kq/S6DsnZP/ZfhjBTD3xnCaoxR7mJsX71YIjJUer34OEORF0esNYlMNSRP1J0Pmp850asAHC+Kp/FkzV0TKqNx5IgVonDqHxu1sA27c+8UeU5KvmTFy+67GnVJw2428aOg5LHaOaGjOBUmvt/q2Lpra2DBFjDzdbFiiGxWO+8LUUlzSRj2mWVYENbWLOOYdhQ3S0/A2CoC2x70ctc+J2ofullUIiKAMTJb/DG6DZj3ydjoiqw==;g9LopKrOZphLOKd6T4ROqQ=="
 ---

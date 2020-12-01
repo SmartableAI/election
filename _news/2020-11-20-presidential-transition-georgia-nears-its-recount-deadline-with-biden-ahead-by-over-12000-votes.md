@@ -96,6 +96,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Legacy civil rights groups feel left out of Biden transition"
+    excerpt: "Biden has named several Black officials to fill high profile jobs, but the civil rights leaders want to be included in the decision-making process."
+    publishedDateTime: 2020-12-01T20:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/legacy-civil-rights-groups-feel-left-out-biden-transition-n1249495"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249495"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249495"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432088/201201-derrick_johnson-mc-1152_9f8ecccc4c4f61fd4f90136f36e97245.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "OISLcSyOcjW1E04xPNSUqPR+S6GmbJ2Xe+E9ltwnuP5YljT0K4pgnlKNGNdJSUtt0PyVeVDBLYNTrpL/U6EBIc5PR2NI7Bfle89E+bij6pnVVrejOXlGteXlxyCZT0Y6b2jkUqMQuz4EubBddv2A9Oug0F+4g8npwsX/jgMDeuc+1ztcdA53m/VAlA8uzPjc0l4XVqWIXW3OC0wpRNoPGO8FcsTI3aCLtkdISAg6DIXkbSw+Mz5dmuE/Lbpp8t4LFth8y+UWtggPmxR8Vk90w2mgMVQ3cVX4VTBBsfmLleaR06DMOnWdYrXhWjLjp7XHtzMWd2POvQy8NtbjoxaySwg6lQDdFM/S6Fa4C0nNFJk=;J6gLiJ3Z88U0AcX9dD2Nfg=="
 ---

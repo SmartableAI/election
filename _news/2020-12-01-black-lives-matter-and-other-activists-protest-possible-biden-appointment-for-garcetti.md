@@ -9,8 +9,8 @@ ampWebUrl: "https://www.latimes.com/california/story/2020-11-30/black-lives-matt
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-30/black-lives-matter-los-angeles-garcetti-biden-protests?_amp=true"
 type: article
 quality: 117
-heat: 137
-published: true
+heat: -1
+published: false
 
 provider:
   name: Los Angeles Times
@@ -31,22 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Biden shortlist for White House key environmental post shows focus on environmental justice"
-    excerpt: "President-elect Joe Biden is vetting three environmental justice leaders to head up the White House agency that will take the lead in coordinating efforts to safeguard communities disproportionately affected by pollution,"
-    publishedDateTime: 2020-12-01T11:29:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN28B4LN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B4LN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B4LN"
+  - title: "The Trailer: What Biden and the left are demanding of each other"
+    excerpt: "The campaign to shape Biden's agenda, the next (and even stranger) stage of election contests, and Donald Trump Jr. goes on the air in Georgia"
+    publishedDateTime: 2020-12-01T22:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 115
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543044431&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB02IH"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IU43CRK7EI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
+  - title: "In Thanksgiving message, Joe Biden reminds Americans \"we're at war with a virus, not with each other\""
+    excerpt: "Washington — President-elect Joe Biden urged Americans to resist surrendering to the \"fatigue\" of the coronavirus pandemic and come together with the shared goal of defeating the virus, echoing calls of public health officials who are calling for the nation to scale down their Thanksgiving celebrations amid the surge in COVID-19 cases nationwide."
+    publishedDateTime: 2020-11-25T20:44:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 110
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/25/8e3e3b24-051d-4285-a0a2-de21efdfe8a4/thumbnail/1200x630g8/58eaece4ff4e082cf8a78dcf603888e3/gettyimages-1229785663.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden weighs Rahm Emanuel for transportation secretary"
+    excerpt: "CHICAGO (AP) — President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel, a substantial and somewhat divisive figure in Democratic Party politics, to serve as his transportation secretary."
+    publishedDateTime: 2020-12-01T09:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "o+6PNJFeTLv+X3yCYT+5ow5x4MbV+9Qt2RmFsas5OhWIUpzRZEmJodn4jQXWIpSeOBuxDG2k3onMkacTVEzist5yyI7aNauRTWLBl+Gxb5BHVRpYQKoQOHKX9dYWI2JV9+/qPI3/Fuxpkf7IxNngoTRKY0qpFUZrpPQl47FF05ikUnLieFnI0LPXSRM18PJBiittfPYW8hLBvVed8wayopWB5o50qgIM/zFHasHDSxwyCXHmvFaFa5YbHAGAxithub8qRpwpo/PlAS4cQh4ZNyqXqORbehrh9HDR0kol76lOAvHwJZxITSKzz9/TH//qIy3648/9ucE6+1b8sk34Zrg+aT95h8EALI6O6DBhriRfmaKvPuoyt1sMziD9YSrWpRltn7Y9MrDXRJgCmv8f/cw0podRylIKROtfb/cd/rXWrkEMkUVZo7wd2ZK0Zj4mCcB9U33nTPnZZYi2QXQ5fqjlfbYX7XqnrgzEdZPc9Fr6AcdEHD01Cn1vgWgPaManxCnfu4/WcxiCKOVQ7/3Prg==;p0Eol4dElYldliLSKNIMOA=="
 ---

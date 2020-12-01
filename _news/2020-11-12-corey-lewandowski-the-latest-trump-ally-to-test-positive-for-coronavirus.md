@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "McConnell plans for new coronavirus relief bill that President Trump will sign into law"
+    excerpt: "Senate Majority Leader Mitch McConnell said Republicans are eyeing a new targeted coronavirus relief bill based on what President Trump would sign into law, and poured cold water on a new bipartisan $908 billion proposal his colleagues put forth earlier Tuesday."
+    publishedDateTime: 2020-12-01T21:31:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v3tOElJBfEA/mcconnell-plans-for-new-coronavirus-relief-bill-that-president-trump-will-sign-into-law"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-plans-for-new-coronavirus-relief-bill-that-president-trump-will-sign-into-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-plans-for-new-coronavirus-relief-bill-that-president-trump-will-sign-into-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a05a6f71-adcf-43b7-8139-dd0c114c7d1f/45c6487d-dc28-4d26-bb45-979df0143ac0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AOC blasts Trump adviser for suggesting more coronavirus relief is not needed: 'People need help'"
     excerpt: "Rep. Alexandria Ocasio-Cortez took aim at one of President Trump's top economic advisers for suggesting that another coronavirus relief package is not necessary, arguing that \"people need help\" as COVID-19 cases surge. "
     publishedDateTime: 2020-11-19T14:00:57Z

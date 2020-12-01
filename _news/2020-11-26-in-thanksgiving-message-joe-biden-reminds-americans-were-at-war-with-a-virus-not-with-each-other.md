@@ -31,38 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says 'America is back' at the head of the table – but is that a good thing?"
-    excerpt: "After four years of Trump, many diplomats are hopeful – but US critics say the idea of a return to a ‘golden age’ is a delusion"
-    publishedDateTime: 2020-11-26T17:12:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy"
+  - title: "The Trailer: What Biden and the left are demanding of each other"
+    excerpt: "The campaign to shape Biden's agenda, the next (and even stranger) stage of election contests, and Donald Trump Jr. goes on the air in Georgia"
+    publishedDateTime: 2020-12-01T22:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/15b1ca4a91a070ff0a9b6ca8feaca7827d6267f2/0_287_4579_2748/master/4579.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4d71b9496b19b99400f322775a13b90f"
-        width: 600
-        height: 360
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IU43CRK7EI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Most Americans want protections for LGBTQ people. Biden could finally make that happen"
-    excerpt: "After four years of President Trump, victories for Biden and LGBTQ state lawmakers have created a \"reason for hope\" for many LGBTQ Americans."
-    publishedDateTime: 2020-11-20T12:34:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/20/under-biden-lgbtq-rights-more-americans-could-norm/6334516002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6334516002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6334516002"
+  - title: "Black Lives Matter and other activists protest possible Biden appointment for Garcetti"
+    excerpt: "Groups opposed to L.A. Mayor Eric Garcetti possibly joining the Biden administration demonstrated outside Garcetti's residence on Monday for the seventh straight day."
+    publishedDateTime: 2020-12-01T03:02:00Z
+    webUrl: "https://www.latimes.com/california/story/2020-11-30/black-lives-matter-los-angeles-garcetti-biden-protests"
+    ampWebUrl: "https://www.latimes.com/california/story/2020-11-30/black-lives-matter-los-angeles-garcetti-biden-protests?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-30/black-lives-matter-los-angeles-garcetti-biden-protests?_amp=true"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/935cb4ec-6f78-4f86-a438-ef082c670230-David.jpg?auto=webp&crop=2999,1687,x0,y153&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d2b8b03/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2F9b%2Ff2f5489a4db4a2d9343b35db7727%2Fla-photos-1staff-545331-me-0522-unusual-getaway-day-005.IK.JPG"
+        width: 320
+        height: 209
         isCached: true
+  - title: "Biden weighs Rahm Emanuel for transportation secretary"
+    excerpt: "CHICAGO (AP) — President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel, a substantial and somewhat divisive figure in Democratic Party politics, to serve as his transportation secretary."
+    publishedDateTime: 2020-12-01T09:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "8vjFccbSijfz2TMJeTnbkJAoolfvqKPTlNmqx6o5IXXCyOkSicm357gdMXFDi9LQYz4PiM7PP58osKSdmSizvEbSAbM+NgEyXSizKnBbRnca527kjvrFjhog1QSdRAAhkah6aPJ+e47R9etAL0oc2TVCYj5BL7kX/w989z4caZuTxDkRAfqfX0VGg64lrNwbmtNGpvuSCUIAfNTA1IcfCK6jhmY3FXlkq3DcPsuoPpV3nMG9m8TsCve/Vvt+BPrS+gNC56pFxvsCrrEA93Hs6LvTYFMpOgeLreQqQWRrl56Ue1Pu8S4HZbOuXzKQQ160H1Rw+xMHPIP5nn2X9vykDhCkLmRqv6B7++CyXwoTkmHz5z2fGCut0ufmnQY7Gf2v4wCVP7kJwvPF8uzc3CXpyKYPo10SeboSk7iiB2kV/WBii8lilUFRpDEdXD8mv832snhZe3yvoxxwTDgic8ybr7imB23opC6sgk+JzcIEj6uHxxOVAV/iV+KoluRcsfebVS6IEqlLMQDyPQf7LGyOYg==;8G8zv/+M5S5neuhV615D7g=="
 ---

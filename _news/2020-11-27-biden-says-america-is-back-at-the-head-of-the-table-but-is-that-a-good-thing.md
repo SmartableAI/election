@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/26/biden-america-is-bac
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy"
 type: article
 quality: 120
-heat: 160
+heat: 140
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/935cb4ec-6f78-4f86-a438-ef082c670230-David.jpg?auto=webp&crop=2999,1687,x0,y153&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "In Thanksgiving message, Joe Biden reminds Americans \"we're at war with a virus, not with each other\""
-    excerpt: "Washington — President-elect Joe Biden urged Americans to resist surrendering to the \"fatigue\" of the coronavirus pandemic and come together with the shared goal of defeating the virus, echoing calls of public health officials who are calling for the nation to scale down their Thanksgiving celebrations amid the surge in COVID-19 cases nationwide."
-    publishedDateTime: 2020-11-25T20:44:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 110
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/25/8e3e3b24-051d-4285-a0a2-de21efdfe8a4/thumbnail/1200x630g8/58eaece4ff4e082cf8a78dcf603888e3/gettyimages-1229785663.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "CiCVLDzm/WE6RqitlHP8etH+KA9j7ylxUo+MSdlogRDSmMPgud14lH40Kx4DSCg9eqPemJ0KjkE0/iI0WE7AC0g+WKTtmVAJeyw2tnOVVr2+aLg3hjNxC1lKUL83/p3OVKkCtHn/LcrzhXgsGywthrcO7AA/T4hE0reSgY2lhgTF+z+xuVy453TUXzXh/EJnrYDQFxMxzjYc0tfS/MQLofviVJwBn86FedtrLiP6Dm18d0IUuuA+9Ttu7oaQs23OZoV5AKudoOHdz3yS7NzJ7VK+I8jgxOQO6fF0ViGr1dVKsf8fXUFcondNacrzcKUjwmIJtIb28Es1qV4DHvzmDfFSJEJZ/ib3FjaBbt8Z9LGi1gzU0HutV6x65P47LTaE60EZ9kXTY7G4A+vWapCq3oar2OJk6Dn7F/pEvmbyiDgFuxjGWNHgR3gUqMME21wur/nz+DQf4kVL5/lRu0Ae6Qb+wEUh028PllaXlsEFTfCDuipPmMUv9EVAOTvwN580SSutUXb+ggUgF4RG9yfJIA==;ZmpJ6ylCw1Mwe6rYtVbOUA=="

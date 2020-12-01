@@ -112,6 +112,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Watch live: Biden and Harris introduce key economic team members"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are set to introduce key economic team members Tuesday afternoon in Wilmington, Delaware."
+    publishedDateTime: 2020-12-01T22:27:00Z
+    webUrl: "https://www.cnbc.com/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 140
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106797646-16055585112020-11-16t202540z_641690806_rc2k4k9gobvu_rtrmadp_0_usa-biden.jpeg?v=1605558548"
+        width: 3500
+        height: 2365
+        isCached: true
   - title: "Trump in Nevada, Biden in North Carolina as candidates work to flip states"
     excerpt: "President Donald Trump and his Democratic rival Joe Biden went on offense Sunday, with each campaigning in states they are trying to flip during the Nov. 3 election."
     publishedDateTime: 2020-10-18T17:58:00Z

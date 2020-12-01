@@ -319,6 +319,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden fills out his inauguration team"
+    excerpt: "President-elect Joe Biden's transition team on Tuesday announced more senior positions on his inauguration committee.\n    \n"
+    publishedDateTime: 2020-12-01T21:10:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EBgAG3wL7SU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/biden-inauguration-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/biden-inauguration-team/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130145456-biden-1125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Rahm Emanuel under consideration to become Biden's transportation secretary"
     excerpt: "Former Chicago Mayor Rahm Emanuel is under consideration to lead the department of transportation, people familiar with the matter say, a move that would enrage progressive activists if the former Illinois congressman and White House chief of staff in the Obama administration was ultimately nominated"
     publishedDateTime: 2020-11-19T21:36:19Z
