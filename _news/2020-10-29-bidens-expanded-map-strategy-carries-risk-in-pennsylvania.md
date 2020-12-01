@@ -810,6 +810,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Concha on media coverage of Biden injury: If it was Trump, they would have 'screamed' about transparency"
+    excerpt: "The mainstream media would not have covered President Trump the same as President-elect Joe Biden's foot injury, Fox News contributor Joe Concha argued Tuesday."
+    publishedDateTime: 2020-12-01T13:43:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Yzotfs7xCs/biden-foot-injury-press-trump-concha"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-foot-injury-press-trump-concha.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foot-injury-press-trump-concha.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "LIVE UPDATES: Georgia governor certifies Biden win in state after hand recount"
     excerpt: "Georgia Gov. Brian Kemp certified President-elect Joe Biden's win in the state Friday but called for another hand recount. "
     publishedDateTime: 2020-11-21T06:17:58Z

@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden names liberal econ team as pandemic threatens workers"
-excerpt: "With unemployment still high and a new economic slump possible this winter, President-elect Joe Biden has announced a liberal team of economic advisers"
-publishedDateTime: 2020-12-01T05:12:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
-webUrl: "https://abcnews.go.com/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
+excerpt: "With unemployment still high and the pandemic threatening yet another economic slump, President-elect Joe Biden is assembling a team of liberal advisers who have long focused on the nation’s workers and government efforts to address economic inequality."
+publishedDateTime: 2020-12-01T06:12:00Z
+originalUrl: "https://www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12"
+webUrl: "https://www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12"
+ampWebUrl: "https://www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_e1eb1f0937a946559f4c1685d17ddba3_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Joe Biden to nominate Antony Blinken as US secretary of state"
@@ -268,6 +262,6 @@ related:
         height: 675
         isCached: true
 
-secured: "JyGiMVW0KZc3fzJqsaD8g7FvGwz//cx3DcRRB34pETYhm40NLz4/LKEJHW+Dv0l1cG9eiAU3eCig0RHlyjHd0ny2uhZeQpECw9KS5PGWZOQ4DDRWUVkd+AtOiatBAKIpNVQd3nryoqhYaH5RV3qgvb3WUNWeGCb0hKFLjmp1gOY/JQm55nNtItPVCA9Yc8hinQRf5cgtWuwce6eEy6K8OJncu7UoKabOEaeMboTi/7Nj6IbNecU0HRSLf7okaCZ5DI5WUF0aaBc94rRmhZ7k0AIWiIpyVLtkciqgmk7uZPefZ/DtVQHcXXtt4BgRK6vMe9mHTq1yCdOyyNgHVSd5BkL731bivMpYC6Z1yxiX6xOiSeaJL8UwkIsZlkJS6kYxM9uNuPhcXOWTpUWTu9VkPS7NNJTFt7xfPy4CYf99PzI3wa0Sp01ePQTOwBTWP/i8Qiazwk5nOSlrPsFbwcwRK3z0UobXo1yhh52+aeXebNvqAEBq5q82SM6yBir3TYHA767n2B9PQ+x7i//XK5Vzuw==;4aU/A+ufABINeMFzzOn5TA=="
+secured: "ktxbX5QXaJhUGQJ3YdVo6YOjMTKeqqt3w5HL7mHYImFuNn15e5lgHDrURxFLSvjolR/P370mH8uLSI0WtgkuqHWSaVHIoSexEFXFUNGp9oO6fpn77dPl5PEoo4W67wmzpdeVMhnySqs60NiloCXxxK8xTTY3FRWXnmvrIFfyKYyfOyWr8iShIb2PxkIVDhV4yN057VpllNfxOiR/j0AvpYFmO0jyaNoYpdEGj7PUMjlTEm4oJiDxADRdFk1KKmlHbh7zDcArJgCDVjTMfCE93lwxckSuwqwWWcL37EvQGfNttNhMOmjoaHqFd5Q2JxfRjlqrj6tlnF+MDuMw+KOvwqfgoSnF+7b1UHSSFYenKT8=;Y5fa5tztjr38C/Etgxp2lA=="
 ---
 

@@ -33,10 +33,10 @@ images:
 related:
   - title: "Biden budget pick Neera Tanden a lightning rod in Washington"
     excerpt: "Neera Tanden, President-elect Joe Biden's outspoken nominee to head the Office of Management and Budget, faces a challenge winning Senate confirmation after a Washington career in which she has crossed powerful figures on both the right and left."
-    publishedDateTime: 2020-12-01T09:39:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-omb-idUKKBN28B3HR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28B3HR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28B3HR"
+    publishedDateTime: 2020-12-01T09:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUSKBN28B3GL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3GL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3GL"
     type: article
     provider:
       name: Reuters

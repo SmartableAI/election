@@ -157,22 +157,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden names liberal econ team as pandemic threatens workers"
-    excerpt: "With unemployment still high and a new economic slump possible this winter, President-elect Joe Biden has announced a liberal team of economic advisers"
-    publishedDateTime: 2020-12-01T05:12:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e1eb1f0937a946559f4c1685d17ddba3_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden still searching for defense secretary"
     excerpt: "The president-elect announced several members of his national security team last week, but has not selected a defense secretary."
     publishedDateTime: 2020-12-01T00:54:00Z
@@ -251,6 +235,17 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Biden names liberal econ team as pandemic threatens workers"
+    excerpt: "With unemployment still high and the pandemic threatening yet another economic slump, President-elect Joe Biden is assembling a team of liberal advisers who have long focused on the nation’s workers and government efforts to address economic inequality."
+    publishedDateTime: 2020-12-01T06:12:00Z
+    webUrl: "https://www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Joe Biden tamps down idea of nominating Elizabeth Warren, Bernie Sanders for Cabinet jobs"
     excerpt: "\"We already have significant representation among progressives in our administration, but there's nothing really off the table,\" Biden said."
     publishedDateTime: 2020-11-26T04:12:00Z

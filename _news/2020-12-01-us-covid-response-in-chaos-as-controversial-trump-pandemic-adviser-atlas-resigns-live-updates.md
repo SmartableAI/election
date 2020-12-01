@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US Covid response in chaos as controversial Trump pandemic adviser Atlas resigns – live updates"
-excerpt: "Country sees 28th consecutive day with over 100,000 new coronavirus cases recorded"
-publishedDateTime: 2020-12-01T10:25:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc618658f082dcb6f2c931d"
-webUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc618658f082dcb6f2c931d"
+excerpt: "Country sees 28th consecutive day with over 100,000 new coronavirus cases recorded – follow all the latest news live"
+publishedDateTime: 2020-12-01T14:45:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc655ad8f08ca673e8551c2"
+webUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc655ad8f08ca673e8551c2"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/595f33227c6a5f7fc09d82f7ef39d6ca4d3c12da/0_253_3789_2273/master/3789.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=98dce1515493b48d2f887063293c65e2"
+  - url: "https://i.guim.co.uk/img/media/6fb3812a919f54bcc052e8e0a9d077e79c2117cf/0_353_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2bdffa1eb06c9220edf46de05f129f37"
     width: 600
     height: 360
     isCached: true
@@ -126,6 +126,6 @@ related:
         height: 720
         isCached: true
 
-secured: "u+l3yJ1e3eDTK8/v8hSwE+LLclSA+mHoUShugFhIWJjRJR32C8202W8AZ7Q3tXnRR7fAhjMLRcqiLnKFJDxMkQpAw+tTmzLb80qI9m/5BjPXdCvTnxmyk11U9GaibKaKfoB64iAP8qKf64gWnR1w9/RQQ0i0z4J6XKioeTWPzwoMGCesn1NVMpAejTAT0RVOA3LsqjueOI8pDmELBifEDMBVzQbynQed9k/VTek+dHjQy8Oh2RYWJQkYc25XD5JEauxC8VoG0IxcZrRaUh1N2aj41vjoG8HsgUYaL+NuJTbWWJBhCzTLo76GkGa9qfDxYfR6bzhgJr9UEayCpcOp2NhkcTPFnndIGtXxDPP2K1g=;uj1DXwcaPOW12lD2y3TN2Q=="
+secured: "imqZXSTZT1ScIbhvGNoZLkbpFDRopll790Lc6yzTkg4aWXI4xv3kOtuceRYclEECj7BlEi+XxnUj/V8N2LgthCRD5u/lStM8/FuqTIWI8Dk0z1cW2f+sIgljy3qNd5iCJC+HEKBgWq/0SkV5WwgjWu4OFQv/byaM1ksnz+id5+HhkX+3vbdZo9JdSTpdyd3XJ0tu8tkgL1nYyB873192moiGKyD0zeoZpAw87+HkvyC5Gw/DRZZjp1Ip/N1nTjxHsamJqNt4bKlzHQe9k1yyaErtx7R3wP5JwXq/UPhua98eqkwWr/Rzwg77q74RQ/GuN6egf84IiIb52gWeDclDwiqHwSgxixy34CKjTHPT5tQ=;eaQCPd2oqNxotGFxbsHvLA=="
 ---
 

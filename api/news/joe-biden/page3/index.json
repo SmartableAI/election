@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-30-chuck-todd-slammed-for-saying-joe-biden-takes-covid-19-too-seriously.md",
+      "title": "Chuck Todd Slammed For Saying Joe Biden Takes COVID-19 'Too Seriously'",
+      "excerpt": "The MSNBC host said that Biden was accepting a smaller footprint by not engaging in high-risk campaign acitivities",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708",
+      "originalUrl": "https://www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2014/09/09/chucktoddbig.jpg",
+          "width": 1200,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708?amp=1",
+      "publishedDateTime": "2020-10-29T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-biden-cunningham-hold-narrow-leads-in-north-carolina-poll.md",
       "title": "Biden, Cunningham hold narrow leads in North Carolina: poll",
       "excerpt": "Democratic presidential nominee Joe Biden has a narrow lead over President Trump in North Carolina, while Democrat Cal Cunningham holds a similarly slim lead in the Tarheel State’s marquee Senate race in a new survey released Thursday.",
@@ -1529,63 +1581,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-rudy-giuliani-gives-alleged-hunter-biden-hard-drive-to-delaware-authorities.md",
-      "title": "Rudy Giuliani gives alleged Hunter Biden hard drive to Delaware authorities",
-      "excerpt": "Giuliani visited the New Castle County Police Department in Delaware on Monday and handed over a copy of what he says was Hunter Biden’s hard drive, according to a spokesperson for the Delaware Department of Justice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/elections/rudy-giuliani-gives-alleged-hunter-biden-hard-drive-delaware-authorities-n1244223",
-      "originalUrl": "https://www.nbcnews.com/politics/elections/rudy-giuliani-gives-alleged-hunter-biden-hard-drive-delaware-authorities-n1244223",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_43/3421944/201021-rudy-giuliani-2018-ac-525p_4116787e0e156c4353b10ae9bf4c8e17.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244223",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244223",
-      "publishedDateTime": "2020-10-21T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

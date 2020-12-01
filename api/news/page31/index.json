@@ -2,6 +2,58 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-10-21-pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote.md",
+      "title": "Pat Robertson predicts Trump re-election will usher in apocalypse: ‘By all means get out and vote!’",
+      "excerpt": "Televangelist Pat Robertson predicted President Donald Trump would win re-election, and that would usher in the long-promised End Times. The 90-year-old broadcaster, who has consistently supported the president who is backed by white evangelicals,",
+      "sourceUrl": null,
+      "webUrl": "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/",
+      "originalUrl": "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-20-at-12.29.29-PM.png",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/amp/",
+      "publishedDateTime": "2020-10-20T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-trump-hosting-sinclair-town-hall-in-white-house-rose-garden.md",
       "title": "Trump hosting Sinclair ‘town hall’ in White House Rose Garden",
       "excerpt": "President Trump on Tuesday will tape a “town hall” event in the White House Rose Garden with Eric Bolling, the former Fox News host, for the Sinclair Broadcasting Network. The event",
@@ -1264,49 +1316,6 @@
       "provider": {
         "name": "Detroit Free Press",
         "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-presidential-election-mike-pence-to-hold-cincinnati-rally.md",
-      "title": "Presidential election: Mike Pence to hold Cincinnati rally",
-      "excerpt": "Vice President Mike Pence is set to make a campaign stop in Cincinnati on Wednesday for an event at Lunken Airport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dispatch.com/story/news/2020/10/19/mike-pence-cincinnati-vice-president-campaign-lunken-airport/3708424001/",
-      "originalUrl": "https://www.dispatch.com/story/news/2020/10/19/mike-pence-cincinnati-vice-president-campaign-lunken-airport/3708424001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 490,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/09/PPYR/0ea78851-6e13-4da1-8218-e394036a551b-PABEA-090920-PenceVisit07.jpg?auto=webp&crop=2399,1350,x0,y167&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.dispatch.com/amp/3708424001",
-      "cdnAmpWebUrl": "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/3708424001",
-      "publishedDateTime": "2020-10-19T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Columbus Dispatch",
-        "domain": "dispatch.com",
         "images": null,
         "publishers": null,
         "authors": null

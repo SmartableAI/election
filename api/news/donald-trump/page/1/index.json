@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-01-trump-lawyer-joe-digenova-says-election-security-chief-fired-by-the-president-should-be-taken-out-at-dawn-and-shot.md",
+      "title": "Trump lawyer Joe diGenova says election security chief fired by the president should be 'taken out at dawn and shot'",
+      "excerpt": "Chris Krebs has become a target for the Trump campaign after saying that the November 3 election was \"the most secure in American history.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc62c86037cbd00186130a8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp",
+      "publishedDateTime": "2020-12-01T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-pennsylvania-lawmaker-learns-of-positive-covid-19-test-while-meeting-with-trump-source.md",
       "title": "Pennsylvania lawmaker learns of positive COVID-19 test while meeting with Trump: source",
       "excerpt": "A Pennsylvania state senator abruptly left a meeting with President Trump after being told he was positive for the coronavirus, a source told AP.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/30/poll-biden-favorability-rises-while-trumps-falls-post-election/6471704002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1208,
+      "heat": 1228,
       "tags": null,
       "images": [
         {
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-factcheck-obama-trump-by-the-numbers/fact-check-graphic-comparing-trump-and-obama-is-from-2018-and-contains-an-approval-rating-error-idUSKBN28A2CA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -270,7 +322,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 334,
       "tags": null,
       "images": [
         {
@@ -502,58 +554,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-fired-director-of-us-cyber-agency-chris-krebs-explains-why-president-trumps-claims-of-election-interference-are-false.md",
-      "title": "Fired director of U.S. cyber agency Chris Krebs explains why President Trump's claims of election interference are false",
-      "excerpt": "Chris Krebs, a lifelong Republican, was put in charge of the agency handling election security by President Trump two years ago. When Krebs said the election was the country's most secure ever, Mr. Trump fired him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
-      "originalUrl": "https://www.cbsnews.com/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/29/e2b50259-6c0b-488f-b6b9-a5979fcfbb4b/thumbnail/1200x630/40ec454e5a61da816f8e82a5eb85fab9/chriskrebsarticle.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/",
-      "publishedDateTime": "2020-11-29T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

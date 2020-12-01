@@ -2,6 +2,62 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-10-22-no-surprise-russia-and-iran-want-trump-out-national-security-adviser-obrien.md",
+      "title": "'No surprise' Russia and Iran want Trump out: National Security Adviser O'Brien",
+      "excerpt": "National Security Adviser Robert O'Brien explained on “Fox & Friends” on Thursday why he believes Iran and Russia allegedly tried to interfere with the 2020 elections.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1uoIwXDpKW4/no-surprise-russia-and-iran-want-trump-out-national-security-adviser-obrien",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1uoIwXDpKW4/no-surprise-russia-and-iran-want-trump-out-national-security-adviser-obrien",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/no-surprise-russia-and-iran-want-trump-out-national-security-adviser-obrien.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-surprise-russia-and-iran-want-trump-out-national-security-adviser-obrien.amp",
+      "publishedDateTime": "2020-10-22T12:29:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-rep-paul-gosar-calls-for-defunding-npr-over-lack-of-hunter-biden-laptop-coverage.md",
       "title": "Rep. Paul Gosar calls for defunding NPR over lack of Hunter Biden laptop coverage",
       "excerpt": "Rep. Paul Gosar, R-Ariz., called for defunding NPR after the outlet said it would not cover the Hunter Biden laptop story because it was a waste of time.",
@@ -1278,49 +1334,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-vp-pence-makes-campaign-stop-in-hermon-speaks-one-on-one-with-tv5.md",
-      "title": "VP Pence makes campaign stop in Hermon, speaks one-on-one with TV5",
-      "excerpt": "HERMON, Maine (WABI) - The road to re-election runs through Northern Maine. That’s what the Vice President said today at a. TV5 was at the rally and spoke with Pence following his remarks. President Trump won Maine’s Second District four years ago,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wabi.tv/2020/10/19/vp-pence-makes-campaign-stop-in-hermon-speak-one-on-one-with-tv5/",
-      "originalUrl": "https://www.wabi.tv/2020/10/19/vp-pence-makes-campaign-stop-in-hermon-speak-one-on-one-with-tv5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/-EsS03_JwaWk9BPSw-Qjh6TkMcg=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/WJC7VGNPQ5ARXNJWQ5DOIRH2BE.JPG",
-          "width": 980,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WABI",
-        "domain": "wabi.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

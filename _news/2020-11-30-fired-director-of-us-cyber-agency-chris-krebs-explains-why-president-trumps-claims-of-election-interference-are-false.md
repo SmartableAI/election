@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/chris-krebs-presidential-election-s
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/"
 type: article
 quality: 115
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -29,6 +29,40 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Trump lawyer Joe diGenova says election security chief fired by the president should be 'taken out at dawn and shot'"
+    excerpt: "Chris Krebs has become a target for the Trump campaign after saying that the November 3 election was \"the most secure in American history.\""
+    publishedDateTime: 2020-12-01T14:58:00Z
+    webUrl: "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5fc62c86037cbd00186130a8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Representatives for 'Tiger King's' Joe Exotic are said to be chasing Trump down for a pardon and spending thousands of dollars to get it"
+    excerpt: "Representatives for the former zookeeper ran up a $10,000 tab at one of Trump's hotels in an effort to get his attention."
+    publishedDateTime: 2020-11-26T06:56:00Z
+    webUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5fbefa81037cbd0018612744?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "afS7aCd5Xok5T8ri0eBtC5+oId/le4XMPLeyGjxIg81Uxm2BUMj2NiWRp+MjKShMVLKyA3CLDNrp3W44QaVzW+RAdLm/WFvqglMExTOCsCR/pkTsMzhC1N3f6VG5fUGpYfZvUlDGOP/DhIEAoscD6j/RfSJk/hoJebNgEvgX8B724JPa2rByfw5uFlAQ1pO9ntJ7N+aAPRvLAmZ6hqj9TjCfwLr3w1+CFzjMqLnjvwuwjP+Mjm0J9Yb0+uS0+SHBTmUqmsKWvQ+zwMKABPrg7s7wTjDZo2N1VUw41LT7LGZ/JQ5BPkxDjjturnto5+Z4BZGFHg/aMMIvl3QX6ZjWIC6PpLzAZH9uiL7Ub/mbWVE=;guEJWEG3K/GL+qolrqVfgQ=="
 ---

@@ -2,11 +2,11 @@
 category: news
 title: "Biden budget pick Neera Tanden a lightning rod in Washington"
 excerpt: "Neera Tanden, President-elect Joe Biden's outspoken nominee to head the Office of Management and Budget, faces a challenge winning Senate confirmation after a Washington career in which she has crossed powerful figures on both the right and left."
-publishedDateTime: 2020-12-01T09:39:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-biden-omb-idUKKBN28B3HR"
-webUrl: "https://www.reuters.com/article/uk-usa-biden-omb-idUKKBN28B3HR"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28B3HR"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28B3HR"
+publishedDateTime: 2020-12-01T09:38:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUSKBN28B3GL"
+webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUSKBN28B3GL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3GL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3GL"
 type: article
 quality: 125
 heat: -1
@@ -112,6 +112,6 @@ related:
         height: 576
         isCached: true
 
-secured: "byrZc+tSsohlSzrDHwMrWPaglWSfsKbVoo6owlBk/Bh2b56MtlNZuzCedMCcuvyRdMQBn/oWO8912oeNf/iYf6OKFtxhbCxCkmdyVMSBu71xCWdpxR0B94IgUrLOnv1rCRAJZj/AKS+kWEFYpHcq9QE1IPPy2a2wARBfguw0INzuxDSnMdtPqqTtLqxK/ueKw/KtvjZPVsHHzNctZhvGCqRH8ohhY6sQckV8+/zjkYQbZvHqH7r81diIp8WcwgoW85oUhfrDv9mo+idvbgbdCUeS1qzzO6v+FZ7NTIaOV3olFFXLf5AkNOBfbi1g2MofXc9Z4aOC6lMBHb45+MCJPOTUSqsn6AsBFSp7CAYQX4WWpRi+c5pUkxGFkFJkOVp6VSDDI88NH8v94BMUCPUgFl9BJwpmsB2Qg2xGDPFqE4PY6QeUeSUd+KBhErt2UcaxKZsPyZQ2ADFATUdlP3rR8SoPtDrqKC6cvgCamV3PHFgoj0gm8iTkX0+xMYQvAP+kx5eCQgP9hh9R8t72Jqi5tA==;vvw0oRhlPKfKstPjT7R14g=="
+secured: "qOihYKcx7pCJjB+OMZoWXbRcdqcqM45HjYzgAggXYSbstSjU0gIbvP3Eb6SFGpTRzfymT5iQ9Rdzje+FoVJ59YMAeKlfPlYB9V2nr6GC+R/GDCzZ6jvfrZMSPs62catBewmhu4lUJcLKrkelbZlGUhOu4iAmNKQHpKQvDqfeeU0p77mIDphNeij3ATKVRfJ+OFA3m6y6+G/ueYxFLGtgBHbNS8Cc6p8sbHkY4tYmupfrtiBeLCuEUvLU5nNm3zBP/K2OX0ohTjFAJamawQnzzY4Bh7cTlGiiCdfqYRALf1prc+gF8sSLS1EBQFxr8V7sSn6qFplzc+NYkSQScCYQsTJ1qM279BZGZbqNcHwW3/c=;dH6Wbu4Q5Zi90m1uZVvgZg=="
 ---
 
