@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Biden, Harris to begin receiving classified Presidential Daily Brief for the first time"
-excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will begin receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan 20."
-publishedDateTime: 2020-11-30T18:27:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html?outputType=amp"
+title: "Biden, Harris get first access to Trump's top-secret President's Daily Brief"
+excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris got their first look Monday at the top-secret President's Daily Brief since winning the 2020 election. President Trump had delayed Biden's access to the PDB,"
+publishedDateTime: 2020-12-01T06:24:00Z
+originalUrl: "https://theweek.com/5things/952601/biden-harris-first-access-trumps-topsecret-presidents-daily-brief"
+webUrl: "https://theweek.com/5things/952601/biden-harris-first-access-trumps-topsecret-presidents-daily-brief"
 type: article
 quality: 82
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: THE WEEK
+  domain: theweek.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/wavSoYc6wjMeOzZdUem95afekPo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GCALR3A6ENCEHHOG4KLHACH524.aspx"
-    width: 1200
-    height: 675
+  - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1286019386.jpg?itok=X1likKTA"
+    width: 840
+    height: 560
     isCached: true
 
 related:
@@ -1447,19 +1445,21 @@ related:
       name: Time
       domain: time.com
     quality: 82
-  - title: "Biden, Harris get first access to Trump's top-secret President's Daily Brief"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris got their first look Monday at the top-secret President's Daily Brief since winning the 2020 election. President Trump had delayed Biden's access to the PDB,"
-    publishedDateTime: 2020-12-01T06:24:00Z
-    webUrl: "https://theweek.com/5things/952601/biden-harris-first-access-trumps-topsecret-presidents-daily-brief"
+  - title: "Biden, Harris to begin receiving classified Presidential Daily Brief for the first time"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will begin receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan 20."
+    publishedDateTime: 2020-11-30T18:27:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html?outputType=amp"
     type: article
     provider:
-      name: THE WEEK
-      domain: theweek.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
     quality: 82
     images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1286019386.jpg?itok=X1likKTA"
-        width: 840
-        height: 560
+      - url: "https://www.baltimoresun.com/resizer/wavSoYc6wjMeOzZdUem95afekPo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GCALR3A6ENCEHHOG4KLHACH524.aspx"
+        width: 1200
+        height: 675
         isCached: true
   - title: "PHOTOS: Car rally celebrating Joe Biden and Kamala Harris’ victory streams through Denver"
     excerpt: "A car rally celebrating Joe Biden and Kamala Harris’ winning 2020 ticket drove through Denver on Sunday, Nov. 8, 2020."
@@ -2788,6 +2788,6 @@ related:
       domain: c-span.org
     quality: 24
 
-secured: "unawMZJZIW0SrxQrB6GsJn5T4hmXIJYAdh7LRQz8r5085LnnjZYAEuQBPvR3B9KkLdo9vFMB4uVzjyB0KwFxfdM4WveszQWvFs8tnOL8TF/A1S+aevNqWr59Q4b/384Y/WpQrjSruu2wuIzh0vpz5Zb8dTwKvVYP/8/Vxd8uN/73V5abW5APcK27ePX+bDqzFXA/oelOXbf3Qr2ttL3Mdz6Jt0a/lQlZiWbRZymadYrrMUaQvOA1WoVAdeon4t2fm5MrcfOJ1ydn5m/n59CzjQEQHyV30Z7tMtVex6c4PbP+pxhKiB7TwrE5wOmpaUgkxT1qKQTGqxdRQlpk9T9tUHpxLSBDzxf+GRR7RPT+7J0=;4zwvcD26wg9NVvWFjj4pmw=="
+secured: "Y29YyLs3y3DGr3D/hvEbupOOkYmrMprTQ/tbjTj0P5jwLr5kf5hpoxEM/F6td7qif6OjjPn5jrqujyofPeNgSUOTL0TfAmFzRk6ga/pEUwVc5vHcdGWOulM660HG5D+SroX9Prr6NLSZE13A5eHWqsOxxOVbT6crj3uKyWjUKPhTtimyuycGiu6ZZdsGFv03tCA71Fk2H1P8srPasKtPhWtaTYvGgpnVnRprw9Pv8T0InS+gOsvXC/uSU9CLjZ+V+tm77mJka3dxHmaXr22VrtXJdWw11BFVKPV2TO1+CceN4PNARfLUYt8v7yjg9xiJVBCBDXUnuX5KERme0gatj/8DZT2FR3SUXu+6oNxAA0s=;s/N5qv7B//OMa2zvSzudSA=="
 ---
 

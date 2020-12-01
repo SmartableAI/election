@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Factbox: The Biden Cabinet - President-elect begins to build a team"
+title: "FACTBOX-The Biden Cabinet: President-elect begins to build a team"
 excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the nation's diversity."
-publishedDateTime: 2020-12-01T03:32:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-biden-cabinet-factbox-idUKKBN28A2KX"
-webUrl: "https://www.reuters.com/article/uk-usa-biden-cabinet-factbox-idUKKBN28A2KX"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28A2KX"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28A2KX"
+publishedDateTime: 2020-12-01T02:09:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG216"
+webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG216"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IG216"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IG216"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -23,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542963715&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1HS"
-    width: 816
-    height: 545
-    isCached: true
 
 related:
   - title: "Post-election Gallup poll: Biden favorability rises to 55% while Trump's dips to 42%"
@@ -790,6 +784,6 @@ related:
         height: 534
         isCached: true
 
-secured: "r301D6zisvPbnitoSTVCckHdg3rUK/0iwDiv56c1mEBv9ZUUJnQvP+FZ8H42r0QBM5BNTCk7R9viU6sCMd0G9B7CIH/XXh0SJPRRcRUnjFmCW1Y4VyN0WvLSgP+jztUXjVP1GVLH64MekDzt2xEOVtec1tKwRJhJ8BTM91ajLgT2fY4wbSUcWQS6uwqw18Rs4wEMwX/F557LiSqbdHbNE4d40087nXdP57J+yQNK1SyGMOn4fXDtyKLquTYfJYrN1ljMbFYj4FVl1nxswn3CjD4rxUNZ1bUhq+pFDXJOt5dGPTfmNNZVYDWKwnjIv1d11rgYZuO/oRXhhVZFsT/HCvsrCrLTuU0DqGSwRf/38g8=;kv8060EfjpV9FLmtrlXz9A=="
+secured: "FzPcOpbkl9ibejRFRIRgdjKKkqZUwTlfNpNVJX3nQimKQnIeyDUzJ0I7nSq6alLmbHzACdy+1SNST/eveoyXUV5Kui2srVmpogDL3NGh6i9Kkg5+wtmxw1M7UDKgK39wzQ///jIpJnLqOG6ChRpo/IcK6O0C96w7XZRu9SSpB2wC1AjzrC9PHgE72tCN5RzSvuCr5r7nBKFBx9r47aKq+EHIbusO9Lw8AafgXzXniExmmpTaC7Xd6Nl1T+5WHQvxb5YF1CK7uEP4dIkQnjBBkZzbjMfm7tE0YdJDS4EvtlqaKUa+0Cp01iJPy+75IuDLlP8F1FRbKWIVwzQEiSdfRtqoWmgX1keNyPfdBX32ixQ=;lhrExVWBT8Y6wHU0tTwgcA=="
 ---
 

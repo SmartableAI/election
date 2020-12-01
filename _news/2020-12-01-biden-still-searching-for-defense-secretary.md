@@ -159,12 +159,12 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden names liberal econ team as pandemic threatens workers"
-    excerpt: "With unemployment still high and a new economic slump possible this winter, President-elect Joe Biden has announced a liberal team of economic advisers"
-    publishedDateTime: 2020-12-01T02:07:00Z
-    webUrl: "https://www.washingtonpost.com/business/biden-names-liberal-econ-team-as-pandemic-threatens-workers/2020/11/30/f0d3c8e2-3379-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/biden-names-liberal-econ-team-as-pandemic-threatens-workers/2020/11/30/f0d3c8e2-3379-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-names-liberal-econ-team-as-pandemic-threatens-workers/2020/11/30/f0d3c8e2-3379-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+  - title: "Biden weighs Rahm Emanuel for transportation secretary"
+    excerpt: "President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel to serve as his transportation secretary"
+    publishedDateTime: 2020-12-01T05:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -237,6 +237,17 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Biden names liberal econ team as pandemic threatens workers"
+    excerpt: "With unemployment still high and the pandemic threatening yet another economic slump, President-elect Joe Biden is assembling a team of liberal advisers who have long focused on the nation’s workers and government efforts to address economic inequality."
+    publishedDateTime: 2020-12-01T06:12:00Z
+    webUrl: "https://www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Joe Biden's Novel Approach to Climate Change Could Side-Step a Divided Congress"
     excerpt: "As the country burned and flooded, Joe Biden leaned into climate change more than any other general-election presidential contender in U.S. history. Now, even as he faces the possibility of a divided Congress,"
     publishedDateTime: 2020-11-28T23:01:00Z

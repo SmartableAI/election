@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden names liberal econ team as pandemic threatens workers"
-excerpt: "With unemployment still high and a new economic slump possible this winter, President-elect Joe Biden has announced a liberal team of economic advisers"
-publishedDateTime: 2020-12-01T02:07:00Z
-originalUrl: "https://www.washingtonpost.com/business/biden-names-liberal-econ-team-as-pandemic-threatens-workers/2020/11/30/f0d3c8e2-3379-11eb-9699-00d311f13d2d_story.html"
-webUrl: "https://www.washingtonpost.com/business/biden-names-liberal-econ-team-as-pandemic-threatens-workers/2020/11/30/f0d3c8e2-3379-11eb-9699-00d311f13d2d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/business/biden-names-liberal-econ-team-as-pandemic-threatens-workers/2020/11/30/f0d3c8e2-3379-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-names-liberal-econ-team-as-pandemic-threatens-workers/2020/11/30/f0d3c8e2-3379-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+excerpt: "With unemployment still high and the pandemic threatening yet another economic slump, President-elect Joe Biden is assembling a team of liberal advisers who have long focused on the nation’s workers and government efforts to address economic inequality."
+publishedDateTime: 2020-12-01T06:12:00Z
+originalUrl: "https://www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12"
+webUrl: "https://www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12"
+ampWebUrl: "https://www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-names-liberal-econ-team-as-pandemic-threatens-workers-2020-12?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Joe Biden to nominate Antony Blinken as US secretary of state"
@@ -175,6 +169,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden weighs Rahm Emanuel for transportation secretary"
+    excerpt: "President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel to serve as his transportation secretary"
+    publishedDateTime: 2020-12-01T05:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Top secret: Biden gets access to President’s Daily Brief"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris began receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan. 20"
     publishedDateTime: 2020-12-01T01:59:00Z
@@ -268,6 +278,6 @@ related:
         height: 675
         isCached: true
 
-secured: "iArs8JF69OcrYHvag2OFMdQMv9+Ytuv/xq9QB+zq1W9ih/ksXrt7EENkkxlKCdDZKbGz8a0vFlIVMT6lJhTFo6ZHr437kqSDs3rPPSnxReowwKTBgb0CXI4y+GG/TrUmgcGsfMxuF797SyU70v2ldImAk3Y8m01q0GAg0YxxI0dEZOSX7iBNJo2SyQIU6Z2GwyZzBmlVuXtXqufHNJ1evKYtFD/d4wGyoUgi+8MEjeAZQcSgcygDI/YpHJqdJoRCqVgd4nRRVsOZHmAJSF7vljIW6XN/DuxOYfXWV4ERfXBo6+0BKij5tCm0xykfUq64DKIyxxNrW1lDW+r1E9zBd6Mv0W0vVdlsZF6C9b206WE=;ddMqeqBkBX/cu/NrM/Uq2A=="
+secured: "edLQbPIcyuMYLjdW1oXNFS4zppAZEe+4Oxtv82VgHNIpfKylCiiNMWQuqhnjOR2mU9KvPCHUkvGxr8qf8uSauB7gVxzcTQYw1tFT8d7xcGsDHzalxnF0SzzJ0VMMzxdvjHMdCqKobYO+70gacs7diIls29mCwqfEySd2xbI0ZwyEl8NVLAXkxAOjgatgSAAk57luCSCdeWdtyz4mBty/SNVBltOwvmHpLIKgSNEtvKtodLeP+ytDP0kVqi1R+t5lI4QQD7WeUSxSFX5F9fc8LvOOwLFwp1Ub70alCHLbdFldppvs3rU5wtOdmx+Nnms1vuh96sVg1PtxXOpvPQbCR3RkEXtqtVSWpimF3N+MDfc=;rU+Ct/MdtnT+FAxmqUH//Q=="
 ---
 

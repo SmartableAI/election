@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden names all-woman communications team"
-excerpt: "President-elect Joe Biden on Sunday tapped key campaign staff and advisors to lead his all-woman communications team, naming former Obama State Department spokeswoman Jen Psaki as his White House press secretary and campaign spokeswoman Kate Bedingfield as"
-publishedDateTime: 2020-11-30T08:24:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-communications-idUSKBN2890YK"
-webUrl: "https://www.reuters.com/article/us-usa-biden-communications-idUSKBN2890YK"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890YK"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890YK"
+title: "Biden weighs Rahm Emanuel for transportation secretary"
+excerpt: "President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel to serve as his transportation secretary"
+publishedDateTime: 2020-12-01T05:06:00Z
+originalUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html"
+webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542835857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0N3"
-    width: 817
-    height: 545
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -78,6 +78,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/d0905f2/2147483647/strip/true/crop/4902x3202+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F44%2Fe0%2Fb14d08af4c349b87fafc63e086ec%2Felection-2020-wisconsin-recount-84374.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Biden names all-woman communications team"
+    excerpt: "President-elect Joe Biden on Sunday tapped key campaign staff and advisors to lead his all-woman communications team, naming former Obama State Department spokeswoman Jen Psaki as his White House press secretary and campaign spokeswoman Kate Bedingfield as"
+    publishedDateTime: 2020-11-30T08:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-communications-idUSKBN2890YK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890YK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890YK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542835857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0N3"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden picks top campaign aides in key communications roles"
     excerpt: "President-elect Joe Biden on Sunday tapped key campaign staff and advisors to lead his communications team, naming former Obama State Department spokeswoman Jen Psaki as his White House press secretary and campaign spokeswoman Kate Bedingfield as communications director."
@@ -158,22 +174,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/24/b900a1c9-4450-4005-8ab5-a10a112cf717/thumbnail/1200x630g8/125c5e2fe615c83c99d79d48dd3eb2e1/gettyimages-1287289470.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Biden weighs Rahm Emanuel for transportation secretary"
-    excerpt: "President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel to serve as his transportation secretary"
-    publishedDateTime: 2020-12-01T05:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Top secret: Biden gets access to President’s Daily Brief"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris began receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan. 20"
@@ -279,6 +279,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Ae2hsxUpp8TLNWA4Py2zb5uGhBXqPZUMAz8vMEwKn0T42JZ8bMHBEmcJmnjA4v0/YCImnga0Xlyfsxkx9ot+m/TD/QlnvOC6I+Gmmsm/1vcKuVORDDX9kWTrhA2P6QSGRxfKDyFmH8SBJK9Kcslt0qqzWAotu/IZHTMIj58sxSPKfK/OVeEy4s/B0CKza+v7Bbu1+ayIVbm1XNXMFLAI4/fmmwaaq/drq73KJmN2UzDN5xe56UTkGSxugXyLfqSGfYXdzHLF7WHPH3d9b8xtapoglp9t3pC/8WYnzJSZ3GxLwjOM4Zr+fxlZ4dGK2wufsqLZS/WfeN85chBGhpqwzGAskizFGmkJymdgDp9DmoEh6fkh9lCV2Sefan//4AavIRMHVNNwo8bk5LcU1oAB++Br22w1lAT0f60RsTV8lhXHMs+/ZxruJzJ5gQ3hkhurC+lk9fYYuag4kvhr+lnMmfUgHHWP4AKY8kVgk+INX0PU72VWBZn47poODFkLvmPNEoM5GqKbZzx4YdbUDsEK8Q==;wm75Zv12CKaPa26FTBBs1w=="
+secured: "/WZIcavnaXd1Q4bsInTnxfHJR0r5X2jKUoXn3/8PaAYu/Yt2VIgWWdqHP38ocAc6phb2vp9iQnudTZlbSm+0YYII/ByMy676Al10jiiADlUjEuNvPBjh1umBW41/J3mC5fChgDZWUbpEGfWKgoN3ouco3XWF1EX2Kv3cfw6txqBzQmHgdG33UAoUWsDJMsHtSvoD0GUH5xBytHIcc37FCwWpbJKbyA5UCtrRXcrafFKEuLZLF0RKQv5w072UGZwmeq10MF7GluU42NR8DGgdIq7z9GZ1a7MsnHyiowwqs+Ig3Pek6tu0ze4vFeCvnbhRuFtxDh+S5fPf+czEA6TjOle46i/JUl3tsxTG/2aBDDA=;pIPt6cZ/asQQ+wNMhuWt1w=="
 ---
 

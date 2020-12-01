@@ -95,6 +95,17 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Stocks ready to rally in '21 but outgoing Trump is risk: Pacific Life Fund Advisors"
+    excerpt: "U.S. stock markets are poised to rally in 2021, bolstered by the predictability of a new U.S. president, fresh stimulus and infrastructure spending, plus a coronavirus vaccine. But there is a potential wild card: outgoing President Donald Trump,"
+    publishedDateTime: 2020-12-01T06:48:00Z
+    webUrl: "https://www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
 
 secured: "OiPTBTi4ab5mD05a+4jPpLHGDB4tLq/4Gywc2gKl44+BkVl5Cec45sCC97vnMzcaFzxMmHFdzu2QnWiREBb9fpgI5tjFtKoUqQeV08ih56FOANAQyTJWaB42Yx4koA+LuGv/KyzGo8qiXemVoa/hey6mDWZUtbyWdJWqOqFsUor5hfbp46MBifiz4kjoKiGqvXD71GhAJ3KMNfKk3+UsWfAJ8NNVwj3ap7hmAEFVkHyC5C+45JzF3+Z2Di/e6s6MUPtH2wF+VsjB8Ars+KO5RKXcfdT095dDvrJFEuMV1a2gBDEz7jQncZKv/34gVh/+xbKi/F4Y07Jy4UFAvFFaGTA//wwDccmWgHSTXTjIxBw=;so3unoRhpxB0LBkMG+HOVg=="
 ---

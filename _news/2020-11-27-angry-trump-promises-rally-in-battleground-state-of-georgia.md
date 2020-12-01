@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/angry-trump-promises-rally-i
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -95,6 +95,17 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Stocks ready to rally in '21 but outgoing Trump is risk: Pacific Life Fund Advisors"
+    excerpt: "U.S. stock markets are poised to rally in 2021, bolstered by the predictability of a new U.S. president, fresh stimulus and infrastructure spending, plus a coronavirus vaccine. But there is a potential wild card: outgoing President Donald Trump,"
+    publishedDateTime: 2020-12-01T06:48:00Z
+    webUrl: "https://www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
 
 secured: "Q4CR37SlyWtSXSRjW1UjTlLpL+WEMoVy5iGa4PXwXuIL1scpZj1YkFMKozo2ES/b5P3l0s5RlKglMXM4MJjPls216IFyH/c8HOO1dL2xnsfqIxlBlERNVzaAhHMB968P4zOuUXuEQ2oB+cQsqLPLboj25yQCUp4y3hi/+0VQs/403NPTGiGgkB/U8Ax9Pz94EMgTZi3+mxAoIf2LGkjXiMp6/l8v6nXBHp10z9iyncTq//9SL87QErnrJ78EEQ8NY4jYc2Ph2izG5Y+10jNYT8OhoSjj5cVap5mSSlNXllZjUK+yoSe4yvmQE3b/0q/RGody1h8NCEdeBUcbGUWpThr52mElOv8ebsPoa1rPVoU=;+ebpEepUI5tXzhM26DHFHw=="
 ---

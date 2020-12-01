@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Trump headed to Georgia as turnout driver, but also a threat"
-excerpt: "Some establishment Republicans are sounding alarms that President Donald Trump’s conspiratorial denials of his own defeat could threaten the party’s ability to win a Senate majority and counter Presid"
-publishedDateTime: 2020-12-01T02:09:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+title: "Stocks ready to rally in '21 but outgoing Trump is risk: Pacific Life Fund Advisors"
+excerpt: "U.S. stock markets are poised to rally in 2021, bolstered by the predictability of a new U.S. president, fresh stimulus and infrastructure spending, plus a coronavirus vaccine. But there is a potential wild card: outgoing President Donald Trump,"
+publishedDateTime: 2020-12-01T06:48:00Z
+originalUrl: "https://www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11"
+webUrl: "https://www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11"
+ampWebUrl: "https://www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11?amp"
 type: article
-quality: 125
+quality: 99
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Angry Trump promises rally in battleground state of Georgia"
@@ -63,6 +57,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump headed to Georgia as turnout driver, but also a threat"
+    excerpt: "Some establishment Republicans are sounding alarms that President Donald Trump’s conspiratorial denials of his own defeat could threaten the party’s ability to win a Senate majority and counter Presid"
+    publishedDateTime: 2020-12-01T02:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-headed-to-georgia-as-turnout-driver-but-also-a-threat/2020/11/30/4281aa74-337a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
     excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
     publishedDateTime: 2020-11-29T22:12:00Z
@@ -95,18 +105,7 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Stocks ready to rally in '21 but outgoing Trump is risk: Pacific Life Fund Advisors"
-    excerpt: "U.S. stock markets are poised to rally in 2021, bolstered by the predictability of a new U.S. president, fresh stimulus and infrastructure spending, plus a coronavirus vaccine. But there is a potential wild card: outgoing President Donald Trump,"
-    publishedDateTime: 2020-12-01T06:48:00Z
-    webUrl: "https://www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
 
-secured: "E4CSt/CjawetLdIVU36jPLkrtFRCaZxLfgwL5tZyazeERQB4imJBp8ub83KIJdh53QgbaskF+wMRXrneOAXmm2OujZC6iB1V0Rc8iPbTaxbNQIMJVbOQUZrBNaflWBHtFpwJH9ULUkcVuf81Z+TIblkNLcniCKT55HNl0r7pQM9KtgM+WIoU9fawaX2Zth7t6N9JiTSEtJpzur+QhpNJUVmhQCujmyCkfZekvnFvuHYV8uLoKpaD8J4FasgiScVQLrrSqu1FDXA6A/miI7RRYdgaibuRmeljoqtUxOM4ots/KZ/13G1/TiPXgEwAt4UygeW6dv9sdyTx4lksoLU6DE3yN0OCR7qRBuMP+FOxNoo=;lqxwy944cWezBnz6whBiyw=="
+secured: "96M1W+lmPfKspia9ShtmrL+43b1ByUtL9ZjDRQ8vbLpgs2ZGHBDMqslZq532ILZ9105pzdi/i06Js8YqxH45iJaxVOulI+Z3Hm0JPIImHqQCopqG2AYkT33xqnZPfhUA8L5Q2YZAHaNzagMV8pMUZo0mGG5VNLRwWfh+QqOv7RhnJIkbzJN6J1Z+orAmjZiv8+yKyy4fIGIkiyxDzFfZwdvl70L+5bx/CNjUMSyetE14Dl2y6QXy0TtIEi0+1hgDASSfaDffz5iWwvzUDcG7bHPzHP9HLBJnVlGOHInllOfgiif+3NVmC+Q8Yg9yistIjUZDVVBmbGcsQvpOz7NyR108v/VLCJokLjrDrU9nDl4=;wPPPkzb+nLQOmjycr0mhdg=="
 ---
 

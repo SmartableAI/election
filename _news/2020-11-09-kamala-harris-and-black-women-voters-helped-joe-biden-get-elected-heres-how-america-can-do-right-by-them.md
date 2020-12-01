@@ -1434,6 +1434,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden, Harris get first access to Trump's top-secret President's Daily Brief"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris got their first look Monday at the top-secret President's Daily Brief since winning the 2020 election. President Trump had delayed Biden's access to the PDB,"
+    publishedDateTime: 2020-12-01T06:24:00Z
+    webUrl: "https://theweek.com/5things/952601/biden-harris-first-access-trumps-topsecret-presidents-daily-brief"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 82
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1286019386.jpg?itok=X1likKTA"
+        width: 840
+        height: 560
+        isCached: true
   - title: "Biden, Harris to begin receiving classified Presidential Daily Brief for the first time"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will begin receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan 20."
     publishedDateTime: 2020-11-30T18:27:00Z
