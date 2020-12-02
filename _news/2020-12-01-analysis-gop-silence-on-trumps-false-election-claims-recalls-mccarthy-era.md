@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-election-claims-mccarthy/index.html"
 type: article
 quality: 188
-heat: 228
+heat: 268
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Georgia election official pleads with Trump and Republicans to 'stop inciting acts of violence'"
+    excerpt: "A Georgia election official on Tuesday condemned threats of physical violence and intimidation against election workers and officials, pleading with President Donald Trump to denounce the threats and urging both of the state's Republican senators to intervene.\n    \n"
+    publishedDateTime: 2020-12-02T01:24:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DnM9T6vgK1Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/georgia-election-official-trump-republicans-violence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/georgia-election-official-trump-republicans-violence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201171009-sterling-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President Donald Trump raises more than $170 million since Election Day as he pushes baseless fraud claims"
     excerpt: "President Donald Trump and his political operation have raised more than $170 million since Election Day, a person familiar with the matter said -- a massive fundraising haul fueled by Trump's baseless allegations that the election was rigged.\n    \n"
     publishedDateTime: 2020-12-01T14:23:47Z
@@ -62,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201081905-geoff-duncan-vpx-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump to restart foreign deals, breaking a post-presidency norm"
+    excerpt: "A return to overseas dealmaking raises new ethical issues no ex-president has ever confronted. Trump’s sprawling global company is private and increasingly reliant on foreign lenders."
+    publishedDateTime: 2020-12-02T01:12:00Z
+    webUrl: "https://www.politico.com/news/2020/12/01/trump-foreign-real-estate-441928"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/01/trump-foreign-real-estate-441928"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/01/trump-foreign-real-estate-441928"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/44/4d/fca6e10149919d5e5a992466a463/ap20031797048613-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "RCcD6hpIzNRETNY6LVsxxgaU/Cz02bcdMUcQH24IG+W5oAzYJQgKTrC+DHqFNB/JsNAkQYIFd94iNodze3fXjqP4b3DB6xPc7ubblACpPC+2tkrTGPkBdDhOBQfgXt5nSSU7qz+IkYiKx+/Zox0YzSdH1F143yXInfm0DTFUW0WWBFb4Al1Tt3toxJohjgYj4r+XdQ0qUpWaCHSYtMbW3nsypOHYmL7MMbXzsBw3L8fytLI6dMXldqkkHBES+WiiIgO40s+Bg62bBQZoyMQ9qUduq4/0cmdOrODRkpxQTc8bfEqxcbugbtkD/NdftFDZ2ACFhIe1lwjzjADWFQTpxSoiUxoZW2bt8n092wr9RC0=;RPNx5WM2Nwe8bAl9J6GJHQ=="

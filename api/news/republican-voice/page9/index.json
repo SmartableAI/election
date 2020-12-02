@@ -2,6 +2,62 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-26-fbi-director-christopher-wray-will-be-removed-from-post-if-trump-is-re-elected-source-tells-fox-news.md",
+      "title": "FBI Director Christopher Wray will be removed from post if Trump is re-elected, source tells Fox News",
+      "excerpt": "Reports are surfacing that President Trump will fire FBI Director Christopher Wray should he win reelection next Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ieKOSqF2a4/fbi-director-christopher-wray-will-be-removed-reelection",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ieKOSqF2a4/fbi-director-christopher-wray-will-be-removed-reelection",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fbi-director-christopher-wray-will-be-removed-reelection.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-director-christopher-wray-will-be-removed-reelection.amp",
+      "publishedDateTime": "2020-10-25T18:10:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-nypd-cop-suspended-for-using-loudspeaker-to-say-trump-2020-while-on-duty.md",
       "title": "NYPD cop suspended for using loudspeaker to say 'Trump 2020' while on duty",
       "excerpt": "A New York police officer has reportedly been suspended without pay for using the department vehicle’s loudspeaker to proclaim his support for President Donald Trump’s 2020 campaign.",
@@ -1623,63 +1679,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation.md",
-      "title": "Byron York's Daily Memo: Joe Biden (sort of) addresses Hunter Biden accusation",
-      "excerpt": "ADDRESSES HUNTER BIDEN ACCUSATION. The Democratic presidential nominee isn't campaigning in person this week -- an odd choice in the final days of a hard-fought campaign. But Joe Biden did do a video interview Wednesday with a Wisconsin television station,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation",
-      "originalUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/9f02367/2147483647/strip/true/crop/1060x600+0+0/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F1b%2Fdd%2F5520d8a2407eb68282a5cf5f8e59%2Fdaily-memo-default-1060x600.png",
-          "width": 1060,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation?_amp=true",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation?_amp=true",
-      "publishedDateTime": "2020-10-22T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

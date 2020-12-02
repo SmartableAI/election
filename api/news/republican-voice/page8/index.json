@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-29-trump-jr-warns-election-is-about-freedom-versus-tyranny-capitalism-versus-socialism-and-communism.md",
+      "title": "Trump Jr. warns election is 'about freedom versus tyranny, capitalism versus socialism and Communism'",
+      "excerpt": "The Democrats' \"endgame\" is to transform America into a far-left, Marxist state where dissent is not permitted, Donald Trump Jr. told \"Hannity\" Wednesday night.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l7dRPBdl3yI/donald-trump-jr-2020-election-freedom-tyranny-capitalism-socialism",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l7dRPBdl3yI/donald-trump-jr-2020-election-freedom-tyranny-capitalism-socialism",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9942e7b-6b0a-44f9-adb5-f4160494c7c8/af75e25c-e3e2-4766-a781-cbdb39525ebe/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-2020-election-freedom-tyranny-capitalism-socialism.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-2020-election-freedom-tyranny-capitalism-socialism.amp",
+      "publishedDateTime": "2020-10-28T20:19:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-rick-scott-makes-six-figure-ad-buy-for-trump-in-florida-report.md",
       "title": "Rick Scott makes 'six-figure' ad buy for Trump in Florida: Report",
       "excerpt": "The pro-Trump ads will run in six to eight Florida media markets",
@@ -1633,62 +1689,6 @@
         "Republican Voice",
         "Mike Pence",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-fbi-director-christopher-wray-will-be-removed-from-post-if-trump-is-re-elected-source-tells-fox-news.md",
-      "title": "FBI Director Christopher Wray will be removed from post if Trump is re-elected, source tells Fox News",
-      "excerpt": "Reports are surfacing that President Trump will fire FBI Director Christopher Wray should he win reelection next Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ieKOSqF2a4/fbi-director-christopher-wray-will-be-removed-reelection",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ieKOSqF2a4/fbi-director-christopher-wray-will-be-removed-reelection",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fbi-director-christopher-wray-will-be-removed-reelection.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-director-christopher-wray-will-be-removed-reelection.amp",
-      "publishedDateTime": "2020-10-25T18:10:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -73,10 +73,10 @@ related:
         isCached: true
   - title: "Georgia elections official urges Trump to rein in supporters"
     excerpt: "A top Georgia elections official has lashed out angrily at the rhetoric surrounding the election and the threats of violence that have resulted"
-    publishedDateTime: 2020-12-01T22:56:00Z
-    webUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/6db93bcc-3428-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/6db93bcc-3428-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/6db93bcc-3428-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    publishedDateTime: 2020-12-02T02:18:00Z
+    webUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -652,6 +652,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "FDA chief called to White House as Trump pushes for vaccine"
+    excerpt: "The head of the agency responsible for approving any COVID-19 vaccine for the U.S. was summoned to the White House Tuesday as an increasingly frustrated President Donald Trump complained approval wasn't coming faster."
+    publishedDateTime: 2020-12-02T01:57:00Z
+    webUrl: "https://www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Supreme Court Seems Skeptical of Trump's Census Plan"
     excerpt: "The Supreme Court sounds skeptical that President Donald Trump could categorically exclude people living in the country illegally from the population count used to allot seats among the states in the House of Representatives."
     publishedDateTime: 2020-11-30T17:23:00Z

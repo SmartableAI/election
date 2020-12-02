@@ -2,6 +2,118 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-10-20-trump-says-choice-is-american-dream-or-socialist-hellhole-in-2020-race.md",
+      "title": "Trump says choice is 'American Dream' or 'socialist hellhole' in 2020 race",
+      "excerpt": "President Trump on Tuesday equated the race between himself and Democratic nominee Joe Biden in the 2020 presidential election as a choice between the \"American Dream\" and a \"socialist hellhole.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBGWc24bTug/trump-biden-american-dream-socialist-hellhole",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBGWc24bTug/trump-biden-american-dream-socialist-hellhole",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293704879004-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-american-dream-socialist-hellhole.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-american-dream-socialist-hellhole.amp",
+      "publishedDateTime": "2020-10-20T07:13:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-nc-governor-caught-on-hot-mic-telling-biden-theyll-drag-cal-cunningham-across-the-line-after-scandal.md",
+      "title": "NC governor caught on hot mic telling Biden they'll drag Cal Cunningham ‘across the line’ after scandal",
+      "excerpt": "\"I think Cal's going to get across the line, too,\" Gov. Roy Cooper appeared to say on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T1tj-Snexq0/roy-cooper-joe-biden-hot-mic-cal-cunningham",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T1tj-Snexq0/roy-cooper-joe-biden-hot-mic-cal-cunningham",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20282026845724.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/roy-cooper-joe-biden-hot-mic-cal-cunningham.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roy-cooper-joe-biden-hot-mic-cal-cunningham.amp",
+      "publishedDateTime": "2020-10-20T06:46:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-trump-to-speak-to-fox-friends-two-weeks-from-election-day.md",
       "title": "Trump to speak to 'Fox & Friends,' two weeks from Election Day",
       "excerpt": "President Trump will join “Fox & Friends” for an exclusive interview Tuesday at 8 a.m. ET, two weeks out from Election Day.",
@@ -1206,118 +1318,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-trump-says-people-tired-of-fauci-coronavirus.md",
-      "title": "Trump says people 'tired' of Fauci, coronavirus",
-      "excerpt": "President Trump on Monday said the American people are “tired” of the novel coronavirus, and “tired” of Dr. Anthony Fauci “and all these idiots.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9udr85B4NEg/trump-anthony-fauci-criticism-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9udr85B4NEg/trump-anthony-fauci-criticism-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-anthony-fauci-criticism-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-anthony-fauci-criticism-coronavirus.amp",
-      "publishedDateTime": "2020-10-19T11:11:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-texas-gop-sen-cornyn-tries-to-distance-himself-from-trump-says-he-disagrees-with-president-privately.md",
-      "title": "Texas GOP Sen. Cornyn tries to distance himself from Trump, says he disagrees with president 'privately'",
-      "excerpt": "Texas Sen. John Cornyn became the latest GOP senator to distance himself from President Trump this weekend ahead of a surprisingly tight re-election battle.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEuD2mfTJr4/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEuD2mfTJr4/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d525362d-ca07-450b-ad54-963f429c47b4/33964c7c-f88b-4e92-99c6-bb09dd3e26cb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle.amp",
-      "publishedDateTime": "2020-10-19T11:00:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

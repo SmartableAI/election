@@ -542,6 +542,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Arizona governor becomes latest Trump target after certifying Biden's win"
+    excerpt: "Arizona Gov. Doug Ducey, a Republican and close ally of President Donald Trump throughout the 2020 election, found himself in the president's Twitter crosshairs on Monday when he signed off on the state's election certification."
+    publishedDateTime: 2020-12-02T01:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/arizona-governor-becomes-latest-trump-target-after-certifying-biden-s-n1249549"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249549"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249549"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3432215/201201-doug-ducey-jm-1315_ccc9214d85bd81690c88ec066db05fb6.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "The labor market mess awaiting Joe Biden"
     excerpt: "Many of the solutions he's offering — massive infrastructure, clean energy and technology investments — will need the approval of a largely hostile Congress."
     publishedDateTime: 2020-11-25T09:36:00Z

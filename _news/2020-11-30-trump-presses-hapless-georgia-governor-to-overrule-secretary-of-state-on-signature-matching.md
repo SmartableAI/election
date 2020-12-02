@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Georgia GOP Official Urges Trump to Condemn Threats Against Election Officials"
+    excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
+    publishedDateTime: 2020-12-02T02:11:00Z
+    webUrl: "https://www.wsj.com/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944?mod=hp_listb_pos2"
+    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-266968/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "tQAI1g/2EwrUkJ9zZqKIhTCZka8YAC1A6hyy8dAnOfH4FXnVQqgZn9UaxZF8vQWHjVJEJQjML7faPVLjnzG5bC9fh8ulFJdIrFjO5UAoxWzfC1vYRl4jeQycWwNoRdh1K6rkQPerw57LAKMkfneThtw6P2YTzjTOj/n3vaNwJA/3y/GXF3HsMYKx887wEvSTgxK6g8KtFFAImgiP9r7utak9oFyi3pJvzYhwQUeOtXxl8DqC+pQ7s4u8V4l0BNarTQzSmPchQl2api9Ykbu1Z+ceb2J/7uQMFuNJr73bbL68Xa4Fi9uuox5+JvePSLKeiJUIcFNBODpyqBUbr4FZnyUlFt8ys43TGkxl+K8acSg=;/bZTd1IYF0IwS2tWskg2zA=="
 ---

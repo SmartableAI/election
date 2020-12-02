@@ -3,8 +3,8 @@ category: news
 title: "Latest on Biden transition to the White House..."
 excerpt: "Watch \"Latest on President-elect Joe Biden's transition to the White House\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-12-02T00:24:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201202001536-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
-webUrl: "https://www.cbsnews.com/live/video/20201202001536-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
+originalUrl: "https://www.cbsnews.com/live/video/20201202011707-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
+webUrl: "https://www.cbsnews.com/live/video/20201202011707-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/02/story_07929870_1606868159.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/02/story_07929750_1606871850.jpg"
     width: 480
     height: 270
     isCached: true
@@ -12492,6 +12492,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "+LDTDDs/X+bEHsdnjbCJfIVFrmYBU9XntAi3nCDcPzbGwIbWD2jnj7B9d+Ku4E610LeHxairDakEF2BZFvOzn0U+7qTZ5PBcQMlLUUATGU33RY6EwlbyP5f2ly3WIfVKDYyfcDJPlQIHHYJywvsjQ/awLAEH9u8I3rfNYmGdyi0SS6rdl9omTBBUzeqHIgbzodhpdC7AcpFp+sbEAwauGlZSM571St5ctIqEWluHfqObnlF47cfLCEEc+OjU5bihDQHmz7Xi0cXScMeNQ/lss1jE/mcPljU0C6mQixD+uzON0RvW8iM6bOVRTy6wucI+7Y5+L5tUH5UOuhTkEZBZLj8SMgnBVBXks9aGvnEfOaE=;CJ1hkRKk1DDhbqAV78iUrA=="
+secured: "8NbgiR1DBCv8H9O2yzrnoZjIX1RlNeDKYtXzaj7foVXQ81cbfU/+5edUKZ3ETailzRIFLZy/lwo6Y02eCNfbvDpT2fPrxmbm6FOPL5fBuyxCNMgORhQcY/ZOniZgmlsH9/k1BgZMnJrFSb+eMD5PYQlGqJn+ydVq7KA5TLbMHkAX1o6ak3pULYGnwpVT9I7/Cz66hndFIOL3+NhwU9OYRPa6E3AkM73LKFvlizUp8V0/3u7wanS1dShwGjhNAT2q9IKyD7WrjSjvnhNF7vbG1FEWcLpAgfvPxXgi7TfgcI2jm9NiYIopTB63dla5nusQys62zJGRTdmJWFVmrhBqGhpD/TO1cfIQR77HCM1xR7Q=;AFgt9smf0ymb6OTpIBiqkw=="
 ---
 

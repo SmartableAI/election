@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-11-jimmy-kimmel-trump-is-a-reality-show-host-who-cant-accept-reality.md",
+      "title": "Jimmy Kimmel: Trump Is a Reality Show Host Who Can’t Accept Reality",
+      "excerpt": "Republicans are handling the president with kid gloves because those are the only gloves that fit him,” Kimmel joked of President Trump’s refusal to concede to Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/11/arts/11latenight/11latenight-facebookJumbo.png",
+          "width": 865,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
+      "publishedDateTime": "2020-11-10T23:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-why-a-trump-loss-may-be-no-match-for-rupert-murdochs-realpolitik.md",
       "title": "Why a Trump Loss May Be No Match for Rupert Murdoch’s Realpolitik",
       "excerpt": "Fox News has lasted through “multiple presidents, and they’re going to be around for multiple more,” said one right-wing media executive.",
@@ -1524,58 +1581,6 @@
       "ampWebUrl": "https://amp.usatoday.com/amp/6182026002",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6182026002",
       "publishedDateTime": "2020-11-05T17:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-donald-trumps-aides-are-increasingly-gloomy-and-mad-at-other-gop-officials.md",
-      "title": "Donald Trump's aides are increasingly gloomy – and mad at other GOP officials",
-      "excerpt": "Some aides to President Donald Trump said they're not giving up on the election, but they're also bracing for the worst. They're also upset with other Republicans who have not spoken out against the ongoing election count as forcefully as Trump has.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/trump-aides-gloomy-election-mad-gop/6181186002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/trump-aides-gloomy-election-mad-gop/6181186002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/04/USAT/8e6c2ca7-73ee-4a93-b47f-7fc5415e3f65-AFP_AFP_8UJ3N7.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6181186002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6181186002",
-      "publishedDateTime": "2020-11-05T15:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",

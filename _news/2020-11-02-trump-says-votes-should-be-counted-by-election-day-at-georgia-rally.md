@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
 type: article
 quality: 190
-heat: 610
+heat: 630
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-256340/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Georgia Official Urges Trump to Condemn Threats Against Election Workers"
+    excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
+    publishedDateTime: 2020-12-02T02:08:00Z
+    webUrl: "https://www.wsj.com/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
+    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-266968/social"
         width: 1280
         height: 640
         isCached: true

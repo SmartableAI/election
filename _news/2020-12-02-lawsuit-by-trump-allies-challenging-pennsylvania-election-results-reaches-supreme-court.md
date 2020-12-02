@@ -81,10 +81,10 @@ related:
         isCached: true
   - title: "Georgia elections official urges Trump to rein in supporters"
     excerpt: "A top Georgia elections official has lashed out angrily at the rhetoric surrounding the election and the threats of violence that have resulted"
-    publishedDateTime: 2020-12-01T22:56:00Z
-    webUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/6db93bcc-3428-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/6db93bcc-3428-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/6db93bcc-3428-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    publishedDateTime: 2020-12-02T02:18:00Z
+    webUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -644,6 +644,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "FDA chief called to White House as Trump pushes for vaccine"
+    excerpt: "The head of the agency responsible for approving any COVID-19 vaccine for the U.S. was summoned to the White House Tuesday as an increasingly frustrated President Donald Trump complained approval wasn't coming faster."
+    publishedDateTime: 2020-12-02T01:57:00Z
+    webUrl: "https://www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "AP FACT CHECK: Trump distorts military role in vaccines"
     excerpt: "From the get-go, President Donald Trump has suggested that the military would be central in developing, producing and distributing vaccines for the pandemic"
     publishedDateTime: 2020-11-28T14:34:00Z
@@ -665,6 +676,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "5L541204ru5cFomqqARr0Qrd2p1PRujXsB2aOWuoBcdrolk7ooh9e09LoH7lnmUHOok0Y0QN2dJVvrADVf27EzYMWwboN1PIpFzbLMN9sxuRQ8D0ihAcySiYl43LEIDinSdw03Eh0CoQk0bZRakVBejlt1PeDvgcsXYa0nS6ZVf1ERr675LP7tRd433WhaX7ORxFrofV/nvJBZfQ8joGO0jqymphuo5Vduu7BP5dJQfh+ncXkwgxF/30TnOowpnn1FKKjTEmebHL2qlT8pfBaEW8IVfjhmBFKgEhplmzMlmeQiMgLNFLmbggEHJUF82Af9Lhf5oYxNV1b9ta+BdVPDt3eavQA6zQes3a/XIZZLA=;hKJ6mkFfp4N9Eam8QQWQ3g=="
+secured: "025+tiG5/YTJV1dcM/BA6DwXkOH7g2L3foR2Ye8QyUx9LJCtlGMweo/C7m5fCb6xOHgqub98iMBKMU+zNAO7BBJIgHjfatm9Mq6LBr6r3pNHzvlTEoRH3h4sUQiLOJHUNeWUuX/8sZny4pJJnI+ieOLeSBg8va3hEpMknyX2XPfcDjYhAdW5Z4lHTAROVYrBdN7YevTlt7oJJPr2Zp/RpszVzS6OD4sueE8VqjGhRp/DekEmVYBeAAJyoiU4qOQd0jKAGgyr46wBxtID0chlLN37cbfWvKYUXqM2A6G/q8EZ4WjcmuxkGPL09CiXSbofCyBdmnJ9lNas72OoBd8MNuEJ/lg3mlA17YyEKUTnUAV9NPIpiLOYq3Fg8oTzBWVWi0RBKe3xl5KaRwBAsUObI52LtxKj/pjydTlAnbwJkyvfTlSp7ly6iBaFUMoMGMnxECzhkVMc04r7PyB4dDcPLndOIxwMJ2Nk1wjNsX4+t0Ix7ljQEO+TmTGYINDofs3es6CXc9RYgPIKrr9grex5xA==;jmodvWLsE+7B+0RO/YOswg=="
 ---
 

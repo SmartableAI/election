@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Georgia election official pleads with Trump and Republicans to 'stop inciting acts of violence'"
+    excerpt: "A Georgia election official on Tuesday condemned threats of physical violence and intimidation against election workers and officials, pleading with President Donald Trump to denounce the threats and urging both of the state's Republican senators to intervene.\n    \n"
+    publishedDateTime: 2020-12-02T01:24:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DnM9T6vgK1Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/georgia-election-official-trump-republicans-violence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/georgia-election-official-trump-republicans-violence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201171009-sterling-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President Donald Trump raises more than $170 million since Election Day as he pushes baseless fraud claims"
     excerpt: "President Donald Trump and his political operation have raised more than $170 million since Election Day, a person familiar with the matter said -- a massive fundraising haul fueled by Trump's baseless allegations that the election was rigged.\n    \n"
     publishedDateTime: 2020-12-01T14:23:47Z
@@ -62,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130000216-donald-trump-1126-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump to restart foreign deals, breaking a post-presidency norm"
+    excerpt: "A return to overseas dealmaking raises new ethical issues no ex-president has ever confronted. Trump’s sprawling global company is private and increasingly reliant on foreign lenders."
+    publishedDateTime: 2020-12-02T01:12:00Z
+    webUrl: "https://www.politico.com/news/2020/12/01/trump-foreign-real-estate-441928"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/01/trump-foreign-real-estate-441928"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/01/trump-foreign-real-estate-441928"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/44/4d/fca6e10149919d5e5a992466a463/ap20031797048613-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "ThEweQojeMDE2J7Zb7lzqKLuw+evVEt+HeMAjU1NI/rOPJGeKukKp4avum8T4SrusvARhC+DKd5/6ejtACrt9nFi7NEjP3HQD2OcujdWZkal7sOW4ibYqRwiIg/ZNLqNTobW7kbz/PJpsN2WosSXCJTMQ4Yveejf5jlJW86v4W2vjSmO3ZFp069muA6kfl0lEW03rvC4/IpXFr9KDUc6KZhgCpgUZ63pyYW8s0rWyUI6gouKjDaOAXr5YWUlQm1HjVSzSM80gmIoRmLHMIQRqedoILl1W521Dhy1d0rdzaitIsjuQao5BboG9NpqNCcAMjqFVpArr416p570Te4kaoSIkE+89nyl9UKyMnkPf/s=;pAl0A5y2EuLYbTW9++uiJA=="

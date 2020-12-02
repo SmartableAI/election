@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-02-damaging-to-our-democracy-trump-election-lawsuits-targeted-areas-with-large-black-latino-populations.md",
+      "title": "'Damaging to our democracy': Trump election lawsuits targeted areas with large Black, Latino populations",
+      "excerpt": "Though Trump has lost his legal battles, his targeting of counties with large Black and Latino voting numbers is damaging to democracy, experts say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/01/trump-voter-fraud-claims-target-counties-more-black-latino-votes/6391908002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/01/trump-voter-fraud-claims-target-counties-more-black-latino-votes/6391908002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/07/USAT/ad9469e2-a3e6-419c-b96f-c6b66aa56f6a-AP_Election_2020_Pennsylvania.jpg?auto=webp&crop=2960,1665,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6391908002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6391908002",
+      "publishedDateTime": "2020-12-01T17:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-banished-from-the-trump-legal-team-attorney-sidney-powell-still-finds-a-guest-chair-on-fox.md",
       "title": "Banished from the Trump legal team, attorney Sidney Powell still finds a guest chair on Fox",
       "excerpt": "What Dobbs didn’t mention is that eight days earlier, Donald Trump’s re-election campaign had put out a statement dropping Powell from their legal effort to overturn the resul",
@@ -1147,7 +1199,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1251,7 +1303,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/theyre-baaack-trump-and-allies-still-refuse-election-loss/2020/11/26/dbbfd81a-2fe6-11eb-9dd6-2d0179981719_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 960,
+      "heat": 980,
       "tags": null,
       "images": [
         {
@@ -1501,63 +1553,6 @@
         "Election",
         "Donald Trump",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-can-manny-diaz-resurrect-democrats-poll-majority-of-gop-would-support-trump-in-2024-florida-tops-18000-covid-19-deaths.md",
-      "title": "Can Manny Diaz resurrect Democrats? — Poll: Majority of GOP would support Trump in 2024 — Florida tops 18,000 Covid-19 deaths",
-      "excerpt": "Is this the answer that Florida Democrats have been hoping for? Jumping into the fray — Former Miami Mayor Manny Diaz, who earned a reputation as a turnaround artist in his home city, is campaigning for an even tougher job: leading the floundering Florida Democratic Party.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2020/11/24/can-manny-diaz-resurrect-democrats-490978",
-      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2020/11/24/can-manny-diaz-resurrect-democrats-490978",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
-          "width": 900,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

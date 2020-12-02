@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden pick oversaw flood of foreign money into liberal think tank"
+    excerpt: "President-elect Joe Biden’s pick to head the Office and Management Budget, Neera Tanden, oversaw a flood of foreign money as head of one of Washington’s most prominent liberal think tanks."
+    publishedDateTime: 2020-12-02T02:27:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HB9a82DHpz8/biden-pick-oversaw-foreign-money-liberal-think-tank"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pick-oversaw-foreign-money-liberal-think-tank.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-oversaw-foreign-money-liberal-think-tank.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20336683803892.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden mum on defense secretary pick as progressives push against top contender Flournoy"
     excerpt: "As President-elect Joe Biden announced the core of his incoming national security team on Monday, he withheld one key name: his pick for defense secretary. "
     publishedDateTime: 2020-11-24T20:26:18Z

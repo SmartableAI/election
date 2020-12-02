@@ -2,11 +2,11 @@
 category: news
 title: "Georgia elections official urges Trump to rein in supporters"
 excerpt: "A top Georgia elections official has lashed out angrily at the rhetoric surrounding the election and the threats of violence that have resulted"
-publishedDateTime: 2020-12-01T22:56:00Z
-originalUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/6db93bcc-3428-11eb-9699-00d311f13d2d_story.html"
-webUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/6db93bcc-3428-11eb-9699-00d311f13d2d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/6db93bcc-3428-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/6db93bcc-3428-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+publishedDateTime: 2020-12-02T02:18:00Z
+originalUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html"
+webUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 140
 heat: -1
@@ -644,6 +644,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "FDA chief called to White House as Trump pushes for vaccine"
+    excerpt: "The head of the agency responsible for approving any COVID-19 vaccine for the U.S. was summoned to the White House Tuesday as an increasingly frustrated President Donald Trump complained approval wasn't coming faster."
+    publishedDateTime: 2020-12-02T01:57:00Z
+    webUrl: "https://www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "AP FACT CHECK: Trump distorts military role in vaccines"
     excerpt: "From the get-go, President Donald Trump has suggested that the military would be central in developing, producing and distributing vaccines for the pandemic"
     publishedDateTime: 2020-11-28T14:34:00Z
@@ -665,6 +676,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "kWg2SC5cbohNwNt15Xb8lcEXPxLucIWkQ90wp+BE2CRkzTbJoF+jOni5lYuPcDdOE+Jw1c6UtrHz6SP8AghuVvbUwNegBNEMYar2GMiRm43Y0A6EOfCLHcZFoGqqS5v1k5ttGkdoTYLfY+eTj9UuNNYSh9IwLJlhYnDVPqbb3r2RBCoZ2NJI69gg1JSKEFH8O35MQZiXXEcTFqX5Yeel7aUwU2Xr7h1g0AKnn2srxVDkFTlA8thxPSsSJrIE3ISslJhlLrVfXlvveduRxjqL5b4SJ9vwIoQrihTrl8QC4atR46PTxdy2W0FYixJOy2S9xEuacqOISo/fmCEiM6BfGeEPPedmOl+jACcC9hex2A8=;shdnAofvR/M9VZYwmr9lCw=="
+secured: "uNIFLX1DpwJif3rlq00le5Vsw8DPOkD+o6gQG/ILAk+KycEb5VJURhsaeCOPPVYK/q3XmNagfMDJsFvX4ehsxlho6Ntn21uB+EOF1UTe4HGRnXsvgC77j7zhr2BHwm/IBk82DRoGVDMaaDckXuC91H+UTOZs6lz7xvfi0mUGh7lluRF6gVmhBiTRG0vYmAOsV9e9Pe2Dqv3weW0L9dzlLTRJ89YWvk5RgWX4y1ZwBBVNRry3+TwWfAT0IEwKqt3SHcZFjldMTHx1gSodW6FAW+LCwiCgfomDOAuLcjZSlhUs/eVEn4Us/9OnJ1zeTKGdiqEZYWpLcXKEf2e9u0FkG5whTOnDJmB1d1tgSvJASXY=;aOkbGHqOM4xEy+2fjjlGVA=="
 ---
 

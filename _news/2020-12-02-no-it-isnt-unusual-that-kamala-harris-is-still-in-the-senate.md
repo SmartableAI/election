@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President-elect Kamala Harris picks Tina Flournoy as her chief of staff"
-    excerpt: "Tina Flournoy, who is currently serving as chief of staff to former President Bill Clinton, has been chosen to be Vice President-elect Kamala Harris' chief of staff, according to a source with knowledge of the decision.\n    \n"
-    publishedDateTime: 2020-12-01T19:18:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2PmUWMV9mtY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/index.html"
+  - title: "Kamala Harris called a nurse on Thanksgiving to thank her for fighting on the Covid frontlines"
+    excerpt: "A friendly phone call is all too normal during Thanksgiving -- that is unless it's coming from the vice president-elect, herself.\n    \n"
+    publishedDateTime: 2020-11-27T20:35:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x6vXyZTyZzI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/kamala-harris-thanksgiving-nurse-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/kamala-harris-thanksgiving-nurse-trnd/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 182
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201002511-tina-flournoy-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127130557-kamala-harris-1125-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

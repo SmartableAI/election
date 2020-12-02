@@ -61,6 +61,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump headed to Georgia as runoff boost, but also a threat"
+    excerpt: "Some Republicans are sounding alarms that President Donald Trump’s conspiratorial denials of his own election defeat could threaten the party’s ability to win a Senate majority"
+    publishedDateTime: 2020-12-02T01:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Despite Trump's continued claims, Barr sees no sign of major U.S. vote fraud"
+    excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department had found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
+    publishedDateTime: 2020-12-02T01:52:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-idAFKBN28B5UH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28B5UH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28B5UH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543116416&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03NK"
+        width: 817
+        height: 545
+        isCached: true
   - title: "U.S. Supreme Court weighs Trump bid to bar illegal immigrants from census totals"
     excerpt: "The Supreme Court on Monday is set to take up President Donald Trump's unprecedented and contentious effort to exclude illegal immigrants from the population totals used to allocate U.S. House of Representatives districts to states."
     publishedDateTime: 2020-11-29T12:21:00Z
@@ -92,6 +124,20 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542972639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1RT"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump heading to Georgia ahead of Senate runoffs"
+    excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
+    publishedDateTime: 2020-12-02T02:26:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-georgia-saturday-ahead-of-senate-runoffs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/01/4529d887-b72c-4c1c-bb29-b00f91f286ba/thumbnail/1200x630/20642c43ecc51cd897574a2b1d49ca9f/cbsn-fusion-trump-georgia-saturday-ahead-of-senate-runoffs-thumbnail-599055-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "K5FHY4QlaVU23wemaYwir1+6tb+TDeFAxj08rlTl/Tp9skFXg4Z184kWt774+CKH1yS0GgqTBDxcGJtsPYmr0wgML2PWShg+BbKN12FDmBkagCTVTVfSJ06GQNctoQIauS4ar/kE16Q+dqvxVpSGAn97HKVLsqVbYQaLujQW9ku0IQdSgbN05nayKaC/XYmHiw4clmv+1QhZFUCqrUel+QV9Gwbz/PhWKiulNrGXPXlnRyfzz1EitC9hTJpPamJ+FuteyyHv/BruT9l7bWn9pd6o+2zfYVERoTLZ8LmqWhJTEvw+a/wYm9t+aiqxu3V4LxwIKsN+mB3AYN3ZLOCj0njOCxY3izTKrA1LtFykaDY=;YJrHRP/d8J7a/qWR+3WcbA=="

@@ -253,6 +253,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Georgia Official Urges Trump to Condemn Threats Against Election Workers"
+    excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
+    publishedDateTime: 2020-12-02T02:08:00Z
+    webUrl: "https://www.wsj.com/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
+    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-266968/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "In Trump Country, Supporters Are Steadfast, but His Personality, Pandemic Wear"
     excerpt: "Virginia’s Buchanan County went big for President Trump in 2016 and is expected to give him another win this year, but even his supporters feel some Trump fatigue after four years of controversy and a pandemic."
     publishedDateTime: 2020-10-27T12:18:00Z

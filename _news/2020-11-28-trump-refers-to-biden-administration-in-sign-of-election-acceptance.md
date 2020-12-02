@@ -526,6 +526,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Arizona governor becomes latest Trump target after certifying Biden's win"
+    excerpt: "Arizona Gov. Doug Ducey, a Republican and close ally of President Donald Trump throughout the 2020 election, found himself in the president's Twitter crosshairs on Monday when he signed off on the state's election certification."
+    publishedDateTime: 2020-12-02T01:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/arizona-governor-becomes-latest-trump-target-after-certifying-biden-s-n1249549"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249549"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249549"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3432215/201201-doug-ducey-jm-1315_ccc9214d85bd81690c88ec066db05fb6.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden praises health care workers during virtual roundtable"
     excerpt: "President-elect Joe Biden held a virtual roundtable with frontline health care workers and assured them he would advocate for them as president and promised \"there is hope on the way.\"Nov. 18, 2020 © 2020 NBC UNIVERSAL"
     publishedDateTime: 2020-11-19T05:16:00Z

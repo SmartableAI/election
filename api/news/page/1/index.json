@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-02-brad-parscale-accuses-d-level-talking-heads-around-trump-for-forcing-him-out-of-2020-campaign.md",
+      "title": "Brad Parscale accuses 'D-level' 'talking heads' around Trump for forcing him out of 2020 campaign",
+      "excerpt": "Former Trump 2020 campaign manager Brad Parscale has accused \"D-level\" \"talking heads\" in the president's orbit of starting a whisper campaign that forced him out earlier this year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7R_46I7Tv-w/brad-parscale-blasts-d-level-talking-heads-trump-2020-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7R_46I7Tv-w/brad-parscale-blasts-d-level-talking-heads-trump-2020-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bc71753-778e-4f60-ad87-1c50cfa1104f/36f89332-d7c5-4524-ab7f-191e86a4ecc4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/brad-parscale-blasts-d-level-talking-heads-trump-2020-campaign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brad-parscale-blasts-d-level-talking-heads-trump-2020-campaign.amp",
+      "publishedDateTime": "2020-12-01T18:40:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-damaging-to-our-democracy-trump-election-lawsuits-targeted-areas-with-large-black-latino-populations.md",
+      "title": "'Damaging to our democracy': Trump election lawsuits targeted areas with large Black, Latino populations",
+      "excerpt": "Though Trump has lost his legal battles, his targeting of counties with large Black and Latino voting numbers is damaging to democracy, experts say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/01/trump-voter-fraud-claims-target-counties-more-black-latino-votes/6391908002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/01/trump-voter-fraud-claims-target-counties-more-black-latino-votes/6391908002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/07/USAT/ad9469e2-a3e6-419c-b96f-c6b66aa56f6a-AP_Election_2020_Pennsylvania.jpg?auto=webp&crop=2960,1665,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6391908002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6391908002",
+      "publishedDateTime": "2020-12-01T17:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-biden-shows-off-walking-boot-for-first-time-since-injury-says-he-feels-good.md",
       "title": "Biden shows off walking boot for first time since injury, says he feels 'good'",
       "excerpt": "He is expected to wear the boot for several weeks during his recovery.",
@@ -611,63 +719,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-vice-president-elect-kamala-harris-picks-tina-flournoy-as-her-chief-of-staff.md",
-      "title": "Vice President-elect Kamala Harris picks Tina Flournoy as her chief of staff",
-      "excerpt": "Tina Flournoy, who is currently serving as chief of staff to former President Bill Clinton, has been chosen to be Vice President-elect Kamala Harris' chief of staff, according to a source with knowledge of the decision.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2PmUWMV9mtY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2PmUWMV9mtY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201201002511-tina-flournoy-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/index.html",
-      "publishedDateTime": "2020-12-01T11:18:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-live-politics-updates-biden-on-covid-stimulus-help-is-on-the-way.md",
       "title": "Live politics updates: Biden on COVID stimulus: 'Help is on the way'",
       "excerpt": "President-elect Joe Biden called on Congress to approve an economic stimulus plan. He also suggested that a package would be followed up.",
@@ -949,7 +1000,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 228,
+      "heat": 248,
       "tags": null,
       "images": [
         {
@@ -1273,7 +1324,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 228,
+      "heat": 268,
       "tags": null,
       "images": [
         {
@@ -1290,62 +1341,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-election-claims-mccarthy/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-election-claims-mccarthy/index.html",
       "publishedDateTime": "2020-12-01T04:09:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-analysis-how-joe-biden-and-mark-kelly-show-arizona-is-now-a-purple-state.md",
-      "title": "Analysis: How Joe Biden and Mark Kelly show Arizona is now a purple state",
-      "excerpt": "Democrat Mark Kelly will be sworn in on Wednesday as Arizona's junior US senator, finishing the final two years of the term won by the late Sen. John McCain in 2016. Both President-elect Joe Biden and Kelly were certified as the winners of their respective Arizona races on Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_kgr6sV1xdo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_kgr6sV1xdo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201106195236-44-america-votes-1103-arizona-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/arizona-shift-analysis/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/arizona-shift-analysis/index.html",
-      "publishedDateTime": "2020-12-01T04:03:23-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

@@ -59,63 +59,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-vice-president-elect-kamala-harris-picks-tina-flournoy-as-her-chief-of-staff.md",
-      "title": "Vice President-elect Kamala Harris picks Tina Flournoy as her chief of staff",
-      "excerpt": "Tina Flournoy, who is currently serving as chief of staff to former President Bill Clinton, has been chosen to be Vice President-elect Kamala Harris' chief of staff, according to a source with knowledge of the decision.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2PmUWMV9mtY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2PmUWMV9mtY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201201002511-tina-flournoy-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/index.html",
-      "publishedDateTime": "2020-12-01T11:18:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-12-01-kamala-harris-celebrates-50-days-until-biden-is-president-sarah-cooper-rosanna-arquette-and-others-respond.md",
       "title": "Kamala Harris Celebrates 50 Days Until Biden Is President; Sarah Cooper, Rosanna Arquette and Others Respond",
       "excerpt": "Vice President-elect Kamala Harris took to Twitter this morning to happily remind people they are only 50 days away from Joe Biden 's January 20th Presidential Inauguration. As she put it, \"Only 50 days until we get to call @JoeBiden President of the United States.",
@@ -165,6 +108,63 @@
       "topics": [
         "Election",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-vice-president-elect-kamala-harris-picks-tina-flournoy-as-her-chief-of-staff.md",
+      "title": "Vice President-elect Kamala Harris picks Tina Flournoy as her chief of staff",
+      "excerpt": "Tina Flournoy, who is currently serving as chief of staff to former President Bill Clinton, has been chosen to be Vice President-elect Kamala Harris' chief of staff, according to a source with knowledge of the decision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/",
+      "originalUrl": "https://www.cnn.com/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201201002511-tina-flournoy-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/index.html",
+      "publishedDateTime": "2020-11-30T21:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
       ]
     },
     {
@@ -223,7 +223,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 173,
+      "heat": 213,
       "tags": null,
       "images": [
         {

@@ -2,6 +2,105 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-11-10-trump-plans-to-launch-pac-to-maintain-influence-in-gop-circles.md",
+      "title": "Trump plans to launch PAC to maintain influence in GOP circles",
+      "excerpt": "President Donald Trump is planning to establish a leadership PAC, a fundraising arm that could allow him to continue to exert influence in Republican politics even after he leaves office.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aSeQR_7UoOI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aSeQR_7UoOI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201102114928-103-donald-trump-serious-play-button-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html",
+      "publishedDateTime": "2020-11-10T05:45:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-can-american-virtues-and-maybe-mike-pence-save-us.md",
+      "title": "Can American virtues (and maybe Mike Pence) save us?",
+      "excerpt": "Over the weekend, the 2020 presidential election abruptly shifted from slow motion to real-time. In rapid succession, former Vice President Joe Biden secured victory in the battleground state of Penns",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html",
+      "originalUrl": "https://www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/jBNysd9-CgGQwjQVVjXYpLnRjTA=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/6I4BVFCVEFF2NG5LPBS6YT2YNE.JPG",
+          "width": 1200,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html?outputType=amp",
+      "publishedDateTime": "2020-11-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-biden-may-face-pressure-to-reshape-powells-fed-in-first-year.md",
       "title": "Biden may face pressure to reshape Powell's Fed in first year",
       "excerpt": "Washington - U.S. monetary policy won't be a top-of-mind concern for President-elect Joe Biden as he prepares to take office in January, with the Federal Reserve's economic arsenal already deployed against an ongoing recession and decisions about federal spending more",
@@ -1257,110 +1356,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-trump-staffers-tweeted-an-image-of-a-president-gore-front-page-from-2000-to-prove-the-media-gets-election-calls-wrong-but-the-image-was-fake.md",
-      "title": "Trump staffers tweeted an image of a 'President Gore' front page from 2000 to prove the media gets election calls wrong. But the image was fake.",
-      "excerpt": "Trump spokesman Tim Murtaugh said the image showed \"the media doesn't select the president.\" The paper said the image was \"doctored.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11",
-      "originalUrl": "https://www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa9278e1df1d5001821980e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11?amp",
-      "publishedDateTime": "2020-11-09T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-trump-cheers-pfizer-incs-experimental-covid-19-vaccine-results.md",
-      "title": "Trump cheers Pfizer Inc's experimental COVID-19 vaccine results",
-      "excerpt": "President Donald Trump on Monday welcomed Pfizer Ic's experimental COVID-19 vaccine results, and the stock market boost it brought.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-vaccine-trump-idINKBN27P1KP",
-      "originalUrl": "https://www.reuters.com/article/health-coronavirus-vaccine-trump-idINKBN27P1KP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540528434&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80VA",
-          "width": 742,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN27P1KP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1KP",
-      "publishedDateTime": "2020-11-09T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Georgia election official pleads with Trump and Republicans to 'stop inciting acts of violence'"
+    excerpt: "A Georgia election official on Tuesday condemned threats of physical violence and intimidation against election workers and officials, pleading with President Donald Trump to denounce the threats and urging both of the state's Republican senators to intervene.\n    \n"
+    publishedDateTime: 2020-12-02T01:24:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DnM9T6vgK1Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/georgia-election-official-trump-republicans-violence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/georgia-election-official-trump-republicans-violence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201171009-sterling-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia's lieutenant governor joins state GOP officials in rejecting Trump's 'misinformation'"
     excerpt: "Georgia's Republican lieutenant governor on Tuesday joined a growing list of GOP officials in the state who are publicly rejecting President Donald Trump's baseless claims of voter fraud, saying the misinformation spread by the President and his allies is \"alarming\" and could jeopardize the party in"
     publishedDateTime: 2020-12-01T16:21:33Z
@@ -62,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201081905-geoff-duncan-vpx-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump to restart foreign deals, breaking a post-presidency norm"
+    excerpt: "A return to overseas dealmaking raises new ethical issues no ex-president has ever confronted. Trump’s sprawling global company is private and increasingly reliant on foreign lenders."
+    publishedDateTime: 2020-12-02T01:12:00Z
+    webUrl: "https://www.politico.com/news/2020/12/01/trump-foreign-real-estate-441928"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/01/trump-foreign-real-estate-441928"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/01/trump-foreign-real-estate-441928"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/44/4d/fca6e10149919d5e5a992466a463/ap20031797048613-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "yvssBeC48TsmuN+2j1zTmCT5lO+wgROOUBiUUZZTm9y5gwUaQOnrXHD/OYdwOMBRf7W22E4ENZ93lAXC84N2A27PAXIFeyRB0qyF4zpvw9mIrqmTRPEo7hkq+CBgY4uX4tk0dXcXCIyDRDVr2CgVqZzYUcAUaEFBuSMPWcUMwDnBReYHaNxTZtd2oupIhNlIeO7gAv1i3qYN5R3nDTxfefr51oROh9VqIf1o4w+he1PKTXK5KD1tOnu76KATRY+5EJ/0ocs4/EqKDp8dBVwdb1v8JMvbilNPEqLSwD/q5HQVWFItkqq5dsabfQWUZe+Sbtg8cX3lUbydwROPLW+/fgH2a1HzeQcxMqcuXD15FXc=;RnNyzwgeeM7TxDJ0lVl3NQ=="
