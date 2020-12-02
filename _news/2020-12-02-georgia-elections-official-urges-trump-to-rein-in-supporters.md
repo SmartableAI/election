@@ -2,21 +2,21 @@
 category: news
 title: "Georgia elections official urges Trump to rein in supporters"
 excerpt: "A top Georgia elections official has lashed out angrily at the rhetoric surrounding the election and the threats of violence that have resulted"
-publishedDateTime: 2020-12-02T02:18:00Z
-originalUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html"
-webUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+publishedDateTime: 2020-12-02T05:05:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
+webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
 type: article
 quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_6e0a5a420e1b4c56b67c628a7422ff94_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -97,8 +97,8 @@ related:
         isCached: true
   - title: "Trump allies Barr, Giuliani at odds on discredited election fraud claims"
     excerpt: "Cracks emerged between two of President Donald Trump's key legal allies on Tuesday as Attorney General William Barr said his department had found no evidence of the widespread voter fraud Trump alleges,"
-    publishedDateTime: 2020-12-01T22:52:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN28B685"
+    publishedDateTime: 2020-12-02T06:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-barr/trump-allies-barr-giuliani-at-odds-on-discredited-election-fraud-claims-idUSKBN28B685"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B685"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B685"
     type: article
@@ -676,6 +676,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "uNIFLX1DpwJif3rlq00le5Vsw8DPOkD+o6gQG/ILAk+KycEb5VJURhsaeCOPPVYK/q3XmNagfMDJsFvX4ehsxlho6Ntn21uB+EOF1UTe4HGRnXsvgC77j7zhr2BHwm/IBk82DRoGVDMaaDckXuC91H+UTOZs6lz7xvfi0mUGh7lluRF6gVmhBiTRG0vYmAOsV9e9Pe2Dqv3weW0L9dzlLTRJ89YWvk5RgWX4y1ZwBBVNRry3+TwWfAT0IEwKqt3SHcZFjldMTHx1gSodW6FAW+LCwiCgfomDOAuLcjZSlhUs/eVEn4Us/9OnJ1zeTKGdiqEZYWpLcXKEf2e9u0FkG5whTOnDJmB1d1tgSvJASXY=;aOkbGHqOM4xEy+2fjjlGVA=="
+secured: "7b9B4lgxsrH1lSmm6pX4rsKcrCuMVUiTpWA55nCuaaRPxxaxgYuHlygbDTCwlaOeQZzH4ntV7n8VqTdh7xwA4rSe+YiPu2Zj18UOoSfVY4Uqew57EyXnB/Ftl2UJYDwVT50zm1nAIPys6NpRwIH6u2ks5/BozGPH/WoPJNFRkqeOf+HaW0+CkoCFWCNWYT5c+ANCEiZjyhVD6ELoFmIKibXdNAY14kEzwVhpQm7cIC9LkuMp4mZtejxT6o3b9ApUCARdUn19DIw+mLhc1FFz8lVgCb8a60k+7zXAgsXMYqXdD7MhuVXw8WiGbZRsLj4kkd0m5TbRcON+JyJgtOX++9qys/2NbVr97pANO5BR6V0=;WlxIj8cxRrQQq6TPvLEeiA=="
 ---
 

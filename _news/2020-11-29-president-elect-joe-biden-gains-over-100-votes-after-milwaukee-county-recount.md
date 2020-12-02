@@ -475,6 +475,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "UPDATE 1-Biden urges Congress to pass coronavirus package, promises more action"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
+    publishedDateTime: 2020-12-02T00:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idUSL1N2IH242"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
+        width: 1022
+        height: 545
+        isCached: true
   - title: "Biden tries to spread calm, as some Democrats worry about his willingness to fight"
     excerpt: "The president-elect has made good on his campaign vow to lower the temperature as he deals with Republicans and Democrats."
     publishedDateTime: 2020-11-26T11:00:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Trump allies Barr, Giuliani at odds on discredited election fraud claims"
 excerpt: "Cracks emerged between two of President Donald Trump's key legal allies on Tuesday as Attorney General William Barr said his department had found no evidence of the widespread voter fraud Trump alleges,"
-publishedDateTime: 2020-12-01T22:52:00Z
-originalUrl: "https://www.reuters.com/article/idUSKBN28B685"
-webUrl: "https://www.reuters.com/article/idUSKBN28B685"
+publishedDateTime: 2020-12-02T06:08:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-barr/trump-allies-barr-giuliani-at-odds-on-discredited-election-fraud-claims-idUSKBN28B685"
+webUrl: "https://www.reuters.com/article/us-usa-election-barr/trump-allies-barr-giuliani-at-odds-on-discredited-election-fraud-claims-idUSKBN28B685"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B685"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B685"
 type: article
@@ -81,19 +81,19 @@ related:
         isCached: true
   - title: "Georgia elections official urges Trump to rein in supporters"
     excerpt: "A top Georgia elections official has lashed out angrily at the rhetoric surrounding the election and the threats of violence that have resulted"
-    publishedDateTime: 2020-12-02T02:18:00Z
-    webUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/a8773180-3444-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    publishedDateTime: 2020-12-02T05:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6e0a5a420e1b4c56b67c628a7422ff94_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "U.S. judiciary, shaped by Trump, thwarts his election challenges"
     excerpt: "U.S. President Donald Trump's reshaping of the federal judiciary has done little to help him win lawsuits challenging the election outcome, with Trump appointees rebuffing him and the U.S. Supreme Court showing little interest in getting involved."
@@ -676,6 +676,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "UvwD6b7AwAjPDadtVQDVEzqDmutItUJbvcW6JBpPxdjLFOFaxXerKDegEUQ2myzkW5ybbeTQHUM6o/WE9A7krOQGvpVhFBJElpjdfTxN3jwnrcAtAWAMKkY/pjRjKQWdkqrSqOYtBKppDrU+iKENRZM2/hESHs1dqH2CGxN7MX7atb2+mpbmkJimBbd28J9J94fLYnFF1TMlUOUoSU/nBIBLUYSPM94AyvMu1YgzKwkp11qZoQeP/wj+YdHETsmdLROnsoaOTPP+bdpktXhM0je+vIRwZ/ctaC6OetYXuIaITPNOp+TxZ6weCL/jIklEspN/WTSJcy1Ur46CEwtPyp7I0nkxaaaRTikghihcg7w=;qJIgg8Ll6gVkgzqntmbSGA=="
+secured: "0pNeq3betvA+KkQv+/hhyRKIXoRHXc5zchLWmQ/cWr5ir0nW3p8vUOLkIjOuqcl9wZwtTeh5JuaJ+pHvV/UN29pG6HB2nZrehApME1uyvqNl6yYqraCfkYb7TEJ6GNAWnYleit+kjpXsx+Tlo7MtY099JlxJuSzjeUMl30g4kAUsfL4g8oHqUxVoZ4IbNJbHwL+sfFFVXpOxrG1c4d1vqgyZQ8sR0BpeuAx+UvuMIj+J/SOs7vFWD5E8dglPT2ew2l17Gqp2eDczD5NHgxTyomUtczTPfbmU5EopI/HkkVYEdiwGZw64VKWXyfBNbwWUPXmEPYoSQdCyObAgrIu4ID0r2vhs6RHx0kCNxL+3zJE=;XzanYsH8Ya0IslU+A3JqtA=="
 ---
 

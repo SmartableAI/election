@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Wisconsin counties finish recounts, Biden's lead reconfirmed"
-excerpt: "The recount of presidential ballots in Wisconsin’s two largest counties finished on Sunday, confirming that Democratic President-elect Joe Biden defeated President Donald Trump in the key swing state by more than 20,"
-publishedDateTime: 2020-11-29T17:38:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-wisconsin/wisconsin-counties-finish-recounts-bidens-lead-reconfirmed-idUSKBN2890R2"
-webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin/wisconsin-counties-finish-recounts-bidens-lead-reconfirmed-idUSKBN2890R2"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890R2"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890R2"
+title: "UPDATE 1-Biden urges Congress to pass coronavirus package, promises more action"
+excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
+publishedDateTime: 2020-12-02T00:27:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-idUSL1N2IH242"
+webUrl: "https://www.reuters.com/article/usa-biden-idUSL1N2IH242"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
 type: article
-quality: 125
+quality: 121
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542819350&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0J3"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
     width: 1022
     height: 545
     isCached: true
@@ -238,6 +238,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Wisconsin counties finish recounts, Biden's lead reconfirmed"
+    excerpt: "The recount of presidential ballots in Wisconsin’s two largest counties finished on Sunday, confirming that Democratic President-elect Joe Biden defeated President Donald Trump in the key swing state by more than 20,"
+    publishedDateTime: 2020-11-29T17:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin/wisconsin-counties-finish-recounts-bidens-lead-reconfirmed-idUSKBN2890R2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890R2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890R2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542819350&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0J3"
+        width: 1022
+        height: 545
         isCached: true
   - title: "Biden budget pick Neera Tanden a lightning rod in Washington"
     excerpt: "Neera Tanden, President-elect Joe Biden's outspoken nominee to head the Office of Management and Budget, faces a challenge winning Senate confirmation after a Washington career in which she has crossed powerful figures on both the right and left."
@@ -463,22 +479,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "UPDATE 1-Biden urges Congress to pass coronavirus package, promises more action"
-    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
-    publishedDateTime: 2020-12-02T00:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idUSL1N2IH242"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
-        width: 1022
-        height: 545
-        isCached: true
   - title: "Biden tries to spread calm, as some Democrats worry about his willingness to fight"
     excerpt: "The president-elect has made good on his campaign vow to lower the temperature as he deals with Republicans and Democrats."
     publishedDateTime: 2020-11-26T11:00:00Z
@@ -634,6 +634,6 @@ related:
         height: 660
         isCached: true
 
-secured: "5593bNLy4oKi2qYiJZ0G+VhpbrWtOosdhZD/lKhx3DLEOPD/lEn906rFk/PdWcpLC/zE9MoYxpUfyZWV/0rw9B+xG9NK7THrUReRS2epnIzS9oA+XmHQFWf1l+BnsbnLhdYu9RKwit+Ua518aXqiT/b3Woip16fus3ozBxj09fStZpe8FwOMMNu4V91knMwYpi09nAoHNkySexe/vO8i31THVisN5mSLylanrk+BdD8MskgXLWkNG7MrNm+75E2NU5T08ZMtpdrOV5i0C/ndAW6F1VcnCZ9lUlweIfJ2FRUPIsiRFPBvVp8g68sQKjF/Ovavv8tDbaBY0NF56lEwkmpKn3QrdRILSOUVxKGQ51OHzXYybBxaEqdhD5o8QApfPeOj3wECkYQs23L1no+FhtWl4p1wPRMcUHDZc3YXXEUhCcbCZ8qP/L/4XPTrf1CAjtwlFtFd5LSZTbFc7JsuWUX9xL6upXbFf6Xt6P8dHoeMC6hzc4PRRKft3aqp1KCV+LJthAxySAeQabPQSBJAbA==;9IPFpSVBF0kBrYJ966+Aaw=="
+secured: "iLfso2yaKAUlH7EZ40FNubp93RlhIcAYytnVnoC9Uh4WWx4bnUJynmnY9cgoJ38Y6qQgoq19Yg8PoxAas4OL6RnDxFA2sVhHgcl1ieebSOFWaD4vbNIm4qPwzUXiNqz5pDigmo+1Z0RsCx6BE0fBNb2GskZfvLpShjg6y2etvdIT1MWZZN55E9cgf84/n3NZuXYFastjj00KanB/hk5dix/JNQ5xeOvaXWzkv8Q4iw4xNGswJwA764lJZScBPf7ThIeTG996AW85CWqfMcydFxcgpooPCRMRaP3iWCXlLcExp/MKcrq4lWR02H2d07NRNjc/XnxdFuWS7SZOLMWBqFzcAQXbOuOLDBOiMmqAFnI=;HYcmGzcvfw3Zy33NbZl7vg=="
 ---
 
