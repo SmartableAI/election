@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Wisconsin governor: Trump election lawsuit an 'assault on democracy'"
+    excerpt: "Wisconsin Gov. Tony Evers (D) criticized President Trump’s latest lawsuit seeking to overturn the state's election results as an “assault on democracy.”"
+    publishedDateTime: 2020-12-02T18:59:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/everstony_102618getty_wisconsin.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Arizona, Wisconsin to certify election results Monday, Trump may challenge outcome"
     excerpt: "President Donald Trump has challenged results in several states, but the president has faced setbacks in many of those legal battles."
     publishedDateTime: 2020-11-30T15:42:00Z
@@ -63,35 +79,19 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump threatens more lawsuits, but court challenges are hitting dead ends"
-    excerpt: "Pennsylvania officials asked a federal appeals court Tuesday to put an end to the Trump campaign's legal challenge of an election that has now been certified."
-    publishedDateTime: 2020-11-25T06:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-threatens-lawsuits-court-challenges-hitting-dead-ends/story?id=74388659"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-threatens-lawsuits-court-challenges-hitting-dead-ends/story?id=74388659"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-threatens-lawsuits-court-challenges-hitting-dead-ends/story?id=74388659"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/pennsylvania-vote-ap-rc-201124_1606235716483_hpMain_2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Not a hearing: Arizona legislators, Trump lawyers plan public meeting on election at Phoenix hotel Monday"
-    excerpt: "The meeting at the Hyatt Regency in downtown Phoenix is not a hearing of the Legislature as Finchem and Trump campaign's legal team have cast it."
-    publishedDateTime: 2020-11-28T16:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/28/arizona-legislators-trump-lawyers-plan-phoenix-meeting-election/6449311002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6449311002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6449311002"
+  - title: "'Damaging to our democracy': Trump election lawsuits targeted areas with large Black, Latino populations"
+    excerpt: "Though Trump has lost his legal battles, his targeting of counties with large Black and Latino voting numbers is damaging to democracy, experts say."
+    publishedDateTime: 2020-12-02T01:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/01/trump-voter-fraud-claims-target-counties-more-black-latino-votes/6391908002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6391908002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6391908002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 123
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/ad9469e2-a3e6-419c-b96f-c6b66aa56f6a-AP_Election_2020_Pennsylvania.jpg?auto=webp&crop=2960,1665,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -111,17 +111,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Appeals Court Rejects Trump Challenge of Pennsylvania Race"
-    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals."
-    publishedDateTime: 2020-11-28T02:18:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "Lc3Hq+zm82QmFulB2+jv0EcxPF7lSDkg/YWmC+Sx58gT2Ru5mb3NFgL7bFDzoX+vThYoNAqWmjYECyEw3jFuDrrMf7Mm2Zxb+XLJg9Uy3LwEMI6EbhfYDHnJghdNL2gmsQicfjx91CW6e/vFvPQGJgZLB2vId8ULywC4YTlQ7kfDUmkaO82TW34ltc63tLXGGz54CpZSuF8HljlUeOgAWMBg4Yg4nkdHmqHhvP7RMKN9yRYRrKYFvUK8wryaoZQOuPyckWX8a+4nEwxiKzKmMCkiXzW7JAyOZuIriFUu1MilXaVZroOuhr5/OQmcVlW+TCIgEUWK545xNJKKoB1NCbiTeBq4LYArahsJ1/NNGdOM7ByS15i80uX+NJ8j8kxqEwc+4iUeMAxVew4sJUOeojMWJ1TqkLGREaVedPTN0ZX1FKaQZyrH8HQDx8tgWR+PgADRgOE+p7QQXmXWMP1J8Re2sRbia0rsU3rGaAgSCGiuNQQOr2xeiIWiJE1Hb9KzF4IK+MdR/RV4DEgG6xWJmw==;7c0hNRrc8IamOm6JhgqewA=="
 ---

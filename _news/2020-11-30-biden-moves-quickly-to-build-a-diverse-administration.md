@@ -861,6 +861,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden faces climate purity test"
+    excerpt: "Climate activists who helped rally support for Joe Biden are now testing their political capital by putting the president-elect's nominees through a kind of purity test to make sure they are devoted to eliminating fossil fuels."
+    publishedDateTime: 2020-12-02T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-energy/2020/12/02/biden-faces-climate-purity-test-791981"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "HNHhEC7FLe20s84gn5j3LJPjHWHQxQYtv+/H3vB/AnrtAMLMWGsiTTr2APA1iIlYFlGl1grF7ElvnmwR3OzzaN81MctJPzkitRtzAWl1l9kz63u0WvLvsK339belrkfpeC9kyTcu0iMJBEdYInNXgOSH6xWAr2lYSf0vYnKlJOgVduHJ9z04kXc9cQE6qnNDbozhVsl0hXYO2N5ZyeBFtBH/k0kHPwUEp73iEQgJNU7+NNMH5mtaqpniMnlq3jF037CZRozCJhENxvOcG0PunvVOU0MzXue79jinbIOYSyQhVXnw4HPf4rK4nkdMj5itxw7p4Rk/FXMOqqEAAkp/t6J31AqGwM6fFlggpLYMsus=;bch2I82v5Srr7hhQApgtOg=="
 ---

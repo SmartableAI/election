@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6462445002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6462445002"
 type: article
 quality: 134
-heat: 254
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Wisconsin governor: Trump election lawsuit an 'assault on democracy'"
+    excerpt: "Wisconsin Gov. Tony Evers (D) criticized President Trump’s latest lawsuit seeking to overturn the state's election results as an “assault on democracy.”"
+    publishedDateTime: 2020-12-02T18:59:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/everstony_102618getty_wisconsin.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Wisconsin governor certifies Biden as winner of state"
     excerpt: "Wisconsin Governor Tony Evers on Monday certified Democrat Joe Biden as the winner of the state's presidential election."
     publishedDateTime: 2020-12-01T06:03:00Z
@@ -63,35 +79,19 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump threatens more lawsuits, but court challenges are hitting dead ends"
-    excerpt: "Pennsylvania officials asked a federal appeals court Tuesday to put an end to the Trump campaign's legal challenge of an election that has now been certified."
-    publishedDateTime: 2020-11-25T06:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-threatens-lawsuits-court-challenges-hitting-dead-ends/story?id=74388659"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-threatens-lawsuits-court-challenges-hitting-dead-ends/story?id=74388659"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-threatens-lawsuits-court-challenges-hitting-dead-ends/story?id=74388659"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/pennsylvania-vote-ap-rc-201124_1606235716483_hpMain_2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Not a hearing: Arizona legislators, Trump lawyers plan public meeting on election at Phoenix hotel Monday"
-    excerpt: "The meeting at the Hyatt Regency in downtown Phoenix is not a hearing of the Legislature as Finchem and Trump campaign's legal team have cast it."
-    publishedDateTime: 2020-11-28T16:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/28/arizona-legislators-trump-lawyers-plan-phoenix-meeting-election/6449311002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6449311002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6449311002"
+  - title: "'Damaging to our democracy': Trump election lawsuits targeted areas with large Black, Latino populations"
+    excerpt: "Though Trump has lost his legal battles, his targeting of counties with large Black and Latino voting numbers is damaging to democracy, experts say."
+    publishedDateTime: 2020-12-02T01:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/01/trump-voter-fraud-claims-target-counties-more-black-latino-votes/6391908002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6391908002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6391908002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 123
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/ad9469e2-a3e6-419c-b96f-c6b66aa56f6a-AP_Election_2020_Pennsylvania.jpg?auto=webp&crop=2960,1665,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -111,17 +111,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Appeals Court Rejects Trump Challenge of Pennsylvania Race"
-    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals."
-    publishedDateTime: 2020-11-28T02:18:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "0bPwSqF6KRFvem6Gp1kUgvtWzKQhrSueEI9EnFcxW+i8f5+8nHuYH3PyrSfcn2cstf7saGKyzKtdPWYdkSVc6fAJiHr6pclLQmsKK+4GxU2fM9WeV61r1ssTbLto0i1capZzdp7XMS5Sy4+sdhNAz6ftjpqBV2Q1YcvJnhssgb2GVpopJDuwTxBy7ptyB/Wghky1KCmtBntth+l6Xtte7uyB0FCnYrRQerL7BChV/zLCzOzk4KS+izx0W7oxpDX5KiGBvGYWCCsqC8scTpIAgu3GcHTGSk95BYqFjqpoKfet1RfgNaFleHioLjSxMysnoq5u7C+x+crc+fkHgQQIX5QO1XELfLj+uOXs1AGdSmtrX12qsNmQAihvKgJn7dL9+QsWSUFKX2OtiKk/PIUS2C41ohAiy9DxV46iLk3fDepjirM2QfafLthnYyiRYgrWD6gSYDc/h4hBVPYIrgsmXpMtDNe9BZqRKUdoT+ixqHjxxQ2S16RZU+FtdDMQQl7W04tWGsqEfh4Vlui1khU7ig==;ASxwyFxVqONK0wBosfharg=="
 ---

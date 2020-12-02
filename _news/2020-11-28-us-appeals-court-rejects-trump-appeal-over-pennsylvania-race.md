@@ -216,6 +216,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Appeals Court Rejects Trump Challenge of Pennsylvania Race"
+    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals."
+    publishedDateTime: 2020-11-28T02:18:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "TeDqw3Scycl6G9VG7vzt+byeAeca1B8nYQM5i5qoQrslFJokadXcQrTLmWDOTTGdnrXQmunc1oLZGZ3o4lblW3LivPjBCVdmN0NxADBWclxG5ik9yMQ8tJFQyc2uh/sena5oVkdMISIQbXedSza0Ns+jKq41F4RbdGx87esmrP3ROZm+txxgzo30ke9AZqhbm1nCPcQ/3yn42YNNo5C0+P/uCRHmY3i7dJHGg8emvKkreCQhmvm6wWzLd22Our18zbZFun9TxDHA+w2R6w+CNfi9/dkUuFfFY4gNxzSJNWlyCPvmbMQB3mrCBEM6JmQjYjq4il/TIEFFGl3yNMEMpHoYQdDvsiezl0eW99XSsH4=;ie522Hxs3kAEoz0jftH/JQ=="
 ---

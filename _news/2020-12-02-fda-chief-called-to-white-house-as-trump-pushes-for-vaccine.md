@@ -569,6 +569,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Disputing Trump, Barr says no widespread election fraud"
+    excerpt: "Disputing President Donald Trump’s persistent, baseless claims, Attorney General William Barr declared the U.S. Justice Department has uncovered no evidence of widespread voter fraud that could change the outcome of the 2020 election."
+    publishedDateTime: 2020-12-02T18:36:00Z
+    webUrl: "https://www.businessinsider.com/disputing-trump-barr-says-no-widespread-election-fraud-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/disputing-trump-barr-says-no-widespread-election-fraud-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/disputing-trump-barr-says-no-widespread-election-fraud-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Justices skeptical of Trump bid to exclude all undocumented immigrants from census"
     excerpt: "President Donald Trump's sweeping order to exclude all undocumented immigrants from the 2020 Census faced skepticism Monday from a majority on the U.S. Supreme Court."
     publishedDateTime: 2020-11-30T19:26:00Z
@@ -807,6 +818,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/12/02/gettyimages-1287973486_wide-4b50fb0dcd84e4d45aab8a54361a3590fc74dcd4.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Fox News Is Holding More Cards Than Trump Realizes"
+    excerpt: "Even if there’s a MAGA exodus from Fox, the cable network’s profits are protected by lucrative cable contracts."
+    publishedDateTime: 2020-12-02T18:27:00Z
+    webUrl: "https://www.washingtonpost.com/business/fox-news-is-holding-more-cards-than-trump-realizes/2020/12/02/67323ba2-349e-11eb-9699-00d311f13d2d_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MWONXCRUTYI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Mnuchin: Trump backs GOP virus relief plan"
     excerpt: "Treasury Secretary Steven Mnuchin says President Donald Trump would sign a proposal for COVID-19 relief funding backed by Senate Majority Leader Mitch McConnell, a scaled-back GOP bill that has already failed twice this fall."

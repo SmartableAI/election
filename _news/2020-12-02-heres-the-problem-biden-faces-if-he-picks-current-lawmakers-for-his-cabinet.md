@@ -415,6 +415,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Klain brings decades of DC experience to Biden White House"
+    excerpt: "Ron Klain has checked all the boxes of a classic Washington striver: Georgetown, Harvard Law, Supreme Court and Capitol Hill staffer, White House adviser and, along the way, of course, lobbyist and la"
+    publishedDateTime: 2020-12-02T16:55:05Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/klain-lead-biden-white-house-return-professionals-74496722"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/klain-lead-biden-white-house-return-professionals-74496722"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/klain-lead-biden-white-house-return-professionals-74496722"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_887f8ac3db0d4656b4e9d3986d10cc9a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden picks Cuban-American lawyer Mayorkas as U.S. homeland security chief"
     excerpt: "President-elect Joe Biden will nominate Alejandro Mayorkas to become U.S. secretary of homeland security, Biden's transition team said on Monday, entrusting the Cuban immigrant to help reverse outgoing President Donald Trump's hard-line immigration policies."
     publishedDateTime: 2020-11-24T06:55:00Z
@@ -682,6 +698,6 @@ related:
         height: 660
         isCached: true
 
-secured: "um0GqaSMpyYmCVzbvlQRWpHAbt4axY0SxFLgrv5PoLG3lvlmKdjC7DAIBjJit9HBH1jd6SnFk6plyXiOMR718A/0f71JbWMMZTNWltFm19LCdYqdMtldECKH4cMx7WASnVhULv5wa+TFe05Rsf6UxVOF2UsN2D7W5nFLiI8vpKt7B9fJGQlbkc2sm+qEazAnOCUmxSTtwSys93HNlDUPKDtsMZymPfaqZVOX8LrTvZ4P4523lLZHAKNJKevrSn0BUaVeGmQZncHMOCRRwktnUWOH2lQOZbrap9jjKHjFuTT95YX+u9d+mjv+QIHuqn8vZQmCtV2w4qdPHpLvUALABL1dMS9ENnL3ifkSMcowyXs=;U8Bh3mXPnRaHyZCJBqfJNg=="
+secured: "46G+TWKFLmZMPkD6i5Kk9CwVJy6Q0BLtESh6NX5PzyzKetP8pUMneGR0/v2emG2JOeUXp+Iqw/cN0U1mAUdwf5HpdmW7C/0A7ljuUImI7qT1iFKryaonknOkUzbBVOTnMl3WbcE/bTO+Z/A2aXP7C8kJEx2RoMi+IUNCNrzoqPXYqRtUX3sp4KWMtLCJ3I99TQl4nMQFcRHF672GMojLt/WlBlxyRsaPVHNV9ooFhVvoLfDnSZc7htHPNJ3L5CbQ2vWJEmTH7rEFwLcttqMOp6atEAD3jcDMSjRYOf/I0/DES7lKgjsN1XCUQP0M8tJCxHs26T8iozXZipFiTnk8MlF6DSMUAVo9wKRZMn/Vp4xRTCwCyTEAthsJdSVY0oJLUFB9GuPhBZog2qGm3/nEkqVPNU9ME3QQ4i0nFO6A+TIqbZLlZOtwOMi4Cb2nEcMkg/w5M4aAGIcwj0La0cG/z4a/XoqvpQGvlrjrUC5qB23Cw8K66UnlVZYg4tK6CoiN93sO8AcJhDusEQCqlEXVmQ==;mavq9kQ948MJ2GB3VS2t8w=="
 ---
 

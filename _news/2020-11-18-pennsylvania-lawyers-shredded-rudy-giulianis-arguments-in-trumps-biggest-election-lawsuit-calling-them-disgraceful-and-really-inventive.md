@@ -216,6 +216,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Appeals Court Rejects Trump Challenge of Pennsylvania Race"
+    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals."
+    publishedDateTime: 2020-11-28T02:18:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "lypg/BkUFPRvv6yCFm1KLlojGbLEBNPXVAB5WyCynkllQltuccTuYZMW5M5gbmcpjZQ9z+1fjoV4vBwttiORNhy2+O0nar4KMeN2P4juCH3RASpy5S7y4d7/Xv3b3vt36Xolfui6PFwGsq0T33xrjIM9gfx3IX341riivEzzgzGG3fRNl0i9UA9oWN9+I813+YjrBhcPG0ixwdfsNNwKb2nC9v3SiAoZp0ysSoukQviEnlCTzXGeo8DBlTrlXFLXtrEXi4sEwfsfK7JTocOD8u8uzsodOhKbH1RTpNfAc4A+C8q7vkoi5cLlt6xughFHTRryS3FSoT/1Lm3fOKIM+8MtvVNNf/8SUKZi0f796Fs=;sWJ2G2v/NS/fxtFV+0Wsxw=="
 ---
