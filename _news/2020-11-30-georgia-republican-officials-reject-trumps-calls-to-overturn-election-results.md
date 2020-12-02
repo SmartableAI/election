@@ -285,6 +285,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Top Trump allies look ahead to a new administration."
+    excerpt: "Entering December, with fewer than 50 days left until Inauguration Day, several of President Trump’s closest allies on Tuesday began signaling a reluctance to continue participating in the president’s broadsides on the election."
+    publishedDateTime: 2020-12-02T18:13:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/us/top-trump-allies-look-ahead-to-a-new-administration.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/top-trump-allies-look-ahead-to-a-new-administration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/top-trump-allies-look-ahead-to-a-new-administration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02transition-brief-setup2/02transition-brief-setup2-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
     publishedDateTime: 2020-12-01T16:55:00Z

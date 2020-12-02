@@ -302,6 +302,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Top Trump allies look ahead to a new administration."
+    excerpt: "Entering December, with fewer than 50 days left until Inauguration Day, several of President Trump’s closest allies on Tuesday began signaling a reluctance to continue participating in the president’s broadsides on the election."
+    publishedDateTime: 2020-12-02T18:13:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/us/top-trump-allies-look-ahead-to-a-new-administration.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/top-trump-allies-look-ahead-to-a-new-administration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/top-trump-allies-look-ahead-to-a-new-administration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02transition-brief-setup2/02transition-brief-setup2-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Experts worry Trump can't be trusted with nation's secrets after leaving office"
     excerpt: "Some ex-intelligence officials are saying that when President Donald Trump leaves office, he should not receive access to classified information about the country's national security secrets."
     publishedDateTime: 2020-11-27T14:04:00Z

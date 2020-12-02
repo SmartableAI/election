@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump using military funding as leverage in fight with tech giants"
+    excerpt: "President Donald Trump's threat Tuesday to veto an annual defense bill unless Congress removes legal protections for social media companies drew swift, sharp bipartisan pushback from lawmakers who charged Trump was using leverage over the troops to settle personal scores.\n    \n"
+    publishedDateTime: 2020-12-02T18:28:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ot5LnSFVLHY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/trump-ndaa-threat-section-230/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/trump-ndaa-threat-section-230/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201143231-01-trump-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump talks of 'another four years' during White House Christmas reception  "
     excerpt: "President Donald Trump talked during a Christmas reception at the White House on Tuesday about spending four more years in office -- whether that starts in January 2021 or January 2025, according to a source familiar with his comments.\n    \n"
     publishedDateTime: 2020-12-02T04:22:12Z

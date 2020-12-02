@@ -93,22 +93,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "US Covid response in chaos as controversial Trump pandemic adviser Atlas resigns – live updates"
-    excerpt: "Country sees 28th consecutive day with over 100,000 new coronavirus cases recorded – follow all the latest news live"
-    publishedDateTime: 2020-12-01T14:45:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc655ad8f08ca673e8551c2"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 113
-    images:
-      - url: "https://i.guim.co.uk/img/media/6fb3812a919f54bcc052e8e0a9d077e79c2117cf/0_353_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2bdffa1eb06c9220edf46de05f129f37"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Trump has been distorting the military's role in work on a coronavirus vaccine from the very start"
     excerpt: "The military has contributed mightily to the project, but it won't produce, store, distribute, or administer the vaccines."
     publishedDateTime: 2020-11-30T23:00:00Z

@@ -191,6 +191,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump hints at 2024 run, Biden to meet with U.S. workers hit by pandemic"
+    excerpt: "Donald Trump hinted he may be ready to move on to planning another run for the U.S. presidency in 2024 as President-elect Joe Biden prepared on Wednesday to confront the raging pandemic that will likely be his first major challenge in office."
+    publishedDateTime: 2020-12-02T18:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden/trump-hints-at-2024-run-biden-to-meet-with-u-s-workers-hit-by-pandemic-idUSKBN28C1GM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543212941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB10R3"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump-Biden transition live updates: New lawsuit seeks to nix Georgia results"
     excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
     publishedDateTime: 2020-11-28T06:28:00Z
@@ -928,6 +944,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Biden Cabinet: President-elect begins to build a team"
+    excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the United States' diversity."
+    publishedDateTime: 2020-12-02T17:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet/the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG216"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IG216"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IG216"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "President-Elect Joe Biden Hits 80 Million Votes In Year Of Record Turnout"
     excerpt: "The 2020 presidential election saw the most votes in U.S. history at 156 million and counting, and the highest participation rate since 1900."
     publishedDateTime: 2020-11-25T13:06:00Z

@@ -2,6 +2,276 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-03-can-trump-pre-emptively-pardon-allies-or-himself-clemency-power-explained.md",
+      "title": "Can Trump Pre-emptively Pardon Allies or Himself? Clemency Power, Explained",
+      "excerpt": "The president has discussed potential pardons that could test the boundaries of his constitutional power to nullify criminal liability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/02/us/politics/trump-pardons.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/02/us/politics/trump-pardons.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/02/us/politics/02dc-trumppardon/02dc-trumppardon-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/02/us/politics/trump-pardons.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/trump-pardons.amp.html",
+      "publishedDateTime": "2020-12-02T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-this-is-reality-renown-doctor-in-trump-hospital-garage-retweet-refutes-fake-claims.md",
+      "title": "‘This is reality’: Renown doctor in Trump hospital garage retweet refutes fake claims",
+      "excerpt": "Dr. Jacob Keeperman never expected his tweet to blow up on social media after it got hijacked by President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/12/02/covid-19-donald-trump-twitter-nevada-coronavirus-renown-hospital-reno/3789517001/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/12/02/covid-19-donald-trump-twitter-nevada-coronavirus-renown-hospital-reno/3789517001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/02/PREN/111222a7-b4c0-4569-b08a-12295033a000-Dr_Jacob_Keeperman_copy.jpg?auto=webp&crop=1943,1093,x0,y309&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3789517001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3789517001",
+      "publishedDateTime": "2020-12-02T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-trumps-former-campaign-manager-brad-parscale-said-he-planned-to-capitalize-on-baseless-fears-about-mass-voter-fraud.md",
+      "title": "Trump's former campaign manager Brad Parscale said he planned to capitalize on baseless fears about mass voter fraud",
+      "excerpt": "Trump has relentlessly spread false claims and conspiracy theories about mass voter fraud committed by Democrats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-aide-brad-parscale-says-campaign-failed-to-monitor-voter-fraud-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-aide-brad-parscale-says-campaign-failed-to-monitor-voter-fraud-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc7ab70037cbd00186134a8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-aide-brad-parscale-says-campaign-failed-to-monitor-voter-fraud-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aide-brad-parscale-says-campaign-failed-to-monitor-voter-fraud-2020-12?amp",
+      "publishedDateTime": "2020-12-02T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-in-new-interview-mueller-talks-about-vietnam-but-not-trump-and-russia.md",
+      "title": "In new interview, Mueller talks about Vietnam, but not Trump and Russia",
+      "excerpt": "Mueller spoke to Chuck Rosenberg for the NBC News podcast The Oath. In the interview, Mueller seems more in command than when he spoke to Congress in 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/new-interview-mueller-talks-about-vietnam-not-trump-russia-n1249714",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/new-interview-mueller-talks-about-vietnam-not-trump-russia-n1249714",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2018_18/2416666/180430-robert-mueller-2013-ac-1008p_a40d0ee92c3445b1c48a4a9f30613111.jpg",
+          "width": 2500,
+          "height": 1698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249714",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249714",
+      "publishedDateTime": "2020-12-02T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-trump-threatens-to-veto-defense-policy-bill-unless-congress-repeals-section-230-a-safeguard-for-social-media-companies.md",
+      "title": "Trump threatens to veto defense policy bill unless Congress repeals Section 230, a safeguard for social media companies",
+      "excerpt": "President Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-defense-bill-section-230-veto-20201202-w27r6au4ybbv7pl6iaw27qqlcm-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-defense-bill-section-230-veto-20201202-w27r6au4ybbv7pl6iaw27qqlcm-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/jpb7yUyEnSZw9GiaZNZjTGH2ujg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QEGKLYVSHAPI2YREJM6WIDPREA.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-a-trump-fund-raiser-for-maya-wiley-yes-but-its-mary-trump.md",
       "title": "A Trump Fund-Raiser for Maya Wiley? Yes, but It’s Mary Trump",
       "excerpt": "Ms. Trump, the president’s niece, has written a tell-all book and opposed his re-election. Now she’s holding an online event for Ms. Wiley, who’s running for mayor of New York.",
@@ -56,6 +326,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-trump-backs-mcconnells-republican-covid-19-relief-package-mnuchin.md",
+      "title": "Trump backs McConnell's Republican COVID-19 relief package: Mnuchin",
+      "excerpt": "President Donald Trump will sign coronavirus relief legislation proposed by Republican Senate Majority Leader Mitch McConnell, Treasury Secretary Steven Mnuchin told reporters on Wednesday, should the proposed package pass the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543234236&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11AQ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28C2ES",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C2ES",
+      "publishedDateTime": "2020-12-02T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -602,7 +924,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1430,
+      "heat": 1470,
       "tags": null,
       "images": [
         {
@@ -759,7 +1081,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -811,7 +1133,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -1228,7 +1550,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-healthcare-canada-idCAKBN2880RJ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1252,309 +1574,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-ex-trump-campaign-adviser-carter-page-sues-fbi-comey-mccabe-and-others-for-75m-over-russia-probe-surveillance.md",
-      "title": "Ex-Trump campaign adviser Carter Page sues FBI, Comey, McCabe and others for $75M over Russia probe surveillance",
-      "excerpt": "Earlier this year, the Justice Department found it had “insufficient” cause to wiretap Page during its probe into Russian election interference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/28/carter-page-ex-trump-aide-sues-comey-fbi-over-russia-surveillance/6453096002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/28/carter-page-ex-trump-aide-sues-comey-fbi-over-russia-surveillance/6453096002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/09/20/USAT/eb2eb1d4-d4f5-4121-b463-96276dbb3600-Carter_page.JPG?auto=webp&crop=4999,2798,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6453096002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6453096002",
-      "publishedDateTime": "2020-11-28T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-musician-john-fogerty-on-the-irony-of-playing-fortunate-son-at-a-trump-rally.md",
-      "title": "Musician John Fogerty on the irony of playing 'Fortunate Son' at a Trump rally",
-      "excerpt": "National arts reporter interviews former Creedence Clearwater Revival singer John Fogerty on Instagram Live on Nov. 28.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/entertainment/musician-john-fogerty-on-the-irony-of-playing-fortunate-son-at-a-trump-rally/2020/11/28/a1e56c7a-9bdb-48d6-a60f-6e7647ebeb07_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/entertainment/musician-john-fogerty-on-the-irony-of-playing-fortunate-son-at-a-trump-rally/2020/11/28/a1e56c7a-9bdb-48d6-a60f-6e7647ebeb07_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-28-2020/t_a0ae02a7069c4b1791015469192742dd_name_JohnFogertyThumb_copy.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-28T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-mini-desk-tiny-hands-small-soul-trump-mocked-for-giving-speech-at-little-table.md",
-      "title": "‘Mini desk. Tiny hands. Small soul’: Trump mocked for giving speech at little table",
-      "excerpt": "DiaperDon trends on Twitter after outgoing president’s furniture steals limelight",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture",
-      "publishedDateTime": "2020-11-27T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-trumps-furniture-fail-thats-not-a-desk-donald-its-a-table-for-tv-dinners.md",
-      "title": "Trump's furniture fail: that's not a desk, Donald – it's a table for TV dinners",
-      "excerpt": "The Resolute desk at the White House is made of timbers taken from a Royal Navy ship. It projects pure power. Is that why the defeated US president has switched to an occasional table he can barely squeeze his legs under?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
-      "originalUrl": "https://www.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/16cb7b7093d8a5252e82b5c01d2d72c758b0c441/0_0_5916_3944/master/5916.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f35b785ba07815a5d778c7bd2f281979",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
-      "publishedDateTime": "2020-11-27T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-betrayed-black-asylum-seekers-say-trump-administration-is-ramping-up-deportations-by-force-and-fraud.md",
-      "title": "‘Betrayed’ Black asylum seekers say Trump administration is ramping up deportations by force and fraud",
-      "excerpt": "ICE uses physical abuse, solitary confinement and false documents to force Black and African asylum seekers onto 'death planes,' The Times has found through interviews and legal documents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations",
-      "originalUrl": "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/aa4cd1d/2147483647/strip/true/crop/5785x3778+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2Fc4%2F01af9ef14b14aec3e57f0fd96307%2Ftrump-64946.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true",
-      "publishedDateTime": "2020-11-27T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-angry-trump-promises-rally-in-battleground-state-of-georgia.md",
-      "title": "Angry Trump promises rally in battleground state of Georgia",
-      "excerpt": "President Donald Trump on Thursday renewed baseless claims that “massive fraud” and crooked local officials in battleground states led to his election defeat, and said he’ll go to Georgia for a rally",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-26T15:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

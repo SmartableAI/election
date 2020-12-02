@@ -3,8 +3,8 @@ category: news
 title: "Latest on Biden transition to the White House..."
 excerpt: "Watch \"Latest on President-elect Joe Biden's transition to the White House\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-12-02T00:24:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201202071533-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
-webUrl: "https://www.cbsnews.com/live/video/20201202071533-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
+originalUrl: "https://www.cbsnews.com/live/video/20201202001536-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
+webUrl: "https://www.cbsnews.com/live/video/20201202001536-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/02/story_07936521_1606893356.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/02/story_07929870_1606868159.jpg"
     width: 480
     height: 270
     isCached: true
@@ -12508,6 +12508,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "L7udoXYb8PeBDli+HAjquw7JGD7l4WUPjasFp85AgZR3T9LEurSGyX/ztO9i73ezgh1Lj3fx48/ZlLG8yDJgi7ICDMtlXADkayLDdj2koSHPZ+Igp9Ly6vuzn+9qiD3AGn5x6as6/sQgY4IC9yFkpILMnkvSC6Jjcs4SwLPVHneCpOfk3mdh9KqRbYtaS72PrU6lqFWBz+5Vcp04v8ce9xSUnwD0dhAmos7ifEI4JircC/D1D1H+90jO5RMcsn83/lEdikt4nQ935MTuIZn2FMNEm9hKg6tDpTk344lDB8wUDswl8PoOoUu81uL3hTEzVV3GOc4GciAA5CDVaYokSsk5TpYZ7K46pADsX62ku/g=;EDIrWXN16LB3jOAAqG7PQA=="
+secured: "76U07vwQN8c3PXmYUmPCMs84A3hivP7x/Zvc0PdnLRcqQTbTlXExNfVNMXxm+9JA6aXPH8eBTbe4JxmsGi5NWk3TrbK6Sr5hML6VNIoAQ74AKjnIPnuKPaMIWue3U4nexnPMkR+FhD/dQkNoAwsWFqQLyJqIghiIYe6vQ0WiUca8bPyiYJitNKZ3Ses/QwjvtIR9ksTmhNrTWnvT1MFU2GgSxv0FIO0HpCpgjO8RHYUQXaPslMjrsAUwxfibnElmpF1rcVAWTsZiSJ20zj5mMOzuuAlgrvv94FcgWFTQG4LOw0YCQHrnpkxWb1QU1VpOGkHeOauR/PqPwkhJ8HaSSfuSM5qZ6KMT1ei164bFtVI=;/MnaLA6RaUDUmfgVgvw0ew=="
 ---
 

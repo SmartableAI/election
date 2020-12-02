@@ -335,6 +335,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The seven most important relationships Biden will have on Capitol Hill"
+    excerpt: "Most Republicans in Congress still haven't called to congratulate Joe Biden for winning the election, let alone refer to him as President-elect -- which makes Mitt Romney all the more of an outlier. He was the first GOP senator to congratulate Biden when he was declared the victor. That's a reflection"
+    publishedDateTime: 2020-12-02T17:59:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvgs7-KywD4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/biden-romney-seven-important-relationships/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/biden-romney-seven-important-relationships/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170610074920-mitt-romney-joe-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Rahm Emanuel under consideration to become Biden's transportation secretary"
     excerpt: "Former Chicago Mayor Rahm Emanuel is under consideration to lead the department of transportation, people familiar with the matter say, a move that would enrage progressive activists if the former Illinois congressman and White House chief of staff in the Obama administration was ultimately nominated"
     publishedDateTime: 2020-11-19T21:36:19Z

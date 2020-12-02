@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Wisconsin governor calls Trump lawsuit an ‘assault’"
+    excerpt: "Attorneys for Wisconsin’s governor are calling President Donald Trump’s attempt to overturn the state’s election results an “assault on democracy.”"
+    publishedDateTime: 2020-12-02T16:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/wisconsin-governor-calls-trump-lawsuit-an-assault/2020/12/02/73c56fd6-34be-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-governor-calls-trump-lawsuit-an-assault/2020/12/02/73c56fd6-34be-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-governor-calls-trump-lawsuit-an-assault/2020/12/02/73c56fd6-34be-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump threatens more lawsuits, but court challenges are hitting dead ends"
     excerpt: "Pennsylvania officials asked a federal appeals court Tuesday to put an end to the Trump campaign's legal challenge of an election that has now been certified."
     publishedDateTime: 2020-11-25T06:04:00Z

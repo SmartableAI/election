@@ -511,6 +511,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "How much protection can Trump offer his family with his pardon power? A lot."
+    excerpt: "The prospective pardons, first reported by the New York Times, raise immediate questions about the president’s power to grant pardons, a power that Trump has embraced. It is, after all, precisely the sort of power that he hoped the presidency would bring: authoritative,"
+    publishedDateTime: 2020-12-02T18:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/how-much-protection-can-trump-offer-his-family-with-his-pardon-power-lot/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/how-much-protection-can-trump-offer-his-family-with-his-pardon-power-lot/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/how-much-protection-can-trump-offer-his-family-with-his-pardon-power-lot/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VFMHADSZKAI6RGEJA66MCMT7JM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Here’s how seriously you should take the Trump legal team’s conspiracy theories"
     excerpt: "Powell, who serves as an attorney both for Trump and former national security adviser Michael Flynn, walked to the lectern, thanked Giuliani — and then went buckwild. “What we are really dealing with here and uncovering more by the day is the massive influence of communist money through Venezuela,"
     publishedDateTime: 2020-11-20T02:39:00Z
@@ -792,6 +808,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/12/02/gettyimages-1287973486_wide-4b50fb0dcd84e4d45aab8a54361a3590fc74dcd4.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Mnuchin: Trump backs GOP virus relief plan"
+    excerpt: "Treasury Secretary Steven Mnuchin says President Donald Trump would sign a proposal for COVID-19 relief funding backed by Senate Majority Leader Mitch McConnell, a scaled-back GOP bill that has already failed twice this fall."
+    publishedDateTime: 2020-12-02T18:53:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/02/mnuchin-trump-backs-gop-virus-relief-plan/3797252001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/733f7b7d-bd20-40ea-9e31-6f13eac4e562_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump threatens to veto defense bill unless Congress repeals Section 230, a safeguard for social media companies"
     excerpt: "Trump is threatening to veto a defense policy bill unless it ends protections for companies that shield them from material posted by their users."

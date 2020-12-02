@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-02-kamala-harris-equality-of-outcome-video-slammed-as-communism-pitch.md",
+      "title": "Kamala Harris’ ‘equality of outcome’ video slammed as communism pitch",
+      "excerpt": "A video made and shared by Democratic vice presidential candidate Kamala Harris is causing a stir on Twitter — for arguing in favor of the communist principle of equality of outcome. The",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/",
+      "originalUrl": "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/kamala-harris-communist-pitch.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/amp/",
+      "publishedDateTime": "2020-11-02T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-herschel-walker-tells-james-clyburn-he-took-trump-out-of-context-with-latest-criticism.md",
+      "title": "Herschel Walker tells James Clyburn he took Trump out of context with latest criticism",
+      "excerpt": "Former NFL star Herschel Walker pushed back on House Majority Whip James Clyburn, D-S.C., on Sunday after the latter said that President Trump called a Black woman a dog.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zOvhgiXy9zg/herschel-walker-james-clyburn-trump-context",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zOvhgiXy9zg/herschel-walker-james-clyburn-trump-context",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a449154-1c52-4b5f-b68d-3448968888f8/b900a9eb-b048-4194-baef-a3e0d6db74e7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/herschel-walker-james-clyburn-trump-context.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-james-clyburn-trump-context.amp",
+      "publishedDateTime": "2020-11-01T19:42:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-conway-makes-case-for-trump-reelection-the-antidote-to-uncertainty-is-not-more-uncertainty.md",
       "title": "Conway makes case for Trump reelection: 'The antidote to uncertainty is not more uncertainty'",
       "excerpt": "Reelecting President Trump is in the best interest of the American people, former counselor to the president Kellyanne Conway told Fox News' \"Democracy 2020 Election Preview\" Sunday.",
@@ -1570,118 +1674,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-biden-dismisses-record-economic-growth-as-not-nearly-enough-to-dig-out-of-deep-recession.md",
-      "title": "Biden dismisses record economic growth as not 'nearly enough' to dig out of 'deep' recession",
-      "excerpt": "Democratic presidential nominee Joe Biden dismissed the U.S. economy's record-shattering growth as not \"nearly enough\" to get the country out of a \"deep hole\" on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HYnv6vHSu3k/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HYnv6vHSu3k/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20303505056598.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response.amp",
-      "publishedDateTime": "2020-10-29T09:17:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-former-democrat-rubin-on-why-he-is-voting-for-trump-no-feeling-of-patriotism-on-the-left-anymore.md",
-      "title": "Former Democrat Rubin on why he is voting for Trump: 'No feeling of patriotism' on the left anymore",
-      "excerpt": "President Trump is the last bastion to stopping the radical left, talk show host Dave Rubin said Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ytK2_eDgo2E/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ytK2_eDgo2E/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden.amp",
-      "publishedDateTime": "2020-10-29T08:41:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

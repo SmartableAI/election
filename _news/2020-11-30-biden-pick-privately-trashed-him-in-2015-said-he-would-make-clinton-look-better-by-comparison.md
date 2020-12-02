@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden intends to keep Wray as FBI director"
+    excerpt: "President-elect Joe Biden intends to keep FBI Director Christopher Wray in his post leading the bureau during his administration, Fox News has confirmed."
+    publishedDateTime: 2020-12-02T18:42:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcHLHzqh25A/biden-intends-to-keep-fbi-director-wray"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Sen. Cotton says Neera Tanden has no chance of being confirmed, tells Biden 'go back to the drawing board'"
     excerpt: "Neera Tanden has “no chance of being confirmed,” Sen. Tom Cotton said on Wednesday."
     publishedDateTime: 2020-12-02T14:06:53Z

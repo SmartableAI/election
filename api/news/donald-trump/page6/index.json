@@ -2,6 +2,323 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-04-winning-is-easy-losing-is-never-easy-trump-stops-by-rnc-office-in-virginia.md",
+      "title": "'Winning is easy. Losing is never easy': Trump stops by RNC office in Virginia",
+      "excerpt": "Donald Trump said he is not thinking about an acceptance or a concession speech when he stopped at the Republican National Committee Headquarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/elections/2020/11/03/trump-says-losing-never-easy/6146200002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/elections/2020/11/03/trump-says-losing-never-easy/6146200002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/03/USAT/9e10db91-8ed7-4e5b-8599-6d7acec09e91-VPC_TRUMP_ON_WINNING_LOSING_DESK_THUMB.00_01_49_28.Still003.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T12:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-trump-appeared-to-back-away-from-claims-that-he-will-declare-victory-in-the-election-as-soon-as-possible-no-reason-to-play-games.md",
+      "title": "Trump appeared to back away from claims that he will declare victory in the election as soon as possible: 'No reason to play games'",
+      "excerpt": "In an interview with Fox and Friends, Trump appeared to back away from the possibility of declaring himself winner before all ballots are counted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11",
+      "originalUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa168c81df1d50018218811?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp",
+      "publishedDateTime": "2020-11-03T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-indias-hindu-fringe-group-holds-prayers-for-trump.md",
+      "title": "India's Hindu fringe group holds prayers for Trump",
+      "excerpt": "World India's Hindu fringe group holds prayers for Trump. Posted . A Hindu right-wing group in New Delhi held special prayers for U.S. President Donald Trump's victory in the pres",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/indias-hindu-fringe-group-holds-prayers-id721520944?chan=8gwsyvzx",
+      "originalUrl": "https://www.reuters.com/video/watch/indias-hindu-fringe-group-holds-prayers-id721520944?chan=8gwsyvzx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20201103&i=OVD30R7XB&r=OVD30R7XB&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-trumps-campaign-booked-out-youtubes-homepage-for-election-day-youtube-wont-let-that-happen-again-but-insists-its-nothing-to-do-with-trump.md",
+      "title": "Trump's campaign booked out YouTube's homepage for Election Day. YouTube won't let that happen again — but insists it's nothing to do with Trump.",
+      "excerpt": "YouTube will no longer allow advertisers to book out its main homepage slots for days at a time. The change had nothing to do with Trump, Google said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-2020-campaign-spends-big-on-youtube-biden-facebook-2020-11",
+      "originalUrl": "https://www.businessinsider.com/trump-2020-campaign-spends-big-on-youtube-biden-facebook-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa13aa21df1d500182187d3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-2020-campaign-spends-big-on-youtube-biden-facebook-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-2020-campaign-spends-big-on-youtube-biden-facebook-2020-11?amp",
+      "publishedDateTime": "2020-11-03T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-exclusive-tired-of-trump-deutsche-bank-wants-out-but-sees-no-good-options-sources.md",
+      "title": "Exclusive: Tired of Trump, Deutsche Bank wants out but sees no good options - sources",
+      "excerpt": "Deutsche Bank AG is looking for ways to end its relationship with President Donald Trump after the U.S. elections, as it tires of the negative publicity stemming from the ties, according to three senior bank officials with direct knowledge of the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539756536&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA208L",
+          "width": 805,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27J0G0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0G0",
+      "publishedDateTime": "2020-11-02T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations.md",
+      "title": "Trump Caravan Participants Who Blocked New Jersey Highway Face Possible Citations",
+      "excerpt": "A caravan of President Trump supporters could be issued summonses for obstructing traffic on the Garden State Parkway on Sunday, New Jersey State Police officials said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223",
+      "originalUrl": "https://www.wsj.com/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-253655/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223",
+      "publishedDateTime": "2020-11-02T14:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-trumps-appointee-barrett-takes-part-in-first-supreme-court-arguments.md",
       "title": "Trump's appointee Barrett takes part in first Supreme Court arguments",
       "excerpt": "Amy Coney Barrett participated in her first case as a member of the U.S. Supreme Court on Monday, with President Donald Trump's appointee welcomed by Chief Justice John Roberts before questioning one of the lawyers in a dispute in which an environmental group is",
@@ -1272,323 +1589,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-chelsea-handler-says-50-cent-wasnt-serious-about-supporting-trump.md",
-      "title": "Chelsea Handler says 50 Cent 'wasn't serious' about supporting Trump",
-      "excerpt": "Comedian Chelsea Handler details a phone call she had with rapper 50 Cent on \"The View\" after he expressed support for Pres. Trump and then renounced it.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
-      "originalUrl": "https://abcnews.go.com/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/ChelseaHandler_1603906784512_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
-      "publishedDateTime": "2020-10-28T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-whitmer-on-trumps-response-to-kidnapping-plot-i-dont-think-its-funny.md",
-      "title": "Whitmer on Trump's response to kidnapping plot: \"I don't think it's funny\"",
-      "excerpt": "Michigan Governor Gretchen Whitmer said his response to the plot against her \"tells you everything you need to know about the character of this president.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/gretchen-whitmer-trump-response-kidnapping-plot/?intcid=CNI-00-10aaa3a",
-      "originalUrl": "https://www.cbsnews.com/news/gretchen-whitmer-trump-response-kidnapping-plot/?intcid=CNI-00-10aaa3a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/09/a290333e-b3c3-44a2-b2c5-d1ce99bad0be/thumbnail/1200x630/64973db17fe2da9b0f6d9eb896eb5105/cbsn-fusion-feds-bust-alleged-plot-to-kidnap-michigan-governor-gretchen-whitmer-thumbnail-562619-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/gretchen-whitmer-trump-response-kidnapping-plot/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gretchen-whitmer-trump-response-kidnapping-plot/",
-      "publishedDateTime": "2020-10-28T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police.md",
-      "title": "Trump Administration Uses Philadelphia Protests To Illustrate ‘Liberal Democrats’ War Against The Police’",
-      "excerpt": "The Trump administration said the protests in Philadelphia are “the most recent consequence of the Liberal Democrats’ war against the police.” The administration said all incidents of lethal force must be investigated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/",
-      "originalUrl": "https://www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99b9b73e35a3c43d4b6a93%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D35%26cropY2%3D2566",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/amp/",
-      "publishedDateTime": "2020-10-28T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says.md",
-      "title": "White House Claim That Trump Ended The Pandemic Was ‘Poorly Worded,’ Spokesperson Says",
-      "excerpt": "The White House said Wednesday that a news release that listed “ending the Covid-19 pandemic” as an accomplishment of the Trump administration was “poorly worded,” even as President Trump and members of his inner circle continue to talk about the pandemic as if it’s ending.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/",
-      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f999042865a9df7bf8af58e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D192%26cropY2%3D1880",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/amp/",
-      "publishedDateTime": "2020-10-28T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022.md",
-      "title": "As Trump Claims Pandemic Will' End Quickly,' Fauci Warns U.S. May Not Return To 'Normal' Until 2022.",
-      "excerpt": "\"People were ridiculed for wearing masks. It depended on what side of the political spectrum you were at, which was so painful to me.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/",
-      "originalUrl": "https://www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9989a1933623c150489525%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D193%26cropY2%3D1993",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/amp/",
-      "publishedDateTime": "2020-10-28T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-ricky-martin-says-its-super-sad-to-see-fellow-latinos-back-donald-trump.md",
-      "title": "Ricky Martin says it's 'super sad' to see fellow Latinos back Donald Trump",
-      "excerpt": "Ricky Martin discussed his support for Joe Biden and the “super sad” prospect of seeing fellow Latinos vote for Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/ricky-martin-joe-biden-fellow-latinos-back-donald-trump",
-      "originalUrl": "https://www.foxnews.com/entertainment/ricky-martin-joe-biden-fellow-latinos-back-donald-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ricky-Martin1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/ricky-martin-joe-biden-fellow-latinos-back-donald-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/ricky-martin-joe-biden-fellow-latinos-back-donald-trump.amp",
-      "publishedDateTime": "2020-10-28T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

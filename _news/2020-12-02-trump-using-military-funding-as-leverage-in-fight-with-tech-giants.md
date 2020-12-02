@@ -1,0 +1,85 @@
+---
+category: news
+title: "Trump using military funding as leverage in fight with tech giants"
+excerpt: "President Donald Trump's threat Tuesday to veto an annual defense bill unless Congress removes legal protections for social media companies drew swift, sharp bipartisan pushback from lawmakers who charged Trump was using leverage over the troops to settle personal scores.\n    \n"
+publishedDateTime: 2020-12-02T18:28:16Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ot5LnSFVLHY/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ot5LnSFVLHY/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/trump-ndaa-threat-section-230/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/trump-ndaa-threat-section-230/index.html"
+type: article
+quality: 175
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201143231-01-trump-1126-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Trump associates, including Giuliani, are asking for pardons"
+    excerpt: "President Donald Trump's associates are making appeals to him in the hopes of obtaining pardons before he leaves office, a source familiar with the matter told CNN on Tuesday.\n    \n"
+    publishedDateTime: 2020-12-01T22:44:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y1hUJ1HJvYk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/trump-rudy-giuliani-pardons/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/trump-rudy-giuliani-pardons/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190925034820-giuliani-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump talks of 'another four years' during White House Christmas reception  "
+    excerpt: "President Donald Trump talked during a Christmas reception at the White House on Tuesday about spending four more years in office -- whether that starts in January 2021 or January 2025, according to a source familiar with his comments.\n    \n"
+    publishedDateTime: 2020-12-02T04:22:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lLSg-8QyMQM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/donald-trump-christmas-party-second-term/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/donald-trump-christmas-party-second-term/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201143233-02-trump-1124-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump invites Pennsylvania GOP lawmakers to White House after calling in to baseless voter fraud event"
+    excerpt: "President Donald Trump's planned trip to join his attorney Rudy Giuliani in Gettysburg, Pennsylvania, on Wednesday has been canceled, two sources familiar with the matter tell CNN.\n    \n"
+    publishedDateTime: 2020-11-25T23:38:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g2I1VpYZoHk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-hearing-giuliani/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-hearing-giuliani/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "K1csoridMUnNw3l0wwIFqyNtVD/6V2BczuOEPmXO7ySPIC+2oU86seGepSJ0HM1ivIahHucvb0Yt7mhUc2LvcraK/CccGfV4hoZy4d/9r2i9dxwz0RFVzS8F404myAT+YX+vR/wbAKAYX5xZby0weJQEtaJkZiztjiEReIuG7TbHecC6OJsHSkyk0xMS6N+abDjGLn6Gh5tiTXIbbYeCLF+zrpvUpDuR1zwbkXL5i+petfbNEdhUrRbhrkG6eQKNsZmz+WoHHDmBJfdBSNNiUo9dt9n9G9bb9hldLsaBDyESww3uZYvDsU4rJXwNZkcd1gd09isj2bi7E+Lc0IsH+wkp6bWZimfgHjNRh5mIXXE=;9oyTty9FMAI+p+nDwuSFDg=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-slams-bidens-unity-platf
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-slams-bidens-unity-platform-points-to-admin-picks.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden intends to keep Wray as FBI director"
+    excerpt: "President-elect Joe Biden intends to keep FBI Director Christopher Wray in his post leading the bureau during his administration, Fox News has confirmed."
+    publishedDateTime: 2020-12-02T18:42:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcHLHzqh25A/biden-intends-to-keep-fbi-director-wray"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden pick privately trashed him in 2015, said he would make Clinton look better by comparison"
     excerpt: "Neera Tanden is President-elect Joe Biden's pick for director of the Office of Management and Budget, but a leaked email from 2015 indicates that Tanden may not have always believed Biden was the best Democratic presidential candidate for the job."
     publishedDateTime: 2020-11-30T19:19:17Z
