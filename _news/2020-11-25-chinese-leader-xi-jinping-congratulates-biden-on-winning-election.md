@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-con
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-congratulations/index.html"
 type: article
 quality: 190
-heat: 1190
+heat: 1210
 published: true
 
 provider:
@@ -764,6 +764,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01dc-press-psaki/01dc-press-psaki-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "The Left’s Stupid Second-Guessing Of Biden"
+    excerpt: "It’s possible many people making the arguments against potential Biden appointees don’t know what they are arguing."
+    publishedDateTime: 2020-12-02T09:45:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/12/02/biden-left-second-guessing-442097"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/12/02/biden-left-second-guessing-442097"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/02/biden-left-second-guessing-442097"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ea/01/2f68e7c545ec9761e7fd6cbbc0fb/201201-biden-2-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Transition Gets Underway in Earnest as Biden Team Fans Out Across Capital"
     excerpt: "Within hours of the Trump administration’s decision to stop blocking the process, representatives of the president-elect began coordinating the handover of power."
