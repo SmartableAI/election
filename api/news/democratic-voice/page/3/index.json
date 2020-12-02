@@ -2,6 +2,120 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-11-jimmy-kimmel-trump-is-a-reality-show-host-who-cant-accept-reality.md",
+      "title": "Jimmy Kimmel: Trump Is a Reality Show Host Who Can’t Accept Reality",
+      "excerpt": "Republicans are handling the president with kid gloves because those are the only gloves that fit him,” Kimmel joked of President Trump’s refusal to concede to Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/11/arts/11latenight/11latenight-facebookJumbo.png",
+          "width": 865,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
+      "publishedDateTime": "2020-11-10T23:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-why-a-trump-loss-may-be-no-match-for-rupert-murdochs-realpolitik.md",
+      "title": "Why a Trump Loss May Be No Match for Rupert Murdoch’s Realpolitik",
+      "excerpt": "Fox News has lasted through “multiple presidents, and they’re going to be around for multiple more,” said one right-wing media executive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/09/business/09murdoch-trump/09murdoch-trump-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
+      "publishedDateTime": "2020-11-10T18:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-douglas-emhoff-harris-husband-to-sever-ties-with-law-firm-by-inauguration-day.md",
       "title": "Douglas Emhoff, Harris' husband, to sever ties with law firm by Inauguration Day",
       "excerpt": "Douglas Emhoff, the husband of Vice President-elect Kamala Harris, will sever all ties with his law firm DLA Piper by Inauguration Day, according to a campaign spokesperson.\n    \n",
@@ -1564,119 +1678,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-republican-lindsey-graham-defeats-well-funded-democratic-challenger-jaime-harrison-in-south-carolina.md",
-      "title": "Republican Lindsey Graham defeats well-funded Democratic challenger Jaime Harrison in South Carolina ",
-      "excerpt": "South Carolina Republican Sen. Lindsey Graham will return to the Senate for a fourth term after defeating Democratic challenger Jaime Harrison.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SAOC6yhAW0U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SAOC6yhAW0U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201030180100-lindsey-graham-jaime-harrison-sc-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/03/politics/south-carolina-senate-race-2020/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/03/politics/south-carolina-senate-race-2020/index.html",
-      "publishedDateTime": "2020-11-03T21:25:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-trump-ally-tweets-misleading-images-of-philadelphia-voting.md",
-      "title": "Trump Ally Tweets Misleading Images of Philadelphia Voting",
-      "excerpt": "Early Tuesday, a Trump campaign official posted an unfounded suggestion on Twitter that Democrats were illegally campaigning at a voting site in Philadelphia. Twitter labeled the tweet “misleading” and later “manipulated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/03/business/03distortions-photo-ogtweet/03distortions-photo-ogtweet-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.amp.html",
-      "publishedDateTime": "2020-11-03T16:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

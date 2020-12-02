@@ -2,6 +2,163 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-03-what-we-know-about-vice-president-mike-pences-trip-to-memphis.md",
+      "title": "What we know about Vice President Mike Pence's trip to Memphis",
+      "excerpt": "Vice President Mike Pence is scheduled to arrive in Memphis at 1 p.m. Thursday afternoon, his office said Wednesday. Air Force Two is scheduled to touch down in Memphis at about 1 p.m. Then, in an airplane hangar at Memphis International Airport,",
+      "sourceUrl": null,
+      "webUrl": "https://www.commercialappeal.com/story/news/2020/12/02/vice-president-mike-pence-visit-memphis-roundtable-fedex-operation-warp-speed/3794113001/",
+      "originalUrl": "https://www.commercialappeal.com/story/news/2020/12/02/vice-president-mike-pence-visit-memphis-roundtable-fedex-operation-warp-speed/3794113001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/01/19/PMCA/1b4a68c8-4129-47b4-b38a-cdcce6ca6024-011920PenceLands11.jpg?auto=webp&crop=2326,1309,x0,y295&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.commercialappeal.com/amp/3794113001",
+      "cdnAmpWebUrl": "https://amp-commercialappeal-com.cdn.ampproject.org/c/s/amp.commercialappeal.com/amp/3794113001",
+      "publishedDateTime": "2020-12-02T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Commercial Appeal",
+        "domain": "commercialappeal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-a-trump-fund-raiser-for-maya-wiley-yes-but-its-mary-trump.md",
+      "title": "A Trump Fund-Raiser for Maya Wiley? Yes, but It’s Mary Trump",
+      "excerpt": "Ms. Trump, the president’s niece, has written a tell-all book and opposed his re-election. Now she’s holding an online event for Ms. Wiley, who’s running for mayor of New York.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/02/nyregion/02trump-wiley1/02trump-wiley1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.amp.html",
+      "publishedDateTime": "2020-12-02T08:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-trump-is-leaving-washington-as-he-governed-chaotically.md",
+      "title": "Trump is leaving Washington as he governed — chaotically",
+      "excerpt": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
+      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_49/3432524/201202-donald-trump-mc-1314_76baad09f4ea18edab7aa6aafee2438b.JPG",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249684",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249684",
+      "publishedDateTime": "2020-12-02T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-biden-admits-dems-forgot-rural-america-says-he-did-something-good-for-the-country-by-beating-trump.md",
       "title": "Biden admits Dems 'forgot' rural America, says he did 'something good for the country' by beating Trump",
       "excerpt": "President-elect Joe Biden said Democrats \"forgot\" rural America in an interview with New York Times opinion columnist Thomas L. Friedman published Wednesday.",
@@ -1211,166 +1368,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-fired-cybersecurity-chief-may-include-trump-attorney-in-lawsuit-over-death-threats.md",
-      "title": "Fired cybersecurity chief may include Trump attorney in lawsuit over death threats",
-      "excerpt": "Former Cybersecurity and Infrastructure Security Agency Director Chris Krebs said Tuesday he plans to take legal action against people who have threatened his life after he disagreed with his onetime boss, President Trump, over the validity of the Nov. 3 election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWbFVmoKkmo/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWbFVmoKkmo/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20323077316005-e1605728670595.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp",
-      "publishedDateTime": "2020-12-01T09:26:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-the-daily-202-ousted-us-attorney-removed-by-barr-as-he-investigated-trump-associates-lands-new-job.md",
-      "title": "The Daily 202: Ousted U.S. attorney, removed by Barr as he investigated Trump associates, lands new job",
-      "excerpt": "During a noon meeting in a suite at the Pierre hotel in Manhattan on a Friday in June, Attorney General Bill Barr pressured Geoffrey Berman to step aside as the U.S. attorney for the Southern District of New York.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IAW7TCUQP5FAVGSQ44D7LNWC7Y&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp",
-      "publishedDateTime": "2020-12-01T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-sean-hannity-says-trump-should-pardon-himself-and-his-family-to-avoid-a-witch-hunt-experts-say-its-not-that-simple.md",
-      "title": "Sean Hannity says Trump should pardon himself and his family to avoid a ‘witch hunt.’ Experts say it’s not that simple.",
-      "excerpt": "Five days after President Trump pardoned his former national security adviser Michael Flynn, Fox News host and Trump ally Sean Hannity offered a suggestion on Monday about who the president should pardon next: himself and his family.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RDK2IJVBFMI6VPQGV5KRJ3QDQU.jpg&w=1440",
-          "width": 1440,
-          "height": 942,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/?outputType=amp",
-      "publishedDateTime": "2020-12-01T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,157 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-10-24-gov-doug-ducey-unleashes-a-tweetstorm-after-joe-biden-calls-him-out-on-masks.md",
+      "title": "Gov. Doug Ducey unleashes a Tweetstorm after Joe Biden calls him out on masks",
+      "excerpt": "Gov. Doug Ducey's approval ratings have plummeted given his handling of COVID-19. So, naturally, he patted himself on the back for his leadership.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/opinion/op-ed/laurieroberts/2020/10/23/gov-doug-ducey-tries-praise-his-coronavirus-handling-fails/6012498002/",
+      "originalUrl": "https://www.azcentral.com/story/opinion/op-ed/laurieroberts/2020/10/23/gov-doug-ducey-tries-praise-his-coronavirus-handling-fails/6012498002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/bc7ed05e-df72-4056-986b-de8309954b78-cent02-7ctz9ylo191evdkhhle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.azcentral.com/amp/6012498002",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6012498002",
+      "publishedDateTime": "2020-10-23T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-democratic-rep-xochitl-torres-small-slams-biden-over-oil-remarks-at-debate-says-policy-is-out-of-touch.md",
+      "title": "Democratic Rep. Xochitl Torres Small slams Biden over oil remarks at debate, says policy is 'out of touch'",
+      "excerpt": "Biden said he would pursue policies that would “transition from the oil industry” if elected to office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a95G0z8pc0Y/democratic-rep-xochitl-torres-small-biden-oil-remarks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a95G0z8pc0Y/democratic-rep-xochitl-torres-small-biden-oil-remarks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62eb375b-2614-452e-a194-9b9665c58ee5/4bd50378-6878-40f5-aec4-aefdb644aaf6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/democratic-rep-xochitl-torres-small-biden-oil-remarks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-rep-xochitl-torres-small-biden-oil-remarks.amp",
+      "publishedDateTime": "2020-10-23T14:45:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-trump-announces-that-sudan-will-israel-normalize-relations.md",
+      "title": "Trump Announces That Sudan Will Israel Normalize Relations",
+      "excerpt": "President Donald Trump announced Friday that Sudan had agreed to establish diplomatic ties with Israel, making it the third Arab state to do so under the Trump Administration-brokered peace deals, known as the “Abraham Accords.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/",
+      "originalUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934ca4eb1b5edb9d90d708%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4618%26cropY1%3D97%26cropY2%3D2694",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/",
+      "publishedDateTime": "2020-10-23T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election.md",
       "title": "WEB EXTRA: VP Mike Pence and Karen Pence Vote In 2020 Election",
       "excerpt": "Vice President Mike Pence and Second Lady Karen Pence voted in the 2020 general election in Indianapolis, IN on Friday. The Pences submitted their absentee ballots in person.",
@@ -1156,161 +1307,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-fact-check-is-kamala-harris-more-liberal-than-bernie-sanders-charlotte-observer.md",
-      "title": "Fact Check: Is Kamala Harris ‘more liberal than Bernie Sanders’? | Charlotte Observer",
-      "excerpt": "President Donald Trump said during Thursday’s debate that Kamala Harris is “more liberal than Bernie Sanders” and is eager to see government-run health care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/news/politics-government/election/article246645198.html",
-      "originalUrl": "https://www.charlotteobserver.com/news/politics-government/election/article246645198.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/b428e196-612e-452c-83b9-15d61114f11b/dcd15672-7f2e-445a-b020-202ff75ee139/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.charlotteobserver.com/news/politics-government/election/article246645198.html",
-      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246645198.html",
-      "publishedDateTime": "2020-10-22T19:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-biden-campaign-slams-hunter-biden-associates-claims-about-overseas-business-as-desperate-pathetic-farce.md",
-      "title": "Biden campaign slams Hunter Biden associate's claims about overseas business as 'desperate, pathetic farce'",
-      "excerpt": "“Joe Biden has never even considered being involved in business with his family,\" the campaign said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LgTMdgOK2o4/biden-campaign-response-tony-bobulinski-hunter-overseas-business-china",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LgTMdgOK2o4/biden-campaign-response-tony-bobulinski-hunter-overseas-business-china",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b886986e-6a50-4d72-8925-ddcbb05b95ac/599caf0b-699f-4990-b357-251ea96b44b4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-campaign-response-tony-bobulinski-hunter-overseas-business-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-response-tony-bobulinski-hunter-overseas-business-china.amp",
-      "publishedDateTime": "2020-10-22T17:03:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-mcconnell-on-bidens-court-commission-plan-court-packing-ought-to-be-completely-unacceptable.md",
-      "title": "McConnell on Biden’s court commission plan: ‘Court packing ought to be completely unacceptable’",
-      "excerpt": "Sen. Majority Leader Mitch McConnell said that Joe Biden’s plan to form a commission to “reform” the court system meant that he was “open to” court packing. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFbqic80cbE/mcconnell-bidens-court-commission-plan-court-packing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFbqic80cbE/mcconnell-bidens-court-commission-plan-court-packing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19899717-32ae-4f23-b506-19f2a7bb297e/e55fec0a-f492-4aee-b8b3-6cccdd79288b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-bidens-court-commission-plan-court-packing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-bidens-court-commission-plan-court-packing.amp",
-      "publishedDateTime": "2020-10-22T14:50:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

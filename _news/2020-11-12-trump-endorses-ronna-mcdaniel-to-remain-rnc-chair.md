@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S01C"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S01C"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 833
     height: 545
     isCached: true
+
+related:
+  - title: "GOP leader McDaniel to run for 3rd term with Trump's backing"
+    excerpt: "Republican National Committee Chairwoman Ronna McDaniel is launching her bid for a third two-year term heading the GOP's governing organization"
+    publishedDateTime: 2020-12-02T15:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-leader-mcdaniel-run-3rd-term-trumps-backing-74502446"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-leader-mcdaniel-run-3rd-term-trumps-backing-74502446"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-leader-mcdaniel-run-3rd-term-trumps-backing-74502446"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_56ef52a878214440bc5fcc477d8f064c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "BmUeFo/DN1x8/s5Ag7jmjaGriblnyzZEJFHbgAGXjWMsM5AR4Z8ObWB3sayReH1y1Xt2ArCoKq7KmGj4TwZ8ZK06xuNtKaTHu2c7vFtUJzGYLAjks1iKYoJpajaQrhdZaDRpvoqBGlVB5g7GleEn0dpVr2cLCPpkUifoRL5WdA5td5mGC6SoHSA4ZWuLwpPHamS5bEyxmo+oQOK0wvNFnNOHHLr21G2nabcPzloT+leXXOQSXquzVQbSbA4RXtwbxBr6if+05INK5WE+8EaIxuELJ1FePBRn/guUnpM7Yqlo5UXpIvQw+NnSAKoMN+ixaNI0Mr8x3PBVW3Hw/uyGHsc9Vt+SjZ/NfMitV9lFh0g=;/55ePRfCzCu4o43jvAUFwA=="
 ---

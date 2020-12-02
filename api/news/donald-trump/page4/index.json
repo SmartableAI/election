@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-13-john-mccains-widow-says-its-time-for-trump-to-accept-the-results-and-get-on-with-the-healing.md",
+      "title": "John McCain's widow says it's time for Trump to 'accept the results and get on with the healing'",
+      "excerpt": "Cindy McCain described Joe Biden as \"a man of honor\" who would \"heal the wounds caused by the outgoing administration.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11",
+      "originalUrl": "https://www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fad9cdf1e8d500019813396?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11?amp",
+      "publishedDateTime": "2020-11-12T14:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-how-long-can-republicans-keep-helping-trump-delegitimize-the-election.md",
+      "title": "How long can Republicans keep helping Trump delegitimize the election?",
+      "excerpt": "There are some cracks starting to show – but strong political reasons for Republicans to hang on until Georgia Senate runoffs in January",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 760,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2BIDWBEJYI6XHCKBXDCILCICQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/?outputType=amp",
+      "publishedDateTime": "2020-11-12T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-donald-trump-supporters-can-get-free-food-at-kentucky-restaurants-owned-by-the-same-couple-but-theres-a-catch.md",
       "title": "Donald Trump supporters can get free food at Kentucky restaurants owned by the same couple. But there's a catch.",
       "excerpt": "Louisville restaurant owners Troy King and Selena Johnson are offering free food to anyone who trades in Donald Trump merchandise.",
@@ -62,7 +166,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-idUSKBN27S01C",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1496,115 +1600,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-trump-campaign-hasnt-provided-evidence-to-back-up-claim-of-wisconsin-election-irregularities.md",
-      "title": "Trump campaign hasn't provided evidence to back up claim of Wisconsin election 'irregularities'",
-      "excerpt": "Trump and officials with his campaign have floated vague accusations with no evidence of election tampering in Wisconsin.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/election-results-trump-has-not-backed-up-claim-irregularities/6173694002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/election-results-trump-has-not-backed-up-claim-irregularities/6173694002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ffda0c65-205a-44d9-8c5b-8e952696d68b-TRUMP_KENOSHA_0550.JPG?auto=webp&crop=3899,2194,x0,y438&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6173694002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6173694002",
-      "publishedDateTime": "2020-11-06T14:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-trump-names-danly-to-head-ferc-replacing-chatterjee.md",
-      "title": "Trump Names Danly to Head FERC, Replacing Chatterjee",
-      "excerpt": "Neil Chatterjee, who has backed policies in support of clean energy, is being replaced as head of the Federal Energy Regulatory Commission by fellow commissioner James Danly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
-      "originalUrl": "https://www.wsj.com/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-256250/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
-      "publishedDateTime": "2020-11-06T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

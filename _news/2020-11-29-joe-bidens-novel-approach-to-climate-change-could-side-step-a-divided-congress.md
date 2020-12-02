@@ -594,6 +594,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Live politics updates: President-elect Biden to discuss economic crisis with workers and small-business owners"
+    excerpt: "President-elect Joe Biden plans to meet online Wednesday with workers and small-business owners to discuss the economic crisis, as part of his preparations for taking office. Biden highlighted the need for more federal stimulus spending Tuesday while introducing his economics team,"
+    publishedDateTime: 2020-12-02T15:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/02/presidential-transition-updates-politics-joe-biden-donald-trump/3791958001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3791958001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3791958001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/0ea21f1c-a0a4-477a-be43-069126ee14c8-biden_economics_team.jpg?auto=webp&crop=7462,4198,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
     excerpt: "Joanna Walters in New York (now) and Martin Belam (earlier) Joe Biden has just confirmed in person that Anthony Blinken will become his secretary of state. Blinken is there with other new picks. They are standing some distance from each other and are ..."
     publishedDateTime: 2020-11-24T18:13:00Z

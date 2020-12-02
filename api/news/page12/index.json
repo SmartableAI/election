@@ -2,6 +2,170 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-14-donald-trump-wins-north-carolina.md",
+      "title": "Donald Trump wins North Carolina",
+      "excerpt": "Donald Trump wins North Carolina. Trump taps Giuliani to take over election legal fight: Sources 24/7 coverage of breaking news and live events",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/donald-trump-wins-north-carolina-74199063",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/donald-trump-wins-north-carolina-74199063",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063",
+      "publishedDateTime": "2020-11-13T17:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-trump-says-he-may-stop-by-maga-rally-in-dc-on-saturday.md",
+      "title": "Trump says he may ‘stop by’ MAGA rally in DC on Saturday",
+      "excerpt": "President Trump showed his gratitude for the MAGA rallies in the nation’s capital this weekend to voice their dissent over the recent presidential election outcome – echoing the same resistance they mocked in 2016.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp",
+      "publishedDateTime": "2020-11-13T16:16:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-gov-cuomo-responds-to-trumps-threat-to-not-send-vaccine-to-new-york-he-tries-to-bully-people.md",
+      "title": "Gov. Cuomo responds to Trump's threat to not send vaccine to New York: 'He tries to bully people'",
+      "excerpt": "New York Gov. Andrew Cuomo on Friday accused President Donald Trump of trying to use a potential coronavirus vaccine to intimidate him following Trump's assertion that Cuomo would hold up vaccine distribution in the state for political reasons.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zFM0atMw7RU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zFM0atMw7RU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201113182033-donald-trump-andrew-cuomo-split-for-video-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/13/politics/cuomo-trump-vaccine-new-york-bully-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/cuomo-trump-vaccine-new-york-bully-cnntv/index.html",
+      "publishedDateTime": "2020-11-13T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-will-biden-consider-adding-republicans-to-his-administration.md",
       "title": "Will Biden consider adding Republicans to his administration?",
       "excerpt": "Among GOP names floating around for a Biden cabinet are John Kasich, Quibi CEO Meg Whitman, Massachusetts Gov. Charlie Baker and former Sen. Jeff Flake and former Rep. Charlie Dent.",
@@ -1183,170 +1347,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.md",
-      "title": "Mississippi lawmaker apologizes after calling for state to leave US over Biden win",
-      "excerpt": "The prospect of a Joe Biden presidency was a deal breaker, one Republican state lawmaker in Mississippi appeared to say last week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qhBo0ep2WUo/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qhBo0ep2WUo/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8419c359-d988-43d2-a50c-f30f8e478624/000564f8-cd7e-46c0-a921-27cb7fc5fc8c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.amp",
-      "publishedDateTime": "2020-11-12T00:02:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.md",
-      "title": "GOP senator says he’ll ‘step in’ if Biden doesn’t receive intel briefings by Friday",
-      "excerpt": "President-elect Joe Biden should be able to receive intelligence briefings by Friday, a Republican member of the U.S. Senate said in a radio interview that aired Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wr802TtyVrY/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wr802TtyVrY/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Lankford_Senate.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.amp",
-      "publishedDateTime": "2020-11-11T20:56:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-biden-chooses-longtime-adviser-ron-klain-as-chief-of-staff.md",
-      "title": "Biden chooses longtime adviser Ron Klain as chief of staff",
-      "excerpt": "WASHINGTON -- President-elect Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience in the top role in his White House.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_025bae0c36904b74920fce02f688b0d9_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460",
-      "publishedDateTime": "2020-11-11T20:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -48,6 +48,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump hints at 2024 presidential run in remarks at White House party"
+    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
+    publishedDateTime: 2020-12-02T15:49:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/alzBlzVKkEM/trump-hints-at-2024-presidential-run"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump continues fight in Wis., Pa.: ‘We have found many illegal votes’"
     excerpt: "President Trump promised to bring a case disputing the Wisconsin vote count after the recount was completed there, and said his campaign was disputing a number of votes far bigger than the margin President-elect Joe Biden won."
     publishedDateTime: 2020-11-29T00:03:00Z
@@ -63,6 +79,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20331846075368.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Trump hints at 2024 presidential run in remarks at White House party"
+    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
+    publishedDateTime: 2020-12-02T16:06:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20291046912810.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "9YDmb3EUHZUDEiWPj5UqTUgG3M7LT41rJDAUIbMKD/P8YPOWxGyBwkEFL3Jx5gqcLrDcPrTd2mT6Z6LOCAoM5UrDjUctk1q85WfBF+3AMmjS1R2T6L7Pkp3vvOeQvCjSvBv6bLRmkwy1Qy0lzN/a1BNmNTCDCSz0CNIFjkvjmwOCTN9ZxOC8WNXOfCPdGvnuOL3mIuSWtRzKtaSiz7NSNBmJK3vZ6wCAaRuNIFLOIr7xEXeNF4qfjHHDHaV+ZN1h7wcH2SRX32NmwriHWGWZkX7JAgpGyIUcZpg49GEvjGT+b0IIuRX7KRCuR4dyXAdwnA++caaNxZvE65ChqktvZ0097kn/hjnivn2GzF0Nc/Jy/JzNCs7tt4SfJXkg+ToDfSECH3DqWgftO/vAN5uFxCQ8zCTGv52l3C1v5aPbpumOySuW13DuwH13vU1FR9A6eZpIEG7yQCesa2PPotVtAUyVR6i9L3DsKeORHfkiKjN8iZVf3cBznO/Xu81oOXZuB9IqZFVfXQSzix+qAI2rpQ==;Upf2yPRo3RwHvGF7ZJt37A=="

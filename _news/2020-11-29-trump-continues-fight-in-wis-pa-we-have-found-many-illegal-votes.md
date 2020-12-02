@@ -48,6 +48,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump hints at 2024 presidential run in remarks at White House party"
+    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
+    publishedDateTime: 2020-12-02T15:49:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/alzBlzVKkEM/trump-hints-at-2024-presidential-run"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump hints at 2024 presidential run in remarks at White House party"
+    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
+    publishedDateTime: 2020-12-02T16:06:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20291046912810.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Donald Trump Jr to be featured in super PAC ads in Georgia Senate race aimed at mobilizing Trump voters"
     excerpt: "Top aides to Donald Trump Jr. are launching a super PAC aimed at boosting GOP voter turnout in the Jan. 5 U.S. Senate runoff elections in Georgia, which will be key to which party controls the majority in the chamber in the next two years and whether Republicans have a say in President-elect Biden's agenda."
     publishedDateTime: 2020-11-30T14:48:00Z

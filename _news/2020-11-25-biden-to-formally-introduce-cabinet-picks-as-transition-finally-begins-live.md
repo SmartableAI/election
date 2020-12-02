@@ -590,6 +590,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Live politics updates: President-elect Biden to discuss economic crisis with workers and small-business owners"
+    excerpt: "President-elect Joe Biden plans to meet online Wednesday with workers and small-business owners to discuss the economic crisis, as part of his preparations for taking office. Biden highlighted the need for more federal stimulus spending Tuesday while introducing his economics team,"
+    publishedDateTime: 2020-12-02T15:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/02/presidential-transition-updates-politics-joe-biden-donald-trump/3791958001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3791958001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3791958001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/0ea21f1c-a0a4-477a-be43-069126ee14c8-biden_economics_team.jpg?auto=webp&crop=7462,4198,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden's Novel Approach to Climate Change Could Side-Step a Divided Congress"
     excerpt: "As the country burned and flooded, Joe Biden leaned into climate change more than any other general-election presidential contender in U.S. history. Now, even as he faces the possibility of a divided Congress,"
     publishedDateTime: 2020-11-28T23:01:00Z

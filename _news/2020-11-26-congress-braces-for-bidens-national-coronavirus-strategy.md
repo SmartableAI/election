@@ -969,6 +969,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Transition Latest: Harris Promises Action on Hunger; Trump Challenges Wisconsin Results"
+    excerpt: "Although the federal General Services Administration recognized President-elect Joe Biden as the “apparent winner” of the Nov. 3 election last week, President Donald Trump is challenging the results in multiple battleground states."
+    publishedDateTime: 2020-12-02T16:43:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/transition-latest-biden-weighs-emanuel-for-cabinet-trump-headed-to-georgia/2753281/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/transition-latest-biden-weighs-emanuel-for-cabinet-trump-headed-to-georgia/2753281/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/transition-latest-biden-weighs-emanuel-for-cabinet-trump-headed-to-georgia/2753281/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 82
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/Diptych-win2.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
     excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."
     publishedDateTime: 2020-11-30T23:16:00Z

@@ -589,6 +589,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Twitter keeps flagging Trump for disinformation because Trump keeps tweeting disinformation"
+    excerpt: "This is a nonsense turducken, a false claim from a disreputable source stuck into a Trump tweet that layers on its own falsehood. The claims about Dominion voting machines are fal"
+    publishedDateTime: 2020-12-02T16:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/twitter-keeps-flagging-trump-disinformation-because-trump-keeps-tweeting-disinformation/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/twitter-keeps-flagging-trump-disinformation-because-trump-keeps-tweeting-disinformation/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/twitter-keeps-flagging-trump-disinformation-because-trump-keeps-tweeting-disinformation/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H2KWBWRFJAI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 978
+        isCached: true
   - title: "Trump reportedly told an ally he knows he lost the 2020 election but wants revenge on Democrats for disputing his 2016 win"
     excerpt: "He is refusing to concede partly because he is still furious that Barack Obama and Hillary Clinton said Russia helped him win in 2016, CNN reported."
     publishedDateTime: 2020-11-20T10:58:00Z
@@ -636,6 +652,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H23S6CBJM4I6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Attorney General Barr contradicts Trump, says no evidence of widespread election fraud"
+    excerpt: "Attorney General William Barr said the Justice Department has not found evidence of widespread voter fraud in the 2020 election. This contradicts President Trump’s baseless claims about the election."
+    publishedDateTime: 2020-12-02T16:28:00Z
+    webUrl: "https://www.cbsnews.com/video/attorney-general-barr-contradicts-trump-says-no-evidence-of-widespread-election-fraud/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/02/6ba25d8e-ee0e-43ad-a59b-2bba33c28769/thumbnail/1200x630/42852c99b5f0f455fa5bc95bed3f7d80/1202-cbsn-agbarr-599833-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "More claims of wrongdoing, still no evidence: Trump asks judge to throw out questioned ballots or the entire election in Pennsylvania"
     excerpt: "The Trump campaign has sued in key states he has lost, including Pennsylvania, Michigan, Arizona and Nevada, seeking to overturn the results."
@@ -800,6 +830,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "REMbBC/bKBnc9NXR9rO6Z4/vUGeJgRfQZhtFNqZkDi6zCeUjLYSexCLH0Mg3SLPUAqtmz0NeCQgyS1fu9q/XuSHzrKyIZdEBLn8eK3eoHGuA9J7DFtuH2WsFziXyHReoaYDirZFweRwE5rpsUPY72LEUiwMOl94PFtxiifZzRb1LmHPFJmEDeMVR2jFmAR+A75xbO/dtseVXAKFOzpZQWG5b26D/S1bvSLLofs0B4eplZd3EbyeT6gjCc+S9xBpWpiRuweJR61LiGs8UtJBTGKNWqTQ0UwPXa8eZ7tmB/bjK7ChtuAPeStLW5lkFl5IMTgoY5Sf2ewmqwibpARENQAyo0pGi18hfKNOBpodTj/U=;K9s/h50xyTdowTxm5m4v4w=="
+secured: "ZcoBuh1t3J+ocOfHcbxEb/DQGMM14h3kdj5ysYOG516c4XktjIA9J+EYayBgpoZ47di3FsXUzhfPgOVLLwKTtphqBbEegJR2DHO78XjReNRApgzjrUkHIhudEypEBYxkF6b2enZdhtRbT0+TqiFMKhLvI5juWufjUklEGB3ugD6qizIOG1aUe66XxrILMQ9LTS/m7jNvho9NfISV7PjKmOx5SiE/dM/OU2niYVK1bJ8AUx90kq82V5yYVuxQDf0dCFEJUKAEAsA7kRz81x2JSwQK/rD1eNFrD5tSt/duAdt6i1Ne8ZcJjoHAh7oFlEhqm3644ypI2qA5EBmfJpjQMdZKJu1j3dW0LKRsuWdOGMSyncHO7vrVwMrkEuvXmc3GeOtygX5Vp3DqVsks8/y0zHILA6rrRNtQKn5qyalbmMBdHdkYLPMIrqw++TyNHdHLrGkT0zR+wXO+C0aQuKddiJsROywhTlm60os4X5xCQeqaned5Fqq8hZilHB1KEFK/BDW46jCbPZN8sl/HOY+DbA==;Z1cAg20YyQjPOyjTROWqug=="
 ---
 

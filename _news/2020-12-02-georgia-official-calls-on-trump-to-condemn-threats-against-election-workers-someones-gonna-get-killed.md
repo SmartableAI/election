@@ -171,6 +171,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. Senate panel votes to approve Trump FCC nominee"
+    excerpt: "The U.S. Senate Commerce Committee voted on Wednesday to approve the nomination of a senior Trump administration official involved in an effort to seek new social media regulations to a seat on the Federal Communications Commission."
+    publishedDateTime: 2020-12-02T15:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-tech-idUSL1N2II1LY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2II1LY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1LY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "K5FHY4QlaVU23wemaYwir1+6tb+TDeFAxj08rlTl/Tp9skFXg4Z184kWt774+CKH1yS0GgqTBDxcGJtsPYmr0wgML2PWShg+BbKN12FDmBkagCTVTVfSJ06GQNctoQIauS4ar/kE16Q+dqvxVpSGAn97HKVLsqVbYQaLujQW9ku0IQdSgbN05nayKaC/XYmHiw4clmv+1QhZFUCqrUel+QV9Gwbz/PhWKiulNrGXPXlnRyfzz1EitC9hTJpPamJ+FuteyyHv/BruT9l7bWn9pd6o+2zfYVERoTLZ8LmqWhJTEvw+a/wYm9t+aiqxu3V4LxwIKsN+mB3AYN3ZLOCj0njOCxY3izTKrA1LtFykaDY=;YJrHRP/d8J7a/qWR+3WcbA=="
 ---

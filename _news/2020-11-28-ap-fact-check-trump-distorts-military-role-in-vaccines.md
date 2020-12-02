@@ -583,6 +583,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Twitter keeps flagging Trump for disinformation because Trump keeps tweeting disinformation"
+    excerpt: "This is a nonsense turducken, a false claim from a disreputable source stuck into a Trump tweet that layers on its own falsehood. The claims about Dominion voting machines are fal"
+    publishedDateTime: 2020-12-02T16:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/twitter-keeps-flagging-trump-disinformation-because-trump-keeps-tweeting-disinformation/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/twitter-keeps-flagging-trump-disinformation-because-trump-keeps-tweeting-disinformation/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/twitter-keeps-flagging-trump-disinformation-because-trump-keeps-tweeting-disinformation/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H2KWBWRFJAI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 978
+        isCached: true
   - title: "Trump reportedly told an ally he knows he lost the 2020 election but wants revenge on Democrats for disputing his 2016 win"
     excerpt: "He is refusing to concede partly because he is still furious that Barack Obama and Hillary Clinton said Russia helped him win in 2016, CNN reported."
     publishedDateTime: 2020-11-20T10:58:00Z
@@ -630,6 +646,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H23S6CBJM4I6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Attorney General Barr contradicts Trump, says no evidence of widespread election fraud"
+    excerpt: "Attorney General William Barr said the Justice Department has not found evidence of widespread voter fraud in the 2020 election. This contradicts President Trump’s baseless claims about the election."
+    publishedDateTime: 2020-12-02T16:28:00Z
+    webUrl: "https://www.cbsnews.com/video/attorney-general-barr-contradicts-trump-says-no-evidence-of-widespread-election-fraud/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/02/6ba25d8e-ee0e-43ad-a59b-2bba33c28769/thumbnail/1200x630/42852c99b5f0f455fa5bc95bed3f7d80/1202-cbsn-agbarr-599833-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "More claims of wrongdoing, still no evidence: Trump asks judge to throw out questioned ballots or the entire election in Pennsylvania"
     excerpt: "The Trump campaign has sued in key states he has lost, including Pennsylvania, Michigan, Arizona and Nevada, seeking to overturn the results."

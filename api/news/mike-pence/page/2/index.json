@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-03-borat-2-how-tsa-security-guards-almost-ruined-the-mike-pence-scene.md",
+      "title": "Borat 2: How TSA Security Guards Almost Ruined the Mike Pence Scene",
+      "excerpt": "According to Sacha Baron Cohen, one of the biggest stunts in the Borat sequel involving Vice President Mike Pence almost didn’t happen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/",
+      "originalUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/11/borat-2-header.jpg",
+          "width": 1400,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/amp/",
+      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/amp/",
+      "publishedDateTime": "2020-11-03T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBR",
+        "domain": "cbr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-11-01-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween.md",
       "title": "Lizzo dresses as fly in Mike Pence's hair for Halloween",
       "excerpt": "Lizzo used Halloween to troll Vice President Pence, dressing up as the highly buzzed-about fly that landed on his head during the vice presidential debate while encouraging her fans to vote.",
@@ -1496,63 +1539,6 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-pence-calls-on-biden-to-come-forward-and-come-clean-with-answers-on-son-hunters-scandal.md",
-      "title": "Pence calls on Biden to 'come forward and come clean' with answers on son Hunter's scandal",
-      "excerpt": "Vice President Mike Pence called on his predecessor, Joe Biden, to be frank and honest with the American people Friday about whether he was involved in or benefited from his son Hunter's overseas business interests.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpM7Ih8I3tQ/mike-pence-joe-biden-hunter-biden-come-clean",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpM7Ih8I3tQ/mike-pence-joe-biden-hunter-biden-come-clean",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 510,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6db76cb0-7ce3-424b-b060-f98a7d5f92dd/6c22e892-08d6-4f6f-9ea3-d934edbc5ea3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-pence-joe-biden-hunter-biden-come-clean.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-joe-biden-hunter-biden-come-clean.amp",
-      "publishedDateTime": "2020-10-23T19:19:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Mike Pence"
       ]
     }

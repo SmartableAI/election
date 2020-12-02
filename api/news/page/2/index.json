@@ -2,6 +2,166 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-01-fired-cybersecurity-chief-may-include-trump-attorney-in-lawsuit-over-death-threats.md",
+      "title": "Fired cybersecurity chief may include Trump attorney in lawsuit over death threats",
+      "excerpt": "Former Cybersecurity and Infrastructure Security Agency Director Chris Krebs said Tuesday he plans to take legal action against people who have threatened his life after he disagreed with his onetime boss, President Trump, over the validity of the Nov. 3 election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWbFVmoKkmo/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWbFVmoKkmo/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20323077316005-e1605728670595.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp",
+      "publishedDateTime": "2020-12-01T09:26:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-the-daily-202-ousted-us-attorney-removed-by-barr-as-he-investigated-trump-associates-lands-new-job.md",
+      "title": "The Daily 202: Ousted U.S. attorney, removed by Barr as he investigated Trump associates, lands new job",
+      "excerpt": "During a noon meeting in a suite at the Pierre hotel in Manhattan on a Friday in June, Attorney General Bill Barr pressured Geoffrey Berman to step aside as the U.S. attorney for the Southern District of New York.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IAW7TCUQP5FAVGSQ44D7LNWC7Y&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp",
+      "publishedDateTime": "2020-12-01T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-sean-hannity-says-trump-should-pardon-himself-and-his-family-to-avoid-a-witch-hunt-experts-say-its-not-that-simple.md",
+      "title": "Sean Hannity says Trump should pardon himself and his family to avoid a ‘witch hunt.’ Experts say it’s not that simple.",
+      "excerpt": "Five days after President Trump pardoned his former national security adviser Michael Flynn, Fox News host and Trump ally Sean Hannity offered a suggestion on Monday about who the president should pardon next: himself and his family.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RDK2IJVBFMI6VPQGV5KRJ3QDQU.jpg&w=1440",
+          "width": 1440,
+          "height": 942,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/?outputType=amp",
+      "publishedDateTime": "2020-12-01T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-executive-at-nonprofit-that-helped-in-georgia-audit-has-history-of-anti-trump-tweets.md",
       "title": "Executive at nonprofit that helped in Georgia audit has history of anti-Trump tweets",
       "excerpt": "The executive director of a San Francisco-based nonprofit that was tapped by Georgia’s secretary of state to assist in the state’s audit has a history of anti-Trump tweets, but has insisted that he does not “bring them to work.”",
@@ -814,7 +974,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1410,
+      "heat": 1430,
       "tags": null,
       "images": [
         {
@@ -1171,162 +1331,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-former-top-admiral-alarmed-by-pentagon-purge-says-trump-still-has-time-to-do-something-really-destructive.md",
-      "title": "Former top admiral alarmed by Pentagon purge says Trump still has time to do something 'really destructive'",
-      "excerpt": "\"There are some real Trump loyalists there now in charge,\" former Chairman of the Joint Chiefs of Staff Adm. Mike Mullen said Sunday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11",
-      "originalUrl": "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc54a4550e71a0011558043?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp",
-      "publishedDateTime": "2020-11-30T12:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-supreme-court-hears-trump-bid-to-bar-illegal-immigrants-from-us-census-count.md",
-      "title": "Supreme Court hears Trump bid to bar illegal immigrants from U.S. census count",
-      "excerpt": "U.S. Supreme Court justices on Monday began hearing arguments on President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5",
-      "originalUrl": "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28A1B5",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5",
-      "publishedDateTime": "2020-11-30T07:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-arizona-wisconsin-to-certify-election-results-monday-trump-may-challenge-outcome.md",
-      "title": "Arizona, Wisconsin to certify election results Monday, Trump may challenge outcome",
-      "excerpt": "President Donald Trump has challenged results in several states, but the president has faced setbacks in many of those legal battles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/25/USAT/a4f30290-dae6-438d-bac6-9a31bad382f3-AFP_AFP_8UN26Z.jpg?auto=webp&crop=1023,575,x0,y77&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6462445002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6462445002",
-      "publishedDateTime": "2020-11-30T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

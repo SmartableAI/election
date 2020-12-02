@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/angry-trump-promises-rally-i
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -157,6 +157,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. Senate panel votes to approve Trump FCC nominee"
+    excerpt: "The U.S. Senate Commerce Committee voted on Wednesday to approve the nomination of a senior Trump administration official involved in an effort to seek new social media regulations to a seat on the Federal Communications Commission."
+    publishedDateTime: 2020-12-02T15:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-tech-idUSL1N2II1LY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2II1LY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1LY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Georgia official calls on Trump to condemn threats against election workers: \"Someone's gonna get killed\""
     excerpt: "One of Georgia's top election officials rebuked President Trump for his rhetoric Tuesday after a local elections worker received a death threat. Gabriel Sterling, a Republican, called on the president and Senators Kelly Loeffler and David Perdue to condemn the threats and warned,"
     publishedDateTime: 2020-12-02T00:04:00Z
