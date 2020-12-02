@@ -2,21 +2,21 @@
 category: news
 title: "US Supreme Court asked to block Biden win in Pennsylvania"
 excerpt: "Republicans attempting to undo President-elect Joe Biden’s victory in Pennsylvania have asked the U.S. Supreme Court to take up their lawsuit, three days after it was thrown out by the battleground st"
-publishedDateTime: 2020-12-01T21:46:00Z
-originalUrl: "https://www.washingtonpost.com/politics/us-supreme-court-asked-to-block-biden-win-in-pennsylvania/2020/12/01/9e564fae-341e-11eb-9699-00d311f13d2d_story.html"
-webUrl: "https://www.washingtonpost.com/politics/us-supreme-court-asked-to-block-biden-win-in-pennsylvania/2020/12/01/9e564fae-341e-11eb-9699-00d311f13d2d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/us-supreme-court-asked-to-block-biden-win-in-pennsylvania/2020/12/01/9e564fae-341e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/us-supreme-court-asked-to-block-biden-win-in-pennsylvania/2020/12/01/9e564fae-341e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+publishedDateTime: 2020-12-02T13:02:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166"
+webUrl: "https://abcnews.go.com/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -3977,6 +3977,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Gp80YGeYFo4rddwz00r8nJ/w83mV7KklZi2j0NWy0eTp87WLrm9tJPWIFT8zDZHfIfYtcQ1iPPu8gbMh8tx6WfafRi1dYrwrnGggX2XGIU8umlZVzU65arxZZWsX422guPHESMH9lfJ1X0MMzloT/2hSnJTHyGGCoRDrPDOzRnMfORDl0TH9zIKf7hytQVRh1NCJJyP6R7/7IjhOLkRAGIUmErXKBD+AS3E8unNlsSlBWWglLq4Bs8KZblzRni2OF32tRR/TEE+EJCl/G58KfRZvpqW/ElfRiRobDymXd8akzY5nccvI+Ck/aHF4jIDdZ/pA9GSo1KYpzOPp+1dxZnnewPc59/gL3C9HaayukLs=;FXCqVw0gMeKp0JXw6kyWkw=="
+secured: "v37/EhGTW+5GvApVieNlnZDEsVmzafptq2jti3B15e1Jv/J8S1WSJEL+f7F+X7SytBoRxdPBixbtKteuzT+7i18D8vkDe/l3QT2E97beP24U7mO+0ilM9j/AQIqyx75IFqGJFBWN1sGwt1JAFVqay7C+ieMtdDJ9V/q9zwor8pktd32aIWkkKuSWMaK8FcxWLAf0Dtlzkuyfkpy9DRmelGoIAOZbcQ5LR0PqElYWeg+inJqXE425Exnc6mE8Qcc2qkId+6QEkEn7O/6jeWLqNiw13z26X+MXL5vnTcjoasYoT2bU8WJSYM/CTtUmLCmgJhLBd+4wx9vEh2LMONkJn2rNMMYipRTfZW/1iDNTPnE=;xw/0bd3k6WnPoLAVyhQzXw=="
 ---
 

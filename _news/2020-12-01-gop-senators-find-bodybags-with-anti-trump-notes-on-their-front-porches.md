@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-senators-finds-bodybags-with-an
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-finds-bodybags-with-anti-trump-notes-on-front-porch.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump Moves Forward With Changes to Federal Hiring, Firing"
+    excerpt: "The Trump administration is rapidly moving forward with a last-minute push to ease hiring and firing standards for many federal workers."
+    publishedDateTime: 2020-12-02T14:20:00Z
+    webUrl: "https://www.wsj.com/articles/trump-moves-forward-with-changes-to-federal-hiring-firing-11606918431"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-moves-forward-with-changes-to-federal-hiring-firing-11606918431"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-moves-forward-with-changes-to-federal-hiring-firing-11606918431"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-266832/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "HMVkCPuXdo9KH83Rxfmggb+HUfzw4oWba02EPrxkpic3061hXyt6diINiaoULyLHG0Dtk7x+kB6F1Vaqfb9CFZIGXML+8XiLmONKVK4Ch6g2tBTmfAVTMSYp5uNEEtFDKLgGooAU75v7VY2lCsEyfpgdirA9Zhg20iphhMIPzZgZX8LB6a9vY9fmhNMVrhlXmyoQedPmp+CIamrnwCblfBCcMqTjf9ojxtQx6LDe33Mjteq+sFERRXZXIpSAZlVuwgo0LeI7j8cy0hmTf0Jzzdsf4TNSg8v4qIN7sctxbCOlzzTm1+M0bnSF0G7CN+lgoI9MK9I7oijk5RGb6wPKPxEYIYBiSvD9XVkXVoYbJ10=;MhlKe7SHyfyQUkiv4/1ArA=="

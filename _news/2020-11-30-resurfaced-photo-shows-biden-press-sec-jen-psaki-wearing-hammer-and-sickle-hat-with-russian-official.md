@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden administration pick Neera Tanden outed sexual harassment victim at liberal think tank: report"
+    excerpt: "President-elect Joe Biden's pick to lead the White House Office of Management and Budget, Neera Tanden — like his other expected nominees — is likely to see a contentious confirmation hearing, but she is no stranger to controversy after reportedly revealing the name of an alleged sexual harassment victim"
+    publishedDateTime: 2020-12-02T14:40:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ygo2Nksy784/biden-pick-neera-tanden-outed-sexual-harassment-victim-liberal-think-tank"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pick-neera-tanden-outed-sexual-harassment-victim-liberal-think-tank.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-neera-tanden-outed-sexual-harassment-victim-liberal-think-tank.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0bef5df3-b1ad-4063-9945-74d7c18dcd09/d317839e-7140-4e34-b763-0f08bbdeea34/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "LRogi49WVf3Egx7ITtYcXv9jAKqVvQp+HhzKwtkCdTBHZSDBw768zsSRRD6SR4nLHiEH1A/jA+RtU1912DHDV7EI/f1mFhmU+ELk7LZDmJzYHtiqOIrNSzuSOjk/BVlY9dFsZlmMsVLL0P0amI3Q4SNaHV443bZJZN1xHkaf/fSFAIXqzWNY/AIWp2Vl3NvOYxtYYUHEX0JLrnwNcZnJDENUmJBpDUtt9CUtpccyxh8HHWY7H/ld27dVgGne3VpmN/7Ni4kk+9XTb/AWyxnZDJf6ehmacwTyUDLUfXyLhDddkPVxXmQy4IGFCXqlJwXSmv7OZYRiuId+FZUBUXAZfpvoGzDR2AOJy2lcru/PezI=;oE4nvF9o2ZcgIBhtdkajCg=="
 ---

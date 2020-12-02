@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/mattis-did-not-disclose-consultant-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mattis-did-not-disclose-consultant-role-column-denouncing-trumps-america-first-policy.amp"
 type: article
 quality: 165
-heat: 165
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden admits Dems 'forgot' rural America, says he did 'something good for the country' by beating Trump"
+    excerpt: "President-elect Joe Biden said Democrats \"forgot\" rural America in an interview with New York Times opinion columnist Thomas L. Friedman published Wednesday."
+    publishedDateTime: 2020-12-02T13:55:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R9EK1Jh2h3k/biden-democrats-forgot-rural-america"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20274669148826.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "VEOvz1TsFvQLdjpNBmZyBkD47Yjt4NH5i3l8QpUvlQnYCus2K4M8tLWHLFCviUbqeneZ1fEL8bDZ9XgVPZVcW6YHiv3C/ydCAnyUn8PLnSRT9AxuC5/mnaJuomJvskfmRjwjp1BlbTO/0DXEiLd3U4AQC7hGm2yKkrv5PTk6iMNQvv3pNsQ5l5Y+aWXTzzfgBTKVzlRI9F5A1k3c2N5ZwRsU+0PtdaofVCAvTRpPW07FlAaWWhjbdCTEbQo+82vIxqnvzqkKmwGJORrBIjc80eJAIjNM+DfacbghSZqXOzOfATurHEDokN2FPRsmAlfCxBoPWxvNbjKIy22byLwtaLwNf4PAMh7e14AHUmvI8H4=;nwF6NvB51rmIj32vU89LKg=="
 ---

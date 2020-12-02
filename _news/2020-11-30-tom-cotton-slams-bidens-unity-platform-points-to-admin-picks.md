@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-slams-bidens-unity-platf
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-slams-bidens-unity-platform-points-to-admin-picks.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20335233191090-e1606762419788.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Sen. Cotton says Neera Tanden has no chance of being confirmed, tells Biden 'go back to the drawing board'"
+    excerpt: "Neera Tanden has “no chance of being confirmed,” Sen. Tom Cotton said on Wednesday."
+    publishedDateTime: 2020-12-02T14:06:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ovAKAOTmZAA/tom-cotton-neera-tanden-no-chance-senate-confirmation"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-neera-tanden-no-chance-senate-confirmation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-neera-tanden-no-chance-senate-confirmation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "RZrivCxDbtotKBaLI1j8T/uaTaEYIhIlJj1BOiN4cfaILT21rFZLLqtGRFi1shZgw+w/5wC0F2U6itvS/9W4U2N4COqBHqBpwiRzhVHZduHvOq3rCquSvaj31LpEsSk1ZPTbvtosHEOMGBD8OSrm9msr0pzAt+8B8YZjWhW9PG0oopmpQFXvJ/wJ8AlN42yKT4sz3aC+mboU/R8B+xSEzNWjM3ZRvPsxz3j3NcvqPxNaNOqBVKt3hvMhydYA1LEuWKPOLFz21yQgaV7CshpDQYFkMehj2sBFSxAipD4o0lzMYKTxtqESIDPg8pwYo1BR0HeUO6ZwMSG0kjZAd1lZ/q0KTxKWC3Xx0iJu9bjPSjs=;EpZEut02x7VVnWY6198Pvw=="

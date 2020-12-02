@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/georgia-audit-nonprofit-executive-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-audit-nonprofit-executive-anti-trump-tweets.amp"
 type: article
 quality: 168
-heat: 268
+heat: 248
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/640/320/44875041_1154346124727858_2661149590434086912_n.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Georgia GOP Official Urges Trump to Condemn Threats Against Election Officials"
-    excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
-    publishedDateTime: 2020-12-02T02:11:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944?mod=hp_listb_pos2"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 146
-    images:
-      - url: "https://images.wsj.net/im-266968/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "teykrorah/dlRyXd+lRRgQLQP4p9nHWG8C80HmFSor6BnKXwhQuv0ykyWUZbQ56PlWVnbP7t2UnqACn04K0A+DgJLvwTNkqko9a3bucCb5rPujuSjr+RePH776OnSY7JOCEL6NxWHHLyeKUjGqymXuaOUqENVWMvjjjgKy8I3UegaklrWTr1zu6ri9pvrMEJXBEzXrME/FVaq78fkxyXofGelDIjQFVpo4/gKLEyL2KHLRUfJpJoGSekQMiTEEqzPwd4HJN5asG39Cyl2F4Tihts+i6GtDy99cW2o1V/qSs3LBKVI1NCnoXge4GbrjHNiMGQbtCgbcM7SA5KO+1LjeMua+OWxyvhJnJk7Yk850U=;/lmAp9hYWIIoQaTfurokDg=="

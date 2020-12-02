@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Cotton says Neera Tanden has no chance of being confirmed, tells Biden 'go back to the drawing board'"
+    excerpt: "Neera Tanden has “no chance of being confirmed,” Sen. Tom Cotton said on Wednesday."
+    publishedDateTime: 2020-12-02T14:06:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ovAKAOTmZAA/tom-cotton-neera-tanden-no-chance-senate-confirmation"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-neera-tanden-no-chance-senate-confirmation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-neera-tanden-no-chance-senate-confirmation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "qeiTrLZXE6muc2pzk3VzUQMyynLjoHAHIa2GZUigrJTHjucJy6KjlLTrnKS9XTm4c8NQwuCZ0Y4MtxQmK9KioDQZLupM39q+SY2B49I2Vdd+JB98a+c1F8ki9e9jIiTRC9vAwQUP8UNdSdew3SZFFOWHQoGo1XHEBL3AKlFAlSE5b/U+a+4bFV9GSN84kWwD3F07zUU1SS3hxhypPa+NDW5cfXu5SXRyBTYFYV9Hk4qY3FZhvm8PDnSdLujkEPCrKdNewbtatGS1H6KgIIwEK9uDxtXyEEWkEmVoybf5Qs1yZ+sS4igrvQLgAvOmI7/dR1WJrIgoOubm/9xTD6aUSi0hHzbJ0gMKlUFwot4VHHY=;Q/mrp8/gYf2SWaB7JnABvg=="
 ---

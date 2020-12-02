@@ -3,8 +3,8 @@ category: news
 title: "Latest on Biden transition to the White House..."
 excerpt: "Watch \"Latest on President-elect Joe Biden's transition to the White House\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-12-02T00:24:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201202081533-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
-webUrl: "https://www.cbsnews.com/live/video/20201202081533-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
+originalUrl: "https://www.cbsnews.com/live/video/20201202071533-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
+webUrl: "https://www.cbsnews.com/live/video/20201202071533-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/02/story_07937071_1606896956.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/02/story_07936521_1606893356.jpg"
     width: 480
     height: 270
     isCached: true
@@ -7307,6 +7307,22 @@ related:
         width: 1440
         height: 959
         isCached: true
+  - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
+    publishedDateTime: 2020-12-02T13:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
     excerpt: "President Donald Trump cast doubt on the integrity of the U.S. election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."
     publishedDateTime: 2020-11-03T03:04:00Z
@@ -12492,6 +12508,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ybyo1Fnbeq1HOHrVTvTmCBCXolxkJWzfAb4mfapABeD5UxVACi04DhDzOZMCFiW0UPea0yqT5QxEOQcLoU7fhti89MkcULQ/4vL9JMZwZo6JEpjlSKw/u8NcnDyzA73LJ59zYk1kPxoTktxPc966ITiG/QgfPQpg8Y9kAUHWzQJrcdzEKkQlj7rFU1Vs4neEdE6DPSTKInPLlYZrE9zbaHqmoPpwzsNkmNoguWN8NHhkzdRMnPpr532l77r1Z8Myk1w3pKlJLiMWh9bGX65j14WpZSbEz1Oc3yCEFAnH2tWZRcfXacNnsiJb7GZm8CDWbHdZd1MzRFl+axx1NlNvn7RGqAjJJLeFFQlsaM3G5Z10KaE+bKEX2PgL61lMZt13k+7ENXAWym1JNqMJHbCKCAr9HA15rptWmbkOUaARUxmCK0YpsIjyLW3UaMPxw7UasK7RvUItBoCXeemQoVKLBUNZqLKbbIYNT9GKtpLk1KwXIZXCS4qMfVPJKhkVR/2ELftCI4CHcAWgngXd+8yNJw==;sH6gF4LNr4V8g2ojIqRAkA=="
+secured: "L7udoXYb8PeBDli+HAjquw7JGD7l4WUPjasFp85AgZR3T9LEurSGyX/ztO9i73ezgh1Lj3fx48/ZlLG8yDJgi7ICDMtlXADkayLDdj2koSHPZ+Igp9Ly6vuzn+9qiD3AGn5x6as6/sQgY4IC9yFkpILMnkvSC6Jjcs4SwLPVHneCpOfk3mdh9KqRbYtaS72PrU6lqFWBz+5Vcp04v8ce9xSUnwD0dhAmos7ifEI4JircC/D1D1H+90jO5RMcsn83/lEdikt4nQ935MTuIZn2FMNEm9hKg6tDpTk344lDB8wUDswl8PoOoUu81uL3hTEzVV3GOc4GciAA5CDVaYokSsk5TpYZ7K46pADsX62ku/g=;EDIrWXN16LB3jOAAqG7PQA=="
 ---
 
