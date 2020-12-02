@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/flynn-pardon-read-file/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/flynn-pardon-read-file/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170114094510-trump-flynn-campaign-trail-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump Has Discussed With Advisers Pardons for His 3 Eldest Children and Giuliani"
+    excerpt: "Rudolph W. Giuliani, who is promoting baseless claims of widespread election fraud, talked about a pardon with President Trump as recently as last week."
+    publishedDateTime: 2020-12-02T03:11:00Z
+    webUrl: "https://www.nytimes.com/2020/12/01/us/politics/rudy-giuliani-pardon.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/01/us/politics/rudy-giuliani-pardon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/us/politics/rudy-giuliani-pardon.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-briefing-rudy-giuliani-pardon1/01transition-briefing-rudy-giuliani-pardon1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "8mwxfEnua2LcdyygTRVh22j6hvqsXIXi1Ri66FI3F1tlFSLVmsxK3MWwm/CqY19ydyOsjFFB63v7suw08cJ4/6G6SvTSDayeAYjhyfyMBF7Ew4F1Rbt4gH2AKcE+Dd9lhGT+rXSIJJ7z6HX2HTFRrRkkmrC93ImRou5z+gZh5Xe4YmhzT7iTBfbxI7j4NNcLWj8WMYL50mltqqZWKv7siLQS84Tm0ivafbTjj/fjBohs7FG6D5M3wsXlVcZZK2yR/O/R6m5Iv6WDqnCZ9HW8txn/Zf70FMI0vCXMkqicigLOFk5RLCZYe4wsAFKAKF9yW6yWvWoz0HfC4aBnzieQ6ugaEm+z1g/TLlnKVJwsxJI=;UVzPn+fKlPqE9oxI17I/7Q=="

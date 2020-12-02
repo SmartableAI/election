@@ -127,6 +127,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump threatens to veto defense bill over social media rule"
+    excerpt: "President Donald Trump threatened to veto must-pass defense policy legislation on Tuesday unless lawmakers agree to repeal a legal shield for social media companies, a move that one senior House staffer called \"a total non-starter\" for Democrats."
+    publishedDateTime: 2020-12-02T03:57:00Z
+    webUrl: "https://www.politico.com/news/2020/12/01/trump-threatens-veto-defense-bill-social-media-442115"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/30/50/55b84843455c9998b73b04e76fd1/20201129-djt-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "JowXMLV4pejHcLQ6K1wRMT17PxqnIfia+mgs7iKMkeezJWvcEZsHjYwhgWafpLb2v2/4m5YrO4Ym59Qdh3hqlg9caNrBS/QxmHMB46GPvAL4VnZvxxhKAmIKndgYc0O4UbySDIV/rwu7w6n9LzD/RtpyKKRWvBZGu2lJ0x2xxs3uEbPGhTOdHA0tAWVx+AMYu//NDbUZP2P5HFhwaE3qXdrkn9kh25QOvY/YgKiuymNj0HQ9vTd01lN6orZ6/FuKHaMZzStKOtC8x6DNmus+Stz0Y0vmWZ7/zcZsj0pLacA04UxcUg0c7hLHVZbGkT4/+Qp2B22j3fa+8NCPWrhk21O55DwBltq9lfO/Yu6N/CQ=;TOGQnBwhkhZyyC+aTYecRw=="
 ---

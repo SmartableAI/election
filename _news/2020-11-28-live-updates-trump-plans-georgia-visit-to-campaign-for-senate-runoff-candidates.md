@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump says he’ll veto defense bill unless Section 230 is terminated"
+    excerpt: ""
+    publishedDateTime: 2020-12-02T04:33:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxDiRQdWroI/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13932a6d-b1f4-4256-b340-5c4d61f03425/d35c9969-b14d-4f46-8554-8f29dc18efb7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Trump speaks out in first interview since Election Day"
     excerpt: "Follow for the latest updates on the 2020 election."
     publishedDateTime: 2020-11-29T06:23:52Z
@@ -154,6 +170,22 @@ related:
     quality: 166
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/529a207d-73d0-460c-9fde-43b3a041b0a5/6f32cf3d-90c4-48e9-85d9-f9b631b23713/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Trump campaign alleges abuse around the process of absentee voting in Wisconsin"
+    excerpt: "A lawsuit was filed Tuesday morning and comes after Wisconsin completed its partial recount — which maintained that Joe Biden won the presidential race in the state — and after Wisconsin Gov. Tony Evers formally certified Biden’s victory Monday night."
+    publishedDateTime: 2020-12-02T03:52:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fk5xH0p5mcw/live-updates-legal-12-2-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-2-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-2-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bc71753-778e-4f60-ad87-1c50cfa1104f/36f89332-d7c5-4524-ab7f-191e86a4ecc4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

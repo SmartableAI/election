@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Democratic PAC billboards push Trump supporters to sit out Georgia Senate runoff vote"
+    excerpt: "The billboards say: \"Perdue/Loeffler Didn't Deliver For Trump, Don't Deliver For Them.\""
+    publishedDateTime: 2020-12-02T03:10:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IW4PfoE5OXA/democratic-billboards-push-trump-supporters-to-sit-out-georgia-senate-runoff-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-billboards-push-trump-supporters-to-sit-out-georgia-senate-runoff-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-billboards-push-trump-supporters-to-sit-out-georgia-senate-runoff-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19c259e9-3646-4cb2-8805-d7925ab8f1ac/48edf0e4-e5c9-4ed9-890c-f23ccfba59d8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump warns Georgia runoff boycott would play 'right into the hands of some very sick people'"
     excerpt: "Trump reiterated his frequent claim that the 2020 election was a “total scam,” but urged his supporters to turn out on behalf of Georgia’s Republican Senate candidates."
     publishedDateTime: 2020-11-27T21:07:28Z

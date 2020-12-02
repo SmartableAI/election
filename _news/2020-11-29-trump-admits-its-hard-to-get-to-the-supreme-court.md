@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-new
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3431877/201130-donald-trump-jm-1222_09c5176df224157034d1666e28d89ff9.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump threatens to veto defense bill over social media rule"
+    excerpt: "President Donald Trump threatened to veto must-pass defense policy legislation on Tuesday unless lawmakers agree to repeal a legal shield for social media companies, a move that one senior House staffer called \"a total non-starter\" for Democrats."
+    publishedDateTime: 2020-12-02T03:57:00Z
+    webUrl: "https://www.politico.com/news/2020/12/01/trump-threatens-veto-defense-bill-social-media-442115"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/30/50/55b84843455c9998b73b04e76fd1/20201129-djt-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "kOLOXKqsHNqv3vgyCCLTzJspxalzlEWcXG//HjkyUcBzM+HjteUZLDpnejFoDf1PsEMP5By8dvUdYjBhCAgEMPmbbi2DPyXec8iY/aG7RhrMmAH6QwTKBss8OQlDWSDBYaf3PiFhoyNx/zBOXthl1Iu2BMJN7ZU4/oGLjt2Ypqqbs/rvYGb2SMU5RHVBAosjw7uBR3RGQaG3kwS6OgKI1Mrd5xTLVs+EmbGkdivsvz2JuABS6IGVwb3j3ELbrqEHNkmanQ7Wuy8vUpjiICcv6Gmej35rJsyb1f5WGvzsrfiKkpnclcRjXWsOYqKf4S4RfEL2UOayQ+2g489BC5diptYpsOIB5C1U+YNg/icUElY=;rKooBE5hJsMHUJ5euNp2qQ=="

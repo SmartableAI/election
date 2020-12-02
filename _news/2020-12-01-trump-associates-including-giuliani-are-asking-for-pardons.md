@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/trump-rudy-giuliani-pard
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/trump-rudy-giuliani-pardons/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump talks of 'another four years' during White House Christmas reception  "
+    excerpt: "President Donald Trump talked during a Christmas reception at the White House on Tuesday about spending four more years in office -- whether that starts in January 2021 or January 2025, according to a source familiar with his comments.\n    \n"
+    publishedDateTime: 2020-12-02T04:22:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lLSg-8QyMQM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/donald-trump-christmas-party-second-term/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/donald-trump-christmas-party-second-term/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201143233-02-trump-1124-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump invites Pennsylvania GOP lawmakers to White House after calling in to baseless voter fraud event"
     excerpt: "President Donald Trump's planned trip to join his attorney Rudy Giuliani in Gettysburg, Pennsylvania, on Wednesday has been canceled, two sources familiar with the matter tell CNN.\n    \n"
     publishedDateTime: 2020-11-25T23:38:59Z

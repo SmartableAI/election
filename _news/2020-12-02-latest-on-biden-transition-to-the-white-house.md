@@ -3,8 +3,8 @@ category: news
 title: "Latest on Biden transition to the White House..."
 excerpt: "Watch \"Latest on President-elect Joe Biden's transition to the White House\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-12-02T00:24:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201202011707-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
-webUrl: "https://www.cbsnews.com/live/video/20201202011707-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
+originalUrl: "https://www.cbsnews.com/live/video/20201202041533-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
+webUrl: "https://www.cbsnews.com/live/video/20201202041533-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/02/story_07929750_1606871850.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/02/story_07932562_1606882554.jpg"
     width: 480
     height: 270
     isCached: true
@@ -12492,6 +12492,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "8NbgiR1DBCv8H9O2yzrnoZjIX1RlNeDKYtXzaj7foVXQ81cbfU/+5edUKZ3ETailzRIFLZy/lwo6Y02eCNfbvDpT2fPrxmbm6FOPL5fBuyxCNMgORhQcY/ZOniZgmlsH9/k1BgZMnJrFSb+eMD5PYQlGqJn+ydVq7KA5TLbMHkAX1o6ak3pULYGnwpVT9I7/Cz66hndFIOL3+NhwU9OYRPa6E3AkM73LKFvlizUp8V0/3u7wanS1dShwGjhNAT2q9IKyD7WrjSjvnhNF7vbG1FEWcLpAgfvPxXgi7TfgcI2jm9NiYIopTB63dla5nusQys62zJGRTdmJWFVmrhBqGhpD/TO1cfIQR77HCM1xR7Q=;AFgt9smf0ymb6OTpIBiqkw=="
+secured: "/1sTREI+pRo4+p/TkPCBX9ZdzF9U3nGZfhHZQ/P2wm3CXR5ONhrNBo3CI3MhOVtrk85630Co/OraTO2eLJ8dEe22Jb/y+NFHozccYzBPdSgQvWFnXlzfXFG/vsF1/rAU/B+lav38Vhs0+ZCDlCoCVyfYJuQXaiBy7vSCdgnWX7Wi16l95RfCvVbNnWhBgsHeoo+5vbDKQIsNDBza7ZTUkgfvkF1JYE30syCHInQpVQGJBrXuf4V6aavzGDBeL1emu6u5h7psYWfy94BvMiHRZ2oRpTRq556Jfr5EhghoK0jhaD+qT3MDpIXsgDEdEZd1lE4S5o/9QAmCNIjeBKgvNn8ePwLs5Rif3M0ZxcZSNjQ=;1Z+sQUfgaFcaUKMQoQVKQw=="
 ---
 

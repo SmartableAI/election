@@ -287,6 +287,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump campaign files last-ditch lawsuit in attempt to overturn Biden win in Wisconsin"
+    excerpt: "The suit, which legal experts said has little chance of prevailing, argues that elections officials improperly accepted more than 200,000 votes, but does not allege fraud."
+    publishedDateTime: 2020-12-02T04:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/wisconsin-trump-lawsuit/2020/12/01/e75c5570-33f3-11eb-b59c-adb7153d10c2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-trump-lawsuit/2020/12/01/e75c5570-33f3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-trump-lawsuit/2020/12/01/e75c5570-33f3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 133
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X4XC7WBUFII6XKMXD5GFHUVHI4.jpg&w=1440"
+        width: 1440
+        height: 1057
+        isCached: true
   - title: "Lame-duck president pardons turkey; Trump breaks post-election isolation for tradition"
     excerpt: "President Donald Trump emerged from self-imposed isolation on Tuesday to show that at least one thing in Washington would run according to tradition: the pardoning of a Thanksgiving turkey."
     publishedDateTime: 2020-11-24T21:48:00Z

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Has Discussed With Advisers Pardons for His 3 Eldest Children and Giuliani"
+    excerpt: "Rudolph W. Giuliani, who is promoting baseless claims of widespread election fraud, talked about a pardon with President Trump as recently as last week."
+    publishedDateTime: 2020-12-02T03:11:00Z
+    webUrl: "https://www.nytimes.com/2020/12/01/us/politics/rudy-giuliani-pardon.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/01/us/politics/rudy-giuliani-pardon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/us/politics/rudy-giuliani-pardon.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-briefing-rudy-giuliani-pardon1/01transition-briefing-rudy-giuliani-pardon1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "XqS4YYTCJGmdgMpdBGoH9q+ss7lVG83dLM3mpraCKAIPNF56gn2M385krfJ27L1VDYWYLcJOAQOyYi8kzE4ymbqY9m6jJo7Gdir4UQomMTGvmxilNs0IsRXieC8i/mm92iwdAcEcUhstcuYYC3UoEtm7ObRzNZyhX5xdSQvT3yJrg7R4g4+a5DlWUb+q6ehvgaDR6j8mmPVfixX7z+2/9puQWFRGTKh9nZ8l0bH1GmWoZdFOQAH9RcQflXcQ4zCQ/tmNCMk08uyaSfZPAl94CJHJR+o3kGa4NulF5aE0nvtnHEjZJJmcRJz39K9fLBP+9s5HudIGYhyUxxdHhAOH2JDX9kirZ0B9dMbMfuhpM00=;eGPBiP/iYPckdAGZ+f/HGw=="
 ---
