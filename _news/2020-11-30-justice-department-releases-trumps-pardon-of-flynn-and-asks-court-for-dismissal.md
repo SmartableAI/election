@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Federal appeals court rules against the Trump administration's public charge rule"
+    excerpt: "The Ninth Circuit Court of Appeals on Wednesday ruled against the Trump administration's controversial \"public charge\" rule that critics say has a chilling effect on immigrants who may need to seek medical assistance, marking the latest blow against the regulation.\n    \n"
+    publishedDateTime: 2020-12-02T21:58:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q3CoLbVR-uQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/immigration-public-charge/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/immigration-public-charge/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170612151430-ninth-u-s-circuit-court-of-appeals-0612-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court hears arguments in Trump plan to cut undocumented immigrants from Census"
     excerpt: "The Supreme Court on Monday will return and take up another of President Donald Trump's immigration-related policies as it considers the attempt to exclude undocumented immigrants from being counted in the Census totals when seats in Congress are divvied up between the states next year.\n    \n"
     publishedDateTime: 2020-11-30T12:03:56Z

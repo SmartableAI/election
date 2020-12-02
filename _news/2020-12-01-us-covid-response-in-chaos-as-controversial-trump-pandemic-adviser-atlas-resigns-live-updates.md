@@ -34,7 +34,7 @@ related:
   - title: "Trump backs McConnell's Republican COVID-19 relief package: Mnuchin"
     excerpt: "President Donald Trump will sign coronavirus relief legislation proposed by Republican Senate Majority Leader Mitch McConnell, Treasury Secretary Steven Mnuchin told reporters on Wednesday, should the proposed package pass the U."
     publishedDateTime: 2020-12-02T20:48:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-1-trump-backs-mcconnells-republican-covid-19-relief-package-mnuchin-idUSL1N2II1MU"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C2ES"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C2ES"
     type: article
@@ -43,7 +43,7 @@ related:
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543242379&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11AQ"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543258818&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11XI"
         width: 817
         height: 545
         isCached: true

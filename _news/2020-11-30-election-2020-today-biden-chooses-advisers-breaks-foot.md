@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-biden-ch
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 1000
+heat: 1020
 published: true
 
 provider:
@@ -350,6 +350,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543087688&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB039D"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden, top Democrats swing behind bipartisan virus aid bill"
+    excerpt: "Biden said the developing aid package “wouldn’t be the answer, but it would be the immediate help for a lot of things.” He wants a relief bill to pass Congress now, with more aid to come next year. Biden’s remarks followed an announcement by House Speaker Nancy Pelosi,"
+    publishedDateTime: 2020-12-02T05:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-gop-leader-sticking-with-partisan-covid-relief-plan/2020/12/02/1674ef56-345e-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-gop-leader-sticking-with-partisan-covid-relief-plan/2020/12/02/1674ef56-345e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-gop-leader-sticking-with-partisan-covid-relief-plan/2020/12/02/1674ef56-345e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden urges Congress to pass coronavirus package, promises more action"
     excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."

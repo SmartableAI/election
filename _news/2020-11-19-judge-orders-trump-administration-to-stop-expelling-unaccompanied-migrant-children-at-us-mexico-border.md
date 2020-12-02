@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Which Trump official has coronavirus now? This reporter always seems to know first."
+    excerpt: "If you want to find out who in the Trump administration has tested positive for coronavirus, you should probably just set an alert for Jennifer Jacobs’s tweets. The Bloomberg reporter has emerged as the preeminent source for intel on covid-19 cases in and around the White House."
+    publishedDateTime: 2020-11-24T20:08:00Z
+    webUrl: "https://www.washingtonpost.com/media/2020/11/24/white-house-trump-coronavirus-jennifer-jacobs-bloomberg/"
+    ampWebUrl: "https://www.washingtonpost.com/media/2020/11/24/white-house-trump-coronavirus-jennifer-jacobs-bloomberg/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/11/24/white-house-trump-coronavirus-jennifer-jacobs-bloomberg/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OUYQYUQI3AI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "A federal judge ordered the Trump administration to stop deporting migrant children who cross the US-Mexico border alone"
     excerpt: "The Trump administration policy has resulted in thousands of rapid deportations of minors during the coronavirus pandemic."
     publishedDateTime: 2020-11-20T00:58:00Z

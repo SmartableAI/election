@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/flynn-pardon-read-file/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/flynn-pardon-read-file/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 295
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180319134937-joseph-e-digenova-smerconish-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Expect a 'flurry' of pardons before Trump leaves office, source says"
+    excerpt: "The public should expect a \"flurry\" of pardons before President Donald Trump leaves office, a source close to the White House says, as has happened at the end of previous administrations.\n    \n"
+    publishedDateTime: 2020-12-02T22:40:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SWj2s8ZcYV4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/donald-trump-flurry-of-pardons/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/donald-trump-flurry-of-pardons/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -92,6 +108,22 @@ related:
     quality: 130
     images:
       - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-briefing-rudy-giuliani-pardon1/01transition-briefing-rudy-giuliani-pardon1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "The Justice Department is investigating a potential bribery scheme for a Trump pardon."
+    excerpt: "The Justice Department has been investigating whether intermediaries for a federal convict offered White House officials a bribe in exchange for a potential pardon or commutation from President Trump,"
+    publishedDateTime: 2020-12-02T22:14:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-brieft-pardon/01transition-brieft-pardon-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

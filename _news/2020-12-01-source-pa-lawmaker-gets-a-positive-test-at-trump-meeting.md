@@ -25,21 +25,51 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Even Trump's fiercest critics say he may have gotten some world affairs right"
-    excerpt: "Some experts, ex-diplomats and even President Donald Trump's opponents concede his overseas initiatives have produced limited, qualified successes."
-    publishedDateTime: 2020-11-24T08:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/11/24/even-trump-critics-say-he-may-have-gotten-some-foreign-policy-right/6353491002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6353491002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6353491002"
+  - title: "Republican U.S. lawmakers may defy Trump over defense bill veto threat"
+    excerpt: "The chairman of the U.S. Senate Armed Services Committee and some other Republican lawmakers pushed back on Wednesday against President Donald Trump's threat to veto a massive defense bill unless it eliminates a federal law protecting tech companies."
+    publishedDateTime: 2020-12-02T20:54:00Z
+    webUrl: "https://www.reuters.com/article/usa-defense-congress-idUSKBN28C344"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C344"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C344"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/e35eb054-4f0c-4242-817e-388e7e50cf16-GTY_1222600011.jpg?auto=webp&crop=3615,2033,x0,y74&format=pjpg&width=1200"
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543247195&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11Q1"
+        width: 797
+        height: 545
+        isCached: true
+  - title: "Supreme Court hears Trump bid to bar illegal immigrants from U.S. census count"
+    excerpt: "U.S. Supreme Court justices on Monday began hearing arguments on President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states,"
+    publishedDateTime: 2020-11-30T15:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump threatens to veto defense policy bill unless Congress repeals Section 230, a safeguard for social media companies"
+    excerpt: "President Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users."
+    publishedDateTime: 2020-12-02T16:48:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-defense-bill-section-230-veto-20201202-w27r6au4ybbv7pl6iaw27qqlcm-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 81
+    images:
+      - url: "https://www.chicagotribune.com/resizer/jpb7yUyEnSZw9GiaZNZjTGH2ujg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QEGKLYVSHAPI2YREJM6WIDPREA.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
   - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
     excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The."

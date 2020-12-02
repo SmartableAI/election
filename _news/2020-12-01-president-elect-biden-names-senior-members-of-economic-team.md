@@ -365,6 +365,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden, top Democrats swing behind bipartisan virus aid bill"
+    excerpt: "Biden said the developing aid package “wouldn’t be the answer, but it would be the immediate help for a lot of things.” He wants a relief bill to pass Congress now, with more aid to come next year. Biden’s remarks followed an announcement by House Speaker Nancy Pelosi,"
+    publishedDateTime: 2020-12-02T05:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-gop-leader-sticking-with-partisan-covid-relief-plan/2020/12/02/1674ef56-345e-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-gop-leader-sticking-with-partisan-covid-relief-plan/2020/12/02/1674ef56-345e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-gop-leader-sticking-with-partisan-covid-relief-plan/2020/12/02/1674ef56-345e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden urges Congress to pass coronavirus package, promises more action"
     excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
     publishedDateTime: 2020-12-01T20:15:00Z

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Federal appeals court rules against the Trump administration's public charge rule"
+    excerpt: "The Ninth Circuit Court of Appeals on Wednesday ruled against the Trump administration's controversial \"public charge\" rule that critics say has a chilling effect on immigrants who may need to seek medical assistance, marking the latest blow against the regulation.\n    \n"
+    publishedDateTime: 2020-12-02T21:58:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q3CoLbVR-uQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/immigration-public-charge/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/immigration-public-charge/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170612151430-ninth-u-s-circuit-court-of-appeals-0612-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Trump administration is considering shortening the recommended quarantine time for Covid-19"
     excerpt: "President Donald Trump's coronavirus task force is reviewing evidence about how long people need to quarantine to be safe and slow the spread of Covid-19, according to Assistant Secretary for Health Adm. Brett Giroir.\n    \n"
     publishedDateTime: 2020-11-24T22:39:35Z

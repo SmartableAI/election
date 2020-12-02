@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-militar
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
 type: article
 quality: 111
-heat: -1
-published: false
+heat: 131
+published: true
 
 provider:
   name: Business Insider
@@ -31,83 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Supreme Court hears Trump bid to bar illegal immigrants from U.S. census count"
-    excerpt: "U.S. Supreme Court justices on Monday began hearing arguments on President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states,"
-    publishedDateTime: 2020-11-30T15:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
+  - title: "Coronavirus updates: Pence says vaccine could be shipped in 2 weeks; Gov. Ron DeSantis says Florida schools to stay open in 2021"
+    excerpt: "California Gov. Gavin Newsom warns of tougher stay-at-home order. Michigan Rep. John Chirkun tests positive. U.S. deaths top 268K. Latest COVID news."
+    publishedDateTime: 2020-12-01T12:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/12/01/covid-news-cdc-vaccine-anchorage-california-florida-schools/6470606002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6470606002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6470606002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
+      name: USA Today
+      domain: usatoday.com
+    quality: 96
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Which Trump official has coronavirus now? This reporter always seems to know first."
-    excerpt: "If you want to find out who in the Trump administration has tested positive for coronavirus, you should probably just set an alert for Jennifer Jacobs’s tweets. The Bloomberg reporter has emerged as the preeminent source for intel on covid-19 cases in and around the White House."
-    publishedDateTime: 2020-11-24T20:08:00Z
-    webUrl: "https://www.washingtonpost.com/media/2020/11/24/white-house-trump-coronavirus-jennifer-jacobs-bloomberg/"
-    ampWebUrl: "https://www.washingtonpost.com/media/2020/11/24/white-house-trump-coronavirus-jennifer-jacobs-bloomberg/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/11/24/white-house-trump-coronavirus-jennifer-jacobs-bloomberg/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OUYQYUQI3AI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "U.S. Supreme Court mulls Trump bid to exclude illegal immigrants from population count"
-    excerpt: "U.S. Supreme Court justices on Monday are set to consider President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states, a facet of his hardline stance toward immigration being pursued in his"
-    publishedDateTime: 2020-11-30T11:39:00Z
-    webUrl: "https://www.reuters.com/article/topNews/idUSKBN28A1B5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "U.S. Supreme Court mulls Trump bid to exclude illegal immigrants from population count"
-    excerpt: "U.S. Supreme Court justices on Monday are set to consider President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states, a facet of his hardline stance toward immigration being pursued in his"
-    publishedDateTime: 2020-11-30T16:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-census/u-s-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump's arguments on undocumented immigrants?..."
-    excerpt: "Watch \"What are Trump's legal arguments on removing undocumented immigrants from the census\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-01T04:56:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201201043811-what-are-trumps-legal-arguments-on-removing-undocumented-immigrants-from-the-census/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/01/story_07914228_1606797964.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gannett-cdn.com/presto/2020/12/01/USAT/d930d904-53f3-4af1-bda4-4c595d09cb37-AP20335715496723.jpg?auto=webp&crop=5692,3202,x0,y289&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "LYARwxeTMI+VpiCcIyLrE1yO/A6mvtKFs/viCqrOVRDRsuEjYJQhOSWSs0o5KDbSE2VPtmWrbY5B8Ur1BrOOZuI5gzPCg7POla28QEH8xihYsTzBx+UzkF8CjO1tX1DAbduEN26AnGPhqRCQgcOLXN/JVNjWeZzfT0YswL1y/AGEnQ2o5cZPNhdt9jW6rEtWlLCRt3SQpe+Z0TmMpFTEwzNxvrPjhnjlJytrscqNqmvfa9X6qipLYKUnERVZGdpFIoadYm4VLjqe9CR/9w4bF2vqr5YrwRFSlq2lp67RkV9VG0yBfeE2/F6B5T12+YjYL3kKpE+3v2IJQkO4bJGBddrwXLbsN1D5pRhOpeOtDvo=;Aa3fdwc8OgEYqfTPl5WLJw=="

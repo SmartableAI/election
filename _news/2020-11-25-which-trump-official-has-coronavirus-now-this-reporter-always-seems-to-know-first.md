@@ -31,83 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Supreme Court hears Trump bid to bar illegal immigrants from U.S. census count"
-    excerpt: "U.S. Supreme Court justices on Monday began hearing arguments on President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states,"
-    publishedDateTime: 2020-11-30T15:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
+  - title: "Coronavirus live news: Donald Trump Jr tests positive as Mexico deaths pass 100,000"
+    excerpt: "Obrador rejects criticism as political attacks; Canada fears big rise in cases could overwhelm hospitals; Italy records 37,242 new cases"
+    publishedDateTime: 2020-11-21T00:44:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel?page=with:block-5fb849138f087f6ff1099dcf"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
-        width: 817
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/143d5194599195ebb149ec008a26c09d7481351f/0_154_4256_2553/master/4256.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8c2b6bdcf1c94e3ecf7b746635d35ed3"
+        width: 600
+        height: 360
         isCached: true
-  - title: "U.S. Supreme Court mulls Trump bid to exclude illegal immigrants from population count"
-    excerpt: "U.S. Supreme Court justices on Monday are set to consider President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states, a facet of his hardline stance toward immigration being pursued in his"
-    publishedDateTime: 2020-11-30T11:39:00Z
-    webUrl: "https://www.reuters.com/article/topNews/idUSKBN28A1B5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
+  - title: "Judge orders Trump administration to stop expelling unaccompanied migrant children at US-Mexico border"
+    excerpt: "A U.S. judge has barred the Trump administration from expelling unaccompanied migrant children detained at the border under an emergency health order."
+    publishedDateTime: 2020-11-19T09:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/18/judge-orders-us-stop-expelling-unaccompanied-migrant-children/3771858001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3771858001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3771858001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/b6ca927b-2395-4a79-96c7-871c3f9b002d-AP_Immigration_Separated_Families.jpg?auto=webp&crop=2999,1687,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "U.S. Supreme Court mulls Trump bid to exclude illegal immigrants from population count"
-    excerpt: "U.S. Supreme Court justices on Monday are set to consider President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states, a facet of his hardline stance toward immigration being pursued in his"
-    publishedDateTime: 2020-11-30T16:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-census/u-s-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump has been distorting the military's role in work on a coronavirus vaccine from the very start"
-    excerpt: "The military has contributed mightily to the project, but it won't produce, store, distribute, or administer the vaccines."
-    publishedDateTime: 2020-11-30T23:00:00Z
-    webUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
+  - title: "A federal judge ordered the Trump administration to stop deporting migrant children who cross the US-Mexico border alone"
+    excerpt: "The Trump administration policy has resulted in thousands of rapid deportations of minors during the coronavirus pandemic."
+    publishedDateTime: 2020-11-20T00:58:00Z
+    webUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 111
+    quality: 100
     images:
-      - url: "https://i.insider.com/5fc576ac50e71a0011558155?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fb546ef83df950018ac20df?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump's arguments on undocumented immigrants?..."
-    excerpt: "Watch \"What are Trump's legal arguments on removing undocumented immigrants from the census\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-01T04:56:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201201043811-what-are-trumps-legal-arguments-on-removing-undocumented-immigrants-from-the-census/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/01/story_07914228_1606797964.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "7se8LPfkrsX792zEfCOwbKTvykiF8EvIXOGM7oUXqaVsHqzA1htxmLk/eoigCgv+NtOSgo41adNIDspJY3DBi9655yhSSQJ6JuaItSjGbmEruzcPVXgD2aDNm0jZPp0beN601s5gqGLa3TTTYqCMjpQilVcUG+NtnpfvnkQ1cIPW5y6p3+giMTGOdZDZyaWFOke2XqImGhOFE2rkxKTozDnDUtfoxbP47R+WnRgsk58s0nHGvLXkJcOb4RcOPj6XGlhLwYL+0Ru2eoNOq/VLAC7K0+KlVWrF9hDCFvgiqVOa2DQBLgMzKAacJuJn0+LqVqExIs3ZvKB6WQMyM44JnCjIBcE+0wACjdnp/eBINSyT1lHZULQXKdNIQql4hWFNnWqCvMLTow8pLl+qywx9dCkUV73lOQZkxbE8ZE83mw/OOKjT6UDsN+rKYyM39p/cMl/sUq2bEspZlqhmWkwFHMwEkN6B8wGMYvpYdypvf045MKoQkp6hUXI9S34AOVDNqcHSrTb47oSm+imJa7hI1Q==;Szzpjm3DYow6krH/YslYdw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seeke
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true"
 type: article
 quality: 109
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 320
     height: 209
     isCached: true
+
+related:
+  - title: "Trump administration pushes pay freeze for federal workers, after initially calling for a 1 percent raise"
+    excerpt: "Trump’s early-year budget plan had called for the raise along with proposals to reduce the value of retirement benefits."
+    publishedDateTime: 2020-12-02T21:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZMWMTW3OMI6VNHREW3WFTN36Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "Y247XSG97VWC4+oBaY2YdKleQyFsfk/4SQESAm8A0X2AfbWnyoMVv83l+AwHJ6m5uzLg9em5TefF0Pi0KJ3+1lA0QmLlTxLHzV5rdud1S9J6mtsO9XR2D5OccqyE4zPDKDItvB42yC+ssnwg1WwjM5ciaZsyD0ZozhqK/3LgUxPUcI1L9+/AvVdg0Wd/NIhvK3wahu0lsH6kcuAFDZug79rm9o++jocnN3d75nUaLkop/7jmrzh57wWzqBvFK9i9y7sFb8i4hATanEjotgckGcyz1hL+aT1DOLLKNZSlkx+UXRkUjkaPutlixwlfxNR8+s9lHSuyHCUdWu/2NL+brQOnWqTEaBmCu98dmGI+nzk=;qhd+B4RHguAoqkax1YhliQ=="
 ---

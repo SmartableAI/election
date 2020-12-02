@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris called a nurse on Thanksgiving to thank her for fighting on the Covid frontlines"
-    excerpt: "A friendly phone call is all too normal during Thanksgiving -- that is unless it's coming from the vice president-elect, herself.\n    \n"
-    publishedDateTime: 2020-11-27T20:35:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x6vXyZTyZzI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/kamala-harris-thanksgiving-nurse-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/kamala-harris-thanksgiving-nurse-trnd/index.html"
+  - title: "Dianne Feinstein says she backs Padilla to replace Harris in Senate"
+    excerpt: "Democratic Sen. Diane Feinstein said she backs California Secretary of State Alex Padilla to fill Kamala Harris' US Senate seat when she is sworn in as vice president in January.\n    \n"
+    publishedDateTime: 2020-12-02T22:08:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X3bwZh3Omkc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/dianne-feinstein-alex-padilla-kamala-harris-california-senator/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/dianne-feinstein-alex-padilla-kamala-harris-california-senator/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127130557-kamala-harris-1125-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202164958-dianne-feinstein-alex-padilla-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -63,6 +63,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/01/business/01distortion-harris1/01distortion-harris1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Vice President-elect Kamala Harris picks Tina Flournoy as her chief of staff"
+    excerpt: "Tina Flournoy, who is currently serving as chief of staff to former President Bill Clinton, has been chosen to be Vice President-elect Kamala Harris' chief of staff, according to a source with knowledge of the decision."
+    publishedDateTime: 2020-12-01T05:46:00Z
+    webUrl: "https://www.cnn.com/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 132
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201002511-tina-flournoy-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "somO7G4TsqfAGLvqleAftxVkmUuWNPYmr6wiFf5zvtdluMwGjGAo18g9nO8tQ8dpbufJkh33muF/W4FCDZLvc5z49HE98ITHVg32m9/rUnD66ZV4+MMYoiF6D8r+r2DIPVzXUhTu5ii7P597mRmYFDiPnEDVxv6OpTXkGYgG2madZ9AfmTvMvqb/UNXLC6seS/LTV0LThIlRxbdNMp5tq+PNdpSWCv/tRyPnTDCJNgBnvLK3K87Snw7u/gt+KaOQ+OmtnjmrFEYi1cMDuTAufdBmsbgJhvt+zELmGzEvZfg3aOc1FfLPUnJYXAFpcgG/OecBf0CBvUkno0lkY1WV9EZ1QpLWjKRDwem/Z8ali13xxD624F1INSY5qiEYt8D4r+K5DF53LuzBWcgSuVDoMjz+F/gMOxU10I0b8P637YnJ7EOvv9k2dMBJIClRUoLvlogZSu1DY9sPhhQu9+lITViS0LaMwVJOzlHw2AU5fg5t0O0PUxHB8ncUV47qqxisF2No7n+4J01W63W38vwNAQ==;E/3f28zPfl4srvdyPGYkLA=="

@@ -814,6 +814,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Anticipating Senate bottlenecks, Biden races to fill agency jobs"
+    excerpt: "The president-elect is lining up appointees to fill lower-level jobs that don't require running the gauntlet on Capitol Hill."
+    publishedDateTime: 2020-12-02T18:12:00Z
+    webUrl: "https://www.politico.com/news/2020/12/02/biden-nominations-transition-442046"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/02/biden-nominations-transition-442046"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/02/biden-nominations-transition-442046"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ea/16/2e09e3a34594afdd132347a874a6/1201biden.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Transition Gets Underway in Earnest as Biden Team Fans Out Across Capital"
     excerpt: "Within hours of the Trump administration’s decision to stop blocking the process, representatives of the president-elect began coordinating the handover of power."
     publishedDateTime: 2020-11-25T00:44:00Z
@@ -861,6 +877,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/27/world/27TRANSITION-BRIEFING-TRUMP1/27TRANSITION-BRIEFING-TRUMP1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden meets with struggling workers, calls for more Covid relief amid economic crisis"
+    excerpt: "President-elect Joe Biden on Wednesday used a virtual roundtable with workers and small-business owners struggling economically due to the worsening coronavirus pandemic to offer another full-throated call for more Covid stimulus."
+    publishedDateTime: 2020-12-02T22:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-meet-workers-small-business-owners-economic-crisis-n1249668"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249668"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249668"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432504/201202-biden-roundtable-mc-1149_2bb8284f41748e7662d30264a4e681d1.JPG"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden faces climate purity test"
     excerpt: "Climate activists who helped rally support for Joe Biden are now testing their political capital by putting the president-elect's nominees through a kind of purity test to make sure they are devoted to eliminating fossil fuels."

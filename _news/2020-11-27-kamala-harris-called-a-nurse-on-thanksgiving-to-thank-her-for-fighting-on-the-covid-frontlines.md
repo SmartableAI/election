@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/kamala-harris-thanksgivi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/kamala-harris-thanksgiving-nurse-trnd/index.html"
 type: article
 quality: 173
-heat: 213
+heat: 173
 published: true
 
 provider:
@@ -30,40 +30,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "No, it isn’t unusual that Kamala Harris is still in the Senate."
-    excerpt: "In the past half century, it has been common for vice president-elects to resign from their previous posts in late December or January."
-    publishedDateTime: 2020-12-01T21:39:00Z
-    webUrl: "https://www.nytimes.com/2020/12/01/technology/no-it-isnt-unusual-that-kamala-harris-is-still-in-the-senate.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/01/technology/no-it-isnt-unusual-that-kamala-harris-is-still-in-the-senate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/technology/no-it-isnt-unusual-that-kamala-harris-is-still-in-the-senate.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/01/business/01distortion-harris1/01distortion-harris1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Gavin Newsom has to pick someone to fill Kamala Harris’s Senate seat, and the pressure is mounting."
-    excerpt: "Alex Padilla, California’s secretary of state, has emerged as the front-runner to succeed Vice President-elect Kamala Harris. But Gov. Gavin Newsom appears to be in no rush to make his choice. Though many names have been floated to succeed Ms."
-    publishedDateTime: 2020-11-30T23:48:00Z
-    webUrl: "https://www.nytimes.com/2020/11/30/us/gavin-newsom-has-to-pick-someone-to-fill-kamala-harriss-senate-seat-and-the-pressure-is-mounting.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/30/us/gavin-newsom-has-to-pick-someone-to-fill-kamala-harriss-senate-seat-and-the-pressure-is-mounting.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/us/gavin-newsom-has-to-pick-someone-to-fill-kamala-harriss-senate-seat-and-the-pressure-is-mounting.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 121
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30transition-briefing-newsom-senate/30transition-briefing-newsom-senate-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "hLrEhZlmrClr3G73DuvlnAC2fEb50bbS1gW4myBP2XpPGyaC/hYqq3P2Sk+HtQ9CNPlVt12DNWYiiRiUd2X84T5lOmbLt6TL8mI7IIbInsq6TosaGllKz1aisBY0AFBCp5ycNRV4ZPwvSV9mLwsCuPfCe+Pf5oKwcb/ra7CDzsNiv4JF4nCojehnyTPF0i895gYceooczwhl7kGLr+aABJOeRp38utQbLJf0nGn72Tuh4nLo+O8P878NuykhjIaEVkNJVwy1xugfzmNt9tPUabLW/TlyynDiFdO+ZvAXM1jYWIG8Tg5KxpEEdWFV8+pFEqfJ3lOu1IvJCYv2FD6dnjE3h5mdWPJWDwsF+DCv+ao=;rrEAgOvPhoBYZ7OLhEBn6g=="
 ---

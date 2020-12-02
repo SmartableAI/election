@@ -367,6 +367,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden, top Democrats swing behind bipartisan virus aid bill"
+    excerpt: "Biden said the developing aid package “wouldn’t be the answer, but it would be the immediate help for a lot of things.” He wants a relief bill to pass Congress now, with more aid to come next year. Biden’s remarks followed an announcement by House Speaker Nancy Pelosi,"
+    publishedDateTime: 2020-12-02T05:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-gop-leader-sticking-with-partisan-covid-relief-plan/2020/12/02/1674ef56-345e-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-gop-leader-sticking-with-partisan-covid-relief-plan/2020/12/02/1674ef56-345e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-gop-leader-sticking-with-partisan-covid-relief-plan/2020/12/02/1674ef56-345e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden urges Congress to pass coronavirus package, promises more action"
     excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
     publishedDateTime: 2020-12-01T20:15:00Z
@@ -698,6 +714,6 @@ related:
         height: 660
         isCached: true
 
-secured: "+c6WxaO19gYUDZTqp6hqdHXEeKNrQWFJ1DTR+p00lMEQgPX7szxaO3va7DAdlKDrPNnIKIgnCfqZMgLLXuFdBGRdv4/8c3FZU4iMmDeUKWNARERE4sD/JBrqAqabf8/wOvMZQSOWak4xpqTQ/rnriTfg5ardy7OLroMdTh3hkab2S53/SbVWwDwjUjgpEi9ELvMmhOLEoCw98pa7z9L0Fqr8dksruXw8Pxni2oXNoAwCGXlJrMfWdZ8XGI9cPa5iXL2sBXWrK/20gGdg8sDGOl/7qw0gGVZ+3J/ItD/bdkQxTYbpG8liolNDKFPlvpa4JDiMkD/WFZGA1SlCXu28Lq+DH2x1+/QzdXrW5F8fswE=;3XsA+gEdlL7LSHqjbtlGQA=="
+secured: "WWSH449KnNJ+inicXeZSvz46BSq4KIyh0CZXioBVQclYrn9+h90UR8g7pooAYSheGqzhPIqjCAC2OT/OwSX9k/dEX0G0Abg5Gbp9k0tTlmwxZtb4eQvyoWlJcYauDlO6Q1ekd29Q0UqfRZgxCi+VcGgiSBzoV7hBas9RM5f+yy0u33ibcHFOeEdVstC1Ucvs5G9hENfMJPjuIrunFQTXACnYrHPeFGwnDE55dByrV2dtoKAOz+Q2Abt1Bhw5ss4LOpBarQZrAq8n7l1J1DFGlDoYmE9HLsLhLu1uXPwBC1FF8AIQTYFZkIShbFJ1nSjSxlm+CXGAlMpReEaQJF/RAuM1Tt6SWL6UMCzkmOVPMAnP3LbBNFOybsf0gEbDljT+MlL70ppXMxFq3pvC7aFUKLzi9e4R6adWRjhF6ZhA59O2FcSEKXuVLTx/0fAm0qXU7JAnx5dyi8rE0GJn3EtRyzFZMPONG6PbjnmlErZA324DD8lJtJctNkIAUBq7AkgrTTff6BwJi0undsPj2GHisw==;S8jI8PeKA0KYJhaEQ/HOSg=="
 ---
 
