@@ -190,6 +190,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "‘It Has All Gone Too Far’: Georgia Election Official Lashes Trump"
+    excerpt: "Gabriel Sterling, a voting system official in Georgia, harshly criticized the president for failing to condemn threats of violence against people overseeing the voting system in his state."
+    publishedDateTime: 2020-12-02T00:50:00Z
+    webUrl: "https://www.nytimes.com/2020/12/01/us/politics/georgia-election-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/01/us/politics/georgia-election-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/us/politics/georgia-election-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01georgia-vote/01georgia-vote-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Midnight Ruling Exposes Rifts at a Supreme Court Transformed by Trump"
     excerpt: "The justices issued six opinions, several of them unusually bitter, in upholding challenges from churches and synagogues to state pandemic restrictions on religious services."
     publishedDateTime: 2020-11-26T22:45:00Z

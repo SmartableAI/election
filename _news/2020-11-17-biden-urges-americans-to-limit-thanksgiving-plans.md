@@ -10428,6 +10428,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Latest on Biden transition to the White House..."
+    excerpt: "Watch \"Latest on President-elect Joe Biden's transition to the White House\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-02T00:24:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201202001536-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/02/story_07929870_1606868159.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Pompeo says there will be a 'smooth transition' into a 2nd Trump administration as the president continues to reject the 2020 election results"
     excerpt: "Pompeo's comments sparked outrage on social media, and many did not appear to interpret his reference to a \"second Trump administration\" as a joke."
     publishedDateTime: 2020-11-10T20:21:00Z

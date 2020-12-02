@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-con
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-congratulations/index.html"
 type: article
 quality: 190
-heat: 1150
+heat: 1170
 published: true
 
 provider:
@@ -732,6 +732,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/05/20/us/onpolitics-coffee/onpolitics-coffee-facebookJumbo.jpg"
         width: 827
         height: 433
+        isCached: true
+  - title: "Four Women Who Will Handle the Media in the Biden White House"
+    excerpt: "President-elect Joe Biden is entering office with the stated intent of restoring credibility to government — and to the White House briefing room."
+    publishedDateTime: 2020-12-01T23:24:00Z
+    webUrl: "https://www.nytimes.com/2020/12/01/us/politics/biden-white-house-communications-team.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/01/us/politics/biden-white-house-communications-team.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/us/politics/biden-white-house-communications-team.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01dc-press-psaki/01dc-press-psaki-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Transition Gets Underway in Earnest as Biden Team Fans Out Across Capital"
     excerpt: "Within hours of the Trump administration’s decision to stop blocking the process, representatives of the president-elect began coordinating the handover of power."

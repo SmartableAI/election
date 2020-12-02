@@ -10444,6 +10444,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Latest on Biden transition to the White House..."
+    excerpt: "Watch \"Latest on President-elect Joe Biden's transition to the White House\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-02T00:24:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201202001536-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/02/story_07929870_1606868159.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "How Joe Biden's presidency could affect the U.S.' relationship with China"
     excerpt: "China congratulated Joe Biden for winning the 2020 election on Friday, seemingly signaling an acceptance of the results. But tensions between the two countries continue to rise. Ramy Inocencio has more."
     publishedDateTime: 2020-11-16T03:17:00Z

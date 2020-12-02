@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris called a nurse on Thanksgiving to thank her for fighting on the Covid frontlines"
-    excerpt: "A friendly phone call is all too normal during Thanksgiving -- that is unless it's coming from the vice president-elect, herself.\n    \n"
-    publishedDateTime: 2020-11-27T20:35:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x6vXyZTyZzI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/kamala-harris-thanksgiving-nurse-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/kamala-harris-thanksgiving-nurse-trnd/index.html"
+  - title: "Vice President-elect Kamala Harris picks Tina Flournoy as her chief of staff"
+    excerpt: "Tina Flournoy, who is currently serving as chief of staff to former President Bill Clinton, has been chosen to be Vice President-elect Kamala Harris' chief of staff, according to a source with knowledge of the decision.\n    \n"
+    publishedDateTime: 2020-12-01T19:18:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2PmUWMV9mtY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/tina-flournoy-kamala-harris-chief-of-staff/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 182
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127130557-kamala-harris-1125-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201002511-tina-flournoy-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -65,6 +65,6 @@ related:
         height: 550
         isCached: true
 
-secured: "Y3+y+o8sV8bmLS4iXrxSDTsmvVAw+ebntVdCoBjYuvg6CabX1ZTtk8Xz305p2paQEhcRODNKLdaNLYVGRIAnKrI/Ba8yi9tvhKfevqo9qCv68YzpwiT7nfcAsmpqZFJnXMQpAhPGI4Foo7Qb/bL7kSplfJSTV8q9W5DbUuQGDkfpBjFd/IRaxoj02zRq5ny48YTSUOnfF18l0C09wEsBIzKuUE5DKuUc2ZStY6ga6ss3ahij/29K+p3DU2rYTSLWFLSmxcNFaa0PwSB6QslL/l20RzLAmTe/X4qQZgLayq6uf+QAIA/Ki4he4K9eDWxq3PLo5vc0YmLeR+rMwXJlJVpxGPuOHC1gpzmYHntBpZQ=;yoKbF4M8q2ZMonpi67Ip0w=="
+secured: "gAqdCb+nkjAkG27AOSBn5EUSHaRS2UmKWpHhvxqNRAZWqmJFOWbc2icT3Xb8KvVz1es5bh8PyqKxiFosED33AQXc+Ry1/D7tfJQ2Ecl/P6k0lmRrOPC14evSMjcEmPTp/Zw/0d1/bzhgOPYHy1J2ETtBUkyHXxbt4qxmGZwAgG/9UtylaMxc03qHPUARYkH0hJDJeviypsDv298w2XQnuHhAq1f2Pse51ADdP3RjlhZcd3XJFhBHBGhnZNCGzZxpm0AOK5tkD8SOPd1xFzeC/aVBZbCM8jAsBL0kLr99MKtHTZFzbPeAwTJvGbmyhQG21JWExA0nDFXYOHqohB8q96ovpdzBKA4yTD/SRrHV7yRXzOFnldxEVIQ/BoX0oqi9rM1ShE22jBWc8jL4TvvjSkebu34WWQbXNsBWSiQ55ph/BJPTqgosPTuNe7QdXUc/Juf9KwyVtE3R1fMmaZ0xLyggmhOQ5cR1ZosVDnyddR3q2DTit4aM7OThc0azdk8jCPtRw+bzuoTCdK/jhpvYxQ==;WCd0iHH7/BnUxf9andu8IQ=="
 ---
 

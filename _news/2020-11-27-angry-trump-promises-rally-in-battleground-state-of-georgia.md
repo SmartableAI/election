@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/angry-trump-promises-rally-i
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542972639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1RT"
         width: 817
         height: 545
+        isCached: true
+  - title: "Georgia official calls on Trump to condemn threats against election workers: \"Someone's gonna get killed\""
+    excerpt: "One of Georgia's top election officials rebuked President Trump for his rhetoric Tuesday after a local elections worker received a death threat. Gabriel Sterling, a Republican, called on the president and Senators Kelly Loeffler and David Perdue to condemn the threats and warned,"
+    publishedDateTime: 2020-12-02T00:04:00Z
+    webUrl: "https://www.cbsnews.com/video/georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/02/a37be1a1-f213-4eb5-ad96-05cdec06771a/thumbnail/1200x630/2a24d977528492a0bf4cd19a003a0124/cbsn-fusion-georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed-thumbnail-599327-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Q4CR37SlyWtSXSRjW1UjTlLpL+WEMoVy5iGa4PXwXuIL1scpZj1YkFMKozo2ES/b5P3l0s5RlKglMXM4MJjPls216IFyH/c8HOO1dL2xnsfqIxlBlERNVzaAhHMB968P4zOuUXuEQ2oB+cQsqLPLboj25yQCUp4y3hi/+0VQs/403NPTGiGgkB/U8Ax9Pz94EMgTZi3+mxAoIf2LGkjXiMp6/l8v6nXBHp10z9iyncTq//9SL87QErnrJ78EEQ8NY4jYc2Ph2izG5Y+10jNYT8OhoSjj5cVap5mSSlNXllZjUK+yoSe4yvmQE3b/0q/RGody1h8NCEdeBUcbGUWpThr52mElOv8ebsPoa1rPVoU=;+ebpEepUI5tXzhM26DHFHw=="

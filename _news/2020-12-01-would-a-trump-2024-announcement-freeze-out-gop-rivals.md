@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/would-a-trump-2024-announcement-fre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/would-a-trump-2024-announcement-freeze-out-gop-rivals.amp"
 type: article
 quality: 175
-heat: 195
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Melania Trump celebrates arrival of annual White House Christmas tree"
-    excerpt: "First lady Melania Trump on Monday celebrated the arrival of the annual White House Christmas tree — without President Trump or their son Barron Trump, who have attended the event in past"
-    publishedDateTime: 2020-11-23T18:24:00Z
-    webUrl: "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/"
-    ampWebUrl: "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/amp/"
+  - title: "GOP senators find bodybags with anti-Trump notes on their front porches"
+    excerpt: "Several GOP Senators were bombarded with dozens of bodybags at their homes on Tuesday by angry protesters pushing for COVID-19 relief after months of gridlock over negotiations in Congress. "
+    publishedDateTime: 2020-12-01T23:09:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ihg7jai6l8/gop-senators-finds-bodybags-with-anti-trump-notes-on-front-porch"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-finds-bodybags-with-anti-trump-notes-on-front-porch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-finds-bodybags-with-anti-trump-notes-on-front-porch.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/Trump.1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a05a6f71-adcf-43b7-8139-dd0c114c7d1f/45c6487d-dc28-4d26-bb45-979df0143ac0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "ANK86oIypO484mfY41YS8MjkhgcQlZ8XEyTUxkpxTjiBSwriPwn1WQfJObZ6E5UGnzK5o5xAG/KqruEGBRMaPWLoKcqQTwdtvr3PO6O33ix8qp5SIkl3til8ZWAkTO4fRfVm6jciNyF2IVmX5Cq2nL/3OjtcRP7T6+uO4ofrHREdaqhY6A/kl8F8m7X0pn48v0GO+rIXllrBKMso6T14nNWDZBeQd4vXZEOn2BjZxApTRPxm9YjtHKNmrHE1CR0Eez/dyYVYjEekEPAHOhlCCCTBlr2TjsvdHqcZJ+FtLSo8NRLT/il0ZcurKtRdt7S65LdxS9lY0yDh2QjyGT5piHwKYKK1OpHEZrtNqz3pENU=;KFYMosQwD3OUFbqZ8MN0bw=="

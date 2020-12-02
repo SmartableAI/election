@@ -79,6 +79,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Georgia official calls on Trump to condemn threats against election workers: \"Someone's gonna get killed\""
+    excerpt: "One of Georgia's top election officials rebuked President Trump for his rhetoric Tuesday after a local elections worker received a death threat. Gabriel Sterling, a Republican, called on the president and Senators Kelly Loeffler and David Perdue to condemn the threats and warned,"
+    publishedDateTime: 2020-12-02T00:04:00Z
+    webUrl: "https://www.cbsnews.com/video/georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/02/a37be1a1-f213-4eb5-ad96-05cdec06771a/thumbnail/1200x630/2a24d977528492a0bf4cd19a003a0124/cbsn-fusion-georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed-thumbnail-599327-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4DaOZzYGINthpqStl8/JB0jFbxDzk7TXPjBouN7lsuTIdq5boovapIaytMOhkP8RaCKv65+l7RifGtrvCEu2Htbht3R6f9S1mH2I26HCZcGGja4x4ruK06k58jmGXry4EW3tBN1W8Ean9KSc3rU8cnyILPYz3iOgvFdnWkFhQQxqtQl3AlBMg2sjkUo//QuDT7ps0DvZNtwhJymw2p9S5tOBA0ENX90EreGM/j4rOrT+/qIWSykTxGXHK/1drCwjJLY+ee5x/5JEbjpnevqFW04ek4jEsyIjnYGrWxXjfacj8wcmaOwvJ58DSat0Snl0d7KgCz3dCAs0GF9j1P+2EFpp5eHF1NmhPGhi9+jwAAEd4pzV/xlYWAHVb4LNu4tfIu0/+/uLaZ7Tb0OIW59pL1/hpqeN1IawrqzcHzxr8n3S9eR8uvKgAcSqRf3gmG1ESEPYFDslNv1QkbDoryDBfh2vjQQHUCEBwDaeyDjOCFbR3WssPkT2X2CerHGGBAdOBtg3cAigvn30+CJXivK+Qg==;6Bbf8EUiO2DX0D9GVBukgA=="
 ---

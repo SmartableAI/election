@@ -79,10 +79,26 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Georgia elections official urges Trump to rein in supporters"
+    excerpt: "A top Georgia elections official has lashed out angrily at the rhetoric surrounding the election and the threats of violence that have resulted"
+    publishedDateTime: 2020-12-01T22:56:00Z
+    webUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/6db93bcc-3428-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/6db93bcc-3428-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-elections-official-urges-trump-to-rein-in-supporters/2020/12/01/6db93bcc-3428-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "U.S. judiciary, shaped by Trump, thwarts his election challenges"
     excerpt: "U.S. President Donald Trump's reshaping of the federal judiciary has done little to help him win lawsuits challenging the election outcome, with Trump appointees rebuffing him and the U.S. Supreme Court showing little interest in getting involved."
-    publishedDateTime: 2020-12-01T18:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-judges-idUSKBN28B60O"
+    publishedDateTime: 2020-12-01T23:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-judges/u-s-judiciary-shaped-by-trump-thwarts-his-election-challenges-idUSKBN28B60O"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B60O"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B60O"
     type: article
@@ -174,6 +190,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/27/a84e6a05-6f92-418a-b995-bfbb250c7869/thumbnail/1200x630/c7323ae807fae8f6e60d60695c3e44ae/trump-white-house-diplomatic-room.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Lawsuit by Trump allies challenging Pennsylvania election results reaches Supreme Court"
+    excerpt: "Pa., and others allege that state officials had no right under the state constitution to expand mail-in voting."
+    publishedDateTime: 2020-12-02T00:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/12/01/donald-trumps-allies-ask-supreme-court-block-pa-election-result/3785564001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3785564001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3785564001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 132
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/NETN/c167c6c8-3e6f-4e77-af2b-ddd00ce3c26c-p18trump102020.JPG?auto=webp&crop=1567,881,x1,y231&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'Don't talk to me that way': Trump lashes out at White House reporter over election question"
     excerpt: "Trump angrily admonished Reuters reporter Jeff Mason after he asked if he would concede the election after the Electoral College voted for Biden."
@@ -337,19 +369,19 @@ related:
         isCached: true
   - title: "Trump raises $170 million as he looks to future"
     excerpt: "President Donald Trump has raised roughly $170 million since his Election Day defeat, a sum garnered through a nonstop stream of solicitations that have falsely claimed the election was stolen while requesting contributions for an “election defense fund."
-    publishedDateTime: 2020-12-01T18:01:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-raises-170-million-as-he-looks-to-future/2020/12/01/37078652-33ff-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-raises-170-million-as-he-looks-to-future/2020/12/01/37078652-33ff-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-raises-170-million-as-he-looks-to-future/2020/12/01/37078652-33ff-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    publishedDateTime: 2020-12-01T23:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-170-million-future-74484442"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-raises-170-million-future-74484442"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-raises-170-million-future-74484442"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c8bb9f93c441453bba9524f96f509a06_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump administration moves to strip federal protections for migratory birds"
     excerpt: "The Trump administration moved forward Friday on gutting a longstanding federal protection for the nation's birds, over objections from former federal officials and many scientists that billions more birds will likely perish as a result."
@@ -382,6 +414,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/ae5a128bf3337a53e3ca2f6c3cc12c8ff58e56c1/0_123_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=24c143f907bd231016a14d185c68eb66"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump campaign, GOP raised at least $170 million since Election Day pushing baseless election fraud claims"
+    excerpt: "Since Election Day, President Donald Trump’s campaign has raised over $170 million -- much of that money has gone to retire campaign debt and to fund Trump's new PAC."
+    publishedDateTime: 2020-12-01T23:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-campaign-gop-raised-170-million-election-day/story?id=74488326"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-campaign-gop-raised-170-million-election-day/story?id=74488326"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-campaign-gop-raised-170-million-election-day/story?id=74488326"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-02-rtr-jc-201201_1606859554402_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Here’s how seriously you should take the Trump legal team’s conspiracy theories"
     excerpt: "Powell, who serves as an attorney both for Trump and former national security adviser Michael Flynn, walked to the lectern, thanked Giuliani — and then went buckwild. “What we are really dealing with here and uncovering more by the day is the massive influence of communist money through Venezuela,"

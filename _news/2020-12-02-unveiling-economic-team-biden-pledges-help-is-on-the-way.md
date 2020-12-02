@@ -303,6 +303,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden weighs Rahm Emanuel for transportation secretary"
+    excerpt: "President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel to serve as his transportation secretary"
+    publishedDateTime: 2020-12-01T05:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Top secret: Biden gets access to President’s Daily Brief"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris began receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan. 20"
     publishedDateTime: 2020-12-01T01:59:00Z
@@ -602,6 +618,6 @@ related:
         height: 660
         isCached: true
 
-secured: "hid2g6uC/CDlL8KdFvzvEG9Gcv+cZmrnQIeSkGoqUbUM4WVJ1dVmeaTvnX5x4aI7M7dRZVdfSmZ1c/BjgRoq2b6de20Xmg9Ym2UknoLzuyG3OE5tEaySmsqtAWkMEv4xGlf/MKpNRym/CmBzrCGOegQ+PnheneAzDav0WAPZTNtBwajmuGB8vsew3oaU4AgB4Zf6UUpXX4bpwcjYyRVr6xvs297AkG/O7eiP2sschW9nfBZBYuoxjPDIixj6nu+VM58CFA2/3jUAzSvYSuYIIUMUrgvBiM8KQHxZhWzRKXL4tKz4iw/XHYp46XHPnVots7LOXCK6KsIMuM3y8rOZRMAXebJWLx2SGK6Yd5sr+7U=;PtCYPieeG0pKA9RB+Q9pPw=="
+secured: "12j4ZEkqRk07udroRSZ3Tl2d9u99f+0lUYLSku8AUX5iF0pUmsmGFHIqJpy/qSuTHTmucBbejlZhN3JvGGNZLzKOjj2PO/23hc+m2e4u49mvsvl0SFsi0ZFoPk6+zDuKoOaoJa6OIYmh1IM7cGMxuroIR3Vu6UYm24InkpwYXdeiqf9PYnRjXfeGk5tlDPtg0bMrBRtytjYoV+sk4WwSQKU8/eOyF9Xi7zpzdjbsyRAeziIG2C4BmJpPWcPYAEWRNJpnrVhIJ+cRocMR+WPlf5hUGs3T2hlsZ5OiF5IIBCkgAxD/X3D+qXLHe/5ym/6+xz53RHx5gm0ylKzfcGbnWaMmSaAF+1IkBkqRcJfk4bYlTPz8qIMNRCaJ1wlVA7Zd3EXMRxbLSYyPsFx1Pot1LDb13ydve9SwH/DR/B/Sn5+4UMo1tVco2OjTwE28mEoRdH0wNFYlfpj9yqli8RknNRIzk6N9jxMjzFM3gWVzsFBUJ82B6a8xsPSV8cHq3l1NXMgi/y3r9bARTzDqfAGrSA==;RaoWht/8+TWRRHAvx6sxSQ=="
 ---
 
