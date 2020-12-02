@@ -2,6 +2,105 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-10-22-hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine.md",
+      "title": "Hunter Biden: Here's what he has said about his Burisma role in Ukraine",
+      "excerpt": "The son of former Vice President Joe Biden has mostly remained mum on the allegations of impropriety while working on the board of Ukrainian oil company Burisma. Here’s what he has said about it in the past.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0M2AcnWkhFg/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0M2AcnWkhFg/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f3a7762-f52e-46a0-9028-8d3839245c76/529fc3a8-4e55-4ff9-a9aa-8dfd05a806c2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine.amp",
+      "publishedDateTime": "2020-10-21T21:36:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-vp-pence-makes-campaign-stop-in-hermon-speaks-one-on-one-with-tv5.md",
+      "title": "VP Pence makes campaign stop in Hermon, speaks one-on-one with TV5",
+      "excerpt": "HERMON, Maine (WABI) - The road to re-election runs through Northern Maine. That’s what the Vice President said today at a. TV5 was at the rally and spoke with Pence following his remarks. President Trump won Maine’s Second District four years ago,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wabi.tv/2020/10/19/vp-pence-makes-campaign-stop-in-hermon-speak-one-on-one-with-tv5/",
+      "originalUrl": "https://www.wabi.tv/2020/10/19/vp-pence-makes-campaign-stop-in-hermon-speak-one-on-one-with-tv5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/-EsS03_JwaWk9BPSw-Qjh6TkMcg=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/WJC7VGNPQ5ARXNJWQ5DOIRH2BE.JPG",
+          "width": 980,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WABI",
+        "domain": "wabi.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-trump-downplays-obamas-return-to-campaign-trail-says-he-was-all-over-the-place-for-hillary-clinton.md",
       "title": "Trump downplays Obama's return to campaign trail, says he was 'all over the place' for Hillary Clinton",
       "excerpt": "Trump: “There is nobody that campaigned harder for “Crooked” Hillary Clinton than Obama.\"",
@@ -1252,101 +1351,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-trump-envoy-traveled-to-syria-for-talks-on-missing-americans.md",
-      "title": "Trump envoy traveled to Syria for talks on missing Americans",
-      "excerpt": "A senior White House official made an unusual, secret visit to Syria for high-level talks aimed at securing the release of two Americans who have been missing for years amid the country’s long civil w",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/WireAP_efc880968da349c0a4dc41b8f6155a29_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
-      "publishedDateTime": "2020-10-21T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-live-at-130-vp-mike-pence-visits-portsmouth-for-rally.md",
-      "title": "Live at 1:30: VP Mike Pence visits Portsmouth for rally",
-      "excerpt": "Vice President Mike Pence will be in the Granite State on Wednesday for a campaign event. He is scheduled to speak to supporters at a rally in Portsmouth at 1:30 p.m. The event will be streamed live above this article on WMUR.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wmur.com/article/live-at-130-vp-mike-pence-visits-portsmouth-for-rally/34437499",
-      "originalUrl": "https://www.wmur.com/article/live-at-130-vp-mike-pence-visits-portsmouth-for-rally/34437499",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/4dfa3c67-5b19-4231-9760-11d8900b7c67/4dfa3c67-5b19-4231-9760-11d8900b7c67_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wmur.com/amp/article/live-at-130-vp-mike-pence-visits-portsmouth-for-rally/34437499",
-      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/live-at-130-vp-mike-pence-visits-portsmouth-for-rally/34437499",
-      "publishedDateTime": "2020-10-21T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WMUR9",
-        "domain": "wmur.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

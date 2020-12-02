@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/5884192002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884192002"
 type: article
 quality: 118
-heat: 118
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "While Cuban-Americans in Florida came out big for Trump, Cubans stuck in Mexico pinned their hopes on Biden"
+    excerpt: "\"I will remain hoping for a change. I'm glad Trump is out for good, and no thanks to my family in Florida,\" a Cuban doctor in Mexico told Insider."
+    publishedDateTime: 2020-12-02T08:11:00Z
+    webUrl: "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/5fc6cfb5037cbd00186133de?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "COzCUSj3FpJpqDhrnil1UzDJYGC/oMHSQOPDeBvqRBjGDT7kwjDLdNUzW1S+DLuagvr9oXfLVN5+wne5i6eqONI2QxbjULjczlJG31QsrxRSWKX0xwXL/3bLyHUjrrmdzPM2Q8yhuSnA9KwvFS7T7s5G23RlTqitJTc8YCja/a3h7GqBx2PWZ+Vp0U0Gz1BC8KtAbBjihZpHihbgCjUbgEKMFVfY7SsBauTZjDPf2kG4XN/ulRcMfBrnOKEXMJX7/xweZVetCMm/+TzLts/C9hHjujk2x5jLyX656nw3WCCDQQxDrnjxPfZ4Q9fHO3IvVWDFcMMZiKPAWLSVQHsM6r4yulCL0qjJpjmuml2AcT4=;Ffp2uZkLbnRuIYwjNVteOw=="
 ---

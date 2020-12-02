@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump, Biden camps inspect Nevada election office ahead of Thursday hearing on lawsuit"
+    excerpt: "Attorneys for the Trump 2020 Campaign and representatives of Joe Biden’s six Nevada Electoral College delegates inspected a vote-counting location in Carson City on Tuesday in connection with a voter fraud lawsuit filed by the Trump team."
+    publishedDateTime: 2020-12-02T06:57:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X3PuysVGGVs/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 197
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a05a6f71-adcf-43b7-8139-dd0c114c7d1f/45c6487d-dc28-4d26-bb45-979df0143ac0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump mocks Biden to Pennsylvania crowd over oil comment: 'He blew it'"
     excerpt: "President Trump warned Pennsylvania residents that a Joe Biden administration would sink their state's economy, while mocking his Democratic rival for what he called a \"shocking admission\" about his energy policy."
     publishedDateTime: 2020-10-26T18:49:25Z

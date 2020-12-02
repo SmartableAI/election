@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-20-michelle-goldberg-column-is-the-trump-campaign-colluding-with-russia-again.md",
+      "title": "Michelle Goldberg column: Is the Trump campaign colluding with Russia again?",
+      "excerpt": "According to The Washington Post, U.S. intelligence agencies warned the White House last year that Giuliani, then searching in Ukraine for dirt about Biden and his son Hunter, was the target of a Russian influence operation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-trump-campaign-russia-hunter-biden-20201020-qtnsvdsixrexzli62o5bkmmcay-story.html",
+      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-trump-campaign-russia-hunter-biden-20201020-qtnsvdsixrexzli62o5bkmmcay-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/Dc8h7rcK6xp9zygY3UMLNyYObsw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E3DWMOIFMLK7J2OA6APXQJE6OM.jpg",
+          "width": 1200,
+          "height": 876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-trump-campaign-russia-hunter-biden-20201020-qtnsvdsixrexzli62o5bkmmcay-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-trump-campaign-russia-hunter-biden-20201020-qtnsvdsixrexzli62o5bkmmcay-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-20T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-gov-doug-ducey-increasingly-sounds-like-a-guy-campaigning-for-a-trump-appointment.md",
+      "title": "Gov. Doug Ducey increasingly sounds like a guy campaigning for a Trump appointment",
+      "excerpt": "Conventional wisdom says Arizona Gov. Doug Ducey won’t abandon his job to join the Trump administration should the president be re-elected. After watching Monday’s Trump rally in Prescott, I’m wondering whether it’s time to put conventional wisdom to rest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/19/gov-doug-ducey-campaigning-trump-cabinet-appointment/5984704002/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/19/gov-doug-ducey-campaigning-trump-cabinet-appointment/5984704002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/f345bcfb-7ba6-4e14-8eee-e4443e9a72e1-cent02-7ctxpoou45sr4ft8hle_original.jpg?auto=webp&crop=3887,2187,x0,y197&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5984704002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5984704002",
+      "publishedDateTime": "2020-10-20T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-trump-calls-fauci-a-disaster-and-seeks-to-reassure-his-team-he-can-win.md",
       "title": "Trump calls Fauci a 'disaster' and seeks to reassure his team he can win",
       "excerpt": "President Donald Trump called coronavirus expert Anthony Fauci a \"disaster\" on Monday, airing his frustration with the scientist during a call meant to reassure campaign staff he has a path to victory on Nov.",

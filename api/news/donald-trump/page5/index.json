@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-06-donald-trumps-niece-attacks-president-over-speech-this-is-what-it-looks-like-when-a-loser-loses.md",
+      "title": "Donald Trump's Niece Attacks President over Speech: 'This Is What It Looks like When a Loser Loses'",
+      "excerpt": "Mary L. Trump is one of a number of people, including Republicans, to have condemned president and his baseless claims on election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mary-trump-president-election-fraud-speech-loser-1545379",
+      "originalUrl": "https://www.newsweek.com/mary-trump-president-election-fraud-speech-loser-1545379",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1665639/trump.jpg",
+          "width": 3612,
+          "height": 2408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mary-trump-president-election-fraud-speech-loser-1545379?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-president-election-fraud-speech-loser-1545379?amp=1",
+      "publishedDateTime": "2020-11-06T00:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-fox-cnn-carry-president-trumps-falsehood-laden-speech-as-msnbc-abc-cut-away-for-fact-checks.md",
+      "title": "Fox, CNN carry President Trump's falsehood-laden speech, as MSNBC, ABC cut away for fact checks",
+      "excerpt": "As Fox News and CNN covered President Trump's falsehood-laden speech about the election Thursday, MSNBC pulled away.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/05/fox-cnn-covered-trumps-falsehood-laden-speech-msnbc-pulled-away/6182029002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/05/fox-cnn-covered-trumps-falsehood-laden-speech-msnbc-pulled-away/6182029002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6182029002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6182029002",
+      "publishedDateTime": "2020-11-05T18:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-greta-thunberg-mocks-donald-trump-with-his-own-words-in-twitter-revenge-chill-donald-chill.md",
       "title": "Greta Thunberg mocks Donald Trump with his own words in Twitter revenge: 'Chill, Donald, Chill!'",
       "excerpt": "Within four hours on her Twitter post, Thunberg's tweet had surpassed Trump's in both likes and retweets, and \"Greta\" was trending in the U.S.",
@@ -1471,110 +1575,6 @@
       "ampWebUrl": "https://www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11?amp",
       "publishedDateTime": "2020-11-02T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-you-are-no-longer-my-mother-a-divided-america-will-struggle-to-heal-after-trump-era.md",
-      "title": "'You are no longer my mother': A divided America will struggle to heal after Trump era",
-      "excerpt": "When lifelong Democrat Mayra Gomez told her 21-year-old son five months ago that she was voting for Donald Trump in Tuesday's presidential election, he cut her out of his life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-trump-families-idUSKBN27I15T",
-      "originalUrl": "https://www.reuters.com/article/usa-election-trump-families-idUSKBN27I15T",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539662234&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA10LT",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27I15T",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27I15T",
-      "publishedDateTime": "2020-11-02T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-trumps-last-ditch-effort-to-recruit-lgbtq-voters-continues-in-minnesota.md",
-      "title": "Trump's last-ditch effort to recruit LGBTQ voters continues in Minnesota",
-      "excerpt": "Supporters say the administration has made gay rights a \"non-issue\" and argue that Trump's early friendships with gay men — such as Roy Cohn — show he's always been an ally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/lgbtq-trump-supporters-rally-in-minnesota-2020-11",
-      "originalUrl": "https://www.businessinsider.com/lgbtq-trump-supporters-rally-in-minnesota-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f9f5a7e6f5b310011724b4a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/lgbtq-trump-supporters-rally-in-minnesota-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lgbtq-trump-supporters-rally-in-minnesota-2020-11?amp",
-      "publishedDateTime": "2020-11-01T17:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

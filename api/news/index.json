@@ -2,6 +2,167 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-02-trump-threatens-to-veto-defense-bill-if-tech-liability-shield-stands.md",
+      "title": "Trump Threatens to Veto Defense Bill if Tech Liability Shield Stands",
+      "excerpt": "The president is demanding the termination of the broad legal immunity that social-media companies enjoy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-threatens-to-veto-defense-bill-if-tech-liability-provision-stands-11606879398?mod=hp_lead_pos7",
+      "originalUrl": "https://www.wsj.com/articles/trump-threatens-to-veto-defense-bill-if-tech-liability-provision-stands-11606879398?mod=hp_lead_pos7",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-266995/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-threatens-to-veto-defense-bill-if-tech-liability-provision-stands-11606879398",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-threatens-to-veto-defense-bill-if-tech-liability-provision-stands-11606879398",
+      "publishedDateTime": "2020-12-02T00:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-while-cuban-americans-in-florida-came-out-big-for-trump-cubans-stuck-in-mexico-pinned-their-hopes-on-biden.md",
+      "title": "While Cuban-Americans in Florida came out big for Trump, Cubans stuck in Mexico pinned their hopes on Biden",
+      "excerpt": "\"I will remain hoping for a change. I'm glad Trump is out for good, and no thanks to my family in Florida,\" a Cuban doctor in Mexico told Insider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12",
+      "originalUrl": "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc6cfb5037cbd00186133de?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp",
+      "publishedDateTime": "2020-12-02T00:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years.md",
+      "title": "Donald Trump suggests 2024 presidential bid: 'I'll see you in four years'",
+      "excerpt": "President makes comments to Republicans at a White House reception, where video shows dozens of people crammed together without masks",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/54100791a8b7b74981f48fa11e0f564cee5eaa9a/0_279_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=12fbd88d874e58a3ea82feb28d17ca57",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
+      "publishedDateTime": "2020-12-01T22:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-hispanic-lawmakers-urge-biden-to-pick-lujan-grisham-for-hhs.md",
       "title": "Hispanic lawmakers urge Biden to pick Lujan Grisham for HHS",
       "excerpt": "Members of the Congressional Hispanic Caucus have sent a letter to President-elect Joe Biden's transition team lobbying for New Mexico Gov. Michelle Lujan Grisham to be nominated for the role of health and human services secretary.\n    \n",
@@ -55,63 +216,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-trump-threatens-to-veto-defense-bill-if-tech-liability-shield-stands.md",
-      "title": "Trump Threatens to Veto Defense Bill if Tech Liability Shield Stands",
-      "excerpt": "The president is demanding the termination of the broad legal immunity that social-media companies enjoy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-threatens-to-veto-defense-bill-if-tech-liability-provision-stands-11606879398?st=1ogztxav1faftml",
-      "originalUrl": "https://www.wsj.com/articles/trump-threatens-to-veto-defense-bill-if-tech-liability-provision-stands-11606879398?st=1ogztxav1faftml",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-266995/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-threatens-to-veto-defense-bill-if-tech-liability-provision-stands-11606879398",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-threatens-to-veto-defense-bill-if-tech-liability-provision-stands-11606879398",
-      "publishedDateTime": "2020-12-01T20:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -1262,110 +1366,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-some-taiwanese-immigrants-fear-biden-will-make-china-great-again-can-he-win-them-over.md",
-      "title": "Some Taiwanese immigrants fear Biden will ‘Make China Great Again.’ Can he win them over?",
-      "excerpt": "Among Southern Californians with roots in Taiwan, there is strong support for President Trump. Some are single-issue voters who value their homeland’s interests above domestic issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/california/story/2020-12-01/taiwanese-immigrants-biden-homeland",
-      "originalUrl": "https://www.latimes.com/california/story/2020-12-01/taiwanese-immigrants-biden-homeland",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/d2b8b03/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2F9b%2Ff2f5489a4db4a2d9343b35db7727%2Fla-photos-1staff-545331-me-0522-unusual-getaway-day-005.IK.JPG",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/california/story/2020-12-01/taiwanese-immigrants-biden-homeland?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-12-01/taiwanese-immigrants-biden-homeland?_amp=true",
-      "publishedDateTime": "2020-12-01T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-coronavirus-updates-pence-says-vaccine-could-be-shipped-in-2-weeks-gov-ron-desantis-says-florida-schools-to-stay-open-in-2021.md",
-      "title": "Coronavirus updates: Pence says vaccine could be shipped in 2 weeks; Gov. Ron DeSantis says Florida schools to stay open in 2021",
-      "excerpt": "California Gov. Gavin Newsom warns of tougher stay-at-home order. Michigan Rep. John Chirkun tests positive. U.S. deaths top 268K. Latest COVID news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2020/12/01/covid-news-cdc-vaccine-anchorage-california-florida-schools/6470606002/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2020/12/01/covid-news-cdc-vaccine-anchorage-california-florida-schools/6470606002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/01/USAT/d930d904-53f3-4af1-bda4-4c595d09cb37-AP20335715496723.jpg?auto=webp&crop=5692,3202,x0,y289&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6470606002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6470606002",
-      "publishedDateTime": "2020-12-01T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

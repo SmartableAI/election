@@ -3,8 +3,8 @@ category: news
 title: "Latest on Biden transition to the White House..."
 excerpt: "Watch \"Latest on President-elect Joe Biden's transition to the White House\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-12-02T00:24:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201202041533-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
-webUrl: "https://www.cbsnews.com/live/video/20201202041533-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
+originalUrl: "https://www.cbsnews.com/live/video/20201202071533-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
+webUrl: "https://www.cbsnews.com/live/video/20201202071533-latest-on-president-elect-joe-bidens-transition-to-the-white-house/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/02/story_07932562_1606882554.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/02/story_07936521_1606893356.jpg"
     width: 480
     height: 270
     isCached: true
@@ -12492,6 +12492,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "4eUs9NeoSw/RYBVXdbsoaI0FF5zzMaUu3IWqCVeEHVbdOOhs6kVXw0NaLf6ObZ7waFntmVIXAQWtRV+OCdmIMSbrMuP3iiiPN1tUF1CNFaixeRJMeNrUavP30Pog/23h0OcqIR8EIdQyeBnKh7gPLZ5IvEXwr40HD/7BeE0yVxdCPPDOtYHbrqJS713VAO55TsuBEw78rP56Hh6ZOF3rRIE5JmMtlZSfnObr1HjmSqhEnIjV3iaSzaHG1zBUjinvfxGfMNDNNPx4OETjl6SEzOengv6Lp2THQb7sX4AMfaQazhEfuOC361inhPWdXd2kjaIGdkOxfUi8Uc+pfASpnLfzLwDbVvtqeCU8nOpm2r6dDvWRvksifyXYs5CPDe4z0Ty6dC6AT3rhsrJaMKhVot5+YDfRVN7X9mt9GFk3a/+X+dtc9/Yn3uAU7/NCakuqgkBfvyi0dxuMVgs5lByiv16touOcS0lb6xmMF1Tb21wux6NLoP1TwODuJ4w5xMMuMd1xtBW1OxeHgEkoRX8hoQ==;gaPBEdLUkZ3+tZMyL1dl6g=="
+secured: "W+qoZvlHtZeob6Ct8AR0FhrqYOVJYqbZQm5mUOJizGvK7MH5OBpoweW0Tr/6aSfUblhrGkh/PjIBx97gIgxDlud0MgyjwvkXLHaylZAfSfgv8cg/lk8INBlG4+69j6zlN7/7i8mBNlXKNr/Z8ojL9C5XRrUUjGWgqGKucpAAXrmBGN2v7o5Do2PtoWDmdqUXyluZtIS/AgqYvgx9gW5dV857Ys8KWJaOkqOpM90/wX0rtm9dxsipRDKm0oDewsABFdycEvU9JeP+rThTE4oCLhaovtkc9KIrOf0nIrvveWSQqrg+3Q2bIDJ5jyamSUHGalRmEYIn0YLcCG2UneY73TO9ZapksxRJZWlYokiV7LU=;hVQxsrD/yogdmaTZZVkceg=="
 ---
 
