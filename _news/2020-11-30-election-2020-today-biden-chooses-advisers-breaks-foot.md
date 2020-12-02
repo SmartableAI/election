@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-biden-ch
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 940
+heat: 960
 published: true
 
 provider:
@@ -476,6 +476,22 @@ related:
     quality: 122
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4TDVL6BUGQI6XIRJ2FTO3EHWCY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Here’s the problem Biden faces if he picks current lawmakers for his Cabinet."
+    excerpt: "President-elect Joe Biden has begun to select candidates for crucial positions in the Cabinet and other senior administration spots. In the running are sitting elected officials. For example, various Democratic Party factions have urged Biden to select his former primary opponents ,"
+    publishedDateTime: 2020-12-02T11:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/heres-problem-biden-faces-if-he-picks-current-lawmakers-his-cabinet/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/heres-problem-biden-faces-if-he-picks-current-lawmakers-his-cabinet/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/heres-problem-biden-faces-if-he-picks-current-lawmakers-his-cabinet/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IOP6QNT7III6VBGCA6JNQWIZCE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true

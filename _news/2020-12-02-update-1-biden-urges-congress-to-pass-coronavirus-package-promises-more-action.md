@@ -495,6 +495,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Here’s the problem Biden faces if he picks current lawmakers for his Cabinet."
+    excerpt: "President-elect Joe Biden has begun to select candidates for crucial positions in the Cabinet and other senior administration spots. In the running are sitting elected officials. For example, various Democratic Party factions have urged Biden to select his former primary opponents ,"
+    publishedDateTime: 2020-12-02T11:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/heres-problem-biden-faces-if-he-picks-current-lawmakers-his-cabinet/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/heres-problem-biden-faces-if-he-picks-current-lawmakers-his-cabinet/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/heres-problem-biden-faces-if-he-picks-current-lawmakers-his-cabinet/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IOP6QNT7III6VBGCA6JNQWIZCE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden tries to spread calm, as some Democrats worry about his willingness to fight"
     excerpt: "The president-elect has made good on his campaign vow to lower the temperature as he deals with Republicans and Democrats."
     publishedDateTime: 2020-11-26T11:00:00Z

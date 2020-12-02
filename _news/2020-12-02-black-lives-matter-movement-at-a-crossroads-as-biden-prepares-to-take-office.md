@@ -479,6 +479,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Here’s the problem Biden faces if he picks current lawmakers for his Cabinet."
+    excerpt: "President-elect Joe Biden has begun to select candidates for crucial positions in the Cabinet and other senior administration spots. In the running are sitting elected officials. For example, various Democratic Party factions have urged Biden to select his former primary opponents ,"
+    publishedDateTime: 2020-12-02T11:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/heres-problem-biden-faces-if-he-picks-current-lawmakers-his-cabinet/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/heres-problem-biden-faces-if-he-picks-current-lawmakers-his-cabinet/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/heres-problem-biden-faces-if-he-picks-current-lawmakers-his-cabinet/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IOP6QNT7III6VBGCA6JNQWIZCE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "UPDATE 1-Biden urges Congress to pass coronavirus package, promises more action"
     excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
     publishedDateTime: 2020-12-02T00:27:00Z
@@ -650,6 +666,6 @@ related:
         height: 660
         isCached: true
 
-secured: "UdfZ/gzafpHDgvSLu7mUp/DqsqKF91b6xwgf5MiJ7UnhTgqJ3m0tYV5uGn+FQxkwPs4+XW0HxsZ1qyctp/vCGRSuPhK3kGDdBsSRM+yKydiInWCVzA1eRgIraSZa0A8fcYhGaQSnfK/9obpHILTgjjqfBgGkT+bANnECsSCKFolnuBNeCZ6wd1paR8itCtzg2j/4P+Kb4bWyerWPRfiGGeLP1QbOU4TP82I6yT+uEZExQAz+oJznCuuyB+U9abMdXOg0pq523TA8FjqXs/Dsd/l2jmNAsEen/FlY/NzQZ1a855Mx9dbXaqNZTidgPmRtJjiOykzFDfPlrMFFIkmF5+kfZNNqTWx5S4VnTelr21s=;MRJcIZwT3pTzfka5tSsaTw=="
+secured: "NBzlcdgixZXHpzo8SZ/pEQVdYkmlQ5IAoasmloN0nms+fXXqEai5VtAzChrkpSAl0HXdK8cuD7b0Bs3q+/G4ICANJGVlTJKT411g7LeRAIdBnBHN+rCP11NZ3RX5P/aQgZMLf126/UNzOfki9NxWIR820I9hGc3TWM4bq9Ig5nkSGR8oTc/Imk5eM+PHa+dv7Lr8Xn//Fi3wD6qgYXPhfUdqSEXhTPf8bogsNIwS+A3N2aNf/hI4R8L842eIm0sDaxH0VKKJS1V9mwGEIKYvnL9lv42cqiouhByIT79hmw4pIgbgAsjZRoWZxtyiptnqlDSuIVfN4K68MymLF/BzNp82RJGwCVLPAF0UlGQlxeJdCAKUA8YU3Xa6G+ETdY23biDBtBhteKav/htGK14RkFFnqGXAHcB0UVhIVe4F2dZn/xJXq1KjPIdPMt4UJy26E/0WKmHvR5EgdqdcpGh4UAdermBX1gY+XPDPWCvcgzbkLeAUF16B2rCbOMjl9yq3KmMfCFa6dOcwAPLCceERnQ==;g1fq85oZM5/u1mMHetFn7g=="
 ---
 

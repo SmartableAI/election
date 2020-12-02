@@ -264,6 +264,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Donald Trump Hates Democracy"
+    excerpt: "President Trump was all frauded out Sunday morning on Fox News: This election was a total fraud. And: This is the greatest fraud in the history of our country, from an electoral standpoint. And: This is a fraud against the American people."
+    publishedDateTime: 2020-12-02T11:41:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/02/donald_trump_hates_democracy_530479.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "bzy2QIHF4AsMqKDXLaL4mvjHwDIPwJw5+cOucPjrqdjxN+VV0RKHk6gE5MLxYZt5cl4xDJiFO9bMCE4S0xnuNALJlkL07ahFgKx6hGrRJJymo0I8nrlv7clBlI+UliiBYTabM3Q1AyPBKo/TJh+3bojlAWW+llktkbENoNRxucCQED77dJzM9d0xdv027YD7kRtvHlFg3vV7m1wg0LGDXwEWs4WqQXybhHxj4nfegNV+s/fFQyyDgCbpBNsYyX1oAnxdEVswPDREFVpmBlBJCZIHDlPqaBowou8uOh1TMh2IJ8uhKM6KVfEeg++nlPpjSQil4nacfDJLEPWPQd1/mkbu2Byy6O4Bd9rNcutNuY0=;TtRT8xPDKQpkXTpNYRXWgw=="
 ---

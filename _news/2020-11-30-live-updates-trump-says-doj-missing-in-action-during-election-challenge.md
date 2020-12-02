@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-says-doj-missing
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp"
 type: article
 quality: 188
-heat: 488
+heat: 508
 published: true
 
 provider:
@@ -267,6 +267,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Donald Trump Hates Democracy"
+    excerpt: "President Trump was all frauded out Sunday morning on Fox News: This election was a total fraud. And: This is the greatest fraud in the history of our country, from an electoral standpoint. And: This is a fraud against the American people."
+    publishedDateTime: 2020-12-02T11:41:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/02/donald_trump_hates_democracy_530479.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "0ZnOLvYE+/YML4yMngYAzPEVOd3JnvfasWNVzWnyk4MXn4C0f1Y58nlDZizpThfWKxlFSc2iBKeC/JIe5r1/tqMgECIIooTKfhRFX/vj8stetwgMaG+dXIHrTu53/wUmqP1XpfTNBUskTJNf7ERIYk/g1sK43rZv9n2S0Lysh5EtlbwlGQjaLm+aeooVWyLePLFac7PqRwHfPl6fJsMCURXJqt1D2i/qXUTptogF+EUeCcEavk2cAacCxxO2z4QvJLAMDIe4CbhOsd8fKNc73l0AwdeswBUp6IyyXjNLALxgUvZtZk7+KAQe7u0By8TfsfN4iRrDL+PnpJlnYTyLXyZqns177XOTzcOff+WovSk=;Vh2MhNLEKNpXWofiWeLNHA=="
 ---

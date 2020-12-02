@@ -39,6 +39,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden to meet with U.S. workers hit by coronavirus pandemic"
+    excerpt: "President-elect Joe Biden on Wednesday will meet with American workers and business owners hit by COVID-19 as he prepares to confront the pandemic that has taken a heavy human and economic toll when he takes office next month."
+    publishedDateTime: 2020-12-02T11:30:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-workers-idUSKBN28C1GM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543178895&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB10R3"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Coronavirus Is Surging Across The US So Mike Pence Held A Useless Briefing"
     excerpt: "With coronavirus cases surging nationwide, experts fear another 150,000 Americans will die by in the next three months."
     publishedDateTime: 2020-11-20T00:10:00Z
