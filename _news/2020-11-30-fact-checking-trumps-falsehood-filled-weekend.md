@@ -317,6 +317,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Census delay could scuttle Trump's plans to exclude immigrants"
+    excerpt: "Documents released by House Democrats suggest the Census Bureau may not deliver apportionment data to the White House until after Joe Biden becomes president."
+    publishedDateTime: 2020-12-03T03:30:00Z
+    webUrl: "https://www.politico.com/news/2020/12/02/census-delay-trump-exclude-immigrants-442493"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/02/census-delay-trump-exclude-immigrants-442493"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/02/census-delay-trump-exclude-immigrants-442493"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/95/1c/08e4ed3f4900bcf72edba0bd9177/gettyimages-1213593964-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Top Trump allies look ahead to a new administration."
     excerpt: "Entering December, with fewer than 50 days left until Inauguration Day, several of President Trump’s closest allies on Tuesday began signaling a reluctance to continue participating in the president’s broadsides on the election."
     publishedDateTime: 2020-12-02T18:13:00Z

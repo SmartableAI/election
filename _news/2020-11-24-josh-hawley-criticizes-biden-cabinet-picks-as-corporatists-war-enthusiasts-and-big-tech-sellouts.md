@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Gaetz accuses Biden of wanting to be 'valet for the establishment in both parties'"
+    excerpt: "An unusual and seemingly unlikely coalition of progressive Democrats and populist Republicans could form an alliance to be reckoned with in the new Congress next year, Rep. Matt Gaetz, R-Fla. told \"The Ingraham Angle\" Wednesday."
+    publishedDateTime: 2020-12-03T05:20:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hRDCiDJzEA4/matt-gaetz-joe-biden-valet-establishment-both-parties"
+    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-joe-biden-valet-establishment-both-parties.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-joe-biden-valet-establishment-both-parties.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7945671-5140-4bb7-b9ce-6d57364eea10/56b6ff60-bb87-497c-96a6-207a4ac8958b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "3GDMkmy9KEseNHMSvzY4x3gKjKcgYkZzJWQBSupkoEjulURuuZh+GUcxbYbdQdMnYduQaXtZcLHPBqwzV6ry8UJPeW/C03XzRLnrpMRkSY8g4hDvJH6aX1uSf7uXAoKaqmn1k0/VlqTeNcNr9rH2JATVx3B78SGfJb626t18R+nGoVQL9Puh5yxaUEELFNslTyNXhcETfUli/qNABgDLvKZHt0IPGFc7zp/yzkX2LevcAyvM/pwBH8kdfTaYPdxeycOAya4Ff6h9Y1KqcfucCgQ3ubLnq40sdOtLjfEcflwnkPru4QlorqEagx02VgsmasgWGlaAXqI3us3eO5VYNQ1gNe1zMzZ9BUW49yATHxg=;sWB1MrlgYlS2RSGDRagTuA=="
 ---

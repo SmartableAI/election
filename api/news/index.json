@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-03-biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat.md",
+      "title": "Biden must decide on North Korea strategy early, says top Obama-era diplomat",
+      "excerpt": "Kurt Campbell says the delay in acting on Pyongyang in previous Democratic administration ‘headed off any possibility of engagement’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/03/biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/03/biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f580281220eb37f4b6d4922996221607b777c97a/0_0_4423_2654/master/4423.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a3de84c58a1b4e6bdf50a5f4b06e8d26",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/03/biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/03/biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat",
+      "publishedDateTime": "2020-12-02T22:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-trump-hasnt-ruled-out-firing-attorney-general-barr-sources-say.md",
       "title": "Trump hasn't ruled out firing Attorney General Barr, sources say",
       "excerpt": "Barr on Tuesday said the Justice Department hadn't seen any evidence of fraud that would have changed the election outcome.",
@@ -781,7 +833,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1316,63 +1368,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-in-new-interview-mueller-talks-about-vietnam-but-not-trump-and-russia.md",
-      "title": "In new interview, Mueller talks about Vietnam, but not Trump and Russia",
-      "excerpt": "Mueller spoke to Chuck Rosenberg for the NBC News podcast The Oath. In the interview, Mueller seems more in command than when he spoke to Congress in 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/new-interview-mueller-talks-about-vietnam-not-trump-russia-n1249714",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/new-interview-mueller-talks-about-vietnam-not-trump-russia-n1249714",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2018_18/2416666/180430-robert-mueller-2013-ac-1008p_a40d0ee92c3445b1c48a4a9f30613111.jpg",
-          "width": 2500,
-          "height": 1698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249714",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249714",
-      "publishedDateTime": "2020-12-02T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

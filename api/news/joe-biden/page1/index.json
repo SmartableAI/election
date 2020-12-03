@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-03-biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat.md",
+      "title": "Biden must decide on North Korea strategy early, says top Obama-era diplomat",
+      "excerpt": "Kurt Campbell says the delay in acting on Pyongyang in previous Democratic administration ‘headed off any possibility of engagement’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/03/biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/03/biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f580281220eb37f4b6d4922996221607b777c97a/0_0_4423_2654/master/4423.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a3de84c58a1b4e6bdf50a5f4b06e8d26",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/03/biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/03/biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat",
+      "publishedDateTime": "2020-12-02T22:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-the-trailer-what-biden-and-the-left-are-demanding-of-each-other.md",
       "title": "The Trailer: What Biden and the left are demanding of each other",
       "excerpt": "The campaign to shape Biden's agenda, the next (and even stranger) stage of election contests, and Donald Trump Jr. goes on the air in Georgia",
@@ -271,7 +323,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1100,
+      "heat": 1140,
       "tags": null,
       "images": [
         {
@@ -691,49 +743,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-joe-biden-says-this-is-not-a-third-obama-term-in-first-sit-down-interview.md",
-      "title": "Joe Biden says ‘this is not a third Obama term’ in first sit-down interview",
-      "excerpt": "Although his list of cabinet nominees included many Obama-era alumni, Joe Biden said the challenges facing him were unique",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
-      "publishedDateTime": "2020-11-25T16:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {

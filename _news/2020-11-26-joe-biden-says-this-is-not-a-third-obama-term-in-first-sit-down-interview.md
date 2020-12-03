@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interv
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency"
 type: article
 quality: 103
-heat: 123
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -25,6 +25,22 @@ topics:
   - Joe Biden
 
 related:
+  - title: "Biden must decide on North Korea strategy early, says top Obama-era diplomat"
+    excerpt: "Kurt Campbell says the delay in acting on Pyongyang in previous Democratic administration ‘headed off any possibility of engagement’"
+    publishedDateTime: 2020-12-03T06:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/03/biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/03/biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/03/biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/f580281220eb37f4b6d4922996221607b777c97a/0_0_4423_2654/master/4423.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a3de84c58a1b4e6bdf50a5f4b06e8d26"
+        width: 600
+        height: 360
+        isCached: true
   - title: "A former Obama official says the Biden administration has its work cut out for it to fix refugee resettlement and asylum"
     excerpt: "Business Insider spoke to Robert Carey, the former director of refugee resettlement, about the work ahead to help refugees and asylum seekers."
     publishedDateTime: 2020-12-02T08:22:00Z

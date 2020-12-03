@@ -635,6 +635,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Biden Cabinet: President-elect begins to build a team"
+    excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the United States' diversity."
+    publishedDateTime: 2020-12-02T22:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-idINKBN28C2SK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C2SK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C2SK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543228358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11JB"
+        width: 738
+        height: 545
+        isCached: true
   - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
     excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
     publishedDateTime: 2020-11-29T22:12:00Z
@@ -669,8 +685,8 @@ related:
         isCached: true
   - title: "Ivanka Trump questioned under oath in lawsuit over use of inauguration funds"
     excerpt: "Ivanka Trump, the president's daughter and adviser, was questioned under oath this week as part of a civil lawsuit alleging misuse of nonprofit funds for Donald Trump's inauguration four years ago."
-    publishedDateTime: 2020-12-03T01:27:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28D05K"
+    publishedDateTime: 2020-12-03T06:43:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-inauguration/ivanka-trump-questioned-under-oath-in-lawsuit-over-use-of-inauguration-funds-idUSL1N2II3CP"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D05K"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D05K"
     type: article
@@ -1022,17 +1038,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The Biden Cabinet: President-elect begins to build a team"
-    excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the United States' diversity."
-    publishedDateTime: 2020-12-02T22:30:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet/the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG216"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IG216"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IG216"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "President-Elect Joe Biden Hits 80 Million Votes In Year Of Record Turnout"
     excerpt: "The 2020 presidential election saw the most votes in U.S. history at 156 million and counting, and the highest participation rate since 1900."
     publishedDateTime: 2020-11-25T13:06:00Z
@@ -1119,6 +1124,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "hKLHL6LIDeJQLvh3Ph7QJwqn63hUF4KoARgd4G4PMfU+R58mHrDdwcrkMlcaZF3vmblxT2f5B59N9o1V6Q47UtDdgQJ1G6Gys7BenHVbggtLn3AnopAWs9sXkynSjzfMXOpEzETa72BZ7ZWMrFnEMOpg1JsXwmJMGu4et8TOwOSb/vIP3fh7LT47S9ub2QXM1G75kGdsdEW6EinvayAtksJaidwZgZd9YleyrI85U6p5lNwRUGvW7SbZ4urhld4Ug0pSjFYVMC1Ny7fITgJfhxBxGd2iKmyYBd4kjzMDVN9GArTaS3Yw2nERwUBw7PQ7ixZzcnajp7+H+L106lMgqqWfstzMMFFMsX30/eTh5GY=;dXOMTcXMdMc+49u+bKv9Jw=="
+secured: "cXlpSJ0NxC8X29feKleyi+BPKx+b+qvt4zcPLEQZq71cXwUIYWvGt8Vg8jjNFkK1rg56Jlf5tx0b4LzggWxgx05vMrRzRXREWAS0bkqKJwtDCD6odF62I0klOSZ0r5QDSODVw9PKSSjklrDSwYL//y1rHLJNhAbGwxr+1+2YCojyyydal0DRyn7NreTghlcoaXgWY+6nHRa6AzBgRirx46B6XhIsVLoeUiJPxo3ceaxYRadz74kpDi8MbfD+qYIT+X1xq/TsyDLamcGedDKEOUIL0lnf7nhVm+EPHxn8G0jDVM7Mz3X8TLpWWbcWOPgaMHdj79OI+wegufpmxMLj0+lQZVU6Li6mvKKNlpGePuq3TJvxl2FD9oBR59PJ9cZ0KE/tP4RWoqNk5LOmA3tVq5C0851RsQG7fbugNyrugAPTO981jytqKZavtxWDOc0Lt5thPfjqFW6r509AuiLrGlO7xiGxzgNm7a/9Vzl2ZiwUq7h7ahuaA2xddZ8+6UXZknj72YpWsIHOTr+DaL1sow==;Y7JOePyOvygH/JeuFjAjww=="
 ---
 

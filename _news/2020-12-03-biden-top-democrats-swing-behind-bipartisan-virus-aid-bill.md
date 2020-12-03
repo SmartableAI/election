@@ -2,11 +2,11 @@
 category: news
 title: "Biden, top Democrats swing behind bipartisan virus aid bill"
 excerpt: "WASHINGTON -- President-elect Joe Biden swung behind a bipartisan COVID-19 relief effort Wednesday and his top Capitol Hill allies cut their demands for a $2 trillion-plus measure by more than half in hopes of breaking a monthslong logjam and delivering much-sought aid as the tempestuous congressional session speeds to a close."
-publishedDateTime: 2020-12-03T04:35:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/senate-gop-leader-sticking-partisan-covid-relief-plan-74497041"
-webUrl: "https://abcnews.go.com/Politics/wireStory/senate-gop-leader-sticking-partisan-covid-relief-plan-74497041"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-gop-leader-sticking-partisan-covid-relief-plan-74497041"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-gop-leader-sticking-partisan-covid-relief-plan-74497041"
+publishedDateTime: 2020-12-03T06:32:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/top-democrats-swing-bipartisan-coronavirus-aid-bill-74509741"
+webUrl: "https://abcnews.go.com/Business/wireStory/top-democrats-swing-bipartisan-coronavirus-aid-bill-74509741"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/top-democrats-swing-bipartisan-coronavirus-aid-bill-74509741"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/top-democrats-swing-bipartisan-coronavirus-aid-bill-74509741"
 type: article
 quality: 125
 heat: -1
@@ -447,6 +447,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "GOP senators dismiss possible congressional challenge to Biden victory"
+    excerpt: "Amid President Trump’s unfounded claims of fraud, several of his supporters in the House have said they are exploring a challenge to electoral college results."
+    publishedDateTime: 2020-12-03T01:19:00Z
+    webUrl: "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELBI7NRUCMI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 974
+        isCached: true
   - title: "Klain brings decades of DC experience to Biden White House"
     excerpt: "Ron Klain has checked all the boxes of a classic Washington striver: Georgetown, Harvard Law, Supreme Court and Capitol Hill staffer, White House adviser and, along the way, of course, lobbyist and la"
     publishedDateTime: 2020-12-02T16:55:05Z
@@ -574,6 +590,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IOP6QNT7III6VBGCA6JNQWIZCE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden team to meet with Latino lawmakers amid calls for diverse cabinet picks"
+    excerpt: "Congressional Hispanic Caucus has pushed for the president-elect to select a Latino person to lead a major federal agency"
+    publishedDateTime: 2020-12-02T21:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/ca519be7e2232ba11e4ac5d8dfae38be29db558d/0_84_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad7e7a3e5456b291902a6b3d9d880c9e"
+        width: 600
+        height: 360
         isCached: true
   - title: "UPDATE 1-Biden urges Congress to pass coronavirus package, promises more action"
     excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
@@ -776,6 +808,6 @@ related:
         height: 660
         isCached: true
 
-secured: "O1BTEweKv+ueCDdycwPoAGwh5zBYXY+io5UrnN4AlEvNuTd/F1Y59NWrz+UtWPSTvtp4erOt92q3/49x5xtP8qSWeldFlAF3qbMePt2VYnKke0d8rSR/MKQDklhC7W0mOVF0rSEr3cFEuR/ulQrLekfiC0zWwth/3zr1bzNoJ4I5BTQcg2XACU9Una/MlqUqDCNJYSUsinA8vvdvf+CV7ejnbwIRDN1wQYATbehaM/9gfl/R5TjiSvospdlBo6mVYYZA0pAuZNylYAp3A5i7dUclmoe38SzKsSaRiEOcZGd7EdoY96zCcDWa9rHDl9ZSnnMq7I+sIAF8Ur9kj1bmwi1oJDTVHdKLFbn8XuLKiRE=;rSErV+ktOEyu1KNEt2tROg=="
+secured: "McbwehghShN0A+hxk2K1u0UhXmRkWZJaU0fqyxJElx7CXuO6KiGtSUyApjPQmWmu9yJ2aLNcSkP24VkYqe8BABW0CC/u5bKoMlA1DJxKVjmIP024+VehFTaSgv5YX19h5KIv9WAhkblVZB4mXex0ThZDT5NanI1Z5gwC3VXmhvn+h2j0ff97z/DMJ4rzz9W70332DZ+0+04mMBUbkZ7Yqx6WobDy8tlqu/qxncaDDsWrRsZhOp8xquE/Wq5lvDgCZ2TWm4+B7+5lOnbq59qITrCaQSu/t9uPjmkHiHNlc6KDj3Lx5OUzuiivs1u99frooGTdvOL6FIjecehpRzvbZgNZNqTAOTlZ60TE6l1k3YQ=;9IM0nAVJHzm+hG4FFIUlPA=="
 ---
 

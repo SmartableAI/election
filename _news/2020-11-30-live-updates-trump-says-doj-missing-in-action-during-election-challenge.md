@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-says-doj-missing
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp"
 type: article
 quality: 188
-heat: 508
+heat: 528
 published: true
 
 provider:
@@ -170,6 +170,22 @@ related:
     quality: 169
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd7fefb9-d30f-4b07-b566-01eaa53e3755/8d5fa08e-5e27-4a9c-a15b-c6985dcf9a95/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump to campaign for GOP Senate runoff candidates in Georgia Saturday"
+    excerpt: "Follow for the latest updates on the Georgia Senate runoffs"
+    publishedDateTime: 2020-12-03T06:13:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X1WgTSy5Plw/trump-to-campaign-for-gop-senate-runoff-candidates-in-georgia-saturday"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-campaign-for-gop-senate-runoff-candidates-in-georgia-saturday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-campaign-for-gop-senate-runoff-candidates-in-georgia-saturday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c52c112-f7a8-401a-911a-350f77702a09/72f4df19-ba45-4df8-a29a-e07d0173f7f7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

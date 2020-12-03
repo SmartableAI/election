@@ -2,13 +2,13 @@
 category: news
 title: "The Biden Cabinet: President-elect begins to build a team"
 excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the United States' diversity."
-publishedDateTime: 2020-12-02T22:30:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-cabinet/the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG216"
-webUrl: "https://www.reuters.com/article/usa-biden-cabinet/the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG216"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IG216"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IG216"
+publishedDateTime: 2020-12-02T22:34:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-cabinet-idINKBN28C2SK"
+webUrl: "https://www.reuters.com/article/usa-biden-cabinet-idINKBN28C2SK"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C2SK"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C2SK"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543228358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11JB"
+    width: 738
+    height: 545
+    isCached: true
 
 related:
   - title: "The Latest: Graham: Trump should attend Biden’s inauguration"
@@ -665,8 +671,8 @@ related:
         isCached: true
   - title: "Ivanka Trump questioned under oath in lawsuit over use of inauguration funds"
     excerpt: "Ivanka Trump, the president's daughter and adviser, was questioned under oath this week as part of a civil lawsuit alleging misuse of nonprofit funds for Donald Trump's inauguration four years ago."
-    publishedDateTime: 2020-12-03T01:27:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28D05K"
+    publishedDateTime: 2020-12-03T06:43:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-inauguration/ivanka-trump-questioned-under-oath-in-lawsuit-over-use-of-inauguration-funds-idUSL1N2II3CP"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D05K"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D05K"
     type: article
@@ -1118,6 +1124,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "LojDPn4baRMCaOe3W827qfU4GL9s/FbRUdM2EvCU4h9hGmkxhEp+SKj+3+Ee0suR4AYG1hkCyKg0PYpEiHr0/FUSrEhvg1RyG2tvam6cilLW+e88PalpSN8zrSOHVGx0omAYtJpIyouQl3qQ+9z5TUR1vZjZB9gQSLUPp36XjX0rRVWWN4k7WjCAEmJTSpN5idanYGNEh5ctGPdCZ7iC1lHaWjfoeree5LE2d2vXiW1iDAQI2mVV2zweWVvMMic1r3696Sbw3hxgnib6ogUfpPZwsR4VwhxIquA/zE2TQU+rK3A9rlS4cZijoBT4EoX43QpIxmBW2BQh6eT0cMRhXx88jUgYG6zBp4S23qmSD0o=;CFPoCOIh6y0b080dYU9cYg=="
+secured: "BEBu29V6O5vML780hkMzFUE5mMa4xQsgPqqkj1GvEM9S4cXNiktgxDqv/VAyUGP04u45Le3vp+0W4KDxaIus5NhS6wh2ZRq7xpmUWCw/lRoCDaa4BUTzs8RPgKmE5A9xcHi4xMoZjtqFfi0yhD2TcrNIlWRW/428PBgriCgHDcgZm1AZvqQwZPSPtUCAWjgjum10dccEJI9/Zr1tvPcKYPik+VSzSyeehhHd8Rjn2m0AryZMOiXhkw47rlww9uf3Gb3r+pminn8gKxxObl3F0u+livmnVuium1I+YeNVeajsRVZqqyGIfGtJxwU3gv9QQLqui3h3WKC5Nua44hdEKSS8mFkWWah834NKND/Cd2g=;knp10JACYUPkcRMHXV3VOw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/naacp-biden-rahm-emanuel-rumors.amp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/naacp-biden-rahm-emanuel-rumors.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Top Biden economic adviser accused by former employee of mismanagement, retaliation over blog post"
+    excerpt: "Biden appointed Heather Boushey to the Council of Economic Advisers this week."
+    publishedDateTime: 2020-12-03T05:56:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VCdImiSLLlQ/biden-economic-adviser-accused-former-employee-mismanagement-retaliation-blog-post"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-economic-adviser-accused-former-employee-mismanagement-retaliation-blog-post.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-economic-adviser-accused-former-employee-mismanagement-retaliation-blog-post.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0057dcd5-8a66-46c5-a417-b75dc305ccbf/ebe455b5-2e5b-4cda-aade-25221a8bc5a6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "PTRXhyAIkGCCXWRIR5Bay5aFmJAA59sPff/ngyV8QYt6QVXtJvU7DobcDwFfr+fQREvgAhNium1GmaBreBmQcjQzWy+kSclRfy26C3Lqbg1IlDaqgo2g2ClW/B229vEa+Ta0v7qf0rYMthmHzqP7f6dFAtvQGXVDj0mmBrWXpCyU/EXdmDfysbp3V7RbUw5OncCrKfvQuxyI+4EAk2p8aEEbYkirBeMJ5r8WUg68+jAQJGo8wLIGyZUwUABI+b0G/i918yTRQd5WBTCUTuRN2dl3aNkKIe7Wx/UNbzgmI4g/KWTDDxBO3YTwUWmzPoXEjgaEqxMiPTHCRovncH3tJSfnpFpc3zN1utu0r6qzq4s=;BUt0n7VyriYExM9lqdsMDQ=="
 ---

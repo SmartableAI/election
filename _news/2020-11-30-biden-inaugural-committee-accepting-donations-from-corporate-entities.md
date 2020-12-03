@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-inaugural-committee-accepting
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inaugural-committee-accepting-donations-from-corporate-entities.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20336659224888-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Gaetz accuses Biden of wanting to be 'valet for the establishment in both parties'"
+    excerpt: "An unusual and seemingly unlikely coalition of progressive Democrats and populist Republicans could form an alliance to be reckoned with in the new Congress next year, Rep. Matt Gaetz, R-Fla. told \"The Ingraham Angle\" Wednesday."
+    publishedDateTime: 2020-12-03T05:20:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hRDCiDJzEA4/matt-gaetz-joe-biden-valet-establishment-both-parties"
+    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-joe-biden-valet-establishment-both-parties.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-joe-biden-valet-establishment-both-parties.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7945671-5140-4bb7-b9ce-6d57364eea10/56b6ff60-bb87-497c-96a6-207a4ac8958b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Josh Hawley criticizes Biden Cabinet picks as 'corporatists,' 'war enthusiasts' and Big Tech 'sellouts'"
     excerpt: "Sen. Josh Hawley on Tuesday criticized President-elect Joe Biden's cabinet picks."
