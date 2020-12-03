@@ -108,6 +108,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris Names Senior White House Staff"
+    excerpt: "The vice president-elect selected three women to serve in top roles on her team."
+    publishedDateTime: 2020-12-03T20:40:00Z
+    webUrl: "https://www.wsj.com/articles/harris-names-senior-white-house-staff-11607008158"
+    ampWebUrl: "https://www.wsj.com/amp/articles/harris-names-senior-white-house-staff-11607008158"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/harris-names-senior-white-house-staff-11607008158"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-267711/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Kamala Harris slammed for tweet sucking up to small businesses after bailing out rioters"
     excerpt: "Vice President-elect Kamala Harris was widely slammed on Twitter this weekend for committing to helping small businesses affected by the pandemic despite having openly supported protesters at the height of social unrest over the summer."
     publishedDateTime: 2020-11-30T11:55:00Z

@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris Names Senior White House Staff"
+    excerpt: "The vice president-elect selected three women to serve in top roles on her team."
+    publishedDateTime: 2020-12-03T20:40:00Z
+    webUrl: "https://www.wsj.com/articles/harris-names-senior-white-house-staff-11607008158"
+    ampWebUrl: "https://www.wsj.com/amp/articles/harris-names-senior-white-house-staff-11607008158"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/harris-names-senior-white-house-staff-11607008158"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-267711/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Kamala Harris scoops up gifts, promotes small businesses at holiday market"
     excerpt: "Vice President-elect Kamala Harris hit up a Washington, DC outdoor holiday market Saturday — and found herself the perfect stocking stuffer. With husband Doug Emhoff at her side, a laughing"
     publishedDateTime: 2020-11-28T22:27:00Z

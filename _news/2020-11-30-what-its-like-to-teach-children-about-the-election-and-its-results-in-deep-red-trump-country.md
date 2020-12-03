@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump running out of time to solidify immigration agenda after U.S. election loss"
+    excerpt: "President Donald Trump's administration is pushing to finalize new immigration restrictions before his term ends in January, according to three senior homeland security officials, a last-gasp effort in a policy area that was a central focus during his four years in office."
+    publishedDateTime: 2020-12-03T20:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-trump-idUSKBN28D1G7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D1G7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D1G7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543345959&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RZ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Former head of U.S. election security calls Trump team fraud allegations 'farcical'"
     excerpt: "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\"."
     publishedDateTime: 2020-11-28T01:36:00Z
@@ -252,6 +268,22 @@ related:
     quality: 132
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/21/NETN/c167c6c8-3e6f-4e77-af2b-ddd00ce3c26c-p18trump102020.JPG?auto=webp&crop=1567,881,x1,y231&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump ally banned from Justice Department after seeking sensitive election intel: report"
+    excerpt: "The official serving as President Donald Trump’s eyes and ears at the Justice Department has been banned from the building after trying to pressure staffers to give up sensitive information about election fraud and other matters she could relay to the White House,"
+    publishedDateTime: 2020-12-03T20:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/03/trump-ally-heidi-stirrup-banned-doj-after-seeking-election-intel/3814426001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3814426001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3814426001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/37828913-dfc7-4783-bf2b-9e3ac6633562-AFP_AFP_8UX3YC.jpg?auto=webp&crop=5306,2985,x0,y63&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -510,6 +542,38 @@ related:
       - url: "https://s.abcnews.com/images/Politics/donald-trump-gop-social-media-00-gty-llr-201202_1606950356056_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "The only experts Trump wants his supporters to rely on are themselves"
+    excerpt: "Trump is trying, unsuccessfully, to use it in the latter sense. He's unsuccessful because the idea that Republicans lower on the ticket might do better than Republicans higher on"
+    publishedDateTime: 2020-12-03T20:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/03/only-experts-trump-wants-his-supporters-rely-are-themselves/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/03/only-experts-trump-wants-his-supporters-rely-are-themselves/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/03/only-experts-trump-wants-his-supporters-rely-are-themselves/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELNV3VRT7AI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump aide banned from Justice after trying to get case info"
+    excerpt: "The official serving as President Donald Trump’s eyes and ears at the Justice Department has been banned from the building after trying to pressure staffers to give up sensitive case information she c"
+    publishedDateTime: 2020-12-03T20:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-aide-banned-from-justice-after-trying-to-get-case-info/2020/12/03/99d94ec8-35a3-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-aide-banned-from-justice-after-trying-to-get-case-info/2020/12/03/99d94ec8-35a3-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-aide-banned-from-justice-after-trying-to-get-case-info/2020/12/03/99d94ec8-35a3-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "U.S. Republicans balk as Trump uses defense bill for leverage on Big Tech"
     excerpt: "President Donald Trump's threat to veto a defense bill if it does not repeal legal protections for social media companies faced stiff bipartisan opposition on Wednesday, setting the stage for a confrontation with lawmakers scrambling to pass the massive bill by year-end."

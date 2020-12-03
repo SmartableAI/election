@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "With Trump and allies headed to the Supreme Court, elections cases still dead on arrival"
+    excerpt: "After more than 30 defunct lawsuits in 30 days, attempts by President Donald Trump and his backers to overturn the election of Joe Biden as the next president have failed in court -- sometimes repeatedly, with judges gutting claims and shutting down all possible legal avenues to interfere with the Electoral"
+    publishedDateTime: 2020-12-03T19:38:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Dl11Mxs20zg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-election-lawsuits/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-election-lawsuits/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201143233-02-trump-1124-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump frustrated with Barr after election comments but officials don't want AG fired, sources say"
     excerpt: "President Donald Trump is frustrated with Attorney General William Barr after his comments to The Associated Press breaking from the President's false claims of fraud in the election, two sources tell CNN.\n    \n"
     publishedDateTime: 2020-12-03T02:31:33Z

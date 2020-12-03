@@ -3,8 +3,8 @@ category: news
 title: "Second recount confirms Biden won Georgia"
 excerpt: "Watch \"Second recount confirms Joe Biden won Georgia\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-12-03T18:42:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201203182028-second-recount-confirms-joe-biden-won-georgia/"
-webUrl: "https://www.cbsnews.com/live/video/20201203182028-second-recount-confirms-joe-biden-won-georgia/"
+originalUrl: "https://www.cbsnews.com/live/video/20201203195105-second-recount-confirms-joe-biden-won-georgia/"
+webUrl: "https://www.cbsnews.com/live/video/20201203195105-second-recount-confirms-joe-biden-won-georgia/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/03/story_07962329_1607020084.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/03/story_07962640_1607025304.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -1093,6 +1093,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Hj/JB5C4mfigyaPZFNoC82I4U6w2qusK/MWL8o0bUS/Azanx48jeF2uDGurQt+NZaED0W1YMTn8V1lRQO1Jcya8/UjE7lgkHAyxSaM5AsAdZSuG59d197iVmsxmCj9jpmqjjHtWYH7mGmJCDJKJ8taNPlYC6VO0+W7dq2EjIRo/K0RsjCW8OTC2Dtx8CE3MormjPUmok2tLdd+McJ2xKdgQ4yUNPVeKfo2wm435viFKzJT+BjdFatEhG6ch1AW+Rl/4xyVdkSOW5z9yllGe5YuTmZzddsKPQ4MekETguKy3DYlKiQV+p1jWJPJNi0TD7ib39bai2/H9aDVvfb7f7PtGVkv6TFItv0Y/il6CDm3U=;ZZce26yWdpeNM8WRZ0K69A=="
+secured: "GE0XpO6LrMRP7dFQoK4d2aDP2tq/WpFs3fwaO7jNhFZWhMyn4hiQgNrKGtJRm4RoX5MoLDIfddxS40nq7EMAQHHY7YoFwdCjR03T95qea89Lsp0JCSYZmXcINJE3Px48zNTSlFtBnkklVoHGInukUOLTwhRCxAw1yy7AUdG7cpBBZ0xFqIi74XHwIBPxvGIFaBPk42nb3rPjwgAIwXFAGF3f8hQ+N7CZ+5z53+lo/Vp11sc+jh4N6U/3GIM7Py6jMxTNIFSSABiLrtFvoarrKWMVE3x5PKc45EdO/nkd8CNp99LKl3Lqz/LCwt6aGc7gSTOuBu5o45zHAfCi/ZH9w1KldGsNs2bei/l/O6QqHUA=;CRAbV7K31Bt5oiOayvkr4A=="
 ---
 

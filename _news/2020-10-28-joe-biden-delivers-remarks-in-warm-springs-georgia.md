@@ -949,14 +949,14 @@ related:
   - title: "Second recount confirms Biden won Georgia"
     excerpt: "Watch \"Second recount confirms Joe Biden won Georgia\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-12-03T18:42:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201203182028-second-recount-confirms-joe-biden-won-georgia/"
+    webUrl: "https://www.cbsnews.com/live/video/20201203195105-second-recount-confirms-joe-biden-won-georgia/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/03/story_07962329_1607020084.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/03/story_07962640_1607025304.jpg"
         width: 1280
         height: 720
         isCached: true
