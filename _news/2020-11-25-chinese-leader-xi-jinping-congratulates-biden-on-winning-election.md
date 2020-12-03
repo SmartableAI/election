@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-con
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/xi-jinping-joe-biden-congratulations/index.html"
 type: article
 quality: 190
-heat: 1310
+heat: 1330
 published: true
 
 provider:
@@ -444,6 +444,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119200202-antony-blinken-file-photo-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senate GOP warns Biden on Cabinet picks as some Democrats push for more liberal choices"
+    excerpt: "Joe Biden is facing dueling headwinds as he looks to fill out his Cabinet: Senate Republicans want the President-elect to consult with them and choose nominees who could win their support, while liberal Democrats are pushing him to name progressives who could shape the policies of his government.\n  "
+    publishedDateTime: 2020-12-03T02:37:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HQJyIxG2Mzw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/republican-reaction-biden-cabinet-pick/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/republican-reaction-biden-cabinet-pick/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201129183807-biden-file-1125-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -464,6 +464,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate GOP warns Biden on Cabinet picks as some Democrats push for more liberal choices"
+    excerpt: "Joe Biden is facing dueling headwinds as he looks to fill out his Cabinet: Senate Republicans want the President-elect to consult with them and choose nominees who could win their support, while liberal Democrats are pushing him to name progressives who could shape the policies of his government.\n  "
+    publishedDateTime: 2020-12-03T02:37:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HQJyIxG2Mzw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/republican-reaction-biden-cabinet-pick/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/republican-reaction-biden-cabinet-pick/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201129183807-biden-file-1125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's plans for mask mandates nationwide will be an early test of his power of persuasion"
     excerpt: "President-elect Joe Biden's team is discussing ways to persuade resistant Republican governors to get on board with mandating masks to stop the spread of Covid-19, according to sources familiar with those conversations.\n    \n"
     publishedDateTime: 2020-11-19T15:56:04Z
@@ -925,6 +941,6 @@ related:
         height: 629
         isCached: true
 
-secured: "jJiHJoNltsUNrx4sUVEK7PHMh7t4/8HZmh+CnOl2y8/UsVqx5H7us0Wbqnx63+iZZ4XFvvwzxPrKqx+oMXxQ5pBAV7oyOfWWvA4jVvcoAKrSARA1MRtRjiM7aORMK76xFrhP9nwo7SOD5Pdt+IWON5xZyisCE2OFNKC9dvwFy5y/x3AZ/OceKgwFwaqrjX7kbIEOAPC8NE8j0yYkLAYvWcbR+9kGeXoIJv3IdsuBObpZwes0y3UUINrHP+JkfQqVAsMePYIG4EFK0cBV0BtA56gSmJRlGG0LtBfS4OyK0OK+OLCbkZJ3f8JjKqEpIPiXw6evM/dLMzmo2CiVuuO6aHh4cW+o72BpIQHqmROSrBs=;iqksBdmkKv9XtifIngi1IQ=="
+secured: "ONx011f+dMY6F8g6tgMljJtzMN0/Mwb3nrMrXf+CUJHxqXrdLhZ635u+0AOPCyTFLVp8Ff13sqRI3bZQCdg/iz6ROeI8zUU405EszT+r/1x9nsvmSbeSk7TmUVDV+wfmNe0GIaxGBTjNTrd9mPZBSlZbAc8KXnbtDZBTbEHqrzFAyFOmAYSdX4/jDrn94mIw0b+fNza9tW5cy/+rS45UTkElubnecdyHo6UQUvbymxM6YbwMlqP6D8U6ms8n65CKzzjUmMPPHfY0StJ2xK0BEzPJ/gLN//thFhd/xoFWkLwteNpJSl286JTzbwmLIZ4WMT4VmckKZ0E8MrBjSj7+15Y8wF29qzJYRnUryeSg3jPkJQUZ1bXS1gr/a3+t2tZbd6fpVmHk4Gq7C5vTMFlFTyPu+QNmOUX6J+1GZWVF88ltuBaj2ldSs0QufzE7AOQOVtYyi8RrfFHQ6eatqEEOxMvukuZrVxoLog8DX+wgkzWBkhlHi0xXTVXV7HV4Y6oeZVyGIZWg87mVe0p+pwsbwA==;XUWJo5Q7xPvQ7jDsLyuSDA=="
 ---
 

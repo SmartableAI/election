@@ -127,6 +127,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump rehashes baseless election claims in 46-minute video from the White House"
+    excerpt: "Trump's video had the look of an official address, but his words had the feel of a series of tweets strung together to lash out at perceived enemies."
+    publishedDateTime: 2020-12-03T01:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/02/trump-video-latest-rehash-baseless-claims-election-voter-fraud/6360931002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6360931002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6360931002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/03/USAT/5331e166-9612-4ec8-9820-957905b145ec-Trump_video.jpg?auto=webp&crop=5597,3149,x0,y284&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Former head of U.S. election security calls Trump team fraud allegations 'farcical'"
     excerpt: "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\"."
     publishedDateTime: 2020-11-28T01:36:00Z
@@ -479,6 +495,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump's veto threat on must-pass defense bill meets GOP resistance"
+    excerpt: "Trump's Tuesday night veto threat of a highly popular, must-pass defense bill -- which includes a 3% pay raise for U.S. troops -- has been met with GOP defiance."
+    publishedDateTime: 2020-12-03T01:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-veto-threat-pass-defense-bill-meets-gop/story?id=74506183"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-veto-threat-pass-defense-bill-meets-gop/story?id=74506183"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-veto-threat-pass-defense-bill-meets-gop/story?id=74506183"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-gop-social-media-00-gty-llr-201202_1606950356056_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump administration moves to strip federal protections for migratory birds"
     excerpt: "The Trump administration moved forward Friday on gutting a longstanding federal protection for the nation's birds, over objections from former federal officials and many scientists that billions more birds will likely perish as a result."
     publishedDateTime: 2020-12-01T16:28:00Z
@@ -617,6 +649,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/supreme-court-rt-jt-201130_1606763537529_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "UPDATE 2-U.S. Republicans balk as Trump uses defense bill for leverage on Big Tech"
+    excerpt: "President Donald Trump's threat to veto a defense bill if it does not repeal legal protections for social media companies faced stiff bipartisan opposition on Wednesday, setting the stage for a confrontation with lawmakers scrambling to pass the massive bill by year-end."
+    publishedDateTime: 2020-12-03T02:35:00Z
+    webUrl: "https://www.reuters.com/article/usa-defense-congress-idINL1N2II2DE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C344"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C344"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543275681&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11Q1"
+        width: 797
+        height: 545
         isCached: true
   - title: "With Fox’s Maria Bartiromo as his first post-election interviewer, Trump found a sympathetic ear and few questions"
     excerpt: "Trump broke his relative silence by calling into Maria Bartiromo’s “Sunday Morning Futures” show for 45 minutes. It was a major exclusive that he handed to Bartiromo, a veteran financial journalist who has emerged over the last four years as one of the biggest backers of Trump’s presidency within the Fox News Media corporate ecosystem."
@@ -947,6 +995,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "J9wfN7AjvEhahqXDbEb+hXg4DV7Z9VoIOhsBvINgPaC0zGbOeCVh8pPTsNgz7exH/lPWSyAmH3xI8aSVRdhsEFIuLYAW4zeL5UVYy/IpQf2P9f+BWH6iaZrFelO6ssMBIPyWEW+3G4Tp/twGgbCXxCtGB2eiZ8wg1TIFxiYmPMJWujbdAhj7SHVz9n2inVxzqcB1eAB6dZziFgy7RO/9TGJFcepOHFCVsJY3FeRg94/g1XFs7p3+Zbxd0ogN+XBaBXmHsIhbK7OTAgkeMvn/CKzy6EGjj6IHpbMhGRAVYShML/B39EkmxY/8p5U3EXJiia6llnDQJuDSWi9/j0WctpH8E8+1mJvRIu1mlyabk/o=;YJugxO24GNZtHuxHNKGIdA=="
+secured: "vb1bAON9pk8HHsOQmr20ZLP+Bws72diD3MKIWy2dJU2eMuQH3r6ma++gda0pGZll+JQu2hvzFFQLBZJ7k/InuPqkWvOrIyG5C4S7xh2ivzJTxTpQnjG9tLoym/VW2vWaFQ4EkKjj9H8FvVOulsO+j6UDSRwk7bZeqo0lH9N/uRm7PVBRhb9TSkW9apN4kgr8jHRiYod3e2+nwwBXbyur7F8qG+cOt7xrdMueXj7okqXZWoxVuWJQ0I7S2+5AI8hcuIteMto6Uy0to0vph5I7EDANLgwx4Fz1Ym9gjOiGh9/wfxkIf0/HxSVa4uSdYi6qbSxf/yaEzH/Nz5rNV8d0TjDUtOFbvdPpAvPCRMIVH1gEARe7JoY4L0v3ZkzrIBo01Vn7dygLj4Ihv+H03kOD3Sledyf77+O7NbFeOL5CZxpv7toUZZD/LzEqlXJjGh01oh+FtPnin7iyySHaoro4sbJlT2/QzRIQjCRaKTbU+JO2zG1Xwat6TKp+7lgACROP+1qP+t7ZrmuXhxOL8neFNA==;kExRzdJbbdg985fCoDt2qw=="
 ---
 

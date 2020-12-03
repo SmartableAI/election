@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Census Delays Would Prevent Trump Immigrant Exclusion Plan"
+    excerpt: "Census Bureau schedules indicate the agency needs until Jan. 23 to complete the 2020 count and transmit apportionment figures to the president, a House committee said."
+    publishedDateTime: 2020-12-03T02:29:00Z
+    webUrl: "https://www.wsj.com/articles/census-delays-would-prevent-trump-immigrant-exclusion-plan-11606951208"
+    ampWebUrl: "https://www.wsj.com/amp/articles/census-delays-would-prevent-trump-immigrant-exclusion-plan-11606951208"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/census-delays-would-prevent-trump-immigrant-exclusion-plan-11606951208"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-267382/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "VH/XgtAvrFPd3q4ds81sdxYJOlW/tnQwL/xfBr+DbEjy0Gv8ZUuJVR8avq/Kw+pPatn1dQFRYs29rsYJ2sKhxKe85gyl7rcigJTrUSKfEv1j+V6bueRgM12VruTxQ3jzSB8FVmDny+fN9imWqN89xRGun5vLMgPhaAVh2wsgWMAuKA9KxFIoWmI9EBT4uZ8+HTiKOJ9OFbjBQ4hxGcBPB73g7jDv7IheTf4jhELpWJWS2KKhSV/4ND/gMv4/k+dFPD6odn2IwfFldcmusYJCaW/RGosVhnnI+7f9pW+nhOVPfaLOBDdAjhEnjYQzZXzR1CecQ0Q7/9ChOCK15N7T5nSj7i/SmtqYJj6lTDfakZs=;hRcVSFP/PKok9P96+Px4IQ=="
 ---

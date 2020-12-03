@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-new
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30trump-money-photo/30trump-money-photo-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Could Trump pardon family members if they haven't been charged with crimes?"
+    excerpt: "Could Trump pardon family members if they haven't been charged with a crime? WASHINGTON — Speculation that President Donald Trump might issue pardons before he leaves office for members of his family or other supporters raises a question about whether pardons can be issued pre-emptively — that is,"
+    publishedDateTime: 2020-12-03T02:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/could-trump-pardon-family-members-if-they-haven-t-been-n1249707"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249707"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249707"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432571/201202-donald-trump-jm-1031_26037655efec3920d6e2760cd31d74ff.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Supreme Court Takes Up Trump Plan to Exclude Unauthorized Immigrants in Redistricting"
     excerpt: "The administration’s efforts, which are subject to practical hurdles, would upset a constitutional consensus and could shift political power from Democratic states to Republican ones."

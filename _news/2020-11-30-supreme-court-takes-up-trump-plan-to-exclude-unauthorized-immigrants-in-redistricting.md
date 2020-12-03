@@ -128,6 +128,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Could Trump pardon family members if they haven't been charged with crimes?"
+    excerpt: "Could Trump pardon family members if they haven't been charged with a crime? WASHINGTON — Speculation that President Donald Trump might issue pardons before he leaves office for members of his family or other supporters raises a question about whether pardons can be issued pre-emptively — that is,"
+    publishedDateTime: 2020-12-03T02:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/could-trump-pardon-family-members-if-they-haven-t-been-n1249707"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249707"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249707"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432571/201202-donald-trump-jm-1031_26037655efec3920d6e2760cd31d74ff.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Supreme Court skeptical of Trump's plan to exclude undocumented immigrants from census"
     excerpt: "Several justices, including some conservative ones, seemed to doubt that the president had such a sweeping power to modify the census results."
     publishedDateTime: 2020-11-30T17:59:00Z

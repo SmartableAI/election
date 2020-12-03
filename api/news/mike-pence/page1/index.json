@@ -59,19 +59,19 @@
       ]
     },
     {
-      "path": "_news/2020-12-03-what-we-know-about-vice-president-mike-pences-trip-to-memphis.md",
-      "title": "What we know about Vice President Mike Pence's trip to Memphis",
-      "excerpt": "Vice President Mike Pence is scheduled to arrive in Memphis at 1 p.m. Thursday afternoon, his office said Wednesday. Air Force Two is scheduled to touch down in Memphis at about 1 p.m. Then, in an airplane hangar at Memphis International Airport,",
+      "path": "_news/2020-12-02-vice-president-mike-pence-will-visit-memphis-thursday-heres-why.md",
+      "title": "Vice President Mike Pence will visit Memphis Thursday. Here's why.",
+      "excerpt": "Vice President Mike Pence is planning to travel to Memphis Thursday to discuss Operation Warp Speed, the nation's COVID-19 pandemic response.",
       "sourceUrl": null,
-      "webUrl": "https://www.tennessean.com/story/news/2020/12/02/vice-president-mike-pence-visit-memphis-roundtable-fedex-operation-warp-speed/3794113001/",
-      "originalUrl": "https://www.tennessean.com/story/news/2020/12/02/vice-president-mike-pence-visit-memphis-roundtable-fedex-operation-warp-speed/3794113001/",
+      "webUrl": "https://www.tennessean.com/story/news/2020/12/01/vice-president-mike-pence-visit-memphis-operation-warp-speed/3786333001/",
+      "originalUrl": "https://www.tennessean.com/story/news/2020/12/01/vice-president-mike-pence-visit-memphis-operation-warp-speed/3786333001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/01/19/PMCA/1b4a68c8-4129-47b4-b38a-cdcce6ca6024-011920PenceLands11.jpg?auto=webp&crop=2326,1309,x0,y295&format=pjpg&width=1200",
+          "url": "https://www.gannett-cdn.com/presto/2020/11/19/USAT/a9990e0f-1d48-4a88-8453-d7b48ac0ff46-GTY_1285534426.jpg?auto=webp&crop=3672,2066,x0,y186&format=pjpg&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -81,9 +81,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.tennessean.com/amp/3794113001",
-      "cdnAmpWebUrl": "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3794113001",
-      "publishedDateTime": "2020-12-02T11:41:00-08:00",
+      "ampWebUrl": "https://amp.tennessean.com/amp/3786333001",
+      "cdnAmpWebUrl": "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3786333001",
+      "publishedDateTime": "2020-12-01T14:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Tennessean",
@@ -561,7 +561,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 539,
+      "heat": 559,
       "tags": null,
       "images": [
         {

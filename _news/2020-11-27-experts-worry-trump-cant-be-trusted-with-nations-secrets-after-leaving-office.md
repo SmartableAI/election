@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump frustrated with Barr after election comments but officials don't want AG fired, sources say"
+    excerpt: "President Donald Trump is frustrated with Attorney General William Barr after his comments to The Associated Press breaking from the President's false claims of fraud in the election, two sources tell CNN.\n    \n"
+    publishedDateTime: 2020-12-03T02:31:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nTgP5J13uOo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/trump-william-barr-frustration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/trump-william-barr-frustration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201225050-trump-barr-split-1201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration removes experts from Defense Policy Board"
     excerpt: "Several high profile members of the Defense Policy Board were removed on Wednesday by the Trump administration, in yet another purge of longstanding foreign policy experts and national security establishment figures in the final days of the Trump era, according to three defense officials.\n    \n"
     publishedDateTime: 2020-11-26T18:39:24Z
@@ -189,6 +205,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130002955-donald-trump-videoconference-1126-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The legal threats and headaches fueling pardon appeals from Trump's family and friends "
+    excerpt: "With the clock ticking on Donald Trump's presidency, a number of associates have appealed to him in recent days in hopes of obtaining pardons before he leaves office in January. While some face imminent legal threats, others are staring down potential legal headaches that a presidential pardon likely"
+    publishedDateTime: 2020-12-03T02:27:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6h3P7zFZPu0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/pardons-trump-family-friends/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/pardons-trump-family-friends/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126210210-trump-white-house-point-thanksgiving-1126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

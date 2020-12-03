@@ -463,6 +463,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate GOP warns Biden on Cabinet picks as some Democrats push for more liberal choices"
+    excerpt: "Joe Biden is facing dueling headwinds as he looks to fill out his Cabinet: Senate Republicans want the President-elect to consult with them and choose nominees who could win their support, while liberal Democrats are pushing him to name progressives who could shape the policies of his government.\n  "
+    publishedDateTime: 2020-12-03T02:37:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HQJyIxG2Mzw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/republican-reaction-biden-cabinet-pick/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/republican-reaction-biden-cabinet-pick/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201129183807-biden-file-1125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump refers to ‘Biden administration’ in sign of election acceptance"
     excerpt: "President Trump took questions for the first time since the election on Thanksgiving and committed to leaving the White House after President-elect Biden’s win is formalized by the Electoral College."
     publishedDateTime: 2020-11-28T00:14:00Z
