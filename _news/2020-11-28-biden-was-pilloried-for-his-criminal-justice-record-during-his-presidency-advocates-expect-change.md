@@ -910,22 +910,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden meets with struggling workers, calls for more Covid relief amid economic crisis"
-    excerpt: "President-elect Joe Biden on Wednesday used a virtual roundtable with workers and small-business owners struggling economically due to the worsening coronavirus pandemic to offer another full-throated call for more Covid stimulus."
-    publishedDateTime: 2020-12-02T22:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-meet-workers-small-business-owners-economic-crisis-n1249668"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249668"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249668"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 128
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432504/201202-biden-roundtable-mc-1149_2bb8284f41748e7662d30264a4e681d1.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Biden faces climate purity test"
     excerpt: "Climate activists who helped rally support for Joe Biden are now testing their political capital by putting the president-elect's nominees through a kind of purity test to make sure they are devoted to eliminating fossil fuels."
     publishedDateTime: 2020-12-02T15:00:00Z

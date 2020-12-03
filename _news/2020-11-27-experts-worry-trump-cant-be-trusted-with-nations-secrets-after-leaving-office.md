@@ -398,6 +398,36 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Trump gets icy reception as he tries to influence final days of lame-duck Congress"
+    excerpt: "WASHINGTON — President Donald Trump’s last-minute demand to scrap an internet liability law using a bill that authorizes the military to function earned a frosty reception from his party, raising questions about his influence on Capitol Hill amid a flurry of activity before Christmas."
+    publishedDateTime: 2020-12-03T07:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/trump-gets-icy-reception-he-tries-influence-final-days-lame-n1249749"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249749"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249749"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_49/3432697/201202-donald-trump-jm-1425_2cb3f4930252baaa899e0b9669eafb1c.jpg"
+        width: 2500
+        height: 1567
+        isCached: true
+  - title: "The Trump Administration Just Made the Citizenship Test Harder. How Would You Do?"
+    excerpt: "Test your knowledge on some of the topics from American history and government that prospective new citizens have to answer."
+    publishedDateTime: 2020-12-03T08:04:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/12/03/us/citizenship-quiz.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 110
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/us/02citizenship-header/02citizenship-header-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "mJqucR83s4MYW9tlbOnXh0E745Ma2v0MW+OLvcqtGbwo/gNVVdyM3S6dYtWIedeAxgLCatDFesfPi0WdtCLUIvj4S81S2OIG6yaPETc1cVuq6riac7zsHu9dl/9+IlwPOtuvkW5LIbw45t0qRxX/fHGq3v8qEBjHtJUHeLHtudeSC7t1Ci7F3UjjP5gjUT+xikKaaOlkeOzeDd0s5aR6xeHXcqz4tVduj0jf4w5PzJj+hI0fWtzPYf8rRgMby1vPZlHAgf3FUfxtYoQmvds0REkYlSw5DW+AJHPxgN/GngKPrj4NrEwLzg81zfqMwQCuxhob9R2Dv3xwkeoTw2wLeNSp8DPMSepBNf1VSQZT8KY=;wGkCcozS6FczColIkyCTIw=="
 ---

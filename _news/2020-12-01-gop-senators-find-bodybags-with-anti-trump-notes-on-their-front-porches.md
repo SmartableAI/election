@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-senators-finds-bodybags-with-an
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-finds-bodybags-with-anti-trump-notes-on-front-porch.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://images.wsj.net/im-266832/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Why Barr’s break with Trump could be a turning point"
+    excerpt: "On Tuesday, a very high-profile Republican, Bill Barr, essentially agreed with what the media have been saying about the lack of widespread fraud."
+    publishedDateTime: 2020-12-03T08:05:00Z
+    webUrl: "https://www.foxnews.com/media/why-barrs-break-with-trump-could-be-a-turning-point"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19a6640f-c34a-424c-b093-20cec29b5225/9378e4e9-2f55-43d7-a064-b5c7647de438/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "HMVkCPuXdo9KH83Rxfmggb+HUfzw4oWba02EPrxkpic3061hXyt6diINiaoULyLHG0Dtk7x+kB6F1Vaqfb9CFZIGXML+8XiLmONKVK4Ch6g2tBTmfAVTMSYp5uNEEtFDKLgGooAU75v7VY2lCsEyfpgdirA9Zhg20iphhMIPzZgZX8LB6a9vY9fmhNMVrhlXmyoQedPmp+CIamrnwCblfBCcMqTjf9ojxtQx6LDe33Mjteq+sFERRXZXIpSAZlVuwgo0LeI7j8cy0hmTf0Jzzdsf4TNSg8v4qIN7sctxbCOlzzTm1+M0bnSF0G7CN+lgoI9MK9I7oijk5RGb6wPKPxEYIYBiSvD9XVkXVoYbJ10=;MhlKe7SHyfyQUkiv4/1ArA=="

@@ -63,21 +63,21 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Wisconsin governor calls Trump lawsuit an ‘assault’"
-    excerpt: "Attorneys for Wisconsin’s governor are calling President Donald Trump’s attempt to overturn the state’s election results an “assault on democracy.”"
-    publishedDateTime: 2020-12-02T16:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/wisconsin-governor-calls-trump-lawsuit-an-assault/2020/12/02/73c56fd6-34be-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-governor-calls-trump-lawsuit-an-assault/2020/12/02/73c56fd6-34be-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-governor-calls-trump-lawsuit-an-assault/2020/12/02/73c56fd6-34be-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+  - title: "Wisconsin governor calls Trump lawsuit an 'assault'"
+    excerpt: "Attorneys for Wisconsin's governor are calling President Donald Trump’s attempt to overturn the state's election results an “assault on democracy.”"
+    publishedDateTime: 2020-12-03T07:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/wisconsin-governor-calls-trump-lawsuit-assault-74505294"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsin-governor-calls-trump-lawsuit-assault-74505294"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsin-governor-calls-trump-lawsuit-assault-74505294"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_020c3a67f28f4d3982c6bc06bdde6dac_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "'Damaging to our democracy': Trump election lawsuits targeted areas with large Black, Latino populations"
     excerpt: "Though Trump has lost his legal battles, his targeting of counties with large Black and Latino voting numbers is damaging to democracy, experts say."
@@ -94,6 +94,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/ad9469e2-a3e6-419c-b96f-c6b66aa56f6a-AP_Election_2020_Pennsylvania.jpg?auto=webp&crop=2960,1665,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump files new case in lawsuit barrage, looking to Wisconsin's legislature to flip outcome"
+    excerpt: "President Donald Trump late Wednesday filed a new federal lawsuit contesting the vote in Wisconsin, the latest in a blizzard of suits around the country."
+    publishedDateTime: 2020-12-03T07:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-files-case-lawsuit-barrage-wisconsins-legislature-flip/story?id=74516816"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-files-case-lawsuit-barrage-wisconsins-legislature-flip/story?id=74516816"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-files-case-lawsuit-barrage-wisconsins-legislature-flip/story?id=74516816"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 115
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-s_hpMain_20201202-212705_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Wisconsin and Arizona make it official as Trump fails to stop vote certification in all six states where he contested his defeat"
     excerpt: "The president and his allies vowed to continue pressing legal claims challenging the election results in several states — but such efforts have met with resounding failures in the courts."

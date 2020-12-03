@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0FT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0FT"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Can Trump preemptively pardon his allies or himself? Here is what you need to know."
+    excerpt: "Trump has also claimed that he has “the absolute right to pardon myself,” raising the possibility that he may try to impose roadblocks against any future federal prosecution of himself. And a federal judge this week unsealed heavily redacted documents revealing that the FBI has been investigating an unidentified person for a potential pardon-for-bribe scheme."
+    publishedDateTime: 2020-12-03T08:11:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pardons-himself-20201202-b2f5k5xtbbhsbghzcrlavscjwi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pardons-himself-20201202-b2f5k5xtbbhsbghzcrlavscjwi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pardons-himself-20201202-b2f5k5xtbbhsbghzcrlavscjwi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 119
+    images:
+      - url: "https://www.chicagotribune.com/resizer/THDtZok_bGc0_mHKvExKL7EF7Gs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y4XJC3VIGROSLTRPTFWLUGCFMQ.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "tOG0g1PHK0U6Pi4gxdszfcVQsz3O95vxeYx+3DdT2jnP+BU1BGXX9IRkD8kIE+yprKhsSXBxE/MFvjfyqvPuX3vZiJlo4Du79UlNZm3IW+yMJUw69mm2AJ5DMzHsIV3xIS+hh4KBwjIuR44Pk7WQli60ew0uqD1NtVfjXWqnpxXODyzbansSXiZanjnUaD42bLU7LuKeJuQQjf/5AjEwsLm85Bsv6Pio9ayIN6MAWZ0xcYjwtK2F116EMmirjEO9TsEAwcmmj/mTRsQ1kYwJ5IZHBGONt2eJz2xUJMNTmEhOwSudaBAUQ3pMm6dSafsKKgvTm41DFOQuX5Jtd7IAIsckuIdHN1ry6guozuhGBu6xs2mBUKjE5T+441TElI/Uz6VdDKOQp4GllDZLil0yOucNkxTQYwfUk7qZo7NyhfW8flZliT6baFzKvn2Yh2ekCp7W77Zc+9eeLoi5vUfuO38k+q4EZUBgVFDiLwO1xswawlj9GooPUMzgXSX3c2VybNygHDQy7Fc6acp5Rbiq0w==;Qq5O/A4jldpY7CMvP2V8aw=="

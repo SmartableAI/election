@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Trump says Biden can't be president if voter fraud claims are accurate"
+    excerpt: "Follow for the latest updates on the 2020 election."
+    publishedDateTime: 2020-12-03T07:45:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dbLI00ZI54c/trump-says-biden-cant-be-president-if-voter-fraud-claims-are-accurate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-biden-cant-be-president-if-voter-fraud-claims-are-accurate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-biden-cant-be-president-if-voter-fraud-claims-are-accurate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb90e26-1a7c-435c-9c19-1954f1794e4a/6028a03c-dc91-4110-b09d-e04c086c1e52/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump tells Georgia governor to 'do something,' as Kemp says interfering with election is illegal"
     excerpt: "President Trump on Tuesday told Georgia Gov. Brian Kemp to \"do something\" to overrule state election officials, claiming he would find a \"gold mine\" of fraud, as the governor's office maintained that Georgia law \"prohibits\" him from \"interfering in elections.\""
     publishedDateTime: 2020-12-01T15:08:33Z

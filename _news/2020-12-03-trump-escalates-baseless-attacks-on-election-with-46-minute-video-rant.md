@@ -686,7 +686,7 @@ related:
   - title: "Ivanka Trump questioned under oath in lawsuit over use of inauguration funds"
     excerpt: "Ivanka Trump, the president's daughter and adviser, was questioned under oath this week as part of a civil lawsuit alleging misuse of nonprofit funds for Donald Trump's inauguration four years ago."
     publishedDateTime: 2020-12-03T06:43:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-inauguration/ivanka-trump-questioned-under-oath-in-lawsuit-over-use-of-inauguration-funds-idUSL1N2II3CP"
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28D05K"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D05K"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D05K"
     type: article

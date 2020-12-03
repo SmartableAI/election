@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Wisconsin governor calls Trump lawsuit an ‘assault’"
-excerpt: "Attorneys for Wisconsin’s governor are calling President Donald Trump’s attempt to overturn the state’s election results an “assault on democracy.”"
-publishedDateTime: 2020-12-02T16:50:00Z
-originalUrl: "https://www.washingtonpost.com/politics/wisconsin-governor-calls-trump-lawsuit-an-assault/2020/12/02/73c56fd6-34be-11eb-9699-00d311f13d2d_story.html"
-webUrl: "https://www.washingtonpost.com/politics/wisconsin-governor-calls-trump-lawsuit-an-assault/2020/12/02/73c56fd6-34be-11eb-9699-00d311f13d2d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-governor-calls-trump-lawsuit-an-assault/2020/12/02/73c56fd6-34be-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-governor-calls-trump-lawsuit-an-assault/2020/12/02/73c56fd6-34be-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+title: "Wisconsin governor calls Trump lawsuit an 'assault'"
+excerpt: "Attorneys for Wisconsin's governor are calling President Donald Trump’s attempt to overturn the state's election results an “assault on democracy.”"
+publishedDateTime: 2020-12-03T07:21:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/wisconsin-governor-calls-trump-lawsuit-assault-74505294"
+webUrl: "https://abcnews.go.com/Politics/wireStory/wisconsin-governor-calls-trump-lawsuit-assault-74505294"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsin-governor-calls-trump-lawsuit-assault-74505294"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsin-governor-calls-trump-lawsuit-assault-74505294"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_020c3a67f28f4d3982c6bc06bdde6dac_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump files new case in lawsuit barrage, looking to Wisconsin's legislature to flip outcome"
+    excerpt: "President Donald Trump late Wednesday filed a new federal lawsuit contesting the vote in Wisconsin, the latest in a blizzard of suits around the country."
+    publishedDateTime: 2020-12-03T07:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-files-case-lawsuit-barrage-wisconsins-legislature-flip/story?id=74516816"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-files-case-lawsuit-barrage-wisconsins-legislature-flip/story?id=74516816"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-files-case-lawsuit-barrage-wisconsins-legislature-flip/story?id=74516816"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 115
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-s_hpMain_20201202-212705_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Wisconsin and Arizona make it official as Trump fails to stop vote certification in all six states where he contested his defeat"
     excerpt: "The president and his allies vowed to continue pressing legal claims challenging the election results in several states — but such efforts have met with resounding failures in the courts."
     publishedDateTime: 2020-12-01T08:24:00Z
@@ -112,6 +128,6 @@ related:
         height: 960
         isCached: true
 
-secured: "4sycDKkFjFRWV147B6uqm92qL/DMdXwprbSZG9/XqdO4mUDzSXIU66CYZeSa/QVCrSnTnDKCZUD8ZxMxTjYhyQT+c3TpGBct5I4LfU18NcIi3U2zYaMLiUuGDAx/lkvlZ47JX2KNC9FkgLZ9stL1NsVrTC9oYW+EMo+i7G5IyzJE3JOJMN+Sjj2bW7rUtOmL2w/NJh+0IhjK9wORiXfep3GQY8jf1I56msUNMVOeneqDM2wyFqKvZEUGjVqAlsfHs1Cs3lp3Gz/7zl5cR3aXJhZmQShuQx8EB0ExkXicMCC7iC+E6u8CS0joKKmg19vtJ3IKaPwAg7dlJsOYZ8iT/xtwiFWkQUf21nN92tccMJ0=;M3HjGCKtOWkMaqy3/bHN1g=="
+secured: "YQoTl6uOzjkB4UeYO/sNU53AQ+rM2WbsgtWEjYC3IYJ2kQUxkJn/gzyJNqDvWSeufwJQS4ezR17+xi60Rfu9fFHBJdJIHvcSPBS3Fk1p+Yal+HUF8GIQEycUFLqu17jSM/SSKjMU/z/D0mc8OnJD0zCMuvztqxrLkJE/fCKJjXTi1JaW3d76jlMB9Gssyr1cYkeme8cRh456AR2OkO+Ly694Icl091JT97DAaFdDPa5bMJSc8W7Dfi0l+l+Eg3xU8zf2UuRkMR+wuUnRoM3XqS2YX20ik/Wi0RnUOmxLKY4SGLqvmBEzQG+tA12bBL+9TRYq+GY17LlWSD0HjcinksEHoZeZwBQuYIBrf6bojj8=;BgrWustaB1KxKrhxfe7kPw=="
 ---
 

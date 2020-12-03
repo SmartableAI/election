@@ -63,6 +63,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Why Barr’s break with Trump could be a turning point"
+    excerpt: "On Tuesday, a very high-profile Republican, Bill Barr, essentially agreed with what the media have been saying about the lack of widespread fraud."
+    publishedDateTime: 2020-12-03T08:05:00Z
+    webUrl: "https://www.foxnews.com/media/why-barrs-break-with-trump-could-be-a-turning-point"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19a6640f-c34a-424c-b093-20cec29b5225/9378e4e9-2f55-43d7-a064-b5c7647de438/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ANK86oIypO484mfY41YS8MjkhgcQlZ8XEyTUxkpxTjiBSwriPwn1WQfJObZ6E5UGnzK5o5xAG/KqruEGBRMaPWLoKcqQTwdtvr3PO6O33ix8qp5SIkl3til8ZWAkTO4fRfVm6jciNyF2IVmX5Cq2nL/3OjtcRP7T6+uO4ofrHREdaqhY6A/kl8F8m7X0pn48v0GO+rIXllrBKMso6T14nNWDZBeQd4vXZEOn2BjZxApTRPxm9YjtHKNmrHE1CR0Eez/dyYVYjEekEPAHOhlCCCTBlr2TjsvdHqcZJ+FtLSo8NRLT/il0ZcurKtRdt7S65LdxS9lY0yDh2QjyGT5piHwKYKK1OpHEZrtNqz3pENU=;KFYMosQwD3OUFbqZ8MN0bw=="
 ---

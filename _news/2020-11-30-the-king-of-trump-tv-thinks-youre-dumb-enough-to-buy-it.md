@@ -398,6 +398,36 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump gets icy reception as he tries to influence final days of lame-duck Congress"
+    excerpt: "WASHINGTON — President Donald Trump’s last-minute demand to scrap an internet liability law using a bill that authorizes the military to function earned a frosty reception from his party, raising questions about his influence on Capitol Hill amid a flurry of activity before Christmas."
+    publishedDateTime: 2020-12-03T07:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/trump-gets-icy-reception-he-tries-influence-final-days-lame-n1249749"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249749"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249749"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_49/3432697/201202-donald-trump-jm-1425_2cb3f4930252baaa899e0b9669eafb1c.jpg"
+        width: 2500
+        height: 1567
+        isCached: true
+  - title: "The Trump Administration Just Made the Citizenship Test Harder. How Would You Do?"
+    excerpt: "Test your knowledge on some of the topics from American history and government that prospective new citizens have to answer."
+    publishedDateTime: 2020-12-03T08:04:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/12/03/us/citizenship-quiz.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 110
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/us/02citizenship-header/02citizenship-header-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "TScVMrGVNfdUw928qg6bVLHKK3CCKXwkD17JY3HeIX8UC3Rd11GhJuw0pV4JuT+06Q+mxk21vPEhAvmY3vx99gNpDafmNcMk24tgJvMvLtn7eDS/+MWy3tx1MVzePvf0/3n56wxXBSkxRrCNChXwQwyBWmI14mhtv5Kark/jGDvskxTHidLInAVSLsRsM8GjojZujtin7FsNPVxbI+jyoQEJ5dkBN0uym77Vt1kDqfw4pFHJHzC+znjInXcTM0oFciS8JFbKytjrog2z1iMsFm7mevlr7vp6AwAbpHd12vP4l7RXwAu+LgqZftXMTyBMp6GNXlYsaeBRd5JJiy+r0frmMlHJLsZpiMjvDmAnkftzTu1A8e6BvglEJkwq/qJMeb+ZXSU80yF+jgHLp4nSblpM+W4eVtfmgTSO9d/p0qOyuq+Oui59EKKMlqLvHtob3qjVjObmSai9otTklohyXwgsWAJt9FNxxj4yiEhyCbrPdREIIIqBThm+RXo7K+e/pQ2fUXGCTDil7SL8Z/Hm/g==;y+CnTWjHrVQesrRRQxtNpg=="
 ---

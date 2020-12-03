@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden meets with struggling workers, calls for more Covid relief amid economic crisis"
+    excerpt: "President-elect Joe Biden on Wednesday used a virtual roundtable with workers and small-business owners struggling economically due to the worsening coronavirus pandemic to offer another full-throated call for more Covid-19 stimulus."
+    publishedDateTime: 2020-12-02T22:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/biden-meet-workers-small-business-owners-economic-crisis-n1249668"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249668"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249668"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432504/201202-biden-roundtable-mc-1149_2bb8284f41748e7662d30264a4e681d1.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "q/kHc+FuUJTN6eYVED70hLBuVeN8ShEvpZV+qPhneHg1HACWf70hH/N++rJjf9rmYo3TNKHBHTpmXj90wkk7w1WtBOUhCLOqylF8PoMNo/2SPmPevs7dqDz3Up/2c/vZ3unBuP2KSZPCtR9yD2TQO/4IAe9agMKTu37PlUnOxaUB3gAoivgaD7SVJoywDPUVZ9mPlTd1BxwjBHtG9iCKEo05fQl9LbFzrlGDjhedGOMtlTil/oK36CgsST1Oz065bVVHI2furVKHQ0rmkRLq2r6UDsOvMc68dq8MTZ/kUP2EmYN8kIza093JIC5HVP2ADvKq85Y4fdizZizgX0DtaFkO99m9I3mEKp/wRWItHmw=;Dkygd/onSfhgycnAc/noig=="
 ---
