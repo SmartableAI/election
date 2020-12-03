@@ -30,14 +30,14 @@ related:
   - title: "The Latest: Kamala Harris names Tina Flournoy chief of staff"
     excerpt: "WASHINGTON (AP) — The Latest on President-elect Joe Biden (all times local): 8:35 a.m. Vice President-elect Kamala Harris is hiring veteran Democratic strategist Tina Flournoy as"
     publishedDateTime: 2020-12-03T13:56:00Z
-    webUrl: "https://apnews.com/article/joe-biden-al-gore-hillary-clinton-coronavirus-pandemic-bill-clinton-e2469384b1f146d798edebcbad989c36"
+    webUrl: "https://apnews.com/article/joe-biden-al-gore-hillary-clinton-coronavirus-pandemic-bill-clinton-e2469384b1f146d798edebcbad989c36/gallery/7e31b78677014cb48d6c6c481bc05d55"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
     quality: 105
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/7e31b78677014cb48d6c6c481bc05d55/3000.jpeg"
+      - url: "https://storage.googleapis.com/afs-prod/media/26f6da94effd4303ba958dd7e0b88fb8/3000.jpeg"
         width: 3000
         height: 2000
         isCached: true
@@ -70,6 +70,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/09/kamala-harris.jpg"
         width: 1024
         height: 766
+        isCached: true
+  - title: "VP-elect Kamala Harris picks Tina Flournoy to be her chief of staff"
+    excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
+    publishedDateTime: 2020-12-03T17:22:00Z
+    webUrl: "https://www.denverpost.com/2020/12/03/kamala-harris-tina-flournoy-chief-of-staff-pick/"
+    ampWebUrl: "https://www.denverpost.com/2020/12/03/kamala-harris-tina-flournoy-chief-of-staff-pick/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/12/03/kamala-harris-tina-flournoy-chief-of-staff-pick/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/12/Biden_20132.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Democratic fight emerges ahead of appointment to fill Kamala Harris’ Senate seat"
     excerpt: "A cross-country lobbying campaign for Vice President-elect Kamala Harris’ Senate seat has pitted factions divided by race, gender and geography against one another and heightened internal"

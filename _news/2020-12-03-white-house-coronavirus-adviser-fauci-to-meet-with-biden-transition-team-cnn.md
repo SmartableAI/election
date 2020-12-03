@@ -669,6 +669,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Latest: Biden picks Deese for National Economic Council"
+    excerpt: "President-elect Joe Biden has tapped former Obama administration senior economic adviser Brian Deese to be director of the National Economic Council"
+    publishedDateTime: 2020-12-03T13:45:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
     excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
     publishedDateTime: 2020-11-29T22:12:00Z
@@ -1109,6 +1125,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Latest on the Trump administration"
+    excerpt: "Watch \"Latest on the Trump administration; Trump's 46-minute video, FDA admin. Stephen Hahn meeting\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-03T18:42:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201203181408-latest-on-the-trump-administration-trumps-46-minute-video-fda-admin-stephen-hahn-meeting/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/03/story_07962328_1607020144.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President-Elect Joe Biden Hits 80 Million Votes In Year Of Record Turnout"
     excerpt: "The 2020 presidential election saw the most votes in U.S. history at 156 million and counting, and the highest participation rate since 1900."
     publishedDateTime: 2020-11-25T13:06:00Z
@@ -1195,6 +1225,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "t5QIdg0SS4v7L/S+nxURMBRm+w2AjTkweYNnRAC95qvL8QlTUjQiKis0OgVb35o+2yB+hDhOLcjaypSwoA7kiOUt3NMKT/EZ/bumNUaqaii9vkqZ1DzrnIjhncSuTvTym6qCWK3PiHeF/ITP1PyYoR72bwc+omw5TM8fUnmt3QPN0nBwGWmKsAz2+yuj4HnxIEfX8DvdeA2ltcsgHYBC4fo2JScW0bLMfPwKfWMsOgJfOmNeho1jPzaEUkS1i1+IVPvoZPe4cmJV+yy8mA7qqP2Sclu3in+r1WbHBz3Olxt1zPYvLnEDf+MJ446UYreco+KgrMcvvJJ/z8UqBTS+OQ0eVqWZZ8iYA/62aihf3B4=;lNA0It/xeeUOiA1G54IAWQ=="
+secured: "naI5LQOszzYdIrlf374A/QWNV0Kz5VtKCN72iAG540pvHAvu5K83w6+wb4CH1ie6t0DEqETN+Pz9H+VS1tATbcmIipvZ51I0zSUjMNgQdP2imq55Ng3k1lf9E7ROy5Nb4/66efBIzcQyHx+8E+D+SsilO6sZzQKiPzR4/mw6a8vfvndJKHTeO+gX1jh5l6MWSR9PSJitQ6UKi4vkc7X3v3YOV04A8s8f55OkpSoXtf1DXhHyEGt5qIQScrtF1Vga4V3l0zQLwKPoyDoAJUNL6Rd7g4r7fXZmLXYgcjnpnzKPsCmc4xBI/KFP3x/2SInsL9dzq0eM3uFyn72tJr8mzzlSNXXMHxajThPiHtxAnzTqwhaTWTcMTZlSE1uaVyqy4d0LIia2fz+iVeZLkUBG7bcj9XZgPpXGGeUyZOg29h0JQ/8QFwyRZBaxBGOqPtQ18oRthWj5Ff9mpLb0V9COmf+eeoy6kiAU0JRatLB6Zb7LrxTEJmweZ9U0gC1yQc0VUpST/BkIWB/Mrol0RfGMxQ==;0tAUY/hAsW22fi0QxYpLng=="
 ---
 

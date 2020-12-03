@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/trump-conspiracy-theorie
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/trump-conspiracy-theories-election-2020/index.html"
 type: article
 quality: 170
-heat: 190
+heat: 170
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Trump Gave W.H.O. a List of Demands. Hours Later, He Walked Away."
-    excerpt: "When President Trump quit the health organization, he left a list of seven demands on the table. Here they are."
-    publishedDateTime: 2020-11-27T14:43:00Z
-    webUrl: "https://www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/23/world/00trump-who-1/00trump-who-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "nvIN/JkvHjwpHijOf/y4xtxV9fqJ0RhYQxBLFqIYy4fS8AF7OG9jbRzHEXZ2bzz2OL+MZTfn8vryFYXrzRGplVRDxy5BM6oHRnZrfAslGIZq/rAq90OX2saGIu8IF8HsSRKoDnldaglezAz/BLbYE4lXyA9o/Gq9vONRLNZpjk4HwdnSmRnGwTlwRGaxjmiAtFlHlcn4lRp7riCLIgLp4IzYNJQ+FXO+xrI1NfVUGPUXqLH5VUqiZa/wwItfnfvp71jIs9z26VMlrP8oXpHphnlImrr+XBHa9CsvGP9U32nDp6xvCD64gDzHqhddwAanKky0I7LOvHTIp5PbsZsn3atMeHJoUzLwmA2KZf9VHz4=;GT5KfSMh/1ugT1/05vZP6g=="
 ---

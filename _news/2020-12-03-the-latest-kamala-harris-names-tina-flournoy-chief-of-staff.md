@@ -3,11 +3,11 @@ category: news
 title: "The Latest: Kamala Harris names Tina Flournoy chief of staff"
 excerpt: "WASHINGTON (AP) — The Latest on President-elect Joe Biden (all times local): 8:35 a.m. Vice President-elect Kamala Harris is hiring veteran Democratic strategist Tina Flournoy as"
 publishedDateTime: 2020-12-03T13:56:00Z
-originalUrl: "https://apnews.com/article/joe-biden-al-gore-hillary-clinton-coronavirus-pandemic-bill-clinton-e2469384b1f146d798edebcbad989c36"
-webUrl: "https://apnews.com/article/joe-biden-al-gore-hillary-clinton-coronavirus-pandemic-bill-clinton-e2469384b1f146d798edebcbad989c36"
+originalUrl: "https://apnews.com/article/joe-biden-al-gore-hillary-clinton-coronavirus-pandemic-bill-clinton-e2469384b1f146d798edebcbad989c36/gallery/7e31b78677014cb48d6c6c481bc05d55"
+webUrl: "https://apnews.com/article/joe-biden-al-gore-hillary-clinton-coronavirus-pandemic-bill-clinton-e2469384b1f146d798edebcbad989c36/gallery/7e31b78677014cb48d6c6c481bc05d55"
 type: article
 quality: 105
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/7e31b78677014cb48d6c6c481bc05d55/3000.jpeg"
+  - url: "https://storage.googleapis.com/afs-prod/media/26f6da94effd4303ba958dd7e0b88fb8/3000.jpeg"
     width: 3000
     height: 2000
     isCached: true
@@ -54,6 +54,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/09/kamala-harris.jpg"
         width: 1024
         height: 766
+        isCached: true
+  - title: "VP-elect Kamala Harris picks Tina Flournoy to be her chief of staff"
+    excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
+    publishedDateTime: 2020-12-03T17:22:00Z
+    webUrl: "https://www.denverpost.com/2020/12/03/kamala-harris-tina-flournoy-chief-of-staff-pick/"
+    ampWebUrl: "https://www.denverpost.com/2020/12/03/kamala-harris-tina-flournoy-chief-of-staff-pick/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/12/03/kamala-harris-tina-flournoy-chief-of-staff-pick/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/12/Biden_20132.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Omaha's Symone Sanders will be chief spokeswoman for VP-elect Kamala Harris"
     excerpt: "Symone Sanders is a graduate of Mercy High and Creighton University; her mother is publisher of the Omaha Star."
@@ -108,6 +124,6 @@ related:
       domain: omaha.com
     quality: 35
 
-secured: "p/sNaK0COG+OtGs3gFgt45Eugaap4OCkb+ONbocwFfT4USzEggpP+SKVRaI1vnsfbBVlXBrLO6TVs39Z2uDQgRNFjBPM2fO2IB60Iupt1iRwJWDF+nJI8O/9eDJ6axemjsxHPMwn7hLqAhzi0YrBQCDI/AAJYi/SHnyMnvXZHTGx7eHRQ9JUQm9zLePZj4JzdUQxna8vbW00m4i4IKd5m1HGSwjEdrz2E6xiJWggRCK6Q9EBl+X4M9SvPIqA/mJ96kysXBH7kSYIJxNHDobPTYHlb1Heagzt/NiT01znayoXp5+tXDIukq8DWSxRNEZku2WbeTw1mZFbZ/kErlQSiqZGhU4dxLUujFDzvZYTysX8W4kyM6t5UoJQ482/ROQmuoGwy4oWP0PUPiZZPJgzTo5ovvsFUilQIS/L5Cl9Gn8nLQWE3+SzpvApQIfkCGztwzmOyARL3TmtVYV09Q92siRU98RXlVVbYbg2wxKNBvUbWMG6fXfTNamc4QhpVJCuh11YZO34TTugednTq1aMrQ==;YYhF+uRDcrUcogSUtd8K1w=="
+secured: "Bn+CnCIEMDQryNhn3Miat39jhZiQykg/qnm1CXt6poDfS5hxaCMWXhHMv1uCxg95CqzCGd6AulcYX0SZCPKTPKxRu0V4B+gfHB3lUm+epsWIvoy3KHh4AxRY4UvS5n9sJ3FgCAgZokeC+HvCNmHTfBTGr5NAizPaA9Q8lmNnH08/+mqRaickob8cpaweeolIGLUEa9N71gNhixZbamBSHi17y2qF2lJjWI1ivgazLjcdMvhOU8dgxqM+ZOJc1zaxOrxmx/Dz7zR1UOWyCZhqUlcvUG9tmK8GJnsN9HdmzjKFczz5liK4zzTUqofIHwMYArTuN0dqkddN99lp/x515o5jC0LNcDvPTtanKfQ8SdY=;9ryBT5sula8jzQtxtPPVfg=="
 ---
 

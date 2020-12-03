@@ -45,6 +45,22 @@ related:
         width: 797
         height: 545
         isCached: true
+  - title: "Senate vote likely next week on blocking Trump's massive UAE arms sale"
+    excerpt: "The top Democrat on the U.S. Senate Foreign Relations Committee said he expected lawmakers would vote as soon as next week on resolutions seeking to block Republican President Donald Trump's $23 billion weapons sale to the United Arab Emirates."
+    publishedDateTime: 2020-12-03T18:51:00Z
+    webUrl: "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28D2XS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D2XS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2XS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543367325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21NU"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Supreme Court hears Trump bid to bar illegal immigrants from U.S. census count"
     excerpt: "U.S. Supreme Court justices on Monday began hearing arguments on President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states,"
     publishedDateTime: 2020-11-30T15:44:00Z

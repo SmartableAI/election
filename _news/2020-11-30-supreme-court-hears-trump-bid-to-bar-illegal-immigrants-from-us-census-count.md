@@ -47,6 +47,22 @@ related:
         width: 797
         height: 545
         isCached: true
+  - title: "Senate vote likely next week on blocking Trump's massive UAE arms sale"
+    excerpt: "The top Democrat on the U.S. Senate Foreign Relations Committee said he expected lawmakers would vote as soon as next week on resolutions seeking to block Republican President Donald Trump's $23 billion weapons sale to the United Arab Emirates."
+    publishedDateTime: 2020-12-03T18:51:00Z
+    webUrl: "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28D2XS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D2XS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2XS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543367325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21NU"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
     excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The Associated Press on Sunday."
     publishedDateTime: 2020-11-30T19:14:00Z

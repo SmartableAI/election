@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joey Jones blasts the politicization of the American flag during Trump presidency"
+    excerpt: "Fox News contributor Joey Jones on Thursday blasted the politicization of the American flag during President Trump’s term in office."
+    publishedDateTime: 2020-12-03T16:59:00Z
+    webUrl: "https://www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag"
+    ampWebUrl: "https://www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "XnlYqjccCzUx53t4GvccCyoJ2AB6Tv84KWinDa0fbXsYEeR3Gyva8Zz4LWo7VjeyKqq0p60uJFc9d+25c+zXpEBabuWhyvRzDNKI8N2o7JOYTlduFCkuzMNgZVMoQFOd/1I1aKM3RVzKbDSMsJBckEDfNB81GXHMucbIuM3HXkfRvX4kGEeZXniXglHnS1M8q/x4u9FHAKxm8mVgnN/zOM6nNYXKnyvF52Mc4vffD/KgEoHU6kA+GFFzlyaBG4ItMXkCWoyrBFlwteKAf/XzSLThO/17VxLDc1Vu3sou2HwgxTLkiWO1PoOc5CwRE4MLOKH8LaSpDXJHoNyUxzcmWo64pJ8cepYj97zrPt08aBA=;fxqy8E/JYL+ZB8QCSscdVA=="
 ---
