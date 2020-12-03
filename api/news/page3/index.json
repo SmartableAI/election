@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-01-fired-cybersecurity-chief-may-include-trump-attorney-in-lawsuit-over-death-threats.md",
+      "title": "Fired cybersecurity chief may include Trump attorney in lawsuit over death threats",
+      "excerpt": "Former Cybersecurity and Infrastructure Security Agency Director Chris Krebs said Tuesday he plans to take legal action against people who have threatened his life after he disagreed with his onetime boss, President Trump, over the validity of the Nov. 3 election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWbFVmoKkmo/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWbFVmoKkmo/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20323077316005-e1605728670595.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp",
+      "publishedDateTime": "2020-12-01T09:26:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-the-daily-202-ousted-us-attorney-removed-by-barr-as-he-investigated-trump-associates-lands-new-job.md",
       "title": "The Daily 202: Ousted U.S. attorney, removed by Barr as he investigated Trump associates, lands new job",
       "excerpt": "During a noon meeting in a suite at the Pierre hotel in Manhattan on a Friday in June, Attorney General Bill Barr pressured Geoffrey Berman to step aside as the U.S. attorney for the Southern District of New York.",
@@ -662,7 +718,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 690,
+      "heat": 710,
       "tags": null,
       "images": [
         {
@@ -1287,62 +1343,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-jonathan-turley-says-trumps-attacks-on-judges-over-election-rulings-unfair.md",
-      "title": "Jonathan Turley says Trump's attacks on judges over election rulings 'unfair'",
-      "excerpt": "G.W. University Law Professor Jonathan Turley said on Monday that President Trump's \"attacks\" against judges over their decisions on the 2020 election dispute are \"unfair.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Q-mzylnTHc/jonathan-turley-president-trump-attacks-judges-rejecting-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Q-mzylnTHc/jonathan-turley-president-trump-attacks-judges-rejecting-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jonathan-turley-president-trump-attacks-judges-rejecting-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jonathan-turley-president-trump-attacks-judges-rejecting-election.amp",
-      "publishedDateTime": "2020-11-30T05:47:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

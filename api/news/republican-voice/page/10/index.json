@@ -2,6 +2,62 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-23-lara-logan-slams-biden-for-playing-russia-card-in-response-to-hunter-biden-email-allegations.md",
+      "title": "Lara Logan slams Biden for playing ‘Russia card’ in response to Hunter Biden email allegations",
+      "excerpt": "2020 Democratic presidential candidate Joe Biden played the \"Russian information warfare\" card to dodge questions pertaining to his son Hunter Biden's foreign dealings, Fox Nation host Lara Logan said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/21iBRaLM3ns/lara-logan-biden-playing-russia-card-hunter-biden-emails",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/21iBRaLM3ns/lara-logan-biden-playing-russia-card-hunter-biden-emails",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 223,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp",
+      "publishedDateTime": "2020-10-23T11:16:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-joy-behar-says-trump-should-be-charged-with-crimes-against-humanity-over-immigration-policy.md",
       "title": "Joy Behar says Trump should be charged with ‘crimes against humanity’ over immigration policy",
       "excerpt": "The View” co-host Joy Behar said on Friday that President Trump and members of his administration should be charged with “crimes against humanity” because of its immigration policy and vowed to not “be a part of a country” that separates children from their parents.",
@@ -1611,63 +1667,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-here-are-hunter-bidens-alleged-text-messages-giuliani-just-turned-over-to-the-delaware-state-police.md",
-      "title": "Here Are Hunter Biden's Alleged Text Messages Giuliani Just Turned Over to the Delaware State Police",
-      "excerpt": "Rudy Giuliani handed over \"very, very sensitive\" text messages to the Delaware State Police that are allegedly from Hunter Biden to his father, former Vice President Joe Biden. In the text messages, Hunter allegedly accused his sister-in-law and former lover,",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/bethbaumann/2020/10/20/here-are-hunter-bidens-alleged-text-messages-giuliani-just-turned-over-to-the-de-n2578470",
-      "originalUrl": "https://townhall.com/tipsheet/bethbaumann/2020/10/20/here-are-hunter-bidens-alleged-text-messages-giuliani-just-turned-over-to-the-de-n2578470",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/289/ad5ed7d9-d644-4c3a-9934-2d0be5614beb.png",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/bethbaumann/2020/10/20/here-are-hunter-bidens-alleged-text-messages-giuliani-just-turned-over-to-the-de-n2578470?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/10/20/here-are-hunter-bidens-alleged-text-messages-giuliani-just-turned-over-to-the-de-n2578470?amp=true",
-      "publishedDateTime": "2020-10-20T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

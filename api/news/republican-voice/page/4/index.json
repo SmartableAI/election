@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-18-sen-kennedy-blasts-cuomo-complaints-about-trump-ego-compares-it-to-being-called-ugly-by-a-frog.md",
+      "title": "Sen. Kennedy blasts Cuomo complaints about Trump 'ego', compares it to 'being called ugly by a frog'",
+      "excerpt": "Democratic New York Gov. Andrew Cuomo is the last person with any standing to complain about President Trump's \"ego,\" Sen. John Kennedy, R-La., told \"Bill Hemmer Reports\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vA0Pbv70ZdI/sen-john-kennedy-andrew-cuomo-trump-ego",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vA0Pbv70ZdI/sen-john-kennedy-andrew-cuomo-trump-ego",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a8bea7e-b7bb-43d0-9979-72fc79aba59b/c7c22d1a-9df6-4d91-b452-22cc0ec50e1a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-andrew-cuomo-trump-ego.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-andrew-cuomo-trump-ego.amp",
+      "publishedDateTime": "2020-11-18T15:03:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-ny-dem-gov-cuomos-office-blames-religious-gatherings-as-super-spreaders-not-biden-celebrations.md",
       "title": "NY Dem Gov Cuomo's office blames religious gatherings as 'super-spreaders,' not Biden celebrations",
       "excerpt": "Cuomo's office responded to the Roman Catholic Diocese of Brooklyn's petition for emergency relief.",
@@ -1595,62 +1651,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany.amp",
       "publishedDateTime": "2020-11-12T07:14:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.md",
-      "title": "Mississippi lawmaker apologizes after calling for state to leave US over Biden win",
-      "excerpt": "The prospect of a Joe Biden presidency was a deal breaker, one Republican state lawmaker in Mississippi appeared to say last week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qhBo0ep2WUo/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qhBo0ep2WUo/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8419c359-d988-43d2-a50c-f30f8e478624/000564f8-cd7e-46c0-a921-27cb7fc5fc8c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.amp",
-      "publishedDateTime": "2020-11-12T00:02:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

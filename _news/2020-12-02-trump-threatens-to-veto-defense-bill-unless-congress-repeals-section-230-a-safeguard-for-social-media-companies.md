@@ -951,6 +951,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Lawmakers bristle after Trump threatens defense bill veto"
+    excerpt: "President Donald Trump is closing out his relationship with Congress with one more power jab, threatening to veto a hugely popular defense bill unless lawmakers clamp down on big tech companies he claims were biased against him during ."
+    publishedDateTime: 2020-12-03T09:11:00Z
+    webUrl: "https://www.businessinsider.com/lawmakers-bristle-after-trump-threatens-defense-bill-veto-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/lawmakers-bristle-after-trump-threatens-defense-bill-veto-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lawmakers-bristle-after-trump-threatens-defense-bill-veto-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Mnuchin: Trump backs GOP virus relief plan"
     excerpt: "Treasury Secretary Steven Mnuchin says President Donald Trump would sign a proposal for COVID-19 relief funding backed by Senate Majority Leader Mitch McConnell, a scaled-back GOP bill that has already failed twice this fall."
     publishedDateTime: 2020-12-02T18:53:00Z
@@ -978,6 +989,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5e369c17-2563-4818-b065-d33127d7a479_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Why Donald Trump keeps outperforming the polls"
+    excerpt: "President Trump lost the election, but did better than most experts were predicting. How does this keep happening? This video has been optimised for mobile viewing on the BBC News app. The BBC News app is available from the Apple App Store for iPhone and Google Play Store for Android."
+    publishedDateTime: 2020-12-03T08:58:00Z
+    webUrl: "https://www.bbc.com/news/av/election-us-2020-55168642"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "AP FACT CHECK: Trump distorts military role in vaccines"
     excerpt: "From the get-go, President Donald Trump has suggested that the military would be central in developing, producing and distributing vaccines for the pandemic"

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-03-trump-lays-out-election-fraud-case-in-online-video-bad-things-happened.md",
+      "title": "Trump lays out election-fraud case in online video: 'Bad things happened'",
+      "excerpt": "Trump says if he's right about election fraud, 'Biden can't be president' President Trump is once again charging that last month’s presidential election was rigged and rife with fraud. In an address posted on his Twitter and Facebook pages that the president described as possibly “the most important speech,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened",
+      "originalUrl": "https://www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/2trump-newsletter-xxx-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened.amp",
+      "publishedDateTime": "2020-12-03T02:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat.md",
       "title": "Biden must decide on North Korea strategy early, says top Obama-era diplomat",
       "excerpt": "Kurt Campbell says the delay in acting on Pyongyang in previous Democratic administration ‘headed off any possibility of engagement’",
@@ -66,7 +123,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1316,58 +1373,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-trumps-former-campaign-manager-brad-parscale-said-he-planned-to-capitalize-on-baseless-fears-about-mass-voter-fraud.md",
-      "title": "Trump's former campaign manager Brad Parscale said he planned to capitalize on baseless fears about mass voter fraud",
-      "excerpt": "Trump has relentlessly spread false claims and conspiracy theories about mass voter fraud committed by Democrats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-aide-brad-parscale-says-campaign-failed-to-monitor-voter-fraud-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-aide-brad-parscale-says-campaign-failed-to-monitor-voter-fraud-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc7ab70037cbd00186134a8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-aide-brad-parscale-says-campaign-failed-to-monitor-voter-fraud-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aide-brad-parscale-says-campaign-failed-to-monitor-voter-fraud-2020-12?amp",
-      "publishedDateTime": "2020-12-02T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

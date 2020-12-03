@@ -949,6 +949,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Lawmakers bristle after Trump threatens defense bill veto"
+    excerpt: "President Donald Trump is closing out his relationship with Congress with one more power jab, threatening to veto a hugely popular defense bill unless lawmakers clamp down on big tech companies he claims were biased against him during ."
+    publishedDateTime: 2020-12-03T09:11:00Z
+    webUrl: "https://www.businessinsider.com/lawmakers-bristle-after-trump-threatens-defense-bill-veto-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/lawmakers-bristle-after-trump-threatens-defense-bill-veto-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lawmakers-bristle-after-trump-threatens-defense-bill-veto-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump rehashes unsubstantiated voter fraud charges"
     excerpt: "In a video released Wednesday, President Donald Trump delivered a 46-minute diatribe against the election that produced a win for Democrat Joe Biden, unspooling one misstatement after another to back his baseless claim that he really won."
     publishedDateTime: 2020-12-03T00:55:00Z
@@ -962,6 +973,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5e369c17-2563-4818-b065-d33127d7a479_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Why Donald Trump keeps outperforming the polls"
+    excerpt: "President Trump lost the election, but did better than most experts were predicting. How does this keep happening? This video has been optimised for mobile viewing on the BBC News app. The BBC News app is available from the Apple App Store for iPhone and Google Play Store for Android."
+    publishedDateTime: 2020-12-03T08:58:00Z
+    webUrl: "https://www.bbc.com/news/av/election-us-2020-55168642"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Trump threatens to veto defense bill unless Congress repeals Section 230, a safeguard for social media companies"
     excerpt: "Trump is threatening to veto a defense policy bill unless it ends protections for companies that shield them from material posted by their users."

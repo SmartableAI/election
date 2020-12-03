@@ -2,6 +2,63 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-04-ex-gov-and-ex-inmate-rod-blagojevich-votes-trump-having-commuted-sentence.md",
+      "title": "Ex-Gov. and Ex-Inmate Rod Blagojevich Votes, Trump Having Commuted Sentence",
+      "excerpt": "Former Illinois Gov. Rod Blagojevich cast his first ballot Tuesday since President Trump [earlier this year]( commuted his 14-year sentence for multiple corruption crimes. He voted a split ticket. “It",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/qhoXZ5nBoDLKDHlCGZw0",
+      "originalUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/qhoXZ5nBoDLKDHlCGZw0",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-254286?size=1.5",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T14:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary.md",
       "title": "Colorado Sen. Michael Bennet not interested in being Biden's education secretary",
       "excerpt": "Colorado’s senior Democratic senator has said he would not be interested in serving as education secretary under a prospective Joe Biden’s administration, despite his background in public education.",
@@ -1594,62 +1651,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-30T16:11:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-facebook-manually-limited-new-york-post-hunter-biden-story-report.md",
-      "title": "Facebook manually limited New York Post Hunter Biden story: Report",
-      "excerpt": "Facebook fact-checkers manually flagged and restricted distribution of the New York Post's Hunter Biden story, documents obtained by The Guardian show.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DE9HKu8Hyjk/facebook-manual-limit-new-york-post-hunter-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DE9HKu8Hyjk/facebook-manual-limit-new-york-post-hunter-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/facebook-2-Reuters.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-manual-limit-new-york-post-hunter-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-manual-limit-new-york-post-hunter-biden.amp",
-      "publishedDateTime": "2020-10-30T16:00:25-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -366,6 +366,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Who Has Trump Pardoned So Far?"
+    excerpt: "Michael T. Flynn, a former national security adviser who pleaded guilty to lying to the F.B.I., was pardoned in November, while Roger Stone’s sentence was commuted in July."
+    publishedDateTime: 2020-12-03T09:14:00Z
+    webUrl: "https://www.nytimes.com/article/trump-pardons-commutations.html"
+    ampWebUrl: "https://www.nytimes.com/article/trump-pardons-commutations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/trump-pardons-commutations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/us/02xp-trumppardon1/02xp-trumppardon1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
     publishedDateTime: 2020-12-01T16:55:00Z
@@ -429,6 +445,6 @@ related:
         height: 550
         isCached: true
 
-secured: "F8ZdDjUwVsQXqUtnomfZjShbEwGN2h6wUNAmibRAyEzF3ELfGAPZV091Ne2xte1kegW6nC7QSacBeIKPMV82AtAjT/X9yyhRFmVaLvTu/QnWeXVXZJkAsS3v0o6vwoyRSkic6Anb5scnrt0RgZMtf4Y0jSpIhTLQZHhmYbtLBBzECmIojxiezEqD9Cv9EGWLuaINKLOB2erPb2BPu7M6nUpZ1aBxqdcvnhSVjV31vpEErWPJsmPLRTLhNRQdvgI8VB85+791nJlTmmzS9w9HN8Dh2FykAWg4BsgQagBjPYBov/BvIFKm3NzNOYictm4SJMfhBezyq+VcBCVGG6ftaWFOfANkevDvAMJSC8/BWrU=;2JVq43aB6ng6ep5t1Wsrug=="
+secured: "Zaipv/4uG9L6nHsZRBiB4aT6iA/arseMFbY4xxdWxyy8egmXVMUm7gJx+gAPyePTXwqfpe0qmfUKV1+kgKc/NglmCGUvZPt1ExJLDPszfmKiTkgCOwu6EAJnWYSm8J5sKq7o6GuDOWicREWSlGHyk00jMQuwkO6dJdl7Q4GWQMgA7Of17pN8omEkN1ZzDNm4jTfvrw7U+01Z621H4J5b6koZhj7sOpqZRGcbXjZ1dL/lHEZ4+1AMTKjehj7FfzsaPquxlTohl0oZ0reGHBoABvOZfLY0NFyGVQkthjdJfcLbCxr4tg9T1vuqUuQozyg5y2EG6gUkvfqBgoIS5Zt+d+AYFmkGO6wDaVtGtuGPbRJuTBa/vKwYU8/qxXe9BZw4qgG0X3Y9oDqqXreKCO9HUxaK3Xdys4IwGjrvDoyxl2dZeO/tZdZJP65wjjNE6Dl7ZIVTVWEM8E75/mOheHA5T6m35/Wg5Bu8wrLtQnwDVLSdfwdNcfzGfWGV7Cxp2TrCUueokrowU9+k99HIESp2fA==;/T73rdTWj459Q53H8Y/M+w=="
 ---
 

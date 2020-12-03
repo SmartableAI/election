@@ -350,6 +350,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Who Has Trump Pardoned So Far?"
+    excerpt: "Michael T. Flynn, a former national security adviser who pleaded guilty to lying to the F.B.I., was pardoned in November, while Roger Stone’s sentence was commuted in July."
+    publishedDateTime: 2020-12-03T09:14:00Z
+    webUrl: "https://www.nytimes.com/article/trump-pardons-commutations.html"
+    ampWebUrl: "https://www.nytimes.com/article/trump-pardons-commutations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/trump-pardons-commutations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/us/02xp-trumppardon1/02xp-trumppardon1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
     publishedDateTime: 2020-12-01T16:55:00Z
