@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ex-Presidents fill leadership vacuum as Trump ignores worsening pandemic"
+    excerpt: "This is what presidential leadership looks like.\n    \n"
+    publishedDateTime: 2020-12-03T09:11:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tvbc7KqK8rU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-coronavirus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-coronavirus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "No, Barr was not part of a secret plot against President Trump."
     excerpt: "After the attorney general said the Justice Department had not found voter fraud, pro-Trump personalities accused Mr. Barr of being part of a nefarious scheme against the president."
     publishedDateTime: 2020-12-03T00:52:00Z

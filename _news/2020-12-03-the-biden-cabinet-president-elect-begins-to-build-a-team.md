@@ -2,13 +2,13 @@
 category: news
 title: "The Biden Cabinet: President-elect begins to build a team"
 excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the United States' diversity."
-publishedDateTime: 2020-12-02T22:34:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-cabinet-idINKBN28C2SK"
-webUrl: "https://www.reuters.com/article/usa-biden-cabinet-idINKBN28C2SK"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C2SK"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C2SK"
+publishedDateTime: 2020-12-02T22:30:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-cabinet/corrected-factbox-the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG216"
+webUrl: "https://www.reuters.com/article/usa-biden-cabinet/corrected-factbox-the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG216"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IG216"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IG216"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -23,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543228358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11JB"
-    width: 738
-    height: 545
-    isCached: true
 
 related:
   - title: "The Latest: Graham: Trump should attend Biden’s inauguration"
@@ -270,6 +264,22 @@ related:
       - url: "https://i.insider.com/5fa19bd769331a0011bc703b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Factbox: Trump reshaped U.S. immigration system, Biden wants to reverse course"
+    excerpt: "President Donald Trump's push to crack down on illegal immigration and overhaul the legal immigration system was at the heart of the Republican's 2016 campaign and remained at the forefront of his White House agenda."
+    publishedDateTime: 2020-12-03T11:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-trump-changes-factbox-idUSKBN28D1GK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D1GK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D1GK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543317674&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20S5"
+        width: 757
+        height: 545
         isCached: true
   - title: "Trump's closest business ally just admitted that the president lost the election"
     excerpt: "The result of the 2020 election is \"very certain,\" and Joe Biden is the president-elect, Blackstone CEO and Trump ally Stephen Schwarzman told Axios."
@@ -668,6 +678,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/29/USAT/00288076-ff0d-47d5-b774-babb23ac3b4a-GTY_1229788118.jpg?auto=webp&crop=4499,2531,x0,y175&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Donald Trump's Foreign Policy Leaves Behind Destruction—and Opportunity—for Joe Biden"
+    excerpt: "For many worn out by President Donald Trump’s disruptions, Biden’s taking the helm of U.S. foreign policy raises the reassuring prospect that the world might go back to the way it was. Even Republican graybeards who have worked with Biden–and Blinken and Sullivan–quietly say they hope for a return to good order on the foreign front."
+    publishedDateTime: 2020-12-03T12:18:00Z
+    webUrl: "https://time.com/5917389/joe-biden-foreign-policy/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 123
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/12/Joe-Biden-Foreign-Policy.jpg"
+        width: 2400
+        height: 1602
         isCached: true
   - title: "Ivanka Trump questioned under oath in lawsuit over use of inauguration funds"
     excerpt: "Ivanka Trump, the president's daughter and adviser, was questioned under oath this week as part of a civil lawsuit alleging misuse of nonprofit funds for Donald Trump's inauguration four years ago."
@@ -1124,6 +1148,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "BEBu29V6O5vML780hkMzFUE5mMa4xQsgPqqkj1GvEM9S4cXNiktgxDqv/VAyUGP04u45Le3vp+0W4KDxaIus5NhS6wh2ZRq7xpmUWCw/lRoCDaa4BUTzs8RPgKmE5A9xcHi4xMoZjtqFfi0yhD2TcrNIlWRW/428PBgriCgHDcgZm1AZvqQwZPSPtUCAWjgjum10dccEJI9/Zr1tvPcKYPik+VSzSyeehhHd8Rjn2m0AryZMOiXhkw47rlww9uf3Gb3r+pminn8gKxxObl3F0u+livmnVuium1I+YeNVeajsRVZqqyGIfGtJxwU3gv9QQLqui3h3WKC5Nua44hdEKSS8mFkWWah834NKND/Cd2g=;knp10JACYUPkcRMHXV3VOw=="
+secured: "eydYN6KydNU8Xb8nqB4IIANx1iNZWxgHiSgYHI4tnv1AyvZ0rVJLxLAWCKVNytRFT6NYBU8HEbAjdYabI6Z1ndVs8pXZR+wCXE3Jouu0xIi3gfgEAxt4dtebSQljhAGexkQ+2SKvzxdVjRaV62LVnySkkv8aMSk0lYIC+jD+BMOrx+nX9UVdxF9aK3ZTHrEVD4WJbD2VhgftFa+9jBxMoF+/Oge3fNAy0OzGHwCFATdMbb4fLmaMf183XtiRJMYbuJ2zTFEgLhNazqLh4WRPNCyymJ8BpKwsFUbs+0zUY4ZdpMk3eeeVjW6TbOzOfeJzWTPP70Mv+7adDkeS7n9v2wFrij0ybalcioWm/Sy8WH8=;yoGrI1wvdNFt32EVj37wiA=="
 ---
 

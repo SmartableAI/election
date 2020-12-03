@@ -198,6 +198,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump roils Georgia GOP as party waits to see if presidential visit helps — or hurts — in crucial Senate runoffs"
+    excerpt: "The president’s baseless claims of fraud in the November elections have sparked a Republican civil war in the state, where voters will return to the polls on Jan. 5 in a pair of races that will determine control of the U."
+    publishedDateTime: 2020-12-03T12:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMJXFWBVEAI6XKMXD5GFHUVHI4.jpg&w=1440"
+        width: 1440
+        height: 864
+        isCached: true
 
 secured: "K5FHY4QlaVU23wemaYwir1+6tb+TDeFAxj08rlTl/Tp9skFXg4Z184kWt774+CKH1yS0GgqTBDxcGJtsPYmr0wgML2PWShg+BbKN12FDmBkagCTVTVfSJ06GQNctoQIauS4ar/kE16Q+dqvxVpSGAn97HKVLsqVbYQaLujQW9ku0IQdSgbN05nayKaC/XYmHiw4clmv+1QhZFUCqrUel+QV9Gwbz/PhWKiulNrGXPXlnRyfzz1EitC9hTJpPamJ+FuteyyHv/BruT9l7bWn9pd6o+2zfYVERoTLZ8LmqWhJTEvw+a/wYm9t+aiqxu3V4LxwIKsN+mB3AYN3ZLOCj0njOCxY3izTKrA1LtFykaDY=;YJrHRP/d8J7a/qWR+3WcbA=="
 ---

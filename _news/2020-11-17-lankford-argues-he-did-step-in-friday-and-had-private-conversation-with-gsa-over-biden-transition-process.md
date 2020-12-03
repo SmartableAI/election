@@ -863,6 +863,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden, Harris to receive daily briefing, Trump to hold award ceremony, bill signing"
+    excerpt: "Biden and Harris also will record an interview with CNN, while Trump will present the medal to former football coach Lou Holtz and participate in a bill signing."
+    publishedDateTime: 2020-12-03T12:44:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-harris-receive-daily-briefing-trump-hold-award-ceremony-bill-n1249818"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249818"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249818"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 159
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/n_bwms_a2_201202_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump's team prepares for election fight to end in December"
     excerpt: "President Donald Trump's allies are preparing for the end of his legal fight over the election results well into December, even as they continue to push him to accept a conclusion to his presidency and make post-White House plans."
     publishedDateTime: 2020-11-19T09:33:00Z
