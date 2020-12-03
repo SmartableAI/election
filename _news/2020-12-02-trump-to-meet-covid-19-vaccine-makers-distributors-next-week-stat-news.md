@@ -57,6 +57,22 @@ related:
         width: 886
         height: 545
         isCached: true
+  - title: "Live politics updates: Pence heads to Tennessee to talk COVID vaccine, 3 ex-presidents say they'll take it"
+    excerpt: "Pence visits Memphis on Thursday to hold a roundtable discussion on distributing a COVID-19 vaccine as case numbers in the U.S. reach new highs."
+    publishedDateTime: 2020-12-03T13:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/03/politics-updates-presidential-transition-joe-biden-donald-trump/3801997001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3801997001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3801997001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/a9990e0f-1d48-4a88-8453-d7b48ac0ff46-GTY_1285534426.jpg?auto=webp&crop=3672,2066,x0,y186&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "x0f8Z/d+UH7NAd1UufSZjHd7/qInfAstezhwNIdzjcMIIiQnjbeaxRiL6x0DADrDzL0OLyesnuiYE37T6pox0p2PWnM1lNtklzsIef5+GmXNVICFrU6ga5LPb/dDUyBmMSlO7Kk99quJP/EGMfUuYXQfwHL6WT1mwXhQRE9DtjjOSuGEmihm9C4Q2yrQ9um7iDMp/50OchbxgWJaI8ZWCFw81+91BSz3IHcu4deSvOCVGSZxXjXwmNB7BW6dHhykN90lZWPi+g0iqBfW6MyDZHxbhFaO6PnbwIN6matMhMnzeO5xUl7HZ9f0WHaDGR9jj9nqKwT1duqya+cqbZrnvkCJzWPSQqaqsttnZDO0PZU=;8Y1Eh3xqvH94pDsSnp4skg=="
 ---

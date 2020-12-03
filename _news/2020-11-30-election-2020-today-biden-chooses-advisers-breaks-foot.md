@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-biden-ch
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 1180
+heat: 1200
 published: true
 
 provider:
@@ -462,6 +462,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_4915031dcafe45a7876e927842927883_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Fauci says he will speak with Biden transition officials on Thursday"
+    excerpt: "Fauci told CBS News that he has not yet spoken with President-elect Joe Biden but expects to do so in the near future."
+    publishedDateTime: 2020-12-03T14:36:00Z
+    webUrl: "https://www.cbsnews.com/news/fauci-speak-biden-officials/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/fauci-speak-biden-officials/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/fauci-speak-biden-officials/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/01/6d5c18cf-39eb-42a7-bf15-46b66a208016/thumbnail/1200x630g2/4c8f69e70dffbe7561ed3ea1e3a6213c/gettyimages-1229866325.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "GOP senators dismiss possible congressional challenge to Biden victory"
     excerpt: "Amid President Trump’s unfounded claims of fraud, several of his supporters in the House have said they are exploring a challenge to electoral college results."

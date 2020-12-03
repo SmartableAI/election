@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/doug-ducey-defends-elect
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/doug-ducey-defends-election-arizona-trump/index.html"
 type: article
 quality: 190
-heat: 710
+heat: 730
 published: true
 
 provider:
@@ -428,6 +428,20 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_49/3432697/201202-donald-trump-jm-1425_2cb3f4930252baaa899e0b9669eafb1c.jpg"
         width: 2500
         height: 1567
+        isCached: true
+  - title: "Trump and Congress set for one more showdown"
+    excerpt: "In the waning weeks of his presidency, Donald Trump has decided to pick a fight with Congress — and members of his own party — over a national defense policy bill that includes money for the troops. On two separate occasions,"
+    publishedDateTime: 2020-12-03T13:33:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2020/12/03/trump-and-congress-set-for-one-more-showdown-491047"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "The Trump Administration Just Made the Citizenship Test Harder. How Would You Do?"
     excerpt: "Test your knowledge on some of the topics from American history and government that prospective new citizens have to answer."

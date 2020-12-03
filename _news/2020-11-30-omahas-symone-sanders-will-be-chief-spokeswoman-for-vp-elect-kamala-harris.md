@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Willie Brown demands Gavin Newsom replace Kamala Harris with a Black woman"
-    excerpt: "Willie Brown does not want Kamala Harris' Senate seat to go a Latino, stating, \"Racial minorities should know they should not try to fill each other's vacancies.\""
-    publishedDateTime: 2020-11-25T17:25:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Willie-Brown-Gavin-Newsom-Kamala-Harris-Senate-20-15753719.php"
+  - title: "The Latest: Kamala Harris names Tina Flournoy chief of staff"
+    excerpt: "WASHINGTON (AP) — The Latest on President-elect Joe Biden (all times local): 8:35 a.m. Vice President-elect Kamala Harris is hiring veteran Democratic strategist Tina Flournoy as"
+    publishedDateTime: 2020-12-03T13:56:00Z
+    webUrl: "https://apnews.com/article/joe-biden-al-gore-hillary-clinton-coronavirus-pandemic-bill-clinton-e2469384b1f146d798edebcbad989c36"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 103
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
     images:
-      - url: "https://s.hdnux.com/photos/70/31/06/14782875/3/rawImage.jpg"
-        width: 2048
-        height: 1430
+      - url: "https://storage.googleapis.com/afs-prod/media/7e31b78677014cb48d6c6c481bc05d55/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "What Did Kamala Harris Say On Twitter That’s Causing A Stir?"
     excerpt: "A fact-check from The Washington Post found most of those arrested during summer protests in Minnesota didn’t have to pay a cash bail."
@@ -57,20 +57,33 @@ related:
         width: 1024
         height: 766
         isCached: true
-  - title: "Feinstein picks Padilla in jockeying for Harris' Senate seat"
-    excerpt: "Sen. Dianne Feinstein has picked a favorite in the fight to replace Vice President-elect Kamala Harris as California's junior senator: Secretary of State Alex Padilla."
-    publishedDateTime: 2020-12-03T00:53:00Z
-    webUrl: "https://omaha.com/news/national/feinstein-picks-padilla-in-jockeying-for-harris-senate-seat/article_fc1290f1-795e-51e8-88fe-b6d9ad172a75.html"
+  - title: "Democratic fight emerges ahead of appointment to fill Kamala Harris’ Senate seat"
+    excerpt: "A cross-country lobbying campaign for Vice President-elect Kamala Harris’ Senate seat has pitted factions divided by race, gender and geography against one another and heightened internal"
+    publishedDateTime: 2020-11-26T14:03:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 55
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 70
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_ea094ba89905318495f9d2a79bd2c69a-h_b6055c4a4a32d16317462659e297de20.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "The Latest: Kamala Harris names Tina Flournoy chief of staff | Charlotte Observer"
+    excerpt: "Vice President-elect Kamala Harris is hiring veteran Democratic strategist Tina Flournoy as her chief of staff."
+    publishedDateTime: 2020-12-03T14:29:00Z
+    webUrl: "https://www.charlotteobserver.com/news/article247574705.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/article247574705.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article247574705.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 50
   - title: "Omaha native will be chief spokeswoman for Harris"
     excerpt: "Omaha native Symone Sanders will serve as chief spokeswoman for Vice President-elect Kamala Harris. President-elect Joe Biden announced Sanders' role on his history-making communications team Sunday."
     publishedDateTime: 2020-11-30T18:41:00Z

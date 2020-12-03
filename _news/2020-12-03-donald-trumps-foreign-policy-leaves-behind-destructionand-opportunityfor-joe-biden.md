@@ -638,19 +638,19 @@ related:
         isCached: true
   - title: "Ivanka Trump deposed as part of inauguration fund lawsuit"
     excerpt: "Ivanka Trump has been deposed by attorneys alleging that President Donald Trump’s 2017 inauguration committee misused donor funds"
-    publishedDateTime: 2020-12-03T03:35:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/ivanka-trump-deposed-as-part-of-inauguration-fund-lawsuit/2020/12/02/94e921d0-3518-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/ivanka-trump-deposed-as-part-of-inauguration-fund-lawsuit/2020/12/02/94e921d0-3518-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/ivanka-trump-deposed-as-part-of-inauguration-fund-lawsuit/2020/12/02/94e921d0-3518-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    publishedDateTime: 2020-12-03T13:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ivanka-trump-deposed-part-inauguration-fund-lawsuit-74517016"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ivanka-trump-deposed-part-inauguration-fund-lawsuit-74517016"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ivanka-trump-deposed-part-inauguration-fund-lawsuit-74517016"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
     excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
@@ -1150,6 +1150,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "ArQWQogQm3Yy4eFgwXNhDcqd2ALrgbBpXkLs3Rz6iS/H4jlHA6s/NMOMKkUy7kuSgmPgv4nXirdCIZVhQzicaddUNQUeLyGwO53geD1sCdRXleLgIF0IGSRL5RlTrszMvpenok6RmFPkYyDtu3q8ySl7C414+z5BDlhYVugovz3f5POMrs3gFBnVPekcMQoxsGi/D72PRBdXjvyxl7l1d8bkkE54S5bthKdqHZa1PEhnrEA97yG68c7dLdJC87WwztidWFqkyJeb5D7JTgRZ4vUe6J+UTJoVhc9OTNgfsPYIbBD4tqqyLN4W1DHO7H9sNdxR//V1Yux4YM7dO0b6/dU1t9p4zuC6Gim1iZeapqw=;myjU6FABO02Zqpip4wngzA=="
+secured: "Ed3lA3mDI42DcAmQiwthw6kObauBsju8eQKFqPhoMQe4wRc1FIr+cOK0UDtt3qnDi6ePEWJJfyu6PFdYfzdxlP0kWOk6MR/6Yx7Einr9/PTvKSl9ogYhAVsKdfx7pwzk+zmdEEhLV6ntIP9vFIH2CKpbcrSVbN7wxaoRgFa9wdKGVxsTzXXQqO2Df/7EqpQAV1CbxFcXIv1q2Lhm8TDXsMYSgerZg9hNCmdiCSvY51RHCdLwZQTNWLrabFLwrdZwx3HNGxGQwhOAofvchw9tyEg/2b3aCU7y4ohaIZ44/mvexEfFhOxlXNjgz3nJS7+SS/k0A6vRTk3qsQlLjfcHPX+Ez0mkLzgtzUOG1Nh6/AyaiGzPnSC1JLyauM3hWlfhbHw+fklMNy/zmAEmjpAyC+Oqq8WOnot3+OciAZC4BSS7ZhkYXBRgLZANdkKiJbKp84TB8VunsDcpDWb2VMSjQ0SM0oboaj5w79DqqXDuoAQBlpPmVnY3vkvsjemk0BRzi0yEiKmhOSeUQP4M1bvsBQ==;ca7CZYY7LAfAIYdnWrkGlw=="
 ---
 

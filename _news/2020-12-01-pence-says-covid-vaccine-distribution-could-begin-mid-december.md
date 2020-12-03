@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-01/pence-says-co
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543100580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03HX"
         width: 886
         height: 545
+        isCached: true
+  - title: "Live politics updates: Pence heads to Tennessee to talk COVID vaccine, 3 ex-presidents say they'll take it"
+    excerpt: "Pence visits Memphis on Thursday to hold a roundtable discussion on distributing a COVID-19 vaccine as case numbers in the U.S. reach new highs."
+    publishedDateTime: 2020-12-03T13:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/03/politics-updates-presidential-transition-joe-biden-donald-trump/3801997001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3801997001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3801997001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/a9990e0f-1d48-4a88-8453-d7b48ac0ff46-GTY_1285534426.jpg?auto=webp&crop=3672,2066,x0,y186&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump to meet COVID-19 vaccine makers, distributors next week: Stat News"
     excerpt: "The Trump administration has invited vaccine manufacturers, drug distributors and government officials to a COVID-19 Vaccine Summit next week at the White House, Stat News reported on Tuesday, citing an invitation obtained by the news organization."

@@ -2,21 +2,21 @@
 category: news
 title: "Ivanka Trump deposed as part of inauguration fund lawsuit"
 excerpt: "Ivanka Trump has been deposed by attorneys alleging that President Donald Trump’s 2017 inauguration committee misused donor funds"
-publishedDateTime: 2020-12-03T03:35:00Z
-originalUrl: "https://www.washingtonpost.com/politics/courts_law/ivanka-trump-deposed-as-part-of-inauguration-fund-lawsuit/2020/12/02/94e921d0-3518-11eb-9699-00d311f13d2d_story.html"
-webUrl: "https://www.washingtonpost.com/politics/courts_law/ivanka-trump-deposed-as-part-of-inauguration-fund-lawsuit/2020/12/02/94e921d0-3518-11eb-9699-00d311f13d2d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/ivanka-trump-deposed-as-part-of-inauguration-fund-lawsuit/2020/12/02/94e921d0-3518-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/ivanka-trump-deposed-as-part-of-inauguration-fund-lawsuit/2020/12/02/94e921d0-3518-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+publishedDateTime: 2020-12-03T13:44:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/ivanka-trump-deposed-part-inauguration-fund-lawsuit-74517016"
+webUrl: "https://abcnews.go.com/Politics/wireStory/ivanka-trump-deposed-part-inauguration-fund-lawsuit-74517016"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ivanka-trump-deposed-part-inauguration-fund-lawsuit-74517016"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ivanka-trump-deposed-part-inauguration-fund-lawsuit-74517016"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -1149,6 +1149,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "XWB/9hFmP/cc0E0vKiglIKSdFm7D8DpPwynZIswHPcJED4Bp5lmqgeW1AMkGQLYEAaRDdm3rZR7Qx0ki18c27fOIk4YWkg+JoINANxxVhNwMq/T/rMgDolpM7PDZcDVbnQStvEEW7cNoxJSiMJicjpYH4anwMeQk8jVnK87Mtt4aDY1S0qOx4fXirftZU1ucScO/3Z2QoXrzEKRxAYgCMxVNnJ3k3YeWEPiN/Xv20GTUQgOahvi/9M3yF61enkku/YgRAkuyW3AJN2JXV1oLY6Y1Vc2mWmUZIHHN00INIEDxl9joIqMfJ2aDAGEPpvIIZLwHCpiMCYzwx4y3zOxxzr3hRkrwdBPmRNh5P0Kn9rs=;FYaiHrMmX4R9w7bJ0QiiEg=="
+secured: "uXwuCyFmadTGXp8oczfL4vbr5iWkWCVUsFHzY1hjRBdT72oLxi+qw8CcsiGWWbF6W3dyDa6VI9OAbBVVm77/1CvedRFNIkxRdeuxOtseGx+eJfK6jjl2iYtz9rzk65s0qPhV3IIMpmcSmD7OOpcec+nD3SoKer6fcd7z0VsogBKEANzy8nIH6CjD3Gax6VOYneP4x60qn0JjuOSE5+rUsGCfTo3jR8hgunHbjOX9FLCHNaYIPg2skp1CcRwdwgta7rYiXLUrEfxOyYSTR2zY0BJphZRaPWJ1Csmvo0bTdiByxcMRdSMyXiwATE1/zUCowzvQ8j9isEjy4fyas0zxoIfuproK3QJ1meKvb8jmJIM=;M1lVxjSw9oqJ4x8eslpNxQ=="
 ---
 

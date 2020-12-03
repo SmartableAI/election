@@ -463,6 +463,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fauci says he will speak with Biden transition officials on Thursday"
+    excerpt: "Fauci told CBS News that he has not yet spoken with President-elect Joe Biden but expects to do so in the near future."
+    publishedDateTime: 2020-12-03T14:36:00Z
+    webUrl: "https://www.cbsnews.com/news/fauci-speak-biden-officials/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/fauci-speak-biden-officials/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/fauci-speak-biden-officials/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/01/6d5c18cf-39eb-42a7-bf15-46b66a208016/thumbnail/1200x630g2/4c8f69e70dffbe7561ed3ea1e3a6213c/gettyimages-1229866325.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GOP senators dismiss possible congressional challenge to Biden victory"
     excerpt: "Amid President Trump’s unfounded claims of fraud, several of his supporters in the House have said they are exploring a challenge to electoral college results."
     publishedDateTime: 2020-12-03T01:19:00Z
@@ -840,6 +856,6 @@ related:
         height: 660
         isCached: true
 
-secured: "kuXKv6+JaeRMlbz6AFV0ZItQGiqNzu20eeivPGEwncx9Vj55w94phmQ/W8zrk5CyNHgYlxCHZ/7GA7dlyFdBBrJh2cgGqOcEzqjUNzmRB7F5CHT4FzQXN5/S4FCPNn85qCG8wAADfwq/AfNG3THx9sIlv4mMVTlIRSL2nhqQWDf0QeshYTS+TJAdSOhc/ar3XezpvCMwb2KecriuJfV1jONGA96+ZVmZXtvvdtE66Vr7s1bd0uupQfIZOBReh8cv1NXzJsYdKvJxOITBIp3PRFvIM2Jc1aiZMp50DZp3eZJHkBZP3Wgy2Cq6KO4JSCaRsIq3vR9PFBhW8yaR0wpGAHCV0VkfjclcfqpHk1OfyGM=;L3vL7xGIZT9OS537MVKzOw=="
+secured: "TklffF3Kxq61ME2MTgvFc5jcH8rSRg0VdIQac69m4PjJNg3iBkgqM5ky92IY6lb5EDWpJymaC79goTZ/yofUNxLiXeOTsYebWHXtNOqINdyeqQzU8yP+IbW9dX1tYbunI+nXBIKimz31E5Pe63ZhAEh///PnfWdWKUUI5QtgYmawYB9uB3q64iQyG6/zOk4znW3aXVa59dusuU1VLTLoKUAxgt42HTAu/Ryyipzcbm5xVYTDHV7teNUjDzq0Lv6gr86AOmrE3/qBV+vj/rX5ld/mbaY83WM9pBosXwPtjAOBUbbBEYQ1J/W6Cpy0vlq20tBbeVCfi6cMkmijM+la5dtOYLzzlkeuFUOYOxRpO0gYYz9OcWDG/V9Vh7WFMQDYgXgU5FBzpg8cn5pKntFCJlNNrcrO4mLF83gP1q+Vv1r9hK4yJz10T8//QdJ9X14icEHJi2pMJiIxA9ovMO8rP60zzakeP9WlRSwk556bYaNwi79oB8Ztvi/3g0IVFCIXdeVlhAjmcz70zzPqORVxrw==;+f+I3ITcddkVZQKZDldriw=="
 ---
 

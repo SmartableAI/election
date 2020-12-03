@@ -444,6 +444,20 @@ related:
         width: 2500
         height: 1567
         isCached: true
+  - title: "Trump and Congress set for one more showdown"
+    excerpt: "In the waning weeks of his presidency, Donald Trump has decided to pick a fight with Congress — and members of his own party — over a national defense policy bill that includes money for the troops. On two separate occasions,"
+    publishedDateTime: 2020-12-03T13:33:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2020/12/03/trump-and-congress-set-for-one-more-showdown-491047"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "am4bGnjkUS3bZO76v4I2/5TMunahtiQ/zO/yhK6KUM90im32msyoWTSTqWQ1BnVMcmUfHMRmuGM73/gBz0g3X/frQgwbPRWpTgtKtIgK7S88/d/icsnuUxD+DiRhT1TvIFJFaYCAncrRZGTcJI2RXZXlhaethFwi+ocHwfoITyRfNIvWsZWjnaZE30uM8T801M0z2AiEoMXfJnhd9GGK3f+hDi+P4KTSh7IU05FBCpcL9CkhxqXKGmnV4OpJfJRYylmtwAn6+BtmCwbAqhvi3Gfa5uUwHpXZAPRMzEc/BUGtEZp7POBY2u+3CNTMR72AKZKB9AOaqcZLUFkyE9JILUZOnaEhphTk4qgobbn4GHI=;lV7q9gEhyGSmcfK+TnGHLA=="
 ---

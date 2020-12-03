@@ -57,6 +57,20 @@ related:
         width: 909
         height: 630
         isCached: true
+  - title: "Tina Flournoy, longtime Democratic strategist, named Vice President-elect Kamala Harris chief of staff"
+    excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
+    publishedDateTime: 2020-12-03T14:29:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 89
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris Calls Bay Area Teen to Thank Him for Painted Portrait"
     excerpt: "A Bay Area teenager with impressive artistic skills has captured the attention of Vice President-elect Kamala Harris."
     publishedDateTime: 2020-11-26T19:22:00Z
@@ -72,6 +86,22 @@ related:
       - url: "https://media.nbcnewyork.com/2020/11/TylerGordon.jpg?resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President-elect Kamala Harris assembles staff as she builds her vice presidential portfolio"
+    excerpt: "The staffers, all of whom are women and two of whom are people of color — highlight the incoming administration’s commitment to diversity."
+    publishedDateTime: 2020-12-03T13:30:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/03/vice-president-elect-kamala-harris-assembles-staff-as-she-builds-her-vice-presidential-portfolio/"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/03/vice-president-elect-kamala-harris-assembles-staff-as-she-builds-her-vice-presidential-portfolio/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/03/vice-president-elect-kamala-harris-assembles-staff-as-she-builds-her-vice-presidential-portfolio/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 62
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/sjm-ransition-Staffers_79108927.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "7WjANfsRrBbbHboIr+zCJR6fDj+0kokAs1yjoLAZn1kXFLmFrD0GmuzMEHJyrEPxki9pk5k/O6XTr0+EjyiAZ9R7IuOhSMkj294bOTNu4giApwnlAz1dh4XnOIkQ8B+y0DokyXXcfOKl2F8CMp1dnP4c6i68i5an/lgM90DANjF2KHZSpvcUx8UoyUCMYcEeuHAWVGi1DHISXci2Mqkl21vEohiPndbY4A2we7neaGZeSqpLZ6nPe5seWiInnnKhE5N1gJIXz4yz+pTcQbGDrXph3qLlRb1T/9onnILHZ9m0Q0SSMXme+4mJfFpQ06mbDtdpMKuMmtBGEhebTOe612nN+FnYzDMOYgjjZBUX0WNnaCraAMfoX8L8xzddaoE9GzsqlpKR0OZUkLukZM5YgBz5cFDF/Tly2H05YWmhk28XNqoFcfFp3akBlZnFh3KgDNhqtxqgx59lwvDYAF34Oq1+qe6fm/5Rwt0B3ZQ3nsdVdsNnA3DFGq1MrxKf56yuMbYhTMKkXwWeeB46hNYVtg==;HpsRkpJTsZH20OFBMMui/Q=="

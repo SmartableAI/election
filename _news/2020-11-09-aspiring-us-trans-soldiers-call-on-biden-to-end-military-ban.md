@@ -3961,10 +3961,10 @@ related:
         isCached: true
   - title: "Biden promises help to U.S. workers hit by pandemic, Trump hints at 2024 run"
     excerpt: "President-elect Joe Biden on Wednesday promised a group of workers hit by the raging COVID-19 pandemic that more aid would be on the way, while President Donald Trump hinted he may be ready to begin planning another run for the White House in 2024."
-    publishedDateTime: 2020-12-03T04:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden/trump-hints-at-2024-run-biden-to-meet-with-u-s-workers-hit-by-pandemic-idUSKBN28C1GM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C1GM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    publishedDateTime: 2020-12-03T13:30:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28C1H8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1H8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1H8"
     type: article
     provider:
       name: Reuters

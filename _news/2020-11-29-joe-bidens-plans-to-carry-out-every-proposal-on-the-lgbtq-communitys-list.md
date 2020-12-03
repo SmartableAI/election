@@ -47,6 +47,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "The White House could still be crawling with the coronavirus on Inauguration Day. It's a scenario that's keeping Biden's allies up at night."
+    excerpt: "The Trump White House has been a hot spot for coronavirus infections. Joe Biden and his team will want to clean up before moving in."
+    publishedDateTime: 2020-12-03T13:29:00Z
+    webUrl: "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://i.insider.com/5fc82689037cbd00186137e9?width=700"
+        width: 700
+        height: 525
+        isCached: true
 
 secured: "79wt4+WjcoviN2ZcUzTVuduyRAQr35gt6ePOohWYg9r1b1f18bngjkTWUaapfehltxmMj4RWCIIxO10OFAr/FbZQG21CqsWqhKs6f5o8xbkHtxsGEw33CwVpiDXVqVih/0XJO/WmJmqXaW545Y8mfWu7dxz4AtEWGwBD4gk5Z3v9cPTNP7PFUHr0th4seGacf+HTozwblFI51CQOCKONK3/xypt44q5Ghm56s3WUIslmNuN9cq052VPW2Z12A32c70Ln4tHwEHgEm1gFtDx+AdHp9vpW3kLO3VW27kq/S6DsnZP/ZfhjBTD3xnCaoxR7mJsX71YIjJUer34OEORF0esNYlMNSRP1J0Pmp850asAHC+Kp/FkzV0TKqNx5IgVonDqHxu1sA27c+8UeU5KvmTFy+67GnVJw2428aOg5LHaOaGjOBUmvt/q2Lpra2DBFjDzdbFiiGxWO+8LUUlzSRj2mWVYENbWLOOYdhQ3S0/A2CoC2x70ctc+J2ofullUIiKAMTJb/DG6DZj3ydjoiqw==;g9LopKrOZphLOKd6T4ROqQ=="
 ---

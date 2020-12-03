@@ -2,11 +2,11 @@
 category: news
 title: "Biden promises help to U.S. workers hit by pandemic, Trump hints at 2024 run"
 excerpt: "President-elect Joe Biden on Wednesday promised a group of workers hit by the raging COVID-19 pandemic that more aid would be on the way, while President Donald Trump hinted he may be ready to begin planning another run for the White House in 2024."
-publishedDateTime: 2020-12-03T04:25:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden/trump-hints-at-2024-run-biden-to-meet-with-u-s-workers-hit-by-pandemic-idUSKBN28C1GM"
-webUrl: "https://www.reuters.com/article/us-usa-biden/trump-hints-at-2024-run-biden-to-meet-with-u-s-workers-hit-by-pandemic-idUSKBN28C1GM"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C1GM"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C1GM"
+publishedDateTime: 2020-12-03T13:30:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-idINKBN28C1H8"
+webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28C1H8"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1H8"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1H8"
 type: article
 quality: 137
 heat: -1
@@ -12524,6 +12524,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "R+XuinajDnvziZ1DJ/+gh+NKd9AIu1cAx1sNrm6jcAPoh7AJEmZCjW+kW1o4X2joaDU5u6NSt2v0oThh6OBsZrw9k+/SlUWgWoS8Ptkxmufw1xso1C6YVtAgwxBQo6VX+B/OkjQmOTqZ3nS1IGtCtFm6gG/eFLJfDkfWfNZv/XNiijPGJMGphq8JE96Ho7dp5qM6LamYUDFTuknUatgi+ICIK1D/RmQO6yakWyapBFgzLSEQWQXnUFNTPU3B2mbQg12tKYF4Ku5ySAErYN92gEDZ08b/N19JAqUar3NZmFmcHqtLhm2G0xJxln58Nmn7nYY7QreLw0/CvK8wmSKTky3u/7CYwmBMcRGBvHb1XxXoPVxgKqShADnaHAu7lVgeiqeDsbDPG/Sa5MXMIdcF4CxDAvHc5XsW/lEsu95s7B8MBIZ6ND69yXgR2fbus3mvaN6OvcayNjzdYJ0cyb/rt9LaVoPG/Y5MFhbNQQS+uBmbdJf6nQP4T/MvSZdXyuteJC0ExIBi+c7UuJ7TgU78fA==;GC/FIXgcarpUy5AhRrCxLg=="
+secured: "dTg1PWu1mPDCfKN4gAuPjxMSM+Uaz28E+lZFdyH0zqh3nAAOx+pMWZzN6ZaXyxgHbHNWf7vaDzL9fVNvEYx248L9hNgJHPM9CPAL3P/GWOsUka7D2GjJjBjDtvmH+5XFSg02hqCAC92viKka5mTP6xJvRgVsB6Dpb5BS9svO+joz9wKNaCc2NG7XjcbUmMnMFycNzwtf9TEcLWWUtyaLnKLCjBGIMpX+iLUwZjO8JectlljGoydL3sRf+z1bWwe7wyHAd/KuHHGBAwFVfeFlArH43lKz0+AgbTt0nSxuaRmPwCc8gbGDEhjulLGQZD1NCT3/fdfgdlU/xzIg8TIN1aaumH5Jdj2oJT5OAxQ4KGY=;QE0gvBWjp7/2S8Vpcni6Mw=="
 ---
 

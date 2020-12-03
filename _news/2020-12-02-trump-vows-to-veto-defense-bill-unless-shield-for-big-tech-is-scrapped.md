@@ -525,6 +525,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "U.S. Republicans balk as Trump uses defense bill for leverage on Big Tech"
+    excerpt: "President Donald Trump's threat to veto a defense bill if it does not repeal legal protections for social media companies faced stiff bipartisan opposition on Wednesday, setting the stage for a confrontation with lawmakers scrambling to pass the massive bill by year-end."
+    publishedDateTime: 2020-12-03T14:05:00Z
+    webUrl: "https://www.reuters.com/article/usa-defense-congress-idINKBN28D06I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28D06I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28D06I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543275681&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11Q1"
+        width: 797
+        height: 545
+        isCached: true
   - title: "Trump administration moves to strip federal protections for migratory birds"
     excerpt: "The Trump administration moved forward Friday on gutting a longstanding federal protection for the nation's birds, over objections from former federal officials and many scientists that billions more birds will likely perish as a result."
     publishedDateTime: 2020-12-01T16:28:00Z

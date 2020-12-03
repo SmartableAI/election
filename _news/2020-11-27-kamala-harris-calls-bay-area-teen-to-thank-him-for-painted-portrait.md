@@ -59,6 +59,36 @@ related:
         width: 909
         height: 630
         isCached: true
+  - title: "Tina Flournoy, longtime Democratic strategist, named Vice President-elect Kamala Harris chief of staff"
+    excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
+    publishedDateTime: 2020-12-03T14:29:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 89
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President-elect Kamala Harris assembles staff as she builds her vice presidential portfolio"
+    excerpt: "The staffers, all of whom are women and two of whom are people of color — highlight the incoming administration’s commitment to diversity."
+    publishedDateTime: 2020-12-03T13:30:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/03/vice-president-elect-kamala-harris-assembles-staff-as-she-builds-her-vice-presidential-portfolio/"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/03/vice-president-elect-kamala-harris-assembles-staff-as-she-builds-her-vice-presidential-portfolio/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/03/vice-president-elect-kamala-harris-assembles-staff-as-she-builds-her-vice-presidential-portfolio/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 62
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/sjm-ransition-Staffers_79108927.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris shares how to brine a turkey in viral video"
     excerpt: "A 2019 video of Vice President-elect Kamala Harris offering tips on how to brine a Thanksgiving turkey is spreading across social media faster than you can pass the gravy. The video was captured and posted on Twitter by Washington Post journalist Jonathan Capehart who asked Harris for her tips on cooking a turkey as she was preparing for an appearance on MSNBC's \"PoliticsNation."
     publishedDateTime: 2020-11-26T19:18:00Z
