@@ -32,35 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's continued rhetoric over election hampers recovery as Americans face heightened economic and health fears"
-    excerpt: "President Donald Trump finally confirmed Thursday that he will vacate the White House in January after weeks of plunging America into a dark period of uncertainty—where the fate of democracy sometimes seemed to be hanging by a thread—but he largely ignored the mounting challenges his successor is facing"
-    publishedDateTime: 2020-11-27T05:03:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Kxu1a0apCTM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/trump-biden-coronavirus-economy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/trump-biden-coronavirus-economy/index.html"
+  - title: "Former top cybersecurity official says Trump firing by tweet was 'not how I wanted to go out'"
+    excerpt: "Christopher Krebs, the former top cybersecurity official, said President Donald Trump's decision to unceremoniously fire him via tweet last week was \"not how I wanted to go out.\"\n    \n"
+    publishedDateTime: 2020-11-28T20:17:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bj_tstiA2pI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/28/politics/chris-krebs-trump-election-security-60-minutes-interview/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/chris-krebs-trump-election-security-60-minutes-interview/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126210210-trump-white-house-point-thanksgiving-1126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117192237-chris-krebs-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Hints at Another Act in Four Years, Just Like Grover Cleveland"
-    excerpt: "The president is eying a comeback in 2024 aimed at making him the only person other than Cleveland to win another term after losing the White House."
-    publishedDateTime: 2020-12-03T00:44:00Z
-    webUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html"
+  - title: "Trump Fires Again, This Time a Cybersecurity Official"
+    excerpt: "Two readers say the president fired an election official, Christopher Krebs, for his honesty and integrity. Also: A post-mortem on polling."
+    publishedDateTime: 2020-11-18T19:26:00Z
+    webUrl: "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02dc-trump-1/02dc-trump-1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/18/us/18dc-krebs-print/merlin_154823772_a5a1cf78-6b17-457c-b44a-78e80f318254-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

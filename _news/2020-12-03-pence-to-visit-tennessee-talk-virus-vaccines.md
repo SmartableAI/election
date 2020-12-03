@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Pence to visit Tennessee, talk virus vaccines"
-excerpt: "Pence will participate in an afternoon roundtable discussion, which will include Republican Gov. Bill Lee. Tennessee health officials say the state is expecting to receive 56,550 doses of the Pfizer COVID-19 vaccine in its first allocation in mid-December."
-publishedDateTime: 2020-12-03T11:42:00Z
-originalUrl: "https://www.mysanantonio.com/news/article/Pence-to-visit-Tennessee-talk-virus-vaccines-15771724.php"
-webUrl: "https://www.mysanantonio.com/news/article/Pence-to-visit-Tennessee-talk-virus-vaccines-15771724.php"
-ampWebUrl: "https://www.mysanantonio.com/news/amp/Pence-to-visit-Tennessee-talk-virus-vaccines-15771724.php"
-cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Pence-to-visit-Tennessee-talk-virus-vaccines-15771724.php"
+excerpt: "Vice President Mike Pence is scheduled to visit Memphis on Thursday to discuss the development and distribution of the COVID-19 vaccines, according to his office."
+publishedDateTime: 2020-12-03T15:30:00Z
+originalUrl: "https://www.timesnews.net/living/health-care/pence-to-visit-tennessee-talk-virus-vaccines/article_0001c35c-3580-11eb-ab1e-134818ed0d1f.html"
+webUrl: "https://www.timesnews.net/living/health-care/pence-to-visit-tennessee-talk-virus-vaccines/article_0001c35c-3580-11eb-ab1e-134818ed0d1f.html"
 type: article
-quality: 75
-heat: 75
-published: true
+quality: 55
+heat: 55
+published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: Times News
+  domain: timesnews.net
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/3/23/323f7f7c-da0d-11ea-8e7a-6796a476e0b5/5f2f9df19a75b.image.jpg?crop=800%2C450%2C0%2C16&resize=800%2C450&order=crop%2Cresize"
+    width: 800
+    height: 450
     isCached: true
 
-secured: "pDQHwc6cgC+XL0ZLSpDOAzVW+f6avf9gDfHx7b4p1WEqGK+rn4uwHcYWMkGFM8+Wh5G637DGAghvRzr8ZW/lnM6qtEihqJJWavjTBLBcWZwWlR6RaptF9TDxd91C9VZjDaMOAEua+VQJ3d0kkAjZqTRtKw1G+JxXRlf8/Kt9G4v9vnesWj2/uLPFAjw5Wsv8oUsy/LiePNfpH6K8x0MUwTB+s8ojvp3yWOV2F1ukqcl2VSfE/bZPMpy0E5vlXq4ZASTb2BFKmqbqXeRRsE+mpdChcO7fqo4Gof5V/b7gh4RubHfR5VrICbVV/398loOdU2wzW+TG4Dnv3lOqWlPtKeRB5TXAbIVgqn1crOsJMrs=;C/qBEel/ttcU5ttPxfgO9w=="
+secured: "ho06jwWa2uX47FeoTPIEGxYzHssDCD68Kmb60CMefTRUDnWXcMLKBC3tFIDoxNG0Na0o835ApnfKbROk4t2eTbAp9Soxmcq0hj4OInjKt/ugmKvwpVY2Co3dX1Hpgvd6N4TSGTFoSw8EPmacAZXM+QNdnrt13zJIuUj7XBV4QBkF1lLQKAaJM16XjFaDOnVYueUdEmq2TRVDTbtUbVhQxSX3dYsPzagOXrtk46OaeVSP/+3Pgw5huB18Ju+PmtWg1MIpNp5t9z1qFZOwPcPObheUfQOO6EY+9ovYvvlll66l1qK9tKn2NyYT6YN7TEBPd0kc66mKUzJuIkpRbLjpxfy3gAcs3EXaCXuqAvcCyAs=;BGfXsGmfE0SoToOM4FNtUQ=="
 ---
 

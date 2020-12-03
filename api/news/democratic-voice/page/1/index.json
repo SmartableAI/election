@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-03-trump-hasnt-ruled-out-firing-attorney-general-barr-sources-say.md",
-      "title": "Trump hasn't ruled out firing Attorney General Barr, sources say",
-      "excerpt": "Barr on Tuesday said the Justice Department hadn't seen any evidence of fraud that would have changed the election outcome.",
+      "path": "_news/2020-12-03-trump-and-barr-had-contentious-white-house-meeting-this-week.md",
+      "title": "Trump and Barr had 'contentious' White House meeting this week",
+      "excerpt": "President Donald Trump and Attorney General William Barr had a \"contentious,\" lengthy meeting inside the West Wing this week after Barr told The Associated Press in an interview that the Justice Department had uncovered no evidence of fraud that would change the election outcome, one person familiar",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-hasn-t-ruled-out-firing-attorney-general-barr-sources-n1249796",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-hasn-t-ruled-out-firing-attorney-general-barr-sources-n1249796",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNwL_Szchuo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNwL_Szchuo/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 155,
+      "heat": 215,
       "tags": null,
       "images": [
         {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kwe_trump_barr_pardon_investigation_201202_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201201225050-trump-barr-split-1201-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249796",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249796",
-      "publishedDateTime": "2020-12-02T19:57:00-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html",
+      "publishedDateTime": "2020-12-03T08:20:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-lawyers-say-trump-administration-has-handed-over-new-data-that-will-help-reunite-separated-migrant-families.md",
+      "title": "Lawyers say Trump administration has handed over new data that will help reunite separated migrant families",
+      "excerpt": "The ACLU's Lee Gelernt said he's often asked whether the Trump administration has helped reunite families. He said that rather than help, it has withheld data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782",
+      "originalUrl": "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2018_31/2514806/180730-tornillo-port-of-entry-toys-ac-956p_fcc586443aed0aae4a4cd4baa38b093b.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249782",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249782",
+      "publishedDateTime": "2020-12-03T02:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -38,6 +94,120 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-biden-urged-to-change-immigration-policy-to-send-more-health-workers-to-covid-hot-spots.md",
+      "title": "Biden urged to change immigration policy to send more health workers to Covid hot spots",
+      "excerpt": "Backers of the legislation think linking health worker shortages with immigration policy will resonate with the incoming administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/03/biden-immigration-policy-health-workers-442411",
+      "originalUrl": "https://www.politico.com/news/2020/12/03/biden-immigration-policy-health-workers-442411",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/8a/5f/f94fd7c34f65a2b21373e5ff3869/gettyimages-1229807401-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411",
+      "publishedDateTime": "2020-12-03T01:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-trump-hints-at-another-act-in-four-years-just-like-grover-cleveland.md",
+      "title": "Trump Hints at Another Act in Four Years, Just Like Grover Cleveland",
+      "excerpt": "The president is eying a comeback in 2024 aimed at making him the only person other than Cleveland to win another term after losing the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/02/us/politics/02dc-trump-1/02dc-trump-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html",
+      "publishedDateTime": "2020-12-02T16:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -751,7 +921,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -975,7 +1145,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 730,
+      "heat": 770,
       "tags": null,
       "images": [
         {
@@ -1313,7 +1483,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 184,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1499,174 +1669,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/27/politics/trump-pennsylvania-lawsuit-appeal/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/trump-pennsylvania-lawsuit-appeal/index.html",
       "publishedDateTime": "2020-11-27T11:57:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-trumps-continued-rhetoric-over-election-hampers-recovery-as-americans-face-heightened-economic-and-health-fears.md",
-      "title": "Trump's continued rhetoric over election hampers recovery as Americans face heightened economic and health fears",
-      "excerpt": "President Donald Trump finally confirmed Thursday that he will vacate the White House in January after weeks of plunging America into a dark period of uncertainty—where the fate of democracy sometimes seemed to be hanging by a thread—but he largely ignored the mounting challenges his successor is facing",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Kxu1a0apCTM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Kxu1a0apCTM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201126210210-trump-white-house-point-thanksgiving-1126-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/27/politics/trump-biden-coronavirus-economy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/trump-biden-coronavirus-economy/index.html",
-      "publishedDateTime": "2020-11-26T21:03:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-trump-says-hell-travel-to-georgia-to-support-republican-senate-candidates-in-runoff-election.md",
-      "title": "Trump says he'll travel to Georgia to support Republican Senate candidates in runoff election",
-      "excerpt": "President Donald Trump said Thursday he will travel to Georgia to support the state's Republican Senate candidates ahead of the January 5 runoff election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzHZPjjJvNo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzHZPjjJvNo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 279,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201126174410-01-donald-trump-white-house-1126-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html",
-      "publishedDateTime": "2020-11-26T18:11:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-joe-and-jill-biden-our-most-important-thanksgiving-tradition.md",
-      "title": "Joe and Jill Biden: Our most important Thanksgiving tradition",
-      "excerpt": "This Thanksgiving, tables throughout our country will have an empty chair.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/amUALtI6NyI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/amUALtI6NyI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201125102451-biden-family-photo-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/26/opinions/joe-jill-biden-most-important-thanksgiving-tradition/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/opinions/joe-jill-biden-most-important-thanksgiving-tradition/index.html",
-      "publishedDateTime": "2020-11-26T03:24:10-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

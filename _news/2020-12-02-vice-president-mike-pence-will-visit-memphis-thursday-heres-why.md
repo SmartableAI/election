@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.tennessean.com/amp/3786333001"
 cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3786333001"
 type: article
 quality: 75
-heat: 95
+heat: 135
 published: true
 
 provider:
@@ -40,6 +40,38 @@ related:
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/01/19/PMCA/1b4a68c8-4129-47b4-b38a-cdcce6ca6024-011920PenceLands11.jpg?auto=webp&crop=2326,1309,x0,y295&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The 901: Pence visit highlights Memphis, FedEx role in vaccine rollout"
+    excerpt: "Vice President Mike Pence is in Memphis today to discuss the daunting challenge of distributing COVID-19 vaccines to a pandemic-fatigued nation."
+    publishedDateTime: 2020-12-03T16:23:00Z
+    webUrl: "https://www.commercialappeal.com/story/news/local/the-901/2020/12/03/pence-visit-highlights-memphis-fedex-role-vaccine-rollout-901/3806558001/"
+    ampWebUrl: "https://amp.commercialappeal.com/amp/3806558001"
+    cdnAmpWebUrl: "https://amp-commercialappeal-com.cdn.ampproject.org/c/s/amp.commercialappeal.com/amp/3806558001"
+    type: article
+    provider:
+      name: Commercial Appeal
+      domain: commercialappeal.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/01/19/PMCA/6a459a43-9e15-41be-bcaa-fb1a571831c7-p5.jpg?auto=webp&crop=2393,1346,x362,y419&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Operation Warp Speed: What to know about program, focus of VP Pence's Memphis roundtable"
+    excerpt: "Operation Warp Speed's unique effort to distribute COVID-19 vaccines brought Vice President Mike Pence to Memphis to meet with FedEx and others."
+    publishedDateTime: 2020-12-03T15:59:00Z
+    webUrl: "https://www.azcentral.com/story/news/health/2020/12/03/operation-warp-speed-latest-mike-pence-memphis-fedex-tuesday/3794229001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3794229001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3794229001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/13/NLED/ede4a013-7d7c-4135-a1e8-282a45e1f428-AP20308162667798.jpg?auto=webp&crop=3975,2236,x0,y202&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

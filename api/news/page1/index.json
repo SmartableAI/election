@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-03-kennedy-democrats-some-republicans-have-their-bowels-in-an-uproar-over-trump-not-conceding.md",
+      "title": "Kennedy: Democrats, some Republicans 'have their bowels in an uproar' over Trump not conceding",
+      "excerpt": "Sen. John Kennedy, R-La., said President Trump had every right to contest the results of the 2020 election in an appearance on \"America's Newsroom.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yaRhk-AF1gY/kennedy-democrats-republicans-bowels-uproar-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yaRhk-AF1gY/kennedy-democrats-republicans-bowels-uproar-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b3666d9-d0ce-4a8a-ac95-d2970fd93791/468e9eed-4dd8-4fcf-a499-59cddc9b2507/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kennedy-democrats-republicans-bowels-uproar-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kennedy-democrats-republicans-bowels-uproar-election.amp",
+      "publishedDateTime": "2020-12-03T08:22:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-trump-and-barr-had-contentious-white-house-meeting-this-week.md",
+      "title": "Trump and Barr had 'contentious' White House meeting this week",
+      "excerpt": "President Donald Trump and Attorney General William Barr had a \"contentious,\" lengthy meeting inside the West Wing this week after Barr told The Associated Press in an interview that the Justice Department had uncovered no evidence of fraud that would change the election outcome, one person familiar",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNwL_Szchuo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNwL_Szchuo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201201225050-trump-barr-split-1201-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html",
+      "publishedDateTime": "2020-12-03T08:20:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-simply-unthinkable-law-officers-call-for-halt-to-executions-in-trumps-final-weeks.md",
       "title": "'Simply unthinkable': Law officers call for halt to executions in Trump's final weeks",
       "excerpt": "Five executions are scheduled before Biden, who opposes capital punishment, takes office. Ninety current and former law officials want them to stop.",
@@ -62,7 +174,7 @@
       "originalUrl": "https://apnews.com/article/joe-biden-al-gore-hillary-clinton-coronavirus-pandemic-bill-clinton-e2469384b1f146d798edebcbad989c36",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -149,21 +261,25 @@
       ]
     },
     {
-      "path": "_news/2020-12-03-pence-to-visit-tennessee-talk-virus-vaccines.md",
-      "title": "Pence to visit Tennessee, talk virus vaccines",
-      "excerpt": "Pence will participate in an afternoon roundtable discussion, which will include Republican Gov. Bill Lee. Tennessee health officials say the state is expecting to receive 56,550 doses of the Pfizer COVID-19 vaccine in its first allocation in mid-December.",
+      "path": "_news/2020-12-03-lawyers-say-trump-administration-has-handed-over-new-data-that-will-help-reunite-separated-migrant-families.md",
+      "title": "Lawyers say Trump administration has handed over new data that will help reunite separated migrant families",
+      "excerpt": "The ACLU's Lee Gelernt said he's often asked whether the Trump administration has helped reunite families. He said that rather than help, it has withheld data.",
       "sourceUrl": null,
-      "webUrl": "https://www.mysanantonio.com/news/article/Pence-to-visit-Tennessee-talk-virus-vaccines-15771724.php",
-      "originalUrl": "https://www.mysanantonio.com/news/article/Pence-to-visit-Tennessee-talk-virus-vaccines-15771724.php",
+      "webUrl": "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782",
+      "originalUrl": "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
+          "url": "https://media4.s-nbcnews.com/i/newscms/2018_31/2514806/180730-tornillo-port-of-entry-toys-ac-956p_fcc586443aed0aae4a4cd4baa38b093b.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -171,14 +287,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.mysanantonio.com/news/amp/Pence-to-visit-Tennessee-talk-virus-vaccines-15771724.php",
-      "cdnAmpWebUrl": "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Pence-to-visit-Tennessee-talk-virus-vaccines-15771724.php",
-      "publishedDateTime": "2020-12-03T03:42:00-08:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249782",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249782",
+      "publishedDateTime": "2020-12-03T02:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "My San Antonio",
-        "domain": "mysanantonio.com",
-        "images": null,
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -188,7 +313,8 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -249,6 +375,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-03-biden-urged-to-change-immigration-policy-to-send-more-health-workers-to-covid-hot-spots.md",
+      "title": "Biden urged to change immigration policy to send more health workers to Covid hot spots",
+      "excerpt": "Backers of the legislation think linking health worker shortages with immigration policy will resonate with the incoming administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/03/biden-immigration-policy-health-workers-442411",
+      "originalUrl": "https://www.politico.com/news/2020/12/03/biden-immigration-policy-health-workers-442411",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/8a/5f/f94fd7c34f65a2b21373e5ff3869/gettyimages-1229807401-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411",
+      "publishedDateTime": "2020-12-03T01:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat.md",
       "title": "Biden must decide on North Korea strategy early, says top Obama-era diplomat",
       "excerpt": "Kurt Campbell says the delay in acting on Pyongyang in previous Democratic administration ‘headed off any possibility of engagement’",
@@ -298,63 +481,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-trump-hasnt-ruled-out-firing-attorney-general-barr-sources-say.md",
-      "title": "Trump hasn't ruled out firing Attorney General Barr, sources say",
-      "excerpt": "Barr on Tuesday said the Justice Department hadn't seen any evidence of fraud that would have changed the election outcome.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-hasn-t-ruled-out-firing-attorney-general-barr-sources-n1249796",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-hasn-t-ruled-out-firing-attorney-general-barr-sources-n1249796",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kwe_trump_barr_pardon_investigation_201202_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249796",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249796",
-      "publishedDateTime": "2020-12-02T19:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -454,6 +580,63 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-trump-hints-at-another-act-in-four-years-just-like-grover-cleveland.md",
+      "title": "Trump Hints at Another Act in Four Years, Just Like Grover Cleveland",
+      "excerpt": "The president is eying a comeback in 2024 aimed at making him the only person other than Cleveland to win another term after losing the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/02/us/politics/02dc-trump-1/02dc-trump-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html",
+      "publishedDateTime": "2020-12-02T16:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -1178,170 +1361,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-top-pro-gop-pac-launching-new-initiative-to-counter-bidens-far-left-policies.md",
-      "title": "Top pro-GOP PAC launching new initiative to counter Biden's 'far-left policies'",
-      "excerpt": "A leading outside group that supports Republican causes is firing up a new initiative to counter what it says will be the \"far-left policies\" of President-elect Joe Biden's incoming administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp",
-      "publishedDateTime": "2020-12-02T11:22:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-biden-should-pull-off-executive-order-blitz-before-people-can-react-leftists-say.md",
-      "title": "Biden should pull off executive order 'blitz' before people can react, leftists say",
-      "excerpt": "Some on the left are suggesting President-elect Joe Biden should sign executive orders and ram through policies as soon as possible -- before the media can fully cover things and give leeway for backlash.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sE5vjCqc_UE/biden-executive-order-blitz-before-people-can-react-leftists-say",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sE5vjCqc_UE/biden-executive-order-blitz-before-people-can-react-leftists-say",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/635f9fcf-f6e4-4e59-bcbe-029944907f85/94e71967-50c7-47c3-8035-675ef3d68529/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-executive-order-blitz-before-people-can-react-leftists-say.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-order-blitz-before-people-can-react-leftists-say.amp",
-      "publishedDateTime": "2020-12-02T11:14:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy.md",
-      "title": "Wisconsin governor: Trump election lawsuit an 'assault on democracy'",
-      "excerpt": "Wisconsin Gov. Tony Evers (D) criticized President Trump’s latest lawsuit seeking to overturn the state's election results as an “assault on democracy.”",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy",
-      "originalUrl": "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/everstony_102618getty_wisconsin.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy?amp",
-      "publishedDateTime": "2020-12-02T10:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

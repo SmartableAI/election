@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/theyre-baaack-trump-and-alli
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/theyre-baaack-trump-and-allies-still-refuse-election-loss/2020/11/26/dbbfd81a-2fe6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 1460
+heat: 1480
 published: true
 
 provider:
@@ -828,6 +828,22 @@ related:
       - url: "https://i.insider.com/5fb7d98650e71a0011556726?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Republicans are abandoning Trump over his threat to hold defense bill hostage to get back at tech companies"
+    excerpt: "Lawmakers take pride in passing the annual defense spending bill, and they're not happy about Trump interfering with that."
+    publishedDateTime: 2020-12-03T15:46:00Z
+    webUrl: "https://www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5fc8fcfe50e71a0011558a89?width=1200&format=jpeg"
+        width: 799
+        height: 399
         isCached: true
   - title: "Trump moves to strip job protections from White House budget analysts as he races to transform civil service"
     excerpt: "The outgoing Trump administration is racing to enact the biggest change to the federal civil service in generations, reclassifying career employees at key agencies to strip their job protections and leave them open to being fired before Joe Biden takes office."

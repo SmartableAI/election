@@ -95,6 +95,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Explainer: Could Trump preemptively pardon his family — or even himself?"
+    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
+    publishedDateTime: 2020-12-03T16:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-pardon/explainer-could-trump-preemptively-pardon-his-family-or-even-himself-idINKBN28D1IC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28D1IC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28D1IC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543344545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "ub213suBtwR3LaUv4W50j6NojAmIQR5punmcXm6diI+XTCBuzuX/3OxSMDCEsPAvm4pEb0gawa0H+4r9ITlQCIutZZDGnQ6cPt1g+m4Pozpr7PiIv+33c5dgoh5jnKpGC8JEbTSlE7UrKwBqVMGXFPOuZBo2iewcnHKv6TW+ut1B+bNy4XBDM4x903L5xbcMt8oC99tOgGN0VFt3wOuama7XhX1jlb2TIU/BI9tBeMFyKG5d25lD90wJcaJ56XOl1qbX9L4jCZ73sxEPjGY0YX6tSCEYZlVWBNPxOBf1XMKKfJp5l1yOpX3smbNaTFYxq43zt/Kj2DHZxaqVmLmzNmOjGr6Azc75UC6K/lDK630=;ImGVBOIYIJqw8yRac4afzg=="
 ---

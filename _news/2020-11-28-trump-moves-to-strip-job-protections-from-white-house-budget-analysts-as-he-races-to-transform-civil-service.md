@@ -845,6 +845,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Republicans are abandoning Trump over his threat to hold defense bill hostage to get back at tech companies"
+    excerpt: "Lawmakers take pride in passing the annual defense spending bill, and they're not happy about Trump interfering with that."
+    publishedDateTime: 2020-12-03T15:46:00Z
+    webUrl: "https://www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5fc8fcfe50e71a0011558a89?width=1200&format=jpeg"
+        width: 799
+        height: 399
+        isCached: true
   - title: "BONUS: WHAT'S NEXT FOR TRUMP?"
     excerpt: "In this bonus episode of Up First, It's Been a Minute host Sam Sanders explores what might happen to Donald Trump after he leaves office. This episode breaks down ongoing investigations and lawsuits into Trump and his family,"
     publishedDateTime: 2020-11-22T11:50:00Z

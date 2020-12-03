@@ -2,6 +2,62 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-27-tony-bobulinski-tells-tucker-joe-biden-denials-of-involvement-in-sons-business-a-blatant-lie.md",
+      "title": "Tony Bobulinski tells Tucker: Joe Biden denials of involvement in son's business 'a blatant lie'",
+      "excerpt": "Tony Bobulinski, a former business associate of Hunter Biden, will tell \"Tucker Carlson Tonight\" in an exclusive interview Tuesday evening that Joe Biden's denials of knowledge or involvement in his son's foreign dealings are \"a blatant lie.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfF6yuNiaas/hunter-biden-tony-bobulinski-tucker-carlson-joe-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfF6yuNiaas/hunter-biden-tony-bobulinski-tucker-carlson-joe-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 262,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f296e4f1-0c2d-4e64-928c-fefce295f16f/a06107ba-74f1-4faa-8a99-80e0cc89aea4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-tony-bobulinski-tucker-carlson-joe-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-tony-bobulinski-tucker-carlson-joe-biden.amp",
+      "publishedDateTime": "2020-10-27T15:00:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-cbp-chief-warns-of-border-invasion-with-liberal-policies-reversal-of-trump-era-efforts.md",
       "title": "CBP chief warns of border 'invasion' with liberal policies, reversal of Trump-era efforts",
       "excerpt": "The United States could face an \"invasion\" that would make the recent migrant crisis seem relatively tame if President Trump's efforts are reversed, and Democratic policies incentivize illegal border crossings, Acting Customs and Border Protection Commissioner Mark Morgan told reporters on Tuesday.",
@@ -1626,63 +1682,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-gregg-jarrett-hunter-biden-laptop-scandal-even-if-joe-biden-wins-theres-no-way-out-now.md",
-      "title": "Gregg Jarrett: Hunter Biden laptop scandal — Even if Joe Biden wins, there's no way out now",
-      "excerpt": "In the Hunter Biden laptop scandal, the unresolved and trenchant questions are: how much did Joe Biden know and to what extent was he involved",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
-      "originalUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

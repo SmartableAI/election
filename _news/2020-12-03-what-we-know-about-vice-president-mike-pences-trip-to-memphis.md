@@ -43,6 +43,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The 901: Pence visit highlights Memphis, FedEx role in vaccine rollout"
+    excerpt: "Vice President Mike Pence is in Memphis today to discuss the daunting challenge of distributing COVID-19 vaccines to a pandemic-fatigued nation."
+    publishedDateTime: 2020-12-03T16:23:00Z
+    webUrl: "https://www.commercialappeal.com/story/news/local/the-901/2020/12/03/pence-visit-highlights-memphis-fedex-role-vaccine-rollout-901/3806558001/"
+    ampWebUrl: "https://amp.commercialappeal.com/amp/3806558001"
+    cdnAmpWebUrl: "https://amp-commercialappeal-com.cdn.ampproject.org/c/s/amp.commercialappeal.com/amp/3806558001"
+    type: article
+    provider:
+      name: Commercial Appeal
+      domain: commercialappeal.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/01/19/PMCA/6a459a43-9e15-41be-bcaa-fb1a571831c7-p5.jpg?auto=webp&crop=2393,1346,x362,y419&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Operation Warp Speed: What to know about program, focus of VP Pence's Memphis roundtable"
+    excerpt: "Operation Warp Speed's unique effort to distribute COVID-19 vaccines brought Vice President Mike Pence to Memphis to meet with FedEx and others."
+    publishedDateTime: 2020-12-03T15:59:00Z
+    webUrl: "https://www.azcentral.com/story/news/health/2020/12/03/operation-warp-speed-latest-mike-pence-memphis-fedex-tuesday/3794229001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3794229001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3794229001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/13/NLED/ede4a013-7d7c-4135-a1e8-282a45e1f428-AP20308162667798.jpg?auto=webp&crop=3975,2236,x0,y202&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "HKygn9r+sZvwq8vJgph3oyv734bxzKPfF6hkiLXaiYiHRzB0nOPEhALSSqlRc/D3RF+gMokSpx5L50ApvPFYpJ4bRxXdRkChMzMoxCNNle0tacZQ2KEa7XeCZjKj7tYa4Y47XcoOlHZVp7st0vOPvaKHw+jdhXzU4T2oK8dTztnxpcSwBVjJhzTP7dov/tZVVDtd/XBPOQtWQyZC44suBCiLDpsjkvZG2EwksY8S1jhqg1RQEPtpkj7INAat6Crt3q/AlWX65+4ZZ3nR++8ZMbEGM4hRSSLeVdmm3WaNcdD9TH3h3wAedG5aHzbk9k7LbogM+gvvLkk4NtIxqirnHVgvnF23DYhlL925oy4q/nRcaPLnpy6rOsCVQYqRDSPNIPgRaouq1q12z8yirQpUPyKX6tJMsCRm4Q6KPT/DJZtMnt8CVyn+MEZxrDKB7NYhd8EtNn4J7OXTdfQ4My01ug9+EaAlzigOLEOiJf9smTIvXr0kq6clVK7xdvyGqxqCM0nFhg8cm09KwaiuzOKeCA==;yLzNTsTc933Rg2InelfFsA=="
 ---

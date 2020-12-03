@@ -770,6 +770,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Border wall poses tough choices for Biden"
+    excerpt: "The incoming Biden White House will face a series of tough choices created by the outgoing Trump administration, which is still pushing forward with a frenzy of southwest border wall construction even after losing the November election."
+    publishedDateTime: 2020-12-03T16:24:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/border-wall-poses-tough-choices-biden/3808712001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0a319b81-11b1-44bc-afd9-a936d08d11c2_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
     excerpt: "Joanna Walters in New York (now) and Martin Belam (earlier) Joe Biden has just confirmed in person that Anthony Blinken will become his secretary of state. Blinken is there with other new picks. They are standing some distance from each other and are ..."
     publishedDateTime: 2020-11-24T18:13:00Z
@@ -856,6 +870,6 @@ related:
         height: 660
         isCached: true
 
-secured: "qfF1aGJHjnkjNRtdADN6yMMu55Xu9pBTHwttcEAR+VmaQcDaCeY/lLSVO7OkGZPWPumw35ciiq0GCJebN0hvLgey0KvTHn59PUfdctUwuCAnwEBfnGt0rhGYosl5QYKwwne4pjQY9aoal3u1n9kcA7N5JipFjRv48UUKimeDQtRircyRyGIkwq8E4BhWDe8FpPJfZgVZsvsJ2mW6jHmDE0J1M7+CR1+Q+W9Q74T2uojHNrhDxE2hey5FdnPHknNueSWCED/7MTfcmtyHcbvIb6lvWIIrtK6oDRQcphhGx4qdhr8q264SvHEdFJJo5Tc76VeKL706PHGe2oqtZJrdiFWcE6cf8LEywvyyRrxAo8Q=;eHEW3qTjFxXCT+ebKKFEqQ=="
+secured: "BCkSozxmKu8zxu0G0aW4Q5iBLmO6PP6M6O6fCbS+wqkc280zxTY1yqTDS1+h1gGVnKIHkuXqQ8FRV6wtKR6F19xwbE+P4ELc83fbcyQszHPX4XWoSkZziNmUmuYtdd3SR6ZqN6HQ8jQ7JjFBz7VXUgdd9OhIN477anARD5pQmpOKdCIxNyJQAfUH9MfLhl5kfDCqle8Ur0JGctHDMjfVOxUGHGjmPZwDsQ780OwmrnBJhpkoZGeyJl2FzTAWKm5hoIzLgfUL4lrzQY62PPmom5wNfVKdHsPiGiP8BF9+AcSYKgRiqbUfRMbYCas1VSUkz2L5lqoyu4L3wGabQXwGcskIgtJEsk0kawOckaY6fWkZHQJeaOQwwe8/4nprFecAE8TRP8JhCp2qGjor+SrvsuEyDctecymeNt5MUySpahypGv3XBmZ+75fFooZaEvtQKmV8pC90NcwDwSahYWArRcelXNbREaVFxa1uPk9LJSJH5FRBE71IbwVeZl1dTCmJbCBWj7hq5pVxYc6udRB/Gg==;SxPnMjc0HTCIswKNo+aTaA=="
 ---
 

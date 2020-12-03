@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump thanks Alabama congressman who says he will challenge Electoral College votes"
+    excerpt: "President Trump on Thursday thanked Alabama Republican Rep. Mo Brooks, who said he plans to challenge the Electoral College votes next month when Congress meets Jan. 6 to certify the 2020 presidential election."
+    publishedDateTime: 2020-12-03T16:51:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OOVRsnDxKKg/trump-alabama-congressman-challenge-electoral-college-votes"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-alabama-congressman-challenge-electoral-college-votes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-alabama-congressman-challenge-electoral-college-votes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump hints at 2024 presidential run in remarks at White House party"
     excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
     publishedDateTime: 2020-12-02T16:06:00Z

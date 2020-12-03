@@ -2,6 +2,63 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-24-gregg-jarrett-hunter-biden-laptop-scandal-even-if-joe-biden-wins-theres-no-way-out-now.md",
+      "title": "Gregg Jarrett: Hunter Biden laptop scandal — Even if Joe Biden wins, there's no way out now",
+      "excerpt": "In the Hunter Biden laptop scandal, the unresolved and trenchant questions are: how much did Joe Biden know and to what extent was he involved",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
+      "originalUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-lara-logan-slams-biden-for-playing-russia-card-in-response-to-hunter-biden-email-allegations.md",
       "title": "Lara Logan slams Biden for playing ‘Russia card’ in response to Hunter Biden email allegations",
       "excerpt": "2020 Democratic presidential candidate Joe Biden played the \"Russian information warfare\" card to dodge questions pertaining to his son Hunter Biden's foreign dealings, Fox Nation host Lara Logan said on Friday.",
@@ -1611,62 +1668,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-ivanka-trump-in-wisconsin-touted-fathers-pledge-to-return-jobs-to-us.md",
-      "title": "Ivanka Trump in Wisconsin touted father's pledge to return jobs to US",
-      "excerpt": "Ivanka Trump made her second visit to Wisconsin in just two weeks in an effort to drum up support for her father in a battleground state that will prove crucial to this year's election outcome. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZ_JVUxUJVg/ivanka-trump-makes-second-visit-to-wisconsin-in-two-weeks-to-appeal-to-voters-in-battleground-state",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZ_JVUxUJVg/ivanka-trump-makes-second-visit-to-wisconsin-in-two-weeks-to-appeal-to-voters-in-battleground-state",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/791c6f0a-8505-4efb-bed7-8e4b4d281a93/f53a79c0-7494-41ab-848c-939f9a336fe6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-makes-second-visit-to-wisconsin-in-two-weeks-to-appeal-to-voters-in-battleground-state.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-makes-second-visit-to-wisconsin-in-two-weeks-to-appeal-to-voters-in-battleground-state.amp",
-      "publishedDateTime": "2020-10-20T18:03:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

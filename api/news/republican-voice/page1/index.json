@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-03-kennedy-democrats-some-republicans-have-their-bowels-in-an-uproar-over-trump-not-conceding.md",
+      "title": "Kennedy: Democrats, some Republicans 'have their bowels in an uproar' over Trump not conceding",
+      "excerpt": "Sen. John Kennedy, R-La., said President Trump had every right to contest the results of the 2020 election in an appearance on \"America's Newsroom.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yaRhk-AF1gY/kennedy-democrats-republicans-bowels-uproar-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yaRhk-AF1gY/kennedy-democrats-republicans-bowels-uproar-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b3666d9-d0ce-4a8a-ac95-d2970fd93791/468e9eed-4dd8-4fcf-a499-59cddc9b2507/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kennedy-democrats-republicans-bowels-uproar-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kennedy-democrats-republicans-bowels-uproar-election.amp",
+      "publishedDateTime": "2020-12-03T08:22:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-trump-lays-out-election-fraud-case-in-online-video-bad-things-happened.md",
       "title": "Trump lays out election-fraud case in online video: 'Bad things happened'",
       "excerpt": "Trump says if he's right about election fraud, 'Biden can't be president' President Trump is once again charging that last month’s presidential election was rigged and rife with fraud. In an address posted on his Twitter and Facebook pages that the president described as possibly “the most important speech,",
@@ -744,7 +800,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1604,62 +1660,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-cabinet-pick-hyped-dossier-promoted-conspiracy-russian.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-pick-hyped-dossier-promoted-conspiracy-russian.amp",
       "publishedDateTime": "2020-11-30T14:03:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland.md",
-      "title": "Biden will try to revitalize 'smoke and mirrors' Iran deal: KT McFarland",
-      "excerpt": "The Biden administration will \"try to revitalize\" the 2015 Iran nuclear deal, former Deputy National Security Adviser K.T. McFarland predicted Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sk7kP4n7r70/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sk7kP4n7r70/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland.amp",
-      "publishedDateTime": "2020-11-30T13:58:42-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

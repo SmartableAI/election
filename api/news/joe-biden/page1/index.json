@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-03-biden-urged-to-change-immigration-policy-to-send-more-health-workers-to-covid-hot-spots.md",
+      "title": "Biden urged to change immigration policy to send more health workers to Covid hot spots",
+      "excerpt": "Backers of the legislation think linking health worker shortages with immigration policy will resonate with the incoming administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/03/biden-immigration-policy-health-workers-442411",
+      "originalUrl": "https://www.politico.com/news/2020/12/03/biden-immigration-policy-health-workers-442411",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/8a/5f/f94fd7c34f65a2b21373e5ff3869/gettyimages-1229807401-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411",
+      "publishedDateTime": "2020-12-03T01:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat.md",
       "title": "Biden must decide on North Korea strategy early, says top Obama-era diplomat",
       "excerpt": "Kurt Campbell says the delay in acting on Pyongyang in previous Democratic administration ‘headed off any possibility of engagement’",
@@ -270,7 +327,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1610,
+      "heat": 1670,
       "tags": null,
       "images": [
         {
@@ -323,7 +380,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1200,
+      "heat": 1220,
       "tags": null,
       "images": [
         {
@@ -1543,59 +1600,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-election-2020-live-updates-gop-colleagues-congratulate-harris-biden-speaks-to-netanyahu.md",
-      "title": "Election 2020 live updates: GOP colleagues congratulate Harris; Biden speaks to Netanyahu",
-      "excerpt": "President-elect Joe Biden on Tuesday spoke to Israeli Prime Minister Benjamin Netanyahu and Indian Prime Minister Narendra Modi.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1096,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/17/USAT/6faee755-39e7-4911-98f5-3cb6b492439b-AP20322710440298.jpg?auto=webp&crop=5999,3374,x1,y364&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6321470002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6321470002",
-      "publishedDateTime": "2020-11-17T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
       ]
     }
   ],

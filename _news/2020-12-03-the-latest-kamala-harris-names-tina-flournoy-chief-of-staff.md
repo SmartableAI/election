@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/article/joe-biden-al-gore-hillary-clinton-coron
 webUrl: "https://apnews.com/article/joe-biden-al-gore-hillary-clinton-coronavirus-pandemic-bill-clinton-e2469384b1f146d798edebcbad989c36"
 type: article
 quality: 105
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris Taps Ex-Diplomat to Be Her National Security Advisor"
+    excerpt: "Nancy McEldowney is one of several former senior foreign service officers expected to join the senior ranks of the new U.S. administration."
+    publishedDateTime: 2020-12-03T16:23:00Z
+    webUrl: "https://foreignpolicy.com/2020/12/03/kamala-harris-taps-ex-diplomat-to-be-national-security-adviser-biden-transition-foreign-policy-team/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 105
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2020/12/Harris-National-Security-Team-Biden-Transition.jpg?w=1000"
+        width: 1000
+        height: 723
+        isCached: true
   - title: "What Did Kamala Harris Say On Twitter That’s Causing A Stir?"
     excerpt: "A fact-check from The Washington Post found most of those arrested during summer protests in Minnesota didn’t have to pay a cash bail."
     publishedDateTime: 2020-11-30T16:18:00Z
@@ -94,6 +108,6 @@ related:
       domain: omaha.com
     quality: 35
 
-secured: "C5qTd6kRiPn3tjDZf9iAv62hqDqqSsTa6oQYNpTNjLkhhWESqUzRSLsnMeQnZm3qLMz/ErR26y7hoHWFA1EAkemn59Qk4oOfWqCeIdD1WUcilc2EwuZESQSbyIO57B97vwI4e3d71uXbE40RLpdhBtnKsnLAlHfQ9mRK4HKSfmvfpNO/6G8sLP2ObZQHbhYmG3tRdYVU77x/OaBL/l+cAcAD2rPJf6Po4X1nkPPcEfHtaS2SPg5WUSMdWc8SelicJZre1vD5qJSB/qbjhgGOcRBF52ZgFbAs57awLU1bf8Xdiu/oBD9lgmpGNUvPJmZ6m5y1K9iWz41x4WcrmPVCdFXTV1T4vz0eZ7gqphLLQAQ=;BR0SjpXSCiymxlXpCrs+aA=="
+secured: "p/sNaK0COG+OtGs3gFgt45Eugaap4OCkb+ONbocwFfT4USzEggpP+SKVRaI1vnsfbBVlXBrLO6TVs39Z2uDQgRNFjBPM2fO2IB60Iupt1iRwJWDF+nJI8O/9eDJ6axemjsxHPMwn7hLqAhzi0YrBQCDI/AAJYi/SHnyMnvXZHTGx7eHRQ9JUQm9zLePZj4JzdUQxna8vbW00m4i4IKd5m1HGSwjEdrz2E6xiJWggRCK6Q9EBl+X4M9SvPIqA/mJ96kysXBH7kSYIJxNHDobPTYHlb1Heagzt/NiT01znayoXp5+tXDIukq8DWSxRNEZku2WbeTw1mZFbZ/kErlQSiqZGhU4dxLUujFDzvZYTysX8W4kyM6t5UoJQ482/ROQmuoGwy4oWP0PUPiZZPJgzTo5ovvsFUilQIS/L5Cl9Gn8nLQWE3+SzpvApQIfkCGztwzmOyARL3TmtVYV09Q92siRU98RXlVVbYbg2wxKNBvUbWMG6fXfTNamc4QhpVJCuh11YZO34TTugednTq1aMrQ==;YYhF+uRDcrUcogSUtd8K1w=="
 ---
 

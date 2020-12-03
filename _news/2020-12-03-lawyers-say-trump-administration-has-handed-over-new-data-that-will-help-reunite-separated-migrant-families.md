@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249782"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249782"
 type: article
 quality: 117
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: NBC News
@@ -30,24 +30,6 @@ images:
     width: 2500
     height: 1667
     isCached: true
-
-related:
-  - title: "Trump hasn't ruled out firing Attorney General Barr, sources say"
-    excerpt: "Barr on Tuesday said the Justice Department hadn't seen any evidence of fraud that would have changed the election outcome."
-    publishedDateTime: 2020-12-03T03:57:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-hasn-t-ruled-out-firing-attorney-general-barr-sources-n1249796"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249796"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249796"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kwe_trump_barr_pardon_investigation_201202_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "ysROvjkX5gtKKGR7TskX9VMX0qBpn9CY/bccrAS8dej+Tp7UAbopq3hlcabEhlh3MIOc3Jmi5ejYf4dp5tHtcmWylStbB5oiHA35Syd0615qlq2Km3d4kEpxjiUOl2F2Ns64NAHJYuoKxoeN9hdxTSbQ7o8b+B6vjKTBwEipd6lC8ksnIDK3SJ4d/3NvZJCrUZ3iUPaeACU1XKG3ZB8DJxOA7KgNfhFW5yGMgXZIG6SyGLsouqn7T+IwhNbkbd9e1Tja3WwSdqhlHjR4DFFijQm7BPI82VRwGwbAQNeFb1kRro1eVkRj2e64VnCObKMlaY8qqwzNWCOtw0RmUgo0ilhCGQfnXPGXOoYyJSd9ZW0=;sjgwuFQepo5wASVcAOHSMg=="
 ---

@@ -192,6 +192,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Obama joining Georgia Dems in virtual rally Friday before Trump heads to state Saturday in critical runoffs"
+    excerpt: "Former President Barack Obama will join Georgia Democratic Senate candidates Jon Ossoff and Raphael Warnock for a virtual rally Friday as the two U.S. Senate runoffs are little more than one month away and the control of the upper chamber hangs in the balance."
+    publishedDateTime: 2020-12-03T15:07:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FI8-IqUkbvc/obama-joining-georgia-senate-candidate-warnock-ossoff-in-virtual-rally-friday-trump-heads-to-state-saturday"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-joining-georgia-senate-candidate-warnock-ossoff-in-virtual-rally-friday-trump-heads-to-state-saturday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-joining-georgia-senate-candidate-warnock-ossoff-in-virtual-rally-friday-trump-heads-to-state-saturday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Frustrated Trump Voters in Rural Georgia Look to Runoff Elections"
     excerpt: "In the small city of Nashville, Ga., many Trump supporters are angered and emboldened by the president’s apparent loss in their state. Engaging rural voters is critical for Republicans, and conservative political groups have ramped up their efforts to turn out these rural voters."
     publishedDateTime: 2020-11-17T20:17:00Z

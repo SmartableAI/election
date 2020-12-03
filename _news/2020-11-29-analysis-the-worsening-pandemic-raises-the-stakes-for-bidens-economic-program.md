@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fauci expected to meet with Biden transition team Thursday "
+    excerpt: "Dr. Anthony Fauci confirmed to CNN that he will meet virtually with President-elect Joe Biden's transition team on Thursday afternoon about the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2020-12-03T16:18:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqZS8NDWNQU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/anthony-fauci-biden-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/anthony-fauci-biden-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200512102610-01-fauci-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to name diverse economic team, with three women in top roles to help build recovery"
     excerpt: "President-elect Joe Biden is set to formally name key members of his economic team on Monday, with the long-expected announcement of Janet Yellen as Treasury Secretary, CNN has learned, along with two other women in top roles to help him navigate the nation's punishing fiscal headwinds in hopes of building"
     publishedDateTime: 2020-11-30T15:52:44Z

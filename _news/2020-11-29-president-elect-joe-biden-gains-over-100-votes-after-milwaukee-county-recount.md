@@ -782,6 +782,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Border wall poses tough choices for Biden"
+    excerpt: "The incoming Biden White House will face a series of tough choices created by the outgoing Trump administration, which is still pushing forward with a frenzy of southwest border wall construction even after losing the November election."
+    publishedDateTime: 2020-12-03T16:24:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/border-wall-poses-tough-choices-biden/3808712001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0a319b81-11b1-44bc-afd9-a936d08d11c2_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
     excerpt: "Joanna Walters in New York (now) and Martin Belam (earlier) Joe Biden has just confirmed in person that Anthony Blinken will become his secretary of state. Blinken is there with other new picks. They are standing some distance from each other and are ..."
     publishedDateTime: 2020-11-24T18:13:00Z

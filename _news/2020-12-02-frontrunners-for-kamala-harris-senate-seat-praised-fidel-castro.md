@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris' brother-in-law floated for attorney general"
-    excerpt: "Vice President-elect Kamala Harris’ brother-in-law has been brought up as a potential nominee for U.S. attorney general in the forthcoming Biden administration, according to reports."
-    publishedDateTime: 2020-12-03T10:52:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5OSXlaluMJY/kamala-harris-brother-in-law-floated-for-attorney-general"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c997284-a2ad-47fe-8a05-dd9d47ff0bf6/bed80447-4fdb-48ff-a8f2-52976986e621/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Kamala Harris slammed for tweet sucking up to small businesses after bailing out rioters"
     excerpt: "Vice President-elect Kamala Harris was widely slammed on Twitter this weekend for committing to helping small businesses affected by the pandemic despite having openly supported protesters at the height of social unrest over the summer."
     publishedDateTime: 2020-11-29T21:59:24Z
@@ -93,6 +77,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/baca0106-fa11-4958-9df4-8d5684ec8d7e/7b374ffc-1fed-489a-a9d0-35e01149fa7a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris' brother-in-law floated for attorney general"
+    excerpt: "Vice President-elect Kamala Harris’ brother-in-law has been brought up as a potential nominee for U.S. attorney general in the forthcoming Biden administration, according to reports."
+    publishedDateTime: 2020-12-03T11:06:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c997284-a2ad-47fe-8a05-dd9d47ff0bf6/bed80447-4fdb-48ff-a8f2-52976986e621/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

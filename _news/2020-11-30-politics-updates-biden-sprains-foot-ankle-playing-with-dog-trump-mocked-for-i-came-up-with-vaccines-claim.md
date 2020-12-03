@@ -653,6 +653,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "The Latest: Biden gives dire virus warning for next 2 months"
+    excerpt: "President-elect Joe Biden has issued a dire warning about the spread of the coronavirus over the next two months, predicting as many as 250,000 deaths"
+    publishedDateTime: 2020-12-02T23:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-immediately-lift-china-tariffs-74502140"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-immediately-lift-china-tariffs-74502140"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-immediately-lift-china-tariffs-74502140"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_023ecb7890ac49878a685821011d8798_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
     excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
     publishedDateTime: 2020-11-29T22:12:00Z
@@ -713,6 +729,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543273411&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB2035"
         width: 817
+        height: 545
+        isCached: true
+  - title: "White House coronavirus adviser Fauci to meet with Biden transition team: CNN"
+    excerpt: "White House coronavirus task force member Anthony Fauci will meet with members of President-elect Joe Biden's team on Thursday after President Donald Trump's administration delayed the transition process for weeks amid a coronavirus surge."
+    publishedDateTime: 2020-12-03T15:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/white-house-coronavirus-adviser-fauci-to-meet-with-biden-transition-team-cnn-idUSL1N2IJ17Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D26U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D26U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543343689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB219D"
+        width: 846
         height: 545
         isCached: true
   - title: "Eye Opener: Trump, Biden address Americans on Thanksgiving"
@@ -1051,6 +1083,20 @@ related:
       - url: "https://i.insider.com/5fc15ac350e71a0011557bb3?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Ivanka Trump Deposed In Inauguration Fund Lawsuit"
+    excerpt: "President Trump's eldest daughter gave a deposition this week in connection with the suit, being heard in a Washington, D.C. court. She condemned the investigation on Twitter."
+    publishedDateTime: 2020-12-03T15:26:00Z
+    webUrl: "https://www.npr.org/2020/12/03/942054569/ivanka-trump-deposed-in-inauguration-fund-lawsuit"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/03/ap_20301833488219_wide-7c4d6471270d895c2cdd40e0ba918e8e36ce43d9.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "The Biden Cabinet: President-elect begins to build a team"
     excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the United States' diversity."

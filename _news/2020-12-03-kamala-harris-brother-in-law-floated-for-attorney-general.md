@@ -2,13 +2,13 @@
 category: news
 title: "Kamala Harris' brother-in-law floated for attorney general"
 excerpt: "Vice President-elect Kamala Harris’ brother-in-law has been brought up as a potential nominee for U.S. attorney general in the forthcoming Biden administration, according to reports."
-publishedDateTime: 2020-12-03T10:52:23Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5OSXlaluMJY/kamala-harris-brother-in-law-floated-for-attorney-general"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5OSXlaluMJY/kamala-harris-brother-in-law-floated-for-attorney-general"
+publishedDateTime: 2020-12-03T11:06:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general.amp"
 type: article
-quality: 185
+quality: 135
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c997284-a2ad-47fe-8a05-dd9d47ff0bf6/bed80447-4fdb-48ff-a8f2-52976986e621/1280x720/match/image.jpg"
@@ -129,6 +129,6 @@ related:
         height: 320
         isCached: true
 
-secured: "Xbb0VKOAWb+8tqDhw0H4PFGQCHh3Jj1cbMJX0WnJHSCSArvIFQ9wDg2E65qS6G/UkT+pR2gUQjo5BGGxLOspkU2/0wY8dVVcc4BGW9yEcEcv4WHPj+vur/guZTjEZ+RPuzBiMCoMv3vF0ynsrSK2ikyZK3IEGIRz95/r3UN+V07yeqVVjt1oIzXMGs31U/tzV75XUrkcETicYxZ4yRosJ8x4sr5uaQyu4wG8WrhPt8yyh6hMlUAbLCZC+uxhgSA92uYoGjYbCktiVK1vJ/EEZuBDoSnbAjlFZNucht4LNxp1665ssRyc5A9WW/wo5qvHambYfPKFpfHHu1+/VymBm3oqSvn/K3zEQ2udZHJ218I=;0zfYF5S4V/y+r401Kin0cw=="
+secured: "sseax9EYzn7S4f1K+Q5oPyLyTMPkaSQqRKrwrRBHfnueTxbkOyauttubZwaCPBlsaJo309miCwcI6DjxyUIFHKnC9MTcDbZCr//sbngY3bRuRW/ZTaJj+sFZq7OGDiShAEGGyqucfUDFtcwJPZlLYR4cOT25fi/ii0i/XH/H/EHJ5gEwrvSMwdSjMsETkPGKKC4HQPHmgb/Qkyr3XyR1mazP4URbQF1O0K8fRx0sqroK7CLWBHdc40r3HPyji4nzo1bLykyKNeioZgXI7MfV1nZbsVrNCZR8DIUeR7qJA70I07AX+ZokVeGsMIF9mTAJIJxuoHzxtgXc/vaGt0JwjcByKeVsJkI5g8ZRaTWQrTc=;G79KiBD0ap1cA0GJ30PxBg=="
 ---
 

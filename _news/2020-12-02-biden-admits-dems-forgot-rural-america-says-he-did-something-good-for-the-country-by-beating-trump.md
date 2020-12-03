@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-democrats-forgot-rural-americ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joey Jones blasts the politicization of the American flag during Trump presidency"
+    excerpt: "Fox News contributor Joey Jones on Thursday blasted the politicization of the American flag during President Trump’s term in office."
+    publishedDateTime: 2020-12-03T16:45:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3N4_V-Ux3Ro/joey-jones-blasts-politicization-american-flag"
+    ampWebUrl: "https://www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Mattis did not disclose consultant role in column denouncing Trump's 'America First' policy"
     excerpt: "The column did not reference the retired four-star general’s work with the Cohen Group, an international business advisory firm active in China."
     publishedDateTime: 2020-11-27T22:00:59Z

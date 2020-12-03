@@ -33,6 +33,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Kamala Harris Taps Ex-Diplomat to Be Her National Security Advisor"
+    excerpt: "Nancy McEldowney is one of several former senior foreign service officers expected to join the senior ranks of the new U.S. administration."
+    publishedDateTime: 2020-12-03T16:23:00Z
+    webUrl: "https://foreignpolicy.com/2020/12/03/kamala-harris-taps-ex-diplomat-to-be-national-security-adviser-biden-transition-foreign-policy-team/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 105
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2020/12/Harris-National-Security-Team-Biden-Transition.jpg?w=1000"
+        width: 1000
+        height: 723
+        isCached: true
   - title: "What Did Kamala Harris Say On Twitter That’s Causing A Stir?"
     excerpt: "A fact-check from The Washington Post found most of those arrested during summer protests in Minnesota didn’t have to pay a cash bail."
     publishedDateTime: 2020-11-30T16:18:00Z

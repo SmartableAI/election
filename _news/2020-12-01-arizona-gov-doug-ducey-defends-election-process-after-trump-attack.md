@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/doug-ducey-defends-elect
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/doug-ducey-defends-election-arizona-trump/index.html"
 type: article
 quality: 190
-heat: 730
+heat: 770
 published: true
 
 provider:
@@ -333,6 +333,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Here’s Why 74 Million Voted for Trump"
+    excerpt: "Readers’ analyses of the reasons include that voters liked his policies, if not the man; a Democratic failure to communicate a vision; and racist dog whistles."
+    publishedDateTime: 2020-12-03T15:24:00Z
+    webUrl: "https://www.nytimes.com/2020/12/03/opinion/letters/trump-voters.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/03/opinion/letters/trump-voters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/opinion/letters/trump-voters.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/27/opinion/27wilkinsonWeb/27wilkinsonWeb-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Top Trump allies look ahead to a new administration."
     excerpt: "Entering December, with fewer than 50 days left until Inauguration Day, several of President Trump’s closest allies on Tuesday began signaling a reluctance to continue participating in the president’s broadsides on the election."
     publishedDateTime: 2020-12-02T18:13:00Z
@@ -428,6 +444,20 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_49/3432697/201202-donald-trump-jm-1425_2cb3f4930252baaa899e0b9669eafb1c.jpg"
         width: 2500
         height: 1567
+        isCached: true
+  - title: "Section 230 threats escalate in final stretch of Trump presidency"
+    excerpt: "The president’s threat to veto a high-stakes defense bill over his Section 230 objections has been shot down by Congress. But a separate push to weaken the liability shield is expected to soon get a Senate Judiciary vote."
+    publishedDateTime: 2020-12-03T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/12/03/section-230-threats-escalate-in-final-stretch-of-trump-presidency-792013"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Trump and Congress set for one more showdown"
     excerpt: "In the waning weeks of his presidency, Donald Trump has decided to pick a fight with Congress — and members of his own party — over a national defense policy bill that includes money for the troops. On two separate occasions,"

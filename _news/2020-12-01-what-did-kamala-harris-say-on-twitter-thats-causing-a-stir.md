@@ -45,6 +45,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Kamala Harris Taps Ex-Diplomat to Be Her National Security Advisor"
+    excerpt: "Nancy McEldowney is one of several former senior foreign service officers expected to join the senior ranks of the new U.S. administration."
+    publishedDateTime: 2020-12-03T16:23:00Z
+    webUrl: "https://foreignpolicy.com/2020/12/03/kamala-harris-taps-ex-diplomat-to-be-national-security-adviser-biden-transition-foreign-policy-team/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 105
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2020/12/Harris-National-Security-Team-Biden-Transition.jpg?w=1000"
+        width: 1000
+        height: 723
+        isCached: true
   - title: "Omaha's Symone Sanders will be chief spokeswoman for VP-elect Kamala Harris"
     excerpt: "Symone Sanders is a graduate of Mercy High and Creighton University; her mother is publisher of the Omaha Star."
     publishedDateTime: 2020-11-29T23:29:00Z

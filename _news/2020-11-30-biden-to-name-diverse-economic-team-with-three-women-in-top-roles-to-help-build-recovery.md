@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fauci expected to meet with Biden transition team Thursday "
+    excerpt: "Dr. Anthony Fauci confirmed to CNN that he will meet virtually with President-elect Joe Biden's transition team on Thursday afternoon about the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2020-12-03T16:18:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqZS8NDWNQU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/anthony-fauci-biden-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/anthony-fauci-biden-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200512102610-01-fauci-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: The worsening pandemic raises the stakes for Biden's economic program"
     excerpt: "Sitting in an Iowa diner a year ago, candidate Joe Biden aimed his economic agenda at the widening gap between America's rich and everyone else.\n    \n"
     publishedDateTime: 2020-11-29T14:15:35Z
