@@ -334,6 +334,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump looms over Georgia's high-stakes Senate races, worrying Republicans"
+    excerpt: "The president is scheduled to hold a rally in the state Saturday after spending weeks attacking GOP elected officials."
+    publishedDateTime: 2020-12-02T23:50:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-looms-over-georgia-s-high-stakes-senate-races-worrying-n1249686"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249686"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249686"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432132/201201-donald-trump-al-0936_acd19401dfb6bd30ec39486989bdb51f.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
 
 secured: "mJqucR83s4MYW9tlbOnXh0E745Ma2v0MW+OLvcqtGbwo/gNVVdyM3S6dYtWIedeAxgLCatDFesfPi0WdtCLUIvj4S81S2OIG6yaPETc1cVuq6riac7zsHu9dl/9+IlwPOtuvkW5LIbw45t0qRxX/fHGq3v8qEBjHtJUHeLHtudeSC7t1Ci7F3UjjP5gjUT+xikKaaOlkeOzeDd0s5aR6xeHXcqz4tVduj0jf4w5PzJj+hI0fWtzPYf8rRgMby1vPZlHAgf3FUfxtYoQmvds0REkYlSw5DW+AJHPxgN/GngKPrj4NrEwLzg81zfqMwQCuxhob9R2Dv3xwkeoTw2wLeNSp8DPMSepBNf1VSQZT8KY=;wGkCcozS6FczColIkyCTIw=="
 ---

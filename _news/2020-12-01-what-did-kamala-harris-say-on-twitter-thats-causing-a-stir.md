@@ -61,6 +61,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Feinstein picks Padilla in jockeying for Harris' Senate seat"
+    excerpt: "Sen. Dianne Feinstein has picked a favorite in the fight to replace Vice President-elect Kamala Harris as California's junior senator: Secretary of State Alex Padilla."
+    publishedDateTime: 2020-12-03T00:53:00Z
+    webUrl: "https://omaha.com/news/national/feinstein-picks-padilla-in-jockeying-for-harris-senate-seat/article_fc1290f1-795e-51e8-88fe-b6d9ad172a75.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Omaha native will be chief spokeswoman for Harris"
     excerpt: "Omaha native Symone Sanders will serve as chief spokeswoman for Vice President-elect Kamala Harris. President-elect Joe Biden announced Sanders' role on his history-making communications team Sunday."
     publishedDateTime: 2020-11-30T18:41:00Z

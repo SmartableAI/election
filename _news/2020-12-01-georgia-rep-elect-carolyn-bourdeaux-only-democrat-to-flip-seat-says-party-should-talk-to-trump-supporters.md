@@ -95,6 +95,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pro-Trump attorneys Sidney Powell, Lin Wood urge Georgians not to vote in Senate runoffs without changes"
+    excerpt: "Powell and Wood are not working for the Trump campaign in an official capacity."
+    publishedDateTime: 2020-12-02T23:55:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bYYQ6L3byYI/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pro-Trump attorneys Sidney Powell, Lin Wood urge Georgians not to vote in Senate runoffs without changes"
+    excerpt: "Trump attorneys Sidney Powell and L. Lin Wood urged Georgians not to participate in a runoff vote that will determine control of the Senate in January until state officials address unsubstantiated claims that President-elect Joe Biden won the White House through voter fraud."
+    publishedDateTime: 2020-12-03T00:11:00Z
+    webUrl: "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "eJCfx9TY6y2OgXCqm0jjncuOlIIdV3J93/jWYOm8jvUJQ9fWlNItnGcjwz2kj5ihSWZ5xD4ws1cMCWkoDyOPjvFeUs7PyaInVoyTSGBXBRWqpA8M9pCS4bM05HDmXwSybJsXuZAgs9becXT03beOZcLYwFK0CC6G7ZurGaI7ZgwkNFmvpBe18P+ydb/TxAw9+J3KkGjMYiwAhRmnxeq+Q1nEIkfhh8yvMMtXE2QCSqH8q/GAlNqZA2VF86RkfXQ6DpbKQPU2megAmwsZZHSQxmFhmON5kqIolCxr5BcFQQl7vqY4rB5zg2Spos5c4SIHMcv8X48R1P268OmreDvGB74bV5TguZlHYQSISLdWLi8=;flUnUmJCTBZCOazhoC0VqA=="
 ---

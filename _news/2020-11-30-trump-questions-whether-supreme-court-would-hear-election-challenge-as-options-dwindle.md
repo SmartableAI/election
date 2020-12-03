@@ -193,8 +193,8 @@ related:
         isCached: true
   - title: "Trump hints at 2024 run, Biden to meet with U.S. workers hit by pandemic"
     excerpt: "Donald Trump hinted he may be ready to move on to planning another run for the U.S. presidency in 2024 as President-elect Joe Biden prepared on Wednesday to confront the raging pandemic that will likely be his first major challenge in office."
-    publishedDateTime: 2020-12-02T18:58:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden/trump-hints-at-2024-run-biden-to-meet-with-u-s-workers-hit-by-pandemic-idUSKBN28C1GM"
+    publishedDateTime: 2020-12-02T23:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN28C1GM"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C1GM"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C1GM"
     type: article
@@ -203,7 +203,7 @@ related:
       domain: reuters.com
     quality: 139
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543212941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB10R3"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK"
         width: 817
         height: 545
         isCached: true
@@ -571,6 +571,38 @@ related:
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542985386&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01VA"
         width: 817
+        height: 545
+        isCached: true
+  - title: "The Latest: Biden gives dire virus warning for next 2 months"
+    excerpt: "President-elect Joe Biden has issued a dire warning about the spread of the coronavirus over the next two months, predicting as many as 250,000 deaths"
+    publishedDateTime: 2020-12-02T14:31:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "The Biden Cabinet: President-elect begins to build a team"
+    excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the United States' diversity."
+    publishedDateTime: 2020-12-02T22:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-idINKBN28C2SK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C2SK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C2SK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543228358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11JB"
+        width: 738
         height: 545
         isCached: true
   - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
@@ -944,17 +976,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The Biden Cabinet: President-elect begins to build a team"
-    excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the United States' diversity."
-    publishedDateTime: 2020-12-02T17:46:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet/the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG216"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IG216"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IG216"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "President-Elect Joe Biden Hits 80 Million Votes In Year Of Record Turnout"
     excerpt: "The 2020 presidential election saw the most votes in U.S. history at 156 million and counting, and the highest participation rate since 1900."
     publishedDateTime: 2020-11-25T13:06:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/milwaukee-county-certifi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/milwaukee-county-certifies-election-result/index.html"
 type: article
 quality: 182
-heat: 262
+heat: 282
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 135
     images:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/mtp_full_panel_201129_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump repeats baseless voter fraud claims after Barr says no evidence"
+    excerpt: "President Trump repeated his unsubstantiated claims of widespread voter fraud in a 46 minute video shot by the White House without press in the room. It comes one day after Attorney General Barr told the Associated Press he has “not seen fraud” on a scale that could have changed the election outcome."
+    publishedDateTime: 2020-12-03T00:29:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-repeats-baseless-voter-fraud-claims-after-barr-says-no-evidence-97021509542"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97021509542"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97021509542"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kwe_trump_barr_pardon_investigation_201202_1920x1080.jpg"
         width: 1920
         height: 1080
         isCached: true

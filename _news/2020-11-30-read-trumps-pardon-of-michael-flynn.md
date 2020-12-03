@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/flynn-pardon-read-file/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/flynn-pardon-read-file/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170114094510-trump-flynn-campaign-trail-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "No, Barr was not part of a secret plot against President Trump."
+    excerpt: "After the attorney general said the Justice Department had not found voter fraud, pro-Trump personalities accused Mr. Barr of being part of a nefarious scheme against the president."
+    publishedDateTime: 2020-12-03T00:52:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/technology/no-barr-was-not-part-of-a-secret-plot-against-president-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/technology/no-barr-was-not-part-of-a-secret-plot-against-president-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/technology/no-barr-was-not-part-of-a-secret-plot-against-president-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02distortions-brief-barr/02distortions-brief-barr-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump Has Discussed With Advisers Pardons for His 3 Eldest Children and Giuliani"
     excerpt: "Rudolph W. Giuliani, who is promoting baseless claims of widespread election fraud, talked about a pardon with President Trump as recently as last week."

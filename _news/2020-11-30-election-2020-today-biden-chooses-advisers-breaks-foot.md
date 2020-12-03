@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-biden-ch
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 1020
+heat: 1060
 published: true
 
 provider:
@@ -415,6 +415,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Biden to meet with U.S. workers hit by pandemic, says Congress must act"
+    excerpt: "President-elect Joe Biden will talk with workers and business owners on Wednesday about how the coronavirus has affected them as he prepares to confront his highest priority on taking office: the resurgent pandemic in the United States."
+    publishedDateTime: 2020-12-02T20:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-workers-idINKBN28C1GM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1GM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1GM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Klain brings decades of DC experience to Biden White House"
     excerpt: "Ron Klain has checked all the boxes of a classic Washington striver: Georgetown, Harvard Law, Supreme Court and Capitol Hill staffer, White House adviser and, along the way, of course, lobbyist and la"
     publishedDateTime: 2020-12-02T16:55:05Z
@@ -627,6 +643,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/0ea21f1c-a0a4-477a-be43-069126ee14c8-biden_economics_team.jpg?auto=webp&crop=7462,4198,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden pledges help for workers hit hard by COVID"
+    excerpt: "President-elect Joe Biden met virtually with Americans who have been hard-hit economically by the coronavirus pandemic, promising help is on the way. He also urged Congress to pass a stimulus bill now as a \"down payment\" before he takes office."
+    publishedDateTime: 2020-12-03T00:26:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/biden-pledges-help-workers-hit-hard-covid/3803349001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/eeaaf938-b5ac-4ab2-906e-68396cf80859_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
     excerpt: "Joanna Walters in New York (now) and Martin Belam (earlier) Joe Biden has just confirmed in person that Anthony Blinken will become his secretary of state. Blinken is there with other new picks. They are standing some distance from each other and are ..."

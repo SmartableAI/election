@@ -814,6 +814,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "The Conspiracy Theory That Could Hand Joe Biden the Senate"
+    excerpt: "There is no evidence that Lin Wood and Sidney Powell are secretly working for the Democratic National Committee, but no one has definitively disproved it, either."
+    publishedDateTime: 2020-12-03T00:40:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/12/02/the-conspiracy-theory-that-could-hand-joe-biden-the-senate-442415"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/12/02/the-conspiracy-theory-that-could-hand-joe-biden-the-senate-442415"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/02/the-conspiracy-theory-that-could-hand-joe-biden-the-senate-442415"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d4/b5/350ecf5f4e6fabd263f51e3804d2/gettyimages-1229684243-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Transition Gets Underway in Earnest as Biden Team Fans Out Across Capital"
     excerpt: "Within hours of the Trump administration’s decision to stop blocking the process, representatives of the president-elect began coordinating the handover of power."
     publishedDateTime: 2020-11-25T00:44:00Z
@@ -909,6 +925,6 @@ related:
         height: 629
         isCached: true
 
-secured: "PsNnKA2WUvkIcxJaDUET+XyYyAzr/4GI8TtU97Vx36x9LHQEne9eErO+1HlgsWC6b5aOQmxCy+oN655DRl2kvyltEmwWd50hpLqZLCRZjnI51RfiW+MOKNsm91BkGq/o/Z6yEK25Ps7BfDzt/G7PasB4aFwOF7zBUAZDO5ykSCbBEB4BHf7S0rdDJ1pxcvZ6nepdkuEUSJxYX9N3PFUi2H4cl0JXuSPC0nYvIPTFFjZ4lfdxPAOSXFZGR0GL5rLtdzBI5xiJBXlORJlJZX54BW10rs+x7wYpRfc5wL2U74NYHlj8W4S+EWZ9AYABUFruYSWmf001XIwlxKFVO2L0bG7jbc0cBhv4CymTjicm4cM=;LNINoXWsr5s0EucwB7cCXw=="
+secured: "OZHebW9/8P2+5TEP+uITpimU4khYjLphcV4QXNyE8SpFpi1EOMq6dIycJvEKGQIV5B5v9mC5+XyBEnjz6afiDlvN8CQOc81aGMy0hGB7R0O8ibUXSpvyCuU0WFIKtHPamnuD1OpBkwdMsO0EWOjYND8wsivQs0s5+5HGSFxMMYY2blW6vmeewkOXXltTU1sfZzhLXvB6kHSFy7i4E8ckHW8xRwaFzXsxooTbZU/OreCW0ggLwNOZihSQnn9QVXsDlQsAc4idGDGGGhzcgLbuA6Xd+7VJcvozOFJU+62ACbauz2EcP1D9ucIYGB87MA477DPE98UpEMYVY5t+EtG8X+ORruKd507T5vXqip/Bsz40F5BxyIH00jG+qz0zTk9AVw9YlXfRLMWEYU+fL+SO2Qs4ArTQyyisczl5zMCNVR2lIK0vKMmJDBn8pKw1LkFrrqecB8HEXlIG0BwJTPZgF4VYJtgVWOxBFkmLltZNmdcuDjDmHF8oXPkwm5RSg0pVka9RgabNZKceZesHYfGO4w==;oE9sXT4KmMeSszyS1mZYZA=="
 ---
 

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Watch live: Biden holds virtual roundtable with workers and small business owners"
+    excerpt: "Watch live coverage as President-elect Joe Biden holds a virtual roundtable with struggling workers and small business owners on the impact of the economic crisis."
+    publishedDateTime: 2020-12-02T22:44:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-biden-holds-virtual-roundtable-with-workers-and-small-business-owners-96991813515"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96991813515"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96991813515"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/biden_afscme_thumb.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "nwVAhKaSRnU4r7TDPLKgX3+29HmvTuvvNoh7V6euldxqC4DvIOy0ulaw/QAqcO3V6YEMBb5uSRFNkPA/+UxgQ4PfxvLZy9W8tGCoIfHXRwmzpGejRbISNyPfLQv8qxY31shggfAs3uCmXQLqJKihnqiNO35PP8xOLMTUr20d4ov9PHGlNDTqgcalFuVNbWBI7Irk846LR6tTbRnx9F457o+T552EEzi1i2mttUzCuR6RdW9lHJX6t6HgM1O2Ya9VkmZToZIw+5PA/LRI6mfImJqhh7acJhLvjoPDtxdsPCxpN1hdARHG7X6+oryxepYqSKDH0r4vJsadS2AJWkjFYe9x/JPVQnWehV9wkpxQ574=;cXqx4HnXsVipn4CF8Bcrww=="
 ---

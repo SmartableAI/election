@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Chinese firms on U.S. exchanges threatened by bill headed to Trump's desk"
+    excerpt: "The U.S. House of Representatives passed a law to kick Chinese companies off U.S. stock exchanges if they do not fully comply with the country's auditing rules, giving President Donald Trump one more tool to threaten Beijing with before leaving office."
+    publishedDateTime: 2020-12-03T00:45:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-stocks/update-3-chinese-firms-on-u-s-exchanges-threatened-by-bill-headed-to-trumps-desk-idUSL1N2II36R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C3C3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C3C3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543263917&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YF"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Rudy Giuliani talked to Trump about getting a preemptive pardon before the president leaves office, report says"
     excerpt: "Giuliani is the focus of a federal criminal investigation into whether he violated foreign lobbying laws through his dealings in Ukraine."
     publishedDateTime: 2020-12-01T15:49:00Z
@@ -78,6 +94,20 @@ related:
       - url: "https://i.insider.com/5fb7b84b32f2170011f7040d?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump reportedly considering pardons for family members"
+    excerpt: "The White House is dodging questions about reports that President Trump is considering preemptive pardons for three of his adult children and his son-in-law. Ben Tracy reports."
+    publishedDateTime: 2020-12-03T00:04:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-reportedly-considering-pardons-for-family-members/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/03/df15d6e8-a197-437e-a0f3-7865b37d6913/thumbnail/1200x630/c5d88b341c61ac4ff3fc03c4a9d587a8/tracy-600139-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Yes, Trump can pardon himself — but it's a risky move that won't protect him from all prosecutions he could face"
     excerpt: "If the president were to issue himself a pardon before leaving office, it would likely be construed as an admission of guilt."

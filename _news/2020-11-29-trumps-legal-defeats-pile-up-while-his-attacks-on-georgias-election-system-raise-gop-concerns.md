@@ -318,6 +318,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump looms over Georgia's high-stakes Senate races, worrying Republicans"
+    excerpt: "The president is scheduled to hold a rally in the state Saturday after spending weeks attacking GOP elected officials."
+    publishedDateTime: 2020-12-02T23:50:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-looms-over-georgia-s-high-stakes-senate-races-worrying-n1249686"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249686"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249686"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432132/201201-donald-trump-al-0936_acd19401dfb6bd30ec39486989bdb51f.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Experts worry Trump can't be trusted with nation's secrets after leaving office"
     excerpt: "Some ex-intelligence officials are saying that when President Donald Trump leaves office, he should not receive access to classified information about the country's national security secrets."
     publishedDateTime: 2020-11-27T14:04:00Z

@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump repeats baseless voter fraud claims after Barr says no evidence"
+    excerpt: "President Trump repeated his unsubstantiated claims of widespread voter fraud in a 46 minute video shot by the White House without press in the room. It comes one day after Attorney General Barr told the Associated Press he has “not seen fraud” on a scale that could have changed the election outcome."
+    publishedDateTime: 2020-12-03T00:29:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-repeats-baseless-voter-fraud-claims-after-barr-says-no-evidence-97021509542"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97021509542"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97021509542"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kwe_trump_barr_pardon_investigation_201202_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "KVQcjiMNoUO9zszh5y0C1tcIb7uxZ4VnsYgcCZsifkozw8FFrgss8xE9qpQKIhKSV2yR5cwl4Onu/Eu5IomZs9rBeKo2ODOMJcczFSyolR01jsO8YyCKtyg1eCduMJuZqGLG1S3cktAlg9NTLyEyTms4XL7FSbBN2LHSxgT36IQlimlw32Uw5+JYJ8y9S/GWkyl+WwKw4gcGXCXUVdSmLyl0OZ9YRr0RoDWKJWMvHpm2942Fgz5RHUHpspODDdFPo1nth/zKwYQdu1QApd5qNp+EaxRAgi8fqFvLS6x7e833MVK81Zcu5M+0Xg9uz1Amc4W/+0HAl10FvN4JfKyMv+jTLt1xAMv9Th/7x9XHgV8=;QKK5+hNGTaLKy1FFWaxpSA=="
 ---

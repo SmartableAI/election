@@ -447,6 +447,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "In video, Trump recycles unsubstantiated voter fraud claims"
+    excerpt: "President Donald Trump has delivered a 46-minute diatribe against the election results that produced a win for Democrat Joe Biden, unspooling one misstatement after another to back his baseless claim"
+    publishedDateTime: 2020-12-03T00:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump administration moves to strip federal protections for migratory birds"
     excerpt: "The Trump administration moved forward Friday on gutting a longstanding federal protection for the nation's birds, over objections from former federal officials and many scientists that billions more birds will likely perish as a result."
     publishedDateTime: 2020-12-01T16:28:00Z
@@ -462,6 +478,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/30/PGRF/9bfd80db-f79b-45b8-b49c-f57b55a20c05-AP20323772023717.jpg?auto=webp&crop=2249,1266,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Donald Trump releases video statement repeating baseless vote fraud claims"
+    excerpt: "President claims electoral system ‘under coordinated assault’ but justice department found no evidence of significant fraud"
+    publishedDateTime: 2020-12-02T19:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/02/donald-trump-video-statement-baseless-vote-fraud-claims"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/02/donald-trump-video-statement-baseless-vote-fraud-claims"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/donald-trump-video-statement-baseless-vote-fraud-claims"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/5f714bef23eb0c30aed9288b3df899803d5f06df/8_37_1139_683/master/1139.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5d5e99a8f793124bb185d42d2ea3217d"
+        width: 600
+        height: 360
         isCached: true
   - title: "Barack Obama: ‘Donald Trump and I tell very different stories about America’"
     excerpt: "Four years after leaving office, he’s officially the world’s most admired man.But what is Obama’s legacy? The former president talks Trump, Biden and America’s new dawn"
@@ -599,6 +631,22 @@ related:
     quality: 118
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYTSGZXMSAI6VPIIDMIBGK2FR4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump is said to be livid at Barr, with one official suggesting termination possible"
+    excerpt: "President Trump remained livid Wednesday at Attorney General William P. Barr, with one senior administration official indicating there was a chance Barr could be fired — not just for his public comments undercutting Trump’s unfounded claims of election-shifting fraud,"
+    publishedDateTime: 2020-12-03T00:22:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-barr-election-fraud/2020/12/02/5717626c-34e2-11eb-a997-1f4c53d2a747_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-barr-election-fraud/2020/12/02/5717626c-34e2-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-barr-election-fraud/2020/12/02/5717626c-34e2-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLF2BSRU7MI6XDJYNLVBVWZYHE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -845,6 +893,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/733f7b7d-bd20-40ea-9e31-6f13eac4e562_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump rehashes unsubstantiated voter fraud charges"
+    excerpt: "In a video released Wednesday, President Donald Trump delivered a 46-minute diatribe against the election that produced a win for Democrat Joe Biden, unspooling one misstatement after another to back his baseless claim that he really won."
+    publishedDateTime: 2020-12-03T00:55:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/trump-rehashes-unsubstantiated-voter-fraud-charges/3803536001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5e369c17-2563-4818-b065-d33127d7a479_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

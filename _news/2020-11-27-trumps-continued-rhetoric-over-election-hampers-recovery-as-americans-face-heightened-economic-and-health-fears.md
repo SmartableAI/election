@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/trump-biden-coronavirus-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/trump-biden-coronavirus-economy/index.html"
 type: article
 quality: 169
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Hints at Another Act in Four Years, Just Like Grover Cleveland"
+    excerpt: "The president is eying a comeback in 2024 aimed at making him the only person other than Cleveland to win another term after losing the White House."
+    publishedDateTime: 2020-12-03T00:44:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02dc-trump-1/02dc-trump-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "When he leaves office, can ex-President Trump be trusted with America's national security secrets?"
     excerpt: "Ex-presidents are entitled to classified briefings. Some ex-intel officials think Trump shouldn't get access to any national secrets when he leaves office."
     publishedDateTime: 2020-11-27T11:03:00Z

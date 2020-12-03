@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "No, Barr was not part of a secret plot against President Trump."
+    excerpt: "After the attorney general said the Justice Department had not found voter fraud, pro-Trump personalities accused Mr. Barr of being part of a nefarious scheme against the president."
+    publishedDateTime: 2020-12-03T00:52:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/technology/no-barr-was-not-part-of-a-secret-plot-against-president-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/technology/no-barr-was-not-part-of-a-secret-plot-against-president-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/technology/no-barr-was-not-part-of-a-secret-plot-against-president-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02distortions-brief-barr/02distortions-brief-barr-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The Justice Department is investigating a potential bribery scheme for a Trump pardon."
     excerpt: "The Justice Department has been investigating whether intermediaries for a federal convict offered White House officials a bribe in exchange for a potential pardon or commutation from President Trump,"
     publishedDateTime: 2020-12-02T22:14:00Z
