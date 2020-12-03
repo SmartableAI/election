@@ -128,6 +128,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Tenants Sue Trump Over Scheme That Drove Up Their Rents"
+    excerpt: "The latest legal front against the outbound president involves a maneuver that earned him and his siblings millions while lowering their taxes."
+    publishedDateTime: 2020-12-03T22:13:00Z
+    webUrl: "https://www.nytimes.com/2020/12/03/nyregion/trump-lawsuit-tenants.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/03/nyregion/trump-lawsuit-tenants.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/nyregion/trump-lawsuit-tenants.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/03/multimedia/03trump-lawsuit-1/03trump-lawsuit-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Supreme Court Takes Up Trump Plan to Exclude Unauthorized Immigrants in Redistricting"
     excerpt: "The administration’s efforts, which are subject to practical hurdles, would upset a constitutional consensus and could shift political power from Democratic states to Republican ones."
     publishedDateTime: 2020-11-30T10:14:00Z

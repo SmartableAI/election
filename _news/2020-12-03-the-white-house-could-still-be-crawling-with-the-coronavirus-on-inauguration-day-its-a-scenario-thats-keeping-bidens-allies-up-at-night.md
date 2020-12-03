@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-03T13:29:00Z
 originalUrl: "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12"
 webUrl: "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12"
 type: article
-quality: 70
+quality: 80
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://i.insider.com/5fc82689037cbd00186137e9?width=700"

@@ -96,6 +96,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hemingway: Trump tackling election integrity issue 'unites Republican voters like nothing else'"
+    excerpt: "Republicans have been \"concerned\" with preserving election integrity prior to the 2020 presidential election, Mollie Hemingway said on Thursday."
+    publishedDateTime: 2020-12-03T21:29:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nYb67ptl4Qk/hemingway-trump-tackling-election-integrity-republican-voters"
+    ampWebUrl: "https://www.foxnews.com/politics/hemingway-trump-tackling-election-integrity-republican-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hemingway-trump-tackling-election-integrity-republican-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump tells Georgia governor to 'do something,' as Kemp says interfering with election is illegal"
     excerpt: "President Trump on Tuesday told Georgia Gov. Brian Kemp to \"do something\" to overrule state election officials, claiming he would find a \"gold mine\" of fraud, as the governor's office maintained that Georgia law \"prohibits\" him from \"interfering in elections.\""
     publishedDateTime: 2020-12-01T15:08:33Z
@@ -125,22 +141,6 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f055062c-e8a5-4647-89bb-d129b30f2cb3/8a55bd0b-ea6c-410d-95b5-28ff9a70808a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump says he’ll veto defense bill unless Section 230 is terminated"
-    excerpt: ""
-    publishedDateTime: 2020-12-02T04:33:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxDiRQdWroI/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13932a6d-b1f4-4256-b340-5c4d61f03425/d35c9969-b14d-4f46-8554-8f29dc18efb7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -189,20 +189,6 @@ related:
     quality: 170
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f81d5bb-aaa9-4e45-b0bb-04c49b11546c/7ff0a562-bdd7-4c0c-97eb-8c80f3b3ca71/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump speaks out in first interview since Election Day"
-    excerpt: "Follow for the latest updates on the 2020 election."
-    publishedDateTime: 2020-11-29T06:23:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j7TrB3K9YWM/live-updates-blm-activists-protest-la-mayor-as-potential-cabinet-pick"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-resize-1.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -270,22 +256,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump Calls Justice, FBI ‘Missing in Action’ on Election Allegations"
-    excerpt: "President Trump accused federal law-enforcement agencies run by his own appointees of ignoring his unproven claims of mass election fraud, as his legal setbacks continued to mount."
-    publishedDateTime: 2020-11-29T20:34:00Z
-    webUrl: "https://www.wsj.com/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-265730?width=620&size=1.5"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Court Denies Trump Appeal: ‘Calling an Election Unfair Does Not Make It So’"
     excerpt: "A federal appeals court Friday denied the Trump campaign’s appeal in Pennsylvania, writing that the case lacked proof and had no merit, and striking another blow to [the president’s dwindling legal av"
     publishedDateTime: 2020-11-28T00:16:00Z
@@ -316,15 +286,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Donald Trump Hates Democracy"
-    excerpt: "President Trump was all frauded out Sunday morning on Fox News: This election was a total fraud. And: This is the greatest fraud in the history of our country, from an electoral standpoint. And: This is a fraud against the American people."
-    publishedDateTime: 2020-12-02T11:41:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/02/donald_trump_hates_democracy_530479.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "PEpdZJDVqAwc6w+IQkYANUvoO32PKElAKcrZssiL66s5jzEF89wX56YnI9dyBpehkInHpsO2Q6hoh9/I1K3+Q6nKz0bXZlb1LcQp3EPmcApPJQVjxZ2lFRXmqkyWEx5gu1AuYy9O1Ej2LiUWQaTVh9+k++dzOMtCq3HABjTvr2aAPBb7+YGZYdsoJ8vNj3QxxD1YMeL2UsH9uoDfFcxiRV0KMUi+b5mmA1BxQwDVKoJeMxb3qDYJI8ywa4Hxh37u4ugzZLRoi0Sp1bIqz1aIF1TvI0RM97kFp30OebyPhyNk0eFQBYvUK8X22wdQsSVeEgVZ9uY81O0xIEKPfEsam0FsJBMX/4B9tJi8CvRoFm0=;2a4hP4YCJc1G+qsqIhYNxg=="
 ---

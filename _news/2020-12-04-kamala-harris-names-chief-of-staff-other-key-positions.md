@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-chief-of-staff
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-chief-of-staff/2020/12/03/4a53c3ee-341b-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris picks Tina Flournoy to be her chief of staff"
+    excerpt: "Vice President-elect Kamala Harris has named veteran Democratic strategist Tina Flournoy as her chief of staff."
+    publishedDateTime: 2020-12-03T18:03:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0bda102/2147483647/strip/true/crop/3000x1959+0+73/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2F2b%2Fe6b1728352869e91a42d682a4b5c%2F73b0762e11fb4961a09c11fc06669ad5"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Kamala Harris Celebrates 50 Days Until Biden Is President; Sarah Cooper, Rosanna Arquette and Others Respond"
     excerpt: "Vice President-elect Kamala Harris took to Twitter this morning to happily remind people they are only 50 days away from Joe Biden 's January 20th Presidential Inauguration. As she put it, \"Only 50 days until we get to call @JoeBiden President of the United States."
     publishedDateTime: 2020-12-01T15:43:00Z
@@ -356,6 +372,6 @@ related:
       domain: omaha.com
     quality: 35
 
-secured: "yOhzEhJc3q9rL4aaq5nim7WDO4AtgljakAUOIcOLaDekD36C3WZBM9IotiF5BS+gWs1jru6rNK0hkTaBt6N4ZsyEIb49lOFSnIg9VmVh5ksGNGm6DlQO8Qwdm6EZ9rkeGgEix/xFWksLbwAO9aZoTJwoaTaoXL0vv/IdOkiGYUObRWv9xwv+f/z4y4QZyM8GWLjaL/VRGq0wJ4SHDIQQnXjtzuhjdRyrZ7lACscEOZTuPi7geTQFSavVpt8v2/2funpNcipZksJD93FtzxHch5InBl8wYtIyFW30tl9X3natnZFQrB+9/MVg/oGW4Y4u17H3LEb/iLlPcknT4W0ogPw4bE/weSDJWQnguN01xnI=;mjcMQhc74TJ4QN/+nPVegQ=="
+secured: "hvdePHWbwXzHhyqnG+N3i3syAV15rP1Ny3ni8cyHStG9tY5Y5HqWPdhJ+uHPmJ1IdWi+HovZpJKAwgo/ebPphBf4QSj5/BWloTQvpqV5YLOtgDcv1Sf56fPE2Zy/KhdBlnTtlgWrxe7ELCmGeQtbKU7h9GyDSTZEw3uHKADVdyHDn0egZXjSbl07dFdUgkqppJFkpk3emkyhWJ73k6U1Xbxlhv49MyhQhjYyIrS4gAfKNeUqIdaUt+PXDMasQI/BGninYVtELIqxKYlWyhWetGbi8QaiqI6auEBqtcb/aCXk4d+ojSyHib4hYXiCuC3X/yvTezL/2DYNqG36SNKgp4/6GaB0jKd9xDr21SYejrJGeIS2Oox6PCfF5NBWrxL6cTosyTMVtNtUPTf5yHDMUgadlvTtJP79ahm03GO6cF/zTajU/BjxP7BlsZ5I2Ds5oy4QuutOEB3tTL4VlWq8eA/G5vYF4HEdJp848NXQhTThB5cEyvXMZztuwaJ66zPaR+BSluZRaV7aWHxBBSD1jQ==;Xin8dr6O9z4xu+2lRCYfVw=="
 ---
 

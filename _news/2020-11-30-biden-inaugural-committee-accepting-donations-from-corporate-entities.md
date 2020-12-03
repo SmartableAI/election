@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-inaugural-committee-accepting
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inaugural-committee-accepting-donations-from-corporate-entities.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to call for 100 days of masks after inauguration"
+    excerpt: "President-elect Joe Biden said during an interview on Thursday that he plans to ask the American public to wear masks for 100 days, starting on the day he is inaugurated."
+    publishedDateTime: 2020-12-03T22:41:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tGBCLmZaqnk/biden-call-100-days-masks-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-call-100-days-masks-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-call-100-days-masks-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Consulting firm linked to Biden's cabinet scrubs China work from website"
     excerpt: "WestExec, a Washington, D.C. consulting firm, has reportedly scrubbed its work with China from its website as its history receives more scrutiny in the lead-up to Joe Biden’s presidency."
     publishedDateTime: 2020-12-03T02:23:42Z

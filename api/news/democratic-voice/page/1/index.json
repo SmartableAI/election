@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-03-biden-says-he-will-ask-americans-to-wear-masks-for-the-first-100-days-hes-in-office.md",
+      "title": "Biden says he will ask Americans to wear masks for the first 100 days he's in office",
+      "excerpt": "President-elect Joe Biden told CNN's Jake Tapper on Thursday that he has asked Dr. Anthony Fauci to be a chief medical adviser and part of his Covid-19 response team when his administration begins next year.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vBMq_AvZBFo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vBMq_AvZBFo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203164514-tapper-biden-harris-1203-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/biden-harris-interview-jake-tapper/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-harris-interview-jake-tapper/index.html",
+      "publishedDateTime": "2020-12-03T14:44:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-wikipedia-page-for-bidens-new-covid-czar-scrubbed-of-politically-damaging-material.md",
+      "title": "Wikipedia page for Biden's new Covid czar scrubbed of politically damaging material",
+      "excerpt": "A Democratic consulting firm made numerous changes to Jeff Zients' page as he became a more important figure on Biden’s team this summer and fall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "originalUrl": "https://www.politico.com/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/2f/86/c701e1f14b4b8695d6566e23a04f/ap120767208216.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "publishedDateTime": "2020-12-03T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-an-attempt-to-sabotage-trumps-potential-purge-of-career-employees-casts-pall-across-federal-government.md",
       "title": "'An attempt to sabotage': Trump's potential purge of career employees casts pall across federal government",
       "excerpt": "Federal career employees across the Trump administration are fearful of losing their job protections and potentially their jobs, as agencies begin to implement a recent executive order signed by President Donald Trump.\n    \n",
@@ -448,63 +561,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-biden-urged-to-change-immigration-policy-to-send-more-health-workers-to-covid-hot-spots.md",
-      "title": "Biden urged to change immigration policy to send more health workers to Covid hot spots",
-      "excerpt": "Backers of the legislation think linking health worker shortages with immigration policy will resonate with the incoming administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/03/biden-immigration-policy-health-workers-442411",
-      "originalUrl": "https://www.politico.com/news/2020/12/03/biden-immigration-policy-health-workers-442411",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/8a/5f/f94fd7c34f65a2b21373e5ff3869/gettyimages-1229807401-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411",
-      "publishedDateTime": "2020-12-03T01:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -1313,7 +1369,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 288,
+      "heat": 308,
       "tags": null,
       "images": [
         {
@@ -1593,7 +1649,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 355,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -1633,63 +1689,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-deep-in-trump-country-nevadas-first-openly-gay-latino-mayor-leads-a-blue-leaning-city.md",
-      "title": "Deep in Trump country, Nevada's first openly gay, Latino mayor leads a blue-leaning city",
-      "excerpt": "It just goes to show you that rural America and rural Nevada aren’t just monoliths,\" said Daniel Corona, mayor of West Wendover.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/deep-trump-country-nevada-s-first-openly-gay-latino-mayor-n1249023",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/deep-trump-country-nevada-s-first-openly-gay-latino-mayor-n1249023",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_48/3430837/201124-nevada-blue-town-daniel-corona-mn-1608_68d4dd9544a529d76702ee23e89342d6.JPG",
-          "width": 2500,
-          "height": 1647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249023",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249023",
-      "publishedDateTime": "2020-11-29T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

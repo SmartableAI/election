@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Kamala Harris picks Tina Flournoy to be her chief of staff"
+    excerpt: "Vice President-elect Kamala Harris has named veteran Democratic strategist Tina Flournoy as her chief of staff."
+    publishedDateTime: 2020-12-03T18:03:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0bda102/2147483647/strip/true/crop/3000x1959+0+73/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2F2b%2Fe6b1728352869e91a42d682a4b5c%2F73b0762e11fb4961a09c11fc06669ad5"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Kamala Harris Celebrates 50 Days Until Biden Is President; Sarah Cooper, Rosanna Arquette and Others Respond"
     excerpt: "Vice President-elect Kamala Harris took to Twitter this morning to happily remind people they are only 50 days away from Joe Biden 's January 20th Presidential Inauguration. As she put it, \"Only 50 days until we get to call @JoeBiden President of the United States."
     publishedDateTime: 2020-12-01T15:43:00Z
@@ -356,6 +372,6 @@ related:
       domain: omaha.com
     quality: 35
 
-secured: "kf0H1cDeCTrK3MpLn8qvqzA1dnIIfNRr8T0I7My2YO0uWDi4EXOjef9anm6BbJ3QyCmZQdd/k+nIPnlCQBVRvZ2bn2C4YXPSO7SHalZ09mYmjNJwQahzNUIKxaBMLRU8NG01vP2rTswX7D6RRlJP5eMlli1kM3F5nIUuQTEOzN5wBNeqAsroVLNA9PhuQiZJ5d+Yb1Lo4fhhh/e/13p+yAgjM+v3hboYerrh8GrLkYQqdLEO98DZWDKhClej+f1Gkz9j+IGghbtN+v/TCfZ/ArdBtP9Bs3yipVp3silDKBdxGjnclg2Rbt7WwUvbpIlPvL1vrabb2K97EvUzRya6mwEGdR2G/DpcA0FioH5zNB8=;zR1QktRYg+ENlDfeoEHNLQ=="
+secured: "A1ZqRT45NQHfBYKKOk/SWy6XtL7wuwmgB65/2g+Y03Myb3/xJ42RFLk3RAHPZjsa/DqSC5lKsm4UopASALbBTdIGPuRtqFx8APMl7Wzzy23HoNqtbuoyBn+5z+zv4HQmCZqVBjaHSyGjYpl+j0wj/DpMpcoClth2f+mC8oNPjgIwCPkOqanJAnWldhY/2uHVLMCEwawmzPAhQwenwZUOIOLtwS8PoE8o6fh0HIO05YzsvktFK324nj/MY+KyPJRCaR5a1WjZnTT8L9tACsSy1k+s2NF2IHiVS+QrFynW7uwaTUhfg6sdPqSbEKVm9SsShxRQ11oEMxeHnmNIDIInxiIst4Fi+dSwXmMq9I7yyvrCQniTNKGVt/RjKIzueOHB6VjXeVHk5EtygZF/jQrvtfM7eM1yMsLcfMnW66l8S40EXVpOGaH+T3PItdJq6+//7y07WaiDe5z6x2D3n0TKv1nDfNd5SNknH9sTHh+CXd8BUkq55vnvZLxYEr1j/HCKFiuGrg7DPLZPJff1lbTP3g==;zlYwYF/lrHw2sI+0Ba8oMg=="
 ---
 

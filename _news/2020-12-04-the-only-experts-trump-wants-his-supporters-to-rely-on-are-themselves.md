@@ -559,6 +559,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Here are 3 retired generals who embraced bizarre Trump conspiracies"
+    excerpt: "These highly decorated military generals promoted baseless claims from the conspiracy theory movement."
+    publishedDateTime: 2020-12-03T22:47:00Z
+    webUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f739ab60ab50d00184ad213?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump aide banned from Justice after trying to get case info"
     excerpt: "The official serving as President Donald Trump’s eyes and ears at the Justice Department has been banned from the building after trying to pressure staffers to give up sensitive case information she c"
     publishedDateTime: 2020-12-03T20:10:00Z
@@ -844,6 +860,22 @@ related:
     quality: 114
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GYF32XRNCAI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Bowser pushes Trump administration to send more coronavirus vaccines for health-care workers"
+    excerpt: "In a letter, D.C.’s mayor says the city will be able to inoculate only a small number of its health-care workers because of a population-based distribution formula."
+    publishedDateTime: 2020-12-03T22:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LIOFX4RVUAI6XDJYNLVBVWZYHE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true

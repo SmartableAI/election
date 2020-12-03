@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump campaign, RNC raise $207.5 million since Election Day"
+    excerpt: "EXCLUSIVE: The Trump campaign, the Republican National Committee, their joint-fundraising committees and President Trump’s new PAC Save America raised a whopping $207.5 million since Election Day, Fox News has learned."
+    publishedDateTime: 2020-12-03T22:28:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MT9GdvRJa5M/trump-campaign-rnc-rake-in-207-5-million-since-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
     excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
     publishedDateTime: 2020-12-03T19:59:24Z
@@ -48,198 +64,109 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump hints at 2024 presidential run in remarks at White House party"
-    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
-    publishedDateTime: 2020-12-02T15:49:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/alzBlzVKkEM/trump-hints-at-2024-presidential-run"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+  - title: "Trump says he’ll veto defense bill unless Section 230 is terminated"
+    excerpt: ""
+    publishedDateTime: 2020-12-02T04:33:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxDiRQdWroI/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13932a6d-b1f4-4256-b340-5c4d61f03425/d35c9969-b14d-4f46-8554-8f29dc18efb7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "RNC's McDaniel, closely allied with Trump, spotlights party's neutrality"
+    excerpt: "RNC Chair Ronna McDaniel appears to be spotlighting the party's neutrality going forward after President Trump leaves the White House on Jan. 20."
+    publishedDateTime: 2020-12-03T18:36:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tgloscIWrkk/rnc-mcdaniel-trump-ally-party-neutrality"
+    ampWebUrl: "https://www.foxnews.com/politics/rnc-mcdaniel-trump-ally-party-neutrality.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-mcdaniel-trump-ally-party-neutrality.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Top Ga. voting official slams threats on election officers, tells Trump, senators to condemn it: 'Has to stop'"
-    excerpt: "A top Georgia voting official on Tuesday in a fiery press conference decried threats against Secretary of State Brad Raffensperger, the secretary's wife, and other elections officials and workers as the Trump campaign continues to fight the result of the presidential election in court."
-    publishedDateTime: 2020-12-02T13:31:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1gDe_7enrRc/top-ga-voting-official-slams-threats-on-election-officers-tells-trump-senators-to-condemn-it-has-to-stop"
-    ampWebUrl: "https://www.foxnews.com/politics/top-ga-voting-official-slams-threats-on-election-officers-tells-trump-senators-to-condemn-it-has-to-stop.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-ga-voting-official-slams-threats-on-election-officers-tells-trump-senators-to-condemn-it-has-to-stop.amp"
+  - title: "LIVE UPDATES: Trump speaks out in first interview since Election Day"
+    excerpt: "Follow for the latest updates on the 2020 election."
+    publishedDateTime: 2020-11-29T06:23:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j7TrB3K9YWM/live-updates-blm-activists-protest-la-mayor-as-potential-cabinet-pick"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Executive at nonprofit that helped in Georgia audit has history of anti-Trump tweets"
-    excerpt: "The executive director of a San Francisco-based nonprofit that was tapped by Georgia’s secretary of state to assist in the state’s audit has a history of anti-Trump tweets, but has insisted that he does not “bring them to work.”"
-    publishedDateTime: 2020-12-01T16:04:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d0eNOTp8iQE/georgia-audit-nonprofit-executive-anti-trump-tweets"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-audit-nonprofit-executive-anti-trump-tweets.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-audit-nonprofit-executive-anti-trump-tweets.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Democratic PAC billboards push Trump supporters to sit out Georgia Senate runoff vote"
-    excerpt: "The billboards say: \"Perdue/Loeffler Didn't Deliver For Trump, Don't Deliver For Them.\""
-    publishedDateTime: 2020-12-02T03:10:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IW4PfoE5OXA/democratic-billboards-push-trump-supporters-to-sit-out-georgia-senate-runoff-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/democratic-billboards-push-trump-supporters-to-sit-out-georgia-senate-runoff-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-billboards-push-trump-supporters-to-sit-out-georgia-senate-runoff-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19c259e9-3646-4cb2-8805-d7925ab8f1ac/48edf0e4-e5c9-4ed9-890c-f23ccfba59d8/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-resize-1.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump warns Georgia runoff boycott would play 'right into the hands of some very sick people'"
-    excerpt: "Trump reiterated his frequent claim that the 2020 election was a “total scam,” but urged his supporters to turn out on behalf of Georgia’s Republican Senate candidates."
-    publishedDateTime: 2020-11-27T21:07:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GQ4DyPULdB0/trump-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4d7d32f1-3cbe-4d32-b262-11636ff1aadc/f7d0832f-1bc7-4025-a734-dddd2036d2b7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump presses 'hapless' Georgia governor to overrule secretary of state on signature matching"
-    excerpt: "President Trump called on Republican Georgia Gov. Brian Kemp to override Secretary of State Brad Raffensperger on matching signatures during the state's recount, in a tweet Monday."
-    publishedDateTime: 2020-11-30T14:34:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gJVoONUUgn4/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98f88203-24d7-48e9-933e-73bf757b5e5a/9f7d0c25-3767-460e-9963-bfa3a70ae474/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pro-Trump attorneys Sidney Powell, Lin Wood urge Georgians not to vote in Senate runoffs without changes"
-    excerpt: "Powell and Wood are not working for the Trump campaign in an official capacity."
-    publishedDateTime: 2020-12-02T23:55:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bYYQ6L3byYI/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Georgia Rep.-elect Carolyn Bourdeaux, only Democrat to flip seat, says party should talk to Trump supporters"
-    excerpt: "Bourdeaux's win in suburban Atlanta was a major bright spot for House Democrats who otherwise had a tough 2020 election by losing unexpected seats and shrinking their majority."
-    publishedDateTime: 2020-12-01T11:32:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACmi8YABZLQ/georgia-rep-elect-carolyn-bourdeaux-only-democrat-flip-seat"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-rep-elect-carolyn-bourdeaux-only-democrat-flip-seat.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-rep-elect-carolyn-bourdeaux-only-democrat-flip-seat.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/640/320/44875041_1154346124727858_2661149590434086912_n.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Georgia GOP Official Urges Trump to Condemn Threats Against Election Officials"
-    excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
-    publishedDateTime: 2020-12-02T02:11:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944?mod=hp_listb_pos2"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
+  - title: "Trump Calls Justice, FBI ‘Missing in Action’ on Election Allegations"
+    excerpt: "President Trump accused federal law-enforcement agencies run by his own appointees of ignoring his unproven claims of mass election fraud, as his legal setbacks continued to mount."
+    publishedDateTime: 2020-11-29T20:34:00Z
+    webUrl: "https://www.wsj.com/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 146
+    quality: 150
     images:
-      - url: "https://images.wsj.net/im-266968/social"
+      - url: "https://images.wsj.net/im-265730?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
+  - title: "Trump Campaign Files More Election Challenges in Wisconsin, Michigan"
+    excerpt: "The Wisconsin Supreme Court is being asked to disqualify more than 200,000 mail-in ballots; a Michigan judge’s decision dismissing claims is appealed."
+    publishedDateTime: 2020-12-01T20:17:00Z
+    webUrl: "https://www.wsj.com/articles/trump-campaign-files-more-election-challenges-in-wisconsin-michigan-11606849219?mod=business_minor_pos5"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-files-more-election-challenges-in-wisconsin-michigan-11606849219"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-files-more-election-challenges-in-wisconsin-michigan-11606849219"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-266615/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump hints at 2024 presidential run in remarks at White House party"
-    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
-    publishedDateTime: 2020-12-02T16:06:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+  - title: "Census Delays Would Prevent Trump Immigrant Exclusion Plan"
+    excerpt: "Census Bureau schedules indicate the agency needs until Jan. 23 to complete the 2020 count and transmit apportionment figures to the president, a House committee said."
+    publishedDateTime: 2020-12-03T02:29:00Z
+    webUrl: "https://www.wsj.com/articles/census-delays-would-prevent-trump-immigrant-exclusion-plan-11606951208"
+    ampWebUrl: "https://www.wsj.com/amp/articles/census-delays-would-prevent-trump-immigrant-exclusion-plan-11606951208"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/census-delays-would-prevent-trump-immigrant-exclusion-plan-11606951208"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20291046912810.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Donald Trump Jr to be featured in super PAC ads in Georgia Senate race aimed at mobilizing Trump voters"
-    excerpt: "Top aides to Donald Trump Jr. are launching a super PAC aimed at boosting GOP voter turnout in the Jan. 5 U.S. Senate runoff elections in Georgia, which will be key to which party controls the majority in the chamber in the next two years and whether Republicans have a say in President-elect Biden's agenda."
-    publishedDateTime: 2020-11-30T14:48:00Z
-    webUrl: "https://www.foxnews.com/politics/donald-trump-jr-aides-launch-super-pac-in-hopes-of-boosting-voter-turnout-in-georgia-senate-runoffs"
-    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-aides-launch-super-pac-in-hopes-of-boosting-voter-turnout-in-georgia-senate-runoffs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-aides-launch-super-pac-in-hopes-of-boosting-voter-turnout-in-georgia-senate-runoffs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-Jr-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Pro-Trump attorneys Sidney Powell, Lin Wood urge Georgians not to vote in Senate runoffs without changes"
-    excerpt: "Trump attorneys Sidney Powell and L. Lin Wood urged Georgians not to participate in a runoff vote that will determine control of the Senate in January until state officials address unsubstantiated claims that President-elect Joe Biden won the White House through voter fraud."
-    publishedDateTime: 2020-12-03T00:11:00Z
-    webUrl: "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 118
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-267382/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
+  - title: "Donald Trump Hates Democracy"
+    excerpt: "President Trump was all frauded out Sunday morning on Fox News: This election was a total fraud. And: This is the greatest fraud in the history of our country, from an electoral standpoint. And: This is a fraud against the American people."
+    publishedDateTime: 2020-12-02T11:41:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/02/donald_trump_hates_democracy_530479.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "k6UD+vStQbiYXUVzsnWPFxCnGPJUhMQBvxVmG0d+IGHXI6alrHk/NtGWWrpHG4/vHWKqzMLDIzwd0hP5hs9ArOLwp70b4jgnDH8qoSFVsP2rJjsq9SnlWaeTgiiI6iVI3IBpObtALFXoz/NTKbvT+TT0VwSAdtGHnir5hOkv6iVoDeZbtLiNoR9FGRdldxiSeGNYZSIwfZEJMY6plf1N34+bK3HSA6kwm+B5+1tKaItILHhdReNeeHSXjbNwxwC+kphrXz9Nw44DAGTyLQKTHQKCJBBb5ZfyAA8QVwWCvXRIiww0To3BiRhk0VrcxVIwUjE7Wib6POfGOR+rjxluPW7KfHPosEYS+h2JbMUXDFk=;0saj6CirNa4KKoCnzk5w3A=="
 ---

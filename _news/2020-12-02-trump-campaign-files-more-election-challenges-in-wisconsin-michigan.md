@@ -32,150 +32,141 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign drops lawsuit challenging Michigan voting results"
-    excerpt: "President Trump's reelection campaign said Thursday that it is dropping a lawsuit challenging voting results in Michigan, which show Democrat Joe Biden narrowly carrying the battleground state."
-    publishedDateTime: 2020-11-19T16:20:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
+  - title: "Trump campaign, RNC raise $207.5 million since Election Day"
+    excerpt: "EXCLUSIVE: The Trump campaign, the Republican National Committee, their joint-fundraising committees and President Trump’s new PAC Save America raised a whopping $207.5 million since Election Day, Fox News has learned."
+    publishedDateTime: 2020-12-03T22:28:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MT9GdvRJa5M/trump-campaign-rnc-rake-in-207-5-million-since-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
+    excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
+    publishedDateTime: 2020-12-03T19:59:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FUSf91Adn2U/trump-campaign-georgia-lawsuit-vacate-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/35333bfd-ffdf-4a5c-bdd7-a56ccc453d9b/e8e632a2-e2f0-4099-b7b3-e9ebedad09f6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump says he’ll veto defense bill unless Section 230 is terminated"
+    excerpt: ""
+    publishedDateTime: 2020-12-02T04:33:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxDiRQdWroI/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a98bd85-8cb6-40db-a341-bed123126296/b14b578b-9eab-4265-bd71-466ccf3a8c4c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13932a6d-b1f4-4256-b340-5c4d61f03425/d35c9969-b14d-4f46-8554-8f29dc18efb7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump told confidants he intends to pardon Michael Flynn: report"
-    excerpt: "President Trump reportedly intends to pardon former National Security Advisor Michael Flynn, one in a series to be issued before he leaves office."
-    publishedDateTime: 2020-11-25T03:02:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/alYrbM1wLpw/trump-flynn-pardon-michael-flynn"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-flynn-pardon-michael-flynn.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-flynn-pardon-michael-flynn.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62e92172-67dd-4365-a047-6be137fd72d2/9943ce69-5c00-44cd-b562-7f17e66ab3ba/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump announces pardon of former National Security Advisor Michael Flynn"
-    excerpt: "\"It is my Great Honor to announce that General Michael T. Flynn has been granted a Full Pardon,\" the president wrote. \"Congratulations to @GenFlynn and his wonderful family, I know you will now have a truly fantastic Thanksgiving!\""
-    publishedDateTime: 2020-11-25T21:16:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GjmD_MDpddg/trump-announces-pardon-of-former-national-security-advisor-michael-flynn"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-announces-pardon-of-former-national-security-advisor-michael-flynn.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-announces-pardon-of-former-national-security-advisor-michael-flynn.amp"
+  - title: "RNC's McDaniel, closely allied with Trump, spotlights party's neutrality"
+    excerpt: "RNC Chair Ronna McDaniel appears to be spotlighting the party's neutrality going forward after President Trump leaves the White House on Jan. 20."
+    publishedDateTime: 2020-12-03T18:36:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tgloscIWrkk/rnc-mcdaniel-trump-ally-party-neutrality"
+    ampWebUrl: "https://www.foxnews.com/politics/rnc-mcdaniel-trump-ally-party-neutrality.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-mcdaniel-trump-ally-party-neutrality.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29fb2b28-d307-4579-bc27-d342924a7919/00a3637e-bf17-4ffa-876c-875b70e07bbb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "PA Supreme Court rejects Trump challenge to absentee ballots in Allegheny County"
-    excerpt: "President Trump’s attorneys asked the courts to throw out ballots that were missing information."
-    publishedDateTime: 2020-11-23T21:41:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I8ESxnRedrk/pa-supreme-court-rejects-trump-challenge-absentee-ballots-allegheny-county"
-    ampWebUrl: "https://www.foxnews.com/politics/pa-supreme-court-rejects-trump-challenge-absentee-ballots-allegheny-county.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-supreme-court-rejects-trump-challenge-absentee-ballots-allegheny-county.amp"
+  - title: "LIVE UPDATES: Trump speaks out in first interview since Election Day"
+    excerpt: "Follow for the latest updates on the 2020 election."
+    publishedDateTime: 2020-11-29T06:23:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j7TrB3K9YWM/live-updates-blm-activists-protest-la-mayor-as-potential-cabinet-pick"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21212b6f-71af-45fa-bda8-db4cce1855c1/9cd41134-3b22-4a3f-91c1-fd8799d3f7e6/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-resize-1.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump campaign files Michigan lawsuit claiming GOP blocked from viewing vote counting"
-    excerpt: "The Trump campaign has filed a lawsuit against Michigan Secretary of State Jocelyn Benson and Wayne County officials in which they allege that credentialed election challengers were blocked from having sufficient view of the vote-counting process, challenges against certain ballots were ignored, and"
-    publishedDateTime: 2020-11-11T16:54:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TcX8sE6dRYY/trump-campaign-michigan-election-vote-counting-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-michigan-election-vote-counting-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-michigan-election-vote-counting-lawsuit.amp"
+  - title: "Trump Calls Justice, FBI ‘Missing in Action’ on Election Allegations"
+    excerpt: "President Trump accused federal law-enforcement agencies run by his own appointees of ignoring his unproven claims of mass election fraud, as his legal setbacks continued to mount."
+    publishedDateTime: 2020-11-29T20:34:00Z
+    webUrl: "https://www.wsj.com/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-265730?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
+  - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
+    excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
+    publishedDateTime: 2020-12-03T20:13:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 141
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea9f25e8-6385-4323-b73b-db50ab67f4f3/571ae161-8619-4643-8c44-cefd5e7c3e27/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/35333bfd-ffdf-4a5c-bdd7-a56ccc453d9b/e8e632a2-e2f0-4099-b7b3-e9ebedad09f6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump hits back at WaPo over report saying campaign scrapping key part of Pennsylvania lawsuit"
-    excerpt: "President Trump and his team are pushing back against reports that his campaign significantly scaled back allegations in a Pennsylvania lawsuit over the 2020 election, although an amended complaint filed Sunday did significantly alter the case's stated goals."
-    publishedDateTime: 2020-11-16T15:28:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sFrEAyQ1Cyg/trump-campaign-pennsylvania-lawsuit-washington-post-report"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-pennsylvania-lawsuit-washington-post-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pennsylvania-lawsuit-washington-post-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/302a6c03-2397-4711-b51e-017975e01310/a4ae4050-9975-4bf0-a30c-4e40959ae5a4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump Says He Pardoned Michael Flynn, Ex-National Security Adviser"
-    excerpt: "President Trump said he has pardoned former national security adviser Michael Flynn, using his lame-duck executive power to protect an ally who pleaded guilty to lying to the FBI."
-    publishedDateTime: 2020-11-26T04:42:00Z
-    webUrl: "https://www.wsj.com/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532?mod=business_minor_pos4"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+  - title: "Census Delays Would Prevent Trump Immigrant Exclusion Plan"
+    excerpt: "Census Bureau schedules indicate the agency needs until Jan. 23 to complete the 2020 count and transmit apportionment figures to the president, a House committee said."
+    publishedDateTime: 2020-12-03T02:29:00Z
+    webUrl: "https://www.wsj.com/articles/census-delays-would-prevent-trump-immigrant-exclusion-plan-11606951208"
+    ampWebUrl: "https://www.wsj.com/amp/articles/census-delays-would-prevent-trump-immigrant-exclusion-plan-11606951208"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/census-delays-would-prevent-trump-immigrant-exclusion-plan-11606951208"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-264930/social"
+      - url: "https://images.wsj.net/im-267382/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump Says He Pardoned Michael Flynn, Ex-National Security Adviser"
-    excerpt: "President Trump said he has pardoned former national security adviser Michael Flynn, using his lame-duck executive power to protect an ally who pleaded guilty to lying to the FBI."
-    publishedDateTime: 2020-11-27T03:02:00Z
-    webUrl: "https://www.wsj.com/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+  - title: "Donald Trump Hates Democracy"
+    excerpt: "President Trump was all frauded out Sunday morning on Fox News: This election was a total fraud. And: This is the greatest fraud in the history of our country, from an electoral standpoint. And: This is a fraud against the American people."
+    publishedDateTime: 2020-12-02T11:41:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/02/donald_trump_hates_democracy_530479.html#!"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-264930/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Says He Has Pardoned Former National Security Adviser Michael Flynn"
-    excerpt: "President Trump said he has pardoned former national security adviser Michael Flynn, using his lame-duck executive power to protect an ally who pleaded guilty to lying to the FBI."
-    publishedDateTime: 2020-11-26T02:25:00Z
-    webUrl: "https://www.wsj.com/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532?mod=breakingnews"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 134
-    images:
-      - url: "https://images.wsj.net/im-264930/social"
-        width: 1280
-        height: 640
-        isCached: true
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "3H9pUyXpMI1r9iyhAjiGET60R0q++xijAYxhZx6vjTEAZLN6NWNRE/ufvOfmbbzu8nVNpc1IIGHhYCMZl32BknbNZIJR2p8EjkCfz985fh3CXWLYQ2IU6TprFFgpy/rZvUVm+fQLsEELdrlthl1JsYwjCAICz4nG/VjugVsso+Wh9mbko+t4/sixVnm8KdSbpd+IVnCUg7VHj4uABn2sjHuCx7JoHIEdtxCOqWxIvYsl3/G7Y+Iuq0vJJGl9F837OZY0pEyr+TmcuBII++qtND3qtvRpahNupYrSAf5vYirxFxpXCdFgsh+YEkOlTgL9tvxnICM03jx91i3A20ph2hkjtzZoqKgqpybyaXbUPrcffXLRT+IKOu3fU2f75lgsQGN3V1xvNYG0BM6JJh2c55FosUhfDNYgBM6SJLwZ/zhnyHKSnt8jUYhukBjdZJrMWDX+r5myWk65Txs9RLhAzmj1A7RNGoE9ueUnuejBFdTAiVn0p/XQkLJtwxutBzOJoGRIM4A/c7wmK3ZiDDonsg==;EGaWeScAE4aqnAmIb4owGg=="
 ---

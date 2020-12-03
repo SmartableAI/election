@@ -2,6 +2,171 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-17-trump-counts-crowds-size-using-maga-math-says-stephen-colbert.md",
+      "title": "Trump Counts Crowd’s Size Using ‘MAGA Math,’ Says Stephen Colbert",
+      "excerpt": "Ten thousand, a million — it’s just how they count,” Colbert said of Saturday’s Million MAGA March. “You round up for marches, you round down for Covid deaths.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/17/arts/television/late-night-million-maga-march.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/17/arts/television/late-night-million-maga-march.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/17/arts/17latenight/17latenight-facebookJumbo.png",
+          "width": 887,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/17/arts/television/late-night-million-maga-march.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/arts/television/late-night-million-maga-march.amp.html",
+      "publishedDateTime": "2020-11-17T00:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-trump-seizes-on-local-nevada-race-to-raise-suspicions-of-wider-problem.md",
+      "title": "Trump seizes on local Nevada race to raise suspicions of wider problem",
+      "excerpt": "President Trump called Nevada’s Clark County's decision to decline certifying one of its local races due to a number of discrepancies “a big victory,” and suggested that the issue could be evidence of a wider problem in the state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AbxyA80riSg/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AbxyA80riSg/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem.amp",
+      "publishedDateTime": "2020-11-16T23:35:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-this-isnt-a-game-michelle-obama-rips-into-trump-for-refusing-to-concede-and-says-he-put-her-family-in-danger-with-racist-lies.md",
+      "title": "'This isn't a game': Michelle Obama rips into Trump for refusing to concede and says he put her family in danger with 'racist lies'",
+      "excerpt": "The former first lady emphasized the need for a peaceful transfer of power, writing \"our democracy is so much bigger than anybody's ego.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/michelle-obama-instagram-post-trump-refusing-to-concede-racist-lies2020-11",
+      "originalUrl": "https://www.businessinsider.com/michelle-obama-instagram-post-trump-refusing-to-concede-racist-lies2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fb2d660402d49001924f369?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/michelle-obama-instagram-post-trump-refusing-to-concede-racist-lies2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michelle-obama-instagram-post-trump-refusing-to-concede-racist-lies2020-11?amp",
+      "publishedDateTime": "2020-11-16T22:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-scaramucci-predicts-three-pieces-of-trumps-endgame.md",
       "title": "Scaramucci predicts three pieces of Trump's endgame",
       "excerpt": "Former White House communications director, Anthony Scaramucci, predicts what President Trump's endgame might be as he continues to deny the results of the 2020 presidential election.\n    \n",
@@ -1176,158 +1341,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-vice-president-mike-pence-to-view-spacex-crew-1-launch-from-kennedy-space-center.md",
-      "title": "Vice President Mike Pence to view SpaceX Crew-1 launch from Kennedy Space Center",
-      "excerpt": "Vice President Mike Pence will attend Sunday's attempted launch of Crew-1 mission to the International Space Station.",
-      "sourceUrl": null,
-      "webUrl": "https://www.floridatoday.com/story/tech/science/space/2020/11/14/pence-view-crew-1-launch-ksc/6300689002/",
-      "originalUrl": "https://www.floridatoday.com/story/tech/science/space/2020/11/14/pence-view-crew-1-launch-ksc/6300689002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/05/31/PBRE/7c0c97ef-a437-4472-8c12-59b6e6bb835c-TRUMP_LAUNCH13.jpg?auto=webp&crop=1999,1125,x0,y208&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.floridatoday.com/amp/6300689002",
-      "cdnAmpWebUrl": "https://amp-floridatoday-com.cdn.ampproject.org/c/s/amp.floridatoday.com/amp/6300689002",
-      "publishedDateTime": "2020-11-15T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Florida Today",
-        "domain": "floridatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-spurred-on-by-false-claims-of-fraud-trump-supporters-rally-in-washington.md",
-      "title": "Spurred on by false claims of fraud, Trump supporters rally in Washington",
-      "excerpt": "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election/biden-victory-in-arizona-puts-trumps-longshot-challenge-further-out-of-reach-idUSKBN27T0IQ",
-      "originalUrl": "https://www.reuters.com/article/usa-election/biden-victory-in-arizona-puts-trumps-longshot-challenge-further-out-of-reach-idUSKBN27T0IQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541244394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE04H",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27T0IQ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IQ",
-      "publishedDateTime": "2020-11-14T23:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-largely-out-of-sight-in-washington-kamala-harris-preps-for-white-house.md",
-      "title": "Largely Out of Sight in Washington, Kamala Harris Preps for White House",
-      "excerpt": "Ms. Harris has barely appeared on the public radar since her acceptance speech last Saturday in Wilmington, Del., where she declared “a new day for America.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.amp.html",
-      "publishedDateTime": "2020-11-14T16:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
       ]
     }
   ],

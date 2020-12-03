@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Congress moves to block Trump's Germany troop cuts in defense bill"
+    excerpt: "The final version of the National Defense Authorization Act has a provision that would effectively block President Donald Trump's attempt to significantly reduce US troops in Germany, a move the President said was because of Berlin's failure to spend adequate amounts on defense.\n    \n"
+    publishedDateTime: 2020-12-03T22:41:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/19og3FTT5bo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/ndaa-trump-germany-troop-cuts/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/ndaa-trump-germany-troop-cuts/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130726-01-trump-1203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia's lieutenant governor joins state GOP officials in rejecting Trump's 'misinformation'"
     excerpt: "Georgia's Republican lieutenant governor on Tuesday joined a growing list of GOP officials in the state who are publicly rejecting President Donald Trump's baseless claims of voter fraud, saying the misinformation spread by the President and his allies is \"alarming\" and could jeopardize the party in"
     publishedDateTime: 2020-12-01T16:21:33Z

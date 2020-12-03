@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-03-trump-campaign-rnc-raise-2075-million-since-election-day.md",
+      "title": "Trump campaign, RNC raise $207.5 million since Election Day",
+      "excerpt": "EXCLUSIVE: The Trump campaign, the Republican National Committee, their joint-fundraising committees and President Trump’s new PAC Save America raised a whopping $207.5 million since Election Day, Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MT9GdvRJa5M/trump-campaign-rnc-rake-in-207-5-million-since-election-day",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MT9GdvRJa5M/trump-campaign-rnc-rake-in-207-5-million-since-election-day",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 370,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp",
+      "publishedDateTime": "2020-12-03T14:28:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-former-reagan-campaign-director-ed-rollins-slams-pro-trump-attorney-as-glorified-ambulance-chaser.md",
+      "title": "Former Reagan campaign director Ed Rollins slams pro-Trump attorney as 'glorified ambulance chaser'",
+      "excerpt": "Former Reagan campaign director Ed Rollins slammed President Trump's formal and allied legal teams on Fox News Radio's \"The Brian Kilmeade Show\" Thursday, at one point calling attorney Lin Wood a \"glorified ambulance chaser.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KVxtqP6Y8To/ed-rollins-slams-lin-wood-glorified-ambulance-chaser",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KVxtqP6Y8To/ed-rollins-slams-lin-wood-glorified-ambulance-chaser",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d944ee4f-9508-4a2d-82e2-68a551ca9fc3/e64b04e8-666b-48b4-92fd-d756c165e9b7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ed-rollins-slams-lin-wood-glorified-ambulance-chaser.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ed-rollins-slams-lin-wood-glorified-ambulance-chaser.amp",
+      "publishedDateTime": "2020-12-03T14:17:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-ratcliffe-urges-biden-to-let-durham-probe-run-its-course-says-more-docs-should-be-declassified.md",
       "title": "Ratcliffe urges Biden to let Durham probe run its course, says more docs 'should be' declassified",
       "excerpt": "EXCLUSIVE: Director of National Intelligence John Ratcliffe on Thursday urged President-elect Joe Biden to allow Special Counsel John Durham's investigation into the origins of the Russia probe to run its course, while saying he hopes there will be \"folks held accountable that should be.\"",
@@ -111,118 +223,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-trump-campaign-lawyer-asks-georgia-lawmakers-to-vacate-election-results-choose-electors.md",
-      "title": "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors",
-      "excerpt": "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FUSf91Adn2U/trump-campaign-georgia-lawsuit-vacate-election-results",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FUSf91Adn2U/trump-campaign-georgia-lawsuit-vacate-election-results",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 441,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/35333bfd-ffdf-4a5c-bdd7-a56ccc453d9b/e8e632a2-e2f0-4099-b7b3-e9ebedad09f6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp",
-      "publishedDateTime": "2020-12-03T11:59:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-rncs-mcdaniel-closely-allied-with-trump-spotlights-partys-neutrality.md",
-      "title": "RNC's McDaniel, closely allied with Trump, spotlights party's neutrality",
-      "excerpt": "RNC Chair Ronna McDaniel appears to be spotlighting the party's neutrality going forward after President Trump leaves the White House on Jan. 20.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tgloscIWrkk/rnc-mcdaniel-trump-ally-party-neutrality",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tgloscIWrkk/rnc-mcdaniel-trump-ally-party-neutrality",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rnc-mcdaniel-trump-ally-party-neutrality.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-mcdaniel-trump-ally-party-neutrality.amp",
-      "publishedDateTime": "2020-12-03T10:36:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -1117,6 +1117,62 @@
       ]
     },
     {
+      "path": "_news/2020-12-02-top-ga-voting-official-slams-threats-on-election-officers-tells-trump-senators-to-condemn-it-has-to-stop.md",
+      "title": "Top Ga. voting official slams threats on election officers, tells Trump, senators to condemn it: 'Has to stop'",
+      "excerpt": "A top Georgia voting official on Tuesday in a fiery press conference decried threats against Secretary of State Brad Raffensperger, the secretary's wife, and other elections officials and workers as the Trump campaign continues to fight the result of the presidential election in court.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1gDe_7enrRc/top-ga-voting-official-slams-threats-on-election-officers-tells-trump-senators-to-condemn-it-has-to-stop",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1gDe_7enrRc/top-ga-voting-official-slams-threats-on-election-officers-tells-trump-senators-to-condemn-it-has-to-stop",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/top-ga-voting-official-slams-threats-on-election-officers-tells-trump-senators-to-condemn-it-has-to-stop.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-ga-voting-official-slams-threats-on-election-officers-tells-trump-senators-to-condemn-it-has-to-stop.amp",
+      "publishedDateTime": "2020-12-02T05:31:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-trump-threatens-to-veto-defense-bill-if-tech-liability-shield-stands.md",
       "title": "Trump Threatens to Veto Defense Bill if Tech Liability Shield Stands",
       "excerpt": "The president is demanding the termination of the broad legal immunity that social-media companies enjoy.",
@@ -1621,62 +1677,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-fired-cybersecurity-chief-may-include-trump-attorney-in-lawsuit-over-death-threats.md",
-      "title": "Fired cybersecurity chief may include Trump attorney in lawsuit over death threats",
-      "excerpt": "Former Cybersecurity and Infrastructure Security Agency Director Chris Krebs said Tuesday he plans to take legal action against people who have threatened his life after he disagreed with his onetime boss, President Trump, over the validity of the Nov. 3 election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWbFVmoKkmo/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWbFVmoKkmo/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20323077316005-e1605728670595.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp",
-      "publishedDateTime": "2020-12-01T09:26:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

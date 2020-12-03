@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-01-fired-cybersecurity-chief-may-include-trump-attorney-in-lawsuit-over-death-threats.md",
+      "title": "Fired cybersecurity chief may include Trump attorney in lawsuit over death threats",
+      "excerpt": "Former Cybersecurity and Infrastructure Security Agency Director Chris Krebs said Tuesday he plans to take legal action against people who have threatened his life after he disagreed with his onetime boss, President Trump, over the validity of the Nov. 3 election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWbFVmoKkmo/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AWbFVmoKkmo/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20323077316005-e1605728670595.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fired-election-security-official-suggests-he-may-sue-trump-campaign-lawyer-who-said-he-should-be-shot.amp",
+      "publishedDateTime": "2020-12-01T09:26:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-executive-at-nonprofit-that-helped-in-georgia-audit-has-history-of-anti-trump-tweets.md",
+      "title": "Executive at nonprofit that helped in Georgia audit has history of anti-Trump tweets",
+      "excerpt": "The executive director of a San Francisco-based nonprofit that was tapped by Georgia’s secretary of state to assist in the state’s audit has a history of anti-Trump tweets, but has insisted that he does not “bring them to work.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d0eNOTp8iQE/georgia-audit-nonprofit-executive-anti-trump-tweets",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d0eNOTp8iQE/georgia-audit-nonprofit-executive-anti-trump-tweets",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 288,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/georgia-audit-nonprofit-executive-anti-trump-tweets.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-audit-nonprofit-executive-anti-trump-tweets.amp",
+      "publishedDateTime": "2020-12-01T08:04:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-trump-campaign-to-file-wisconsin-lawsuit-claiming-abuse-of-absentee-voting-affected-220k-ballots.md",
       "title": "Trump campaign to file Wisconsin lawsuit, claiming 'abuse' of absentee voting affected 220K ballots",
       "excerpt": "EXCLUSIVE: The Trump campaign is filing a lawsuit to the Wisconsin Supreme Court Tuesday -- alleging abuse around the process of absentee voting in the state, which they say affected approximately 220,000 ballots.",
@@ -70,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -238,7 +350,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 227,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -294,7 +406,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 568,
+      "heat": 508,
       "tags": null,
       "images": [
         {
@@ -566,7 +678,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1537,118 +1649,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/joe-concha-coverage-biden-transition-just-like-campaign-no-questions.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-concha-coverage-biden-transition-just-like-campaign-no-questions.amp",
       "publishedDateTime": "2020-11-24T07:43:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-rep-michael-waltz-biden-cabinet-picks-represent-headlong-push-back-to-obama-era-foreign-policy.md",
-      "title": "Rep. Michael Waltz: Biden Cabinet picks represent 'headlong push' back to Obama-era foreign policy",
-      "excerpt": "President-elect Joe Biden's Cabinet choices indicate he will reprise the Obama administration's \"disastrous\" foreign policy, especially in the Middle East, Rep. Michael Waltz, R-Fla., warned on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x_PMgpZpYAo/rep-michael-waltz-biden-cabinet-picks-obama-foreign-policy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x_PMgpZpYAo/rep-michael-waltz-biden-cabinet-picks-obama-foreign-policy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rep-michael-waltz-biden-cabinet-picks-obama-foreign-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-michael-waltz-biden-cabinet-picks-obama-foreign-policy.amp",
-      "publishedDateTime": "2020-11-23T14:15:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-biden-spotlights-enduring-commitment-to-nato-in-talk-with-alliance-leader.md",
-      "title": "Biden spotlights ‘enduring commitment’ to NATO in talk with alliance leader",
-      "excerpt": "President-elect Joe Biden on spoke on Monday with the head of North Atlantic Treaty Organization - better known as NATO – the more than 7 decade old security organization that bonds the U.S with much of Europe.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zcffe6fZIZs/biden-spotlights-enduring-commitment-to-nato-in-talk-with-alliance-leader",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zcffe6fZIZs/biden-spotlights-enduring-commitment-to-nato-in-talk-with-alliance-leader",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-spotlights-enduring-commitment-to-nato-in-talk-with-alliance-leader.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spotlights-enduring-commitment-to-nato-in-talk-with-alliance-leader.amp",
-      "publishedDateTime": "2020-11-23T14:03:53-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

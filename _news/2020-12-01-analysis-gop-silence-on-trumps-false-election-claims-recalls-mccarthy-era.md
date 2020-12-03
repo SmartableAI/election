@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-election-claims-mccarthy/index.html"
 type: article
 quality: 188
-heat: 288
+heat: 308
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 178
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201171009-sterling-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Congress moves to block Trump's Germany troop cuts in defense bill"
+    excerpt: "The final version of the National Defense Authorization Act has a provision that would effectively block President Donald Trump's attempt to significantly reduce US troops in Germany, a move the President said was because of Berlin's failure to spend adequate amounts on defense.\n    \n"
+    publishedDateTime: 2020-12-03T22:41:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/19og3FTT5bo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/ndaa-trump-germany-troop-cuts/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/ndaa-trump-germany-troop-cuts/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130726-01-trump-1203-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

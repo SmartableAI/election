@@ -55,7 +55,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 70
+    quality: 80
     images:
       - url: "https://i.insider.com/5fc82689037cbd00186137e9?width=700"
         width: 700

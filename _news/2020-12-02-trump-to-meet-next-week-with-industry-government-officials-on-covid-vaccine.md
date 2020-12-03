@@ -57,7 +57,7 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 107
+    quality: 117
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/a9990e0f-1d48-4a88-8453-d7b48ac0ff46-GTY_1285534426.jpg?auto=webp&crop=3672,2066,x0,y186&format=pjpg&width=1200"
         width: 1200
@@ -74,6 +74,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "Pence touts plans for quick vaccine distribution"
+    excerpt: "Vice President Mike Pence said Thursday some Americans could be just days away from getting a coronavirus vaccine. But CDC Director Dr. Robert Redfield fears there are some people who may not want it."
+    publishedDateTime: 2020-12-03T22:57:00Z
+    webUrl: "https://www.jsonline.com/videos/news/nation/2020/12/03/pence-touts-plans-quick-vaccine-distribution/3817414001/"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c18754f1-4e1d-43fe-9a3d-b48048a2172f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "taeXsImHBE7DO90ETrcgde+ss2g3bIqCtvTfJzY7KJ0zGW9Hw42iX02jKvxYIhU6djo8zMm9jf9kj6P5guP9TUgidZz0j8HWhTbhGcEkbW6cPciF//3OcrzNBsvfnvyGEEAGZiEzdRHBQWGwyHrVsipiogvKGS7JDbL/8C4GHqCzr/omJMu+SGPbLrJLc+ElWMICMI8CLg+vNNcF0zcJAAHzNSKYb9mU8DN67G3+ENrT0HUd9PKNppbvNsf79fvkI1Ml8LvAywMp13nJ9k+8/Q0EELyENw/ZTKr6p8V/Dp88yvEygRQIeRJS4pfTYEhFUVYpW1WPl3s8qvuc8M3hOHz35DrNv0P1xThleaPLNys=;JZdOPRp1NtLiM4AochcFlQ=="
 ---

@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The White House could still be crawling with the coronavirus on Inauguration Day. It's a scenario that's keeping Biden's allies up at night."
+    excerpt: "The Trump White House has been a hot spot for coronavirus infections. Joe Biden and his team will want to clean up before moving in."
+    publishedDateTime: 2020-12-03T13:29:00Z
+    webUrl: "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://i.insider.com/5fc82689037cbd00186137e9?width=700"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Joe Biden’s Plans To Carry Out Every Proposal On The LGBTQ Community’s List"
     excerpt: "President-elect Joe Biden just released his plans for the LGBTQ community and he wants to grant all of it's wishes."
     publishedDateTime: 2020-11-28T21:13:00Z
@@ -46,20 +60,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/24/soundbiteus-president-elect-joe-biden-introduces-a-seasoned.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "The White House could still be crawling with the coronavirus on Inauguration Day. It's a scenario that's keeping Biden's allies up at night."
-    excerpt: "The Trump White House has been a hot spot for coronavirus infections. Joe Biden and his team will want to clean up before moving in."
-    publishedDateTime: 2020-12-03T13:29:00Z
-    webUrl: "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-    images:
-      - url: "https://i.insider.com/5fc82689037cbd00186137e9?width=700"
-        width: 700
-        height: 525
         isCached: true
 
 secured: "Ko9IvCnlYjhwYZfvpjxDQf2nf2mhJk4Q6ER+eXGEXmK16gZy0kA0F6yVv9Niqn2EYQusxyYx4sCn2V1iVtSyyMXYIpPxyZMQxDoGkUVZVQzYlgrwzeA2w+9OtnDtpiBup7Gnxd6jjdeMqXBME6fnQLNSNfZ3sla8H4iIgcVzu9uMXPH0y6uxhWkJsHZViWz9B60U/f1H5pQmUow2hFAcv0kj92BkX1PG4FVUzGh2AeEqmy4bs3SM25nT2fw9kdsQDRIVl9GXFpacXq4bpTz3cu1Zfc33bjYdLXXks6Txry6RGAFnS5n6dISKCmLRgVM8HrH/bcn6LJK+DYMRrHl5qxUkDWOVNH+qgCylxggIfyvH4+FqEbf/PBoNdL5Pj5jKL+v0g965TMXNFQWc268Q4RV3ZsjoI4UEh8UGl9bM4yNBDT9A7Vb3L6N3s3BpELjkeFTTRwbuvKr07zlgtt+8uWsxjkmMBz+F6GJDpv5GsunB/4/HoGUOva5DbPLDhMEZgPiAgYeSU317GfcyHt63Xg==;CrB29qU63r7XBP0IPzzj/Q=="

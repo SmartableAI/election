@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-new
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30trump-money-photo/30trump-money-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Tenants Sue Trump Over Scheme That Drove Up Their Rents"
+    excerpt: "The latest legal front against the outbound president involves a maneuver that earned him and his siblings millions while lowering their taxes."
+    publishedDateTime: 2020-12-03T22:13:00Z
+    webUrl: "https://www.nytimes.com/2020/12/03/nyregion/trump-lawsuit-tenants.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/03/nyregion/trump-lawsuit-tenants.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/nyregion/trump-lawsuit-tenants.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/03/multimedia/03trump-lawsuit-1/03trump-lawsuit-1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

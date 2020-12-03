@@ -8,7 +8,7 @@ webUrl: "https://www.usatoday.com/story/news/politics/2020/12/03/politics-update
 ampWebUrl: "https://amp.usatoday.com/amp/3801997001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3801997001"
 type: article
-quality: 107
+quality: 117
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Mike Pence
+  - Kamala Harris
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/a9990e0f-1d48-4a88-8453-d7b48ac0ff46-GTY_1285534426.jpg?auto=webp&crop=3672,2066,x0,y186&format=pjpg&width=1200"
@@ -74,7 +75,21 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "Pence touts plans for quick vaccine distribution"
+    excerpt: "Vice President Mike Pence said Thursday some Americans could be just days away from getting a coronavirus vaccine. But CDC Director Dr. Robert Redfield fears there are some people who may not want it."
+    publishedDateTime: 2020-12-03T22:57:00Z
+    webUrl: "https://www.jsonline.com/videos/news/nation/2020/12/03/pence-touts-plans-quick-vaccine-distribution/3817414001/"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c18754f1-4e1d-43fe-9a3d-b48048a2172f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "/jVYPZRAk/tzfHvlllitWMbKHe4im0sMveAF0Ei4my17TUWdI/EahVqZOIOFzQVdcu0iHL27jNIQeAEctv4Xgo9IqG4x7+kjcqlSux1dXHi2yOib4qnOE6LBLFtO+R39lWQmuK22pCfbPqz8Ce5LlMk85lFVqyAS0OLutwdPZbwkRqWdUZYwq7xjLDF+Ka2Dgk5v6AyTWM4BtJ5sKIa0mN6tP0LekZ1CshvxqIz5Mezy0QHIOhQkv81dX2Q2exmic28dlnJ/4iUrUhJfLEiqK5PqKaYzmR//CqwqUJIFmHDgYII/lz2GmfDZWLTe0wRsgppRaN55+5tHR1FoAsyW3G60OY3j9La7Zq9raVUJ2Bk=;0WvM0UgLkBUcy+tguYZ8Zw=="
+secured: "9lGOEK13FQlqss3BReprwsOE2y2ZiIrBgOgrNqwEwKZVEQWS4ecL4wALkold9dNNWSZbNq5uaL35eBHWo35MJwzG3+Q1NHIek/dcASYBT32qwQhZmTxuXvIcsBqxwa0emrTAqi5iVzFi4jNfxrXaRMaIKRKThiMI+vvZJSI93TrhbUOK5BS1O9z/y73xJwt8feVAIpIGO7g5ofgCSIkbPo1So01UxCaEH9YFX+DV/P+E8yRJ9SMIURQ44PrXL+juZVVO7mm/75YaR5sCrPAqUMy9Wf910SPa4w4IlUCNYYTo0ZW/cKArlkjbOVUcm6fblVdLAgZ/P+AkxqvOyOjKnuoAzo1LSvoBHm/WolqbkqS67Uxm/R55k3rkvuTmCb/NVCTl2OUjFnYbxlTQMBOyd5hMaBuO6EfrPNSUKF6OM8J5aoW7xKhYxp3TOikKXiRIGYjYnvh+eP200xHlTqmQ2mKkkmMQxgEDZ6ieR5B/nXvJdF5kWwDsURIqq6yUEKjfrUzN3c7ocESQW0JbpXfDig==;rBzEBwMz6tKu8MTJp442EQ=="
 ---
 

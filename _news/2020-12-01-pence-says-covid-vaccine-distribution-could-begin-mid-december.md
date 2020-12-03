@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-01/pence-says-co
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -57,7 +57,7 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 107
+    quality: 117
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/a9990e0f-1d48-4a88-8453-d7b48ac0ff46-GTY_1285534426.jpg?auto=webp&crop=3672,2066,x0,y186&format=pjpg&width=1200"
         width: 1200
@@ -74,6 +74,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "Pence touts plans for quick vaccine distribution"
+    excerpt: "Vice President Mike Pence said Thursday some Americans could be just days away from getting a coronavirus vaccine. But CDC Director Dr. Robert Redfield fears there are some people who may not want it."
+    publishedDateTime: 2020-12-03T22:57:00Z
+    webUrl: "https://www.jsonline.com/videos/news/nation/2020/12/03/pence-touts-plans-quick-vaccine-distribution/3817414001/"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c18754f1-4e1d-43fe-9a3d-b48048a2172f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "rDlS4SgpffT9DwqRlECyVQ38pNtm/8/GhStvBnp3DwKiErdfgpFUscAoa0MEph8r5gHaTOKkRXja2RvGL4sIfniM+DOtmPXsGVTGUQrxVaAcUotmkbLN04o2ID/4Pp3wku2oa+rvzOpXi4DRL1GpD9YT4mi4es3ZfHtqmyfIQdnjrsyN/OFy9sMQGTip27ZoOo9aMQhgvm6xrlWUpHY1NtgqQ+bWQQ1d6jwYsXL6sTz3JW0zkPbCFZ8fkpsx2Ju9uC7aX0L/MRTSjHCKCPRPs7Utw3JkNjyHcHhu9ifLjIAgSw+H3eVzCAR0xjDg3s1BtWk87vKXAHcYUU7K+McacoZo3lmQk2KmzIbDf79GSYg7q18TuEoDWLFHe5ZCX8mjgBMEYXHr90epuwQvK5QlzdFWqS9v0Z3T66jYXhwBxK/pHFH/AdKM3HtbAhFADuhXEtYigJefoODXnYNAY2WiidJihmFreXvyW9WLqX4DUkLtUaCdk7OkT5OjQezbWAt3Fr8L0T8yt6juw4T2HbGiHQ==;Djjrcid39BW5NEc7UZFInQ=="
 ---

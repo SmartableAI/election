@@ -2,6 +2,231 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-03-biden-says-he-will-ask-americans-to-wear-masks-for-the-first-100-days-hes-in-office.md",
+      "title": "Biden says he will ask Americans to wear masks for the first 100 days he's in office",
+      "excerpt": "President-elect Joe Biden told CNN's Jake Tapper on Thursday that he has asked Dr. Anthony Fauci to be a chief medical adviser and part of his Covid-19 response team when his administration begins next year.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vBMq_AvZBFo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vBMq_AvZBFo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203164514-tapper-biden-harris-1203-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/biden-harris-interview-jake-tapper/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-harris-interview-jake-tapper/index.html",
+      "publishedDateTime": "2020-12-03T14:44:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-wikipedia-page-for-bidens-new-covid-czar-scrubbed-of-politically-damaging-material.md",
+      "title": "Wikipedia page for Biden's new Covid czar scrubbed of politically damaging material",
+      "excerpt": "A Democratic consulting firm made numerous changes to Jeff Zients' page as he became a more important figure on Biden’s team this summer and fall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "originalUrl": "https://www.politico.com/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/2f/86/c701e1f14b4b8695d6566e23a04f/ap120767208216.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "publishedDateTime": "2020-12-03T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-trump-campaign-rnc-raise-2075-million-since-election-day.md",
+      "title": "Trump campaign, RNC raise $207.5 million since Election Day",
+      "excerpt": "EXCLUSIVE: The Trump campaign, the Republican National Committee, their joint-fundraising committees and President Trump’s new PAC Save America raised a whopping $207.5 million since Election Day, Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MT9GdvRJa5M/trump-campaign-rnc-rake-in-207-5-million-since-election-day",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MT9GdvRJa5M/trump-campaign-rnc-rake-in-207-5-million-since-election-day",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 370,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp",
+      "publishedDateTime": "2020-12-03T14:28:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-former-reagan-campaign-director-ed-rollins-slams-pro-trump-attorney-as-glorified-ambulance-chaser.md",
+      "title": "Former Reagan campaign director Ed Rollins slams pro-Trump attorney as 'glorified ambulance chaser'",
+      "excerpt": "Former Reagan campaign director Ed Rollins slammed President Trump's formal and allied legal teams on Fox News Radio's \"The Brian Kilmeade Show\" Thursday, at one point calling attorney Lin Wood a \"glorified ambulance chaser.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KVxtqP6Y8To/ed-rollins-slams-lin-wood-glorified-ambulance-chaser",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KVxtqP6Y8To/ed-rollins-slams-lin-wood-glorified-ambulance-chaser",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d944ee4f-9508-4a2d-82e2-68a551ca9fc3/e64b04e8-666b-48b4-92fd-d756c165e9b7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ed-rollins-slams-lin-wood-glorified-ambulance-chaser.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ed-rollins-slams-lin-wood-glorified-ambulance-chaser.amp",
+      "publishedDateTime": "2020-12-03T14:17:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-an-attempt-to-sabotage-trumps-potential-purge-of-career-employees-casts-pall-across-federal-government.md",
       "title": "'An attempt to sabotage': Trump's potential purge of career employees casts pall across federal government",
       "excerpt": "Federal career employees across the Trump administration are fearful of losing their job protections and potentially their jobs, as agencies begin to implement a recent executive order signed by President Donald Trump.\n    \n",
@@ -223,62 +448,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-03-trump-campaign-lawyer-asks-georgia-lawmakers-to-vacate-election-results-choose-electors.md",
-      "title": "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors",
-      "excerpt": "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FUSf91Adn2U/trump-campaign-georgia-lawsuit-vacate-election-results",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FUSf91Adn2U/trump-campaign-georgia-lawsuit-vacate-election-results",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 441,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/35333bfd-ffdf-4a5c-bdd7-a56ccc453d9b/e8e632a2-e2f0-4099-b7b3-e9ebedad09f6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp",
-      "publishedDateTime": "2020-12-03T11:59:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-03-plotting-the-future-trump-kids-even-look-to-profit-from-their-fathers-fallen-legacy.md",
       "title": "Plotting the future: Trump kids even look to profit from their father's fallen legacy ",
       "excerpt": "It was Thanksgiving, but instead of being seated at an elaborate table dressed with gold silverware, expensive china and a buffet of chilled seafood, turkey and beef tenderloin, waited on by household staff, Donald Trump Jr., Eric Trump, Ivanka Trump and Jared Kushner were in the wilderness of Maryland.\n",
@@ -343,7 +512,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/kamala-harris-chief-of-staff/2020/12/03/4a53c3ee-341b-11eb-a997-1f4c53d2a747_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 565,
+      "heat": 585,
       "tags": null,
       "images": [
         {
@@ -436,62 +605,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-rncs-mcdaniel-closely-allied-with-trump-spotlights-partys-neutrality.md",
-      "title": "RNC's McDaniel, closely allied with Trump, spotlights party's neutrality",
-      "excerpt": "RNC Chair Ronna McDaniel appears to be spotlighting the party's neutrality going forward after President Trump leaves the White House on Jan. 20.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tgloscIWrkk/rnc-mcdaniel-trump-ally-party-neutrality",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tgloscIWrkk/rnc-mcdaniel-trump-ally-party-neutrality",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rnc-mcdaniel-trump-ally-party-neutrality.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-mcdaniel-trump-ally-party-neutrality.amp",
-      "publishedDateTime": "2020-12-03T10:36:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1098,63 +1211,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-03-biden-urged-to-change-immigration-policy-to-send-more-health-workers-to-covid-hot-spots.md",
-      "title": "Biden urged to change immigration policy to send more health workers to Covid hot spots",
-      "excerpt": "Backers of the legislation think linking health worker shortages with immigration policy will resonate with the incoming administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/03/biden-immigration-policy-health-workers-442411",
-      "originalUrl": "https://www.politico.com/news/2020/12/03/biden-immigration-policy-health-workers-442411",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/8a/5f/f94fd7c34f65a2b21373e5ff3869/gettyimages-1229807401-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411",
-      "publishedDateTime": "2020-12-03T01:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-03-biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat.md",
       "title": "Biden must decide on North Korea strategy early, says top Obama-era diplomat",
       "excerpt": "Kurt Campbell says the delay in acting on Pyongyang in previous Democratic administration ‘headed off any possibility of engagement’",
@@ -1303,63 +1359,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-trump-hints-at-another-act-in-four-years-just-like-grover-cleveland.md",
-      "title": "Trump Hints at Another Act in Four Years, Just Like Grover Cleveland",
-      "excerpt": "The president is eying a comeback in 2024 aimed at making him the only person other than Cleveland to win another term after losing the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/02/us/politics/02dc-trump-1/02dc-trump-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html",
-      "publishedDateTime": "2020-12-02T16:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

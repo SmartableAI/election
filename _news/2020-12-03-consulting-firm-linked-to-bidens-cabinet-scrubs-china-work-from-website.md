@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to call for 100 days of masks after inauguration"
+    excerpt: "President-elect Joe Biden said during an interview on Thursday that he plans to ask the American public to wear masks for 100 days, starting on the day he is inaugurated."
+    publishedDateTime: 2020-12-03T22:41:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tGBCLmZaqnk/biden-call-100-days-masks-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-call-100-days-masks-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-call-100-days-masks-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Gaetz accuses Biden of wanting to be 'valet for the establishment in both parties'"
     excerpt: "An unusual and seemingly unlikely coalition of progressive Democrats and populist Republicans could form an alliance to be reckoned with in the new Congress next year, Rep. Matt Gaetz, R-Fla. told \"The Ingraham Angle\" Wednesday."
     publishedDateTime: 2020-12-03T05:20:51Z

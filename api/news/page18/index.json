@@ -2,6 +2,222 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-11-08-rep-matt-gaetz-a-close-trump-ally-says-hes-tested-positive-for-coronavirus-antibodies.md",
+      "title": "Rep. Matt Gaetz, a close Trump ally, says he's tested positive for coronavirus antibodies",
+      "excerpt": "The Republican Florida lawmaker is one of Trump's staunchest defenders on Capitol Hill and is a fixture in conservative media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11",
+      "originalUrl": "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa6b3caf7d1cb0019e3a5f6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11?amp",
+      "publishedDateTime": "2020-11-07T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-fox-news-chris-wallace-says-there-doesnt-seem-to-be-much-reason-to-believe-trumps-election-lawsuits-will-succeed.md",
+      "title": "Fox News' Chris Wallace says there 'doesn't seem to be much reason to believe' Trump's election lawsuits will succeed",
+      "excerpt": "He added Republican leaders who see \"their fortunes and their futures are no longer so directly tied to Donald Trump are gonna begin to pull back.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fox-news-chris-wallace-casts-doubt-on-trump-election-lawsuits-2020-11",
+      "originalUrl": "https://www.businessinsider.com/fox-news-chris-wallace-casts-doubt-on-trump-election-lawsuits-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa714d31df1d50018219764?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fox-news-chris-wallace-casts-doubt-on-trump-election-lawsuits-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-chris-wallace-casts-doubt-on-trump-election-lawsuits-2020-11?amp",
+      "publishedDateTime": "2020-11-07T15:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-pro-trump-election-facebook-group-stop-the-steal-banned-after-calling-for-violence.md",
+      "title": "Pro-Trump election Facebook group 'Stop the Steal' banned after calling for violence",
+      "excerpt": "Facebook banned a pro-Trump group after posts suggesting \"worrying calls for violence\" surrounding the highly contentious results of the 2020 election. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XMC81W4f3xI/pro-trump-election-facebook-group-stop-the-steal-banned-after-calling-for-violence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XMC81W4f3xI/pro-trump-election-facebook-group-stop-the-steal-banned-after-calling-for-violence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/676dfa3c-4088-4c21-8593-30bbdf6881d9/e5f6cbde-2fd3-413c-93cb-6ecb530cc320/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pro-trump-election-facebook-group-stop-the-steal-banned-after-calling-for-violence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-election-facebook-group-stop-the-steal-banned-after-calling-for-violence.amp",
+      "publishedDateTime": "2020-11-07T15:25:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-fact-check-trump-falsely-claims-illegal-ballots-are-changing-the-election.md",
+      "title": "Fact check: Trump falsely claims 'illegal ballots' are changing the election",
+      "excerpt": "In a tweet thread Saturday morning President Donald Trump threw out baseless claims suggesting that \"tens of thousands\" of illegal ballots are being used to change the results in key states.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQlMie3LeZI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQlMie3LeZI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 287,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201106225744-donald-trump-rally-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/07/politics/donald-trump-illegal-ballots-fact-check/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/donald-trump-illegal-ballots-fact-check/index.html",
+      "publishedDateTime": "2020-11-07T14:47:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-bidens-inauguration-during-covid-19-what-the-january-event-could-look-like.md",
       "title": "Biden's inauguration during COVID-19: What the January event could look like",
       "excerpt": "Construction is already underway in Washington, D.C., in preparation for the presidential inauguration on Jan. 20, 2021. The date is set by the U.S. Constitution's 20th Amendment.",
@@ -1143,218 +1359,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-donald-trumps-niece-attacks-president-over-speech-this-is-what-it-looks-like-when-a-loser-loses.md",
-      "title": "Donald Trump's Niece Attacks President over Speech: 'This Is What It Looks like When a Loser Loses'",
-      "excerpt": "Mary L. Trump is one of a number of people, including Republicans, to have condemned president and his baseless claims on election fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mary-trump-president-election-fraud-speech-loser-1545379",
-      "originalUrl": "https://www.newsweek.com/mary-trump-president-election-fraud-speech-loser-1545379",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1665639/trump.jpg",
-          "width": 3612,
-          "height": 2408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mary-trump-president-election-fraud-speech-loser-1545379?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-president-election-fraud-speech-loser-1545379?amp=1",
-      "publishedDateTime": "2020-11-06T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-fox-cnn-carry-president-trumps-falsehood-laden-speech-as-msnbc-abc-cut-away-for-fact-checks.md",
-      "title": "Fox, CNN carry President Trump's falsehood-laden speech, as MSNBC, ABC cut away for fact checks",
-      "excerpt": "As Fox News and CNN covered President Trump's falsehood-laden speech about the election Thursday, MSNBC pulled away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/05/fox-cnn-covered-trumps-falsehood-laden-speech-msnbc-pulled-away/6182029002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/05/fox-cnn-covered-trumps-falsehood-laden-speech-msnbc-pulled-away/6182029002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6182029002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6182029002",
-      "publishedDateTime": "2020-11-05T18:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-greta-thunberg-mocks-donald-trump-with-his-own-words-in-twitter-revenge-chill-donald-chill.md",
-      "title": "Greta Thunberg mocks Donald Trump with his own words in Twitter revenge: 'Chill, Donald, Chill!'",
-      "excerpt": "Within four hours on her Twitter post, Thunberg's tweet had surpassed Trump's in both likes and retweets, and \"Greta\" was trending in the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/11/05/greta-thunberg-mocks-donald-trump-twitter-his-own-words/6182026002/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/05/greta-thunberg-mocks-donald-trump-twitter-his-own-words/6182026002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/03/25/USAT/507f08a0-4b8d-4dff-a61a-1757fbcabf31-AFP_AFP_1PO044.JPG?auto=webp&crop=5388,3031,x0,y284&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6182026002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6182026002",
-      "publishedDateTime": "2020-11-05T17:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-trump-touts-gains-with-minorities-and-women-were-the-party-of-inclusion.md",
-      "title": "Trump touts gains with minorities and women: 'We're the party of inclusion'",
-      "excerpt": "President Trump touting his party’s gains with women and minorities, declared the Republican Party the “party of inclusion” in a news conference Thursday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xvg69Ti-dgI/trump-party-of-inclusion",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xvg69Ti-dgI/trump-party-of-inclusion",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f2655c9-ae5d-4607-94a3-33e61a24b66c/648337d5-952b-4c9a-8f58-2469df653a0f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-party-of-inclusion.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-party-of-inclusion.amp",
-      "publishedDateTime": "2020-11-05T16:56:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
