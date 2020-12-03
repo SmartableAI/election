@@ -431,6 +431,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Biden, top Democrats swing behind bipartisan virus aid bill"
+    excerpt: "WASHINGTON -- President-elect Joe Biden swung behind a bipartisan COVID-19 relief effort Wednesday and his top Capitol Hill allies cut their demands for a $2 trillion-plus measure by more than half in hopes of breaking a monthslong logjam and delivering much-sought aid as the tempestuous congressional session speeds to a close."
+    publishedDateTime: 2020-12-03T04:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/senate-gop-leader-sticking-partisan-covid-relief-plan-74497041"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-gop-leader-sticking-partisan-covid-relief-plan-74497041"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-gop-leader-sticking-partisan-covid-relief-plan-74497041"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4915031dcafe45a7876e927842927883_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Klain brings decades of DC experience to Biden White House"
     excerpt: "Ron Klain has checked all the boxes of a classic Washington striver: Georgetown, Harvard Law, Supreme Court and Capitol Hill staffer, White House adviser and, along the way, of course, lobbyist and la"
     publishedDateTime: 2020-12-02T16:55:05Z
@@ -444,6 +460,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_887f8ac3db0d4656b4e9d3986d10cc9a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Unveiling economic team, Biden pledges, 'Help is on the way'"
+    excerpt: "President-elect Joe Biden has introduced top advisers he says will help his administration rebuild an economy hammered by the coronavirus pandemic"
+    publishedDateTime: 2020-12-03T03:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-unveils-economic-team-critical-moment-recovery-74481765"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-unveils-economic-team-critical-moment-recovery-74481765"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-unveils-economic-team-critical-moment-recovery-74481765"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dde971aafe2f40269ccc2ead36f4bca8_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

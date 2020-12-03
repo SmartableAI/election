@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats seek disciplinary investigation for Trump lawyer who called for violence against former election cybersecurity official"
+    excerpt: "Congressional Democrats on Wednesday asked the DC Bar's Office of Disciplinary Counsel to open an investigation into an attorney for the Trump campaign who had issued a call for violence against a former cybersecurity official who was ousted from his post after he rejected President Donald Trump's unfounded"
+    publishedDateTime: 2020-12-03T04:06:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/psfIz6i84eE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/democrats-disciplinary-action-digenova-trump-lawyer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/democrats-disciplinary-action-digenova-trump-lawyer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180319134937-joseph-e-digenova-smerconish-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "K76QaSftdUAmAw+K27+BzZbEGdX1x5mIbceAXfBzJoJt4r8v4YO/LQO3XRVQJi3ZSrd5DuhiyW/b+pD0nB5izgcC3HEgodnbveuP4/dKseGfKrJmJ5gThuDJKXQES0WvhZyK51wdyV8BJ4aXFyyZU3vYy36eUN9tkPgtEKKJ1Kr2Bdt9KOzDSxFOuVOkqu5EDcpm06pect+E51jeoYjj7lMaTyAWUr7pw+/89mI7pnF6OjW96PblS3G4fqHxEcXjdpsv69LOthB5rAcc/Btg453KFdU3Ya3bRWC1L/5TUXqLVqzp8G/FZdx8YaYeKCRWIKJ/acO2Y9GINQgmezx0xpG2HTckswMXqO1srHzBK0Y=;0zRI7GYVZJnmS9w7SxLCTA=="
 ---

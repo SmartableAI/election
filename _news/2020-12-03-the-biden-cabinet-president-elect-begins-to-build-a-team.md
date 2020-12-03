@@ -2,13 +2,13 @@
 category: news
 title: "The Biden Cabinet: President-elect begins to build a team"
 excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the United States' diversity."
-publishedDateTime: 2020-12-02T22:34:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-cabinet-idINKBN28C2SK"
-webUrl: "https://www.reuters.com/article/usa-biden-cabinet-idINKBN28C2SK"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C2SK"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C2SK"
+publishedDateTime: 2020-12-02T22:30:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-cabinet/the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG216"
+webUrl: "https://www.reuters.com/article/usa-biden-cabinet/the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG216"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IG216"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IG216"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -23,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543228358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11JB"
-    width: 738
-    height: 545
-    isCached: true
 
 related:
   - title: "The Latest: Graham: Trump should attend Biden’s inauguration"
@@ -399,6 +393,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump’s unfinished border wall faces uncertain future after Biden pledge to freeze construction"
+    excerpt: "President-elect Joe Biden has pledged to halt construction once in office, leaving Trump’s signature project in the lurch."
+    publishedDateTime: 2020-12-02T18:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/biden-border-wall-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/biden-border-wall-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/biden-border-wall-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 128
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5PEZPEP2QI6VIF4J2NNJBTNEE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump's America-first approach 'meant America alone', says Joe Biden – video"
     excerpt: "President-elect Joe Biden says his presidency would not be 'a third Obama term' and that he would consider appointing a Republican"
     publishedDateTime: 2020-11-25T01:19:00Z
@@ -595,6 +605,22 @@ related:
     webUrl: "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html"
     ampWebUrl: "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Ivanka Trump deposed as part of inauguration fund lawsuit"
+    excerpt: "Ivanka Trump has been deposed by attorneys alleging that President Donald Trump’s 2017 inauguration committee misused donor funds"
+    publishedDateTime: 2020-12-03T03:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/ivanka-trump-deposed-as-part-of-inauguration-fund-lawsuit/2020/12/02/94e921d0-3518-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/ivanka-trump-deposed-as-part-of-inauguration-fund-lawsuit/2020/12/02/94e921d0-3518-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/ivanka-trump-deposed-as-part-of-inauguration-fund-lawsuit/2020/12/02/94e921d0-3518-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -1092,6 +1118,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "Az0SLmMKl4kpuLVOm5YQkCz6uL7x1mu08KALNnWojOx3RMgHR2tDJSvR1Gy5W19kMfsRjpRolecMxeDpUkuP3VV8k2MR2B9GKxFJjPmVX0CHgelfxXnUkasIwQ8WWXQd5gTRHnFl0iKrc933JW1V/a7s3lK9hBcLDgXh+sDnPmuMFNu6yj7yDoAO/BtckJt+eBIitBeSuc/Gfs8EkthB0SkLHgntaxGo3qKXvr5hcINS/kgDtWQmnex06KbolvSq+BdYpEBnLVWEYczdFYWV0VRRpCDC7217Ji6BKTp9T1v2tXoSZ1mFWRw4eAu9fx6yoSanL78N4cUsLd+Xt5ELOz2+xweQEqUzHXo0Zd2H9KI=;+V4fRBAP9P2R+XpIXC0mlQ=="
+secured: "LojDPn4baRMCaOe3W827qfU4GL9s/FbRUdM2EvCU4h9hGmkxhEp+SKj+3+Ee0suR4AYG1hkCyKg0PYpEiHr0/FUSrEhvg1RyG2tvam6cilLW+e88PalpSN8zrSOHVGx0omAYtJpIyouQl3qQ+9z5TUR1vZjZB9gQSLUPp36XjX0rRVWWN4k7WjCAEmJTSpN5idanYGNEh5ctGPdCZ7iC1lHaWjfoeree5LE2d2vXiW1iDAQI2mVV2zweWVvMMic1r3696Sbw3hxgnib6ogUfpPZwsR4VwhxIquA/zE2TQU+rK3A9rlS4cZijoBT4EoX43QpIxmBW2BQh6eT0cMRhXx88jUgYG6zBp4S23qmSD0o=;CFPoCOIh6y0b080dYU9cYg=="
 ---
 

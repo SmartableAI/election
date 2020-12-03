@@ -111,6 +111,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Disputing Trump, Barr says no widespread election fraud"
+    excerpt: "Attorney General William Barr said Tuesday that the Justice Department has not uncovered evidence of widespread voter fraud and has seen nothing that would change the outcome of the 2020 presidential"
+    publishedDateTime: 2020-12-03T03:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/barr-evidence-fraud-thatd-change-election-outcome-74486980"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/barr-evidence-fraud-thatd-change-election-outcome-74486980"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/barr-evidence-fraud-thatd-change-election-outcome-74486980"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_34a633720c4642139fd6c62c76b32a41_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump allies Barr, Giuliani at odds on discredited election fraud claims"
     excerpt: "Cracks emerged between two of President Donald Trump's key legal allies on Tuesday as Attorney General William Barr said his department had found no evidence of the widespread voter fraud Trump alleges,"
     publishedDateTime: 2020-12-02T06:08:00Z
@@ -623,17 +639,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Disputing Trump, Barr says no widespread election fraud"
-    excerpt: "Disputing President Donald Trump’s persistent, baseless claims, Attorney General William Barr declared the U.S. Justice Department has uncovered no evidence of widespread voter fraud that could change the outcome of the 2020 election."
-    publishedDateTime: 2020-12-02T18:36:00Z
-    webUrl: "https://www.businessinsider.com/disputing-trump-barr-says-no-widespread-election-fraud-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/disputing-trump-barr-says-no-widespread-election-fraud-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/disputing-trump-barr-says-no-widespread-election-fraud-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Justices skeptical of Trump bid to exclude all undocumented immigrants from census"
     excerpt: "President Donald Trump's sweeping order to exclude all undocumented immigrants from the 2020 Census faced skepticism Monday from a majority on the U.S. Supreme Court."
     publishedDateTime: 2020-11-30T19:26:00Z

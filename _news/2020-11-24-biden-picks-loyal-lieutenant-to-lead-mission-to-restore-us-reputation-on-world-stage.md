@@ -939,6 +939,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden economic pick takes fire from former employees"
+    excerpt: "A former colleague of HEATHER BOUSHEY, a top economic adviser to President-elect JOE BIDEN, is publicly airing prior accusations that Boushey mismanaged her think tank and verbally abused her and other subordinates,"
+    publishedDateTime: 2020-12-02T23:46:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2020/12/02/biden-economic-pick-takes-fire-from-former-employees-491038"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "QUdbBZpKqcHcQO0QLoEzY0kzCV92L1mUsiuRfhQrA4TlP8jhrsmAgLkHKQgOCwjCFVRx7YhXig/xFTxQSVKeJLmq+qXdjPAViujwcTlqi33U7wLoei2RJ115da/6OQxQVozLcx0+p+OuQ3hfcwe4ZTE0B7ROyeBJh4g4s95k8WpkP0/KOe5krIcfMvyJFzuJY2xoR7VqETcAGz6nF6OFK4Pn397hygZysIQWbCmNTVoek/QfV9Wynh1rz7kAR5OR3aw2ok853T61kS+E1/IalC0CGfOCsVLU1pTWUqTql0udRGCfqGmivDMI+Bl3y4vWjk5igqfdhC/jMny7v3ObkO7kaBjWMXZJX3isKxWBubA=;hE1sFOfnSjCUIW19diMFdQ=="
 ---

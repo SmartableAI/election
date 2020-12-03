@@ -397,6 +397,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump’s unfinished border wall faces uncertain future after Biden pledge to freeze construction"
+    excerpt: "President-elect Joe Biden has pledged to halt construction once in office, leaving Trump’s signature project in the lurch."
+    publishedDateTime: 2020-12-02T18:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/biden-border-wall-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/biden-border-wall-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/biden-border-wall-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 128
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5PEZPEP2QI6VIF4J2NNJBTNEE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump's America-first approach 'meant America alone', says Joe Biden – video"
     excerpt: "President-elect Joe Biden says his presidency would not be 'a third Obama term' and that he would consider appointing a Republican"
     publishedDateTime: 2020-11-25T01:19:00Z
@@ -603,21 +619,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "The Biden Cabinet: President-elect begins to build a team"
-    excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the United States' diversity."
-    publishedDateTime: 2020-12-02T22:34:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-idINKBN28C2SK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C2SK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C2SK"
+  - title: "Ivanka Trump deposed as part of inauguration fund lawsuit"
+    excerpt: "Ivanka Trump has been deposed by attorneys alleging that President Donald Trump’s 2017 inauguration committee misused donor funds"
+    publishedDateTime: 2020-12-03T03:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/ivanka-trump-deposed-as-part-of-inauguration-fund-lawsuit/2020/12/02/94e921d0-3518-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/ivanka-trump-deposed-as-part-of-inauguration-fund-lawsuit/2020/12/02/94e921d0-3518-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/ivanka-trump-deposed-as-part-of-inauguration-fund-lawsuit/2020/12/02/94e921d0-3518-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543228358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11JB"
-        width: 738
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
     excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
@@ -1020,6 +1036,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Biden Cabinet: President-elect begins to build a team"
+    excerpt: "Democratic President-elect Joe Biden has begun nominating the members of his Cabinet and White House, working to fulfill his promise to build an administration that reflects the United States' diversity."
+    publishedDateTime: 2020-12-02T22:30:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet/the-biden-cabinet-president-elect-begins-to-build-a-team-idUSL1N2IG216"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IG216"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IG216"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Under Trump, New Anti-Abortion Rules Shook Fragile Health Systems Around the World"
     excerpt: "President-elect Joe Biden inherits a global health landscape changed by the Trump administration more than under any Republican president since Ronald Reagan."
     publishedDateTime: 2020-11-24T18:06:00Z

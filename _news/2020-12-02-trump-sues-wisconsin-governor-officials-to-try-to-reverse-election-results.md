@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Trump files lawsuit challenging Wisconsin election results"
+    excerpt: "President Donald Trump has filed a lawsuit in Wisconsin seeking to disqualify more than 221,000 ballots in a longshot attempt to overturn Democrat Joe Biden’s win in the battleground state he lost by nearly 20,"
+    publishedDateTime: 2020-12-03T03:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-files-lawsuit-challenging-wisconsin-election-results-74482066"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-files-lawsuit-challenging-wisconsin-election-results-74482066"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-files-lawsuit-challenging-wisconsin-election-results-74482066"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ecb141ae0fee4d9cb0135cedf36c24f9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "‘We need you’: GOP hunts for new voters in Trump territory"
     excerpt: "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time"
     publishedDateTime: 2020-10-28T04:47:00Z

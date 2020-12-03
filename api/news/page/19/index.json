@@ -2,6 +2,63 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-11-05-mike-pence-sen-collins-apparently-deny-systemic-racism-exists.md",
+      "title": "Mike Pence, Sen. Collins apparently deny systemic racism exists",
+      "excerpt": "Mike Pence and Sen. Susan Collins have apparently denied that systemic racism exists while on the 2020 campaign trail, Pence also implying that 2020 Democratic presidential candidate Vice President Joe Biden is in error for acknowledging racism in America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/am-joy/watch/mike-pence-sen-collins-apparently-deny-systemic-racism-exists-95071813913",
+      "originalUrl": "https://www.msnbc.com/am-joy/watch/mike-pence-sen-collins-apparently-deny-systemic-racism-exists-95071813913",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_joy_goprace_201031_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp-video/mmvo95071813913",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo95071813913",
+      "publishedDateTime": "2020-11-04T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-trump-was-correct-that-election-would-be-much-closer-than-most-thought-frank-luntz.md",
       "title": "Trump was 'correct' that election would be 'much closer' than most thought: Frank Luntz",
       "excerpt": "President Trump and his pollsters were “correct” in saying that the 2020 presidential election would be \"much closer\" than anybody expected, veteran Republican pollster Frank Luntz said Wednesday.",
@@ -1321,62 +1378,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary.md",
-      "title": "Colorado Sen. Michael Bennet not interested in being Biden's education secretary",
-      "excerpt": "Colorado’s senior Democratic senator has said he would not be interested in serving as education secretary under a prospective Joe Biden’s administration, despite his background in public education.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/URD0qG8SsMk/colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/URD0qG8SsMk/colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f63ae9c-e71d-44c6-bb32-f901a0c56576/06f4d830-7558-44eb-9e75-5af937341bd4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary.amp",
-      "publishedDateTime": "2020-11-03T14:46:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

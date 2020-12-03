@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Disputing Trump, Barr says no widespread election fraud"
-excerpt: "Disputing President Donald Trump’s persistent, baseless claims, Attorney General William Barr declared the U.S. Justice Department has uncovered no evidence of widespread voter fraud that could change the outcome of the 2020 election."
-publishedDateTime: 2020-12-02T18:36:00Z
-originalUrl: "https://www.businessinsider.com/disputing-trump-barr-says-no-widespread-election-fraud-2020-12"
-webUrl: "https://www.businessinsider.com/disputing-trump-barr-says-no-widespread-election-fraud-2020-12"
-ampWebUrl: "https://www.businessinsider.com/disputing-trump-barr-says-no-widespread-election-fraud-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/disputing-trump-barr-says-no-widespread-election-fraud-2020-12?amp"
+excerpt: "Attorney General William Barr said Tuesday that the Justice Department has not uncovered evidence of widespread voter fraud and has seen nothing that would change the outcome of the 2020 presidential"
+publishedDateTime: 2020-12-03T03:03:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/barr-evidence-fraud-thatd-change-election-outcome-74486980"
+webUrl: "https://abcnews.go.com/Politics/wireStory/barr-evidence-fraud-thatd-change-election-outcome-74486980"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/barr-evidence-fraud-thatd-change-election-outcome-74486980"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/barr-evidence-fraud-thatd-change-election-outcome-74486980"
 type: article
-quality: 120
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_34a633720c4642139fd6c62c76b32a41_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "They’re baaack: Trump and allies still refuse election loss"
@@ -994,6 +1000,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "MqrfQ3hpuxB9yciDyMl7tI8YnggPAcVu447Q3ebvm3jaObOZdshBD7+2Hr303RDokYLkqytwQKZhdNjAE66smWrrPMhgzVOnVEDy+MTlB1ACeaeu7Z8GkpTghIkVOlmq0CS/7Z3ft77fmplTGYhQPBp4sD+6pIICZr6o2ypecJRE6T4eXQqPBsUBJBypAtKqcbcV/t30ggeePno6Rqt4wDEgKDRCFYQi7YwGr4r8IJiRWsWRcR0qzoBcnP6JRTOHacvjP0ozUZOXa7VEYIyqirTW/6H1gJIw35QNMFL4KAYy9ijPy8xvENAKDytJEUxmjvbb7XUhIghx40arSAadD1Dc6QccAT4I5ByRam79SG4=;iuJjVt3iEfgZAsLVSgZaLA=="
+secured: "FfVZsBiA5ZMfGkpCSnsrOvXzFyV+5UuHHlN89znssrnB9dvJdVXYuXkxNC2h23sQneNIhn+fuHtvfqOoXWcr3eOye/jEQJ+/IcHyPCi1sqoKBboMRpgHMhdGLWa/k1mztcknbBs5O45hFo+syWEcgn7k3U9VdBxiRHPZQel6Caj1RYX61VyASvFixDUAIhdtHJr7tcrGdBIgZOJF9GJLurFaHn3QWJrllChHROyRaFSgJXitcnFobFMFcs5C1Eh0wl1pfuHWiLpYAxa4PTH3DSL05tzBQRQUDBoaKPZ+nrKF2hoT1nuu4drBlDnch7+ZvZCApgQm6nirbmWJ7CQYuqQgpNBvawfXOgRmTU4i+k8=;URAph0I4twkFTTyIoZsLlA=="
 ---
 

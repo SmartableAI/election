@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-election-claims-mccarthy/index.html"
 type: article
 quality: 188
-heat: 268
+heat: 288
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201081905-geoff-duncan-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats seek disciplinary investigation for Trump lawyer who called for violence against former election cybersecurity official"
+    excerpt: "Congressional Democrats on Wednesday asked the DC Bar's Office of Disciplinary Counsel to open an investigation into an attorney for the Trump campaign who had issued a call for violence against a former cybersecurity official who was ousted from his post after he rejected President Donald Trump's unfounded"
+    publishedDateTime: 2020-12-03T04:06:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/psfIz6i84eE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/democrats-disciplinary-action-digenova-trump-lawyer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/democrats-disciplinary-action-digenova-trump-lawyer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180319134937-joseph-e-digenova-smerconish-screengrab-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

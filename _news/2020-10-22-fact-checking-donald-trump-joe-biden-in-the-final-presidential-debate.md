@@ -3962,6 +3962,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden promises help to U.S. workers hit by pandemic, Trump hints at 2024 run"
+    excerpt: "President-elect Joe Biden on Wednesday promised a group of workers hit by the raging COVID-19 pandemic that more aid would be on the way, while President Donald Trump hinted he may be ready to begin planning another run for the White House in 2024."
+    publishedDateTime: 2020-12-03T04:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden/trump-hints-at-2024-run-biden-to-meet-with-u-s-workers-hit-by-pandemic-idUSKBN28C1GM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK"
+        width: 817
+        height: 545
+        isCached: true
   - title: "President Trump takes a break from calling Joe Biden old to reference Bob Hope"
     excerpt: "Trump tweeted Monday that Anthony Fauci had received more airtime than anyone since Bob Hope, the vaudevillian who died in 2003 at age 100."
     publishedDateTime: 2020-10-19T20:50:00Z

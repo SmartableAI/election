@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ivanka Trump deposed Tuesday as part of inauguration fund lawsuit"
+    excerpt: "The suit claims the Inaugural Committee made improper payments to the president's Washington hotel during the week of the inauguration in 2017."
+    publishedDateTime: 2020-12-03T04:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/ivanka-trump-deposed-tuesday-part-inauguration-fund-lawsuit-n1249801"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249801"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249801"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432810/201102-ivanka-trump-2019-ac-1126p_7da6c574be0e91121b1a867b96447b62.jpg"
+        width: 2500
+        height: 1658
+        isCached: true
 
 secured: "W3UMcg/cqUOBXfsa0vdkQOC/t+kPuit8NsF8eEKwGOGa75+1aqtNTbIfH+5cpDRO7XhTQ9ZdF3ajQM2ozboUMHpgIMGUsOsmORSaojRF2ND4mD1p4NiYKhJCC/0YVwWJlCHcP1R7Timihdd8HtvDNsf4MUBCmXQNRl6bnzGd09OdU8klMT5s++i7lc7WMxcGiVlf9OsH9qCBtk3w6FBUGBMhV3rAaEZkg26FKttoQVjDNSeabK4DovJ0Jzxf3nnEwn+wv0PR9ZFJDncXVV6EfZCZhTxB+YT+pWB9LyQoP3lE1CfuH3KEppMx5kuS1BUla+1lPXIrTgswg4pUNoVfGBsYB6qNQ4kDSdx92RvzaMQ=;DESJjMfJhgTiV1i1Ex8d3Q=="
 ---
