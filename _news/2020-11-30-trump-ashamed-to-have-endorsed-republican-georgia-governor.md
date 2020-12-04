@@ -31,37 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Angry Trump promises rally in battleground state of Georgia"
-    excerpt: "President Donald Trump on Thursday renewed baseless claims that “massive fraud” and crooked local officials in battleground states led to his election defeat, and said he’ll go to Georgia for a rally"
-    publishedDateTime: 2020-11-26T23:11:00Z
-    webUrl: "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+  - title: "Trump, Pence to campaign in Georgia as Senate runoff turnout concerns grow among GOP"
+    excerpt: "Mike Pence and President Donald Trump's rallies for Georgia's senators will be against a backdrop of growing concerns about GOP turnout in the Senate runoff election."
+    publishedDateTime: 2020-12-04T10:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/pence-loeffler-perdue-gty-jc-201203_1607035893960_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Barr sees no sign of major U.S. vote fraud despite Trump's claims"
-    excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department has found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
-    publishedDateTime: 2020-12-02T10:11:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28B5UK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28B5UK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28B5UK"
+  - title: "Vice President Pence remains silent on election outcome while campaigning for Georgia runoff"
+    excerpt: "Pence will rally Republicans to vote for Georgia Sens. David Perdue and Kelly Loeffler in the Jan. 5 election."
+    publishedDateTime: 2020-12-04T10:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/04/vice-president-pence-remains-silent-presidential-election/3795957001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3795957001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3795957001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/03/PMCA/2d1fb1e6-935c-491b-af2f-64a1ce3f520a-EDIT_W_29002.jpg?auto=webp&crop=2355,1325,x0,y464&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Ex-Trump campaign aide sues over Russia probe surveillance"
+    excerpt: "A former Trump campaign associate who was the target of a secret surveillance warrant during the FBI’s Russia investigation says in a federal lawsuit that he was the victim of “unlawful spying.”"
+    publishedDateTime: 2020-11-28T22:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
-        width: 1022
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4db4577615d342bf863d6a1b5ccf9ede_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump says he is ashamed that he supported Georgia Gov. Brian Kemp"
+    excerpt: "The president, still smarting from President-elect Joe Biden winning Georgia in the November election, lashed out at the state's top Republican."
+    publishedDateTime: 2020-11-29T20:05:00Z
+    webUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa9e8791df1d50018219bfe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "GOP leader McDaniel to run for 3rd term with Trump's backing"
+    excerpt: "Republican National Committee Chairwoman Ronna McDaniel is launching her bid for a third two-year term heading the GOP's governing organization"
+    publishedDateTime: 2020-12-02T15:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-leader-mcdaniel-run-3rd-term-trumps-backing-74502446"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-leader-mcdaniel-run-3rd-term-trumps-backing-74502446"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-leader-mcdaniel-run-3rd-term-trumps-backing-74502446"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_56ef52a878214440bc5fcc477d8f064c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "The Trump-fueled peril for the GOP in Georgia"
     excerpt: "Republicans fear his conspiracy-mongering about a rigged election will depress turnout among their base in the January runoffs for control of the Senate."
@@ -111,70 +159,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Despite Trump's continued claims, Barr sees no sign of major U.S. vote fraud"
-    excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department had found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
-    publishedDateTime: 2020-12-02T01:52:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-idAFKBN28B5UH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28B5UH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28B5UH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543116416&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03NK"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "U.S. Supreme Court weighs Trump bid to bar illegal immigrants from census totals"
-    excerpt: "The Supreme Court on Monday is set to take up President Donald Trump's unprecedented and contentious effort to exclude illegal immigrants from the population totals used to allocate U.S. House of Representatives districts to states."
-    publishedDateTime: 2020-11-29T12:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN2890F4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890F4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890F4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542800006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS09M"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Mary Trump’s next book probes ‘America’s national trauma’ under Trump presidency"
-    excerpt: "Mary Trump's \"The Reckoning,\" a follow-up to the bestselling exposé she wrote about her uncle Donald, will examine how \"America is suffering from PTSD.\""
-    publishedDateTime: 2020-12-02T20:03:00Z
-    webUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump"
-    ampWebUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 120
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/ce164d8/2147483647/strip/true/crop/3000x1959+0+77/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2F60%2Fdff1233a4316bfb87aa7e431a470%2Ftrump-taj-mahal-opening-06047.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Stocks ready to rally in '21 but outgoing Trump is risk: Pacific Life Fund Advisors"
-    excerpt: "U.S. stock markets are poised to rally in 2021, bolstered by the predictability of a new U.S. president, fresh stimulus and infrastructure spending, plus a coronavirus vaccine. But there is a potential wild card: outgoing President Donald Trump,"
-    publishedDateTime: 2020-12-01T03:45:00Z
-    webUrl: "https://www.reuters.com/article/us-investment-summit-pacificlife-idUSKBN28A34F"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A34F"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A34F"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542972639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1RT"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump heading to Georgia ahead of Senate runoffs"
     excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
     publishedDateTime: 2020-12-02T02:26:00Z
@@ -189,17 +173,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "U.S. Senate panel votes to approve Trump FCC nominee"
-    excerpt: "The U.S. Senate Commerce Committee voted on Wednesday to approve the nomination of a senior Trump administration official involved in an effort to seek new social media regulations to a seat on the Federal Communications Commission."
-    publishedDateTime: 2020-12-02T15:46:00Z
-    webUrl: "https://www.reuters.com/article/usa-tech-idUSL1N2II1LY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2II1LY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1LY"
+  - title: "Georgia Senate Runoffs Lure Possible 2024 GOP Hopefuls, Including Trump"
+    excerpt: "The president is set to campaign in Georgia this weekend as he weighs another run in four years. That could upend the ambitions of several other Republicans visiting the state recently."
+    publishedDateTime: 2020-12-04T09:01:00Z
+    webUrl: "https://www.npr.org/2020/12/04/942053653/georgia-senate-runoffs-lure-possible-2024-gop-hopefuls-including-trump"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: NPR
+      domain: npr.org
     quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/03/ap_20307090660462_wide-103ecc72e5af7c1f6c6716c222801344b3b18ce3.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump roils Georgia GOP as party waits to see if presidential visit helps — or hurts — in crucial Senate runoffs"
     excerpt: "The president’s baseless claims of fraud in the November elections have sparked a Republican civil war in the state, where voters will return to the polls on Jan. 5 in a pair of races that will determine control of the U."
     publishedDateTime: 2020-12-03T12:05:00Z
@@ -227,6 +214,64 @@ related:
     quality: 103
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/02/a37be1a1-f213-4eb5-ad96-05cdec06771a/thumbnail/1200x630/2a24d977528492a0bf4cd19a003a0124/cbsn-fusion-georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed-thumbnail-599327-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Trump's unverified voter fraud claims are impacting Georgia's Senate runoff"
+    excerpt: "Senate runoff in Georgia could determine which party controls the Senate in the Biden administration. As President Trump continues to launch baseless claims against the integrity of the 2020 election,"
+    publishedDateTime: 2020-11-29T09:33:00Z
+    webUrl: "https://www.cbsnews.com/video/how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/fd2cd95e-564f-447c-adb8-9b69b714dec7/thumbnail/1200x630/b7ca1f84f36f2bcfe83b5a597d6062bb/cbsn-fusion-how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff-thumbnail-597494-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "VP Mike Pence stopping in Georgia to visit CDC, drum up GOP support ahead of runoffs"
+    excerpt: "According to the White House, Pence is expected to visit the CDC in Atlanta before heading to Savannah for a campaign event."
+    publishedDateTime: 2020-12-01T04:36:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-georgia-visit-rally-loeffler-perdue-cdc-vaccine/85-37eb0d52-e80b-4cb4-95b8-8fb0001b24c1"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-rally-loeffler-perdue-cdc-vaccine/85-37eb0d52-e80b-4cb4-95b8-8fb0001b24c1"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-rally-loeffler-perdue-cdc-vaccine/85-37eb0d52-e80b-4cb4-95b8-8fb0001b24c1"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 68
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/28012b86-f747-49cd-b64a-707338b90864/28012b86-f747-49cd-b64a-707338b90864_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
+    excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine who controls the Senate at the outset of President-elect Joe Biden's administration."
+    publishedDateTime: 2020-11-20T20:33:00Z
+    webUrl: "https://www.daytondailynews.com/nation-world/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/OGPY65XXBZAAPLRT732FW4J5DI/"
+    type: article
+    provider:
+      name: Dayton Daily News
+      domain: daytondailynews.com
+    quality: 55
+    images:
+      - url: "https://www.daytondailynews.com/resizer/Q7xcE4p6hMoQHtsThkvtafgdskM=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/W4NGYYYTSBCG5L7OBQPLKWXAJU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President Pence will campaign in Georgia for GOP senators in runoff"
+    excerpt: "Vice President Mike Pence said he will visit Georgia later this month to campaign on behalf of U.S. Sens. David Perdue and Kelly Loeffler, who face runoff contests against Democratic opponents to retain their seats."
+    publishedDateTime: 2020-11-10T20:57:00Z
+    webUrl: "https://www.ajc.com/politics/politics-blog/vice-president-pence-will-campaign-in-georgia-for-gop-senators-in-runoff/6FXJHBVYLJGPXAY4BLC6G73WEQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 54
+    images:
+      - url: "https://www.ajc.com/resizer/pbOdNqkyHcqh0kn5aevnLaU4l3s=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/JP473P73HVH3D4OQD373MMVNR4.jpg"
         width: 1200
         height: 630
         isCached: true

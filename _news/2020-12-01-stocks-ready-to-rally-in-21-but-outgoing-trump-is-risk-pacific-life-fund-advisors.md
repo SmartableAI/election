@@ -47,22 +47,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump 'ashamed' to have endorsed Republican Georgia governor"
-    excerpt: "President Donald Trump said Sunday he was “ashamed” for endorsing the Republican governor of Georgia after he lost in the state to Democrat Joe Biden"
-    publishedDateTime: 2020-11-29T21:38:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_9517c546180741c3a92a1a18459fb0a1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Barr sees no sign of major U.S. vote fraud despite Trump's claims"
     excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department has found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
     publishedDateTime: 2020-12-02T10:11:00Z
@@ -78,54 +62,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
         width: 1022
         height: 545
-        isCached: true
-  - title: "The Trump-fueled peril for the GOP in Georgia"
-    excerpt: "Republicans fear his conspiracy-mongering about a rigged election will depress turnout among their base in the January runoffs for control of the Senate."
-    publishedDateTime: 2020-12-02T12:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/trump-inspired-danger-gop-georgia/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/trump-inspired-danger-gop-georgia/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/trump-inspired-danger-gop-georgia/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3ASO6NBQAMI6XHOWFUAXTGAXDE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump headed to Georgia as runoff boost, but also a threat"
-    excerpt: "Some Republicans are sounding alarms that President Donald Trump’s conspiratorial denials of his own election defeat could threaten the party’s ability to win a Senate majority"
-    publishedDateTime: 2020-12-02T01:48:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump's false fraud claims could threaten GOP hopes in Georgia Senate races"
-    excerpt: "The president has pledged to devote \"125%\" of his energy to the election he lost, despite the raging coronavirus pandemic."
-    publishedDateTime: 2020-12-04T00:42:00Z
-    webUrl: "https://abcnews.go.com/Politics/trumps-false-fraud-claims-threaten-gop-hopes-georgia/story?id=74519757"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-false-fraud-claims-threaten-gop-hopes-georgia/story?id=74519757"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-false-fraud-claims-threaten-gop-hopes-georgia/story?id=74519757"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-oval-office-rt-jt-201203_1607030794685_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Despite Trump's continued claims, Barr sees no sign of major U.S. vote fraud"
     excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department had found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
@@ -175,20 +111,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Trump heading to Georgia ahead of Senate runoffs"
-    excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
-    publishedDateTime: 2020-12-02T02:26:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-georgia-saturday-ahead-of-senate-runoffs/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/01/4529d887-b72c-4c1c-bb29-b00f91f286ba/thumbnail/1200x630/20642c43ecc51cd897574a2b1d49ca9f/cbsn-fusion-trump-georgia-saturday-ahead-of-senate-runoffs-thumbnail-599055-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "U.S. Senate panel votes to approve Trump FCC nominee"
     excerpt: "The U.S. Senate Commerce Committee voted on Wednesday to approve the nomination of a senior Trump administration official involved in an effort to seek new social media regulations to a seat on the Federal Communications Commission."
     publishedDateTime: 2020-12-02T15:46:00Z
@@ -200,36 +122,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Trump roils Georgia GOP as party waits to see if presidential visit helps — or hurts — in crucial Senate runoffs"
-    excerpt: "The president’s baseless claims of fraud in the November elections have sparked a Republican civil war in the state, where voters will return to the polls on Jan. 5 in a pair of races that will determine control of the U."
-    publishedDateTime: 2020-12-03T12:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 104
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMJXFWBVEAI6XKMXD5GFHUVHI4.jpg&w=1440"
-        width: 1440
-        height: 864
-        isCached: true
-  - title: "Georgia official calls on Trump to condemn threats against election workers: \"Someone's gonna get killed\""
-    excerpt: "One of Georgia's top election officials rebuked President Trump for his rhetoric Tuesday after a local elections worker received a death threat. Gabriel Sterling, a Republican, called on the president and Senators Kelly Loeffler and David Perdue to condemn the threats and warned,"
-    publishedDateTime: 2020-12-02T00:04:00Z
-    webUrl: "https://www.cbsnews.com/video/georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 103
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/02/a37be1a1-f213-4eb5-ad96-05cdec06771a/thumbnail/1200x630/2a24d977528492a0bf4cd19a003a0124/cbsn-fusion-georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed-thumbnail-599327-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "qQhckgtEoi7lJO2rVRJzGUtKBuDF+9oJsUsp5E3LymgySCV1duHiDiCfUhDc9KqatIwCYSzNV0kU7XRDRcKXq//s71EvtFhWX/AyGTDAOJMhsjK5DQjBo+5By0E2j/RYuc/fxa2hIKKEbMK1NTyZfyydRJzC1XwWGI1hNSeZNT2kp8oinYuGv9I7RW/xquwa+gGP9FevVmKImL9OlqObekUpohlrO6rVEt/fkkl80E98hZaPgygCVDq33l6g3ebEyiWl44KxV0HXUPZAR+FN3fvJMe2QQGDuaEf+RM0JvxNhyikERkv0KHD15fYSORV0zSKBRWA3+em7kv3LU6Qf72BUlyGyIm71DaK0dQY3J6c=;gWPWuswkTxCJ4IbniJxX4Q=="
 ---

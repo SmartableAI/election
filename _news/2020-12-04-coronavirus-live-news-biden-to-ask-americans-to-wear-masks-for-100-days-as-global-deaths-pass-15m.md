@@ -2,9 +2,9 @@
 category: news
 title: "Coronavirus live news: Biden to ask Americans to wear masks for 100 days as global deaths pass 1.5m"
 excerpt: "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m"
-publishedDateTime: 2020-12-03T23:57:00Z
-originalUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc977d48f08d350f1751157"
-webUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc977d48f08d350f1751157"
+publishedDateTime: 2020-12-04T00:24:00Z
+originalUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc97cce8f08d350f1751189"
+webUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc97cce8f08d350f1751189"
 ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/c090cd83408471d34aa1737ecbe2a87179cb7948/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1079fb7348bc08caefecba23853b0e7d"
+  - url: "https://i.guim.co.uk/img/media/f7bf741bb5ed58d1d1a7ab5eb7e7e64a7344f762/0_389_5769_3462/master/5769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4c7d46d692f3f408174b8245cb43dcab"
     width: 600
     height: 360
     isCached: true
@@ -64,6 +64,6 @@ related:
         height: 675
         isCached: true
 
-secured: "QJXpgAMZGpNeef5uLwIqjP8Tv33j/sQMPvOCK6NZqOB0hZAdyOFPksap/NAWML84/8pc32Ty4yvhz3rtQeDWbxWoD6mggFhFUGwUdB17x+LoXkcwBki1TEfMmzIprJPllvf7reiI8Sgm++sERnhUA/0pP9CiZs5TyGS6cOaKnffIbbOUFfSNI9A8m1MzJ50bPK9hM7Bs92SacO+Lx1LklTi11uoH0uj629K9MQE9q84e3Bbbj54IgGGAXNs09Ywo0xpg4sJlBhqOoCU8y8WDVIy5bUQ8tzNPZK0oz9Xl6VJzopwHPDZ04crG5l2yyw+bQh6S5brOgbXK9BxeHWqzuTWSk8iITTaBHuEvtW5a8Bs=;LZLxDwtr6PGZDYPVM5gGyQ=="
+secured: "jwJEcd/FWDiNimzcUNtFZtCirMe2dXtcdb43aNbbCKT0oz4lajezFxFkmAi6Lfa19HeLcnWTxxeSi1l84ukPUZYs1fMwY633AY+/DU5n8HVBIMva6ub3slL8LZKUfTg1uloS6QMxfcH0dZiSVgyR25en+p7E/ea++hNwEoNxluVOUI2eAy1+V8SsKNA6FlQLSEdXQPAtc+fXrVvPFrpGq5mjWL/QHu29sJX0pHqFFc93cO/PEc4cI/kslgHYgGy4EjHNnhkybVqBMde0GhZo8VOvC04HDDwbYGZ/SpPnBOIN7UcTmUZ7rFe3nYZe3+FI0L3vXTqTnRfRwUOhw6Lz4he1L7IbtGpRULbYwl3aN9s=;q1LkAr+B1UOzhfHsiFoxhA=="
 ---
 

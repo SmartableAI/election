@@ -47,22 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump says he is ashamed that he supported Georgia Gov. Brian Kemp"
-    excerpt: "The president, still smarting from President-elect Joe Biden winning Georgia in the November election, lashed out at the state's top Republican."
-    publishedDateTime: 2020-11-29T20:05:00Z
-    webUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa9e8791df1d50018219bfe?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump campaign disavows conspiracy theory-spouting attorney Sidney Powell"
     excerpt: "The Trump campaign’s legal team is distancing itself from conservative attorney Sidney Powell, a purveyor of unfounded voting conspiracy theories."
     publishedDateTime: 2020-11-23T10:17:00Z
@@ -158,20 +142,6 @@ related:
       - url: "https://i.insider.com/5fbb973350e71a0011556be6?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "How Trump's unverified voter fraud claims are impacting Georgia's Senate runoff"
-    excerpt: "Senate runoff in Georgia could determine which party controls the Senate in the Biden administration. As President Trump continues to launch baseless claims against the integrity of the 2020 election,"
-    publishedDateTime: 2020-11-29T09:33:00Z
-    webUrl: "https://www.cbsnews.com/video/how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 101
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/fd2cd95e-564f-447c-adb8-9b69b714dec7/thumbnail/1200x630/b7ca1f84f36f2bcfe83b5a597d6062bb/cbsn-fusion-how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff-thumbnail-597494-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "2i7s90364m1m6eikKWGJsj9JTl7h1pJ80n4/XZmAlsiboezHS1jN8p/Z58Os6k+l86hoYnoJwyG+fFKA3TFWQX5W3FyZVbOwDBbm6TTDAAmKba8rIv+2MTYN862B/34w3lTv9SB9ZaosekIKx5sfZvltpDIRpR1zYPUPx5LHuEYMZrR4jpjUq6LuN5zop+0M68CLst/WroT1MY8zzADBXt5TF7bncYCZXc1rmJ4wSQcE+kWE8K1WpGJizH6hXPAhc/HpnqW80YtHRZIZszsjxGk30xBdf+2VpDpxiGBoaJr6zUvfdW+r8vgWABexB/7cv6beIKELW/9jeQmWtM7A2HsJ3oAfSRRuAOw3k0iRloAKjg1n4ZQcNvhyOLZOOTuyEF3De3YVa9XJLSNiT+Xiz2cXnwwwq+z/r905jgoixeXkvjAh9r5XCFqqNLD31BilkWeFPpSVecfg3gLDdRnheuXBg7qggzBA780SJRxrxmYEMnQsEv1giNy7ksD9tJp+x3OnOKblOAeQSS6wB0aYog==;0eaa8j6YPQm20l+PG6m+Wg=="

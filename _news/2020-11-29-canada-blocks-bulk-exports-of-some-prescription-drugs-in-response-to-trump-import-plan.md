@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2880RJ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2880RJ"
 type: article
 quality: 117
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 876
     height: 545
     isCached: true
-
-related:
-  - title: "Talk Of 'Preemptive' Pardons By Trump Raises Questions: What Can He Do?"
-    excerpt: "Presidents have awarded clemency in this way before, but it's certainly not the usual course of action. And there are unresolved questions about what might be to come."
-    publishedDateTime: 2020-12-02T17:27:00Z
-    webUrl: "https://www.npr.org/2020/12/02/941290291/talk-of-preemptive-pardons-by-trump-raises-questions-what-can-he-do"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/12/02/ap_20325834765888_wide-0bc21641905e5666d3b0f2d85c96e0bb938fd1fa.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
 
 secured: "xf9PbC13VHtjLPG+VE9O5Thdmm5SzUABeeMtCCNOt2Vvh2zTCWzNuH7O//+7M5T2uLviJtWE6l/y8Gv2+UrH8mY5zP76WTMkDRK8r3N52POzNRIUsp7HmVrTK+npgKI8FnW/642R7w6OPVIHd/EU8U3Cdvp8N2xt9kuIW56NX+jXBUvB+CiSthggzi/2NyEWD5mLcsyIONdp5tN56e6DkmIrxVLvqIzxuqV+DIHYJ8rd964tUOtRJ6brab2J66VIpk/g/mqKhkuFvNvb37QKvvCKM4fcQazEMeIawqiV/h83UhDskm6geDuUyA24Kz3h5tNQzMn+AV87nqo14CgXwshDuUtl/IyC/baMpx+dGtI=;JQNe2ZQ0fDcWHRtXPbwPNQ=="
 ---

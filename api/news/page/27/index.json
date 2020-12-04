@@ -2,6 +2,114 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-10-28-does-russia-china-north-korea-want-trump-to-win-the-election-what-trump-said-about-putin-xi-kim-jong-un.md",
+      "title": "Does Russia, China, North Korea Want Trump To Win The Election? What Trump Said About Putin, Xi, Kim Jong Un",
+      "excerpt": "President Donald Trump said North Korean leader Kim Jong Un, Russian President Vladimir Putin and Chinese leader Xi Jinping would prefer him to be reelected over Joe Biden, calling them \"sharp as a tack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052",
+      "originalUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/us-president-donald-trump-holds-his-first-summit.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052?amp=1",
+      "publishedDateTime": "2020-10-27T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-tony-bobulinski-tells-tucker-joe-biden-denials-of-involvement-in-sons-business-a-blatant-lie.md",
+      "title": "Tony Bobulinski tells Tucker: Joe Biden denials of involvement in son's business 'a blatant lie'",
+      "excerpt": "Tony Bobulinski, a former business associate of Hunter Biden, will tell \"Tucker Carlson Tonight\" in an exclusive interview Tuesday evening that Joe Biden's denials of knowledge or involvement in his son's foreign dealings are \"a blatant lie.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfF6yuNiaas/hunter-biden-tony-bobulinski-tucker-carlson-joe-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfF6yuNiaas/hunter-biden-tony-bobulinski-tucker-carlson-joe-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 262,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f296e4f1-0c2d-4e64-928c-fefce295f16f/a06107ba-74f1-4faa-8a99-80e0cc89aea4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-tony-bobulinski-tucker-carlson-joe-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-tony-bobulinski-tucker-carlson-joe-biden.amp",
+      "publishedDateTime": "2020-10-27T15:00:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-cbp-chief-warns-of-border-invasion-with-liberal-policies-reversal-of-trump-era-efforts.md",
       "title": "CBP chief warns of border 'invasion' with liberal policies, reversal of Trump-era efforts",
       "excerpt": "The United States could face an \"invasion\" that would make the recent migrant crisis seem relatively tame if President Trump's efforts are reversed, and Democratic policies incentivize illegal border crossings, Acting Customs and Border Protection Commissioner Mark Morgan told reporters on Tuesday.",
@@ -1233,119 +1341,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-civil-rights-attorney-leo-terrell-biden-has-done-nothing-for-black-community-other-than-insulting-them.md",
-      "title": "Civil rights attorney Leo Terrell: Biden has done nothing for Black community 'other than insulting' them",
-      "excerpt": "Civil rights attorney Leo Terrell rips 2020 Democratic nominee Joe Biden for his failure to address issues impacting the Black community during his 36-year career in the United States Senate on his new Fox Nation show \"Larry & Leo 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america",
-      "originalUrl": "https://www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bbf6717b-c334-4068-a87d-aad633c8e263/15d85389-9135-4ac2-b213-64434dd48029/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america.amp",
-      "publishedDateTime": "2020-10-26T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-kayleigh-mcenany-once-praised-biden-as-a-man-of-the-people-who-resonates-with-middle-class-over-tycoon-trump.md",
-      "title": "Kayleigh McEnany once praised Biden as a 'man of the people' who resonates with \"middle class\" over 'tycoon' Trump",
-      "excerpt": "Prior to becoming a prominent backer of Donald Trump, Kayleigh McEnany praised then-Vice President Joe Biden as \"funny and likable\" and a \"man of the people\" who resonates with \"middle class voters.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mOrqP6T-t5Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mOrqP6T-t5Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200826211729-kayleigh-mcenany-rnc-august-26-2020-02-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/26/politics/kayleigh-mcenany-biden-2015/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/kayleigh-mcenany-biden-2015/index.html",
-      "publishedDateTime": "2020-10-26T14:33:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

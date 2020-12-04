@@ -2,9 +2,9 @@
 category: news
 title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
 excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
-publishedDateTime: 2020-12-04T06:39:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
-webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
+publishedDateTime: 2020-12-04T05:17:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising/trump-unveils-207-million-fundraising-haul-since-election-as-he-tries-to-overturn-results-idUSKBN28E012"
+webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising/trump-unveils-207-million-fundraising-haul-since-election-as-he-tries-to-overturn-results-idUSKBN28E012"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E012"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E012"
 type: article
@@ -751,17 +751,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump loves to win but keeps losing election lawsuits"
-    excerpt: "For a man obsessed with winning, President Donald Trump is losing a lot."
-    publishedDateTime: 2020-12-04T05:40:00Z
-    webUrl: "https://www.businessinsider.com/trump-loves-to-win-but-keeps-losing-election-lawsuits-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-loves-to-win-but-keeps-losing-election-lawsuits-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-loves-to-win-but-keeps-losing-election-lawsuits-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Justices skeptical of Trump bid to exclude all undocumented immigrants from census"
     excerpt: "President Donald Trump's sweeping order to exclude all undocumented immigrants from the 2020 Census faced skepticism Monday from a majority on the U.S. Supreme Court."
     publishedDateTime: 2020-11-30T19:26:00Z
@@ -1196,6 +1185,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "aPmM2rgKQ4amuxbW0tB1p6osV7FxI2IsCE2iaQ5x0bXAg9ld/mF6ggUoMr3U02cYz0CjPSQNXb1+imXX0juKoLBb17FYSzw41gfZBOI2r7uYh30umDxz1nFIByxsZD6qm9nQlS5DVW5Je/OX6H/F2ORmVqfKZ5uZ4DTFEezYlIzmC7GVSQvpwMtRwRBXI0iyGqoWleCgCxPycNkvW7ukk97uka/MxQnywlA+F1F2iXSHz7PLwoQBsHtu19tJg8LWcGYDxTtBKAFhMDGeX13pZv4O8Djpd5+tqdxS1zIUWVfACFvjon/PPsqAHnPh95PSxzCPeZ/nW3Cg/InZcJRtfA0l9lZL+X1E2izHjMUVO3k=;VqBt6G4Vil6h7r57DXIRvQ=="
+secured: "dZOglcTl3Y22IPcJCqMxtASWv8AyTWHYMOKRp5WJ8pVRJ9K3FQUJjYA5WShtioe/jNGBNSsI9tJ+GZRp5J24QeCKuwHBzD83MH123DjxRm6kyIojDmr7fm/R7ei04oAfx63CoOY4qWFnOiRRrm0A5QWIWwnOFGTPeaPV+vBfm67DZdiOHJgcUq6yKgXhc0wWiWDnMypK9ZS+NElOOrclCCerSux1o8O6OLZWJcTk6TlzkLQkMgtyZASY6xHIXnoY36+6VdvopE6VydqFf9A8ZusbOtv/p4ciXZPJkHrYrOykmPGazWG+UEDtC1OhoFWAq/BhQpV6NshJzBbjamYDS26qFDIllA3WWzYEAVpFsTI=;IxuLuy/N8LqCDpsdviFoOg=="
 ---
 

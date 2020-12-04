@@ -305,8 +305,8 @@ related:
         isCached: true
   - title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
     excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
-    publishedDateTime: 2020-12-04T06:39:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
+    publishedDateTime: 2020-12-04T05:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising/trump-unveils-207-million-fundraising-haul-since-election-as-he-tries-to-overturn-results-idUSKBN28E012"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E012"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E012"
     type: article
@@ -767,17 +767,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump loves to win but keeps losing election lawsuits"
-    excerpt: "For a man obsessed with winning, President Donald Trump is losing a lot."
-    publishedDateTime: 2020-12-04T05:40:00Z
-    webUrl: "https://www.businessinsider.com/trump-loves-to-win-but-keeps-losing-election-lawsuits-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-loves-to-win-but-keeps-losing-election-lawsuits-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-loves-to-win-but-keeps-losing-election-lawsuits-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "UPDATE 2-U.S. Republicans balk as Trump uses defense bill for leverage on Big Tech"
     excerpt: "President Donald Trump's threat to veto a defense bill if it does not repeal legal protections for social media companies faced stiff bipartisan opposition on Wednesday, setting the stage for a confrontation with lawmakers scrambling to pass the massive bill by year-end."
     publishedDateTime: 2020-12-03T02:35:00Z

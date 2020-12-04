@@ -45,6 +45,20 @@ related:
         width: 1440
         height: 800
         isCached: true
+  - title: "As Trump's Election Pressure Campaign Hits Republican Officials, Some Hit Back"
+    excerpt: "\"History will not be kind to those who are cognizant of the truth and yet choose silence for political expediency,\" said one Republican election official."
+    publishedDateTime: 2020-12-04T09:00:00Z
+    webUrl: "https://www.npr.org/2020/12/04/941284401/as-trumps-election-pressure-campaign-hits-republican-officials-some-hit-back"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 116
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/03/sterling_wide-3846dfa543c96cb7c24beef6010a1e5f9a501f12.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Donald Trump spent Thanksgiving night railing against Section 230 on Twitter as #DiaperDon went viral"
     excerpt: "Twitter users mocked the president using the hashtag #DiaperDon after he sat at a smaller-than-usual table during a news conference."
     publishedDateTime: 2020-11-27T12:31:00Z

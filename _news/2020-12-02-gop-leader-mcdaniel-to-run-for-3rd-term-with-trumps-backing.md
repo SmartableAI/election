@@ -31,21 +31,249 @@ images:
     isCached: true
 
 related:
-  - title: "Trump endorses Ronna McDaniel to remain RNC chair"
-    excerpt: "U.S. President Donald Trump on Wednesday endorsed Republican National Commmittee chair Ronna McDaniel to stay on in her position, crediting her with much of the support Trump received in the presidential election that he lost but is contesting."
-    publishedDateTime: 2020-11-12T00:44:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN27S01C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S01C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S01C"
+  - title: "Trump, Pence to campaign in Georgia as Senate runoff turnout concerns grow among GOP"
+    excerpt: "Mike Pence and President Donald Trump's rallies for Georgia's senators will be against a backdrop of growing concerns about GOP turnout in the Senate runoff election."
+    publishedDateTime: 2020-12-04T10:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/Politics/pence-loeffler-perdue-gty-jc-201203_1607035893960_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Vice President Pence remains silent on election outcome while campaigning for Georgia runoff"
+    excerpt: "Pence will rally Republicans to vote for Georgia Sens. David Perdue and Kelly Loeffler in the Jan. 5 election."
+    publishedDateTime: 2020-12-04T10:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/04/vice-president-pence-remains-silent-presidential-election/3795957001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3795957001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3795957001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/03/PMCA/2d1fb1e6-935c-491b-af2f-64a1ce3f520a-EDIT_W_29002.jpg?auto=webp&crop=2355,1325,x0,y464&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Ex-Trump campaign aide sues over Russia probe surveillance"
+    excerpt: "A former Trump campaign associate who was the target of a secret surveillance warrant during the FBI’s Russia investigation says in a federal lawsuit that he was the victim of “unlawful spying.”"
+    publishedDateTime: 2020-11-28T22:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540909087&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB011"
-        width: 833
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4db4577615d342bf863d6a1b5ccf9ede_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump 'ashamed' to have endorsed Republican Georgia governor"
+    excerpt: "President Donald Trump said Sunday he was “ashamed” for endorsing the Republican governor of Georgia after he lost in the state to Democrat Joe Biden"
+    publishedDateTime: 2020-11-29T21:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9517c546180741c3a92a1a18459fb0a1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump says he is ashamed that he supported Georgia Gov. Brian Kemp"
+    excerpt: "The president, still smarting from President-elect Joe Biden winning Georgia in the November election, lashed out at the state's top Republican."
+    publishedDateTime: 2020-11-29T20:05:00Z
+    webUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa9e8791df1d50018219bfe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Trump-fueled peril for the GOP in Georgia"
+    excerpt: "Republicans fear his conspiracy-mongering about a rigged election will depress turnout among their base in the January runoffs for control of the Senate."
+    publishedDateTime: 2020-12-02T12:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/trump-inspired-danger-gop-georgia/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/trump-inspired-danger-gop-georgia/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/trump-inspired-danger-gop-georgia/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3ASO6NBQAMI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump headed to Georgia as runoff boost, but also a threat"
+    excerpt: "Some Republicans are sounding alarms that President Donald Trump’s conspiratorial denials of his own election defeat could threaten the party’s ability to win a Senate majority"
+    publishedDateTime: 2020-12-02T01:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump's false fraud claims could threaten GOP hopes in Georgia Senate races"
+    excerpt: "The president has pledged to devote \"125%\" of his energy to the election he lost, despite the raging coronavirus pandemic."
+    publishedDateTime: 2020-12-04T00:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-false-fraud-claims-threaten-gop-hopes-georgia/story?id=74519757"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-false-fraud-claims-threaten-gop-hopes-georgia/story?id=74519757"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-false-fraud-claims-threaten-gop-hopes-georgia/story?id=74519757"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-oval-office-rt-jt-201203_1607030794685_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump heading to Georgia ahead of Senate runoffs"
+    excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
+    publishedDateTime: 2020-12-02T02:26:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-georgia-saturday-ahead-of-senate-runoffs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/01/4529d887-b72c-4c1c-bb29-b00f91f286ba/thumbnail/1200x630/20642c43ecc51cd897574a2b1d49ca9f/cbsn-fusion-trump-georgia-saturday-ahead-of-senate-runoffs-thumbnail-599055-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Georgia Senate Runoffs Lure Possible 2024 GOP Hopefuls, Including Trump"
+    excerpt: "The president is set to campaign in Georgia this weekend as he weighs another run in four years. That could upend the ambitions of several other Republicans visiting the state recently."
+    publishedDateTime: 2020-12-04T09:01:00Z
+    webUrl: "https://www.npr.org/2020/12/04/942053653/georgia-senate-runoffs-lure-possible-2024-gop-hopefuls-including-trump"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/03/ap_20307090660462_wide-103ecc72e5af7c1f6c6716c222801344b3b18ce3.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Trump roils Georgia GOP as party waits to see if presidential visit helps — or hurts — in crucial Senate runoffs"
+    excerpt: "The president’s baseless claims of fraud in the November elections have sparked a Republican civil war in the state, where voters will return to the polls on Jan. 5 in a pair of races that will determine control of the U."
+    publishedDateTime: 2020-12-03T12:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMJXFWBVEAI6XKMXD5GFHUVHI4.jpg&w=1440"
+        width: 1440
+        height: 864
+        isCached: true
+  - title: "Georgia official calls on Trump to condemn threats against election workers: \"Someone's gonna get killed\""
+    excerpt: "One of Georgia's top election officials rebuked President Trump for his rhetoric Tuesday after a local elections worker received a death threat. Gabriel Sterling, a Republican, called on the president and Senators Kelly Loeffler and David Perdue to condemn the threats and warned,"
+    publishedDateTime: 2020-12-02T00:04:00Z
+    webUrl: "https://www.cbsnews.com/video/georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/02/a37be1a1-f213-4eb5-ad96-05cdec06771a/thumbnail/1200x630/2a24d977528492a0bf4cd19a003a0124/cbsn-fusion-georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed-thumbnail-599327-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Trump's unverified voter fraud claims are impacting Georgia's Senate runoff"
+    excerpt: "Senate runoff in Georgia could determine which party controls the Senate in the Biden administration. As President Trump continues to launch baseless claims against the integrity of the 2020 election,"
+    publishedDateTime: 2020-11-29T09:33:00Z
+    webUrl: "https://www.cbsnews.com/video/how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/fd2cd95e-564f-447c-adb8-9b69b714dec7/thumbnail/1200x630/b7ca1f84f36f2bcfe83b5a597d6062bb/cbsn-fusion-how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff-thumbnail-597494-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "VP Mike Pence stopping in Georgia to visit CDC, drum up GOP support ahead of runoffs"
+    excerpt: "According to the White House, Pence is expected to visit the CDC in Atlanta before heading to Savannah for a campaign event."
+    publishedDateTime: 2020-12-01T04:36:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-georgia-visit-rally-loeffler-perdue-cdc-vaccine/85-37eb0d52-e80b-4cb4-95b8-8fb0001b24c1"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-rally-loeffler-perdue-cdc-vaccine/85-37eb0d52-e80b-4cb4-95b8-8fb0001b24c1"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-rally-loeffler-perdue-cdc-vaccine/85-37eb0d52-e80b-4cb4-95b8-8fb0001b24c1"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 68
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/28012b86-f747-49cd-b64a-707338b90864/28012b86-f747-49cd-b64a-707338b90864_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
+    excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine who controls the Senate at the outset of President-elect Joe Biden's administration."
+    publishedDateTime: 2020-11-20T20:33:00Z
+    webUrl: "https://www.daytondailynews.com/nation-world/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/OGPY65XXBZAAPLRT732FW4J5DI/"
+    type: article
+    provider:
+      name: Dayton Daily News
+      domain: daytondailynews.com
+    quality: 55
+    images:
+      - url: "https://www.daytondailynews.com/resizer/Q7xcE4p6hMoQHtsThkvtafgdskM=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/W4NGYYYTSBCG5L7OBQPLKWXAJU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President Pence will campaign in Georgia for GOP senators in runoff"
+    excerpt: "Vice President Mike Pence said he will visit Georgia later this month to campaign on behalf of U.S. Sens. David Perdue and Kelly Loeffler, who face runoff contests against Democratic opponents to retain their seats."
+    publishedDateTime: 2020-11-10T20:57:00Z
+    webUrl: "https://www.ajc.com/politics/politics-blog/vice-president-pence-will-campaign-in-georgia-for-gop-senators-in-runoff/6FXJHBVYLJGPXAY4BLC6G73WEQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 54
+    images:
+      - url: "https://www.ajc.com/resizer/pbOdNqkyHcqh0kn5aevnLaU4l3s=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/JP473P73HVH3D4OQD373MMVNR4.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "npaxl32psqJOsay+LKaN718dY51MSH87GbF53r6er1KIem+yOdmbDNu9rfzG0uY5vTHw5j6lpaEYZBp21Y/wGc55SJTQmKXehklBJEjZ29uvAqQOJkMBq382g4RreFI5ObYDQO3nZhrHjWDzJ3rvWVdcDwtJUEZKYB0RdDpZ6GCNDEAbzmUZc/SdzXbcxT5ruanXIVfinAFRsEdhKW6Aknwv/PD6HkRJ/kERmThyNOa5TK2Z/K9js6x8rB5QKAPcim1pqechPDksKbGqgOsTBHixbua2Fho4EAg9aG0knp0v5WkfY65GG+Ura/HSilq5ousAqce8KDZZ49EiziQDMkoLr+cSiUVhr12EdjIb5DBdH0NJC/USbosNBTVeinyaSZDF2dYcTlsQpPHSNAyeVFwI/No+S4IvjLuHB2iBVjdd0JWZCy5BlBj+zs4O0cTNRstwfRLyYj2IC18vrsykwk9TZsjKI5/zy7xB2eWweUj9GTktLQUMgsZXq1aVFUfrviSQ3xvHEHCdynSyp+HUSg==;7EOp+X0eK1v/HK0NGcQ+0w=="

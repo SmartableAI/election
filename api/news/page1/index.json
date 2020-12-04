@@ -2,6 +2,266 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-04-in-race-to-cement-legacy-trump-pushes-dozens-of-midnight-regulations.md",
+      "title": "In race to cement legacy, Trump pushes dozens of 'midnight regulations'",
+      "excerpt": "The Trump administration is quietly racing to solidify its legacy, fulfill campaign promises and overhaul federal regulations that could take Joe Biden years to undo.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "originalUrl": "https://abcnews.go.com/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-ap-er-201203_1607026156831_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "publishedDateTime": "2020-12-04T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-republican-congressman-tells-trump-to-delete-your-account-after-he-tweeted-a-45-minute-speech-repeating-baseless-voter-fraud-claims.md",
+      "title": "Republican congressman tells Trump to 'delete your account' after he tweeted a 45-minute speech repeating baseless voter-fraud claims",
+      "excerpt": "Republican Rep. Adam Kinzinger, who represents Illinois' 16th District, quote-tweeted Trump on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/republican-congressman-tells-trump-to-delete-your-account-2020-12?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.businessinsider.com/republican-congressman-tells-trump-to-delete-your-account-2020-12?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc8a986037cbd0018613869?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/republican-congressman-tells-trump-to-delete-your-account-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republican-congressman-tells-trump-to-delete-your-account-2020-12?amp",
+      "publishedDateTime": "2020-12-04T02:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-trump-pence-to-campaign-in-georgia-as-senate-runoff-turnout-concerns-grow-among-gop.md",
+      "title": "Trump, Pence to campaign in Georgia as Senate runoff turnout concerns grow among GOP",
+      "excerpt": "Mike Pence and President Donald Trump's rallies for Georgia's senators will be against a backdrop of growing concerns about GOP turnout in the Senate runoff election.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 453,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/pence-loeffler-perdue-gty-jc-201203_1607035893960_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "publishedDateTime": "2020-12-04T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-trump-aide-banned-from-justice-dept-after-pressuring-staffers-for-case-information.md",
+      "title": "Trump aide banned from Justice Dept. after pressuring staffers for case information",
+      "excerpt": "A Trump aide at the Justice Department has been banned from the building after trying to pressure staff members for sensitive case information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department",
+      "originalUrl": "https://www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/4a0f100/2147483647/strip/true/crop/5224x3412+0+37/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Fa4%2Ffc0b18963aad988309de671ad9b7%2F119a28a48b65471da8e7610b476cf7ad",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department?_amp=true",
+      "publishedDateTime": "2020-12-04T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-roles-of-trump-fundraiser-kushners-attorney-were-scrutinized-in-pardon-bribe-probe.md",
+      "title": "Roles of Trump fundraiser, Kushner's attorney were scrutinized in pardon bribe probe",
+      "excerpt": "A former Trump fundraiser and a prominent lawyer were among the people scrutinized by the Justice Department for their roles in what a judge described as a possible bribery scheme to win a presidential pardon for a convicted felon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-pardon-idUSKBN28E0CL",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-pardon-idUSKBN28E0CL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543441769&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB3063",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28E0CL",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E0CL",
+      "publishedDateTime": "2020-12-04T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-dangerously-viral-how-trump-supporters-spread-false-claims.md",
       "title": "Dangerously viral: How Trump, supporters spread false claims",
       "excerpt": "It took just a day for a cellphone video of a man hauling a large box into a Detroit election office to be viewed more than a million times",
@@ -833,58 +1093,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-04-the-trump-administration-accused-facebook-of-reserving-over-2600-high-paying-jobs-for-foreign-workers-instead-of-hiring-americans.md",
-      "title": "The Trump administration accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans",
-      "excerpt": "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp",
-      "publishedDateTime": "2020-12-03T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-03-ratcliffe-urges-biden-to-let-durham-probe-run-its-course-says-more-docs-should-be-declassified.md",
       "title": "Ratcliffe urges Biden to let Durham probe run its course, says more docs 'should be' declassified",
       "excerpt": "EXCLUSIVE: Director of National Intelligence John Ratcliffe on Thursday urged President-elect Joe Biden to allow Special Counsel John Durham's investigation into the origins of the Russia probe to run its course, while saying he hopes there will be \"folks held accountable that should be.\"",
@@ -1159,223 +1367,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-federal-watchdog-finds-substantial-likelihood-of-wrongdoing-by-trump-appointees-overseeing-voice-of-america.md",
-      "title": "Federal watchdog finds 'substantial likelihood of wrongdoing' by Trump appointees overseeing Voice of America",
-      "excerpt": "The federal watchdog's findings mark the latest rebuke of the Trump-appointed CEO of the U.S. Agency for Global Media, Michael Pack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/federal-watchdog-finds-substantial-likelihood-wrongdoing-trump-appointees-overseeing-voice-n1249851",
-      "originalUrl": "https://www.nbcnews.com/news/world/federal-watchdog-finds-substantial-likelihood-wrongdoing-trump-appointees-overseeing-voice-n1249851",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_49/3391302/200619-michael-pack-us-senate-ew-130p_c58f8b658898b995f375e0c2268ac5b4.jpg",
-          "width": 2500,
-          "height": 1400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249851",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249851",
-      "publishedDateTime": "2020-12-03T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-lou-holtz-calls-trump-greatest-president-in-my-lifetime-accepts-medal-of-freedom.md",
-      "title": "Lou Holtz calls Trump ‘greatest president in my lifetime,’ accepts Medal of Freedom",
-      "excerpt": "President Trump on Thursday awarded Notre Dame’s legendary former football coach Lou Holtz the Presidential Medal of Freedom — and Holtz reciprocated by hailing Trump as the “greatest",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/",
-      "originalUrl": "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/1229926968-e1607018824688.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/amp/",
-      "publishedDateTime": "2020-12-03T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-trump-awards-football-coach-lou-holtz-the-medal-of-freedom.md",
-      "title": "Trump awards football coach Lou Holtz the Medal of Freedom",
-      "excerpt": "President Donald Trump awarded the Medal of Freedom to former football coach Lou Holtz on Thursday in an Oval Office ceremony.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTVejM6MY1o/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTVejM6MY1o/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/160502185550-lou-holtz-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/donald-trump-lou-holtz-medal-of-freedom/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/donald-trump-lou-holtz-medal-of-freedom/index.html",
-      "publishedDateTime": "2020-12-03T09:59:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-kennedy-democrats-some-republicans-have-their-bowels-in-an-uproar-over-trump-not-conceding.md",
-      "title": "Kennedy: Democrats, some Republicans 'have their bowels in an uproar' over Trump not conceding",
-      "excerpt": "Sen. John Kennedy, R-La., said President Trump had every right to contest the results of the 2020 election in an appearance on \"America's Newsroom.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yaRhk-AF1gY/kennedy-democrats-republicans-bowels-uproar-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yaRhk-AF1gY/kennedy-democrats-republicans-bowels-uproar-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b3666d9-d0ce-4a8a-ac95-d2970fd93791/468e9eed-4dd8-4fcf-a499-59cddc9b2507/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kennedy-democrats-republicans-bowels-uproar-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kennedy-democrats-republicans-bowels-uproar-election.amp",
-      "publishedDateTime": "2020-12-03T08:22:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

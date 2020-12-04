@@ -89,22 +89,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Ex-Trump campaign aide sues over Russia probe surveillance"
-    excerpt: "A former Trump campaign associate who was the target of a secret surveillance warrant during the FBI’s Russia investigation says in a federal lawsuit that he was the victim of “unlawful spying.”"
-    publishedDateTime: 2020-11-28T22:12:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4db4577615d342bf863d6a1b5ccf9ede_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump campaign to request recount in two counties in Wisconsin; he trails in the state by about 20,600 votes"
     excerpt: "The Wisconsin Elections Commission confirmed that it has received a wire transfer from the campaign for $3 million to cover the costs of the partial recount."
     publishedDateTime: 2020-11-18T18:04:00Z

@@ -75,6 +75,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "Vice President Mike Pence, CDC head discuss COVID-19 vaccine in Memphis"
+    excerpt: "The event comes when one vaccine, made by Pfizer and BioNTech, is likely days away from getting the Food and Drug Administration's emergency approval."
+    publishedDateTime: 2020-12-03T00:00:00Z
+    webUrl: "https://www.jsonline.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/3800763001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3800763001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/03/PMCA/bf0a41e8-0c13-46f5-a263-0a1b2442f382-EDIT_W_29033.jpg?auto=webp&crop=4063,2286,x0,y55&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pence touts plans for quick vaccine distribution"
     excerpt: "Vice President Mike Pence said Thursday some Americans could be just days away from getting a coronavirus vaccine. But CDC Director Dr. Robert Redfield fears there are some people who may not want it."
     publishedDateTime: 2020-12-03T22:57:00Z

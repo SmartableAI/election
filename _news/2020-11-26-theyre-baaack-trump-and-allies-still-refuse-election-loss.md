@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/theyre-baaack-trump-and-alli
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/theyre-baaack-trump-and-allies-still-refuse-election-loss/2020/11/26/dbbfd81a-2fe6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 1660
+heat: 1640
 published: true
 
 provider:
@@ -289,8 +289,8 @@ related:
         isCached: true
   - title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
     excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
-    publishedDateTime: 2020-12-04T06:39:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
+    publishedDateTime: 2020-12-04T05:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising/trump-unveils-207-million-fundraising-haul-since-election-as-he-tries-to-overturn-results-idUSKBN28E012"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E012"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E012"
     type: article
@@ -751,17 +751,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump loves to win but keeps losing election lawsuits"
-    excerpt: "For a man obsessed with winning, President Donald Trump is losing a lot."
-    publishedDateTime: 2020-12-04T05:40:00Z
-    webUrl: "https://www.businessinsider.com/trump-loves-to-win-but-keeps-losing-election-lawsuits-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-loves-to-win-but-keeps-losing-election-lawsuits-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-loves-to-win-but-keeps-losing-election-lawsuits-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Justices skeptical of Trump bid to exclude all undocumented immigrants from census"
     excerpt: "President Donald Trump's sweeping order to exclude all undocumented immigrants from the 2020 Census faced skepticism Monday from a majority on the U.S. Supreme Court."
     publishedDateTime: 2020-11-30T19:26:00Z

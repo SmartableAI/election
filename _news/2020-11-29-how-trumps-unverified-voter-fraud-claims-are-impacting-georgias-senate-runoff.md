@@ -29,21 +29,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign parts ways with Powell after vote-switching claim"
-    excerpt: "U.S. President Donald Trump's election campaign on Sunday distanced itself from Sidney Powell, a lawyer who claimed at a news conference last week that electronic voting systems had switched millions of ballots to President-elect Joe Biden."
-    publishedDateTime: 2020-11-23T00:52:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-powell-idUSKBN2820UB"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2820UB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820UB"
+  - title: "Trump, Pence to campaign in Georgia as Senate runoff turnout concerns grow among GOP"
+    excerpt: "Mike Pence and President Donald Trump's rallies for Georgia's senators will be against a backdrop of growing concerns about GOP turnout in the Senate runoff election."
+    publishedDateTime: 2020-12-04T10:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/Politics/pence-loeffler-perdue-gty-jc-201203_1607035893960_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Vice President Pence remains silent on election outcome while campaigning for Georgia runoff"
+    excerpt: "Pence will rally Republicans to vote for Georgia Sens. David Perdue and Kelly Loeffler in the Jan. 5 election."
+    publishedDateTime: 2020-12-04T10:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/04/vice-president-pence-remains-silent-presidential-election/3795957001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3795957001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3795957001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/03/PMCA/2d1fb1e6-935c-491b-af2f-64a1ce3f520a-EDIT_W_29002.jpg?auto=webp&crop=2355,1325,x0,y464&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Ex-Trump campaign aide sues over Russia probe surveillance"
+    excerpt: "A former Trump campaign associate who was the target of a secret surveillance warrant during the FBI’s Russia investigation says in a federal lawsuit that he was the victim of “unlawful spying.”"
+    publishedDateTime: 2020-11-28T22:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542089529&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL0IP"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4db4577615d342bf863d6a1b5ccf9ede_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump 'ashamed' to have endorsed Republican Georgia governor"
+    excerpt: "President Donald Trump said Sunday he was “ashamed” for endorsing the Republican governor of Georgia after he lost in the state to Democrat Joe Biden"
+    publishedDateTime: 2020-11-29T21:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9517c546180741c3a92a1a18459fb0a1_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump says he is ashamed that he supported Georgia Gov. Brian Kemp"
     excerpt: "The president, still smarting from President-elect Joe Biden winning Georgia in the November election, lashed out at the state's top Republican."
@@ -61,117 +109,171 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump campaign disavows conspiracy theory-spouting attorney Sidney Powell"
-    excerpt: "The Trump campaign’s legal team is distancing itself from conservative attorney Sidney Powell, a purveyor of unfounded voting conspiracy theories."
-    publishedDateTime: 2020-11-23T10:17:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell?_amp=true"
+  - title: "GOP leader McDaniel to run for 3rd term with Trump's backing"
+    excerpt: "Republican National Committee Chairwoman Ronna McDaniel is launching her bid for a third two-year term heading the GOP's governing organization"
+    publishedDateTime: 2020-12-02T15:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-leader-mcdaniel-run-3rd-term-trumps-backing-74502446"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-leader-mcdaniel-run-3rd-term-trumps-backing-74502446"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-leader-mcdaniel-run-3rd-term-trumps-backing-74502446"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 124
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/512e097/2147483647/strip/true/crop/3034x1982+0+21/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F66%2F110684d9467c885e9125a53f9c39%2Fap20325745047715.jpg"
-        width: 320
-        height: 209
+      - url: "https://s.abcnews.com/images/Politics/WireAP_56ef52a878214440bc5fcc477d8f064c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "For Trump advocate Sidney Powell, a playbook steeped in conspiracy theories"
-    excerpt: "The appellate lawyer has emerged as a key voice on the far right, fueling skepticism that Joe Biden rightfully won presidential contests in key battleground states."
-    publishedDateTime: 2020-11-28T22:39:00Z
-    webUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+  - title: "The Trump-fueled peril for the GOP in Georgia"
+    excerpt: "Republicans fear his conspiracy-mongering about a rigged election will depress turnout among their base in the January runoffs for control of the Senate."
+    publishedDateTime: 2020-12-02T12:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/trump-inspired-danger-gop-georgia/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/trump-inspired-danger-gop-georgia/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/trump-inspired-danger-gop-georgia/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3ASO6NBQAMI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump headed to Georgia as runoff boost, but also a threat"
+    excerpt: "Some Republicans are sounding alarms that President Donald Trump’s conspiratorial denials of his own election defeat could threaten the party’s ability to win a Senate majority"
+    publishedDateTime: 2020-12-02T01:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump's false fraud claims could threaten GOP hopes in Georgia Senate races"
+    excerpt: "The president has pledged to devote \"125%\" of his energy to the election he lost, despite the raging coronavirus pandemic."
+    publishedDateTime: 2020-12-04T00:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-false-fraud-claims-threaten-gop-hopes-georgia/story?id=74519757"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-false-fraud-claims-threaten-gop-hopes-georgia/story?id=74519757"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-false-fraud-claims-threaten-gop-hopes-georgia/story?id=74519757"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 123
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/trump-oval-office-rt-jt-201203_1607030794685_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Justice Dept. meets Trump, Giuliani vote-fraud claims with silent skepticism"
-    excerpt: "The Justice Department has met President Trump’s fantastical claims of widespread voter fraud with two weeks of skeptical silence, not taking any overt moves to investigate what Trump’s lawyer, Rudolph W."
-    publishedDateTime: 2020-11-21T22:18:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+  - title: "Trump heading to Georgia ahead of Senate runoffs"
+    excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
+    publishedDateTime: 2020-12-02T02:26:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-georgia-saturday-ahead-of-senate-runoffs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/01/4529d887-b72c-4c1c-bb29-b00f91f286ba/thumbnail/1200x630/20642c43ecc51cd897574a2b1d49ca9f/cbsn-fusion-trump-georgia-saturday-ahead-of-senate-runoffs-thumbnail-599055-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Georgia Senate Runoffs Lure Possible 2024 GOP Hopefuls, Including Trump"
+    excerpt: "The president is set to campaign in Georgia this weekend as he weighs another run in four years. That could upend the ambitions of several other Republicans visiting the state recently."
+    publishedDateTime: 2020-12-04T09:01:00Z
+    webUrl: "https://www.npr.org/2020/12/04/942053653/georgia-senate-runoffs-lure-possible-2024-gop-hopefuls-including-trump"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/03/ap_20307090660462_wide-103ecc72e5af7c1f6c6716c222801344b3b18ce3.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Trump roils Georgia GOP as party waits to see if presidential visit helps — or hurts — in crucial Senate runoffs"
+    excerpt: "The president’s baseless claims of fraud in the November elections have sparked a Republican civil war in the state, where voters will return to the polls on Jan. 5 in a pair of races that will determine control of the U."
+    publishedDateTime: 2020-12-03T12:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 122
+    quality: 104
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IUUPVKBMAMI6XD5CA3T4XMKFYA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMJXFWBVEAI6XKMXD5GFHUVHI4.jpg&w=1440"
         width: 1440
-        height: 959
+        height: 864
         isCached: true
-  - title: "Giuliani releases statement distancing Trump campaign from lawyer Sidney Powell"
-    excerpt: "The president’s legal team was thrown into tumult Sunday when two Trump attorneys – Rudolph W. Giuliani and Jenna Ellis – released a statement abruptly distancing the campaign from a third attorney, Sidney Powell."
-    publishedDateTime: 2020-11-23T00:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/22/giuliani-releases-statement-distancing-trump-campaign-lawyer-sidney-powell/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/22/giuliani-releases-statement-distancing-trump-campaign-lawyer-sidney-powell/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/22/giuliani-releases-statement-distancing-trump-campaign-lawyer-sidney-powell/?outputType=amp"
+  - title: "Georgia official calls on Trump to condemn threats against election workers: \"Someone's gonna get killed\""
+    excerpt: "One of Georgia's top election officials rebuked President Trump for his rhetoric Tuesday after a local elections worker received a death threat. Gabriel Sterling, a Republican, called on the president and Senators Kelly Loeffler and David Perdue to condemn the threats and warned,"
+    publishedDateTime: 2020-12-02T00:04:00Z
+    webUrl: "https://www.cbsnews.com/video/georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BHKKJBBNDMI6XHOWFUAXTGAXDE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Donald Trump called Monica Palmer after Wayne County Board of Canvassers meeting"
-    excerpt: "Monica Palmer, the Republican chair of the Wayne County Board of Canvassers, says Trump called her after Tuesday night's meeting."
-    publishedDateTime: 2020-11-19T19:42:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/11/19/trump-monica-palmer-wayne-canvassers-certification-election/3776190001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3776190001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3776190001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTF/ea67708f-0b90-4e33-8844-f0ea57dc05b4-AP_Election_2020_Trump_MIAB1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/02/a37be1a1-f213-4eb5-ad96-05cdec06771a/thumbnail/1200x630/2a24d977528492a0bf4cd19a003a0124/cbsn-fusion-georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed-thumbnail-599327-640x360.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Trump axed campaign lawyer Sidney Powell was because 'she was too conspiratorial even for him'"
-    excerpt: "Powell has alleged a vast plot involving foreign communists and GOP officials to subvert the election, but even Trump it seems has heard enough."
-    publishedDateTime: 2020-11-23T11:56:00Z
-    webUrl: "https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11?amp"
+  - title: "VP Mike Pence stopping in Georgia to visit CDC, drum up GOP support ahead of runoffs"
+    excerpt: "According to the White House, Pence is expected to visit the CDC in Atlanta before heading to Savannah for a campaign event."
+    publishedDateTime: 2020-12-01T04:36:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-georgia-visit-rally-loeffler-perdue-cdc-vaccine/85-37eb0d52-e80b-4cb4-95b8-8fb0001b24c1"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-rally-loeffler-perdue-cdc-vaccine/85-37eb0d52-e80b-4cb4-95b8-8fb0001b24c1"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-rally-loeffler-perdue-cdc-vaccine/85-37eb0d52-e80b-4cb4-95b8-8fb0001b24c1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
+      name: 11Alive
+      domain: 11alive.com
+    quality: 68
     images:
-      - url: "https://i.insider.com/5fbb973350e71a0011556be6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://media.11alive.com/assets/WXIA/images/28012b86-f747-49cd-b64a-707338b90864/28012b86-f747-49cd-b64a-707338b90864_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "Attorney heading up Trump campaign's Wisconsin recount effort is seeking to throw out his own vote"
-    excerpt: "Jim Troupis, a former Dane County judge and Cross Plains attorney, voted early using the state's in-person absentee option."
-    publishedDateTime: 2020-11-23T02:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/22/attorney-heading-up-trump-recount-wants-throw-out-his-own-vote/6382647002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6382647002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6382647002"
+  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
+    excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine who controls the Senate at the outset of President-elect Joe Biden's administration."
+    publishedDateTime: 2020-11-20T20:33:00Z
+    webUrl: "https://www.daytondailynews.com/nation-world/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/OGPY65XXBZAAPLRT732FW4J5DI/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
+      name: Dayton Daily News
+      domain: daytondailynews.com
+    quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/21/PMJS/f177309e-811b-46d6-b7f4-2da8cebb9b00-RECOUNT_05318.JPG?auto=webp&crop=3899,2194,x0,y207&format=pjpg&width=1200"
+      - url: "https://www.daytondailynews.com/resizer/Q7xcE4p6hMoQHtsThkvtafgdskM=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/W4NGYYYTSBCG5L7OBQPLKWXAJU.jpg"
         width: 1200
-        height: 675
+        height: 630
+        isCached: true
+  - title: "Vice President Pence will campaign in Georgia for GOP senators in runoff"
+    excerpt: "Vice President Mike Pence said he will visit Georgia later this month to campaign on behalf of U.S. Sens. David Perdue and Kelly Loeffler, who face runoff contests against Democratic opponents to retain their seats."
+    publishedDateTime: 2020-11-10T20:57:00Z
+    webUrl: "https://www.ajc.com/politics/politics-blog/vice-president-pence-will-campaign-in-georgia-for-gop-senators-in-runoff/6FXJHBVYLJGPXAY4BLC6G73WEQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 54
+    images:
+      - url: "https://www.ajc.com/resizer/pbOdNqkyHcqh0kn5aevnLaU4l3s=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/JP473P73HVH3D4OQD373MMVNR4.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "4vuPphJH27XgxiL9cyo6/+W8Z4V+UtOprOvsHTqJQ3Ttw/TdI5mmA/9bdPmodB1hY7cwqKgFELUGkuXyRkg8/XRtJMsITXmhwKVZzqxwwzwr/UOVSKGC/pzwtuj87w5Mqkhc5lPZOqz1TlB9bKtjZUk1CSCEPdP3ixMUPpTwT7Yay+pUxJ+AmTS+rGmzV+Be+2e+/CCW9JGRKWRHr8e+sa0pULaySNGqcejRAxx0Wy2LOYblLlcGthO1HeEjNjOgrShlvpdQJctJn21FLYKsLRkmVJnWgy7rJCGTTogylvkM+FwIlbprZjHuQaWClBNR+U6F8q109BSxhOEIijtcZcxTzaa5PQzMriSrTkBvm0ihPdHatOLDhy8K8llo8wOEmBubUMS6cbztSPwg239Lyz5IG9lyZZobXUHWiK8A8JELDVU8fAQZ8+QInd7OXVdvIz7naS5anrQv8SYDzXtoSIU7xAQfyJeHF/jkMX4GXDodflrFhVKisSWADMJPkRKBxgwVk25Jk5S7OHe5XrRJ7g==;O3vUyOUaC9BGNwZ4QVLnpA=="

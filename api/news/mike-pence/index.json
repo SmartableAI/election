@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-04-trump-pence-to-campaign-in-georgia-as-senate-runoff-turnout-concerns-grow-among-gop.md",
+      "title": "Trump, Pence to campaign in Georgia as Senate runoff turnout concerns grow among GOP",
+      "excerpt": "Mike Pence and President Donald Trump's rallies for Georgia's senators will be against a backdrop of growing concerns about GOP turnout in the Senate runoff election.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 453,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/pence-loeffler-perdue-gty-jc-201203_1607035893960_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "publishedDateTime": "2020-12-04T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-mark-kelly-sworn-in-by-pence-flipping-senate-seat-in-trump-rigged-election-state-blue.md",
       "title": "Mark Kelly sworn in by Pence, flipping Senate seat in Trump 'rigged election' state blue",
       "excerpt": "Kelly's swearing-in gives Democrats a Senate pickup in Arizona, where Trump claims there was massive voter fraud.",
@@ -219,7 +271,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -271,7 +323,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1454,49 +1506,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-vp-mike-pences-daughter-delivers-message-for-those-nervous-on-election-day.md",
-      "title": "VP Mike Pence’s daughter delivers message for those ‘nervous’ on Election Day",
-      "excerpt": "Charlotte Pence Bond, author and daughter of Vice President Mike Pence and second lady Karen Pence, delivered a powerful message on Tuesday about the 2020 presidential election and the importance of following God amid political and social unrest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.christianpost.com/news/vp-mike-pences-daughter-delivers-election-day-message.html",
-      "originalUrl": "https://www.christianpost.com/news/vp-mike-pences-daughter-delivers-election-day-message.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.christianpost.com/files/cache/image/13/32/133278_w_450_300.jpg",
-          "width": 450,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.christianpost.com/amp/vp-mike-pences-daughter-delivers-election-day-message.html",
-      "cdnAmpWebUrl": "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/vp-mike-pences-daughter-delivers-election-day-message.html",
-      "publishedDateTime": "2020-11-03T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Christian Post",
-        "domain": "christianpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],
