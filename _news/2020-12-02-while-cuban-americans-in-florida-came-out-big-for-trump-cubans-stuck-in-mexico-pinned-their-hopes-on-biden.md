@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-tr
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp"
 type: article
 quality: 122
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/c5107522-4dbb-4bb7-bc07-5a9025a578a7-AFP_AFP_8T24WG.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Coronavirus live news: Biden to ask Americans to wear masks for 100 days as global deaths pass 1.5m"
+    excerpt: "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m"
+    publishedDateTime: 2020-12-04T00:24:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc980148f08b46221a1a5e4"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 111
+    images:
+      - url: "https://i.guim.co.uk/img/media/c090cd83408471d34aa1737ecbe2a87179cb7948/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1079fb7348bc08caefecba23853b0e7d"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "xSxUzEU4q/GhH3zvEsVtGFa6AUaZezUteqEuZ+CT81Ixqvp3GxKzY4eFWovtnj2B41vU0me2+YpSE0k4YbHW66/ADq6MBVD0D5EKWt9YBVI0ojBski2LG4j0haiOG3jR2mWTrAQI2Zy3BjoVNntOwLkYCV/21DYMwx+rEEA3fGg6njsHA+W9NSoPy3lTcwNw49LxBpnxVJ8uKsYttWZGgTwo03CQNBbdj/eguBmywl4/jhmz+lAgUz0Pj26FULuBcY1xmEB83z7UO++SkL4+J2a0P+C8ivgi+M9BcJn8yTEo/8R27LnDBBVYBo9p1dhxrwsSaGG7WV1v/6anepSGCuOYj/egvv+ZepO70iNPfCQl6PUpfU0Zl+O4ZkA2nBQN8ABgPD14caLu9fgwn74M3J/YFXL5nxt6ethgsVU8qRXF0hGpEBwWnO3r5GJfFP6Co3Cbb+ClRp5BBaGT83Przu1yEQd+VWAQXRrNWLn+VPOSAlssnO3c0VMsHFQn7sIhwt4JSz/NoRTAu+DFqDV40g==;QmXj/oNQhK+Wzefot0of8A=="

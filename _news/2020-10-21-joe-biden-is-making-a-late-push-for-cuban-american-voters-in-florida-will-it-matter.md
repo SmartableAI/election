@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Coronavirus live news: Biden to ask Americans to wear masks for 100 days as global deaths pass 1.5m"
+    excerpt: "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m"
+    publishedDateTime: 2020-12-04T00:24:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc980148f08b46221a1a5e4"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 111
+    images:
+      - url: "https://i.guim.co.uk/img/media/c090cd83408471d34aa1737ecbe2a87179cb7948/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1079fb7348bc08caefecba23853b0e7d"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "COzCUSj3FpJpqDhrnil1UzDJYGC/oMHSQOPDeBvqRBjGDT7kwjDLdNUzW1S+DLuagvr9oXfLVN5+wne5i6eqONI2QxbjULjczlJG31QsrxRSWKX0xwXL/3bLyHUjrrmdzPM2Q8yhuSnA9KwvFS7T7s5G23RlTqitJTc8YCja/a3h7GqBx2PWZ+Vp0U0Gz1BC8KtAbBjihZpHihbgCjUbgEKMFVfY7SsBauTZjDPf2kG4XN/ulRcMfBrnOKEXMJX7/xweZVetCMm/+TzLts/C9hHjujk2x5jLyX656nw3WCCDQQxDrnjxPfZ4Q9fHO3IvVWDFcMMZiKPAWLSVQHsM6r4yulCL0qjJpjmuml2AcT4=;Ffp2uZkLbnRuIYwjNVteOw=="
 ---

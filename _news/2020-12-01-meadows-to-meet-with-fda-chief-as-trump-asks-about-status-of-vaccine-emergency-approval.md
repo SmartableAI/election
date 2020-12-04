@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/mark-meadows-fda-vaccine
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/mark-meadows-fda-vaccine-trump/index.html"
 type: article
 quality: 167
-heat: 187
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "FDA chief meets with Meadows again as Trump remains frustrated with pace of vaccine approval"
-    excerpt: "Embattled Food and Drug Administration Commissioner Stephen Hahn met with White House chief of staff Mark Meadows for second day in a row on Wednesday as President Donald Trump remains frustrated no Covid-19 vaccine has been granted US emergency approval yet.\n    \n"
-    publishedDateTime: 2020-12-02T18:28:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tEsuZZ9siU4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/trump-hahn-fda-vaccine-mark-meadows/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/trump-hahn-fda-vaccine-mark-meadows/index.html"
+  - title: "Trump's intelligence chief warns China is the greatest threat to US since WWII"
+    excerpt: "The Trump administration's most senior intelligence official issued a stark warning Thursday that China is preparing for \"an open-ended period of confrontation with the US,\" urging bipartisan action to address \"the greatest threat to America today\" and to \"democracy around the world since World War II.\"\n"
+    publishedDateTime: 2020-12-03T22:58:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ChEfcw0Vozg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/ratcliffe-china-threat-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/ratcliffe-china-threat-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924181014-hahn-0923-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200528134604-01-john-ratcliffe-0505-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

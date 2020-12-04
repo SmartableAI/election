@@ -153,6 +153,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "‘Kamala Pecan’: Kentucky shop names ice cream after Harris"
+    excerpt: "A Kentucky ice cream parlor known for naming its treats after people in the news has introduced a flavor named after Vice President-elect Kamala Harris: Kamala"
+    publishedDateTime: 2020-11-17T15:35:00Z
+    webUrl: "https://apnews.com/34d8a249e11b9114748b423e78e2a21d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "'She'll Look Like A Boss': Vice President-Elect Kamala Harris Inspires Young Girls"
     excerpt: "In her victory speech, Kamala Harris spoke directly to young girls, saying \"this is a country of possibilities.\" Girls who met Harris during the campaign say they're inspired by her as a pathbreaker."
     publishedDateTime: 2020-11-12T19:00:00Z
@@ -212,6 +226,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/07/soundbitesenator-kamala-harris-brands-the-response-to-the.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "‘Kamala Pecan’: Kentucky shop names ice cream after Harris"
+    excerpt: "A Kentucky ice cream parlor known for naming its treats after people in the news has introduced a flavor named after Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-11-18T12:00:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article247232364.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article247232364.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article247232364.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998024001/52745579-bc16-43c3-9d9e-e8c13d5f8543/d110c3a1-f42d-4cac-ada1-2446b71ea7d2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Menlo Park school board president resigns after wife's 'reprehensible' tweet about Kamala Harris"
     excerpt: "A Menlo Park school board president stepped down after his wife's racist, offensive tweet began circulating among students' families."

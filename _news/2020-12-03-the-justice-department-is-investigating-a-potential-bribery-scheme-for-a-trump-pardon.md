@@ -144,6 +144,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Michael Flynn’s firing: 25 days that shook the Trump presidency"
+    excerpt: "NBC News’ Carol Lee breaks down the events that lead to Michael Flynn’s firing from the Trump administration. Dec. 3, 2020"
+    publishedDateTime: 2020-12-04T00:21:00Z
+    webUrl: "https://www.nbcnews.com/now/video/michael-flynn-s-firing-25-days-that-shook-the-trump-presidency-97081413883"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97081413883"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97081413883"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_flynn_201203_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump Has Discussed With Advisers Pardons for His 3 Eldest Children and Giuliani"
     excerpt: "Rudolph W. Giuliani, who is promoting baseless claims of widespread election fraud, talked about a pardon with President Trump as recently as last week."
     publishedDateTime: 2020-12-02T03:11:00Z

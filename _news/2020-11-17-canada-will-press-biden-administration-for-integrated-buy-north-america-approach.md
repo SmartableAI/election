@@ -263,6 +263,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Health officials lay out wish list for Biden Administration: Restore the CDC, prioritize health across the globe"
+    excerpt: "A who's who of health officials published a commentary Wednesday outlining their wish list for the incoming Biden-Harris Administration, starting with their desire for the U.S. to rejoin the global public health community."
+    publishedDateTime: 2020-12-03T18:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/12/03/health-experts-call-biden-restore-cdc-prioritize-global-health/3792331001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3792331001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3792331001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/505fe506013ba96c4ebd6d67660c8f64967f96f8/c=949-779-4680-2887/local/-/media/2018/02/20/USATODAY/USATODAY/636547234970675887-IMG-0406.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Biden to nominate Avril Haines as next director of national intelligence; she would be the first woman to hold the position"
     excerpt: "Haines, a lawyer by training, held senior national security roles in the Obama administration, including as the No. 2 at CIA."
     publishedDateTime: 2020-11-23T23:15:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/trump-hahn-fda-vaccine-m
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/trump-hahn-fda-vaccine-mark-meadows/index.html"
 type: article
 quality: 164
-heat: -1
-published: false
+heat: 184
+published: true
 
 provider:
   name: CNN
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Meadows to meet with FDA chief as Trump asks about status of vaccine emergency approval"
-    excerpt: "White House chief of staff Mark Meadows is scheduled to meet with Food and Drug Administration Commissioner Stephen Hahn in the West Wing Tuesday, as President Donald Trump has privately demanded to know why the agency hasn't granted emergency use for Pfizer's coronavirus vaccine yet, according to two"
-    publishedDateTime: 2020-12-01T12:35:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1xct-Eqv0mA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/mark-meadows-fda-vaccine-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/mark-meadows-fda-vaccine-trump/index.html"
+  - title: "McEnany incorrectly credits Trump with White House AIDS ribbon"
+    excerpt: "The press secretary made the false assertion while defending the administration for its omission of LGBTQ people in a World AIDS Day statement."
+    publishedDateTime: 2020-12-02T20:37:00Z
+    webUrl: "https://www.politico.com/news/2020/12/02/mcenany-trump-white-house-aids-ribbon-442264"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/02/mcenany-trump-white-house-aids-ribbon-442264"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/02/mcenany-trump-white-house-aids-ribbon-442264"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106231354-mark-meadows-1013-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/74/5b/33b208544690b59793476e22219f/ap20336673666172-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "CDAhjlrsRy7ZKPBw5JRcHcf+8m4IGu5Mlc6dom4V+ZigXOn+GSseJpvtfH33lkruumLz1T/87sLz23qX4N4D24EDC3VzivZim5BQnzqkCSIgC9RhJgqzVeKEJVlbdmyqzYERriQ7wYM+SJnSzScwCQ4EcurgCp/YXKMkwDZcCzBpnkBgEm1JKUCOIoTMgrsw8A6bkAliNN/EWuFQP8Qx+qTzr70p7Dbh1gHBe/bazvtU5L0LhexBgH6t56/I9L82rQx1FVDjjW78wUMx2stIs7mVpg7i9A9wxuxPX8ahXaYGq+EoADA0+mR9uZ9DBo83SHIZ8CrHmuZaYPcASkF21yPOisz1LryxGSl2k0AiYm8=;OwjeDjedjllBz9OrgRzOyQ=="

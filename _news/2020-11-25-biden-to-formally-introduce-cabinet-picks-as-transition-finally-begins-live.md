@@ -537,6 +537,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Among first acts, Biden to call for 100 days of mask-wearing"
+    excerpt: "Joe Biden says he will ask Americans to commit to 100 days of wearing masks as one of his first acts as president"
+    publishedDateTime: 2020-12-03T23:19:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/acts-biden-call-100-days-mask-wearing-74527947"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/acts-biden-call-100-days-mask-wearing-74527947"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/acts-biden-call-100-days-mask-wearing-74527947"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_26f6da94effd4303ba958dd7e0b88fb8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden taps Deese to head climate-focused White House economic council"
+    excerpt: "U.S. President-elect Joe Biden said on Thursday he had selected Brian Deese, who helped lead President Barack Obama's efforts to bail out the automotive industry during the 2009 financial crisis and was a key player in helping secure the Paris climate agreement,"
+    publishedDateTime: 2020-12-04T00:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-deese/biden-names-top-economic-adviser-deese-to-fight-climate-change-jobs-crisis-idUSKBN28D2NU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D2NU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2NU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543360436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21KF"
+        width: 809
+        height: 545
+        isCached: true
   - title: "Iran says it will comply with nuclear deal if Biden lifts all sanctions"
     excerpt: "Foreign minister calls on US to ‘show its good faith’ but appears to rule out renegotiating deal"
     publishedDateTime: 2020-12-03T16:23:00Z

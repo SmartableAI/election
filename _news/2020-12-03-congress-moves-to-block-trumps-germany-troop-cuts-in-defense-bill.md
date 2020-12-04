@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump raises more than $207 million since Election Day as he pushes baseless election fraud claims"
+    excerpt: "President Donald Trump's political operation raised more than $207 million since Election Day, as the President inundates his supporters with fundraising appeals and refuses to concede his White House loss, according to figures released Thursday night by his campaign.\n    \n"
+    publishedDateTime: 2020-12-04T00:26:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UKvy1orU01E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-fundraising-election-day/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-fundraising-election-day/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130728-02-trump-1203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President Donald Trump raises more than $170 million since Election Day as he pushes baseless fraud claims"
     excerpt: "President Donald Trump and his political operation have raised more than $170 million since Election Day, a person familiar with the matter said -- a massive fundraising haul fueled by Trump's baseless allegations that the election was rigged.\n    \n"
     publishedDateTime: 2020-12-01T14:23:47Z

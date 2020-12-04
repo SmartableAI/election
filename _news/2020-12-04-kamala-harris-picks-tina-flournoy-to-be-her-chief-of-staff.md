@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris Makes More History With All-Female Senior Staff Picks"
+    excerpt: "For the first time, the top three positions in the office of the vice president will be held by women -- and all serving under the first woman to hold the office."
+    publishedDateTime: 2020-12-03T23:22:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDqnSWHoECyc/v0/360x-1.jpg"
+        width: 360
+        height: 272
+        isCached: true
   - title: "Kamala Harris names chief of staff, other key positions"
     excerpt: "Elect Kamala D. Harris will name Tina Flournoy Chief of Staff, the transition team announced Thursday, tapping a trailblazer with decades of Washington experience to help run the vice presidential operation."
     publishedDateTime: 2020-12-03T19:19:00Z
@@ -47,21 +63,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Kamala Harris Celebrates 50 Days Until Biden Is President; Sarah Cooper, Rosanna Arquette and Others Respond"
-    excerpt: "Vice President-elect Kamala Harris took to Twitter this morning to happily remind people they are only 50 days away from Joe Biden 's January 20th Presidential Inauguration. As she put it, \"Only 50 days until we get to call @JoeBiden President of the United States."
-    publishedDateTime: 2020-12-01T15:43:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522?amp=1"
+  - title: "Vice President-elect Kamala Harris is poised to break barriers on multiple fronts"
+    excerpt: "It was exactly one year ago Thursday that California Sen. Kamala Harris dropped out of the presidential race, citing a lack of funds. Now she is poised to break barriers as the first woman, first Black American and first South-Asian American vice president-elect."
+    publishedDateTime: 2020-12-03T22:35:00Z
+    webUrl: "https://www.pbs.org/newshour/show/vice-president-elect-kamala-harris-is-poised-to-break-barriers-on-multiple-fronts"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/vice-president-elect-kamala-harris-is-poised-to-break-barriers-on-multiple-fronts"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/vice-president-elect-kamala-harris-is-poised-to-break-barriers-on-multiple-fronts"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
+      name: PBS
+      domain: pbs.org
+    quality: 120
     images:
-      - url: "https://d.newsweek.com/en/full/1669370/kamala-harris-joe-biden.jpg"
-        width: 2500
-        height: 1668
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/VP_tape-1024x699.jpg"
+        width: 1024
+        height: 699
         isCached: true
   - title: "Kamala Harris calls teen who went viral for painting portrait of vice president-elect"
     excerpt: "\"You really have a gift, my goodness. I was so touched to see it,\" Vice President-elect Kamala Harris told the 14-year-old artist."
@@ -78,20 +94,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/26/ac748686-00fb-4ed8-bc47-b26f134cf02d/thumbnail/1200x630/1479e37ae938cc507f7a50f93f6c3f65/screen-shot-2020-11-26-at-1-42-40-pm.png"
         width: 909
         height: 630
-        isCached: true
-  - title: "‘Kamala Pecan’: Kentucky shop names ice cream after Harris"
-    excerpt: "A Kentucky ice cream parlor known for naming its treats after people in the news has introduced a flavor named after Vice President-elect Kamala Harris: Kamala"
-    publishedDateTime: 2020-11-17T15:35:00Z
-    webUrl: "https://apnews.com/34d8a249e11b9114748b423e78e2a21d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "The Latest: Kamala Harris names Tina Flournoy chief of staff"
     excerpt: "WASHINGTON (AP) — The Latest on President-elect Joe Biden (all times local): 8:35 a.m. Vice President-elect Kamala Harris is hiring veteran Democratic strategist Tina Flournoy as"
@@ -148,22 +150,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
         width: 1200
         height: 675
-        isCached: true
-  - title: "‘Kamala Pecan’: Kentucky shop names ice cream after Harris"
-    excerpt: "A Kentucky ice cream parlor known for naming its treats after people in the news has introduced a flavor named after Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-11-18T12:00:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article247232364.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article247232364.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article247232364.html"
-    type: article
-    provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998024001/52745579-bc16-43c3-9d9e-e8c13d5f8543/d110c3a1-f42d-4cac-ada1-2446b71ea7d2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Kamala Harris Calls Bay Area Teen to Thank Him for Painted Portrait"
     excerpt: "A Bay Area teenager with impressive artistic skills has captured the attention of Vice President-elect Kamala Harris."
@@ -277,22 +263,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "George Floyd family lawyer Ben Crump recommends Kamala Harris' brother-in-law for attorney general"
-    excerpt: "In a USA Today op-ed published Tuesday, Ben Crump, the lawyer for the families of George Floyd, Breonna Taylor, and many more Black people killed by police, outlined who he'd like to see lead the Biden justice department."
-    publishedDateTime: 2020-12-01T18:37:00Z
-    webUrl: "https://theweek.com/speedreads/952709/george-floyd-family-lawyer-ben-crump-recommends-kamala-harris-brotherinlaw-attorney-general"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/952709/george-floyd-family-lawyer-ben-crump-recommends-kamala-harris-brotherinlaw-attorney-general"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/952709/george-floyd-family-lawyer-ben-crump-recommends-kamala-harris-brotherinlaw-attorney-general"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 61
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-160767027.jpg?itok=rfb75vUX"
-        width: 840
-        height: 560
-        isCached: true
   - title: "Kamala Harris shares how to brine a turkey in viral video"
     excerpt: "A 2019 video of Vice President-elect Kamala Harris offering tips on how to brine a Thanksgiving turkey is spreading across social media faster than you can pass the gravy. The video was captured and posted on Twitter by Washington Post journalist Jonathan Capehart who asked Harris for her tips on cooking a turkey as she was preparing for an appearance on MSNBC's \"PoliticsNation."
     publishedDateTime: 2020-11-26T19:18:00Z
@@ -346,22 +316,6 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 50
-  - title: "Gov. Andrew Cuomo, Dr. Anthony Fauci, Kanye West, Kamala Harris, Black Lives Matter nominated for Time’s Person of the Year"
-    excerpt: "Gov. Andrew Cuomo and Dr. Anthony Fauci have been nominated for Time’s Person of the Year. Time magazine released its list of reader poll nominees Wednesday for the 2020 Person of the Year honor. The governor of New York and Fauci,"
-    publishedDateTime: 2020-11-27T18:01:00Z
-    webUrl: "https://www.masslive.com/coronavirus/2020/11/gov-andrew-cuomo-dr-anthony-fauci-kanye-west-kamala-harris-black-lives-matter-nominated-for-times-person-of-the-year.html"
-    ampWebUrl: "https://www.masslive.com/coronavirus/2020/11/gov-andrew-cuomo-dr-anthony-fauci-kanye-west-kamala-harris-black-lives-matter-nominated-for-times-person-of-the-year.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/11/gov-andrew-cuomo-dr-anthony-fauci-kanye-west-kamala-harris-black-lives-matter-nominated-for-times-person-of-the-year.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 49
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RFFAMYBJTBHUFCYFPLJT5JKI4Y.JPG"
-        width: 4637
-        height: 2961
-        isCached: true
   - title: "Omaha native will be chief spokeswoman for Harris"
     excerpt: "Omaha native Symone Sanders will serve as chief spokeswoman for Vice President-elect Kamala Harris. President-elect Joe Biden announced Sanders' role on his history-making communications team Sunday."
     publishedDateTime: 2020-11-30T18:41:00Z
@@ -372,6 +326,6 @@ related:
       domain: omaha.com
     quality: 35
 
-secured: "E2Mod6MB/QmUs2Eh105ViK3J6/IQD/Qveq89W3hdelUmgr++FetpfOlfr13xw2hfTZa6/N/Z0iC0d7tBKWg9yDAdSfLdR/tEgos65zDCqrOqLhvcPp3t7tSLHMyQYlg36Tz/oCgHtv3ANUBsxnbzJlS9H3lIJj1klyT704/77baQZUWgm2Sve9NphpK+bCh2InVBYJlXutNxm4pLQjW8PtRBXo6+QH/HOPSN66H8/+Bwyle8U5UkAciJcr1kINiEMTnXW0+kh8FC2qtQfpoqfil9jRFGbgdc0LOQPAw1oGjd7aii5vR8je4xFnoTE5Ym8/6XDXk8AF0rsM+XAOCwLYZjELC0/uRrrHOfNTiIImo=;B6KZ6gLhVP8GskZ4gIw6yA=="
+secured: "BHcOjMFpT5YMOQF9XvIu1LKKX7IyDwWTBxW+9SOdjoiZHRjHeyVlpyaviSC4MyehT1I4eHyO6F00wp7OuTXz5ddgX/YHFCeV3soRC0jtEZX/fr8Yy4ipTww93d9lIrogn+dfIhgJ4TwFJxTydJv7nI11B9JBaHTMFof9eyi7MMGNCEDxNlTRBFJEhgvxvojVoV7Wd1Yd61OU9aBWEVpYisQoEqn4NEvapyCJSW2R9cO6VkJ1ToE+HT89nyKC3in39u+vsNTNYg5+51+S5DY+MhMper4pHIRKg8V0Pl8XqPW7cne05gSBHRjP9swNU8UsoMAUqHSQrYv7oo2Kl/gCIRK+bepInDyqEbMAyzbOgIiMmZLhz3VB28ZYhpJ3L+sco6acSIh1Y5NGDEOx25YU6eVkbl/EyHhWWW7I3y/uSYSsgH/RQIlkWTh/6wdGxD21FIuwnTrmtM/I4+odYTAz59ewNm5aiHjpDC+5FIdDRFfOtu+Oh3ZygSiK6N4lwr62EnKnnwgsyY/EAPL+pVOjcQ==;hvFwz9RgBkOnN+c5TCQYnQ=="
 ---
 
