@@ -297,8 +297,8 @@ related:
         isCached: true
   - title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
     excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
-    publishedDateTime: 2020-12-04T05:17:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising/trump-unveils-207-million-fundraising-haul-since-election-as-he-tries-to-overturn-results-idUSKBN28E012"
+    publishedDateTime: 2020-12-04T06:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E012"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E012"
     type: article

@@ -2,62 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-11-23-rep-michael-waltz-biden-cabinet-picks-represent-headlong-push-back-to-obama-era-foreign-policy.md",
-      "title": "Rep. Michael Waltz: Biden Cabinet picks represent 'headlong push' back to Obama-era foreign policy",
-      "excerpt": "President-elect Joe Biden's Cabinet choices indicate he will reprise the Obama administration's \"disastrous\" foreign policy, especially in the Middle East, Rep. Michael Waltz, R-Fla., warned on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x_PMgpZpYAo/rep-michael-waltz-biden-cabinet-picks-obama-foreign-policy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x_PMgpZpYAo/rep-michael-waltz-biden-cabinet-picks-obama-foreign-policy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rep-michael-waltz-biden-cabinet-picks-obama-foreign-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-michael-waltz-biden-cabinet-picks-obama-foreign-policy.amp",
-      "publishedDateTime": "2020-11-23T14:15:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-23-biden-spotlights-enduring-commitment-to-nato-in-talk-with-alliance-leader.md",
       "title": "Biden spotlights ‘enduring commitment’ to NATO in talk with alliance leader",
       "excerpt": "President-elect Joe Biden on spoke on Monday with the head of North Atlantic Treaty Organization - better known as NATO – the more than 7 decade old security organization that bonds the U.S with much of Europe.",
@@ -1364,6 +1308,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-rep-elect-august-pfluger-of-texas-calls-biden-oil-plans-extremely-alarming.md",
+      "title": "Rep.-elect August Pfluger of Texas calls Biden oil plans 'extremely alarming'",
+      "excerpt": "An Air Force veteran newly elected to represent an oil-rich Texas district said President-elect Joe Biden's proposals on taxes, and the oil and gas industry are \"extremely alarming.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yZm37Y7Z9iw/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yZm37Y7Z9iw/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/August-Pfluger-FOX.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming.amp",
+      "publishedDateTime": "2020-11-21T12:02:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

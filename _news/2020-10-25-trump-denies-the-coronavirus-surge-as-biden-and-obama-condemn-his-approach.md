@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html"
 type: article
 quality: 198
-heat: 2898
+heat: 2918
 published: true
 
 provider:
@@ -605,6 +605,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200728102117-donald-trump-jr-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden urges America to mask up for 100 days as coronavirus surges"
+    excerpt: "President John F. Kennedy urged Americans to ask not what their country could do for them, but what they could do for their country. When he takes the same oath of office next month, Joe Biden will effectively beseech the nation to do exactly the same thing, if in more prosaic terms, with an appeal for"
+    publishedDateTime: 2020-12-04T05:03:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T-rKNKXuixE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-harris-interview-covid-mask/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-harris-interview-covid-mask/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203221338-harris-biden-cnn-interview-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

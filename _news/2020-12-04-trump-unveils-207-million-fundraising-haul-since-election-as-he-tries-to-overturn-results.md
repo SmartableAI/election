@@ -2,9 +2,9 @@
 category: news
 title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
 excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
-publishedDateTime: 2020-12-04T05:17:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising/trump-unveils-207-million-fundraising-haul-since-election-as-he-tries-to-overturn-results-idUSKBN28E012"
-webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising/trump-unveils-207-million-fundraising-haul-since-election-as-he-tries-to-overturn-results-idUSKBN28E012"
+publishedDateTime: 2020-12-04T06:39:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
+webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E012"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E012"
 type: article
@@ -1185,6 +1185,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "dZOglcTl3Y22IPcJCqMxtASWv8AyTWHYMOKRp5WJ8pVRJ9K3FQUJjYA5WShtioe/jNGBNSsI9tJ+GZRp5J24QeCKuwHBzD83MH123DjxRm6kyIojDmr7fm/R7ei04oAfx63CoOY4qWFnOiRRrm0A5QWIWwnOFGTPeaPV+vBfm67DZdiOHJgcUq6yKgXhc0wWiWDnMypK9ZS+NElOOrclCCerSux1o8O6OLZWJcTk6TlzkLQkMgtyZASY6xHIXnoY36+6VdvopE6VydqFf9A8ZusbOtv/p4ciXZPJkHrYrOykmPGazWG+UEDtC1OhoFWAq/BhQpV6NshJzBbjamYDS26qFDIllA3WWzYEAVpFsTI=;IxuLuy/N8LqCDpsdviFoOg=="
+secured: "2VL1IvUBeOveosCzyPllVDqHqIPFwk90QmifL9ZlvOlVOQNqMp/hRLixhnsSP3ArYLwP+X652tK27fh7y6hO6mTkmYmzCLN2btzCdrfMEjb3Dy10fc+LBURhOUIXbrVWuBP5wm6bLFlt0cNNbQD1zxHiKt2eUsjm5N33/LtDJm4jMUwDFfne3N6Pd+d4GBRk6dX51t78xbpmIRpnUOklQP4E8xJbZHAiYmj1xq/UcePw22NflieuVSqMX3m+aKbnEKGxHTogZVE/r94X2UeQ8fu1TvH3KqhSJKo+BG7YfG1qBmyc4Lr/iG6u1SkXV6UV32l0m9QufW+C4bHuyEnDUAzC7+DGKSGze9t+qA1bxlI=;UpbpMbGF2frmkCu15FIOnw=="
 ---
 

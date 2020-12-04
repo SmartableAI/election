@@ -160,6 +160,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Industry privately urges Biden team to retain National Space Council"
+    excerpt: "The Commercial Spaceflight Federation’s new leader outlines her priorities — Companies back new initiative to recruit minorities into space industry"
+    publishedDateTime: 2020-12-04T12:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-space/2020/12/04/industry-privately-urges-biden-team-to-retain-national-space-council-491052"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "9vNbQYi/qKaAFi1aPKl5TrYqMRJSA1F79qKfDzU/zPWzYjj4oRzf6FLGy9wNBHTikubdQ2jlsZIeCvEWB7ZAJI0WFYKvPjpGedGZkLxTOIaOtQy0er3n/TTIF6nnfIbajmcl4D5JR7TbpbGjQd57JPt0/rUhsFQhVtiaWX3aSZQRyG445JsOTDwd6MAawfiPCfbyLvgXxkemoFuub5tMReTTuWVntdC1bUqxSK/kWXOj/wwYq2FQiHUR/Q5C/PzcnuTwM9N5jknyUu0lmzsckOIa3dgeE4F6fP8dexFHCpFN8VyvmQq/10N/bhq8kfjeo9Z8CdZiNgy5kjK//oNPYJWqxhxBEa6arnU/50gPrmgA3yW9AvlqPoPYaD1/HWecTG6YsrJZRsCYSYQz541AaCCytyHcu07wrks4uoU6teZeGdtnl2a4hd7haQtUhNY8Zk97b6abmgrvoOOu62FP/DwwTKjOExei3E7/czfWETa5OwG2MHmQL5Lr2Zqfg7AdxPjLzIIM0NiyV7and7wlLA==;Xax11ppsQh20S+i2x25yeA=="
 ---

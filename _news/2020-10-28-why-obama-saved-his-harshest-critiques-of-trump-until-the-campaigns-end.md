@@ -623,6 +623,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden urges America to mask up for 100 days as coronavirus surges"
+    excerpt: "President John F. Kennedy urged Americans to ask not what their country could do for them, but what they could do for their country. When he takes the same oath of office next month, Joe Biden will effectively beseech the nation to do exactly the same thing, if in more prosaic terms, with an appeal for"
+    publishedDateTime: 2020-12-04T05:03:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T-rKNKXuixE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-harris-interview-covid-mask/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-harris-interview-covid-mask/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203221338-harris-biden-cnn-interview-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump trashes Fauci and makes baseless coronavirus claims in campaign call"
     excerpt: "President Donald Trump claimed on a campaign call that people are tired of hearing about coronavirus, which has killed more than 215,000 Americans and trashed Dr. Anthony Fauci as a \"disaster\" who has been around for \"500 years.\"\n    \n"
     publishedDateTime: 2020-10-19T17:41:19Z

@@ -63,6 +63,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Biden, leading Democrats on board with the new $908 billion bipartisan stimulus proposal"
+    excerpt: "The proposal includes enhanced federal unemployment benefits of $300 per week and $25 billion in rental assistance."
+    publishedDateTime: 2020-12-04T11:07:00Z
+    webUrl: "https://www.usatoday.com/story/money/economy/2020/12/04/biden-democrats-back-908-billion-stimulus-bill-with-no-second-check/115094770/"
+    ampWebUrl: "https://amp.usatoday.com/amp/115094770"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/115094770"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/fba88f6b-d2ac-4acf-8bcc-232bf11bcdc2-biden_pelosi.jpg?auto=webp&crop=5507,3098,x0,y300&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden weighs Rahm Emanuel for transportation secretary"
     excerpt: "CHICAGO (AP) — President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel, a substantial and somewhat divisive figure in Democratic Party politics, to serve as his transportation secretary."
     publishedDateTime: 2020-12-01T09:28:00Z

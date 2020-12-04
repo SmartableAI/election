@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-mor
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106758775-16034587192020-10-23t130410z_459438327_rc2doj9e42yw_rtrmadp_0_usa-election.jpeg?v=1603458769"
         width: 2965
         height: 1977
+        isCached: true
+  - title: "Donald Trump stays silent as US sees record 2,804 coronavirus deaths in a day"
+    excerpt: "President fails to address national crisis, instead remaining focused on false voter fraud claims"
+    publishedDateTime: 2020-12-03T23:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?fbclid=IwAR3nVOmlemfsTlSWpYAhp6z54GuqiGlvzzwfF_6UdrJQZF_SboTdFIX9nl4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/9b7ad9168d5afd5172fc698f7ae4253e0db17dd4/0_0_2677_1607/master/2677.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b17cf0c766de2a5fef79401ceebd787d"
+        width: 600
+        height: 360
         isCached: true
   - title: "Joe Biden lays out a detailed plan to fight coronavirus as new infections soar"
     excerpt: "Biden's plan would effectively nationalize mask wearing, Covid-19 testing, PPE procurement, reopening guidelines and vaccine distribution."

@@ -57,6 +57,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "U.S. Congress defense bill defies Trump on Germany withdrawal, base names"
+    excerpt: "U.S. lawmakers unveiled the final version of a massive annual defense policy bill on Thursday that defies President Donald Trump's plans to withdraw troops from Germany and keep the names of Confederate generals on military bases,"
+    publishedDateTime: 2020-12-04T08:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28E0Y5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E0Y5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E0Y5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543432218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30GH"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Supreme Court hears Trump bid to bar illegal immigrants from U.S. census count"
     excerpt: "U.S. Supreme Court justices on Monday began hearing arguments on President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states,"
     publishedDateTime: 2020-11-30T15:44:00Z
@@ -72,6 +88,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump is holding out on supporting the $908 billion COVID-19 stimulus bill despite more lawmakers rallying round it"
+    excerpt: "After a press conference, the White House clarified that Trump does not support the $908 billion compromise bill, and instead wants a smaller one."
+    publishedDateTime: 2020-12-04T12:17:00Z
+    webUrl: "https://www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5fca1f38b6a3a800199b688e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump threatens to veto defense policy bill unless Congress repeals Section 230, a safeguard for social media companies"
     excerpt: "President Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users."

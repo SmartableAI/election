@@ -185,6 +185,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Wisconsin Supreme Court denies Trump campaign's attempt to bypass lower court in election challenge"
+    excerpt: "The Trump campaign argued that the state's high court should hear its case directly because presidential electors will soon be casting their votes."
+    publishedDateTime: 2020-12-04T12:44:00Z
+    webUrl: "https://www.cbsnews.com/news/wisconsin-election-supreme-court-denies-trump-campaigns-attempt-to-bypass-lower-court/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/wisconsin-election-supreme-court-denies-trump-campaigns-attempt-to-bypass-lower-court/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/wisconsin-election-supreme-court-denies-trump-campaigns-attempt-to-bypass-lower-court/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 126
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/18/3cd1626f-b991-4594-b14d-1b4021d69ac4/thumbnail/1200x630/fbe26932714625cbed35d0311b8d9f0c/gettyimages-1229523100.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘We need you’: GOP hunts for new voters in Trump territory"
     excerpt: "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time"
     publishedDateTime: 2020-10-28T04:47:00Z

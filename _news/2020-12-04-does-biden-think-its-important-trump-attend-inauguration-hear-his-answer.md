@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn"
 type: article
 quality: 188
-heat: 348
+heat: 368
 published: true
 
 provider:
@@ -158,6 +158,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125153328-02-biden-thanksgiving-remarks-1125-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Industry privately urges Biden team to retain National Space Council"
+    excerpt: "The Commercial Spaceflight Federation’s new leader outlines her priorities — Companies back new initiative to recruit minorities into space industry"
+    publishedDateTime: 2020-12-04T12:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-space/2020/12/04/industry-privately-urges-biden-team-to-retain-national-space-council-491052"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "+ocs06CoC8ZnVqi04/PWswtgV10Fy39FGXJaUTf2QawKBVUlVQ5PTiWmu1yvRr1xVlvZc75ny1PXIMv7HySjrufw0aox2SbzbqPoZqpQ/pVLTPRNrVt3KLKHfTu9npYzMeD+ykn8EKuAxuxsJvmPsS59SJk6BG4/I94Uvxp9nAgsBESfihTmtYmgGpx1TYSbNYcrIsEd9u3VLpfUe+MdRr1nbLqGsM7zFYtxXtASJQWomcG/bGpwv2w76lq9VKvlbADsxb590sUpbD/DrfA74Kv+0lZNJJNGL68hQbcntlMbt8QXPSeEtoGzDesX18Skj4JrVRD4uCg+R1JFNk3GmfMqlTeaMsl0DBiWnnh+EYQ=;BRDT/lHlCpzrQ/ydRdzXcA=="
