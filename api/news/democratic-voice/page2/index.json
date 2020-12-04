@@ -2,62 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-01-analysis-how-joe-biden-and-mark-kelly-show-arizona-is-now-a-purple-state.md",
-      "title": "Analysis: How Joe Biden and Mark Kelly show Arizona is now a purple state",
-      "excerpt": "Democrat Mark Kelly will be sworn in on Wednesday as Arizona's junior US senator, finishing the final two years of the term won by the late Sen. John McCain in 2016. Both President-elect Joe Biden and Kelly were certified as the winners of their respective Arizona races on Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_kgr6sV1xdo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_kgr6sV1xdo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201106195236-44-america-votes-1103-arizona-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/arizona-shift-analysis/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/arizona-shift-analysis/index.html",
-      "publishedDateTime": "2020-12-01T04:03:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-01-arizona-gov-doug-ducey-defends-election-process-after-trump-attack.md",
       "title": "Arizona Gov. Doug Ducey defends election process after Trump attack",
       "excerpt": "Arizona Republican Gov. Doug Ducey sent a lengthy string of tweets Monday night defending the state's election process after being attacked by President Donald Trump for his handling of it.\n    \n",
@@ -182,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -295,7 +239,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1688,6 +1632,63 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-joe-biden-nurse-share-emotional-moment-during-virtual-roundtable.md",
+      "title": "Joe Biden, nurse share emotional moment during virtual roundtable",
+      "excerpt": "President-elect Joe Biden grew emotional during a virtual roundtable after hearing Mary Turner, an intensive care unit nurse, describe her experience on the frontline battling Covid-19. The Minnesota nurse spoke with CNN's Erin Burnett.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201118201002-mary-carter-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
+      "publishedDateTime": "2020-11-18T18:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Democratic Voice"
       ]
     }

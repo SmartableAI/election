@@ -29,8 +29,8 @@ images:
 related:
   - title: "Trump's grievances feed menacing undertow after the election"
     excerpt: "\"Death threats, physical threats, intimidation – it's too much, it's not right,\" said one GOP elections official in Georgia."
-    publishedDateTime: 2020-12-04T17:17:00Z
-    webUrl: "https://www.cbsnews.com/news/donald-trump-grievances-undertow-after-election/?intcid=CNI-00-10aaa3a"
+    publishedDateTime: 2020-12-04T18:14:00Z
+    webUrl: "https://www.cbsnews.com/news/donald-trump-grievances-undertow-after-election/?ftag=CNM-00-10aab7e"
     ampWebUrl: "https://www.cbsnews.com/amp/news/donald-trump-grievances-undertow-after-election/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/donald-trump-grievances-undertow-after-election/"
     type: article
@@ -90,6 +90,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543367325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21NU"
         width: 818
         height: 545
+        isCached: true
+  - title: "Iowa's contact-tracing firm helped Trump, Reynolds campaigns"
+    excerpt: "After facing a workforce shortage for months, Iowa has awarded an emergency $2.3 million contact-tracing contract to a company owned by a Republican Party insider"
+    publishedDateTime: 2020-12-04T17:29:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/iowas-contact-tracing-firm-helped-trump-reynolds-campaigns-74540682"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/iowas-contact-tracing-firm-helped-trump-reynolds-campaigns-74540682"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/iowas-contact-tracing-firm-helped-trump-reynolds-campaigns-74540682"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_770cc5422fa54239b22226f62130282c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Chinese firms on U.S. exchanges threatened by bill headed to Trump's desk"
     excerpt: "The U.S. House of Representatives passed a law to kick Chinese companies off U.S. stock exchanges if they do not fully comply with the country's auditing rules, giving President Donald Trump one more tool to threaten Beijing with before leaving office."

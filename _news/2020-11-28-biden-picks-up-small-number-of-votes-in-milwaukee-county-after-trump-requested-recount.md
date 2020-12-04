@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden on Trump administration distributing vaccine: 'There is no detailed plan' "
+    excerpt: "President-elect Joe Biden said Friday that the Trump administration had shared information with his transition team about distributing a vaccine to various states, but Biden said his team had not seen a \"detailed plan.\"\n    \n"
+    publishedDateTime: 2020-12-04T20:44:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NOVMIb1D9Yw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/biden-trump-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-trump-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110163037-joe-biden-wilmington-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden team weighs North Korea policy as the era of Trump's 'love' letters with Kim ends"
     excerpt: "President-elect Joe Biden's foreign policy team will soon have access to the letters President Donald Trump exchanged with North Korean Leader Kim Jong Un, correspondence that belongs to the US government -- not Trump -- and could provide insight into one of the world's most enigmatic leaders.\n    \n"
     publishedDateTime: 2020-12-03T11:04:08Z

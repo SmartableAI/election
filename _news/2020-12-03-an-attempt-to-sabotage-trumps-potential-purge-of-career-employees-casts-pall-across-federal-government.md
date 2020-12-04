@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-potential-purge-jo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-potential-purge-job-protections-career-government-employees/index.html"
 type: article
 quality: 157
-heat: 177
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Can Trump Pre-emptively Pardon Allies or Himself? Clemency Power, Explained"
-    excerpt: "The president has discussed potential pardons that could test the boundaries of his constitutional power to nullify criminal liability."
-    publishedDateTime: 2020-12-02T18:54:00Z
-    webUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-pardons.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-pardons.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/trump-pardons.amp.html"
+  - title: "Trump purges Pentagon advisory board and gives seats to former campaign managers"
+    excerpt: "President Donald Trump has purged a Pentagon business advisory board and replaced its members with his former campaign manager and deputy campaign manager, neither of whom have served in the military or have any apparent experience with the defense industry.\n    \n"
+    publishedDateTime: 2020-12-04T20:42:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUnccSYtHPw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190918092128-corey-lewandowski-newday-09182019-1-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "A Trump Fund-Raiser for Maya Wiley? Yes, but It’s Mary Trump"
+    excerpt: "Ms. Trump, the president’s niece, has written a tell-all book and opposed his re-election. Now she’s holding an online event for Ms. Wiley, who’s running for mayor of New York."
+    publishedDateTime: 2020-12-02T16:34:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 133
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02dc-trumppardon/02dc-trumppardon-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/02/nyregion/02trump-wiley1/02trump-wiley1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

@@ -2,6 +2,228 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-04-trump-purges-pentagon-advisory-board-and-gives-seats-to-former-campaign-managers.md",
+      "title": "Trump purges Pentagon advisory board and gives seats to former campaign managers",
+      "excerpt": "President Donald Trump has purged a Pentagon business advisory board and replaced its members with his former campaign manager and deputy campaign manager, neither of whom have served in the military or have any apparent experience with the defense industry.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUnccSYtHPw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUnccSYtHPw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190918092128-corey-lewandowski-newday-09182019-1-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html",
+      "publishedDateTime": "2020-12-04T12:42:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-trump-administration-appoints-loyalists-corey-lewandowski-and-david-bossie-to-defense-business-board.md",
+      "title": "Trump administration appoints loyalists Corey Lewandowski and David Bossie to Defense Business Board",
+      "excerpt": "The Trump administration installed loyalists on a Pentagon advisory panel on Friday, naming Corey Lewandowski and David Bossie among the new appointees to the Defense Business Board. The appointments were announced along with the removal of other members,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/",
+      "originalUrl": "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JVMGHMQ7S4I6XLKTJQP5USMQPU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp",
+      "publishedDateTime": "2020-12-04T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-trump-to-award-wrestling-legend-dan-gable-the-presidential-medal-of-freedom.md",
+      "title": "Trump to award wrestling legend Dan Gable the Presidential Medal of Freedom",
+      "excerpt": "President Trump will award Olympic gold medalist and college wrestling legend Dan Gable the Presidential Medal of Freedom on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom",
+      "originalUrl": "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Dan-Gable.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp",
+      "publishedDateTime": "2020-12-04T12:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-pence-says-us-a-week-and-a-half-away-from-likely-approval-of-first-coronavirus-vaccine.md",
+      "title": "Pence says US 'a week and a half away' from 'likely approval' of first coronavirus vaccine",
+      "excerpt": "Vice President Mike Pence said Friday that the U.S. is “maybe just a week and a half away” from the “likely approval” of the first vaccine to protect against the novel coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JXdkqXgON10/pence-week-and-a-half-away-likely-approval-first-coronavirus-vaccine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JXdkqXgON10/pence-week-and-a-half-away-likely-approval-first-coronavirus-vaccine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-week-and-a-half-away-likely-approval-first-coronavirus-vaccine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-week-and-a-half-away-likely-approval-first-coronavirus-vaccine.amp",
+      "publishedDateTime": "2020-12-04T11:01:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-pence-comes-to-georgia-as-calm-before-potential-trump-storm.md",
       "title": "Pence comes to Georgia as calm before potential Trump storm",
       "excerpt": "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatil",
@@ -10,7 +232,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1250,
+      "heat": 1310,
       "tags": null,
       "images": [
         {
@@ -59,11 +281,11 @@
       "title": "Trump's grievances feed menacing undertow after the election",
       "excerpt": "\"Death threats, physical threats, intimidation – it's too much, it's not right,\" said one GOP elections official in Georgia.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/donald-trump-grievances-undertow-after-election/?intcid=CNI-00-10aaa3a",
-      "originalUrl": "https://www.cbsnews.com/news/donald-trump-grievances-undertow-after-election/?intcid=CNI-00-10aaa3a",
+      "webUrl": "https://www.cbsnews.com/news/donald-trump-grievances-undertow-after-election/?ftag=CNM-00-10aab7e",
+      "originalUrl": "https://www.cbsnews.com/news/donald-trump-grievances-undertow-after-election/?ftag=CNM-00-10aab7e",
       "featuredContent": null,
       "highlight": null,
-      "heat": 660,
+      "heat": 680,
       "tags": null,
       "images": [
         {
@@ -79,7 +301,7 @@
       "type": "article",
       "ampWebUrl": "https://www.cbsnews.com/amp/news/donald-trump-grievances-undertow-after-election/",
       "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/donald-trump-grievances-undertow-after-election/",
-      "publishedDateTime": "2020-12-04T09:17:00-08:00",
+      "publishedDateTime": "2020-12-04T10:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBS News",
@@ -107,23 +329,23 @@
       ]
     },
     {
-      "path": "_news/2020-12-04-dr-fauci-says-he-absolutely-accepted-offer-to-be-bidens-chief-medical-adviser.md",
-      "title": "Dr. Fauci says he 'absolutely' accepted offer to be Biden's chief medical adviser",
-      "excerpt": "President-elect Joe Biden asked Dr. Anthony Fauci to serve as his chief medical adviser, a role the director of the National Institute of Allergy and Infectious Diseases (NIAID) said he “absolutely” accepted.",
+      "path": "_news/2020-12-04-videos-virtual-events-and-planned-trips-biden-obama-pence-trump-weigh-in-on-georgia-runoffs.md",
+      "title": "Videos, virtual events and planned trips: Biden, Obama, Pence, Trump weigh in on Georgia runoffs",
+      "excerpt": "President Trump, his predecessor and soon-to-be successor in the White House, as well as Vice President Mike Pence, are all weighing in on Georgia’s two Jan. 5 Senate runoff elections, where the Republican majority in the chamber is up for grabs.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rSecONh8mxw/dr-fauci-accepted-offer-biden-chief-medical-adviser",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rSecONh8mxw/dr-fauci-accepted-offer-biden-chief-medical-adviser",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1hnCHg0AieM/biden-obama-pence-trump-georgia-runoffs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1hnCHg0AieM/biden-obama-pence-trump-georgia-runoffs",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 170,
+      "heat": 802,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
           "width": 340,
           "height": 340,
           "title": null,
@@ -133,9 +355,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dr-fauci-accepted-offer-biden-chief-medical-adviser.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-fauci-accepted-offer-biden-chief-medical-adviser.amp",
-      "publishedDateTime": "2020-12-04T05:04:12-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp",
+      "publishedDateTime": "2020-12-04T10:05:33-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -159,7 +381,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Republican Voice",
+        "Mike Pence"
       ]
     },
     {
@@ -331,7 +554,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28E0Y5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -500,7 +723,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 368,
+      "heat": 388,
       "tags": null,
       "images": [
         {
@@ -772,7 +995,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 565,
+      "heat": 585,
       "tags": null,
       "images": [
         {
@@ -1041,62 +1264,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-03-an-attempt-to-sabotage-trumps-potential-purge-of-career-employees-casts-pall-across-federal-government.md",
-      "title": "'An attempt to sabotage': Trump's potential purge of career employees casts pall across federal government",
-      "excerpt": "Federal career employees across the Trump administration are fearful of losing their job protections and potentially their jobs, as agencies begin to implement a recent executive order signed by President Donald Trump.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IWfXwtQdjkU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IWfXwtQdjkU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201118172139-white-house-201111-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/trump-potential-purge-job-protections-career-government-employees/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-potential-purge-job-protections-career-government-employees/index.html",
-      "publishedDateTime": "2020-12-03T12:52:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-04-the-trump-administration-accused-facebook-of-reserving-over-2600-high-paying-jobs-for-foreign-workers-instead-of-hiring-americans.md",
       "title": "The Trump administration accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans",
       "excerpt": "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers.",
@@ -1202,175 +1369,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-trump-administration-claims-facebook-improperly-reserved-jobs-for-h-1b-workers.md",
-      "title": "Trump Administration Claims Facebook Improperly Reserved Jobs for H-1B Workers",
-      "excerpt": "A Justice Department lawsuit accuses the social-media company of illegally reserving high-paying jobs for immigrant workers it was sponsoring for permanent residence and failing to adequately search for U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
-      "originalUrl": "https://www.wsj.com/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-267936/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
-      "publishedDateTime": "2020-12-03T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-plotting-the-future-trump-kids-even-look-to-profit-from-their-fathers-fallen-legacy.md",
-      "title": "Plotting the future: Trump kids even look to profit from their father's fallen legacy ",
-      "excerpt": "It was Thanksgiving, but instead of being seated at an elaborate table dressed with gold silverware, expensive china and a buffet of chilled seafood, turkey and beef tenderloin, waited on by household staff, Donald Trump Jr., Eric Trump, Ivanka Trump and Jared Kushner were in the wilderness of Maryland.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z5-B-ZTFF8w/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z5-B-ZTFF8w/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203122910-03-trump-kids-rnc-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/trump-kids-future-presidency/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-kids-future-presidency/index.html",
-      "publishedDateTime": "2020-12-03T11:55:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-jeffrey-zients-expected-to-be-named-bidens-coronavirus-coordinator.md",
-      "title": "Jeffrey Zients expected to be named Biden's coronavirus coordinator",
-      "excerpt": "Jeffrey Zients is President-elect Joe Biden's choice to be the White House coronavirus coordinator, or \"czar,\" a source familiar tells CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P_9Q_uuX_Ao/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P_9Q_uuX_Ao/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/130410120120-obama-budget-speech-story-top.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/jeffrey-zients-coronavirus-czar/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/jeffrey-zients-coronavirus-czar/index.html",
-      "publishedDateTime": "2020-12-03T10:30:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -738,6 +738,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump voter fraud claims impact Georgia run-offs"
+    excerpt: "President Donald Trump's baseless claims of voter fraud will either help or hurt Republicans effort to retain the U.S. Senate, as the president visits Georgia to drum up support for two GOP re-election campaigns."
+    publishedDateTime: 2020-12-04T19:38:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/04/trump-voter-fraud-claims-impact-georgia-run-offs/3828385001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/7e985c20-7008-49c7-aebd-e59192ce11bb_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump roils Georgia GOP as party waits to see if presidential visit helps — or hurts — in crucial Senate runoffs"
     excerpt: "The president’s baseless claims of fraud in the November elections have sparked a Republican civil war in the state, where voters will return to the polls on Jan. 5 in a pair of races that will determine control of the U."
     publishedDateTime: 2020-12-03T12:05:00Z
@@ -781,6 +795,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/fd2cd95e-564f-447c-adb8-9b69b714dec7/thumbnail/1200x630/b7ca1f84f36f2bcfe83b5a597d6062bb/cbsn-fusion-how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff-thumbnail-597494-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Pence comes to Georgia as calm before potential Trump storm | Charlotte Observer"
+    excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatile visit to the state that will determine which party controls the Senate in January."
+    publishedDateTime: 2020-12-04T20:50:00Z
+    webUrl: "https://www.charlotteobserver.com/news/article247610130.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/article247610130.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article247610130.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 85
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/69048a54-e77d-429d-836c-afec33df2488/ff026654-c418-41ed-867b-48de28509fd9/1280x720/match/image.jpg"
+        width: 1279
+        height: 720
         isCached: true
   - title: "Trump threatens to veto defense policy bill unless Congress repeals Section 230, a safeguard for social media companies"
     excerpt: "President Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users."
@@ -837,6 +867,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "With 2 high-stakes Senate runoffs in the balance, Pence heads to Georgia a day before Trump’s potentially volatile visit"
+    excerpt: "The GOP has been roiled by Trump’s continued denial of his own defeat and his baseless attacks that Republican officials in Georgia, including the governor and secretary of state, enabled widespread voter fraud on behalf of President-elect Joe Biden."
+    publishedDateTime: 2020-12-04T20:58:00Z
+    webUrl: "https://www.sun-sentinel.com/news/nationworld/ct-georgia-senate-runoff-election-trump-20201204-jtjaj5clczhotdagw2gvh5apam-story.html"
+    ampWebUrl: "https://www.sun-sentinel.com/news/nationworld/ct-georgia-senate-runoff-election-trump-20201204-jtjaj5clczhotdagw2gvh5apam-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-georgia-senate-runoff-election-trump-20201204-jtjaj5clczhotdagw2gvh5apam-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 65
+    images:
+      - url: "https://www.sun-sentinel.com/resizer/PjSBn1l8fNjr-vsTzWC1Z5om8B0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NCHTIGDBJXWNWTHQRSBW6C2KD4.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Appeals Court Rejects Trump Challenge of Pennsylvania Race"
     excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals."
     publishedDateTime: 2020-11-28T02:18:00Z
@@ -860,6 +906,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "ItGKiCE+2yFgnLHaUQbnEeU0l+QwuoWBdyCfCAifdEtubu8/bVWKmqGcGpxmA+p8eoKcWGeQfARn0DZzMPvSovyZLFHUr5GX0W/zvRMvgm6UsFVAO+2FKa6Az24HzO+umd+d9Qq/S6v46uWT/zzUkD67WIZYKTPCpQslkfhsgbAfjyTE9GPkrgrlg7jRuSrD1NFBN6liBlDM3qbOO9F63zUZdaSKuAImEkRx+9+FxTAh4dyxP8w+4GoNCgKXxLLfFwc8U6sXgM2QxRwF9zexOklsqF5SQScO8DmC2THL5GKFvdW5SSPC9MXIRC4f7ElhLlLSrqKkkEb9UIDiaEKyMs4TuLGBzmRwY4CaPjZX/KU=;ez4ZtCFni0NjE27i++4eTg=="
+secured: "GNXtEMONnMalPxQF+gJXrOHzts+umiFsDqPw27Wl/wAJErmlUcHhiGsjIaAGn5iQnRD2Dge6G/PyRLQuqzOk/MQD1UpoPcI+UE09u7s9cYSbywTTSlVu2s8uuPtbrbCgIrFrUD3NbpyUIxNNAMRRatWLuqEbQg3Q0nTjUIFKElaoYtW/4A+J5sRvz+N8sGKDrcWzXLECkdSMxqTzt8572OkIuiEmx7BmxXKB+ttn2OqnI9o9sBVRkyZNJE6iMlZNOZAYK/dZ1zKQLnhJUTvCsAelxl4isTAtxw6Av3iC6e8sOV76Y47cxWrUyTLD9/Y/+oxvgGHO6ofOBKmMMbdC+VdVCAyVURiBR3L5JeYpjTzMviEhYU4KyL76uLT0DllsG2b2VpkLMpmKq9gvqVm1M8rctvA1BK0q0xDTXtp9+R/WZQZGTFcKKSamh7JRiFdyD5cNRY1UM9CCCpn60r2vjoiiq0FVLbrYFBYv/oU/LQCgyrzR+UnlemEaPnIr2Rq/MJ8/7W8zkYKKL/gXwRARBQ==;Psxjt962xNP/7vs7lpM9yQ=="
 ---
 

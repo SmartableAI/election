@@ -305,6 +305,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Kamala Harris Announces New Staff Picks, Marking First Time Women Will Hold Top 3 Spots in VP's Office"
+    excerpt: "This will be the first time in history that women will hold the top three spots in the U.S. vice president’s office."
+    publishedDateTime: 2020-12-04T20:30:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 59
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/106804517-16068492022020-12-01t185222z_353046037_rc2iek9vyz3q_rtrmadp_0_usa-biden.jpeg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Harris: COVID spawns 'hunger crisis in America'"
     excerpt: "Vice President-elect Kamala Harris says there is a \"hunger crisis in America now\" due to the COVID-19 pandemic but promises quick action to address the challenge when in office. (Dec. 1)"
     publishedDateTime: 2020-12-01T20:57:00Z

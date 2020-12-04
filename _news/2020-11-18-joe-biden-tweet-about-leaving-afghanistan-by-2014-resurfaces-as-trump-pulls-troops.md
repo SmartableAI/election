@@ -63,22 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump, Biden camps inspect Nevada election office ahead of Thursday hearing on lawsuit"
-    excerpt: "Attorneys for the Trump 2020 Campaign and representatives of Joe Biden’s six Nevada Electoral College delegates inspected a vote-counting location in Carson City on Tuesday in connection with a voter fraud lawsuit filed by the Trump team."
-    publishedDateTime: 2020-12-02T06:57:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X3PuysVGGVs/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 197
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a05a6f71-adcf-43b7-8139-dd0c114c7d1f/45c6487d-dc28-4d26-bb45-979df0143ac0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Election 2020 Live Updates: Biden staffs up as Trump fires top election security official"
     excerpt: "President-elect Joe Biden began staffing up this week, announcing the hiring of nine senior White House officials, including top members of his campaign and longtime aides, as he pushes ahead with the transition process. "
     publishedDateTime: 2020-11-18T12:01:45Z
@@ -143,22 +127,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden wins presidential race in Georgia, defeating Trump"
-    excerpt: "Biden now has 306 electoral votes."
-    publishedDateTime: 2020-11-20T01:19:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NaluF-gv16o/biden-defeats-trump-georgia"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Pennsylvania judge throws out Trump lawsuit, clearing way for Biden win"
     excerpt: "A Pennsylvania judge threw out a lawsuit that sought to prevent the state from certifying the election results in favor of President-elect Joe Biden, who won the state by about 80,000 votes."
     publishedDateTime: 2020-11-21T23:58:23Z
@@ -206,22 +174,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/1Trump.jpg"
         width: 604
         height: 344
-        isCached: true
-  - title: "Biden gets boost from Wisconsin recount that cost Trump $3M"
-    excerpt: "President-elect Joe Biden picked up 132 more votes after an election recount in Milwaukee County, among the two places in Wisconsin that President Trump spent $3 million to force a recount."
-    publishedDateTime: 2020-11-28T17:48:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZU6vMKqo9G0/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c997284-a2ad-47fe-8a05-dd9d47ff0bf6/bed80447-4fdb-48ff-a8f2-52976986e621/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Ohio certifies presidential election results, Trump win"
     excerpt: "Ohio certified its election results on Friday with all 18 of the state's electors pledging to vote for President Trump. "
@@ -383,22 +335,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Trump says he will leave office if Electoral College votes for Biden"
-    excerpt: "President Trump said Thursday that he would leave office if the Electoral College votes for President-elect Joe Biden, while also promising to keep up with his legal fight."
-    publishedDateTime: 2020-11-27T13:36:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDmRpAN92qc/live-updates-election-11-27-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-27-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-27-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2046661-af49-43f7-be94-c44b4151c606/4f7e54a9-6753-4532-8282-e80392731859/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump touts fracking policy in Pennsylvania rally, says Biden 'will shut it all down'"
     excerpt: "President Trump told backers at an Erie, Pa., rally Tuesday night that the battleground state is crucial to his chances of winning re-election, and his stance on fracking is crucial to the Keystone state."
     publishedDateTime: 2020-10-21T02:09:43Z
@@ -444,22 +380,6 @@ related:
     quality: 183
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d839f2e5-8d70-41f4-8154-eb3f68428ce7/40bab2b2-e7da-4186-bd50-ee573bd704e8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump claims Biden must prove his votes were legal to become president"
-    excerpt: "President Trump on Friday claimed that Democrat Joe Biden must prove his win in Pennsylvania wasn't \"fraudulently or illegally obtained\" to become president. "
-    publishedDateTime: 2020-11-28T07:28:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BpVj8U08b4w/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/903d7caa-6386-4844-aa0c-b4697bfe26e7/57c22f54-2652-4ec5-84ce-0c8701537f33/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -556,22 +476,6 @@ related:
     quality: 179
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/831ef265-7f02-402c-a3f9-0832dfdcb6b8/2b2ff70c-6ff5-4b80-a344-22ea34978db2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump claims Biden must prove votes weren't 'illegally obtained' in order to enter White House"
-    excerpt: "President Trump on Friday claimed that President-elect Joe Biden must prove that the votes he received in the presidential election were not “illegally obtained” in order to enter the White House -- the latest sign that Trump is not giving up his efforts to challenge the result."
-    publishedDateTime: 2020-11-27T17:35:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/amZifCI9xwo/trump-biden-illegally-obtained-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-illegally-obtained-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-illegally-obtained-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 178
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b5d8907-832c-454a-88d2-e1bd843f5702/e53d9336-9bb5-4e3e-9758-0d7c04ed5f47/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -815,22 +719,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Concha on media coverage of Biden injury: If it was Trump, they would have 'screamed' about transparency"
-    excerpt: "The mainstream media would not have covered President Trump the same as President-elect Joe Biden's foot injury, Fox News contributor Joe Concha argued Tuesday."
-    publishedDateTime: 2020-12-01T13:43:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Yzotfs7xCs/biden-foot-injury-press-trump-concha"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-foot-injury-press-trump-concha.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foot-injury-press-trump-concha.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "LIVE UPDATES: Georgia governor certifies Biden win in state after hand recount"
     excerpt: "Georgia Gov. Brian Kemp certified President-elect Joe Biden's win in the state Friday but called for another hand recount. "
     publishedDateTime: 2020-11-21T06:17:58Z
@@ -1007,22 +895,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden’s Georgia Victory Over Trump Certified by Secretary of State"
-    excerpt: "Georgia Secretary of State Brad Raffensperger certified the Nov. 3 election results, declaring President-elect Joe Biden the winner of the state. Mr. Biden’s victory in Georgia is the first for a Democratic presidential candidate since Bill Clinton narrowly defeated George H."
-    publishedDateTime: 2020-11-20T22:50:00Z
-    webUrl: "https://www.wsj.com/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
-    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 160
-    images:
-      - url: "https://images.wsj.net/im-262788/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump campaign says Pennsylvania, Arizona, Michigan to hold public hearings on 2020 election"
     excerpt: "The Trump campaign on Tuesday said that state legislatures in Pennsylvania, Arizona and Michigan will hold public hearings on the 2020 presidential election to “provide confidence” that all legal votes have been counted and that “illegal votes have not been counted.”"
     publishedDateTime: 2020-11-24T23:19:41Z
@@ -1162,22 +1034,6 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-265230/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Biden Plans to Roll Back Trump-Era Education Policies"
-    excerpt: "The president-elect has vowed to bring sweeping changes to education and to reverse some of the civil rights-related moves made under President Trump."
-    publishedDateTime: 2020-11-29T13:12:00Z
-    webUrl: "https://www.wsj.com/articles/biden-plans-to-roll-back-trump-era-education-policies-11606654802"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-plans-to-roll-back-trump-era-education-policies-11606654802"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plans-to-roll-back-trump-era-education-policies-11606654802"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-263007/social"
         width: 1280
         height: 640
         isCached: true
@@ -1446,20 +1302,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump Says He Will Leave White House if Electoral College Votes Biden"
-    excerpt: "President Trump said he will leave the White House in January if the Electoral College backs Joe Biden, as he took questions from reporters for the first time since the election. Photo: Erin Schaff/Bl"
-    publishedDateTime: 2020-11-27T12:17:00Z
-    webUrl: "https://www.wsj.com/video/trump-says-he-will-leave-white-house-if-electoral-college-votes-biden/07F1D78F-7C94-448E-8279-19326EBE99C9.html"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 130
-    images:
-      - url: "http://m.wsj.net/video/20201127/112720trumpleavev9/112720trumpleavev9_1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump Campaign Asks Federal Judge to Block Pennsylvania From Certifying Election Results"
     excerpt: "President Trump’s presidential campaign on Monday asked a federal judge to block Pennsylvania election officials from certifying the results of the election. Matthew Morgan, a Trump campaign lawyer, a"
     publishedDateTime: 2020-11-10T14:28:00Z
@@ -1530,15 +1372,6 @@ related:
         width: 750
         height: 499
         isCached: true
-  - title: "Biden's Challenge on Global Warming"
-    excerpt: "President-elect Joe Biden recognizes the dangers of global warming and vows to confront the problem head on. Good, because we just wasted four years. There are three camps for everyone who have any opinion on what happened with this 2020 election."
-    publishedDateTime: 2020-11-27T12:24:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/27/bidens_challenge_on_global_warming_530177.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "E3gfBmLdbdZKczaGo1NtGRTOtkKigsdgN+vibw/5JIOPPgnufovD0eD3E6PUg5NbrDAOt8Ndvy6sV/4uHzCSGX0qEwmRBLgTQmLHZ69JL6vDDaNzbY8E2wdU4Jj3Yk7IoKcNgxvIOszZ52C3yCgsaC8+R19mQzISINi/v8559mMF33V0Fjknn4tFDi6NrXa39TlHHop+eVRmbtQ5TrRK6WHT6FXPSbK9gntTdL+s2qEwoOPaD7H64p8AbrZ5YrIi4JemwC7OKYlXf4q5fgMxGaEW37z+SCfl46tkWLlJS5vPIZUYAJB7C0/8dyANSyLLwqGZDJfSzgVn4Fru9bdL99jkxFkw5F2cF3nBZrbJHXg=;S8stCQ7J3r2WpwC/E7BXbg=="
 ---

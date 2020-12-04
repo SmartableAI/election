@@ -45,22 +45,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump hints at 2024 presidential run in remarks at White House party"
-    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
-    publishedDateTime: 2020-12-02T15:49:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/alzBlzVKkEM/trump-hints-at-2024-presidential-run"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump lawyers claim 40,000 double votes in latest Nevada lawsuit"
     excerpt: "In a last ditch effort to alter the 2020 presidential election results, the Trump campaign filed another lawsuit telling a Nevada judge they had evidence of deceased people voting and thousands of “double votes.”"
     publishedDateTime: 2020-12-04T02:41:24Z
@@ -108,38 +92,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20331846075368.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Trump hints at 2024 presidential run in remarks at White House party"
-    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
-    publishedDateTime: 2020-12-02T16:06:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20291046912810.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Donald Trump Jr to be featured in super PAC ads in Georgia Senate race aimed at mobilizing Trump voters"
-    excerpt: "Top aides to Donald Trump Jr. are launching a super PAC aimed at boosting GOP voter turnout in the Jan. 5 U.S. Senate runoff elections in Georgia, which will be key to which party controls the majority in the chamber in the next two years and whether Republicans have a say in President-elect Biden's agenda."
-    publishedDateTime: 2020-11-30T14:48:00Z
-    webUrl: "https://www.foxnews.com/politics/donald-trump-jr-aides-launch-super-pac-in-hopes-of-boosting-voter-turnout-in-georgia-senate-runoffs"
-    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-aides-launch-super-pac-in-hopes-of-boosting-voter-turnout-in-georgia-senate-runoffs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-aides-launch-super-pac-in-hopes-of-boosting-voter-turnout-in-georgia-senate-runoffs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-Jr-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "Uf875Qmw07rnf4OJxrRQotJdqidbsDGR6xQr17MYexSBpGpAGQ+Wq1DeX5k4qorZ/JPDsTnD5zPMHiBQdE4o3n787QRkLANYkarFFfsFuH1tNq4puNmj1nHcJme38odUozoUV0F00mzsj7RCx3kaLeEkE5NItmINo60d3U5FjaM2t4gWrtN24s2ANF2FTRUtr36H4bcZOcXE3JUJjWiiOcaI+ETMnDMR5oUC8he9CYWPLIps0OJF90KeCgDhkToIEzAH+NKqhzRcIT+myVzmTPHmFt9/Cg8uLvv+JZs+1UC4IFADdVFQfQo3k9WbPsmllYrgf0fdq9jACHBCWAT0y4ruYkvuMRvm9XwjKKDibE8=;7LqkQ7Ug4ZDN/lj6JZ3LEw=="

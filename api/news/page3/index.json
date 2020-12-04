@@ -2,6 +2,175 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-02-naacp-warns-biden-over-rahm-emanuel-rumors.md",
+      "title": "NAACP warns Biden over Rahm Emanuel rumors",
+      "excerpt": "The NAACP became the latest progressive group to warn President-elect Joe Biden against adding former Chicago Mayor Rahm Emanuel to his Cabinet.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JmzBKP0XY-s/naacp-biden-rahm-emanuel-rumors",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JmzBKP0XY-s/naacp-biden-rahm-emanuel-rumors",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/08/08/694940094001_5819321962001_5819321658001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/naacp-biden-rahm-emanuel-rumors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/naacp-biden-rahm-emanuel-rumors.amp",
+      "publishedDateTime": "2020-12-02T12:32:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-john-mulaney-says-he-was-investigated-by-the-secret-service-over-joke-that-was-not-about-donald-trump.md",
+      "title": "John Mulaney says he was investigated by the Secret Service over joke 'that was not about Donald Trump'",
+      "excerpt": "John Mulaney says he was investigated by the Secret Service after making a joke that many believed was a threat against President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
+      "originalUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/John-Mulaney-Getty.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
+      "publishedDateTime": "2020-12-02T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-top-pro-gop-pac-launching-new-initiative-to-counter-bidens-far-left-policies.md",
+      "title": "Top pro-GOP PAC launching new initiative to counter Biden's 'far-left policies'",
+      "excerpt": "A leading outside group that supports Republican causes is firing up a new initiative to counter what it says will be the \"far-left policies\" of President-elect Joe Biden's incoming administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp",
+      "publishedDateTime": "2020-12-02T11:22:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-biden-should-pull-off-executive-order-blitz-before-people-can-react-leftists-say.md",
       "title": "Biden should pull off executive order 'blitz' before people can react, leftists say",
       "excerpt": "Some on the left are suggesting President-elect Joe Biden should sign executive orders and ram through policies as soon as possible -- before the media can fully cover things and give leeway for backlash.",
@@ -439,63 +608,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-03-a-trump-fund-raiser-for-maya-wiley-yes-but-its-mary-trump.md",
-      "title": "A Trump Fund-Raiser for Maya Wiley? Yes, but It’s Mary Trump",
-      "excerpt": "Ms. Trump, the president’s niece, has written a tell-all book and opposed his re-election. Now she’s holding an online event for Ms. Wiley, who’s running for mayor of New York.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/02/nyregion/02trump-wiley1/02trump-wiley1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.amp.html",
-      "publishedDateTime": "2020-12-02T08:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-trump-is-leaving-washington-as-he-governed-chaotically.md",
       "title": "Trump is leaving Washington as he governed — chaotically",
       "excerpt": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
@@ -621,7 +733,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 190,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -1264,114 +1376,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-the-trailer-what-biden-and-the-left-are-demanding-of-each-other.md",
-      "title": "The Trailer: What Biden and the left are demanding of each other",
-      "excerpt": "The campaign to shape Biden's agenda, the next (and even stranger) stage of election contests, and Donald Trump Jr. goes on the air in Georgia",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IU43CRK7EI6XHBBHTCQDUEYD4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp",
-      "publishedDateTime": "2020-12-01T14:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-biden-says-coronavirus-relief-package-during-lame-duck-period-likely-just-a-start.md",
-      "title": "Biden says coronavirus relief package during lame-duck period likely 'just a start'",
-      "excerpt": "Lawmakers have just days to reach an agreement on additional relief before Congress closes for the year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xWROiHsG-WE/biden-covid-19-relief-package-lame-duck-period-likely-just-a-start",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xWROiHsG-WE/biden-covid-19-relief-package-lame-duck-period-likely-just-a-start",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65cf5a5c-9728-4133-b323-de669e0545e8/ca5dbb94-67b3-49a7-88a0-2b0d4e389b3b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-covid-19-relief-package-lame-duck-period-likely-just-a-start.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-19-relief-package-lame-duck-period-likely-just-a-start.amp",
-      "publishedDateTime": "2020-12-01T13:00:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

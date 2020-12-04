@@ -60,22 +60,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Trump says Biden can't be president if voter fraud claims are accurate"
-    excerpt: "Follow for the latest updates on the 2020 election."
-    publishedDateTime: 2020-12-03T07:45:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dbLI00ZI54c/trump-says-biden-cant-be-president-if-voter-fraud-claims-are-accurate"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-biden-cant-be-president-if-voter-fraud-claims-are-accurate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-biden-cant-be-president-if-voter-fraud-claims-are-accurate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb90e26-1a7c-435c-9c19-1954f1794e4a/6028a03c-dc91-4110-b09d-e04c086c1e52/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Live Updates: Giuliani says Powell not part of Trump’s legal team after election fraud claims"
     excerpt: "President Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”"
     publishedDateTime: 2020-11-23T04:13:07Z
@@ -185,54 +169,6 @@ related:
     quality: 173
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf560f2e-05fa-4ff8-9f82-14d5d26d17fd/e937ee12-a5c3-4c30-b63a-b94bfc66284b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump plans Georgia visit to campaign for Senate runoff candidates"
-    excerpt: "Follow for the latest updates on the January U.S. Senate runoffs in Georgia"
-    publishedDateTime: 2020-11-28T08:36:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aMxmbeYxM_U/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-plans-georgia-visit-to-campaign-for-senate-runoff-candidates.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f81d5bb-aaa9-4e45-b0bb-04c49b11546c/7ff0a562-bdd7-4c0c-97eb-8c80f3b3ca71/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Trump to campaign in Georgia for GOP senators ahead of January runoff"
-    excerpt: "President Trump said Thursday that he plans to visit Georgia to campaign for incumbent Republican Sens. Kelly Loeffler and David Perdue ahead of their Jan. 5 runoff elections. "
-    publishedDateTime: 2020-11-27T12:15:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vVYQur-2_hY/live-updates-georgia-senate-runoff-november-27"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-runoff-november-27.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-runoff-november-27.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd7fefb9-d30f-4b07-b566-01eaa53e3755/8d5fa08e-5e27-4a9c-a15b-c6985dcf9a95/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Trump to campaign for GOP Senate runoff candidates in Georgia Saturday"
-    excerpt: "Follow for the latest updates on the Georgia Senate runoffs"
-    publishedDateTime: 2020-12-03T06:13:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X1WgTSy5Plw/trump-to-campaign-for-gop-senate-runoff-candidates-in-georgia-saturday"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-to-campaign-for-gop-senate-runoff-candidates-in-georgia-saturday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-campaign-for-gop-senate-runoff-candidates-in-georgia-saturday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c52c112-f7a8-401a-911a-350f77702a09/72f4df19-ba45-4df8-a29a-e07d0173f7f7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

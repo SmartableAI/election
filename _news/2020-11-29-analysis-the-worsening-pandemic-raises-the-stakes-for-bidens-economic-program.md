@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pompeo willing to meet with incoming Biden team, officials say"
+    excerpt: "State Department officials who work with Secretary of State Mike Pompeo have told the department's career transition team that he will meet with President-elect Joe Biden's incoming State Department team, according to two sources familiar with the message.\n    \n"
+    publishedDateTime: 2020-12-04T19:35:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_slkGaDfNkU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/pompeo-biden-transition-willing-to-meet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/pompeo-biden-transition-willing-to-meet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203170350-joe-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to name diverse economic team, with three women in top roles to help build recovery"
     excerpt: "President-elect Joe Biden is set to formally name key members of his economic team on Monday, with the long-expected announcement of Janet Yellen as Treasury Secretary, CNN has learned, along with two other women in top roles to help him navigate the nation's punishing fiscal headwinds in hopes of building"
     publishedDateTime: 2020-11-30T15:52:44Z

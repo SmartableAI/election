@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-05-trump-administration-appoints-loyalists-corey-lewandowski-and-david-bossie-to-defense-business-board.md",
+      "title": "Trump administration appoints loyalists Corey Lewandowski and David Bossie to Defense Business Board",
+      "excerpt": "The Trump administration installed loyalists on a Pentagon advisory panel on Friday, naming Corey Lewandowski and David Bossie among the new appointees to the Defense Business Board. The appointments were announced along with the removal of other members,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/",
+      "originalUrl": "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JVMGHMQ7S4I6XLKTJQP5USMQPU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp",
+      "publishedDateTime": "2020-12-04T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-trump-to-award-wrestling-legend-dan-gable-the-presidential-medal-of-freedom.md",
+      "title": "Trump to award wrestling legend Dan Gable the Presidential Medal of Freedom",
+      "excerpt": "President Trump will award Olympic gold medalist and college wrestling legend Dan Gable the Presidential Medal of Freedom on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom",
+      "originalUrl": "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Dan-Gable.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp",
+      "publishedDateTime": "2020-12-04T12:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-pence-comes-to-georgia-as-calm-before-potential-trump-storm.md",
       "title": "Pence comes to Georgia as calm before potential Trump storm",
       "excerpt": "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatil",
@@ -10,7 +119,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1250,
+      "heat": 1310,
       "tags": null,
       "images": [
         {
@@ -59,11 +168,11 @@
       "title": "Trump's grievances feed menacing undertow after the election",
       "excerpt": "\"Death threats, physical threats, intimidation – it's too much, it's not right,\" said one GOP elections official in Georgia.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/donald-trump-grievances-undertow-after-election/?intcid=CNI-00-10aaa3a",
-      "originalUrl": "https://www.cbsnews.com/news/donald-trump-grievances-undertow-after-election/?intcid=CNI-00-10aaa3a",
+      "webUrl": "https://www.cbsnews.com/news/donald-trump-grievances-undertow-after-election/?ftag=CNM-00-10aab7e",
+      "originalUrl": "https://www.cbsnews.com/news/donald-trump-grievances-undertow-after-election/?ftag=CNM-00-10aab7e",
       "featuredContent": null,
       "highlight": null,
-      "heat": 660,
+      "heat": 680,
       "tags": null,
       "images": [
         {
@@ -79,7 +188,7 @@
       "type": "article",
       "ampWebUrl": "https://www.cbsnews.com/amp/news/donald-trump-grievances-undertow-after-election/",
       "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/donald-trump-grievances-undertow-after-election/",
-      "publishedDateTime": "2020-12-04T09:17:00-08:00",
+      "publishedDateTime": "2020-12-04T10:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBS News",
@@ -219,7 +328,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28E0Y5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -483,54 +592,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-lou-holtz-calls-trump-greatest-president-in-my-lifetime-accepts-medal-of-freedom.md",
-      "title": "Lou Holtz calls Trump ‘greatest president in my lifetime,’ accepts Medal of Freedom",
-      "excerpt": "President Trump on Thursday awarded Notre Dame’s legendary former football coach Lou Holtz the Presidential Medal of Freedom — and Holtz reciprocated by hailing Trump as the “greatest",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/",
-      "originalUrl": "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/1229926968-e1607018824688.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/amp/",
-      "publishedDateTime": "2020-12-03T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -1110,63 +1171,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-a-trump-fund-raiser-for-maya-wiley-yes-but-its-mary-trump.md",
-      "title": "A Trump Fund-Raiser for Maya Wiley? Yes, but It’s Mary Trump",
-      "excerpt": "Ms. Trump, the president’s niece, has written a tell-all book and opposed his re-election. Now she’s holding an online event for Ms. Wiley, who’s running for mayor of New York.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/02/nyregion/02trump-wiley1/02trump-wiley1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.amp.html",
-      "publishedDateTime": "2020-12-02T08:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

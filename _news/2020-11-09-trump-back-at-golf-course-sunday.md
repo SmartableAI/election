@@ -248,22 +248,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Georgia Official Urges Trump to Condemn Threats Against Election Workers"
-    excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
-    publishedDateTime: 2020-12-02T02:08:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 149
-    images:
-      - url: "https://images.wsj.net/im-266968/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Florida judge resigns from vote-counting board after at least a dozen Trump donations discovered"
     excerpt: "A Florida judge who was leading the Duval County's vote-counting board was forced to resign Thursday after it was uncovered that he had donated hundreds of dollars to President Trump's campaign and the Republican National Committee, and also has Trump-Pence signs covering his front lawn. "
     publishedDateTime: 2020-10-30T21:47:03Z

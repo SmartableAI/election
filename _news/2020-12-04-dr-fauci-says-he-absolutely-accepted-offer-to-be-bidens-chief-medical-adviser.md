@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Dr. Fauci says he 'absolutely' accepted offer to be Biden's chief medical adviser"
-excerpt: "President-elect Joe Biden asked Dr. Anthony Fauci to serve as his chief medical adviser, a role the director of the National Institute of Allergy and Infectious Diseases (NIAID) said he “absolutely” accepted."
-publishedDateTime: 2020-12-04T13:04:12Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rSecONh8mxw/dr-fauci-accepted-offer-biden-chief-medical-adviser"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rSecONh8mxw/dr-fauci-accepted-offer-biden-chief-medical-adviser"
+excerpt: "President-elect Joe Biden asked Dr. Anthony Fauci to serve as his chief medical adviser -- a role the director of the National Institute of Allergy and Infectious Diseases said he “absolutely” accepted."
+publishedDateTime: 2020-12-04T13:10:00Z
+originalUrl: "https://www.foxnews.com/politics/dr-fauci-accepted-offer-biden-chief-medical-adviser"
+webUrl: "https://www.foxnews.com/politics/dr-fauci-accepted-offer-biden-chief-medical-adviser"
 ampWebUrl: "https://www.foxnews.com/politics/dr-fauci-accepted-offer-biden-chief-medical-adviser.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-fauci-accepted-offer-biden-chief-medical-adviser.amp"
 type: article
-quality: 170
-heat: 170
-published: true
+quality: 130
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,14 +22,33 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d0ab6f3f-5d36-48ad-95c5-97cbe20da08f/0461ed04-7def-45d4-b59c-69a11b80fae2/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "YTkxwut7F0JXgJWofbSsikYEXZlJbqjBxIFaN3B0ubjX+2gMiXAJQFfIAmwV5g0E4QlM+QYlLXDnyZH7YKUEQ2O2RhH8oEs9VLU5tC94vA45eaHbb3XzuExuYgE2UjSXm7VXVRhAOLTJtOqfn9aeSFEvIxBgYD5YSdU/wHmOSs9PZE4HLeZU3scTuRgJ4r78FIdbAL26HtC9VgWHFK+Mp+Pxv1RnNU4FbiCNHe+gnNmHN7FUis0G72xSrbi49CtjbSlPE2RMONfqdO+eASjYWmm0C5SvVb/2hGHCPsLiCl4sbwrpACjBS3/qbnFfJC7QTRlA/HjsPbLgPJRzJF90mpFiC2bgyL0H2qG+v6mfCA4=;ch3CPrXNHfXVJRGycaTBFg=="
+related:
+  - title: "Exclusive: Former CIA station chief Darrell Blocker floated to lead agency under Biden, source says"
+    excerpt: "EXCLUSIVE: While President-elect Joe Biden has yet to announce his pick for CIA director, an array of names has been highlighted, and among them is Darrell M. Blocker -- one of the highest-serving persons of color to have served in the clandestine service, Fox News has learned."
+    publishedDateTime: 2020-11-27T17:37:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZqbN5nL4JEs/exclusive-darrel-blocker-biden-cia"
+    ampWebUrl: "https://www.foxnews.com/politics/exclusive-darrel-blocker-biden-cia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/exclusive-darrel-blocker-biden-cia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+
+secured: "Qz832O0n9lABUrALVvpp0jYKAPxabDJ9uyKPZ+ZvibR4RWndnqVQkmqeSe1sd/z7j8Q0YQkD9mr7yJy8+/jgdzd6s6nzGTXlb4SXp/Uw/Lxwy2TDnaKbLYqULzSwedTwna74w75cApY+6TbnVukOk5ESgcFhhPUDG+1PPvy5KrG0Qm662DvqyHfyYJc91TWs+ATEh1pfAf/4FIV0zczVLcG6I9sAZnBuTjcfjjLyKgvqC6nZS04c0XxRSLdr2YYoMU2xFGYvcfKXjihYzJKWKAUAgfr+QRuiY6IV87Pj4iR2nP7JcRGevzilV5a19dE9aPrLQtVH3FCXHz9hSbQBs/D0ppKFFLmdaA/NyRuDBIE=;OyE6eIV63LBVGOtNGb7dUg=="
 ---
 

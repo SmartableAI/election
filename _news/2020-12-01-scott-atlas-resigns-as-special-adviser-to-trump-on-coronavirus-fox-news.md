@@ -140,7 +140,7 @@ related:
   - title: "Donald Trump stays silent as US sees record 2,804 coronavirus deaths in a day"
     excerpt: "President fails to address national crisis, instead remaining focused on false voter fraud claims"
     publishedDateTime: 2020-12-03T23:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?amp/"
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?fbclid=IwAR3nVOmlemfsTlSWpYAhp6z54GuqiGlvzzwfF_6UdrJQZF_SboTdFIX9nl4"
     ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
     type: article

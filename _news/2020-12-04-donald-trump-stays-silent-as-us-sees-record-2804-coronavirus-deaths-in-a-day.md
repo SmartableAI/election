@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump stays silent as US sees record 2,804 coronavirus deaths in a day"
 excerpt: "President fails to address national crisis, instead remaining focused on false voter fraud claims"
 publishedDateTime: 2020-12-03T23:14:00Z
-originalUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?amp/"
-webUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?amp/"
+originalUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?fbclid=IwAR3nVOmlemfsTlSWpYAhp6z54GuqiGlvzzwfF_6UdrJQZF_SboTdFIX9nl4"
+webUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?fbclid=IwAR3nVOmlemfsTlSWpYAhp6z54GuqiGlvzzwfF_6UdrJQZF_SboTdFIX9nl4"
 ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
 type: article
@@ -371,6 +371,6 @@ related:
         height: 563
         isCached: true
 
-secured: "X7m6A2SZZV100kAFNEWlSfL90hPfKbqy9B9m9NTD9DnB+YCaMTr0ovtSgFjlTtHbP20gZSFGVxJOPoitGUWvYYTnVr3if4Wm2YkY3svGjnNUqz+LIISBUETOGzgaC7Qx1row5w0YeFovbMRmMgzmegCxr9vYUkTEfkw7WnPSysuVgQFIxAou81ULT+gNOXYa+80gX4/V57cq5u2I1gKWU3wCdK0W1SW+EgDS1obW6EUwggkPJa1CI/VPnoD3Wj6i1oDqpMGATsLc05mAx4S3ek9ve/EOB6VchiC5pbc6iIye9Bnlr4j/AShBx0Lf3q6KKic60RHYuvUzTxWWBtFOXQtFcU6lrWB3OkgbEpmC50LraQP3yFts+ZrtPAg2JpBpsGP4AtvSK2cl3/3jtS9IoSheGcxQaeY11X1XR5JWU1Ujp2c4zI/4zbpf3zJeNmFiiEiEUlzNi+1uIqf64Zf3sKFnfvAV0kBkTpJ/8cBxYLB+hkcb86OHQ9UB8B5zRNHFFDXm/3PIXj+B6ulufj6u+Q==;ow336l0YzM3GEq3keL3pMw=="
+secured: "o+ifbSmPlcSEAJy2wcTHEJP9gZ4QA2IpGYKuxMF9ZqiJImUxCxx5r0nZ38f4ZA2fLyyan0EQXbqNe9ImmH6X+DlVPRaQZhslUWaUFwCTOJEOeMnBxYbLk9f3CkWRCYSYNyP02XlCTPM9eKQkJuvuwJqvc+f0/Rz6aAts0AuEpdN3RKUfH9quRbD7WZVTFYQE3Y6oJRp0gWkA54bcBINZjGOrg7fiiiec426UhxU4MguBBQDlN0tmuHN4Y5T+DUDZUoqnnmBZ+zYI2bBfSZysd6CtvSwz8vIOb6gmzMphh2vAG5OHxwFuKQpjyYTJehlimgCiAf42nnupmPq6clolzYH4IxJB3UESO0+JI4Uv8ew=;U/P8M3mmX6ktvwlWWzlfOw=="
 ---
 

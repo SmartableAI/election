@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-04-trump-purges-pentagon-advisory-board-and-gives-seats-to-former-campaign-managers.md",
+      "title": "Trump purges Pentagon advisory board and gives seats to former campaign managers",
+      "excerpt": "President Donald Trump has purged a Pentagon business advisory board and replaced its members with his former campaign manager and deputy campaign manager, neither of whom have served in the military or have any apparent experience with the defense industry.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUnccSYtHPw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUnccSYtHPw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190918092128-corey-lewandowski-newday-09182019-1-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html",
+      "publishedDateTime": "2020-12-04T12:42:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-biden-wrestles-with-politics-in-effort-to-depoliticize-the-justice-department.md",
       "title": "Biden wrestles with politics in effort to depoliticize the Justice Department ",
       "excerpt": "Political questions from Democrats and a new Republican litmus test have suddenly become complicating factors in one of President-elect Joe Biden's most critical choices: picking a new Attorney General to lead the Justice Department out of its highly politicized era.\n    \n",
@@ -183,7 +239,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 368,
+      "heat": 388,
       "tags": null,
       "images": [
         {
@@ -425,62 +481,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/ratcliffe-china-threat-biden/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/ratcliffe-china-threat-biden/index.html",
       "publishedDateTime": "2020-12-03T14:58:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-an-attempt-to-sabotage-trumps-potential-purge-of-career-employees-casts-pall-across-federal-government.md",
-      "title": "'An attempt to sabotage': Trump's potential purge of career employees casts pall across federal government",
-      "excerpt": "Federal career employees across the Trump administration are fearful of losing their job protections and potentially their jobs, as agencies begin to implement a recent executive order signed by President Donald Trump.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IWfXwtQdjkU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IWfXwtQdjkU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201118172139-white-house-201111-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/trump-potential-purge-job-protections-career-government-employees/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-potential-purge-job-protections-career-government-employees/index.html",
-      "publishedDateTime": "2020-12-03T12:52:54-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1242,63 +1242,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-03-a-trump-fund-raiser-for-maya-wiley-yes-but-its-mary-trump.md",
-      "title": "A Trump Fund-Raiser for Maya Wiley? Yes, but It’s Mary Trump",
-      "excerpt": "Ms. Trump, the president’s niece, has written a tell-all book and opposed his re-election. Now she’s holding an online event for Ms. Wiley, who’s running for mayor of New York.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/02/nyregion/02trump-wiley1/02trump-wiley1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.amp.html",
-      "publishedDateTime": "2020-12-02T08:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-trump-is-leaving-washington-as-he-governed-chaotically.md",
       "title": "Trump is leaving Washington as he governed — chaotically",
       "excerpt": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
@@ -1593,7 +1536,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1666,6 +1609,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-election-claims-mccarthy/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-election-claims-mccarthy/index.html",
       "publishedDateTime": "2020-12-01T04:09:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-analysis-how-joe-biden-and-mark-kelly-show-arizona-is-now-a-purple-state.md",
+      "title": "Analysis: How Joe Biden and Mark Kelly show Arizona is now a purple state",
+      "excerpt": "Democrat Mark Kelly will be sworn in on Wednesday as Arizona's junior US senator, finishing the final two years of the term won by the late Sen. John McCain in 2016. Both President-elect Joe Biden and Kelly were certified as the winners of their respective Arizona races on Monday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_kgr6sV1xdo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_kgr6sV1xdo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201106195236-44-america-votes-1103-arizona-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/arizona-shift-analysis/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/arizona-shift-analysis/index.html",
+      "publishedDateTime": "2020-12-01T04:03:23-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

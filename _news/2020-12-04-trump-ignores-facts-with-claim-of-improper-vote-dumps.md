@@ -48,6 +48,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Can Trump Pre-emptively Pardon Allies or Himself? Clemency Power, Explained"
+    excerpt: "The president has discussed potential pardons that could test the boundaries of his constitutional power to nullify criminal liability."
+    publishedDateTime: 2020-12-02T18:54:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-pardons.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-pardons.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/trump-pardons.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02dc-trumppardon/02dc-trumppardon-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "PqcpabQ7NOg7rom6gFmC5s46WqIIZJ+rfmoTx4nAYzhmkNTRaI9fgSz8aFV7LU5j7HmY9hn4KHojVDsT8qO+HZZaP/cU9vu9OEoGQjQNa6rESy1JNEgyEtj9+DAOeYt3Q3F/kKZPHurq6/CjrzRhDh2JwIVJe5OL5WYxzw7xSKRPGsRfAF87Q1K5zxzb/x10gG1vl6Z0tzbPcQ+LrqZLdgLdIpgCBiNNm6YFF9RCCzN47KtQARafXQxei35vu8q3hnBVCtRpCVN0InT148H6bS6KNimGV0FaiWDWk2A/VZVottK5nJ4MOpjZxJkPe4uK+uw1w0nnxEcj8F7N0/S04lcZnA4utLmwnIceJGJ0mnQ=;hYnWvUCpZmQABZK0bbOWdQ=="
 ---

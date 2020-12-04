@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-03/harris-announ
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -294,6 +294,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/sjm-ransition-Staffers_79108927.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Kamala Harris Announces New Staff Picks, Marking First Time Women Will Hold Top 3 Spots in VP's Office"
+    excerpt: "This will be the first time in history that women will hold the top three spots in the U.S. vice president’s office."
+    publishedDateTime: 2020-12-04T20:30:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 59
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/106804517-16068492022020-12-01t185222z_353046037_rc2iek9vyz3q_rtrmadp_0_usa-biden.jpeg?resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris shares how to brine a turkey in viral video"
     excerpt: "A 2019 video of Vice President-elect Kamala Harris offering tips on how to brine a Thanksgiving turkey is spreading across social media faster than you can pass the gravy. The video was captured and posted on Twitter by Washington Post journalist Jonathan Capehart who asked Harris for her tips on cooking a turkey as she was preparing for an appearance on MSNBC's \"PoliticsNation."

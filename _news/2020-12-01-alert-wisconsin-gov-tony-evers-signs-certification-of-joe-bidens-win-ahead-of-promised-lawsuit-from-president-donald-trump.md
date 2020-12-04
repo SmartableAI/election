@@ -299,6 +299,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump-Biden transition live updates: Biden pitches 100 day mask-wearing campaign"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
+    publishedDateTime: 2020-12-04T20:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-file-gty-ml-201204_1607095813243_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Power Up: One reason Trump keeps pushing to overturn Biden win: He's raking in cash"
     excerpt: "President Trump has raised more than $150 million pushing his false claims about a rigged election, but a big chunk of the money could wind up as a down payment for the president's post-White House political operation – another sign that the blundering efforts to overturn the election results may not really be about winning at all."
     publishedDateTime: 2020-12-01T11:31:00Z

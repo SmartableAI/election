@@ -31,149 +31,197 @@ images:
     isCached: true
 
 related:
-  - title: "Live Updates: Trump says DOJ 'missing in action' during election challenge"
-    excerpt: "Follow for the latest updates on the 2020 election legal fight."
-    publishedDateTime: 2020-11-30T04:20:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QGxQx6bPQ3I/live-updates-trump-says-doj-missing-in-action-during-election-challenge"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp"
+  - title: "Videos, virtual events and planned trips: Biden, Obama, Pence, Trump weigh in on Georgia runoffs"
+    excerpt: "President Trump, his predecessor and soon-to-be successor in the White House, as well as Vice President Mike Pence, are all weighing in on Georgia’s two Jan. 5 Senate runoff elections, where the Republican majority in the chamber is up for grabs."
+    publishedDateTime: 2020-12-04T18:05:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1hnCHg0AieM/biden-obama-pence-trump-georgia-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 188
+    quality: 202
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd00b8cb-3654-49f6-a8db-b0fe6e3fb865/6aa8c157-f99d-4b17-8c8c-2f2e6f3af5d7/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump, Biden camps inspect Nevada election office ahead of Thursday hearing on lawsuit"
+    excerpt: "Attorneys for the Trump 2020 Campaign and representatives of Joe Biden’s six Nevada Electoral College delegates inspected a vote-counting location in Carson City on Tuesday in connection with a voter fraud lawsuit filed by the Trump team."
+    publishedDateTime: 2020-12-02T06:57:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X3PuysVGGVs/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 197
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a05a6f71-adcf-43b7-8139-dd0c114c7d1f/45c6487d-dc28-4d26-bb45-979df0143ac0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Trump says he won election, repeats claims of voting irregularities"
-    excerpt: "President Trump called into an event held by Pennsylvania Republicans on Wednesday, where he reiterated his claim that he won the Nov. 3 election and reasserted claims of voting irregularities."
-    publishedDateTime: 2020-11-26T06:07:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rw50pE_dIaI/live-updates-election-11-26-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-26-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-26-2020.amp"
+  - title: "Joe Biden wins presidential race in Georgia, defeating Trump"
+    excerpt: "Biden now has 306 electoral votes."
+    publishedDateTime: 2020-11-20T01:19:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NaluF-gv16o/biden-defeats-trump-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden gets boost from Wisconsin recount that cost Trump $3M"
+    excerpt: "President-elect Joe Biden picked up 132 more votes after an election recount in Milwaukee County, among the two places in Wisconsin that President Trump spent $3 million to force a recount."
+    publishedDateTime: 2020-11-28T17:48:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZU6vMKqo9G0/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c997284-a2ad-47fe-8a05-dd9d47ff0bf6/bed80447-4fdb-48ff-a8f2-52976986e621/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pence returns to Georgia on Friday; Obama stars in new Ossoff TV ad"
+    excerpt: "Vice President Mike Pence will return to Georgia on Friday to hit the campaign trail in the state’s twin Jan. 5 Senate runoff elections, where the Republicans' Senate majority is at stake."
+    publishedDateTime: 2020-12-01T17:57:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HChPSLnQKKo/pence-returns-to-georgia-obama-stars-new-ossoff-ad"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-returns-to-georgia-obama-stars-new-ossoff-ad.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-returns-to-georgia-obama-stars-new-ossoff-ad.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 185
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/33478f5e-5929-44a4-ab6e-2513364ed583/e5e9f1da-ae85-4261-b45e-c723c100e82f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Live Updates: Giuliani says Powell not part of Trump’s legal team after election fraud claims"
-    excerpt: "President Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”"
-    publishedDateTime: 2020-11-23T04:13:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dBS2FivkC9M/live-updates-legal-11-23-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-11-23-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-11-23-2020.amp"
+  - title: "Live Updates: Trump says he will leave office if Electoral College votes for Biden"
+    excerpt: "President Trump said Thursday that he would leave office if the Electoral College votes for President-elect Joe Biden, while also promising to keep up with his legal fight."
+    publishedDateTime: 2020-11-27T13:36:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDmRpAN92qc/live-updates-election-11-27-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-27-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-27-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 184
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2f64660-af14-4fc7-853e-2a62959e7f2f/2471b49c-cd18-4715-8494-84efba624eff/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2046661-af49-43f7-be94-c44b4151c606/4f7e54a9-6753-4532-8282-e80392731859/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Hemingway: Trump tackling election integrity issue 'unites Republican voters like nothing else'"
-    excerpt: "Republicans have been \"concerned\" with preserving election integrity prior to the 2020 presidential election, Mollie Hemingway said on Thursday."
-    publishedDateTime: 2020-12-03T21:29:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nYb67ptl4Qk/hemingway-trump-tackling-election-integrity-republican-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/hemingway-trump-tackling-election-integrity-republican-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hemingway-trump-tackling-election-integrity-republican-voters.amp"
+  - title: "LIVE UPDATES: Trump claims Biden must prove his votes were legal to become president"
+    excerpt: "President Trump on Friday claimed that Democrat Joe Biden must prove his win in Pennsylvania wasn't \"fraudulently or illegally obtained\" to become president. "
+    publishedDateTime: 2020-11-28T07:28:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BpVj8U08b4w/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-claims-biden-must-prove-his-votes-were-legal-to-become-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/903d7caa-6386-4844-aa0c-b4697bfe26e7/57c22f54-2652-4ec5-84ce-0c8701537f33/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump claims Biden must prove votes weren't 'illegally obtained' in order to enter White House"
+    excerpt: "President Trump on Friday claimed that President-elect Joe Biden must prove that the votes he received in the presidential election were not “illegally obtained” in order to enter the White House -- the latest sign that Trump is not giving up his efforts to challenge the result."
+    publishedDateTime: 2020-11-27T17:35:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/amZifCI9xwo/trump-biden-illegally-obtained-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-illegally-obtained-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-illegally-obtained-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 178
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump tells Georgia governor to 'do something,' as Kemp says interfering with election is illegal"
-    excerpt: "President Trump on Tuesday told Georgia Gov. Brian Kemp to \"do something\" to overrule state election officials, claiming he would find a \"gold mine\" of fraud, as the governor's office maintained that Georgia law \"prohibits\" him from \"interfering in elections.\""
-    publishedDateTime: 2020-12-01T15:08:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bc5dlBeRYSs/trump-georgia-governor-kemp-election-do-something"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-governor-kemp-election-do-something.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-governor-kemp-election-do-something.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Live Updates: Trump's legal team criticized by Rush Limbaugh"
-    excerpt: "Rush Limbaugh knocked President Trump's legal team for underdelivering at last week's widely-hyped press conference alleging widespread voter fraud that stole a \"landslide\" victory from their client. "
-    publishedDateTime: 2020-11-24T03:53:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gvL2kh9z3nY/live-updates-election-legal-11-24-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-legal-11-24-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-legal-11-24-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f055062c-e8a5-4647-89bb-d129b30f2cb3/8a55bd0b-ea6c-410d-95b5-28ff9a70808a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b5d8907-832c-454a-88d2-e1bd843f5702/e53d9336-9bb5-4e3e-9758-0d7c04ed5f47/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump's legacy on courts still building in waning days of presidency"
-    excerpt: "The Senate Judiciary Committee will vote Thursday on the nominee to fill the appeals court seat vacated by new Supreme Court Justice Amy Coney Barrett as well as voting on whether to send three other lower trial court nominees to the Senate floor — which could further cement President Trump’s reshaping"
-    publishedDateTime: 2020-12-03T11:52:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/unGBxgteOwg/trump-legacy-on-courts-still-building"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-legacy-on-courts-still-building.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-legacy-on-courts-still-building.amp"
+  - title: "GOP views Georgia Senate runoffs as 'firewall' against Biden's agenda"
+    excerpt: "Republicans are amping up efforts to retain their Senate majority through a pair of Georgia runoffs that they view as a \"firewall\" against Democrats' agenda after President Trump lost his reelection bid. "
+    publishedDateTime: 2020-11-27T14:17:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DwRm6r0BiyY/republicans-view-georgia-senate-runoffs-firewall-against-bidens-agenda"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-view-georgia-senate-runoffs-firewall-against-bidens-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-view-georgia-senate-runoffs-firewall-against-bidens-agenda.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Coney-Barrett-AP-e1606994039819.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "LIVE UPDATES: Trump refuses to say he has confidence in Barr"
-    excerpt: "Follow for the latest updates on the 2020 election."
-    publishedDateTime: 2020-12-04T05:30:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yeYKdJ8JQyo/live-updates-trump-refuses-to-say-he-has-confidence-in-barr"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-refuses-to-say-he-has-confidence-in-barr.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-refuses-to-say-he-has-confidence-in-barr.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/124ffac8-ca25-4803-bc95-b57a6754174c/45640ca8-73b0-4813-915b-5189d0c9bf46/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd7fefb9-d30f-4b07-b566-01eaa53e3755/8d5fa08e-5e27-4a9c-a15b-c6985dcf9a95/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump dismisses DOJ's probe of bribery-for-pardon allegation: 'Fake News!'"
-    excerpt: "President Trump on Tuesday dismissed reports that the Justice Department was investigating claims of a bribery scheme involving a possible presidential pardon."
-    publishedDateTime: 2020-12-02T09:19:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Crt1jzDR3-s/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news.amp"
+  - title: "Trump hints at 2024 presidential run in remarks at White House party"
+    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
+    publishedDateTime: 2020-12-02T15:49:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/alzBlzVKkEM/trump-hints-at-2024-presidential-run"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump to headline rally in Georgia runoffs Saturday"
+    excerpt: "President Trump will headline the rally Saturday at 7pm at the airport in Valdosta, a city in the southern part of the state, according to an announcement Wednesday from Trump’s re-election campaign"
+    publishedDateTime: 2020-12-03T01:49:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sGMmkBLq_Lk/trump-to-headline-rally-in-georgia-runoffs-saturdaywe-now-know-the-where-and-when-of-president-trumps-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-headline-rally-in-georgia-runoffs-saturdaywe-now-know-the-where-and-when-of-president-trumps-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-headline-rally-in-georgia-runoffs-saturdaywe-now-know-the-where-and-when-of-president-trumps-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Concha on media coverage of Biden injury: If it was Trump, they would have 'screamed' about transparency"
+    excerpt: "The mainstream media would not have covered President Trump the same as President-elect Joe Biden's foot injury, Fox News contributor Joe Concha argued Tuesday."
+    publishedDateTime: 2020-12-01T13:43:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Yzotfs7xCs/biden-foot-injury-press-trump-concha"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-foot-injury-press-trump-concha.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foot-injury-press-trump-concha.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf560f2e-05fa-4ff8-9f82-14d5d26d17fd/e937ee12-a5c3-4c30-b63a-b94bfc66284b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "LIVE UPDATES: Trump plans Georgia visit to campaign for Senate runoff candidates"
     excerpt: "Follow for the latest updates on the January U.S. Senate runoffs in Georgia"
@@ -207,6 +255,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Executive at nonprofit that helped in Georgia audit has history of anti-Trump tweets"
+    excerpt: "The executive director of a San Francisco-based nonprofit that was tapped by Georgia’s secretary of state to assist in the state’s audit has a history of anti-Trump tweets, but has insisted that he does not “bring them to work.”"
+    publishedDateTime: 2020-12-01T16:04:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d0eNOTp8iQE/georgia-audit-nonprofit-executive-anti-trump-tweets"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-audit-nonprofit-executive-anti-trump-tweets.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-audit-nonprofit-executive-anti-trump-tweets.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Democratic PAC billboards push Trump supporters to sit out Georgia Senate runoff vote"
+    excerpt: "The billboards say: \"Perdue/Loeffler Didn't Deliver For Trump, Don't Deliver For Them.\""
+    publishedDateTime: 2020-12-02T03:10:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IW4PfoE5OXA/democratic-billboards-push-trump-supporters-to-sit-out-georgia-senate-runoff-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-billboards-push-trump-supporters-to-sit-out-georgia-senate-runoff-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-billboards-push-trump-supporters-to-sit-out-georgia-senate-runoff-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19c259e9-3646-4cb2-8805-d7925ab8f1ac/48edf0e4-e5c9-4ed9-890c-f23ccfba59d8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Trump to campaign for GOP Senate runoff candidates in Georgia Saturday"
     excerpt: "Follow for the latest updates on the Georgia Senate runoffs"
     publishedDateTime: 2020-12-03T06:13:39Z
@@ -223,84 +303,205 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Trump campaign eyes Supreme Court after appeals panel tosses Pa. fraud case"
-    excerpt: "The Trump 2020 Campaign looked ahead to a potential Supreme Court fight after a panel of federal appeals judges in Pennsylvania dismissed the campaign's lawsuit over alleged voter fraud in the presidential election. "
-    publishedDateTime: 2020-11-28T06:44:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p-Ot-6MG-y4/live-updates-trump-campaign-eyes-supreme-court-after-appeals-panel-tosses-pa-fraud-case"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-campaign-eyes-supreme-court-after-appeals-panel-tosses-pa-fraud-case.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-campaign-eyes-supreme-court-after-appeals-panel-tosses-pa-fraud-case.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/529a207d-73d0-460c-9fde-43b3a041b0a5/6f32cf3d-90c4-48e9-85d9-f9b631b23713/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Trump campaign alleges abuse around the process of absentee voting in Wisconsin"
-    excerpt: "A lawsuit was filed Tuesday morning and comes after Wisconsin completed its partial recount — which maintained that Joe Biden won the presidential race in the state — and after Wisconsin Gov. Tony Evers formally certified Biden’s victory Monday night."
-    publishedDateTime: 2020-12-02T03:52:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fk5xH0p5mcw/live-updates-legal-12-2-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-2-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-2-2020.amp"
+  - title: "Trump warns Georgia runoff boycott would play 'right into the hands of some very sick people'"
+    excerpt: "Trump reiterated his frequent claim that the 2020 election was a “total scam,” but urged his supporters to turn out on behalf of Georgia’s Republican Senate candidates."
+    publishedDateTime: 2020-11-27T21:07:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GQ4DyPULdB0/trump-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bc71753-778e-4f60-ad87-1c50cfa1104f/36f89332-d7c5-4524-ab7f-191e86a4ecc4/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4d7d32f1-3cbe-4d32-b262-11636ff1aadc/f7d0832f-1bc7-4025-a734-dddd2036d2b7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "GM Stops Backing Trump Administration in Emissions Fight With California"
-    excerpt: "General Motors will no longer back the administration in its legal battle to strip California’s authority to set its own fuel-efficiency regulations, saying GM’s goals for green cars are aligned with the state and the new Biden administration."
-    publishedDateTime: 2020-11-23T20:03:00Z
-    webUrl: "https://www.wsj.com/articles/gm-stops-backing-trump-administration-in-emissions-fight-with-california-11606160905"
-    ampWebUrl: "https://www.wsj.com/amp/articles/gm-stops-backing-trump-administration-in-emissions-fight-with-california-11606160905"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gm-stops-backing-trump-administration-in-emissions-fight-with-california-11606160905"
+  - title: "Biden’s Georgia Victory Over Trump Certified by Secretary of State"
+    excerpt: "Georgia Secretary of State Brad Raffensperger certified the Nov. 3 election results, declaring President-elect Joe Biden the winner of the state. Mr. Biden’s victory in Georgia is the first for a Democratic presidential candidate since Bill Clinton narrowly defeated George H."
+    publishedDateTime: 2020-11-20T22:50:00Z
+    webUrl: "https://www.wsj.com/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
+    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 134
+    quality: 160
     images:
-      - url: "https://images.wsj.net/im-263785/social"
+      - url: "https://images.wsj.net/im-262788/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Court Denies Trump Appeal: ‘Calling an Election Unfair Does Not Make It So’"
-    excerpt: "A federal appeals court Friday denied the Trump campaign’s appeal in Pennsylvania, writing that the case lacked proof and had no merit, and striking another blow to [the president’s dwindling legal av"
-    publishedDateTime: 2020-11-28T00:16:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/tfB3COnIUFcYliLYOlRc"
+  - title: "Obama joining Georgia Dems in virtual rally Friday before Trump heads to state Saturday in critical runoffs"
+    excerpt: "Former President Barack Obama will join Georgia Democratic Senate candidates Jon Ossoff and Raphael Warnock for a virtual rally Friday as the two U.S. Senate runoffs are little more than one month away and the control of the upper chamber hangs in the balance."
+    publishedDateTime: 2020-12-03T15:07:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FI8-IqUkbvc/obama-joining-georgia-senate-candidate-warnock-ossoff-in-virtual-rally-friday-trump-heads-to-state-saturday"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-joining-georgia-senate-candidate-warnock-ossoff-in-virtual-rally-friday-trump-heads-to-state-saturday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-joining-georgia-senate-candidate-warnock-ossoff-in-virtual-rally-friday-trump-heads-to-state-saturday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Videos, virtual events and planned trips: Biden, Obama, Pence, Trump weigh in on Georgia runoffs"
+    excerpt: "President Trump, his predecessor and soon-to-be successor in the White House, as well as Vice President Mike Pence, are all weighing in on Georgia’s two Jan. 5 Senate runoff elections, where the Republican majority in the chamber is up for grabs."
+    publishedDateTime: 2020-12-04T18:12:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden Plans to Roll Back Trump-Era Education Policies"
+    excerpt: "The president-elect has vowed to bring sweeping changes to education and to reverse some of the civil rights-related moves made under President Trump."
+    publishedDateTime: 2020-11-29T13:12:00Z
+    webUrl: "https://www.wsj.com/articles/biden-plans-to-roll-back-trump-era-education-policies-11606654802"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-plans-to-roll-back-trump-era-education-policies-11606654802"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plans-to-roll-back-trump-era-education-policies-11606654802"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 128
+    quality: 150
     images:
-      - url: "https://images.wsj.net/im-265473?size=1.5"
+      - url: "https://images.wsj.net/im-263007/social"
         width: 1280
-        height: 853
+        height: 640
         isCached: true
-  - title: "OMB Lists Positions Stripped of Job Protection Under Trump Order"
-    excerpt: "Youre fired. They defined his celebrity on reality television, and they could now make him infamous among career civil servants"
-    publishedDateTime: 2020-11-23T22:41:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.amp.html"
+  - title: "Georgia Official Urges Trump to Condemn Threats Against Election Workers"
+    excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
+    publishedDateTime: 2020-12-02T02:08:00Z
+    webUrl: "https://www.wsj.com/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
+    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-266968/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Georgia GOP Official Urges Trump to Condemn Threats Against Election Officials"
+    excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
+    publishedDateTime: 2020-12-02T02:11:00Z
+    webUrl: "https://www.wsj.com/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944?mod=hp_listb_pos2"
+    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-266968/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Pence returns to Georgia on Friday; Obama stars in new Ossoff TV ad"
+    excerpt: "Vice President Mike Pence will return to Georgia on Friday to hit the campaign trail in the state’s twin Jan. 5 Senate runoff elections, where the Republicans' Senate majority is at stake."
+    publishedDateTime: 2020-12-01T18:13:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-returns-to-georgia-obama-stars-new-ossoff-ad"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-returns-to-georgia-obama-stars-new-ossoff-ad.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-returns-to-georgia-obama-stars-new-ossoff-ad.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20325700810970.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump hints at 2024 presidential run in remarks at White House party"
+    excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
+    publishedDateTime: 2020-12-02T16:06:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20291046912810.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump Says He Will Leave White House if Electoral College Votes Biden"
+    excerpt: "President Trump said he will leave the White House in January if the Electoral College backs Joe Biden, as he took questions from reporters for the first time since the election. Photo: Erin Schaff/Bl"
+    publishedDateTime: 2020-11-27T12:17:00Z
+    webUrl: "https://www.wsj.com/video/trump-says-he-will-leave-white-house-if-electoral-college-votes-biden/07F1D78F-7C94-448E-8279-19326EBE99C9.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "http://m.wsj.net/video/20201127/112720trumpleavev9/112720trumpleavev9_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Donald Trump Jr to be featured in super PAC ads in Georgia Senate race aimed at mobilizing Trump voters"
+    excerpt: "Top aides to Donald Trump Jr. are launching a super PAC aimed at boosting GOP voter turnout in the Jan. 5 U.S. Senate runoff elections in Georgia, which will be key to which party controls the majority in the chamber in the next two years and whether Republicans have a say in President-elect Biden's agenda."
+    publishedDateTime: 2020-11-30T14:48:00Z
+    webUrl: "https://www.foxnews.com/politics/donald-trump-jr-aides-launch-super-pac-in-hopes-of-boosting-voter-turnout-in-georgia-senate-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-aides-launch-super-pac-in-hopes-of-boosting-voter-turnout-in-georgia-senate-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-aides-launch-super-pac-in-hopes-of-boosting-voter-turnout-in-georgia-senate-runoffs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-Jr-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Pro-Trump attorneys Sidney Powell, Lin Wood urge Georgians not to vote in Senate runoffs without changes"
+    excerpt: "Trump attorneys Sidney Powell and L. Lin Wood urged Georgians not to participate in a runoff vote that will determine control of the Senate in January until state officials address unsubstantiated claims that President-elect Joe Biden won the White House through voter fraud."
+    publishedDateTime: 2020-12-03T00:11:00Z
+    webUrl: "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden's Challenge on Global Warming"
+    excerpt: "President-elect Joe Biden recognizes the dangers of global warming and vows to confront the problem head on. Good, because we just wasted four years. There are three camps for everyone who have any opinion on what happened with this 2020 election."
+    publishedDateTime: 2020-11-27T12:24:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/27/bidens_challenge_on_global_warming_530177.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/47/473955_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
+    quality: 45
 
 secured: "XEykXQLzSpa+7U5VkrQV+yZY/DZhOvq2uC1I6idLwR4i5uk4iXlyAF5nYc8BvBqhoZi1TKB7e5Zycc7LeyPmmBl+nFLaH1Bck6Rju9R5qXsVMMEZp0py66/qABBRrNbrPp5ItN+mJCgz+uqR23NbyYyXGu24ODUuD8OpfsWwN4NZAGajVlfrnLJ0zVmxWAqgs/SBS2wP+KFtfaHXmF+lKwGhyVvo9jM8teMFJQKrjcQ4KCF8/3SAc4yoUbyFLplzu9g8j2Eg4sIF8x9fybU1elElVrhZxz9ISnT0KLNKEZmGgP/xURss1kZWNpZ945K+RocSWQUF+QP4u94MZmO+ieGOpi/MIuzkxhMJQNIFg1c=;mM0ONRErzKjeppoXojqwSw=="
 ---

@@ -79,22 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump to headline rally in Georgia runoffs Saturday"
-    excerpt: "President Trump will headline the rally Saturday at 7pm at the airport in Valdosta, a city in the southern part of the state, according to an announcement Wednesday from Trump’s re-election campaign"
-    publishedDateTime: 2020-12-03T01:49:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sGMmkBLq_Lk/trump-to-headline-rally-in-georgia-runoffs-saturdaywe-now-know-the-where-and-when-of-president-trumps-rally"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-to-headline-rally-in-georgia-runoffs-saturdaywe-now-know-the-where-and-when-of-president-trumps-rally.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-headline-rally-in-georgia-runoffs-saturdaywe-now-know-the-where-and-when-of-president-trumps-rally.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Attorney Sidney Powell files lawsuit seeking Georgia election results be decertified, awarded to Trump"
     excerpt: "Attorney Sidney Powell filed a lawsuit in Georgia on Wednesday evening alleging “massive election fraud” that changed the state’s results in the 2020 election.  "
     publishedDateTime: 2020-11-26T19:19:40Z
@@ -174,22 +158,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8cdbdf44-98b4-4728-a5da-51d5adc6ae5c/c368e48a-b662-40f7-b3d6-af288b995f5c/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Obama joining Georgia Dems in virtual rally Friday before Trump heads to state Saturday in critical runoffs"
-    excerpt: "Former President Barack Obama will join Georgia Democratic Senate candidates Jon Ossoff and Raphael Warnock for a virtual rally Friday as the two U.S. Senate runoffs are little more than one month away and the control of the upper chamber hangs in the balance."
-    publishedDateTime: 2020-12-03T15:07:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FI8-IqUkbvc/obama-joining-georgia-senate-candidate-warnock-ossoff-in-virtual-rally-friday-trump-heads-to-state-saturday"
-    ampWebUrl: "https://www.foxnews.com/politics/obama-joining-georgia-senate-candidate-warnock-ossoff-in-virtual-rally-friday-trump-heads-to-state-saturday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-joining-georgia-senate-candidate-warnock-ossoff-in-virtual-rally-friday-trump-heads-to-state-saturday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "‘He Won,’ Trump Tweets in a Post About the Election"
     excerpt: "President Trump said Sunday morning that Democrat Joe Biden “won because the election was rigged,” his first comments suggesting he believed he had lost the presidential election. Mr. Trump later tweeted that he wasn’t conceding and said,"

@@ -2,6 +2,175 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-04-trump-administration-claims-facebook-improperly-reserved-jobs-for-h-1b-workers.md",
+      "title": "Trump Administration Claims Facebook Improperly Reserved Jobs for H-1B Workers",
+      "excerpt": "A Justice Department lawsuit accuses the social-media company of illegally reserving high-paying jobs for immigrant workers it was sponsoring for permanent residence and failing to adequately search for U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
+      "originalUrl": "https://www.wsj.com/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-267936/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
+      "publishedDateTime": "2020-12-03T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-plotting-the-future-trump-kids-even-look-to-profit-from-their-fathers-fallen-legacy.md",
+      "title": "Plotting the future: Trump kids even look to profit from their father's fallen legacy ",
+      "excerpt": "It was Thanksgiving, but instead of being seated at an elaborate table dressed with gold silverware, expensive china and a buffet of chilled seafood, turkey and beef tenderloin, waited on by household staff, Donald Trump Jr., Eric Trump, Ivanka Trump and Jared Kushner were in the wilderness of Maryland.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z5-B-ZTFF8w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z5-B-ZTFF8w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203122910-03-trump-kids-rnc-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/trump-kids-future-presidency/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-kids-future-presidency/index.html",
+      "publishedDateTime": "2020-12-03T11:55:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-jeffrey-zients-expected-to-be-named-bidens-coronavirus-coordinator.md",
+      "title": "Jeffrey Zients expected to be named Biden's coronavirus coordinator",
+      "excerpt": "Jeffrey Zients is President-elect Joe Biden's choice to be the White House coronavirus coordinator, or \"czar,\" a source familiar tells CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P_9Q_uuX_Ao/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P_9Q_uuX_Ao/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/130410120120-obama-budget-speech-story-top.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/jeffrey-zients-coronavirus-czar/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/jeffrey-zients-coronavirus-czar/index.html",
+      "publishedDateTime": "2020-12-03T10:30:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-federal-watchdog-finds-substantial-likelihood-of-wrongdoing-by-trump-appointees-overseeing-voice-of-america.md",
       "title": "Federal watchdog finds 'substantial likelihood of wrongdoing' by Trump appointees overseeing Voice of America",
       "excerpt": "The federal watchdog's findings mark the latest rebuke of the Trump-appointed CEO of the U.S. Agency for Global Media, Michael Pack.",
@@ -56,54 +225,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-lou-holtz-calls-trump-greatest-president-in-my-lifetime-accepts-medal-of-freedom.md",
-      "title": "Lou Holtz calls Trump ‘greatest president in my lifetime,’ accepts Medal of Freedom",
-      "excerpt": "President Trump on Thursday awarded Notre Dame’s legendary former football coach Lou Holtz the Presidential Medal of Freedom — and Holtz reciprocated by hailing Trump as the “greatest",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/",
-      "originalUrl": "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/1229926968-e1607018824688.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/03/lou-holtz-praises-trump-accepts-presidential-medal-of-freedom/amp/",
-      "publishedDateTime": "2020-12-03T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -826,6 +947,62 @@
       ]
     },
     {
+      "path": "_news/2020-12-02-pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-to-vote-in-senate-runoffs-without-changes.md",
+      "title": "Pro-Trump attorneys Sidney Powell, Lin Wood urge Georgians not to vote in Senate runoffs without changes",
+      "excerpt": "Powell and Wood are not working for the Trump campaign in an official capacity.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bYYQ6L3byYI/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bYYQ6L3byYI/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp",
+      "publishedDateTime": "2020-12-02T15:55:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-biden-remains-silent-on-string-of-democrats-caught-flouting-their-own-covid-guidelines.md",
       "title": "Biden remains silent on string of Democrats caught flouting their own COVID guidelines",
       "excerpt": "As more Democratic officials have come under fire for flouting their own coronavirus advocacy, the nation's top Democrat, President-Elect Biden, appeared to refrain from criticizing them.",
@@ -1213,175 +1390,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-naacp-warns-biden-over-rahm-emanuel-rumors.md",
-      "title": "NAACP warns Biden over Rahm Emanuel rumors",
-      "excerpt": "The NAACP became the latest progressive group to warn President-elect Joe Biden against adding former Chicago Mayor Rahm Emanuel to his Cabinet.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JmzBKP0XY-s/naacp-biden-rahm-emanuel-rumors",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JmzBKP0XY-s/naacp-biden-rahm-emanuel-rumors",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/08/08/694940094001_5819321962001_5819321658001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/naacp-biden-rahm-emanuel-rumors.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/naacp-biden-rahm-emanuel-rumors.amp",
-      "publishedDateTime": "2020-12-02T12:32:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-john-mulaney-says-he-was-investigated-by-the-secret-service-over-joke-that-was-not-about-donald-trump.md",
-      "title": "John Mulaney says he was investigated by the Secret Service over joke 'that was not about Donald Trump'",
-      "excerpt": "John Mulaney says he was investigated by the Secret Service after making a joke that many believed was a threat against President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
-      "originalUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/John-Mulaney-Getty.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
-      "publishedDateTime": "2020-12-02T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-top-pro-gop-pac-launching-new-initiative-to-counter-bidens-far-left-policies.md",
-      "title": "Top pro-GOP PAC launching new initiative to counter Biden's 'far-left policies'",
-      "excerpt": "A leading outside group that supports Republican causes is firing up a new initiative to counter what it says will be the \"far-left policies\" of President-elect Joe Biden's incoming administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp",
-      "publishedDateTime": "2020-12-02T11:22:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

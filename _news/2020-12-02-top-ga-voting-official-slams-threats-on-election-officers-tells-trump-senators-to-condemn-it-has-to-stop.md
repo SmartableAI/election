@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/top-ga-voting-official-slams-threat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-ga-voting-official-slams-threats-on-election-officers-tells-trump-senators-to-condemn-it-has-to-stop.amp"
 type: article
 quality: 170
-heat: 190
+heat: 170
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Georgia GOP Official Urges Trump to Condemn Threats Against Election Officials"
-    excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
-    publishedDateTime: 2020-12-02T02:11:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944?mod=hp_listb_pos2"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 146
-    images:
-      - url: "https://images.wsj.net/im-266968/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "Is1VMyV/9YUl5ZdvKAGBPy95jRyrmyr6wZJd+cYhjhOB0dfXr6fGvfp/MGDGKSXUk/yeHl//BI5LorhqyK9k3PkIg1BqLRGABqGe6drl9+Om4r9Mzn1UrEXmDXGHbsUpelUg3pe0lHjpkxz6Ck/eCM6GsjTSCqZkJbzJkWuAN300EYX6ywZSdfMeRhEw4NEkEAGyijUZldtUkrjFUrW6Kvzjbi/Cs07KBAvGkrG2xCe0f8Sq5f+W8ZDK4ZSInfU8ja5lEKKy+iyMFtNMMmlcAKeOly+KhGb9C446Ai8p3vZDN4zmi3nXokeQKVUaBVdbAn5W5F9TYZRPdGPQFotWPZhuV9IdrLrD/bRBGCllHnc=;zmQUywOQitCs8DMzeKQ4yA=="
 ---

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden on Trump administration distributing vaccine: 'There is no detailed plan' "
+    excerpt: "President-elect Joe Biden said Friday that the Trump administration had shared information with his transition team about distributing a vaccine to various states, but Biden said his team had not seen a \"detailed plan.\"\n    \n"
+    publishedDateTime: 2020-12-04T20:44:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NOVMIb1D9Yw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/biden-trump-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-trump-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110163037-joe-biden-wilmington-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden picks up small number of votes in Milwaukee County after Trump-requested recount"
     excerpt: "President-elect Joe Biden saw a small net gain in votes as Milwaukee County, Wisconsin's largest, certified its presidential general election results Friday after a recount requested by the Trump campaign.\n    \n"
     publishedDateTime: 2020-11-28T01:46:41Z

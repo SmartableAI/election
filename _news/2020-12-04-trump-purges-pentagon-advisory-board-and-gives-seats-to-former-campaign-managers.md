@@ -1,0 +1,69 @@
+---
+category: news
+title: "Trump purges Pentagon advisory board and gives seats to former campaign managers"
+excerpt: "President Donald Trump has purged a Pentagon business advisory board and replaced its members with his former campaign manager and deputy campaign manager, neither of whom have served in the military or have any apparent experience with the defense industry.\n    \n"
+publishedDateTime: 2020-12-04T20:42:30Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUnccSYtHPw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUnccSYtHPw/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html"
+type: article
+quality: 170
+heat: 210
+published: true
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/190918092128-corey-lewandowski-newday-09182019-1-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "'An attempt to sabotage': Trump's potential purge of career employees casts pall across federal government"
+    excerpt: "Federal career employees across the Trump administration are fearful of losing their job protections and potentially their jobs, as agencies begin to implement a recent executive order signed by President Donald Trump.\n    \n"
+    publishedDateTime: 2020-12-03T20:52:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IWfXwtQdjkU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-potential-purge-job-protections-career-government-employees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-potential-purge-job-protections-career-government-employees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118172139-white-house-201111-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "A Trump Fund-Raiser for Maya Wiley? Yes, but It’s Mary Trump"
+    excerpt: "Ms. Trump, the president’s niece, has written a tell-all book and opposed his re-election. Now she’s holding an online event for Ms. Wiley, who’s running for mayor of New York."
+    publishedDateTime: 2020-12-02T16:34:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/nyregion/02trump-wiley1/02trump-wiley1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+
+secured: "UcN47vbrtanARy4Bw3pU2+HdNeEtoBMuCo/ruddBGusAK3uh8t4y6s7TebO2GeSl0lfbkwyiF4kGroO3xyhRQ/76jyzXLtJC/CSnWHeg2GvDNQGoigLb5J0gpmdbuWZir2zcKcgjrlG41c5zUAdXulwe7wQZyMxGisBrvI16MVZdBnOW0XPmL4bH/U/KEEwCLjwpxbfdRSREKkC1tlBE9dx87m/i8sQZsI/3uWl+oMzb6LGE+WywJxjAo0GSuZOYfNlLLdD8YU+207Uw0vT/CBMutiUuGhnEZU2Q833cSqnKLBZDUyDCygFPiC7HtOFrD1F1ZzgP5EWHTNjLu+IUloJgv/MmCtKafNK9IpYF1So=;/lxERJqCyrLwAn1fjCdL7w=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96816709743"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96816709743"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3433213/201204-donald-trump-mn-0840_3ff08bf71b3ccb940cbf49b781f12604.jpg"
         width: 2500
         height: 1458
+        isCached: true
+  - title: "Can Trump Pre-emptively Pardon Allies or Himself? Clemency Power, Explained"
+    excerpt: "The president has discussed potential pardons that could test the boundaries of his constitutional power to nullify criminal liability."
+    publishedDateTime: 2020-12-02T18:54:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-pardons.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-pardons.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/trump-pardons.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02dc-trumppardon/02dc-trumppardon-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "KVQcjiMNoUO9zszh5y0C1tcIb7uxZ4VnsYgcCZsifkozw8FFrgss8xE9qpQKIhKSV2yR5cwl4Onu/Eu5IomZs9rBeKo2ODOMJcczFSyolR01jsO8YyCKtyg1eCduMJuZqGLG1S3cktAlg9NTLyEyTms4XL7FSbBN2LHSxgT36IQlimlw32Uw5+JYJ8y9S/GWkyl+WwKw4gcGXCXUVdSmLyl0OZ9YRr0RoDWKJWMvHpm2942Fgz5RHUHpspODDdFPo1nth/zKwYQdu1QApd5qNp+EaxRAgi8fqFvLS6x7e833MVK81Zcu5M+0Xg9uz1Amc4W/+0HAl10FvN4JfKyMv+jTLt1xAMv9Th/7x9XHgV8=;QKK5+hNGTaLKy1FFWaxpSA=="

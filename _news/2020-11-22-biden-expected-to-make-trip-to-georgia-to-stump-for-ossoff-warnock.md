@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/top-aide-biden-expected-to-visit-ge
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "GOP views Georgia Senate runoffs as 'firewall' against Biden's agenda"
-    excerpt: "Republicans are amping up efforts to retain their Senate majority through a pair of Georgia runoffs that they view as a \"firewall\" against Democrats' agenda after President Trump lost his reelection bid. "
-    publishedDateTime: 2020-11-27T14:17:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DwRm6r0BiyY/republicans-view-georgia-senate-runoffs-firewall-against-bidens-agenda"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-view-georgia-senate-runoffs-firewall-against-bidens-agenda.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-view-georgia-senate-runoffs-firewall-against-bidens-agenda.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd7fefb9-d30f-4b07-b566-01eaa53e3755/8d5fa08e-5e27-4a9c-a15b-c6985dcf9a95/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Biden expected to make trip to Georgia to stump for Ossoff, Warnock"
     excerpt: "The push to win both races could see the Democrats pull a divided Senate, which would force both parties to work on passing any legislation."

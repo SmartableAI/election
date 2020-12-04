@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-25-trump-denies-the-coronavirus-surge-as-biden-and-obama-condemn-his-approach.md",
+      "title": "Trump denies the coronavirus surge as Biden and Obama condemn his approach",
+      "excerpt": "President Donald Trump continued to deny the nation's deepening Covid-19 crisis as he crisscrossed the country this weekend, even as the virus spread among top administration and campaign advisers.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vFn7UftBWzA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vFn7UftBWzA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 2918,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201024123232-03-trump-voting-1024-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html",
+      "publishedDateTime": "2020-10-24T21:16:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-live-coverage-mike-pence-to-hold-rally-at-lakeland-linder-international-airport.md",
       "title": "Live coverage: Mike Pence to hold rally at Lakeland Linder International Airport",
       "excerpt": "Some of the attendees waiting to hear Mike Pence speak today include residents, veterans and Lake Wales commissioner Allen Goldstein and Polk County Republican chairman J.C. Martin. Trump campaign volunteers are checking temperatures and handing out ...",

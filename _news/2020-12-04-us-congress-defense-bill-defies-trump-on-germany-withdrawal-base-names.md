@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E0Y5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E0Y5"
 type: article
 quality: 124
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 817
     height: 545
     isCached: true
+
+related:
+  - title: "Supreme Court will hear Trump administration defend controversial Medicaid work requirements"
+    excerpt: "Forcing low-income people to work or prepare for employment in exchange for health coverage is an experiment that's been tried in only three states."
+    publishedDateTime: 2020-12-04T20:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/04/donald-trumps-medicaid-work-requirements-get-supreme-court-review/6341457002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6341457002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6341457002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/3dbe008c-2f39-4c44-8dfe-841a5dc08ac6-XXX_Supreme_Court_Upholds_Obama_s_Affordable_Care_Act_70385449_.JPG?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "+dVbZZbFGd8NL1BCBFBoC57Ct44eQ5VU+Aacy+sSy8ehwfCnXrQygJC9t/zogtNn8StYndDqKaC7mdjTcFR/YHCLX+FYJ7+IxD6AOnnaBaogZBsqKuF2dR5ERed3n98KF1GqTxxcY7MLnyfIW+8RwYjiX3/uwbaYBsmtBBgfYs6x3aINtj64eGE1ga1lY46VxkAgoxItOjX8Gdm/wKiz8sWeHi2ZjpSKx/kSqhVEqKIwwzm9Mzw4SYXbtt5+5X7BQICugDwMHJhPZQ3CFmpVxNR/zSCg/UzEVQHEC4ub7HRO6MqKQw6BjHB+XCFECBA84Oxu9j/j31eY3hhGx0gxw8cXpNGAjk4RK2SWzgo8myRXVI/5gWJEJxABBiD5jMD9war4OjspyC1k6igi3m3QGsfXYZLnSbGLzLwiDWfwnB/5itulk0GF7JmXOjKdFrUPy+LxuDev9f3QsN8mRf8h3SFYS/UwhYVqVLWPMKCX0eEkO/jQSNmdroblRiNtV/oDMWbeYv1Z5tV8Pm8tEdn+1g==;Uz9Kw6kr1ieA6LhDApZ2bw=="
 ---
