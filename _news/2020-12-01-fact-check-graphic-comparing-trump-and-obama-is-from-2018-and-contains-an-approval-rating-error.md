@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A2CA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A2CA"
 type: article
 quality: 112
-heat: -1
-published: false
+heat: 132
+published: true
 
 provider:
   name: Reuters
@@ -31,51 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Facebook post touting decreasing drug prices under Trump is misleading"
-    excerpt: "A viral claim appears to take data out of context to tout decreasing drug prices under President Donald Trump."
-    publishedDateTime: 2020-12-04T14:56:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/04/fact-check-post-decreasing-rx-drug-prices-contains-outdated-info/3769032001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3769032001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3769032001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/27/PDEM/c3395239-b93c-47ff-9c0e-1e00867e5431-Prescription_pills_with_money.jpg?auto=webp&crop=4155,2338,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Trump administration accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans"
-    excerpt: "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers."
-    publishedDateTime: 2020-12-03T20:40:00Z
-    webUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
+  - title: "Representatives for 'Tiger King's' Joe Exotic are said to be chasing Trump down for a pardon and spending thousands of dollars to get it"
+    excerpt: "Representatives for the former zookeeper ran up a $10,000 tab at one of Trump's hotels in an effort to get his attention."
+    publishedDateTime: 2020-11-26T06:56:00Z
+    webUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 95
+    quality: 92
     images:
-      - url: "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Trump administration in a new lawsuit accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans"
-    excerpt: "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers."
-    publishedDateTime: 2020-12-03T11:41:00Z
-    webUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fbefa81037cbd0018612744?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

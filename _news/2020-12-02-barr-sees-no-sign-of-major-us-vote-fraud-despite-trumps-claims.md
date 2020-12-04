@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28B5UK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28B5UK"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 225
+published: true
 
 provider:
   name: Reuters
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Angry Trump promises rally in battleground state of Georgia"
-    excerpt: "President Donald Trump on Thursday renewed baseless claims that “massive fraud” and crooked local officials in battleground states led to his election defeat, and said he’ll go to Georgia for a rally"
-    publishedDateTime: 2020-11-26T23:11:00Z
-    webUrl: "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+  - title: "Republican U.S. lawmakers may defy Trump over defense bill veto threat"
+    excerpt: "The chairman of the U.S. Senate Armed Services Committee and some other Republican lawmakers pushed back on Wednesday against President Donald Trump's threat to veto a massive defense bill unless it eliminates a federal law protecting tech companies."
+    publishedDateTime: 2020-12-02T20:54:00Z
+    webUrl: "https://www.reuters.com/article/usa-defense-congress-idUSKBN28C344"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C344"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C344"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543247195&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11Q1"
+        width: 797
+        height: 545
+        isCached: true
+  - title: "Dangerously viral: How Trump, supporters spread false claims"
+    excerpt: "It took just a day for a cellphone video of a man hauling a large box into a Detroit election office to be viewed more than a million times"
+    publishedDateTime: 2020-12-04T10:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_2d577ba5f467404c81900887ef2cd68b_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Despite Trump's continued claims, Barr sees no sign of major U.S. vote fraud"
     excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department had found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
@@ -63,65 +79,38 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "U.S. Supreme Court weighs Trump bid to bar illegal immigrants from census totals"
-    excerpt: "The Supreme Court on Monday is set to take up President Donald Trump's unprecedented and contentious effort to exclude illegal immigrants from the population totals used to allocate U.S. House of Representatives districts to states."
-    publishedDateTime: 2020-11-29T12:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN2890F4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890F4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890F4"
+  - title: "The Daily 202: Ousted U.S. attorney, removed by Barr as he investigated Trump associates, lands new job"
+    excerpt: "During a noon meeting in a suite at the Pierre hotel in Manhattan on a Friday in June, Attorney General Bill Barr pressured Geoffrey Berman to step aside as the U.S. attorney for the Southern District of New York."
+    publishedDateTime: 2020-12-01T16:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542800006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS09M"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IAW7TCUQP5FAVGSQ44D7LNWC7Y&w=1440"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Mary Trump’s next book probes ‘America’s national trauma’ under Trump presidency"
-    excerpt: "Mary Trump's \"The Reckoning,\" a follow-up to the bestselling exposé she wrote about her uncle Donald, will examine how \"America is suffering from PTSD.\""
-    publishedDateTime: 2020-12-02T20:03:00Z
-    webUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump"
-    ampWebUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump?_amp=true"
+  - title: "Republican congressman tells Trump to 'delete your account' after he tweeted a 45-minute speech repeating baseless voter-fraud claims"
+    excerpt: "Republican Rep. Adam Kinzinger, who represents Illinois' 16th District, quote-tweeted Trump on Thursday."
+    publishedDateTime: 2020-12-04T10:48:00Z
+    webUrl: "https://www.businessinsider.com/republican-congressman-tells-trump-to-delete-your-account-2020-12?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/republican-congressman-tells-trump-to-delete-your-account-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republican-congressman-tells-trump-to-delete-your-account-2020-12?amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 120
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/ce164d8/2147483647/strip/true/crop/3000x1959+0+77/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2F60%2Fdff1233a4316bfb87aa7e431a470%2Ftrump-taj-mahal-opening-06047.jpg"
-        width: 320
-        height: 209
+      - url: "https://i.insider.com/5fc8a986037cbd0018613869?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Stocks ready to rally in '21 but outgoing Trump is risk: Pacific Life Fund Advisors"
-    excerpt: "U.S. stock markets are poised to rally in 2021, bolstered by the predictability of a new U.S. president, fresh stimulus and infrastructure spending, plus a coronavirus vaccine. But there is a potential wild card: outgoing President Donald Trump,"
-    publishedDateTime: 2020-12-01T03:45:00Z
-    webUrl: "https://www.reuters.com/article/us-investment-summit-pacificlife-idUSKBN28A34F"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A34F"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A34F"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542972639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1RT"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "U.S. Senate panel votes to approve Trump FCC nominee"
-    excerpt: "The U.S. Senate Commerce Committee voted on Wednesday to approve the nomination of a senior Trump administration official involved in an effort to seek new social media regulations to a seat on the Federal Communications Commission."
-    publishedDateTime: 2020-12-02T15:46:00Z
-    webUrl: "https://www.reuters.com/article/usa-tech-idUSL1N2II1LY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2II1LY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1LY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
 
 secured: "gWAWDTPLPfwWxKb8xyI3gqTDjzw3OA6tvNi63EbBkZaTHK6w7RtxIsPaw5Z8QgqjfX0I2mGlkQeGnIUCqZ3E1ABMKa2D6xPhKfT/RAupSEEdX10ZW3f3Dl59ajVe7bZ0ZK3JWyl+KQRegEM2OBphVTnjYEWTobaZVbXjlYQzIZ8gS9gRb2TUPevmtaN9HmX2uz3NMJySr+H/zOZFoKx/QCRpddwKvkMfXrNHSp0sJIBR5vyMx55ZgyHPY6xn0U1JMBBurSNv3bMjGmAHc21HAdy/V842iX57NoAHolO4Obpr0sM1jvYTJgG2yQfwhd6qmYEqgB5x3tgOD0tFoHO6EvSSTTetQ8/878610K89EwVWYDiW6zbVE6K8IPreVbBMLgYHIURVpRWhKffB8KhseoVHfQuvMYUHphtp3OLPaZWqmJAJIDxQNJyZ1//zPjbE3s9ZiCYeDEmy+B1oz8THG7MSHi0ztwePbCS0bIwZGekhVeB5DZk0hvnxL2vx/Ndj4ZjYOtiEa52hScWpE3byeA==;LA+LD08AvI1mpGGFjewe8A=="
 ---

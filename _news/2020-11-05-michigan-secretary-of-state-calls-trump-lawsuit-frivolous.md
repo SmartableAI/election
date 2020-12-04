@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L065"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L065"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign files lawsuit over Georgia county ballot sorting"
-    excerpt: "U.S. President Donald Trump's reelection campaign on Wednesday said it had filed a lawsuit in Georgia to require that Chatham County separate and secure late-arriving ballots to ensure they are not counted."
-    publishedDateTime: 2020-11-05T03:25:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN27L077"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L077"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L077"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540058520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA4045"
-        width: 641
-        height: 545
-        isCached: true
   - title: "With Trump headed back to Michigan, study says rallies led to 30,000 more COVID-19 cases"
     excerpt: "The study concluded that previous rallies led to 30,000 more cases of COVID-19 in the weeks following 18 Trump rallies this year."
     publishedDateTime: 2020-11-09T14:28:00Z

@@ -31,672 +31,834 @@ images:
     isCached: true
 
 related:
-  - title: "Hackers Stole $2.3 Million From Trump Reelection Account In Wisconsin"
-    excerpt: "Hackers have taken $2.3 million from the Wisconsin Republican Party’s account supporting Trump’s reelection, the party’s chairman told The Associated Press on Thursday, a campaign disruption in the critical swing state less than a week from Election Day."
-    publishedDateTime: 2020-10-29T14:41:00Z
-    webUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/"
-    ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/"
+  - title: "Pence comes to Georgia as calm before potential Trump storm"
+    excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatil"
+    publishedDateTime: 2020-12-04T18:36:00Z
+    webUrl: "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 140
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 150
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ad2feba488e31d7ba9182%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D282%26cropY2%3D3360"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Angry at election defeat, Trump seeks partial recount in Wisconsin"
-    excerpt: "President Donald Trump's re-election campaign said on Wednesday it was seeking a partial recount of Wisconsin's presidential election results, as part of its long-shot attempt to reverse President-elect Joe Biden's victory."
-    publishedDateTime: 2020-11-18T23:38:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-int/wisconsin-to-hold-partial-vote-recount-as-fuming-trump-denies-defeat-idUSKBN27V05A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0G6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0G6"
+  - title: "Trump, Pence to campaign in Georgia as Senate runoff turnout concerns grow among GOP"
+    excerpt: "Mike Pence and President Donald Trump's rallies for Georgia's senators will be against a backdrop of growing concerns about GOP turnout in the Senate runoff election."
+    publishedDateTime: 2020-12-04T10:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
+      name: ABC
+      domain: abcnews.go.com
+    quality: 143
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541639787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH155"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/pence-loeffler-perdue-gty-jc-201203_1607035893960_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Fuming over election defeat, Trump seeks partial recount in Wisconsin"
-    excerpt: "President Donald Trump's re-election campaign said on Wednesday it was seeking a partial recount of Wisconsin's presidential election results, as part of its long-shot attempt to reverse President-elect Joe Biden's victory."
-    publishedDateTime: 2020-11-18T22:58:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27Y0GY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0GY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0GY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541647819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH19T"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Arizona, Wisconsin certify election; Trump may challenge results"
-    excerpt: "President Donald Trump has challenged results in several states but faced setbacks in many of those legal battles."
-    publishedDateTime: 2020-12-01T07:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6462445002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6462445002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/a4f30290-dae6-438d-bac6-9a31bad382f3-AFP_AFP_8UN26Z.jpg?auto=webp&crop=1023,575,x0,y77&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Trump files lawsuit challenging Wisconsin election results"
-    excerpt: "President Donald Trump has filed a lawsuit in Wisconsin seeking to disqualify more than 221,000 ballots in a longshot attempt to overturn Democrat Joe Biden’s win in the battleground state he lost by nearly 20,"
-    publishedDateTime: 2020-12-03T03:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-files-lawsuit-challenging-wisconsin-election-results-74482066"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-files-lawsuit-challenging-wisconsin-election-results-74482066"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-files-lawsuit-challenging-wisconsin-election-results-74482066"
+  - title: "Georgia elections official urges Trump to rein in supporters"
+    excerpt: "A top Georgia elections official has lashed out angrily at the rhetoric surrounding the election and the threats of violence that have resulted"
+    publishedDateTime: 2020-12-02T05:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ecb141ae0fee4d9cb0135cedf36c24f9_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6e0a5a420e1b4c56b67c628a7422ff94_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Wisconsin high court declines to hear Trump election lawsuit"
-    excerpt: "A divided Wisconsin Supreme Court has refused to hear President Donald Trump’s attempt to overturn his election loss to Democrat Joe Biden in the battleground state"
-    publishedDateTime: 2020-12-04T02:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/wisconsin-high-court-declines-to-hear-trump-election-lawsuit/2020/12/03/ff896c72-35d4-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-high-court-declines-to-hear-trump-election-lawsuit/2020/12/03/ff896c72-35d4-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-high-court-declines-to-hear-trump-election-lawsuit/2020/12/03/ff896c72-35d4-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+  - title: "Trump loves to win but keeps losing election lawsuits"
+    excerpt: "In his quest to cling to power, President Donald Trump has managed to lose not just once to Democrat Joe Biden but over and over again in courts across the country"
+    publishedDateTime: 2020-12-04T10:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_228055904c5f4d6a9937890e1fc77162_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Wisconsin Supreme Court rejects Trump's election lawsuit"
-    excerpt: "The action comes two days after Trump asked the justices to revoke the certification of a contest he lost by nearly 21,000 votes."
-    publishedDateTime: 2020-12-03T18:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/03/wisconsin-supreme-court-rejects-president-trumps-election-lawsuit/3811754001/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/3811754001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3811754001"
+  - title: "Donor to pro-Trump group sues to get his money back after dropped election lawsuits"
+    excerpt: "Fred Eshelman, who gave $2.5 million to the group True the Vote to back President Trump's challenges to the election, is suing for his money back."
+    publishedDateTime: 2020-11-27T22:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/fred-eshelman-sues-pro-trump-true-vote-election-lawsuits/6440272002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6440272002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6440272002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 140
+    quality: 134
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/27/PMJS/f9ab9df3-3150-4d37-97fc-d3f88f643340-trump_10.jpg?auto=webp&crop=4876,2743,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump sues Wisconsin governor, officials to try to reverse election results"
-    excerpt: "President Donald Trump sued Wisconsin officials Tuesday in a last-ditch effort to reclaim a state he lost by about 20,700 votes."
-    publishedDateTime: 2020-12-01T16:47:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/01/donald-trump-sues-try-reverse-bidens-election-win-wisconsin/6477315002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6477315002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6477315002"
+  - title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
+    excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
+    publishedDateTime: 2020-12-04T06:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E012"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E012"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 130
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543403980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB300L"
+        width: 815
+        height: 545
+        isCached: true
+  - title: "Vice President Pence remains silent on election outcome while campaigning for Georgia runoff"
+    excerpt: "Pence will rally Republicans to vote for Georgia Sens. David Perdue and Kelly Loeffler in the Jan. 5 election."
+    publishedDateTime: 2020-12-04T10:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/04/vice-president-pence-remains-silent-presidential-election/3795957001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3795957001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3795957001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 138
+    quality: 129
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/PMJS/a22167b5-40a6-449c-b7d2-471b660b7260-MJS-recount_dirr_1.jpg?auto=webp&crop=1919,1079,x1,y197&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/03/PMCA/2d1fb1e6-935c-491b-af2f-64a1ce3f520a-EDIT_W_29002.jpg?auto=webp&crop=2355,1325,x0,y464&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump sues in federal court to put Wisconsin lawmakers in charge of election outcome"
-    excerpt: "President Donald Trump and his allies are bombarding state and federal judges across the country with lawsuits seeking to change the outcome of the presidential election — the latest in a Wisconsin federal court."
-    publishedDateTime: 2020-12-03T18:51:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/03/trump-files-federal-court-challenge-wisconsin-election-outcome/3807794001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3807794001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3807794001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 133
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/099247f3-4412-4f6c-a3f6-0a7a0157d337-TRUMP_KENOSHA_0350.JPG?auto=webp&crop=3899,2194,x0,y139&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Wisconsin Supreme Court denies Trump campaign's attempt to bypass lower court in election challenge"
-    excerpt: "The Trump campaign argued that the state's high court should hear its case directly because presidential electors will soon be casting their votes."
-    publishedDateTime: 2020-12-04T12:44:00Z
-    webUrl: "https://www.cbsnews.com/news/wisconsin-election-supreme-court-denies-trump-campaigns-attempt-to-bypass-lower-court/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/wisconsin-election-supreme-court-denies-trump-campaigns-attempt-to-bypass-lower-court/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/wisconsin-election-supreme-court-denies-trump-campaigns-attempt-to-bypass-lower-court/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 126
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/18/3cd1626f-b991-4594-b14d-1b4021d69ac4/thumbnail/1200x630/fbe26932714625cbed35d0311b8d9f0c/gettyimages-1229523100.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "‘We need you’: GOP hunts for new voters in Trump territory"
-    excerpt: "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time"
-    publishedDateTime: 2020-10-28T04:47:00Z
-    webUrl: "https://www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "As virus surges, Trump rallies keep packing in thousands"
-    excerpt: "Donald Trump’s campaign rallies are among the nation’s biggest events held in defiance of coronavirus-related crowd restrictions"
-    publishedDateTime: 2020-10-30T01:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/as-virus-surges-trump-rallies-keep-packing-in-thousands/2020/10/29/bb4b6ff2-1a44-11eb-8bda-814ca56e138b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/as-virus-surges-trump-rallies-keep-packing-in-thousands/2020/10/29/bb4b6ff2-1a44-11eb-8bda-814ca56e138b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/as-virus-surges-trump-rallies-keep-packing-in-thousands/2020/10/29/bb4b6ff2-1a44-11eb-8bda-814ca56e138b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Donald Trump has won Missouri"
-    excerpt: "The state has 10 electoral votes and was not expected to be competitive. It has voted for a Republican president in nine of the last 12 elections."
-    publishedDateTime: 2020-11-05T02:33:00Z
-    webUrl: "https://www.businessinsider.com/missouri-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/missouri-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/missouri-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa2ab8369331a0011bc7341?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump faces approaching deadline for recount in Wisconsin"
-    excerpt: "The final Wisconsin county has submitted its canvassed vote totals to the state elections commission, starting the clock for President Donald Trump to file for a recount as he has promised supporters"
-    publishedDateTime: 2020-11-17T18:09:00Z
-    webUrl: "https://www.washingtonpost.com/national/trump-faces-approaching-deadline-for-recount-in-wisconsin/2020/11/17/0079abc4-2900-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/trump-faces-approaching-deadline-for-recount-in-wisconsin/2020/11/17/0079abc4-2900-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-approaching-deadline-for-recount-in-wisconsin/2020/11/17/0079abc4-2900-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump campaign seeks a partial recount in Wisconsin"
-    excerpt: "U.S. President Donald Trump's re-election campaign will seek a partial recount of Wisconsin's election results for the Nov. 3 presidential contest, the campaign said on Wednesday."
-    publishedDateTime: 2020-11-18T16:53:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-wisconsin-idUKKBN27Y2CR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y2CR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y2CR"
+  - title: "Trump campaign files lawsuit over Georgia county ballot sorting"
+    excerpt: "U.S. President Donald Trump's reelection campaign on Wednesday said it had filed a lawsuit in Georgia to require that Chatham County separate and secure late-arriving ballots to ensure they are not counted."
+    publishedDateTime: 2020-11-05T03:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN27L077"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L077"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L077"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541656188&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1DH"
-        width: 816
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540058520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA4045"
+        width: 641
         height: 545
         isCached: true
-  - title: "Wisconsin issues recount order sought by Trump in 2 counties"
-    excerpt: "The Wisconsin Elections Commission has ordered a recount of more than 800,000 ballots cast in two heavily Democratic counties"
-    publishedDateTime: 2020-11-19T16:19:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/approval-wisconsin-recount-marked-partisan-fight-74290317"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/approval-wisconsin-recount-marked-partisan-fight-74290317"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/approval-wisconsin-recount-marked-partisan-fight-74290317"
+  - title: "Options dwindling, Trump faces likely setback in Georgia recount"
+    excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over President Donald Trump after a painstaking recount, which would deal another setback to Trump's efforts to cling on to power."
+    publishedDateTime: 2020-11-19T15:30:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27Z0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z0GI"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_5546612ea42249c3ae8e8da615383e4f_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541789947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1GH"
+        width: 812
+        height: 545
         isCached: true
-  - title: "In Wisconsin recount, Trump challenges pile up and slow tally"
-    excerpt: "A large contingent of observers supporting President Trump are making their presence felt in Wisconsin's partial election recount."
-    publishedDateTime: 2020-11-22T22:15:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-11-22/wisconsin-recount-trump-challenges-slow-tally"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-22/wisconsin-recount-trump-challenges-slow-tally?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-22/wisconsin-recount-trump-challenges-slow-tally?_amp=true"
+  - title: "Options dwindling, Trump faces likely setback in Georgia recount"
+    excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over Donald Trump after a painstaking recount, which would deal yet another setback to the president's attempts to cling to power."
+    publishedDateTime: 2020-11-19T18:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27Z0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27Z0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27Z0GI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541789947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1GH"
+        width: 812
+        height: 545
+        isCached: true
+  - title: "Trump team requests official recount of Georgia presidential vote"
+    excerpt: "President Trump's legal team says his campaign has requested an official recount of votes in the Georgia presidential race using safeguards including signature matching."
+    publishedDateTime: 2020-11-22T04:34:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/97f8e63/2147483647/strip/true/crop/3639x2377+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F30%2F81aab5264727991f7a823d391e72%2Fbiden-65717.jpg"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f587f3c/2147483647/strip/true/crop/3975x2596+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb9%2Fee%2F767d85ba4bf48dbe023f78da0899%2Fa32de59bb9f3444596f970c6e31b3e80"
         width: 320
         height: 209
         isCached: true
-  - title: "Trump wants to throw out ballots from 238,000 Wisconsin voters"
-    excerpt: "The affected voters face losing their voice in the election after following state guidance that was promoted widely, including by the president."
-    publishedDateTime: 2020-11-28T04:39:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/trump-wants-throw-out-ballots-238-000-wisconsin-voters/6437897002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6437897002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6437897002"
+  - title: "Angry Trump promises rally in battleground state of Georgia"
+    excerpt: "President Donald Trump on Thursday renewed baseless claims that “massive fraud” and crooked local officials in battleground states led to his election defeat, and said he’ll go to Georgia for a rally"
+    publishedDateTime: 2020-11-26T23:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PMJS/76378a31-ccf9-4b45-bd15-719180b883c5-MJS_Early_voting_nws_sears_1-1.jpg?auto=webp&crop=3378,1901,x0,y500&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump campaign would have to pay nearly $8 million for Wisconsin recount"
-    excerpt: "President Donald Trump's campaign would have to pay nearly $8 million to start a recount in Wisconsin, a state he narrowly lost two weeks ago."
-    publishedDateTime: 2020-11-17T11:57:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-trump-campaign-would-pay-8-m-wisconsin-recount/6322184002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6322184002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6322184002"
+  - title: "Trump officials move to relax rules on killing birds"
+    excerpt: "The Trump administration published an environmental analysis Friday finding that its proposal not to hold companies responsible for killing birds “incidentally” would not cause undue harm, clearly the way for it to finalize the rollback before the president’s term ends on Jan."
+    publishedDateTime: 2020-11-27T15:51:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 124
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/07/PMJS/563b8b6b-13ba-4d95-bca6-41993bb833e6-trump_biden_mupoll.jpg?auto=webp&crop=659,371,x0,y3&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOKXIAFSLII6TLGIDWCHXLGKOM.jpg&w=1440"
+        width: 1440
+        height: 972
         isCached: true
-  - title: "Jewish cemetery in Michigan vandalized with 'Trump,' 'MAGA' before Trump's rally"
-    excerpt: "Tombstones at the Ahavas Israel Cemetery in Grand Rapids were vandalized with \"Trump\" and \"MAGA\" before Trump arrived for his final campaign rally."
-    publishedDateTime: 2020-11-03T14:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/03/michigan-jewish-cemetery-desecrated-maga-before-trumps-rally/6135923002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6135923002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6135923002"
+  - title: "U.S. appeals court rejects Trump appeal over Pennsylvania race"
+    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results, in a case expected to reach the U.S. Supreme Court if Trump appeals."
+    publishedDateTime: 2020-11-28T02:10:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?_amp=true"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/e0eba4a9-c740-46cd-b451-c5a5115af8ab-AFP_AFP_8UF6ZT.jpg?auto=webp&crop=3999,2250,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/025f283/2147483647/strip/true/crop/2250x1470+0+148/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2Fd7%2Ff2a2f876a9c5e89d656995c7e5e7%2Fd8e652343354489388066c03aeb545e3"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Trump 'not thinking' of election night speech yet"
-    excerpt: "Politics Trump 'not thinking' of election night speech yet. Posted . President Donald Trump visited the Republican National Committee campaign headquarters in Arlington, Virginia,"
-    publishedDateTime: 2020-11-03T20:01:00Z
-    webUrl: "https://www.reuters.com/video/watch/trump-not-thinking-of-election-night-spe-idOVD30RPB3?chan=6g5ka85"
+  - title: "Ex-Trump campaign aide sues over Russia probe surveillance"
+    excerpt: "A former Trump campaign associate who was the target of a secret surveillance warrant during the FBI’s Russia investigation says in a federal lawsuit that he was the victim of “unlawful spying.”"
+    publishedDateTime: 2020-11-28T22:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4db4577615d342bf863d6a1b5ccf9ede_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump 'ashamed' to have endorsed Republican Georgia governor"
+    excerpt: "President Donald Trump said Sunday he was “ashamed” for endorsing the Republican governor of Georgia after he lost in the state to Democrat Joe Biden"
+    publishedDateTime: 2020-11-29T21:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9517c546180741c3a92a1a18459fb0a1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump says he is ashamed that he supported Georgia Gov. Brian Kemp"
+    excerpt: "The president, still smarting from President-elect Joe Biden winning Georgia in the November election, lashed out at the state's top Republican."
+    publishedDateTime: 2020-11-29T20:05:00Z
+    webUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa9e8791df1d50018219bfe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Scott Atlas resigns as special adviser to Trump on coronavirus"
+    excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump, a White House official said on Monday, after a controversial four months during which he clashed repeatedly with other members of the coronavirus task force."
+    publishedDateTime: 2020-12-01T01:43:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-atlas-idUSKBN28B3AS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30RPB3&r=OVD30RPB3&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Trump files election lawsuit in Wisconsin"
-    excerpt: "Watch \"President Trump files election lawsuit in Wisconsin aiming to override election results & appoint GOP electors\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-03T12:42:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201203121233-president-trump-files-election-lawsuit-in-wisconsin-aiming-to-override-election-results-appoint-gop-electors/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/03/story_07958130_1606998903.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pollster Frank Luntz: If Trump defies polls again in 2020, 'my profession is done'"
-    excerpt: "Pollster Frank Luntz told Fox News on Thursday night that poll predictions are wrong about the 2020 election between President Trump and former Vice President Joe Biden, his \"profession is done\" in terms of faith and confidence from the public."
-    publishedDateTime: 2020-10-23T13:03:00Z
-    webUrl: "https://thehill.com/homenews/media/522405-pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done"
-    ampWebUrl: "https://thehill.com/homenews/media/522405-pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/522405-pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 119
-    images:
-      - url: "https://thehill.com/sites/default/files/luntzfrank_getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Wisconsin recount would cost Trump campaign about $7.9 million, state officials say"
-    excerpt: "The Wisconsin Elections Commission said on Monday that a statewide vote recount would cost an estimated $7.9 million, money that President Donald Trump's campaign would have to pay in advance should it request one."
-    publishedDateTime: 2020-11-16T22:23:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN27W2W7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2W7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2W7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541418792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1MH"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542984625&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01U3"
         width: 817
         height: 545
         isCached: true
-  - title: "The Trump campaign has requested a recount in Wisconsin. Here's how that would happen."
-    excerpt: "Because the state's counties have not certified their vote totals, Mr. Trump cannot yet ask for a recount. But if Mr. Trump does eventually request one, here's how it would work: When the polls close on Election Day and all the ballots have been fed into the voting equipment,"
-    publishedDateTime: 2020-11-05T12:43:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-campaign-demands-recount-wisconsin-2020-election/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-campaign-demands-recount-wisconsin-2020-election/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-campaign-demands-recount-wisconsin-2020-election/"
+  - title: "What the Trump family’s new political committees can and can’t do"
+    excerpt: "The president isn’t the only Trump who appears to be exploring the boundaries of campaign fundraising. Aides to his son Donald Trump Jr. have formed a political action committee called Save the U.S. Senate PAC that is focused on the run-off elections in Georgia in early January."
+    publishedDateTime: 2020-12-01T12:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/what-trump-familys-new-political-committees-can-cant-do/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/what-trump-familys-new-political-committees-can-cant-do/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/what-trump-familys-new-political-committees-can-cant-do/?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 117
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/04/2df5e294-3953-4ef1-9e9f-c5d519209e98/thumbnail/1200x630/03f5e944c70ea45f2456f5707d12bb6b/2020-11-04t011804z-395237983-rc21wj9tgplu-rtrmadp-3-usa-election.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I46LDCBMAYI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 959
         isCached: true
-  - title: "Florida judge leading a vote-counting board donated to Trump 12 times, breaking judicial rules"
-    excerpt: "The Florida judge leading Duval County’s vote-counting board has donated repeatedly to President Trump’s re-election campaign."
-    publishedDateTime: 2020-10-29T14:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/29/judge-brent-shore-florida-duval-county-vote-counting-head-trump-donations/6068234002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6068234002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6068234002"
+  - title: "The Trump-fueled peril for the GOP in Georgia"
+    excerpt: "Republicans fear his conspiracy-mongering about a rigged election will depress turnout among their base in the January runoffs for control of the Senate."
+    publishedDateTime: 2020-12-02T12:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/trump-inspired-danger-gop-georgia/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/trump-inspired-danger-gop-georgia/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/trump-inspired-danger-gop-georgia/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NFTU/7cb2302c-7824-4bb4-8511-52dba15d3133-IMG_7191.jpg?auto=webp&crop=4031,2267,x1,y90&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3ASO6NBQAMI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump's EPA rewrote the rules on air, water energy. Now voters face a choice on climate change issues"
-    excerpt: "Election Day will be a decision between deregulation or re-regulation. A look at Trump's rollbacks and their long term effects nationwide."
-    publishedDateTime: 2020-10-29T07:14:00Z
-    webUrl: "https://www.usatoday.com/in-depth/news/investigations/2020/10/29/climate-change-escalates-voters-face-choice-deregulate-re-regulate/3668667001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3668667001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3668667001"
+  - title: "Trump headed to Georgia as runoff boost, but also a threat"
+    excerpt: "Some Republicans are sounding alarms that President Donald Trump’s conspiratorial denials of his own election defeat could threaten the party’s ability to win a Senate majority"
+    publishedDateTime: 2020-12-02T01:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump raises $170 million as he looks to future"
+    excerpt: "President Donald Trump has raised roughly $170 million since his Election Day defeat, a sum garnered through a nonstop stream of solicitations that have falsely claimed the election was stolen while requesting contributions for an “election defense fund."
+    publishedDateTime: 2020-12-01T23:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-170-million-future-74484442"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-raises-170-million-future-74484442"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-raises-170-million-future-74484442"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c8bb9f93c441453bba9524f96f509a06_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump threatens defense veto over social media protections"
+    excerpt: "President Donald Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users"
+    publishedDateTime: 2020-12-02T04:01:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/trump-threatens-defense-veto-over-social-media-protections/2020/12/01/112f3746-3453-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/trump-threatens-defense-veto-over-social-media-protections/2020/12/01/112f3746-3453-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/trump-threatens-defense-veto-over-social-media-protections/2020/12/01/112f3746-3453-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "In video, Trump recycles unsubstantiated voter fraud claims"
+    excerpt: "President Donald Trump has delivered a 46-minute diatribe against the election results that produced a win for Democrat Joe Biden, unspooling one misstatement after another to back his baseless claim"
+    publishedDateTime: 2020-12-03T00:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump silent as UK is first to authorizes vaccine"
+    excerpt: "Despite his repeated efforts to take credit for the record pace at which scientists have developed a vaccine for the novel coronavirus, President Donald Trump was uncharacteristically silent Wednesday after the United Kingdom became the first nation to authorize a COVID-19 vaccine."
+    publishedDateTime: 2020-12-02T22:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/GMA/201202_gma_rulli1_0702_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Here are 3 retired generals who embraced bizarre Trump conspiracies"
+    excerpt: "These highly decorated military generals promoted baseless claims from the conspiracy theory movement."
+    publishedDateTime: 2020-12-03T22:47:00Z
+    webUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f739ab60ab50d00184ad213?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump aide banned from Justice after trying to get case info"
+    excerpt: "The official serving as President Donald Trump’s eyes and ears at the Justice Department has been banned from the building after trying to pressure staffers to give up sensitive case information she c"
+    publishedDateTime: 2020-12-04T02:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-aide-banned-justice-case-info-74523331"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-aide-banned-justice-case-info-74523331"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-aide-banned-justice-case-info-74523331"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_985e843cc7b644d4af8e84280fa14e0a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The many Trump contradictions that could hurt the GOP in Georgia"
+    excerpt: "And Trump could bring those contradictions straight to Georgia. He’ll be there Saturday for a campaign rally that could hurt as much as help Georgia Republicans in January elections for two Georgia Senate seats that will decide which party controls the Senate."
+    publishedDateTime: 2020-12-04T16:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/many-trump-contradictions-that-could-hurt-gop-georgia/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/many-trump-contradictions-that-could-hurt-gop-georgia/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/many-trump-contradictions-that-could-hurt-gop-georgia/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5ULF34BMLAI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump's false fraud claims could threaten GOP hopes in Georgia Senate races"
+    excerpt: "The president has pledged to devote \"125%\" of his energy to the election he lost, despite the raging coronavirus pandemic."
+    publishedDateTime: 2020-12-04T00:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-false-fraud-claims-threaten-gop-hopes-georgia/story?id=74519757"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-false-fraud-claims-threaten-gop-hopes-georgia/story?id=74519757"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-false-fraud-claims-threaten-gop-hopes-georgia/story?id=74519757"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-oval-office-rt-jt-201203_1607030794685_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Supreme Court hears Trump bid to bar illegal immigrants from U.S. census count"
+    excerpt: "U.S. Supreme Court justices on Monday began hearing arguments on President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states,"
+    publishedDateTime: 2020-11-30T15:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Swing state counties that used Dominion voting machines mostly voted for Trump"
+    excerpt: "Voting machines provided to counties by Dominion Voting Systems allowed a national conspiracy involving both Democrats and Republicans to flip votes cast for President Trump to ones for President-elect Joe Biden."
+    publishedDateTime: 2020-12-01T20:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/swing-state-counties-that-used-dominion-voting-machines-mostly-voted-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/swing-state-counties-that-used-dominion-voting-machines-mostly-voted-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/swing-state-counties-that-used-dominion-voting-machines-mostly-voted-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZADBZ3BOTEI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Georgia elections chief battles fellow Republicans, Trump"
+    excerpt: "Georgia's secretary of state is a man on an island, and the political flood is rising fast, as President Donald Trump and his allies vent their outrage at the fellow Republican and make unsupported claims that mismanagement and fraud tainted the state's presidential election."
+    publishedDateTime: 2020-11-17T16:56:00Z
+    webUrl: "https://www.businessinsider.com/georgia-elections-chief-battles-fellow-republicans-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/georgia-elections-chief-battles-fellow-republicans-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-elections-chief-battles-fellow-republicans-trump-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "U.S. Supreme Court weighs Trump bid to bar illegal immigrants from census totals"
+    excerpt: "The Supreme Court on Monday is set to take up President Donald Trump's unprecedented and contentious effort to exclude illegal immigrants from the population totals used to allocate U.S. House of Representatives districts to states."
+    publishedDateTime: 2020-11-29T12:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN2890F4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890F4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890F4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542800006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS09M"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump loyalist Loeffler's attacks on pastor Warnock risk suburban votes in Georgia's U.S. Senate race"
+    excerpt: "Beau Davis, a 33-year-old security specialist from the Atlanta suburbs, is the kind of voter Republican Senators Kelly Loeffler and David Perdue may need to win runoff elections next month that will determine the balance of power in Washington."
+    publishedDateTime: 2020-12-04T12:12:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-senate-idINKBN28E1MI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28E1MI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28E1MI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 110
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/NCOD/292b255e-c6f8-4fde-80dd-72114e11db3c-04_Environment_Election_CLH.jpg?auto=webp&crop=1999,1125,x0,y101&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543447796&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30NU"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Impact of Wisconsin flipping for Biden"
-    excerpt: "Watch \"Impact of Wisconsin flipping for Biden\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-04T21:47:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201104213024-impact-of-wisconsin-flipping-for-biden/"
+  - title: "Republicans are abandoning Trump over his threat to hold defense bill hostage to get back at tech companies"
+    excerpt: "Lawmakers take pride in passing the annual defense spending bill, and they're not happy about Trump interfering with that."
+    publishedDateTime: 2020-12-03T15:46:00Z
+    webUrl: "https://www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/04/story_07548748_1604525947.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/5fc8fcfe50e71a0011558a89?width=1200&format=jpeg"
+        width: 799
+        height: 399
         isCached: true
-  - title: "Trump calls on a partial recount in Wisconsin..."
-    excerpt: "Watch \"Trump campaign calls on a partial recount in Wisconsin\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-19T12:22:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201119011406-trump-campaign-calls-on-a-partial-recount-in-wisconsin/"
+  - title: "Trump moves to strip job protections from White House budget analysts as he races to transform civil service"
+    excerpt: "The outgoing Trump administration is racing to enact the biggest change to the federal civil service in generations, reclassifying career employees at key agencies to strip their job protections and leave them open to being fired before Joe Biden takes office."
+    publishedDateTime: 2020-11-28T00:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-moves-to-strip-job-protections-from-white-house-budget-analysts-as-he-races-to-transform-civil-service/2020/11/27/d04f6eba-2e69-11eb-96c2-aac3f162215d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-moves-to-strip-job-protections-from-white-house-budget-analysts-as-he-races-to-transform-civil-service/2020/11/27/d04f6eba-2e69-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-moves-to-strip-job-protections-from-white-house-budget-analysts-as-he-races-to-transform-civil-service/2020/11/27/d04f6eba-2e69-11eb-96c2-aac3f162215d_story.html?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/19/story_07754922_1605748469.jpg"
-        width: 480
-        height: 270
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVPRJABRAYI6XBQN66MZLGOLYI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump pays $3 million for partial Wisconsin vote recount"
-    excerpt: "President Donald Trump has paid $3 million for a partial recount in Wisconsin but has yet to file a petition indicating which counties it is targeting, the Wisconsin Elections Commission said Wednesday."
-    publishedDateTime: 2020-11-18T21:42:00Z
-    webUrl: "https://www.businessinsider.com/trump-pays-3-million-for-partial-wisconsin-vote-recount-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-pays-3-million-for-partial-wisconsin-vote-recount-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pays-3-million-for-partial-wisconsin-vote-recount-2020-11?amp"
+  - title: "Rudy Giuliani talked to Trump about getting a preemptive pardon before the president leaves office, report says"
+    excerpt: "Giuliani is the focus of a federal criminal investigation into whether he violated foreign lobbying laws through his dealings in Ukraine."
+    publishedDateTime: 2020-12-01T15:49:00Z
+    webUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Trump campaign requests recount in two Wisconsin counties"
-    excerpt: "The Trump campaign is requesting a recount in two heavily Democratic counties in Wisconsin as the president continues to push unfounded claims of voter fraud. This comes after he fired his top election security official,"
-    publishedDateTime: 2020-11-20T12:03:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-campaign-requests-recount-in-two-wisconsin-counties/"
+    images:
+      - url: "https://i.insider.com/5fb7b84b32f2170011f7040d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "FDA chief called to White House as Trump pushes for vaccine"
+    excerpt: "The head of the agency responsible for approving any COVID-19 vaccine for the U.S. was summoned to the White House Tuesday as an increasingly frustrated President Donald Trump complained approval wasn't coming faster."
+    publishedDateTime: 2020-12-02T01:57:00Z
+    webUrl: "https://www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Fox News Is Holding More Cards Than Trump Realizes"
+    excerpt: "Even if there’s a MAGA exodus from Fox, the cable network’s profits are protected by lucrative cable contracts."
+    publishedDateTime: 2020-12-02T13:19:00Z
+    webUrl: "https://www.washingtonpost.com/business/fox-news-is-holding-more-cards-than-trump-realizes/2020/12/02/67323ba2-349e-11eb-9699-00d311f13d2d_story.html?amp;amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MWONXCRUTYI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump heading to Georgia ahead of Senate runoffs"
+    excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
+    publishedDateTime: 2020-12-02T02:26:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-georgia-saturday-ahead-of-senate-runoffs/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/18/29ddbb3e-bed5-42cc-90db-f334a7c93063/thumbnail/1200x630/ae2f84fe0229ec71fce33431de8556c5/cbsn-fusion-trump-campaign-requests-recount-in-two-wisconsin-counties-thumbnail-590566-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/01/4529d887-b72c-4c1c-bb29-b00f91f286ba/thumbnail/1200x630/20642c43ecc51cd897574a2b1d49ca9f/cbsn-fusion-trump-georgia-saturday-ahead-of-senate-runoffs-thumbnail-599055-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "In Wisconsin recount, Trump challenges pile up, slow tally"
-    excerpt: "Wisconsin recount observer Ardis Cerny stretched her neck as far as she could toward a Plexiglas divider separating her from two vote counters, eagle-eyeing them as they scrutinized ballot papers one by one."
-    publishedDateTime: 2020-11-22T23:32:00Z
-    webUrl: "https://www.businessinsider.com/in-wisconsin-recount-trump-challenges-pile-up-slow-tally-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/in-wisconsin-recount-trump-challenges-pile-up-slow-tally-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-wisconsin-recount-trump-challenges-pile-up-slow-tally-2020-11?amp"
+  - title: "U.S. Senate panel votes to approve Trump FCC nominee"
+    excerpt: "The U.S. Senate Commerce Committee voted on Wednesday to approve the nomination of a senior Trump administration official involved in an effort to seek new social media regulations to a seat on the Federal Communications Commission."
+    publishedDateTime: 2020-12-02T15:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-tech-idUSL1N2II1LY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2II1LY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1LY"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
-  - title: "Former Wisconsin Governor Scott Walker on Trump campaign's calls for a recount"
-    excerpt: "Former Wisconsin Governor Scott Walker joined \"CBS This Morning\" to discuss the Trump campaign's calls for a recount of the votes in the state."
-    publishedDateTime: 2020-11-05T14:10:00Z
-    webUrl: "https://www.cbsnews.com/video/former-wisconsin-governor-scott-walker-on-trump-campaigns-calls-for-a-recount/"
+  - title: "Fox News Is Holding More Cards Than Trump Realizes"
+    excerpt: "Even if there’s a MAGA exodus from Fox, the cable network’s profits are protected by lucrative cable contracts."
+    publishedDateTime: 2020-12-02T18:27:00Z
+    webUrl: "https://www.washingtonpost.com/business/fox-news-is-holding-more-cards-than-trump-realizes/2020/12/02/67323ba2-349e-11eb-9699-00d311f13d2d_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MWONXCRUTYI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump rehashes unsubstantiated voter fraud charges"
+    excerpt: "In a video released Wednesday, President Donald Trump delivered a 46-minute diatribe against the election that produced a win for Democrat Joe Biden, unspooling one misstatement after another to back his baseless claim that he really won."
+    publishedDateTime: 2020-12-03T00:55:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/trump-rehashes-unsubstantiated-voter-fraud-charges/3803536001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5e369c17-2563-4818-b065-d33127d7a479_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Why Donald Trump keeps outperforming the polls"
+    excerpt: "President Trump lost the election, but did better than most experts were predicting. How does this keep happening? This video has been optimised for mobile viewing on the BBC News app. The BBC News app is available from the Apple App Store for iPhone and Google Play Store for Android."
+    publishedDateTime: 2020-12-03T08:58:00Z
+    webUrl: "https://www.bbc.com/news/av/election-us-2020-55168642"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Georgia Senate Runoffs Lure Possible 2024 GOP Hopefuls, Including Trump"
+    excerpt: "The president is set to campaign in Georgia this weekend as he weighs another run in four years. That could upend the ambitions of several other Republicans visiting the state recently."
+    publishedDateTime: 2020-12-04T09:01:00Z
+    webUrl: "https://www.npr.org/2020/12/04/942053653/georgia-senate-runoffs-lure-possible-2024-gop-hopefuls-including-trump"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/03/ap_20307090660462_wide-103ecc72e5af7c1f6c6716c222801344b3b18ce3.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Trump refuses to fade away"
+    excerpt: "In terms of law or conventional politics, Trump's post-election gambits make little sense. But judging them that way misses the point."
+    publishedDateTime: 2020-12-04T16:04:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2020-12-04/trump-refuses-to-fade-away-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 105
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/df03110/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2Fe1%2Fd62ca55b476e916665f439fbff41%2Ftrump-26539.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump roils Georgia GOP as party waits to see if presidential visit helps — or hurts — in crucial Senate runoffs"
+    excerpt: "The president’s baseless claims of fraud in the November elections have sparked a Republican civil war in the state, where voters will return to the polls on Jan. 5 in a pair of races that will determine control of the U."
+    publishedDateTime: 2020-12-03T12:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMJXFWBVEAI6XKMXD5GFHUVHI4.jpg&w=1440"
+        width: 1440
+        height: 864
+        isCached: true
+  - title: "Georgia official calls on Trump to condemn threats against election workers: \"Someone's gonna get killed\""
+    excerpt: "One of Georgia's top election officials rebuked President Trump for his rhetoric Tuesday after a local elections worker received a death threat. Gabriel Sterling, a Republican, called on the president and Senators Kelly Loeffler and David Perdue to condemn the threats and warned,"
+    publishedDateTime: 2020-12-02T00:04:00Z
+    webUrl: "https://www.cbsnews.com/video/georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/02/a37be1a1-f213-4eb5-ad96-05cdec06771a/thumbnail/1200x630/2a24d977528492a0bf4cd19a003a0124/cbsn-fusion-georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed-thumbnail-599327-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Trump's unverified voter fraud claims are impacting Georgia's Senate runoff"
+    excerpt: "Senate runoff in Georgia could determine which party controls the Senate in the Biden administration. As President Trump continues to launch baseless claims against the integrity of the 2020 election,"
+    publishedDateTime: 2020-11-29T09:33:00Z
+    webUrl: "https://www.cbsnews.com/video/how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 101
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/05/e55ea2cc-53b1-4947-b90a-e4ec6d86aa50/thumbnail/1200x630/3ac169127219e7a3bf871c8b9b7c514c/cbsn-fusion-former-wisconsin-governor-scott-walker-on-trump-campaigns-calls-for-a-recount-thumbnail-581439-640x360.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/fd2cd95e-564f-447c-adb8-9b69b714dec7/thumbnail/1200x630/b7ca1f84f36f2bcfe83b5a597d6062bb/cbsn-fusion-how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff-thumbnail-597494-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump campaign says more legal action coming, predicts victory as early as Friday"
-    excerpt: "President Donald Trump's campaign said on Thursday it expected to launch additional legal action in Pennsylvania and Nevada and predicted that the Republican incumbent would emerge victorious in the U."
-    publishedDateTime: 2020-11-05T16:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-star/trump-campaign-says-more-legal-action-coming-predicts-victory-as-early-as-friday-idUSKBN27L26X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L26X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L26X"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
-  - title: "What are the recount rules? We break them down and how they could help Donald Trump win Wisconsin, Arizona or Pennsylvania"
-    excerpt: "Wisconsin is one of several states that could be ripe for recounts as the country awaits final results in the presidential election."
-    publishedDateTime: 2020-11-05T01:56:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/how-recount-wisconsin-arizona-michigan-could-help-trump-win/6163544002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6163544002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6163544002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 99
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/30/USAT/22b34afe-9577-45c3-9d0b-6c34cfb6fbdf-Abril_first_time_voter.JPG?auto=webp&crop=2315,1303,x0,y617&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "United States cannot replace President Trump as defendant in columnist’s lawsuit related to rape allegation, federal judge rules"
-    excerpt: "A federal judge on Tuesday denied President Donald Trump’s request that the United States replace him as the defendant in a defamation lawsuit alleging he raped a woman."
-    publishedDateTime: 2020-10-28T02:43:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
+  - title: "Trump threatens to veto defense policy bill unless Congress repeals Section 230, a safeguard for social media companies"
+    excerpt: "President Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users."
+    publishedDateTime: 2020-12-02T16:48:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-defense-bill-section-230-veto-20201202-w27r6au4ybbv7pl6iaw27qqlcm-story.html"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 96
+    quality: 81
     images:
-      - url: "https://www.chicagotribune.com/resizer/9T6xM9WwzncJC1U9YusfCXeCFF0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSWZ6OW4UASM2Y33DIGJOP55QE.aspx"
+      - url: "https://www.chicagotribune.com/resizer/jpb7yUyEnSZw9GiaZNZjTGH2ujg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QEGKLYVSHAPI2YREJM6WIDPREA.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "Facebook Shuts Down Large Pro-Trump 'Stop the Steal' Group for Spreading Election Misinformation and Calling for Violence"
-    excerpt: "Trump group which had amassed over 364,000 members in less than 48 hours, for promoting election misinformation regarding ongoing vote counts. With protests over the ongoing tally of votes sweeping through a number of U."
-    publishedDateTime: 2020-11-05T22:24:00Z
-    webUrl: "https://time.com/5907902/stop-the-steal-facebook-group-trump-election/"
+  - title: "Mike Pence: The Calm To Trump's Storm"
+    excerpt: "Vice President Mike Pence is the calm to Donald Trump's storm, bringing a sedate demeanor and the religious, conservative ballast the men hope will spare them from losing the White House."
+    publishedDateTime: 2020-10-30T00:00:00Z
+    webUrl: "https://www.barrons.com/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
+    ampWebUrl: "https://www.barrons.com/amp/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 95
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/10/TIME_Reddit_Doom.gif?w&#x3D;600"
-        width: 1500
-        height: 966
-        isCached: true
-  - title: "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund"
-    excerpt: "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump."
-    publishedDateTime: 2020-10-29T21:58:00Z
-    webUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
+      name: Barron's
+      domain: barrons.com
+    quality: 70
+  - title: "Brian Howey: The prospects for Trump and Pence in 2024"
+    excerpt: "Whether it’s North Side Gym in Elkhart or the Southport Fieldhouse, or packing Evansville’s Ford Center with 11,000 supporters in September 2018, President Trump was at the spearhead of a"
+    publishedDateTime: 2020-11-28T01:41:00Z
+    webUrl: "https://www.kokomotribune.com/brian-howey-the-prospects-for-trump-and-pence-in-2024/article_a5df7dbe-30fd-11eb-83bb-d3f7ce95802a.html"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 90
+      name: Kokomo Tribune
+      domain: kokomotribune.com
+    quality: 70
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-screenshot2.jpg"
+      - url: "https://bloximages.chicago2.vip.townnews.com/kokomotribune.com/content/tncms/assets/v3/editorial/f/b3/fb318d50-1ac0-11eb-a03e-cf51658a5e07/5f9c2b30bd8d8.image.jpg?resize=800%2C550"
         width: 800
-        height: 430
+        height: 550
         isCached: true
-  - title: "How a mid-size construction firm used political influence, litigation, and media stunts — and secured $2 billion in Trump border wall contracts"
-    excerpt: "Fisher Sand & Gravel, led by CEO Tommy Fisher, made a sharp recovery after having its prototype personally rejected by President Trump in 2018."
-    publishedDateTime: 2020-10-26T09:59:00Z
-    webUrl: "https://www.businessinsider.com/how-fisher-sand-gravel-secured-2bn-trump-border-wall-contracts-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/how-fisher-sand-gravel-secured-2bn-trump-border-wall-contracts-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-fisher-sand-gravel-secured-2bn-trump-border-wall-contracts-2020-10?amp"
+  - title: "VP Mike Pence stopping in Georgia to visit CDC, drum up GOP support ahead of runoffs"
+    excerpt: "According to the White House, Pence is expected to visit the CDC in Atlanta before heading to Savannah for a campaign event."
+    publishedDateTime: 2020-12-01T04:36:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-georgia-visit-rally-loeffler-perdue-cdc-vaccine/85-37eb0d52-e80b-4cb4-95b8-8fb0001b24c1"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-rally-loeffler-perdue-cdc-vaccine/85-37eb0d52-e80b-4cb4-95b8-8fb0001b24c1"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-rally-loeffler-perdue-cdc-vaccine/85-37eb0d52-e80b-4cb4-95b8-8fb0001b24c1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: 11Alive
+      domain: 11alive.com
+    quality: 68
     images:
-      - url: "https://i.insider.com/5f969bc0f21803001222bdb5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://media.11alive.com/assets/WXIA/images/28012b86-f747-49cd-b64a-707338b90864/28012b86-f747-49cd-b64a-707338b90864_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "Hackers Stole $2.3M From Wisconsin GOP, How Does It Affect Trump's Reelection Bid?"
-    excerpt: "The Wisconsin Republican Party has announced that hackers have stolen $2.3 million from funds meant for Donald Trump’s reelection campaign. The hackers compromised Republican ve"
-    publishedDateTime: 2020-10-29T17:55:00Z
-    webUrl: "https://www.ibtimes.com/hackers-stole-23m-wisconsin-gop-how-does-it-affect-trumps-reelection-bid-3072626"
-    ampWebUrl: "https://www.ibtimes.com/hackers-stole-23m-wisconsin-gop-how-does-it-affect-trumps-reelection-bid-3072626?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hackers-stole-23m-wisconsin-gop-how-does-it-affect-trumps-reelection-bid-3072626?amp=1"
+  - title: "Appeals Court Rejects Trump Challenge of Pennsylvania Race"
+    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals."
+    publishedDateTime: 2020-11-28T02:18:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 84
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/us-president-donald-trump-claps-during-a-rally.jpg"
-        width: 1024
-        height: 708
-        isCached: true
-  - title: "Trump camp drops Nevada appeal in mail ballot counting case"
-    excerpt: "A legal effort in Nevada by the Donald Trump campaign and state Republicans to stop the count of mail ballots in Las Vegas is over. A document submitted in an appeal pending before the state Supreme Court says a settlement was reached requiring Clark County election officials to add “additional observation access” at a ballot processing facility in Las Vegas."
-    publishedDateTime: 2020-11-05T23:48:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Supreme Court Seems Skeptical of Trump's Census Plan"
+    excerpt: "The Supreme Court sounds skeptical that President Donald Trump could categorically exclude people living in the country illegally from the population count used to allot seats among the states in the House of Representatives."
+    publishedDateTime: 2020-11-30T17:23:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-30/supreme-court-seems-skeptical-of-trumps-census-plan"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-30/supreme-court-seems-skeptical-of-trumps-census-plan?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-30/supreme-court-seems-skeptical-of-trumps-census-plan?context=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Vice President Mike Pence shuns quarantine, rallies Trump crowd at Central Wisconsin Airport in Mosinee"
-    excerpt: "The vice president's visit comes while Wisconsin sees record high cases of COVID-19 and while members of his staff have been infected."
-    publishedDateTime: 2020-10-28T17:42:00Z
-    webUrl: "https://www.stevenspointjournal.com/story/news/2020/10/28/mike-pence-mosinee-central-wisconsin-airport-rally-trump-set/6054485002/"
-    ampWebUrl: "https://amp.stevenspointjournal.com/amp/6054485002"
-    cdnAmpWebUrl: "https://amp-stevenspointjournal-com.cdn.ampproject.org/c/s/amp.stevenspointjournal.com/amp/6054485002"
-    type: article
-    provider:
-      name: Stevens Point Journal
-      domain: stevenspointjournal.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/28/PWAU/639b99c2-6b8d-4fe7-8529-232863157d65-SPJ_Mike_Pence_Mosinee_rally_102820_354_ttm.jpg?auto=webp&crop=2260,1272,x0,y141&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Susan Collins still won't say if she's voting for Donald Trump with less than a week until election"
-    excerpt: "Trump trails Joe Biden by 13 points in a race that could determine whether Democrats flip control of the Senate"
-    publishedDateTime: 2020-10-29T20:07:00Z
-    webUrl: "https://www.salon.com/2020/10/29/susan-collins-still-wont-say-if-shes-voting-for-donald-trump-with-less-than-a-week-until-election/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 56
-    images:
-      - url: "https://media.salon.com/2020/06/trump-collins-0605201.jpg"
-        width: 846
-        height: 571
-        isCached: true
-  - title: "Vice President Pence Holds Rally in Mosinee, Wisconsin"
-    excerpt: "Vice President Pence delivered campaign remarks at a “Make America Great Again” rally in Florida’s state capital of… Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice ..."
-    publishedDateTime: 2020-10-30T09:25:00Z
-    webUrl: "https://www.c-span.org/event/?477463/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "LnpJqJYndhufaz6t06EIsIbQzTBld8YE131WFFaxUFc5ZlXfllAS1jb1QFbSGUguhmnf/16hzh9QmUB1y0up1xkDDF1bdKppmXoCg15cjQf7NzwyeX3T7n8XvGWTPy3h1XlKgIQC0OgwOnhS0tn9r6akqnktVJF368NTG8DNU3WRhnefnC9TjbgEQiI2UEBrm7yq8nQqs8vF9uKwdtUz81PA1zJXeoeTl2nXoS1UFZjDWZ3A+vhrm1U74T7OCXm0d3VFQQNcBrhf2EQO4EX5FoW1A2GmaLol3rPWKVdWNmkc5vdB0jD/Ib79M/rnGuODLQGes8QTg8uT0sULoxw34Py6SUsPaXgrJAznCbWOIO0=;/BHnYMzJArTB+JBXl9hXLg=="
 ---

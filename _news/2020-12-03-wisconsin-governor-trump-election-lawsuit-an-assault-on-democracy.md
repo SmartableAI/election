@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-t
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy?amp"
 type: article
 quality: 140
-heat: 280
+heat: 260
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump loves to win but keeps losing election lawsuits"
-    excerpt: "In his quest to cling to power, President Donald Trump has managed to lose not just once to Democrat Joe Biden but over and over again in courts across the country"
-    publishedDateTime: 2020-12-04T10:53:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_228055904c5f4d6a9937890e1fc77162_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Arizona, Wisconsin to certify election results Monday, Trump may challenge outcome"
     excerpt: "President Donald Trump has challenged results in several states, but the president has faced setbacks in many of those legal battles."
     publishedDateTime: 2020-11-30T15:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-returns-to-georgia-obama-star
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-returns-to-georgia-obama-stars-new-ossoff-ad.amp"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Videos, virtual events and planned trips: Biden, Obama, Pence, Trump weigh in on Georgia runoffs"
+    excerpt: "President Trump, his predecessor and soon-to-be successor in the White House, as well as Vice President Mike Pence, are all weighing in on Georgia’s two Jan. 5 Senate runoff elections, where the Republican majority in the chamber is up for grabs."
+    publishedDateTime: 2020-12-04T18:12:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pence returns to Georgia on Friday; Obama stars in new Ossoff TV ad"
     excerpt: "Vice President Mike Pence will return to Georgia on Friday to hit the campaign trail in the state’s twin Jan. 5 Senate runoff elections, where the Republicans' Senate majority is at stake."
     publishedDateTime: 2020-12-01T18:13:00Z

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Killing of suspected Iranian nuclear mastermind risks confrontation as Trump exits"
-    excerpt: "An Iranian scientist long suspected by the West of masterminding a secret nuclear bomb programme was killed in an ambush near Tehran on Friday that could provoke confrontation between Iran and its foes in the last weeks of Donald Trump's presidency."
-    publishedDateTime: 2020-11-28T12:49:00Z
-    webUrl: "https://www.reuters.com/article/us-iran-nuclear-scientist-idUSKBN2871OE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2871OE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2871OE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201127&t=2&i=1542679617&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAQ10W"
-        width: 968
-        height: 545
-        isCached: true
   - title: "Melania Trump, like America, may be more in love with President Trump than his critics would hope"
     excerpt: "The camera pans from her stiletto heel, up her sparkly gown, to her familiar face — it’s Melania Trump! (Her head superimposed on the body of the actual bachelorette.) Is Melania Trump really looking forward to being rid of President Trump as much as tens of millions of Americans are?"
     publishedDateTime: 2020-11-17T13:04:00Z

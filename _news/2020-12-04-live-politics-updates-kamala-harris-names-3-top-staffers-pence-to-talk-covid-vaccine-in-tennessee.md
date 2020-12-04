@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Live politics updates: Joe Biden calls for ‘new era of LGBTQ rights’"
+    excerpt: "The House is set to vote on marijuana legalization at the federal level Friday, though the bill is expected to come up short in the Senate."
+    publishedDateTime: 2020-12-04T17:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/04/presidential-transition-politics-updates-joe-biden-donald-trump/3818578001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3818578001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3818578001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/73e64eba-6d9d-476b-96d2-17e675c487a6-AP20326568855426.jpg?auto=webp&crop=5999,3374,x1,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden picks two former Obama officials to help lead COVID-19 response - Politico"
     excerpt: "President-elect Joe Biden has selected former Obama administration official Jeff Zients to be his White House coronavirus coordinator and former U.S. Surgeon General Vivek Murthy to return in that role,"
     publishedDateTime: 2020-12-03T18:52:00Z

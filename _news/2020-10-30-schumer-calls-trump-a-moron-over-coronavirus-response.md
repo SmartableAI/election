@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-mor
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp"
 type: article
 quality: 125
-heat: 585
+heat: 565
 published: true
 
 provider:
@@ -109,22 +109,6 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542596063&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1E5"
         width: 899
-        height: 545
-        isCached: true
-  - title: "Scott Atlas resigns as special adviser to Trump on coronavirus"
-    excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump, a White House official said on Monday, after a controversial four months during which he clashed repeatedly with other members of the coronavirus task force."
-    publishedDateTime: 2020-12-01T01:43:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-atlas-idUSKBN28B3AS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542984625&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01U3"
-        width: 817
         height: 545
         isCached: true
   - title: "Mike Pence will not quarantine after four aides test positive for coronavirus"

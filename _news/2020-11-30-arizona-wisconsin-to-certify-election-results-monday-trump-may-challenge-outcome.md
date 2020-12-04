@@ -47,22 +47,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump loves to win but keeps losing election lawsuits"
-    excerpt: "In his quest to cling to power, President Donald Trump has managed to lose not just once to Democrat Joe Biden but over and over again in courts across the country"
-    publishedDateTime: 2020-12-04T10:53:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_228055904c5f4d6a9937890e1fc77162_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Wisconsin governor certifies Biden as winner of state"
     excerpt: "Wisconsin Governor Tony Evers on Monday certified Democrat Joe Biden as the winner of the state's presidential election."
     publishedDateTime: 2020-12-01T06:03:00Z

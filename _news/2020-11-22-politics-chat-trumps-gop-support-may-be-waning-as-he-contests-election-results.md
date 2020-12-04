@@ -93,22 +93,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "U.S. appeals court rejects Trump appeal over Pennsylvania race"
-    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results, in a case expected to reach the U.S. Supreme Court if Trump appeals."
-    publishedDateTime: 2020-11-28T02:10:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/025f283/2147483647/strip/true/crop/2250x1470+0+148/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2Fd7%2Ff2a2f876a9c5e89d656995c7e5e7%2Fd8e652343354489388066c03aeb545e3"
-        width: 320
-        height: 209
-        isCached: true
   - title: "The Trump campaign’s disingenuous spin on its watered-down voter fraud claims"
     excerpt: "The campaign is disputing a Washington Post article about its scaled-back lawsuit in Pennsylvania. But a look at the lawsuit — and its claims about The Post's reporting — reveal the truth."
     publishedDateTime: 2020-11-16T18:26:00Z
@@ -216,17 +200,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Appeals Court Rejects Trump Challenge of Pennsylvania Race"
-    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals."
-    publishedDateTime: 2020-11-28T02:18:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "RHLaZYj8ypqvveUNH+bYc3r5fPvbZVe+xmfDt6jlL2mYFyF1+s31/RQqGI6ikeC1Au0F1jtmFZCa7c3jYrTXBKaiDlXW3JMYTpIkRGnMVWJKNXv6kdqIJ/4eOsGLzd86f8yJiWnPqpPUv/BZ0h1+B2hU1rWjXhbSws8hhs/QfScST1KLa8l8HtowHucyIyYsepO2hv1YBzdp62qSiyulDJbyeDu0GfMTRfmZIfTjD/LjxoYAKdyzMuigAf/QsvZiKXKIf3sIIDsOvcVCRILggkJ0t3/jezFYW0Yld3fxzjpj0WKGb8k8hDQ/4Jygenf8uMrE0OrSBrKJtGNvwwvypcOxc5f/K6/AQRIX9vWs5Ts=;WxhdGOpILZ4ZV7ZrGtZsFA=="
 ---

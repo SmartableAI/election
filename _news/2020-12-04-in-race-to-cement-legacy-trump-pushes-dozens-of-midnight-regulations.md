@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203"
 type: article
 quality: 125
-heat: 185
+heat: 145
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Supreme Court mulls Trump bid to exclude illegal immigrants from population count"
-    excerpt: "U.S. Supreme Court justices on Monday are set to consider President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states, a facet of his hardline stance toward immigration being pursued in his"
-    publishedDateTime: 2020-11-30T11:39:00Z
-    webUrl: "https://www.reuters.com/article/topNews/idUSKBN28A1B5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "U.S. Supreme Court mulls Trump bid to exclude illegal immigrants from population count"
-    excerpt: "U.S. Supreme Court justices on Monday are set to consider President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states, a facet of his hardline stance toward immigration being pursued in his"
-    publishedDateTime: 2020-11-30T16:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-census/u-s-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Talk Of 'Preemptive' Pardons By Trump Raises Questions: What Can He Do?"
     excerpt: "Presidents have awarded clemency in this way before, but it's certainly not the usual course of action. And there are unresolved questions about what might be to come."
     publishedDateTime: 2020-12-02T17:27:00Z

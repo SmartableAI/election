@@ -133,6 +133,34 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
+    excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine who controls the Senate at the outset of President-elect Joe Biden's administration."
+    publishedDateTime: 2020-11-20T20:33:00Z
+    webUrl: "https://www.daytondailynews.com/nation-world/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/OGPY65XXBZAAPLRT732FW4J5DI/"
+    type: article
+    provider:
+      name: Dayton Daily News
+      domain: daytondailynews.com
+    quality: 55
+    images:
+      - url: "https://www.daytondailynews.com/resizer/Q7xcE4p6hMoQHtsThkvtafgdskM=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/W4NGYYYTSBCG5L7OBQPLKWXAJU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President Pence will campaign in Georgia for GOP senators in runoff"
+    excerpt: "Vice President Mike Pence said he will visit Georgia later this month to campaign on behalf of U.S. Sens. David Perdue and Kelly Loeffler, who face runoff contests against Democratic opponents to retain their seats."
+    publishedDateTime: 2020-11-10T20:57:00Z
+    webUrl: "https://www.ajc.com/politics/politics-blog/vice-president-pence-will-campaign-in-georgia-for-gop-senators-in-runoff/6FXJHBVYLJGPXAY4BLC6G73WEQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 54
+    images:
+      - url: "https://www.ajc.com/resizer/pbOdNqkyHcqh0kn5aevnLaU4l3s=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/JP473P73HVH3D4OQD373MMVNR4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs | Charlotte Observer"
     excerpt: "CANTON, Ga. Vice President Mike Pence campaigned with Georgia's two Republican senators Friday, trying to hold off their Democratic challengers in Jan. 5 runoffs that will determi"
     publishedDateTime: 2020-11-20T20:30:00Z

@@ -21,438 +21,839 @@ topics:
   - Mike Pence
 
 related:
-  - title: "NEWSMAKER-Long in Trump's shadow, Vice President Mike Pence set to emerge"
-    excerpt: "Vice President Mike Pence, a Christian conservative and one of the few constants in Donald Trump's tumultuous White House, has kept his boss's confidence by being careful never to step out of the president's shadow."
-    publishedDateTime: 2020-10-31T10:18:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-pence-profile-idUSL1N2HK1WT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27G0F3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27G0F3"
+  - title: "Pence comes to Georgia as calm before potential Trump storm"
+    excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatil"
+    publishedDateTime: 2020-12-04T18:36:00Z
+    webUrl: "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 150
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump, Pence to campaign in Georgia as Senate runoff turnout concerns grow among GOP"
+    excerpt: "Mike Pence and President Donald Trump's rallies for Georgia's senators will be against a backdrop of growing concerns about GOP turnout in the Senate runoff election."
+    publishedDateTime: 2020-12-04T10:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 143
+    images:
+      - url: "https://s.abcnews.com/images/Politics/pence-loeffler-perdue-gty-jc-201203_1607035893960_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Georgia elections official urges Trump to rein in supporters"
+    excerpt: "A top Georgia elections official has lashed out angrily at the rhetoric surrounding the election and the threats of violence that have resulted"
+    publishedDateTime: 2020-12-02T05:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6e0a5a420e1b4c56b67c628a7422ff94_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump loves to win but keeps losing election lawsuits"
+    excerpt: "In his quest to cling to power, President Donald Trump has managed to lose not just once to Democrat Joe Biden but over and over again in courts across the country"
+    publishedDateTime: 2020-12-04T10:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_228055904c5f4d6a9937890e1fc77162_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Wisconsin Supreme Court rebuffs Trump challenge to election results"
+    excerpt: "The Wisconsin Supreme Court on Thursday declined to take up a case by U.S. President Donald Trump's campaign challenging the Nov. 3 presidential election results in the state, the latest in a string of losses the campaign has suffered."
+    publishedDateTime: 2020-12-04T00:40:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-wisconsin-idUKKBN28D33B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28D33B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28D33B"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 139
+    quality: 140
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510870&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9U09G"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543373293&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21Q6"
         width: 817
         height: 545
         isCached: true
-  - title: "Donald Trump and Mike Pence both campaign Sunday, despite coronavirus cases among vice president's staff"
-    excerpt: "Pence aides have tested positive for the virus, but he is not subject to quarantine because he is an \"essential\" government official, aides said."
-    publishedDateTime: 2020-10-25T15:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6031990002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6031990002"
+  - title: "Donor to pro-Trump group sues to get his money back after dropped election lawsuits"
+    excerpt: "Fred Eshelman, who gave $2.5 million to the group True the Vote to back President Trump's challenges to the election, is suing for his money back."
+    publishedDateTime: 2020-11-27T22:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/fred-eshelman-sues-pro-trump-true-vote-election-lawsuits/6440272002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6440272002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6440272002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 133
+    quality: 134
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Supporters Push Back Against Victory Statement, Pence Says Votes Still to Count"
-    excerpt: "The president said that he already feels victory is sealed despite ongoing vote counts, vowing legal action to secure his position."
-    publishedDateTime: 2020-11-04T07:37:00Z
-    webUrl: "https://www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686"
-    ampWebUrl: "https://www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686?amp=1"
+  - title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
+    excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
+    publishedDateTime: 2020-12-04T06:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E012"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E012"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 133
+      name: Reuters
+      domain: reuters.com
+    quality: 130
     images:
-      - url: "https://d.newsweek.com/en/full/1664385/trump.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543403980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB300L"
+        width: 815
+        height: 545
         isCached: true
-  - title: "Minority pushes Trump agenda largely unpopular among tribes"
-    excerpt: "The Navajo Nation vice president is part of a vocal minority pushing Donald Trump's agenda in areas long considered Democratic territory"
-    publishedDateTime: 2020-10-24T17:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/minority-pushes-trump-agenda-largely-unpopular-tribes-73805731"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/minority-pushes-trump-agenda-largely-unpopular-tribes-73805731"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/minority-pushes-trump-agenda-largely-unpopular-tribes-73805731"
+  - title: "Vice President Pence remains silent on election outcome while campaigning for Georgia runoff"
+    excerpt: "Pence will rally Republicans to vote for Georgia Sens. David Perdue and Kelly Loeffler in the Jan. 5 election."
+    publishedDateTime: 2020-12-04T10:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/04/vice-president-pence-remains-silent-presidential-election/3795957001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3795957001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3795957001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/03/PMCA/2d1fb1e6-935c-491b-af2f-64a1ce3f520a-EDIT_W_29002.jpg?auto=webp&crop=2355,1325,x0,y464&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump campaign files lawsuit over Georgia county ballot sorting"
+    excerpt: "U.S. President Donald Trump's reelection campaign on Wednesday said it had filed a lawsuit in Georgia to require that Chatham County separate and secure late-arriving ballots to ensure they are not counted."
+    publishedDateTime: 2020-11-05T03:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN27L077"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L077"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L077"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540058520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA4045"
+        width: 641
+        height: 545
+        isCached: true
+  - title: "Options dwindling, Trump faces likely setback in Georgia recount"
+    excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over President Donald Trump after a painstaking recount, which would deal another setback to Trump's efforts to cling on to power."
+    publishedDateTime: 2020-11-19T15:30:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27Z0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z0GI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541789947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1GH"
+        width: 812
+        height: 545
+        isCached: true
+  - title: "Options dwindling, Trump faces likely setback in Georgia recount"
+    excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over Donald Trump after a painstaking recount, which would deal yet another setback to the president's attempts to cling to power."
+    publishedDateTime: 2020-11-19T18:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27Z0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27Z0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27Z0GI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541789947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1GH"
+        width: 812
+        height: 545
+        isCached: true
+  - title: "Trump team requests official recount of Georgia presidential vote"
+    excerpt: "President Trump's legal team says his campaign has requested an official recount of votes in the Georgia presidential race using safeguards including signature matching."
+    publishedDateTime: 2020-11-22T04:34:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f587f3c/2147483647/strip/true/crop/3975x2596+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb9%2Fee%2F767d85ba4bf48dbe023f78da0899%2Fa32de59bb9f3444596f970c6e31b3e80"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Angry Trump promises rally in battleground state of Georgia"
+    excerpt: "President Donald Trump on Thursday renewed baseless claims that “massive fraud” and crooked local officials in battleground states led to his election defeat, and said he’ll go to Georgia for a rally"
+    publishedDateTime: 2020-11-26T23:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump officials move to relax rules on killing birds"
+    excerpt: "The Trump administration published an environmental analysis Friday finding that its proposal not to hold companies responsible for killing birds “incidentally” would not cause undue harm, clearly the way for it to finalize the rollback before the president’s term ends on Jan."
+    publishedDateTime: 2020-11-27T15:51:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOKXIAFSLII6TLGIDWCHXLGKOM.jpg&w=1440"
+        width: 1440
+        height: 972
+        isCached: true
+  - title: "U.S. appeals court rejects Trump appeal over Pennsylvania race"
+    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results, in a case expected to reach the U.S. Supreme Court if Trump appeals."
+    publishedDateTime: 2020-11-28T02:10:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/025f283/2147483647/strip/true/crop/2250x1470+0+148/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2Fd7%2Ff2a2f876a9c5e89d656995c7e5e7%2Fd8e652343354489388066c03aeb545e3"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Ex-Trump campaign aide sues over Russia probe surveillance"
+    excerpt: "A former Trump campaign associate who was the target of a secret surveillance warrant during the FBI’s Russia investigation says in a federal lawsuit that he was the victim of “unlawful spying.”"
+    publishedDateTime: 2020-11-28T22:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-campaign-aide-sues-russia-probe-surveillance-74439917"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_23d275ca72c845dbb990b4fab407e173_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4db4577615d342bf863d6a1b5ccf9ede_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Kamala Harris fires back at President Trump and other Republicans who mockingly mispronounce her name"
-    excerpt: "Mispronouncing Harris' name has become one of President Trump's frequent jokes at his campaign rallies."
-    publishedDateTime: 2020-10-31T14:48:00Z
-    webUrl: "https://www.businessinsider.com/kamala-harris-fires-back-at-trump-for-mispronouncing-her-name-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/kamala-harris-fires-back-at-trump-for-mispronouncing-her-name-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-fires-back-at-trump-for-mispronouncing-her-name-2020-10?amp"
+  - title: "Trump 'ashamed' to have endorsed Republican Georgia governor"
+    excerpt: "President Donald Trump said Sunday he was “ashamed” for endorsing the Republican governor of Georgia after he lost in the state to Democrat Joe Biden"
+    publishedDateTime: 2020-11-29T21:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ashamed-endorsed-republican-georgia-governor-74451193"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9517c546180741c3a92a1a18459fb0a1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump says he is ashamed that he supported Georgia Gov. Brian Kemp"
+    excerpt: "The president, still smarting from President-elect Joe Biden winning Georgia in the November election, lashed out at the state's top Republican."
+    publishedDateTime: 2020-11-29T20:05:00Z
+    webUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 125
     images:
-      - url: "https://i.insider.com/5f9d610969331a0011bc68dd?width=1200&format=jpeg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "President Donald Trump handily wins Kentucky once again"
-    excerpt: "President Donald Trump nabbed another decisive victory in Kentucky after the polls closed in the Bluegrass State on Tuesday."
-    publishedDateTime: 2020-11-06T21:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/president-donald-trump-wins-2020-election-kentucky-ease/6130620002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6130620002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6130620002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NLED/391a71ca-8580-45d5-9b96-8d0ab452c96f-AP20307617419308.jpg?auto=webp&crop=5999,3374,x0,y43&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5fa9e8791df1d50018219bfe?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Vice President Mike Pence responds: I stand with President Donald Trump"
-    excerpt: "Vice President Mike Pence was not with President Donald Trump during his press conference this afternoon. He later tweeted he stands with the president and that we must count every legal vote. Eamon Javers joins Shep Smith to talk about the various responses from members of the Republican Party in support of President Trump."
-    publishedDateTime: 2020-11-06T01:48:00Z
-    webUrl: "https://www.cnbc.com/video/2020/11/05/vice-president-mike-pence-responds-i-stand-with-president-donald-trump.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 120
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106783180-16046249101604624906-12295478233-1080pnbcnews.jpg?v=1604624909"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "How Donald Trump won Ohio: A closer look at the campaign in a battleground state"
-    excerpt: "President Donald Trump improved on his 2016 map; former Vice President Joe Biden couldn't make up the difference in the cities and suburbs."
-    publishedDateTime: 2020-11-06T21:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/how-donald-trump-won-ohio-again/6161704002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6161704002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6161704002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/25/PCIN/bbc1d0b4-2ba3-472e-ac4c-cef8974a5311-AP20298827401012.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Amid record U.S. cases and new White House outbreak, Trump claims pandemic progress"
-    excerpt: "With U.S. coronavirus cases at record levels, President Donald Trump on Sunday repeated his refrain that the nation is \"rounding the turn\" in the pandemic, while Vice President Mike Pence pressed ahead with campaigning despite positive COVID-19 tests among multiple aides."
-    publishedDateTime: 2020-10-25T20:04:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election/amid-record-u-s-cases-and-new-white-house-outbreak-trump-claims-pandemic-progress-idUKKBN27A04S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27A04S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27A04S"
+  - title: "Scott Atlas resigns as special adviser to Trump on coronavirus"
+    excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump, a White House official said on Monday, after a controversial four months during which he clashed repeatedly with other members of the coronavirus task force."
+    publishedDateTime: 2020-12-01T01:43:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-atlas-idUSKBN28B3AS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 119
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201025&t=2&i=1538782576&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9O0OK"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542984625&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01U3"
         width: 817
         height: 545
         isCached: true
-  - title: "CBS News projects Pres. Trump wins Indiana"
-    excerpt: "Watch \"CBS News projects Pres. Trump wins Indiana\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-04T02:47:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201104014307-cbs-news-projects-pres-trump-wins-indiana/"
+  - title: "What the Trump family’s new political committees can and can’t do"
+    excerpt: "The president isn’t the only Trump who appears to be exploring the boundaries of campaign fundraising. Aides to his son Donald Trump Jr. have formed a political action committee called Save the U.S. Senate PAC that is focused on the run-off elections in Georgia in early January."
+    publishedDateTime: 2020-12-01T12:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/what-trump-familys-new-political-committees-can-cant-do/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/what-trump-familys-new-political-committees-can-cant-do/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/what-trump-familys-new-political-committees-can-cant-do/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I46LDCBMAYI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+  - title: "The Trump-fueled peril for the GOP in Georgia"
+    excerpt: "Republicans fear his conspiracy-mongering about a rigged election will depress turnout among their base in the January runoffs for control of the Senate."
+    publishedDateTime: 2020-12-02T12:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/trump-inspired-danger-gop-georgia/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/trump-inspired-danger-gop-georgia/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/trump-inspired-danger-gop-georgia/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3ASO6NBQAMI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump headed to Georgia as runoff boost, but also a threat"
+    excerpt: "Some Republicans are sounding alarms that President Donald Trump’s conspiratorial denials of his own election defeat could threaten the party’s ability to win a Senate majority"
+    publishedDateTime: 2020-12-02T01:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-headed-to-georgia-as-runoff-boost-but-also-a-threat/2020/12/01/76b0ed3e-3440-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump raises $170 million as he looks to future"
+    excerpt: "President Donald Trump has raised roughly $170 million since his Election Day defeat, a sum garnered through a nonstop stream of solicitations that have falsely claimed the election was stolen while requesting contributions for an “election defense fund."
+    publishedDateTime: 2020-12-01T23:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-170-million-future-74484442"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-raises-170-million-future-74484442"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-raises-170-million-future-74484442"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c8bb9f93c441453bba9524f96f509a06_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump threatens defense veto over social media protections"
+    excerpt: "President Donald Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users"
+    publishedDateTime: 2020-12-02T04:01:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/trump-threatens-defense-veto-over-social-media-protections/2020/12/01/112f3746-3453-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/trump-threatens-defense-veto-over-social-media-protections/2020/12/01/112f3746-3453-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/trump-threatens-defense-veto-over-social-media-protections/2020/12/01/112f3746-3453-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "In video, Trump recycles unsubstantiated voter fraud claims"
+    excerpt: "President Donald Trump has delivered a 46-minute diatribe against the election results that produced a win for Democrat Joe Biden, unspooling one misstatement after another to back his baseless claim"
+    publishedDateTime: 2020-12-03T00:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump silent as UK is first to authorizes vaccine"
+    excerpt: "Despite his repeated efforts to take credit for the record pace at which scientists have developed a vaccine for the novel coronavirus, President Donald Trump was uncharacteristically silent Wednesday after the United Kingdom became the first nation to authorize a COVID-19 vaccine."
+    publishedDateTime: 2020-12-02T22:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/GMA/201202_gma_rulli1_0702_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Here are 3 retired generals who embraced bizarre Trump conspiracies"
+    excerpt: "These highly decorated military generals promoted baseless claims from the conspiracy theory movement."
+    publishedDateTime: 2020-12-03T22:47:00Z
+    webUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f739ab60ab50d00184ad213?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump aide banned from Justice after trying to get case info"
+    excerpt: "The official serving as President Donald Trump’s eyes and ears at the Justice Department has been banned from the building after trying to pressure staffers to give up sensitive case information she c"
+    publishedDateTime: 2020-12-04T02:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-aide-banned-justice-case-info-74523331"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-aide-banned-justice-case-info-74523331"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-aide-banned-justice-case-info-74523331"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_985e843cc7b644d4af8e84280fa14e0a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The many Trump contradictions that could hurt the GOP in Georgia"
+    excerpt: "And Trump could bring those contradictions straight to Georgia. He’ll be there Saturday for a campaign rally that could hurt as much as help Georgia Republicans in January elections for two Georgia Senate seats that will decide which party controls the Senate."
+    publishedDateTime: 2020-12-04T16:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/many-trump-contradictions-that-could-hurt-gop-georgia/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/many-trump-contradictions-that-could-hurt-gop-georgia/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/many-trump-contradictions-that-could-hurt-gop-georgia/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5ULF34BMLAI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump's false fraud claims could threaten GOP hopes in Georgia Senate races"
+    excerpt: "The president has pledged to devote \"125%\" of his energy to the election he lost, despite the raging coronavirus pandemic."
+    publishedDateTime: 2020-12-04T00:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-false-fraud-claims-threaten-gop-hopes-georgia/story?id=74519757"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-false-fraud-claims-threaten-gop-hopes-georgia/story?id=74519757"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-false-fraud-claims-threaten-gop-hopes-georgia/story?id=74519757"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-oval-office-rt-jt-201203_1607030794685_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Supreme Court hears Trump bid to bar illegal immigrants from U.S. census count"
+    excerpt: "U.S. Supreme Court justices on Monday began hearing arguments on President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states,"
+    publishedDateTime: 2020-11-30T15:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-census/us-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1B5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Swing state counties that used Dominion voting machines mostly voted for Trump"
+    excerpt: "Voting machines provided to counties by Dominion Voting Systems allowed a national conspiracy involving both Democrats and Republicans to flip votes cast for President Trump to ones for President-elect Joe Biden."
+    publishedDateTime: 2020-12-01T20:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/swing-state-counties-that-used-dominion-voting-machines-mostly-voted-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/swing-state-counties-that-used-dominion-voting-machines-mostly-voted-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/swing-state-counties-that-used-dominion-voting-machines-mostly-voted-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZADBZ3BOTEI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Georgia elections chief battles fellow Republicans, Trump"
+    excerpt: "Georgia's secretary of state is a man on an island, and the political flood is rising fast, as President Donald Trump and his allies vent their outrage at the fellow Republican and make unsupported claims that mismanagement and fraud tainted the state's presidential election."
+    publishedDateTime: 2020-11-17T16:56:00Z
+    webUrl: "https://www.businessinsider.com/georgia-elections-chief-battles-fellow-republicans-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/georgia-elections-chief-battles-fellow-republicans-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-elections-chief-battles-fellow-republicans-trump-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "U.S. Supreme Court weighs Trump bid to bar illegal immigrants from census totals"
+    excerpt: "The Supreme Court on Monday is set to take up President Donald Trump's unprecedented and contentious effort to exclude illegal immigrants from the population totals used to allocate U.S. House of Representatives districts to states."
+    publishedDateTime: 2020-11-29T12:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN2890F4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890F4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890F4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542800006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS09M"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump loyalist Loeffler's attacks on pastor Warnock risk suburban votes in Georgia's U.S. Senate race"
+    excerpt: "Beau Davis, a 33-year-old security specialist from the Atlanta suburbs, is the kind of voter Republican Senators Kelly Loeffler and David Perdue may need to win runoff elections next month that will determine the balance of power in Washington."
+    publishedDateTime: 2020-12-04T12:12:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-senate-idINKBN28E1MI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28E1MI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28E1MI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 110
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543447796&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30NU"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Republicans are abandoning Trump over his threat to hold defense bill hostage to get back at tech companies"
+    excerpt: "Lawmakers take pride in passing the annual defense spending bill, and they're not happy about Trump interfering with that."
+    publishedDateTime: 2020-12-03T15:46:00Z
+    webUrl: "https://www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5fc8fcfe50e71a0011558a89?width=1200&format=jpeg"
+        width: 799
+        height: 399
+        isCached: true
+  - title: "Trump moves to strip job protections from White House budget analysts as he races to transform civil service"
+    excerpt: "The outgoing Trump administration is racing to enact the biggest change to the federal civil service in generations, reclassifying career employees at key agencies to strip their job protections and leave them open to being fired before Joe Biden takes office."
+    publishedDateTime: 2020-11-28T00:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-moves-to-strip-job-protections-from-white-house-budget-analysts-as-he-races-to-transform-civil-service/2020/11/27/d04f6eba-2e69-11eb-96c2-aac3f162215d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-moves-to-strip-job-protections-from-white-house-budget-analysts-as-he-races-to-transform-civil-service/2020/11/27/d04f6eba-2e69-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-moves-to-strip-job-protections-from-white-house-budget-analysts-as-he-races-to-transform-civil-service/2020/11/27/d04f6eba-2e69-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVPRJABRAYI6XBQN66MZLGOLYI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Rudy Giuliani talked to Trump about getting a preemptive pardon before the president leaves office, report says"
+    excerpt: "Giuliani is the focus of a federal criminal investigation into whether he violated foreign lobbying laws through his dealings in Ukraine."
+    publishedDateTime: 2020-12-01T15:49:00Z
+    webUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5fb7b84b32f2170011f7040d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "FDA chief called to White House as Trump pushes for vaccine"
+    excerpt: "The head of the agency responsible for approving any COVID-19 vaccine for the U.S. was summoned to the White House Tuesday as an increasingly frustrated President Donald Trump complained approval wasn't coming faster."
+    publishedDateTime: 2020-12-02T01:57:00Z
+    webUrl: "https://www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Fox News Is Holding More Cards Than Trump Realizes"
+    excerpt: "Even if there’s a MAGA exodus from Fox, the cable network’s profits are protected by lucrative cable contracts."
+    publishedDateTime: 2020-12-02T13:19:00Z
+    webUrl: "https://www.washingtonpost.com/business/fox-news-is-holding-more-cards-than-trump-realizes/2020/12/02/67323ba2-349e-11eb-9699-00d311f13d2d_story.html?amp;amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MWONXCRUTYI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump heading to Georgia ahead of Senate runoffs"
+    excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
+    publishedDateTime: 2020-12-02T02:26:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-georgia-saturday-ahead-of-senate-runoffs/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/04/story_07533968_1604454424.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/01/4529d887-b72c-4c1c-bb29-b00f91f286ba/thumbnail/1200x630/20642c43ecc51cd897574a2b1d49ca9f/cbsn-fusion-trump-georgia-saturday-ahead-of-senate-runoffs-thumbnail-599055-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Here's how President Donald Trump won Ohio by almost exactly the same margin as in 2016"
-    excerpt: "Former Vice President Joe Biden thought he could pull off the upset in bellwether Ohio, but Donald Trump used the same formula as in 2016 to win."
-    publishedDateTime: 2020-11-06T21:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/04/analysis-how-donald-trump-easily-beat-joe-biden-battleground-ohio-election-day-results-for-president/6050222002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6050222002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6050222002"
+  - title: "U.S. Senate panel votes to approve Trump FCC nominee"
+    excerpt: "The U.S. Senate Commerce Committee voted on Wednesday to approve the nomination of a senior Trump administration official involved in an effort to seek new social media regulations to a seat on the Federal Communications Commission."
+    publishedDateTime: 2020-12-02T15:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-tech-idUSL1N2II1LY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2II1LY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1LY"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
-  - title: "Vice President Mike Pence's top aides test positive for COVID-19, but he continues to work"
-    excerpt: "Mike Pence plans to preside over the Senate floor during a vote on Amy Coney Barrett's confirmation despite several of his top aides contracting COVID-19."
-    publishedDateTime: 2020-10-26T17:18:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/26/mike-pences-top-aides-test-positive-covid-19-vp-not-quarantining/6042345002/"
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Fox News Is Holding More Cards Than Trump Realizes"
+    excerpt: "Even if there’s a MAGA exodus from Fox, the cable network’s profits are protected by lucrative cable contracts."
+    publishedDateTime: 2020-12-02T18:27:00Z
+    webUrl: "https://www.washingtonpost.com/business/fox-news-is-holding-more-cards-than-trump-realizes/2020/12/02/67323ba2-349e-11eb-9699-00d311f13d2d_story.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 95
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?quality=10"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MWONXCRUTYI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump rehashes unsubstantiated voter fraud charges"
+    excerpt: "In a video released Wednesday, President Donald Trump delivered a 46-minute diatribe against the election that produced a win for Democrat Joe Biden, unspooling one misstatement after another to back his baseless claim that he really won."
+    publishedDateTime: 2020-12-03T00:55:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/trump-rehashes-unsubstantiated-voter-fraud-charges/3803536001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5e369c17-2563-4818-b065-d33127d7a479_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Pence brings Trump’s closing message to Florida’s capital city"
-    excerpt: "Pence also continued the Trump administration’s focus on a positive spin about how they have handled the virus. The vice president promised a COVID-19 vaccine by the end of the year and vowed to reopen the economy and schools."
-    publishedDateTime: 2020-10-25T01:47:00Z
-    webUrl: "https://www.tampabay.com/news/florida-politics/elections/2020/10/24/pence-brings-trumps-closing-message-to-floridas-capital-city/"
-    ampWebUrl: "https://www.tampabay.com/news/florida-politics/elections/2020/10/24/pence-brings-trumps-closing-message-to-floridas-capital-city/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/elections/2020/10/24/pence-brings-trumps-closing-message-to-floridas-capital-city/?outputType=amp"
+  - title: "Why Donald Trump keeps outperforming the polls"
+    excerpt: "President Trump lost the election, but did better than most experts were predicting. How does this keep happening? This video has been optimised for mobile viewing on the BBC News app. The BBC News app is available from the Apple App Store for iPhone and Google Play Store for Android."
+    publishedDateTime: 2020-12-03T08:58:00Z
+    webUrl: "https://www.bbc.com/news/av/election-us-2020-55168642"
     type: article
     provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 90
+      name: BBC
+      domain: bbc.com
+    quality: 105
     images:
-      - url: "https://www.tampabay.com/resizer/BYIRCtzhvxKarsiUDB61KZGh2YA=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/47HOJ2DIOZCQHJESLMYKRGX44M.jpg"
-        width: 800
-        height: 450
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Mike Pence: ‘Show them Michigan is Trump country’"
-    excerpt: "Vice President Mike Pence asked Michigan voters to prove the state is “'Trump country” during a campaign appearance just six days from the election. Pence held a campaign rally at Bishop International Airport in Flint Wednesday,"
-    publishedDateTime: 2020-10-28T23:49:00Z
-    webUrl: "https://www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html"
-    ampWebUrl: "https://www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html?outputType=amp"
+  - title: "Georgia Senate Runoffs Lure Possible 2024 GOP Hopefuls, Including Trump"
+    excerpt: "The president is set to campaign in Georgia this weekend as he weighs another run in four years. That could upend the ambitions of several other Republicans visiting the state recently."
+    publishedDateTime: 2020-12-04T09:01:00Z
+    webUrl: "https://www.npr.org/2020/12/04/942053653/georgia-senate-runoffs-lure-possible-2024-gop-hopefuls-including-trump"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
-    quality: 90
+      name: NPR
+      domain: npr.org
+    quality: 105
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U55OY3N3QRD2TGTDUAHHXF5NDQ.JPG"
-        width: 1300
-        height: 867
+      - url: "https://media.npr.org/assets/img/2020/12/03/ap_20307090660462_wide-103ecc72e5af7c1f6c6716c222801344b3b18ce3.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
-  - title: "Vice President Mike Pence in Iowa to rally support for Trump, Ernst"
-    excerpt: "DES MOINES — Mike Pence and Joni Ernst stood on stage together and waved to the adoring crowd, two elected officials who find their respective re-election bids in real danger of losing in Iowa ..."
-    publishedDateTime: 2020-10-29T22:19:00Z
-    webUrl: "https://qctimes.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-in-iowa-to-rally-support-for-trump-ernst/article_cbccdf63-abd3-5f00-aa53-10f3c23a7d4d.html"
-    ampWebUrl: "https://qctimes.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-in-iowa-to-rally-support-for-trump-ernst/article_cbccdf63-abd3-5f00-aa53-10f3c23a7d4d.amp.html"
-    cdnAmpWebUrl: "https://qctimes-com.cdn.ampproject.org/c/s/qctimes.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-in-iowa-to-rally-support-for-trump-ernst/article_cbccdf63-abd3-5f00-aa53-10f3c23a7d4d.amp.html"
+  - title: "Trump refuses to fade away"
+    excerpt: "In terms of law or conventional politics, Trump's post-election gambits make little sense. But judging them that way misses the point."
+    publishedDateTime: 2020-12-04T16:04:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2020-12-04/trump-refuses-to-fade-away-essential-politics"
     type: article
     provider:
-      name: Quad-City Times
-      domain: qctimes.com
-    quality: 90
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 105
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/62/6627b57c-d6bc-53d5-bdbd-d41ae599d8ab/5f9b3d433bf67.image.jpg"
-        width: 512
-        height: 341
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/df03110/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2Fe1%2Fd62ca55b476e916665f439fbff41%2Ftrump-26539.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Opinion: Vote for Donald Trump and Mike Pence"
-    excerpt: "Republican Party of Virginia Chairman Rich Anderson makes his party's closing argument on behalf of Donald Trump and Mike Pence."
-    publishedDateTime: 2020-10-31T06:05:00Z
-    webUrl: "https://www.dailypress.com/opinion/vp-ed-column-anderson-1101-20201031-q7a7m32n2zdvbbobazuhzm7kw4-story.html"
-    ampWebUrl: "https://www.dailypress.com/opinion/vp-ed-column-anderson-1101-20201031-q7a7m32n2zdvbbobazuhzm7kw4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/opinion/vp-ed-column-anderson-1101-20201031-q7a7m32n2zdvbbobazuhzm7kw4-story.html?outputType=amp"
+  - title: "Trump roils Georgia GOP as party waits to see if presidential visit helps — or hurts — in crucial Senate runoffs"
+    excerpt: "The president’s baseless claims of fraud in the November elections have sparked a Republican civil war in the state, where voters will return to the polls on Jan. 5 in a pair of races that will determine control of the U."
+    publishedDateTime: 2020-12-03T12:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-georgia-senate-run-offs/2020/12/03/e777c11e-34bd-11eb-afe6-e4dbee9689f8_story.html?outputType=amp"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 90
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
     images:
-      - url: "https://www.dailypress.com/resizer/ViTXaWpsZsnPSk2_BYdQmIIprrM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U7O5QYGEJYFLJRZ6GTUVFO5HLA.jpg"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMJXFWBVEAI6XKMXD5GFHUVHI4.jpg&w=1440"
+        width: 1440
+        height: 864
+        isCached: true
+  - title: "Georgia official calls on Trump to condemn threats against election workers: \"Someone's gonna get killed\""
+    excerpt: "One of Georgia's top election officials rebuked President Trump for his rhetoric Tuesday after a local elections worker received a death threat. Gabriel Sterling, a Republican, called on the president and Senators Kelly Loeffler and David Perdue to condemn the threats and warned,"
+    publishedDateTime: 2020-12-02T00:04:00Z
+    webUrl: "https://www.cbsnews.com/video/georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/02/a37be1a1-f213-4eb5-ad96-05cdec06771a/thumbnail/1200x630/2a24d977528492a0bf4cd19a003a0124/cbsn-fusion-georgia-official-rump-condemn-threats-against-election-workers-someones-gonna-get-killed-thumbnail-599327-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Trump's unverified voter fraud claims are impacting Georgia's Senate runoff"
+    excerpt: "Senate runoff in Georgia could determine which party controls the Senate in the Biden administration. As President Trump continues to launch baseless claims against the integrity of the 2020 election,"
+    publishedDateTime: 2020-11-29T09:33:00Z
+    webUrl: "https://www.cbsnews.com/video/how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/fd2cd95e-564f-447c-adb8-9b69b714dec7/thumbnail/1200x630/b7ca1f84f36f2bcfe83b5a597d6062bb/cbsn-fusion-how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff-thumbnail-597494-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump threatens to veto defense policy bill unless Congress repeals Section 230, a safeguard for social media companies"
+    excerpt: "President Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users."
+    publishedDateTime: 2020-12-02T16:48:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-defense-bill-section-230-veto-20201202-w27r6au4ybbv7pl6iaw27qqlcm-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 81
+    images:
+      - url: "https://www.chicagotribune.com/resizer/jpb7yUyEnSZw9GiaZNZjTGH2ujg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QEGKLYVSHAPI2YREJM6WIDPREA.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "VP Pence, in Arizona, says enthusiasm for Trump greater now than in 2016"
-    excerpt: "PHOENIX — Vice President Mike Pence, campaigning Friday in Arizona ahead of Election Day, believes enthusiasm for President Donald Trump is greater now than it was in 2016. Pence told KTAR News ..."
-    publishedDateTime: 2020-10-30T17:45:00Z
-    webUrl: "https://ktar.com/story/3661520/vp-pence-in-arizona-says-enthusiasm-for-trump-greater-now-than-in-2016/"
-    ampWebUrl: "https://ktar.com/story/3661520/vp-pence-in-arizona-says-enthusiasm-for-trump-greater-now-than-in-2016/amp/"
-    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/3661520/vp-pence-in-arizona-says-enthusiasm-for-trump-greater-now-than-in-2016/amp/"
+  - title: "Brian Howey: The prospects for Trump and Pence in 2024"
+    excerpt: "Whether it’s North Side Gym in Elkhart or the Southport Fieldhouse, or packing Evansville’s Ford Center with 11,000 supporters in September 2018, President Trump was at the spearhead of a"
+    publishedDateTime: 2020-11-28T01:41:00Z
+    webUrl: "https://www.kokomotribune.com/brian-howey-the-prospects-for-trump-and-pence-in-2024/article_a5df7dbe-30fd-11eb-83bb-d3f7ce95802a.html"
     type: article
     provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 89
-    images:
-      - url: "https://ktar.com/wp-content/uploads/2020/10/ap_2838d59a37064c5aa5590d683595b799-1-1.jpg"
-        width: 620
-        height: 370
-        isCached: true
-  - title: "Vice President Mike Pence rallies Iowa support for Donald Trump, Joni Ernst"
-    excerpt: "Vice President Mike Pence and U.S. Sen. Joni Ernst stood on stage together Thursday, waving to supporters with the Iowa Senate and presidential races in a dead heat heading into Election Day. “Four years ago you believed we could be strong again,"
-    publishedDateTime: 2020-10-30T06:28:00Z
-    webUrl: "https://www.thegazette.com/vice-president-mike-pence-rallies-iowa-support-for-donald-trump-joni-ernst-20201029"
-    ampWebUrl: "https://www.thegazette.com/vice-president-mike-pence-rallies-iowa-support-for-donald-trump-joni-ernst-20201029?template=amphtml"
-    cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/vice-president-mike-pence-rallies-iowa-support-for-donald-trump-joni-ernst-20201029?template=amphtml"
-    type: article
-    provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 88
-    images:
-      - url: "https://www.thegazette.com/storyimage/GA/20201029/ARTICLE/201029661/AR/0/AR-201029661.jpg&MaxH=300&MaxW=500"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "In Flint, Mike Pence downplays systemic racism and urges support for Donald Trump"
-    excerpt: "President Donald Trump supports law enforcement, does not believe in institutional racism and is the only right choice for the voters of Michigan, Vice President Mike Pence said during a speech in Flint on Wednesday evening. The speech came six days ..."
-    publishedDateTime: 2020-10-29T01:04:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/28/mike-pence-flint-systemic-racism-trump/6062946002/"
-    ampWebUrl: "https://amp.freep.com/amp/6062946002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6062946002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 85
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PDTF/8e0b3abe-1494-47ca-8690-84a0c02238fb-AP20296625847430.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence to make campaign stop in Flint Wednesday"
-    excerpt: "Today the Trump Campaign announced Vice President Mike Pence will hold a rally on Wednesday evening, in Flint."
-    publishedDateTime: 2020-10-26T16:51:00Z
-    webUrl: "https://www.wlns.com/your-local-election-hq/vice-president-mike-pence-to-make-campaign-stop-in-flint-wednesday/"
-    ampWebUrl: "https://www.wlns.com/your-local-election-hq/vice-president-mike-pence-to-make-campaign-stop-in-flint-wednesday/amp/"
-    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/your-local-election-hq/vice-president-mike-pence-to-make-campaign-stop-in-flint-wednesday/amp/"
-    type: article
-    provider:
-      name: WLNS.com
-      domain: wlns.com
-    quality: 75
-    images:
-      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/23f542e2e71148e6bf2a33da67870ac8.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Hundreds attend rally to see Vice President Mike Pence in Greenville"
-    excerpt: "The vice president had landed in Greenville, an Upstate South Carolina city that is, in most regards, strongly considered to be Trump country. “I don’t want to lose this country to Joe Biden,\" said Dean Cox,"
-    publishedDateTime: 2020-10-28T15:51:00Z
-    webUrl: "https://www.wyff4.com/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
-    ampWebUrl: "https://www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
-    cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
-    type: article
-    provider:
-      name: WYFF4
-      domain: wyff4.com
-    quality: 75
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/img-5460-1603849421.jpg?crop=1.00xw:0.752xh;0,0.111xh&resize=1200:*"
-        width: 1200
-        height: 677
-        isCached: true
-  - title: "Who Is Captain Moroni And Why Is He Being Compared To President Trump?"
-    excerpt: "Sen. Mike Lee, (R-Utah), compared President Donald Trump to a figure in the Book of Mormon at an Arizona rally on Wednesday."
-    publishedDateTime: 2020-10-29T14:50:00Z
-    webUrl: "https://www.ibtimes.com/who-captain-moroni-why-he-being-compared-president-trump-3072574"
-    ampWebUrl: "https://www.ibtimes.com/who-captain-moroni-why-he-being-compared-president-trump-3072574?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/who-captain-moroni-why-he-being-compared-president-trump-3072574?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/28/us-president-donald-trump-campaigns-in-arizona-promising.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Pence continues Hoosier streak of one-term vice presidents"
-    excerpt: "With Vice President Mike Pence projected to lose his reelection bid, none of the four Republican vice presidents hailing from Indiana ever have served more than one term."
-    publishedDateTime: 2020-11-07T18:45:00Z
-    webUrl: "https://www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.html"
-    ampWebUrl: "https://www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.amp.html"
-    cdnAmpWebUrl: "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.amp.html"
-    type: article
-    provider:
-      name: Northwest Indiana Times
-      domain: nwitimes.com
-    quality: 75
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/7b/a7be45ba-d9a8-566f-b4dc-15f0bd11e7a1/578803e54016d.image.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "With time short, Vice President Mike Pence returns in effort to keep Arizona red"
-    excerpt: "Vice President Mike Pence will campaign in Flagstaff and Tucson as the presidential race in battleground Arizona goes down to the wire."
-    publishedDateTime: 2020-10-30T13:14:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/30/vice-president-mike-pence-returns-effort-keep-arizona-red-flagstaff-tucson/6078523002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6078523002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6078523002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Kokomo Tribune
+      domain: kokomotribune.com
     quality: 70
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://bloximages.chicago2.vip.townnews.com/kokomotribune.com/content/tncms/assets/v3/editorial/f/b3/fb318d50-1ac0-11eb-a03e-cf51658a5e07/5f9c2b30bd8d8.image.jpg?resize=800%2C550"
+        width: 800
+        height: 550
         isCached: true
-  - title: "Locals Teed Off About New Trump Golf Course In Scotland"
-    excerpt: "On the roof of his house overlooking the sea in northeast Scotland, David Milne stands below a Mexican flag and stares down at a palatial golf clubhouse owned by Donald Trump. Milne has been a major opponent of the development ever since the US president began building the Trump International Golf Links near the village of Balmedie in 2006."
-    publishedDateTime: 2020-10-30T04:46:00Z
-    webUrl: "https://www.ibtimes.com/locals-teed-about-new-trump-golf-course-scotland-3072966"
+  - title: "VP Mike Pence stopping in Georgia to visit CDC, drum up GOP support ahead of runoffs"
+    excerpt: "According to the White House, Pence is expected to visit the CDC in Atlanta before heading to Savannah for a campaign event."
+    publishedDateTime: 2020-12-01T04:36:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-georgia-visit-rally-loeffler-perdue-cdc-vaccine/85-37eb0d52-e80b-4cb4-95b8-8fb0001b24c1"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-rally-loeffler-perdue-cdc-vaccine/85-37eb0d52-e80b-4cb4-95b8-8fb0001b24c1"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-rally-loeffler-perdue-cdc-vaccine/85-37eb0d52-e80b-4cb4-95b8-8fb0001b24c1"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: 11Alive
+      domain: 11alive.com
+    quality: 68
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/29/david-milne-seen-on-a-hillside-above-the.jpg"
-        width: 1024
-        height: 705
+      - url: "https://media.11alive.com/assets/WXIA/images/28012b86-f747-49cd-b64a-707338b90864/28012b86-f747-49cd-b64a-707338b90864_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "Vice President Pence Speaks at Trump Campaign Rally in Reno, Nevada"
-    excerpt: "Vice President Mike Pence spoke at a Trump campaign rally at the airport in Reno, Nevada."
-    publishedDateTime: 2020-11-04T06:21:00Z
-    webUrl: "https://www.c-span.org/video/?477488-1/vice-president-pence-speaks-trump-campaign-rally-reno-nevada"
+  - title: "Appeals Court Rejects Trump Challenge of Pennsylvania Race"
+    excerpt: "A federal appeals court in Philadelphia has rejected President Donald Trump’s latest effort to challenge the election results in a case expected to reach the U.S. Supreme Court if Trump appeals."
+    publishedDateTime: 2020-11-28T02:18:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-27/us-appeals-court-rejects-trump-appeal-over-pennsylvania-race?context=amp"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 50
-  - title: "Vice President Pence Trump Campaign Rally in Elm City, North Carolina"
-    excerpt: "Vice President Pence spoke at a Trump campaign rally in Elm City, North Carolina. He touted the administration's achievements and spoke about its efforts to rebuild the military, support law enforcement,"
-    publishedDateTime: 2020-11-04T18:59:00Z
-    webUrl: "https://www.c-span.org/event/?477602/c2020-vice-president-pence-holds-rally-elm-city-nc"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Supreme Court Seems Skeptical of Trump's Census Plan"
+    excerpt: "The Supreme Court sounds skeptical that President Donald Trump could categorically exclude people living in the country illegally from the population count used to allot seats among the states in the House of Representatives."
+    publishedDateTime: 2020-11-30T17:23:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-30/supreme-court-seems-skeptical-of-trumps-census-plan"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-30/supreme-court-seems-skeptical-of-trumps-census-plan?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-30/supreme-court-seems-skeptical-of-trumps-census-plan?context=amp"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 50
-  - title: "Vice President Pence Holds Rally in Flagstaff, Arizona"
-    excerpt: "Vice President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3."
-    publishedDateTime: 2020-10-30T13:55:00Z
-    webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-arizona"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Holds Rally in Flagstaff, AZ"
-    excerpt: "President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3.5 points."
-    publishedDateTime: 2020-10-30T07:24:00Z
-    webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-az"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaign Rally in Flagstaff, Arizona"
-    excerpt: "Vice President Pence spoke at a Trump campaign rally in Flagstaff, Arizona. He criticized the Biden-Harris ticket and made the case for President Trump's re-election. The vice president was introduced by Senator Martha McSally (R-AZ)."
-    publishedDateTime: 2020-11-03T16:52:00Z
-    webUrl: "https://www.c-span.org/event/?477537/c2020-vice-president-pence-holds-rally-flagstaff-az"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "XWztSg0hkGv+j8bhrJsH80sYmNxIls1nVCQz53S79pAx2LCyTJo2wGr3Vx2dt59wOeG7g3rivtpPE8NIrJKkVDcNjSDre7dT5HZdsKw1iuU8+66bqYsHqKPlLSIq9a0aLrwrmhf2x5mniBzQjcKM8zwKWlwM9RAQWHisCzJTU7HwmK1PniPpLS6nJ/hkbVCFiHrQa97y7HXnfgXgRDL+a3JzuD9aaWc4XgqKESKD7sELLvDtSyaJ0X/fuFHJ3f8qpoEH75yHE4LfliASedy0lq3SzXdkZvWWqFF0mmvSGrhixKOKuXQYmd9wHUY8KqTYLRxTwxTOnvodKjjJvgGfE3mUZSRapY1JF1OCjzmkkL8=;OQwczLiJQdddgnW/qzkCcA=="
 ---

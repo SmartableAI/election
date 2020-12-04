@@ -2,170 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-03-plotting-the-future-trump-kids-even-look-to-profit-from-their-fathers-fallen-legacy.md",
-      "title": "Plotting the future: Trump kids even look to profit from their father's fallen legacy ",
-      "excerpt": "It was Thanksgiving, but instead of being seated at an elaborate table dressed with gold silverware, expensive china and a buffet of chilled seafood, turkey and beef tenderloin, waited on by household staff, Donald Trump Jr., Eric Trump, Ivanka Trump and Jared Kushner were in the wilderness of Maryland.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z5-B-ZTFF8w/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z5-B-ZTFF8w/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203122910-03-trump-kids-rnc-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/trump-kids-future-presidency/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-kids-future-presidency/index.html",
-      "publishedDateTime": "2020-12-03T11:55:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-ivanka-trump-deposed-in-ongoing-lawsuit-alleging-misused-inaugural-funds.md",
-      "title": "Ivanka Trump deposed in ongoing lawsuit alleging misused inaugural funds",
-      "excerpt": "Ivanka Trump was deposed on Tuesday as a part of an ongoing lawsuit from the Washington, D.C., attorney general, which alleges the misuse of funds from President Donald Trump's inauguration in 2017, new court documents show.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/ivanka-trump-deposed-2017-inauguration-lawsuit-funds-lawsuit/?intcid=CNI-00-10aaa3b",
-      "originalUrl": "https://www.cbsnews.com/news/ivanka-trump-deposed-2017-inauguration-lawsuit-funds-lawsuit/?intcid=CNI-00-10aaa3b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/06/06/1dba942d-f379-41fc-b360-e972ee6cc393/thumbnail/1200x630g2/fb8b25b0ad4b3c20f46af57ae8c0e7ae/gettyimages-1225668427.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/ivanka-trump-deposed-2017-inauguration-lawsuit-funds-lawsuit/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ivanka-trump-deposed-2017-inauguration-lawsuit-funds-lawsuit/",
-      "publishedDateTime": "2020-12-03T11:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-jeffrey-zients-expected-to-be-named-bidens-coronavirus-coordinator.md",
-      "title": "Jeffrey Zients expected to be named Biden's coronavirus coordinator",
-      "excerpt": "Jeffrey Zients is President-elect Joe Biden's choice to be the White House coronavirus coordinator, or \"czar,\" a source familiar tells CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P_9Q_uuX_Ao/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P_9Q_uuX_Ao/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/130410120120-obama-budget-speech-story-top.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/jeffrey-zients-coronavirus-czar/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/jeffrey-zients-coronavirus-czar/index.html",
-      "publishedDateTime": "2020-12-03T10:30:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-04-federal-watchdog-finds-substantial-likelihood-of-wrongdoing-by-trump-appointees-overseeing-voice-of-america.md",
       "title": "Federal watchdog finds 'substantial likelihood of wrongdoing' by Trump appointees overseeing Voice of America",
       "excerpt": "The federal watchdog's findings mark the latest rebuke of the Trump-appointed CEO of the U.S. Agency for Global Media, Michael Pack.",
@@ -765,49 +601,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-03-in-video-trump-unspools-unsubstantiated-voter-fraud-charges.md",
-      "title": "In video, Trump unspools unsubstantiated voter fraud charges",
-      "excerpt": "Increasingly detached from reality, President Donald Trump stood before a White House lectern and delivered a 46-minute diatribe against the election results that produced a win for Democrat Joe Biden,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/in-video-trump-unspools-unsubstantiated-voter-fraud-charges-2020-12",
-      "originalUrl": "https://www.businessinsider.com/in-video-trump-unspools-unsubstantiated-voter-fraud-charges-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/in-video-trump-unspools-unsubstantiated-voter-fraud-charges-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-video-trump-unspools-unsubstantiated-voter-fraud-charges-2020-12?amp",
-      "publishedDateTime": "2020-12-02T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-03-comey-to-teach-at-columbia-law-school-alongside-professor-who-leaked-trump-memo.md",
       "title": "Comey to teach at Columbia Law School alongside professor who leaked Trump memo",
       "excerpt": "Ex-FBI chief to teach a seminar called “Lawyers and Leaders.”",
@@ -1314,20 +1107,20 @@
       ]
     },
     {
-      "path": "_news/2020-12-03-republican-us-lawmakers-may-defy-trump-over-defense-bill-veto-threat.md",
-      "title": "Republican U.S. lawmakers may defy Trump over defense bill veto threat",
-      "excerpt": "The chairman of the U.S. Senate Armed Services Committee and some other Republican lawmakers pushed back on Wednesday against President Donald Trump's threat to veto a massive defense bill unless it eliminates a federal law protecting tech companies.",
+      "path": "_news/2020-12-03-trump-backs-mcconnells-republican-covid-19-relief-package-mnuchin.md",
+      "title": "Trump backs McConnell's Republican COVID-19 relief package: Mnuchin",
+      "excerpt": "President Donald Trump will sign coronavirus relief legislation proposed by Republican Senate Majority Leader Mitch McConnell, Treasury Secretary Steven Mnuchin told reporters on Wednesday, should the proposed package pass the U.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-defense-congress-idUSKBN28C344",
-      "originalUrl": "https://www.reuters.com/article/usa-defense-congress-idUSKBN28C344",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543247195&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11Q1",
-          "width": 797,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543258818&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11XI",
+          "width": 817,
           "height": 545,
           "title": null,
           "attribution": null,
@@ -1336,9 +1129,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28C344",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C344",
-      "publishedDateTime": "2020-12-02T12:54:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28C2ES",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C2ES",
+      "publishedDateTime": "2020-12-02T12:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -1363,6 +1156,232 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-mark-kelly-sworn-in-by-pence-flipping-senate-seat-in-trump-rigged-election-state-blue.md",
+      "title": "Mark Kelly sworn in by Pence, flipping Senate seat in Trump 'rigged election' state blue",
+      "excerpt": "Kelly's swearing-in gives Democrats a Senate pickup in Arizona, where Trump claims there was massive voter fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/mark-kelly-sworn-pence-flipping-senate-seat-trump-rigged-election-n1249732",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/mark-kelly-sworn-pence-flipping-senate-seat-trump-rigged-election-n1249732",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_49/3432713/201202-mark-kelly-swearing-in-jm-1456_75186dab390f83298dd0535de87c37d9.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249732",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249732",
+      "publishedDateTime": "2020-12-02T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-naacp-warns-biden-over-rahm-emanuel-rumors.md",
+      "title": "NAACP warns Biden over Rahm Emanuel rumors",
+      "excerpt": "The NAACP became the latest progressive group to warn President-elect Joe Biden against adding former Chicago Mayor Rahm Emanuel to his Cabinet.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JmzBKP0XY-s/naacp-biden-rahm-emanuel-rumors",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JmzBKP0XY-s/naacp-biden-rahm-emanuel-rumors",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/08/08/694940094001_5819321962001_5819321658001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/naacp-biden-rahm-emanuel-rumors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/naacp-biden-rahm-emanuel-rumors.amp",
+      "publishedDateTime": "2020-12-02T12:32:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-john-mulaney-says-he-was-investigated-by-the-secret-service-over-joke-that-was-not-about-donald-trump.md",
+      "title": "John Mulaney says he was investigated by the Secret Service over joke 'that was not about Donald Trump'",
+      "excerpt": "John Mulaney says he was investigated by the Secret Service after making a joke that many believed was a threat against President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
+      "originalUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/John-Mulaney-Getty.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
+      "publishedDateTime": "2020-12-02T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-top-pro-gop-pac-launching-new-initiative-to-counter-bidens-far-left-policies.md",
+      "title": "Top pro-GOP PAC launching new initiative to counter Biden's 'far-left policies'",
+      "excerpt": "A leading outside group that supports Republican causes is firing up a new initiative to counter what it says will be the \"far-left policies\" of President-elect Joe Biden's incoming administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp",
+      "publishedDateTime": "2020-12-02T11:22:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

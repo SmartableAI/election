@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27G0F3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27G0F3"
 type: article
 quality: 139
-heat: 739
+heat: 719
 published: true
 
 provider:
@@ -372,17 +372,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Mike Pence: The Calm To Trump's Storm"
-    excerpt: "Vice President Mike Pence is the calm to Donald Trump's storm, bringing a sedate demeanor and the religious, conservative ballast the men hope will spare them from losing the White House."
-    publishedDateTime: 2020-10-30T00:00:00Z
-    webUrl: "https://www.barrons.com/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
-    ampWebUrl: "https://www.barrons.com/amp/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 70
   - title: "With time short, Vice President Mike Pence returns in effort to keep Arizona red"
     excerpt: "Vice President Mike Pence will campaign in Flagstaff and Tucson as the presidential race in battleground Arizona goes down to the wire."
     publishedDateTime: 2020-10-30T13:14:00Z

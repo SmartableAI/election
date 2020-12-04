@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-04-trump-pence-to-campaign-in-georgia-as-senate-runoff-turnout-concerns-grow-among-gop.md",
-      "title": "Trump, Pence to campaign in Georgia as Senate runoff turnout concerns grow among GOP",
-      "excerpt": "Mike Pence and President Donald Trump's rallies for Georgia's senators will be against a backdrop of growing concerns about GOP turnout in the Senate runoff election.",
+      "path": "_news/2020-12-05-pence-comes-to-georgia-as-calm-before-potential-trump-storm.md",
+      "title": "Pence comes to Georgia as calm before potential Trump storm",
+      "excerpt": "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatil",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "webUrl": "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 513,
+      "heat": 1250,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/pence-loeffler-perdue-gty-jc-201203_1607035893960_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
-      "publishedDateTime": "2020-12-04T02:36:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-04T10:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
+        "Mike Pence",
+        "Donald Trump"
       ]
     },
     {
@@ -123,7 +124,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -323,7 +324,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 345,
       "tags": null,
       "images": [
         {

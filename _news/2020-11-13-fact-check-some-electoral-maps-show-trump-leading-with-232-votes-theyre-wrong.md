@@ -351,17 +351,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Georgia elections chief battles fellow Republicans, Trump"
-    excerpt: "Georgia's secretary of state is a man on an island, and the political flood is rising fast, as President Donald Trump and his allies vent their outrage at the fellow Republican and make unsupported claims that mismanagement and fraud tainted the state's presidential election."
-    publishedDateTime: 2020-11-17T16:56:00Z
-    webUrl: "https://www.businessinsider.com/georgia-elections-chief-battles-fellow-republicans-trump-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/georgia-elections-chief-battles-fellow-republicans-trump-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-elections-chief-battles-fellow-republicans-trump-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Trump's election lawsuits plagued by elementary errors"
     excerpt: "When President Donald Trump sends lawyers to court, it seems he’s not sending his best."
     publishedDateTime: 2020-11-19T22:39:00Z

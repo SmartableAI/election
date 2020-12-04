@@ -93,6 +93,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Biden says bipartisan coronavirus aid bill should be passed but will still need more"
+    excerpt: "President-elect Joe Biden said on Thursday a bipartisan coronavirus aid bill should be passed but that he will have to ask for more once in office."
+    publishedDateTime: 2020-12-04T07:32:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-biden/biden-says-bipartisan-coronavirus-aid-bill-should-be-passed-but-will-still-need-more-idUSW1N2HQ0GN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E08E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E08E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543406856&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB3042"
+        width: 817
+        height: 545
+        isCached: true
   - title: "From the coronavirus to the environment, Biden plans to take government in new direction"
     excerpt: "A review of Biden's plans so far suggests that among his priorities will be tackling COVID-19, rolling back Trump actions, expanding on Obama initiatives."
     publishedDateTime: 2020-11-24T21:05:00Z

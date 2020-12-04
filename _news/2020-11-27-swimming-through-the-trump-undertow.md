@@ -79,22 +79,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Georgia elections official urges Trump to rein in supporters"
-    excerpt: "A top Georgia elections official has lashed out angrily at the rhetoric surrounding the election and the threats of violence that have resulted"
-    publishedDateTime: 2020-12-02T05:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_6e0a5a420e1b4c56b67c628a7422ff94_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "U.S. judiciary, shaped by Trump, thwarts his election challenges"
     excerpt: "U.S. President Donald Trump's reshaping of the federal judiciary has done little to help him win lawsuits challenging the election outcome, with Trump appointees rebuffing him and the U.S. Supreme Court showing little interest in getting involved."
     publishedDateTime: 2020-12-01T23:17:00Z
@@ -303,22 +287,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
-    excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
-    publishedDateTime: 2020-12-04T06:39:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E012"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E012"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 130
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543403980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB300L"
-        width: 815
-        height: 545
-        isCached: true
   - title: "'Don't talk to me that way': Trump lashes out at White House reporter over election question"
     excerpt: "Trump angrily admonished Reuters reporter Jeff Mason after he asked if he would concede the election after the Electoral College voted for Biden."
     publishedDateTime: 2020-11-27T16:46:00Z
@@ -415,22 +383,6 @@ related:
         width: 1440
         height: 1039
         isCached: true
-  - title: "Trump officials move to relax rules on killing birds"
-    excerpt: "The Trump administration published an environmental analysis Friday finding that its proposal not to hold companies responsible for killing birds “incidentally” would not cause undue harm, clearly the way for it to finalize the rollback before the president’s term ends on Jan."
-    publishedDateTime: 2020-11-27T15:51:00Z
-    webUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/"
-    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOKXIAFSLII6TLGIDWCHXLGKOM.jpg&w=1440"
-        width: 1440
-        height: 972
-        isCached: true
   - title: "The Note: Deadlines and dead ends pile up losses for Trump"
     excerpt: "The weekend brought an end to Wisconsin's partial recount -- as funded by the Trump campaign -- with President-elect Joe Biden actually netting 87 additional votes, in results sch"
     publishedDateTime: 2020-11-30T11:20:00Z
@@ -446,22 +398,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-gty-ml-201127_1606495893630_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "What the Trump family’s new political committees can and can’t do"
-    excerpt: "The president isn’t the only Trump who appears to be exploring the boundaries of campaign fundraising. Aides to his son Donald Trump Jr. have formed a political action committee called Save the U.S. Senate PAC that is focused on the run-off elections in Georgia in early January."
-    publishedDateTime: 2020-12-01T12:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/what-trump-familys-new-political-committees-can-cant-do/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/what-trump-familys-new-political-committees-can-cant-do/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/what-trump-familys-new-political-committees-can-cant-do/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I46LDCBMAYI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 959
         isCached: true
   - title: "Judge throws out Trump rules limiting skilled-worker visas"
     excerpt: "A U.S. judge in California has struck down two Trump administration rules designed to drastically curtail the number of visas issued each year to skilled foreign workers"
@@ -479,38 +415,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump raises $170 million as he looks to future"
-    excerpt: "President Donald Trump has raised roughly $170 million since his Election Day defeat, a sum garnered through a nonstop stream of solicitations that have falsely claimed the election was stolen while requesting contributions for an “election defense fund."
-    publishedDateTime: 2020-12-01T23:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-170-million-future-74484442"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-raises-170-million-future-74484442"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-raises-170-million-future-74484442"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c8bb9f93c441453bba9524f96f509a06_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump threatens defense veto over social media protections"
-    excerpt: "President Donald Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users"
-    publishedDateTime: 2020-12-02T04:01:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/trump-threatens-defense-veto-over-social-media-protections/2020/12/01/112f3746-3453-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/trump-threatens-defense-veto-over-social-media-protections/2020/12/01/112f3746-3453-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/trump-threatens-defense-veto-over-social-media-protections/2020/12/01/112f3746-3453-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Trump vows defense bill veto unless internet liability shield scrapped"
     excerpt: "U.S. President Donald Trump said on Tuesday he would veto the $740 billion National Defense Authorization Act unless it includes a measure eliminating a federal law protecting tech companies such as Facebook and Twitter."
     publishedDateTime: 2020-12-02T14:21:00Z
@@ -526,22 +430,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543139133&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB1045"
         width: 817
         height: 545
-        isCached: true
-  - title: "In video, Trump recycles unsubstantiated voter fraud claims"
-    excerpt: "President Donald Trump has delivered a 46-minute diatribe against the election results that produced a win for Democrat Joe Biden, unspooling one misstatement after another to back his baseless claim"
-    publishedDateTime: 2020-12-03T00:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Trump's veto threat on must-pass defense bill meets GOP resistance"
     excerpt: "Trump's Tuesday night veto threat of a highly popular, must-pass defense bill -- which includes a 3% pay raise for U.S. troops -- has been met with GOP defiance."
@@ -559,22 +447,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Here are 3 retired generals who embraced bizarre Trump conspiracies"
-    excerpt: "These highly decorated military generals promoted baseless claims from the conspiracy theory movement."
-    publishedDateTime: 2020-12-03T22:47:00Z
-    webUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f739ab60ab50d00184ad213?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "The only experts Trump wants his supporters to rely on are themselves"
     excerpt: "Trump is trying, unsuccessfully, to use it in the latter sense. He's unsuccessful because the idea that Republicans lower on the ticket might do better than Republicans higher on"
     publishedDateTime: 2020-12-03T20:00:00Z
@@ -590,22 +462,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELNV3VRT7AI6XFUZADJRD4J5FU.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Trump aide banned from Justice after trying to get case info"
-    excerpt: "The official serving as President Donald Trump’s eyes and ears at the Justice Department has been banned from the building after trying to pressure staffers to give up sensitive case information she c"
-    publishedDateTime: 2020-12-04T02:23:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-aide-banned-justice-case-info-74523331"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-aide-banned-justice-case-info-74523331"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-aide-banned-justice-case-info-74523331"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_985e843cc7b644d4af8e84280fa14e0a_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "U.S. Republicans balk as Trump uses defense bill for leverage on Big Tech"
     excerpt: "President Donald Trump's threat to veto a defense bill if it does not repeal legal protections for social media companies faced stiff bipartisan opposition on Wednesday, setting the stage for a confrontation with lawmakers scrambling to pass the massive bill by year-end."
@@ -732,22 +588,6 @@ related:
     quality: 121
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Swing state counties that used Dominion voting machines mostly voted for Trump"
-    excerpt: "Voting machines provided to counties by Dominion Voting Systems allowed a national conspiracy involving both Democrats and Republicans to flip votes cast for President Trump to ones for President-elect Joe Biden."
-    publishedDateTime: 2020-12-01T20:58:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/swing-state-counties-that-used-dominion-voting-machines-mostly-voted-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/swing-state-counties-that-used-dominion-voting-machines-mostly-voted-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/swing-state-counties-that-used-dominion-voting-machines-mostly-voted-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZADBZ3BOTEI6XHOWFUAXTGAXDE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -957,38 +797,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Republicans are abandoning Trump over his threat to hold defense bill hostage to get back at tech companies"
-    excerpt: "Lawmakers take pride in passing the annual defense spending bill, and they're not happy about Trump interfering with that."
-    publishedDateTime: 2020-12-03T15:46:00Z
-    webUrl: "https://www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5fc8fcfe50e71a0011558a89?width=1200&format=jpeg"
-        width: 799
-        height: 399
-        isCached: true
-  - title: "Trump moves to strip job protections from White House budget analysts as he races to transform civil service"
-    excerpt: "The outgoing Trump administration is racing to enact the biggest change to the federal civil service in generations, reclassifying career employees at key agencies to strip their job protections and leave them open to being fired before Joe Biden takes office."
-    publishedDateTime: 2020-11-28T00:30:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-moves-to-strip-job-protections-from-white-house-budget-analysts-as-he-races-to-transform-civil-service/2020/11/27/d04f6eba-2e69-11eb-96c2-aac3f162215d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-moves-to-strip-job-protections-from-white-house-budget-analysts-as-he-races-to-transform-civil-service/2020/11/27/d04f6eba-2e69-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-moves-to-strip-job-protections-from-white-house-budget-analysts-as-he-races-to-transform-civil-service/2020/11/27/d04f6eba-2e69-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 106
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVPRJABRAYI6XBQN66MZLGOLYI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "BONUS: WHAT'S NEXT FOR TRUMP?"
     excerpt: "In this bonus episode of Up First, It's Been a Minute host Sam Sanders explores what might happen to Donald Trump after he leaves office. This episode breaks down ongoing investigations and lawsuits into Trump and his family,"
     publishedDateTime: 2020-11-22T11:50:00Z
@@ -1042,31 +850,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "FDA chief called to White House as Trump pushes for vaccine"
-    excerpt: "The head of the agency responsible for approving any COVID-19 vaccine for the U.S. was summoned to the White House Tuesday as an increasingly frustrated President Donald Trump complained approval wasn't coming faster."
-    publishedDateTime: 2020-12-02T01:57:00Z
-    webUrl: "https://www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Fox News Is Holding More Cards Than Trump Realizes"
-    excerpt: "Even if there’s a MAGA exodus from Fox, the cable network’s profits are protected by lucrative cable contracts."
-    publishedDateTime: 2020-12-02T13:19:00Z
-    webUrl: "https://www.washingtonpost.com/business/fox-news-is-holding-more-cards-than-trump-realizes/2020/12/02/67323ba2-349e-11eb-9699-00d311f13d2d_story.html?amp;amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MWONXCRUTYI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Trump Vows To Veto Defense Bill Unless Shield For Big Tech Is Scrapped"
     excerpt: "The president wants Congress to repeal Section 230 of the 1996 Communications Decency Act, a provision that provides legal protection for tech companies."
     publishedDateTime: 2020-12-02T10:25:00Z
@@ -1080,20 +863,6 @@ related:
       - url: "https://media.npr.org/assets/img/2020/12/02/gettyimages-1287973486_wide-4b50fb0dcd84e4d45aab8a54361a3590fc74dcd4.jpg?s=1400"
         width: 1400
         height: 787
-        isCached: true
-  - title: "Fox News Is Holding More Cards Than Trump Realizes"
-    excerpt: "Even if there’s a MAGA exodus from Fox, the cable network’s profits are protected by lucrative cable contracts."
-    publishedDateTime: 2020-12-02T18:27:00Z
-    webUrl: "https://www.washingtonpost.com/business/fox-news-is-holding-more-cards-than-trump-realizes/2020/12/02/67323ba2-349e-11eb-9699-00d311f13d2d_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MWONXCRUTYI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Lawmakers bristle after Trump threatens defense bill veto"
     excerpt: "President Donald Trump is closing out his relationship with Congress with one more power jab, threatening to veto a hugely popular defense bill unless lawmakers clamp down on big tech companies he claims were biased against him during ."
@@ -1120,34 +889,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump rehashes unsubstantiated voter fraud charges"
-    excerpt: "In a video released Wednesday, President Donald Trump delivered a 46-minute diatribe against the election that produced a win for Democrat Joe Biden, unspooling one misstatement after another to back his baseless claim that he really won."
-    publishedDateTime: 2020-12-03T00:55:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/trump-rehashes-unsubstantiated-voter-fraud-charges/3803536001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5e369c17-2563-4818-b065-d33127d7a479_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Why Donald Trump keeps outperforming the polls"
-    excerpt: "President Trump lost the election, but did better than most experts were predicting. How does this keep happening? This video has been optimised for mobile viewing on the BBC News app. The BBC News app is available from the Apple App Store for iPhone and Google Play Store for Android."
-    publishedDateTime: 2020-12-03T08:58:00Z
-    webUrl: "https://www.bbc.com/news/av/election-us-2020-55168642"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Trump threatens to veto defense bill unless Congress repeals Section 230, a safeguard for social media companies"
     excerpt: "Trump is threatening to veto a defense policy bill unless it ends protections for companies that shield them from material posted by their users."
     publishedDateTime: 2020-12-02T13:14:00Z
@@ -1173,17 +914,6 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 85
-  - title: "Supreme Court Seems Skeptical of Trump's Census Plan"
-    excerpt: "The Supreme Court sounds skeptical that President Donald Trump could categorically exclude people living in the country illegally from the population count used to allot seats among the states in the House of Representatives."
-    publishedDateTime: 2020-11-30T17:23:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-30/supreme-court-seems-skeptical-of-trumps-census-plan"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-30/supreme-court-seems-skeptical-of-trumps-census-plan?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-30/supreme-court-seems-skeptical-of-trumps-census-plan?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "UHffGONYj5RdCuPTb7iM6C8zaZ4Rya/tEikjt09PCGvJBpANu8kycAHvoOMtU0O41VD3YA1R73GAojMoyTULkEPHJKHk8jGRCp/ewGKFhGdh9MutZt/JhoLY6O+d60sB8bmrlLk0uMis0F9Br13yjOj6ECqGqlB6PADpKWBqnsKtsYvCC5BW8IvHQa3Rh9PJJ8e8Z/1SqAj7Q++A9lbwwYgKMxavRRE7P4CIcTZtYg2/vAHBNX6+VkD02cu6HAieNd0b8nL9kI5bDXrs4IS37fH2Th54MyL5Y8SRXfGoQXpeqvdYivaf5fuVZlEY2pdT8F3r7FGpXdaeTwyR8NDGXUvWjtrKhmfDUknfIY7lTI6c2VTFXkcd871CvJZ29C8gn0XzDWKllID368DDdjdJ5x+EL+CiNvyq/glixOzQdAlXY68MP77M2hH8mZ0+8QC+TDlRlopUzoTQ2XzKd3FTTAVX1v1R/uM2tLFHn8D3gl+6DMxCVJOjFbfedV8fjkwn5G47NCwrMed3b371lJb31A==;y/XTUltVRQeEVNgRCPOjBg=="
 ---
