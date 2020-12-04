@@ -2,9 +2,9 @@
 category: news
 title: "Iran pressures Biden with plan to increase underground enrichment machines"
 excerpt: "Iran is raising pressure on U.S. President-elect Joe Biden with plans to install more advanced uranium-enriching centrifuges at an underground plant in breach of its deal with major powers, a U.N. nuclear watchdog report showed on Friday."
-publishedDateTime: 2020-12-04T14:58:00Z
-originalUrl: "https://www.reuters.com/article/iran-nuclear-iaea-int-idUSKBN28E1VR"
-webUrl: "https://www.reuters.com/article/iran-nuclear-iaea-int-idUSKBN28E1VR"
+publishedDateTime: 2020-12-04T15:42:00Z
+originalUrl: "https://www.reuters.com/article/us-iran-nuclear-iaea/iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines-idUSKBN28E1XM"
+webUrl: "https://www.reuters.com/article/us-iran-nuclear-iaea/iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines-idUSKBN28E1XM"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E1VR"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E1VR"
 type: article
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543468920&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB312E"
-    width: 856
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543482313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31BL"
+    width: 808
     height: 545
     isCached: true
 
@@ -978,6 +978,6 @@ related:
         height: 660
         isCached: true
 
-secured: "t8okCLeczHLsLX4D4dOHbYCpb+ypRSiF/xpkZ/rIICCk/zTSSC618NACXLt00++fL+mt98gnYiB2uM3rZKHEdsHfur4m1e1DzpK+ct501L8F7L5xTmJ1iDlqIq5d1w96uGWh2+bmqAfRBG5Z46l04VJoO0S+gMmQNygQ1OguCQB/eVl1kuIxHydiYwZjtJloK4h3Ig+joO/fsFSCCt0RxoQ4H5lXP8orj7wQJEh4Jl/l19jyofo1vFEinZ18K8Qbpsm+PFTUIA+/GraK+HJxGrGHBM3DyqhVMh5v+lF+Y1O73yyDjPG5EybQrP/YaxsqPV7OSVqNcvWy1DVQ01gH6AetXk7/RxKnUGhLBkX2pl0=;OUWXShWNL8QDO9eA1+W31A=="
+secured: "KTYt35RGVrB6dQdCmjyi8UixvTmo/26fPEwAEw+rkFlDaR2vaC1M7dH4+aSJifJQrzXhryvqTAsqFYkXqNo81AXuWqyj5HpnQBceYHXVSujPRIRcSUTg7AthUTMPZ5eJ4XqpgUPcZYsD0aHCju5iEoP/1rQV2+QW6+t9q+aDnD54bopk2Tb3mAf4cXXoemghNePUhBEFMOXShz35T2R6K70hQppQGZlMXIUbN1HUKCqOivN2gKaqb8RKvTndTLBLwK1ufnPwnhB0cBvx8FhocJjGh7zMdTIkhhndL/3yOEkXQ5DRLQazAwKuMz+y4SS2d0limt3jFxaXN/nmFGabQUaLVuXv82lN/eI3aRAS0pI=;/PD/TFBYBixgygbY3+ezSQ=="
 ---
 

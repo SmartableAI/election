@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3782498001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3782498001"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 86
     images:
       - url: "https://www.gannett-cdn.com/presto/2019/12/05/USAT/751f29ad-47cd-4791-9506-d4b6b846b53e-KamalaHarris.jpg?auto=webp&crop=3703,2083,x0,y188&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Live politics updates: Pence in Georgia, House marijuana vote and Fauci accepts Biden job"
+    excerpt: "The House is set to vote on marijuana legalization at the federal level Friday, though the bill is expected to come up short in the Senate."
+    publishedDateTime: 2020-12-04T16:23:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/2020/12/04/presidential-transition-politics-updates-joe-biden-donald-trump/3818578001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/3818578001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3818578001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 81
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/73e64eba-6d9d-476b-96d2-17e675c487a6-AP20326568855426.jpg?auto=webp&crop=5999,3374,x1,y200&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

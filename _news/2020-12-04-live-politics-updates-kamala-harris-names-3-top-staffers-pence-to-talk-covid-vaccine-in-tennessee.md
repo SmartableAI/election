@@ -60,6 +60,22 @@ related:
         width: 859
         height: 545
         isCached: true
+  - title: "Live politics updates: Pence in Georgia, House marijuana vote and Fauci accepts Biden job"
+    excerpt: "The House is set to vote on marijuana legalization at the federal level Friday, though the bill is expected to come up short in the Senate."
+    publishedDateTime: 2020-12-04T16:23:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/2020/12/04/presidential-transition-politics-updates-joe-biden-donald-trump/3818578001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/3818578001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3818578001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 81
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/73e64eba-6d9d-476b-96d2-17e675c487a6-AP20326568855426.jpg?auto=webp&crop=5999,3374,x1,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "9sLLDY4PnJLsJR5IEH8aLdxz6URlRnRd1glFfCY5u+m7Ka6Lz/3JnfwKOsNRhpO/ZS+BEhrd7ukHPaIK5LTcJV0hHoOvr3Tg/8qIo58psanoYvkEclrS7ybKWx8v71pDck6I6P2fffBj5TGIXBDKNpCxgg+MovHCaViTBsBN38F2RTeTx8hkQIamv8aHan19NlLEd6fJ9DXO8WR8YtlmixBAFc/bK4mFFMMTR9l6yzt6jMU3yaWpK5iKtu3XEKvHkchoazLrCNLfjOCbcQUVpszAT3TCHRp6+/x/BAFB0CDhYA9jzXoe/vov8xTI7rebW4d2yEYdQC6pFrJrhzRy8tsyY4WCi53FM9+8uHGwmFA=;sn78CelUia/MWB7yYhEV6w=="
 ---

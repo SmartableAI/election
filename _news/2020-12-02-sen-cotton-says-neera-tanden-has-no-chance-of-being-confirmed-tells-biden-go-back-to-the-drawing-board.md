@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Joe Biden says he was chasing dog after shower when he broke foot"
+    excerpt: "President-elect Joe Biden said Thursday that he fractured his foot after tripping on a bath mat following a shower over the weekend and while chasing his dog Major, explaining the incident and saying it isn’t a “very exciting story.”"
+    publishedDateTime: 2020-12-04T16:37:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZAjeQaehq6w/joe-biden-chasing-dog-shower-broken-foot"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-chasing-dog-shower-broken-foot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-chasing-dog-shower-broken-foot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden pick privately trashed him in 2015, said he would make Clinton look better by comparison"
     excerpt: "Neera Tanden is President-elect Joe Biden's pick for director of the Office of Management and Budget, but a leaked email from 2015 indicates that Tanden may not have always believed Biden was the best Democratic presidential candidate for the job."
     publishedDateTime: 2020-11-30T19:19:17Z

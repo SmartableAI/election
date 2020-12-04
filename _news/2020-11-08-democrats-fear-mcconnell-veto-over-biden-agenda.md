@@ -487,6 +487,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's popular vote margin over Trump tops 7 million"
+    excerpt: "President-elect Joe Biden's margin over President Donald Trump in the nationwide popular vote is now more than 7 million votes and may continue to grow as several states continue counting votes.\n    \n"
+    publishedDateTime: 2020-12-04T15:27:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O4dYmL3ux9k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/biden-popular-vote-margin-7-million/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-popular-vote-margin-7-million/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201132456-02-biden-economic-team-1201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump's top election falsehoods to watch for on Election Day"
     excerpt: "President Donald Trump has spent months making false claims in a baseless attempt to raise questions over the integrity of the presidential election.\n    \n"
     publishedDateTime: 2020-11-02T14:52:54Z

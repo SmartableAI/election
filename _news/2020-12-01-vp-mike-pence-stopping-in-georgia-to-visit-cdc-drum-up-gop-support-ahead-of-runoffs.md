@@ -155,6 +155,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The many Trump contradictions that could hurt the GOP in Georgia"
+    excerpt: "And Trump could bring those contradictions straight to Georgia. He’ll be there Saturday for a campaign rally that could hurt as much as help Georgia Republicans in January elections for two Georgia Senate seats that will decide which party controls the Senate."
+    publishedDateTime: 2020-12-04T16:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/many-trump-contradictions-that-could-hurt-gop-georgia/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/many-trump-contradictions-that-could-hurt-gop-georgia/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/many-trump-contradictions-that-could-hurt-gop-georgia/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5ULF34BMLAI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump's false fraud claims could threaten GOP hopes in Georgia Senate races"
     excerpt: "The president has pledged to devote \"125%\" of his energy to the election he lost, despite the raging coronavirus pandemic."
     publishedDateTime: 2020-12-04T00:42:00Z
@@ -214,6 +230,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/12/03/ap_20307090660462_wide-103ecc72e5af7c1f6c6716c222801344b3b18ce3.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Trump refuses to fade away"
+    excerpt: "In terms of law or conventional politics, Trump's post-election gambits make little sense. But judging them that way misses the point."
+    publishedDateTime: 2020-12-04T16:04:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2020-12-04/trump-refuses-to-fade-away-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 105
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/df03110/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2Fe1%2Fd62ca55b476e916665f439fbff41%2Ftrump-26539.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump roils Georgia GOP as party waits to see if presidential visit helps — or hurts — in crucial Senate runoffs"
     excerpt: "The president’s baseless claims of fraud in the November elections have sparked a Republican civil war in the state, where voters will return to the polls on Jan. 5 in a pair of races that will determine control of the U."
