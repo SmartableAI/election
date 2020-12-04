@@ -2,9 +2,9 @@
 category: news
 title: "Coronavirus live news: Biden joins ex-presidents in pledge to get vaccinated in public as global deaths pass 1.5m"
 excerpt: "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m"
-publishedDateTime: 2020-12-04T01:31:00Z
-originalUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc98c898f08b46221a1a664"
-webUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc98c898f08b46221a1a664"
+publishedDateTime: 2020-12-04T01:58:00Z
+originalUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc994b08f08b46221a1a6aa"
+webUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc994b08f08b46221a1a6aa"
 ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 360
     isCached: true
 
-secured: "i3iw6KXjV6TIgLRCgYiWTAzu16//FRU7hyePuJBLh/X5KuEwMiLaQtT9JLzxSeKUXEP/v0/FttfuF8+nF768peb/gj0VLl2pKz9xiZxzV0NmPkTp2P8zBz8/lOAUVxzMLULnniBYC5SfNEg7oPRkmS0QKUlxYG1P1Ziaxyrs5XRA7X8yJd8iV9eeJ/qkRNPvseDhPk2MCbRKqmzABCSBoxz0ieX0FFzsC62PC0SQf7+ex1AhvB/Zma/9SVVW+qGI1w1xDwXCbp7rMmj2B4auniCtUWbZuPMfk5SVyn/dSMcx7/rqTvVWgnPMloAgnmcieEabv3D9N48gSpuKiWnXTKeK23ZeDBkF9cqiNfRdlSw=;Zp7y3knpLat9lmmqmFrIBQ=="
+secured: "IvZwaewJ3tNUZqBEoRZ+ijY9Cqk9NI9E7E8fuRqKO+zv+KWOfhKJb47XRCr7njFYiMrZwCwGe7Pn0rjqOIkTbhlSV+o0k3W0IsrflD07zWirCdCq0cXbO9m7Ic9xAGZly0TIIc+0dYE7aJAlUsRlhFWmw1BhKSFXmXpZ2Dei9xju1f/qGEk8s8Js0DyfenLu1wiCv7uSjKhqiifyuhHNp35OUx5yF/vQZG9VXwt0PWdT5OBqC5bGsb3YPYqxIjm04udv1+BIrgQEgv6YrZivgeajJWhv0i1vVFf/y8Z2ZVzod0WKIXCObTB7xhoCrlVHqagbdct86MF7yNH3IfKCgUd2AMvo/DZSyXfU4GgmqQU=;Omrsc4FoDOMhcg5zp30SsQ=="
 ---
 

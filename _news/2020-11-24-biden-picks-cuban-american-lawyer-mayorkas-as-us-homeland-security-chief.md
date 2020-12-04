@@ -591,6 +591,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Unveiling economic team, Biden pledges, 'Help is on the way'"
+    excerpt: "President-elect Joe Biden has introduced top advisers he says will help his administration rebuild an economy hammered by the coronavirus pandemic"
+    publishedDateTime: 2020-12-04T07:11:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dde971aafe2f40269ccc2ead36f4bca8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden taps Blinken as secretary of state as foreign policy team takes shape"
     excerpt: "President-elect Joe Biden on Monday named the key members of his foreign policy team, tapping Antony Blinken as the next U.S. secretary of state, Jake Sullivan as national security adviser and Linda Thomas-Greenfield as the U."
     publishedDateTime: 2020-11-23T23:40:00Z

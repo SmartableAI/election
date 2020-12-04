@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-biden-ch
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 1300
+heat: 1320
 published: true
 
 provider:
@@ -574,6 +574,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/d209bfa3a03f58206f01df31391304887c2edad0/501_533_2999_1799/master/2999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a638d3f1e6624eecb32fe34530257b20"
         width: 600
         height: 360
+        isCached: true
+  - title: "Unveiling economic team, Biden pledges, 'Help is on the way'"
+    excerpt: "President-elect Joe Biden has introduced top advisers he says will help his administration rebuild an economy hammered by the coronavirus pandemic"
+    publishedDateTime: 2020-12-04T07:11:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dde971aafe2f40269ccc2ead36f4bca8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden picks Cuban-American lawyer Mayorkas as U.S. homeland security chief"
     excerpt: "President-elect Joe Biden will nominate Alejandro Mayorkas to become U.S. secretary of homeland security, Biden's transition team said on Monday, entrusting the Cuban immigrant to help reverse outgoing President Donald Trump's hard-line immigration policies."

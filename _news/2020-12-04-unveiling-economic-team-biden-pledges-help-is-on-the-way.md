@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Wisconsin counties finish recounts, Biden's lead reconfirmed"
-excerpt: "The recount of presidential ballots in Wisconsin’s two largest counties finished on Sunday, confirming that Democratic President-elect Joe Biden defeated President Donald Trump in the key swing state by more than 20,"
-publishedDateTime: 2020-11-29T17:38:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-wisconsin/wisconsin-counties-finish-recounts-bidens-lead-reconfirmed-idUSKBN2890R2"
-webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin/wisconsin-counties-finish-recounts-bidens-lead-reconfirmed-idUSKBN2890R2"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890R2"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890R2"
+title: "Unveiling economic team, Biden pledges, 'Help is on the way'"
+excerpt: "President-elect Joe Biden has introduced top advisers he says will help his administration rebuild an economy hammered by the coronavirus pandemic"
+publishedDateTime: 2020-12-04T07:11:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
+webUrl: "https://abcnews.go.com/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542819350&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0J3"
-    width: 1022
-    height: 545
+  - url: "https://s.abcnews.com/images/Politics/WireAP_dde971aafe2f40269ccc2ead36f4bca8_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -238,6 +238,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Wisconsin counties finish recounts, Biden's lead reconfirmed"
+    excerpt: "The recount of presidential ballots in Wisconsin’s two largest counties finished on Sunday, confirming that Democratic President-elect Joe Biden defeated President Donald Trump in the key swing state by more than 20,"
+    publishedDateTime: 2020-11-29T17:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin/wisconsin-counties-finish-recounts-bidens-lead-reconfirmed-idUSKBN2890R2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890R2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890R2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542819350&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0J3"
+        width: 1022
+        height: 545
         isCached: true
   - title: "Biden budget pick Neera Tanden a lightning rod in Washington"
     excerpt: "Neera Tanden, President-elect Joe Biden's outspoken nominee to head the Office of Management and Budget, faces a challenge winning Senate confirmation after a Washington career in which she has crossed powerful figures on both the right and left."
@@ -574,22 +590,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/d209bfa3a03f58206f01df31391304887c2edad0/501_533_2999_1799/master/2999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a638d3f1e6624eecb32fe34530257b20"
         width: 600
         height: 360
-        isCached: true
-  - title: "Unveiling economic team, Biden pledges, 'Help is on the way'"
-    excerpt: "President-elect Joe Biden has introduced top advisers he says will help his administration rebuild an economy hammered by the coronavirus pandemic"
-    publishedDateTime: 2020-12-04T07:11:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_dde971aafe2f40269ccc2ead36f4bca8_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Biden picks Cuban-American lawyer Mayorkas as U.S. homeland security chief"
     excerpt: "President-elect Joe Biden will nominate Alejandro Mayorkas to become U.S. secretary of homeland security, Biden's transition team said on Monday, entrusting the Cuban immigrant to help reverse outgoing President Donald Trump's hard-line immigration policies."
@@ -948,6 +948,6 @@ related:
         height: 660
         isCached: true
 
-secured: "5593bNLy4oKi2qYiJZ0G+VhpbrWtOosdhZD/lKhx3DLEOPD/lEn906rFk/PdWcpLC/zE9MoYxpUfyZWV/0rw9B+xG9NK7THrUReRS2epnIzS9oA+XmHQFWf1l+BnsbnLhdYu9RKwit+Ua518aXqiT/b3Woip16fus3ozBxj09fStZpe8FwOMMNu4V91knMwYpi09nAoHNkySexe/vO8i31THVisN5mSLylanrk+BdD8MskgXLWkNG7MrNm+75E2NU5T08ZMtpdrOV5i0C/ndAW6F1VcnCZ9lUlweIfJ2FRUPIsiRFPBvVp8g68sQKjF/Ovavv8tDbaBY0NF56lEwkmpKn3QrdRILSOUVxKGQ51OHzXYybBxaEqdhD5o8QApfPeOj3wECkYQs23L1no+FhtWl4p1wPRMcUHDZc3YXXEUhCcbCZ8qP/L/4XPTrf1CAjtwlFtFd5LSZTbFc7JsuWUX9xL6upXbFf6Xt6P8dHoeMC6hzc4PRRKft3aqp1KCV+LJthAxySAeQabPQSBJAbA==;9IPFpSVBF0kBrYJ966+Aaw=="
+secured: "V+Aek6d2GIE8BLm5kKTCVCOZKLEX2T2Fb4/K7zSYG8HA2/hxQ58ufjRdTXC7il8O4f7eCvyp/AMj9Q8f7xGOlb3eMe970tMW/p9vA0EUKvElxzroUJMFvlo5QmfyLXgjkaKIn7kicxLKejfr7XZINEdUhgxUiOTryJgedzU6DIGOHLGqTUpFxwWiQfFB536fQTSUlSnROMJ/SgUe1Zo9jZJGzx5hFAGYxUfZy7Hej4PAxeT6R9xdAMsBRUy/z9zwqf7fH76sFk/3NvQ54cIN4NUQGgVYNUes8ygZsmKAQ+OBp7a8u1jZrmMY0572DbsRd7rsF9uhhOBoGOsZ++tI0P0dH4k+anITawU0gzKxwNk=;ipaSqSZUR8bQ5us/G0NDzQ=="
 ---
 

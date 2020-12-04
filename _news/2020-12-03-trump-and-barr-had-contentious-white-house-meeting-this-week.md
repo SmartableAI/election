@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attor
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kwe_trump_barr_pardon_investigation_201202_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump rebukes Barr, complains AG ‘hasn’t done anything’ with baseless fraud claims"
+    excerpt: "The president also said Justice Department officials “haven’t looked very hard, which is a disappointment, to be honest with you.”"
+    publishedDateTime: 2020-12-04T03:16:00Z
+    webUrl: "https://www.politico.com/news/2020/12/03/trump-william-barr-fraud-claims-442641"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/557ffa23-c050-4521-b292-a1030422be9d/28017a41-ef89-4e1d-a00e-6f91e74ebf57/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "xRc9f2hs5fwSMCZg2Dssx1kfyiylPXM/PigSAN/Ft9MssbLIPX8Jgpf9B2mnayaLviXS6Gu1HkIjDe/GDrzPoPxM3R1tzskRC96PwmQpHFG3DDfqFLJ6f4coCLWhCrtp4VkfHl0JxBrSHZ8mghF7JyM4FyLpXAam03QtFZe11ybNQsMI45M3CUO04udeISxZJHFmZD3mymfRSZ+ajOScjrNEVEF1ToUJePCxw6rvlnATXrEPKFzCiyPp1sirOj3De7/cJSeJ2itTzz/SgjM04euSzEo9fmWzvg3fvSYDU3XD8xs+oSAaMZNPlDOV57ABQ5XzSgFqBS390U9XmlBQPvs7W7CW7ChoNmyVYVjayiE=;xfYx7tRXh4Qnc6peLN9mpw=="

@@ -80,6 +80,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump rebukes Barr, complains AG ‘hasn’t done anything’ with baseless fraud claims"
+    excerpt: "The president also said Justice Department officials “haven’t looked very hard, which is a disappointment, to be honest with you.”"
+    publishedDateTime: 2020-12-04T03:16:00Z
+    webUrl: "https://www.politico.com/news/2020/12/03/trump-william-barr-fraud-claims-442641"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/557ffa23-c050-4521-b292-a1030422be9d/28017a41-ef89-4e1d-a00e-6f91e74ebf57/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "+HheeYi4XTZCfSfoWRv1t3z6BwJgW3suCmF2B5pLnoooxy2QfOb8yqAVLCoRPK7N0w91fBFvn+dRkDbogJaDs1x0i4ygDRLmkHDA1PM/Vw7uqjyZt3LOXFx9V9UDjcG6s/hJCzOY11E6IXxTH8TppXTEn8Gor0UkV5NZPxqYRk21xwiSGdaYuQ9WauS/4oDV/QUrUDPbcQmi4g0nmmpDJxKOdgh1qwxTeqCHeHJdsTNdO96fIAbrI0QAa6uGZ9HRCQjXoWrBMQy5TAkVMwaRc8RWbqsIjDYb2bHy+9dilJi9oxOi0jY1KID+UrvoTyNs6M2YXHdPuL192aXLoPB18tlUEn+iPeIj0qDyQ/bCBRc=;3S5pbcC+l6cVVndZ5ow+iQ=="
 ---

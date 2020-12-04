@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tulsi Gabbard urges Senate to vote 'NO' on this Biden cabinet pick"
-    excerpt: "Democratic Rep. Tulsi Gabbard is urging her fellow lawmakers in the Senate to block President-elect Joe Biden's pick for director of the Office of Management and Budget (OMB), Neera Tanden. "
-    publishedDateTime: 2020-12-04T01:06:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1OaDSS6LeCw/tulsi-gabbard-urges-senate-to-vote-no-on-this-biden-cabinet-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/tulsi-gabbard-urges-senate-to-vote-no-on-this-biden-cabinet-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tulsi-gabbard-urges-senate-to-vote-no-on-this-biden-cabinet-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61989ecd-cf0c-4a0c-9321-0dcc13895462/a924ee0b-f4af-40e4-a671-eb2276b1ca0d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Tulsi Gabbard urges Trump not to 'back down' against Big Tech"
     excerpt: "Democratic Hawaii Rep. Tulsi Gabbard urged President Trump to stand his ground in a legislative fight against Big Tech Wednesday night -- after the commander-in-chief threatened to veto a defense spending bill if it didn’t also repeal federal protections for social media companies from certain liabilities."
     publishedDateTime: 2020-12-04T00:06:42Z
@@ -62,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Gabbard-GETTY.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Tulsi Gabbard urges Senate to vote 'NO' on this Biden cabinet pick"
+    excerpt: "Democratic Rep. Tulsi Gabbard is urging her fellow lawmakers in the Senate to block President-elect Joe Biden's pick for director of the Office of Management and Budget (OMB), Neera Tanden."
+    publishedDateTime: 2020-12-04T08:01:00Z
+    webUrl: "https://www.foxnews.com/politics/tulsi-gabbard-urges-senate-to-vote-no-on-this-biden-cabinet-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/tulsi-gabbard-urges-senate-to-vote-no-on-this-biden-cabinet-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tulsi-gabbard-urges-senate-to-vote-no-on-this-biden-cabinet-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61989ecd-cf0c-4a0c-9321-0dcc13895462/a924ee0b-f4af-40e4-a671-eb2276b1ca0d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Knqcd6xEePIxLggCRYIuxoQQ/JZ/ncvDcxmraI8sXn2F6f4reAG74zNOyKv2i98aDGnPB6wBFYiz23/jswerXdacdgmSNN12pxC/co8JNeVKNbPZF6MZ/8QKZRO+hH/qVgBda39TsrsEXvTCmCluiWJ4GLom09mTVfShc6RTE+1ZafI4pSc4iU2qRbkGmCyjPeo+7XeW7C7IQTcli+y3npjHoVJD4QPK6LRPf8lO6P0znp3fRSo0SNDf7SghxM6efDuDzHb6c9QetFK8BYinkv3keci/8DuJJ9ZT91swPk57b8sVJBUmOVWhNgGlO/oYFJnrx178NqdOWsqvku+Kpt13Gxjt5dr3w0c0nvthhzQ=;6CmyEhb2ZRZ/Rh/y+wEwzQ=="

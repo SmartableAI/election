@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Trump loves to win but keeps losing election lawsuits"
-excerpt: "In his quest to cling to power, President Donald Trump has managed to lose not just once to Democrat Joe Biden but over and over again in courts across the country"
-publishedDateTime: 2020-12-04T05:32:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/1dc78288-35f2-11eb-9699-00d311f13d2d_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/1dc78288-35f2-11eb-9699-00d311f13d2d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/1dc78288-35f2-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/1dc78288-35f2-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+excerpt: "For a man obsessed with winning, President Donald Trump is losing a lot."
+publishedDateTime: 2020-12-04T05:40:00Z
+originalUrl: "https://www.businessinsider.com/trump-loves-to-win-but-keeps-losing-election-lawsuits-2020-12"
+webUrl: "https://www.businessinsider.com/trump-loves-to-win-but-keeps-losing-election-lawsuits-2020-12"
+ampWebUrl: "https://www.businessinsider.com/trump-loves-to-win-but-keeps-losing-election-lawsuits-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-loves-to-win-but-keeps-losing-election-lawsuits-2020-12?amp"
 type: article
-quality: 140
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "They’re baaack: Trump and allies still refuse election loss"
@@ -1201,6 +1195,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "L+6p0shcFpP0jKNbj3fbMemVC2x4Qwbb8QGG1hBQbMZu9sMmyRDE8m92RTdZzGNzMUWnRR0nHl+24oZXYVe6nLfxY0lpLh926zAemp6a8Gfbc1n5xRQEhhTxsUwIEzZoeqALdVsn3T8C70gI877HDRi/dcBnE+hS7N3GBUQ+8N37DkMABbt+GU/RZGS6iqj0X7g2Cnz7+e1hzxACVVYettuIaVzxvHKUdyDN+qNl/jXuBN4vDwgFCzoUvVQ8zWJevdnIecIGHf8nI3KuYnrlDbjjITHfxqza3cWEddlBU0MRHedfS4G7/tT3PXDwHs/+ziPfPDIHeY9p2SC8T6haPB87O+XdZjas0si7k5zseBQ=;6jBoh9X4VdHBa2Y26xP9fw=="
+secured: "nTgGHDAArfnu4oodNBFETqRmBRohzcxcmhSRRyrzlxSXTJ85bTx/+BNrv93FECaGHOpJD5q55GNQeqQCRwWA8O8beBMsDSL0ujPuAPpAT9FiV77U8q8RfUSnof3CPKCKLJ+WG+lUeQjT2tdAzouy2ugysBh/Cujv6gthdPZWwHrgIMLKfvRSbJrQVDaWoepzfdwqe5VL3kpWf3Pe5xa2QWl6V0fYWZmbLKFZyvudlptfCQJIDlJKXBqONbX6aGLYCXnf2mxAgkjrYHlBfft4hcWLtCPhNpNnDjhKXoHWxxqZ4bwQrDZCR4gO50+z3bBrl3H4hOfiI0+NXY7nLERTi+cxMrCs42qe68bTI7HJ9r0=;3GKhFNuWQ2CzpM/P69P7xg=="
 ---
 

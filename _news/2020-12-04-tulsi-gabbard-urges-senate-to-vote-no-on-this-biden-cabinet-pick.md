@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Tulsi Gabbard urges Senate to vote 'NO' on this Biden cabinet pick"
-excerpt: "Democratic Rep. Tulsi Gabbard is urging her fellow lawmakers in the Senate to block President-elect Joe Biden's pick for director of the Office of Management and Budget (OMB), Neera Tanden. "
-publishedDateTime: 2020-12-04T01:06:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1OaDSS6LeCw/tulsi-gabbard-urges-senate-to-vote-no-on-this-biden-cabinet-pick"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1OaDSS6LeCw/tulsi-gabbard-urges-senate-to-vote-no-on-this-biden-cabinet-pick"
+excerpt: "Democratic Rep. Tulsi Gabbard is urging her fellow lawmakers in the Senate to block President-elect Joe Biden's pick for director of the Office of Management and Budget (OMB), Neera Tanden."
+publishedDateTime: 2020-12-04T08:01:00Z
+originalUrl: "https://www.foxnews.com/politics/tulsi-gabbard-urges-senate-to-vote-no-on-this-biden-cabinet-pick"
+webUrl: "https://www.foxnews.com/politics/tulsi-gabbard-urges-senate-to-vote-no-on-this-biden-cabinet-pick"
 ampWebUrl: "https://www.foxnews.com/politics/tulsi-gabbard-urges-senate-to-vote-no-on-this-biden-cabinet-pick.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tulsi-gabbard-urges-senate-to-vote-no-on-this-biden-cabinet-pick.amp"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -64,6 +65,6 @@ related:
         height: 320
         isCached: true
 
-secured: "rjSSwaOFpSczDNoya7WGJI+RJNH9OfmbHzbAWfhLUgz4gBxMZl0S477hq33Ve8SALDuMq+xhDuAVON15QoIys+kx6HEssIYWreB48oAJsMpNFL+93XP7YSukpphYyxBDZ7UKc4Bh3dsUCE3FzEp1HTWJoS9pV/7v4A4g33jcaVjrf74C+uIwx4+rYqea3WcbXhLmMzv7GLUrQdGrPuy5ea5UicIMl8XjsXKJPepXaYNnwFK3Z5//9xwEG1dWy7Kfl63hVa13e/eMwt9EfbtF0EMJHunDXzbDmgXQhpslDSpRJNkIq1cAXsrsH4UENrZl1V8U4zjmf7nEXqgjWKzhVYuC91OTrcBHnlDNV67Ljrs=;noh0WrahmRM7mkWBzSw4fw=="
+secured: "mXFkY3XnjPl0kL96F02TuqIsnyY5Jbm20DOKxTw+QUI2yvXYadcCxoaE0TLIaM/W7J7V6RZDH1lXS7xK3AJfcDTQgrtfcyAe0f1syDQYoVW/qzi+HONj4f/wTTl2ux2NB2SgXP45ZdqjLsauNH6nhipvy4sYd/fMmd4MuBocOk252EzhsRLpzOxmbra6pJVSVDyO+CoDlSvkd2iNSR8f5OROeP/HUtivL+ugNj0qLO+FpqWIEEoua3tCOihQaQJy/842a5PK0YD7NA3xTeGSKwOyWN/VWebelR0GQQTyabTPFp9rTy7CxEs3Uyr07Wq/tydoPv/6db4x58hhJ25GNr5Gy70qmpYTagVMNLiNqy8=;0madAhp8jiiht38o1nCsOQ=="
 ---
 
