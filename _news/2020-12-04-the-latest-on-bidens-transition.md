@@ -3,8 +3,8 @@ category: news
 title: "The latest on Biden's transition"
 excerpt: "President-elect Joe Biden forges ahead with transition plans as President Trump refuses to concede and pursues legal challenges to the election results. Follow here for the latest."
 publishedDateTime: 2020-12-03T21:19:00Z
-originalUrl: "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-12-03-20/h_eab09fb31baa58e59e8916dee442001b"
-webUrl: "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-12-03-20/h_eab09fb31baa58e59e8916dee442001b"
+originalUrl: "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-12-03-20/h_075faf0fcf43f858af6d329adb622f89"
+webUrl: "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-12-03-20/h_075faf0fcf43f858af6d329adb622f89"
 ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-trump-us-election-news-12-03-20/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-trump-us-election-news-12-03-20/index.html"
 type: article
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_505/b354f87e-1d51-4448-8ff7-a41c91e22332.jpeg"
+  - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/347f2b12-bb8c-4106-8cd5-9824298f308d.jpg"
     width: 900
-    height: 505
+    height: 506
     isCached: true
 
 related:
@@ -177,6 +177,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "znIHTxY09a+esXNoLyRcP7m6AOKUCzpMkWT6JrL3vtxVgJrLdOzno6kixlXQgGP1euTrxj0tfBvu9TNA8Omv2g65vqh/6bHKny/XxnLk+vnyiQCkKGW14JSGbFM9xlJkygSM9cYcGoSOqjjLJHWPyDUnuhkDCa9eUDGxPcQc5t0ASrNU6+EqFJB71MFYKiE3hcT/RFSwsdWPw8SLFAMxxlrxmTn6oc5Vnh1AnaWkoPtapoEcgvKv3tl261PT6Oe/DnitTBUrJIkViByYuwx8EMQpO9laYBkQKSz0cyr5Zag8KqDKMgUuQL2oZo9TRFASZIvBMPeG/Hvd91Tzjsfkezg94vHZMWajrb/u1ge0iFw=;zgS7fjMhqUZyUFUB6wRNCw=="
+secured: "UJYUIykI6QJk54nDEr7wX7rYs0koHQ/fW6fGW+DYTnnjZXvz0EbV8NFWf3qnMK4b3FxPBnTBC28B7h8V4ENgd02O91xbyNVvCKTd+ry1xER+/u11Oo9H4z72heB6krnQ0rLj3GXyCAbHMRCdfaln7CHQxNr2IzsSki2z1+E7mLZx9zxiy5NPTa4lPAsihlwmm9Kaq9gdE7BFPPeOX7BiBPkfFLc/RoAhFu6LqnqgMYl3zig0fDXaa0SCpr0g+GcOTbOLjg0hw54r35OmV0V6dbom8WS8DcQOvX1Txr5f5A3IfISeo/lxdt8UULxrrVzpqSe3EnSwblWNz767nku4Dv2PW7ze2S1uuGk4v9eKjNs=;155ZdXsVdfbdi6q6RDpgBg=="
 ---
 

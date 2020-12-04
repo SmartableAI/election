@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-mi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp"
 type: article
 quality: 190
-heat: 370
+heat: 390
 published: true
 
 provider:
@@ -122,6 +122,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-266615/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Wisconsin’s Highest Court Turns Away Trump Lawsuit Challenging Election Defeat"
+    excerpt: "Wisconsin’s high court dealt another setback to President Trump’s efforts to overturn his defeat to President-elect Biden, turning away a lawsuit challenging the validity of hundreds of thousands of mail-in ballots."
+    publishedDateTime: 2020-12-04T02:03:00Z
+    webUrl: "https://www.wsj.com/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
+    ampWebUrl: "https://www.wsj.com/amp/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-267926/social"
         width: 1280
         height: 640
         isCached: true

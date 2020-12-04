@@ -162,7 +162,7 @@ related:
   - title: "The latest on Biden's transition"
     excerpt: "President-elect Joe Biden forges ahead with transition plans as President Trump refuses to concede and pursues legal challenges to the election results. Follow here for the latest."
     publishedDateTime: 2020-12-03T21:19:00Z
-    webUrl: "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-12-03-20/h_eab09fb31baa58e59e8916dee442001b"
+    webUrl: "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-12-03-20/h_075faf0fcf43f858af6d329adb622f89"
     ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-trump-us-election-news-12-03-20/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-trump-us-election-news-12-03-20/index.html"
     type: article
@@ -171,9 +171,9 @@ related:
       domain: cnn.com
     quality: 135
     images:
-      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_505/b354f87e-1d51-4448-8ff7-a41c91e22332.jpeg"
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/347f2b12-bb8c-4106-8cd5-9824298f308d.jpg"
         width: 900
-        height: 505
+        height: 506
         isCached: true
 
 secured: "3rYkN/SjMgW+aB24OOuPQwP/vusJB5iIoYm6vckZK8/SOdGkBosWhIaeTSOuFvHsC9HmO8ZgxoKrOGfnKHakytEmF0n0YMxXvqiUgaHJXkWfBlan2j4zmyfOzVJkvNR1Ao326JTI8AB7dU+kNZr022Ptg20R4N17G13PlblZkvIBhkoMBvcr2kzQFd6lONrs/DECUVW3fcDOJbwnBBU+IS8Iy8h3RZagfhk7m8kmtPCQuuWBMMSTxCm3L8a1IWzWxG1hoW3PsVwK9Pi2gD3HjRJdtqbWvjPVWt3fK6nQnGx+u4Fd5oUwRLdjyGFLC2BaVVQGeqNqmAW/hoNtBBKMAtrjX96myoWqHrsH05OPE6w=;fCrNaro1wrweRCgf1qP0Gw=="

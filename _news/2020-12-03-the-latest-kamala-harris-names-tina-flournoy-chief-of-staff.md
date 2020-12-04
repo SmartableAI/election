@@ -179,6 +179,22 @@ related:
         width: 1024
         height: 766
         isCached: true
+  - title: "San Jose teen artist wows Kamala Harris, wins national acclaim"
+    excerpt: "A San Jose teen artist who recently won raves from Kamala Harris for a portrait he painted of the Vice President-elect, is now earning national acclaim. Tyler Gordon, 14, has been named a Top 5 finalist for Time magazine’s first-ever Kid of the Year honors and will be among the talented youngsters featured in a Nickelodeon television special Friday night."
+    publishedDateTime: 2020-12-04T02:09:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/time-koty-tyler-gordon.jpg?w=800&h=532"
+        width: 800
+        height: 532
+        isCached: true
   - title: "VP-elect Kamala Harris picks Tina Flournoy to be her chief of staff"
     excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
     publishedDateTime: 2020-12-03T17:22:00Z
@@ -242,6 +258,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/5851606665676/2020/1/5226819b3561030471050fc4702b6888/v1.5/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday.jpg"
         width: 800
         height: 531
+        isCached: true
+  - title: "Kamala Harris has so far picked an all-women staff to aid her in the White House"
+    excerpt: "Harris transition team announced Thursday that Vice President-elect Kamala Harris will name Tina Flournoy to be her chief of staff, and add Rohini Kosoglu as domestic policy adviser and Nancy McEldowney as national security adviser."
+    publishedDateTime: 2020-12-03T16:31:00Z
+    webUrl: "https://theweek.com/speedreads/953069/kamala-harris-far-picked-allwomen-staff-aid-white-house"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/953069/kamala-harris-far-picked-allwomen-staff-aid-white-house"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/953069/kamala-harris-far-picked-allwomen-staff-aid-white-house"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 70
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229768868.jpg?itok=UkBYZVJy&resize=450x300"
+        width: 450
+        height: 300
         isCached: true
   - title: "Vice President-elect Kamala Harris assembles staff as she builds her vice presidential portfolio"
     excerpt: "The staffers, all of whom are women and two of whom are people of color — highlight the incoming administration’s commitment to diversity."

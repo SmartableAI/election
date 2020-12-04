@@ -763,6 +763,22 @@ related:
         width: 846
         height: 545
         isCached: true
+  - title: "Ivanka Trump questioned under oath in lawsuit over use of inauguration funds"
+    excerpt: "Ivanka Trump, the president's daughter and adviser, was questioned under oath this week as part of a civil lawsuit alleging misuse of nonprofit funds for Donald Trump's inauguration four years ago."
+    publishedDateTime: 2020-12-04T01:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-inauguration/ivanka-trump-questioned-under-oath-in-lawsuit-over-use-of-inauguration-funds-idUSKBN28D05K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D05K"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D05K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543273411&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB2035"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Eye Opener: Trump, Biden address Americans on Thanksgiving"
     excerpt: "President Trump answered questions from reporters for the first time since the election, and said it would be \"very hard\" for him to concede. Also, President-elect Joe Biden called on Americans to do their part and stay calm in his Thanksgiving address."
     publishedDateTime: 2020-11-27T14:47:00Z

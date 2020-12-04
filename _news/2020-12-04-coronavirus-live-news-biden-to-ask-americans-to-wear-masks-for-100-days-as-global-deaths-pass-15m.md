@@ -3,8 +3,8 @@ category: news
 title: "Coronavirus live news: Biden to ask Americans to wear masks for 100 days as global deaths pass 1.5m"
 excerpt: "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m"
 publishedDateTime: 2020-12-04T00:24:00Z
-originalUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc980148f08b46221a1a5e4"
-webUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc980148f08b46221a1a5e4"
+originalUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc97cce8f08d350f1751189"
+webUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc97cce8f08d350f1751189"
 ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
 type: article
@@ -64,6 +64,6 @@ related:
         height: 675
         isCached: true
 
-secured: "iUIZIgHFM4XE1n9ztHdR1u2lB3fASUGLMfq3AUIG3AUwLKWkq6kOZoBcvDZyK3Sbnn48pfTikGYjmKHEMLnk+7dpm9i++eafkIO7aXavqUbG1eCiq09eIP5V4A/hTIIRNknYXsAcGJmgDzBR5eEu51p8cQ+YegM1sHtZ/uO+7pV8A5RcA1hphCLpw/w+g/wmvTmSFkoatVcR4F8LkISkNb1czzv0KXDwm6+8Wb5SGn3wTt9jnOMW6Kv0sDbM1pY8qDE8UFuvTM3Q9zRw5Ca45+iIOqhjjdj+fXjocoZgWblGk/CnkLchf2PU+SYkhU6KJG40xKJjyVpAei403i7rlEjfBntdCALR2lE/oBm4qz0=;OBN0UuAddjqh/Z5gTKXbow=="
+secured: "ghxRN1n1wTYItbZfmrhlEQmuX7W26Lzff8pmCf61Q6styv/jC/GdiHgDSz0CgokJLCkaVZVcuVvkKAvCfq8rxCnygFk0lYN7PXXPDWJY0Sd+VB5H9UZ6zdhrKL0GUdh1mg5zgMCJ5Zj21SbEg1zobDL+kTyvphmncz3E7IP9TGQCCfdTuwZJUOh3eYRI0FBC3SnWOctH0xds5Gt2ABPO+WIRze5uW8F9PgyvLX29QMkgEUdffq3syFJCB5hoNTcQcGMPuz8TidMpFyWRmBYZBYs/SS1Kxk9+AA6j1oguGapFGf+AL9LG9Uh5ISuj4OqrkL+6tQjA43/gIkMHbfZB+rbFMq3DVQ4I+n+UafZyUdw=;KKZm2RxCjc1GW3urIg8rdQ=="
 ---
 

@@ -105,6 +105,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Wisconsin high court declines to hear Trump election lawsuit"
+    excerpt: "A divided Wisconsin Supreme Court has refused to hear President Donald Trump’s attempt to overturn his election loss to Democrat Joe Biden in the battleground state"
+    publishedDateTime: 2020-12-04T02:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/wisconsin-high-court-declines-to-hear-trump-election-lawsuit/2020/12/03/ff896c72-35d4-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-high-court-declines-to-hear-trump-election-lawsuit/2020/12/03/ff896c72-35d4-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-high-court-declines-to-hear-trump-election-lawsuit/2020/12/03/ff896c72-35d4-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Wisconsin Supreme Court rebuffs Trump challenge to election results"
     excerpt: "The Wisconsin Supreme Court on Thursday declined to take up a case by U.S. President Donald Trump's campaign challenging the Nov. 3 presidential election results in the state, the latest in a string of losses the campaign has suffered."
     publishedDateTime: 2020-12-04T00:40:00Z

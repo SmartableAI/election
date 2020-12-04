@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
 type: article
 quality: 179
-heat: 279
+heat: 299
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump Associates Said to Have Been Scrutinized in Suspected Pardon Scheme"
+    excerpt: "A billionaire from San Francisco sought clemency for a psychologist convicted of monetary crimes. The Republican donor Elliott Broidy and a lawyer for Jared Kushner were enlisted."
+    publishedDateTime: 2020-12-04T01:34:00Z
+    webUrl: "https://www.nytimes.com/2020/12/03/us/pardon-elliott-broidy-abbe-lowell.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/03/us/pardon-elliott-broidy-abbe-lowell.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/us/pardon-elliott-broidy-abbe-lowell.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/03/lens/03dc-pardon-justice/merlin_180727236_7067670e-968d-44e7-b237-21f48bffbe6e-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Presidential Transition Live Updates: Trump Team Files Last Ditch Lawsuits Ahead of Deadline to Finalize the Election"
     excerpt: "The safe harbor deadline — the date by which any election controversies must be settled — is Dec. 8. President-elect Joe Biden’s nominees send a clear message that his economic policymaking will be shaped by liberal thinkers."

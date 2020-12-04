@@ -183,6 +183,22 @@ related:
         width: 1024
         height: 766
         isCached: true
+  - title: "San Jose teen artist wows Kamala Harris, wins national acclaim"
+    excerpt: "A San Jose teen artist who recently won raves from Kamala Harris for a portrait he painted of the Vice President-elect, is now earning national acclaim. Tyler Gordon, 14, has been named a Top 5 finalist for Time magazine’s first-ever Kid of the Year honors and will be among the talented youngsters featured in a Nickelodeon television special Friday night."
+    publishedDateTime: 2020-12-04T02:09:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/time-koty-tyler-gordon.jpg?w=800&h=532"
+        width: 800
+        height: 532
+        isCached: true
   - title: "VP-elect Kamala Harris picks Tina Flournoy to be her chief of staff"
     excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
     publishedDateTime: 2020-12-03T17:22:00Z
@@ -246,6 +262,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/5851606665676/2020/1/5226819b3561030471050fc4702b6888/v1.5/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday.jpg"
         width: 800
         height: 531
+        isCached: true
+  - title: "Kamala Harris has so far picked an all-women staff to aid her in the White House"
+    excerpt: "Harris transition team announced Thursday that Vice President-elect Kamala Harris will name Tina Flournoy to be her chief of staff, and add Rohini Kosoglu as domestic policy adviser and Nancy McEldowney as national security adviser."
+    publishedDateTime: 2020-12-03T16:31:00Z
+    webUrl: "https://theweek.com/speedreads/953069/kamala-harris-far-picked-allwomen-staff-aid-white-house"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/953069/kamala-harris-far-picked-allwomen-staff-aid-white-house"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/953069/kamala-harris-far-picked-allwomen-staff-aid-white-house"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 70
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229768868.jpg?itok=UkBYZVJy&resize=450x300"
+        width: 450
+        height: 300
         isCached: true
   - title: "Vice President-elect Kamala Harris assembles staff as she builds her vice presidential portfolio"
     excerpt: "The staffers, all of whom are women and two of whom are people of color — highlight the incoming administration’s commitment to diversity."
@@ -326,6 +358,6 @@ related:
       domain: omaha.com
     quality: 35
 
-secured: "D6IXYmtlc2UOa5j0eWg8s5ymFOVEgvHN7EqumNecnZl+h5T4AWbI6Rqd02YSI15NwJa6yo2XqLtVSG4wPMXbjnh2Uo5pxY2nomo77BSDQECc2JrrsylU0tUt/rI4IbROjbI/8H70WlwBws0OV2x9JirW3TDyyR7vAG/k6VFpE7/1/DGTfRUIzdE81kvAo4dYWFQhtoAGtuFfd8eicTHmkRqRKOaTAUShjMpHuQl7e77psKJarZZ53amt1BHGumyOJsh+y3Hi6Ns0qJWtSB19sIoMNx79EqSgXfKJEwK9Vj/NCeHFnZIIMlu4JiktmfeGTCB4YqHoBrDGhpS0bLNTEY2W+75cfudPrmPuDZaIulU=;PoYFkbo68TOXTLFsZiLtgg=="
+secured: "JNmDMvD09ldfLIMoiC+OdoI2EoPxIEj45YSMGNcH4Iikf/P4QB8pBP04RDbtsBBid4jj89jRYluLBDO0xbBm7HDGANwNcUGgtPTFnzH6V0ybmHpoP6sxI0Cog9+/+Mk+Q5FVtiHD+3aON8d3cE7G0s9uAQIdw+b3PSmPv3K0/ATEZpZjbdiMS0f52hAjV+AkLeFo3fbkDgPWZUfJj6Tdl0gk7MQ6aE85CE6ie1v6NGW2MQeOmQyATyZNgEBYvneAirq64MY85TC6hhZvn0/ah+0ueX4CTeMJakJ9niCsFP92wABOBGhhIVi+dcy6/1gil8KRqHDcbbs0CIlylzxMExwedyPDDwnq2/sBV+GK9omKkhp/HWk5AohEXFUZXzAG7pp4V/hYS3yrf1YfL702ukjWs8hDNae+uCpPotYIQHUiVzu7em2maLr3aOTS9gS5muGX0Wsojw0/RFVOwHicpTDHEKfeAHTOe4Z1beGgeUvaDpJT6AsWkaa3ZXWjZTatIAvPJohmD67tVTFP+nodlQ==;5u2sQg7pJ9oymOCFw/QnGA=="
 ---
 

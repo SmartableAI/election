@@ -543,19 +543,19 @@ related:
         isCached: true
   - title: "Among first acts, Biden to call for 100 days of mask-wearing"
     excerpt: "Joe Biden says he will ask Americans to commit to 100 days of wearing masks as one of his first acts as president"
-    publishedDateTime: 2020-12-03T23:19:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/acts-biden-call-100-days-mask-wearing-74527947"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/acts-biden-call-100-days-mask-wearing-74527947"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/acts-biden-call-100-days-mask-wearing-74527947"
+    publishedDateTime: 2020-12-04T02:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/among-first-acts-biden-to-call-for-100-days-of-mask-wearing/2020/12/03/30082d8e-35da-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/among-first-acts-biden-to-call-for-100-days-of-mask-wearing/2020/12/03/30082d8e-35da-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/among-first-acts-biden-to-call-for-100-days-of-mask-wearing/2020/12/03/30082d8e-35da-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_26f6da94effd4303ba958dd7e0b88fb8_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden taps Deese to head climate-focused White House economic council"
     excerpt: "U.S. President-elect Joe Biden said on Thursday he had selected Brian Deese, who helped lead President Barack Obama's efforts to bail out the automotive industry during the 2009 financial crisis and was a key player in helping secure the Paris climate agreement,"
@@ -856,6 +856,20 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/11/joe-biden-climate-03.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "Perdue tacitly acknowledges Biden administration, despite public pronouncements"
+    excerpt: "In a private zoom call with the Republican Jewish Coalition obtained by The Washington Post, Sen. David Perdue (R-Ga.) referred several times to a new administration run by President-elect Joe Biden."
+    publishedDateTime: 2020-12-04T01:32:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/perdue-tacitly-acknowledges-biden-administration-despite-public-pronouncements/2020/12/03/c37a74dc-9256-49d7-a1c2-81b4ef4927ef_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-04-2020/t_db5a42fdfdc94478a709335819c5af2c_name_Perdue_2.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
   - title: "President-elect Biden considering appointing members of the LGBTQ+ community to his cabinet"
     excerpt: "President-elect Joe Biden is set to have one of the most diverse cabinets the nation has ever seen. Advocates and allies are hoping that diversity includes LGBTQ+ representation as well. LGBTQ Victory Institute Vice President Ruben Gonzalez discusses potential cabinet picks."

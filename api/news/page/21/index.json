@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-11-04-kamala-harris-husband-declares-ohio-a-blue-state-during-election-day-visit-to-columbus.md",
+      "title": "Kamala Harris' husband declares Ohio a 'blue state' during Election Day visit to Columbus",
+      "excerpt": "Underscoring the Democrats' attempt to steal battleground Ohio from Donald Trump - who won the state in 2016 - Doug Emhoff rallies Biden supporters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cincinnati.com/story/news/politics/elections/presidential/2020/11/03/doug-emhoff-kamala-harris-husband-says-ohio-now-blue-state-during-election-day-visit-for-joe-biden/6143275002/",
+      "originalUrl": "https://www.cincinnati.com/story/news/politics/elections/presidential/2020/11/03/doug-emhoff-kamala-harris-husband-says-ohio-now-blue-state-during-election-day-visit-for-joe-biden/6143275002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/03/NCOD/d6aa1413-93fb-40f8-b743-7b7a93b5dd96-MT_emhoff_visit_ea04.jpg?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cincinnati.com/amp/6143275002",
+      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6143275002",
+      "publishedDateTime": "2020-11-03T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cincinnati Enquirer",
+        "domain": "cincinnati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people.md",
       "title": "Trump thanks campaign staffers, predicts 'incredible night': 'Tremendous group of people'",
       "excerpt": "The president spoke for a time to campaign staff and answered questions from the media before hitting the road again.",
@@ -1273,62 +1316,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-obama-heads-to-georgia-as-democrats-seek-breakthrough-that-has-eluded-them-in-trump-era.md",
-      "title": "Obama heads to Georgia as Democrats seek breakthrough that has eluded them in Trump era ",
-      "excerpt": "Joe Biden's campaign is dispatching former President Barack Obama to Atlanta on Monday in a bid to finish Democrats' four-year project of turning Georgia blue.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x_tWL_xhAOE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x_tWL_xhAOE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201031141838-01-obama-flint-michigan-1031-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/02/politics/georgia-biden-obama/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/georgia-biden-obama/index.html",
-      "publishedDateTime": "2020-11-02T06:17:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -545,19 +545,19 @@ related:
         isCached: true
   - title: "Among first acts, Biden to call for 100 days of mask-wearing"
     excerpt: "Joe Biden says he will ask Americans to commit to 100 days of wearing masks as one of his first acts as president"
-    publishedDateTime: 2020-12-03T23:19:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/acts-biden-call-100-days-mask-wearing-74527947"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/acts-biden-call-100-days-mask-wearing-74527947"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/acts-biden-call-100-days-mask-wearing-74527947"
+    publishedDateTime: 2020-12-04T02:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/among-first-acts-biden-to-call-for-100-days-of-mask-wearing/2020/12/03/30082d8e-35da-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/among-first-acts-biden-to-call-for-100-days-of-mask-wearing/2020/12/03/30082d8e-35da-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/among-first-acts-biden-to-call-for-100-days-of-mask-wearing/2020/12/03/30082d8e-35da-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_26f6da94effd4303ba958dd7e0b88fb8_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Iran says it will comply with nuclear deal if Biden lifts all sanctions"
     excerpt: "Foreign minister calls on US to ‘show its good faith’ but appears to rule out renegotiating deal"
@@ -857,6 +857,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Perdue tacitly acknowledges Biden administration, despite public pronouncements"
+    excerpt: "In a private zoom call with the Republican Jewish Coalition obtained by The Washington Post, Sen. David Perdue (R-Ga.) referred several times to a new administration run by President-elect Joe Biden."
+    publishedDateTime: 2020-12-04T01:32:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/perdue-tacitly-acknowledges-biden-administration-despite-public-pronouncements/2020/12/03/c37a74dc-9256-49d7-a1c2-81b4ef4927ef_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-04-2020/t_db5a42fdfdc94478a709335819c5af2c_name_Perdue_2.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
   - title: "President-elect Biden considering appointing members of the LGBTQ+ community to his cabinet"
     excerpt: "President-elect Joe Biden is set to have one of the most diverse cabinets the nation has ever seen. Advocates and allies are hoping that diversity includes LGBTQ+ representation as well. LGBTQ Victory Institute Vice President Ruben Gonzalez discusses potential cabinet picks."
     publishedDateTime: 2020-11-28T21:58:00Z
@@ -918,6 +932,6 @@ related:
         height: 660
         isCached: true
 
-secured: "12Ax+vdwRY8dQ1csRlkKC9SnA5pmVQQzeZyAEzw45Po6S4mTY2FUOY8rIobvjisi94E0GOvd3jq6jYI7qp7cVDEFrBqgACpybRquglYU6Z0XPUDvlCkfFlvVuvFJIlKCxiLiCs11AbhJFqe38I1UiHjgtn8h8mkpyd29/0s5FGfaKc3fwzlGILLxQeMOhX5M8+KjkFgt7yXPukyDyfZfHbjKZeYz3/DOveRS5MVoOL6k3A40JvBayZGkuV3bqllTm1lPnB/DROWalvnb4DrFLrfdQlp1UOBfguNA1d5E56QFyiEyTSskwMF1OAWPK2pOfPiL1BM920jxeRf4xIm78hDdtrgS/c7pXQ4jc/kCrvY=;ky7FnVSqU+p8EKh5iOJO9A=="
+secured: "m2UCLC9yKXxy9a+MkW/wWL5nepcUo+XlY7McftHfOKiP6z/8HCIqSMfMOc2RBNJWXZM+tQf6mJUp8b4R2IhEl36X7sx8y5y23Slarm3G6cRw78wb+0HNgsPVnEJx0gchYofwP1I3fZqNppflQJYTvELALbN082exPDHV608rjSLV6UsXAt/ez2Wwqa/lMDMtXqbbJXIp/AmuqSkIqY3ESd77wKsH0P11J0GxUCCTFlotAh2GHngiBm2ruAlEcxvnoYPiECt31Zo3C0QeNW19ODhiBuq6yKeJa1JLnG76hsNEQD978PszY7SBmvK/dbpnFdkv2IwVlrYmq5OA0yzGffecg46CAGdWtQW+C5mEz0kw0pPYh9v2fJajW4os6tN7ZGxm+TsqFqNMxJEmnT1XFEhZJHre6TQxy2QLyO3HC/iXDZ2+yNo9UklKrI7dswRD7qYU1vKkYe3fTg7lfq02DhFkOG0+Ft/ciblADB4QGcBNtIWhecLXO+6lOjzK9jPcVy1QAos5ATNeRAaByxv4xg==;CA/ZfU+HyY8kDkZKMTjLhg=="
 ---
 

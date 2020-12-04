@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump lawyers claim 40,000 double votes in latest Nevada lawsuit"
+    excerpt: "In a last ditch effort to alter the 2020 presidential election results, the Trump campaign filed another lawsuit telling a Nevada judge they had evidence of deceased people voting and thousands of “double votes.”"
+    publishedDateTime: 2020-12-04T02:41:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kj13mm5-HRQ/trump-lawyers-claim-40000-double-votes-in-latest-nevada-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-lawyers-claim-40000-double-votes-in-latest-nevada-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-lawyers-claim-40000-double-votes-in-latest-nevada-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a64e195d-613f-497c-b982-8620beaf69d9/40a4df0d-ffca-4a63-85ac-0b89771d50a9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump thanks Alabama congressman who says he will challenge Electoral College votes"
     excerpt: "President Trump on Thursday thanked Alabama Republican Rep. Mo Brooks, who said he plans to challenge the Electoral College votes next month when Congress meets Jan. 6 to certify the 2020 presidential election."
     publishedDateTime: 2020-12-03T16:51:03Z
