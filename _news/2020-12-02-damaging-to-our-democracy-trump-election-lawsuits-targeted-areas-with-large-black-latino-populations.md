@@ -111,22 +111,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Wisconsin and Arizona make it official as Trump fails to stop vote certification in all six states where he contested his defeat"
-    excerpt: "The president and his allies vowed to continue pressing legal claims challenging the election results in several states — but such efforts have met with resounding failures in the courts."
-    publishedDateTime: 2020-12-01T08:24:00Z
-    webUrl: "https://www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 96
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NKGJIERTLMI6XDJYNLVBVWZYHE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "ytFYnAeSQHuXfYkxIFFClhYyD+11PhVYY85SkYm5eDr4lq0dWQZqCtjxbKQy9KOe+V7YF/jzewsXuFAzAbYoPrb3lvNM3YBHBgDIbN20FGVJnPrCsQ+OWg+C+eAKbYmR7duNDjx5bJ7VJfYdq3ud2v2kO2k8Q3/uS/CUZQLnu8euacu2zTavUuJBks5eoV+aYp4d0eixW2R+BjCoLwzUyUCQVSuwTgYvB5BYSfNY6OotgacWNQ1hQQkMLR20LYR5TOpjH+u1tGDd0U5lcZuHW1ivgE7ya/klVOlu86f4pc1LDxdJd3A1x4HgpulfAJ7ZoHQERhM+pLmJAWPsiLXQDJj/ELLR4i4Z2RyWFgJV8q8=;i9OgDTJIwDj6wahsmIVF+g=="
 ---

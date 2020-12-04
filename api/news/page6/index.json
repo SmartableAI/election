@@ -2,6 +2,114 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-29-ex-trump-campaign-adviser-carter-page-sues-fbi-comey-mccabe-and-others-for-75m-over-russia-probe-surveillance.md",
+      "title": "Ex-Trump campaign adviser Carter Page sues FBI, Comey, McCabe and others for $75M over Russia probe surveillance",
+      "excerpt": "Earlier this year, the Justice Department found it had “insufficient” cause to wiretap Page during its probe into Russian election interference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/28/carter-page-ex-trump-aide-sues-comey-fbi-over-russia-surveillance/6453096002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/28/carter-page-ex-trump-aide-sues-comey-fbi-over-russia-surveillance/6453096002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/09/20/USAT/eb2eb1d4-d4f5-4121-b463-96276dbb3600-Carter_page.JPG?auto=webp&crop=4999,2798,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6453096002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6453096002",
+      "publishedDateTime": "2020-11-28T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-trump-continues-fight-in-wis-pa-we-have-found-many-illegal-votes.md",
+      "title": "Trump continues fight in Wis., Pa.: ‘We have found many illegal votes’",
+      "excerpt": "President Trump promised to bring a case disputing the Wisconsin vote count after the recount was completed there, and said his campaign was disputing a number of votes far bigger than the margin President-elect Joe Biden won. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/08KthVMg2IQ/trump-fight-wis-pa-illegal-votes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/08KthVMg2IQ/trump-fight-wis-pa-illegal-votes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20331846075368.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-fight-wis-pa-illegal-votes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fight-wis-pa-illegal-votes.amp",
+      "publishedDateTime": "2020-11-28T15:33:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-28-former-top-cybersecurity-official-says-trump-firing-by-tweet-was-not-how-i-wanted-to-go-out.md",
       "title": "Former top cybersecurity official says Trump firing by tweet was 'not how I wanted to go out'",
       "excerpt": "Christopher Krebs, the former top cybersecurity official, said President Donald Trump's decision to unceremoniously fire him via tweet last week was \"not how I wanted to go out.\"\n    \n",
@@ -1034,7 +1142,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/theyre-baaack-trump-and-allies-still-refuse-election-loss/2020/11/26/dbbfd81a-2fe6-11eb-9dd6-2d0179981719_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1280,
+      "heat": 1300,
       "tags": null,
       "images": [
         {
@@ -1219,120 +1327,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/progressive-groups-squad-rashida-tlaib-biden-cabinet.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-groups-squad-rashida-tlaib-biden-cabinet.amp",
       "publishedDateTime": "2020-11-25T18:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-flournoy-gets-progressive-boost-in-bidens-search-for-pentagon-chief.md",
-      "title": "Flournoy gets progressive boost in Biden's search for Pentagon chief",
-      "excerpt": "\"We believe Michèle Flournoy is the best candidate for the job,\" a group of arms control veterans write in an open letter to Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "originalUrl": "https://www.politico.com/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d1/b8/2ffd1b81423daf4161ba1ad258a2/201125-michele-flournoy-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/25/michele-flournoy-biden-defense-secretary-440803",
-      "publishedDateTime": "2020-11-25T18:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days.md",
-      "title": "Biden says he'll push 'pathway to citizenship for over 11 million undocumented people' in first 100 days",
-      "excerpt": "President-elect Joe Biden has committed to forging \"a pathway to citizenship for over 11 million undocumented people in America\" in the first 100 days of his administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days",
-      "originalUrl": "https://www.foxnews.com/politics/biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e67c64a5-3121-4d70-b27b-f5327c5bda17/5ba09a5a-6506-4f42-a9e9-df98aee139b7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days.amp",
-      "publishedDateTime": "2020-11-25T12:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

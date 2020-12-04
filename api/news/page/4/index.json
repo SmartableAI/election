@@ -2,6 +2,114 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-02-banished-from-the-trump-legal-team-attorney-sidney-powell-still-finds-a-guest-chair-on-fox.md",
+      "title": "Banished from the Trump legal team, attorney Sidney Powell still finds a guest chair on Fox",
+      "excerpt": "What Dobbs didn’t mention is that eight days earlier, Donald Trump’s re-election campaign had put out a statement dropping Powell from their legal effort to overturn the resul",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/",
+      "originalUrl": "https://www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/?outputType=amp",
+      "publishedDateTime": "2020-12-01T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-trump-associates-including-giuliani-are-asking-for-pardons.md",
+      "title": "Trump associates, including Giuliani, are asking for pardons",
+      "excerpt": "President Donald Trump's associates are making appeals to him in the hopes of obtaining pardons before he leaves office, a source familiar with the matter told CNN on Tuesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y1hUJ1HJvYk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y1hUJ1HJvYk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190925034820-giuliani-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/trump-rudy-giuliani-pardons/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/trump-rudy-giuliani-pardons/index.html",
+      "publishedDateTime": "2020-12-01T14:44:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-the-trailer-what-biden-and-the-left-are-demanding-of-each-other.md",
       "title": "The Trailer: What Biden and the left are demanding of each other",
       "excerpt": "The campaign to shape Biden's agenda, the next (and even stranger) stage of election contests, and Donald Trump Jr. goes on the air in Georgia",
@@ -66,7 +174,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 189,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -343,7 +451,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/01/presidential-transition-politics-updates-joe-biden-donald-trump/3782498001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -615,7 +723,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 328,
+      "heat": 348,
       "tags": null,
       "images": [
         {
@@ -995,7 +1103,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 830,
+      "heat": 870,
       "tags": null,
       "images": [
         {
@@ -1236,114 +1344,6 @@
         "Election",
         "Donald Trump",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-read-trumps-pardon-of-michael-flynn.md",
-      "title": "READ: Trump's pardon of Michael Flynn",
-      "excerpt": "The Justice Department on Monday released a copy of President Donald Trump's pardon last week of former national security adviser Michael Flynn.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CWMM6zvlHNo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CWMM6zvlHNo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201130175525-trump-flynn-pardon-signature-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/30/politics/flynn-pardon-read-file/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/flynn-pardon-read-file/index.html",
-      "publishedDateTime": "2020-11-30T15:07:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-trump-has-been-distorting-the-militarys-role-in-work-on-a-coronavirus-vaccine-from-the-very-start.md",
-      "title": "Trump has been distorting the military's role in work on a coronavirus vaccine from the very start",
-      "excerpt": "The military has contributed mightily to the project, but it won't produce, store, distribute, or administer the vaccines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11",
-      "originalUrl": "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc576ac50e71a0011558155?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp",
-      "publishedDateTime": "2020-11-30T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

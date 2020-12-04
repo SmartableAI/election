@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-07-where-is-mike-pence.md",
+      "title": "Where is Mike Pence?",
+      "excerpt": "Vice President Mike Pence hasn’t been seen publicly for three days. Pence, who heads the coronavirus task force and serves as president of the Senate, was not with the president in the briefing room Thursday night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-06-trump-biden-election-results-n1246707/ncrd1246885",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-06-trump-biden-election-results-n1246707/ncrd1246885",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_45/3425842/201104-post-election-live-blog-main-cover-cs_677f87a787c5da5efad0d320bdbc0748.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1246707",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1246707",
+      "publishedDateTime": "2020-11-06T19:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-mike-pence-sen-collins-apparently-deny-systemic-racism-exists.md",
       "title": "Mike Pence, Sen. Collins apparently deny systemic racism exists",
       "excerpt": "Mike Pence and Sen. Susan Collins have apparently denied that systemic racism exists while on the 2020 campaign trail, Pence also implying that 2020 Democratic presidential candidate Vice President Joe Biden is in error for acknowledging racism in America.",
@@ -1483,63 +1540,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-4-pence-aides-test-positive.md",
-      "title": "4 Pence Aides Test Positive",
-      "excerpt": "Six states broke records as the virus surged at an alarming pace. Dr. Anthony Fauci suggested the U.S. might need a national mask mandate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/10/24/world/covid-19-coronavirus-updates?name=styln-coronavirus&label=undefined&block=storyline_menu_recirc&impression_id=8b644a51-1681-11eb-865f-353ca55f0bc4&variant=undefined",
-      "originalUrl": "https://www.nytimes.com/live/2020/10/24/world/covid-19-coronavirus-updates?name=styln-coronavirus&label=undefined&block=storyline_menu_recirc&impression_id=8b644a51-1681-11eb-865f-353ca55f0bc4&variant=undefined",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/24/us/24virus-briefing-record2/merlin_178956543_7b911ad5-0186-4e53-ab31-4d31bf107a0a-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/10/24/world/covid-19-coronavirus-updates.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/24/world/covid-19-coronavirus-updates.amp.html",
-      "publishedDateTime": "2020-10-24T22:20:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     }
   ],

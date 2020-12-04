@@ -207,6 +207,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Trump raised massive amounts of money after the election and other takeaways from campaign filings"
+    excerpt: "President Donald Trump raised staggering amounts after losing the White House. Casino billionaire Sheldon Adelson kept donating in the election's waning days, and South Carolina Sen. Lindsey Graham set a new fundraising high water mark for Senate incumbents.\n    \n"
+    publishedDateTime: 2020-12-04T20:59:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2LY-rSs8bPM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/five-takeaways-from-trump-and-biden-fundraising/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/five-takeaways-from-trump-and-biden-fundraising/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House exodus begins even as Trump continues to baselessly claim victory"
+    excerpt: "White House staffers at all levels are plotting their departures as a growing number of aides to President Donald Trump are abandoning his quest to overturn the 2020 election results -- some in frustration with the building they are leaving behind.\n    \n"
+    publishedDateTime: 2020-12-04T22:21:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KKnFaxZVI4w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-loyalty-purge/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-loyalty-purge/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The legal threats and headaches fueling pardon appeals from Trump's family and friends "
     excerpt: "With the clock ticking on Donald Trump's presidency, a number of associates have appealed to him in recent days in hopes of obtaining pardons before he leaves office in January. While some face imminent legal threats, others are staring down potential legal headaches that a presidential pardon likely"
     publishedDateTime: 2020-12-03T02:27:29Z

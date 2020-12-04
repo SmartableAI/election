@@ -2,6 +2,63 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-25-pence-defends-trump-covid-19-response-claims-administration-literally-saved-hundreds-of-thousands.md",
+      "title": "Pence defends Trump COVID-19 response, claims administration 'literally saved hundreds of thousands'",
+      "excerpt": "Vice President Mike Pence has again defended the Trump administration's response to the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AOtPNlbGc6E/pence-dismisses-biden-attacks-over-covid-19-response",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AOtPNlbGc6E/pence-dismisses-biden-attacks-over-covid-19-response",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/592054c4-68cd-45b2-ae7f-f3d5e8645d87/63381419-bca8-4bf5-a42a-9f6af8160c38/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-dismisses-biden-attacks-over-covid-19-response.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-dismisses-biden-attacks-over-covid-19-response.amp",
+      "publishedDateTime": "2020-10-25T04:30:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-aoc-tells-jane-fonda-its-ok-to-be-trumps-public-enemy-no-1-thats-a-good-thing.md",
       "title": "AOC tells Jane Fonda it's OK to be Trump's 'public enemy No. 1': 'That's a good thing'",
       "excerpt": "Being attacked President Trump is a “badge of honor,\" U.S. Rep. Alexandria Ocasio-Cortez told actress Jane Fonda during an online interview last week.",
@@ -1614,63 +1671,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-jennifer-lawrence-says-trump-altered-her-political-views-theres-been-a-line-drawn-in-the-sand.md",
-      "title": "Jennifer Lawrence says Trump altered her political views: ‘There’s been a line drawn in the sand’",
-      "excerpt": "Jennifer Lawrence said despite the fact she grew up in a Republican household, because of Trump, she has become more open-minded about politics \"based on the things I learned.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views",
-      "originalUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Jennifer-Lawrence-reupload_AP.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views.amp",
-      "publishedDateTime": "2020-10-21T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

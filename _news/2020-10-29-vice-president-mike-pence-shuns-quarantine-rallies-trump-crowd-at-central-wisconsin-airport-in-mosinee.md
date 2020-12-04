@@ -123,6 +123,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Wisconsin Supreme Court rebuffs Trump challenge to election results"
+    excerpt: "The Wisconsin Supreme Court on Thursday declined to take up a case by U.S. President Donald Trump's campaign challenging the Nov. 3 presidential election results in the state, the latest in a string of losses the campaign has suffered."
+    publishedDateTime: 2020-12-04T00:40:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-wisconsin-idUKKBN28D33B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28D33B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28D33B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543373293&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21Q6"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Wisconsin Supreme Court rejects Trump's election lawsuit"
     excerpt: "The action comes two days after Trump asked the justices to revoke the certification of a contest he lost by nearly 21,000 votes."
     publishedDateTime: 2020-12-03T18:41:00Z
@@ -314,6 +330,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/01/PMJS/76378a31-ccf9-4b45-bd15-719180b883c5-MJS_Early_voting_nws_sears_1-1.jpg?auto=webp&crop=3378,1901,x0,y500&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Judge calls Trump request in Wisconsin lawsuit 'bizarre'"
+    excerpt: "A federal judge hearing President Donald Trump’s lawsuit seeking to overturn Democrat Joe Biden’s win in Wisconsin says that the president’s request to “remand” the case to the GOP-controlled Legislature to pick new electors was “bizarre."
+    publishedDateTime: 2020-12-04T22:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-calls-trump-request-wisconsin-lawsuit-bizarre-74547151"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-calls-trump-request-wisconsin-lawsuit-bizarre-74547151"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-calls-trump-request-wisconsin-lawsuit-bizarre-74547151"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Trump campaign would have to pay nearly $8 million for Wisconsin recount"
     excerpt: "President Donald Trump's campaign would have to pay nearly $8 million to start a recount in Wisconsin, a state he narrowly lost two weeks ago."

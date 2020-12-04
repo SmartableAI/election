@@ -2,6 +2,114 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-10-29-chelsea-handler-says-50-cent-wasnt-serious-about-supporting-trump.md",
+      "title": "Chelsea Handler says 50 Cent 'wasn't serious' about supporting Trump",
+      "excerpt": "Comedian Chelsea Handler details a phone call she had with rapper 50 Cent on \"The View\" after he expressed support for Pres. Trump and then renounced it.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
+      "originalUrl": "https://abcnews.go.com/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/ChelseaHandler_1603906784512_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
+      "publishedDateTime": "2020-10-28T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-ari-fleischer-biden-is-taking-advantage-of-a-broken-down-media-that-is-biased-against-trump.md",
+      "title": "Ari Fleischer: Biden is 'taking advantage of' a 'broken-down media' that is 'biased against Trump'",
+      "excerpt": "The Biden campaign is \"taking advantage\" of the media bias against President Trump to keep the controversy surrounding former Vice President Joe Biden's son Hunter out of the spotlight, former White House Press Secretary Ari Fleischer claimed Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj5ZGug0TOo/ari-fleischer-biden-taking-advantage-broken-down-media",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj5ZGug0TOo/ari-fleischer-biden-taking-advantage-broken-down-media",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ari-fleischer-biden-taking-advantage-broken-down-media.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-biden-taking-advantage-broken-down-media.amp",
+      "publishedDateTime": "2020-10-28T12:36:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-trump-philadelphia-police-shooting-a-terrible-event-but-rioting-comes-from-group-joe-biden-supports.md",
       "title": "Trump: Philadelphia police shooting a 'terrible event,' but rioting comes from group Joe Biden 'supports'",
       "excerpt": "President Trump called on Democrats in Philadelphia to crack down on recent rioting, and blamed Joe Biden for not condemning the unrest strongly enough. ",
@@ -1220,118 +1328,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-tony-bobulinski-tells-tucker-joe-biden-denials-of-involvement-in-sons-business-a-blatant-lie.md",
-      "title": "Tony Bobulinski tells Tucker: Joe Biden denials of involvement in son's business 'a blatant lie'",
-      "excerpt": "Tony Bobulinski, a former business associate of Hunter Biden, will tell \"Tucker Carlson Tonight\" in an exclusive interview Tuesday evening that Joe Biden's denials of knowledge or involvement in his son's foreign dealings are \"a blatant lie.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfF6yuNiaas/hunter-biden-tony-bobulinski-tucker-carlson-joe-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfF6yuNiaas/hunter-biden-tony-bobulinski-tucker-carlson-joe-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 262,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f296e4f1-0c2d-4e64-928c-fefce295f16f/a06107ba-74f1-4faa-8a99-80e0cc89aea4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-tony-bobulinski-tucker-carlson-joe-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-tony-bobulinski-tucker-carlson-joe-biden.amp",
-      "publishedDateTime": "2020-10-27T15:00:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-cbp-chief-warns-of-border-invasion-with-liberal-policies-reversal-of-trump-era-efforts.md",
-      "title": "CBP chief warns of border 'invasion' with liberal policies, reversal of Trump-era efforts",
-      "excerpt": "The United States could face an \"invasion\" that would make the recent migrant crisis seem relatively tame if President Trump's efforts are reversed, and Democratic policies incentivize illegal border crossings, Acting Customs and Border Protection Commissioner Mark Morgan told reporters on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CUodJeQ3JD0/border-chief-warns-invasion-2020",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CUodJeQ3JD0/border-chief-warns-invasion-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44a905b2-ea8a-4885-9570-85adbfdd4a61/1813cccf-5c76-4873-ac15-1d76991887a1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/border-chief-warns-invasion-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-chief-warns-invasion-2020.amp",
-      "publishedDateTime": "2020-10-27T14:33:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

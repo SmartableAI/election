@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump campaign spent more than $2 million on election lawyers, including Jenna Ellis"
+    excerpt: "U.S. President Donald Trump’s campaign paid nearly $9 million in its so-far unsuccessful bid to overturn the results of the presidential election, including nearly $2.3 million to lawyers and consultants who helped bring a series of longshot court cases."
+    publishedDateTime: 2020-12-04T21:53:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-expenses-idUSKBN28E2VG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E2VG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E2VG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543492518&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31LV"
+        width: 817
+        height: 545
+        isCached: true
   - title: "GOP leader McDaniel to run for 3rd term with Trump's backing"
     excerpt: "Republican National Committee Chairwoman Ronna McDaniel is launching her bid for a third two-year term heading the GOP's governing organization"
     publishedDateTime: 2020-12-02T15:31:00Z
@@ -94,6 +110,38 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_770cc5422fa54239b22226f62130282c_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Nissan joins GM in exiting auto group backing Trump"
+    excerpt: "Japanese automaker Nissan Motor Co said on Friday it was joining General Motors in exiting a group of automakers that had backed U.S. President Donald Trump in his bid to prevent California from imposing its own vehicle emissions rules."
+    publishedDateTime: 2020-12-04T21:59:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-emissions-trump/nissan-joins-gm-in-exiting-auto-group-backing-trump-idUSKBN28E326"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E326"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E326"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543501229&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31PO"
+        width: 747
+        height: 545
+        isCached: true
+  - title: "Pentagon installs 2 Trump allies on defense advisory board"
+    excerpt: "The Pentagon has appointed two close political allies of President Donald Trump to a defense advisory board, continuing a purge of the Defense Department in the waning weeks of the Trump administratio"
+    publishedDateTime: 2020-12-04T20:59:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/pentagon-installs-2-trump-allies-on-defense-advisory-board/2020/12/04/9870cd42-3673-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/pentagon-installs-2-trump-allies-on-defense-advisory-board/2020/12/04/9870cd42-3673-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/pentagon-installs-2-trump-allies-on-defense-advisory-board/2020/12/04/9870cd42-3673-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Chinese firms on U.S. exchanges threatened by bill headed to Trump's desk"
     excerpt: "The U.S. House of Representatives passed a law to kick Chinese companies off U.S. stock exchanges if they do not fully comply with the country's auditing rules, giving President Donald Trump one more tool to threaten Beijing with before leaving office."
@@ -316,6 +364,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZMWMTW3OMI6VNHREW3WFTN36Q.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump campaign committees spent $1.1 million at Trump properties in the last days of his losing campaign"
+    excerpt: "President Trump’s campaign and its affiliated committees spent more than $1.1 million at Trump’s own properties in the last weeks of the 2020 campaign, continuing a pattern during his presidency."
+    publishedDateTime: 2020-12-04T22:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CTEF6BVZMI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 956
         isCached: true
   - title: "The Technology 202: Trump's misleading claims about Section 230 could last beyond his showdown with Congress"
     excerpt: "If Trump follows through on his threat to veto the must-pass military operations bill unless it contains language to repeal Section 230, he could face his first potential veto override of his presidency,"

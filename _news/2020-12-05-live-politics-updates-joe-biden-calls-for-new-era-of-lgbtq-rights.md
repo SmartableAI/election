@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden: Covid vaccination in US will not be mandatory"
+    excerpt: "President-elect Joe Biden says Americans won't be forced to take a coronavirus vaccine when one becomes available in the US. It comes as the Centers for Disease Control (CDC) for the first time urged \"universal mask use\" anywhere outside people's homes."
+    publishedDateTime: 2020-12-04T22:39:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-55193939"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/world-us-canada-55193939"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-us-canada-55193939"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1482/production/_115805250_mediaitem115805246.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "7pFzZmO7L0QQpeM9avIdGuH3EUEDyQXFBSZw0XaduxRkF5/GpdeTT6UjGmF9LNL1gl0A9FkqAePifqq9184hYO82qJkO+g03O/aQUSL2BEjCBTdSXCIukaccOdM+FrjMER5HeNTygS2Mefgf+CFY9UWgjKUlpePPMGEIdpRN5Kh8JCTwWO9DL/lqGFEaGKr2aoWAFnsutg1tEnanv/Y74N99PL87r4Ywa64PV0xI69H0NVPI+JpUpSCrZbzVwQfHW3kPFIp3lbsv8kUFMa1MTKDd3Y/NRKoxKYU338kAX63pLjApasggpF55yRSr++5mY1gjzD0e34OKSpkLhK1GDHCde8HKWMCJf52KOyg9tdPqAiEjhTWR6BlfEakfYBl4mxeo5YHm516WEi1lmJALgSn2Q/p49bcPbBvHuFprCVJz2csGmoEr7JrQbcw74MLYRfTCfRGD/HGaJGYvTpYeB17pHiKpVIO4V6dW1EmGYCI1yKxH0HGPOjquOWWvdiPSAjtI/RqN43mQhQABd5DGug==;EPW3NYtAb334CF9pV2nRzA=="
 ---

@@ -2,6 +2,170 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-03-former-reagan-campaign-director-ed-rollins-slams-pro-trump-attorney-as-glorified-ambulance-chaser.md",
+      "title": "Former Reagan campaign director Ed Rollins slams pro-Trump attorney as 'glorified ambulance chaser'",
+      "excerpt": "Former Reagan campaign director Ed Rollins slammed President Trump's formal and allied legal teams on Fox News Radio's \"The Brian Kilmeade Show\" Thursday, at one point calling attorney Lin Wood a \"glorified ambulance chaser.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KVxtqP6Y8To/ed-rollins-slams-lin-wood-glorified-ambulance-chaser",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KVxtqP6Y8To/ed-rollins-slams-lin-wood-glorified-ambulance-chaser",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d944ee4f-9508-4a2d-82e2-68a551ca9fc3/e64b04e8-666b-48b4-92fd-d756c165e9b7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ed-rollins-slams-lin-wood-glorified-ambulance-chaser.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ed-rollins-slams-lin-wood-glorified-ambulance-chaser.amp",
+      "publishedDateTime": "2020-12-03T14:17:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-the-trump-administration-accused-facebook-of-reserving-over-2600-high-paying-jobs-for-foreign-workers-instead-of-hiring-americans.md",
+      "title": "The Trump administration accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans",
+      "excerpt": "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp",
+      "publishedDateTime": "2020-12-03T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-ratcliffe-urges-biden-to-let-durham-probe-run-its-course-says-more-docs-should-be-declassified.md",
+      "title": "Ratcliffe urges Biden to let Durham probe run its course, says more docs 'should be' declassified",
+      "excerpt": "EXCLUSIVE: Director of National Intelligence John Ratcliffe on Thursday urged President-elect Joe Biden to allow Special Counsel John Durham's investigation into the origins of the Russia probe to run its course, while saying he hopes there will be \"folks held accountable that should be.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FHxcYbJH5lk/ratcliffe-biden-durham-special-counsel-probe-declassified-documents",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FHxcYbJH5lk/ratcliffe-biden-durham-special-counsel-probe-declassified-documents",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ratcliffe-biden-durham-special-counsel-probe-declassified-documents.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ratcliffe-biden-durham-special-counsel-probe-declassified-documents.amp",
+      "publishedDateTime": "2020-12-03T12:23:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-trump-administration-claims-facebook-improperly-reserved-jobs-for-h-1b-workers.md",
       "title": "Trump Administration Claims Facebook Improperly Reserved Jobs for H-1B Workers",
       "excerpt": "A Justice Department lawsuit accuses the social-media company of illegally reserving high-paying jobs for immigrant workers it was sponsoring for permanent residence and failing to adequately search for U.",
@@ -552,63 +716,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-lawyers-say-trump-administration-has-handed-over-new-data-that-will-help-reunite-separated-migrant-families.md",
-      "title": "Lawyers say Trump administration has handed over new data that will help reunite separated migrant families",
-      "excerpt": "The ACLU's Lee Gelernt said he's often asked whether the Trump administration has helped reunite families. He said that rather than help, it has withheld data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782",
-      "originalUrl": "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2018_31/2514806/180730-tornillo-port-of-entry-toys-ac-956p_fcc586443aed0aae4a4cd4baa38b093b.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249782",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249782",
-      "publishedDateTime": "2020-12-03T02:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -1281,115 +1388,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-trump-backs-mcconnells-republican-covid-19-relief-package-mnuchin.md",
-      "title": "Trump backs McConnell's Republican COVID-19 relief package: Mnuchin",
-      "excerpt": "President Donald Trump will sign coronavirus relief legislation proposed by Republican Senate Majority Leader Mitch McConnell, Treasury Secretary Steven Mnuchin told reporters on Wednesday, should the proposed package pass the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543258818&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11XI",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28C2ES",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C2ES",
-      "publishedDateTime": "2020-12-02T12:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-mark-kelly-sworn-in-by-pence-flipping-senate-seat-in-trump-rigged-election-state-blue.md",
-      "title": "Mark Kelly sworn in by Pence, flipping Senate seat in Trump 'rigged election' state blue",
-      "excerpt": "Kelly's swearing-in gives Democrats a Senate pickup in Arizona, where Trump claims there was massive voter fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/mark-kelly-sworn-pence-flipping-senate-seat-trump-rigged-election-n1249732",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/mark-kelly-sworn-pence-flipping-senate-seat-trump-rigged-election-n1249732",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_49/3432713/201202-mark-kelly-swearing-in-jm-1456_75186dab390f83298dd0535de87c37d9.jpg",
-          "width": 2500,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249732",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249732",
-      "publishedDateTime": "2020-12-02T12:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     }
   ],

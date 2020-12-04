@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-05-pence-comes-to-georgia-as-calm-before-potential-trump-storm.md",
+      "title": "Pence comes to Georgia as calm before potential Trump storm",
+      "excerpt": "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes runoffs that will determine which party controls the U.S. Senate as he campaigns in Georgia a day bef",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1310,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807",
+      "publishedDateTime": "2020-12-04T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-trump-administration-appoints-loyalists-corey-lewandowski-and-david-bossie-to-defense-business-board.md",
       "title": "Trump administration appoints loyalists Corey Lewandowski and David Bossie to Defense Business Board",
       "excerpt": "The Trump administration installed loyalists on a Pentagon advisory panel on Friday, naming Corey Lewandowski and David Bossie among the new appointees to the Defense Business Board. The appointments were announced along with the removal of other members,",
@@ -111,59 +164,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-05-pence-comes-to-georgia-as-calm-before-potential-trump-storm.md",
-      "title": "Pence comes to Georgia as calm before potential Trump storm",
-      "excerpt": "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatil",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1310,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-04T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-05-trumps-grievances-feed-menacing-undertow-after-the-election.md",
       "title": "Trump's grievances feed menacing undertow after the election",
       "excerpt": "\"Death threats, physical threats, intimidation – it's too much, it's not right,\" said one GOP elections official in Georgia.",
@@ -172,7 +172,7 @@
       "originalUrl": "https://www.cbsnews.com/news/donald-trump-grievances-undertow-after-election/?ftag=CNM-00-10aab7e",
       "featuredContent": null,
       "highlight": null,
-      "heat": 680,
+      "heat": 760,
       "tags": null,
       "images": [
         {
@@ -699,63 +699,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-03-lawyers-say-trump-administration-has-handed-over-new-data-that-will-help-reunite-separated-migrant-families.md",
-      "title": "Lawyers say Trump administration has handed over new data that will help reunite separated migrant families",
-      "excerpt": "The ACLU's Lee Gelernt said he's often asked whether the Trump administration has helped reunite families. He said that rather than help, it has withheld data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782",
-      "originalUrl": "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2018_31/2514806/180730-tornillo-port-of-entry-toys-ac-956p_fcc586443aed0aae4a4cd4baa38b093b.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249782",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249782",
-      "publishedDateTime": "2020-12-03T02:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-03-trump-lays-out-election-fraud-case-in-online-video-bad-things-happened.md",
       "title": "Trump lays out election-fraud case in online video: 'Bad things happened'",
       "excerpt": "Trump says if he's right about election fraud, 'Biden can't be president' President Trump is once again charging that last month’s presidential election was rigged and rife with fraud. In an address posted on his Twitter and Facebook pages that the president described as possibly “the most important speech,",
@@ -987,7 +930,7 @@
       "originalUrl": "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 260,
+      "heat": 240,
       "tags": null,
       "images": [
         {
@@ -1603,6 +1546,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors.md",
+      "title": "Stocks ready to rally in '21 but outgoing Trump is risk: Pacific Life Fund Advisors",
+      "excerpt": "U.S. stock markets are poised to rally in 2021, bolstered by the predictability of a new U.S. president, fresh stimulus and infrastructure spending, plus a coronavirus vaccine. But there is a potential wild card: outgoing President Donald Trump,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-investment-summit-pacificlife-idUSKBN28A34F",
+      "originalUrl": "https://www.reuters.com/article/us-investment-summit-pacificlife-idUSKBN28A34F",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542972639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1RT",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28A34F",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A34F",
+      "publishedDateTime": "2020-11-30T19:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

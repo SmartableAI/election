@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-05-obama-and-pence-hit-georgia-campaign-trail-to-court-senate-runoff-voters.md",
+      "title": "Obama and Pence hit Georgia campaign trail to court Senate runoff voters",
+      "excerpt": "\"Anybody listening right now, you need to realize this is not just about Georgia,\" Obama said. \"This is about America - this is about the world.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/obama-pence-hit-georgia-campaign-trail-court-senate-runoff-voters-n1250029",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/obama-pence-hit-georgia-campaign-trail-court-senate-runoff-voters-n1250029",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_47/3429880/201120-barack-obama-al-0812_a91487a269184df40996804a637177e8.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250029",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250029",
+      "publishedDateTime": "2020-12-04T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-trump-administration-must-accept-new-daca-applications-judge-orders.md",
+      "title": "Trump administration must accept new DACA applications, judge orders",
+      "excerpt": "The Trump administration must post a public notice that it will accept new applications for the Obama-era program shielding undocumented immigrants who came to the US as children from deportation, a federal judge ordered Friday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKkg1yjy1Qs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKkg1yjy1Qs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/171116102112-daca-protest-02-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html",
+      "publishedDateTime": "2020-12-04T14:38:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-trump-purges-pentagon-advisory-board-and-gives-seats-to-former-campaign-managers.md",
       "title": "Trump purges Pentagon advisory board and gives seats to former campaign managers",
       "excerpt": "President Donald Trump has purged a Pentagon business advisory board and replaced its members with his former campaign manager and deputy campaign manager, neither of whom have served in the military or have any apparent experience with the defense industry.\n    \n",
@@ -183,7 +296,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 382,
+      "heat": 402,
       "tags": null,
       "images": [
         {
@@ -841,63 +954,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-lawyers-say-trump-administration-has-handed-over-new-data-that-will-help-reunite-separated-migrant-families.md",
-      "title": "Lawyers say Trump administration has handed over new data that will help reunite separated migrant families",
-      "excerpt": "The ACLU's Lee Gelernt said he's often asked whether the Trump administration has helped reunite families. He said that rather than help, it has withheld data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782",
-      "originalUrl": "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2018_31/2514806/180730-tornillo-port-of-entry-toys-ac-956p_fcc586443aed0aae4a4cd4baa38b093b.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249782",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249782",
-      "publishedDateTime": "2020-12-03T02:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -1592,7 +1648,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 328,
+      "heat": 348,
       "tags": null,
       "images": [
         {
@@ -1609,62 +1665,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-election-claims-mccarthy/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-election-claims-mccarthy/index.html",
       "publishedDateTime": "2020-12-01T04:09:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-analysis-how-joe-biden-and-mark-kelly-show-arizona-is-now-a-purple-state.md",
-      "title": "Analysis: How Joe Biden and Mark Kelly show Arizona is now a purple state",
-      "excerpt": "Democrat Mark Kelly will be sworn in on Wednesday as Arizona's junior US senator, finishing the final two years of the term won by the late Sen. John McCain in 2016. Both President-elect Joe Biden and Kelly were certified as the winners of their respective Arizona races on Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_kgr6sV1xdo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_kgr6sV1xdo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201106195236-44-america-votes-1103-arizona-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/arizona-shift-analysis/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/arizona-shift-analysis/index.html",
-      "publishedDateTime": "2020-12-01T04:03:23-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

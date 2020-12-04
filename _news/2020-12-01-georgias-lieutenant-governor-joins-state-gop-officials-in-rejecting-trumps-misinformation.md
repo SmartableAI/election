@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's criticism of GOP Senate candidates has Republicans worried ahead of rally"
+    excerpt: "President Donald Trump heads to Georgia on Saturday to campaign for two Republican senators one month ahead of a critical runoff that will determine which party controls the Senate. But Trump's visit comes as he has spent the last several weeks consumed by his own election loss while attacking party"
+    publishedDateTime: 2020-12-04T22:47:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XTO1_LseAAM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-georgia-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-georgia-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130728-02-trump-1203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats seek disciplinary investigation for Trump lawyer who called for violence against former election cybersecurity official"
     excerpt: "Congressional Democrats on Wednesday asked the DC Bar's Office of Disciplinary Counsel to open an investigation into an attorney for the Trump campaign who had issued a call for violence against a former cybersecurity official who was ousted from his post after he rejected President Donald Trump's unfounded"
     publishedDateTime: 2020-12-03T04:06:00Z

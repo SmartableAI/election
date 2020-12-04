@@ -2,63 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-11-10-david-bossie-head-of-trump-post-election-legal-effort-tests-positive-for-covid-19.md",
-      "title": "David Bossie, Head of Trump Post-Election Legal Effort, Tests Positive for Covid-19",
-      "excerpt": "David Bossie, a longtime confidant of President Trump whom the campaign tapped last week to lead its post-election legal efforts, tested positive for Covid-19 on Sunday, according to a person familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/21mW1Po8Ra84Lc7dNmy5",
-      "originalUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/21mW1Po8Ra84Lc7dNmy5",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-256456?size=1.5",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T14:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-10-mogherini-difficult-4-years-with-trump.md",
       "title": "Mogherini: 'Difficult 4 years' with Trump",
       "excerpt": "Former EU Foreign Affairs head Federica Mogherini tells Amanpour she feels \"relief at seeing America back\" and says Europeans will feel \"less lonely\" come January.",
@@ -1566,6 +1509,58 @@
       "ampWebUrl": "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp",
       "publishedDateTime": "2020-11-05T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-anderson-cooper-cuts-off-rick-santorum-after-he-said-businesses-didnt-board-up-their-storefronts-to-keep-donald-trump-supporters-from-looting.md",
+      "title": "Anderson Cooper cuts off Rick Santorum after he said businesses didn't board up their storefronts 'to keep Donald Trump supporters from looting'",
+      "excerpt": "\"They boarded up businesses in New York City, not to keep Donald Trump supporters from looting, okay?\" Santorum said during a CNN panel Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11",
+      "originalUrl": "https://www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa36e4df7d1cb0019e39e7d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11?amp",
+      "publishedDateTime": "2020-11-04T22:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

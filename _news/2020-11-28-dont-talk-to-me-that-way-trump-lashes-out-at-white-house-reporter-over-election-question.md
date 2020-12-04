@@ -287,6 +287,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
+    excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
+    publishedDateTime: 2020-12-04T06:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E012"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E012"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 130
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543403980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB300L"
+        width: 815
+        height: 545
+        isCached: true
   - title: "What it’s like to teach children about the election, and its results, in deep-red Trump country"
     excerpt: "Never before, Cruey said, has he seen such a high level of emotion from children — such blind devotion to their preferred candidate, most often Donald Trump. Nor has he seen anything like this level of mistrust,"
     publishedDateTime: 2020-11-29T21:38:00Z

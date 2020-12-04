@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden urges taking coronavirus vaccine, wearing masks but says they shouldn’t be mandatory"
+    excerpt: "Biden urges taking coronavirus vaccine and wearing masks but says they shouldn’t be mandatory"
+    publishedDateTime: 2020-12-04T22:30:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjteyxVDXNc/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-taking-coronavirus-vaccine-and-wearing-masks-but-says-they-shouldnt-be-mandatory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "HxEplTQ23AAgPnxvOgYDz4LY4Kx+qUmxsyZaA3RtvtN24r80wOQvlYG8HCgML7TwLuQZZApUqofOmTrE8mKLTT1eW+ItLSXid0F28B/e2/Psd6Ap7Nz5ZEXTixf+pU/9ODPEIvVCXLq1C9h8pr7TA/y0/8wd/ZiQ/hG+JzahoXftED0VzflRNEEtvoqny062V9bLfu5FeHJiWoqzmGovIuBKYe0pDHywXgEvXtjGIDEP3zRa4GirJO51gJGC73x5fosPh8B4HiJlYrk77S6w/JKPgSGWyIlg20PyJXKfsYMhW+rYjRL38ndMfqYTmDuz5dcdjeCbuyvufIGaZMQvVNpBS7GQgbhp67MxcKL0wJk=;QB8KtmVKZaPQNLqP2U1BAA=="
 ---

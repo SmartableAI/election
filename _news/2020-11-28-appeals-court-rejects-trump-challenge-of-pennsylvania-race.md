@@ -26,20 +26,20 @@ topics:
 
 related:
   - title: "Pence comes to Georgia as calm before potential Trump storm"
-    excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatil"
-    publishedDateTime: 2020-12-04T18:36:00Z
-    webUrl: "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes runoffs that will determine which party controls the U.S. Senate as he campaigns in Georgia a day bef"
+    publishedDateTime: 2020-12-04T22:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 150
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Trump, Pence to campaign in Georgia as Senate runoff turnout concerns grow among GOP"
     excerpt: "Mike Pence and President Donald Trump's rallies for Georgia's senators will be against a backdrop of growing concerns about GOP turnout in the Senate runoff election."
@@ -89,22 +89,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Wisconsin Supreme Court rebuffs Trump challenge to election results"
-    excerpt: "The Wisconsin Supreme Court on Thursday declined to take up a case by U.S. President Donald Trump's campaign challenging the Nov. 3 presidential election results in the state, the latest in a string of losses the campaign has suffered."
-    publishedDateTime: 2020-12-04T00:40:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-wisconsin-idUKKBN28D33B"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28D33B"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28D33B"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543373293&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21Q6"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Donor to pro-Trump group sues to get his money back after dropped election lawsuits"
     excerpt: "Fred Eshelman, who gave $2.5 million to the group True the Vote to back President Trump's challenges to the election, is suing for his money back."
     publishedDateTime: 2020-11-27T22:50:00Z
@@ -120,22 +104,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
-    excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
-    publishedDateTime: 2020-12-04T06:39:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E012"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E012"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 130
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543403980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB300L"
-        width: 815
-        height: 545
         isCached: true
   - title: "Vice President Pence remains silent on election outcome while campaigning for Georgia runoff"
     excerpt: "Pence will rally Republicans to vote for Georgia Sens. David Perdue and Kelly Loeffler in the Jan. 5 election."
@@ -564,6 +532,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "With 2 high-stakes Senate runoffs in the balance, Pence heads to Georgia a day before Trump’s potentially volatile visit"
+    excerpt: "The GOP has been roiled by Trump’s continued denial of his own defeat and his baseless attacks that Republican officials in Georgia, including the governor and secretary of state, enabled widespread voter fraud on behalf of President-elect Joe Biden."
+    publishedDateTime: 2020-12-04T20:53:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-georgia-senate-runoff-election-trump-20201204-jtjaj5clczhotdagw2gvh5apam-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-georgia-senate-runoff-election-trump-20201204-jtjaj5clczhotdagw2gvh5apam-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-georgia-senate-runoff-election-trump-20201204-jtjaj5clczhotdagw2gvh5apam-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 115
+    images:
+      - url: "https://www.chicagotribune.com/resizer/PjSBn1l8fNjr-vsTzWC1Z5om8B0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NCHTIGDBJXWNWTHQRSBW6C2KD4.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump loyalist Loeffler's attacks on pastor Warnock risk suburban votes in Georgia's U.S. Senate race"
     excerpt: "Beau Davis, a 33-year-old security specialist from the Atlanta suburbs, is the kind of voter Republican Senators Kelly Loeffler and David Perdue may need to win runoff elections next month that will determine the balance of power in Washington."
     publishedDateTime: 2020-12-04T12:12:00Z
@@ -806,6 +790,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Wisconsin and Arizona make it official as Trump fails to stop vote certification in all six states where he contested his defeat"
+    excerpt: "The president and his allies vowed to continue pressing legal claims challenging the election results in several states — but such efforts have met with resounding failures in the courts."
+    publishedDateTime: 2020-12-01T08:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 96
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NKGJIERTLMI6XDJYNLVBVWZYHE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Pence comes to Georgia as calm before potential Trump storm | Charlotte Observer"
     excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatile visit to the state that will determine which party controls the Senate in January."
     publishedDateTime: 2020-12-04T20:50:00Z
@@ -835,6 +835,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/jpb7yUyEnSZw9GiaZNZjTGH2ujg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QEGKLYVSHAPI2YREJM6WIDPREA.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Mike Pence comes to Georgia for CDC meeting, Savannah rally"
+    excerpt: "After is visit in the capital city, Pence is expected to head to Savannah for a \"Defend the Majority Rally\" with Senators David Perdue and Kelly Loeffler. Pence will deliver remar"
+    publishedDateTime: 2020-12-04T22:18:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 75
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/fae39ff4-1320-4789-8acc-8810b4f6567f/fae39ff4-1320-4789-8acc-8810b4f6567f_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Mike Pence: The Calm To Trump's Storm"
     excerpt: "Vice President Mike Pence is the calm to Donald Trump's storm, bringing a sedate demeanor and the religious, conservative ballast the men hope will spare them from losing the White House."
@@ -876,22 +892,6 @@ related:
       - url: "https://media.11alive.com/assets/WXIA/images/28012b86-f747-49cd-b64a-707338b90864/28012b86-f747-49cd-b64a-707338b90864_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "With 2 high-stakes Senate runoffs in the balance, Pence heads to Georgia a day before Trump’s potentially volatile visit"
-    excerpt: "The GOP has been roiled by Trump’s continued denial of his own defeat and his baseless attacks that Republican officials in Georgia, including the governor and secretary of state, enabled widespread voter fraud on behalf of President-elect Joe Biden."
-    publishedDateTime: 2020-12-04T20:58:00Z
-    webUrl: "https://www.sun-sentinel.com/news/nationworld/ct-georgia-senate-runoff-election-trump-20201204-jtjaj5clczhotdagw2gvh5apam-story.html"
-    ampWebUrl: "https://www.sun-sentinel.com/news/nationworld/ct-georgia-senate-runoff-election-trump-20201204-jtjaj5clczhotdagw2gvh5apam-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-georgia-senate-runoff-election-trump-20201204-jtjaj5clczhotdagw2gvh5apam-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 65
-    images:
-      - url: "https://www.sun-sentinel.com/resizer/PjSBn1l8fNjr-vsTzWC1Z5om8B0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NCHTIGDBJXWNWTHQRSBW6C2KD4.aspx"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Supreme Court Seems Skeptical of Trump's Census Plan"
     excerpt: "The Supreme Court sounds skeptical that President Donald Trump could categorically exclude people living in the country illegally from the population count used to allot seats among the states in the House of Representatives."

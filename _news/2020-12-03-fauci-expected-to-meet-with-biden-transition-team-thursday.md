@@ -191,6 +191,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Will the Biden administration really look like America?"
+    excerpt: "As candidates, Joe Biden and Kamala Harris promised an administration that “looks like America.” But they’re facing increasing pressure from interest groups that worry Biden and Harris won’t follow through and deliver a historically diverse Cabinet and staff."
+    publishedDateTime: 2020-12-04T17:30:00Z
+    webUrl: "https://www.politico.com/newsletters/women-rule/2020/12/04/will-the-biden-administration-really-look-like-america-491062"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "kzV6dWV4tcaVrZQ8CYwGxwXYQKNKUNdP+ux2Vz/oGsJTD9UPcH75uc1SYgiz4welz12hCZOzqYE4avofSbiAqeSAAxo/JXCShwkYG6AQX82h3v6JXKulv9Y6jmP9mXoYs4NN2zHBgc/NpEfXCJwtd7hcEiveolEhwCSYVEa515PaGDs7KemOYzoDzr/lD5qKY6cDNB/yTXvHnNPuyQ/x3z3QDKeDet+Uf0xSF7vFAo9FuOaH5Q39iNKC/5NlU+XDKwau/uj1SM8wMTckII9P/X92MJmjW3qhrjSWFYheJotrX7iMn29ubl/u7tKtoNuCYf1M3+q8KwWD/aqsr4SufIVZXCID93saiN9TF4721Xs=;S/fbzJQ6zvkFP/tkNPx6yA=="
 ---

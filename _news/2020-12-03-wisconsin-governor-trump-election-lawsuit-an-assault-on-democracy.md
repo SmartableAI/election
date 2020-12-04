@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-t
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy?amp"
 type: article
 quality: 140
-heat: 260
+heat: 240
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-s_hpMain_20201202-212705_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Wisconsin and Arizona make it official as Trump fails to stop vote certification in all six states where he contested his defeat"
-    excerpt: "The president and his allies vowed to continue pressing legal claims challenging the election results in several states — but such efforts have met with resounding failures in the courts."
-    publishedDateTime: 2020-12-01T08:24:00Z
-    webUrl: "https://www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 96
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NKGJIERTLMI6XDJYNLVBVWZYHE.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "F1Iu8cWwJZ4r99itFp881cZuoxiO155M4m1ARkLaWxep0dHaiLgDnsJe650bKJIEiLvqZj6gAUB1H1dubngJmr4neG8qtAtUwoArJhWx+yxJPY8HzSlmH7aCn8KFl4EFM+Qeh6Bet8VZ5bJfOxpT3S6M+T+inmzX/FG7My2J4RyV2cAMz6//gVfiTIjpDGmoYvtwMIfBFTLyk7qwqQIQFIPx0UjWFtnxrUsl6+Xk4iAtQlHuW5V24/dUF/iAyKy1LVcRRISJMfw2WO1aPVKZvEpERoAhzKtP3udFEbnBnoGiNchW+wjychgHErTRUzJcTmYcatFB/j3LH5D8vHF3nB378KlZrMcuBHuYPCcK9fE=;lGX+f/nxNEju1nCcULV5fA=="

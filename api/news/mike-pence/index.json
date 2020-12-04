@@ -2,6 +2,116 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-05-obama-and-pence-hit-georgia-campaign-trail-to-court-senate-runoff-voters.md",
+      "title": "Obama and Pence hit Georgia campaign trail to court Senate runoff voters",
+      "excerpt": "\"Anybody listening right now, you need to realize this is not just about Georgia,\" Obama said. \"This is about America - this is about the world.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/obama-pence-hit-georgia-campaign-trail-court-senate-runoff-voters-n1250029",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/obama-pence-hit-georgia-campaign-trail-court-senate-runoff-voters-n1250029",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_47/3429880/201120-barack-obama-al-0812_a91487a269184df40996804a637177e8.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250029",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250029",
+      "publishedDateTime": "2020-12-04T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-pence-comes-to-georgia-as-calm-before-potential-trump-storm.md",
+      "title": "Pence comes to Georgia as calm before potential Trump storm",
+      "excerpt": "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes runoffs that will determine which party controls the U.S. Senate as he campaigns in Georgia a day bef",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1310,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807",
+      "publishedDateTime": "2020-12-04T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-pence-says-us-a-week-and-a-half-away-from-likely-approval-of-first-coronavirus-vaccine.md",
       "title": "Pence says US 'a week and a half away' from 'likely approval' of first coronavirus vaccine",
       "excerpt": "Vice President Mike Pence said Friday that the U.S. is “maybe just a week and a half away” from the “likely approval” of the first vaccine to protect against the novel coronavirus.",
@@ -56,59 +166,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-pence-comes-to-georgia-as-calm-before-potential-trump-storm.md",
-      "title": "Pence comes to Georgia as calm before potential Trump storm",
-      "excerpt": "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatil",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1310,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-04T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
       ]
     },
     {
@@ -1450,63 +1507,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-where-is-mike-pence.md",
-      "title": "Where is Mike Pence?",
-      "excerpt": "Vice President Mike Pence hasn’t been seen publicly for three days. Pence, who heads the coronavirus task force and serves as president of the Senate, was not with the president in the briefing room Thursday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-06-trump-biden-election-results-n1246707/ncrd1246885",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-06-trump-biden-election-results-n1246707/ncrd1246885",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_45/3425842/201104-post-election-live-blog-main-cover-cs_677f87a787c5da5efad0d320bdbc0748.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1246707",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1246707",
-      "publishedDateTime": "2020-11-06T19:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     }
   ],

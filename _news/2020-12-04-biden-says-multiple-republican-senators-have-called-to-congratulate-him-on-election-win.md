@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html"
 type: article
 quality: 182
-heat: 382
+heat: 402
 published: true
 
 provider:
@@ -190,6 +190,20 @@ related:
       - url: "https://static.politico.com/8a/5f/f94fd7c34f65a2b21373e5ff3869/gettyimages-1229807401-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Will the Biden administration really look like America?"
+    excerpt: "As candidates, Joe Biden and Kamala Harris promised an administration that “looks like America.” But they’re facing increasing pressure from interest groups that worry Biden and Harris won’t follow through and deliver a historically diverse Cabinet and staff."
+    publishedDateTime: 2020-12-04T17:30:00Z
+    webUrl: "https://www.politico.com/newsletters/women-rule/2020/12/04/will-the-biden-administration-really-look-like-america-491062"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "xaBuoiDiEC5iHvLcPVq1wgYDYibsDZYvgBVxGVcsKKAxDFhJwnftq21YMbHjQfJsyVji2RXv2/Ef47bVUcPZsKh3lFet0E62gtsgnsCt90bhvIAeLNzcSAPGsVBMpfNLfUg/2LaXiFlnNVgADlM80XiTUbamf7eH8Zbfpx9kBB0ji+BbuI1S17AjglNKxXwpecrI8r61iZrUzE4KaYPlRGAoqRM1YeKNzC0ibK7kO5MIsqcWMQcE84wiwuCzJ6lScJztkJEKneWv6XwomtHXSq9AldBXFsJ3xxFOaTtEBWMBO620lEg9m+W+UqVAhA7erABQXSO+Nk2dc8duXLHP2zprIEeWIp5XXBS817OLjws=;U6w3aEkRBCKkNgewLkwPpA=="

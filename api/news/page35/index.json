@@ -2,6 +2,101 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-10-20-report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother.md",
+      "title": "Report: Shots Fired at Congressional Candidate Jeannine Lee Lake, Who’s Running Against VP Mike Pence’s Brother",
+      "excerpt": "Jeannine Lee Lake, the Black woman running against VP Mike Pence's brother, says she was the target of racist threats and gunfire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.blackenterprise.com/report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother/",
+      "originalUrl": "https://www.blackenterprise.com/report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2020/10/Jeannine-Lee-Lake.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.blackenterprise.com/report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother/amp/",
+      "cdnAmpWebUrl": "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother/amp/",
+      "publishedDateTime": "2020-10-19T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Black Enterprise",
+        "domain": "blackenterprise.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-government-agency-will-investigate-trump-administration-political-influence-over-fda-cdc.md",
+      "title": "Government agency will investigate Trump administration political influence over FDA, CDC",
+      "excerpt": "Both agencies have been caught in political crossfire since the start of the pandemic, as preventative health measures became politicized.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/19/gao-investigate-trump-administration-influence-over-fda-cdc/5981174002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/19/gao-investigate-trump-administration-influence-over-fda-cdc/5981174002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/17/USAT/978858e1-2530-4004-9fa6-4eafefcf111e-VPC_TRUMP_REDFIELD_CONTRADICTION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5981174002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5981174002",
+      "publishedDateTime": "2020-10-19T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-trump-announces-plans-to-remove-sudan-from-state-sponsors-of-terrorism-list.md",
       "title": "Trump announces plans to remove Sudan from state sponsors of terrorism list",
       "excerpt": "President Donald Trump announced Monday that he intends to lift Sudan's state sponsor of terrorism designation -- news that comes as the transitional government in Khartoum could deliver him a diplomatic victory ahead of the US presidential election.\n    \n",
@@ -1167,101 +1262,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-these-voters-rejected-hillary-clinton-but-theyre-voting-for-joe-biden-here-are-the-many-reasons-why.md",
-      "title": "These voters rejected Hillary Clinton, but they’re voting for Joe Biden. Here are the many reasons why.",
-      "excerpt": "For many who sat out 2016, voted for third-party candidates or backed Donald Trump, Joe Biden is more acceptable than Hillary Clinton was, in ways large and small.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/wV4WN5WMZKbUNF31PhqBQTHBk1g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6KWL2LPXPZC63DUJQT7KCQXTGU.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-18T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-struggling-ann-arbor-club-owner-in-biden-ad-this-is-donald-trumps-economy.md",
-      "title": "Struggling Ann Arbor club owner in Biden ad: 'This is Donald Trump's economy'",
-      "excerpt": "A national TV ad airing Sunday from Joe Biden's campaign focuses on the Blind Pig to criticize President Trump's response to the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/news/politics/2020/10/18/national-joe-biden-ad-spotlights-ann-arbor-concert-venue/3702153001/",
-      "originalUrl": "https://www.detroitnews.com/story/news/politics/2020/10/18/national-joe-biden-ad-spotlights-ann-arbor-concert-venue/3702153001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/18/PDTN/c821f0a9-72ed-4984-9b41-435b3b3761b0-Blind_Pig_2.png?auto=webp&crop=838,471,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/3702153001",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3702153001",
-      "publishedDateTime": "2020-10-18T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

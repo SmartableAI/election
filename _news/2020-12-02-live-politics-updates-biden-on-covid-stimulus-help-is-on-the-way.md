@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3782498001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3782498001"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/73e64eba-6d9d-476b-96d2-17e675c487a6-AP20326568855426.jpg?auto=webp&crop=5999,3374,x1,y200&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden: Covid vaccination in US will not be mandatory"
+    excerpt: "President-elect Joe Biden says Americans won't be forced to take a coronavirus vaccine when one becomes available in the US. It comes as the Centers for Disease Control (CDC) for the first time urged \"universal mask use\" anywhere outside people's homes."
+    publishedDateTime: 2020-12-04T22:39:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-55193939"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/world-us-canada-55193939"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-us-canada-55193939"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1482/production/_115805250_mediaitem115805246.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "HxkrztVWsipXavrjKGycPqsNeJ0S5jQbEvOy43L8kHuCkTwv5ossmP0NJWA4K9T3XDDulrrcHU/nihd8ADjzm5adg+WsIkhmhibz5jCh2eH/UWUMufm4saqwAPB53zIqSj465cm/uZ2sL1VzBxS98x7IJJsboU9ZoyI60j2wHD3BeVYzedaL6RY7gRUy9J6ski1hMPWOYvXAN5nTcQ2qkrVNGrj6ydx+A6l4acVvdxOmP/PNZHRNWhWT6A0bjufE9emW2YUIL3u2XSAGoQEf3h2YxErl3sy7fpHmsU7/9mEOsoIJiu+d0wfBJnwVXd2P4KZwEqasUkRDQCnZWsTp2C0cbLKXDQZX6H6yhG7+wjo=;2is8xe9V2TuLHf4cg+uo2Q=="

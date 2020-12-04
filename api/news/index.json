@@ -2,6 +2,172 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-05-obama-and-pence-hit-georgia-campaign-trail-to-court-senate-runoff-voters.md",
+      "title": "Obama and Pence hit Georgia campaign trail to court Senate runoff voters",
+      "excerpt": "\"Anybody listening right now, you need to realize this is not just about Georgia,\" Obama said. \"This is about America - this is about the world.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/obama-pence-hit-georgia-campaign-trail-court-senate-runoff-voters-n1250029",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/obama-pence-hit-georgia-campaign-trail-court-senate-runoff-voters-n1250029",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_47/3429880/201120-barack-obama-al-0812_a91487a269184df40996804a637177e8.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250029",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250029",
+      "publishedDateTime": "2020-12-04T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-trump-administration-must-accept-new-daca-applications-judge-orders.md",
+      "title": "Trump administration must accept new DACA applications, judge orders",
+      "excerpt": "The Trump administration must post a public notice that it will accept new applications for the Obama-era program shielding undocumented immigrants who came to the US as children from deportation, a federal judge ordered Friday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKkg1yjy1Qs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKkg1yjy1Qs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/171116102112-daca-protest-02-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html",
+      "publishedDateTime": "2020-12-04T14:38:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-pence-comes-to-georgia-as-calm-before-potential-trump-storm.md",
+      "title": "Pence comes to Georgia as calm before potential Trump storm",
+      "excerpt": "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes runoffs that will determine which party controls the U.S. Senate as he campaigns in Georgia a day bef",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1310,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-georgia-calm-potential-trump-storm-74543807",
+      "publishedDateTime": "2020-12-04T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-trump-purges-pentagon-advisory-board-and-gives-seats-to-former-campaign-managers.md",
       "title": "Trump purges Pentagon advisory board and gives seats to former campaign managers",
       "excerpt": "President Donald Trump has purged a Pentagon business advisory board and replaced its members with his former campaign manager and deputy campaign manager, neither of whom have served in the military or have any apparent experience with the defense industry.\n    \n",
@@ -224,59 +390,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-05-pence-comes-to-georgia-as-calm-before-potential-trump-storm.md",
-      "title": "Pence comes to Georgia as calm before potential Trump storm",
-      "excerpt": "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatil",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1310,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pence-comes-to-georgia-as-calm-before-potential-trump-storm/2020/12/04/91294fbe-365f-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-04T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-05-trumps-grievances-feed-menacing-undertow-after-the-election.md",
       "title": "Trump's grievances feed menacing undertow after the election",
       "excerpt": "\"Death threats, physical threats, intimidation – it's too much, it's not right,\" said one GOP elections official in Georgia.",
@@ -285,7 +398,7 @@
       "originalUrl": "https://www.cbsnews.com/news/donald-trump-grievances-undertow-after-election/?ftag=CNM-00-10aab7e",
       "featuredContent": null,
       "highlight": null,
-      "heat": 680,
+      "heat": 760,
       "tags": null,
       "images": [
         {
@@ -494,6 +607,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-04-watters-riffs-on-biden-choosing-critics-for-cabinet-they-call-him-a-buffoon-and-he-says-you-get-me.md",
+      "title": "Watters riffs on Biden choosing critics for Cabinet: 'They call him a buffoon, and he says \"you get me'''",
+      "excerpt": "\"The Five\" co-host Jesse Watters remarked Thursday that President-elect Joe Biden appears to have stocked his would-be Cabinet and administration with notable recent or former critics -- including Vice President-elect Sen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/jesse-watters-biden-critics-cabinet-tucker-carlson-tonight",
+      "originalUrl": "https://www.foxnews.com/media/jesse-watters-biden-critics-cabinet-tucker-carlson-tonight",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e9a6113-5b29-49e5-8bd0-708cb62b0ed2/a52f250f-66c5-42e6-82c4-378ac35dcaad/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/jesse-watters-biden-critics-cabinet-tucker-carlson-tonight.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jesse-watters-biden-critics-cabinet-tucker-carlson-tonight.amp",
+      "publishedDateTime": "2020-12-04T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-could-trump-pardon-family-members-and-other-close-associates-his-prior-pardons-may-set-the-stage-for-more.md",
       "title": "Could Trump pardon family members and other close associates? His prior pardons may set the stage for more",
       "excerpt": "As President Trump weighs granting more pardons during his final days in office, experts say the politicization of his broad clemency powers is a fait accompli.",
@@ -667,7 +837,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 382,
+      "heat": 402,
       "tags": null,
       "images": [
         {
@@ -1181,170 +1351,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp",
       "publishedDateTime": "2020-12-03T14:28:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-former-reagan-campaign-director-ed-rollins-slams-pro-trump-attorney-as-glorified-ambulance-chaser.md",
-      "title": "Former Reagan campaign director Ed Rollins slams pro-Trump attorney as 'glorified ambulance chaser'",
-      "excerpt": "Former Reagan campaign director Ed Rollins slammed President Trump's formal and allied legal teams on Fox News Radio's \"The Brian Kilmeade Show\" Thursday, at one point calling attorney Lin Wood a \"glorified ambulance chaser.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KVxtqP6Y8To/ed-rollins-slams-lin-wood-glorified-ambulance-chaser",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KVxtqP6Y8To/ed-rollins-slams-lin-wood-glorified-ambulance-chaser",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d944ee4f-9508-4a2d-82e2-68a551ca9fc3/e64b04e8-666b-48b4-92fd-d756c165e9b7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ed-rollins-slams-lin-wood-glorified-ambulance-chaser.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ed-rollins-slams-lin-wood-glorified-ambulance-chaser.amp",
-      "publishedDateTime": "2020-12-03T14:17:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-the-trump-administration-accused-facebook-of-reserving-over-2600-high-paying-jobs-for-foreign-workers-instead-of-hiring-americans.md",
-      "title": "The Trump administration accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans",
-      "excerpt": "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp",
-      "publishedDateTime": "2020-12-03T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-ratcliffe-urges-biden-to-let-durham-probe-run-its-course-says-more-docs-should-be-declassified.md",
-      "title": "Ratcliffe urges Biden to let Durham probe run its course, says more docs 'should be' declassified",
-      "excerpt": "EXCLUSIVE: Director of National Intelligence John Ratcliffe on Thursday urged President-elect Joe Biden to allow Special Counsel John Durham's investigation into the origins of the Russia probe to run its course, while saying he hopes there will be \"folks held accountable that should be.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FHxcYbJH5lk/ratcliffe-biden-durham-special-counsel-probe-declassified-documents",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FHxcYbJH5lk/ratcliffe-biden-durham-special-counsel-probe-declassified-documents",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ratcliffe-biden-durham-special-counsel-probe-declassified-documents.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ratcliffe-biden-durham-special-counsel-probe-declassified-documents.amp",
-      "publishedDateTime": "2020-12-03T12:23:37-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

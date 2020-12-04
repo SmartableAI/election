@@ -2,19 +2,19 @@
 category: news
 title: "Vice President Mike Pence, CDC head discuss COVID-19 vaccine in Memphis"
 excerpt: "The event comes when one vaccine, made by Pfizer and BioNTech, is likely days away from getting the Food and Drug Administration's emergency approval."
-publishedDateTime: 2020-12-03T05:00:00Z
-originalUrl: "https://www.freep.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
-webUrl: "https://www.freep.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
-ampWebUrl: "https://amp.freep.com/amp/3800763001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3800763001"
+publishedDateTime: 2020-12-03T00:00:00Z
+originalUrl: "https://www.statesman.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
+webUrl: "https://www.statesman.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
+ampWebUrl: "https://amp.statesman.com/amp/3800763001"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/3800763001"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -101,6 +101,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Rujn7JeQ5dp8L2imoxEWvIb//BCWYmJX5C3xzmm0rGE+yaKwxJuNuJr/P2Bz1C53gyvOZBeI8m7J1McKeewMkP2ry/ij/RZXV3GbFyepgk98OcaCDsWJVMoj7QBR5UkPPoJLC+7qiFL5c0vii4xXc22xuHS3d7ddjnc5qshwTs7V//2fp3EIZQQoTGbV77U02yCAZZAnBmOby2SeS9N8YVK+I6ZKTPEiT4QTS8qpiIOSSBUlUNLeQrBI2Yp2vZPcC+r4/JQ1L9la6kKDw6cpRH3s6jGBsXpvodp6DkhIaKIoHWKwuhl6kJyTp1M9yRY9GnatjH1EgZBVX08C5y0Bjtr4LQC/2RrXrJ8gbQWCcLyAScdsEHmv4s942FyVQ7n9j8iZQlfd9yh9jdZ7YI7HjVvoWAXDgPJnz9c/CvohnOw461WJZoewvk6ygXhH8ugEqDSQQBNFFICGbkCxkh92yrq0yS476pei+qzO8Wf3brc5sDJCq0g79O7V0fADJC1M4HKVkESG/LwK2IdUgJLoSw==;m3N+f9sYTmHjGV/K2UoCCg=="
+secured: "vu0XxvzuoIXd82tEkY1A5+x1j08MjjQFU8Odys+3ieDLVArqp3yJcLAbFPk3HWMlsFEhtWxcZmqwrfGL7raJ2s2t3qF80ETEhN61uX5UKhX8V2e3/0Ru8KW6Hhl+AL7GYsBD2BHtIi/rYUrdQKYY9ABAZUMviM4kvn4onfSDCmQZpE14tPWeCH0uTbpUQFwyfuH7MkQBPSjZLEhF8tuUmTZMNXhuPHXjZbHNPE/aQVKg/Y9Ky0V6b+bgiTYFrC5FjyLHmGYx21CG7bf28RBSlyMAOeWfnVMzB4LsD6RKEinqUJdaTY7iEO9/k5hZpTtK8GUnwD2sOLz+nhvCCEBa3lfDlV5YO32xswEGPtoRhV8=;TJS5tSS+Z65jXPVmvIfqPg=="
 ---
 

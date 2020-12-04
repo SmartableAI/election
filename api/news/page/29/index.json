@@ -2,6 +2,110 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-10-25-pence-to-keep-up-travel-despite-contact-with-infected-aide.md",
+      "title": "Pence to keep up travel despite contact with infected aide",
+      "excerpt": "The White House says Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-25T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-did-donald-trump-deliver-to-voters-with-that-last-debate-performance.md",
+      "title": "Did Donald Trump deliver to voters with that last debate performance?",
+      "excerpt": "In the second and final presidential debate, Americans witnessed a much less raucous, more coherent, and more policy-oriented and traditional discussion than the first debate That",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance",
+      "originalUrl": "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald3_10222020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp",
+      "publishedDateTime": "2020-10-25T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-whitmer-thanks-fbi-blames-trump-admin-after-kidnapping-plot-foiled.md",
       "title": "Whitmer thanks FBI, blames Trump admin after kidnapping plot foiled",
       "excerpt": "Michigan Gov. Gretchen Whitmer blamed the Trump administration for rhetoric that she claimed led to a kidnapping plot against her, after the Trump campaign accused her of encouraging attempts on the president's life.",
@@ -1240,114 +1344,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-democratic-rep-xochitl-torres-small-slams-biden-over-oil-remarks-at-debate-says-policy-is-out-of-touch.md",
-      "title": "Democratic Rep. Xochitl Torres Small slams Biden over oil remarks at debate, says policy is 'out of touch'",
-      "excerpt": "Biden said he would pursue policies that would “transition from the oil industry” if elected to office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a95G0z8pc0Y/democratic-rep-xochitl-torres-small-biden-oil-remarks",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a95G0z8pc0Y/democratic-rep-xochitl-torres-small-biden-oil-remarks",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62eb375b-2614-452e-a194-9b9665c58ee5/4bd50378-6878-40f5-aec4-aefdb644aaf6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democratic-rep-xochitl-torres-small-biden-oil-remarks.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-rep-xochitl-torres-small-biden-oil-remarks.amp",
-      "publishedDateTime": "2020-10-23T14:45:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-announces-that-sudan-will-israel-normalize-relations.md",
-      "title": "Trump Announces That Sudan Will Israel Normalize Relations",
-      "excerpt": "President Donald Trump announced Friday that Sudan had agreed to establish diplomatic ties with Israel, making it the third Arab state to do so under the Trump Administration-brokered peace deals, known as the “Abraham Accords.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/",
-      "originalUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934ca4eb1b5edb9d90d708%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4618%26cropY1%3D97%26cropY2%3D2694",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/",
-      "publishedDateTime": "2020-10-23T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

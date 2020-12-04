@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-01-biden-says-coronavirus-relief-package-during-lame-duck-period-likely-just-a-start.md",
+      "title": "Biden says coronavirus relief package during lame-duck period likely 'just a start'",
+      "excerpt": "Lawmakers have just days to reach an agreement on additional relief before Congress closes for the year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xWROiHsG-WE/biden-covid-19-relief-package-lame-duck-period-likely-just-a-start",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xWROiHsG-WE/biden-covid-19-relief-package-lame-duck-period-likely-just-a-start",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65cf5a5c-9728-4133-b323-de669e0545e8/ca5dbb94-67b3-49a7-88a0-2b0d4e389b3b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-covid-19-relief-package-lame-duck-period-likely-just-a-start.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-19-relief-package-lame-duck-period-likely-just-a-start.amp",
+      "publishedDateTime": "2020-12-01T13:00:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-biden-pick-for-omb-director-will-push-globalist-policies-that-cost-us-jobs-huckabee.md",
       "title": "Biden pick for OMB director will push globalist policies that cost US jobs: Huckabee",
       "excerpt": "President-elect Joe Biden’s pick for director of the Office of Management and Budget (OMB) will push globalist policies that will lead to the loss of U.S. jobs, former Arkansas Gov. Mike Huckabee warned Tuesday.",
@@ -1594,62 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/matt-schlapp-nevada-trump-2020-campaign-voter-fraud-evidence.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-schlapp-nevada-trump-2020-campaign-voter-fraud-evidence.amp",
       "publishedDateTime": "2020-11-24T20:44:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-aoc-ilhan-omar-try-to-block-deficit-hawk-from-biden-administration.md",
-      "title": "AOC, Ilhan Omar try to block 'deficit hawk' from Biden administration",
-      "excerpt": "Squad members Reps. Alexandria Ocasio-Cortez, D-N.Y. and Ilhan Omar, D-Minn., are mounting a petition against Biden nominating his former chief of staff Bruce Reed, who they say is a “deficit hawk,” to a role within the incoming administration. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC1EBAjpbxM/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC1EBAjpbxM/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/squad-thumb.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration.amp",
-      "publishedDateTime": "2020-11-24T16:27:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

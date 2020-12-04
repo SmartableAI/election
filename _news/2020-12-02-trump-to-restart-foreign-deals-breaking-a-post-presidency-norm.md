@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's criticism of GOP Senate candidates has Republicans worried ahead of rally"
+    excerpt: "President Donald Trump heads to Georgia on Saturday to campaign for two Republican senators one month ahead of a critical runoff that will determine which party controls the Senate. But Trump's visit comes as he has spent the last several weeks consumed by his own election loss while attacking party"
+    publishedDateTime: 2020-12-04T22:47:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XTO1_LseAAM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-georgia-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-georgia-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130728-02-trump-1203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia's lieutenant governor joins state GOP officials in rejecting Trump's 'misinformation'"
     excerpt: "Georgia's Republican lieutenant governor on Tuesday joined a growing list of GOP officials in the state who are publicly rejecting President Donald Trump's baseless claims of voter fraud, saying the misinformation spread by the President and his allies is \"alarming\" and could jeopardize the party in"
     publishedDateTime: 2020-12-01T16:21:33Z
