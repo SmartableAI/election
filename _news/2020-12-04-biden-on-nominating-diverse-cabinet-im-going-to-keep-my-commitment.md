@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-co
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     height: 619
     isCached: true
 
-related:
-  - title: "Progressives are picking their fights with Biden. Neera Tanden's nomination likely won't be one."
-    excerpt: "First, there was surprise. Then flashes of anger. But most progressive allies of Sen. Bernie Sanders have quietly resigned themselves -- or even offered some modest public support -- to Neera Tanden following President-elect Joe Biden's decision to tap their longtime nemesis for a Cabinet-level job.\n"
-    publishedDateTime: 2020-12-03T17:37:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aPESdvReqFI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/neera-tanden-bernie-sanders-progressives/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/neera-tanden-bernie-sanders-progressives/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201134328-neera-tanden-biden-economic-team-1201-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-
-secured: "bQtOvS59kY6J8IYZpJdl9Uy5w9vmwcUBXARJEufg051nC5B0rFSsQG+clNYWTmcyw86KHDRuscHRl/IVfiz1Z1hu0HnqyE2vZgtjPM7rTyPvMtGn+Ydoc7r3iXzOFiQAeA8a4bUIZTXFGcfInsDCnmL1+BRKewnkzm2c9t17MfUCxtuxZ+lg314xuW7MSlijfjTnNsH9CP5V+A1KQ8vb60ABwwTQrRjQlNmXMHFFf+8cFtHbRB5mtRv3xJOrV2FwYPOw4liNRz7YFdrNGY7AFhmwWlll8DQexSbSqIbE+1OPGKAEylvMxevdlaLbz9SMV6XAUOxOyZ3/mbFxFoPgNRRIJYhk0Sx4Ebsxjylf9Yg=;5mOxFq6bOmFhiZcjGiqRag=="
+secured: "kjbdy9FdEDhBnn7oI7BEkFvL7UxsEQ1T0yqQyYU8fmq9KYoTIG7qWmRU6Or+Zm0R7EzgL/zyaj4yWTFZXIZmw47uN1mkjQzcLmTeH3DU/q50B/W0a9pEFbjVhyjSNHO5ARZ2GCiCHnIodMNsqStyCVEmpuUWK8tPAm7xJrJ6EbgCHcsJnskmMErJHQbX2RG9EyBFMv5vanI7Rfu0hWgmvpGdc6xxduoBk54nIsmeyU7X5mIZN1sxxujNbsjg+cV+SiqvBPBURwpiFcyEa+D19xPU28isa68T+HXzZCVFHY8S3OSXWjnMw/emYhuG2isS0ifjptS1simrx6JbGq62EwIoi4X9G7Fa6NJ60JWQ+Tc=;62m/TcMs+ybBjlcg4PwSeA=="
 ---
 

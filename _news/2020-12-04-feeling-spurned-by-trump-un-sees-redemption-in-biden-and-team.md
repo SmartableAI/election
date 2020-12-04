@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Does Biden think it's important Trump attend inauguration? Hear his answer"
+    excerpt: "In an interview with CNN's Jake Tapper, President-elect Joe Biden explains the importance of a demonstration of a peaceful transfer of power at his inauguration.\n    \n"
+    publishedDateTime: 2020-12-04T03:14:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OKxfE8n0UJk/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden picks up small number of votes in Milwaukee County after Trump-requested recount"
     excerpt: "President-elect Joe Biden saw a small net gain in votes as Milwaukee County, Wisconsin's largest, certified its presidential general election results Friday after a recount requested by the Trump campaign.\n    \n"
     publishedDateTime: 2020-11-28T01:46:41Z
@@ -64,22 +80,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "GA secretary of state: I'm a proud Trump supporter but numbers don't lie"
-    excerpt: "Georgia Secretary of State Brad Raffensperger spoke after his office confirmed that President-elect Joe Biden defeated President Donald Trump in the state and found no widespread fraud after a statewide audit.\n    \n"
-    publishedDateTime: 2020-11-20T13:56:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vS1u39yPSrY/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/20/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/20/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120084211-secretary-of-state-brad-raffensperger-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "The Point: Why Joe Biden's broken foot reveals how different his White House will be from Donald Trump's"
     excerpt: "Days before Thanksgiving last year, President Donald Trump made an unannounced and previously unscheduled trip to Walter Reed medical center. The White House said the trip was for a \"quick exam and labs.\" We still don't know why he actually went -- or what the outcome of his visit was.\n    \n"
     publishedDateTime: 2020-11-30T18:11:49Z
@@ -96,37 +96,37 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump campaign requests Georgia recount that's unlikely to change his loss in the state"
-    excerpt: "Georgia will conduct another recount of its presidential ballots following a Trump campaign request Saturday, but the recount is extremely unlikely to change his loss in the state.\n    \n"
-    publishedDateTime: 2020-11-22T05:38:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/57IMkYkp5ok/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/georgia-presidential-election-recount/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/georgia-presidential-election-recount/index.html"
+  - title: "Ivanka Trump was deposed Tuesday in DC attorney general's inauguration lawsuit"
+    excerpt: "Ivanka Trump, the President's daughter and adviser, sat for a deposition Tuesday with investigators from the Washington, DC, attorney general's office as part of its lawsuit alleging the misuse of inaugural funds, according to a court filing.\n    \n"
+    publishedDateTime: 2020-12-03T00:45:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rDmis8lrzXU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/ivanka-trump-deposition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/ivanka-trump-deposition/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111113617-ballot-counting-georgia-1105-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827234139-ivanka-trump-speech-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Full Panel: President Trump still falsely claiming voter fraud"
-    excerpt: "Kasie Hunt, Michael Eric Dyson, O. Kay Henderson and Hugh Hewitt join the Meet the Press roundtable to talk about the president's attempts to find voter fraud and the president-elect's transition challenges."
-    publishedDateTime: 2020-11-29T15:03:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-president-trump-still-falsely-claiming-voter-fraud-96816709743"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96816709743"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96816709743"
+  - title: "Ivanka Trump deposed Tuesday as part of inauguration fund lawsuit"
+    excerpt: "The suit claims the Inaugural Committee made improper payments to the president's Washington hotel during the week of the inauguration in 2017."
+    publishedDateTime: 2020-12-03T04:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/ivanka-trump-deposed-tuesday-part-inauguration-fund-lawsuit-n1249801"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249801"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249801"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/mtp_full_panel_201129_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432810/201102-ivanka-trump-2019-ac-1126p_7da6c574be0e91121b1a867b96447b62.jpg"
+        width: 2500
+        height: 1658
         isCached: true
   - title: "The latest on Biden's transition"
     excerpt: "President-elect Joe Biden forges ahead with transition plans as President Trump refuses to concede and pursues legal challenges to the election results. Follow here for the latest."
@@ -144,26 +144,10 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Trump repeats baseless voter fraud claims after Barr says no evidence"
-    excerpt: "President Trump repeated his unsubstantiated claims of widespread voter fraud in a 46 minute video shot by the White House without press in the room. It comes one day after Attorney General Barr told the Associated Press he has “not seen fraud” on a scale that could have changed the election outcome."
-    publishedDateTime: 2020-12-03T00:29:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-repeats-baseless-voter-fraud-claims-after-barr-says-no-evidence-97021509542"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97021509542"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97021509542"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kwe_trump_barr_pardon_investigation_201202_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "The latest on Biden's transition"
     excerpt: "President-elect Joe Biden forges ahead with transition plans as President Trump refuses to concede and pursues legal challenges to the election results. Follow here for the latest."
     publishedDateTime: 2020-12-03T21:19:00Z
-    webUrl: "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-12-03-20/h_075faf0fcf43f858af6d329adb622f89"
+    webUrl: "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-12-03-20/h_eab09fb31baa58e59e8916dee442001b"
     ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-trump-us-election-news-12-03-20/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-trump-us-election-news-12-03-20/index.html"
     type: article
@@ -172,9 +156,9 @@ related:
       domain: cnn.com
     quality: 135
     images:
-      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/347f2b12-bb8c-4106-8cd5-9824298f308d.jpg"
-        width: 900
-        height: 506
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125153328-02-biden-thanksgiving-remarks-1125-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "6pSLNucsS4tuLTHWxtICCAn5QvEoddLd+bKUCOxRXEoKtPMlJhmCmzmruJfkvm/GAhVp5U7S8Jw6xU1l5AVowZAKjnIjCUHqvePezgJrZTOFDuXd39g0ONXLpzC28YV4NcHCl2W0nDf6QipwTnL8w39VTBN/KRAAi5JidXD8WxPoVozDaL4c71TaWfcXUrFsYbDB4M/19qrHh6+w1277ybuq9Xlkcy4KN7z4gX+C0ciMvMPWHoOW/xJ0Y2pUXvrJ7iJwX04rvhAQQuwnEE5M8rOgfxq9fxRvFeGrP9xifNELaRjROVUIS3eQCdKZHEAEf5P8b4JUva+5aMRjHsS5pbg4DHX3if2Ba54O7ip5HSc=;vX+o5L7DT7O2G3P4rh2pxA=="

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Canada to Trump: You can't take our prescription drugs"
+    excerpt: "Canada is putting the kibosh on President Donald Trump's efforts to lower drug prices by importing medications from our northern neighbor.\n    \n"
+    publishedDateTime: 2020-11-30T16:16:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnI4UU8-Rj4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190103095059-20190103-drug-prices-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Federal appeals court rules against the Trump administration's public charge rule"
     excerpt: "The Ninth Circuit Court of Appeals on Wednesday ruled against the Trump administration's controversial \"public charge\" rule that critics say has a chilling effect on immigrants who may need to seek medical assistance, marking the latest blow against the regulation.\n    \n"
     publishedDateTime: 2020-12-02T21:58:28Z
@@ -126,6 +142,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/03/multimedia/03trump-lawsuit-1/03trump-lawsuit-1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump Associates Said to Have Been Scrutinized in Suspected Pardon Scheme"
+    excerpt: "A billionaire from San Francisco sought clemency for a psychologist convicted of monetary crimes. The Republican donor Elliott Broidy and a lawyer for Jared Kushner were enlisted."
+    publishedDateTime: 2020-12-04T01:34:00Z
+    webUrl: "https://www.nytimes.com/2020/12/03/us/pardon-elliott-broidy-abbe-lowell.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/03/us/pardon-elliott-broidy-abbe-lowell.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/us/pardon-elliott-broidy-abbe-lowell.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/03/lens/03dc-pardon-justice/merlin_180727236_7067670e-968d-44e7-b237-21f48bffbe6e-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Could Trump pardon family members if they haven't been charged with crimes?"
     excerpt: "Could Trump pardon family members if they haven't been charged with a crime? WASHINGTON — Speculation that President Donald Trump might issue pardons before he leaves office for members of his family or other supporters raises a question about whether pardons can be issued pre-emptively — that is,"

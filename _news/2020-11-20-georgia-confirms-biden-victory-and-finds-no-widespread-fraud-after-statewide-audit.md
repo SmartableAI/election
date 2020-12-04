@@ -95,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden announces all-female senior White House communications team "
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Sunday announced an all-female White House senior communications team.\n    \n"
-    publishedDateTime: 2020-11-29T22:48:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hxmhZyiQRjo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-white-house-female-communications-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-white-house-female-communications-team/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103080726-02-white-house-1103-restricted-super-tease.jpeg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden discusses mask mandate and vaccine distribution with bipartisan group of governors"
     excerpt: "President-elect Joe Biden discussed a national mask mandate, plans to distribute a coronavirus vaccine and the need to help cash-strapped states Thursday in a meeting with Republican and Democratic governors.\n    \n"
     publishedDateTime: 2020-11-19T22:29:37Z
@@ -174,22 +158,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/12/opinion/12seniorWeb/12seniorWeb-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Biden Expected to Name Top Economic Officials This Week"
-    excerpt: "President-elect Joseph R. Biden Jr. is expected to nominate Neera Tanden, a divisive figure within the Democratic Party, to lead the budget office. He also named an all-female communications staff."
-    publishedDateTime: 2020-11-29T22:38:00Z
-    webUrl: "https://www.nytimes.com/2020/11/29/us/politics/biden-cabinet-tanden-rouse-adeyemo.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/29/us/politics/biden-cabinet-tanden-rouse-adeyemo.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/29/us/politics/biden-cabinet-tanden-rouse-adeyemo.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/29/us/politics/29dc-bidenecon/29dc-bidenecon-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Biden promises some student loan forgiveness. Student borrowers hope he delivers."
     excerpt: "While President-elect Joe Biden has said he would implement his student loan forgiveness plan \"immediately,\" he has not committed to widespread student debt cancellation."

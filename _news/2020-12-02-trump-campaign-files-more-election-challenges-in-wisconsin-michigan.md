@@ -126,6 +126,22 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Pro-Trump news sites saw decline in weeks leading up to 2020 election"
+    excerpt: "In the weeks leading up to the 2020 election, six of the top 20 conservative news sites were slammed by surprise declines in traffic compared to a year ago, according to data made public this"
+    publishedDateTime: 2020-12-04T03:30:00Z
+    webUrl: "https://nypost.com/2020/12/03/pro-trump-news-sites-saw-decline-leading-up-to-election/"
+    ampWebUrl: "https://nypost.com/2020/12/03/pro-trump-news-sites-saw-decline-leading-up-to-election/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/03/pro-trump-news-sites-saw-decline-leading-up-to-election/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/pro-trump-sites.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Wisconsin’s Highest Court Turns Away Trump Lawsuit Challenging Election Defeat"
     excerpt: "Wisconsin’s high court dealt another setback to President Trump’s efforts to overturn his defeat to President-elect Biden, turning away a lawsuit challenging the validity of hundreds of thousands of mail-in ballots."
     publishedDateTime: 2020-12-04T02:03:00Z

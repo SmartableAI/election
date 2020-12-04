@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden readies major stimulus push and flurry of executive actions in first 100 days"
-    excerpt: "President-elect Joe Biden and his transition team are preparing for an early, all-out push to pass an ambitious new stimulus bill, while also drawing up plans for a flurry of executive actions aimed at delivering on campaign promises and undoing the Trump administration's efforts to undermine key government"
-    publishedDateTime: 2020-12-01T12:02:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ACcFlaxuQ68/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/biden-first-100-days/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/biden-first-100-days/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125153328-02-biden-thanksgiving-remarks-1125-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden says transition communication from White House 'has been sincere'"
     excerpt: "In an exclusive interview with NBC News’ Lester Holt, President-elect Joe Biden described the transition of power process, categorizing the outreach from the White House as “sincere.”"
     publishedDateTime: 2020-11-24T22:07:00Z
@@ -79,22 +63,6 @@ related:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_brk_biden_holt_tease4_201124.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Legacy civil rights groups feel left out of Biden transition"
-    excerpt: "Biden has named several Black officials to fill high profile jobs, but the civil rights leaders want to be included in the decision-making process."
-    publishedDateTime: 2020-12-01T20:14:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/legacy-civil-rights-groups-feel-left-out-biden-transition-n1249495"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249495"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249495"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432088/201201-derrick_johnson-mc-1152_9f8ecccc4c4f61fd4f90136f36e97245.JPG"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Presidential Transition: Georgia Nears Its Recount Deadline, With Biden Ahead by Over 12,000 Votes"
     excerpt: "Republicans in Michigan faced accusations of racism after refusing to certify results in Wayne County, which includes Detroit, a majority-Black city. A Jewish group denounced the White House’s pick for a federal preservation commission."

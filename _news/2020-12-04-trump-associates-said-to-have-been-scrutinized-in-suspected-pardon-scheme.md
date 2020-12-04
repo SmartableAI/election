@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says he'll travel to Georgia to support Republican Senate candidates in runoff election"
-    excerpt: "President Donald Trump said Thursday he will travel to Georgia to support the state's Republican Senate candidates ahead of the January 5 runoff election.\n    \n"
-    publishedDateTime: 2020-11-27T02:11:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzHZPjjJvNo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
+  - title: "Trump admits 'it's hard to get to the Supreme Court'"
+    excerpt: "CNN's Amara Walker and Carl Bernstein discuss President Trump's admission during a Fox News interview that \"it's hard\" to get cases to the Supreme Court and how Trump's continued legal challenges could undermine future election processes.\n    \n"
+    publishedDateTime: 2020-11-29T19:57:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lg3rilrlAME/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 179
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126174410-01-donald-trump-white-house-1126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050331-02-donald-trump-thanksgiving-1126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,69 +64,165 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Republicans brace for Trump rally in Georgia ahead of January runoffs"
-    excerpt: "Georgia Republicans are increasingly worried about President Donald Trump's rally on Saturday for the two Senate runoff races, as some brace for a tirade to overturn his loss that could hurt the party's effort to keep control of the chamber.\n    \n"
-    publishedDateTime: 2020-12-03T12:21:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H7EM0rwGCYc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/republicans-trump-rally-georgia-senate-runoff/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/republicans-trump-rally-georgia-senate-runoff/index.html"
+  - title: "Justice Department releases Trump's pardon of Flynn and asks court for dismissal"
+    excerpt: "The Justice Department on Monday released a copy of President Donald Trump's pardon of former national security adviser Michael Flynn and formally asked a federal court to dismiss the case against him.\n    \n"
+    publishedDateTime: 2020-11-30T23:28:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rc1liRHkvaI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/michael-flynn-pardon-filing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/michael-flynn-pardon-filing/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180114192337-02-trump-perdue-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124230912-03-michael-flynn-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia secretary of state says Trump threw him under bus despite his support"
-    excerpt: "Georgia Secretary of State Brad Raffensperger on Wednesday lambasted President Donald Trump, saying that the commander in chief threw him under the bus although he voted for him.\n    \n"
-    publishedDateTime: 2020-11-25T13:34:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i5d0Wd5rurY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/brad-raffensperger-trump-usa-today-oped/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/brad-raffensperger-trump-usa-today-oped/index.html"
+  - title: "Federal appeals court rules against the Trump administration's public charge rule"
+    excerpt: "The Ninth Circuit Court of Appeals on Wednesday ruled against the Trump administration's controversial \"public charge\" rule that critics say has a chilling effect on immigrants who may need to seek medical assistance, marking the latest blow against the regulation.\n    \n"
+    publishedDateTime: 2020-12-02T21:58:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q3CoLbVR-uQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/immigration-public-charge/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/immigration-public-charge/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170612151430-ninth-u-s-circuit-court-of-appeals-0612-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Presidential Transition Live Updates: Trump Team Files Last Ditch Lawsuits Ahead of Deadline to Finalize the Election"
-    excerpt: "The safe harbor deadline — the date by which any election controversies must be settled — is Dec. 8. President-elect Joe Biden’s nominees send a clear message that his economic policymaking will be shaped by liberal thinkers."
-    publishedDateTime: 2020-11-30T18:13:00Z
-    webUrl: "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/30/us/joe-biden-trump.amp.html"
+  - title: "Supreme Court hears arguments in Trump plan to cut undocumented immigrants from Census"
+    excerpt: "The Supreme Court on Monday will return and take up another of President Donald Trump's immigration-related policies as it considers the attempt to exclude undocumented immigrants from being counted in the Census totals when seats in Congress are divvied up between the states next year.\n    \n"
+    publishedDateTime: 2020-11-30T12:03:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/swnpTxDOwdk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/census-supreme-court-oral-arguments/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/census-supreme-court-oral-arguments/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200311103024-01-us-census-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Trump administration is considering shortening the recommended quarantine time for Covid-19"
+    excerpt: "President Donald Trump's coronavirus task force is reviewing evidence about how long people need to quarantine to be safe and slow the spread of Covid-19, according to Assistant Secretary for Health Adm. Brett Giroir.\n    \n"
+    publishedDateTime: 2020-11-24T22:39:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kG7dcpjim5o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/quarantine-time-recommendation-trump-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/quarantine-time-recommendation-trump-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200731101534-03-coronavirus-hearing-0731-brett-giroir-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Raises $170 Million as He Denies His Loss and Eyes the Future"
+    excerpt: "The president’s campaign has ratcheted up its appeals for cash, but 75 percent of every contribution is going to a new political action committee that could fund his next political move."
+    publishedDateTime: 2020-12-01T04:51:00Z
+    webUrl: "https://www.nytimes.com/2020/11/30/us/politics/trump-campaign-donations.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/30/us/politics/trump-campaign-donations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/us/politics/trump-campaign-donations.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 127
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30transition-briefing-trump-cases1/30transition-briefing-trump-cases1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30trump-money-photo/30trump-money-photo-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Donald Trump Jr. aides launch super PAC as Georgia worries mount"
-    excerpt: "The president's son stars in a new ad campaign as Republicans worry Trump's voter fraud accusations will depress GOP turnout in the Senate runoffs."
-    publishedDateTime: 2020-11-30T09:44:00Z
-    webUrl: "https://www.politico.com/news/2020/11/30/donald-trump-jr-super-pac-georgia-worries-mount-441205"
+  - title: "Tenants Sue Trump Over Scheme That Drove Up Their Rents"
+    excerpt: "The latest legal front against the outbound president involves a maneuver that earned him and his siblings millions while lowering their taxes."
+    publishedDateTime: 2020-12-03T22:13:00Z
+    webUrl: "https://www.nytimes.com/2020/12/03/nyregion/trump-lawsuit-tenants.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/03/nyregion/trump-lawsuit-tenants.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/nyregion/trump-lawsuit-tenants.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/03/multimedia/03trump-lawsuit-1/03trump-lawsuit-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Could Trump pardon family members if they haven't been charged with crimes?"
+    excerpt: "Could Trump pardon family members if they haven't been charged with a crime? WASHINGTON — Speculation that President Donald Trump might issue pardons before he leaves office for members of his family or other supporters raises a question about whether pardons can be issued pre-emptively — that is,"
+    publishedDateTime: 2020-12-03T02:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/could-trump-pardon-family-members-if-they-haven-t-been-n1249707"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249707"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249707"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432571/201202-donald-trump-jm-1031_26037655efec3920d6e2760cd31d74ff.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Supreme Court Takes Up Trump Plan to Exclude Unauthorized Immigrants in Redistricting"
+    excerpt: "The administration’s efforts, which are subject to practical hurdles, would upset a constitutional consensus and could shift political power from Democratic states to Republican ones."
+    publishedDateTime: 2020-11-30T10:14:00Z
+    webUrl: "https://www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30dc-scotus/30dc-scotus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Supreme Court skeptical of Trump's plan to exclude undocumented immigrants from census"
+    excerpt: "Several justices, including some conservative ones, seemed to doubt that the president had such a sweeping power to modify the census results."
+    publishedDateTime: 2020-11-30T17:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-skeptical-trump-s-plan-exclude-undocumented-immigrants-census-n1249373"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249373"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249373"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3431877/201130-donald-trump-jm-1222_09c5176df224157034d1666e28d89ff9.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump threatens to veto defense bill over social media rule"
+    excerpt: "President Donald Trump threatened to veto must-pass defense policy legislation on Tuesday unless lawmakers agree to repeal a legal shield for social media companies, a move that one senior House staffer called \"a total non-starter\" for Democrats."
+    publishedDateTime: 2020-12-02T03:57:00Z
+    webUrl: "https://www.politico.com/news/2020/12/01/trump-threatens-veto-defense-bill-social-media-442115"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/d1/90/320a62d547098438aa9ed817e738/gettyimages-1268372750-1.jpg"
+      - url: "https://static.politico.com/30/50/55b84843455c9998b73b04e76fd1/20201129-djt-gty-773.jpg"
         width: 1160
         height: 773
         isCached: true
 
-secured: "nh8S+VbdE1NDMcPQX6uIcw1AUDxUp25G38fEq2sjScRtvPIKh7oi49Kffb/NqrOwn6mXPXktHWrfceHAs9CBR94Jf2jTn2YnG2JtsYY4unhQY9iuTnZP2Cw7WP5vJFFnvguPoVVpeupg1AeQlJlqnuLW+vZJ6hb3CJz87Aaqg/ra3cs0niOgY5fvDF7Vu4juD2s9JNTTGt8P0Y1h5ydxLDVKdl3pjCvs+m6pd+17/zy0seU+D3xNbVgZntOsRScUEQMlFITrNUREo4lGaBu9P8tVdoZxBpBQNpOOmaIbpqE/1aHDfhYNAR72XEHqT/KnmAWWAP/uZOUvyiCbQ0o6MjvP/aGT9VgEz12V/ObGMaA=;JqfAHrgqeOkbKnWjdYfETA=="
+secured: "0GTiuYCzfuGS+Xybhpyp00xJbhZtJVucDpBUApnWS5Au24UUjWWGsnuLA/O2bnOnH/XHRzs4UGBcAej8Swv1VQGjwGdMgPZjvhxbzpinhGEGo1hKnNDPas2iwXShmobgSbobOh1PdID8IqrA+QIEzhwa+Z38NwcFb/i4gbpa1+aFBDUJ4BxGoYLy2Mf/J8CGgwk8ubAzIUNo60ubcRH1ptXoKkwlNH8M65Ry4KV3Et3h9oOwoZVDNir4R6dYL/PMtA3JmdZMsoJBAu6OmYfw5wfrC7cCvEguMbRq71ko49tAWBV1YYo739p7UPfvYLBWKuTH0Gi1mdhn0MVi4j0ZgiSgVbAT/0XYBBLM7XMxZsTIE2jhAazkuBdWZGxBC1IiEtW5ymoWhahFj3ta0tu3AmWFPJG4BnEwSfJjw79xieBYUacmF/m7mw4ax98zG7MzRZDUUHZjrWFwHOxy1uuq0a/KuI3j6PWN9VLz4a0dItDpc/Sev8p29Ge8xELw7PZU9nwrPrxeHoyoETMEZPONPw==;zkU3ZufDfSx/ETIXa63Bnw=="
 ---
 

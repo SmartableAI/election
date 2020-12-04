@@ -142,6 +142,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Pro-Trump news sites saw decline in weeks leading up to 2020 election"
+    excerpt: "In the weeks leading up to the 2020 election, six of the top 20 conservative news sites were slammed by surprise declines in traffic compared to a year ago, according to data made public this"
+    publishedDateTime: 2020-12-04T03:30:00Z
+    webUrl: "https://nypost.com/2020/12/03/pro-trump-news-sites-saw-decline-leading-up-to-election/"
+    ampWebUrl: "https://nypost.com/2020/12/03/pro-trump-news-sites-saw-decline-leading-up-to-election/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/03/pro-trump-news-sites-saw-decline-leading-up-to-election/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/pro-trump-sites.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
     excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
     publishedDateTime: 2020-12-03T20:13:00Z

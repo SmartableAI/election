@@ -32,67 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden poised to nominate Antony Blinken as secretary of state"
-    excerpt: "President-elect Joe Biden is poised to nominate Antony Blinken to serve as secretary of state, people familiar with the matter told CNN, elevating a longtime foreign policy adviser as Biden makes his first round of Cabinet announcements Tuesday.\n    \n"
-    publishedDateTime: 2020-11-23T03:59:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B4VQdW4vb4g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/22/politics/biden-transition-antony-blinken/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/biden-transition-antony-blinken/index.html"
+  - title: "Biden says multiple Republican senators have called to congratulate him on election win"
+    excerpt: "President-elect Joe Biden revealed Thursday that \"more than several\" Republican senators have called to privately congratulate him on his election win, despite the fact that most of them have not publicly acknowledged his victory last month.\n    \n"
+    publishedDateTime: 2020-12-04T03:21:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CsxxWF3xIMs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 182
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119200202-antony-blinken-file-photo-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203175418-02-biden-intv-tapper-1203-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to pick Janet Yellen for Treasury secretary"
-    excerpt: "President-elect Joe Biden will choose Janet Yellen, former chair of the Federal Reserve, as his secretary of the Treasury, according to a source with knowledge of the pick.\n    \n"
-    publishedDateTime: 2020-11-23T22:15:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qnc9d2kP2ZQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/janet-yellen-treasury-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/janet-yellen-treasury-biden/index.html"
+  - title: "Trump says he'll travel to Georgia to support Republican Senate candidates in runoff election"
+    excerpt: "President Donald Trump said Thursday he will travel to Georgia to support the state's Republican Senate candidates ahead of the January 5 runoff election.\n    \n"
+    publishedDateTime: 2020-11-27T02:11:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzHZPjjJvNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-thanksgiving-call-georgia-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 179
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123153507-janet-yellen-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'The team meets this moment:' Biden introduces top admin nominees "
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Tuesday introduced their first slate of Cabinet-level picks, and the six foreign policy and national security nominees and appointees joined them onstage at an event in Wilmington, Delaware.\n    \n"
-    publishedDateTime: 2020-11-24T18:24:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ECfaZ157CKQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/biden-cabinet-nominees-event/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/biden-cabinet-nominees-event/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Key Democrat warns Biden not to nominate Mike Morell as CIA director "
-    excerpt: "A key Democrat on the Senate Intelligence Committee is warning President-elect Joe Biden that he should avoid nominating a top contender for the job of CIA director, Mike Morell, because his record as a \"torture apologist\" makes confirmation a \"nonstarter.\"\n    \n"
-    publishedDateTime: 2020-11-25T03:52:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lDTXoCYea8g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/biden-morell-cia-director-wyden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/biden-morell-cia-director-wyden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161101155107-michael-morell-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126174410-01-donald-trump-white-house-1126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,133 +80,117 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia confirms Biden victory and finds no widespread fraud after statewide audit"
-    excerpt: "Georgia elections officials said Thursday that plans to release results of a statewide ballot audit have been delayed while one county completes its review, but are expected shortly.\n    \n"
-    publishedDateTime: 2020-11-20T00:38:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vD5kvSJ24dE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/georgia-recount-election-results/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/georgia-recount-election-results/index.html"
+  - title: "The fate of millions of Americans rests on Biden's economic team"
+    excerpt: "Joe Biden's incoming economic team will shoulder the desperate hopes of millions of Americans who have lost jobs, face eviction from their homes or who are going hungry in a monstrous Covid-19-induced slump.\n    \n"
+    publishedDateTime: 2020-12-01T12:12:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tmPc7foOmag/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/joe-biden-economic-team-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/joe-biden-economic-team-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123153507-janet-yellen-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fauci expected to meet with Biden transition team Thursday "
+    excerpt: "Dr. Anthony Fauci confirmed to CNN that he will meet virtually with President-elect Joe Biden's transition team on Thursday afternoon about the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2020-12-03T16:18:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqZS8NDWNQU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/anthony-fauci-biden-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/anthony-fauci-biden-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200512102610-01-fauci-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden readies major stimulus push and flurry of executive actions in first 100 days"
+    excerpt: "President-elect Joe Biden and his transition team are preparing for an early, all-out push to pass an ambitious new stimulus bill, while also drawing up plans for a flurry of executive actions aimed at delivering on campaign promises and undoing the Trump administration's efforts to undermine key government"
+    publishedDateTime: 2020-12-01T12:02:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ACcFlaxuQ68/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/biden-first-100-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/biden-first-100-days/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125153328-02-biden-thanksgiving-remarks-1125-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden discusses mask mandate and vaccine distribution with bipartisan group of governors"
-    excerpt: "President-elect Joe Biden discussed a national mask mandate, plans to distribute a coronavirus vaccine and the need to help cash-strapped states Thursday in a meeting with Republican and Democratic governors.\n    \n"
-    publishedDateTime: 2020-11-19T22:29:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-a1izFV5Cpk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-governors-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-governors-meeting/index.html"
+  - title: "Biden says he will ask Americans to wear masks for the first 100 days he's in office"
+    excerpt: "President-elect Joe Biden told CNN's Jake Tapper on Thursday that he has asked Dr. Anthony Fauci to be a chief medical adviser and part of his Covid-19 response team when his administration begins next year.\n    \n"
+    publishedDateTime: 2020-12-03T22:44:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vBMq_AvZBFo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-harris-interview-jake-tapper/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-harris-interview-jake-tapper/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203164514-tapper-biden-harris-1203-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to name economic team this week, with three women in top roles to help build recovery"
-    excerpt: "President-elect Joe Biden is set to formally name key members of his economic team on Monday, with the long-expected announcement of Janet Yellen as Treasury Secretary, CNN has learned, along with two other women in top roles to help him navigate the nation's punishing fiscal headwinds in hopes of building"
-    publishedDateTime: 2020-11-29T22:44:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-LEoanAyZ4o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/index.html"
+  - title: "Legacy civil rights groups feel left out of Biden transition"
+    excerpt: "Biden has named several Black officials to fill high profile jobs, but the civil rights leaders want to be included in the decision-making process."
+    publishedDateTime: 2020-12-01T20:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/legacy-civil-rights-groups-feel-left-out-biden-transition-n1249495"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249495"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249495"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125151119-01-biden-thanksgiving-remarks-1125-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432088/201201-derrick_johnson-mc-1152_9f8ecccc4c4f61fd4f90136f36e97245.JPG"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Biden names former Alito clerk to top White House job"
-    excerpt: "Dana Remus, who most recently served as general counsel to the Biden campaign, will become counsel to the president in the new administration."
-    publishedDateTime: 2020-11-20T08:39:00Z
-    webUrl: "https://www.politico.com/news/2020/11/17/biden-names-former-alito-clerk-to-top-white-house-job-437005"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/11/17/biden-names-former-alito-clerk-to-top-white-house-job-437005"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/17/biden-names-former-alito-clerk-to-top-white-house-job-437005"
+  - title: "Raimondo says she won't be Biden's health secretary"
+    excerpt: "The Rhode Island governor, who had recently emerged as a frontrunner for the job, was strongly opposed by progressives."
+    publishedDateTime: 2020-12-03T22:25:00Z
+    webUrl: "https://www.politico.com/news/2020/12/03/raimondo-biden-hhs-secretary-442672"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/03/raimondo-biden-hhs-secretary-442672"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/raimondo-biden-hhs-secretary-442672"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 135
     images:
-      - url: "https://static.politico.com/d7/61/6bd152df47cabd530cbca1cab477/gettyimages-1284977655-1.jpg"
+      - url: "https://static.politico.com/83/de/b9ea4027407c90eb5835f66aaf32/20201203-gina-raimondo-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Should We Worry About Joe Biden’s Age?"
-    excerpt: "Some view his age as bringing wisdom and experience, while others worry about mental sharpness. Re “ Biden Soon Turns 78. Get Over It ,” by Jennifer Senior (column, Nov. 13): I am a 74-year-old retired newspaper reporter who at age 14 met that font of youthful political expectation,"
-    publishedDateTime: 2020-11-20T03:29:00Z
-    webUrl: "https://www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.amp.html"
+  - title: "Biden urged to change immigration policy to send more health workers to Covid hot spots"
+    excerpt: "Backers of the legislation think linking health worker shortages with immigration policy will resonate with the incoming administration."
+    publishedDateTime: 2020-12-03T09:49:00Z
+    webUrl: "https://www.politico.com/news/2020/12/03/biden-immigration-policy-health-workers-442411"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: Politico
+      domain: politico.com
+    quality: 127
     images:
-      - url: "https://static01.nyt.com/images/2020/11/12/opinion/12seniorWeb/12seniorWeb-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Biden promises some student loan forgiveness. Student borrowers hope he delivers."
-    excerpt: "While President-elect Joe Biden has said he would implement his student loan forgiveness plan \"immediately,\" he has not committed to widespread student debt cancellation."
-    publishedDateTime: 2020-11-26T01:27:00Z
-    webUrl: "https://www.nbcnews.com/news/education/biden-promises-some-student-loan-forgiveness-student-borrowers-hope-he-n1249055"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249055"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249055"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_46/3428447/201114-boston-university-students-ac-1239p_e100831e857b7675d19a912904fd60c1.jpg"
-        width: 2500
-        height: 1646
-        isCached: true
-  - title: "Joe Biden has made his pick for treasury secretary, says he will announce choice soon"
-    excerpt: "Biden's team signaled to allies in the business community that he had whittled his list of options for treasury secretary to at least three names."
-    publishedDateTime: 2020-11-20T07:13:00Z
-    webUrl: "https://www.nbcnews.com/business/economy/joe-biden-made-his-pick-treasury-secretary-says-he-will-n1248302"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248302"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248302"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 128
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_47/3429713/201119-joe-biden-se-510p_fc983fc16986ee10227b7c1e7809a2f5.jpg"
-        width: 2500
-        height: 1707
-        isCached: true
-  - title: "Transition Highlights: Biden Plans to Name Blinken, Sullivan and Thomas-Greenfield to Cabinet"
-    excerpt: "More cabinet picks are set to be announced Tuesday. President Trump’s lawyers disavowed Sidney Powell, a member of his legal team, over spurious fraud accusations."
-    publishedDateTime: 2020-11-24T00:17:00Z
-    webUrl: "https://www.nytimes.com/live/2020/11/22/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/11/22/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/22/us/joe-biden-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 124
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/23/us/politics/00dc-state-blinken-print/merlin_179822205_c7163a55-8518-42d3-a90f-11d21aa5e9fa-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/8a/5f/f94fd7c34f65a2b21373e5ff3869/gettyimages-1229807401-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "UXmwB+TTCPSVf1iAfgXyTxCy0yIaTl5bU9inF/TukYJbkh+wzD2WPDi3wCXpNXDhw8Ekm9GbIbJt5NuBLy1R33ZJTv6GtOACMfAtYZ2D5NhqgtlMpdMkHas8HqE91leLZjlH1s/p2FSQcdSjNL6wMbTAqdXE0iUXHSnQmR33IzPXCVw7JssUVKzDq2r8WOAzuyzgih7Oq0a6U3yKLycZAp4wkg9+HLTgNjA0Qp709wotkBaX4YlaqzpxhAvy0clDA+xJ09c+vOSNOdqJLOt4mf0oauF+clQCB6K/K5P0cNuaLwtLRPKPxhtSdDqTaE3qjMEl5xjXVRks0tN647U5NXc1M4KDSSvbtkm1ZbKe0xQ=;Eh3QEfEAe0sAsZM0Oux5vA=="

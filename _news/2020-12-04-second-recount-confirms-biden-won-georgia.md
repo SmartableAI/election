@@ -3,8 +3,8 @@ category: news
 title: "Second recount confirms Biden won Georgia"
 excerpt: "Watch \"Second recount confirms Joe Biden won Georgia\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-12-03T18:42:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201203195105-second-recount-confirms-joe-biden-won-georgia/"
-webUrl: "https://www.cbsnews.com/live/video/20201203195105-second-recount-confirms-joe-biden-won-georgia/"
+originalUrl: "https://www.cbsnews.com/live/video/20201203182028-second-recount-confirms-joe-biden-won-georgia/"
+webUrl: "https://www.cbsnews.com/live/video/20201203182028-second-recount-confirms-joe-biden-won-georgia/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/03/story_07962640_1607025304.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/12/03/story_07962329_1607020084.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -1093,6 +1093,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "cOb5be/04Q3ewdglacJqh5DWFG9nvO1t8hW+u0z3rYq/PwcHicm0hae6HkotxZ8e04uTl4QqQRKms/m6B1UIAag5f3I5Ntze2EKoZHc3NdMjIVN+3rat1xtNEIdGsTqDq3oMiTpzGyaMLUV+NP1paTQmaqI8WGGN7s2eXH19FUOg6PHnHkcGKh+q7w2lVtbpmPgJ630T/8H8mipiddeMwXwKP4hxS8HeKz4f8Evuo1NeEsJ3hp77pmM6PiP2z/Rws/QYa7Dnv1+MoCjGSo9CfRWm9EYIc5RqrBTZo5gcSSPkLfhJ+DP2hGxYm2nu1SmIXUi1Tuaa9kkFv75YrKyaGVUYQ+nWZUK0RQigfDRSS6vn/vgzwA7M+vrSsqaMHJ0vN7EgO+78EOIzYoyZEPucsjIExqHdTSeYvo25Jk2fvdKOucU4b3ClzgllU5j89gdpWfVny1sAvv8X1q8EtvgKJh7C8H4bUvrcuOOjhs0pUQPRCKTPN2DfiVkeTQA83ouJxVTqPLZFa8CAaUur8+NMgA==;ZxFOiFKN5n3UR67GLOqxrg=="
+secured: "HYNBu61LQIwH+n9Pr5chNdvPyYNb+h/Fu+7hOGexeSuBNvMX5g8tAahVEQeP5OWfTvC95kUdwM0TeYCVN8xQkuoWEoNC7dMcjxXEVeFbL9fc4dpCVfuFfiv2kVMzXwv9cxzv/jv+U0oj47raqgywV1mWS6BRCaEDBs02Pq/E+CfX1ju2qYh8ftp5lYp51WdaJ/KAYKVSWH2VvKxBT9oddU3OFUP1c3ujV0e/JwwhxaEPiQNwewTz8o+BaQ3kBR5ppde/GXQHUhV7hRciQuGQqoQJCy2y5pwwqYpJ3UXalrlaggIddlmVCDv6hPv2+3q0u7ADxXgjU0gqaJK1bfjE2tC4KQJp7GPHbz0s57Hsr/M=;ONzM/Fk0iCG7VM2FoF4plQ=="
 ---
 
