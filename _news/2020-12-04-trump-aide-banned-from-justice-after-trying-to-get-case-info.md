@@ -127,6 +127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump loves to win but keeps losing election lawsuits"
+    excerpt: "In his quest to cling to power, President Donald Trump has managed to lose not just once to Democrat Joe Biden but over and over again in courts across the country"
+    publishedDateTime: 2020-12-04T05:32:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/1dc78288-35f2-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/1dc78288-35f2-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/1dc78288-35f2-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump allies Barr, Giuliani at odds on discredited election fraud claims"
     excerpt: "Cracks emerged between two of President Donald Trump's key legal allies on Tuesday as Attorney General William Barr said his department had found no evidence of the widespread voter fraud Trump alleges,"
     publishedDateTime: 2020-12-02T06:08:00Z
@@ -305,8 +321,8 @@ related:
         isCached: true
   - title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
     excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
-    publishedDateTime: 2020-12-04T02:07:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising/trump-unveils-207-million-fundraising-haul-since-election-as-he-tries-to-overturn-results-idUSKBN28E012"
+    publishedDateTime: 2020-12-04T06:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E012"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E012"
     type: article
@@ -1185,6 +1201,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "5wINgSS2e3W+PgaksBcBB9hw60oQGjJz/JyVDA9u7MDSMwKxdGiiz1VmwNNR+Uqu6JvFbZKgDDf666vq6r6VOg10FnQUyTtattYxvK2aAUjKWr+pBJasGXtw2vKKcszEtO78DFDA10Uoil4afBrEYpzRv+rgTOAGgUKBDrk7UE+oSom8bUC1D8H4vmxOeh1q2/0nrkkLMP2CpenQ+d9kO0rrTYltZfJCP/pkBrLrsSfCEANFZMyNPhKkcLU4MKWXacrW47JPzi1zcamMWT3FwVhQ5xqffJDL0UANlpZZumBYD4vkRKAjyDpn/cqWfJKJSRZMXfaJSKFvJW4dJKPwNco/68Ny3vFxM6jg1RGWQV0=;gIUZpOSnhxbht7mSZ2gIgg=="
+secured: "jPSVjmbiZqgp4GK34Ym3WJI0hjjY2cuhriFgJ4fivhE4ZbWWEH50vkq0WQas6e/XcyiZugB6MrJ5IIhXWueJCJ62CHQ03Hqg2bU7ErwVkATGRforHAbvlaoBN5P6fifudYK+DLaeL5GFRTIKAXyKUzeP0mg6I7uPbRWjykqVx3xeJ9XFHqjGUBa7oe+7MnlHdcw6wwfdaCx5djm3aN4n9FPMZu3HkduaCTOTWIUD1jRq/LcsvlWoDg/r/JB7qdcCiruhV8Y6tb2ovZQZmWsk4zJVOVlUO8VlRkELF1AEX7K96jDexPsKPkL5V28nDjwL9toIgFUJufHMGTzMWnaxZnJMg0zZUc8pt5TytYaKX7QOwMoPCvnw4+isWakOwMtL7z4GFWqUeUNSl9yW+cZhtnDne20liuBoPZVbbw2sI9c3UVz/KWlBMm0Twz/V8SmL/y5guwlIQ9tdDKwxQbwMDVkNW02vxNExRdxUr+wBiYnXx4JyhfJJCK05ARjaKLuQRHq2N9Qa7vDT9IP3RxV8qg==;JYEgUMN3ZNKlVmiAhhIJRg=="
 ---
 

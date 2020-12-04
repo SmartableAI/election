@@ -2,6 +2,49 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-10-19-struggling-ann-arbor-club-owner-in-biden-ad-this-is-donald-trumps-economy.md",
+      "title": "Struggling Ann Arbor club owner in Biden ad: 'This is Donald Trump's economy'",
+      "excerpt": "A national TV ad airing Sunday from Joe Biden's campaign focuses on the Blind Pig to criticize President Trump's response to the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.detroitnews.com/story/news/politics/2020/10/18/national-joe-biden-ad-spotlights-ann-arbor-concert-venue/3702153001/",
+      "originalUrl": "https://www.detroitnews.com/story/news/politics/2020/10/18/national-joe-biden-ad-spotlights-ann-arbor-concert-venue/3702153001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/18/PDTN/c821f0a9-72ed-4984-9b41-435b3b3761b0-Blind_Pig_2.png?auto=webp&crop=838,471,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/3702153001",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3702153001",
+      "publishedDateTime": "2020-10-18T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-trump-lost-the-ratings-battle-what-that-really-means.md",
       "title": "Trump lost the ratings battle: What that really means",
       "excerpt": "Thursday night, of course, pitted the president against rival Joe Biden in dueling town halls on competing mainstream networks: Biden on ABC, Trump on NBC. Biden won the ratings battle, even when Trump town hall numbers from NBC cable channels were included.",

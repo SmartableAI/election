@@ -2,9 +2,9 @@
 category: news
 title: "Coronavirus live news: Biden to ask Americans to wear masks for 100 days as global deaths pass 1.5m"
 excerpt: "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m"
-publishedDateTime: 2020-12-04T00:24:00Z
-originalUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc97cce8f08d350f1751189"
-webUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc97cce8f08d350f1751189"
+publishedDateTime: 2020-12-03T23:57:00Z
+originalUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc977d48f08d350f1751157"
+webUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc977d48f08d350f1751157"
 ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
 type: article
@@ -64,6 +64,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ghxRN1n1wTYItbZfmrhlEQmuX7W26Lzff8pmCf61Q6styv/jC/GdiHgDSz0CgokJLCkaVZVcuVvkKAvCfq8rxCnygFk0lYN7PXXPDWJY0Sd+VB5H9UZ6zdhrKL0GUdh1mg5zgMCJ5Zj21SbEg1zobDL+kTyvphmncz3E7IP9TGQCCfdTuwZJUOh3eYRI0FBC3SnWOctH0xds5Gt2ABPO+WIRze5uW8F9PgyvLX29QMkgEUdffq3syFJCB5hoNTcQcGMPuz8TidMpFyWRmBYZBYs/SS1Kxk9+AA6j1oguGapFGf+AL9LG9Uh5ISuj4OqrkL+6tQjA43/gIkMHbfZB+rbFMq3DVQ4I+n+UafZyUdw=;KKZm2RxCjc1GW3urIg8rdQ=="
+secured: "QJXpgAMZGpNeef5uLwIqjP8Tv33j/sQMPvOCK6NZqOB0hZAdyOFPksap/NAWML84/8pc32Ty4yvhz3rtQeDWbxWoD6mggFhFUGwUdB17x+LoXkcwBki1TEfMmzIprJPllvf7reiI8Sgm++sERnhUA/0pP9CiZs5TyGS6cOaKnffIbbOUFfSNI9A8m1MzJ50bPK9hM7Bs92SacO+Lx1LklTi11uoH0uj629K9MQE9q84e3Bbbj54IgGGAXNs09Ywo0xpg4sJlBhqOoCU8y8WDVIy5bUQ8tzNPZK0oz9Xl6VJzopwHPDZ04crG5l2yyw+bQh6S5brOgbXK9BxeHWqzuTWSk8iITTaBHuEvtW5a8Bs=;LZLxDwtr6PGZDYPVM5gGyQ=="
 ---
 

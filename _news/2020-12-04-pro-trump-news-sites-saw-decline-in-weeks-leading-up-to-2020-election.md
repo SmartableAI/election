@@ -76,6 +76,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump doubles down on defense bill veto threat over Section 230"
+    excerpt: ""
+    publishedDateTime: 2020-12-04T05:10:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZU0GJmkEXoM/trump-doubles-down-on-defense-bill-veto-threat-over-section-230"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-defense-bill-veto-threat-over-section-230.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doubles-down-on-defense-bill-veto-threat-over-section-230.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "RNC's McDaniel, closely allied with Trump, spotlights party's neutrality"
     excerpt: "RNC Chair Ronna McDaniel appears to be spotlighting the party's neutrality going forward after President Trump leaves the White House on Jan. 20."
     publishedDateTime: 2020-12-03T18:36:57Z
@@ -196,6 +212,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "HYNUcb349pFf15FDWflVr3BVHL2eky7m+3ynYaWvrLMEcvk8WX7w2FdOHOXJmM7YNuMz7uds6UDoL/MdEjCHgTydykRKcxW9UPNa4qnJnhPC7hxZgddubjoODJUztMZeJMtcXdX3S4FOY/563N0cMt8vYKbvjag6wF29/UGZXWiSRN2X2x9cselB8fP76w6EnsVU4jH+GeKx/glaw3Eqd+qsEVHTiyLen8bQBSX8tXIpzqZ/OONYvQkDzJQDZyRjulyMK7vETOMr0lJGv2EGVEoddtR7DKZL7fqxsH55tNwMmfzJEptMhteBEZX7FXwI5Z98SDIPlUNYro/p2PGArvA3aR3jrHrvAYtkB8R8NdU=;pG1TXMMWLKN8F4eVSHYmpA=="
+secured: "3+A0TBF5aKTn2kwjv/oCGMmKMNwfV+tElgI3YWU0sSw3m43eFgHohnws4bp346yrx9FdG0R7vXMqPeeE/npmBEPMLTSLeUHvlJp1vus6mE4B2Ib2k985fYUP4vQEIXaDsF1K2SOu9MEIhRCXGV+Pq8IsG/G3ol/4p+5Va4TFTOEd/TiY/241jbpq+n1p9pnZipJzNwgAMk/ZGBfse2ztO4alWeaZkdkbBeTZ5T63pDuO3XSGmACRL7/LH6ggaMOC25W3F3kWDl1V7qRspVCH03rJt4dfxY9NZjKAQiiEWVKJfWV/E1cPs07773p7HXsdEvCM7W+/lCDvooMp4725Kaorr0BzWtDBIt1/Yaw0atetheH5KBhT3LxH/be3mH8Zs3TM6ib0St5lCtiIRnbhkhwWjWDc482Qv6M/E+1YR9GZCXQITK0JuhzjH+l7kjcrTJ8WGeC48ipjHmufGuBNpnocBGkiEHfKwVDMAHdMmxURrJHAlEFLz6D0hBkzQ23Hk7kOsopATh5NBH2Lo4ryig==;Z9n+Ly409A2P0q/cvgTMpA=="
 ---
 

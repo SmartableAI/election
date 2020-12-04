@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-mi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp"
 type: article
 quality: 190
-heat: 410
+heat: 430
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13932a6d-b1f4-4256-b340-5c4d61f03425/d35c9969-b14d-4f46-8554-8f29dc18efb7/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump doubles down on defense bill veto threat over Section 230"
+    excerpt: ""
+    publishedDateTime: 2020-12-04T05:10:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZU0GJmkEXoM/trump-doubles-down-on-defense-bill-veto-threat-over-section-230"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-defense-bill-veto-threat-over-section-230.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doubles-down-on-defense-bill-veto-threat-over-section-230.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "RNC's McDaniel, closely allied with Trump, spotlights party's neutrality"
     excerpt: "RNC Chair Ronna McDaniel appears to be spotlighting the party's neutrality going forward after President Trump leaves the White House on Jan. 20."
