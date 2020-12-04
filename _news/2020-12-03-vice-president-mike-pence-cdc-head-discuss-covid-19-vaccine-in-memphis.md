@@ -2,19 +2,19 @@
 category: news
 title: "Vice President Mike Pence, CDC head discuss COVID-19 vaccine in Memphis"
 excerpt: "The event comes when one vaccine, made by Pfizer and BioNTech, is likely days away from getting the Food and Drug Administration's emergency approval."
-publishedDateTime: 2020-12-03T00:00:00Z
-originalUrl: "https://www.jsonline.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
-webUrl: "https://www.jsonline.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
-ampWebUrl: "https://amp.jsonline.com/amp/3800763001"
-cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3800763001"
+publishedDateTime: 2020-12-03T05:00:00Z
+originalUrl: "https://www.freep.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
+webUrl: "https://www.freep.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
+ampWebUrl: "https://amp.freep.com/amp/3800763001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3800763001"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Milwaukee Journal Sentinel
-  domain: jsonline.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -101,6 +101,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "60vqmi4V4D5fJu/Ll+509KuBfTZp//lkOWGMtVslIjMtJkRdxnhROpjYjsMpdeSoE5ZMkPhz2gNPoyfYj0HwirvBMXMsHis40EzjqPqyTNR+HN0MYoPeZYVhpS4DEPKGnpYm2keSZ54yMZjUTYagvFmTKbWoDJHM1xEuO0z71YW8A3RYElQJ177K88FVBF8QOa9ZtmpAvInfIOVOVxb1Z+5aQPj0Hc4ypxJ/O69+w6qRr72M2g/5qZkMWHRZ0YsuXHNXWWxgnxHbAXNJeQxXzBQ9QyLfxutzv3HHVZvlJhNaYVcG57OI1efJIm0h4YZk2mJHrpyjrIpv810wwapdLLhlyDFqnepVVefqvGztF5s=;bQJmbY3orSunV5HcplDV2w=="
+secured: "xSFAWGmnerRj3FGEQft3/vmf147YfmegC3QP/Rt46vyeYbw+queN5Egz9A46xEpCDly+TpjpRDCJGOI39BB0mpx8zDyXx5p92idJTITJJ4N/E8n5pKPnlAJCAXzunUP/w4dNGvPQHtcbm5zr2njhqneemCQMxVOAe/Oz8Bh6LZedCPLavMfKBteazYzNEbmC0sKjjq64gVfDZQRVjlOHvE08l8zfUnt4EeYqULzP124TCby8dVhuRKiVZcRS3jCQfkodZdZfkVsrswInzlCwsfUbFOpYQp26qNBJOnPH34BFhU8NnKc4935GLp+qnwLGquM3KZijwLgAe+HF4Fi4lZwRf42sCIzAORwTVGUJ6zE=;RNbQYumq1+iVLpDEGcDrfw=="
 ---
 

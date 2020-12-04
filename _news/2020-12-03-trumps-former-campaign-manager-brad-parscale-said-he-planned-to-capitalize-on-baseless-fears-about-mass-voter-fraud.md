@@ -95,38 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Trump administration accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans"
-    excerpt: "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers."
-    publishedDateTime: 2020-12-03T20:40:00Z
-    webUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
-    images:
-      - url: "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Trump administration in a new lawsuit accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans"
-    excerpt: "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers."
-    publishedDateTime: 2020-12-03T11:41:00Z
-    webUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "7aUScZtmnkwpSzOj9voAXIyLZfEA7d+Hf0Ngr7foW2T+dCTQPZoSLzaxA4ZDXBSjIyIaDBK8eafHhIvuEA1iA10yG+6Md00oUCPamy2Erq+YGH6fSbAjY8iX4mwx3aja6SA9Mll+OMebGHedEd4TYsylYKdeG+NpZq5u3v/a/aIUd2hfItKQ7mBqlJsE7DFPixeEsqMZ5nY7k4tcz/Ipk7sBrwwa58LCNWCFl30dy5b6ZddNfiaVlPrPLTboxllZA0jpXVkFLbh5VfvvUMJX78l/M4RY3nH1HKnGgNr+QQ1MpLq92kf/oKFkBfE2XirVlvCwrwAROc0+6k8jUubZpLox5Baup/8E5VLCnbOp6hU=;9LO9zoh07c9WrpjMBowqtw=="
 ---

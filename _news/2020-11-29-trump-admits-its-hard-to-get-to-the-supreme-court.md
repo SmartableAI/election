@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-new
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200731101534-03-coronavirus-hearing-0731-brett-giroir-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Pentagon nominee spreads debunked conspiracies and tweets suggesting Trump declare martial law"
+    excerpt: "President Donald Trump's nominee to become a senior Pentagon official spread debunked conspiracies on Twitter that called Trump's election loss to Joe Biden a \"coup\" attempt and shared tweets that suggest Trump should declare martial law.\n    \n"
+    publishedDateTime: 2020-12-04T13:02:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AW2xlQXEi_4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-nominee-pentagon-martial-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-nominee-pentagon-martial-law/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/151211153020-scott-ogrady-closeup-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

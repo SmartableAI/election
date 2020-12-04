@@ -95,6 +95,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "The Finance 202: Trump failed to remake the Fed in his image. His legacy may be polarizing its confirmations."
+    excerpt: "President Trump’s four-year struggle to reshape the Federal Reserve in his image likely met its failed end Thursday. The Senate confirmed one of his last nominees to the central bank’s board: Christopher Waller,"
+    publishedDateTime: 2020-12-04T13:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SCHDUVRUIMI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
     excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The Associated Press on Sunday."
     publishedDateTime: 2020-11-30T19:14:00Z

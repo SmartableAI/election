@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-20-biden-top-democrats-lay-groundwork-for-multibillion-dollar-push-to-boost-us-broadband.md",
+      "title": "Biden, top Democrats lay groundwork for multibillion dollar push to boost U.S. broadband",
+      "excerpt": "President-elect Joe Biden and top congressional Democrats are laying the groundwork to seek a massive increase in federal broadband spending next year, hoping they can secure billions of dollars in new government aid to improve internet access and affordability -- and help people stay online during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R55O6VRKQQI6XHBBHTCQDUEYD4.jpg&w=1440",
+          "width": 1440,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/?outputType=amp",
+      "publishedDateTime": "2020-11-20T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-new-york-subpoenas-trump-organization-records-on-consulting-fees-paid-to-ivanka.md",
       "title": "New York subpoenas Trump Organization records on consulting fees paid to Ivanka",
       "excerpt": "New York’s attorney general has sent a subpoena to the Trump Organization for records related to consulting fees paid to Ivanka Trump.",
@@ -1303,58 +1355,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-conservative-pastor-says-kamala-harris-is-driven-by-the-antichrist-spirit.md",
-      "title": "Conservative Pastor Says Kamala Harris Is Driven by the 'Antichrist Spirit'",
-      "excerpt": "Conservative Texas pastor Robert Henderson said politicians like Vice President-elect Kamala Harris are driven by the \"Antichrist spirit,\" according to a video from Right Wing Watch. Henderson referred to Psalm 2 of the Bible and likened political figures ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/conservative-pastor-says-kamala-harris-driven-antichrist-spirit-1548407",
-      "originalUrl": "https://www.newsweek.com/conservative-pastor-says-kamala-harris-driven-antichrist-spirit-1548407",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 343,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1671864/kamala-harris.jpg",
-          "width": 594,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/conservative-pastor-says-kamala-harris-driven-antichrist-spirit-1548407?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/conservative-pastor-says-kamala-harris-driven-antichrist-spirit-1548407?amp=1",
-      "publishedDateTime": "2020-11-18T18:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

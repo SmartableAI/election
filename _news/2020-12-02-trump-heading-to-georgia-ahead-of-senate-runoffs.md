@@ -173,6 +173,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump loyalist Loeffler's attacks on pastor Warnock risk suburban votes in Georgia's U.S. Senate race"
+    excerpt: "Beau Davis, a 33-year-old security specialist from the Atlanta suburbs, is the kind of voter Republican Senators Kelly Loeffler and David Perdue may need to win runoff elections next month that will determine the balance of power in Washington."
+    publishedDateTime: 2020-12-04T12:12:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-senate-idINKBN28E1MI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28E1MI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28E1MI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 110
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543447796&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30NU"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Georgia Senate Runoffs Lure Possible 2024 GOP Hopefuls, Including Trump"
     excerpt: "The president is set to campaign in Georgia this weekend as he weighs another run in four years. That could upend the ambitions of several other Republicans visiting the state recently."
     publishedDateTime: 2020-12-04T09:01:00Z

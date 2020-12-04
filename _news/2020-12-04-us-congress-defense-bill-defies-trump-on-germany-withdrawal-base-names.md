@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "The Finance 202: Trump failed to remake the Fed in his image. His legacy may be polarizing its confirmations."
+    excerpt: "President Trump’s four-year struggle to reshape the Federal Reserve in his image likely met its failed end Thursday. The Senate confirmed one of his last nominees to the central bank’s board: Christopher Waller,"
+    publishedDateTime: 2020-12-04T13:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SCHDUVRUIMI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
     excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The Associated Press on Sunday."
     publishedDateTime: 2020-11-30T19:14:00Z
@@ -137,6 +153,6 @@ related:
         height: 336
         isCached: true
 
-secured: "JEiuDw/vCdzkryHCsRbs6wera14UauTvLld+4EUwHFVaU+45x6kLrFMzJpcfoaZvipEEwkiIjgmq/PHecdjPfS1rY/UzzCxaUHuK/Pt5jGQcW9xXG24VWMl8ZyrzoV61avJe2LcbE6w0nuK6cWkbI1l1g6mDhaDw1GpwergufPu3OW7+9Rnpd97YbxaAH7+fU6/8LqWsTnXTD5yPsDgQFa7y2b8ZaChb7DZ0xWsJaoWq8fQJnhNLnQblFITdxBEh2Z2oGpmNXXRhx4MbP5YQlsMYMP6RoddUSMuOJz8TjdVZQFi1UwhofYKuJX7r7RynpWyKu3MAY4Dhm8hUEK6GzfT8edVqlxKbc3TjCdOmO3c=;6IuTagURQlwyu/9Wj+3iXg=="
+secured: "+dVbZZbFGd8NL1BCBFBoC57Ct44eQ5VU+Aacy+sSy8ehwfCnXrQygJC9t/zogtNn8StYndDqKaC7mdjTcFR/YHCLX+FYJ7+IxD6AOnnaBaogZBsqKuF2dR5ERed3n98KF1GqTxxcY7MLnyfIW+8RwYjiX3/uwbaYBsmtBBgfYs6x3aINtj64eGE1ga1lY46VxkAgoxItOjX8Gdm/wKiz8sWeHi2ZjpSKx/kSqhVEqKIwwzm9Mzw4SYXbtt5+5X7BQICugDwMHJhPZQ3CFmpVxNR/zSCg/UzEVQHEC4ub7HRO6MqKQw6BjHB+XCFECBA84Oxu9j/j31eY3hhGx0gxw8cXpNGAjk4RK2SWzgo8myRXVI/5gWJEJxABBiD5jMD9war4OjspyC1k6igi3m3QGsfXYZLnSbGLzLwiDWfwnB/5itulk0GF7JmXOjKdFrUPy+LxuDev9f3QsN8mRf8h3SFYS/UwhYVqVLWPMKCX0eEkO/jQSNmdroblRiNtV/oDMWbeYv1Z5tV8Pm8tEdn+1g==;Uz9Kw6kr1ieA6LhDApZ2bw=="
 ---
 

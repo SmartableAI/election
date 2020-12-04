@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3786333001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3786333001"
 type: article
 quality: 125
-heat: 245
+heat: 285
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/a9990e0f-1d48-4a88-8453-d7b48ac0ff46-GTY_1285534426.jpg?auto=webp&crop=3672,2066,x0,y186&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "What we know about Vice President Mike Pence's trip to Memphis"
+    excerpt: "Vice President Mike Pence is scheduled to arrive in Memphis at 1 p.m. Thursday afternoon, his office said Wednesday. Air Force Two is scheduled to touch down in Memphis at about 1 p.m. Then, in an airplane hangar at Memphis International Airport,"
+    publishedDateTime: 2020-12-02T05:00:00Z
+    webUrl: "https://www.freep.com/story/news/2020/12/02/vice-president-mike-pence-visit-memphis-roundtable-fedex-operation-warp-speed/3794113001/"
+    ampWebUrl: "https://amp.freep.com/amp/3794113001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3794113001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/01/19/PMCA/1b4a68c8-4129-47b4-b38a-cdcce6ca6024-011920PenceLands11.jpg?auto=webp&crop=2326,1309,x0,y295&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -127,6 +143,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Pence Visits the CDC"
+    excerpt: "Vice President Pence visits the Centers for Disease Control and Prevention’s Emergency Operations Center. Vice President Mike Pence visited with patrons at Sally’s restaurant in Mason City, Iowa. The visit was part of the"
+    publishedDateTime: 2020-12-04T14:08:00Z
+    webUrl: "https://www.c-span.org/video/?507017-1/vice-president-pence-visits-cdc"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "rVY9nf0Jlz9DvZuwjqgMjTfSJuknGW/dm6z94JhtBdfBK2VXUwvtR9JvEpyu/Wl4cA0kq/jTCgSkibxwTrkakeX7vFlbWtLADnrgEJuG3ERe+0pvbrtFi6dEHYYnXo0Ov0JNqGqTEvEo53r7l/wwILISBlE7FjrQlQJQ5CJzYTY0VQzGNp8yjEFGI57aAHKlC9T0oRU2zO/hQGj3bJUpKjXJzj04XgnKFAnvoe/0Sjkb5CqsUxIBH4sz2QhxMcudcNE/ARMUqpd8gP3bm0E88622i/ONZNeDWSispuHA/lQJt82sDux3UsESQ1nhROCRyv3TmxZJfAXVQqNDsOjnd0VppMzZA9yDk4SwLffwSvqWpDxW309TViU8ueVC0vPMFWYNBtM5uvjw0c/Pe02kyFs6CnespvaCi6a68dzhDMD53xeTy3Zzt5zWKBS5Ofb1wj6100T243OwGlLImL19ISg9ArGgeCQijKiPeXfEygySc/oFI8z0oAGYueGpEq5Sv9bbip4BBv3fk2cs+B4zJQ==;NDhjg306dAjWEEImNkuxAA=="
 ---

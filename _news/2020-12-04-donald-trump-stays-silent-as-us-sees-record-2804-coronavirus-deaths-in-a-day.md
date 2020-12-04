@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump stays silent as US sees record 2,804 coronavirus deaths in a day"
 excerpt: "President fails to address national crisis, instead remaining focused on false voter fraud claims"
 publishedDateTime: 2020-12-03T23:14:00Z
-originalUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?fbclid=IwAR3nVOmlemfsTlSWpYAhp6z54GuqiGlvzzwfF_6UdrJQZF_SboTdFIX9nl4"
-webUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?fbclid=IwAR3nVOmlemfsTlSWpYAhp6z54GuqiGlvzzwfF_6UdrJQZF_SboTdFIX9nl4"
+originalUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?amp/"
+webUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?amp/"
 ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
 type: article
@@ -387,6 +387,6 @@ related:
         height: 563
         isCached: true
 
-secured: "4UGjEnmaN7i7x+FrCgiqhB86kfOJgVyxZTXmX4LCk+2n2iPDO5BAsdXg5oAJX7V+H59HPJ4pFT0JDd83i89oDQaY/zxzVcK2z86V3XZ/L8ZmuivObavXg6/HlrPMGe8gBkaZRZVi49NUQ12MBSYR2CJZyp3WiWVsav67qk2wLLthuc8+vosw+PyKM1dBmrp/Dtv0JyvhV8Lp59aoJgVR1p9CVDpAjD7xrt5yjuWigvpRJgjWL99RLPTAIjUWhwJ2eFPzRU3Ur1qetm6XVpO9eNwfCMb24im9gvGkMXIoxahUxQpADbT2fWvb01iTSwWshXf0U6SzcaT44Is2MzE7spBDzf93pXvL1Q79cLbp6l4=;6rTE+Qb330vSWBt3sicsuA=="
+secured: "PhmPGCE2z7SAWzr0RAG5GoFh1Maw0BErpMpENJ/HTSHVjLi0/AGtqBd6OUU7tEqTH/z8edSL2gYeffa8sSL7zsAnymQwajnlN5MlIuU941w6fchV2HsUdctOweSX8c3LJCvzQCEt0Dn2r2N6mcWTay+gLe7gH4QAxoT9KskVx58W+u6t93g5THiHYgCSULZm2BNdKmTCSuo4WKRxbUj7jfgEVu3M5R0D9WGtkS6g9537xE6mbwXCFsecVSyfkp0zt4/m+r45krn8yPR0VRZf0rYbZ1bzdXmTxVKbmvnk6HekhSD8/BukzqjHb0Knmn8NLjz7rhgLZxk+i1PFiZpc1E2GcJ3HhZqEBZM95Kj7w80=;Y81KGr/pkHxTY/FIRHuj5A=="
 ---
 

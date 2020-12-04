@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Pentagon nominee spreads debunked conspiracies and tweets suggesting Trump declare martial law"
+    excerpt: "President Donald Trump's nominee to become a senior Pentagon official spread debunked conspiracies on Twitter that called Trump's election loss to Joe Biden a \"coup\" attempt and shared tweets that suggest Trump should declare martial law.\n    \n"
+    publishedDateTime: 2020-12-04T13:02:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AW2xlQXEi_4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-nominee-pentagon-martial-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-nominee-pentagon-martial-law/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/151211153020-scott-ogrady-closeup-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Raises $170 Million as He Denies His Loss and Eyes the Future"
     excerpt: "The president’s campaign has ratcheted up its appeals for cash, but 75 percent of every contribution is going to a new political action committee that could fund his next political move."
     publishedDateTime: 2020-12-01T04:51:00Z

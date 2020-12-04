@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-sen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
 type: article
 quality: 133
-heat: 453
+heat: 473
 published: true
 
 provider:
@@ -159,6 +159,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump loyalist Loeffler's attacks on pastor Warnock risk suburban votes in Georgia's U.S. Senate race"
+    excerpt: "Beau Davis, a 33-year-old security specialist from the Atlanta suburbs, is the kind of voter Republican Senators Kelly Loeffler and David Perdue may need to win runoff elections next month that will determine the balance of power in Washington."
+    publishedDateTime: 2020-12-04T12:12:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-senate-idINKBN28E1MI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28E1MI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28E1MI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 110
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543447796&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30NU"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump heading to Georgia ahead of Senate runoffs"
     excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
     publishedDateTime: 2020-12-02T02:26:00Z
@@ -276,6 +292,6 @@ related:
         height: 630
         isCached: true
 
-secured: "6d/QBDO532A+3A4IZu+K05UMHYMuqlLrQnux1Ij1FOUQFJ7fB967i7spvItn05lt+EFcL+Bvf/veNOqj4tcBkP/NQDmwpx8nQxRKQM+/V++zCvXuWcV7NOa7Ki9cxD99izzy/TV5D02JPVvz8RItZ9UpSr+TFBqPU8LcomOF6KRovpBJohlruAhuqXJDnj+c1Ei7f04KNVXiO9x6145EkU8XJDgKwsPeNY+vd+ROdiIoXaI+RaFM2wIhA6HHq+5W5JT/6XHjseBEH/TBJM6CwHWrHXxPQiC+QOc5NI/9KHlTBtyhaEhx37zY31bCmmlAcU41rvZmYUHly6UogtKQoBrA8iCeh/U2S3x6xLjwmHsqe9O54PGLnJ1g6X/ewIWhStvJRKQoPUuakzC+VtnuOywT4OEpFrcRiaOXmbFoi3iCBmpyaKeKrSccCQy3d570cnR4+2GTxy4ITSHKnrUFbncyBdRjtPh1SwfaJGFIpmfkL8sfssVCPO8Nk/tfAGVaA1OxoU/cfRaOEytc7CHIoA==;ttk13N5EIuB5AXBlRV3wdw=="
+secured: "PxtyiENrLMLJOozvP8NPWWtgX0MMhG51iHWa8gLyG43jczgLdRiqgQ1mE4z/CWfGmjVBVSlaxMUntZXKT/T66Swi6fDQVcMoZF3BX3sRTLhMB3K+6NaYLagrDPoQiJ2KDGjucqzwKNuoasUd00IFmCgUigE4qhAG2rMTBCrL8X732sJATnYbABn4mtJWSLLcSZUZ2TIU/qbz3YPDxHHX7L1bYWxvX5tehsL+Os7cOanJ7DbyHebDpTCJDdcVG+N3JcAcu1/2+zCix4u8cVELxZc39xMKU6hZrs8aY/Gg7Cp//ZF1/9X+/a8tugvnJ7rf/ydy+wubGrzcnqZc0sBl52kCdr552aRl+9dkjIHfjCiOxij0DyAXY93J1r4/b2LK787eWH4LGCKGXm5ARfp8Wgram+8/7M7O54b3Mr+fgNfoflhCCsZeYv4bq3vzhHTqJ1l4kHivndLke2YNQEiFYH47Q2PR9+bKi0Ib+YoRroZYe05TRCmCD6hkVKlgIvR/AIzJX8qm9qVZ7xAIamZYdg==;/undsK6WfxJ7jcWY9YOqlw=="
 ---
 

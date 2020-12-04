@@ -61,6 +61,22 @@ related:
         isCached: true
   - title: "What we know about Vice President Mike Pence's trip to Memphis"
     excerpt: "Vice President Mike Pence is scheduled to arrive in Memphis at 1 p.m. Thursday afternoon, his office said Wednesday. Air Force Two is scheduled to touch down in Memphis at about 1 p.m. Then, in an airplane hangar at Memphis International Airport,"
+    publishedDateTime: 2020-12-02T05:00:00Z
+    webUrl: "https://www.freep.com/story/news/2020/12/02/vice-president-mike-pence-visit-memphis-roundtable-fedex-operation-warp-speed/3794113001/"
+    ampWebUrl: "https://amp.freep.com/amp/3794113001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3794113001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/01/19/PMCA/1b4a68c8-4129-47b4-b38a-cdcce6ca6024-011920PenceLands11.jpg?auto=webp&crop=2326,1309,x0,y295&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "What we know about Vice President Mike Pence's trip to Memphis"
+    excerpt: "Vice President Mike Pence is scheduled to arrive in Memphis at 1 p.m. Thursday afternoon, his office said Wednesday. Air Force Two is scheduled to touch down in Memphis at about 1 p.m. Then, in an airplane hangar at Memphis International Airport,"
     publishedDateTime: 2020-12-02T19:41:00Z
     webUrl: "https://www.tennessean.com/story/news/2020/12/02/vice-president-mike-pence-visit-memphis-roundtable-fedex-operation-warp-speed/3794113001/"
     ampWebUrl: "https://amp.tennessean.com/amp/3794113001"
@@ -123,6 +139,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Pence Visits the CDC"
+    excerpt: "Vice President Pence visits the Centers for Disease Control and Prevention’s Emergency Operations Center. Vice President Mike Pence visited with patrons at Sally’s restaurant in Mason City, Iowa. The visit was part of the"
+    publishedDateTime: 2020-12-04T14:08:00Z
+    webUrl: "https://www.c-span.org/video/?507017-1/vice-president-pence-visits-cdc"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "N5off3/CA18YK5JNHVzR1H1SD/OEWY91+p9X0udnxInuG6XBf3ZH7xUBhkX+tYKQ/x27+U11m0kMSA5XOoWorPIjlDo0rx2L+c0ZN7PJaK8oeHhe1L39z15T3pOquuf6/Lsg81kuvfYT638uRYGhfQ9gc9BUi+NQbBNoVSvvrkaE5dy/vuX83wVQfWeL081iTxkXPFbUFGObNlz+Z0eXLelNX5cIaabSc3P9918lB3FefEbHmQeS0lAUEuOJjCq8iu0OyC5Qd48HdZEmc7oV42hi1341Qob+ReVlviuK2TVUC4aWp3oo7eN+FH/I7NxvXEb+CgIWwXUBgpWulQ9qBW/OP73pfPeGC2o8NiWdIqy6+irn5TzDPv/bHYJ0ryzOrJu1votyi8P6Dm1V6R1gCyel8dubPUgnxNx9wmbhrg9mlyAvtTe/mAOq3v6tluRr/sdlJOML64DojpYrgqlSNt/bJzrcxRF4JakgBkfdzj2Xac3byZ0tXCsPi74lImeI55WVz/NDWw/cdueVDf12aA==;XHBODV2AoG8N9eAqeoqUTw=="
 ---
