@@ -61,6 +61,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "As lawyers keep pushing Trump election challenges, calls for sanctions mount"
+    excerpt: "As President Donald Trump and his allies continue to bring legal challenges in an effort to overturn the election, some election officials are starting to cry foul."
+    publishedDateTime: 2020-12-05T10:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/lawyers-pushing-trump-election-challenges-calls-sanctions-mount/story?id=74544823"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/lawyers-pushing-trump-election-challenges-calls-sanctions-mount/story?id=74544823"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lawyers-pushing-trump-election-challenges-calls-sanctions-mount/story?id=74544823"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-lawyer-sanctions-rudy-giuliani-sidney-powell-01-rt-llr-201204_1607119234055_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump orders most U.S. troops out of Somalia, continuing post-election drawdown"
     excerpt: "The Pentagon said Friday it is pulling most U.S. troops out of Somalia on President Donald Trump’s orders, continuing a post-election shrink."
     publishedDateTime: 2020-12-05T07:26:00Z

@@ -127,6 +127,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump mounts another legal challenge to election, asking Georgia for a do-over"
+    excerpt: "President Donald Trump filed a new lawsuit in Georgia Friday afternoon contesting the results of the election and requesting a do-over in his latest long-shot legal bid."
+    publishedDateTime: 2020-12-05T05:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 136
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-election-georgia-01-rt-llr-201204_1607128269526_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Ex-Trump campaign aide sues over Russia probe surveillance"
     excerpt: "A former Trump campaign associate who was the target of a secret surveillance warrant during the FBI’s Russia investigation says in a federal lawsuit that he was the victim of “unlawful spying.”"
     publishedDateTime: 2020-11-28T22:12:00Z
@@ -365,6 +381,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump loyalist Loeffler's attacks on pastor Warnock risk suburban votes in Georgia's U.S. Senate race"
+    excerpt: "Beau Davis, a 33-year-old security specialist from the Atlanta suburbs, is the kind of voter Republican Senators Kelly Loeffler and David Perdue may need to win runoff elections next month that will determine the balance of power in Washington."
+    publishedDateTime: 2020-12-05T11:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-senate-idUSKBN28E1CT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E1CT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E1CT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 110
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543447796&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30NU"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump heading to Georgia ahead of Senate runoffs"
     excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
     publishedDateTime: 2020-12-02T02:26:00Z
@@ -494,6 +526,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/69048a54-e77d-429d-836c-afec33df2488/ff026654-c418-41ed-867b-48de28509fd9/1280x720/match/image.jpg"
         width: 1279
         height: 720
+        isCached: true
+  - title: "Mike Pence comes to Georgia as calm before potential Trump storm"
+    excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatile visit to the state that will determine which party controls the Senate in January."
+    publishedDateTime: 2020-12-05T11:00:00Z
+    webUrl: "https://www.nujournal.com/uncategorized/2020/12/05/mike-pence-comes-to-georgia-as-calm-before-potential-trump-storm/"
+    type: article
+    provider:
+      name: Journal
+      domain: nujournal.com
+    quality: 70
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.nujournal.com/images/2016/11/28163139/fblike.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "VP Mike Pence stopping in Georgia to visit CDC, drum up GOP support ahead of runoffs"
     excerpt: "According to the White House, Pence is expected to visit the CDC in Atlanta before heading to Savannah for a campaign event."

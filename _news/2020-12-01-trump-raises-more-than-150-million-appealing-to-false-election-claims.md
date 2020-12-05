@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-raises-more-than-150-m
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-raises-more-than-150-million-appealing-to-false-election-claims/2020/11/30/82e922e6-3347-11eb-afe6-e4dbee9689f8_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 1120
+heat: 1140
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543106880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03GT"
         width: 817
         height: 545
+        isCached: true
+  - title: "As lawyers keep pushing Trump election challenges, calls for sanctions mount"
+    excerpt: "As President Donald Trump and his allies continue to bring legal challenges in an effort to overturn the election, some election officials are starting to cry foul."
+    publishedDateTime: 2020-12-05T10:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/lawyers-pushing-trump-election-challenges-calls-sanctions-mount/story?id=74544823"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/lawyers-pushing-trump-election-challenges-calls-sanctions-mount/story?id=74544823"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lawyers-pushing-trump-election-challenges-calls-sanctions-mount/story?id=74544823"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-lawyer-sanctions-rudy-giuliani-sidney-powell-01-rt-llr-201204_1607119234055_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump orders most U.S. troops out of Somalia, continuing post-election drawdown"
     excerpt: "The Pentagon said Friday it is pulling most U.S. troops out of Somalia on President Donald Trump’s orders, continuing a post-election shrink."

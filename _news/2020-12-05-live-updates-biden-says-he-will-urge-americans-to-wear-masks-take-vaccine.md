@@ -3,10 +3,10 @@ category: news
 title: "LIVE UPDATES: Biden says he will urge Americans to wear masks, take vaccine"
 excerpt: "Follow for the latest updates on the 2020 election"
 publishedDateTime: 2020-12-05T07:00:12Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ChbaDmv5XGc/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ChbaDmv5XGc/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine"
-ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine.amp"
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hBPbIvg9W5M/live-updates-biden-americans-masks-vaccine-12-5-2020"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hBPbIvg9W5M/live-updates-biden-americans-masks-vaccine-12-5-2020"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-americans-masks-vaccine-12-5-2020.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-americans-masks-vaccine-12-5-2020.amp"
 type: article
 quality: 173
 heat: -1
@@ -222,6 +222,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Gxj3nf27clKsc/DpxGBbjndYvypuU0MGZlgs08xoWL+rK/TUhUAYMvMf2RzUmxfpqkHYls6iRfiBO7l3LaeS3T7Y7NML+v1/DO0V8AAkkjdJ7u8eGvOs/zcG+8EEirhV2QxMgFbhm9hCckfZNEdcOWhmUblXJYJ7e1W20bEvfloqlaNnTuI4a+CnHS25rR+QmXNk1ZCKs4IjpHtfM/qHnQ/3CNny/4x0xWIMAbmCqkjQaDK4RBNWKnEfgcZ2ybRA67tpl85PCruCMj+HZT9BIbxw7jbFcZMQHntfh9lY0wu1vED9WpWNlrVz26mv0tBDdAHO8zIRmV6MK6wMSgQe5BjUPNM6X2mvTx4ia+gvIJ4=;IC9cXCQi/YRMwTq/p3/bzw=="
+secured: "Pexha16NEGVjOmQK1/qDqXoH9/TMEfjcPRpA5+FjKlyA1b3zfXktKBkaWl2CabiHLcYJbH0RSGJGCLZYPFMwTz016kxPQzy19Wxv6T6byaqb3qPE70sNWgJSA6wFPXfcDaaspEMUKNDUdo/mvAQSIqJEBGwSQPG8UcPvi0jhsacokxdMfuMJxyy/gnAYA8T/CDecJALOOHt+hggR6X6jTIZhiGwVzj1VxArWFftmeRQa5/UnYiFiRVNuygrKGbswi0eFifi2MSqWdlVk0kDYEH0IJLcIDNx0kAPmOhIJRFLZ/M9Xm0tcwAlgHaB57FzIMW21OVb74ViUqExiTfAiVJRuhJJjf19d53YgEEm5PQo=;J6Jtw5j8flBpH+7O8Fw7lw=="
 ---
 

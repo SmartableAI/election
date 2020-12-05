@@ -130,9 +130,9 @@ related:
   - title: "LIVE UPDATES: Biden says he will urge Americans to wear masks, take vaccine"
     excerpt: "Follow for the latest updates on the 2020 election"
     publishedDateTime: 2020-12-05T07:00:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ChbaDmv5XGc/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine.amp"
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hBPbIvg9W5M/live-updates-biden-americans-masks-vaccine-12-5-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-americans-masks-vaccine-12-5-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-americans-masks-vaccine-12-5-2020.amp"
     type: article
     provider:
       name: Fox News
