@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/wisconsin-officials-trump-observers
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-officials-trump-observers-obstructing-recount.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump campaign spends $3M to file for recounts in two Wisconsin counties"
+    excerpt: "The Trump campaign said Wednesday it is spending $3 million in Wisconsin to file for a partial recount in the state, claiming illegally-altered absentee ballots and illegal advice given by government officials allowing Wisconsin’s voter ID laws to be circumvented."
+    publishedDateTime: 2020-11-18T16:58:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3bKTLRwMnFo/trump-campaign-partial-recount-two-wisconsin-counties"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-partial-recount-two-wisconsin-counties.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-partial-recount-two-wisconsin-counties.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "President Trump sought options to retaliate against Iran's nuclear program, officials confirm"
     excerpt: "Last week, the International Atomic Energy Agency reported a sizable increase in the country’s uranium stockpile."
     publishedDateTime: 2020-11-17T01:02:28Z

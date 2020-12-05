@@ -91,6 +91,22 @@ related:
         width: 840
         height: 587
         isCached: true
+  - title: "What a Vice President Kamala Harris means for California"
+    excerpt: "The Golden State will gain a strong ally in the White House and new national influence with a Californian as Joe Biden’s second-in-command."
+    publishedDateTime: 2020-11-09T10:34:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/09/home-state-advantage-what-a-vice-president-kamala-harris-means-for-california/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/09/home-state-advantage-what-a-vice-president-kamala-harris-means-for-california/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/09/home-state-advantage-what-a-vice-president-kamala-harris-means-for-california/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/AP_20312146734383.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "A Black woman should fill Kamala Harris’ Senate seat, California caucus says"
     excerpt: "Legislators say the governor should appoint U.S. Reps. Karen Bass or Barbara Lee to succeed the vice president-elect."
     publishedDateTime: 2020-11-15T12:00:00Z

@@ -29,191 +29,221 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign, RNC raise $207.5 million since Election Day"
-    excerpt: "EXCLUSIVE: The Trump campaign, the Republican National Committee, their joint-fundraising committees and President Trump’s new PAC Save America raised a whopping $207.5 million since Election Day, Fox News has learned."
-    publishedDateTime: 2020-12-03T22:28:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MT9GdvRJa5M/trump-campaign-rnc-rake-in-207-5-million-since-election-day"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp"
+  - title: "Live Updates: McConnell backs Trump legal fight in election results"
+    excerpt: "Senate Majority Leader Mitch McConnell backed the Trump campaign’s legal challenge of voting results in several battleground states on Monday in his first public comments on the floor since Election Day."
+    publishedDateTime: 2020-11-10T03:26:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhVVfdnuOxE/live-updates-mcconnell-backs-trump-legal-fight-in-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-mcconnell-backs-trump-legal-fight-in-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mcconnell-backs-trump-legal-fight-in-election-results.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c008d21d-d7d5-4ea0-b56d-07090579f222/1f5d28f4-cedf-4547-8612-5a42e025facd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
-    excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
-    publishedDateTime: 2020-12-03T19:59:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FUSf91Adn2U/trump-campaign-georgia-lawsuit-vacate-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
+  - title: "Live Updates: Trump says 2020 election results still 'have a long way to go'"
+    excerpt: "President Trump is continuing his legal battles in several states to contest the results of the 2020 elections, saying Thursday there's still a \"long way to go.\" "
+    publishedDateTime: 2020-11-27T12:17:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FpTHR07HUQ8/live-updates-trump-says-2020-election-results-still-have-a-long-way-to-go"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-says-2020-election-results-still-have-a-long-way-to-go.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-says-2020-election-results-still-have-a-long-way-to-go.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 181
+    quality: 187
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/35333bfd-ffdf-4a5c-bdd7-a56ccc453d9b/e8e632a2-e2f0-4099-b7b3-e9ebedad09f6/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd783d84-429d-4224-ae28-ab962ec0b926/432ddf66-7179-47a9-9b61-f0f6ca58146a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump says he’ll veto defense bill unless Section 230 is terminated"
-    excerpt: ""
-    publishedDateTime: 2020-12-02T04:33:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxDiRQdWroI/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated.amp"
+  - title: "Live Updates: Biden camp seeks $30M in 'fight funds' to take on Trump's lawsuits"
+    excerpt: "President-elect Joe Biden's campaign is fundraising to fight the Trump campaign's legal efforts, vowing to \"re-launch\" its \"fight fund\" even as Biden has tried to downplay his opponent's lawsuits."
+    publishedDateTime: 2020-11-11T03:36:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FkIiNtD8eG8/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: Trump 'frustrated' but still 'strong' after election, Geraldo says"
+    excerpt: "Fox News’ Geraldo Rivera says he has “no doubt” President Trump will run again in 2024 if his post-election lawsuits fail to alter the results of his 2020 run against Joe Biden."
+    publishedDateTime: 2020-11-14T05:57:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ndaTaOo_00Y/live-updates-trump-frustrated-but-still-strong-after-election-geraldo-says"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-frustrated-but-still-strong-after-election-geraldo-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-frustrated-but-still-strong-after-election-geraldo-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f925242-9535-48dc-b0c7-99e1668d52e6/f314b605-adc5-4d79-91c0-c639bb1bb271/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Trump says he won election, repeats claims of voting irregularities"
+    excerpt: "President Trump called into an event held by Pennsylvania Republicans on Wednesday, where he reiterated his claim that he won the Nov. 3 election and reasserted claims of voting irregularities."
+    publishedDateTime: 2020-11-26T06:07:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rw50pE_dIaI/live-updates-election-11-26-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-26-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-26-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/33478f5e-5929-44a4-ab6e-2513364ed583/e5e9f1da-ae85-4261-b45e-c723c100e82f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Trump criticizes John Bolton for pushing election loss as legal fight continues"
+    excerpt: "President Trump lashed out at John Bolton on Sunday, calling him \"one of the dumbest people in government\" after the former national security adviser urged GOP Party leaders to accept the 2020 election results and encourage their supporters to acknowledge defeat."
+    publishedDateTime: 2020-11-16T03:38:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TduFhXP3qp8/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/611b5cbb-9cd7-4082-9611-1385fd545d2f/738cc2f8-7874-41bf-94fd-c9541438954a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump refuses to say he has confidence in Barr"
+    excerpt: "Follow for the latest updates on the 2020 election."
+    publishedDateTime: 2020-12-04T05:30:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yeYKdJ8JQyo/live-updates-trump-refuses-to-say-he-has-confidence-in-barr"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-refuses-to-say-he-has-confidence-in-barr.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-refuses-to-say-he-has-confidence-in-barr.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13932a6d-b1f4-4256-b340-5c4d61f03425/d35c9969-b14d-4f46-8554-8f29dc18efb7/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/124ffac8-ca25-4803-bc95-b57a6754174c/45640ca8-73b0-4813-915b-5189d0c9bf46/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump doubles down on defense bill veto threat over Section 230"
-    excerpt: ""
-    publishedDateTime: 2020-12-04T05:10:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZU0GJmkEXoM/trump-doubles-down-on-defense-bill-veto-threat-over-section-230"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-defense-bill-veto-threat-over-section-230.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doubles-down-on-defense-bill-veto-threat-over-section-230.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "RNC's McDaniel, closely allied with Trump, spotlights party's neutrality"
-    excerpt: "RNC Chair Ronna McDaniel appears to be spotlighting the party's neutrality going forward after President Trump leaves the White House on Jan. 20."
-    publishedDateTime: 2020-12-03T18:36:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tgloscIWrkk/rnc-mcdaniel-trump-ally-party-neutrality"
-    ampWebUrl: "https://www.foxnews.com/politics/rnc-mcdaniel-trump-ally-party-neutrality.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-mcdaniel-trump-ally-party-neutrality.amp"
+  - title: "Trump and GOP continue legal challenges to election results, ask media to investigate fraud allegations"
+    excerpt: "The Trump campaign and GOP leadership on Monday continued to raise allegations of voter fraud and misconduct at the polls last week as it marches forward with its legal challenges despite facing long odds given the Electoral College tally and recent court rulings that found no evidence of widespread"
+    publishedDateTime: 2020-11-09T23:26:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zo3njD7jJxU/trump-and-gop-continue-legal-challenges-to-election-results-ask-media-to-investigate-fraud-allegations"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-and-gop-continue-legal-challenges-to-election-results-ask-media-to-investigate-fraud-allegations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-gop-continue-legal-challenges-to-election-results-ask-media-to-investigate-fraud-allegations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump Calls Justice, FBI ‘Missing in Action’ on Election Allegations"
-    excerpt: "President Trump accused federal law-enforcement agencies run by his own appointees of ignoring his unproven claims of mass election fraud, as his legal setbacks continued to mount."
-    publishedDateTime: 2020-11-29T20:34:00Z
-    webUrl: "https://www.wsj.com/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-265730?width=620&size=1.5"
-        width: 620
-        height: 413
-        isCached: true
-  - title: "Trump Campaign Files More Election Challenges in Wisconsin, Michigan"
-    excerpt: "The Wisconsin Supreme Court is being asked to disqualify more than 200,000 mail-in ballots; a Michigan judge’s decision dismissing claims is appealed."
-    publishedDateTime: 2020-12-01T20:17:00Z
-    webUrl: "https://www.wsj.com/articles/trump-campaign-files-more-election-challenges-in-wisconsin-michigan-11606849219?mod=business_minor_pos5"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-files-more-election-challenges-in-wisconsin-michigan-11606849219"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-files-more-election-challenges-in-wisconsin-michigan-11606849219"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-266615/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Pro-Trump news sites saw decline in weeks leading up to 2020 election"
-    excerpt: "In the weeks leading up to the 2020 election, six of the top 20 conservative news sites were slammed by surprise declines in traffic compared to a year ago, according to data made public this"
-    publishedDateTime: 2020-12-04T03:30:00Z
-    webUrl: "https://nypost.com/2020/12/03/pro-trump-news-sites-saw-decline-leading-up-to-election/"
-    ampWebUrl: "https://nypost.com/2020/12/03/pro-trump-news-sites-saw-decline-leading-up-to-election/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/03/pro-trump-news-sites-saw-decline-leading-up-to-election/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/pro-trump-sites.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Wisconsin’s Highest Court Turns Away Trump Lawsuit Challenging Election Defeat"
-    excerpt: "Wisconsin’s high court dealt another setback to President Trump’s efforts to overturn his defeat to President-elect Biden, turning away a lawsuit challenging the validity of hundreds of thousands of mail-in ballots."
-    publishedDateTime: 2020-12-04T02:03:00Z
-    webUrl: "https://www.wsj.com/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
-    ampWebUrl: "https://www.wsj.com/amp/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 146
-    images:
-      - url: "https://images.wsj.net/im-267926/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
-    excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
-    publishedDateTime: 2020-12-03T20:13:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
+  - title: "Starr on Trump legal challenges: 'Allow this litigation to run its course'"
+    excerpt: "Kenneth Starr, former Whitewater independent counsel, and Laurence Tribe, constitutional law professor at Harvard, sparred on Sunday over President Trump's legal challenges in several battleground states, with Starr wanting to allow the \"litigation to run its course\" and Tribe arguing that \"it's time"
+    publishedDateTime: 2020-11-15T18:47:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeBQ4A35NWk/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday"
+    ampWebUrl: "https://www.foxnews.com/politics/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 141
+    quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/35333bfd-ffdf-4a5c-bdd7-a56ccc453d9b/e8e632a2-e2f0-4099-b7b3-e9ebedad09f6/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Live updates: Trump campaign notches court win over Pennsylvania ballot deadline"
+    excerpt: "A Pennsylvania judge ruled in favor of the Trump 2020 Campaign on Thursday, ordering that the commonwealth may not count ballots where voters needed to provide proof of identification and failed to do so by Nov. 9."
+    publishedDateTime: 2020-11-13T05:38:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8lQ05vuAWZQ/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad4f7059-6a1c-4c13-8c56-1500f5e3194b/a32212e6-c4fe-472c-a36b-b568d020c8bc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Census Delays Would Prevent Trump Immigrant Exclusion Plan"
-    excerpt: "Census Bureau schedules indicate the agency needs until Jan. 23 to complete the 2020 count and transmit apportionment figures to the president, a House committee said."
-    publishedDateTime: 2020-12-03T02:29:00Z
-    webUrl: "https://www.wsj.com/articles/census-delays-would-prevent-trump-immigrant-exclusion-plan-11606951208"
-    ampWebUrl: "https://www.wsj.com/amp/articles/census-delays-would-prevent-trump-immigrant-exclusion-plan-11606951208"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/census-delays-would-prevent-trump-immigrant-exclusion-plan-11606951208"
+  - title: "Trump 'not backing down,' campaign manager says, urging staff to 'have patience' amid legal battles"
+    excerpt: "The Trump campaign on Monday said President Trump is “not backing down,” as his team mounts legal battles in a number of key battleground states where President-elect Joe Biden led by a razor-thin margin."
+    publishedDateTime: 2020-11-09T17:17:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCJCScrL5_k/trump-not-backing-down-campaign-manager-legal-battles"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Live Updates: Pennsylvania court rejects Trump effort to block 9,000 late-arriving absentee ballots"
+    excerpt: "The latest updates on the Trump campaign's 2020 legal battle."
+    publishedDateTime: 2020-11-15T08:05:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xqILdCB5fkg/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0fb0da50-f3b6-4175-bf1a-a589a89046ea/d6bc5969-56c7-4af3-a3fd-6449fe84882c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "McConnell Backs Court Challenges; Toomey Says Trump Was 'Hard to Watch'"
+    excerpt: "Senate Majority Leader Mitch McConnell (R., Ky.) backed President Trump’s legal challenges to vote counting still under way in the presidential election Friday, but did not second his unsubstantiated claim that the election was rigged against him."
+    publishedDateTime: 2020-11-07T02:24:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/x7emWiaqiV0SQ6jnMhnJ"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 135
+    quality: 115
     images:
-      - url: "https://images.wsj.net/im-267382/social"
+      - url: "https://images.wsj.net/im-256198?size=1.5"
         width: 1280
-        height: 640
+        height: 853
         isCached: true
-  - title: "Donald Trump Hates Democracy"
-    excerpt: "President Trump was all frauded out Sunday morning on Fox News: This election was a total fraud. And: This is the greatest fraud in the history of our country, from an electoral standpoint. And: This is a fraud against the American people."
-    publishedDateTime: 2020-12-02T11:41:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/02/donald_trump_hates_democracy_530479.html#!"
+  - title: "GOP Leader McCarthy Backs Trump's Legal Challenges to Vote Counts"
+    excerpt: "House Minority Leader Kevin McCarthy expressed support Sunday for the Trump campaign’s legal challenges to the presidential election results, joining other Republican lawmakers who have taken a similar stance."
+    publishedDateTime: 2020-11-08T20:13:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/M5Du9vmqlx2n4E2ZgO6O"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 95
 
 secured: "ZMS4ylJrz7msNvYoOWJQ4SeDpWhDCxNOiFuOJtgCMf+Z0Lm42HYwGY4DfXpvGvQLLLxEvnSJ4qPbpOfB6xMcEwo81AFB0NMqfdskTsgfxdVc34i34JIDbQKOVGfABvtWIwoXWogv3gTxfMLTNcyN4Hr+Q+rQDBsUmVws0mlO95fQAWED+IpQSkjPrihoG7pvs84lnYI+7rPcew5gDUsPvnOqms5OQuHGIoTThtaUoUjeGYDBKzAhdcpMti00VBz3ogP08ah5fra/KccDFqFqUMt6wzExlLU7wC2aLw1NT5fCJkqHhbA6KX171p2rnaPVnkFckL6ySU22GFgqrIg9OHAMWDciAm2IwR6UXCvVIA0=;72EO9++lXqStfNTiLnKx0g=="
 ---

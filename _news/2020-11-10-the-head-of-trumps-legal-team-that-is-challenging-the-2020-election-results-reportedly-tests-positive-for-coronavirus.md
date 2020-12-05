@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Fuming over election defeat, Trump seeks partial recount in Wisconsin"
+    excerpt: "President Donald Trump's re-election campaign said on Wednesday it was seeking a partial recount of Wisconsin's presidential election results, as part of its long-shot attempt to reverse President-elect Joe Biden's victory."
+    publishedDateTime: 2020-11-18T22:58:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27Y0GY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0GY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0GY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541647819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH19T"
+        width: 817
+        height: 545
+        isCached: true
   - title: "YouTube defends leaving up videos that falsely claim Trump won the election"
     excerpt: "YouTube was responding to Bloomberg journalist Mark Bergen, who criticized what he claimed was YouTube's slow moderation of election videos."
     publishedDateTime: 2020-11-13T12:34:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://i.insider.com/5fae7cbd4652d400197442f6?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Hearing begins in Trump's long-shot U.S. election challenge in Pennsylvania"
+    excerpt: "President Donald Trump on Tuesday took his long-shot bid to overturn President-elect Joe Biden's victory in the U.S. election to a court in Pennsylvania, where another legal setback would likely doom his already-remote prospects."
+    publishedDateTime: 2020-11-17T20:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-pennsylvania-idUSKBN27X16O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X16O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X16O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541543305&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1P0"
+        width: 748
+        height: 545
         isCached: true
   - title: "Trump's bid for Supreme Court election intervention has yet to materialize"
     excerpt: "President Donald Trump’s long-shot wish for the U.S. Supreme Court to adjudicate contested vote totals in several key battlegrounds has failed to materialize as state election officials move ..."
@@ -159,22 +191,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Judges appear increasingly frustrated with Trump's legal claims about 2020 election"
-    excerpt: "In court hearings and opinions around the country, judges are voicing similar frustrations with the Trump campaign's legal filings, experts and courthouse veterans say."
-    publishedDateTime: 2020-11-16T15:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/judges-increasingly-frustrated-trumps-legal-claims-2020-election/story?id=74211479"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/judges-increasingly-frustrated-trumps-legal-claims-2020-election/story?id=74211479"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/judges-increasingly-frustrated-trumps-legal-claims-2020-election/story?id=74211479"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 134
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump campaign to file lawsuit asking that Michigan election results not be certified"
     excerpt: "Republican President Donald Trump's campaign said on Tuesday it would file a lawsuit in Michigan requesting the results of the U.S. election in the state not be certified until it could be verified that votes were cast lawfully."
     publishedDateTime: 2020-11-10T23:46:00Z
@@ -190,22 +206,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540772722&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA923E"
         width: 816
         height: 545
-        isCached: true
-  - title: "Election week, Trump, and the chaos of 2020 prove that cable news has outlived its worth"
-    excerpt: "The stress of election week didn't have to be this bad, but it's the cost of a cable news structure stuck in the past."
-    publishedDateTime: 2020-11-14T08:05:00Z
-    webUrl: "https://www.businessinsider.com/cable-news-coverage-election-week-analysis-outdated-format-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/cable-news-coverage-election-week-analysis-outdated-format-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cable-news-coverage-election-week-analysis-outdated-format-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 131
-    images:
-      - url: "https://i.insider.com/5faee0991c741f0019ac9bce?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Why Donald Trump isn't Al Gore: How 2020 legal challenges to the election differ from 2000"
     excerpt: "What happened two decades ago in Florida in the race between George Bush and Al Gore is far from what's happening in 2020, legal experts say."
@@ -300,22 +300,6 @@ related:
     quality: 124
     images:
       - url: "https://i.insider.com/5fa6e3141df1d50018219739?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Kevin McCarthy echoed Trump's false claim that he won the election, saying Republicans 'will not back down'"
-    excerpt: "\"President Trump won this election, so everyone who's listening, do not be quiet,\" McCarthy said. Trump has not won the election."
-    publishedDateTime: 2020-11-06T08:03:00Z
-    webUrl: "https://www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 122
-    images:
-      - url: "https://i.insider.com/5fa4f4c11df1d50018219377?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

@@ -31,99 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Rep. Van Drew: Trump ripped the band-aid off, changed American politics"
-    excerpt: "Democrat-turned Republican Rep. Jeff Van Drew, R-N.J., told “Fox & Friends” on Monday that he wanted to thank President Trump for helping to shape the new Republican Party saying he thinks “the president broke everything open.”"
-    publishedDateTime: 2020-11-09T17:17:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2LbggWPoMP8/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp"
+  - title: "Giuliani says Trump won't concede amid legal challenges"
+    excerpt: "President Trump wouldn’t concede the election at this point and the race is “far from over,” Rudy Guiliani said Saturday at a news conference in Philadelphia."
+    publishedDateTime: 2020-11-08T10:59:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScCCiaiEkaA/giuliani-says-trump-wont-concede-amid-legal-cahllenges"
+    ampWebUrl: "https://www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20312640775001.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Dem. Rep. Ryan urges Trump to put the needs of the American people first"
-    excerpt: "Biden surrogate Rep. Tim Ryan, D-Ohio, had a message for President Trump on Sunday, saying, “You can’t put your own concerns in front of the concerns of the American people.”"
-    publishedDateTime: 2020-11-15T21:43:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YOoHX2qITsQ/dem-rep-ryan-urges-trump-to-put-the-needs-of-the-american-people-first"
-    ampWebUrl: "https://www.foxnews.com/politics/dem-rep-ryan-urges-trump-to-put-the-needs-of-the-american-people-first.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-ryan-urges-trump-to-put-the-needs-of-the-american-people-first.amp"
+  - title: "Ivanka Trump slams media for ignoring violence against conservatives"
+    excerpt: "Ivanka Trump on Sunday called out the media for its apparent double standards on violence directed towards conservatives and supporters of President Donald Trump. "
+    publishedDateTime: 2020-11-15T21:55:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x7gGe7zVWQc/ivanka-trump-slams-media-for-ignoring-violence-against-conservatives"
+    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-slams-media-for-ignoring-violence-against-conservatives.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-slams-media-for-ignoring-violence-against-conservatives.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95a364f4-3e47-461f-901a-cb621453ed7d/e45b25bf-9dfe-4e16-9b3b-e2abcf8a9661/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Cindy McCain: Trump will remain a force in politics but Republicans want civility"
-    excerpt: "President Trump will remain a political force in politics, said Cindy McCain after the 2020 presidential election showing Democratic candidate Joe Biden as the likely leader."
-    publishedDateTime: 2020-11-09T21:54:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jbXG97U6KZ0/cindy-mccain-trump-will-remain-a-force-in-politics-but-republicans-want-civility"
-    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-trump-will-remain-a-force-in-politics-but-republicans-want-civility.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-trump-will-remain-a-force-in-politics-but-republicans-want-civility.amp"
+  - title: "Giuliani blames GOP legislators for letting down Trump as other court cases get dismissed"
+    excerpt: "After weeks of failed lawsuits, the Trump campaign suffered another blow in a late Thursday-night Supreme Court decision rejecting the campaign's efforts to reverse Pennsylvania’s election results."
+    publishedDateTime: 2020-12-05T03:09:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MG0A05vuu3Y/giuliani-gop-legislators-let-down-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/giuliani-gop-legislators-let-down-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-gop-legislators-let-down-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "More New Yorkers Voted for Donald Trump in 2020 Than in 2016"
-    excerpt: "The Republican president received tens of thousands more votes in New York City in the 2020 presidential election than in 2016, and some of his largest gains came from the South Bronx."
-    publishedDateTime: 2020-11-12T13:05:00Z
-    webUrl: "https://www.wsj.com/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
-    ampWebUrl: "https://www.wsj.com/amp/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-258710/social"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f1e9ef4-9f2c-4d69-ad79-d689751c9a41/45d541b2-f2d3-461e-bb28-2f05b3ef8537/1280x720/match/image.jpg"
         width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Bars Americans From Investing in Firms That Help China’s Military"
-    excerpt: "The ban applies to 31 companies including state-run aerospace, shipbuilding and construction enterprises."
-    publishedDateTime: 2020-11-13T04:20:00Z
-    webUrl: "https://www.wsj.com/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-259063/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Launches 'Save America' Political Action Committee"
-    excerpt: "President Trump has started a political action committee called Save America that will allow him to back candidates for office and exert financial influence in Washington once his presidency ends. “The President always planned to do this,"
-    publishedDateTime: 2020-11-10T20:25:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/Xo9tbJLvrTGRqLq3qMHy"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "https://images.wsj.net/im-257919?size=1.5"
-        width: 1280
-        height: 853
+        height: 720
         isCached: true
 
 secured: "WjN3dJQACFLfUckDA6cwCMVnk1eFemhGbNJVn50TtOotSSRlhYkj6cbBOszxPUpRMsldshSfUHjUdoSfmHlzeuZk6OK1AMTzJ/C+gsB8LWmsBpLQS+MIGlHEm14rZFJ23ey42ESNPPBQrudlZIsl3Y88N7hneOlRhDRxo0dgOYis20wLTrYuyTV4FWGt0lje45OTws95Kfw7IzEJPT7bc47uqWTFkFKJldEnAv/FiQFzkNOhWEjX0mOaWiRIlwjORq95D5JN8swZMisNTspq2STlSi1Vb2cxvgtdh2wMwDrjfle04mo7GfBpYn1+SK4OgQjd8lnThOH9WqgN1azcg1r8k2VwGUf8YhYKmvJ0EFM=;NSrziEYEwQ/ZmVfXMQx5Rw=="

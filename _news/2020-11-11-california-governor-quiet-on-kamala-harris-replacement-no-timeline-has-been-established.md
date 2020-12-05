@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/california-governor-quiet-on-kamala
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20312675503727-e1604845329811.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Full Replay: Joe Biden And Kamala Harris Press Conference, Remarks On The Economy"
+    excerpt: "President-elect Joe Biden outlined his plan for building the American economy \"back better\" during a speech Monday in Delaware. \"It's time to reward work, not just wealth in America. We're going to have a fair tax structure that makes sure the wealthiest among us and corporations pay their fair share,"
+    publishedDateTime: 2020-11-17T08:13:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/16/watch_live_biden_press_conference_remarks_on_the_economy.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 75
+    images:
+      - url: "https://assets.realclear.com/images/52/527269.jpg"
+        width: 750
+        height: 562
         isCached: true
   - title: "‘No timeline has been established’: California Gov. Newsom mum on Kamala Harris replacement"
     excerpt: "The race to replace apparent Vice President-elect Kamala Harris’s open Senate seat is underway. Pressure is mounting on California Gov. Gavin Newsom to choose Harris’s replacement in the Senate should apparent President-elect Joe Biden’s victory be confirmed."

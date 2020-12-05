@@ -43,6 +43,22 @@ related:
         width: 990
         height: 545
         isCached: true
+  - title: "Breakingviews - The Donald Trump show will continue broadcasting"
+    excerpt: "Donald Trump may have lost the White House, but the ex-president will almost certainly take the show on the road. An army of Twitter followers and favorable coverage from right-wing media like Fox News will ensure an audience after he departs 1600 Pennsylvania Avenue."
+    publishedDateTime: 2020-11-09T16:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-breakingviews-idINKBN27P1B8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1B8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1B8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540513287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80PM"
+        width: 828
+        height: 545
+        isCached: true
   - title: "Before Biden inauguration, 70,000 more could die from COVID-19 in the U.S."
     excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
     publishedDateTime: 2020-11-14T03:43:00Z
@@ -106,48 +122,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/29c0c1c0-f434-4b24-beca-761079809f1f-AFP_AFP_8UR76T.jpg?auto=webp&crop=1023,575,x0,y125&format=pjpg&width=1200"
         width: 1200
         height: 674
-        isCached: true
-  - title: "Biden stops at childhood home, thanks voters in Scranton"
-    excerpt: "Democratic nominee Joe Biden stopped by his hometown of Scranton Tuesday, where he thanked voters before moving on to Philadelphia later in the day. Biden has made his working-class upbringing in Scranton a centerpiece of his campaign."
-    publishedDateTime: 2020-11-03T17:01:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/03/biden-stops-childhood-home-thanks-voters-scranton/6140568002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/aa76382f-3127-4dd7-b743-de7fc9046a94_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden delivers remarks on Supreme Court case surrounding Affordable Care Act"
-    excerpt: "President-elect Joe Biden speaks on Tuesday concerning Texas v. California, a challenge to the Affordable Care Act from Republican-led states and the Trump administration."
-    publishedDateTime: 2020-11-10T19:29:00Z
-    webUrl: "https://www.washingtonpost.com/video/national/biden-delivers-remarks-on-supreme-court-case-surrounding-affordable-care-act/2020/11/10/b47e38b5-a062-4f52-9754-f0d8a7c094bb_live.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-10-2020/t_c918236f66924754ab90a269d27a0255_name_biden_1109.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
-  - title: "Joe Biden Speaks to Reporters in Wilmington, Delaware"
-    excerpt: "Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete. Joe Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete."
-    publishedDateTime: 2020-11-05T21:46:00Z
-    webUrl: "https://www.c-span.org/video/?477853-1/joe-biden-urges-patience-election-vote-count-continues-predicts-victory&ICID=ref_fark"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 55
-    images:
-      - url: "https://static.c-span.org/assets/images/featured-playlists_icon.png"
-        width: 520
-        height: 485
         isCached: true
 
 secured: "JpisJ+Zw4hJYaoHLbwWkX4h/8TuA19zl4oRYc2atgPDw4rus2clhQYW3I7LLx6S/s7yGhlDL0GxF4XjY3qx3vuZ/Ppq/Pbz1Qqt0gQGV52JNH5yl9wl5EtNA1w7ukwJOQkHIHH2Mq4SoBJ489z7QfC6mDs1YicI2w1LezyLQvw0bq+o5nst5HjWNPbpaDSrE7DTrRZWzkGwjZwGHQvNNbvL2FHis+32f2NNORbzBCmpAnKoES9Dn+WJ1Vi5uvUH75SUVAWMp2/AjiRycn+7S5t1qQl62rMOpX78igDNr4r/izMBuW+tL5zncRJICVgax9R0dw6tF9H8WTw3oBwa3v07XMg+DJkt9DkiapKD3xuQUJyCnK+0oMR6yUZ6iYHjCJc3kTDNR2P9pg2NLVKphQ138IRRC2RgCStqzGM6Q5Fo6kUHszrl87sl9N2mlbW0arVYbPeXmiclbc4jOb/N/7BexiUoMeZY3wc2tXc6UjVtWFNCavZfN/ywKiXAiHe2K7++7nZs//oYZnkdcebH8Kg==;OD8l9P9L3AuZGAW/ahmnHw=="

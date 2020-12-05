@@ -47,38 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump fixated on his own political fate as virus kills record number of Americans"
-    excerpt: "President Donald Trump has remained largely absent on a pandemic of historic proportions, fixated on his political career."
-    publishedDateTime: 2020-12-04T23:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-fixated-political-fate-virus-kills-record-number/story?id=74536821"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-fixated-political-fate-virus-kills-record-number/story?id=74536821"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-fixated-political-fate-virus-kills-record-number/story?id=74536821"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/International/houston-icu-gty-rc-201130_1606744730935_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Joe Biden is making a late push for Cuban American voters in Florida. Will it matter?"
-    excerpt: "The Biden campaign made what one pollster called \"night and day difference\" in its outreach to Hispanic voters in Florida, which lifted its support."
-    publishedDateTime: 2020-10-21T01:34:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/10/20/election-2020-biden-making-inroads-cuban-american-voters/5884192002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5884192002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884192002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/c5107522-4dbb-4bb7-bc07-5a9025a578a7-AFP_AFP_8T24WG.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "jwJEcd/FWDiNimzcUNtFZtCirMe2dXtcdb43aNbbCKT0oz4lajezFxFkmAi6Lfa19HeLcnWTxxeSi1l84ukPUZYs1fMwY633AY+/DU5n8HVBIMva6ub3slL8LZKUfTg1uloS6QMxfcH0dZiSVgyR25en+p7E/ea++hNwEoNxluVOUI2eAy1+V8SsKNA6FlQLSEdXQPAtc+fXrVvPFrpGq5mjWL/QHu29sJX0pHqFFc93cO/PEc4cI/kslgHYgGy4EjHNnhkybVqBMde0GhZo8VOvC04HDDwbYGZ/SpPnBOIN7UcTmUZ7rFe3nYZe3+FI0L3vXTqTnRfRwUOhw6Lz4he1L7IbtGpRULbYwl3aN9s=;q1LkAr+B1UOzhfHsiFoxhA=="
 ---

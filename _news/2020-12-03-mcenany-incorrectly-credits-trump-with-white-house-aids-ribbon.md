@@ -32,21 +32,101 @@ images:
     isCached: true
 
 related:
-  - title: "FDA chief meets with Meadows again as Trump remains frustrated with pace of vaccine approval"
-    excerpt: "Embattled Food and Drug Administration Commissioner Stephen Hahn met with White House chief of staff Mark Meadows for second day in a row on Wednesday as President Donald Trump remains frustrated no Covid-19 vaccine has been granted US emergency approval yet.\n    \n"
-    publishedDateTime: 2020-12-02T18:28:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tEsuZZ9siU4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/trump-hahn-fda-vaccine-mark-meadows/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/trump-hahn-fda-vaccine-mark-meadows/index.html"
+  - title: "Melania Trump's White House holiday decor spotlights essential workers"
+    excerpt: "'Tis the holiday season at the White House. All of the halls, from the East Room to the Red Room, were decked by over 125 volunteers this weekend and unveiled Monday to feature classic holiday décor with an \"America the Beautiful\" theme for the Trumps' final Christmas in office.\n    \n"
+    publishedDateTime: 2020-11-30T15:13:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4piMF8Sq3os/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924181014-hahn-0923-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130093329-01-white-house-holiday-decorations-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump and Barr had 'contentious' White House meeting this week"
+    excerpt: "President Donald Trump and Attorney General William Barr had a \"contentious,\" lengthy meeting inside the West Wing this week after Barr told The Associated Press in an interview that the Justice Department had uncovered no evidence of fraud that would change the election outcome, one person familiar"
+    publishedDateTime: 2020-12-03T16:20:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNwL_Szchuo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201225050-trump-barr-split-1201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump invites Pennsylvania GOP lawmakers to White House after calling in to baseless voter fraud event"
+    excerpt: "President Donald Trump's planned trip to join his attorney Rudy Giuliani in Gettysburg, Pennsylvania, on Wednesday has been canceled, two sources familiar with the matter tell CNN.\n    \n"
+    publishedDateTime: 2020-11-25T23:38:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g2I1VpYZoHk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-hearing-giuliani/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-hearing-giuliani/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Transition Highlights: Judge Dismisses Trump Lawsuit in Pennsylvania"
+    excerpt: "Senator Pat Toomey of Pennsylvania, a Republican, said that with the dismissal, the president had “exhausted” his legal options in the state. Senator Kelly Loeffler of Georgia is in isolation after testing positive for the coronavirus."
+    publishedDateTime: 2020-11-26T22:13:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/21/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/21/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/21/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/21/world/21transition-briefing-pennsylvaniaSUB/21transition-briefing-pennsylvaniaSUB-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump awards Lou Holtz with Presidential Medal of Freedom"
+    excerpt: "President Trump awarded former football coach Lou Holtz the Presidential Medal of Freedom during a ceremony at the White House."
+    publishedDateTime: 2020-12-03T18:26:00Z
+    webUrl: "https://www.nbcnews.com/video/trump-awards-lou-holtz-with-presidential-medal-of-freedom-97064005923"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97064005923"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97064005923"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/holtz_trump.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The Justice Department is investigating a potential bribery scheme for a Trump pardon."
+    excerpt: "The Justice Department has been investigating whether intermediaries for a federal convict offered White House officials a bribe in exchange for a potential pardon or commutation from President Trump,"
+    publishedDateTime: 2020-12-02T22:14:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-brieft-pardon/01transition-brieft-pardon-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "aXwxpKWpL/MBjYQBF8ZjeVC49xOsdYn19YkhZ52oKn6uy82yxwZfcXBGu3SxY8foY9g6z4OD0ij8r0WgYombu9rv0kcKE7nWFARSJHHM7z92/U2OszftBkOJmwQeNAvIlD8Ji41j9Xs+dJRJcfhOlzd0spSUay1i/2L03nNVOGDQSk+GPGRLynTQSWPUgm+EevuYRlReNmwrcNubo1tChG23KRYHtMyoxnNc+C7H/cQHchWTxZNEVCyBgyN74VedPKu7BTSc+3V0+0hlUOGiggLQ574/tAmHgy7R8ht4JN4Axa2QR7dDKPDubXkfzOf7FhSw51jntln0CVVcH3T5XHKv+3bTR0kiTgmJNfTX3jKOBo5UnlpITa0X2kW8kF11jledSU6jExPpYt9LX5b4MAQoMqDsr8PGc53xiJBoU28bVLNLULxu+BW3wpyxyo28wYxQvVm3ayUY8rAeHIC45jK9O4KvWhAkULgDutv+8ZkeW9oLkHu8uYYBIAtNRNzIRlvoIRoRw9xbOncD/f2oSg==;avg9tqWD+l7p0lRauOjF6A=="

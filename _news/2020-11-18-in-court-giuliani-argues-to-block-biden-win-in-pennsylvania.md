@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 265
 published: true
 
 provider:
@@ -77,6 +77,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden takes the lead in Pennsylvania and Georgia"
+    excerpt: "President Trump's path to 270 continues to narrow as more election results come in. Former Vice President Joe Biden now leads the president in both Pennsylvania and Georgia. \"Face the Nation\" moderator Margaret Brennan joined CBSN's Lana Zak to discuss that and more."
+    publishedDateTime: 2020-11-07T05:11:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-takes-lead-in-pennsylvania-and-georgia/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/07/60ae7f65-176e-46d9-a5dd-2831854f8ffd/thumbnail/1200x630/2e33e3d31d7c951051b6894dc930ccb8/cbsn-fusion-joe-biden-overtakes-president-trump-in-pennsylvania-and-georgia-thumbnail-583017-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What put Biden over the edge in Pennsylvania"
+    excerpt: "Watch \"What put Biden over the edge in Pennsylvania\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-07T20:37:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201107200245-what-put-biden-over-the-edge-in-pennsylvania/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/07/story_07595815_1604781064.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "UVA's Larry Sabato: Trend is very favorable to Joe Biden in Pennsylvania"
     excerpt: "Larry Sabato, from the University of Virginia Center for Politics director, joins Shep Smith to provide insight on Pennsylvania's results."
     publishedDateTime: 2020-11-06T01:06:00Z
@@ -90,6 +118,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106783131-UVAs-Larry-Sabato-Trend-is-very-favorable-to-Joe-Biden-in-Pennsylvania--jpg?v=1604623237"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Pennsylvania lawyers shredded Rudy Giuliani's arguments in Trump's biggest election lawsuit, calling them 'disgraceful' and 'really inventive'"
+    excerpt: "One defense lawyer described Giuliani as living in a \"fantasy world\" and said his arguments were \"disgraceful in an American courtroom.\""
+    publishedDateTime: 2020-11-18T08:31:00Z
+    webUrl: "https://www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5fb451bfee44e7001ac113d8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "6fIfXKh656BZvjXKvcNGIXrhJsg5GflCXc8grv/PKKM8Sz2SsB64B8Kc0Qz5MlilM77+q/dCxwVpp/ZuZ+m7I77OpCPcfKl82ZzX16w0xAIuuO/BV37BCkbhpA7//94ElA5gKXE6qhgWJuoqvkbiFVr0xApawHVPi+y9FFd7hb5B/dWSF8qOBtaRQNtR5hufrZN4TrbHGyHX6ldIRMuhMCW2rObvldCeGThNhrNG6vTqOJHsF2g0/i7y9x7bmyevCGmBn+W42HimVrVWGHqan9wwdFdeg0Q32HV9qavSFTqYC7t6+y7nqEuY34xWEUHbwDM5aAD+mubIUJCW273KEmsnZc0FfpJMytpZDewEnDI=;1fsJqMHK6hQWX0mB13HmSA=="

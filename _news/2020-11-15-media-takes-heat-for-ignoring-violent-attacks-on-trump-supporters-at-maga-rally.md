@@ -31,69 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says he may ‘stop by’ MAGA rally in DC on Saturday"
-    excerpt: "President Trump showed his gratitude for the MAGA rallies in the nation’s capital this weekend to voice their dissent over the recent presidential election outcome – echoing the same resistance they mocked in 2016."
-    publishedDateTime: 2020-11-14T00:16:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
+  - title: "Trump faith adviser Bishop Harry Jackson dead at 66"
+    excerpt: "Bishop Harry Jackson Jr., a Maryland pastor and unofficial faith adviser for President Trump, died Monday at age 66, his church announced."
+    publishedDateTime: 2020-11-10T15:48:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8yMpCcQqhy4/bishop-harry-jackson-jr-dead-white-house-faith-adviser"
+    ampWebUrl: "https://www.foxnews.com/politics/bishop-harry-jackson-jr-dead-white-house-faith-adviser.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bishop-harry-jackson-jr-dead-white-house-faith-adviser.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-Bishop-Harry-Jackson-Trump.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Byron Donalds, new Florida congressman, says Trump’s ‘swag’ netted him Black votes"
+    excerpt: "Byron Donalds, the incoming congressman from Florida's 19th Congressional District, credits President Trump's gains with Black voters to his \"swag\" and said Republican House members will need to channel that attitude to effectively take on the House Democratic Squad."
+    publishedDateTime: 2020-11-16T11:44:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I8zSI8Zxa74/byron-donalds-florida-trump-swag"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Byron-Donalds-FOX.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump blasts 'ANTIFA SCUM,' media after violence mars MAGA marches in DC"
-    excerpt: "President Trump lashed out against \"ANTIFA SCUM\" and the media Saturday night as violence continued in Washington, D.C., where pro-Trump supporters gathered for the “Million MAGA March.”"
-    publishedDateTime: 2020-11-15T00:09:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t5lgNX0kQSc/violence-maga-march-dc-antifa-blm-counterprotesters"
-    ampWebUrl: "https://www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-counterprotesters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-counterprotesters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/counterprotester-burns-trump-flag.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump supporters hit with fireworks at restaurant after MAGA march, suspect arrested"
-    excerpt: "Police have arrested a suspect in connection with fireworks that went off at a D.C. restaurant, hitting Trump supporters after Saturday’s “MAGA Million March,” according to reports."
-    publishedDateTime: 2020-11-16T01:24:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/26zbwsK5uiM/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/9dcfa087-image.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "House Republicans call for hearings into violence against Trump supporters at MAGA march"
-    excerpt: "The top Republicans on the House Oversight Committee are demanding Chairwoman Carolyn Maloney hold a hearing to examine the violence against supporters of President Trump after the “Million MAGA March” in Washington, D.C. last weekend."
-    publishedDateTime: 2020-11-19T13:30:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_NYl16MKvFw/republicans-hearings-violence-against-trump-supporters-maga-march"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-hearings-violence-against-trump-supporters-maga-march.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-hearings-violence-against-trump-supporters-maga-march.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "iZr/zNXT0eLRDe1bw0tmafd+p6D05VR8rYLyDiXc4sivz4GV9thwkZ+mxA+3ceSXF1FcaWuH2PJR6XU1BHrHsZmbnmNQxzK5HlomrBmIgp/QtpgRuLO55F4Ce7GAsAr5LX7A1dKRSbAFM9G7lql/JHPpYH4Y/FLDkxRdhzLP1EPgXrLcpD/h0cBCM5N8hXRaOAz/kBLHm7mcsE7GnLYOuCbTt8bXLP7Qv/sdqDaeTkja1vE2yEL/AgxpvDac2ULAdZBqxt40nJ2cjkbDoPAWwp7C3ZVgVwfpsdHIGfej7FwWy0uA6i/JKwU5Ws2v887UtaRf/dhfQpMpTOp739hE/z2qtDMlyH7DWStwL5TSufc=;cs9J96afl2mya/J2uM5BUQ=="

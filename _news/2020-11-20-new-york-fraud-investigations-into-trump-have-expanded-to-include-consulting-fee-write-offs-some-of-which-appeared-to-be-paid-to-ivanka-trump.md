@@ -47,38 +47,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Ivanka Trump calls New York investigations into Trump Organization tax write-offs political 'harassment'"
-    excerpt: "\"This is harassment pure and simple,\" said Ivanka Trump after it was reported subpoenas were issued in connection with a consulting fee she was paid."
-    publishedDateTime: 2020-11-20T17:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/20/ivanka-trump-calls-investigations-trump-organization-taxes-harassment/6354080002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6354080002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6354080002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/681af82e-b400-457d-9906-c0af2393d801-AP_Election_2020_Trump.jpg?auto=webp&crop=2659,1496,x326,y133&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump's kids are said to be split over whether he should concede, with Ivanka looking for an off-ramp while Eric and Don Jr. want to fight to the end"
-    excerpt: "Ivanka Trump, Donald Trump Jr. and Eric Trump have different opinions on whether Trump should concede the presidential election, CNN said."
-    publishedDateTime: 2020-11-13T10:55:00Z
-    webUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
-    images:
-      - url: "https://i.insider.com/5fae52c91e8d5000198134bb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "0gO6UjdG9/A3tuCZ89RPDypbZJZ4a0eeAmTVZ5XPqRp1E6NkBhsGADd8sqJmiDXToqz9Wh0weatySaFoon3l72YbRCzjxg9qY3y0KR2DmMBeM1v2c9SDhM/xUrxc0fiMkWc8QWBR2UtkAYJFudSz665JCYlGDGT/3Z2Rkf9oU4sqY6AwdXzQ/UAFDosCwIDukXaMM4rUkJUHOD7S3FTeKQVsU10McXedoo3wnKNw6Ju5hrS5c3vrM4ZJKKgDPpRVgfxpUsdNNdm8/TKSCqhkLyvZEcSwr98Qq8LJXy58VPlhthMfDY88xFD5OSYxYe8y4UMhnoVtsWC2w3U7LAwp+z2H+qWrYV6CIqZ7WI11M1Hyeir1M1c6evweNfO3Hs3F01U0TXIzoNN/bbefls0RiV1BhpToffP2w/qmtQQLNYdSjmoxcloxw75u6joEB09yiWBtutIZhs5wk1TsjsUiUeUN6Q0vzJWSb4kw3ZA5SZl2F6Ex2pqckIdgC6yFumYldYqBfmazAbyIWPMWxwkidw==;qFGdeFk7HjpHPZdxXZPSkg=="
 ---

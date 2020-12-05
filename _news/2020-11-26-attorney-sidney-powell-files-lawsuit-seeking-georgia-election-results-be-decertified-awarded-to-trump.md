@@ -79,22 +79,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump campaign files vote-counting lawsuit in Georgia as margin narrows"
-    excerpt: "The Trump 2020 Campaign and the Republican Party of Georgia filed a lawsuit in the state Wednesday, alleging that officials in a Democrat-leaning county were counting ballots for the presidential race that were received after polls closed Tuesday. "
-    publishedDateTime: 2020-11-05T10:04:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/McPRSKX9zS8/trump-campaign-files-vote-counting-lawsuit-in-georgia-as-margin-narrows"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-files-vote-counting-lawsuit-in-georgia-as-margin-narrows.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-files-vote-counting-lawsuit-in-georgia-as-margin-narrows.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump's Pennsylvania law firm pulls out of campaign case after online threats"
     excerpt: "Two attorneys representing the Trump campaign in Pennsylvania have withdrawn from a lawsuit filed on behalf of the campaign."
     publishedDateTime: 2020-11-13T21:37:11Z
@@ -298,6 +282,20 @@ related:
       - url: "https://images.wsj.net/im-261242?size=1.5"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Trump Drops Legal Challenge in Arizona"
+    excerpt: "Attorneys for the Trump campaign said Friday they’re no longer seeking a court’s intervention into the presidential race in Arizona. The Trump campaign, along with the state and national Republican party,"
+    publishedDateTime: 2020-11-13T18:00:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/jU8pMZdnj6SyRqNBnYgl"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-259539/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "rUIccyDlGTlFKZSQT/dWgxG9Vr4Gveq1t93hLa4tfz6WvatXupmV76fm/BGcySqWBuAVv8joN8fWQtkFzeyHe9keuATr/REqVV0JCUC3axm83yqgIKHa8KqHNshDIReI0z/oNH9DXn0yzppFHrQaAzwqFGTpDK6EXMjNnTjQETJVFpORYemr/9d1QnWYQxlRyH5SLhL0sYX86OZf5TKly+5tcli3eS8ps5qZ2kl2J/2M5lgzkmWcwX4J6TU6okKwzJVvrjfI6AIydOEKqyjCDMmfTE9C3zi15PfClLYY9x2/hok7qkwWU3ag19v0dTYDHzZ5HCi1HM1kclw4cUJ4FJcHcE5ErTKaM4W17KvS6XI=;3O+1e1i0Ffh66mge/szzgw=="

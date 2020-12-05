@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-ami
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/amp/"
 type: article
 quality: 148
-heat: 188
+heat: 168
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/mike-pence.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "John Leguizamo bashes Florida 'lemmings' after the state was called for Donald Trump in the 2020 election"
-    excerpt: "John Leguizamo bashed Floridians after the state was called for Donald Trump in the 2020 presidential election."
-    publishedDateTime: 2020-11-05T13:28:00Z
-    webUrl: "https://www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election"
-    ampWebUrl: "https://www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/John-Leguizamo.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "did19hcsNl36hGObPGPHzNf9waIlwxdeeMNvTG+I5kGoDg/MEzsIDIEW84VCMeG9kUvRjSt4klUtmKBYZ6YQEM82iJejsKmr7THU67lnejEvZYgwmnnhR3VPmDhwTdN5+9XHJP6iVc5/Zsbow0ZzK4wGnR9/GTcP4idF66MTGQkfn0PeesrfefNo41V5So/ikWa5KWBLtZRTKyJaPbnhSSLTduZ8R1MF6Had0lseCQ6bn0HRw29vfwjeDSfsF2/lSeW5aeWl8bfxCpQep8DPCNWE55+CAfLjLqoGE4D6w4pGrKm3JaCNeE78jNbX57UrPqo1ZWiaZxspqTtT7tz5QLhz4ldxh5BceC1LPTf9FAw=;+87h76/yFnyTlPczU5i1BQ=="

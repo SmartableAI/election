@@ -29,147 +29,156 @@ images:
     isCached: true
 
 related:
-  - title: "Trump cheers Pfizer Inc's experimental COVID-19 vaccine results"
-    excerpt: "President Donald Trump on Monday welcomed Pfizer Ic's experimental COVID-19 vaccine results, and the stock market boost it brought."
-    publishedDateTime: 2020-11-09T12:55:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-vaccine-trump-idINKBN27P1KP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1KP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1KP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540528434&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80VA"
-        width: 742
-        height: 545
-        isCached: true
-  - title: "Trump campaign adviser Bossie tests positive for COVID-19: source"
-    excerpt: "The lawyer charged with leading President Donald Trump's post-election legal challenges, David Bossie, has tested positive for COVID-19, a source familiar with the matter said on Monday."
-    publishedDateTime: 2020-11-09T20:57:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-bossie-idUSKBN27P2QU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P2QU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P2QU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540597472&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81PZ"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Trump loyalists get top Pentagon jobs after Esper firing"
-    excerpt: "Three staunch loyalists to the president have been named to top defense jobs just a day after President Donald Trump fired Defense Secretary Mark Esper"
-    publishedDateTime: 2020-11-11T00:12:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/trump-loyalists-get-top-pentagon-jobs-after-esper-firing/2020/11/10/9287323c-23b2-11eb-9c4a-0dc6242c4814_story.html?amp%3Butm_medium=referral&amp%3Butm_campaign=wp_world"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/trump-loyalists-get-top-pentagon-jobs-after-esper-firing/2020/11/10/9287323c-23b2-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/trump-loyalists-get-top-pentagon-jobs-after-esper-firing/2020/11/10/9287323c-23b2-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump and Pence celebrate Pfizer's COVID-19 vaccine success, but the government didn't fund its development"
-    excerpt: "The US government has ordered 100 milion doses of the vaccine, which will not be immediately distributed as it must still be evaulated by the FDA."
-    publishedDateTime: 2020-11-09T16:43:00Z
-    webUrl: "https://www.businessinsider.com/trump-celebrates-pfizer-covid-19-vaccine-but-government-didnt-fund-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-celebrates-pfizer-covid-19-vaccine-but-government-didnt-fund-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-celebrates-pfizer-covid-19-vaccine-but-government-didnt-fund-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 122
-    images:
-      - url: "https://i.insider.com/5f356b69b4bb1c001df5312f?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Giroir not concerned that Trump hasn’t been to COVID task force meeting in months"
-    excerpt: "Assistant Secretary for Health Adm. Brett Giroir and Joe Biden's COVID-19 advisory board member Dr. Atul Gawande appeared on ABC's \"This Week.\""
-    publishedDateTime: 2020-11-15T20:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/adm-brett-giroir-calls-pfizer-vaccine-news-game/story?id=74210348"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/adm-brett-giroir-calls-pfizer-vaccine-news-game/story?id=74210348"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/adm-brett-giroir-calls-pfizer-vaccine-news-game/story?id=74210348"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/giroir-gawande-2-gty-rc-201114_1605388280642_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "David Bossie, Trump campaign adviser overseeing campaign legal challenges, has COVID-19"
-    excerpt: "Bossie was tapped just a few days ago to head the Trump campaign's legal challenges in contesting the outcome of the presidential election."
-    publishedDateTime: 2020-11-09T23:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/covid-19-campaign-adviser-david-bossie-tests-positive/6228110002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6228110002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228110002"
+  - title: "President Donald Trump handily wins Kentucky once again"
+    excerpt: "President Donald Trump nabbed another decisive victory in Kentucky after the polls closed in the Bluegrass State on Tuesday."
+    publishedDateTime: 2020-11-06T21:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/president-donald-trump-wins-2020-election-kentucky-ease/6130620002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6130620002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6130620002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 117
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/dacb6498-dfd3-4970-bc6c-0276d4238ff6-AP_Election_2020_Protests_Phoenix.jpg?auto=webp&crop=5081,2859,x0,y169&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NLED/391a71ca-8580-45d5-9b96-8d0ab452c96f-AP20307617419308.jpg?auto=webp&crop=5999,3374,x0,y43&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump threatens to withhold COVID-19 vaccine from New York in new feud with Governor Cuomo"
-    excerpt: "In his first public comments in a week, Trump said the vaccine would not be available to residents of New York, accusing Cuomo, of playing politics."
-    publishedDateTime: 2020-11-14T10:47:00Z
-    webUrl: "https://www.businessinsider.com/trump-threatens-to-withhold-vaccine-new-york-feuds-with-cuomo-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-threatens-to-withhold-vaccine-new-york-feuds-with-cuomo-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-threatens-to-withhold-vaccine-new-york-feuds-with-cuomo-2020-11?amp"
+  - title: "How and when will Trump leave office?"
+    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
+    publishedDateTime: 2020-11-09T14:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idUSKBN27P199"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P199"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P199"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540530760&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OO"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "How and when will Trump leave office?"
+    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
+    publishedDateTime: 2020-11-09T16:19:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idINKBN27P199"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P199"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P199"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540519544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OU"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "MAGA mean kids want you to be nice to them about Trump losing"
+    excerpt: "Trump's media bullies delighted in \"Leftist Tears.\" Now that Trump lost, they demand we be sensitive to their feelings and entertain wild fantasies."
+    publishedDateTime: 2020-11-10T16:15:00Z
+    webUrl: "https://www.businessinsider.com/maga-media-mean-kids-want-you-nice-trump-losing-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/maga-media-mean-kids-want-you-nice-trump-losing-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/maga-media-mean-kids-want-you-nice-trump-losing-election-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 112
+    quality: 125
     images:
-      - url: "https://i.insider.com/5faf9b0e402d49001924efbc?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5faaaa471df1d50018219d0d?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Ohio Governor DeWine on COVID-19 surge, Trump's handling of pandemic"
-    excerpt: "Ohio Governor Mike DeWine joins \"CBS This Morning\" to discuss the surge in COVID-19 cases in his state, Ohio's safety measures and President Trump's handling of the pandemic."
-    publishedDateTime: 2020-11-12T14:12:00Z
-    webUrl: "https://www.cbsnews.com/video/ohio-governor-dewine-on-covid-19-surge-trumps-handling-of-pandemic/"
+  - title: "Donald Trump wins North Carolina"
+    excerpt: "Donald Trump wins North Carolina. Trump taps Giuliani to take over election legal fight: Sources 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2020-11-14T01:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/12/0f65d96a-bfad-4897-b3ab-b9c13583cbee/thumbnail/1200x630/587b03637ada4a8fdfbc5424e83db1e2/cbsn-fusion-ohio-governor-dewine-on-covid-19-surge-trumps-handling-of-pandemic-thumbnail-586552-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "Twitter Reacts To Melania Trump Voting With No Mask After Contracting COVID-19: ‘Disrespectful'"
-    excerpt: "Melania Trump voted in Florida without a mask on Tuesday, and Twitter is not happy. Some netizens pointed out that it was \"disrespectful\" of her to ditch a face covering after having contracted COVID-19 herself."
-    publishedDateTime: 2020-11-04T08:06:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-voting-no-mask-after-contracting-covid-19-disrespectful-3076064"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-voting-no-mask-after-contracting-covid-19-disrespectful-3076064?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-melania-trump-voting-no-mask-after-contracting-covid-19-disrespectful-3076064?amp=1"
+  - title: "Trump's Pentagon shake-up has the military worried about its future"
+    excerpt: "In recent days, President Donald Trump has shaken up Pentagon leadership, firing his defense secretary and installing officials seen as loyalists."
+    publishedDateTime: 2020-11-13T16:10:00Z
+    webUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 63
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
-        width: 1024
-        height: 682
+      - url: "https://i.insider.com/5dcf2b2be94e862b3f19f618?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Vice President Mike Pence responds: I stand with President Donald Trump"
+    excerpt: "Vice President Mike Pence was not with President Donald Trump during his press conference this afternoon. He later tweeted he stands with the president and that we must count every legal vote. Eamon Javers joins Shep Smith to talk about the various responses from members of the Republican Party in support of President Trump."
+    publishedDateTime: 2020-11-06T01:48:00Z
+    webUrl: "https://www.cnbc.com/video/2020/11/05/vice-president-mike-pence-responds-i-stand-with-president-donald-trump.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 120
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106783180-16046249101604624906-12295478233-1080pnbcnews.jpg?v=1604624909"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Donald Trump supporters can get free food at Kentucky restaurants owned by the same couple. But there's a catch."
+    excerpt: "Louisville restaurant owners Troy King and Selena Johnson are offering free food to anyone who trades in Donald Trump merchandise."
+    publishedDateTime: 2020-11-12T04:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/11/kentucky-restaurant-free-meal-donald-trump-maga-supporters/6261164002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6261164002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6261164002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/01/21/PLOU/959e4d35-d555-469a-98b0-632ce95f5d86-0116DINE_6ForksBurgerCo02_DRL.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Here's how President Donald Trump won Ohio by almost exactly the same margin as in 2016"
+    excerpt: "Former Vice President Joe Biden thought he could pull off the upset in bellwether Ohio, but Donald Trump used the same formula as in 2016 to win."
+    publishedDateTime: 2020-11-06T21:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/04/analysis-how-donald-trump-easily-beat-joe-biden-battleground-ohio-election-day-results-for-president/6050222002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6050222002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6050222002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+  - title: "House Democrats will keep some of their Trump investigations and court fights active once the lame-duck president leaves the White House"
+    excerpt: "House Democrats plan to continue their high-profile investigations into President Donald Trump even after he leaves the White House. It's still unclear how each probe will look come next year when the new Congress gets sworn in,"
+    publishedDateTime: 2020-11-09T20:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-financial-probes-to-continue-in-democrat-led-house-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5fa999ac1df1d50018219a83?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "e9lz0bS2oMBKBEQLijE5BUZI1+a8B+3jivU8oRJ1qWvY1nfsHKFGuTppuR0gwO6G1TAOwip8CGH8v3rhjjX4WNODYj/P+OfZoyDTzKND1j9G/shNfdTgJKO94bXLobHfjN3dHK6Iy4KL1Rg7OkkGhvv1+n2goPSuo+u7PNUVIS4gVNyjWXxe63x9tHVDmHDa/I6XnithVnJrxKbsUY3UHXZGoITG2e+6P1sNyXiSCRRtQveCdMISHMbLajKWhYDY2xGMbw3xR/j/X6yF6SjlrXINl7dFPeL59w8JLUaNobIl4/POBiS9MhuW91RfLPcucsVM+XSarO0Lmibqo3YqoUzJBPtXpt2D2QrGhA1CT78=;ZbJL1KX8DO5BXP+IgLnWAA=="

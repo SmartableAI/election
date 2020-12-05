@@ -29,129 +29,53 @@ images:
     isCached: true
 
 related:
-  - title: "Breakingviews - Biden win sets scene for storm before the calm"
-    excerpt: "Americans chose Joe Biden as their 46th president. That should usher in a more predictable period for policymaking, and decisive action on containing Covid-19. But he faces three major challenges: voters’ effective rejection of his party’s punchier ideas,"
-    publishedDateTime: 2020-11-07T17:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0NT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0NT"
+  - title: "Watch live: Biden speaks from Delaware"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks from Wilmington, Del.The event is scheduled to begin at 4:15 p.m.Watch the live video above."
+    publishedDateTime: 2020-11-05T21:21:00Z
+    webUrl: "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware"
+    ampWebUrl: "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540367165&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60HN"
-        width: 990
-        height: 545
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_11042020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Before Biden inauguration, 70,000 more could die from COVID-19 in the U.S."
-    excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
-    publishedDateTime: 2020-11-14T03:43:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-economy-coronavirus-idUKKBN27T2W9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27T2W9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27T2W9"
+  - title: "US election live: 'Democracy works,' says Joe Biden as he urges patience with count showing him on verge of win"
+    excerpt: "Georgia confirms recount while Democratic candidate leads president in two key battleground states – follow all the latest news"
+    publishedDateTime: 2020-11-07T12:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates?page=with:block-5fa683d58f0870a6e75f91a7"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541165180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1P0"
-        width: 817
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/d05d42e3e9b347488db3416c787e0484b7a50f47/0_0_640_716/master/640.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=78e6783bbbba423c2cd6a04bcd7519f7"
+        width: 600
+        height: 672
         isCached: true
-  - title: "Facing a divided U.S., Biden and aides plan for the 'hard work of governing'"
-    excerpt: "Joe Biden and his advisers on Sunday were working on plans to tackle the crises facing a divided America, first and foremost the raging coronavirus pandemic, a day after the Democrat won enough states to clinch the U."
-    publishedDateTime: 2020-11-09T02:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election/biden-urges-healing-and-cooperation-after-defeating-trump-for-u-s-presidency-idUSKBN27O06Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O06Y"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O06Y"
+  - title: "Australian politics live: Scott Morrison officially congratulates US president-elect Joe Biden"
+    excerpt: "Energy Minister Angus Taylor declared #watergate over, after the Australian National Audit Office reported earlier this year on the government’s $80m purchase of water entitlements from Eastern Australian Agriculture in 2017."
+    publishedDateTime: 2020-11-12T00:41:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news?page=with:block-5fac7f0c8f086b290cc55435"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540418131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA708M"
-        width: 753
-        height: 545
-        isCached: true
-  - title: "Biden insider Klain will bring virus-fighting expertise to chief of staff role"
-    excerpt: "Ron Klain was once tapped by Democratic President Barack Obama to safeguard the United States from the threat of a lethal virus. As President-elect Joe Biden's chief of staff, he will take on a similar mission."
-    publishedDateTime: 2020-11-12T08:03:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-klain-newsmaker/biden-insider-klain-will-bring-virus-fighting-expertise-to-chief-of-staff-role-idUSKBN27S0BY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S0BY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S0BY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540919752&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB06G"
-        width: 794
-        height: 545
-        isCached: true
-  - title: "Man threatened to blow up people celebrating Biden victory, FBI building, prosecutors say"
-    excerpt: "A New York City man was arrested Tuesday and is facing federal charges after he allegedly made death threats against people celebrating President-elect Joe Biden's victory. Brian Maiorana, 54, of Staten Island,"
-    publishedDateTime: 2020-11-11T16:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/11/nyc-man-brian-maiorana-threatened-election-violence-against-democrats/6247339002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6247339002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6247339002"
-    type: article
-    provider:
-      name: Statesman Journal
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/29c0c1c0-f434-4b24-beca-761079809f1f-AFP_AFP_8UR76T.jpg?auto=webp&crop=1023,575,x0,y125&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Biden stops at childhood home, thanks voters in Scranton"
-    excerpt: "Democratic nominee Joe Biden stopped by his hometown of Scranton Tuesday, where he thanked voters before moving on to Philadelphia later in the day. Biden has made his working-class upbringing in Scranton a centerpiece of his campaign."
-    publishedDateTime: 2020-11-03T17:01:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/03/biden-stops-childhood-home-thanks-voters-scranton/6140568002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/aa76382f-3127-4dd7-b743-de7fc9046a94_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Will Lizzo run through the streets naked? Only if Joe Biden wins"
-    excerpt: "Lizzo has not been holding back on the TikToks this election season. In one video posted Wednesday evening, the proud Joe Biden and Kamala Harris supporter weighed the possibility of President Donald Trump being voted out of office."
-    publishedDateTime: 2020-11-05T21:42:00Z
-    webUrl: "https://www.chron.com/news/election2020/article/lizzo-election-2020-tiktok-15704664.php"
-    ampWebUrl: "https://www.chron.com/news/election2020/amp/lizzo-election-2020-tiktok-15704664.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/lizzo-election-2020-tiktok-15704664.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/07/52/20216489/5/rawImage.png"
-        width: 873
-        height: 759
-        isCached: true
-  - title: "Joe Biden Speaks to Reporters in Wilmington, Delaware"
-    excerpt: "Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete. Joe Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete."
-    publishedDateTime: 2020-11-05T21:46:00Z
-    webUrl: "https://www.c-span.org/video/?477853-1/joe-biden-urges-patience-election-vote-count-continues-predicts-victory&ICID=ref_fark"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 55
-    images:
-      - url: "https://static.c-span.org/assets/images/featured-playlists_icon.png"
-        width: 520
-        height: 485
+      - url: "https://i.guim.co.uk/img/media/74837c752551a67e91a327808668afe7bba30c91/0_137_3368_2022/master/3368.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10194d30e2d94cb9c370915a143f0403"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "7z8umYG6AGp17c+38rfnjxsmdoTdqeFSIi33DzDeSDl53fy4rxkuFIDeMkgm5ODYRnGZe9GFQJyCujwqa2K5HCHp/+RXaMj0+oEpCXNOOZubRaLJAMIm0guYtQ4mo9Yw6amUat3lIhuSXt/W+WomfeD38KJDBU4awi9dpCulNe4oSTNqy5T4AQd0P8CdNTr+yPTubx+YZ6aqCBDpT5yZFyJWLWE1Kq5Uq2S5eBtOh/6L3R5Fg+FS/C1TXEcTH/PXCP90yghev4kiSv1lqWynLmTzMUFGar7PzXag3m7602TuTExfYysEZ7O21J+WK2J9M9Jt29SZv//PBGw01VaKHAuwjUxBsa/CdvRLGVE9Cx6ilwaTvMQRplyQKTlgSwEAhRAr6yylr4o1msf1dMoH/3ONm1mkt4tYSsNVFEJmuNfD5KZQpxSePu6yEjkiPmi5h9xlUxdW/6EMPZPhoi3WW4ejn41F5cj30OCNN2tscBkgj3d5NsxNfisIIUGojQKnvIzQIbJaIXHmKqlyM7NL2w==;Ha5ksOH9r0yH6Eb8OAaDMQ=="

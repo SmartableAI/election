@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6257746002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6257746002"
 type: article
 quality: 125
-heat: 265
+heat: 345
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Criminal probe, legal fights await Trump after White House"
+    excerpt: "President Donald Trump’s legal entanglements are likely to intensify when he leaves the White House and loses immunity from prosecution"
+    publishedDateTime: 2020-11-20T06:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_89fd04d324f5413fa1373a2dacc2cbfc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Lobster biz hopes for stability after tumultuous Trump era"
     excerpt: "President Donald Trump positioned himself as a friend of New England’s lobstermen, but members of the industry said they are looking forward to the possibility of stability under President-elect Joe B"
     publishedDateTime: 2020-11-22T15:42:00Z
@@ -47,21 +63,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump threatens more lawsuits, but court challenges are hitting dead ends"
-    excerpt: "Pennsylvania officials asked a federal appeals court Tuesday to put an end to the Trump campaign's legal challenge of an election that has now been certified."
-    publishedDateTime: 2020-11-25T06:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-threatens-lawsuits-court-challenges-hitting-dead-ends/story?id=74388659"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-threatens-lawsuits-court-challenges-hitting-dead-ends/story?id=74388659"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-threatens-lawsuits-court-challenges-hitting-dead-ends/story?id=74388659"
+  - title: "No, Trump is not attempting a ‘coup.’ Here’s why the distinction matters."
+    excerpt: "But while the steps Trump and other Republicans officials have taken to discredit the results of the election are enormously damaging, they do not constitute a coup. This is not m"
+    publishedDateTime: 2020-11-11T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 124
     images:
-      - url: "https://s.abcnews.com/images/Politics/pennsylvania-vote-ap-rc-201124_1606235716483_hpMain_2_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XZLP6QREHAI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "'Elders' group of ex-leaders founded by Mandela urges Trump to accept defeat"
     excerpt: "The Elders, a group of prominent former world leaders, voiced concern on Thursday at U.S. President Donald Trump's refusal to concede electoral defeat, saying it showed disrespect for the integrity of American democracy."
@@ -95,6 +111,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Donald Trump Jr. tests positive for COVID-19 - spokesman"
+    excerpt: "Donald Trump Jr. tested positive for COVID-19 this week and is experiencing no symptoms, according to a spokesman for the son of President Donald Trump. (Reporting by Steve Holland and Daphne Psaledakis;"
+    publishedDateTime: 2020-11-21T00:45:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-junior-idUSL1N2I62SK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2I62SK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2I62SK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Latinas for Trump founder unseated Florida Democrat after ‘shadow candidate’ with his surname entered the race"
     excerpt: "Alex Rodriguez did not live in Miami and had never been involved in politics. But he did share a last name with the Democratic incumbent in a heated race for state Senate."
     publishedDateTime: 2020-11-20T16:31:00Z
@@ -110,6 +137,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FMDZT4PMMJABVGESEOJQP6BKA4.png&w=1440"
         width: 1200
         height: 675
+        isCached: true
+  - title: "BONUS: WHAT'S NEXT FOR TRUMP?"
+    excerpt: "In this bonus episode of Up First, It's Been a Minute host Sam Sanders explores what might happen to Donald Trump after he leaves office. This episode breaks down ongoing investigations and lawsuits into Trump and his family,"
+    publishedDateTime: 2020-11-22T11:50:00Z
+    webUrl: "https://www.npr.org/2020/11/20/937270241/bonus-whats-next-for-trump"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/20/UpFirst_New_Logo_NPR_Small_wide-f01c27b52e6edc22229e2621c6064fe967306656.png?s=1400"
+        width: 1400
+        height: 786
         isCached: true
   - title: "Spokesman: Trump's son Don Jr. has tested positive this week for coronavirus, has been isolating and has no symptoms"
     excerpt: "Trump's son Don Jr. has tested positive this week for coronavirus, has been isolating and has no symptoms. 24/7 coverage of breaking news and live events"
@@ -142,6 +183,20 @@ related:
       - url: "https://i.insider.com/5fb64cfa32f2170011f6ff67?width=1200&format=jpeg"
         width: 1064
         height: 532
+        isCached: true
+  - title: "The Psychological Toll of 4 Years of Donald Trump Will Linger. Disciplined Hope Can Help Us More Forward"
+    excerpt: "In our fight against the oppression intensified by the Trump Administration, we have resisted Muslim bans, family separations, police violence, natural disasters, man-made disasters, undermined protections and compromised social safety nets."
+    publishedDateTime: 2020-11-10T16:27:00Z
+    webUrl: "https://time.com/5909885/after-donald-trump/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 88
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/michelle-gustafson-joe-biden-kamala-harris-victory-speech.jpg"
+        width: 2400
+        height: 1600
         isCached: true
 
 secured: "Y0qfUi+4fDddIxvKbnNWlge2fK5hQvzR+nmRDvOMKTQO1oxPw5faTk3hzilKUK2Co8XH1H0RgSfaYxmq7AlYDTFxmOoJKKIJ+K3NpqTOxR1P2orRk5MpyXYFWZ9g38nz7W9Z1t3zgnVqS0Td6MHoU81hfgr1rthV+sVBpCU9f9ySzm/R1eHB3tcdjo4WAqSShK8YalZxnriC0sy1CCHb+o4xOubIF56hQC+0+EWhn/JW87e24VtruHgoUdH/ra//NXzC5mgmSn1s+desYWH6i7xw2oPe70JrSVNfjWS1djY9t6S8aIR1dhDqYll59e4sRUFvMAuswQOAbAKjOlmI5MH+IrDPP5KDiiGnROYAowx56n7z+WIeAbZ1r/5eFHsnXg/vkm0793fati8G/y5+FTNkNC6h1ZQmtaAGPGpyM17rrshL+zBHfzw1WfoNYx7Vma23GDpQvH0zhlnAtbrrD5bdwkDjefYeJKekqWn3sn4Uu4H99bZMO8KVVpiOBEBGmaxSHIbCJGeD+s0gh4aYYA==;czuwfm63H8KOd96+TjFC7Q=="

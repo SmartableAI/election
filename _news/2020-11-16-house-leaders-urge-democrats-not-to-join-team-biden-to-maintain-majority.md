@@ -95,22 +95,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden says 'no excuse' for looting in Philadelphia after Black man killed by police"
-    excerpt: "Democratic presidential nominee Joe Biden says there’s “no excuse whatsoever” for the ongoing looting and violence in Philadelphia."
-    publishedDateTime: 2020-10-28T18:44:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/veUG1aWqE84/biden-no-excuse-for-philadelphia-looting"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19d8c899-c6f5-41b9-9d36-0ae911189500/6139a1db-2f01-4c1a-9325-b4d504a0cb23/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump campaign appeals Philadelphia vote decision, alleging incomplete ballots were counted"
     excerpt: "The Trump campaign is appealing after the Philadelphia County Board of Elections denied its objection to the counting of thousands of ballots that the campaign said should have been rejected under state law."
     publishedDateTime: 2020-11-12T14:13:37Z
@@ -126,50 +110,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04d67219-519c-45e6-b6f0-8f07602500ef/81f2d39a-1708-4498-8539-cf0620da8e66/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden says 'no excuse' for looting in Philadelphia after Black man killed by police"
-    excerpt: "Democratic presidential nominee Joe Biden says there’s “no excuse whatsoever” for the ongoing looting and violence in Philadelphia."
-    publishedDateTime: 2020-10-28T18:57:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20302623949679.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Obama Campaigns For Joe Biden In Philadelphia"
-    excerpt: "Former President Barack Obama campaigned Tuesday for Joe Biden at a Philadelphia GOTV event. \"I am so confident in Joe Biden and Kamala Harris surrounding themselves with people who are serious, who know what they're doing,"
-    publishedDateTime: 2020-10-21T21:21:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/21/watch_live_obama_campaigns_for_joe_biden_in_philadelphia.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/524812.jpg"
-        width: 750
-        height: 562
-        isCached: true
-  - title: "Replay: Obama Campaigns For Joe Biden In Philadelphia"
-    excerpt: "Former President Barack Obama campaigned Tuesday for Joe Biden at a Philadelphia GOTV event. \"I am so confident in Joe Biden and Kamala Harris surrounding themselves with people who are serious, who know what they're doing,"
-    publishedDateTime: 2020-10-22T06:48:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/21/watch_live_obama_campaigns_for_joe_biden_in_philadelphia.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/524812.jpg"
-        width: 750
-        height: 562
         isCached: true
 
 secured: "ZdSIMloDOZiNWKJ3uCamBzG48o7Dc1D+8GR90cjTdJ89g82hC81OqTljnFX4ypNADjLTRVUYgCl1Jn4slQEC0xgEs9q49lFxVCeiG/TcowjB35v2qFXs2k4IC26Ux0qW7Vvyid3aFNuZlRQHk7x9rMwyg+jd+H0otS1mZAo/9EW+n+5qkC0NYnFOq3RHS2oBDZT3zOA9l+68zOdCPyGNmJycAWAC3lw+gUxiBuMyYcLR/rTJU1coN8Ll2eaN2ihHRRhsQj570zvPiylVNR6X5xvz4vm/BVdAcI8/aZZoBX1A0wdU8BuT+Ks+SeBJAcSnspx2oCszpbpsyDcherIJ5NocYaRP6NbqU2m6e7PDLOg=;gOyN3p9sdWNpdhrk9eg/xw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 355
 published: true
 
 provider:
@@ -142,22 +142,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111221512-conclu-ron-klain-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "As States Fall His Way, Biden Vows ‘Every Vote Must Be Counted’"
-    excerpt: "Joseph R. Biden Jr. picked up victories in Michigan and Wisconsin, giving him an advantageous position, as President Trump prepared legal challenges."
-    publishedDateTime: 2020-11-05T05:27:00Z
-    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/2020-election-recap.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/2020-election-recap.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/2020-election-recap.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04election-ledeall-mi1/04election-ledeall-mi1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Biden appoints team of longtime aides to key White House posts"
     excerpt: "Among other moves, Biden adviser and confidant Mike Donilon will move to the White House as senior adviser to the president."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/17/anthony-scaramucc
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/17/anthony-scaramucci-lists-three-pieces-trumps-endgame-ctn-vpx.cnn"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/06/opinion/06garsten/06garsten-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Here's definitive proof Republicans are still afraid of Donald Trump"
-    excerpt: "For all the people who predicted that the Republican fever would break the instant it was clear that Donald Trump had lost the presidency to Joe Biden, let me present you with this exchange between CNN's Alisyn Camerota and Delaware Sen."
-    publishedDateTime: 2020-11-10T17:07:00Z
-    webUrl: "https://www.cnn.com/2020/11/10/politics/republicans-chris-coons-2020-trump-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 115
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729082623-trump-at-podium-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
 
 secured: "xziPLBw97r6PZweDZBl6UixIH6mD2ZnXcphLeCwIG4jxLq+Iw/+txOgzMWl3iXVTy/WfQ5cLqZMT/tzE9QpYHbkdsO1bz+JgJOaXthtvxMGbpKXmGWYbpEjcJLoACTQdip83RRbxRrMnYEhOEllGD9mRekfhs/hCAcItsRfrD+t8lxUGkSrdyjaxGpEuUseLytVcFIDuaegpN9+DFCXELVHCZrU7woYQiNhKyMGGslEbAxG+1YhRdCboBE4fIoC62g7lQ6aZs41DeIi7NQnPzHqd9eIVAvGhgfU3tHwCFr/1gkOl42xULa0E+P+jDu7tRuG/0iKctyjGtXFa1wf4bXJsXNShkvVrBVKNb+QPuMU=;x1fDLAY51s9StzfZe+bNYw=="

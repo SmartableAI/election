@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-bidens-lead-grows-in-p
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 215
+published: true
 
 provider:
   name: Fox News
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Georgia to manually recount every ballot as Biden leads by 14K votes"
-    excerpt: "Georgia Secretary of State Brad Raffensperger on Wednesday announced that election officials will conduct a manual recount of all presidential ballots as President-elect Joe Biden leads in the state by just over 14,000 votes out of nearly 5 million counted."
-    publishedDateTime: 2020-11-11T16:58:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dD2M_UP0Ojs/georgia-election-manual-recount-presidential-ballots"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-election-manual-recount-presidential-ballots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-manual-recount-presidential-ballots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1200754471.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden starts staffing up with senior White House announcements"
-    excerpt: "President-elect Joe Biden on Tuesday announced nine senior staffers he will work with in the White House after he is inaugurated on Jan. 20."
-    publishedDateTime: 2020-11-17T16:15:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rkSrOw5mxlA/biden-senior-white-house-staff-announcements"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-senior-white-house-staff-announcements.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senior-white-house-staff-announcements.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Liberal group calls key Biden hire a betrayal"
     excerpt: "President-elect Joe Biden is getting some flak for one of his cabinet picks who will deal with climate issues, with one liberal group calling the choice a “betrayal” because of the appointee’s record receiving money from the oil and gas industry."
     publishedDateTime: 2020-11-18T01:03:38Z
@@ -79,58 +47,20 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden snagged vast majority of Silicon Valley votes, regional data shows"
-    excerpt: "Nearly three-quarters of regional voters turned out for Biden."
-    publishedDateTime: 2020-11-11T22:05:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1QVVz3KmJrI/biden-won-silicon-valley-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-won-silicon-valley-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-won-silicon-valley-voters.amp"
+  - title: "House minority leader says he did not speak with Biden"
+    excerpt: "Biden said during a press conference on Tuesday that he had spoken with both leaders of the House, which would appear to indicate Rep. Kevin McCarthy, the minority leader, and Speaker Nancy Pelosi."
+    publishedDateTime: 2020-11-10T22:21:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0QZRHv8suY/leader-mccarthy-president-elect-biden"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 155
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c45b08f-c341-42d0-9197-8605f61f1988/5c039d53-2a9a-4699-8848-5afb02b4bff3/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20309644010679-e1604514837386.jpg"
         width: 1280
-        height: 720
+        height: 675
         isCached: true
-  - title: "Biden takes calls with leaders of UK, France, Germany as transition gets underway"
-    excerpt: "President-elect Joe Biden on Tuesday spoke to foreign leaders and key allies as he moved ahead with his presidential transition — with the leaders of the U.K. and France among those first to speak to the incoming president."
-    publishedDateTime: 2020-11-10T20:19:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQYSojMRAUc/biden-uk-france-germany-as-transition-gets-underway"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-uk-france-germany-as-transition-gets-underway.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uk-france-germany-as-transition-gets-underway.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae6a8da7-031f-4f6a-8706-76b1845676c5/d5243f3e-9afd-4d22-b217-b5218052c03e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Voting irregularities in deep red Michigan county under investigation after Biden lead there raises eyebrows"
-    excerpt: "But on Wednesday morning, results out of Antrim County showed Democratic presidential contender Joe Biden leading the county by more than 3,000 votes with 98% of the results in. Officials did not check the results before posting them, leading former state ..."
-    publishedDateTime: 2020-11-05T14:30:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/voting-irregularities-in-deep-red-michigan-county-under-investigation-after-biden-lead-there-raises-eyebrows"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/voting-irregularities-in-deep-red-michigan-county-under-investigation-after-biden-lead-there-raises-eyebrows?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/voting-irregularities-in-deep-red-michigan-county-under-investigation-after-biden-lead-there-raises-eyebrows?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 46
-  - title: "It Would Be Madness for Biden to Return to Iran Nuclear Deal"
-    excerpt: "This week's news that Iran has amassed a huge stockpile of enriched uranium beyond the limits it agreed to makes it all the more absurd that President-elect Joe Biden wishes to return the United States to the disastrous Iran nuclear deal."
-    publishedDateTime: 2020-11-13T12:25:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/13/it_would_be_madness_for_biden_to_return_to_iran_nuclear_deal_529178.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "mnck5Hnxt1JdEZZlW+3tMZprInhhWf4u9RkjhW6KiOpu4tYH4RN7eHFo/Fk/CvarmyDc660wJWCWL3N/z6NL/TOHrXgWaw4RPoCFSldYbPNHhGxe+ACiadfGpGTyfYEZtDosG3wsF2FQ7rRQNcXjkX345XeJeJ6OTYtefDdU3lX+KWY526hzVAwijzpjJRr+Z3NhfKe0u1AE8w9Gv3T3RERZFWQzP1qe9g7PQIcm3tKo7SxTps1mehH6l+LVt14jwWy1lXaUOMyA0kRbD0UMIjje00O74aBYFtz/8g0xo1dPTvJtlXc47vbJTZcpGa+SuJVHW4cUtAoDDeVp5i+19Ew/bZIR3n7Hm1pHtjB4hyM=;aF1Lcph7gQNbT14tEurCZg=="
 ---

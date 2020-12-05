@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Schumer calls Trump 'a moron' over coronavirus response"
-    excerpt: "Senate Minority Leader Charles Schumer (D-N.Y.) on Thursday said the federal government is failing to react appropriately to surging coronavirus cases around the country because President Trump is “a moron."
-    publishedDateTime: 2020-10-30T00:00:00Z
-    webUrl: "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show"
-    ampWebUrl: "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp"
+  - title: "Biden tells governors he’ll help states overcome coronavirus"
+    excerpt: "In a virtual meeting with governors, Joe Biden has expressed concern that President Donald Trump’s unprecedented attempt to block the peaceful transition of power at the White House has hindered the f"
+    publishedDateTime: 2020-11-19T16:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/schumercharles_102620gn5_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Here’s Why Trump And Cuomo Are Feuding Over A Coronavirus Vaccine"
-    excerpt: "Trump threatened to withhold a vaccine from New York after Cuomo repeatedly declared Trump's distribution plan and safety measures inadequate."
-    publishedDateTime: 2020-11-14T20:08:00Z
-    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb0383d7d6d2fcf305dc324%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5950%26cropY1%3D57%26cropY2%3D3479"
-        width: 1200
-        height: 690
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Donald Trump Jr tests positive for coronavirus – as it happened"
     excerpt: "President’s eldest son tested positive for Covid-19 earlier this week, spokesman said, and is fourth member of Trump family to contract virus"
@@ -95,99 +79,115 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump says coronavirus vaccine deliveries to begin next week"
-    excerpt: "U.S. President Donald Trump said on Thursday that delivery of the coronavirus vaccine would begin next week and the week after."
-    publishedDateTime: 2020-11-27T03:39:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-idUSKBN2862GY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2862GY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2862GY"
+  - title: "Biden to meet with U.S. workers hit by coronavirus pandemic"
+    excerpt: "President-elect Joe Biden on Wednesday will meet with American workers and business owners hit by COVID-19 as he prepares to confront the pandemic that has taken a heavy human and economic toll when he takes office next month."
+    publishedDateTime: 2020-12-02T11:30:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-workers-idUSKBN28C1GM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C1GM"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542596063&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1E5"
-        width: 899
-        height: 545
-        isCached: true
-  - title: "Scott Atlas resigns as special adviser to Trump on coronavirus"
-    excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump, a White House official said on Monday, after a controversial four months during which he clashed repeatedly with other members of the coronavirus task force."
-    publishedDateTime: 2020-12-01T01:43:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-atlas-idUSKBN28B3AS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542984625&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01U3"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543178895&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB10R3"
         width: 817
         height: 545
         isCached: true
-  - title: "Mike Pence will not quarantine after four aides test positive for coronavirus"
-    excerpt: "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said."
-    publishedDateTime: 2020-10-25T19:24:00Z
-    webUrl: "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
+  - title: "Coronavirus Is Surging Across The US So Mike Pence Held A Useless Briefing"
+    excerpt: "With coronavirus cases surging nationwide, experts fear another 150,000 Americans will die by in the next three months."
+    publishedDateTime: 2020-11-20T00:10:00Z
+    webUrl: "https://www.buzzfeednews.com/article/danvergano/coronavirus-surging-so-pence-briefing"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/danvergano/coronavirus-surging-so-pence-briefing"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/danvergano/coronavirus-surging-so-pence-briefing"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 122
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 123
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106758775-16034587192020-10-23t130410z_459438327_rc2doj9e42yw_rtrmadp_0_usa-election.jpeg?v=1603458769"
-        width: 2965
-        height: 1977
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-11/18/18/campaign_images/184616d5f766/31-cool-and-useful-gadget-gifts-for-the-person-wh-2-13464-1605725191-31_dblbig.jpg"
+        width: 625
+        height: 415
         isCached: true
-  - title: "Donald Trump stays silent as US sees record 2,804 coronavirus deaths in a day"
-    excerpt: "President fails to address national crisis, instead remaining focused on false voter fraud claims"
-    publishedDateTime: 2020-12-03T23:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?fbclid=IwAR3nVOmlemfsTlSWpYAhp6z54GuqiGlvzzwfF_6UdrJQZF_SboTdFIX9nl4"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
+  - title: "Biden urges Americans to be safe during holiday, fight coronavirus pandemic"
+    excerpt: "U.S. President-elect Joe Biden on Wednesday pleaded with Americans to take steps to remain safe as COVID-19 cases surge on the eve of the Thanksgiving holiday and pledged again to make combating the pandemic a top priority when he takes office in January."
+    publishedDateTime: 2020-11-25T22:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2851FD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2851FD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2851FD"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://i.guim.co.uk/img/media/9b7ad9168d5afd5172fc698f7ae4253e0db17dd4/0_0_2677_1607/master/2677.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b17cf0c766de2a5fef79401ceebd787d"
-        width: 600
-        height: 360
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542482301&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1SJ"
+        width: 818
+        height: 545
         isCached: true
-  - title: "Joe Biden lays out a detailed plan to fight coronavirus as new infections soar"
-    excerpt: "Biden's plan would effectively nationalize mask wearing, Covid-19 testing, PPE procurement, reopening guidelines and vaccine distribution."
-    publishedDateTime: 2020-10-23T21:54:00Z
-    webUrl: "https://www.cnbc.com/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
+  - title: "Biden says bipartisan coronavirus aid bill should be passed but will still need more"
+    excerpt: "President-elect Joe Biden said on Thursday a bipartisan coronavirus aid bill should be passed but that he will have to ask for more once in office."
+    publishedDateTime: 2020-12-04T07:32:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-biden/biden-says-bipartisan-coronavirus-aid-bill-should-be-passed-but-will-still-need-more-idUSW1N2HQ0GN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E08E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E08E"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 121
+      name: Reuters
+      domain: reuters.com
+    quality: 118
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106759351-16034839162020-10-23t193614z_543779170_rc2joj9bymez_rtrmadp_0_usa-election-biden.jpeg?v=1603483967"
-        width: 3500
-        height: 2314
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543406856&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB3042"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
-    excerpt: "Vice President Mike Pence's chief of staff and his senior political adviser have tested positive for COVID-19, according to reports."
-    publishedDateTime: 2020-10-25T10:16:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6028911002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6028911002"
+  - title: "From the coronavirus to the environment, Biden plans to take government in new direction"
+    excerpt: "A review of Biden's plans so far suggests that among his priorities will be tackling COVID-19, rolling back Trump actions, expanding on Obama initiatives."
+    publishedDateTime: 2020-11-24T21:05:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 116
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/bdbe1ab/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F54%2Fce%2Fbb2ca196c0e9e959721af595922e%2Fla-me-ln-road-closures-for-vice-president-bide-001"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Trump urges Congress to pass a 'big and focused' coronavirus relief bill in 1st stimulus comments since losing the election"
+    excerpt: "Despite divisions between Republicans and Democrats, Trump called on lawmakers to approve a stimulus package, saying they need to \"get it done!\""
+    publishedDateTime: 2020-11-14T17:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "'Hand in glove': President-elect Biden promises governors coordination in combatting coronavirus"
+    excerpt: "Governors noted it took eight months to distribute 100 million tests for the virus, but that distributing free vaccine in the coming months will require reaching 330 million Americans"
+    publishedDateTime: 2020-11-19T22:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/joe-biden-promises-governors-work-hand-glove-against-coronavirus/6341252002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6341252002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6341252002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 115
+    quality: 112
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/5341e1cb-b550-4252-bfb6-4885180b4482-biden_governors_1.jpg?auto=webp&crop=2999,1687,x0,y127&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -235,156 +235,58 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Scott Atlas resigns as special adviser to Trump on coronavirus -Fox News"
-    excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump on the coronavirus, Fox News reported on Monday, after a controversial four months at the White House in which he clashed repeatedly with other members of the task force responding to the deadly"
-    publishedDateTime: 2020-12-01T01:45:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-atlas-idUSW1N2HQ0F6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HQ0F6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HQ0F6"
+  - title: "Biden's team has made contact with Dr. Fauci, and the president-elect said he has been 'very, very helpful' in briefings with staff"
+    excerpt: "The contact between Fauci and Biden's team comes as the US may be entering the darkest stage yet of the coronavirus pandemic."
+    publishedDateTime: 2020-11-25T06:08:00Z
+    webUrl: "https://www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-  - title: "Multiple people in Vice President Mike Pence's orbit test positive for the coronavirus"
-    excerpt: "Vice President Mike Pence will not quarantine after multiple people in his orbit test positive for the coronavirus. Pence's press secretary says the vice president is essential personnel and will maintain his schedule."
-    publishedDateTime: 2020-10-26T12:35:00Z
-    webUrl: "https://www.cbsnews.com/video/multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/ea344a62-27f3-43f3-bc18-064eec3db129/thumbnail/1200x630/2b643b630ac6e7dca1e24427c4417fa2/cbsn-fusion-multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus-thumbnail-574507-640x360.jpg"
+      - url: "https://i.insider.com/5fbde6e132f2170011f71164?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Trump Let the Right Make Him the Herbert Hoover of the Coronavirus"
-    excerpt: "Perhaps we will look back at the 2020 election and conclude that Donald Trump, who was always going to be Donald Trump, never had a chance to beat an opponent who led him in virtually every poll ..."
-    publishedDateTime: 2020-10-26T15:54:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/10/donald-trump-lose-election-coronavirus-control-pandemic-masks-atlas.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/10/donald-trump-lose-election-coronavirus-control-pandemic-masks-atlas.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/10/donald-trump-lose-election-coronavirus-control-pandemic-masks-atlas.html"
+  - title: "Vice President Mike Pence delivers remarks at the White House Coronavirus Task Force briefing"
+    excerpt: "Vice President Mike Pence delivered remarks at the White House Coronavirus Task Force briefing today. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
+    publishedDateTime: 2020-11-19T22:31:00Z
+    webUrl: "https://www.cnbc.com/video/2020/11/19/vice-president-mike-pence-delivers-remarks-at-the-white-house-coronavirus-task-force-briefing.html"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
+      name: CNBC
+      domain: cnbc.com
+    quality: 94
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/c35/fbc/be3c8f77bbd298d4996104b93d272c6164-donald-trump.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
+      - url: "https://image.cnbcfm.com/api/v1/image/106799878-16058227011605822696-12530909175-1080pnbcnews.jpg?v=1605822700"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Mike Pence's chief of staff, top adviser both test positive for coronavirus"
-    excerpt: "Sources tell ABC News, Marc Short, Chief of Staff to the Vice President Mike Pence has tested positive for COVID-19. And top adviser Marty Obst has also tested positive for coronavirus earlier ..."
-    publishedDateTime: 2020-10-25T03:43:00Z
-    webUrl: "https://abc7.com/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
-    ampWebUrl: "https://abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
+  - title: "Why Joe Biden Needs Mitch McConnell to Govern"
+    excerpt: "Republicans on the Hill despised Obama but saw Biden as one of them. “There is a reason ‘Get Joe on the phone’ is shorthand for ‘Time to get serious’ in my office,” McConnell said in 2016."
+    publishedDateTime: 2020-11-19T03:15:00Z
+    webUrl: "https://time.com/5913168/why-joe-biden-needs-mitch-mcconnell/"
     type: article
     provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 73
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7316573_102420-ap-mike-pence-img.jpg"
-        width: 3422
-        height: 2281
-        isCached: true
-  - title: "VP Mike Pence to continue campaigning after chief of staff tests positive for coronavirus"
-    excerpt: "Pence spokesman Devin O’Malley said Pence and his wife, Karen Pence, both tested negative for the virus on Saturday."
-    publishedDateTime: 2020-10-25T03:34:00Z
-    webUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/"
-    ampWebUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
+      name: Time
+      domain: time.com
+    quality: 85
+  - title: "Pence speaks at first coronavirus task briefing in months"
+    excerpt: "Vice President Mike Pence spoke Thursday about the effort against the coronavirus at the first White House coronavirus task force press briefing since July."
+    publishedDateTime: 2020-11-19T22:56:00Z
+    webUrl: "https://www.firstcoastnews.com/video/news/health/coronavirus/pence-covid-19-task-force-briefing/507-91be02d4-bcf8-468a-9114-11aef56aeb14"
     type: article
     provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 66
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2020/10/Virus-Outbreak-Pence-16x9-1-1.jpg?w=1024&h=579"
-        width: 1024
-        height: 579
-        isCached: true
-  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
-    excerpt: "Vice President Mike Pence's chief of staff and his senior political adviser have tested positive for COVID-19, according to reports."
-    publishedDateTime: 2020-10-25T18:11:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/6028911002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6028911002"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Legendary Florida State coach Bobby Bowden says he beat coronavirus to vote for Donald Trump"
-    excerpt: "The Florida State coaching legend added another win to his career total, it just didn’t come on a football field. Bowden, 91, beat coronavirus. His motivation? He says it was so he could participate in the presidential election in November."
-    publishedDateTime: 2020-10-22T14:44:00Z
-    webUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html"
-    ampWebUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 64
-    images:
-      - url: "https://www.nydailynews.com/resizer/n86PgTsxzNsdGCH3r9bUqsW9kQo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7VS5ZK3VDHRSTYX6YFC7QYAD7A.aspx"
-        width: 1200
-        height: 816
-        isCached: true
-  - title: "Trump Spox Hogan Gidley Says He Doesn’t Want to ‘Quibble Over Semantics’ on WH Claim Trump Ended Coronavirus"
-    excerpt: "Hogan Gidley, press secretary for President Donald Trump's campaign, was grilled about the claim that one of Trump's accomplishments has been \"ending the Covid-19 pandemic,\" and responded by referring to the false claim as a matter of \"semantics."
-    publishedDateTime: 2020-10-28T22:34:00Z
-    webUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/"
-    ampWebUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 56
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Alisyn-Camerota-Hogan-Gidley-10-28.jpg"
-        width: 1200
-        height: 624
-        isCached: true
-  - title: "Trump's Controversial Coronavirus Advisor Resigns: Report"
-    excerpt: "One of President Donald Trump's favored coronavirus advisors who sparked controversy over his comments against mask-wearing and other issues has resigned, US media reported Monday. Fox News obtained the resignation letter dated December 1 for Scott Atlas,"
-    publishedDateTime: 2020-12-01T01:05:00Z
-    webUrl: "https://www.ibtimes.com/trumps-controversial-coronavirus-advisor-resigns-report-3091738"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: First Coast News
+      domain: firstcoastnews.com
     quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/30/dr-scott-atlas-pictured-october-one-of-president.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "North Carolina campaigns continue for Vice President Mike Pence after chief of staff tests positive for coronavirus"
-    excerpt: "Vice President Mike Pence will campaign in North Carolina Sunday after his chief of staff tested positive for the coronavirus."
-    publishedDateTime: 2020-10-27T20:14:00Z
-    webUrl: "https://www.wxii12.com/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
-    ampWebUrl: "https://www.wxii12.com/amp/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
-    cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
-    type: article
-    provider:
-      name: WXII12
-      domain: wxii12.com
-    quality: 53
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/1000-19-1603642733.jpeg?crop=1.00xw:0.846xh;0,0.0685xh&resize=1200:*"
-        width: 1000
-        height: 563
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/08b5c1f1-df3c-499e-8afe-df8b583772b3/08b5c1f1-df3c-499e-8afe-df8b583772b3_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "mRCyM66QE8Bckn7JwodeVSsQ+KS9MskURn42qVBsASWbqWXP/d1gtgeesq1Ri55FvOij6doQmR7aJxb2M4vnKH9Cx9aSg+I8E0bJRoa9Kgi1Gmw8wI4dYmqRcYnpMG7SltrYzpEvFCX0f/saLQLpWWwBID2GgJR9Ud+/OarfJXUhO0bqrCNrWXIi3Y4vqqVsWOjbcCIfhRLHybKtzSEW12L/8SObAJumrcGk+r1f0hCAUTNv79Y4Xg1PUnUKfXrkp00WXGfeTSWxKiBCfNMLoMU90ZqzatZ7Dad6b7I1CLNsGQ8ne64og9NXupwYPWml+Oheh0FMkF1slsyfZCBRCX/lX2uvsMsX0tlSNpUWo4M=;gQ4b/qk+dxzpzmDF1auRWw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-faces-economic-redline.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-faces-economic-redline.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump says coronavirus vaccine deliveries will start next week"
+    excerpt: "The comments come ahead of a Dec. 10 meeting where FDA regulators will review Pfizer and BioNTech's request for an emergency use authorization for their COVID-19 vaccine."
+    publishedDateTime: 2020-11-27T01:52:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7EpFURvqqUk/trump-says-coronavirus-vaccine-deliveries-will-start-next-week"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-coronavirus-vaccine-deliveries-will-start-next-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-coronavirus-vaccine-deliveries-will-start-next-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20331826533641.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Rep. Maxine Waters promises to retighten banking rules eased under Trump"
     excerpt: "House Financial Services Chair Maxine Waters said Thursday she plans to retighten financial regulations that were loosened under President Trump's administration, but House Democrats could have an uphill battle as their majority slips in the chamber."

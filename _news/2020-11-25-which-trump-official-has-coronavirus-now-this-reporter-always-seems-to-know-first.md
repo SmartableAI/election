@@ -31,53 +31,126 @@ images:
     isCached: true
 
 related:
-  - title: "Coronavirus live news: Donald Trump Jr tests positive as Mexico deaths pass 100,000"
-    excerpt: "Obrador rejects criticism as political attacks; Canada fears big rise in cases could overwhelm hospitals; Italy records 37,242 new cases"
-    publishedDateTime: 2020-11-21T00:44:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel?page=with:block-5fb849138f087f6ff1099dcf"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel"
+  - title: "Scott Atlas resigns as special adviser to Trump on coronavirus"
+    excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump, a White House official said on Monday, after a controversial four months during which he clashed repeatedly with other members of the coronavirus task force."
+    publishedDateTime: 2020-12-01T01:43:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-atlas-idUSKBN28B3AS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/143d5194599195ebb149ec008a26c09d7481351f/0_154_4256_2553/master/4256.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8c2b6bdcf1c94e3ecf7b746635d35ed3"
-        width: 600
-        height: 360
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542984625&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01U3"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Judge orders Trump administration to stop expelling unaccompanied migrant children at US-Mexico border"
-    excerpt: "A U.S. judge has barred the Trump administration from expelling unaccompanied migrant children detained at the border under an emergency health order."
-    publishedDateTime: 2020-11-19T09:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/18/judge-orders-us-stop-expelling-unaccompanied-migrant-children/3771858001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3771858001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3771858001"
+  - title: "Trump silent as UK is first to authorizes vaccine"
+    excerpt: "Despite his repeated efforts to take credit for the record pace at which scientists have developed a vaccine for the novel coronavirus, President Donald Trump was uncharacteristically silent Wednesday after the United Kingdom became the first nation to authorize a COVID-19 vaccine."
+    publishedDateTime: 2020-12-02T22:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/b6ca927b-2395-4a79-96c7-871c3f9b002d-AP_Immigration_Separated_Families.jpg?auto=webp&crop=2999,1687,x1,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/GMA/201202_gma_rulli1_0702_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "A federal judge ordered the Trump administration to stop deporting migrant children who cross the US-Mexico border alone"
-    excerpt: "The Trump administration policy has resulted in thousands of rapid deportations of minors during the coronavirus pandemic."
-    publishedDateTime: 2020-11-20T00:58:00Z
-    webUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
+  - title: "Trump fixated on his own political fate as virus kills record number of Americans"
+    excerpt: "President Donald Trump has remained largely absent on a pandemic of historic proportions, fixated on his political career."
+    publishedDateTime: 2020-12-04T23:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-fixated-political-fate-virus-kills-record-number/story?id=74536821"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-fixated-political-fate-virus-kills-record-number/story?id=74536821"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-fixated-political-fate-virus-kills-record-number/story?id=74536821"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/International/houston-icu-gty-rc-201130_1606744730935_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Rep. Matt Gaetz, a close Trump ally, says he's tested positive for coronavirus antibodies"
+    excerpt: "The Republican Florida lawmaker is one of Trump's staunchest defenders on Capitol Hill and is a fixture in conservative media."
+    publishedDateTime: 2020-11-08T00:16:00Z
+    webUrl: "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 100
+    quality: 116
     images:
-      - url: "https://i.insider.com/5fb546ef83df950018ac20df?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa6b3caf7d1cb0019e3a5f6?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Bowser pushes Trump administration to send more coronavirus vaccines for health-care workers"
+    excerpt: "In a letter, D.C.’s mayor says the city will be able to inoculate only a small number of its health-care workers because of a population-based distribution formula."
+    publishedDateTime: 2020-12-03T22:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LIOFX4RVUAI6XDJYNLVBVWZYHE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump has been distorting the military's role in work on a coronavirus vaccine from the very start"
+    excerpt: "The military has contributed mightily to the project, but it won't produce, store, distribute, or administer the vaccines."
+    publishedDateTime: 2020-11-30T23:00:00Z
+    webUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fc576ac50e71a0011558155?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Scott Atlas resigns as special adviser to Trump on coronavirus -Fox News"
+    excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump on the coronavirus, Fox News reported on Monday, after a controversial four months at the White House in which he clashed repeatedly with other members of the task force responding to the deadly"
+    publishedDateTime: 2020-12-01T01:45:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-atlas-idUSW1N2HQ0F6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HQ0F6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HQ0F6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+  - title: "Trump's Controversial Coronavirus Advisor Resigns: Report"
+    excerpt: "One of President Donald Trump's favored coronavirus advisors who sparked controversy over his comments against mask-wearing and other issues has resigned, US media reported Monday. Fox News obtained the resignation letter dated December 1 for Scott Atlas,"
+    publishedDateTime: 2020-12-01T01:05:00Z
+    webUrl: "https://www.ibtimes.com/trumps-controversial-coronavirus-advisor-resigns-report-3091738"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/30/dr-scott-atlas-pictured-october-one-of-president.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "7se8LPfkrsX792zEfCOwbKTvykiF8EvIXOGM7oUXqaVsHqzA1htxmLk/eoigCgv+NtOSgo41adNIDspJY3DBi9655yhSSQJ6JuaItSjGbmEruzcPVXgD2aDNm0jZPp0beN601s5gqGLa3TTTYqCMjpQilVcUG+NtnpfvnkQ1cIPW5y6p3+giMTGOdZDZyaWFOke2XqImGhOFE2rkxKTozDnDUtfoxbP47R+WnRgsk58s0nHGvLXkJcOb4RcOPj6XGlhLwYL+0Ru2eoNOq/VLAC7K0+KlVWrF9hDCFvgiqVOa2DQBLgMzKAacJuJn0+LqVqExIs3ZvKB6WQMyM44JnCjIBcE+0wACjdnp/eBINSyT1lHZULQXKdNIQql4hWFNnWqCvMLTow8pLl+qywx9dCkUV73lOQZkxbE8ZE83mw/OOKjT6UDsN+rKYyM39p/cMl/sUq2bEspZlqhmWkwFHMwEkN6B8wGMYvpYdypvf045MKoQkp6hUXI9S34AOVDNqcHSrTb47oSm+imJa7hI1Q==;Szzpjm3DYow6krH/YslYdw=="

@@ -27,51 +27,69 @@ images:
     isCached: true
 
 related:
-  - title: "Democrat in Greenwich 'ecstatic' Kamala Harris on cusp of being VP"
-    excerpt: "Joe Biden seemed poised on Friday to take Pennsylvania and, most likely, the presidency. The victory, if and when it comes, was applauded by local experts."
-    publishedDateTime: 2020-11-07T08:08:00Z
-    webUrl: "https://www.houstonchronicle.com/elections/article/The-writing-is-on-the-wall-Greenwich-and-15708337.php"
+  - title: "Kamala Harris' Indian ancestral village celebrates her victory as she becomes Vice President of the United States"
+    excerpt: "Thulasendrapuram, population 350, was the Indian home of Harris' maternal grandfather, P.V. Gopalan."
+    publishedDateTime: 2020-11-08T17:34:00Z
+    webUrl: "https://www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11?amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
     images:
-      - url: "https://s.hdnux.com/photos/01/15/11/41/20224098/13/rawImage.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
-  - title: "‘Everything is at stake’: Kamala Harris rallies Miami Dems in final early voting weekend"
-    excerpt: "Kamala Harris urged voters to choose the candidate that says ‘Black Lives Matter.’ Harris visited South Florida in a final swing through the state, where the latest polling shows a razor-thin margin between her running mate, former Vice President Joe ..."
-    publishedDateTime: 2020-10-31T14:30:00Z
-    webUrl: "https://www.bradenton.com/news/politics-government/election/article246845437.html"
-    ampWebUrl: "https://amp.bradenton.com/news/politics-government/election/article246845437.html"
-    cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/politics-government/election/article246845437.html"
-    type: article
-    provider:
-      name: Bradenton Herald
-      domain: bradenton.com
-    quality: 66
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/793e9f64-12cc-4895-b75e-19624c16d9ca/7d3fe203-cf75-49a5-a2ff-c7d83c285dd2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "‘Everything is at stake,’ Democratic VP candidate Kamala Harris tells supporters at Lehigh Valley drive-in rally"
-    excerpt: "Democratic vice presidential nominee Kamala Harris vowed Monday in Northampton County that she and Joe Biden would unite a polarized country, expand healthcare access and invest in working families if Pennsylvania voters help oust Donald Trump on Tuesday."
-    publishedDateTime: 2020-11-02T21:32:00Z
-    webUrl: "https://www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-presidential-election-kamala-harris-visit-dutch-springs-20201102-mk7ale6pknbafl5rsflqdrjtgi-story.html"
-    ampWebUrl: "https://www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-presidential-election-kamala-harris-visit-dutch-springs-20201102-mk7ale6pknbafl5rsflqdrjtgi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-presidential-election-kamala-harris-visit-dutch-springs-20201102-mk7ale6pknbafl5rsflqdrjtgi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 54
-    images:
-      - url: "https://www.mcall.com/resizer/ACiznIAwCTe5XlglrC6t_OWTMPs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q2NPYQZO6NBWNNODONLOG3ZS5Y.JPG"
+      - url: "https://i.insider.com/5fa821d11df1d500182197b6?width=1200&format=jpeg"
         width: 1200
-        height: 836
+        height: 600
+        isCached: true
+  - title: "‘Who would have thought?’: Kamala Harris’ win sparks joy in Bay Area Indian community"
+    excerpt: "Many Indian Americans couldn’t help but to feel giddy at how they recognized flickers of themselves in the new vice president. They were astonished to see a woman of Indian heritage ascend to the highest levels of the U."
+    publishedDateTime: 2020-11-10T00:57:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Who-would-have-thought-Kamala-Harris-15714433.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Who-would-have-thought-Kamala-Harris-15714433.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Who-would-have-thought-Kamala-Harris-15714433.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 68
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/14/47/20236766/5/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "Kamala Harris' husband Doug Emhoff breaks gender stereotypes by putting her career ahead of his as second gentleman"
+    excerpt: "Doug Emhoff, husband of Vice President-elect Kamala Harris, is quitting his job to be second gentleman, breaking gender and race stereotypes."
+    publishedDateTime: 2020-11-12T23:01:00Z
+    webUrl: "https://www.cincinnati.com/story/money/2020/11/12/kamala-harris-husband-second-gentleman-doug-emhoff-breaks-stereotypes/6227849002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/6227849002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6227849002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 53
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/b4f7d491-8820-4536-b3c3-3bdd42e2b92c-AP_Election_2020_Emhoff_2.jpg?auto=webp&crop=3938,2216,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "‘It’s our time’: Black and brown women around Connecticut celebrate the significance of Kamala Harris’s historic win"
+    excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
+    publishedDateTime: 2020-11-07T18:15:00Z
+    webUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html"
+    ampWebUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 52
+    images:
+      - url: "https://www.courant.com/resizer/qOKXf55_4C8rXb4ePwiMi_83rks=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7CNT4MHCOP3OTO4LRTOOOZMTH4.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "taleW9MjiR4lXqzjf+Sgpc7qRodBxphw4HXw1ryYqPpCHCBht617nTicvo7MeogLOyNMnAOsCa4hk9L+XnS1o6CVFapFZJ663M7aCfh6NqbYZ3HrEco2t+dv/1bf1w1nhWxfjXa53PWleMIe2XRpyAj7q+thVt77kZsJk7B3yevKS8WiJ84ku3CFxjePhauQ9MKrA35civOYthI+t5BjmzD+uS93jQKDFlX0CsD5iTF7NUIxoRM8+aCG/jj+Cjgh1GzZnbzHRLGwjzo8VCTAjKfZ1EOIf63zWamKbwVBYYo8b2D8xq3D2YDe+3SXebkIJs1sD5W86iEiY+9i7/NV54AqJkTT7lBHty14ZV9QGU4=;dbIESpszi7Ark9sZAXn/Rg=="

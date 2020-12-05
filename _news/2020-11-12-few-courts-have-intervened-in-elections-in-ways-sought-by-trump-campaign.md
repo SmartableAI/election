@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Message of Election 2020: Trump lost, but Trumpism did not"
+    excerpt: "In a typical election year, Biden would have carried other Democrats along with him. Instead, several promising Democratic Senate and House candidates, including incumbents, lost."
+    publishedDateTime: 2020-11-08T08:39:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vkoCvENUwUs/message-of-election-2020-trump-lost-but-trumpism-did-not"
+    ampWebUrl: "https://www.foxnews.com/politics/message-of-election-2020-trump-lost-but-trumpism-did-not.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/message-of-election-2020-trump-lost-but-trumpism-did-not.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/PA-State-Capitol-Stairs-AP-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "McConnell backs Trump legal fight in election results"
     excerpt: "The Trump campaign has mounted legal challenges and alleged voting irregularities or outright fraud in several states."
     publishedDateTime: 2020-11-09T21:47:08Z
@@ -47,70 +63,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6057d5f-dd82-42f4-8fe6-9d5d8da50365/fd86e58d-8190-42a5-98f1-d3e7f3fdd002/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Live Updates: McConnell backs Trump legal fight in election results"
-    excerpt: "Senate Majority Leader Mitch McConnell backed the Trump campaign’s legal challenge of voting results in several battleground states on Monday in his first public comments on the floor since Election Day."
-    publishedDateTime: 2020-11-10T03:26:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhVVfdnuOxE/live-updates-mcconnell-backs-trump-legal-fight-in-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-mcconnell-backs-trump-legal-fight-in-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mcconnell-backs-trump-legal-fight-in-election-results.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c008d21d-d7d5-4ea0-b56d-07090579f222/1f5d28f4-cedf-4547-8612-5a42e025facd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "McCarthy expects four more years for Trump after 'a very strong' election night"
-    excerpt: "House Minority Leader Rep. Kevin McCarthy, R-Calif., praised the work President Trump has done for the country and the Republican party, and predicted that after the final vote counts are complete the president will be reelected."
-    publishedDateTime: 2020-11-04T18:52:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GjTHXjzI8tA/mccarthy-expects-four-more-years-for-trump-election"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-expects-four-more-years-for-trump-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-expects-four-more-years-for-trump-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 186
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Biden camp seeks $30M in 'fight funds' to take on Trump's lawsuits"
-    excerpt: "President-elect Joe Biden's campaign is fundraising to fight the Trump campaign's legal efforts, vowing to \"re-launch\" its \"fight fund\" even as Biden has tried to downplay his opponent's lawsuits."
-    publishedDateTime: 2020-11-11T03:36:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FkIiNtD8eG8/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Turley: Trump election challenges 'long on allegations and rather short on evidence'"
-    excerpt: "President Trump’s legal challenges in several battleground states are “long on allegations and rather short on evidence,” constitutional law expert Jonathan Turley told “Fox & Friends” on Monday."
-    publishedDateTime: 2020-11-16T20:14:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/syhQIuAl_-s/trump-election-challenges-allegations-short-evidence-turley"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-election-challenges-allegations-short-evidence-turley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-election-challenges-allegations-short-evidence-turley.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Nevada election worker alleges voting irregularities, Trump campaign submits affidavit to DOJ"
     excerpt: "The election worker, whose name was redacted, said they “had concerns over election polling place and intimation and voter fraud.\""
@@ -128,38 +80,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Live Updates: Trump criticizes John Bolton for pushing election loss as legal fight continues"
-    excerpt: "President Trump lashed out at John Bolton on Sunday, calling him \"one of the dumbest people in government\" after the former national security adviser urged GOP Party leaders to accept the 2020 election results and encourage their supporters to acknowledge defeat."
-    publishedDateTime: 2020-11-16T03:38:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TduFhXP3qp8/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/611b5cbb-9cd7-4082-9611-1385fd545d2f/738cc2f8-7874-41bf-94fd-c9541438954a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Election 2020 legal battles take shape as Trump campaign files lawsuits in key battleground states"
-    excerpt: "As expected, the 2020 presidential campaign season has evolved into a post-election battle consisting of legal challenges in crucial battleground states as President Trump's campaign attempts to prevent the counting of ballots they allege are or could be invalid."
-    publishedDateTime: 2020-11-05T14:46:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4fdXPQfexRc/election-2020-legal-battles-trump-campaign-lawsuits-battleground-states"
-    ampWebUrl: "https://www.foxnews.com/politics/election-2020-legal-battles-trump-campaign-lawsuits-battleground-states.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-2020-legal-battles-trump-campaign-lawsuits-battleground-states.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24d1edb3-5012-4e50-9dee-37b68264fb37/23ee445b-9b29-4177-8443-ca7e45d0845a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Live Updates: Bipartisan group urges Trump administration to begin post-election transition process"
     excerpt: "The Center for Presidential Transition advisory board is urging the Trump administration to move forward “to immediately begin the post-election transition process.”"
     publishedDateTime: 2020-11-09T04:58:25Z
@@ -176,101 +96,133 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Giuliani says Trump won't concede amid legal challenges"
-    excerpt: "President Trump wouldn’t concede the election at this point and the race is “far from over,” Rudy Guiliani said Saturday at a news conference in Philadelphia."
-    publishedDateTime: 2020-11-08T10:59:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScCCiaiEkaA/giuliani-says-trump-wont-concede-amid-legal-cahllenges"
-    ampWebUrl: "https://www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp"
+  - title: "Lindsey Graham: Democrats 'could give a damn' about election law and precedent, so long as Trump lost"
+    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., said Monday that many Democrats don't care about following election laws or precedents as long as their candidate wins or their enemy candidate loses."
+    publishedDateTime: 2020-11-10T03:54:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zsMelNt0XSc/lindsey-graham-democrats-could-give-a-damn-about-election-law-and-precedent-so-long-as-trump-lost"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-democrats-could-give-a-damn-about-election-law-and-precedent-so-long-as-trump-lost.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-democrats-could-give-a-damn-about-election-law-and-precedent-so-long-as-trump-lost.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20312640775001.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2979f22e-6f42-409c-8a95-2f55a0223c7c/d16b46e6-ef8c-4966-a6b0-c7027078999b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump faith adviser Bishop Harry Jackson dead at 66"
-    excerpt: "Bishop Harry Jackson Jr., a Maryland pastor and unofficial faith adviser for President Trump, died Monday at age 66, his church announced."
-    publishedDateTime: 2020-11-10T15:48:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8yMpCcQqhy4/bishop-harry-jackson-jr-dead-white-house-faith-adviser"
-    ampWebUrl: "https://www.foxnews.com/politics/bishop-harry-jackson-jr-dead-white-house-faith-adviser.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bishop-harry-jackson-jr-dead-white-house-faith-adviser.amp"
+  - title: "In letter to Trump, GOP lawmaker pushes for withdrawal of US troops"
+    excerpt: "House Freedom Caucus Chairman Rep. Andy Biggs, R-Ariz., is calling on the Trump administration to \"strategically\" withdraw U.S. forces from Iraq and Afghanistan."
+    publishedDateTime: 2020-11-12T20:17:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QcqpdQ1asVQ/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops"
+    ampWebUrl: "https://www.foxnews.com/politics/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-Bishop-Harry-Jackson-Trump.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/ANDY-BIGGS-Getty.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump and GOP continue legal challenges to election results, ask media to investigate fraud allegations"
-    excerpt: "The Trump campaign and GOP leadership on Monday continued to raise allegations of voter fraud and misconduct at the polls last week as it marches forward with its legal challenges despite facing long odds given the Electoral College tally and recent court rulings that found no evidence of widespread"
-    publishedDateTime: 2020-11-09T23:26:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zo3njD7jJxU/trump-and-gop-continue-legal-challenges-to-election-results-ask-media-to-investigate-fraud-allegations"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-and-gop-continue-legal-challenges-to-election-results-ask-media-to-investigate-fraud-allegations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-gop-continue-legal-challenges-to-election-results-ask-media-to-investigate-fraud-allegations.amp"
+  - title: "Obama defends campaign-trail attacks on Trump: 'I was just stating facts'"
+    excerpt: "Former President Barack Obama defended his attacks on President Trump amid his return to politics in a CBS interview released on Sunday."
+    publishedDateTime: 2020-11-15T19:13:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oeoVHuk5zhg/obama-trump-campaign-trail-biden-president"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-trump-campaign-trail-biden-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-campaign-trail-biden-president.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Obama-Biden-Flint-Michigan-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Starr on Trump legal challenges: 'Allow this litigation to run its course'"
-    excerpt: "Kenneth Starr, former Whitewater independent counsel, and Laurence Tribe, constitutional law professor at Harvard, sparred on Sunday over President Trump's legal challenges in several battleground states, with Starr wanting to allow the \"litigation to run its course\" and Tribe arguing that \"it's time"
-    publishedDateTime: 2020-11-15T18:47:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeBQ4A35NWk/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday"
-    ampWebUrl: "https://www.foxnews.com/politics/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday.amp"
+  - title: "AOC, others pushing for apparent blacklist of people who worked with Trump"
+    excerpt: "Rep. Alexandria Ocasio-Cortez and others have encouraged the creation of an apparent blacklist of people who helped President Trump during his time in office."
+    publishedDateTime: 2020-11-09T23:55:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cwGgoelybYM/aoc-blacklist-trump-supporters"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-blacklist-trump-supporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-blacklist-trump-supporters.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Graham announces $500G donation to Trump campaign legal efforts, calls Philly elections 'crooked as a snake'"
-    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., told \"Hannity\" Thursday he will donate $500,000 to the Trump campaign's legal efforts to challenge election procedures in multiple states, including Pennsylvania, Michigan and Nevada."
-    publishedDateTime: 2020-11-06T03:49:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nxWRMPh47O8/lindsey-graham-500g-donation-trump-2020-campaign-legal-challenges"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-500g-donation-trump-2020-campaign-legal-challenges.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-500g-donation-trump-2020-campaign-legal-challenges.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5aacad1b-b0c8-4767-a254-2dabd28652d0/cc0ff55e-314b-496d-ac6b-875de189991a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump campaign files lawsuit in Arizona alleging Maricopa County rejected ballots by in-person voters"
-    excerpt: "The Trump campaign and the Republican National Committee on Saturday filed a lawsuit in Arizona alleging that Maricopa County incorrectly rejected votes cast by in-person voters on Election Day, just hours after the 2020 presidential race was called in favor of Joe Biden."
-    publishedDateTime: 2020-11-07T23:29:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XW5DTKRSAa4/trump-campaign-files-lawsuit-in-arizona-alleging-maricopa-county-rejected-votes-by-in-person-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-files-lawsuit-in-arizona-alleging-maricopa-county-rejected-votes-by-in-person-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-files-lawsuit-in-arizona-alleging-maricopa-county-rejected-votes-by-in-person-voters.amp"
+  - title: "Democrats are struggling to extinguish the ‘Trump effect’ once and for all"
+    excerpt: "Democrats harbored aspirations of a Democratic House, Democratic Senate and Joe Biden in the White House."
+    publishedDateTime: 2020-11-10T17:03:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TZ65QrixcPU/democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "New Pentagon adviser could push US troop withdrawals before Trump’s departure"
+    excerpt: "President Trump’s flurry of November changes at the Pentagon could have U.S. troops home from Afghanistan by Christmas, if one new adviser gets his way."
+    publishedDateTime: 2020-11-12T00:22:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/38uX1nJm9Vo/new-pentagon-adviser-troop-withdrawals-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/new-pentagon-adviser-troop-withdrawals-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-pentagon-adviser-troop-withdrawals-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/jennifer-griffin-99438.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Rubio, defeated in 2016 presidential bid, says Trump would be frontrunner in 2024"
+    excerpt: "Sen. Marco Rubio, who lost to President Trump in his 2016 White House bid, said Trump would likely clear the field again if he needed to run for a comeback second term in 2024."
+    publishedDateTime: 2020-11-11T00:08:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7no2jXBuGVE/rubio-says-trump-would-again-be-frontrunner-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/rubio-says-trump-would-again-be-frontrunner-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-says-trump-would-again-be-frontrunner-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb29866c-2b95-48fc-a56b-01a88cc60f21/126b8d97-2ce4-4707-9d37-9343a2d7451d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump Allies Push Forward With Election Lawsuits"
+    excerpt: "Litigation filed by the Trump campaign and other Republicans has shown little prospect of turning the tide so far, and legal experts from both parties described the efforts as a last stand."
+    publishedDateTime: 2020-11-07T06:06:00Z
+    webUrl: "https://www.wsj.com/articles/trump-allies-push-forward-with-election-lawsuits-11604699544?mod=business_minor_pos4"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-256340/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump Family Business Faces Post-Election Reckoning"
     excerpt: "When President Trump leaves the White House in January, he will face some of the deepest financial and legal challenges in his family business empire in decades."
@@ -288,33 +240,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Byron Donalds, new Florida congressman, says Trump’s ‘swag’ netted him Black votes"
-    excerpt: "Byron Donalds, the incoming congressman from Florida's 19th Congressional District, credits President Trump's gains with Black voters to his \"swag\" and said Republican House members will need to channel that attitude to effectively take on the House Democratic Squad."
-    publishedDateTime: 2020-11-16T11:44:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I8zSI8Zxa74/byron-donalds-florida-trump-swag"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 149
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Byron-Donalds-FOX.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump Campaign, Allies Face Legal Setbacks in Michigan, Arizona, Pennsylvania Election Suits"
-    excerpt: "A state judge in Michigan denied a bid by a conservative legal group to block the certification of election results and force an independent audit of votes in Detroit, calling the allegations of misconduct and voter fraud “incorrect and not credible."
-    publishedDateTime: 2020-11-13T22:57:00Z
-    webUrl: "https://www.wsj.com/articles/michigan-judge-denies-conservative-group-s-request-to-delay-detroit-election-certification-11605295879"
-    ampWebUrl: "https://www.wsj.com/amp/articles/michigan-judge-denies-conservative-group-s-request-to-delay-detroit-election-certification-11605295879"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/michigan-judge-denies-conservative-group-s-request-to-delay-detroit-election-certification-11605295879"
+  - title: "Trump Remade the GOP. Now What?"
+    excerpt: "President Trump, despite losing re-election, is poised to remain a powerful influence on a Republican Party he helped shift from one rooted in a decades-old style of conservatism to populism and nationalism."
+    publishedDateTime: 2020-11-10T02:16:00Z
+    webUrl: "https://www.wsj.com/articles/trump-remade-the-gop-now-what-11604956604"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 139
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-259583/social"
+      - url: "https://images.wsj.net/im-257077/social"
         width: 1280
         height: 640
         isCached: true
@@ -333,6 +271,22 @@ related:
       - url: "https://images.wsj.net/im-258041?width=620&size=1.5"
         width: 620
         height: 413
+        isCached: true
+  - title: "More New Yorkers Voted for Donald Trump in 2020 Than in 2016"
+    excerpt: "The Republican president received tens of thousands more votes in New York City in the 2020 presidential election than in 2016, and some of his largest gains came from the South Bronx."
+    publishedDateTime: 2020-11-12T13:05:00Z
+    webUrl: "https://www.wsj.com/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
+    ampWebUrl: "https://www.wsj.com/amp/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-258710/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump Faces Legal Cases After White House Departure"
     excerpt: "Trump is set to lose protections of the presidency as he deals with a criminal investigation in Manhattan, a New York state attorney general civil probe into alleged fraud and multiple lawsuits."
@@ -410,47 +364,31 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Trump Administration Takes Final Steps to Auction Drilling Rights in Arctic Wildlife Refuge"
-    excerpt: "The Interior Department is taking final steps to secure oil development in the 19-million-acre Alaskan wilderness by initiating a leasing process to strike deals with drillers before President-elect Joe Biden can stop it."
-    publishedDateTime: 2020-11-16T18:40:00Z
-    webUrl: "https://www.wsj.com/articles/trump-administration-takes-final-steps-to-auction-drilling-rights-in-arctic-wildlife-refuge-11605551187"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-takes-final-steps-to-auction-drilling-rights-in-arctic-wildlife-refuge-11605551187"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-takes-final-steps-to-auction-drilling-rights-in-arctic-wildlife-refuge-11605551187"
+  - title: "David Bossie, Head of Trump Post-Election Legal Effort, Tests Positive for Covid-19"
+    excerpt: "David Bossie, a longtime confidant of President Trump whom the campaign tapped last week to lead its post-election legal efforts, tested positive for Covid-19 on Sunday, according to a person familiar with the matter."
+    publishedDateTime: 2020-11-09T22:42:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/21mW1Po8Ra84Lc7dNmy5"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://images.wsj.net/im-260604/social"
+      - url: "https://images.wsj.net/im-256456?size=1.5"
         width: 1280
-        height: 640
+        height: 853
         isCached: true
-  - title: "Trump Campaign to Request a Recount in Wisconsin"
-    excerpt: "Trump campaign manager Bill Stepien said Wednesday afternoon the campaign would request a recount in Wisconsin, calling it a “razor thin race.” The margin to request a recount in the state is 1% or less and President Trump is currently within that margin,"
-    publishedDateTime: 2020-11-04T18:30:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/gkQ7ufOZiV7oNv7vHdLG"
+  - title: "Trump Fundraising for Legal Challenges Would Also Pay Down Debt"
+    excerpt: "President Trump is racing to raise money for an “official election defense fund.” But the fine print on the solicitations tells a different story: Half -- or more -- of any contribution will be used to retire debt from his re-election campaign."
+    publishedDateTime: 2020-11-07T00:09:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/zU0rMlE7ltxzuW4lIwai"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 115
     images:
-      - url: "https://images.wsj.net/im-254760/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "McConnell Backs Court Challenges; Toomey Says Trump Was 'Hard to Watch'"
-    excerpt: "Senate Majority Leader Mitch McConnell (R., Ky.) backed President Trump’s legal challenges to vote counting still under way in the presidential election Friday, but did not second his unsubstantiated claim that the election was rigged against him."
-    publishedDateTime: 2020-11-07T02:24:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/x7emWiaqiV0SQ6jnMhnJ"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "https://images.wsj.net/im-256198?size=1.5"
+      - url: "https://images.wsj.net/im-256696?size=1.5"
         width: 1280
         height: 853
         isCached: true
@@ -468,10 +406,10 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "GOP Leader McCarthy Backs Trump's Legal Challenges to Vote Counts"
-    excerpt: "House Minority Leader Kevin McCarthy expressed support Sunday for the Trump campaign’s legal challenges to the presidential election results, joining other Republican lawmakers who have taken a similar stance."
-    publishedDateTime: 2020-11-08T20:13:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/M5Du9vmqlx2n4E2ZgO6O"
+  - title: "Trump Back at Golf Course Sunday"
+    excerpt: "President Trump returned Sunday morning to his golf club in Sterling, Va. Mr. Trump arrived at Trump National Golf Club at 9:57 a.m. He also golfed Saturday, arriving just before the Associated Press called the race for Joe Biden."
+    publishedDateTime: 2020-11-08T20:26:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/5PLvEGpb57Jc98fhfCnk"
     type: article
     provider:
       name: Wall Street Journal

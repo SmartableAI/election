@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/01/us-election-202
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 145
+published: true
 
 provider:
   name: The Guardian
@@ -31,69 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Julian Assange's partner appeals to Trump to pardon him"
-    excerpt: "Julian Assange’s partner, Stella Moris, has tweeted President Donald Trump on Thanksgiving, appealing to him to pardon the WikiLeaks founder"
-    publishedDateTime: 2020-11-26T16:50:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520"
+  - title: "Sean Hannity says Trump should pardon himself and his family to avoid a ‘witch hunt.’ Experts say it’s not that simple."
+    excerpt: "Five days after President Trump pardoned his former national security adviser Michael Flynn, Fox News host and Trump ally Sean Hannity offered a suggestion on Monday about who the president should pardon next: himself and his family."
+    publishedDateTime: 2020-12-01T16:13:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/01/hannity-trump-self-pardon/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
     images:
-      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Rudy Giuliani talked to Trump about getting a preemptive pardon before the president leaves office, report says"
-    excerpt: "Giuliani is the focus of a federal criminal investigation into whether he violated foreign lobbying laws through his dealings in Ukraine."
-    publishedDateTime: 2020-12-01T15:49:00Z
-    webUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/5fb7b84b32f2170011f7040d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Yes, Trump can pardon himself — but it's a risky move that won't protect him from all prosecutions he could face"
-    excerpt: "If the president were to issue himself a pardon before leaving office, it would likely be construed as an admission of guilt."
-    publishedDateTime: 2020-11-26T17:45:00Z
-    webUrl: "https://www.businessinsider.com/can-trump-pardon-himself-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/can-trump-pardon-himself-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/can-trump-pardon-himself-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5fbfc93a50e71a00115578df?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump attorney Rudy Giuliani coming to Michigan to give testimony on 2020 election"
-    excerpt: "Rudy Giuliani, attorney for President Donald Trump, is coming to Michigan Wednesday to address a legislative committee probing Michigan’s 2020 election process."
-    publishedDateTime: 2020-12-01T16:19:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/12/trump-attorney-rudy-giuliani-coming-to-michigan-to-give-testimony-on-2020-election.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/12/trump-attorney-rudy-giuliani-coming-to-michigan-to-give-testimony-on-2020-election.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/12/trump-attorney-rudy-giuliani-coming-to-michigan-to-give-testimony-on-2020-election.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 84
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OUA5RKJTANEJLMY2CFI2PWMQZI.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RDK2IJVBFMI6VPQGV5KRJ3QDQU.jpg&w=1440"
+        width: 1440
+        height: 942
         isCached: true
 
 secured: "y8T9dnFVcDlBIQGa+Z7v0qibv46vCUmBmyksOAv6Mqk3lDqotEu9164t4PpPyuFDcnUqJRL5/zjo37gw7JXPdbICRcbiwaCNy6mUwoWDtwRNIdwtLxU3sl+DHAFmnbB2CZa391RNDRP5OW7w/XXouUX34L4lI7R5n+uFefrUQBR5drTrl5E/M/oWTht0X/B3gi0R89TP2Wvl0QwmRltADzxylXZViyIRv+X9k/37N2zQYcVRzrQ1pefx461isYH3dHaWVO8UJqJOBQukgdIPvFvGkbJF3+rYOLAzul0cdvLvFHPqiZ4ISdFpQ4odyK7h4vLmiSHaQCTuXgNDYlmphmUOkldAV/RMOv/wBw4S1NI=;QA1Y21GzBEDHxlOUCefI0A=="

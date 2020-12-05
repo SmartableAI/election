@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Rudy Giuliani is reportedly taking charge in Trump's election legal battles — and Twitter is having a field day with it"
-    excerpt: "\"Rudy will soon be appealing all of these adverse rulings to the Supreme Courtyard by Marriott,\" one person tweeted."
-    publishedDateTime: 2020-11-14T07:21:00Z
-    webUrl: "https://www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taking-over-trumps-election-lawsuits-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taking-over-trumps-election-lawsuits-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taking-over-trumps-election-lawsuits-2020-11?amp"
+  - title: "Justice Dept. meets Trump, Giuliani vote-fraud claims with silent skepticism"
+    excerpt: "The Justice Department has met President Trump’s fantastical claims of widespread voter fraud with two weeks of skeptical silence, not taking any overt moves to investigate what Trump’s lawyer, Rudolph W."
+    publishedDateTime: 2020-11-21T22:18:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
     images:
-      - url: "https://i.insider.com/5faf7e29402d49001924efb8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IUUPVKBMAMI6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 959
         isCached: true
   - title: "Infighting and an attempted 'coup': Trump team erupts into chaos as Giuliani takes over legal efforts"
     excerpt: "President Trump's campaign and legal teams have descended into chaos behind the scenes as many brace for the end of the post-election fight."
@@ -62,38 +62,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/giuliani-pa--02-rt-iwb-201109_1604928722820_hpMain_2_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Rudy Giuliani releases politics video pausing for a sponsored cigar commercial and blaming Fox News for Trump's defeat"
-    excerpt: "In the YouTube series, entitled 'Rudy Giuliani's Common Sense,' Donald Trump's personal attorney discusses political issues and current affairs weekly."
-    publishedDateTime: 2020-11-07T18:32:00Z
-    webUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency"
-    ampWebUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5fa6c6f21df1d50018219713?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Join us at 1 PM ET Thursday for a chat with Insider politics reporter Tom LoBianco about what's next for Republicans — and Trump"
-    excerpt: "The first clear gauge of Trump's power as an outgoing president will be a pair run-off special elections for the Senate in Georgia."
-    publishedDateTime: 2020-11-10T22:15:00Z
-    webUrl: "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021"
-    ampWebUrl: "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/5fab0b3df7d1cb0019e3b003?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "XFz0RT+hOV20Z8D1rfyhKeQ3p80VEKXtQ92zFiT0k7KVbvA3r/VgWRdZGTGLjlrRRng3YVr5hKSSbmfx+NRoaCdlGNghibmWkkz/zV0diE3VTTxkpT89sfX5Hr6aoYQPc/0GVMcLsnL1N5rjR7prmHq33xM5oXec/auVOuNEU5iSUzv8iqerjk13bh75yGDsPSawuuJMNyekPZHgsEmORgD3Lo5+w7euDXWAa/KTkTn7zfARcJiDA3J9MWSR8XSgjZujd2neegRRIfL2Yq8L0ORgr7nTFSnlySn+VcOgzN4rMTKhb6FHIFr2iEqtL4hpm3Iw5dBr5+Wanr/rgeDsbTeabYc3/XF4dte/a9sDxRsU3ST02aw/ESeYMEWG1ZO29Cm0AmjTbfSrU1IbvXtqbe0YJYNh2Sq74NuquSjHhxIiA4j2eVd8Bxepe0pNT6auEWVdHfqcL8T/mLBRbgEJ1nViuM5iv0xdk8yBzbVVAIJgyVmqu8GC9j50pmjSOLNjG+nr5mQlldm8sn2dQIQUqw==;vTgz675w6DrfxBVmpb1WxQ=="

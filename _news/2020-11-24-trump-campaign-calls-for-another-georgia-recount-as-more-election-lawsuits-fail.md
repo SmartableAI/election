@@ -29,357 +29,517 @@ images:
     isCached: true
 
 related:
-  - title: "Georgia certifies election results, making Biden victory official"
-    excerpt: "Georgia certified the general election Friday, officially making President-elect Biden the victor. The Trump campaign has until Tuesday to request a recount."
-    publishedDateTime: 2020-11-21T03:50:00Z
-    webUrl: "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
+  - title: "Angry at election defeat, Trump seeks partial recount in Wisconsin"
+    excerpt: "President Donald Trump's re-election campaign said on Wednesday it was seeking a partial recount of Wisconsin's presidential election results, as part of its long-shot attempt to reverse President-elect Joe Biden's victory."
+    publishedDateTime: 2020-11-18T23:38:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/wisconsin-to-hold-partial-vote-recount-as-fuming-trump-denies-defeat-idUSKBN27V05A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0G6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0G6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541639787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH155"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump influence seen in deadlock of Michigan election board"
+    excerpt: "President Donald Trump's efforts to sow doubt about the election seem to have played a role in a move by two Michigan Republicans to block certification of election results from Detroit"
+    publishedDateTime: 2020-11-20T17:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/raffensperger1-ap-ml-201120_1605881698070_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_14be807cc03a49eba1b405df722af843_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Georgia Secretary of State certifies election for Joe Biden"
-    excerpt: "Georgia’s top elections official has certified results showing Democrat Joe Biden won the presidential race in the state"
-    publishedDateTime: 2020-11-21T03:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
+  - title: "Arizona, Wisconsin certify election; Trump may challenge results"
+    excerpt: "President Donald Trump has challenged results in several states but faced setbacks in many of those legal battles."
+    publishedDateTime: 2020-12-01T07:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6462445002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6462445002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/a4f30290-dae6-438d-bac6-9a31bad382f3-AFP_AFP_8UN26Z.jpg?auto=webp&crop=1023,575,x0,y77&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Trump files lawsuit challenging Wisconsin election results"
+    excerpt: "President Donald Trump has filed a lawsuit in Wisconsin seeking to disqualify more than 221,000 ballots in a longshot attempt to overturn Democrat Joe Biden’s win in the battleground state he lost by nearly 20,"
+    publishedDateTime: 2020-12-03T03:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-files-lawsuit-challenging-wisconsin-election-results-74482066"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-files-lawsuit-challenging-wisconsin-election-results-74482066"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-files-lawsuit-challenging-wisconsin-election-results-74482066"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c2dc6b238d6848fea993f5423697ffc3_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ecb141ae0fee4d9cb0135cedf36c24f9_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Georgia’s secretary of state certifies election win for Joe Biden"
-    excerpt: "Georgia’s top elections official, Brad Raffensperger, certified results showing Joe Biden won his state's presidential vote after a hand tally."
-    publishedDateTime: 2020-11-21T05:51:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-11-20/georgia-secretary-of-state-to-certify-election-for-biden"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-20/georgia-secretary-of-state-to-certify-election-for-biden?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-20/georgia-secretary-of-state-to-certify-election-for-biden?_amp=true"
+  - title: "Wisconsin high court declines to hear Trump election lawsuit"
+    excerpt: "A divided Wisconsin Supreme Court has refused to hear President Donald Trump’s attempt to overturn his election loss to Democrat Joe Biden in the battleground state"
+    publishedDateTime: 2020-12-04T02:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/wisconsin-high-court-declines-to-hear-trump-election-lawsuit/2020/12/03/ff896c72-35d4-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-high-court-declines-to-hear-trump-election-lawsuit/2020/12/03/ff896c72-35d4-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-high-court-declines-to-hear-trump-election-lawsuit/2020/12/03/ff896c72-35d4-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Wisconsin Supreme Court rebuffs Trump challenge to election results"
+    excerpt: "The Wisconsin Supreme Court on Thursday declined to take up a case by U.S. President Donald Trump's campaign challenging the Nov. 3 presidential election results in the state, the latest in a string of losses the campaign has suffered."
+    publishedDateTime: 2020-12-04T00:40:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-wisconsin-idUKKBN28D33B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28D33B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28D33B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543373293&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21Q6"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Wisconsin Supreme Court rejects Trump's election lawsuit"
+    excerpt: "The action comes two days after Trump asked the justices to revoke the certification of a contest he lost by nearly 21,000 votes."
+    publishedDateTime: 2020-12-03T18:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/03/wisconsin-supreme-court-rejects-president-trumps-election-lawsuit/3811754001/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/3811754001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3811754001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/27/PMJS/f9ab9df3-3150-4d37-97fc-d3f88f643340-trump_10.jpg?auto=webp&crop=4876,2743,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump election campaign asks judge to declare him winner in Pennsylvania"
+    excerpt: "President Donald Trump's election campaign on Wednesday asked a judge to declare him the winner in Pennsylvania, saying the state's Republican-controlled legislature should select the electors that will cast votes in the U."
+    publishedDateTime: 2020-11-19T09:54:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-pennsylvania-idUKKBN27Y2UM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y2UM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y2UM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541708491&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI04B"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump sues Wisconsin governor, officials to try to reverse election results"
+    excerpt: "President Donald Trump sued Wisconsin officials Tuesday in a last-ditch effort to reclaim a state he lost by about 20,700 votes."
+    publishedDateTime: 2020-12-01T16:47:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/01/donald-trump-sues-try-reverse-bidens-election-win-wisconsin/6477315002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6477315002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6477315002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 138
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/PMJS/a22167b5-40a6-449c-b7d2-471b660b7260-MJS-recount_dirr_1.jpg?auto=webp&crop=1919,1079,x1,y197&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump team and Pennsylvania election officials clash in federal court filings"
+    excerpt: "Lawyers for President Donald Trump and those representing Pennsylvania election officials clash in federal court filings."
+    publishedDateTime: 2020-11-13T04:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-team-pennsylvania-election-officials-clash-federal-court/story?id=74182918"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-team-pennsylvania-election-officials-clash-federal-court/story?id=74182918"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-team-pennsylvania-election-officials-clash-federal-court/story?id=74182918"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/Politics/2020-election-day-3-39-pennsylvania-ap-jc-201105_1604634249975_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "After Pennsylvania court defeat, Trump faces new pressure to concede election"
+    excerpt: "After a scathing court setback in Pennsylvania, President Donald Trump faces increased pressure from his fellow Republicans to drop his effort to overturn the U.S. presidential election and concede to Democrat Joe Biden."
+    publishedDateTime: 2020-11-22T10:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idINKBN282054"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN282054"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN282054"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542044618&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL038"
+        width: 808
+        height: 545
+        isCached: true
+  - title: "Trump campaign again seeks to stop certification of Pennsylvania's election results"
+    excerpt: "The Trump campaign on Saturday filed a new brief in one of their numerous federal court cases in Pennsylvania. The brief rehashes claims that the campaign appeared to abandon earlier this week. The brief filed Saturday,"
+    publishedDateTime: 2020-11-21T22:28:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-campaign-seeks-to-stop-certification-of-pennsylvanias-election-results-again/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-campaign-seeks-to-stop-certification-of-pennsylvanias-election-results-again/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-campaign-seeks-to-stop-certification-of-pennsylvanias-election-results-again/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 134
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/17/bd11804d-33a9-4cad-9e63-50dc7bba9360/thumbnail/1200x630/933274b018464feed7fbcbdb62fdbf8a/gettyimages-1228757637.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Arizona, Wisconsin to certify election results Monday, Trump may challenge outcome"
+    excerpt: "President Donald Trump has challenged results in several states, but the president has faced setbacks in many of those legal battles."
+    publishedDateTime: 2020-11-30T15:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6462445002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6462445002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/a4f30290-dae6-438d-bac6-9a31bad382f3-AFP_AFP_8UN26Z.jpg?auto=webp&crop=1023,575,x0,y77&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Trump sues in federal court to put Wisconsin lawmakers in charge of election outcome"
+    excerpt: "President Donald Trump and his allies are bombarding state and federal judges across the country with lawsuits seeking to change the outcome of the presidential election — the latest in a Wisconsin federal court."
+    publishedDateTime: 2020-12-03T18:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/03/trump-files-federal-court-challenge-wisconsin-election-outcome/3807794001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3807794001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3807794001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/099247f3-4412-4f6c-a3f6-0a7a0157d337-TRUMP_KENOSHA_0350.JPG?auto=webp&crop=3899,2194,x0,y139&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Wisconsin Supreme Court denies Trump campaign's attempt to bypass lower court in election challenge"
+    excerpt: "The Trump campaign argued that the state's high court should hear its case directly because presidential electors will soon be casting their votes."
+    publishedDateTime: 2020-12-04T12:44:00Z
+    webUrl: "https://www.cbsnews.com/news/wisconsin-election-supreme-court-denies-trump-campaigns-attempt-to-bypass-lower-court/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/wisconsin-election-supreme-court-denies-trump-campaigns-attempt-to-bypass-lower-court/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/wisconsin-election-supreme-court-denies-trump-campaigns-attempt-to-bypass-lower-court/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 126
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/18/3cd1626f-b991-4594-b14d-1b4021d69ac4/thumbnail/1200x630/fbe26932714625cbed35d0311b8d9f0c/gettyimages-1229523100.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump endorses Ronna McDaniel to remain RNC chair"
+    excerpt: "U.S. President Donald Trump on Wednesday endorsed Republican National Commmittee chair Ronna McDaniel to stay on in her position, crediting her with much of the support Trump received in the presidential election that he lost but is contesting."
+    publishedDateTime: 2020-11-12T00:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN27S01C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S01C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S01C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540909087&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB011"
+        width: 833
+        height: 545
+        isCached: true
+  - title: "Trump campaign retreats from key claim in Pennsylvania suit"
+    excerpt: "President Donald Trump’s campaign is withdrawing a central part of its lawsuit seeking to stop the certification of the election results in Pennsylvania"
+    publishedDateTime: 2020-11-16T03:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-campaign-retreats-from-key-claim-in-pennsylvania-suit/2020/11/15/ec7ed05e-27ba-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-campaign-retreats-from-key-claim-in-pennsylvania-suit/2020/11/15/ec7ed05e-27ba-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-campaign-retreats-from-key-claim-in-pennsylvania-suit/2020/11/15/ec7ed05e-27ba-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump campaign drops key request in Pennsylvania lawsuit"
+    excerpt: "President Donald Trump’s campaign is withdrawing a central request in its lawsuit seeking to stop the certification of the election results in Pennsylvania"
+    publishedDateTime: 2020-11-17T01:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-campaign-drops-key-request-in-pennsylvania-lawsuit/2020/11/16/37a400b0-2872-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-campaign-drops-key-request-in-pennsylvania-lawsuit/2020/11/16/37a400b0-2872-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-campaign-drops-key-request-in-pennsylvania-lawsuit/2020/11/16/37a400b0-2872-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump hints at primary challenge for DeWine in tweet"
+    excerpt: "President Donald Trump appears to be encouraging a primary challenge to Ohio Gov. Mike DeWine in a Monday tweet."
+    publishedDateTime: 2020-11-16T23:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/trump-hints-primary-challenge-dewine-tweet/6309631002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6309631002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309631002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/16/NCOD/60768dec-573d-4778-808e-30a9c88ef28c-IMG_Donald_Trump_1_1_M5RJT0C1_L1548958420.JPG?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Note: Trump, GOP test limits as legal walls close in"
+    excerpt: "Real state deadlines and legal rulings are already starting to close out paths to the presidency that Trump might imagine still exists. The Trump campaign faces a Wednesday deadline to request a recount in Wisconsin -- where the president is trailing by more than 20,"
+    publishedDateTime: 2020-11-18T11:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump faces approaching deadline for recount in Wisconsin"
+    excerpt: "The final Wisconsin county has submitted its canvassed vote totals to the state elections commission, starting the clock for President Donald Trump to file for a recount as he has promised supporters"
+    publishedDateTime: 2020-11-17T18:09:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-faces-approaching-deadline-for-recount-in-wisconsin/2020/11/17/0079abc4-2900-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-faces-approaching-deadline-for-recount-in-wisconsin/2020/11/17/0079abc4-2900-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-approaching-deadline-for-recount-in-wisconsin/2020/11/17/0079abc4-2900-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump faces Wednesday deadline for Wisconsin vote recount"
+    excerpt: "President Donald Trump faces a Wednesday deadline to file for a recount in Wisconsin after Democrat Joe Biden defeated him in the state by more than 20,600 votes based on final canvassed totals. The totals submitted by all 72 counties to the state elections commission showed Trump with a roughly six-tenths of a point margin — close enough for Trump to file for a recount."
+    publishedDateTime: 2020-11-18T14:50:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump keeps losing in court. He keeps losing his lawyers, too."
+    excerpt: "And as things have progressed, Trump has confronted another glaring and growing problem: keeping his legal team intact. Over the past 10 days, three large law firms have distanced themselves from him and his claims,"
+    publishedDateTime: 2020-11-17T22:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O7OSJKBC3AI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "GOP increasingly accepts Trump's defeat — but not in public"
+    excerpt: "Although a growing number of Republicans have quietly acknowledged that Joe Biden won the election, few are publicly challenging President Donald Trump"
+    publishedDateTime: 2020-11-19T15:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ba8c7075a4c14cf49feee520212922ac_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "How Trump tried to steal Michigan"
+    excerpt: "Suddenly, President-elect Joe Biden’s win in Michigan seemed to be up in the air. Trump and members of his team celebrated the decision. Jenna Ellis, one of Trump’s legal advisers, crowed that the decision paved the way for “Republican state legislator [s] [to] select the electors” — that is,"
+    publishedDateTime: 2020-11-19T00:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57BB6UBAOEI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump campaign seeks a partial recount in Wisconsin"
+    excerpt: "U.S. President Donald Trump's re-election campaign will seek a partial recount of Wisconsin's election results for the Nov. 3 presidential contest, the campaign said on Wednesday."
+    publishedDateTime: 2020-11-18T16:53:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-wisconsin-idUKKBN27Y2CR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y2CR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y2CR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541656188&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1DH"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Trump to meet Michigan lawmakers in bid to overturn electoral defeat"
+    excerpt: "President Donald Trump will meet with Republican leaders from Michigan at the White House on Friday as his campaign pursues an increasingly desperate bid to overturn the Nov. 3 election following a series of courtroom defeats."
+    publishedDateTime: 2020-11-20T15:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN2800I5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2800I5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2800I5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541913916&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ09J"
+        width: 746
+        height: 545
+        isCached: true
+  - title: "Wisconsin issues recount order sought by Trump in 2 counties"
+    excerpt: "The Wisconsin Elections Commission has ordered a recount of more than 800,000 ballots cast in two heavily Democratic counties"
+    publishedDateTime: 2020-11-19T16:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/approval-wisconsin-recount-marked-partisan-fight-74290317"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/approval-wisconsin-recount-marked-partisan-fight-74290317"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/approval-wisconsin-recount-marked-partisan-fight-74290317"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5546612ea42249c3ae8e8da615383e4f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Land conservation plan stirs fight over Trump restrictions"
+    excerpt: "U.S. officials say proposed land conservation purchases in dozens of states would preserve natural areas and increase access to tourist destinations"
+    publishedDateTime: 2020-11-20T21:54:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/land-conservation-plan-stirs-fight-trump-restrictions-74324311"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/land-conservation-plan-stirs-fight-trump-restrictions-74324311"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/land-conservation-plan-stirs-fight-trump-restrictions-74324311"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_6f702168544143a0b452c89e1c1ab5f0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "In blistering ruling, judge throws out Trump suit in Pa."
+    excerpt: "A federal judge has dismissed the Trump campaign’s longshot effort to block the certification of votes in Pennsylvania"
+    publishedDateTime: 2020-11-22T07:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-throws-trump-bid-stop-pa-vote-certification-74340148"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-throws-trump-bid-stop-pa-vote-certification-74340148"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-throws-trump-bid-stop-pa-vote-certification-74340148"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a32de59bb9f3444596f970c6e31b3e80_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "In Wisconsin recount, Trump challenges pile up and slow tally"
+    excerpt: "A large contingent of observers supporting President Trump are making their presence felt in Wisconsin's partial election recount."
+    publishedDateTime: 2020-11-22T22:15:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-22/wisconsin-recount-trump-challenges-slow-tally"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-22/wisconsin-recount-trump-challenges-slow-tally?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-22/wisconsin-recount-trump-challenges-slow-tally?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
-    quality: 140
+    quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/f587f3c/2147483647/strip/true/crop/3975x2596+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb9%2Fee%2F767d85ba4bf48dbe023f78da0899%2Fa32de59bb9f3444596f970c6e31b3e80"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/97f8e63/2147483647/strip/true/crop/3639x2377+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F30%2F81aab5264727991f7a823d391e72%2Fbiden-65717.jpg"
         width: 320
         height: 209
         isCached: true
-  - title: "Michigan election staff recommend certification of Biden win"
-    excerpt: "Michigan’s election agency on Friday recommended that the Nov. 3 results be certified next week by state canvassers, a decision that would bless Joe Biden’s victory over President Donald Trump but likely not cool partisan strife over the vote."
-    publishedDateTime: 2020-11-21T01:51:00Z
-    webUrl: "https://www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Michigan election staff recommend certification of Biden win"
-    excerpt: "Michigan's election agency on Friday recommended that the Nov. 3 results be certified next week by state canvassers, a decision that would bless Joe Biden's victory over President Donald Trump but likely not cool partisan strife over the vote."
-    publishedDateTime: 2020-11-21T18:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/michigan-election-staff-recommends-state-biden-victory-74329734"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-election-staff-recommends-state-biden-victory-74329734"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-election-staff-recommends-state-biden-victory-74329734"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Florida State Representative Says He's Thankful Joe Biden Lost the Election"
-    excerpt: "Florida state Representative Anthony Sabatini expressed thanks on Thursday that Joe Biden \"lost\" the 2020 presidential election. Sabatini, a Republican who represents Florida's 32nd district, tweeted the eye-catching comment on Thanksgiving,"
-    publishedDateTime: 2020-11-27T09:38:00Z
-    webUrl: "https://www.newsweek.com/florida-state-representative-thankful-joe-biden-lost-election-1550700"
-    ampWebUrl: "https://www.newsweek.com/florida-state-representative-thankful-joe-biden-lost-election-1550700?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/florida-state-representative-thankful-joe-biden-lost-election-1550700?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 138
-    images:
-      - url: "https://d.newsweek.com/en/full/1677818/president-elect-joe-biden-delivers-thanksgiving-address.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Is Joe Biden's win a turning point in a hard year of bad news?"
-    excerpt: "I usually expect the worst, but this US election feels like a light at the end of the tunnel"
-    publishedDateTime: 2020-11-14T08:00:00Z
-    webUrl: "https://www.theguardian.com/books/2020/nov/14/is-joe-bidens-win-a-turning-point-in-a-hard-year-of-bad-news"
-    ampWebUrl: "https://amp.theguardian.com/books/2020/nov/14/is-joe-bidens-win-a-turning-point-in-a-hard-year-of-bad-news"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2020/nov/14/is-joe-bidens-win-a-turning-point-in-a-hard-year-of-bad-news"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/0fc5437472c3a105a3ec2a7ae002e9f9a9aa9b27/0_143_3200_1920/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2672a5a9c08745a31f265e34db42a98b"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden's beach hideaway has political sun shining on Rehoboth"
-    excerpt: "Rehoboth Beach, Delaware, is a resort town that's known known for Atlantic waves that are sometimes surfable, as well as fresh-cut French fries and a mile wooden boardwalk that dates to the 1870s"
-    publishedDateTime: 2020-11-15T16:46:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-beach-hideaway-political-sun-shining-rehoboth-74218117"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-beach-hideaway-political-sun-shining-rehoboth-74218117"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-beach-hideaway-political-sun-shining-rehoboth-74218117"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d326617ed726417583bc6e83f3dd359f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "GEORGIA RESULTS: Biden is projected winner of Georgia"
-    excerpt: "President-elect Joe Biden became the winner of Georgia's 16 electoral votes, Decision Desk HQ projected Saturday."
-    publishedDateTime: 2020-11-16T01:50:00Z
-    webUrl: "https://www.businessinsider.com/georgia-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/georgia-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fb00e441c741f0019ac9d9a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "What mandate? Biden's agenda faces a divided Congress"
-    excerpt: "Biden comes to the presidency like few in recent history, with a rare mix of experience but also a potentially divided Congress. Not since President George H.W. Bush has the White House had an executive with such a deep Washington resume."
-    publishedDateTime: 2020-11-15T18:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_98667ccabd1a4b0fb46c08f16d5cf58a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden taps close campaign aides, U.S. congressman for White House roles"
-    excerpt: "President-elect Joe Biden on Tuesday named several insiders from his election campaign and a Democratic congressman as senior White House aides, sticking with a tight inner circle as he transitions to the White House."
-    publishedDateTime: 2020-11-17T16:13:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-aides-idUSKBN27X25X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X25X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X25X"
+  - title: "Trump campaign parts ways with Powell after vote-switching claim"
+    excerpt: "U.S. President Donald Trump's election campaign on Sunday distanced itself from Sidney Powell, a lawyer who claimed at a news conference last week that electronic voting systems had switched millions of ballots to President-elect Joe Biden."
+    publishedDateTime: 2020-11-23T00:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-powell-idUSKBN2820UB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2820UB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820UB"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541511031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG19D"
-        width: 749
-        height: 545
-        isCached: true
-  - title: "Biden approaches 80 million votes in historic victory"
-    excerpt: "President-elect Joe Biden's winning tally is approaching a record 80 million votes as Democratic bastions continue to count ballots and the 2020 election cracks turnout records. Biden has already set a record for the highest number of votes for a winning presidential candidate,"
-    publishedDateTime: 2020-11-19T12:10:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-approaches-80-million-votes-historic-victory-74287076"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-approaches-80-million-votes-historic-victory-74287076"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-approaches-80-million-votes-historic-victory-74287076"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_889908c9c9044d42bc4d28149a2d0d48_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Georgia recount not likely to change Biden victory: state official"
-    excerpt: "A recount being conducted by Georgia is not likely to change the result that gave Democrat Joe Biden a victory in the southern state in the Nov. 3 U.S. presidential election, Georgia Secretary of State Brad Raffensperger told CNN on Wednesday."
-    publishedDateTime: 2020-11-19T03:12:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-raffensperger-idUSKBN27Y306"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y306"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y306"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541689702&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1TL"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542089529&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL0IP"
         width: 817
         height: 545
-        isCached: true
-  - title: "Birthday time: Biden turns 78, will be oldest U.S. president"
-    excerpt: "Biden will be sworn in as the oldest president in the nation’s history, displacing Ronald Reagan, who left the White House in 1989 when he was 77 years and 349 days old. The age"
-    publishedDateTime: 2020-11-20T08:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_afcc289c76504d47b99037d98f0001f1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "EXPLAINER: Why AP called Georgia for Biden"
-    excerpt: "More than two weeks after Election Day, The Associated Press has declared Democrat Joe Biden the winner of the presidential contest in Georgia, a longtime Republican state"
-    publishedDateTime: 2020-11-20T03:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/explainer-ap-called-georgia-biden-74308939"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-georgia-biden-74308939"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-georgia-biden-74308939"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_db0ae4e570ef4efa8dc71916b1895cf7_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Joe Biden wins Georgia, flipping the state for Democrats"
-    excerpt: "Joe Biden has won Georgia and its 16 electoral votes, an extraordinary victory for Democrats who pushed to expand their electoral map through the Sun Belt. The win by Biden pads his Electoral College margin of victory over President Donald Trump."
-    publishedDateTime: 2020-11-20T06:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/joe-biden-wins-georgia-flipping-state-democrats-74308658"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/joe-biden-wins-georgia-flipping-state-democrats-74308658"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/joe-biden-wins-georgia-flipping-state-democrats-74308658"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_2bd986c8bb2444a091b9f5bbf7d1601b_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden aide Blinken voices concern about rights group in Egypt"
-    excerpt: "A top adviser to President-elect Joe Biden, who has pledged a renewed U.S. emphasis on human rights, on Friday voiced concern about a prominent Egyptian rights group that said security agents had arrested its executive director this week."
-    publishedDateTime: 2020-11-20T23:06:00Z
-    webUrl: "https://www.reuters.com/article/us-egypt-rights-biden-idUSKBN2802UJ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2802UJ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2802UJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541955281&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ1MJ"
-        width: 725
-        height: 545
-        isCached: true
-  - title: "Birthday time: Biden turns 78, will be oldest U.S. president"
-    excerpt: "President-elect Joe Biden turned 78 Friday, and he’ll soon take the reins of a politically fractured nation facing the worst public health crisis in a century, high unemployment and a reckoning on rac"
-    publishedDateTime: 2020-11-21T01:11:00Z
-    webUrl: "https://www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Georgia's secretary of state certifies Joe Biden as winner"
-    excerpt: "Georgia Secretary of State Brad Raffensperger told reporters on Friday that President-elect Joe Biden had definitively won the state."
-    publishedDateTime: 2020-11-20T21:15:00Z
-    webUrl: "https://www.cbsnews.com/news/georgia-recount-election-2020-will-of-people-biden/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/georgia-recount-election-2020-will-of-people-biden/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/georgia-recount-election-2020-will-of-people-biden/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/06/1755600a-04e5-461d-9e09-506763a1a14b/thumbnail/1200x630/1df5f3ce60ca58edb57564d723f94fc4/gettyimages-1229492060.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "POLICY REVEAL: How a Joe Biden presidency will affect real estate"
-    excerpt: "President-elect Joe Biden's plans include incentives for first-time homebuyers, ditching a tax break for investors, and ramping up affordable housing."
-    publishedDateTime: 2020-11-21T13:38:00Z
-    webUrl: "https://www.businessinsider.com/how-joe-biden-presidency-real-estate-policy-transform-home-ownership-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/how-joe-biden-presidency-real-estate-policy-transform-home-ownership-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-joe-biden-presidency-real-estate-policy-transform-home-ownership-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa31f1bf7d1cb0019e39ddb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Twitter will give @POTUS handle to Joe Biden on Inauguration Day"
-    excerpt: "Twitter will hand over official accounts to the new administration even if President Trump refuses to concede."
-    publishedDateTime: 2020-11-21T14:30:00Z
-    webUrl: "https://www.cbsnews.com/news/twitter-potus-handle-joe-biden-inauguration-day/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/twitter-potus-handle-joe-biden-inauguration-day/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/twitter-potus-handle-joe-biden-inauguration-day/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/21/155c3ec2-5e3e-46c2-8ed8-468f3a5ec36e/thumbnail/1200x630/73463b6b1361b2ac6e45672169361c28/cbsn-fusion-georgia-certifies-president-elect-joe-bidens-victory-thumbnail-592634-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden to work to end executions as government sets 3 more"
-    excerpt: "WASHINGTON -- President-elect Joe Biden is against the death penalty and will work to end its use, his spokesman said Saturday, as the Justice Department scheduled three more federal executions during before the Jan."
-    publishedDateTime: 2020-11-21T18:25:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-work-end-executions-government-sets-74335318"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-work-end-executions-government-sets-74335318"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-work-end-executions-government-sets-74335318"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/201120_abcnl_breakdown_abubey_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Georgia is finalizing details of recount requested by Trump"
     excerpt: "After the Trump campaign requested a recount of the presidential ballots in Georgia, state election officials were working to finalize the details of how and when that will be done"
@@ -397,339 +557,271 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "GOP senator, business leaders urge prompt Biden transition"
-    excerpt: "Pressure is increasing on a Trump administration official to authorize a formal transition process for President-elect Joe Biden"
-    publishedDateTime: 2020-11-24T01:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-senator-business-leaders-urge-prompt-biden-transition-74364751"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-senator-business-leaders-urge-prompt-biden-transition-74364751"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-senator-business-leaders-urge-prompt-biden-transition-74364751"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_0ba1e4d15d6349939f9de0a232fc44a1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Dow hits all-time high on Biden transition, rebound hopes"
-    excerpt: "Wall Street's main indexes jumped on Tuesday and the blue-chip Dow hit a record high as the formal go-ahead for President-elect Joe Biden's transition to the White House ended weeks of political uncertainty."
-    publishedDateTime: 2020-11-24T20:50:00Z
-    webUrl: "https://www.reuters.com/article/usa-stocks-idINKBN28424W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28424W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28424W"
+  - title: "Trump pardons former adviser Flynn, who pleaded guilty in Russia probe"
+    excerpt: "President Donald Trump on Wednesday pardoned his former national security adviser Michael Flynn, who had twice pleaded guilty to lying to the FBI during the investigation into Russian meddling in the 2016 presidential election."
+    publishedDateTime: 2020-11-26T02:27:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN28536B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28536B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28536B"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542313881&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN14E"
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542471750&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1P1"
         width: 817
         height: 545
         isCached: true
-  - title: "Joe Biden to deliver a Thanksgiving address seeking US unity"
-    excerpt: "President-elect Joe Biden is slated to deliver a Thanksgiving address to the nation seeking to unify Americans in the face of the coronavirus pandemic as experts warn of a possible spike in cases resu"
-    publishedDateTime: 2020-11-25T19:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/america-back-biden-pushes-past-trump-era-nominees-74391208"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/america-back-biden-pushes-past-trump-era-nominees-74391208"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/america-back-biden-pushes-past-trump-era-nominees-74391208"
+  - title: "Trump wants to throw out ballots from 238,000 Wisconsin voters"
+    excerpt: "The affected voters face losing their voice in the election after following state guidance that was promoted widely, including by the president."
+    publishedDateTime: 2020-11-28T04:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/trump-wants-throw-out-ballots-238-000-wisconsin-voters/6437897002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6437897002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6437897002"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: USA Today
+      domain: usatoday.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b3a3db32032442239d6be4cc5e7f43c4_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PMJS/76378a31-ccf9-4b45-bd15-719180b883c5-MJS_Early_voting_nws_sears_1-1.jpg?auto=webp&crop=3378,1901,x0,y500&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Joe Biden’s Start in the Stock Market Ranks With Any in History"
-    excerpt: "Good or just lucky, Joe Biden’s first three weeks in the stock market have been historically solid ones when measured against newly elected presidents of the past."
-    publishedDateTime: 2020-11-25T21:37:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-11-25/joe-biden-s-start-in-the-stock-market-ranks-with-any-in-history"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-25/joe-biden-s-start-in-the-stock-market-ranks-with-any-in-history"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-25/joe-biden-s-start-in-the-stock-market-ranks-with-any-in-history"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 125
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSO7F48YyJww/v1/360x-1.jpg"
-        width: 360
-        height: 245
-        isCached: true
-  - title: "Mexico's president again declines to recognize Biden win"
-    excerpt: "Mexican President Andres Manuel Lopez Obrador on Wednesday again declined to congratulate Joe Biden for winning the U.S. presidential election, making him stand out increasingly among world leaders who have withheld their recognition."
-    publishedDateTime: 2020-11-25T22:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-mexico-idUSKBN285294"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN285294"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN285294"
+  - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
+    excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."
+    publishedDateTime: 2020-11-15T07:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/biden-victory-in-arizona-puts-trumps-longshot-challenge-further-out-of-reach-idUSKBN27T0IQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IQ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542429462&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO173"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541244394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE04H"
+        width: 818
         height: 545
         isCached: true
-  - title: "Top California air, climate regulator hopes to run Biden EPA"
-    excerpt: "Mary Nichols will soon leave her job as California’s top air regulator after more than four decades of advocating for ambitious climate policies in the nation’s most populous state"
-    publishedDateTime: 2020-11-27T05:52:00Z
-    webUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+  - title: "Trump campaign would have to pay nearly $8 million for Wisconsin recount"
+    excerpt: "President Donald Trump's campaign would have to pay nearly $8 million to start a recount in Wisconsin, a state he narrowly lost two weeks ago."
+    publishedDateTime: 2020-11-17T11:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-trump-campaign-would-pay-8-m-wisconsin-recount/6322184002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6322184002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6322184002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/PMJS/563b8b6b-13ba-4d95-bca6-41993bb833e6-trump_biden_mupoll.jpg?auto=webp&crop=659,371,x0,y3&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "Progressives worry about lobbying, corporate ties in Biden administration"
-    excerpt: "When President-elect Joe Biden unveiled his national security team on Tuesday, there were several noticeable absences, including a nominee to lead the Department of Defense. Michele Flournoy, a leading candidate for the role who served in senior posts at the Pentagon during the Clinton and Obama administrations,"
-    publishedDateTime: 2020-11-26T19:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/progressives-worry-lobbying-corporate-ties-biden-administration/story?id=74403234"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/progressives-worry-lobbying-corporate-ties-biden-administration/story?id=74403234"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/progressives-worry-lobbying-corporate-ties-biden-administration/story?id=74403234"
+  - title: "Dialing into Pa. GOP meeting, President Trump shows no sign of concession"
+    excerpt: "Trump phoned into a meeting of Pa. Republican lawmakers to say he believes he was \"cheated\" out of a victory in the 2020 election and the outcome should be turned over."
+    publishedDateTime: 2020-11-26T02:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/dialing-pa-gop-meeting-president-trump-shows-sign/story?id=74405323"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/dialing-pa-gop-meeting-president-trump-shows-sign/story?id=74405323"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/dialing-pa-gop-meeting-president-trump-shows-sign/story?id=74405323"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 124
     images:
-      - url: "https://s.abcnews.com/images/Politics/blinken-biden-ap-jt-201124_1606258741685_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/Giuliani-gty-er-201125_1606338655585_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "In Georgia, get-out-the-vote operations that helped Biden win haven’t stopped"
-    excerpt: "The get-out-the-vote efforts of civic engagement groups like hers, which helped Joe Biden become the first Democratic presidential candidate to win the state in nearly three decades, have been ongoing since Nov."
-    publishedDateTime: 2020-11-20T00:49:00Z
-    webUrl: "https://www.washingtonpost.com/politics/in-georgia-get-out-the-vote-operations-that-helped-biden-win-havent-stopped/2020/11/19/7c10ceac-2851-11eb-8fa2-06e7cbb145c0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/in-georgia-get-out-the-vote-operations-that-helped-biden-win-havent-stopped/2020/11/19/7c10ceac-2851-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-georgia-get-out-the-vote-operations-that-helped-biden-win-havent-stopped/2020/11/19/7c10ceac-2851-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+  - title: "The Trump campaign’s disingenuous spin on its watered-down voter fraud claims"
+    excerpt: "The campaign is disputing a Washington Post article about its scaled-back lawsuit in Pennsylvania. But a look at the lawsuit — and its claims about The Post's reporting — reveal the truth."
+    publishedDateTime: 2020-11-16T18:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/trump-campaigns-disingenuous-spin-its-watered-down-voter-fraud-claims/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/trump-campaigns-disingenuous-spin-its-watered-down-voter-fraud-claims/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/trump-campaigns-disingenuous-spin-its-watered-down-voter-fraud-claims/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 122
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OFTHCDA6CMI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 933
-        isCached: true
-  - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
-    excerpt: "Trump continues to contest election as ‘corrupt’ and ‘fake’ as GSA officially declares president-elect Biden apparent winner"
-    publishedDateTime: 2020-11-24T14:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd15df8f0868ed26c11714"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/b6a0aee0c0f376cadca09ab0427c121490235af5/0_0_4969_3392/master/4969.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bbdfab7ba0823cd4e6cbb8d2518a5276"
-        width: 600
-        height: 410
-        isCached: true
-  - title: "Georgia confirms Biden's victory in state as it completes hand audit of ballots"
-    excerpt: "Georgia confirmed Democratic President-elect Joe Biden as the winner of the Nov. 3 election in the state as it completed a hand audit of ballots on Thursday, Secretary of State Brad Raffensperger said."
-    publishedDateTime: 2020-11-20T07:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN28000U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28000U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28000U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541841031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ02V"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "U.S. envoy to Iran says more sanctions coming, urges Biden to maintain leverage"
-    excerpt: "The Trump administration plans to tighten sanctions on Tehran during its final months in power, the top U.S. envoy on Iran said on Wednesday, as he urged President-elect Joe Biden to use the leverage to press for a deal that reduces the regional and nuclear threats"
-    publishedDateTime: 2020-11-26T11:46:00Z
-    webUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions-int-idUSKBN2852DD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852DD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852DD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542433096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO18I"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "After Biden win, Rehoboth Beach celebrates local boy made good: ‘He’s our Joe’"
-    excerpt: "Bikinis and beach umbrellas are marked to sell. The only hint of summer is the tangy scent of vinegar-doused french fries wafting from the one Thrasher’s stand that has remained open. Late fall and winter is when Rehoboth Beach typically gets to crawl back into its shell,"
-    publishedDateTime: 2020-11-27T22:54:00Z
-    webUrl: "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QASGXPBOUQI6XHOWFUAXTGAXDE.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
-  - title: "Most Mexicans back president's holdout stance on congratulating Biden, poll shows"
-    excerpt: "A majority of Mexicans support President Andres Manuel Lopez Obrador's decision to hold off congratulating Joe Biden so far on his victory in the U.S. presidential election, an opinion poll showed on Tuesday."
-    publishedDateTime: 2020-11-17T15:28:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-mexico-poll-idUSKBN27X200"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X200"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X200"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541505654&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG15U"
-        width: 816
-        height: 545
-        isCached: true
-  - title: "Ahead of recount results, Georgia officials say Biden likely to remain the winner"
-    excerpt: "A key battleground state in the 2020 presidential election is expected on Thursday to affirm Democrat Joe Biden's victory over President Donald Trump, which would deal yet another setback to Trump's scattershot efforts to hold on to power."
-    publishedDateTime: 2020-11-19T10:07:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-wrap-idUKKBN27Z0GI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z0GI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z0GI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541716689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI08O"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Joe Biden Won The Election—But He's Still Left Waiting In The Wings."
-    excerpt: "As President Trump refuses to concede the election Joe Biden won, Biden warns that that lack of cooperation on the transition could lead to even more deaths from the coronavirus.This episode: reporter Danielle Kurtzleben,"
-    publishedDateTime: 2020-11-19T20:32:00Z
-    webUrl: "https://www.npr.org/2020/11/19/936736673/joe-biden-won-the-election-but-hes-still-left-waiting-in-the-wings"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 120
-    images:
-      - url: "https://media.npr.org/assets/img/2020/11/19/gettyimages-1229297768_wide-7b13db2b5f417fa0b97794aa7d929a14e38f3cc3.jpg?s=1400"
-        width: 1278
-        height: 719
-        isCached: true
-  - title: "Can Joe Biden forgive student debt without Congress? Here's what the experts say"
-    excerpt: "Can the president forgive student debt without Congress? A lot is riding on that answer. With Republicans generally hostile toward the idea of debt cancellation, the legislative route could prove difficult."
-    publishedDateTime: 2020-11-21T19:39:00Z
-    webUrl: "https://www.cnbc.com/2020/11/21/can-joe-biden-forgive-student-debt-without-congress-experts-weigh-in.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/11/21/can-joe-biden-forgive-student-debt-without-congress-experts-weigh-in.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/21/can-joe-biden-forgive-student-debt-without-congress-experts-weigh-in.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 120
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106797715-1605562384011-gettyimages-1286022154-cz9i6227_2020111634442987.jpeg?v=1605814178"
-        width: 3429
-        height: 2472
-        isCached: true
-  - title: "Joe Biden officially declared winner of Georgia following recount – as it happened"
-    excerpt: "Audit upheld the original tally, Georgia secretary of state’s office said"
-    publishedDateTime: 2020-11-20T02:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/19/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fb7139e8f08161b0b9c90d5"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/19/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/19/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
-    images:
-      - url: "https://i.guim.co.uk/img/media/ff8825f43985d6014cbeb12ed53fad87a858d14e/0_187_5614_3369/master/5614.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f201c487f62826b504bc6e4dc0187888"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Cannabis industry has 30-40% more upside, pot ETF issuer says after Joe Biden victory"
-    excerpt: "Cannabis companies have an eventful four years ahead of them. Pot stocks have been hot following Election Day, with big names in the space including Canopy Growth, Aurora Cannabis, Cronos Group and Tilray all lighting up on the prospects of a Joe Biden presidency."
-    publishedDateTime: 2020-11-21T21:37:00Z
-    webUrl: "https://www.cnbc.com/2020/11/21/cannabis-industry-has-30-40percent-upside-etf-issuer-says-after-biden-win.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/11/21/cannabis-industry-has-30-40percent-upside-etf-issuer-says-after-biden-win.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/21/cannabis-industry-has-30-40percent-upside-etf-issuer-says-after-biden-win.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 118
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106800529-1605909943714-gettyimages-166995067-1051226800.jpeg?v=1605910000"
-        width: 4256
-        height: 2799
-        isCached: true
-  - title: "Joe Biden spent much of the general election in his basement. Now, he and his aides ponder a very public inauguration."
-    excerpt: "Joe Biden spent months of his presidential campaign safely ensconced in his basement, communicating to the country via a television camera. His convention speech was delivered to a near-empty room in Delaware."
-    publishedDateTime: 2020-11-22T00:38:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-trump/2020/11/21/5c0b8398-2b73-11eb-92b7-6ef17b3fe3b4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-trump/2020/11/21/5c0b8398-2b73-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-trump/2020/11/21/5c0b8398-2b73-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 116
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GVQZ22BMEII6XD5CA3T4XMKFYA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OQY4HNABC4I6XOJOAKLHN6PL5Q.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Joe Biden becomes first presidential candidate in U.S. history to surpass 80 million votes"
-    excerpt: "President-elect Joe Biden has now surpassed 80 million votes, the most in history, with the final ballots still being counted. More votes were cast in the 2020 presidential election than in any other in U."
-    publishedDateTime: 2020-11-26T01:16:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-first-presidential-candidate-surpass-80-million-votes/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-first-presidential-candidate-surpass-80-million-votes/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-first-presidential-candidate-surpass-80-million-votes/"
+  - title: "Detroit asks judge to sanction Trump campaign for spreading 'disinformation'"
+    excerpt: "Lawyers for the city of Detroit have asked a judge to reprimand President Donald Trump's campaign for spreading \"disinformation\" in a court filing about the certification of a Michigan county's election results."
+    publishedDateTime: 2020-11-20T20:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-michigan-lawsuit-idUSKBN2802M8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2802M8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2802M8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541943884&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ1GX"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Donald Trump mounts all-out assault on election result in Michigan"
+    excerpt: "President calls county officials in attempt to derail Biden victory and plans to fly Republican Michigan lawmakers to Washington"
+    publishedDateTime: 2020-11-19T23:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/19/trump-michigan-election-result-assault-challenge"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/cb5f38c73d8f61cfde138203bde53d3ea79cb07c/0_7_2700_1620/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fa6c55620d9571f51e996ad13e363ad"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump files election lawsuit in Wisconsin"
+    excerpt: "Watch \"President Trump files election lawsuit in Wisconsin aiming to override election results & appoint GOP electors\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-03T12:42:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201203121233-president-trump-files-election-lawsuit-in-wisconsin-aiming-to-override-election-results-appoint-gop-electors/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/03/story_07958130_1606998903.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Wisconsin recount would cost Trump campaign about $7.9 million, state officials say"
+    excerpt: "The Wisconsin Elections Commission said on Monday that a statewide vote recount would cost an estimated $7.9 million, money that President Donald Trump's campaign would have to pay in advance should it request one."
+    publishedDateTime: 2020-11-16T22:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN27W2W7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2W7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2W7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541418792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1MH"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "President Trump's defeat may give Supreme Court a rest from personal, policy lawsuits"
+    excerpt: "Many cases tied to Trump's policies or personal entanglements are likely to become moot or, at least, undeserving of the Supreme Court's attention."
+    publishedDateTime: 2020-11-18T10:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/18/donald-trumps-defeat-may-give-supreme-court-rest-his-suits/6309525002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6309525002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309525002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/7f3606de-6b87-4e1a-9871-a1acc589c20c-AFP_AFP_8VC9RC.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump campaign moves to seek partial recount of Wisconsin, hoping to overturn results"
+    excerpt: "The Trump campaign says it will seek recounts in Dane and Milwaukee counties, Wisconsin's two most populous and liberal-leaning counties."
+    publishedDateTime: 2020-11-18T17:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/18/donald-trump-campaign-seek-partial-recount-wisconsin/6340896002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6340896002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6340896002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ed262a37-92af-4224-a0d3-88b36a331cec-TRUMP_KENOSHA_1048.JPG?auto=webp&crop=3899,2194,x0,y289&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Wisconsin Supreme Court won’t hear Trump election lawsuit, likely dooming state court case seeking to overturn loss"
+    excerpt: "The Wisconsin Supreme Court on Thursday refused to hear President Trump’s lawsuit attempting to overturn his loss to Democrat Joe Biden."
+    publishedDateTime: 2020-12-03T18:42:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-wisconsin-election-lawsuit-20201203-m52xly6g4vhcjjrd7q4qjjyd7e-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-wisconsin-election-lawsuit-20201203-m52xly6g4vhcjjrd7q4qjjyd7e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-wisconsin-election-lawsuit-20201203-m52xly6g4vhcjjrd7q4qjjyd7e-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 118
+    images:
+      - url: "https://www.chicagotribune.com/resizer/z0S2GxhiyDbWO8LXFjyjwYfJ8uI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YP7M3CIN6QKM3KU4DWPGBXFKIM.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Trump seeks expedited appeal of Pennsylvania ruling against effort to toss mail-in ballots"
+    excerpt: "Lawyers for President Donald Trump's re-election campaign said on Saturday they are seeking expedited appeal of a Pennsylvania judge's ruling against their effort to throw out mail-in ballots."
+    publishedDateTime: 2020-11-22T02:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pensylvania-appeal-idUSKBN28201W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28201W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28201W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 115
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/25/92fc61ae-0991-4f4e-9634-5ae33feed4f0/thumbnail/1200x630g2/a68d76ac07e9ad86eacfbef021f9966a/gettyimages-1229449195.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542036740&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL00V"
+        width: 691
+        height: 545
         isCached: true
-  - title: "Biden searches for attorney general to restore Justice Dept.’s independence, refocus on civil rights"
-    excerpt: "After years seemingly at the center of every major political fight in Washington, the Justice Department is about to get new leadership, and President-elect Joe Biden’s choice for attorney general will have to balance competing demands within his party on thorny issues of civil rights,"
-    publishedDateTime: 2020-11-25T00:22:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/biden-attorney-general/2020/11/24/bbd7da7a-2e97-11eb-bae0-50bb17126614_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-attorney-general/2020/11/24/bbd7da7a-2e97-11eb-bae0-50bb17126614_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-attorney-general/2020/11/24/bbd7da7a-2e97-11eb-bae0-50bb17126614_story.html?outputType=amp"
+  - title: "US election: Trump falsely claims victory - 'The campaign which I won, by the way'"
+    excerpt: "US President Trump has falsely claimed that he won the election during a press conference about drug prices. \"Big pharma ran millions of dollars of negative advertisements during the campaign,\" he said on Friday."
+    publishedDateTime: 2020-11-20T20:40:00Z
+    webUrl: "https://www.bbc.com/news/av/election-us-2020-55024445"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 114
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08z45k3.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Post-Trump, his party and his favorite network have to figure out their relationship with reality"
+    excerpt: "It remains my theory to this day that Donald Trump’s advantage in the 2016 Republican nomination contest was that he was willing to parrot often-false conservative media rhetoric that the party establishment tried to keep at arm’s length."
+    publishedDateTime: 2020-11-24T01:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/23/post-trump-his-party-his-favorite-network-have-figure-out-their-relationship-with-reality/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/23/post-trump-his-party-his-favorite-network-have-figure-out-their-relationship-with-reality/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/23/post-trump-his-party-his-favorite-network-have-figure-out-their-relationship-with-reality/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 110
+    quality: 112
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QNYKKSBOTEI6XOXAKC5ROETGCQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H23S6CBJM4I6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Attorney heading up Trump campaign's Wisconsin recount effort is seeking to throw out his own vote"
+    excerpt: "Jim Troupis, a former Dane County judge and Cross Plains attorney, voted early using the state's in-person absentee option."
+    publishedDateTime: 2020-11-23T02:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/22/attorney-heading-up-trump-recount-wants-throw-out-his-own-vote/6382647002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6382647002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6382647002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/21/PMJS/f177309e-811b-46d6-b7f4-2da8cebb9b00-RECOUNT_05318.JPG?auto=webp&crop=3899,2194,x0,y207&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump campaign requests recount of hand-recounted results in Georgia, which is unlikely to change outcome"
     excerpt: "The Trump campaign on Saturday requested a formal recount of the 5 million presidential votes in Georgia in an apparent effort to exhaust its options for challenging the result in a state that narrowly backed President-elect Joe Biden."
@@ -747,337 +839,192 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "President-elect Joe Biden posed in his vintage Corvette. But he promises a big push for electric vehicles."
-    excerpt: "He has set out an ambitious agenda to get Americans into battery-powered cars as climate change shapes his administration’s transportation policy."
-    publishedDateTime: 2020-11-25T16:04:00Z
-    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/biden-electric-cars/2020/11/25/5076e316-2e6f-11eb-bae0-50bb17126614_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/biden-electric-cars/2020/11/25/5076e316-2e6f-11eb-bae0-50bb17126614_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/biden-electric-cars/2020/11/25/5076e316-2e6f-11eb-bae0-50bb17126614_story.html?outputType=amp"
+  - title: "Trump campaign to request recount in two counties in Wisconsin; he trails in the state by about 20,600 votes"
+    excerpt: "The Wisconsin Elections Commission confirmed that it has received a wire transfer from the campaign for $3 million to cover the costs of the partial recount."
+    publishedDateTime: 2020-11-18T18:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 107
+    quality: 106
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2AKP7VBOSQI6XOXAKC5ROETGCQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BZHR6JA6FQI6XLKTJQP5USMQPU.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "In Georgia, a Biden supporter realizes the power of her ballot"
-    excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."
-    publishedDateTime: 2020-11-06T13:17:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/06/biden-voter/?arc404=true"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/resizer/Hz_OrZxWroNwIsu9OOmq7GbxQfc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4X73ZA7XQI6XLKTJQP5USMQPU.jpg"
-        width: 1484
-        height: 989
-        isCached: true
-  - title: "Biden's win in Georgia reaffirmed after recount"
-    excerpt: "The president can request a recount because the results were still within 0.5%, but not until after statewide certification of results, which has to take place by Friday."
-    publishedDateTime: 2020-11-20T01:28:00Z
-    webUrl: "https://www.cbsnews.com/news/bidens-win-in-georgia-reaffirmed-after-recount/"
+  - title: "Trump calls on a partial recount in Wisconsin..."
+    excerpt: "Watch \"Trump campaign calls on a partial recount in Wisconsin\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-19T12:22:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201119011406-trump-campaign-calls-on-a-partial-recount-in-wisconsin/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/06/ee03f2d0-a208-482b-a218-258f99734fc8/thumbnail/1200x630/5c1c42c68fc76852f130a31cf6864aaa/cbsn-fusion-georgia-secretary-of-state-says-they-will-head-to-a-recount-thumbnail-582579-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/19/story_07754922_1605748469.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "Joe Biden confirmed as Georgia winner after recount"
-    excerpt: "President-elect wins state’s 16 electoral college votes following hand recount of about 5 million votes"
-    publishedDateTime: 2020-11-20T14:27:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/nov/19/joe-biden-president-georgia-recount"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/f06f74bf85b8c68d941a81d2102b9fd7585e3ca6/137_0_3240_1945/master/3240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cdfe85e788f145de25daa8dc865006fa"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Georgia governor certifies electors for Biden"
-    excerpt: "Georgia’s governor has certified results showing Joe Biden won the presidential race over President Donald Trump. But the Republican governor did not clearly endorse the results, saying the law requires him to “formalize the certification."
-    publishedDateTime: 2020-11-20T23:51:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/20/georgia-governor-certifies-electors-biden/6365879002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e6fae1a3-5fc7-4a52-9938-16a641c8a4b6_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Joe Biden turns 78 and is set to become the oldest U.S. president"
-    excerpt: "President-elect Joe Biden turns 78 on Friday and is on track to be the oldest U.S. president in history, displacing Ronald Reagan."
-    publishedDateTime: 2020-11-20T22:42:00Z
-    webUrl: "https://www.latimes.com/world-nation/dz-ph5xuf6u-123"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 105
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/b1b3177/2147483647/strip/true/crop/5431x2851+0+385/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F78%2F5c%2Ffcde65dd1a38752f5a2a18ab106d%2Fafcc289c76504d47b99037d98f0001f1"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden taps longtime foreign policy officials for key positions"
-    excerpt: "President-elect Joe Biden's Cabinet is coming into sharper focus as he gears up to announce key nominations this week. He has selected Tony Blinken to serve as secretary of state, Linda Thomas-Greenfield as ambassador to the U."
-    publishedDateTime: 2020-11-23T15:27:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-foreign-policy-cabinet-positions/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/23/e6bfef73-c2d2-4f81-80f2-9738b59a6faa/thumbnail/1200x630/f1955699b718ed89b9893f0509fe5498/cbsn-fusion-biden-taps-longtime-foreign-policy-diplomats-for-key-cabinet-positions-thumbnail-594045-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ex-Homeland Security official Mayorkas returns under Biden"
-    excerpt: "WASHINGTON (AP) — President-elect Joe Biden is turning to a veteran of the Department of Homeland Security to lead the agency created after the Sept. 11 attacks, but reshaped by President Donald Trump to carry out his hardline immigration and law enforcement agenda."
-    publishedDateTime: 2020-11-24T01:39:00Z
-    webUrl: "https://www.businessinsider.com/ex-homeland-security-official-mayorkas-returns-under-biden-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/ex-homeland-security-official-mayorkas-returns-under-biden-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-homeland-security-official-mayorkas-returns-under-biden-2020-11?amp"
+  - title: "Trump pays $3 million for partial Wisconsin vote recount"
+    excerpt: "President Donald Trump has paid $3 million for a partial recount in Wisconsin but has yet to file a petition indicating which counties it is targeting, the Wisconsin Elections Commission said Wednesday."
+    publishedDateTime: 2020-11-18T21:42:00Z
+    webUrl: "https://www.businessinsider.com/trump-pays-3-million-for-partial-wisconsin-vote-recount-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-pays-3-million-for-partial-wisconsin-vote-recount-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pays-3-million-for-partial-wisconsin-vote-recount-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Eye Opener: Biden transition moves forward with approval from GSA"
-    excerpt: "The Trump administration official in charge of the presidential transition says she's giving President-elect Biden access to government resources and funding. Also, millions of Americans are still planning to travel for the Thanksgiving holiday despite warnings from the CDC."
-    publishedDateTime: 2020-11-24T14:49:00Z
-    webUrl: "https://www.cbsnews.com/video/eye-opener-biden-transition-moves-forward-with-approval-from-gsa/"
+  - title: "Trump pushes new environmental rollbacks on way out the door"
+    excerpt: "Down to its final weeks, the Trump administration is working to push through dozens of environmental rollbacks that could weaken century-old protections for migratory birds, expand Arctic drilling and hamstring future regulation of public health threats."
+    publishedDateTime: 2020-11-18T22:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "NY probes Trump consulting payments that reduced his taxes"
+    excerpt: "New York’s attorney general has sent a subpoena to the Trump Organization for records related to consulting fees paid to Ivanka Trump as part of an investigation into the president’s business dealings"
+    publishedDateTime: 2020-11-20T03:47:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/ny-probes-trump-consulting-payments-reduced-taxes-74310140"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_a53df9ec949e4e3a8d5462528a2cea53_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump campaign requests recount in two Wisconsin counties"
+    excerpt: "The Trump campaign is requesting a recount in two heavily Democratic counties in Wisconsin as the president continues to push unfounded claims of voter fraud. This comes after he fired his top election security official,"
+    publishedDateTime: 2020-11-20T12:03:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-campaign-requests-recount-in-two-wisconsin-counties/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/24/be3c8a72-e029-48ba-a0dc-3274fde1ceef/thumbnail/1200x630/1e0628aa52eb75fc7771d2e45a647dc8/cbsn-fusion-eye-opener-biden-transition-moves-forward-with-approval-from-gsa-thumbnail-594974-640x360.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/18/29ddbb3e-bed5-42cc-90db-f334a7c93063/thumbnail/1200x630/ae2f84fe0229ec71fce33431de8556c5/cbsn-fusion-trump-campaign-requests-recount-in-two-wisconsin-counties-thumbnail-590566-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "New voters gave Biden a boost, but not everywhere"
-    excerpt: "Millions more Americans cast ballots than in 2016. The counties that saw the largest turnout increases drove Biden's win, but Democratic gains were uneven."
-    publishedDateTime: 2020-11-25T04:52:00Z
-    webUrl: "https://www.washingtonpost.com/graphics/2020/elections/new-voters/"
+  - title: "Legal problems Trump could face transitioning back into private life"
+    excerpt: "As President Trump continues to fight the election outcome, officials in New York have ramped up investigations into his business dealings. New York Law School professor Rebecca Roiphe joins CBSN to discuss."
+    publishedDateTime: 2020-11-22T02:03:00Z
+    webUrl: "https://www.cbsnews.com/video/the-legal-problems-trump-could-face-transitioning-back-into-private-life/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/22/b0c187f2-d5ba-4f9a-8dfd-9539e2bfb8f5/thumbnail/1200x630/025ce1ee61943a240beca27eeb6e5940/cbsn-fusion-the-legal-problems-trump-could-face-transitioning-back-into-private-life-thumbnail-593356-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "In Wisconsin recount, Trump challenges pile up, slow tally"
+    excerpt: "Wisconsin recount observer Ardis Cerny stretched her neck as far as she could toward a Plexiglas divider separating her from two vote counters, eagle-eyeing them as they scrutinized ballot papers one by one."
+    publishedDateTime: 2020-11-22T23:32:00Z
+    webUrl: "https://www.businessinsider.com/in-wisconsin-recount-trump-challenges-pile-up-slow-tally-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/in-wisconsin-recount-trump-challenges-pile-up-slow-tally-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-wisconsin-recount-trump-challenges-pile-up-slow-tally-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump team making false argument about his 2016 transition"
+    excerpt: "WASHINGTON (AP) — It’s not just President-elect Joe Biden’s transition that’s under a microscope."
+    publishedDateTime: 2020-11-22T21:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-team-making-false-argument-about-his-2016-transition-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-team-making-false-argument-about-his-2016-transition-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-making-false-argument-about-his-2016-transition-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump pardons Flynn, taking direct aim at Russia probe"
+    excerpt: "President Donald Trump pardoned former national security adviser Michael Flynn on Wednesday, taking direct aim in the final days of his administration at a Russia investigation that he has long insisted was motivated by political bias."
+    publishedDateTime: 2020-11-25T23:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Judge calls Trump request in Wisconsin lawsuit 'bizarre'"
+    excerpt: "A judge hearing President Donald Trump's federal lawsuit seeking to overturn Democrat Joe Biden's win in Wisconsin said Friday that the president's request to “remand” the case to the GOP-controlled Legislature to pick new electors was “bizarre."
+    publishedDateTime: 2020-12-05T06:29:00Z
+    webUrl: "https://www.businessinsider.com/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Republican leaders in Arizona, Michigan, Pennsylvania and Wisconsin throw cold water on ploy to flip electors to Trump"
+    excerpt: "Republican leaders in Michigan and other key states won by Joe Biden say they won't participate in a scheme to flip electors to vote for Donald Trump."
+    publishedDateTime: 2020-11-14T23:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/ploy-flip-electors-trump-rejected-republican-leaders-4-key-states/6298966002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6298966002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6298966002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/14/PDTF/bb6e1ae0-d323-4fb5-affe-938c5d4faa75-AP20318849667174.jpg?auto=webp&crop=5703,3208,x0,y244&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Trump is seeking a recount in two Wisconsin counties, but what he’s really doing is preparing for a lawsuit."
+    excerpt: "By pursuing the recount, Trump has given himself a vehicle for a lawsuit that would likely go before a judge by early December."
+    publishedDateTime: 2020-11-20T00:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/wisconsin-recount-could-quickly-turn-into-lawsuit/6349231002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6349231002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6349231002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/PMJS/10cc0a7d-458e-462e-bcbd-9068a3e897f7-MJS_5.jpg?auto=webp&crop=5471,3077,x1,y268&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "GOP officials in key Michigan county decline to certify ballot count, upending vote process as Trump scrambles to regain ground"
+    excerpt: "The limited victory for the president’s campaign arrived amid a string of failures in its beleaguered effort to overturn the result of the election through the courts."
+    publishedDateTime: 2020-11-18T06:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VPM7LBPMRJD5ZNHAJR767RM6KY.jpg&w=1200"
-        width: 1200
-        height: 730
-        isCached: true
-  - title: "Biden nominations signal changes for U.S. foreign policy"
-    excerpt: "President-elect Joe Biden has nominated several advisers with deep experience in foreign policy to serve in key Cabinet positions, and world leaders are preparing for the transition of power. The founder and executive director of the National Security Institute at George Mason University,"
-    publishedDateTime: 2020-11-25T20:47:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-nominations-foreign-policy-possibility-iran-nuclear-deal/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/25/ccfb7d1f-a8ad-4994-b4d6-b7c7e17e3de8/thumbnail/1200x630/1f27a442d08fb87aefb11d11845dbaad/cbsn-fusion-biden-nominations-foreign-policy-possibility-iran-nuclear-deal-thumbnail-595755-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "President-elect Joe Biden urges unity in Thanksgiving address"
-    excerpt: "In an address to the nation the day before Thanksgiving, President-elect Joe Biden spoke about the difficulty of being apart from loved ones at the holidays but encouraged everyone to follow health officials' guidelines to help save lives in the coronavirus pandemic."
-    publishedDateTime: 2020-11-25T20:49:00Z
-    webUrl: "https://www.cbsnews.com/video/president-elect-joe-biden-thanksgiving-address/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/25/50bc3dc3-0060-4208-a59c-9301e7c7d46c/thumbnail/1200x630/022db9dc6e771834def28b4632977c3e/cbsn-fusion-president-elect-joe-biden-thanksgiving-address-thumbnail-595957-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden urges 'sacrifice' in Thanksgiving address"
-    excerpt: "Rough Cuts Biden urges 'sacrifice' in Thanksgiving address. Posted . U.S. President-elect Joe Biden and his wife released a video acknowledging the scaled-back Thanksgiving celebr"
-    publishedDateTime: 2020-11-27T04:30:00Z
-    webUrl: "https://www.reuters.com/video/watch/biden-urges-sacrifice-in-thanksgiving-ad-id722408740"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201127&i=OVD6CLUCF&r=OVD6CLUCF&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Second recount confirms Biden won Georgia"
-    excerpt: "Watch \"Second recount confirms Joe Biden won Georgia\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-03T18:42:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201203182028-second-recount-confirms-joe-biden-won-georgia/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/03/story_07962329_1607020084.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "President-elect Biden names four White House staffers, including directors for legislative affairs and personnel"
-    excerpt: "President-elect Joe Biden named four more White House staffers Friday, including directors overseeing legislation and personnel."
-    publishedDateTime: 2020-11-20T16:07:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/20/biden-names-white-house-posts-directors-legislation-personnel/6354645002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6354645002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6354645002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/17/USAT/6faee755-39e7-4911-98f5-3cb6b492439b-AP20322710440298.jpg?auto=webp&crop=5999,3374,x1,y364&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "President-elect Joe Biden to announce first picks for Cabinet on Tuesday"
-    excerpt: "President-elect Joe Biden will announce several Cabinet picks on Tuesday, according to incoming White House chief of staff Ron Klain. CBS News correspondent Nikole Killion joins CBSN's Lana Zak to discuss how delays to Mr."
-    publishedDateTime: 2020-11-23T02:19:00Z
-    webUrl: "https://www.cbsnews.com/video/president-elect-joe-biden-to-announce-first-picks-for-cabinet-on-tuesday/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 104
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/23/fa44d308-e61c-4ea7-9137-25740292a053/thumbnail/1200x630/f2768a8e2568955440af08d82047d228/cbsn-fusion-president-elect-joe-biden-to-announce-first-picks-for-cabinet-on-tuesday-thumbnail-593838-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "House Democrat says Congress has few options to help Biden's transition to power"
-    excerpt: "More than a week after President-elect Joe Biden was projected to win the 2020 election, Democratic lawmakers are still pushing the federal government to provide resources, office space and funding to his transition team."
-    publishedDateTime: 2020-11-18T16:49:00Z
-    webUrl: "https://www.cbsnews.com/video/house-democrat-says-congress-has-few-options-to-help-bidens-transition-to-power/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 100
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/18/d19ae91e-f86a-40c8-904b-a885bdbb77e3/thumbnail/1200x630/4b7a598e7ee487f02c75bb92f5682974/cbsn-fusion-house-democrat-says-congress-has-few-options-to-help-bidens-transition-to-power-thumbnail-590426-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden's transition team to begin meeting with federal officials - executive director"
-    excerpt: "President-elect Joe Biden's team will begin meeting with federal government officials to discuss the pandemic response, national security and other issues after a U.S. agency gave the go-ahead for the formal transition on Monday,"
-    publishedDateTime: 2020-11-24T06:45:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-transition-idUKKBN283368"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN283368"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN283368"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
-  - title: "Head of GSA is allowing President-elect Joe Biden to begin transitioning to White House"
-    excerpt: "Emily Murphy, the head of the General Services Administration, says she'll allow President-elect Joe Biden to begin his transition to the White House."
-    publishedDateTime: 2020-11-24T13:58:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/24/gsa-allows-president-elect-biden-transition-white-house/6404973002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
     quality: 97
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/83f1456a-2f5f-4e56-bff6-bcc2c105d8a7-VPC_GSA_CLEARS_WAY_FOR_BIDEN_TRANSITION_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4ZBCBIRJGUI6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Doctor on President-elect Biden's COVID-19 advisory board discusses CDC travel guidelines"
-    excerpt: "Dr. Atul Gawande of President-elect Biden's COVID-19 advisory board joins \"CBS This Morning\" to discuss the CDC's guidelines on Thanksgiving travel and his concerns about the delay in the transfer of power from the Trump administration to the future Biden administration."
-    publishedDateTime: 2020-11-20T14:24:00Z
-    webUrl: "https://www.cbsnews.com/video/doctor-on-president-elect-bidens-covid-19-advisory-board-discusses-cdc-travel-guidelines/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 96
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/20/26bcea9d-61c6-46a2-bec3-90374efb7a01/thumbnail/1200x630/fa6baa8432663e20547af60cc030b900/cbsn-fusion-doctor-on-president-elect-bidens-covid-19-advisory-board-discusses-cdc-travel-guidelines-thumbnail-591798-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "President-elect Biden faces nuclear challenge from Iran as country increases uranium stockpile"
-    excerpt: "A new report from the International Atomic Energy Agency reveals that Iran now has 12 times the amount of enriched uranium permitted under the 2015 Iranian nuclear deal. This latest development gives additional insight into the surmounting challenge the incoming Biden administration will face in an attempt to contain Iran's nuclear capabilities."
-    publishedDateTime: 2020-11-14T18:31:00Z
-    webUrl: "https://www.cbsnews.com/video/iran-expands-stockpile-enriched-uranium-joe-biden-challenge/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 93
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/14/4915ad22-c06c-421d-bfef-cc05adef7dfc/thumbnail/1200x630/81c0785255cc2dc4c1023fc9fb34f789/cbsn-fusion-iran-expands-stockpile-enriched-uranium-joe-biden-challenge-thumbnail-588204-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "President-elect Joe Biden calls for unity during Thanksgiving address"
-    excerpt: "President-elect Joe Biden called for unity and encouraged Americans to stay vigilant against the COVID-19 virus during a Thanksgiving address Wednesday afternoon."
-    publishedDateTime: 2020-11-25T17:50:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/11/25/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address/9541606323109/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/25/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address/9541606323109/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/25/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address/9541606323109/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/ph/st/th/9541606323109/2020/upi/464e54565895c15a13cfc84f4e20cd51/v1.5/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address.jpg?lg=2"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Mike Pence tells Georgia crowd presidential election isn’t over"
-    excerpt: "U.S. Vice President Mike Pence traveled to Georgia to rally for Senate candidates Friday with two events. But he made it clear there’s unfinished business regarding the November vote. “As our election contest continues here in Georgia and in courts throughout the country,"
-    publishedDateTime: 2020-11-21T02:50:00Z
-    webUrl: "https://floridapolitics.com/archives/384675-mike-pence-election"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 70
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2020/11/Pence-1000x563.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Joe Biden Delivers Remarks in Warm Springs, Georgia"
-    excerpt: "T13:46:02-04:00 a week to go to election day, Democratic presidential candidate Joe Biden delivers remarks in Warm Springs, Georgia, home to FDR’s “Little White House.” The former vice president says he’s running to help “unite” and “heal” the country."
-    publishedDateTime: 2020-10-27T18:43:00Z
-    webUrl: "https://www.c-span.org/event/?477413/c2020-joe-biden-delivers-remarks-warm-springs-ga"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "+DiwzGIceI32mcRZ5TG5/7dmMUTYHXMNVlJtdfDgIaSjpFs18taqLmvd8t9YKRuWoXCIkhzD3YcXBrHht1qIAHZw7drUK9xwiKETXWuDbGrdC38req1IqKhf+eOd1sed0jd1UinsAC8eMv9B8fAtmAKbQSRTOLp6dT5IVexGJjJ6fP4pTPNrABDfPPTs3amoJxHVVvVzJTsTXBqwcO2+1cBj725fGWE/ehBPgzLlcgzlftGj5w8KoYGi+8qFHhiet0DkV5Q9u2xjNCjOE1CbIjjvzG3LYk9kAU0ZdaPdy0cDXiQuCzH9C7lgWrkP3OjR0OsRrcpewWfFVPjpXiujXTHc570wpM8d0x1/XY6cgIA=;lLLyozisAOtCAyLwlRDf+g=="
 ---

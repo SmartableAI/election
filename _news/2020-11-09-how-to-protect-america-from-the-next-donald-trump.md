@@ -48,20 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Here's definitive proof Republicans are still afraid of Donald Trump"
-    excerpt: "For all the people who predicted that the Republican fever would break the instant it was clear that Donald Trump had lost the presidency to Joe Biden, let me present you with this exchange between CNN's Alisyn Camerota and Delaware Sen."
-    publishedDateTime: 2020-11-10T17:07:00Z
-    webUrl: "https://www.cnn.com/2020/11/10/politics/republicans-chris-coons-2020-trump-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 115
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729082623-trump-at-podium-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "gA9VYfHupZBy43uWBDdV0mLHIfdfAiH73c21VR7fEGwB0OqhKrOZHG2BVr3NuVjo/LvI3J9sDX6ER0JNpB6Inc2//PzlwukbPIsV+BOZA9utAFwiZI2csaNNzzKo3EpVZNrOUqbGBFzQLLdem1CcDbxMxYXYZLSGwY2fRSn6bdxX/bXHDziqBS9zY2PDcsDquiQvbQZ0cW5uIqCm7A1iJc3/oXrZ68SrVT4xohEYDigGSHKTp9wBvPE8mvOz8UVD/zRJD/S4CS5sHlGjtvtMvH3lAbmaBXtJ+AD1cCBNwYGl2eBD7Uw8OhsPFfIqTsEVi5OeO9kHHABbbUC+MsQ3elt6zK4y/gM5bp9jKnni89Q=;rJ/Zb0Xe2lS/qmzijvWnag=="
 ---

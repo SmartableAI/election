@@ -31,109 +31,116 @@ images:
     isCached: true
 
 related:
-  - title: "The Point: Why is Donald Trump talking so much about losing?"
-    excerpt: "In recent days, President Donald Trump has started to openly speculate about what he might do if he loses in 15 days to former Vice President Joe Biden.\n    \n"
-    publishedDateTime: 2020-10-19T22:32:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMK_-TnB_sQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/is-trump-going-to-lose/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/is-trump-going-to-lose/index.html"
+  - title: "The Point: Why Trump is (still) forever"
+    excerpt: "Whether he's willing to admit it, Donald Trump has lost the presidency. And in 72 days, he will be gone from the White House.\n    \n"
+    publishedDateTime: 2020-11-09T23:31:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o1yx4pRG47c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/trump-gop-after-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-gop-after-2020/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201018154650-06-donald-trump-1017-wisconsin-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106225744-donald-trump-rally-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump accidentally revealed a *lot* about his taxes "
-    excerpt: "Donald Trump is the only modern American president to never release any of his tax returns -- either while running for president or during his time in office. He's offered a series of explanations for why that is, including that he is under audit by the Internal Revenue Service and that his taxes are"
-    publishedDateTime: 2020-10-20T15:42:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2GF-5RRWif8/trump-debate-guthrie-questions-taxes-cillizza-the-point.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/20/trump-debate-guthrie-questions-taxes-cillizza-the-point.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/20/trump-debate-guthrie-questions-taxes-cillizza-the-point.cnn"
+  - title: "The Point: Here's the real reason Mitch McConnell won't say Trump should concede"
+    excerpt: "Mitch McConnell doesn't think Donald Trump needs to concede the 2020 election -- even days after the race has been called for former Vice President Joe Biden.\n    \n"
+    publishedDateTime: 2020-11-10T15:41:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QRJ5b_B0ujU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/mitch-mcconnell-donald-trump-conceding/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/mitch-mcconnell-donald-trump-conceding/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201020082430-the-point-trump-accidentally-revealed-about-taxes-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023120254-35d-mitch-mcconnell-play-button-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: The most important line in Barack Obama's takedown of Donald Trump"
-    excerpt: "Former President Barack Obama reemerged on the campaign trail Wednesday in Philadelphia, delivering an across-the-board indictment of his successor's first four years in office.\n    \n"
-    publishedDateTime: 2020-10-22T15:23:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zDAIVTa4uaA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/barack-obama-donald-trump-speech-philadelphia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/barack-obama-donald-trump-speech-philadelphia/index.html"
+  - title: "Trump puts his bottom line before the country. And the GOP is helping him do it."
+    excerpt: "Given what we know about Donald Trump, his refusal to accept loss as he begins a revenge purge of his perceived enemies should not surprise us. He is a tiny man, devoid of moral fiber and character, defined only by his self-interest.\n    \n"
+    publishedDateTime: 2020-11-11T18:22:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YO7po5GJkdM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/borger-analysis-trump-bottom-line/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/borger-analysis-trump-bottom-line/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021194452-02-barack-obama-philadelphia-october-21-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102140343-02-trump-nc-1101-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: How one Republican senator is desperately trying to run away from Donald Trump"
-    excerpt: "Texas Sen. John Cornyn has been a stalwart defender of President Donald Trump. Like, big time.\n    \n"
-    publishedDateTime: 2020-10-19T14:32:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JqHnCJhtLIQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/john-cornyn-texas-mj-hegar/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/john-cornyn-texas-mj-hegar/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014113324-05-barrett-hearing-1014-cornyn-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Facebook-Twitter-Trump Wars Are Actually About Something Else"
-    excerpt: "Much of the outrage around the Trump era and social media platforms — like, most recently, the decision by Facebook and Twitter to reduce the reach of a highly questionabl Post story about Hunter Biden — is actually about government power and accountability."
-    publishedDateTime: 2020-10-18T19:06:00Z
-    webUrl: "https://www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.amp.html"
+  - title: "For Trump voters, shock, disappointment and disbelief."
+    excerpt: "Around the country, Trump supporters greeted news that Joseph R. Biden Jr. had won the election with a combination of disappointment and disbelief. Larry Thompson, who had voted for President Trump in Prosper,"
+    publishedDateTime: 2020-11-07T22:53:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/18/opinion/18warzel/18warzel-facebookJumbo-v3.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/07/nyregion/07election-live-blog-trump-disbelief/07election-live-blog-trump-disbelief-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump comes out strong. But is it too late?"
-    excerpt: "In their last face-off before the election, Donald Trump tried to flip the script on Joe Biden and avoid controversy."
-    publishedDateTime: 2020-10-23T03:37:00Z
-    webUrl: "https://www.politico.com/news/2020/10/22/presidential-debate-what-to-watch-431301"
+  - title: "Trump Lost the Race. But Republicans Know It’s Still His Party."
+    excerpt: "Inside the Zoom salons, Senate-office conversations and 2024 jockeying that will shape the future of the G.O.P."
+    publishedDateTime: 2020-11-09T09:32:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/us/politics/republican-party-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/republican-party-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/republican-party-trump.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/07/us/politics/0gop-whathappensnext-1/merlin_179715216_006831f4-4064-4500-afbf-0577732f6f43-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "What’s Next for Trump? The Family Business Awaits His Return"
+    excerpt: "President Trump has long complained that public office cost him billions. Now he faces the challenge of jump-starting the company that bears his name, while television also beckons."
+    publishedDateTime: 2020-11-09T01:09:00Z
+    webUrl: "https://www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/07/multimedia/00TrumpOrg-Lose-2/merlin_174048489_c65deb2b-cda2-403e-a1b3-1fd5d90d39ad-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1687
+        isCached: true
+  - title: "Here's definitive proof Republicans are still afraid of Donald Trump"
+    excerpt: "For all the people who predicted that the Republican fever would break the instant it was clear that Donald Trump had lost the presidency to Joe Biden, let me present you with this exchange between CNN's Alisyn Camerota and Delaware Sen."
+    publishedDateTime: 2020-11-10T17:07:00Z
+    webUrl: "https://www.cnn.com/2020/11/10/politics/republicans-chris-coons-2020-trump-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
     quality: 115
     images:
-      - url: "https://static.politico.com/06/db/03bb0a544ca0a74f2520648d7b42/201022-biden-trump-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729082623-trump-at-podium-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump Said He'd Ban Foreign Lobbyist Fundraising. Now They’re Bankrolling His Campaign."
-    excerpt: "Lobbyists representing foreign governments have bundled nearly 2 million dollars for the president’s re-elect."
-    publishedDateTime: 2020-10-20T08:42:00Z
-    webUrl: "https://www.thedailybeast.com/trump-said-hed-ban-foreign-lobbyist-fundraising-now-theyre-bankrolling-his-campaign"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
 
 secured: "AxX/DKWUuTk7FpB1r48hoTh+8ZNr0bbBfUBUrn/RGoJwHn5Nz97TKJFNgPi1RuGVRqxL3l6Kj8tWA95b36P8RpPzzb6lTtYFDJ3I7rarC6e8BakZsgmwTysCCW6vTmol6wbg7WMnLpjV2xBteve758G6Jy8kRC6zOtdiQCJZzItA4eN8g12DQ/Srok1ZQ2jclrgXUdYiV/ftFEamFG4FKoFIneA6xJ9JZdyKJArzGBqHDg8jbN7kRRF8JzAZ5g4DwHDLXfpYqF/YwJHTE1H0Gi9eZ1O8W0u56TOzL6ZsH4RvEv6MaLvBTXl7pEv+mk8BqvZwsZL0+ALn/AztG6DcwAXP/vllkg57y9pXqgV39o4=;HY39h6duXZs7cx9Sk+AC3g=="
 ---

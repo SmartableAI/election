@@ -112,20 +112,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "LIVE UPDATES: Trump speaks out in first interview since Election Day"
-    excerpt: "Follow for the latest updates on the 2020 election."
-    publishedDateTime: 2020-11-29T06:23:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j7TrB3K9YWM/live-updates-blm-activists-protest-la-mayor-as-potential-cabinet-pick"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-resize-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump Calls Justice, FBI ‘Missing in Action’ on Election Allegations"
     excerpt: "President Trump accused federal law-enforcement agencies run by his own appointees of ignoring his unproven claims of mass election fraud, as his legal setbacks continued to mount."
     publishedDateTime: 2020-11-29T20:34:00Z

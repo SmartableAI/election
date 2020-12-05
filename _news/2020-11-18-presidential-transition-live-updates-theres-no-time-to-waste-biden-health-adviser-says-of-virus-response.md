@@ -64,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden tells supporters, 'We're on track to win'"
-    excerpt: "Joe Biden speaks to supporters in Delaware as votes are still being counted and says they \"feel very good about where we are.\""
-    publishedDateTime: 2020-11-04T07:34:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-tells-supporters-we-re-on-track-to-win-95284805763"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95284805763"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95284805763"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_full_2020_biden_speech_201103_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "teY/DqIDmxiArhXQAxjlA9iEVA6TDdK/p0/61Nk5ad/rMXAo2ZTx55kBYnVsQZMPS1fGk5xSCa00QcjCyjGXnotdoGpzucVNwVxsop2yX+R93uBMP9KicDbtkZ11xIq7KF/vS2ZSVmB7eCf5B3QaG4dA8DtLkIqmZLyG4Ert7mzG3E7l+aaPCkAzysPkZ9foYuJ3TI4hgjcRmx7Pfg/SYykQaBz649qE8fYfY2Io2pLS9O7h92913aLOopIVS0oQdzR38NWVGmCQToDH4NKZsLAuJx4bSpP8NwJovEbuoWQe++3Bh3pZnZxuaqF33tUPPnNBZ8Y0zKVT5bnqKI4HKqc5pnzMQgE/w3jW57nvSWcAN75/dsiHpgwKhuLQp+bV4D30R6Inb5Spqz2SX2JqRL0YGsaqbfGA9unc8pzdJfpaN3tadfqGA1tw/bBPC1wbm1ByLh2avjr44tqYru7MqWCG6o5OdgzKQOrEBnQUVGe0YF/7hiBfig3XKZfceEYJD4d+scpLCcBldDi1ewZXkQ==;HUQCV0QbouryXnMS9jwqjA=="
 ---

@@ -31,133 +31,165 @@ images:
     isCached: true
 
 related:
-  - title: "Massive lines at Trump rally in battleground state North Carolina"
-    excerpt: "Supporters reportedly lined up hours in advance for President Trump's rally in Hickory, North Carolina on Sunday."
-    publishedDateTime: 2020-11-01T20:56:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j4I8cRTrRuE/trump-nc-rally-long-lines"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
+  - title: "Trump campaign drops lawsuit challenging Michigan voting results"
+    excerpt: "President Trump's reelection campaign said Thursday that it is dropping a lawsuit challenging voting results in Michigan, which show Democrat Joe Biden narrowly carrying the battleground state."
+    publishedDateTime: 2020-11-19T16:20:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-NC-Lines-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a98bd85-8cb6-40db-a341-bed123126296/b14b578b-9eab-4265-bd71-466ccf3a8c4c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Lara Trump teases potential Senate run in North Carolina"
-    excerpt: "Lara Trump teased a potential Senate run in North Carolina Friday to replace Sen. Richard Burr, who is retiring after three terms in 2022. "
-    publishedDateTime: 2020-12-05T02:33:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wBJhXZWMQcE/lara-trump-senate-run-north-carolina"
-    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-senate-run-north-carolina.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-senate-run-north-carolina.amp"
+  - title: "Trump told confidants he intends to pardon Michael Flynn: report"
+    excerpt: "President Trump reportedly intends to pardon former National Security Advisor Michael Flynn, one in a series to be issued before he leaves office."
+    publishedDateTime: 2020-11-25T03:02:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/alYrbM1wLpw/trump-flynn-pardon-michael-flynn"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-flynn-pardon-michael-flynn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-flynn-pardon-michael-flynn.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c4cf900-7e8a-4ea4-9509-3cec99500b9a/8c80d9e2-d8c8-442d-9efb-75024fb9150d/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62e92172-67dd-4365-a047-6be137fd72d2/9943ce69-5c00-44cd-b562-7f17e66ab3ba/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump investment in North Carolina's Native American Lumbee Tribe pays off"
-    excerpt: "Robeson County voters chose Trump (59%) over Democratic nominee Joe Biden (41%) after Trump held a rally there on Oct. 24, according to preliminary data."
-    publishedDateTime: 2020-11-06T15:18:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/liGTPvgPESY/trump-north-carolina-lumbee-robeson-native-american"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-lumbee-robeson-native-american.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-lumbee-robeson-native-american.amp"
+  - title: "Trump announces pardon of former National Security Advisor Michael Flynn"
+    excerpt: "\"It is my Great Honor to announce that General Michael T. Flynn has been granted a Full Pardon,\" the president wrote. \"Congratulations to @GenFlynn and his wonderful family, I know you will now have a truly fantastic Thanksgiving!\""
+    publishedDateTime: 2020-11-25T21:16:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GjmD_MDpddg/trump-announces-pardon-of-former-national-security-advisor-michael-flynn"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-announces-pardon-of-former-national-security-advisor-michael-flynn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-announces-pardon-of-former-national-security-advisor-michael-flynn.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20298688186744.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Pro-Trump parade rolls through NYC neighborhood, receives surprising support"
-    excerpt: "Video taken of a pro-Trump auto parade ahead of Sunday’s chaotic “Jews for Trump” rally in New York City shows at least one neighborhood giving the parade a warm reception hours before clashes broke out elsewhere in the city between Trump supporters and protesters."
-    publishedDateTime: 2020-10-28T22:38:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sNaFob8Bmpk/pro-trump-parade-rolls-through-nyc-neighborhood"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-parade-rolls-through-nyc-neighborhood.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-parade-rolls-through-nyc-neighborhood.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3706f679-6725-4e41-8b0b-4117586db841/b2fef4ae-3f28-4dc1-bcf7-a4111b0ab125/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29fb2b28-d307-4579-bc27-d342924a7919/00a3637e-bf17-4ffa-876c-875b70e07bbb/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Lara Trump, Mark Meadows consider running for North Carolina Senate seat in 2022"
-    excerpt: "Trump campaign adviser Lara Trump and White House chief of staff Mark Meadows are both considering running for Senate in North Carolina after Sen. Richard Burr announced he would not seek reelection in 2022, Fox News has learned."
-    publishedDateTime: 2020-11-20T15:33:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fSQgFkM777Q/lara-trump-mark-meadows-north-carolina-senate-seat-2022"
-    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-mark-meadows-north-carolina-senate-seat-2022.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-mark-meadows-north-carolina-senate-seat-2022.amp"
+  - title: "PA Supreme Court rejects Trump challenge to absentee ballots in Allegheny County"
+    excerpt: "President Trump’s attorneys asked the courts to throw out ballots that were missing information."
+    publishedDateTime: 2020-11-23T21:41:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I8ESxnRedrk/pa-supreme-court-rejects-trump-challenge-absentee-ballots-allegheny-county"
+    ampWebUrl: "https://www.foxnews.com/politics/pa-supreme-court-rejects-trump-challenge-absentee-ballots-allegheny-county.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-supreme-court-rejects-trump-challenge-absentee-ballots-allegheny-county.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump in 'stronger position than he was in 2016' in battleground states: Rep. McCarthy"
-    excerpt: "President Trump is in a \"stronger position than he was in 2016\" in battleground states Arizona, Wisconsin, Ohio and Georgia, House Minority Leader Kevin McCarthy said on Sunday."
-    publishedDateTime: 2020-11-01T18:33:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_5sY1CudaMM/trump-2016-2020-battleground-states-kevin-mccarthy"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-2016-2020-battleground-states-kevin-mccarthy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2016-2020-battleground-states-kevin-mccarthy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20306646863849.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump claims victory with many states still undeclared, hints at possible Supreme Court case"
-    excerpt: "President Trump declared victory in multiple key battleground states early Wednesday, even though it remained unclear who had the votes to win, as Trump hinted the White House would push the Supreme Court to rule over disputed ballots, warning that a “very sad group of people” was trying to “disenfranchise”"
-    publishedDateTime: 2020-11-04T07:51:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/woEU1fA0WWw/trump-claims-victory-states-undecided-supreme-court-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Tucker Carlson: Media misjudged Trump support among non-White voters"
-    excerpt: "Tucker Carlson criticized the mainstream media on Tuesday for painting President Trump as a racist who would struggle to attract non-White voters after the president delivered a strong showing in Miam"
-    publishedDateTime: 2020-11-04T02:58:00Z
-    webUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters"
-    ampWebUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21212b6f-71af-45fa-bda8-db4cce1855c1/9cd41134-3b22-4a3f-91c1-fd8799d3f7e6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump campaign files Michigan lawsuit claiming GOP blocked from viewing vote counting"
+    excerpt: "The Trump campaign has filed a lawsuit against Michigan Secretary of State Jocelyn Benson and Wayne County officials in which they allege that credentialed election challengers were blocked from having sufficient view of the vote-counting process, challenges against certain ballots were ignored, and"
+    publishedDateTime: 2020-11-11T16:54:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TcX8sE6dRYY/trump-campaign-michigan-election-vote-counting-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-michigan-election-vote-counting-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-michigan-election-vote-counting-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea9f25e8-6385-4323-b73b-db50ab67f4f3/571ae161-8619-4643-8c44-cefd5e7c3e27/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump hits back at WaPo over report saying campaign scrapping key part of Pennsylvania lawsuit"
+    excerpt: "President Trump and his team are pushing back against reports that his campaign significantly scaled back allegations in a Pennsylvania lawsuit over the 2020 election, although an amended complaint filed Sunday did significantly alter the case's stated goals."
+    publishedDateTime: 2020-11-16T15:28:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sFrEAyQ1Cyg/trump-campaign-pennsylvania-lawsuit-washington-post-report"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-pennsylvania-lawsuit-washington-post-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pennsylvania-lawsuit-washington-post-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/302a6c03-2397-4711-b51e-017975e01310/a4ae4050-9975-4bf0-a30c-4e40959ae5a4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump Campaign, Allies Face Legal Setbacks in Michigan, Arizona, Pennsylvania Election Suits"
+    excerpt: "A state judge in Michigan denied a bid by a conservative legal group to block the certification of election results and force an independent audit of votes in Detroit, calling the allegations of misconduct and voter fraud “incorrect and not credible."
+    publishedDateTime: 2020-11-13T22:57:00Z
+    webUrl: "https://www.wsj.com/articles/michigan-judge-denies-conservative-group-s-request-to-delay-detroit-election-certification-11605295879"
+    ampWebUrl: "https://www.wsj.com/amp/articles/michigan-judge-denies-conservative-group-s-request-to-delay-detroit-election-certification-11605295879"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/michigan-judge-denies-conservative-group-s-request-to-delay-detroit-election-certification-11605295879"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 139
+    images:
+      - url: "https://images.wsj.net/im-259583/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Says He Pardoned Michael Flynn, Ex-National Security Adviser"
+    excerpt: "President Trump said he has pardoned former national security adviser Michael Flynn, using his lame-duck executive power to protect an ally who pleaded guilty to lying to the FBI."
+    publishedDateTime: 2020-11-26T04:42:00Z
+    webUrl: "https://www.wsj.com/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532?mod=business_minor_pos4"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-264930/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Says He Pardoned Michael Flynn, Ex-National Security Adviser"
+    excerpt: "President Trump said he has pardoned former national security adviser Michael Flynn, using his lame-duck executive power to protect an ally who pleaded guilty to lying to the FBI."
+    publishedDateTime: 2020-11-27T03:02:00Z
+    webUrl: "https://www.wsj.com/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-264930/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Says He Has Pardoned Former National Security Adviser Michael Flynn"
+    excerpt: "President Trump said he has pardoned former national security adviser Michael Flynn, using his lame-duck executive power to protect an ally who pleaded guilty to lying to the FBI."
+    publishedDateTime: 2020-11-26T02:25:00Z
+    webUrl: "https://www.wsj.com/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532?mod=breakingnews"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 134
+    images:
+      - url: "https://images.wsj.net/im-264930/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "aaI5xsE+bD2HhcjntgDqulFGTlk4TQdUWdMR6r0NwDDdQw0aoAh+s5sH8p2v/tZThm7WrZFSSWj0pY0PS6WrZdP0dWlLgva1hnDGXYsqGeKgMtbjRggX9PFEmA/WwMjB1SZl4kq62C/l7Las30vRmjRIEJJSIllY5vdykVp7Pwuhuf8eYImkTFJxGBermZ6jdb3ik/zo20JaBke6tNHWHLuuJ87gGKZsXLFIdQXMYBqd6bFeMWQLlej+uCTvMaHTwhJ4usO72fny4nz2wLicxTCabRjKnpCYXgqweDhcHI9MPlHVOHIR1UtGdkry88Utpq8vRf7+VmG48HOlqUG2Ii7J+GRyJFsJs385OOeMTKE=;yjgxfIc5dmoIpe98WRiLug=="

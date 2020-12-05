@@ -159,22 +159,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "The Justice Department is investigating a potential bribery scheme for a Trump pardon."
-    excerpt: "The Justice Department has been investigating whether intermediaries for a federal convict offered White House officials a bribe in exchange for a potential pardon or commutation from President Trump,"
-    publishedDateTime: 2020-12-02T22:14:00Z
-    webUrl: "https://www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 127
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-brieft-pardon/01transition-brieft-pardon-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "r7d4C2hc6RArIheBhwGwDVaajGQqxqKY7bOKgOul4rhOA21sJpedJjBVkoS8kzLxNX8ihGfxFmCmE2/bxG2WdgYoUKScSfLdXtRoWxTUpYHr+DIPcf6l4iFHUiHaTo0AfCuLfL24375uN+8a1f5vBKbjs1XUf+ZcHNq5N8Rcdm4ujVdVpp0jmF6D9NlsxnC2on5Dawb0tMc75HGuKWCF7mFdDC/RqxPrzEWEiEnZFuQ0n4vrtvXJba9/TqoRQARKtrk8imna3TR4LKtT/CbeZBcR7/OkHK7RYqGSkVou2jerhoZLxI0Y2eT+NAVqczqfinSZIqzlhDTsTUiHKJ6F2qCf4CUBYN6g+cVVOKrzifw=;EpA2AbMiJLeTfF4lqunVRA=="
 ---

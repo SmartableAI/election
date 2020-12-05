@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Lady Gaga and John Legend to join Joe Biden and Kamala Harris for final campaign events"
-    excerpt: "Superstars Lady Gaga and John Legend will join Joe Biden and Kamala Harris for their final respective events on the campaign trail on the eve of Election Day, the Biden campaign announced Sunday.\n    \n"
-    publishedDateTime: 2020-11-01T20:51:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/36z-f9SM6zk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 192
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160225091736-lady-gaga-joe-biden-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Current and former Trump officials quietly reach out to Biden team"
     excerpt: "A handful of current Trump administration officials, as well as some political appointees who left in recent months, have quietly started to reach out to members of President-elect Joe Biden's transition team, according to people briefed on the matter.\n    \n"
     publishedDateTime: 2020-11-18T23:34:03Z
@@ -494,22 +478,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124132329-03-biden-admin-announcement-1124-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Today: Trump and Harris head to Arizona, Pence to Wisconsin and Michigan, Biden speaks on the virus."
-    excerpt: "Holds a rally in Bullhead City, Ariz. 4:30 p.m.: Holds a rally in Goodyear, Ariz. Former Vice President Joseph R. Biden Jr. Morning: Receives a briefing from public health experts and delivers remarks on the coronavirus and health care policy."
-    publishedDateTime: 2020-10-28T12:42:00Z
-    webUrl: "https://www.nytimes.com/2020/10/28/us/elections/today-trump-and-harris-head-to-arizona-pence-to-wisconsin-and-michigan-biden-speaks-on-the-virus.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/28/us/elections/today-trump-and-harris-head-to-arizona-pence-to-wisconsin-and-michigan-biden-speaks-on-the-virus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/28/us/elections/today-trump-and-harris-head-to-arizona-pence-to-wisconsin-and-michigan-biden-speaks-on-the-virus.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 175
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/28/multimedia/28elections-briefing-sched/28elections-briefing-sched-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Can Biden's green agenda break the 'brown blockade'?"
     excerpt: "President-elect Joe Biden has committed more explicitly than any nominee before him to dramatic steps against the climate crisis, but he faces the same geographic puzzle that has precluded congressional action on the challenge for years.\n    \n"

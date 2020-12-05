@@ -288,22 +288,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact Check: Rudy Giuliani and Eric Trump's press conference was filled with false claims about ballots in Pennsylvania"
-    excerpt: "After announcing the Trump campaign's plan to pursue a series of lawsuits at an event billed as a press conference in Philadelphia, the President's son, Eric Trump, and his personal lawyer, Rudy Giuliani, didn't take questions from the media. Instead, they spent time lambasting election officials who"
-    publishedDateTime: 2020-11-05T15:37:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FE56q_IDSxo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 151
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104001833-pensilvania-philadelphia-voting-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Pennsylvania Supreme Court rules Trump campaign observers had no right to stand within a specific distance during Philadelphia ballot processing"
     excerpt: "The Pennsylvania Supreme Court on Tuesday ruled 5-2 that a Trump campaign ballot processing observer in Philadelphia had no right to stand any particular distance away from election workers, and it's up to counties to decide where poll watchers can stand.\n    \n"
     publishedDateTime: 2020-11-17T23:05:51Z
@@ -319,22 +303,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117142614-donald-trump-1113-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Donald Trump has a problem: White women in Pennsylvania"
-    excerpt: "The 71-year-old resident of the battleground state of Pennsylvania, a registered Democrat, voted for Donald Trump. It wasn’t that she was unhappy with former President Barack Obama: She voted for him,"
-    publishedDateTime: 2020-10-19T20:14:00Z
-    webUrl: "https://www.politico.com/news/2020/10/19/trump-white-women-pennsylvania-430165"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-white-women-pennsylvania-430165"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-white-women-pennsylvania-430165"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/82/a9/4165163c4bf894339ab3ce59e328/201019-trump-gty-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "In Pennsylvania, Trump Voter Fury Foretells a Nation Still Divided"
     excerpt: "President Trump has presented no hard evidence of voter fraud, but his charges have riled supporters in Pennsylvania who now insist the election has been stolen."

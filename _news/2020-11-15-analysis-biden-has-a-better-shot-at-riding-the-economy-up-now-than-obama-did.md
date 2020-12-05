@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden tells supporters, 'We're on track to win'"
-    excerpt: "Joe Biden speaks to supporters in Delaware as votes are still being counted and says they \"feel very good about where we are.\""
-    publishedDateTime: 2020-11-04T07:34:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-tells-supporters-we-re-on-track-to-win-95284805763"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95284805763"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95284805763"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_full_2020_biden_speech_201103_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Presidential Transition Live Updates: ‘There’s No Time to Waste,’ Biden Health Adviser Says of Virus Response"
     excerpt: "Georgia’s top election official said that fellow Republicans were pressuring him over the state’s presidential recount. The Trump campaign heads to court in Pennsylvania in a bid to halt the certification of President-elect Joe Biden’s victory there."
     publishedDateTime: 2020-11-17T21:11:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248994"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248994"
 type: article
 quality: 121
-heat: 141
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -32,21 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Federal watchdog finds 'substantial likelihood of wrongdoing' by Trump appointees overseeing Voice of America"
-    excerpt: "The federal watchdog's findings mark the latest rebuke of the Trump-appointed CEO of the U.S. Agency for Global Media, Michael Pack."
-    publishedDateTime: 2020-12-03T18:24:00Z
-    webUrl: "https://www.nbcnews.com/news/world/federal-watchdog-finds-substantial-likelihood-wrongdoing-trump-appointees-overseeing-voice-n1249851"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249851"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249851"
+  - title: "Trump's continued rhetoric over election hampers recovery as Americans face heightened economic and health fears"
+    excerpt: "President Donald Trump finally confirmed Thursday that he will vacate the White House in January after weeks of plunging America into a dark period of uncertainty—where the fate of democracy sometimes seemed to be hanging by a thread—but he largely ignored the mounting challenges his successor is facing"
+    publishedDateTime: 2020-11-27T05:03:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Kxu1a0apCTM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/trump-biden-coronavirus-economy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/trump-biden-coronavirus-economy/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 116
+      name: CNN
+      domain: cnn.com
+    quality: 169
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3391302/200619-michael-pack-us-senate-ew-130p_c58f8b658898b995f375e0c2268ac5b4.jpg"
-        width: 2500
-        height: 1400
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126210210-trump-white-house-point-thanksgiving-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Hints at Another Act in Four Years, Just Like Grover Cleveland"
+    excerpt: "The president is eying a comeback in 2024 aimed at making him the only person other than Cleveland to win another term after losing the White House."
+    publishedDateTime: 2020-12-03T00:44:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02dc-trump-1/02dc-trump-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "eiG7bCYcj8f935YtuOFtVzMv8lC768rom2abpNAjKgrKTZAbcFb1pWeBPILW/zJ56XVeLuANPRjzWhp2LHYfM8pdN77ROt5reBINnbI5oerSModwSu5Z3gKEu9rUVgv8BusCQjHduIyaJlQmTlC4BVPY0RBWElJ7dIU5bZ0sTf/lu6L7Ti4sI48hHjlfqN1KNQp11D+4VNnbkbDODUSnu6TUcAlAbEOLcWpOggwH3ioi65RFWmY2kYBjcvbYJDMKIGLoM0uNoAd7Nw+m5FluPLZFRmrdwp3HEXCD6W8ONabHhETC+ci+Wv0Z3/u5dxRNNCad/B4/cdwmWpfFwzovx/5/YWcNuf66gRbRn0rWk3Q=;EDKrzHneOlsnIWXEtQdSew=="

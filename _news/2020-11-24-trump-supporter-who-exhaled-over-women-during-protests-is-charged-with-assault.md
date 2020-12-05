@@ -47,22 +47,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "In blistering ruling, judge throws out Trump suit in Pa."
-    excerpt: "A federal judge has dismissed the Trump campaign’s longshot effort to block the certification of votes in Pennsylvania"
-    publishedDateTime: 2020-11-22T07:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-throws-trump-bid-stop-pa-vote-certification-74340148"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-throws-trump-bid-stop-pa-vote-certification-74340148"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-throws-trump-bid-stop-pa-vote-certification-74340148"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a32de59bb9f3444596f970c6e31b3e80_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "eHyYmwCwnGmGJ5t7lBlIdV+8VJVy93FJqutvkgT2rgwfbYxFGzBW8arMv7QF5NccHmplXUZsXv6FexawmSVmOzig2lM8d7ZzH2FL6hez/rb8GlaxHgtoukCMH4Ab9SuiEvAkHNywI134RY4Qiec/IkBcmJkUvd4lElfpaThwikW919idkmvF8Ij+beoyqq3Vl8cfP4UPNCg4/KV1fSH3jKimLGWEB82q9BToQWlJ/38a46JU08wtNZa/kio7o5+OYT7tnhEMSCGyAs5z3YwuYPJdLpyk494DLjZl/rhl8SQ9z9PMjYYDJY6Lvu3g0oQ57tLodQnn3whu9MoL/AcjdiOdp8TYomZyRwGp3189iSE=;ZjfzpgognQsVu7CqlPcFVA=="
 ---

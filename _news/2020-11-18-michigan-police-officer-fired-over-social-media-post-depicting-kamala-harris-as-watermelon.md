@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Fact check: Kamala Harris has said she agrees with decriminalizing sex work"
+    excerpt: "Claims on social media that Vice President-elect Kamala Harris has endorsed legalizing prostitution are false."
+    publishedDateTime: 2020-11-21T00:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/20/fact-check-kamala-harris-has-agreed-decriminalizing-sex-work/6325987002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6325987002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6325987002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/28/USAT/aed08656-70ec-4fa2-b665-65f9e7f6858e-bet-hip-hop-awards-kamala.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris: NI peer Lord Kilclooney told to apologise for 'offensive' tweet"
     excerpt: "A member of the House of Lords, Lord Kilclooney, has been told to apologise for referring to US vice-president-elect Kamala Harris as \"the Indian\". \"What happens if Biden moves on and the Indian becomes President."
     publishedDateTime: 2020-11-10T00:22:00Z
@@ -58,6 +74,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1EEE/production/_113881970_gettyimages-1197732327.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Moving illustration of Kamala Harris walking alongside Ruby Bridges goes viral"
+    excerpt: "An illustration of Kamala Harris walking next to a young Ruby Bridges, the first African American student to integrate an elementary school in the South, has gone viral."
+    publishedDateTime: 2020-11-10T00:32:00Z
+    webUrl: "https://abcnews.go.com/GMA/Living/moving-illustration-kamala-harris-walking-alongside-ruby-bridges/story?id=74105382"
+    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/moving-illustration-kamala-harris-walking-alongside-ruby-bridges-74105382"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/moving-illustration-kamala-harris-walking-alongside-ruby-bridges-74105382"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-harris-26-ap-jc-201107_1604803158311_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Kamala Harris didn't become vice-president-elect by saying 'no worries if not'"
     excerpt: "For a demonstration of a woman who is unafraid to speak with confidence, look no further than Harris’s victory speech, says Guardian columnist Emma Brockes"
@@ -91,6 +123,22 @@ related:
         width: 1440
         height: 963
         isCached: true
+  - title: "Kamala Harris victory sparks celebration in south India for 'daughter of our village'"
+    excerpt: "Residents took to the streets in the vice president-elect’s ancestral village after hearing news of her victory."
+    publishedDateTime: 2020-11-09T16:18:00Z
+    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/525111-kamala-harris-victory-sparks-celebration-in"
+    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/525111-kamala-harris-victory-sparks-celebration-in?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/525111-kamala-harris-victory-sparks-celebration-in?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 118
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_harrisindiacelebration_110920getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Celebrating Diwali, some see Kamala Harris’ rise reflected in stories of good over evil"
     excerpt: "The festival of lights takes on new meaning this year for Indian Americans in California who supported the Democratic presidential ticket of Joe Biden and Kamala Harris."
     publishedDateTime: 2020-11-14T13:07:00Z
@@ -122,6 +170,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/DZ04q9AYHCuI94R4FC5NzJGQB08=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZH234KO7L5D7VGXLLS5ZEJVD2U.jpg"
         width: 1200
         height: 888
+        isCached: true
+  - title: "Kamala Harris’ sorority sisters speak out on her making history as 1st woman of color to be vice president"
+    excerpt: "As Kamala Harris prepares to make history as the first woman and woman of color to serve as vice president, her sorority sisters say they are not surprised that Harris is the woman shattering the nation's glass ceiling."
+    publishedDateTime: 2020-11-09T18:02:00Z
+    webUrl: "https://abcnews.go.com/GMA/News/kamala-harris-sorority-sisters-speak-making-history-1st/story?id=74103505&ref=upstract.com&curator=upstract.com"
+    ampWebUrl: "https://goodmorningamerica.com/amp/news/story/kamala-harris-sorority-sisters-speak-making-history-1st-74103505"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/news/story/kamala-harris-sorority-sisters-speak-making-history-1st-74103505"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 107
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-harris-06-rtr-jc-201107_1604799252174_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "'Brown girl, brown girl' poem celebrates Kamala Harris making history as 1st woman of color vice president"
     excerpt: "Honoré was in the car with her 20-year-old daughter and as they celebrated the victory that will make Harris the first woman and woman of color vice president, Honoré also began to pen an update to a poem she originally wrote in 2016 for her book of poetry,"
@@ -166,6 +230,34 @@ related:
       - url: "https://apnews.com/images/ShareLogo2.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "‘Proud, ecstatic, happy’: For Black women in Bay Area, Kamala Harris’ election carries special meaning"
+    excerpt: "The victory of Harris, an Oakland native, gave Black women in the Bay Area hope for a broader range of possibilities for themselves and their families."
+    publishedDateTime: 2020-11-09T21:35:00Z
+    webUrl: "https://www.houstonchronicle.com/bayarea/article/Kamala-Harris-made-Black-women-feel-seen-Now-15711427.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 104
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/13/17/20231112/5/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
+  - title: "A tour of Kamala Harris' East Bay, from her place of birth to her Berkeley school"
+    excerpt: "Vice President-elect Kamala Harris is often called the “daughter of Oakland,” as she was born in the East Bay city on Oct. 20, 1964, to two immigrant parents. While talking about her Bay Area upbringing during the Oct."
+    publishedDateTime: 2020-11-09T18:28:00Z
+    webUrl: "https://www.houstonchronicle.com/bayarea/article/Kamala-Harris-Berkeley-Thousand-Oaks-Oakland-15698798.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 100
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/12/64/20229416/3/rawImage.jpg"
+        width: 1700
+        height: 1296
         isCached: true
   - title: "'She'll Look Like A Boss': Vice President-Elect Kamala Harris Inspires Young Girls"
     excerpt: "In her victory speech, Kamala Harris spoke directly to young girls, saying \"this is a country of possibilities.\" Girls who met Harris during the campaign say they're inspired by her as a pathbreaker."
@@ -259,6 +351,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Siri Says How Old Kamala Harris Is When Asked The President's Age [WATCH]"
+    excerpt: "When Siri was asked how old the president is Sunday, it gave users information about Vice-President-elect Kamala Harris instead of properly noting that Donald Trump is 74. The more conspiratorially-minded jumped on the issue,"
+    publishedDateTime: 2020-11-09T16:59:00Z
+    webUrl: "https://www.ibtimes.com/siri-says-how-old-kamala-harris-when-asked-presidents-age-watch-3079154"
+    ampWebUrl: "https://www.ibtimes.com/siri-says-how-old-kamala-harris-when-asked-presidents-age-watch-3079154?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/siri-says-how-old-kamala-harris-when-asked-presidents-age-watch-3079154?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/07/29/siri.jpg"
+        width: 600
+        height: 399
+        isCached: true
   - title: "Menlo Park school board president resigns after wife's 'reprehensible' tweet about Kamala Harris"
     excerpt: "A Menlo Park school board president stepped down after his wife's racist, offensive tweet began circulating among students' families."
     publishedDateTime: 2020-11-10T08:15:00Z
@@ -284,6 +392,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Menlo Park school official resigns following wife’s vulgar tweet about Kamala Harris"
+    excerpt: "Jon Venverloh announced his immediate resignation in a statement to the Las Lomitas school community, in which he said that he needed to focus on and support his family during this time."
+    publishedDateTime: 2020-11-10T08:09:00Z
+    webUrl: "https://www.sfchronicle.com/bayarea/article/Menlo-Park-school-official-resigns-following-15714234.php"
+    ampWebUrl: "https://www.sfchronicle.com/bayarea/amp/Menlo-Park-school-official-resigns-following-15714234.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/Menlo-Park-school-official-resigns-following-15714234.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 68
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/14/42/20236452/5/rawImage.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Sheriff’s court deputy fired after posting photo of Kamala Harris watermelon carving"
     excerpt: "A part-time court deputy with the Oakland County Sheriff’s Office was terminated after she was found to have posted a photo on social media showing Joe Biden, Donald Trump, and Mike Pence"
     publishedDateTime: 2020-11-21T20:57:00Z
@@ -299,6 +423,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/michigancop.jpg?w=780&h=438"
         width: 780
         height: 438
+        isCached: true
+  - title: "Menlo Park school board president resigns after wife’s racist tweets about Kamala Harris"
+    excerpt: "School board president Jon Venverloh announced his retirement Sunday after racist and misogynistic remarks made by his wife."
+    publishedDateTime: 2020-11-10T00:43:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/09/menlo-park-school-board-president-resigns-after-wifes-racist-tweets-about-kamala-harris/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/09/menlo-park-school-board-president-resigns-after-wifes-racist-tweets-about-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/09/menlo-park-school-board-president-resigns-after-wifes-racist-tweets-about-kamala-harris/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 66
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/mvschool_list.jpg?w=369&h=224"
+        width: 369
+        height: 224
         isCached: true
   - title: "Kamala Harris Elementary? Berkeley vice mayor wants school renamed to honor vice president-elect"
     excerpt: "Vice Mayor Sophie Hahn introduced the resolution to the City Council on Monday to urge the school district to begin the process of renaming Thousand Oaks Elementary School after vice president-elect Harris."

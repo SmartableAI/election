@@ -78,22 +78,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump mocks Biden to Pennsylvania crowd over oil comment: 'He blew it'"
-    excerpt: "President Trump warned Pennsylvania residents that a Joe Biden administration would sink their state's economy, while mocking his Democratic rival for what he called a \"shocking admission\" about his energy policy."
-    publishedDateTime: 2020-10-26T18:49:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpV_ZWq8VYQ/trump-pennsylvania-rally-biden-oil-transition"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5237d17-29f2-4497-97f7-90df3b44d487/d8f57439-b93c-40ab-a426-5b9656ebedfa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden, Trump voters both say more coronavirus relief needed"
     excerpt: "The vast majority of Americans -- of all backgrounds -- want more COVID-19 relief."
     publishedDateTime: 2020-11-20T20:23:49Z
@@ -347,22 +331,6 @@ related:
     quality: 184
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump touts fracking policy in Pennsylvania rally, says Biden 'will shut it all down'"
-    excerpt: "President Trump told backers at an Erie, Pa., rally Tuesday night that the battleground state is crucial to his chances of winning re-election, and his stance on fracking is crucial to the Keystone state."
-    publishedDateTime: 2020-10-21T02:09:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXoaSe8Ouo4/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40241d64-a7f5-4845-ac9e-033d6ed293ba/d8286a5d-e3f4-4445-8624-bd0f99c4d418/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1330,20 +1298,6 @@ related:
       - url: "https://images.wsj.net/im-257641?size=1.5"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Biden's Expanded-Map Strategy Carries Risk in Pennsylvania"
-    excerpt: "Vice President Joe Biden this week told reporters he hopes to carry Pennsylvania by the “grace of God” and called it a “big deal to me personally as well as politically.” Each question Wallace asked of President Trump was framed upon faulty assertions of untruth and sometimes Wallace actually argued with Trump before Trump's allotted 2 minutes were used."
-    publishedDateTime: 2020-10-29T14:24:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/29/bidens_expanded-map_strategy_carries_risk_in_pennsylvania_527858.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/525533_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "Biden's Policy Proposals Would Harm Economy"
     excerpt: "As President-elect Joe Biden and Vice President-elect Kamala Harris prepare their agenda, dealing with the pandemic and working to rebound the economy are certain to be key priorities. However, the Democratic Party still has a tough battle ahead in Georgia to flip control of the Senate,"

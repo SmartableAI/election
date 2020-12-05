@@ -32,53 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden closes out his campaign in Pennsylvania, promising 'the beginning of a new day' "
-    excerpt: "Joe Biden closed his presidential campaign Monday night in Pennsylvania, lambasting President Donald Trump's handling of the coronavirus pandemic and promising to unite a country in crisis if he wins Tuesday.\n    \n"
-    publishedDateTime: 2020-11-03T03:31:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/55crqGjmnSE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/biden-pennsylvania-closing-rally/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/biden-pennsylvania-closing-rally/index.html"
+  - title: "GOP to argue Georgia Senate runoffs would be key to check Biden and a Democratic House"
+    excerpt: "Georgia Republican Sens. David Perdue and Kelly Loeffler are bracing for a two-month slog in Georgia that could determine the next Senate majority, planning to argue that they need to keep their seats to prevent Democratic control of Washington.\n    \n"
+    publishedDateTime: 2020-11-07T01:21:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zpr-QIcIV9I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102141226-02-biden-philadelphia-1101-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030205324-loeffler-perdue-split-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Pence claims Biden is 'talking about shutting down the economy'"
-    excerpt: "Vice President Mike Pence discussed the Trump administration's response to the coronavirus pandemic and warned that Joe Biden was \"talking about shutting down the economy\" while campaigning in Erie, Penn."
-    publishedDateTime: 2020-11-02T21:20:00Z
-    webUrl: "https://www.nbcnews.com/video/pence-claims-biden-is-talking-about-shutting-down-the-economy-95178309972"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95178309972"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95178309972"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/pence_erie.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Julián Castro campaigns for Biden in Phoenix, visits a Day of the Dead altar"
-    excerpt: "Michigan, Iowa, North Carolina, Georgia, and Florida — while Biden is holding two events in Philadelphia. This live coverage has ended. Continue reading election news for Monday, Nov. 2, 2020. Julián Castro,"
-    publishedDateTime: 2020-11-02T23:03:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-01-trump-biden-election-n1245634/ncrd1245726"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1245634"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1245634"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
-        width: 2500
-        height: 1250
         isCached: true
 
 secured: "ZzafPHngjT57OcXRDVrQrgXyQY/ZmgKfVcOepoUXlN3OMksutmISHJLXazD5J+xVLxByQeRsT4sMkP+Nj9UI8oEGCFTo+JuFw1tBMXAShnFVBI1i3p6Le9bBAFHzp33fXYUgcph31wI4/gEy67YRu4uehpk3oU8ECBatKGIuFBoS7+o88RFZ0c80JBozy5W5dG4mAmrXtCjKBQpnCEcOOkH/Q1UcBbFwhZFIsgmKTTEqQsGY/nwUr2LIVYzTu3RYf9Gzr5PjOPSywHL7JkqHAJsX9NWHrWHPc3N3zxWScfnbSkwEgSSNJWpKEBtIoJxNw0mGIBA7z6TaksgdPsb+cjo4BgiqpmDBHaj29IA0/9E6bCMyatdT3qS+Wv01nXf7459nFvnl5MT+OVrUy15arPW1DtTkldAEVbEpJhC+OL1BaeURULidFXt7supFJN69qajIvYaWq6ABGRJcNrKceuMqLZuHdZhVyo13nwHxqRCokwZdVwOL3eH6PyzLY4cc5h/bYcNVJFt9zSiiRIVYYw==;H82W41sCfnzoiFL1b47Izg=="

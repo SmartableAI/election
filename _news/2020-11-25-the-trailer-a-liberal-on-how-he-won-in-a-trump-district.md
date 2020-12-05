@@ -31,163 +31,353 @@ images:
     isCached: true
 
 related:
-  - title: "The Note: Trump, GOP test limits as legal walls close in"
-    excerpt: "Real state deadlines and legal rulings are already starting to close out paths to the presidency that Trump might imagine still exists. The Trump campaign faces a Wednesday deadline to request a recount in Wisconsin -- where the president is trailing by more than 20,"
-    publishedDateTime: 2020-11-18T11:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump faces Wednesday deadline for Wisconsin vote recount"
-    excerpt: "President Donald Trump faces a Wednesday deadline to file for a recount in Wisconsin after Democrat Joe Biden defeated him in the state by more than 20,600 votes based on final canvassed totals. The totals submitted by all 72 counties to the state elections commission showed Trump with a roughly six-tenths of a point margin — close enough for Trump to file for a recount."
-    publishedDateTime: 2020-11-18T14:50:00Z
-    webUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+  - title: "Michigan leader: Trump didn’t ask for election interference"
+    excerpt: "Michigan House Speaker Lee Chatfield says President Donald Trump didn’t ask the state’s Republican lawmakers to “break the law” or “interfere” with the election during a meeting at the White House"
+    publishedDateTime: 2020-11-22T15:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/michigan-leader-trump-didnt-ask-for-election-interference/2020/11/22/c8220a98-2cd6-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/michigan-leader-trump-didnt-ask-for-election-interference/2020/11/22/c8220a98-2cd6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/michigan-leader-trump-didnt-ask-for-election-interference/2020/11/22/c8220a98-2cd6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 140
     images:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
         isCached: true
-  - title: "Analysis: With silence, GOP enables Trump's risky endgame"
-    excerpt: "Republicans in Congress are engaged in a risky but calculated bet that once President Donald Trump has exhausted his legal challenges to the election, he will come to grips with his loss to President-"
-    publishedDateTime: 2020-11-21T14:12:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-silence-gop-enables-trumps-risky-endgame-74331782"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-silence-gop-enables-trumps-risky-endgame-74331782"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-silence-gop-enables-trumps-risky-endgame-74331782"
+  - title: "Michigan leader: Trump didn't ask for election interference"
+    excerpt: "Michigan House Speaker Lee Chatfield says President Donald Trump didn't ask the state's Republican lawmakers to “break the law” or “interfere” with the election during a meeting at the White House"
+    publishedDateTime: 2020-11-22T20:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/michigan-leader-trump-election-interference-74345814"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-leader-trump-election-interference-74345814"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-leader-trump-election-interference-74345814"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e3cc0791e2fe4d19add779ce37da1ddc_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_077cc0b67660404b9c5897228a3dc50d_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump privately plots his next act — including a potential 2024 run"
-    excerpt: "In a nod to the reality that he is destined to leave office in January, the president is seriously contemplating life beyond the White House, telling advisers he wants to remain an omnipresent force in politics and the media."
-    publishedDateTime: 2020-11-22T02:17:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-2024-rematch/2020/11/21/58ce87ac-2a8d-11eb-8fa2-06e7cbb145c0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-2024-rematch/2020/11/21/58ce87ac-2a8d-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-2024-rematch/2020/11/21/58ce87ac-2a8d-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+  - title: "They’re baaack: Trump and allies still refuse election loss"
+    excerpt: "A day after Trump said his administration should begin working with Biden’s team, three more lawsuits were filed by allies attempting to stop the certification in two more battl"
+    publishedDateTime: 2020-11-26T12:56:00Z
+    webUrl: "https://www.washingtonpost.com/politics/theyre-baaack-trump-and-allies-still-refuse-election-loss/2020/11/26/dbbfd81a-2fe6-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/theyre-baaack-trump-and-allies-still-refuse-election-loss/2020/11/26/dbbfd81a-2fe6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/theyre-baaack-trump-and-allies-still-refuse-election-loss/2020/11/26/dbbfd81a-2fe6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump expresses doubt on whether Supreme Court will hear election cases"
+    excerpt: "President Donald Trump said on Sunday that it might be difficult to get his election fraud allegations heard before the U.S. Supreme Court, expressing doubt about his legal strategy as his hopes of overturning the Nov."
+    publishedDateTime: 2020-11-29T16:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump/trump-expresses-doubt-on-whether-supreme-court-will-hear-election-cases-idUSKBN2890MO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890MO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890MO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542815328&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0GP"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Donor to pro-Trump group sues to get his money back after dropped election lawsuits"
+    excerpt: "Fred Eshelman, who gave $2.5 million to the group True the Vote to back President Trump's challenges to the election, is suing for his money back."
+    publishedDateTime: 2020-11-27T22:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/fred-eshelman-sues-pro-trump-true-vote-election-lawsuits/6440272002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6440272002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6440272002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Federal appeals court issues stinging rejection of Trump campaign election fraud lawsuit"
+    excerpt: "The U.S. Third Circuit Court has rejected the Trump campaign’s appeal of a federal lawsuit filed in Pennsylvania that challenged the outcome of the 2020 elections."
+    publishedDateTime: 2020-11-27T20:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/federal-appeals-court-issues-stinging-rejection-trump-campaign/story?id=74431333"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/federal-appeals-court-issues-stinging-rejection-trump-campaign/story?id=74431333"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/federal-appeals-court-issues-stinging-rejection-trump-campaign/story?id=74431333"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 131
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump2-ap-ml-201127_1606503385536_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The Daily 202: Trump eggs on boos that previous leaders shushed"
+    excerpt: "I urge all Americans who supported me to join me in not just congratulating him but offering our next president our goodwill and earnest effort to find ways to come together.” Obama grew annoyed just before the election in 2016 when a crowd he was speaking to in North Carolina would not stop booing a Trump supporter who was heckling him."
+    publishedDateTime: 2020-11-16T15:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KUWRS4BLO4I6XEVXN3YXWP7DWQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JRT5ARHPAI6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Carl Bernstein says 21 GOP senators contemptuous of Trump"
-    excerpt: "Veteran Watergate sleuth Carl Bernstein took to Twitter to specifically “out” 21 Republican senators who he says have privately expressed contempt for President Donald Trump"
-    publishedDateTime: 2020-11-24T02:44:00Z
-    webUrl: "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+  - title: "Explainer: Can Trump override the popular vote?"
+    excerpt: "President Donald Trump's latest strategy for attacking the legitimacy of the U.S. election appears to be focusing on a bold power play of persuading Republican state lawmakers to overturn the vote in states won by his Democratic challenger Joe Biden."
+    publishedDateTime: 2020-11-20T11:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-electoral-college-explai-idUSKBN28016Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28016Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28016Z"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541882471&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ0JY"
+        width: 817
+        height: 545
         isCached: true
-  - title: "WATCH LIVE: Trump pardons Thanksgiving turkey"
-    excerpt: "As the coronavirus pandemic is upending the U.S. holiday season, President Donald Trump is due to pardon the annual Thanksgiving turkey in a White House ceremony."
-    publishedDateTime: 2020-11-24T16:12:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-pardons-thanksgiving-turkey"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-pardons-thanksgiving-turkey"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-pardons-thanksgiving-turkey"
+  - title: "Trump summons Michigan GOP leaders for extraordinary meeting"
+    excerpt: "President Donald Trump has summoned Michigan’s Republican legislative leaders to the White House for an extraordinary meeting Friday"
+    publishedDateTime: 2020-11-21T12:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-canvassers-oppose-certifying-detroit-area-votes-74293061"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-canvassers-oppose-certifying-detroit-area-votes-74293061"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-canvassers-oppose-certifying-detroit-area-votes-74293061"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/11/BreadButterIssues-1024x665.jpg"
-        width: 1024
-        height: 665
+      - url: "https://s.abcnews.com/images/Politics/WireAP_14be807cc03a49eba1b405df722af843_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Dialing into Pa. GOP meeting, President Trump shows no sign of concession"
-    excerpt: "Trump phoned into a meeting of Pa. Republican lawmakers to say he believes he was \"cheated\" out of a victory in the 2020 election and the outcome should be turned over."
-    publishedDateTime: 2020-11-26T02:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/dialing-pa-gop-meeting-president-trump-shows-sign/story?id=74405323"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/dialing-pa-gop-meeting-president-trump-shows-sign/story?id=74405323"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/dialing-pa-gop-meeting-president-trump-shows-sign/story?id=74405323"
+  - title: "Supreme leader dismisses talks as Iran looks to post-Trump future"
+    excerpt: "Iran's supreme leader dismissed the prospect of new negotiations with the West on Tuesday, even as the Tehran government spoke optimistically about the return of foreign companies in \"the absence of Trump\" and his sanctions."
+    publishedDateTime: 2020-11-24T18:30:00Z
+    webUrl: "https://www.reuters.com/article/iran-usa-sanctions-int-idUSKBN28413O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28413O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28413O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542289116&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN10O"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Trump plans to pardon former aide Michael Flynn: source"
+    excerpt: "U.S. President Donald Trump has told allies he plans to pardon his former national security adviser Michael Flynn, who had pleaded guilty to lying to the FBI during an investigation into Russian meddling in the 2016 presidential election,"
+    publishedDateTime: 2020-11-25T04:12:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-flynn-idUSKBN2850BV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2850BV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2850BV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542367249&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO05R"
+        width: 775
+        height: 545
+        isCached: true
+  - title: "Trump administration moves ahead on gutting bird protections"
+    excerpt: "The Trump administration is moving forward on gutting a longstanding federal protection for roughly 1,000 species of birds in the United States"
+    publishedDateTime: 2020-11-27T18:50:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-administration-moves-ahead-gutting-bird-protections-74430870"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-administration-moves-ahead-gutting-bird-protections-74430870"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-administration-moves-ahead-gutting-bird-protections-74430870"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/WNT/201116_wn_index_654_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "President Trump pardons Michael Flynn, who pleaded guilty to lying to FBI"
+    excerpt: "President Donald Trump announced on Twitter he has pardoned former n Michael Flynn. \"It is my Great Honor to announce that General Michael T. Flynn has been granted a Full Pardon,\" he wrote. \"Congratulations to @GenFlynn and his wonderful family,"
+    publishedDateTime: 2020-11-26T02:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/president-trump-pardons-michael-flynn-pleaded-guilty-lying/story?id=74405950"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/president-trump-pardons-michael-flynn-pleaded-guilty-lying/story?id=74405950"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-trump-pardons-michael-flynn-pleaded-guilty-lying/story?id=74405950"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 124
     images:
-      - url: "https://s.abcnews.com/images/Politics/Giuliani-gty-er-201125_1606338655585_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/michael-flynn-gty-jt-201125_1606339144975_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "'Abuse of the rule of law': 1,000 ex-judges, legal experts slam Trump's false claims of voter fraud"
-    excerpt: "\"Court challenges ... must be based on facts, on evidence,\" says the letter from 1,000 attorneys, including retired federal and state judges, state attorneys general and law professors."
-    publishedDateTime: 2020-11-13T15:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/13/election-2020-trump-voter-fraud-claims-slammed-ex-officials/6276446002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6276446002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6276446002"
+  - title: "Trump asked for options for attacking Iran last week, but held off: source"
+    excerpt: "President Donald Trump, with two months left in office, last week asked for options on attacking Iran's main nuclear site, but ultimately decided against taking the dramatic step, a U.S. official said on Monday."
+    publishedDateTime: 2020-11-17T11:22:00Z
+    webUrl: "https://www.reuters.com/article/usa-iran-trump-idUSKBN27X061"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X061"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X061"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541431012&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG019"
+        width: 771
+        height: 545
+        isCached: true
+  - title: "Election 2020 live updates: Michigan GOP legislators to meet with Trump; Trump withdraws Michigan lawsuit"
+    excerpt: "The Republican leaders of the Michigan House and Senate are expected to meet with President Donald Trump at the White House."
+    publishedDateTime: 2020-11-19T19:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/election-2020-updates-georgia-release-recount-results/3775154001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3775154001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3775154001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 111
+    quality: 123
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/12/USAT/ce583045-798c-46cc-a18d-e3b61692e606-AP_Trump_15.JPG?auto=webp&crop=5026,2827,x0,y20&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/dc081906-4689-4966-9229-50734c07c33f-AP_Biden_1.jpg?auto=webp&crop=1464,824,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Morning mail: Trump urged to drop legal fight, pill testing support, platypus habitat loss"
-    excerpt: "US president faces pressure from Republicans to drop court battle over election results. Plus: platypus threatened by shrinking habitat"
-    publishedDateTime: 2020-11-22T20:08:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2020/nov/23/morning-mail-trump-urged-to-drop-legal-fight-pill-testing-support-platypus-habitat-loss"
+  - title: "Trump meeting with Michigan Republicans will not include campaign: White House"
+    excerpt: "A meeting between U.S. President Donald Trump and Michigan Republicans on Friday is not an \"advocacy meeting\" and will not include campaign officials, White House Press Secretary Kayleigh McEnany said,"
+    publishedDateTime: 2020-11-20T20:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-michigan-idUSKBN2802CK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2802CK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2802CK"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 95
+      name: Reuters
+      domain: reuters.com
+    quality: 121
     images:
-      - url: "https://i.guim.co.uk/img/media/47f7a111879bb65257e7055fa97774c03a3f0350/0_0_5292_3175/master/5292.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71fbd817f0d27663b419dcd9b5eba51b"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541946203&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ19G"
+        width: 783
+        height: 545
+        isCached: true
+  - title: "AP sources: Trump invites top Michigan lawmakers to White House, amid longshot bid to overturn election result"
+    excerpt: "Trump invites top Michigan lawmakers to White House, amid longshot bid to overturn election result. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-11-19T18:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-sources-trump-invites-top-michigan-lawmakers-to-white-house-amid-longshot-bid-to-overturn-election-result/2020/11/19/e88b2026-2a97-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-trump-invites-top-michigan-lawmakers-to-white-house-amid-longshot-bid-to-overturn-election-result/2020/11/19/e88b2026-2a97-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-trump-invites-top-michigan-lawmakers-to-white-house-amid-longshot-bid-to-overturn-election-result/2020/11/19/e88b2026-2a97-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump withdraws federal lawsuit in Michigan, citing Wayne County canvasser affidavits"
+    excerpt: "The Trump campaign inaccurately characterized the actions of the Wayne County Board of Canvassers in its rationale for withdrawing the federal lawsuit."
+    publishedDateTime: 2020-11-19T16:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/trump-michigan-lawsuit-detroit-wayne-county-canvassers/3776829001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3776829001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3776829001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDTF/accdacef-c7b3-4fbd-a19e-93a9a76e65ea-AP_Election_2020_Trump_MIEV1.jpg?auto=webp&crop=5322,2994,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump tweets undermine Michigan leaders; images show Chatfield drinking at Trump hotel"
+    excerpt: "Skepticism that Michigan lawmakers focused on COVID-19 during their meeting with Trump was amplified by the president's tweets Saturday morning."
+    publishedDateTime: 2020-11-21T22:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/21/michigan-gop-trump-meeting-shirkey-chatfield/6374174002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6374174002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6374174002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/21/PDTF/be9899fd-9123-45c0-9edc-36e889f4fa59-EnWqkqOW4AEB3_F.JPEG?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fired director of U.S. cyber agency Chris Krebs explains why President Trump's claims of election interference are false"
+    excerpt: "Chris Krebs, a lifelong Republican, was put in charge of the agency handling election security by President Trump two years ago. When Krebs said the election was the country's most secure ever, Mr. Trump fired him."
+    publishedDateTime: 2020-11-30T00:39:00Z
+    webUrl: "https://www.cbsnews.com/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chris-krebs-presidential-election-security-60-minutes-2020-11-29/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/29/e2b50259-6c0b-488f-b6b9-a5979fcfbb4b/thumbnail/1200x630/40ec454e5a61da816f8e82a5eb85fab9/chriskrebsarticle.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump's chief of staff told GOP senators to 'make the most of' the next 45 days in an apparent admission that Trump could leave office"
-    excerpt: "Chief of staff Mark Meadows seemed to acknowledge to senators the reality that Trump is leaving the White House — though Trump himself has not."
-    publishedDateTime: 2020-11-19T12:50:00Z
-    webUrl: "https://www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11?amp"
+  - title: "Michigan Senate Leader confronted by activists while traveling to meet President Trump"
+    excerpt: "Michigan Senate Majority Leader Mike Shirkey was confronted by activists at the airport while reportedly on his way to meet with President Trump."
+    publishedDateTime: 2020-11-20T20:28:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/20/mi-senate-leader-confronted-while-traveling-meet-president-trump/6361470002/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
     images:
-      - url: "https://i.insider.com/5fb6684132f2170011f6ff9d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/52b2b975-3844-4ebc-bc27-77c675ad06ae-VPC_MICHIGAN_LAWMAKERS_TRAVEL_TO_WASHINGTON_DC_DESK.00_00_25_03.Still001.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Brian Howey: The prospects for Trump and Pence in 2024"
+    excerpt: "Whether it’s North Side Gym in Elkhart or the Southport Fieldhouse, or packing Evansville’s Ford Center with 11,000 supporters in September 2018, President Trump was at the spearhead of a"
+    publishedDateTime: 2020-11-28T01:41:00Z
+    webUrl: "https://www.kokomotribune.com/brian-howey-the-prospects-for-trump-and-pence-in-2024/article_a5df7dbe-30fd-11eb-83bb-d3f7ce95802a.html"
+    type: article
+    provider:
+      name: Kokomo Tribune
+      domain: kokomotribune.com
+    quality: 70
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/kokomotribune.com/content/tncms/assets/v3/editorial/f/b3/fb318d50-1ac0-11eb-a03e-cf51658a5e07/5f9c2b30bd8d8.image.jpg?resize=800%2C550"
+        width: 800
+        height: 550
         isCached: true
 
 secured: "/zrGdUfoW7cITzsk1bZuJIX8NSpkbEVw5HGHgtoWvoMh6z1AjyYDPLrCZADolo4yK2BxaWokE94yJw6VlpIKrFcIvIbl/lwr6grNYY5QeeyqLT44kz7t+7vp4bsmHza7sov2gIt8vV3mV7CO7oU4kk4cxkHfI/IvgrBFqNo8XC+2gspOrAu9tVEfP9yypTSfokPqRvz5uYZOhfPHOCkTDK7ky7KIwGLrwdgXc0Xxk/UIKNuLOBXiw/8UZQndDhME7igmPgjn3J18gHRO2BQUEIzDZMnIuwv0PuJx3P86zgBWHzLoAD4mDx6vbgn6+0X4Hf+FsoLbJZ1DZqDUEdu3IdSR/BI+VsSvjHTCwrrqLN0=;Yo8eN8zZgO563I9u2pwoqA=="

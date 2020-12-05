@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Prayers held in India for Kamala Harris victory, and for Donald Trump"
-    excerpt: "Residents of Thulasenthirapuram, Harris’ ancestral village in Tamil Nadu, set up banners and prayed for her success. Meanwhile, in New Delhi, activists from the right-wing Hindu Sena organization performed a fire ritual “so that all these obstacles in the way of a victory for Donald Trump will go away."
-    publishedDateTime: 2020-11-03T22:41:00Z
-    webUrl: "https://www.nbcnews.com/video/prayers-held-in-india-for-kamala-harris-victory-and-for-donald-trump-95259717528"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95259717528"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95259717528"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 160
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/f_mo_lon_prayers_201103.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "'Her story is our story:' Alpha Kappa Alpha sorority sisters bask in Kamala Harris' victory"
     excerpt: "A group of Howard University alums and Alpha Kappa Alpha sorority sisters explain what electing the nation's first black woman vice president means to them and the generations ahead."
     publishedDateTime: 2020-11-08T21:45:00Z

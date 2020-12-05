@@ -47,6 +47,22 @@ related:
         width: 990
         height: 545
         isCached: true
+  - title: "Breakingviews - The Donald Trump show will continue broadcasting"
+    excerpt: "Donald Trump may have lost the White House, but the ex-president will almost certainly take the show on the road. An army of Twitter followers and favorable coverage from right-wing media like Fox News will ensure an audience after he departs 1600 Pennsylvania Avenue."
+    publishedDateTime: 2020-11-09T16:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-breakingviews-idINKBN27P1B8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1B8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1B8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540513287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80PM"
+        width: 828
+        height: 545
+        isCached: true
   - title: "Before Biden inauguration, 70,000 more could die from COVID-19 in the U.S."
     excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
     publishedDateTime: 2020-11-14T03:43:00Z
@@ -95,34 +111,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Biden stops at childhood home, thanks voters in Scranton"
-    excerpt: "Democratic nominee Joe Biden stopped by his hometown of Scranton Tuesday, where he thanked voters before moving on to Philadelphia later in the day. Biden has made his working-class upbringing in Scranton a centerpiece of his campaign."
-    publishedDateTime: 2020-11-03T17:01:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/03/biden-stops-childhood-home-thanks-voters-scranton/6140568002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/aa76382f-3127-4dd7-b743-de7fc9046a94_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden delivers remarks on Supreme Court case surrounding Affordable Care Act"
-    excerpt: "President-elect Joe Biden speaks on Tuesday concerning Texas v. California, a challenge to the Affordable Care Act from Republican-led states and the Trump administration."
-    publishedDateTime: 2020-11-10T19:29:00Z
-    webUrl: "https://www.washingtonpost.com/video/national/biden-delivers-remarks-on-supreme-court-case-surrounding-affordable-care-act/2020/11/10/b47e38b5-a062-4f52-9754-f0d8a7c094bb_live.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-10-2020/t_c918236f66924754ab90a269d27a0255_name_biden_1109.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
   - title: "Will Lizzo run through the streets naked? Only if Joe Biden wins"
     excerpt: "Lizzo has not been holding back on the TikToks this election season. In one video posted Wednesday evening, the proud Joe Biden and Kamala Harris supporter weighed the possibility of President Donald Trump being voted out of office."
     publishedDateTime: 2020-11-05T21:42:00Z
@@ -138,20 +126,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/15/07/52/20216489/5/rawImage.png"
         width: 873
         height: 759
-        isCached: true
-  - title: "Joe Biden Speaks to Reporters in Wilmington, Delaware"
-    excerpt: "Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete. Joe Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete."
-    publishedDateTime: 2020-11-05T21:46:00Z
-    webUrl: "https://www.c-span.org/video/?477853-1/joe-biden-urges-patience-election-vote-count-continues-predicts-victory&ICID=ref_fark"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 55
-    images:
-      - url: "https://static.c-span.org/assets/images/featured-playlists_icon.png"
-        width: 520
-        height: 485
         isCached: true
 
 secured: "9k3hTNfHMIJbPkznro34nmE4qBDV6Ar5EGaLXQPvPBBA09YPPc0XWxhNBfFOqU5IpaGjjMUpumHZCZIgimqx0151xJFgtUIEa/Zh+A85ZKPUYz8BQW5WTwjloPj7CZSwvk4K7lF0l80N6AKnMlLVhpAehfmu5Y9Dr6CjpMQBV/P2Rg8CkuvLq1PqvY/fRZwIluOjfCatqJYye4YrAwM3P1uYzzw79paFziZTOZz+VHacFi12d8d59gBWUQvG1d625PkFxYgX/vQTwijkVuGCWEbxiSrRL1miCKClekYSEhmQD1fSPtlkhf/CXvzXQ1rxTE4yfM1JYDrD8yM1Tuc/HpMMr7mSgqbx6Bnv8Mfh1IyN6cNMwqGKDTttVHgJxXSBHa+yx0dX+i+Qxew8cgfqGdaNXyACa1OXv/9fgujv9KOMn4KeQzOxvbQpZ3iGjMKmkQmm2K6DXcvKx9gCNWZJsz+uqUOAY4qTtqGoO9bxjP9HnbmYvcZTismPJRkZ72N8wZKMzC23C8nr4ddxnafYaQ==;vEweo0uL8W3FGEPbcNomHA=="

@@ -29,188 +29,95 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Viral video does not show Trump ballots being burned"
-    excerpt: "A video that purports to show a bag of ballots for U.S. President Donald Trump being burned is fake, officials have confirmed."
-    publishedDateTime: 2020-11-05T20:51:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-ballots-video-idUSKBN27L241"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L241"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L241"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540132140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA418P"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Fact check: Video shows mail waste, not shredded Trump ballots"
-    excerpt: "Social media users have claimed a video shows shredded mail-in ballots for U.S. President Donald Trump that were found in the back of a trailer. This is not true."
-    publishedDateTime: 2020-11-06T20:51:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-shredded-leaflets/fact-check-video-shows-mail-waste-not-shredded-trump-ballots-idUSKBN27M25L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M25L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M25L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540275459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51AC"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "How and when will Trump leave office?"
-    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
-    publishedDateTime: 2020-11-09T14:24:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idUSKBN27P199"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P199"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P199"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540530760&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OO"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Breakingviews - The Donald Trump show will continue broadcasting"
-    excerpt: "Donald Trump may have lost the White House, but the ex-president will almost certainly take the show on the road. An army of Twitter followers and favorable coverage from right-wing media like Fox News will ensure an audience after he departs 1600 Pennsylvania Avenue."
-    publishedDateTime: 2020-11-09T16:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-breakingviews-idINKBN27P1B8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1B8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1B8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540513287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80PM"
-        width: 828
-        height: 545
-        isCached: true
-  - title: "How and when will Trump leave office?"
-    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
-    publishedDateTime: 2020-11-09T16:19:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idINKBN27P199"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P199"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P199"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540519544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OU"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump campaign says 'illegally cast' ballots should not counted, it expects to win"
-    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
-    publishedDateTime: 2020-11-04T16:25:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-ballots-int-idUSKBN27K25M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K25M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K25M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539995932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA319V"
-        width: 870
-        height: 545
-        isCached: true
-  - title: "Fact check: False QAnon claim that Trump secretly watermarked mail-in ballots to prove fraud"
-    excerpt: "QAnon followers are pushing the claim that Donald Trump secretly watermarked mail-in ballots to prove fraud. This is false."
-    publishedDateTime: 2020-11-10T20:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/10/fact-check-false-qanon-claim-trump-watermarked-mail-ballots/6226310002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6226310002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6226310002"
+  - title: "Election 2020 live updates: Trump forming PAC; Barr OKs voting probe"
+    excerpt: "While not conceding the election, Trump is forming his own PAC to give money to local, state and federal candidates he supports."
+    publishedDateTime: 2020-11-10T16:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/10/election-2020-updates-trump-continues-legal-fight-biden-talks-covid/6231519002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6231519002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6231519002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 114
+    quality: 140
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/14/NBCC/6527c003-5538-4715-b4c1-222af376afb1-96513297_3865768806798939_5226046090431692800_o.jpg?auto=webp&crop=1339,753,x0,y483&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/1ee1a838-164b-4fbc-b60f-1040fd969561-bidens_flag.jpg?auto=webp&crop=4963,2792,x0,y330&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact check: Video shows police collecting discarded Amazon packages, not thousands of Trump ballots"
-    excerpt: "Social media users have claimed a video shows police finding thousands of ballots for U.S. President Donald Trump dumped in a field. This is not true; local police report that the footage actually shows discarded Amazon packages."
-    publishedDateTime: 2020-11-10T21:14:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-packages-idUSKBN27Q2JC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q2JC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q2JC"
+  - title: "Judges appear increasingly frustrated with Trump's legal claims about 2020 election"
+    excerpt: "In court hearings and opinions around the country, judges are voicing similar frustrations with the Trump campaign's legal filings, experts and courthouse veterans say."
+    publishedDateTime: 2020-11-16T15:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/judges-increasingly-frustrated-trumps-legal-claims-2020-election/story?id=74211479"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/judges-increasingly-frustrated-trumps-legal-claims-2020-election/story?id=74211479"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/judges-increasingly-frustrated-trumps-legal-claims-2020-election/story?id=74211479"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 111
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721626&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91F3"
-        width: 818
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
-    excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
-    publishedDateTime: 2020-11-03T20:31:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-filled-ballots-queens-new-y-idUSKBN27J2KY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J2KY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J2KY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 108
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539853611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21M2"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Trump campaign says 'illegally cast' ballots should not be counted"
-    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
-    publishedDateTime: 2020-11-04T16:13:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-ballots/trump-campaign-says-illegally-cast-ballots-should-not-be-counted-idUSKBN27K26E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K26E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K26E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Trump defied gravity; now falls back to earth, future TBD"
-    excerpt: "Donald Trump, who defied political gravity with his extraordinary rise from reality star and businessman to the presidency, has fallen back to earth."
-    publishedDateTime: 2020-11-08T02:29:00Z
-    webUrl: "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp"
+  - title: "Election week, Trump, and the chaos of 2020 prove that cable news has outlived its worth"
+    excerpt: "The stress of election week didn't have to be this bad, but it's the cost of a cable news structure stuck in the past."
+    publishedDateTime: 2020-11-14T08:05:00Z
+    webUrl: "https://www.businessinsider.com/cable-news-coverage-election-week-analysis-outdated-format-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/cable-news-coverage-election-week-analysis-outdated-format-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cable-news-coverage-election-week-analysis-outdated-format-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "In latest batch, Trump gets share of votes he would need to reclaim Arizona. But next rounds of ballots present new challenges"
-    excerpt: "Trump won batches of ballots from Maricopa County counted on Wednesday and Thursday morning by a roughly 58-40 margin over  Joe Biden."
-    publishedDateTime: 2020-11-05T14:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/latest-batch-trump-gets-share-votes-he-would-need-reclaim-arizona-next-rounds-present-challenges/6169183002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6169183002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6169183002"
+    quality: 131
+    images:
+      - url: "https://i.insider.com/5faee0991c741f0019ac9bce?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Election 2020 live updates: Trump coronavirus adviser Atlas tells Michigan to 'rise up' against COVID restrictions"
+    excerpt: "Dr. Scott Atlas, on Trump's coronavirus task force, said \"the only way this stops is if people rise up,\" after Michigan announced new COVID measures."
+    publishedDateTime: 2020-11-16T12:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6308427002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6308427002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 97
+    quality: 128
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/febb7731-ae5d-42a6-bad2-b3ebfc343aca-XXX_GP_Pensacola_Trump_Rally_30.jpg?auto=webp&crop=2999,1687,x0,y211&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/16/USAT/807ac070-925a-4a69-96f6-b40cd9f4c6e6-SCOTT_ATLAS.jpg?auto=webp&crop=4172,2347,x0,y335&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
+  - title: "Election 2020 live updates: Bolton says Republicans 'coddling' Trump; Georgia will do hand recount"
+    excerpt: "Both Trump and Biden took part in Veterans Day ceremonies Wednesday. Biden continues the transition process as Trump contests the election."
+    publishedDateTime: 2020-11-12T04:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/11/election-2020-updates-biden-transition-trump-honors-veterans-day/6246438002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6246438002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6246438002"
+    type: article
+    provider:
+      name: The Clarion-Ledger
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/41cea45e-fe21-4819-aa48-7f740386034d-GTY_1285134487.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Live election updates: Kushner, Melania reportedly urge Trump to concede; AOC almost didn't run again"
+    excerpt: "Reports say Trump's wife and son-in-law urged him to concede; the president-elect attends Mass; AOC almost quit – the latest on the election."
+    publishedDateTime: 2020-11-08T19:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/mitt-romney-calls-trump-900-pound-gorilla-republicans-future/6212881002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 85
 
 secured: "lSIKXySyT5ua7LfWxa03der+2gteZ6LmF7VOHDraRghh45NG8DeAAEeSwWeCUM6GdUi/4fqQQS36qnBlGR1xTyfD52Y/E9AjxbTI5fLe0Q8j3eV0OVMS9Ofq3p0dAzQtUYB9ecQxEmFWOYqhdESt7Zh666aLfooNsqjWyCWxu98b4XFFuljYWRJkGO8YuZZnkPJGEcqV+kLBh4qKIVKmnFVtM83SeX5+tbbg7YHyYIy/TRrzjyDizdavR0HrV0n5pZ1BV+rBvUk9U7EtKsPFy6+/qArYnjhHCn/Xyu+Kgkei3FA1KwYaQNodQv+ouVeF7wczHctJZeSizID7nTpPubvg8RWxoVVNJB8L6N6yB4k=;H58j6Nn96DZu4elokKRCdw=="
 ---

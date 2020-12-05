@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/california-senate-swee
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/california-senate-sweepstakes-kamala-harris-job-74168361"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/6ac6595/2147483647/strip/true/crop/2048x1430+0+0/resize/840x587!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2F57%2F3e257e5f130c40ac25e6a9b9078e%2Fla-1518827091-m3b6svi2yw-snap-image"
         width: 840
         height: 587
+        isCached: true
+  - title: "What a Vice President Kamala Harris means for California"
+    excerpt: "The Golden State will gain a strong ally in the White House and new national influence with a Californian as Joe Biden’s second-in-command."
+    publishedDateTime: 2020-11-09T10:34:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/09/home-state-advantage-what-a-vice-president-kamala-harris-means-for-california/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/09/home-state-advantage-what-a-vice-president-kamala-harris-means-for-california/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/09/home-state-advantage-what-a-vice-president-kamala-harris-means-for-california/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/AP_20312146734383.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "California Senate sweepstakes: Who gets Kamala Harris' job?"
     excerpt: "Election Day is over, but California already is consumed with its next high-profile political contest — the competition to fill Kamala Harris’ soon-to-be-vacant U.S. Senate seat. In this race, only one vote matters,"

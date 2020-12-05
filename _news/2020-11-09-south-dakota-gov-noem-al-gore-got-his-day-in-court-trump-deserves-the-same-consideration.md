@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/south-dakota-gov-noem-al-gore-got-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same.amp"
 type: article
 quality: 164
-heat: 204
+heat: 184
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310575791231-e1604598266506.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Lieberman: Donald Trump Has The Right To Take His Case To Court And Let The Judge Decide"
-    excerpt: "Former Senator Joe Lieberman, who ran alongside Democratic nominee Al Gore in the disputed 2000 election, joined CNBC's \"Squawk Box\" on Thursday to discuss the 2020 presidential election. \"The Trump campaign has the right to take its case to court and let the judge decide,"
-    publishedDateTime: 2020-11-06T12:34:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/06/lieberman_donald_trump_has_the_right_to_take_his_case_to_court_and_let_the_judge_decide.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 56
-    images:
-      - url: "https://assets.realclear.com/images/52/526349.jpg"
-        width: 1168
-        height: 876
         isCached: true
 
 secured: "wp6ftZvZ9wk1Nrex6BxpqL4eJs/H692gsjSbrDo8iOPqTk0OR6bUFpGx4oTTcdK1H3CyV2bdVaWOJq1cussvkitPb8m/h+zOl2Z4coPN3CsZTALt3v/yVLOLcEYQQyQ9UUVMGNK2LrTl/kBnjDOuDvxQuCDQlNDYxoXMa6GHnxnpEuzEoVZKpR8TnmjXzaaqV/sTQvucwyAsVLPyX1ZAFVmLJ5+EVB4G07zWWkfgCistN5S0ni87Ph+jFw9WSvMqmEvasGaSrcxiQJmRpbOqHcwV6IkqtKhuxd5VcSOmKO9DDdr95eQqo5h+07ObcfX5prvrlxaw3g6WbWmKAjvvlZUYkeco6JPF9989Xjfkr0w=;iP+OKUykBs+0YQWXkUBpsQ=="

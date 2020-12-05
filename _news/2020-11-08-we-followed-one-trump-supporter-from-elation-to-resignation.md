@@ -32,133 +32,195 @@ images:
     isCached: true
 
 related:
-  - title: "The Point: Marco Rubio goes full Trump on election eve"
-    excerpt: "Even as some ambitious 2024 Republicans have begun to distance themselves from Donald Trump's version of, uh, conservatism, Florida's Sen. Marco Rubio offered the equivalent of a bear hug for the incumbent just 48 hours before Election Day. \n    \n"
-    publishedDateTime: 2020-11-02T23:30:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SV6u7GaW7tk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html"
+  - title: "Jared Kushner has approached Trump about conceding 2020 election"
+    excerpt: "Jared Kushner, President Donald Trump's son-in-law and senior adviser, has approached the President about conceding the election, two sources told CNN.\n    \n"
+    publishedDateTime: 2020-11-08T14:32:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tSO9kPadSX0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190128124838-01-marco-rubio-dec2018-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190709100922-jared-kushner-06292019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: This chart shows why Trump is *so* dangerous to the GOP"
-    excerpt: "Win or lose in eight days' time, President Donald Trump's lasting legacy on the Republican Party will be a shrinking base that looks less and less like the country.\n    \n"
-    publishedDateTime: 2020-10-26T22:32:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/clzMhlHtFIQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/gop-shrinking-support-trump-graph/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/gop-shrinking-support-trump-graph/index.html"
+  - title: "Jared Kushner, Melania Trump advise Trump to accept election loss"
+    excerpt: "Jared Kushner, President Donald Trump's son-in-law and senior adviser, has approached the President about conceding the election, two sources told CNN.\n    \n"
+    publishedDateTime: 2020-11-09T03:15:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tSO9kPadSX0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108130724-jared-kushner-melania-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pro-Trump groups gather in Washington to protest election"
+    excerpt: "CNN's Sara Sidner reports from Washington, DC, where pro-Trump groups have converged to protest the results of the election.\n    \n"
+    publishedDateTime: 2020-11-14T18:09:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OxBrxxP6fkw/pro-trump-groups-gather-in-washington-to-protest-election-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/14/pro-trump-groups-gather-in-washington-to-protest-election-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/14/pro-trump-groups-gather-in-washington-to-protest-election-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114124716-pro-trump-groups-gather-in-washington-to-protest-election-vpx-00045628-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump is handling his election loss like every other setback. It can't work"
+    excerpt: "American voters have slammed President Donald Trump with the one thing he has always managed to avoid: a hard-stop of unyielding accountability.\n    \n"
+    publishedDateTime: 2020-11-11T03:08:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9Z8rpa83w0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/trump-election-loss-setback/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/trump-election-loss-setback/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110161604-102-trump-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Black voters and simmering protests contributed to Trump's loss"
+    excerpt: "\"Trump: You're fired! Democracy saved! Thanks, Black voters!\"\n    \n"
+    publishedDateTime: 2020-11-10T22:14:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BapLtz6FTKM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/alicia-garza-black-lives-matter-election-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/alicia-garza-black-lives-matter-election-joe-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142442-02-trump-rally-pa-1026-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200605194819-03-black-lives-matter-painted-dc-street-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: The absolutely bonkers threat Donald Trump made this week"
-    excerpt: "At a rally in Allentown, Pennsylvania, on Tuesday, President Donald Trump said something incredible -- even by his standards.\n    \n"
-    publishedDateTime: 2020-10-27T18:22:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0kZocpA_jeU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/tom-wolf-donald-trump-pennsylvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/tom-wolf-donald-trump-pennsylvania/index.html"
+  - title: "Trump adviser Corey Lewandowski contracts coronavirus"
+    excerpt: "Corey Lewandowski, an adviser to President Donald Trump's campaign, has tested positive for the coronavirus, he confirmed to CNN on Thursday.\n    \n"
+    publishedDateTime: 2020-11-12T18:45:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvX3xjIGFr4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/corey-lewandowski-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/corey-lewandowski-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142449-03-trump-rally-pa-1026-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190926114723-01-corey-lewandowski-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: This is how Donald Trump gets to 270"
-    excerpt: "With just 2 days until the 2020 election, this is the last Sunday newsletter before the country votes. The 5 BIG storylines you need to know to understand the last week on the campaign trail are below. They're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
-    publishedDateTime: 2020-11-01T19:51:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mu9IWOs20X4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/us-election-2020-week-ahead/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/us-election-2020-week-ahead/index.html"
+  - title: "Why ex-CIA chief is more worried about Trump now"
+    excerpt: "Former CIA Director John Brennan tells CNN's Wolf Blitzer why he's more worried now than he has been during the past four years of President Trump's administration.\n    \n"
+    publishedDateTime: 2020-11-12T00:54:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iAUt3jAIlUA/john-brennan-trump-election-power-wolf-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/11/john-brennan-trump-election-power-wolf-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/11/john-brennan-trump-election-power-wolf-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031142107-02-trump-1030-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111183926-john-brenan-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Why Trump is (still) forever"
-    excerpt: "Whether he's willing to admit it, Donald Trump has lost the presidency. And in 72 days, he will be gone from the White House.\n    \n"
-    publishedDateTime: 2020-11-09T23:31:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o1yx4pRG47c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/trump-gop-after-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-gop-after-2020/index.html"
+  - title: "Fact checking the baseless claim that millions of Trump votes were deleted"
+    excerpt: "A human error that briefly led to incorrect election results in a Michigan county has spiraled into a sprawling, baseless conspiracy theory suggesting that glitches in widely-used voting software led to millions of miscast ballots.\n    \n"
+    publishedDateTime: 2020-11-13T15:59:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ubxcctV7HyY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/dominion-voting-false-claim-delete-trump-votes-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/dominion-voting-false-claim-delete-trump-votes-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106225744-donald-trump-rally-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111113617-ballot-counting-georgia-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Donald Trump Jr. put a perfect exclamation point on his father's bungling of Covid-19"
-    excerpt: "Appearing on Laura Ingraham's Fox News show Thursday night, Donald Trump Jr. was asked about Dr. Sanjay Gupta's recommendation that anyone who attends a campaign rally for the President self-quarantine for two weeks.\n    \n"
-    publishedDateTime: 2020-10-30T15:06:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f5snpTHKONc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/donald-trump-jr-covid-19-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/donald-trump-jr-covid-19-2020-election/index.html"
+  - title: "Trump adviser overseeing campaign legal challenges gets coronavirus, sources say"
+    excerpt: "An adviser for President Donald Trump's campaign, David Bossie, has tested positive for coronavirus only days after he was tapped to oversee the campaign's legal challenges contesting the outcome of the election, two sources confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-11-09T20:43:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CQGxLG2oLGA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/david-bossie-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/david-bossie-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200824223931-109-rnc-monday-trump-jr-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109150237-david-bossie-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump has cast doubt on a peaceful transfer of power, but the preparation for one is well underway"
-    excerpt: "President Donald Trump has cast doubt on whether he will commit to a peaceful transfer of power should Democrat Joe Biden win the election, but the secretive process to prepare a would-be Biden administration has been underway for months with help from top Trump officials.\n    \n"
-    publishedDateTime: 2020-10-31T20:07:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SDfDUYsH6S4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
+  - title: "Growing Discomfort at Law Firms Representing Trump in Election Lawsuits"
+    excerpt: "Some lawyers at Jones Day and Porter Wright, which have filed suits about the 2020 vote, said they were worried about undermining the electoral system."
+    publishedDateTime: 2020-11-09T22:52:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/business/jones-day-trump-election-lawsuits.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/business/jones-day-trump-election-lawsuits.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/business/jones-day-trump-election-lawsuits.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030141258-03-biden-trump-election-night-split-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/11/09/business/09JonesDay-01/09JonesDay-01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "For Trump voters, shock, disappointment and disbelief."
-    excerpt: "Around the country, Trump supporters greeted news that Joseph R. Biden Jr. had won the election with a combination of disappointment and disbelief. Larry Thompson, who had voted for President Trump in Prosper,"
-    publishedDateTime: 2020-11-07T22:53:00Z
-    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
+  - title: "Trump, the Absolute Worst Loser"
+    excerpt: "They are all too afraid to tell the loser that he lost. And, if Trump declares soon that he will run again in 2024, as some have speculated, it will further cow other 2024 contenders. Any suggestion that they would run would put them immediately in a fight with the man who just received a record number of Republican votes."
+    publishedDateTime: 2020-11-16T00:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/15/opinion/trump-2020-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/15/opinion/trump-2020-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/15/opinion/trump-2020-election.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/07/nyregion/07election-live-blog-trump-disbelief/07election-live-blog-trump-disbelief-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/15/opinion/15Blow/15Blow-facebookJumbo.jpg"
         width: 1050
-        height: 550
+        height: 549
+        isCached: true
+  - title: "How the Suburbs Moved Away From Trump"
+    excerpt: "Suburban counties across the country turned away from President Trump in this election. That includes suburbs in the Midwest and the Sun Belt, in inner-ring counties and those farther out, in predominantly white communities and more diverse ones."
+    publishedDateTime: 2020-11-06T18:54:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/11/06/upshot/suburbs-shifted-left-president.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/us/up-suburbs-promo-1604680621134/up-suburbs-promo-1604680621134-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "H6Awp1Ek/CCXxZYoNzQk9MTPcruwxQ/1gsACXaEtLIloHP86Uety3APKto126lntaVRmSS4QJrIKbBZDTYy+TnicH9xd5X8F840AjK61QF13WPLiUNqnDmzn0jP4wBjhHpjzE2ByukZD+GjApCFDnUUl7xg33THZrOpgde2harws519dj9kVyLSltV7yqTcLEJTsXkvbpNsm9jcku2kKoG6lVFj5rxW8y6jg6epzLbQxFv/K4VSPPWv1FXCMNR8Fr79WYSEl8EyS/BrmJNSKB1mXWzNGFA536bWDiQwgdXnyaq+FzOkWnCipjl/uPzluqfd1ixFW+CzugwwiH83qXZYma2iI+ACQrHfuMg4+WyE=;A1ra58MJ3+n8b+kxzcATgA=="

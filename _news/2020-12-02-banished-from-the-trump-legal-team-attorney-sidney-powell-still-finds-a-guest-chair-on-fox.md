@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/?outputType=amp"
 type: article
 quality: 115
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,19 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "A witness in Trump ally Sidney Powell's lawsuits says the voting results in 'Edison County' indicate fraud. No such place exists."
-    excerpt: "The lawsuit is being pushed by allies of President Donald Trump in an effort to fight voters and declare him the winner of Michigan's electoral votes."
-    publishedDateTime: 2020-12-01T17:23:00Z
-    webUrl: "https://businessinsider.com/sidney-powell-election-lawsuit-witness-vote-problems-edison-county-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/sidney-powell-election-lawsuit-witness-vote-problems-edison-county-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sidney-powell-election-lawsuit-witness-vote-problems-edison-county-2020-12?amp"
+  - title: "Trump campaign legal team distances itself from Powell"
+    excerpt: "The Trump campaign’s legal team is moving to distance itself from a firebrand conservative attorney, Sidney Powell"
+    publishedDateTime: 2020-11-23T06:44:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_17cfc180a8774b43bb88b736e14821fe_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump campaign disavows conspiracy theory-spouting attorney Sidney Powell"
+    excerpt: "The Trump campaign’s legal team is distancing itself from conservative attorney Sidney Powell, a purveyor of unfounded voting conspiracy theories."
+    publishedDateTime: 2020-11-23T10:17:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/512e097/2147483647/strip/true/crop/3034x1982+0+21/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F66%2F110684d9467c885e9125a53f9c39%2Fap20325745047715.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Giuliani releases statement distancing Trump campaign from lawyer Sidney Powell"
+    excerpt: "The president’s legal team was thrown into tumult Sunday when two Trump attorneys – Rudolph W. Giuliani and Jenna Ellis – released a statement abruptly distancing the campaign from a third attorney, Sidney Powell."
+    publishedDateTime: 2020-11-23T00:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/22/giuliani-releases-statement-distancing-trump-campaign-lawyer-sidney-powell/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/22/giuliani-releases-statement-distancing-trump-campaign-lawyer-sidney-powell/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/22/giuliani-releases-statement-distancing-trump-campaign-lawyer-sidney-powell/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BHKKJBBNDMI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump axed campaign lawyer Sidney Powell was because 'she was too conspiratorial even for him'"
+    excerpt: "Powell has alleged a vast plot involving foreign communists and GOP officials to subvert the election, but even Trump it seems has heard enough."
+    publishedDateTime: 2020-11-23T11:56:00Z
+    webUrl: "https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 96
+    quality: 113
     images:
-      - url: "https://i.insider.com/5fc6705d037cbd00186131db?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fbb973350e71a0011556be6?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

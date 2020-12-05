@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump invites Pennsylvania GOP lawmakers to White House after calling in to baseless voter fraud event"
-    excerpt: "President Donald Trump's planned trip to join his attorney Rudy Giuliani in Gettysburg, Pennsylvania, on Wednesday has been canceled, two sources familiar with the matter tell CNN.\n    \n"
-    publishedDateTime: 2020-11-25T23:38:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g2I1VpYZoHk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-hearing-giuliani/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-hearing-giuliani/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "VnE2h5fHXbK8nWedxSJvJrAQ6TeLV5BV/RLjRwjOYFKcUEhsjF5RCcR53XZk5ufV23XE8O4DIdt160E5WHoJCpl+W1AceAM5Xx5nIVFn/4VaX7Jxood9y+F5wX50P+cDrarVDTTlpZgi4nBAY8GnDGHBlbni6RSjM9mXQUTDx3EvB0+vmqKdXStcsLD7iEyZBqfeRgSOJVgUQzUrx5k6m+tIMubRqZMk4IETJ/nnl9oKWOyOrp7NpZ0HAFilposMCYFDfiJ6E3UkwWxVmS/PrsHhDanCD9erbPkAlpHVE6jaVqGfF90Cg0Yh1rz5lXC9wHHzxmi+Rch1RkMD2aiArxRUhAjn4jdNlJ77nt+4ARY=;A5KgPRfVToVKkh5HpOnITQ=="
 ---

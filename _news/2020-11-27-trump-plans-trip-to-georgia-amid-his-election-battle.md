@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump campaign files vote-counting lawsuit in Georgia as margin narrows"
-    excerpt: "The Trump 2020 Campaign and the Republican Party of Georgia filed a lawsuit in the state Wednesday, alleging that officials in a Democrat-leaning county were counting ballots for the presidential race that were received after polls closed Tuesday. "
-    publishedDateTime: 2020-11-05T10:04:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/McPRSKX9zS8/trump-campaign-files-vote-counting-lawsuit-in-georgia-as-margin-narrows"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-files-vote-counting-lawsuit-in-georgia-as-margin-narrows.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-files-vote-counting-lawsuit-in-georgia-as-margin-narrows.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Attorney Sidney Powell files lawsuit seeking Georgia election results be decertified, awarded to Trump"
     excerpt: "Attorney Sidney Powell filed a lawsuit in Georgia on Wednesday evening alleging “massive election fraud” that changed the state’s results in the 2020 election.  "
     publishedDateTime: 2020-11-26T19:19:40Z
@@ -298,6 +282,20 @@ related:
       - url: "https://images.wsj.net/im-261242?size=1.5"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Trump Drops Legal Challenge in Arizona"
+    excerpt: "Attorneys for the Trump campaign said Friday they’re no longer seeking a court’s intervention into the presidential race in Arizona. The Trump campaign, along with the state and national Republican party,"
+    publishedDateTime: 2020-11-13T18:00:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/jU8pMZdnj6SyRqNBnYgl"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-259539/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "ERU3Xlin3fuqbAm4jw0Jal4MmEwTx/Lxgc/66IPVSzDFoX7GUuArm+DUxUAyM1H011NX2dhdCjqyOjU0fKBRboVvlJJCxKOrJqS1Ym1Wh0w25YGUDMto3A926yureHCyLgt8M0nuMmHAmGS8pNHsoV4T7GU9irvSV07gYX7lmj2eArg3kV9wM3CcClDSbNv06qGfhZug3ahxA7lVjRW2xcjbwAg4yjtq4VyZqwQ4z28Ro6leTIg2H/E2z+oZj6JmYi06SZyOTXJ2bCdP5YSHOPrTd4C7Ghgbm9lK4de6NDKP47QV1aAzmpvnE8PMWvydJ6RGxoaAzrQq0hDrMR+0n59wqpCXB7OjDuKRxiAiMGw=;T9Lg1ZFwM828hgOsqBN/ng=="

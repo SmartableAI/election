@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Corporate America says it is ready to work with Biden"
+    excerpt: "Corporate America says it is ready to work with President-elect Joe Biden, hoping for quick action on a new round of COVID-19 relief and infrastructure spending."
+    publishedDateTime: 2020-11-09T21:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-companies-idUSKBN27P28S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P28S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P28S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540560927&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81CA"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden convenes U.S. pandemic task force, implores Americans to wear masks"
     excerpt: "U.S. President-elect Joe Biden implored Americans on Monday to wear protective masks to combat the coronavirus pandemic, appealing to their patriotism, as he convened a task force to devise a blueprint for tackling the public health crisis."
     publishedDateTime: 2020-11-09T19:32:00Z
@@ -78,38 +94,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540574554&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81DO"
         width: 817
         height: 545
-        isCached: true
-  - title: "US election live: 'Democracy works,' says Joe Biden as he urges patience with count showing him on verge of win"
-    excerpt: "Georgia confirms recount while Democratic candidate leads president in two key battleground states – follow all the latest news"
-    publishedDateTime: 2020-11-07T12:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates?page=with:block-5fa683d58f0870a6e75f91a7"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/d05d42e3e9b347488db3416c787e0484b7a50f47/0_0_640_716/master/640.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=78e6783bbbba423c2cd6a04bcd7519f7"
-        width: 600
-        height: 672
-        isCached: true
-  - title: "Polls showed Biden had a substantial lead. Why didn't Americans wake up to a winner?"
-    excerpt: "Election polls showed Joe Biden had a national lead over Donald Trump. So are the polls wrong? It's not that simple."
-    publishedDateTime: 2020-11-04T23:51:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/polls-biden-had-lead-over-trump-election-results-unclear-wednesday/6158248002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6158248002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6158248002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/346b070f-76c9-4569-b40a-f597dfbb7b78-XXX_USATODAY_437189_jmg_17861.JPG?auto=webp&crop=4875,2743,x0,y265&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "President-elect Joe Biden seeks diverse cabinet to 'look like America' in leading federal departments"
     excerpt: "Biden could tap a range of experts, from one-time rivals to former colleagues, both Democrats and Republicans, to be a part of his administration."
@@ -143,17 +127,17 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Joe Biden urges calm: 'In America, the vote is sacred' – video"
-    excerpt: "Speaking at the Queen Theater in Wilmington, Delaware, the Democratic nominee also noted the country is nearing 240,000 deaths from Covid-19 and expressed sympathy for Americans who had lost loved one"
-    publishedDateTime: 2020-11-05T22:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/nov/05/us-election-joe-biden-urges-calm-in-america-the-vote-is-sacred-video"
+  - title: "Biden takes lead in Pennsylvania as state nears the end of its count"
+    excerpt: "In Pennsylvania, votes from heavily Democratic areas like Philadelphia are giving Joe Biden a widening lead, and the Keystone State's 20 electoral votes are in his sights. Jericka Duncan has more."
+    publishedDateTime: 2020-11-07T00:08:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-takes-lead-in-pennsylvania-as-state-nears-the-end-of-its-count/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://i.guim.co.uk/img/media/9142dafc77dd950484bb58226b8c3538659c105a/0_27_3345_2007/master/3345.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2359d5223ac0027762ca04de6d5cebf"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/07/2e6c0834-00b6-45dc-b878-978b8bd74fde/thumbnail/1200x630/0dee6afa7cd8cda815e2c50316b1e622/cbsn-fusion-biden-takes-lead-in-pennsylvania-as-state-nears-the-end-of-its-count-thumbnail-582836-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -213,20 +197,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden says he's 'confident' in victory, speaks to unity as votes continue to be counted"
-    excerpt: "Biden calls for unity during his speech in Wilmington, Delaware. Votes are still being counted in states across the country."
-    publishedDateTime: 2020-11-04T22:17:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/04/2020-election-biden-calls-unity-votes-continue-counted/6166567002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b032550d-b933-4d85-b020-924b79592f45-VPC_ELECTION_DESK_THUMB.00_00_33_12.Still005.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "President-elect Joe Biden's family: Here's what we know about America's next first family"
     excerpt: "Joe Biden is the president-elect of the United States. Here's a look at America's next first family."
     publishedDateTime: 2020-11-14T16:08:00Z
@@ -256,34 +226,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e590aaec-8799-41c3-8d16-7496b0ae6828-USP_News__Election_2020_-_Joe_Biden_Kamala_Harris.jpg?auto=webp&crop=5100,2869,x0,y190&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Americans Must Render Judgment Against Joe Biden At The Polls"
-    excerpt: "The most recent bombshells were revealed by the NY Post, which detailed a web of emails and transactions allegedly involving Hunter Biden, Joe Biden, China, Ukraine, and others. Despite the serious nature of these alleged “transactions,” Joe Biden has ..."
-    publishedDateTime: 2020-11-01T14:01:00Z
-    webUrl: "https://www.theamericanconservative.com/articles/americans-must-render-judgment-against-joe-biden-at-the-polls/"
-    type: article
-    provider:
-      name: The American Conservative
-      domain: theamericanconservative.com
-    quality: 55
-    images:
-      - url: "https://www.theamericanconservative.com/wp-content/uploads/2020/10/GettyImages-520783510.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "False video of Joe Biden viewed one million times on Twitter"
-    excerpt: "A deceptively edited video of Joe Biden making it appear the Democratic presidential nominee forgot what state he was in was viewed more than one million times on Twitter over"
-    publishedDateTime: 2020-11-01T23:31:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/technology/false-video-of-joe-biden-viewed-one-million-times-on-twitter/article_e5065a39-ad32-5c68-8f22-112469642ee0.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
-        width: 600
-        height: 517
         isCached: true
 
 secured: "zY0EEiFjC3HX8HStGr5vgGdhoPcYe51j19mlMR9pSwNtVqmJZwTU4GYr/iNQfx+0HvJYXvXqVWDBWIx6lO7mXHD5ETLnDS2sbzro809gBpjfIf6CHiVDzrEHjGhTb9vqacSbnIZpdbZn0/VQEZoSPUDsC0anqBfxYcJmOPgjsk4SfleWWY+jAqQ0e1t7OBJ3fcHAUGmjgpbKC07SKTJV0gxDOy7T4rV2cSfogBIKQTjc27Y+jO4H1LKCl3ELoxsiLr+Z3NLcqSXHx7+lkaTLJ4MZxrnqZanSd6tAYpNIHBoPPe56xiNVQ/b4Vi/W0pbG99jxALijLDjLeOCd5VOree08AGmWuRhcbWBxf+2FB7g=;fUUH9gejsNDCIVuTrSAeeA=="

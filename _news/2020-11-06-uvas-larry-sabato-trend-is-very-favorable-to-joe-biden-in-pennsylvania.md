@@ -91,6 +91,50 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden takes the lead in Pennsylvania and Georgia"
+    excerpt: "President Trump's path to 270 continues to narrow as more election results come in. Former Vice President Joe Biden now leads the president in both Pennsylvania and Georgia. \"Face the Nation\" moderator Margaret Brennan joined CBSN's Lana Zak to discuss that and more."
+    publishedDateTime: 2020-11-07T05:11:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-takes-lead-in-pennsylvania-and-georgia/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/07/60ae7f65-176e-46d9-a5dd-2831854f8ffd/thumbnail/1200x630/2e33e3d31d7c951051b6894dc930ccb8/cbsn-fusion-joe-biden-overtakes-president-trump-in-pennsylvania-and-georgia-thumbnail-583017-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What put Biden over the edge in Pennsylvania"
+    excerpt: "Watch \"What put Biden over the edge in Pennsylvania\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-07T20:37:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201107200245-what-put-biden-over-the-edge-in-pennsylvania/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/07/story_07595815_1604781064.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pennsylvania lawyers shredded Rudy Giuliani's arguments in Trump's biggest election lawsuit, calling them 'disgraceful' and 'really inventive'"
+    excerpt: "One defense lawyer described Giuliani as living in a \"fantasy world\" and said his arguments were \"disgraceful in an American courtroom.\""
+    publishedDateTime: 2020-11-18T08:31:00Z
+    webUrl: "https://www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5fb451bfee44e7001ac113d8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "fWp14yEXP+n5gLZF3eU6F5A2ToUI/XFH79E7LLI0WofSBv0ZZB4OQxbpg6/+Pndp5PXBQWgYVJQfy9MetIY4eXQUlEkMBKwZgbgYnlomnQH1uzg8gGzrBpFNZJPHtIlG3E6P2Au7sD6sCfZTpr59oyfvtlDTPSmSuQc0QgiZ0lJkGmIvKCLPFYtpN4aFa43tUV8mxJz2akLUaKDsoGP0H7CKq2e8mGL26ALDDstPKdH/0WS77hrU+gO0S57M09A3TUDcjzlMeQ92cWqzNSBB60zYOLxHqufGM0Tc/ZMYjBXK+cIP5OgMJazLv4SSWLfeKjA1Wgxw9ULIs0/KtIYkUmYXzG3qrKFVey0RrB6+Ii4=;Ulmi+qY6iEaMQ3xrQlgX9Q=="
 ---

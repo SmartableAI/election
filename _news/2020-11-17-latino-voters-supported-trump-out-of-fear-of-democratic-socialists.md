@@ -47,38 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Nevada county judge keeps some polls open later after Trump campaign sues"
-    excerpt: "Some polling locations in Nevada’s Clark County will stay open until 8 p.m. after a GOP lawsuit. "
-    publishedDateTime: 2020-11-04T02:30:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjnqvgkV8MI/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues"
-    ampWebUrl: "https://www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/New-york-voting-2020-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "New Pentagon adviser could push US troop withdrawals before Trump’s departure"
-    excerpt: "President Trump’s flurry of November changes at the Pentagon could have U.S. troops home from Afghanistan by Christmas, if one new adviser gets his way."
-    publishedDateTime: 2020-11-12T00:22:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/38uX1nJm9Vo/new-pentagon-adviser-troop-withdrawals-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/new-pentagon-adviser-troop-withdrawals-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-pentagon-adviser-troop-withdrawals-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/jennifer-griffin-99438.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "n8ukDVksFtQlOd+NMx4/vXui6634ODaD0Tn/H0EJJb6bW7lB2NpLbj+aCw7IO7AIBmpnuGYBFUmX7cJ7qpfJVhhargX0JD3cBxNWMaNIrqrtbGyxRzU4DkBAHxI3LIYW2lAHzpv6AW3bKPV+H91VKSIFWfBuOlglopSEoKp9qE9+rhf9DfINbQO23BHMJS7vNp/cNmd1UkoQbl7YMfRVuAWPVxVOyXkJ05y+XWyQddaVWfxIEWu6Vh3TN3VLuRCiiqeO8wMtI5dtdDzHRM9NQmAr0bIWPgaBspsWavevyEb+57WmirjebV2BJGA9OCoOsGxYfy+nodbPhANnb9UcUdWiur2KLQP6EZcb2GeQ+m8=;Tj+3kFhoTAvkP2AIsFzpdQ=="
 ---

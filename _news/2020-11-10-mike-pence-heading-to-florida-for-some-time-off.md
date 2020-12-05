@@ -9,8 +9,8 @@ ampWebUrl: "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-san
 cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
 type: article
 quality: 75
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: Orlando Sentinel
@@ -27,69 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence heading to Florida vacation island for the rest of the week"
-    excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to"
-    publishedDateTime: 2020-11-09T16:08:00Z
-    webUrl: "https://fox40.com/news/political-connection/mike-pence-heading-to-florida-vacation-island-for-the-rest-of-the-week/"
-    ampWebUrl: "https://fox40.com/news/political-connection/mike-pence-heading-to-florida-vacation-island-for-the-rest-of-the-week/amp/"
-    cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/political-connection/mike-pence-heading-to-florida-vacation-island-for-the-rest-of-the-week/amp/"
+  - title: "Inside the Dems' Florida flop: Turnout, rural success propelled Trump in the Sunshine State"
+    excerpt: "But that alone does not explain why Biden lost the state by about 375,000 votes, a substantial gap in a state known for paper-thin margins. An analysis of post-election data shows that several factors played into the Democrats' bad day."
+    publishedDateTime: 2020-11-08T18:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/how-donald-trump-won-florida-rural-success-beat-joe-biden/6214043002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6214043002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6214043002"
     type: article
     provider:
-      name: FOX40
-      domain: fox40.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
     images:
-      - url: "https://fox40.com/wp-content/uploads/sites/13/2020/11/pence2b.jpg?w=1280"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/30/NPPP/6e5b7ee4-f6f8-4bbf-8765-e922a7017e91-Election_2020_Biden.jpg?auto=webp&crop=5718,3217,x0,y290&format=pjpg&width=1200"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Mike Pence plans trip to Florida for 'time off'"
-    excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday."
-    publishedDateTime: 2020-11-09T22:33:00Z
-    webUrl: "https://www.wtsp.com/article/news/regional/florida/mike-pence-florida-vacation/67-4ca958b6-0ef5-4dc8-b3e2-427b812ac721"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/regional/florida/mike-pence-florida-vacation/67-4ca958b6-0ef5-4dc8-b3e2-427b812ac721"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/regional/florida/mike-pence-florida-vacation/67-4ca958b6-0ef5-4dc8-b3e2-427b812ac721"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 75
-    images:
-      - url: "https://media.wtsp.com/assets/CCT/images/cda447ca-7445-437f-a89f-b81ed988e2d3/cda447ca-7445-437f-a89f-b81ed988e2d3_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "VP Mike Pence is taking a vacation in Florida. But he’s not going to Disney World"
-    excerpt: "Being vice president is a tough job. Especially one who has just been voted out of office and is fighting to stay in it."
-    publishedDateTime: 2020-11-09T20:41:00Z
-    webUrl: "https://www.miamiherald.com/news/state/florida/article247080332.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/state/florida/article247080332.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/state/florida/article247080332.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 70
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/0eabdea8-12fd-4d78-bf4c-3e9465379cee/8108ba07-9c58-4a4f-acc8-5c09bbe4d436/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "VP Mike Pence won’t be taking a Florida vacation after all. There’s a good reason why"
-    excerpt: "Vice President Mike Pence won’t be checking out seashells by the seashore after all. Pence has apparently canceled his planned trip to Sanibel, Florida. According to a Federal Aviation Administration advisory,"
-    publishedDateTime: 2020-11-11T15:49:00Z
-    webUrl: "https://www.miamiherald.com/news/state/florida/article247123166.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/state/florida/article247123166.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/state/florida/article247123166.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 68
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/e76df167-a648-4a31-ba10-cd22c9a2a219/b4e11277-7a56-4fbd-9feb-f4a5f539ac5d/1280x720/match/image.jpg"
-        width: 1275
-        height: 720
+        height: 675
         isCached: true
 
 secured: "rajbxlzQhMzFErwzM29SFpt9fnAdsRm7BznIsxLnGQBqUmmxK+PUzktOCtdP5ke47mZQaQnOdqxUjsyXGZqAHfmKgBl7LK0OGyk0mZzdPHYU+Cx5VTEqLNqsVTlpXCMvTePiUFH6ijwclJnyJFadU8goYaExVyfFKWCMjfHnU5m23ensLRq8XrAaMGUEdLNga1y2SisCyONGNQFO9Tb4wuCfBdmWr7WMBAz+cFxXUoBiO1GWxc39dj2gPUqNko4H0iwxjZyMK7/sCzIk9kBjbguiK32iPaBKNd9SxvWke9QcOuGEZbev7Rrs5Ue4YgTTlSTGfNV6+QjJWUCkcHnGlCa+w1QHdzcqFV87/ynK0U3eYcz2LKvzsGhk19gYKVt7iYgolK/7SUpbfTSgYZAZf0CkUdy3j6CZO1fTYAOMO51mPk6AyN8QC76ZOcwWva/Qv/lDHuzPTje+mphT6CbFSSImZrSIckl8RVPRAzqd48bCVeKWrSCuAyBCKx10tUp9j4L3NuXZoVtb4/vD2oUjnA==;Cift/WF94cu1XiCXTfDalA=="

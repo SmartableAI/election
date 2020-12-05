@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump slams McCabe as ex-FBI official testifies virtually"
-    excerpt: "President Trump on Tuesday slammed ex-FBI deputy director Andrew McCabe, urging Republicans not to let him “get away with totally criminal activity” as the former official testified virtually before the Senate Judiciary Committee."
-    publishedDateTime: 2020-11-10T16:39:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o_8J3cy-uBI/trump-slams-mccabe-as-ex-fbi-official-testifies-virtually"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-mccabe-as-ex-fbi-official-testifies-virtually.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-mccabe-as-ex-fbi-official-testifies-virtually.amp"
+  - title: "Giuliani says Trump won't concede amid legal challenges"
+    excerpt: "President Trump wouldn’t concede the election at this point and the race is “far from over,” Rudy Guiliani said Saturday at a news conference in Philadelphia."
+    publishedDateTime: 2020-11-08T10:59:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScCCiaiEkaA/giuliani-says-trump-wont-concede-amid-legal-cahllenges"
+    ampWebUrl: "https://www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20312640775001.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump May Try to Fire Wray, but FBI Director Has GOP Support on Capitol Hill"
-    excerpt: "President Trump has frequently and openly speculated about firing FBI Director Christopher Wray after the election, but Mr. Wray continues to enjoy support from some GOP senators.."
-    publishedDateTime: 2020-11-03T20:38:00Z
-    webUrl: "https://www.wsj.com/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965"
+  - title: "These Dems balked at a coronavirus vaccine under Trump. Will they change their tune now?"
+    excerpt: "When President Trump first told the American public that a coronavirus vaccine could come this year -- at the time he said possibly before Election Day -- Democrats including Vice President-elect Kamala Harris said they would not trust Trump as to any vaccine's safety."
+    publishedDateTime: 2020-11-09T20:01:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F4dtB1xwKqY/democrats-balked-at-coronavirus-vaccine-under-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-balked-at-coronavirus-vaccine-under-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-balked-at-coronavirus-vaccine-under-trump.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 132
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
     images:
-      - url: "https://images.wsj.net/im-254320/social"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/099faceb-1615-4e7b-afcb-a7c7202dec3f/2fc973bf-71b6-4759-b179-89f24a5ca219/1280x720/match/image.jpg"
         width: 1280
-        height: 640
+        height: 720
+        isCached: true
+  - title: "Giuliani blames GOP legislators for letting down Trump as other court cases get dismissed"
+    excerpt: "After weeks of failed lawsuits, the Trump campaign suffered another blow in a late Thursday-night Supreme Court decision rejecting the campaign's efforts to reverse Pennsylvania’s election results."
+    publishedDateTime: 2020-12-05T03:09:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MG0A05vuu3Y/giuliani-gop-legislators-let-down-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/giuliani-gop-legislators-let-down-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-gop-legislators-let-down-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f1e9ef4-9f2c-4d69-ad79-d689751c9a41/45d541b2-f2d3-461e-bb28-2f05b3ef8537/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "mfnJYML8AEIcl/HKDsejwyx/b7PdUf5qq/wa5z8NXRyZ7Y+oHpzA099GilZlWaOrnLp7S4e95KUfbgh79gMHwgpigbaZf+LwW9zJE+iUPgmF4xS4+JKCmK6rbf38h0XOkK+6dUJpQAs+xfgH/XYvSrSMn8mvqAWE8LyEZEFQfRqRR4R9l7p7WdozPIr+G+PMLZgit32sAx2ZQMI9Gm2actvGl6kMgWVQ9F92y917yN7oYdC4hF0tHE493frAY6s/w+L7CxqRWnqAGgtLLj7fyeTEEay75JbCuWH5fAer9bUmZ+QkVPEToZ5tSfRNJiBV74rD2Pijg1+tAJ5bgwkpVkV7+QBgdDb8NF2eR3kFz8M=;xhgjpMq9ssDu+TncENDisA=="

@@ -47,54 +47,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump loves to win but keeps losing election lawsuits"
-    excerpt: "In his quest to cling to power, President Donald Trump has managed to lose not just once to Democrat Joe Biden but over and over again in courts across the country"
-    publishedDateTime: 2020-12-04T10:53:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_228055904c5f4d6a9937890e1fc77162_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump loves to win but keeps losing election lawsuits"
-    excerpt: "In his quest to cling to power, President Donald Trump has managed to lose not just once to Democrat Joe Biden but over and over again in courts across the country"
-    publishedDateTime: 2020-12-05T00:28:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/c827ea9e-3690-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/c827ea9e-3690-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/c827ea9e-3690-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Arizona, Wisconsin to certify election results Monday, Trump may challenge outcome"
-    excerpt: "President Donald Trump has challenged results in several states, but the president has faced setbacks in many of those legal battles."
-    publishedDateTime: 2020-11-30T15:42:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/30/arizona-wisconsin-certify-votes-trump-may-challenge-outcome/6462445002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6462445002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6462445002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 134
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/a4f30290-dae6-438d-bac6-9a31bad382f3-AFP_AFP_8UN26Z.jpg?auto=webp&crop=1023,575,x0,y77&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Wisconsin governor certifies Biden as winner of state"
     excerpt: "Wisconsin Governor Tony Evers on Monday certified Democrat Joe Biden as the winner of the state's presidential election."
     publishedDateTime: 2020-12-01T06:03:00Z
@@ -142,22 +94,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-s_hpMain_20201202-212705_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Wisconsin and Arizona make it official as Trump fails to stop vote certification in all six states where he contested his defeat"
-    excerpt: "The president and his allies vowed to continue pressing legal claims challenging the election results in several states — but such efforts have met with resounding failures in the courts."
-    publishedDateTime: 2020-12-01T08:24:00Z
-    webUrl: "https://www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 96
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NKGJIERTLMI6XDJYNLVBVWZYHE.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "ytFYnAeSQHuXfYkxIFFClhYyD+11PhVYY85SkYm5eDr4lq0dWQZqCtjxbKQy9KOe+V7YF/jzewsXuFAzAbYoPrb3lvNM3YBHBgDIbN20FGVJnPrCsQ+OWg+C+eAKbYmR7duNDjx5bJ7VJfYdq3ud2v2kO2k8Q3/uS/CUZQLnu8euacu2zTavUuJBks5eoV+aYp4d0eixW2R+BjCoLwzUyUCQVSuwTgYvB5BYSfNY6OotgacWNQ1hQQkMLR20LYR5TOpjH+u1tGDd0U5lcZuHW1ivgE7ya/klVOlu86f4pc1LDxdJd3A1x4HgpulfAJ7ZoHQERhM+pLmJAWPsiLXQDJj/ELLR4i4Z2RyWFgJV8q8=;i9OgDTJIwDj6wahsmIVF+g=="

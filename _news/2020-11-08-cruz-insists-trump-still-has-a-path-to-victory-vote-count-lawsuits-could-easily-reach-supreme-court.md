@@ -47,20 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Lieberman: Donald Trump Has The Right To Take His Case To Court And Let The Judge Decide"
-    excerpt: "Former Senator Joe Lieberman, who ran alongside Democratic nominee Al Gore in the disputed 2000 election, joined CNBC's \"Squawk Box\" on Thursday to discuss the 2020 presidential election. \"The Trump campaign has the right to take its case to court and let the judge decide,"
-    publishedDateTime: 2020-11-06T12:34:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/06/lieberman_donald_trump_has_the_right_to_take_his_case_to_court_and_let_the_judge_decide.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 56
-    images:
-      - url: "https://assets.realclear.com/images/52/526349.jpg"
-        width: 1168
-        height: 876
-        isCached: true
 
 secured: "z5UrreNGoD5beUr4iwpOjIDacTqc/3xS2KdZJObG+d5kV67KZs7FIgEHI1rGoc2mXk/kOHI43H6V63if3Vcx3eJJDAE4WcjT+qyCXoY/EJVJa+5GSai7aNqZm2R5wKfyFO6r9ZiL8b52BRzRnqSg3o+S4myUXyzuqz92p8hFHa32QZIPE2v2Q15RNSk8YEgbrNaILAqiveg2/vWmeH4xSn7LRstwDjCR8SCZ6D+uUfEg8uBYKrNbudRIvsMVLhA2krVrn5e/vOt2ysdWHftpQTIptqM9ESCd3kByTa8VPci6MNcmrvExbwAMRXJwhBnVG+nZNRDo4jQEP9MYmzGa/fiB9+152nWyt5N/+pFINzQ=;mY5YNlUIxaCmV/ngU4aqTA=="
 ---

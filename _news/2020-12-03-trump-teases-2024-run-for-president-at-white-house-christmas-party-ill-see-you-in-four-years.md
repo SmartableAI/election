@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "President Trump pardons ex-national security adviser Michael Flynn; ends three-year legal odyssey"
+    excerpt: "Michael Flynn pleaded guilty three years ago to lying about his conversations with Russian Ambassador Sergey Kislyak."
+    publishedDateTime: 2020-11-27T07:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/25/michael-flynn-trump-announces-pardon-former-national-security-advisor/6419985002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6419985002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6419985002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/12/05/USAT/4a1f6fa3-badd-463d-8f4e-af5c2580740a-615530474.jpg?auto=webp&crop=2826,1590,x343,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "uXBmmkhSCK3iKDSP5aoW9tqxcc4VkBdDg6RP7kW5SNSbLu3xIpngGg8A13gdR4oDvA4McZcujRFcGozqgI23ApmQZngeYzGElldu003EeoZ07DYI0wP6Q5zpudux/jCnZxbmjkB0vSEgHZXgpVTBGEFHeiJl4VWDVtD6OFIRuAyVgpC21k12XzkIj5T5jx4E743/Mrqii+dRTftNvPkRkisypH9Rr9/M1bGDur3yyOxe0A9faxgKUpdG+SLYz98BIJ6wYh7oQqSkH1n8kKFyPhfiGNsfy21PP3qv4D75atjvPX0H7e7CmJ7eDFdCWhImX1zXfS/p6wQYAjMpTxH+Oq02brG2j0VQqzVvXIMYJiI=;HupmsPRFvIHSdOtG1PyxiA=="
 ---

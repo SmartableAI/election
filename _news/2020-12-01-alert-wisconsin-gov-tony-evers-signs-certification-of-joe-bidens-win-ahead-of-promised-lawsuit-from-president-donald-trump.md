@@ -1285,6 +1285,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden, Harris get first access to Trump's top-secret President's Daily Brief"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris got their first look Monday at the top-secret President's Daily Brief since winning the 2020 election. President Trump had delayed Biden's access to the PDB,"
+    publishedDateTime: 2020-12-01T06:24:00Z
+    webUrl: "https://theweek.com/5things/952601/biden-harris-first-access-trumps-topsecret-presidents-daily-brief"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 82
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1286019386.jpg?itok=X1likKTA"
+        width: 840
+        height: 560
+        isCached: true
   - title: "Transition Latest: Harris Promises Action on Hunger; Trump Challenges Wisconsin Results"
     excerpt: "Although the federal General Services Administration recognized President-elect Joe Biden as the “apparent winner” of the Nov. 3 election last week, President Donald Trump is challenging the results in multiple battleground states."
     publishedDateTime: 2020-12-02T16:43:00Z

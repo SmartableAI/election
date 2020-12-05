@@ -47,6 +47,54 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Donald Trump Jr tests positive for coronavirus – as it happened"
+    excerpt: "President’s eldest son tested positive for Covid-19 earlier this week, spokesman said, and is fourth member of Trump family to contract virus"
+    publishedDateTime: 2020-11-20T20:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb86a6f8f087f6ff1099ed6"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d6e38cf16120655d6f33182716bf34403d310069/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7d3646efad6165b44747fe4ae85d0375"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Donald Trump Jr tests positive for coronavirus – live"
+    excerpt: "President’s eldest son tested positive for Covid-19 earlier this week, spokesman said, and is fourth member of Trump family to contract virus"
+    publishedDateTime: 2020-11-21T01:11:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb85c988f087f6ff1099e70"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d6e38cf16120655d6f33182716bf34403d310069/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7d3646efad6165b44747fe4ae85d0375"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump to appear at virtual G-20 as coronavirus ravages the globe"
+    excerpt: "After days of noncommittal silence, the White House finally confirmed late Friday afternoon — less than 24 hours before the global summit’s scheduled start — that President Trump would participate. It’s just the latest reminder that during this once-in-a-century health and economic emergency,"
+    publishedDateTime: 2020-11-20T22:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PRL5GWBHRQI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden to meet with U.S. workers hit by coronavirus pandemic"
     excerpt: "President-elect Joe Biden on Wednesday will meet with American workers and business owners hit by COVID-19 as he prepares to confront the pandemic that has taken a heavy human and economic toll when he takes office next month."
     publishedDateTime: 2020-12-02T11:30:00Z
@@ -142,6 +190,50 @@ related:
       - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Donald Trump Jr., the president’s eldest son, tests positive for the coronavirus, spokesperson says"
+    excerpt: "Donald Trump Jr., the eldest son of President Donald Trump, was quarantining Friday after learning he has been infected with the coronavirus, a spokesperson said."
+    publishedDateTime: 2020-11-20T23:46:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-donald-trump-jr-covid19-20201120-5wtzb4nqznc2hi5aesmbdkvlmi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-donald-trump-jr-covid19-20201120-5wtzb4nqznc2hi5aesmbdkvlmi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-donald-trump-jr-covid19-20201120-5wtzb4nqznc2hi5aesmbdkvlmi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 111
+    images:
+      - url: "https://www.chicagotribune.com/resizer/BJz1b_CZfapJFbcKHYJAxdneffw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/REJGIQUBZMDXOQG7HZBR4PB6LI.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump says coronavirus vaccines may be approved by year's end"
+    excerpt: "President Trump spoke in public for the first time in more than a week, saying two coronavirus vaccines could be approved by the end of the year and available to Americans as soon as April. Ben Tracy has more."
+    publishedDateTime: 2020-11-14T00:09:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-says-coronavirus-vaccines-may-be-approved-by-years-end/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/13/e3c98bf0-6b23-4f19-86df-04f641f2dee2/thumbnail/1200x630/910ad882516943167431f634b5b1cdb3/cbsn-fusion-trump-says-coronavirus-vaccines-may-be-approved-by-years-end-thumbnail-587778-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Donald Trump Jr. Tests Positive For The Coronavirus"
+    excerpt: "The president's son, who announced his diagnosis on Instagram, said he has no symptoms and feels fine. Trump Jr. said he plans to quarantine and \"take it seriously.\""
+    publishedDateTime: 2020-11-21T16:54:00Z
+    webUrl: "https://www.npr.org/2020/11/21/937574684/donald-trump-jr-tests-positive-for-the-coronavirus"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/21/ap_20325834765888_wide-c0ccca04b1e02e8ea0ac59c4d149f229f64d7718.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Biden's team has made contact with Dr. Fauci, and the president-elect said he has been 'very, very helpful' in briefings with staff"
     excerpt: "The contact between Fauci and Biden's team comes as the US may be entering the darkest stage yet of the coronavirus pandemic."

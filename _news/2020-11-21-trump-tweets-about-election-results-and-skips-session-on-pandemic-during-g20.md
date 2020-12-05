@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's attempt to steal the election unravels as coronavirus cases surge"
+    excerpt: "President Donald Trump's attempts to overturn his election loss are plunging deeper into incoherence.\n    \n"
+    publishedDateTime: 2020-11-22T06:57:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V3rCceihuSk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/22/politics/trump-election-results-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/trump-election-results-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121021120-02-donald-trump-1120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact-checking McEnany's first White House press briefing since Trump's election loss "
     excerpt: "In her first press briefing since October 1, White House press secretary Kayleigh McEnany repeated several old falsehoods around voting, the coronavirus and special counsel Robert Mueller's investigation into Russian interference.\n    \n"
     publishedDateTime: 2020-11-20T21:18:19Z
@@ -223,6 +239,22 @@ related:
         width: 460
         height: 259
         isCached: true
+  - title: "Trump scores a long-awaited coronavirus win with vaccines on the way"
+    excerpt: "President Donald Trump finally has something legitimate to take credit for in his coronavirus response: A vaccine that appears poised to reach Americans in record time.\n    \n"
+    publishedDateTime: 2020-11-17T23:50:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LDX5bfJdaIQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-vaccines-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-vaccines-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114052157-donald-trump-rose-garden-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Federal judge tears into Trump administration over its handling of DACA"
     excerpt: "A federal judge in New York who ruled over the weekend that the new DACA rules were invalid tore into the Trump administration for its handling of the program in a hearing Wednesday, calling the latest government actions a \"sad and inappropriate use of executive authority.\"\n    \n"
     publishedDateTime: 2020-11-18T17:46:27Z
@@ -348,6 +380,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119170042-04-biden-harris-presser-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Donald Trump Jr. tests positive for coronavirus"
+    excerpt: "Donald Trump Jr., President Donald Trump's eldest son, has tested positive for the coronavirus, a spokesman told CNN on Friday.\n    \n"
+    publishedDateTime: 2020-11-21T00:14:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BIa4HJRugAo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/donald-trump-jr-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/donald-trump-jr-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200728102117-donald-trump-jr-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

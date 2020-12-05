@@ -112,22 +112,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Officials say Defense Secretary Mark Esper is prepared for possibility Trump may fire him"
-    excerpt: "Defense Secretary Mark Esper is attempting to fashion a graceful exit from office if President Donald Trump decides to fire him regardless of the result of the presidential election, according to several defense sources, including one senior defense official.\n    \n"
-    publishedDateTime: 2020-11-06T01:55:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YWH3qf4boWA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/mark-esper-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/mark-esper-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714171734-02-mark-esper-0709-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "iTM0ClImlW+Tf4mdKL704vwG5iqbBky0fLV7aSkam/0EMCax36EShvcnpY75gNG/1Y8vKzExcLucpkt7oqWAL3dmPo3SXU3NRyndy4X85eoA8RKqxa7gfDGb57N195rYb3TMeM7pmu63Mj89Lkei2YrGZN9ZwtuxQiCdvW48BMI+n1scS+mmTHlvI5abq37lso9hfEOojh3JatV7iRPKaeYciEZv7IcYtQBa/qDk1UF8Y5ERYeRfgd0pT5qCvn8YCGfFS6e0b6IW3UF6fcsnD1HpuEiX/mLHtrn6ZTB2n64bsKJTNdZFo6cXstYKxokafQYYFqsh8EZujGNmUGIM4RjN9dVcdzm5N6beztkvD9U=;1mO2gSCWPl0b8mbv9Jt/qg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Fact check: Map showing Trump landslide based on false report of seized election servers in Germany"
+    excerpt: "A map that shows Trump at 410 votes was displayed during a segment on the conspiracy theory about an Army raid to seize servers in Germany."
+    publishedDateTime: 2020-11-19T10:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/18/fact-check-fake-map-shows-trump-with-410-electoral-votes/3767048001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3767048001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3767048001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/b06ccbc9-282d-49b9-879a-17c0b2100e65-AFP_AFP_8UW2WG.jpg?auto=webp&crop=3839,2160,x0,y195&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Man seen exhaling on women outside Trump golf club charged"
+    excerpt: "A man seen forcefully exhaling on two women outside President Donald Trump’s Virginia golf course has been charged with assault"
+    publishedDateTime: 2020-11-23T04:42:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/man-exhaling-women-trump-golf-club-charged-74350304"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/man-exhaling-women-trump-golf-club-charged-74350304"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/man-exhaling-women-trump-golf-club-charged-74350304"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/GMA/201122_gma_ault4_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fact check: Fake Trump tweet echoing Halsey song lyrics originally began as a joke"
     excerpt: "A doctored image shows Trump tweeted Halsey lyrics about losing the election. This fake tweet, which doesn't appear on his profile, was a joke."
     publishedDateTime: 2020-11-17T16:09:00Z
@@ -47,38 +79,6 @@ related:
         width: 1200
         height: 681
         isCached: true
-  - title: "Twitter fact-checks Donald Trump tweet about the firing of Chris Krebs (on Twitter)"
-    excerpt: "Twitter appended a label to fact-check President Donald Trump’s tweet about his firing of the nation’s top election security official Chris Krebs."
-    publishedDateTime: 2020-11-18T02:02:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/11/17/twitter-fact-checks-donald-trump-tweet-highly-inaccurate-chris-krebs-firing/6335471002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6335471002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335471002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/01a35a8f-239a-485d-9cf8-fc2c341d56b5-AP_20297817077474.jpg?auto=webp&crop=4663,2623,x0,y236&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Republican election chief says Trump would've won Georgia by 10,000 votes if he hadn't 'suppressed his own voting base'"
-    excerpt: "Secretary of State Brad Raffensperger speculated that Trump \"would have won by 10,000 votes\" if he hadn't created distrust in mail voting."
-    publishedDateTime: 2020-11-18T12:04:00Z
-    webUrl: "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/5fad157b4044a00018f761b7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Fact check: Images claiming to show pro-Trump rally are from 2016 in Cleveland, 2018 in London"
     excerpt: "Trump'Stop the Steal' rally in DC. Tens of thousands of demonstrators gathered Saturday in Washington, D.C., in support of President Donald Tru"
     publishedDateTime: 2020-11-17T22:54:00Z
@@ -94,52 +94,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/14/USAT/0b7e0c4d-3f19-4207-8804-2974186b7d0e-008_SPORTS.JPG?auto=webp&crop=5149,2897,x0,y262&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
-    excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
-    publishedDateTime: 2020-11-18T22:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump Hasn't Conceded Georgia. Neither Did Stacey Abrams. What Changed?"
-    excerpt: "The president's refusal to acknowledge defeat isn't the first time Georgia voters have heard that, but state officials say claims about impropriety — past and present — are false."
-    publishedDateTime: 2020-11-18T12:00:00Z
-    webUrl: "https://www.npr.org/2020/11/18/935734198/trump-hasnt-conceded-georgia-neither-did-stacey-abrams-what-changed"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/11/17/ap_18311261907480_wide-a715561dfb6fb6116b6286b6d7a030c834c9da09.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "An anonymous group of top US CEOs said they would hold off acting against Trump until after the Georgia recount. It's done."
-    excerpt: "The CEOs said they only had limited patience for Trump's attempts to dispute the election results, according to the Associated Press."
-    publishedDateTime: 2020-11-20T11:53:00Z
-    webUrl: "https://www.businessinsider.com/georgia-recount-done-top-ceos-were-waiting-act-against-trump-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/georgia-recount-done-top-ceos-were-waiting-act-against-trump-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-recount-done-top-ceos-were-waiting-act-against-trump-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
-    images:
-      - url: "https://i.insider.com/5fb7a12450e71a0011556684?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "ZqVwt96eVUR7ZmxjByOkOf1TqF9AwVpJZIlhylvjhCGiwWMy5+TFPe8uXYqMhM2ZQxOnWg6MT9t/Jy8vFWMfCxjtyBMREhFvX9IOT7UW5JD1lYADuwgZTYfkey4FOJoSXoOsQvtQ/AImh+qdjuCgmh+j0b6+3HNRYJiuFuXIjdswONasV+KsBH6/If9IL/8s9JfKnvD5IoWYOSXGKx9w5TN6Yvj5/8e67yLtEmnilld7W5SkzVdOJIrIfm3iDEqoH6+KsEHyhOjAOXcqKFwl9Ga3pkIHQKrYOlkDERAn7RSbl8Pj7e1JzO/95bUUc1uqmlN6O+j+1m7DjntzqdMl618c33h7Fh1B6EpXRBMATrY=;0bbUm5olAWfXKc/X93bIFg=="

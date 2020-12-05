@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Indian-Americans Rejoice As Kamala Harris Prepares To Become The Next Vice President"
+    excerpt: "Harris will not only be the first Black, and first female, vice president. She's also the first Indian American and the first Asian American elected to the office."
+    publishedDateTime: 2020-11-08T18:21:00Z
+    webUrl: "https://www.npr.org/sections/live-updates-2020-election-results/2020/11/08/932824125/indian-americans-rejoice-as-kamala-harris-prepares-to-become-the-next-vice-presi"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 98
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/08/gettyimages-1229520920_wide-5986925f0c5feb3f27267ddfb075420cacb31e92.jpg?s=1400"
+        width: 1400
+        height: 786
+        isCached: true
   - title: "What Kamala Harris’ historic win means to Indian Americans"
     excerpt: "Kamala Harris’ win has political significance for the Indian American community, which is still only about 1% of the nation’s population. Her August nomination highlighted unprecedented momentum for campaigning targeting our community."
     publishedDateTime: 2020-11-11T12:14:00Z

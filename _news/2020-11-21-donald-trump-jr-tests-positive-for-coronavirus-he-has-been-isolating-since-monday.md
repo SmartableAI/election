@@ -96,22 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Birx Issues Blunt Coronavirus Warning Starkly at Odds With Trump"
-    excerpt: "The White House coronavirus coordinator, who has avoided criticizing the president, warned in a private memo that the pandemic was entering a “deadly phase” that demands a more aggressive approach."
-    publishedDateTime: 2020-11-03T22:06:00Z
-    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/birx-trump-covid.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/birx-trump-covid.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/birx-trump-covid.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/02/us/politics/02dc-virus-birx1/02dc-virus-birx1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "annDld8Z92sHOonw9AXzI7QCVFrWnPLaDV02Sbk3Myu8rnMdQ35b43TmdT2qisN4rPSie2P+fJ8Cev6dncwR5iVgxVN83t3zVdmbORtSXrf+ZNYEbvF8Ls1fa7npsMIrP8VyxEmAGK3s8m8chGSKPIZ1IjkyVCcBkMtgFv2IKSPAnEoc39mwMzyCduDeipAjpGMOQj15/mGiPBIvDeBn9T8yVWY6k2c/617qbooFnUYCLYQOBqrCT2sGedOaCX2uJzS0X/eYPdz/0+PTRaoi500M9t149r9Qp8a9LtaGGoo9ovaI1SOItFWvSCXS/rfesU1GQtvFW1y3XCVay9yVJmCh6V+VKxsUGe5ophGIPR3pq6C28sEZtZaL1DXxE6rOc1QjK9bbgfAik0uA/RdhzdjAEH/qxdQBQIGR3T4amHnadpcYWgh2fLJ0iZM7sp9cbYFynxZki/Hoso5BPMx9KQCVyci2y56CHsXkssG5JWARN+xdjZckUaWLs3tkptK/zqr3OaiNe/sjFRW0dNCmOg==;0mhOzPGqBwvANwi5fk18Kg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/donald-trump-lou-holtz-m
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/donald-trump-lou-holtz-medal-of-freedom/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/23/world/00trump-who-1/00trump-who-1-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Trump awards Lou Holtz with Presidential Medal of Freedom"
-    excerpt: "President Trump awarded former football coach Lou Holtz the Presidential Medal of Freedom during a ceremony at the White House."
-    publishedDateTime: 2020-12-03T18:26:00Z
-    webUrl: "https://www.nbcnews.com/video/trump-awards-lou-holtz-with-presidential-medal-of-freedom-97064005923"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97064005923"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97064005923"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/holtz_trump.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "3VA6YfZgbeQaIVyssunjc10Ujbnf8AoW2ocpFPY4jPHsVqUBi4VgZ1jJHeuYKG4sTF4uJJKgKTN6UquHE5fjBEvDpkgjUPXiZLgDb8LAjid4ph6sXb+UsblOQtfToQnqhVQ6B9fI4LvhBOFm9EKYt4qxR7F8rc7a4S0HpwIF9zsynPX06Fe6GWKWAecG7BuF2sOs1sQKPx+RViqCxfQMJL0Ed5CY87Elj0+qQkQbEc0Gn3mcM7bALHnDLavfy/xXZKY0E6oGVBMHRE6VBjnRSyTzDRr3Disp+i3gF1ev3rpSCKpQKvOxeCF9sMHYt3ilHSdsrxSp2t5Qt8YA+x1dzch/2aNixHRNE1QDMm1G5zk=;y5d6DsdM1sM69/87tfQJmg=="

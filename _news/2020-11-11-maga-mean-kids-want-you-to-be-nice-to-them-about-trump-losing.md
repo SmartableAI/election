@@ -31,93 +31,155 @@ images:
     isCached: true
 
 related:
-  - title: "'They Gonna Do Him Dirty': 50 Cent Says Donald Trump Is Going to Jail"
-    excerpt: "\"You ever herd [sic] a president say stop counting the f**king votes. LOL SMH,\" the rapper tweeted on Thursday."
-    publishedDateTime: 2020-11-05T18:35:00Z
-    webUrl: "https://www.newsweek.com/50-cent-donald-trump-election-1545225"
-    ampWebUrl: "https://www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1665432/50-cent-says-trumps-going-jail.jpg"
-        width: 3256
-        height: 2163
-        isCached: true
-  - title: "'The 900-pound gorilla when it comes to the Republican Party': GOP wrestles with Trump defeat"
-    excerpt: "GOP presidential nominee said Trump is likely to cast a long shadow over the Republican Party, even after he is out of office."
-    publishedDateTime: 2020-11-08T16:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/mitt-romney-republicans-wrestle-response-trumps-defeat/6213267002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6213267002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6213267002"
+  - title: "President Donald Trump handily wins Kentucky once again"
+    excerpt: "President Donald Trump nabbed another decisive victory in Kentucky after the polls closed in the Bluegrass State on Tuesday."
+    publishedDateTime: 2020-11-06T21:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/president-donald-trump-wins-2020-election-kentucky-ease/6130620002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6130620002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6130620002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 114
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NLED/391a71ca-8580-45d5-9b96-8d0ab452c96f-AP20307617419308.jpg?auto=webp&crop=5999,3374,x0,y43&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "‘What’s the downside for humoring him?’: A GOP official’s unintentionally revealing quote about the Trump era"
-    excerpt: "What is the downside for humoring him for this little bit of time? No one seriously thinks the results will change,” the official said. “He went golfing this weekend. It’s not like he’s plotting how to prevent Joe Biden from taking power on Jan."
-    publishedDateTime: 2020-11-10T22:17:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/10/whats-downside-humoring-him-gop-officials-unintentionally-revealing-quote-about-trump-era/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/10/whats-downside-humoring-him-gop-officials-unintentionally-revealing-quote-about-trump-era/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/whats-downside-humoring-him-gop-officials-unintentionally-revealing-quote-about-trump-era/?outputType=amp"
+  - title: "How and when will Trump leave office?"
+    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
+    publishedDateTime: 2020-11-09T14:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idUSKBN27P199"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P199"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P199"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 106
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BABJHWE75EI6VPQGV5KRJ3QDQU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540530760&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OO"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Clyburn to Trump: 'The campaign is over'"
-    excerpt: "The highest-ranking Black member of Congress is urging President Donald Trump to stop challenging the results of the 2020 general election and start finding ways to work with the incoming administration."
-    publishedDateTime: 2020-11-09T20:34:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/09/clyburn-trump-the-campaign-over/6225991002/"
+  - title: "How and when will Trump leave office?"
+    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
+    publishedDateTime: 2020-11-09T16:19:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idINKBN27P199"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P199"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P199"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540519544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OU"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Donald Trump wins North Carolina"
+    excerpt: "Donald Trump wins North Carolina. Trump taps Giuliani to take over election legal fight: Sources 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2020-11-14T01:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Trump's Pentagon shake-up has the military worried about its future"
+    excerpt: "In recent days, President Donald Trump has shaken up Pentagon leadership, firing his defense secretary and installing officials seen as loyalists."
+    publishedDateTime: 2020-11-13T16:10:00Z
+    webUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5dcf2b2be94e862b3f19f618?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Vice President Mike Pence responds: I stand with President Donald Trump"
+    excerpt: "Vice President Mike Pence was not with President Donald Trump during his press conference this afternoon. He later tweeted he stands with the president and that we must count every legal vote. Eamon Javers joins Shep Smith to talk about the various responses from members of the Republican Party in support of President Trump."
+    publishedDateTime: 2020-11-06T01:48:00Z
+    webUrl: "https://www.cnbc.com/video/2020/11/05/vice-president-mike-pence-responds-i-stand-with-president-donald-trump.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 120
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106783180-16046249101604624906-12295478233-1080pnbcnews.jpg?v=1604624909"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump: Pfizer misrepresented deal on vaccine"
+    excerpt: "President Donald Trump said on Friday the pharmaceutical giant Pfizer misrepresented a deal it struck with the US government over a vaccine to combat the coronavirus pandemic. (Nov. 13)"
+    publishedDateTime: 2020-11-13T23:53:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/13/trump-pfizer-misrepresented-deal-vaccine/6286279002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/745c6da7-56ff-4258-841e-bdf763751241_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/341f3d48-7173-4b66-a0d3-1c4d5ac33da7_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Lil Wayne Shows His Support for Donald Trump After Having a 'Great Meeting' with the President"
-    excerpt: "Lil Wayne is expressing support for Donald Trump. The rapper, 38, shared a photo with Trump, 74, on Twitter Thursday, saying that they had a \"great meeting.\" Lil Wayne (né Dwayne Michael Carter Jr.) also praised the president's Platinum Plan,"
-    publishedDateTime: 2020-10-30T02:03:00Z
-    webUrl: "https://people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/"
-    ampWebUrl: "https://people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/?amp=true"
+  - title: "Donald Trump supporters can get free food at Kentucky restaurants owned by the same couple. But there's a catch."
+    excerpt: "Louisville restaurant owners Troy King and Selena Johnson are offering free food to anyone who trades in Donald Trump merchandise."
+    publishedDateTime: 2020-11-12T04:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/11/kentucky-restaurant-free-meal-donald-trump-maga-supporters/6261164002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6261164002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6261164002"
     type: article
     provider:
-      name: People
-      domain: people.com
-    quality: 63
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
     images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F29%2Flil-wayne.jpg"
-        width: 1500
-        height: 781
+      - url: "https://www.gannett-cdn.com/presto/2020/01/21/PLOU/959e4d35-d555-469a-98b0-632ce95f5d86-0116DINE_6ForksBurgerCo02_DRL.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "'They Deserve Any Mockery They Get.' Prank Callers Flood Trump's Voter Fraud Hotline, Forcing the President's Campaign to Create New Ones"
-    excerpt: "In response, prank callers have been flooding the number—as well as additional numbers the campaign has set up—with spam calls. Despite the fact that there have been no legitimate allegations of widespread voter fraud,"
-    publishedDateTime: 2020-11-09T23:19:00Z
-    webUrl: "https://time.com/5909443/trump-hotline-prank-calls-voter-fraud-election-tiktok/?linkId=104031968"
+  - title: "Here's how President Donald Trump won Ohio by almost exactly the same margin as in 2016"
+    excerpt: "Former Vice President Joe Biden thought he could pull off the upset in bellwether Ohio, but Donald Trump used the same formula as in 2016 to win."
+    publishedDateTime: 2020-11-06T21:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/04/analysis-how-donald-trump-easily-beat-joe-biden-battleground-ohio-election-day-results-for-president/6050222002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6050222002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6050222002"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 52
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+  - title: "House Democrats will keep some of their Trump investigations and court fights active once the lame-duck president leaves the White House"
+    excerpt: "House Democrats plan to continue their high-profile investigations into President Donald Trump even after he leaves the White House. It's still unclear how each probe will look come next year when the new Congress gets sworn in,"
+    publishedDateTime: 2020-11-09T20:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-financial-probes-to-continue-in-democrat-led-house-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5fa999ac1df1d50018219a83?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Al6uiCYe9t52jDpEQFKmZCOrNk/Vf9qv4m60yOB1Jl3gCbwp8pEiPNuGH3dAcfV8l1SXEXecQtwQ6OkNdg2UByindHJL3jfd+Coe06Vl+VJl5O25A7+GHwmt1NchSW2c7kmXYoQCDY05HfeiIFy6lThtqbK7m+BhIfxuOJlE2iiaJQ1CoA1i7bLe+WfNeqFGUp5yuz9fKJWvD1uUZ/AJilckKXXi2mr5OtFfktKoQJj+H8DF/0tGQ1Xd9guoY9w69wDO0IJviWmLJw14392rhKNC+UEuOiI/m8+yzhhl/1dOp/rCmA22miUtZl+yRTjd7/SqZpm9uNeEYy7F3wyXAoBI9DRvdreRP/auo32NJes=;OyfBFVAnCNTrBmDpHoI1JA=="
 ---

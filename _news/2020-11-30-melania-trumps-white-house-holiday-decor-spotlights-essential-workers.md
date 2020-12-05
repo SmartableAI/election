@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 295
+published: true
 
 provider:
   name: CNN
@@ -31,213 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Inside Melania Trump's unprecedented campaign trail absence"
-    excerpt: "First lady Melania Trump -- in a historic break from precedent -- has yet to set foot on the campaign trail this year even as her husband, President Donald Trump, fights for votes, especially among suburban White women with whom she could hold appeal.\n    \n"
-    publishedDateTime: 2020-10-21T19:31:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RINuL4HzoFk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html"
+  - title: "Trump and Barr had 'contentious' White House meeting this week"
+    excerpt: "President Donald Trump and Attorney General William Barr had a \"contentious,\" lengthy meeting inside the West Wing this week after Barr told The Associated Press in an interview that the Justice Department had uncovered no evidence of fraud that would change the election outcome, one person familiar"
+    publishedDateTime: 2020-12-03T16:20:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNwL_Szchuo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190604162208-01-melania-trump-0603-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201225050-trump-barr-split-1201-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Melania Trump to make belated campaign trail appearance"
-    excerpt: "First lady Melania Trump will make her first solo campaign appearance on behalf of President Donald Trump with just one week to go before the election. Her up-to-now campaign trail absence has marked a historic break from precedent, especially in a race that finds her husband fighting for votes.\n   "
-    publishedDateTime: 2020-10-26T15:06:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mcdhz1c7SAc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/melania-trump-campaign-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/melania-trump-campaign-election-2020/index.html"
+  - title: "Trump invites Pennsylvania GOP lawmakers to White House after calling in to baseless voter fraud event"
+    excerpt: "President Donald Trump's planned trip to join his attorney Rudy Giuliani in Gettysburg, Pennsylvania, on Wednesday has been canceled, two sources familiar with the matter tell CNN.\n    \n"
+    publishedDateTime: 2020-11-25T23:38:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g2I1VpYZoHk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-hearing-giuliani/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-hearing-giuliani/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 159
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022165949-01-trump-melania-debate-departure-1022-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Has Trump delivered on any of his 2016 campaign promises?"
-    excerpt: "As President Trump's first term nears its end, CNN's Tom Foreman takes a closer look at which 2016 campaign promises he has delivered on.\n    \n"
-    publishedDateTime: 2020-10-28T00:27:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QQHJGQbIAxg/trump-campaign-promises-tom-foreman-ebof-pkg-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/28/trump-campaign-promises-tom-foreman-ebof-pkg-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/28/trump-campaign-promises-tom-foreman-ebof-pkg-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027192717-01b-trump-lansing-1027-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump campaign website briefly defaced in cyber attack "
-    excerpt: "President Donald Trump's campaign website was defaced for a brief period on Tuesday in a hack.\n    \n"
-    publishedDateTime: 2020-10-28T01:22:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/af7mC1P5Ojo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-campaign-website-cyber-attack/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-campaign-website-cyber-attack/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027191547-trump-1027-west-salem-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Melania Trump cancels plans to attend Tuesday rally citing Covid recovery"
-    excerpt: "Melania Trump is canceling her first campaign appearance in months because she is not feeling well as she continues to recover from Covid-19.\n    \n"
-    publishedDateTime: 2020-10-20T17:07:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BojWy6hze4M/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/melania-trump-campaign-rally/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/melania-trump-campaign-rally/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200612105925-02-melania-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Melania Trump posts video that misleads on the President's LGBTQ policies"
-    excerpt: "Melania Trump tweeted a video of herself posted Thursday discussing for three minutes the efforts the Trump administration has made to support the rights of the gay community, blaming sentiments that President Donald Trump opposes gay rights on his \"many enemies in the political establishment.\"\n    \n"
-    publishedDateTime: 2020-10-30T21:05:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wQ_C9U67JIs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/melania-trump-lgbtq-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/melania-trump-lgbtq-donald-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028111126-01-melania-trump-campaign-rally-pa-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: At Pennsylvania rally, Trump makes four false claims about voting in the state"
-    excerpt: "President Donald Trump has made a habit of lying about the integrity of the election. And in the first of his three Monday events in Pennsylvania, he made four false claims about voting in the state.\n    \n"
-    publishedDateTime: 2020-10-27T00:43:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UlOJrsdkIhI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/fact-check-voting-pennsylvania-fraud-philadelphia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/fact-check-voting-pennsylvania-fraud-philadelphia/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142449-03-trump-rally-pa-1026-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump delivers expletive-filled pep talk to campaign staff"
-    excerpt: "We are winning right now and they know it...So get off this phone and work your asses off,\" the president said in a phone call to his team."
-    publishedDateTime: 2020-10-19T16:14:00Z
-    webUrl: "https://www.politico.com/news/2020/10/19/trump-gives-expletive-filled-pep-talk-campaign-staff-430155"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-gives-expletive-filled-pep-talk-campaign-staff-430155"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-gives-expletive-filled-pep-talk-campaign-staff-430155"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/80/ce/22e0d13a4f5298ce81078d6bd252/20201019-donald-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Is the Trump Campaign Colluding With Russia Again?"
-    excerpt: "The Treasury Department last month imposed sanctions on four people linked to Russia for attempting to influence the presidential election, including a Ukrainian parliamentarian n"
-    publishedDateTime: 2020-10-20T00:45:00Z
-    webUrl: "https://www.nytimes.com/2020/10/19/opinion/trump-campaign-rudy-giuliani.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/19/opinion/trump-campaign-rudy-giuliani.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/19/opinion/trump-campaign-rudy-giuliani.amp.html"
+  - title: "Transition Highlights: Judge Dismisses Trump Lawsuit in Pennsylvania"
+    excerpt: "Senator Pat Toomey of Pennsylvania, a Republican, said that with the dismissal, the president had “exhausted” his legal options in the state. Senator Kelly Loeffler of Georgia is in isolation after testing positive for the coronavirus."
+    publishedDateTime: 2020-11-26T22:13:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/21/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/21/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/21/us/joe-biden-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/20/opinion/19goldberg1/19goldberg1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/21/world/21transition-briefing-pennsylvaniaSUB/21transition-briefing-pennsylvaniaSUB-facebookJumbo.jpg"
         width: 1050
-        height: 549
+        height: 550
         isCached: true
-  - title: "Trump campaign protests topics of final presidential debate"
-    excerpt: "A letter from manager Bill Stepien insists the event focus on foreign policy, claiming the campaigns agreed on the topics months ago."
-    publishedDateTime: 2020-10-19T20:31:00Z
-    webUrl: "https://www.politico.com/news/2020/10/19/trump-campaign-protests-final-debate-topics-430201"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-campaign-protests-final-debate-topics-430201"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-campaign-protests-final-debate-topics-430201"
+  - title: "McEnany incorrectly credits Trump with White House AIDS ribbon"
+    excerpt: "The press secretary made the false assertion while defending the administration for its omission of LGBTQ people in a World AIDS Day statement."
+    publishedDateTime: 2020-12-02T20:37:00Z
+    webUrl: "https://www.politico.com/news/2020/12/02/mcenany-trump-white-house-aids-ribbon-442264"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/02/mcenany-trump-white-house-aids-ribbon-442264"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/02/mcenany-trump-white-house-aids-ribbon-442264"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 135
     images:
-      - url: "https://static.politico.com/3f/c2/9d577aa04e27942762efedc491ea/20201019-trump-biden-debate-ap-773.jpg"
+      - url: "https://static.politico.com/74/5b/33b208544690b59793476e22219f/ap20336673666172-1.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Why Trump Can’t Take Red Counties in North Carolina for Granted"
-    excerpt: "Even some people in Gastonia, N.C., are a little perplexed about why the president was holding a rally in a small community that’s already in his camp."
-    publishedDateTime: 2020-10-26T14:04:00Z
-    webUrl: "https://www.nytimes.com/2020/10/25/us/politics/trump-north-carolina-rural-.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/25/us/politics/trump-north-carolina-rural-.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/25/us/politics/trump-north-carolina-rural-.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/25/us/politics/25trump-carolina-1/25trump-carolina-1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Melania Trump talks Covid-19 diagnosis in first solo 2020 campaign event"
-    excerpt: "The first lady thanked well-wishers for their \"love and support\" after her Covid-19 diagnosis and warned Joe Biden's policies would \"destroy America\""
-    publishedDateTime: 2020-10-27T20:45:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/melania-trump-talks-covid-19-diagnosis-first-solo-2020-campaign-n1244977"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244977"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244977"
+  - title: "Trump awards Lou Holtz with Presidential Medal of Freedom"
+    excerpt: "President Trump awarded former football coach Lou Holtz the Presidential Medal of Freedom during a ceremony at the White House."
+    publishedDateTime: 2020-12-03T18:26:00Z
+    webUrl: "https://www.nbcnews.com/video/trump-awards-lou-holtz-with-presidential-medal-of-freedom-97064005923"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97064005923"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97064005923"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3423430/201027-melania-trump-se-417p_85214a58292a4daabcea6a6df9a19003.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/holtz_trump.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Trump campaign spokesperson claims parents of separated children don't want them back"
-    excerpt: "Multiple media outlets reported this week that the federal government remains unable to find the parents of more than 500 children who were separated from their families."
-    publishedDateTime: 2020-10-23T16:59:00Z
-    webUrl: "https://www.politico.com/news/2020/10/23/trump-campaign-spox-claims-parents-of-separated-migrants-dont-want-children-back-431595"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/23/trump-campaign-spox-claims-parents-of-separated-migrants-dont-want-children-back-431595"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/23/trump-campaign-spox-claims-parents-of-separated-migrants-dont-want-children-back-431595"
+  - title: "The Justice Department is investigating a potential bribery scheme for a Trump pardon."
+    excerpt: "The Justice Department has been investigating whether intermediaries for a federal convict offered White House officials a bribe in exchange for a potential pardon or commutation from President Trump,"
+    publishedDateTime: 2020-12-02T22:14:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.amp.html"
     type: article
     provider:
-      name: YAHOO!
-      domain: politico.com
-    quality: 128
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
     images:
-      - url: "https://static.politico.com/94/b2/7e105d334425912d7ec299f03499/ap18205813712792-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-brieft-pardon/01transition-brieft-pardon-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "9PFFxYhEx/a+JR2eD47ZiIieKBHn2dNK0ecabd/8b5G/Y7e70+ZSR2mjdknWpZYow4QGlf3yQDuXCXfvjpTBKR+swnrRNvEx+WG0S3OXhRf6JDdsz1yyyr4Vx+AaZZuhW8C8Lu2PjPYKSC3cvH51XrtDBi29pERAr4Vg522urYP66Ue1kq+DsjRSy7XjNhuEvqRFNvtW3d7EoEm1VFpFMhQ6e/fkUBx4BEf9wNs45iKroNrzqndeM1GaP9ueA1A/mRyhnh2nyEiWTazabigOUP0eNHxicqLZ3XizcJWG6MkGJgVCRUTjupGocayDiuZ7nOX5/l+QFxk4bSGOBtSrbNx/9V50feS+XTDWKh33pus=;nJAN5eFY87IGqwq8LKd4tg=="

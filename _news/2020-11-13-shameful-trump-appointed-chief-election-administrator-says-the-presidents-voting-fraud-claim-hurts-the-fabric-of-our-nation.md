@@ -29,69 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
-    excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."
-    publishedDateTime: 2020-11-15T07:46:00Z
-    webUrl: "https://www.reuters.com/article/usa-election/biden-victory-in-arizona-puts-trumps-longshot-challenge-further-out-of-reach-idUSKBN27T0IQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0IQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+  - title: "Nikki Haley, a high-profile Republican and possible 2024 presidential hopeful, has remained silent about Trump's unfounded election fraud claims"
+    excerpt: "UN ambassador hasn't commented on Trump's refusal to concede the election, sticking instead to tweets about GOP victories down ballot."
+    publishedDateTime: 2020-11-12T22:17:00Z
+    webUrl: "https://www.businessinsider.com/nikki-haley-silent-on-trump-election-fraud-claims-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/nikki-haley-silent-on-trump-election-fraud-claims-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nikki-haley-silent-on-trump-election-fraud-claims-2020-11?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541244394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE04H"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Trump supporters plan rallies in Washington DC, experts warn extremists may attend"
-    excerpt: "It's unclear how many people will go to rallies in support of President Trump in Washington, D.C., but experts warn right-wing extremists may attend."
-    publishedDateTime: 2020-11-14T04:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/13/trump-supporters-plan-washington-dc-rallies-experts-warn-extremists/6265591002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6265591002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6265591002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/c9445b3e-4891-4b6d-8858-278174f9fa31-XXX_ILSPR_110720_PHOTO_Rally_03.jpg?auto=webp&crop=4533,2550,x0,y389&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump supporters rally, coronavirus pandemic, Masters: 5 things to know this weekend"
-    excerpt: "Trump supporters plan D.C. rallies amid speculation extremists may attend, NASA and SpaceX historic launch and more things to start your weekend."
-    publishedDateTime: 2020-11-14T10:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/11/14/trump-supporters-rally-coronavirus-masters-barack-obama-spacex-launch/6180632002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6180632002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6180632002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/14/USAT/31ea0791-05db-461d-be5e-665bad0d1447-AP_Trump.jpg?auto=webp&crop=3714,2089,x21,y268&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump Team Mocked For Apparently Exaggerating Crowd Size (Again)—This Time For ‘Million Maga March’"
-    excerpt: "The White House seems to have again been caught in a fib when it comes to overstating crowd size, after Press Secretary Kayleigh McEnany claimed Saturday that “More than one MILLION” marchers descended on Washington for the “Million MAGA March” in support of President Donald Trump—a claim that many on social media pointed out seemed to be greatly overstated based on actual pictures of the event."
-    publishedDateTime: 2020-11-14T18:54:00Z
-    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/"
-    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 111
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb025d66f575407a5a3b7d1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355"
-        width: 1200
-        height: 675
+      - url: "https://i.insider.com/5fad69b4df90d000183781b4?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "L1Zmj+iXkIrahzqc7gLbdX7chGBVqg7N8ceM6dOx/iX8MiTwVNaWW6lzMaNBfqbuvHBS7n7xlRFUNyYFg4YOfKOmbglqkWcXGWxpUyWFcorDSHfMndx/uw242utih5ZFDZKbWTR9+FSv+9KQkFaxLewHNzyOXrEP2IO7Xl3vlbAf/9w799P4QarTjj8190774hYvGGaPCz5H2QFn7i/2CfIqwOHm0tQKMqCXpkmlNrnQyGSSLFZIMV6rTXGbt8CeeGvtRZ6rffklRlrql2L8G4A4kUr8Lq30MQqLc4pUBZlJtCjL6jXJgjU7e/v/AVeJoziGcCQk5NEYOuVNaVSYCFVrvmNRIanwEcouwNTwkDc=;yrXtNj3PvoMvGN25YGvVBQ=="

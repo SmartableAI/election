@@ -59,21 +59,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Prayers ring out in Kamala Harris's ancestral village"
-    excerpt: "Prayers were held in Thulasendrapuram, India, the village where the Democratic vice presidential candidate’s maternal grandfather was born."
-    publishedDateTime: 2020-11-03T22:01:00Z
-    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/524316-prayers-ring-out-in-kamala-harriss-ancestral"
-    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/524316-prayers-ring-out-in-kamala-harriss-ancestral?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/524316-prayers-ring-out-in-kamala-harriss-ancestral?amp"
+  - title: "Foreign leaders offer well wishes to Joe Biden and Kamala Harris after projected win"
+    excerpt: "Michael Higgins, president of Ireland, noted Kamala Harris's \"historic achievement\" as the first woman and first woman of color​ elected vice president."
+    publishedDateTime: 2020-11-07T18:24:00Z
+    webUrl: "https://www.cbsnews.com/news/foreign-leaders-offer-well-wishes-to-joe-biden-and-kamala-harris-after-projected-win/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/foreign-leaders-offer-well-wishes-to-joe-biden-and-kamala-harris-after-projected-win/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/foreign-leaders-offer-well-wishes-to-joe-biden-and-kamala-harris-after-projected-win/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: CBS News
+      domain: cbsnews.com
+    quality: 133
     images:
-      - url: "https://thehill.com/sites/default/files/gettyimages-1229432578_1.jpg"
-        width: 1440
-        height: 880
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/07/7e2f6dfb-8ae2-419f-9423-3b2512246c8e/thumbnail/1200x630/e8fc9ac83b2249744d60114ac7817ab8/gettyimages-1229508941.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "What are we supposed to call Kamala Harris' husband?"
     excerpt: "But as many in the nation celebrated Biden and Harris' projected win on Saturday, another question quickly arose: what the world will call her husband, who is expected to be the first male spouse of a vice president in U."
@@ -139,6 +139,45 @@ related:
         width: 1440
         height: 958
         isCached: true
+  - title: "A Biden-Harris administration could mean a crackdown on the advertising and tech industries"
+    excerpt: "Potential goals range from a federal privacy law to scrutiny of how cable companies collect user data."
+    publishedDateTime: 2020-11-07T15:57:00Z
+    webUrl: "https://www.businessinsider.com/heres-how-biden-harris-could-crack-down-on-tech-advertising-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5fa5de911df1d500182196d6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Watch live: Joe Biden, Kamala Harris make prime-time address"
+    excerpt: "Democratic presidential candidate Joe Biden is expected to deliver a prime-time speech Friday at 7 CST p.m. Democratic vice presidential candidate Kamala Harris is also expected to deliver remarks Friday alongside Biden."
+    publishedDateTime: 2020-11-07T01:59:00Z
+    webUrl: "https://www.chicagotribune.com/news/ct-live-stream-video-20191101-mmzazul6lrfspbf7d5as6ju2am-htmlstory.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/HYRVWgDsEC13dEU2M7TIyM6oyJI=/1200x0/top/www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650"
+        width: 1200
+        height: 650
+        isCached: true
+  - title: "Joe Biden and Kamala Harris Announce Their COVID-19 Advisory Board"
+    excerpt: "Harris transition team announced the members of its COVID-19 advisory board, and met with them for several hours in a virtual conference before President-elect Joe Biden made remarks stressing the importance of mask wearing as a continued “weapon” in the fight against COVID-19."
+    publishedDateTime: 2020-11-09T19:49:00Z
+    webUrl: "https://time.com/5909531/biden-harris-covid-19-advisory-board/?utm=newsbreak"
+    ampWebUrl: "https://time.com/5909531/biden-harris-covid-19-advisory-board/?amp=true"
+    cdnAmpWebUrl: "https://time-com.cdn.ampproject.org/c/s/time.com/5909531/biden-harris-covid-19-advisory-board/?amp=true"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
   - title: "Rhor: Kamala Harris paid tribute to her immigrant mother. And I thought of mine."
     excerpt: "In one of the most important moments of her life, Kamala Harris paid tribute to her mother. The vice president-elect’s eyes shone as she spoke of the “woman most responsible for my presence here”: Shyamala Gopalan Harris,"
     publishedDateTime: 2020-11-12T09:11:00Z
@@ -186,20 +225,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1667181/kamala-harris.jpg"
         width: 1796
         height: 1311
-        isCached: true
-  - title: "In Kamala Harris' Ancestral Village, The U.S. Election Is Followed Closely"
-    excerpt: "Senator Kamala Harris is the first person of South Asian descent on a U.S. presidential ticket. In her ancestral village in India, Hindu faithful offer prayers for a Biden-Harris victory."
-    publishedDateTime: 2020-11-03T09:05:00Z
-    webUrl: "https://www.npr.org/2020/11/03/930722345/in-kamala-harris-ancestral-village-the-u-s-election-is-followed-closely"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 118
-    images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
         isCached: true
   - title: "'Groundbreaking': Kamala Harris Becomes First Black, South Asian Woman Vice President"
     excerpt: "Senator Kamala Harris will be the next vice president of the United States, shattering the glass ceiling not only as the first woman to hold the position, but also the first woman of color, after President-elect Joe Biden's victory over President Donald Trump."
@@ -280,48 +305,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1667179/kamala-harris.jpg"
         width: 2052
         height: 1365
-        isCached: true
-  - title: "Kamala Harris did not urge undocumented immigrants to vote"
-    excerpt: "Democratic vice presidential candidate Kamala Harris tells undocumented immigrants to vote in this election.  AP’S ASSESSMENT: False. Posts online are misrepresenting"
-    publishedDateTime: 2020-11-03T21:21:00Z
-    webUrl: "https://apnews.com/article/fact-checking-9667191348"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Kamala Harris speaks to reporters"
-    excerpt: "Watch \"Kamala Harris speaks to reporters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-03T20:28:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201103201045-kamala-harris-speaks-to-reporters/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/03/story_07531918_1604434564.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Village in India prays Kamala Harris' victory"
-    excerpt: "A village in India that was home to the grandparents of Democratic vice presidential candidate Kamala Harris gathered Tuesday to pray for her ticket's win in the U.S. presidential election."
-    publishedDateTime: 2020-11-03T20:50:00Z
-    webUrl: "https://www.cbsnews.com/video/village-in-india-prays-kamala-harris-victory/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/8240f33f-3ec3-4309-984b-1e6cdbc16292/thumbnail/1200x630/ec69a3072b588fc813763eefe160d1ee/social-indianvillagepraysforharris-579935-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Indian-Americans Celebrate Vice President-Elect Kamala Harris"
     excerpt: "Harris will not only be the first Black, and first female, vice president. She's also the first Indian American and the first Asian American elected to the office."
@@ -435,69 +418,94 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "Kamala Harris to spend part of Election Day in Detroit"
-    excerpt: "The last-minute swing through Michigan signifies the importance of the state in deciding the ultimate outcome of the presidential election."
-    publishedDateTime: 2020-11-03T08:16:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/02/kamala-harris-detroit-michigan-trump-biden-election-2020/6123547002/"
-    ampWebUrl: "https://amp.freep.com/amp/6123547002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6123547002"
+  - title: "Joe Biden, Kamala Harris to speak Friday evening in televised address"
+    excerpt: "Joe Biden is on the cusp of winning the presidency as he opens up narrow leads over President Donald Trump in several critical backgrounds."
+    publishedDateTime: 2020-11-06T17:19:00Z
+    webUrl: "https://www.masslive.com/politics/2020/11/joe-biden-kamala-to-speak-friday-evening-in-televised-address.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/11/joe-biden-kamala-to-speak-friday-evening-in-televised-address.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/11/joe-biden-kamala-to-speak-friday-evening-in-televised-address.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VNATBLXTGNHUBOZFISIZGFEA6I.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Kamala Harris to speak before Joe Biden in TV address tonight"
+    excerpt: "Democratic vice presidential candidate Kamala Harris is expected to deliver remarks Friday alongside Joe Biden. Biden has scheduled a prime-time address on the presidential contest as votes continue to be counted in several battleground states."
+    publishedDateTime: 2020-11-06T22:38:00Z
+    webUrl: "https://www.tampabay.com/news/florida-politics/elections/2020/11/06/kamala-harris-to-speak-before-joe-biden-in-tv-address-tonight/"
+    ampWebUrl: "https://www.tampabay.com/news/florida-politics/elections/2020/11/06/kamala-harris-to-speak-before-joe-biden-in-tv-address-tonight/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/elections/2020/11/06/kamala-harris-to-speak-before-joe-biden-in-tv-address-tonight/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 90
+    images:
+      - url: "https://www.tampabay.com/resizer/0yVU-dEPeGa4HkHZtyWqzMoqy0I=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/5GXVBD75NJHBPE5PC4ZX7OMPNQ.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "‘We did it': Video shows Kamala Harris calling Joe Biden after presidential win"
+    excerpt: "We did it. We did it, Joe. You're gonna be the next president of the United States,” Harris said with a laugh on a phone call to the former vice president."
+    publishedDateTime: 2020-11-07T18:53:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/07/joe-biden-kamala-harris-share-phone-call-after-presidential-win-called/6203436002/"
+    ampWebUrl: "https://amp.freep.com/amp/6203436002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6203436002"
     type: article
     provider:
       name: Detroit Free Press
       domain: freep.com
-    quality: 90
+    quality: 86
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/22/PDTF/d656bee0-365c-42ae-9042-506d473db88b-092220_kamala_flint_vis2.jpg?auto=webp&crop=2399,1350,x0,y122&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2019/12/05/USAT/751f29ad-47cd-4791-9506-d4b6b846b53e-KamalaHarris.jpg?auto=webp&crop=3703,2083,x0,y188&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Kamala Harris to visit Detroit on Election Day"
-    excerpt: "Democratic vice presidential candidate Kamala Harris will visit Detroit during a final campaign swing through Michigan on Election Day. Harris is returning to Michigan, a key battleground state, a day after President Donald Trump scheduled rallies in Traverse City and Grand Rapids."
-    publishedDateTime: 2020-11-02T19:53:00Z
-    webUrl: "https://www.mlive.com/politics/2020/11/kamala-harris-to-visit-detroit-on-election-day.html"
-    ampWebUrl: "https://www.mlive.com/politics/2020/11/kamala-harris-to-visit-detroit-on-election-day.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/11/kamala-harris-to-visit-detroit-on-election-day.html?outputType=amp"
+  - title: "Kamala Harris and Black Women Voters Helped Joe Biden Get Elected. Here's How America Can Do Right by Them"
+    excerpt: "President, they symbolically completed a 150-year project of recognizing the right of Black people to exercise the full franchise as citizens. In 1870, the 15th Amendment gave African American men the right to vote."
+    publishedDateTime: 2020-11-08T17:17:00Z
+    webUrl: "https://time.com/5909002/kamala-harris-black-women/"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AL5A4GXEBBGFZMPEYLQBHCESRU.JPG"
-        width: 1300
-        height: 900
-        isCached: true
-  - title: "Kamala Harris makes Election Day appeal to voters in Detroit"
-    excerpt: "The Democratic vice presidential candidate spent part of her Election Day in the Motor City, talking to voters"
-    publishedDateTime: 2020-11-04T04:09:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2020/11/03/kamala-harris-detroit-michigan-election-day/6130995002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/6130995002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6130995002"
+      name: Time
+      domain: time.com
+    quality: 82
+  - title: "PHOTOS: Car rally celebrating Joe Biden and Kamala Harris’ victory streams through Denver"
+    excerpt: "A car rally celebrating Joe Biden and Kamala Harris’ winning 2020 ticket drove through Denver on Sunday, Nov. 8, 2020."
+    publishedDateTime: 2020-11-09T02:29:00Z
+    webUrl: "https://www.denverpost.com/2020/11/08/joe-biden-kamala-harris-car-rally-photos/"
+    ampWebUrl: "https://www.denverpost.com/2020/11/08/joe-biden-kamala-harris-car-rally-photos/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/11/08/joe-biden-kamala-harris-car-rally-photos/amp/"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 90
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 81
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PDTN/5c5347ad-0006-4a02-b44d-e7ce0bc00ad9-kamala-detroit.jpg?auto=webp&crop=1619,911,x0,y82&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Why Kamala Harris may already have reshaped U.S. political future"
-    excerpt: "After months on the campaign trail wearing pearls and Converse high-tops — a look little girls replicated in homemade Halloween costumes across the country — Harris is already seen as"
-    publishedDateTime: 2020-11-04T13:30:00Z
-    webUrl: "https://www.mercurynews.com/2020/11/03/why-kamala-harris-may-already-have-reshaped-u-s-political-future/"
-    ampWebUrl: "https://www.mercurynews.com/2020/11/03/why-kamala-harris-may-already-have-reshaped-u-s-political-future/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/03/why-kamala-harris-may-already-have-reshaped-u-s-political-future/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715"
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/11/TDP-L-CAR_RALLY_632.jpg?w=1024&h=683"
         width: 1024
-        height: 715
+        height: 683
+        isCached: true
+  - title: "Racism, sexism and a victory. How Kamala Harris made history as Joe Biden’s vice president"
+    excerpt: "Kamala Harris will become the nation’s 49th vice president, making her the first woman of color to hold the second highest office in an increasingly diverse nation."
+    publishedDateTime: 2020-11-07T15:58:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/election/article246786902.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/article246786902.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/article246786902.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 80
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/eb283a68-6b5b-419a-8e02-78231cf9ff8d/5ec00119-a1b3-435e-b7a6-63436527b88f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris poised to be influential vice president"
     excerpt: "The vice presidency may be the most loosely defined job in American politics. But all indications point to Kamala Harris being a consequential second at the White House."
@@ -595,6 +603,34 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "'We did it, Joe': Kamala Harris calls Joe Biden after he wins the presidency"
+    excerpt: "Kamala Harris took to Twitter with a video of her calling Joe Biden after he gained the 270 electoral college votes to win the presidency."
+    publishedDateTime: 2020-11-07T18:55:00Z
+    webUrl: "https://www.freep.com/videos/news/politics/elections/2020/11/07/we-did-joe-kamala-harris-calls-joe-biden-after-he-wins-presidency/6204317002/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/6664ce33-653a-4fb7-9264-215540db571b-HARRIS_CALLS_BIDEN_DESK.00_00_03_06.Still003.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Here are the songs Joe Biden and Kamala Harris played at their Delaware event"
+    excerpt: "Music played a role in Saturday’s drive-in rally celebrating the victories of Joe Biden, Kamala Harris, and their historic campaign. Here’s a look at the songs that were played, and what we know about why they might have been chosen."
+    publishedDateTime: 2020-11-08T18:28:00Z
+    webUrl: "https://www.bostonglobe.com/2020/11/08/arts/here-are-songs-joe-biden-kamala-harris-played-their-delaware-event/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 67
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/_bd__lsx2a-Sp4pGIhtUqLsiL7Y=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/6V2IE3QKO6OSIBYWLLPT5SH26M.jpg"
+        width: 506
+        height: 383
+        isCached: true
   - title: "Kamala Harris breaks glass ceiling as first female vice president, first woman VP of color"
     excerpt: "Harris will make history as not only the first woman vice president but also the first African American and Asian American person to hold the office."
     publishedDateTime: 2020-11-08T02:28:00Z
@@ -610,20 +646,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/PBRE/eafa24fb-ae29-4340-bc2b-8c561a9f9114-BRE_AP_Kamala_Harris_14.jpg?auto=webp&crop=2632,1481,x0,y533&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Enthusiasm for Kamala Harris is strong among Black women voters"
-    excerpt: "LesleyAnne Crosby of Minneapolis gathered with a small group of Black women in St. Paul to witness the possibility of Kamala Harris becoming the first Black woman to become vice president. Sondra Samuels raced out the morning of Election Day to buy Chuck Taylor shoes."
-    publishedDateTime: 2020-11-04T05:47:00Z
-    webUrl: "https://www.startribune.com/enthusiasm-for-kamala-harris-is-strong-among-black-women-voters/572965532/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 55
-    images:
-      - url: "https://stmedia.stimg.co/ows_a54acef6-13a8-42d5-b04b-3edc1705f668.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Kamala Harris in a White Suit, Dressing for History"
     excerpt: "On Saturday night, when Kamala Harris stepped onto the stage and into history at the Chase Center in Wilmington, Delaware, as vice president-elect of the United States, she did so in full recognition of the weight of the moment,"
@@ -647,6 +669,24 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 52
+  - title: "Watch Live: Joe Biden, Kamala Harris to give TV address at 8 p.m."
+    excerpt: "Joe Biden and Kamala Harris are set to give a TV address to the nation at 8 p.m. Friday. Watch live below. Lamenting that too many Massachusetts communities have their kids learning remotely, Governor Charlie Baker said Friday that the state was upgrading its metrics for determining COVID-19 transmission risks,"
+    publishedDateTime: 2020-11-06T00:00:00Z
+    webUrl: "https://www.bostonglobe.com/2020/11/06/nation/watch-live-joe-biden-kamala-harris-give-tv-address-8-pm/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 50
+  - title: "Deep roots exist between Joe Biden, Kamala Harris and the world of sports"
+    excerpt: "From high school football to a youth dance troupe, President-elect Joe Biden and Vice President-elect Kamala Harris have a long history with sports."
+    publishedDateTime: 2020-11-08T20:18:00Z
+    webUrl: "https://www.cincinnati.com/story/sports/2020/11/08/joe-biden-kamala-harris-sports-histories/6140675002/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 49
   - title: "'In her destiny lies my destiny': Black female New York politicians reflect on Kamala Harris as VP"
     excerpt: "Three women, who broke barriers as Black female leaders at the city, county and state levels of New York government, spoke to the Times Union on Sunday afternoon about their reaction to the earthquake in national politics Saturday morning when Biden and Harris were declared the presumptive victors of the presidential election."
     publishedDateTime: 2020-11-10T02:59:00Z
@@ -661,42 +701,6 @@ related:
         width: 2048
         height: 1638
         isCached: true
-  - title: "Senator Kamala Harris Remarks to Reporters in Pennsylvania"
-    excerpt: "Vice Presidential candidate Kamala Harris speaks to reporters after landing in Pennsylvania and responds to questions on the final full day of the presidential campaign. Democratic Vice Presidential candidate Kamala Harris speaks to reporters after landing in Pennsylvania and responds to questions on the final full day of the presidential campaign."
-    publishedDateTime: 2020-11-02T18:30:00Z
-    webUrl: "https://www.c-span.org/event/?477707/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris Arrives in Detroit"
-    excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to reporters as she arrives in Detroit to help get out the vote for the Biden-Harris ticket. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to reporters as she arrives in Detroit to help get out the vote for the Biden-Harris ticket."
-    publishedDateTime: 2020-11-03T19:09:00Z
-    webUrl: "https://www.c-span.org/event/?477774/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris Campaigns in Miami"
-    excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) addresses supporters at a campaign rally in Miami-Dade County, Florida. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) addresses supporters at a campaign rally in Miami-Dade County,"
-    publishedDateTime: 2020-11-04T00:58:00Z
-    webUrl: "https://www.c-span.org/event/?477610/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris (D-CA) Campaigns in Detroit"
-    excerpt: "T14:07:12-05:00 Kamala Harris (D-CA) urges voters in Detroit to get to the polls and vote. Senator Kamala Harris (D-CA) urges voters in Detroit to get to the polls and vote. Javascript must be enabled in order to access C-SPAN videos."
-    publishedDateTime: 2020-11-03T19:15:00Z
-    webUrl: "https://www.c-span.org/video/?477751-1/senator-kamala-harris-d-ca-campaigns-detroit"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "Kqegfy6h+wSnPFU6x2k2MIJ9UF1jXSFpyMrLQ8Hwg1GeuGXKM/eTlcp7/XT09O3evAz8oKmm4DTwWeg10/hudAqCGD9qCQcE73KSZCbz6lrLRjZtrEqstcRJsgLdIdfEzKN7Jp231Y4t+HXSCgLx4DqdMghnOZEIYUKGAbGHotAZy9kGWXMnvRESzRZt7t+mqdgqZRNMDKBdqX36GlaOB0/KgXAs3sjs9b7iw44m1Hjh10PzYIKf2mAOhc1lgGNCTj+M4nHBjn4pJNi5AatJUjRW5u5bE8e4Itd6/MFBXBN0BmSoM5HDqfBdIRGadR/0KaWwmOv+sDqqQM016OuplowvpmnnJkjoWcvx6YywBGh4DI0skHLQfec8AF2bdmfSnqeCbnqbKiJspnLw1GBkHmwPDfuMAYGPh+SOYwzG1VwyEKD+7gLNR76Xsi600ac6cn8OkZtE6L1F6iCEZvS3267bQq40cqBrfPxOViSX8ivIVljaIVuuSbh2r9FUaFuDT8K8EUw+wAZSOKlxKRKhDw==;eHMDYkl0sr767TpNnEJ95w=="
 ---

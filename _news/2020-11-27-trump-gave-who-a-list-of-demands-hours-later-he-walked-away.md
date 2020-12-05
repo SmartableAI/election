@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump awards Lou Holtz with Presidential Medal of Freedom"
-    excerpt: "President Trump awarded former football coach Lou Holtz the Presidential Medal of Freedom during a ceremony at the White House."
-    publishedDateTime: 2020-12-03T18:26:00Z
-    webUrl: "https://www.nbcnews.com/video/trump-awards-lou-holtz-with-presidential-medal-of-freedom-97064005923"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97064005923"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97064005923"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/holtz_trump.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "t8rRGdFgmdVY4p/qG24bKgs/C9WjFdjpZROc1sG5JQLDWesLnjYcgRfS5uK5riLen/Sit4TrEuOedojgXXeu0RBlV9JVVEA6heE8vUaOh9fJfR5b2ZeAN+GS5TZxKZijlSsYxiphKOXu7VcV8DzFXKDU4cptnG/JyESyDrltH5mRk3+COejtcXI8AIIs0DLs/4z5yy3sLTUBn/lOePScwlflUKJE7xxC0SZDj2D1raWIKxX9DnJXYEUKSKh6RvLti5AuqHgXw3GZXbtz+0/FzUrHelML3bMKOMOo6nIUFB2jxBcxun43epWLppvgAq2q55T+306hONfSe+WxT7wVHB2VDPpvO+UkbtJGUGTBtxhAq5aSqvQ9pMRKjK7XY/xumJI/C2BTfZCmeed7Dkt1GX80hJbNStqAf5scl3ejp/0hQXcVnElBskNvNsTI5t2q0SUjtsfUj8rJotkKoZDGH5D9y03/iLwCFjXIsuDXXlvDFSmFP6euEnwlfBptoDwuR/5w72k2UfNffGDXd8AYMg==;7CPakfoEilRRZ53CG975zw=="
 ---

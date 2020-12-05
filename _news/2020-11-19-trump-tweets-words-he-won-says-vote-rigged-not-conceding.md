@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Election 2020 live updates: Bolton says Republicans 'coddling' Trump; Georgia will do hand recount"
-    excerpt: "Both Trump and Biden took part in Veterans Day ceremonies Wednesday. Biden continues the transition process as Trump contests the election."
-    publishedDateTime: 2020-11-12T04:37:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/11/election-2020-updates-biden-transition-trump-honors-veterans-day/6246438002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6246438002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6246438002"
-    type: article
-    provider:
-      name: The Clarion-Ledger
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/41cea45e-fe21-4819-aa48-7f740386034d-GTY_1285134487.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Coronavirus updates: Thanksgiving travel surges despite warnings; experimental drug given to Trump gains FDA authorization"
     excerpt: "Thanksgiving travel surges despite warnings from CDC and Fauci. Trump's experimental antibody cocktail gains FDA authorization. Latest COVID news."
     publishedDateTime: 2020-11-22T15:14:00Z

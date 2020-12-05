@@ -377,22 +377,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Georgia is finalizing details of recount requested by Trump"
-    excerpt: "After the Trump campaign requested a recount of the presidential ballots in Georgia, state election officials were working to finalize the details of how and when that will be done"
-    publishedDateTime: 2020-11-23T20:43:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-finalizing-details-recount-requested-trump-74363070"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-finalizing-details-recount-requested-trump-74363070"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-finalizing-details-recount-requested-trump-74363070"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b5baa1c4965042f09dfa624bf6606608_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "GOP senator, business leaders urge prompt Biden transition"
     excerpt: "Pressure is increasing on a Trump administration official to authorize a formal transition process for President-elect Joe Biden"
     publishedDateTime: 2020-11-24T01:37:00Z
@@ -406,6 +390,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_0ba1e4d15d6349939f9de0a232fc44a1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden certified as winner of Pennsylvania presidential vote"
+    excerpt: "Pennsylvania officials say Democrat Joe Biden has been certified as the winner of the presidential vote in the state"
+    publishedDateTime: 2020-11-24T21:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pennsylvania-certifies-biden-winner-presidential-vote-74379228"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pennsylvania-certifies-biden-winner-presidential-vote-74379228"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pennsylvania-certifies-biden-winner-presidential-vote-74379228"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5bd9fe9459bb4ac9b7e179379abfa44e_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -695,20 +695,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump campaign calls for another Georgia recount as more election lawsuits fail"
-    excerpt: "Trump campaign is now asking for a second recount in Georgia after the state certified President-elect Joe Biden as the winner on Friday. The campaign continues to lose election lawsuit challenges in court."
-    publishedDateTime: 2020-11-23T16:15:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-campaign-calls-for-georgia-recount-election-lawsuit-losses/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 116
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/23/9d9ee8b8-1391-4875-9a2e-47257af90deb/thumbnail/1200x630/0f05cb62de9e3d9ba3ff14a64ee7f8ca/cbsn-fusion-trump-campaign-calls-for-georgia-recount-after-continued-election-lawsuit-losses-thumbnail-594109-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Joe Biden becomes first presidential candidate in U.S. history to surpass 80 million votes"
     excerpt: "President-elect Joe Biden has now surpassed 80 million votes, the most in history, with the final ballots still being counted. More votes were cast in the 2020 presidential election than in any other in U."
     publishedDateTime: 2020-11-26T01:16:00Z
@@ -741,22 +727,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump campaign requests recount of hand-recounted results in Georgia, which is unlikely to change outcome"
-    excerpt: "The Trump campaign on Saturday requested a formal recount of the 5 million presidential votes in Georgia in an apparent effort to exhaust its options for challenging the result in a state that narrowly backed President-elect Joe Biden."
-    publishedDateTime: 2020-11-22T04:51:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-campaign-requests-recount-of-hand-recounted-results-in-georgia-which-is-unlikely-to-change-outcome/2020/11/21/18ad955e-2c73-11eb-8fa2-06e7cbb145c0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-campaign-requests-recount-of-hand-recounted-results-in-georgia-which-is-unlikely-to-change-outcome/2020/11/21/18ad955e-2c73-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-campaign-requests-recount-of-hand-recounted-results-in-georgia-which-is-unlikely-to-change-outcome/2020/11/21/18ad955e-2c73-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 108
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLRUQDRMPQI6XD5CA3T4XMKFYA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "President-elect Joe Biden posed in his vintage Corvette. But he promises a big push for electric vehicles."
     excerpt: "He has set out an ambitious agenda to get Americans into battery-powered cars as climate change shapes his administration’s transportation policy."
     publishedDateTime: 2020-11-25T16:04:00Z
@@ -772,20 +742,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2AKP7VBOSQI6XOXAKC5ROETGCQ.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "In Georgia, a Biden supporter realizes the power of her ballot"
-    excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."
-    publishedDateTime: 2020-11-06T13:17:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/06/biden-voter/?arc404=true"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/resizer/Hz_OrZxWroNwIsu9OOmq7GbxQfc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4X73ZA7XQI6XLKTJQP5USMQPU.jpg"
-        width: 1484
-        height: 989
         isCached: true
   - title: "Biden's win in Georgia reaffirmed after recount"
     excerpt: "The president can request a recount because the results were still within 0.5%, but not until after statewide certification of results, which has to take place by Friday."
@@ -1068,15 +1024,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Joe Biden Delivers Remarks in Warm Springs, Georgia"
-    excerpt: "T13:46:02-04:00 a week to go to election day, Democratic presidential candidate Joe Biden delivers remarks in Warm Springs, Georgia, home to FDR’s “Little White House.” The former vice president says he’s running to help “unite” and “heal” the country."
-    publishedDateTime: 2020-10-27T18:43:00Z
-    webUrl: "https://www.c-span.org/event/?477413/c2020-joe-biden-delivers-remarks-warm-springs-ga"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "JcaypRb3zQjttKr+5bJN6NjUmWXn+zgKaFMxnkHBQ2lncc3jUrjaWf3mQeoHobQhBquNqm5NwlSASNnV8hGMBA0P3SyBa5R5QcgLlvB4ZP/ixujY7AuyiT9YRAs76LI33U/jQCH6phew1QtcjRl5DcFAOeFIkDrC0FE13P/0XL7KUEChG/b9b7tqhvjvPeJx497mUO5MgZNhuQNze4auu7fogYkslDx4fv9P8mMpVCIt2qPNI068s8NNnLELIgbNe9BpLIWNZhQrSyPb4uFD0pwC3QJqwgVxzdFfCkZOSQZOW/ONhtC9JeJODNEW1Lm5pnTP13jtsHI45tbtV7cD3o+DY5t2mBB8J2ZoeVQU2WY=;xYzJjyAJpdcge6sTdCPzDw=="
 ---

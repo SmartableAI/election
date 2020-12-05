@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attor
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
 type: article
 quality: 175
-heat: 255
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,67 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's continued rhetoric over election hampers recovery as Americans face heightened economic and health fears"
-    excerpt: "President Donald Trump finally confirmed Thursday that he will vacate the White House in January after weeks of plunging America into a dark period of uncertainty—where the fate of democracy sometimes seemed to be hanging by a thread—but he largely ignored the mounting challenges his successor is facing"
-    publishedDateTime: 2020-11-27T05:03:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Kxu1a0apCTM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/27/politics/trump-biden-coronavirus-economy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/trump-biden-coronavirus-economy/index.html"
+  - title: "Melania Trump's White House holiday decor spotlights essential workers"
+    excerpt: "'Tis the holiday season at the White House. All of the halls, from the East Room to the Red Room, were decked by over 125 volunteers this weekend and unveiled Monday to feature classic holiday décor with an \"America the Beautiful\" theme for the Trumps' final Christmas in office.\n    \n"
+    publishedDateTime: 2020-11-30T15:13:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4piMF8Sq3os/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126210210-trump-white-house-point-thanksgiving-1126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130093329-01-white-house-holiday-decorations-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump hasn't ruled out firing Attorney General Barr, sources say"
-    excerpt: "Barr on Tuesday said the Justice Department hadn't seen any evidence of fraud that would have changed the election outcome."
-    publishedDateTime: 2020-12-03T03:57:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-hasn-t-ruled-out-firing-attorney-general-barr-sources-n1249796"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249796"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249796"
+  - title: "Trump invites Pennsylvania GOP lawmakers to White House after calling in to baseless voter fraud event"
+    excerpt: "President Donald Trump's planned trip to join his attorney Rudy Giuliani in Gettysburg, Pennsylvania, on Wednesday has been canceled, two sources familiar with the matter tell CNN.\n    \n"
+    publishedDateTime: 2020-11-25T23:38:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g2I1VpYZoHk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-hearing-giuliani/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-hearing-giuliani/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 159
     images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kwe_trump_barr_pardon_investigation_201202_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump repeats baseless voter fraud claims after Barr says no evidence"
-    excerpt: "President Trump repeated his unsubstantiated claims of widespread voter fraud in a 46 minute video shot by the White House without press in the room. It comes one day after Attorney General Barr told the Associated Press he has “not seen fraud” on a scale that could have changed the election outcome."
-    publishedDateTime: 2020-12-03T00:29:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-repeats-baseless-voter-fraud-claims-after-barr-says-no-evidence-97021509542"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97021509542"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97021509542"
+  - title: "Transition Highlights: Judge Dismisses Trump Lawsuit in Pennsylvania"
+    excerpt: "Senator Pat Toomey of Pennsylvania, a Republican, said that with the dismissal, the president had “exhausted” his legal options in the state. Senator Kelly Loeffler of Georgia is in isolation after testing positive for the coronavirus."
+    publishedDateTime: 2020-11-26T22:13:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/21/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/21/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/21/us/joe-biden-trump.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kwe_trump_barr_pardon_investigation_201202_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static01.nyt.com/images/2020/12/21/world/21transition-briefing-pennsylvaniaSUB/21transition-briefing-pennsylvaniaSUB-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Trump rebukes Barr, complains AG ‘hasn’t done anything’ with baseless fraud claims"
-    excerpt: "The president also said Justice Department officials “haven’t looked very hard, which is a disappointment, to be honest with you.”"
-    publishedDateTime: 2020-12-04T03:16:00Z
-    webUrl: "https://www.politico.com/news/2020/12/03/trump-william-barr-fraud-claims-442641"
+  - title: "McEnany incorrectly credits Trump with White House AIDS ribbon"
+    excerpt: "The press secretary made the false assertion while defending the administration for its omission of LGBTQ people in a World AIDS Day statement."
+    publishedDateTime: 2020-12-02T20:37:00Z
+    webUrl: "https://www.politico.com/news/2020/12/02/mcenany-trump-white-house-aids-ribbon-442264"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/02/mcenany-trump-white-house-aids-ribbon-442264"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/02/mcenany-trump-white-house-aids-ribbon-442264"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 109
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/557ffa23-c050-4521-b292-a1030422be9d/28017a41-ef89-4e1d-a00e-6f91e74ebf57/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.politico.com/74/5b/33b208544690b59793476e22219f/ap20336673666172-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump awards Lou Holtz with Presidential Medal of Freedom"
+    excerpt: "President Trump awarded former football coach Lou Holtz the Presidential Medal of Freedom during a ceremony at the White House."
+    publishedDateTime: 2020-12-03T18:26:00Z
+    webUrl: "https://www.nbcnews.com/video/trump-awards-lou-holtz-with-presidential-medal-of-freedom-97064005923"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97064005923"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97064005923"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/holtz_trump.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The Justice Department is investigating a potential bribery scheme for a Trump pardon."
+    excerpt: "The Justice Department has been investigating whether intermediaries for a federal convict offered White House officials a bribe in exchange for a potential pardon or commutation from President Trump,"
+    publishedDateTime: 2020-12-02T22:14:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-brieft-pardon/01transition-brieft-pardon-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "xRc9f2hs5fwSMCZg2Dssx1kfyiylPXM/PigSAN/Ft9MssbLIPX8Jgpf9B2mnayaLviXS6Gu1HkIjDe/GDrzPoPxM3R1tzskRC96PwmQpHFG3DDfqFLJ6f4coCLWhCrtp4VkfHl0JxBrSHZ8mghF7JyM4FyLpXAam03QtFZe11ybNQsMI45M3CUO04udeISxZJHFmZD3mymfRSZ+ajOScjrNEVEF1ToUJePCxw6rvlnATXrEPKFzCiyPp1sirOj3De7/cJSeJ2itTzz/SgjM04euSzEo9fmWzvg3fvSYDU3XD8xs+oSAaMZNPlDOV57ABQ5XzSgFqBS390U9XmlBQPvs7W7CW7ChoNmyVYVjayiE=;xfYx7tRXh4Qnc6peLN9mpw=="

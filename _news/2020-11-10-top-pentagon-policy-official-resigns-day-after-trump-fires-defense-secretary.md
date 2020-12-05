@@ -95,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Officials say Defense Secretary Mark Esper is prepared for possibility Trump may fire him"
-    excerpt: "Defense Secretary Mark Esper is attempting to fashion a graceful exit from office if President Donald Trump decides to fire him regardless of the result of the presidential election, according to several defense sources, including one senior defense official.\n    \n"
-    publishedDateTime: 2020-11-06T01:55:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YWH3qf4boWA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/mark-esper-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/mark-esper-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714171734-02-mark-esper-0709-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump Plans PAC in Hopes of Keeping Hold on G.O.P."
     excerpt: "The PAC could accept donations from an unlimited number of people and spend to benefit other candidates, allowing the president to retain influence in a party remade largely in his image."
     publishedDateTime: 2020-11-10T08:56:00Z

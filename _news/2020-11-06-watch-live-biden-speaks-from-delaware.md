@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 185
+published: true
 
 provider:
   name: The Hill
@@ -31,143 +31,52 @@ images:
     isCached: true
 
 related:
-  - title: "WATCH: Joe Biden holds drive-in rally in Tampa, Florida"
-    excerpt: "Both nominees are now focusing on encouraging voters to turn out in person on Election Day, next Tuesday. More than 73 million Americans have already voted, either by absentee or by mail."
-    publishedDateTime: 2020-10-29T17:50:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
+  - title: "US election live: 'Democracy works,' says Joe Biden as he urges patience with count showing him on verge of win"
+    excerpt: "Georgia confirms recount while Democratic candidate leads president in two key battleground states – follow all the latest news"
+    publishedDateTime: 2020-11-07T12:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates?page=with:block-5fa683d58f0870a6e75f91a7"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-09T170355Z_1622682236_RC25FJ9G8NK1_RTRMADP_3_USA-ELECTION-BIDEN-1024x717.jpg"
-        width: 1024
-        height: 717
+      - url: "https://i.guim.co.uk/img/media/d05d42e3e9b347488db3416c787e0484b7a50f47/0_0_640_716/master/640.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=78e6783bbbba423c2cd6a04bcd7519f7"
+        width: 600
+        height: 672
         isCached: true
-  - title: "WATCH LIVE: Joe Biden holds drive-in rally in Tampa, Florida"
-    excerpt: "Both nominees are now focusing on encouraging voters to turn out in person on Election Day, next Tuesday. More than 73 million Americans have already voted, either by absentee or by mail."
-    publishedDateTime: 2020-10-29T17:50:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
+  - title: "Australian politics live: Scott Morrison officially congratulates US president-elect Joe Biden"
+    excerpt: "Energy Minister Angus Taylor declared #watergate over, after the Australian National Audit Office reported earlier this year on the government’s $80m purchase of water entitlements from Eastern Australian Agriculture in 2017."
+    publishedDateTime: 2020-11-12T00:41:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news?page=with:block-5fac7f0c8f086b290cc55435"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-09T170355Z_1622682236_RC25FJ9G8NK1_RTRMADP_3_USA-ELECTION-BIDEN-1024x717.jpg"
-        width: 1024
-        height: 717
+      - url: "https://i.guim.co.uk/img/media/74837c752551a67e91a327808668afe7bba30c91/0_137_3368_2022/master/3368.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10194d30e2d94cb9c370915a143f0403"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Watch live: Biden speaks from Delaware"
-    excerpt: "Democratic presidential nominee Joe Biden speaks on election night from Wilmington, Del.The event is scheduled to begin at 12:45 a.m. EST.Watch the live video above."
-    publishedDateTime: 2020-11-04T05:37:00Z
-    webUrl: "https://thehill.com/video/in-the-news/524390-watch-live-biden-speaks-from-delaware"
-    ampWebUrl: "https://thehill.com/video/in-the-news/524390-watch-live-biden-speaks-from-delaware?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524390-watch-live-biden-speaks-from-delaware?amp"
+  - title: "Biden delivers remarks on Supreme Court case surrounding Affordable Care Act"
+    excerpt: "President-elect Joe Biden speaks on Tuesday concerning Texas v. California, a challenge to the Affordable Care Act from Republican-led states and the Trump administration."
+    publishedDateTime: 2020-11-10T19:29:00Z
+    webUrl: "https://www.washingtonpost.com/video/national/biden-delivers-remarks-on-supreme-court-case-surrounding-affordable-care-act/2020/11/10/b47e38b5-a062-4f52-9754-f0d8a7c094bb_live.html"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_10282020_gettyimages.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-10-2020/t_c918236f66924754ab90a269d27a0255_name_biden_1109.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
-  - title: "Early reaction from Florida: Biden lost ground with crucial Cuban voters"
-    excerpt: "Dade, Florida's most populous county, show Democrat Biden underperforming when compared to Hillary Clinton's election totals in 2016. Political analysts on the ground saw signs of a new phenomenon: Some Hispanic voters,"
-    publishedDateTime: 2020-11-04T06:10:00Z
-    webUrl: "https://abcnews.go.com/US/early-reaction-florida-biden-lost-ground-crucial-cuban/story?id=74007467"
-    ampWebUrl: "https://abcnews.go.com/amp/US/early-reaction-florida-biden-lost-ground-crucial-cuban/story?id=74007467"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/early-reaction-florida-biden-lost-ground-crucial-cuban/story?id=74007467"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/2020-election-14-miami-dade-florida-rtr-jc-201103_1604449607408_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Lady Gaga Reflects on Taylor Kinney Engagement at Joe Biden Rally"
-    excerpt: "Lady Gaga has a \"new Pennsylvania guy,\" but that doesn't mean she's forgotten about the old one. The \"Shallow\" singer reflected on her relationship with ex-fiance Taylor Kinney while performing at Joe Biden 's final drive-in campaign rally in Pittsburgh,"
-    publishedDateTime: 2020-11-04T01:07:00Z
-    webUrl: "https://www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810"
-    ampWebUrl: "https://www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810?amp"
-    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810?amp"
-    type: article
-    provider:
-      name: Entertainment Tonight
-      domain: etonline.com
-    quality: 75
-    images:
-      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-11/gettyimages-1229426493.jpg?itok=7LDzhd6p"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Video altered to make it look like Joe Biden greeted wrong state at rally"
-    excerpt: "A video with over a million views appears to show him saying 'Hello, Minnesota' to a Florida crowd. Turns out he was indeed in Minnesota, as his coat would suggest."
-    publishedDateTime: 2020-11-02T06:25:00Z
-    webUrl: "https://www.fox43.com/article/news/nation-world/video-altered-to-make-it-look-like-biden-greeted-wrong-state/507-8a017743-9357-4c39-acfe-323d3a19a612"
-    ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/video-altered-to-make-it-look-like-biden-greeted-wrong-state/507-8a017743-9357-4c39-acfe-323d3a19a612"
-    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/video-altered-to-make-it-look-like-biden-greeted-wrong-state/507-8a017743-9357-4c39-acfe-323d3a19a612"
-    type: article
-    provider:
-      name: FOX43
-      domain: fox43.com
-    quality: 74
-    images:
-      - url: "https://media.tegna-media.com/assets/CCT/images/b6d0ea69-d980-4ee8-81fb-00b955f22b88/b6d0ea69-d980-4ee8-81fb-00b955f22b88_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Why Florida’s Treasure Coast could back Joe Biden but elect a Republican to Congress"
-    excerpt: "While Florida’s Treasure Coast backed Donald Trump in 2016, four years later Joe Biden has a chance to flip it. But the partisan dynamics at the top of the ticket in what was once Florida’s most competitive congressional district aren’t likely to topple incumbent Republican Rep."
-    publishedDateTime: 2020-10-23T19:27:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246650928.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246650928.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246650928.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 68
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c7732d23-e2ae-4dbb-b1fc-f59e3e74be61/f2e1bfc2-be57-4900-b234-0d0dbced69fd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Scarborough Says Biden Struggling with Florida Hispanics: ‘Especially Latino Men’"
-    excerpt: "MSNBC host and former Congressman Joe Scarborough said Democratic presidential nominee Joe Biden needs to improve his share of the vote among Florida Hispanics in order to win the state."
-    publishedDateTime: 2020-10-29T15:07:00Z
-    webUrl: "https://www.mediaite.com/news/joe-scarborough-says-biden-struggling-with-florida-hispanics-especially-latino-men/"
-    ampWebUrl: "https://www.mediaite.com/news/joe-scarborough-says-biden-struggling-with-florida-hispanics-especially-latino-men/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/joe-scarborough-says-biden-struggling-with-florida-hispanics-especially-latino-men/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 68
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/MJJ-1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden Remarks at Voter Mobilization Event in Florida"
-    excerpt: "Democratic presidential nominee Joe Biden spoke at a voter mobilization event in Miramar, Florida."
-    publishedDateTime: 2020-10-29T14:11:00Z
-    webUrl: "https://www.c-span.org/video/?476883-1/joe-biden-remarks-voter-mobilization-event-florida"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "m3sE7yMt950XQfN5yF7jUdbAs8sww695owhKQmUpmcIykHyelcEpz/icL25M9rsWfhwZtcpyfNtt1z6tnPZdZ7CsS28P0Nsun3ZeQMJuJcUgesX+AcIT7mtw7Nhcu+Lib8Dh1qbUsAF19r3/Q9YhrljAe3KF3JsSAE/vkdx+hgdqSjTlW8X7irK0ZdNxpkEPmSmQIDgqVXwR6kp4RGVG7xe7AJozAb3mSiYKUkIAjkps+AHY6aVZI+am3ddsix18j9bExMQcygH11xaQ1RRszqpaFbxzrXji0uYZ7TBeESPe3oeff1MZc3xewXTuQLXwRy9CgNzTMjhzj71uNb5xTcDqXvPkfdIXgrvdzvTFCzpPNnH2o+rQiY9RWsbM0XvSEVqofskcgJ2maiUx7T6cfkP+07YzYp5IAXYek0MMkDzJ6BFO5G+jv4G4ROjpwWzff4oDw21QdQDJRYn+qb7u6i/+Tdqpp6ldLj6Fa9gjyVg2AUiFVwejrn9OBCa5perzHOpFaUpwzuM6H0Kj2kSRYA==;aliDHpB3i7KvkGqVppnHjg=="
 ---

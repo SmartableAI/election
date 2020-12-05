@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A2CA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A2CA"
 type: article
 quality: 112
-heat: 132
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Representatives for 'Tiger King's' Joe Exotic are said to be chasing Trump down for a pardon and spending thousands of dollars to get it"
-    excerpt: "Representatives for the former zookeeper ran up a $10,000 tab at one of Trump's hotels in an effort to get his attention."
-    publishedDateTime: 2020-11-26T06:56:00Z
-    webUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
+  - title: "Nissan joins GM in exiting auto group backing Trump"
+    excerpt: "Japanese automaker Nissan Motor Co said on Friday it was joining General Motors in exiting a group of automakers that had backed U.S. President Donald Trump in his bid to prevent California from imposing its own vehicle emissions rules."
+    publishedDateTime: 2020-12-04T21:59:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-emissions-trump/nissan-joins-gm-in-exiting-auto-group-backing-trump-idUSKBN28E326"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E326"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E326"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5fbefa81037cbd0018612744?width=1200&format=jpeg"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543501229&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31PO"
+        width: 747
+        height: 545
+        isCached: true
+  - title: "UPDATE 1-Nissan joins GM in exiting auto group backing Trump"
+    excerpt: "Japanese automaker Nissan Motor Co on Friday joined General Motors Co in exiting a group of automakers that had backed U.S. President Donald Trump in his bid to prevent California from imposing its own vehicle emissions rules."
+    publishedDateTime: 2020-12-05T02:44:00Z
+    webUrl: "https://www.reuters.com/article/autos-emissions-trump/update-1-nissan-joins-gm-in-exiting-auto-group-backing-trump-idUSL1N2IK2PU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E326"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E326"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543501229&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31PO"
+        width: 747
+        height: 545
+        isCached: true
+  - title: "Fact check: Facebook post touting decreasing drug prices under Trump is misleading"
+    excerpt: "A viral claim appears to take data out of context to tout decreasing drug prices under President Donald Trump."
+    publishedDateTime: 2020-12-04T14:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/04/fact-check-post-decreasing-rx-drug-prices-contains-outdated-info/3769032001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3769032001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3769032001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/27/PDEM/c3395239-b93c-47ff-9c0e-1e00867e5431-Prescription_pills_with_money.jpg?auto=webp&crop=4155,2338,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
 
 secured: "iLJo5n5zE5UhMcCs0Ex2T1dCW9KSOKp96j0V6SEFy6z1oJPCup9LYb0+sz3fsBLHHNmfp3e66YuhQ7J6y1RZvNiUXHqKrXIRsa8edZMKPtXzUU96WUcxf08lTv/U75jvWW2WIR5HRjTQ0oH1ox+CY1q6pgEgiWLSFmPuJIr1s3p+yMTSfAXONkaNfAvgFxw+w7XP6/MyN/FPpDIW57k6oL40k+NY0/9wHUEb514m/m/sKxhKT7MgRStATHLhyqWDc6udw4w2IS5Kd7t9/x/Ywb67fLjB6JsKlLHVXl+IkSZ0LfaMPIQyY7a8DicJKAqcXKy3IoRjdtQ6LzWU+aHHi+EMHDGZuxLQMKaGX3ws46OBWYwPZgOopoIsRWRN3meV7dEuIJWUzPyDltaYsUwOp1TOSYcrtlDAPeexyOCcjX+qnl6GN/HA+TyoJ5+KqvyE9uYwDslOYFnbIPC+uRx/A2tkABgB4v2k2bVW+mTxU0dV5DT4YkAdzmfBqVJYqEDRy5Zix5Cw7vpc/dwv32tR0A==;Kj+eamLr+D8DJL9ruNJvcg=="

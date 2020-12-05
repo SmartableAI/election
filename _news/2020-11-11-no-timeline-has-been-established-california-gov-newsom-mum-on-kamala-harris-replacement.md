@@ -58,6 +58,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Full Replay: Joe Biden And Kamala Harris Press Conference, Remarks On The Economy"
+    excerpt: "President-elect Joe Biden outlined his plan for building the American economy \"back better\" during a speech Monday in Delaware. \"It's time to reward work, not just wealth in America. We're going to have a fair tax structure that makes sure the wealthiest among us and corporations pay their fair share,"
+    publishedDateTime: 2020-11-17T08:13:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/16/watch_live_biden_press_conference_remarks_on_the_economy.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 75
+    images:
+      - url: "https://assets.realclear.com/images/52/527269.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "OIevdN7ji5MTHmmA1/R1JZ9HFgjdzqPWM5rYLKqiBX6UaUAymhLI6+RrMi+tRyPXBGVY4ZcgUgxoLlbufo600YOJK2LjQosX/dYEO1CZpwKkHygeq9qsdRXgn/4PFvNIvKi2SZXqFcnw1dEwC8ryvfC2qGY+3PATrY8zk8G+8aI2qDoAjLNxJzXt0HHgN49DwnU1D0wnZsjWpjrh3eGiktADHph18wt7AawIAtVdBhhFd8qbAsjaO+oGkLkywSsSlrLnIOUXRjmnFCAx2dXnQVXamfxyXxgGT0X2dN8eV0nBJCkPXwGZBI8oPzF6gYCW49Fb3OzwhpcwK3ePMnLD6flErGE3XtymWkBpl9UGlY2f+h6ZqOOqKPLUveMomkcNQzFfYRPpWQWt3o7f5YpVqc6vKPQx38sInqw6ZQa7KQi9WUUjkdOeHQtG13ngUiIuPQY/G2BUDFsGBtShn2CtxJnOpGgFT8N4dlVrK/aWc4WRWB+u7cPCGlUXv7I3DJDZFS9DcPmGWMPJCzaaWsU+bg==;38NvE6wu4XTV0awNwt8Uwg=="
 ---

@@ -79,6 +79,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden's national security adviser pick played key role in Clinton email scandal"
+    excerpt: "Jake Sullivan served as deputy chief of staff to Hillary Clinton during her time as secretary of state and later served as a top policy adviser during her campaign."
+    publishedDateTime: 2020-11-23T21:16:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XH4uG_Yy7ZE/biden-national-security-adviser-pick-jake-sullivan-clinton-email-scandal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-adviser-pick-jake-sullivan-clinton-email-scandal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-adviser-pick-jake-sullivan-clinton-email-scandal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden secretary of state pick Blinken admitted Obama administration 'failed' in Syria"
+    excerpt: "Anthony Blinken, President-elect Joe Biden’s pick for secretary of state, admitted earlier this year that the Obama administration “failed” in Syria — although he also panned the Trump administration for “pulling out” of the country entirely."
+    publishedDateTime: 2020-11-24T18:45:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPnhD6uzLE8/biden-blinken-admitted-obama-failed-syria"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blinken-admitted-obama-failed-syria.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blinken-admitted-obama-failed-syria.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1fb50e8-f4fd-425d-9b2d-08dd32d77629/a69bb578-d024-4d13-902f-ea215b4f647c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden pick privately trashed him in 2015, said he would make Clinton look better by comparison"
     excerpt: "Neera Tanden is President-elect Joe Biden's pick for director of the Office of Management and Budget, but a leaked email from 2015 indicates that Tanden may not have always believed Biden was the best Democratic presidential candidate for the job."
     publishedDateTime: 2020-11-30T19:19:17Z

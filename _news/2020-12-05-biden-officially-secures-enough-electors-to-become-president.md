@@ -2,21 +2,21 @@
 category: news
 title: "Biden officially secures enough electors to become president"
 excerpt: "California has certified its presidential election and appointed 55 electors pledged to vote for Joe Biden, officially handing the Democrat the Electoral College majority needed to win the White House"
-publishedDateTime: 2020-12-05T00:39:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-officially-secures-enough-electors-to-become-president/2020/12/04/528ad7c2-3692-11eb-9699-00d311f13d2d_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-officially-secures-enough-electors-to-become-president/2020/12/04/528ad7c2-3692-11eb-9699-00d311f13d2d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-officially-secures-enough-electors-to-become-president/2020/12/04/528ad7c2-3692-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-officially-secures-enough-electors-to-become-president/2020/12/04/528ad7c2-3692-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+publishedDateTime: 2020-12-05T01:13:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-officially-secures-electors-president-74549765"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-officially-secures-electors-president-74549765"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-officially-secures-electors-president-74549765"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-officially-secures-electors-president-74549765"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_5bb5c0a1786c4fdbb982ea1fb00f60ca_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -977,6 +977,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden, Harris to receive first presidential intelligence briefings"
+    excerpt: "U.S. President-elect Joe Biden is scheduled to receive his first presidential intelligence briefing on national security threats Monday as he prepares for his transition into office."
+    publishedDateTime: 2020-11-30T12:05:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/11/30/Biden-Harris-to-receive-first-presidential-intelligence-briefings/6361606734101/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/30/Biden-Harris-to-receive-first-presidential-intelligence-briefings/6361606734101/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/30/Biden-Harris-to-receive-first-presidential-intelligence-briefings/6361606734101/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6361606734101/2020/1/4ab660c5c81dfba3c4ff40c92454f373/v1.5/Biden-Harris-to-receive-first-presidential-intelligence-briefings.jpg"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Biden, Harris to begin receiving classified Presidential Daily Brief for the first time"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will begin receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan 20."
+    publishedDateTime: 2020-11-30T18:27:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-intelligence-briefings-20201130-2hqtgqdfrvg5voq5zrzvk3y6pa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 82
+    images:
+      - url: "https://www.baltimoresun.com/resizer/wavSoYc6wjMeOzZdUem95afekPo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GCALR3A6ENCEHHOG4KLHACH524.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President-elect Joe Biden gains over 100 votes after Milwaukee County recount"
     excerpt: "Elect Joe Biden gained more than 100 more votes in Milwaukee County in a recount, adding to his lead. The Trump campaign submitted a recount petition and paid a $3 million fee to the Wisconsin Elections Commission for the partial recount of presidential election results ordered last week,"
     publishedDateTime: 2020-11-28T19:36:00Z
@@ -1024,6 +1056,6 @@ related:
         height: 660
         isCached: true
 
-secured: "rdhqn1KgPPsiZw6EmCsEssep+mZ0v2eQrWM/pqR5JmPXKGl0xZ41InXVRIgJxtQU83LK5O+6pShSCnqGHzkuRNj43r2BwDAs8pEP8He9wmTaQqOAY4/pp74412o/lEDFG42rUeeU4BRHRy3Pw70NQaAHfDyCNDG2KKlDopj5uFq+WrHfO3IOrthXqgf5Dz+2ymMcKAVd/MUhvja2SzaDfZWTwbvSNkHDc0wPo4ezwbQnYbjMpGJhazE4JJUjfm3be8H/x1RA0FINSitNwtT9Hbyady2UXGq/ytPFnoqVmlXO1whN5QrlX4m6C/YX6Dr9qZFEiaVNeEDjiN5ZpeV7hEq+LiS2GjcBMgAc4IqXWXI=;2ZGjk+UQ24cuK3ZUdaMBJw=="
+secured: "9ArSz+IQKEqR3Q3UpuGLE9pxMm/1TGeT3qKkQK3t3UZBLD0B9TbB4b/TC55Hj9TMSIRYDLJ3b/orUQexf50AxvbBHi5zy9R+C0uyQtVxGRMSqa2M9/apzjg1NEpNrrQZqMlPVvAplSpdStOdb0y46xMSkbQGq0loarwvyeTDL2zHvSQmo050OQhbQq/8tMjDTZZTSRD8FxebD4EVjlaRTfcg7yCF1nacsOYSs+mrXgT6dLbUV9vEYAeVR6eUnKULoxQ+9aovRfcAuFiYreFA7GsgpBIudqAKwvxeoxAG5oxY6FHmhhO15JWx3OMTcHReyrDmotwCKM3SMDsQ5Z1n1q4/dXxIpPLvCGyRF5JPT6A=;19OhigXoeZUn6HTbzKuBjQ=="
 ---
 

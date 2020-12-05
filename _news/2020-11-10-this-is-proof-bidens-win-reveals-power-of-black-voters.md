@@ -84,22 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Chrissy Teigen Makes First Public Appearance Since Pregnancy Loss at Joe Biden Campaign Rally"
-    excerpt: "Chrissy Teigen made her first public appearance since her pregnancy loss in September. The 34-year-old cookbook author joined her husband, John Legend, and their two children, Luna and Miles, at Joe Biden’s campaign rally in Philadelphia."
-    publishedDateTime: 2020-11-03T21:44:00Z
-    webUrl: "https://www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden"
-    ampWebUrl: "https://www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden?amp"
-    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden?amp"
-    type: article
-    provider:
-      name: Entertainment Tonight
-      domain: etonline.com
-    quality: 64
-    images:
-      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-11/eto_trending_chrissy_biden_rally_110320.jpg?h=d1cb525d&itok=eWlNVjNb"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "UALzWAe1glnKRcAqmFH7+ovVFo8V6gubQnEgMEvDEdGV9LWztmsoRlbxKSNNcmxVhion14ck6MpHCsB0RTcm6RwiL3RNC1GvNMoxyrODhXOVyj6HgkpCPNFcPbgQiLXg66YBSc2sFMCJjG8bFrYEFqKTy9nVr3bvX0NFEL6TNyYlSH+er8T9DHVfLKABvmBngtCwynaPi27wrHNi99oc4iPGJDLr8BxjedJnqPVYarW55ynWEl4+29wtHh+/HVMnqVubKEK4v0G5chPa766sYV2lhm4hAsYc7ibwba4mvnhTg5ozq5hPhImbwhjnrNg0KLilbDvGEfXE8CWFxbb3mnJGroyksdww7N5izNqrCC4=;yV4ht7wuN4ywUS8+m48/ag=="
 ---

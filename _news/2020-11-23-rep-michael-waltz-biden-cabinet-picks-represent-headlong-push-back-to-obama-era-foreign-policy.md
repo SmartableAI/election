@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rep-michael-waltz-biden-cabinet-pic
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-michael-waltz-biden-cabinet-picks-obama-foreign-policy.amp"
 type: article
 quality: 161
-heat: 201
+heat: 181
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1189038820.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Kamala Harris: Biden Cabinet Nominees Have \"Unwavering Belief In America's Ideals\""
-    excerpt: "Elect Joe Biden's announcement of diplomatic and foreign policy cabinet picks on Tuesday. VICE PRESIDENT-ELECT KAMALA HARRIS: President-Elect Biden and I have long known that when we were elected we would inherit a series of unprecedented challenges upon walking into the White House."
-    publishedDateTime: 2020-11-24T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/24/kamala_harris_biden_cabinet_nominees_have_unwavering_belief_in_americas_ideals.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 74
-    images:
-      - url: "https://assets.realclear.com/images/52/528073.jpg"
-        width: 946
-        height: 708
         isCached: true
 
 secured: "dmZv2p9/zEclBpMgN8+jq44FebGpQjd0xUVmSA0anlmZyGfeBbYZErwJth6PWSUaPn25yLLWn31yjdS41pKxNOUqOF/b/TrlAmCGf2DODvcS9+3+hCQ2xXwytpZt3T+BwsqdaDAm9SZg4o13F3ndevAehJhuE6DjpNEwsJkxTMcHvZw0ZCC5HfRzzRd6tLnFnMsy7FlJUwr9Ynr2ERu8c3ZP8s0ZpMCqsT3bPVr2vktFyfrbYiHiYfKso+FTUtQRz0i0P3oHuRGfJd8Oq92r+2ktXZf5zeTFA2hGcI+L5MJ9fz1sEZdPQ1C0+v5qCKqW3aDmkPF1cFq/MHw8ZQxMJaoUV8JcmlQGM/P2luWkyCg=;ZGHOcxXm35nRPNhESL/Btg=="

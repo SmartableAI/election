@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q1FR"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q1FR"
 type: article
 quality: 125
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -84,22 +84,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Chrissy Teigen Makes First Public Appearance Since Pregnancy Loss at Joe Biden Campaign Rally"
-    excerpt: "Chrissy Teigen made her first public appearance since her pregnancy loss in September. The 34-year-old cookbook author joined her husband, John Legend, and their two children, Luna and Miles, at Joe Biden’s campaign rally in Philadelphia."
-    publishedDateTime: 2020-11-03T21:44:00Z
-    webUrl: "https://www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden"
-    ampWebUrl: "https://www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden?amp"
-    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden?amp"
-    type: article
-    provider:
-      name: Entertainment Tonight
-      domain: etonline.com
-    quality: 64
-    images:
-      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-11/eto_trending_chrissy_biden_rally_110320.jpg?h=d1cb525d&itok=eWlNVjNb"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "oaYIGdzNji4dZ7QW7nU01xMNmfcSpu8kBS4yZwN/IkGmkA+Dos7CMVOhmNLWlWMy4HwiufX36VhCJ5SF43mP1RSiBXH+7QLc2PXrXHZGgmmdk/cvTh8ZbUhHSRUr/z99moL76j793ZR66rH8vqKOAfe5rcQ7OeB5kERXYrcXPG7sszAvVgy4jffdZM21NF1cWGA31BGv3pBZadi4er4wOAc3I+/UjxrACrqh5fmY17ex+/EKSaWUu+0ehnTcwdG7DAdNDpsa9H0FqdFycbzvwgYA+7n7/conDi4fLFZswrn1ixMO4QShsAm7M8nuo5ADhfg5aE4GxDA27sUWvvKCOWkgSBkjKWcow/NP3JxThXo=;eQ+kZWul13NGZ0xc8omqcQ=="

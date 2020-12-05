@@ -48,20 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Kamala Harris: Biden Cabinet Nominees Have \"Unwavering Belief In America's Ideals\""
-    excerpt: "Elect Joe Biden's announcement of diplomatic and foreign policy cabinet picks on Tuesday. VICE PRESIDENT-ELECT KAMALA HARRIS: President-Elect Biden and I have long known that when we were elected we would inherit a series of unprecedented challenges upon walking into the White House."
-    publishedDateTime: 2020-11-24T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/24/kamala_harris_biden_cabinet_nominees_have_unwavering_belief_in_americas_ideals.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 74
-    images:
-      - url: "https://assets.realclear.com/images/52/528073.jpg"
-        width: 946
-        height: 708
-        isCached: true
 
 secured: "WFJ02bgqE80KFul8Mjv3UDf9TkOwEPNmQODh8v74BD+ABNLwtykVHMIdqbIBY2TY6L7ZpczvZLUjZA9iTfzZQ0KAipzy4dRk25hoC6eM7czL2Da9KZE83TzaNVSNuqns1XY5YzFVT4dxf1FMsmAFTjrtKuiZ7Hmvy9ucwjaEQ1mYH8AlJ5/5i9+71ypkoRqjjWfRe+H8d0LxNIB7+bqTOY8cbKAWy6QPYTYarD2j1qn3dbYNxVBHYY0R75OFH5njp50yCr6ln+bBIwDSd+eobZB0DQvg6JEr9DB/CCvFMNnYSmDlkHg2uqnsHY5ajwPteP1yiZOk/GRbtjvkvNoDX3FfzWcYy84U65nTnPq+mlkANPPySxq/ZEHf/F5H7wd7TVV+h45ktG2QkcCylnfLnAjEa40PekCa91QcAhZrRLv6oKDvGHhiEA9eHmigZpDD/E6q6DZmyLNSCDsjWW/pFh3WYWuTba+s0pweE+/Ct1NZQwS8uqzJnGsalCh4RtTlw1eyQXsXmPDp+vGtQSM4ZA==;oMWx7sRKNKqQcM7wZGctbQ=="
 ---

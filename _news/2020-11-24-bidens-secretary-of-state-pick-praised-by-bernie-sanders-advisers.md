@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden starts staffing up with senior White House announcements"
+    excerpt: "President-elect Joe Biden on Tuesday announced nine senior staffers he will work with in the White House after he is inaugurated on Jan. 20."
+    publishedDateTime: 2020-11-17T16:15:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rkSrOw5mxlA/biden-senior-white-house-staff-announcements"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-senior-white-house-staff-announcements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senior-white-house-staff-announcements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden picks Blinken, Mayorkas, Sullivan for key Cabinet positions"
     excerpt: "President-elect Joe Biden on Monday announced a number of key Cabinet appointments, including Antony Blinken as secretary of state, Alejandro Mayorkas as secretary of homeland security, and Avril Haines to serve as the first woman to lead the intelligence community, among other positions."
     publishedDateTime: 2020-11-23T17:28:18Z
@@ -47,133 +63,101 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Rubio takes aim at Biden’s ‘Ivy League’ foreign policy Cabinet nominees"
-    excerpt: "It appears Republican Sen. Marco Rubio of Florida is no fan of some of President-elect Joe Biden’s foreign policy and national security Cabinet nominees. Rubio, who sits on the Senate Foreign Relations Committee, took to Twitter on Tuesday to blast some of Biden’s nominees as “caretakers of America’s"
-    publishedDateTime: 2020-11-24T21:35:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EYZPcr51iSc/rubio-takes-aim-at-bidens-ivy-league-foreign-policy-cabinet-nominees"
-    ampWebUrl: "https://www.foxnews.com/politics/rubio-takes-aim-at-bidens-ivy-league-foreign-policy-cabinet-nominees.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-takes-aim-at-bidens-ivy-league-foreign-policy-cabinet-nominees.amp"
+  - title: "Biden spotlights ‘enduring commitment’ to NATO in talk with alliance leader"
+    excerpt: "President-elect Joe Biden on spoke on Monday with the head of North Atlantic Treaty Organization - better known as NATO – the more than 7 decade old security organization that bonds the U.S with much of Europe."
+    publishedDateTime: 2020-11-23T22:03:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zcffe6fZIZs/biden-spotlights-enduring-commitment-to-nato-in-talk-with-alliance-leader"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-spotlights-enduring-commitment-to-nato-in-talk-with-alliance-leader.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spotlights-enduring-commitment-to-nato-in-talk-with-alliance-leader.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 173
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Democrats feuding over who Biden will pick as agriculture secretary"
-    excerpt: "A fight is breaking out among Democrats over who President-elect Joe Biden should choose for agriculture secretary, with one of his key allies advocating for an African American lawmaker to head the department and refocus it on hunger rather than rural America."
-    publishedDateTime: 2020-11-27T15:47:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qAKUA6sLsXo/democrats-feuding-biden-pick-agriculture-secretary"
-    ampWebUrl: "https://www.foxnews.com/politics/democrats-feuding-biden-pick-agriculture-secretary.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-feuding-biden-pick-agriculture-secretary.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ee1e249-8ac5-463e-aa31-19bbadd0e5b0/33c22b54-330a-4095-9eeb-7439bfeb5523/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden's national security adviser pick played key role in Clinton email scandal"
-    excerpt: "Jake Sullivan served as deputy chief of staff to Hillary Clinton during her time as secretary of state and later served as a top policy adviser during her campaign."
-    publishedDateTime: 2020-11-23T21:16:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XH4uG_Yy7ZE/biden-national-security-adviser-pick-jake-sullivan-clinton-email-scandal"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-adviser-pick-jake-sullivan-clinton-email-scandal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-adviser-pick-jake-sullivan-clinton-email-scandal.amp"
+  - title: "Possible Biden education chief Randi Weingarten once caught plagiarizing speech"
+    excerpt: "American Federation of Teachers head Randi Weingarten -- who is reportedly being considered for a cabinet position by President-elect Joe Biden -- gave a speech found to contain plagiarism in 2011. "
+    publishedDateTime: 2020-11-13T17:29:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zSbK1v5WsYk/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-961473338.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "US should encourage China's rise, Biden national security pick Jake Sullivan says"
-    excerpt: "Sullivan served as an adviser to Biden during his vice presidency."
-    publishedDateTime: 2020-11-24T03:06:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VSIeeNJYMJg/biden-national-security-pick-jake-sullivan-us-chinas"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-pick-jake-sullivan-us-chinas.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-pick-jake-sullivan-us-chinas.amp"
+  - title: "Biden takes calls with leaders of UK, France, Germany as transition gets underway"
+    excerpt: "President-elect Joe Biden on Tuesday spoke to foreign leaders and key allies as he moved ahead with his presidential transition — with the leaders of the U.K. and France among those first to speak to the incoming president."
+    publishedDateTime: 2020-11-10T20:19:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQYSojMRAUc/biden-uk-france-germany-as-transition-gets-underway"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-uk-france-germany-as-transition-gets-underway.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uk-france-germany-as-transition-gets-underway.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c99b2eab-fccd-4bca-bd8a-6c50dcb0b717/753df433-c345-48e6-b3a0-496c55d655a5/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae6a8da7-031f-4f6a-8706-76b1845676c5/d5243f3e-9afd-4d22-b217-b5218052c03e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden DHS pick Mayorkas intervened to help Democrat-connected foreign investors: IG"
-    excerpt: "President-elect Joe Biden's pick for Homeland Security secretary, Alejandro Mayorkas, faced criticism during the Obama administration after a scathing inspector general report found that he intervened to help foreign investors in the EB-5 visa program who were connected to top Democrats."
-    publishedDateTime: 2020-11-24T16:13:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/789WRB_4Lf4/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors.amp"
+  - title: "Cedric Richmond, tapped for Biden White House role, has history of controversies"
+    excerpt: "President-elect Joe Biden’s transition team on Tuesday announced that Rep. Cedric Richmond, D-La., has been tapped as a senior adviser in the White House Office of Public Engagement -- leaving his House seat vacant and bringing with him a number of past controversies."
+    publishedDateTime: 2020-11-17T19:59:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iRCCeEjj73I/cedric-richmond-biden-white-house-controversies"
+    ampWebUrl: "https://www.foxnews.com/politics/cedric-richmond-biden-white-house-controversies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cedric-richmond-biden-white-house-controversies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3efb104a-b635-4947-bf80-8cb9e49b1b93/0f80a8d1-73c1-49b6-beb3-20552f4b90cc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says public health experts recommend 10 people max at Thanksgiving gatherings"
+    excerpt: "President-elect Joe Biden says that public health experts tell him they recommend limiting Thanksgiving family gatherings to 10 people or less as the coronavirus pandemic surges again across the country."
+    publishedDateTime: 2020-11-16T22:48:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2VxI2TUzzrQ/biden-public-health-experts-10-people-max-thanksgiving-gatherings"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-public-health-experts-10-people-max-thanksgiving-gatherings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-public-health-experts-10-people-max-thanksgiving-gatherings.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/alejandro-Mayorkas-2-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden secretary of state pick Blinken admitted Obama administration 'failed' in Syria"
-    excerpt: "Anthony Blinken, President-elect Joe Biden’s pick for secretary of state, admitted earlier this year that the Obama administration “failed” in Syria — although he also panned the Trump administration for “pulling out” of the country entirely."
-    publishedDateTime: 2020-11-24T18:45:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPnhD6uzLE8/biden-blinken-admitted-obama-failed-syria"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-blinken-admitted-obama-failed-syria.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blinken-admitted-obama-failed-syria.amp"
+  - title: "Biden taps Facebook executive for White House role as big tech infiltrates transition"
+    excerpt: "Some of Biden's full-time staffers, as well as transition team members, have ties to Silicon Valley."
+    publishedDateTime: 2020-11-21T01:57:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A-rAlgxZG0o/biden-big-tech-transition-team"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-big-tech-transition-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-big-tech-transition-team.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1fb50e8-f4fd-425d-9b2d-08dd32d77629/a69bb578-d024-4d13-902f-ea215b4f647c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e7c873e-9502-4913-b71b-41bef2401aa0/4e848f83-b3ed-4c5e-b2ae-89939a613424/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "BLM supporters continue to protest Biden's consideration of LA Mayor Garcetti for cabinet"
-    excerpt: "Black Lives Matter activists protested outside the home of Los Angeles Mayor Eric Garcetti to protest the mayor’s potential nomination to President-elect Joe Biden’s cabinet. "
-    publishedDateTime: 2020-11-28T20:24:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p5fuVHUMcII/blm-supporters-protest-bidens-mayor-garcetti-cabinet"
-    ampWebUrl: "https://www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9c7e661-973a-421d-9d3c-c492d013a8c8/0f7df908-dfcb-4ff5-a3e7-cb7708020b06/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden's national security adviser pick Jake Sullivan touted Hillary Clinton's Libya debacle"
-    excerpt: "President-elect Joe Biden on Monday tapped Jacob Sullivan to be America's next national security adviser, but it remains to be seen if the former top Hillary Clinton adviser, who championed the ill-fated unraveling of Libya almost a decade ago, will take heed of those lessons learned."
-    publishedDateTime: 2020-11-24T20:41:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ltREGagqqls/bidens-national-security-advisor-jake-sullivan-touted-hillary-clintons-libya-debacle"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-national-security-advisor-jake-sullivan-touted-hillary-clintons-libya-debacle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-national-security-advisor-jake-sullivan-touted-hillary-clintons-libya-debacle.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Rashida Tlaib accused of anti-Semitism for reaction to Biden's Jewish Sec of State nominee"
     excerpt: "President-elect Biden announced Antony Blinken as his nominee to head the State Department"
@@ -207,6 +191,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Progressive group slams two of Biden's White House appointees as 'corporate-friendly insiders'"
+    excerpt: "Progressive Democrats slammed President-elect Joe Biden’s appointments of Rep. Cedric Richmond and Steve Ricchetti to White House posts, calling them “unacceptable.”"
+    publishedDateTime: 2020-11-17T17:50:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WUuUQlT4kmg/progressive-group-bidens-white-house-appointees-as-corporate-friendly"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-group-bidens-white-house-appointees-as-corporate-friendly.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-group-bidens-white-house-appointees-as-corporate-friendly.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "After joining Burisma, Hunter Biden requested meetings with Antony Blinken: State Dept. emails"
     excerpt: "New Secretary of State pick Antony Blinken has a long-standing relationship with President-elect Joe Biden going back to their days in the Obama administration, but State Department emails revealed that during that time Blinken appeared to have made a connection with Hunter Biden as well."
     publishedDateTime: 2020-11-24T14:40:58Z
@@ -222,6 +222,54 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Antony-Blinken-Hunter-Biden-Reuters-Getty.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Senior Biden staffer called Palestinian suicide bombings ‘the last resort of a desperate people’"
+    excerpt: "Biden's pick for Deputy Director of the White House Office of Legislative Affairs referred to Palestinian suicide bombings as \"the last resort of a desperate people\" in 2002."
+    publishedDateTime: 2020-11-25T00:05:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h0J2FB8CEdw/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20321761004454.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "With Joe Biden in Charge, No More Flashy Kim Jong Un Summits"
+    excerpt: "President-elect Joe Biden is expected to revert to a more conventional approach to negotiating with North Korea—one that mixes pressure with what he calls “principled diplomacy.”"
+    publishedDateTime: 2020-11-15T21:00:00Z
+    webUrl: "https://www.wsj.com/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
+    ampWebUrl: "https://www.wsj.com/amp/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-260065/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Joe Biden Picks Antony Blinken for Secretary of State"
+    excerpt: "Blinken served as Biden’s top foreign-policy adviser during his presidential campaign after roles in the Obama administration."
+    publishedDateTime: 2020-11-23T09:22:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-263491/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Joe Biden’s Transition and Cabinet Picks: What Happens Next"
     excerpt: "The president-elect’s team now has access to cybersecurity assistance, FBI background checks for prospective nominees, the ability to see classified information—and more intelligence sharing."
@@ -239,21 +287,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "BLM supporters continue to protest Biden's consideration of LA Mayor Garcetti for cabinet"
-    excerpt: "Black Lives Matter activists protested outside the home of Los Angeles Mayor Eric Garcetti to protest the mayor’s potential nomination to President-elect Joe Biden’s cabinet."
-    publishedDateTime: 2020-11-28T20:30:00Z
-    webUrl: "https://www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet"
-    ampWebUrl: "https://www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-supporters-protest-bidens-mayor-garcetti-cabinet.amp"
+  - title: "Possible Biden education chief Randi Weingarten once caught plagiarizing speech"
+    excerpt: "American Federation of Teachers head Randi Weingarten -- who is reportedly being considered for a cabinet position by President-elect Joe Biden -- gave a speech found to contain plagiarism in 2011."
+    publishedDateTime: 2020-11-13T17:32:00Z
+    webUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 126
+    quality: 131
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9c7e661-973a-421d-9d3c-c492d013a8c8/0f7df908-dfcb-4ff5-a3e7-cb7708020b06/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-961473338.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden's expected secretary of state pick Blinken criticized over Iraq War, consulting work"
     excerpt: "President-elect Joe Biden's expected pick for secretary of state received criticism for his recent consulting work and early support for the Iraq War as outlets reported Antony Blinken would soon be announced for the post."
@@ -271,6 +319,29 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris: Biden Cabinet Nominees Have \"Unwavering Belief In America's Ideals\""
+    excerpt: "Elect Joe Biden's announcement of diplomatic and foreign policy cabinet picks on Tuesday. VICE PRESIDENT-ELECT KAMALA HARRIS: President-Elect Biden and I have long known that when we were elected we would inherit a series of unprecedented challenges upon walking into the White House."
+    publishedDateTime: 2020-11-24T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/24/kamala_harris_biden_cabinet_nominees_have_unwavering_belief_in_americas_ideals.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 74
+    images:
+      - url: "https://assets.realclear.com/images/52/528073.jpg"
+        width: 946
+        height: 708
+        isCached: true
+  - title: "Biden Won't Be Able to Put Out the Partisan Fires He Stoked"
+    excerpt: "Throughout his campaign, presumptive President-elect Joe Biden said that there were no red states, no blue states, just the United States. Read Full Article »"
+    publishedDateTime: 2020-11-12T20:28:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/12/biden_wont_be_able_to_put_out_the_partisan_fires_he_stoked_529142.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "alZWLBEPgzFQvprYwqCxY7LFMMifqsxec524hLPygn35pRL6q4yXT7WKyE7Vgv/owCOujZiOXqkpjPR7+SoFcXGKOHxSbc0gUOSUFdqthE59qT+E+A2U98rwrZyly05tFJtweNOzJ8teTlsmw7FcjmqqZtpK/iYiKBeWn20ntut0u32OZtjog4iiEL/33Po1Ti3Y5k7mQYrLPLv8uKujbEirIOt1oVjFhY6PVxL29msIxg5yoQ1KYZuBatrPqu1pfLh4gBhhkrjLwXZKoZHjsKQcVFO0GJ0bpruA/XXR3UHGOU/Bc3oqeBvIxqK/qYqPuz6aH1IZ+jjbf6N7STpJPHnT7OQ8rzW6owWxy1j9N1I=;Fe/Rq7DrGhfeXo7OpFa2OA=="
 ---

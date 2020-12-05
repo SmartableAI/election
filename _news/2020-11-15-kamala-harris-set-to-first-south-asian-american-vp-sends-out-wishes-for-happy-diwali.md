@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-tw
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/"
 type: article
 quality: 117
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/08/2ae37ba1-b020-440a-a699-8f8450de0535/thumbnail/1200x630g2/8212c093415d0ff56d89a07be0bde9d2/2020-11-08t014600z-1312344614-rc2pyj9y91ci-rtrmadp-3-usa-election-biden.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Indian-Americans Rejoice As Kamala Harris Prepares To Become The Next Vice President"
+    excerpt: "Harris will not only be the first Black, and first female, vice president. She's also the first Indian American and the first Asian American elected to the office."
+    publishedDateTime: 2020-11-08T18:21:00Z
+    webUrl: "https://www.npr.org/sections/live-updates-2020-election-results/2020/11/08/932824125/indian-americans-rejoice-as-kamala-harris-prepares-to-become-the-next-vice-presi"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 98
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/08/gettyimages-1229520920_wide-5986925f0c5feb3f27267ddfb075420cacb31e92.jpg?s=1400"
+        width: 1400
+        height: 786
         isCached: true
   - title: "What Kamala Harris’ historic win means to Indian Americans"
     excerpt: "Kamala Harris’ win has political significance for the Indian American community, which is still only about 1% of the nation’s population. Her August nomination highlighted unprecedented momentum for campaigning targeting our community."

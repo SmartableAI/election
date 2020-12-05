@@ -63,20 +63,6 @@ related:
         width: 1024
         height: 724
         isCached: true
-  - title: "Kamala Harris on ‘the difference between charity and duty’"
-    excerpt: "Vice President-elect Kamala Harris spoke about Americans “duty\" to their communities during a Thanksgiving address at D.C. Central Kitchen on Nov. 25."
-    publishedDateTime: 2020-11-25T23:30:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/kamala-harris-on-the-difference-between-charity-and-duty/2020/11/25/099aab8d-7b0f-4e43-b68b-2eb58225965a_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-25-2020/t_4123531793634076a85e79a952ef5903_name_harris.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
   - title: "GOP Congressman Steve King Faces Backlash for Asking Kamala Harris if She Is Descended From 'Slaves or Slave Owners'"
     excerpt: "\"Who's going to tell him how Black people got to Jamaica and how some of their descendants wound up with European blood?\" said Joy Reid."
     publishedDateTime: 2020-11-22T21:47:00Z
@@ -122,22 +108,6 @@ related:
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e590aaec-8799-41c3-8d16-7496b0ae6828-USP_News__Election_2020_-_Joe_Biden_Kamala_Harris.jpg?auto=webp&crop=5100,2869,x0,y190&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris Shares Her Family's Favorite Cornbread Dressing Recipe"
-    excerpt: "With Thanksgiving only a couple days away, Vice President-elect Kamala Harris decided to share her recipe for cornbread dressing. “During difficult times I have always turned to cooking,” she wrote in an Instagram post on Tuesday with her recipe."
-    publishedDateTime: 2020-11-25T16:14:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-shares-her-familys-favorite-cornbread-dressing-recipe/2745847/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-shares-her-familys-favorite-cornbread-dressing-recipe/2745847/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/kamala-harris-shares-her-familys-favorite-cornbread-dressing-recipe/2745847/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
-    images:
-      - url: "https://media.nbcnewyork.com/2020/11/kamala-harris-cornbread-dressing-te-main-201125_e8382611305aa6bff826a8c0e0dfe593.fit-2000w.jpg?resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true

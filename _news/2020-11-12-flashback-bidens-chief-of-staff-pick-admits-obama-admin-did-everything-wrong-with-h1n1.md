@@ -96,21 +96,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Chris Wallace: 'Joe Biden may have been done a favor if Republicans hold the Senate'"
-    excerpt: "The GOP holding the Senate majority would work in President-elect Joe Biden’s favor, \"Fox News Sunday\" host Chris Wallace told Fox News Radio's “The Brian Kilmeade Show” on Thursday."
-    publishedDateTime: 2020-11-12T21:26:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xo_1sGtA8Xo/chris-wallace-joe-biden-gop-senate-georgia-runoffs"
-    ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-joe-biden-gop-senate-georgia-runoffs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-joe-biden-gop-senate-georgia-runoffs.amp"
+  - title: "US-China relationship remains a challenge for Biden amid Hong Kong struggles"
+    excerpt: "Chinese President Xi Jinping is one of the few major super powers yet to congratulate president-elect Joe Biden on his presidential win, though this is unlikely to further tamper the slew of foreign policy challenges facing U.S.-China relations."
+    publishedDateTime: 2020-11-12T02:48:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KxNaIm84qMs/us-china-relationship-challenge-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/us-china-relationship-challenge-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-china-relationship-challenge-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8419c359-d988-43d2-a50c-f30f8e478624/000564f8-cd7e-46c0-a921-27cb7fc5fc8c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Bernie Sanders confirms interest in Labor Secretary job under Biden administration"
+    excerpt: "Sanders was routinely critical of Biden's policy record on the campaign trail, but ultimately endorsed him for president."
+    publishedDateTime: 2020-11-12T02:28:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RmU2xvYx31Y/bernie-sanders-confirms-interest-labor-secretary-job-under-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-confirms-interest-labor-secretary-job-under-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-confirms-interest-labor-secretary-job-under-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b76b2b0f-fcb9-48aa-b2b1-a51905a51954/44349009-d613-4890-9a79-b7cf9e14182a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Some Catholics sounding alarm about Biden administration, conflicts with moral teachings"
     excerpt: "Some Catholic groups and leaders are warning that President-elect Biden would, despite being a member of the faith, enact harmful policies and create confusion about church teachings."
@@ -191,22 +207,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "What Are Joe Biden’s Plans for Covid-19?"
-    excerpt: "The president-elect has proposed steps designed to up production of tests, protective equipment and vaccines, and is also expected to target problem areas and pursue economic stimulus."
-    publishedDateTime: 2020-11-13T18:27:00Z
-    webUrl: "https://www.wsj.com/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    ampWebUrl: "https://www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-259713/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "eOr1lwu8ziTxM/mTKVP4Kxp9POey23uWdBn1ZGoHo+mpCujRLFgFqJEPIddmpMmKoD9+pYGkAxUjNGSgV3v6vDEltbqZ2vVAYwOKDCoLd/RQfDwjPNMvV+gMeYZDPQxSDmgtB1V/IClaar4QSUiemVdKOQ/gUGBzpCT3+Jcgy1YVaESwpl2Qwer0C3/FPHBtFMDWpzBIZ0nk2rxxSdIIN+KrbBTGqs3CpBL9ZPe9eBD13ZswZKE0Rs950IKjIoBfvf3rxjpFCWrIUHKnsipUO+Yhv3cM3SMNrNd7OheSEVC+xu+XLArS8bM1Jmu5pPuYsIiAx4uty18U4iOYipPpiTdhX7MAXK4T02gDYbn7tmk=;MzKjJtp8DaFUC/+wms6AfA=="

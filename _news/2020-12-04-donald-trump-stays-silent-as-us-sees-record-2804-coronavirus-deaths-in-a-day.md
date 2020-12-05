@@ -31,85 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Schumer calls Trump 'a moron' over coronavirus response"
-    excerpt: "Senate Minority Leader Charles Schumer (D-N.Y.) on Thursday said the federal government is failing to react appropriately to surging coronavirus cases around the country because President Trump is “a moron."
-    publishedDateTime: 2020-10-30T00:00:00Z
-    webUrl: "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show"
-    ampWebUrl: "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/schumercharles_102620gn5_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Here’s Why Trump And Cuomo Are Feuding Over A Coronavirus Vaccine"
-    excerpt: "Trump threatened to withhold a vaccine from New York after Cuomo repeatedly declared Trump's distribution plan and safety measures inadequate."
-    publishedDateTime: 2020-11-14T20:08:00Z
-    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb0383d7d6d2fcf305dc324%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5950%26cropY1%3D57%26cropY2%3D3479"
-        width: 1200
-        height: 690
-        isCached: true
-  - title: "Donald Trump Jr tests positive for coronavirus – as it happened"
-    excerpt: "President’s eldest son tested positive for Covid-19 earlier this week, spokesman said, and is fourth member of Trump family to contract virus"
-    publishedDateTime: 2020-11-20T20:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb86a6f8f087f6ff1099ed6"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+  - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live updates"
+    excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
+    publishedDateTime: 2020-12-02T14:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates?page=with:block-5fc77f578f08c1b9f1358496"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 125
+    quality: 130
     images:
-      - url: "https://i.guim.co.uk/img/media/d6e38cf16120655d6f33182716bf34403d310069/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7d3646efad6165b44747fe4ae85d0375"
+      - url: "https://i.guim.co.uk/img/media/be52e726131e6fc701bed4467ec98eeae8bcf0f1/533_0_5467_3280/master/5467.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43aeecc3f1120f55f6e477d2f29152ed"
         width: 600
         height: 360
         isCached: true
-  - title: "Donald Trump Jr tests positive for coronavirus – live"
-    excerpt: "President’s eldest son tested positive for Covid-19 earlier this week, spokesman said, and is fourth member of Trump family to contract virus"
-    publishedDateTime: 2020-11-21T01:11:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb85c988f087f6ff1099e70"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+  - title: "Trump remains silent as US passes 250,000 COVID-19 deaths"
+    excerpt: "The White House did not respond to repeated inquiries from ABC News on whether Trump had any plans to recognize the more than 250,000 reported deaths related to COVID-19, although"
+    publishedDateTime: 2020-11-19T20:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/d6e38cf16120655d6f33182716bf34403d310069/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7d3646efad6165b44747fe4ae85d0375"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump to appear at virtual G-20 as coronavirus ravages the globe"
-    excerpt: "After days of noncommittal silence, the White House finally confirmed late Friday afternoon — less than 24 hours before the global summit’s scheduled start — that President Trump would participate. It’s just the latest reminder that during this once-in-a-century health and economic emergency,"
-    publishedDateTime: 2020-11-20T22:28:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PRL5GWBHRQI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/coronavirus-deaths-memorial-rtr-jc-201119_1605805254490_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump says coronavirus vaccine deliveries to begin next week"
     excerpt: "U.S. President Donald Trump said on Thursday that delivery of the coronavirus vaccine would begin next week and the week after."
@@ -127,265 +79,145 @@ related:
         width: 899
         height: 545
         isCached: true
-  - title: "Scott Atlas resigns as special adviser to Trump on coronavirus"
-    excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump, a White House official said on Monday, after a controversial four months during which he clashed repeatedly with other members of the coronavirus task force."
-    publishedDateTime: 2020-12-01T01:43:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-atlas-idUSKBN28B3AS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
+  - title: "The Note: Deadlines and dead ends pile up losses for Trump"
+    excerpt: "The weekend brought an end to Wisconsin's partial recount -- as funded by the Trump campaign -- with President-elect Joe Biden actually netting 87 additional votes, in results sch"
+    publishedDateTime: 2020-11-30T11:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-gty-ml-201127_1606495893630_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Here are 3 retired generals who embraced bizarre Trump conspiracies"
+    excerpt: "These highly decorated military generals promoted baseless claims from the conspiracy theory movement."
+    publishedDateTime: 2020-12-03T22:47:00Z
+    webUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f739ab60ab50d00184ad213?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "U.S. Congress defense bill defies Trump on Germany withdrawal, base names"
+    excerpt: "U.S. lawmakers unveiled the final version of a massive annual defense policy bill on Thursday that defies President Donald Trump's plans to withdraw troops from Germany and keep the names of Confederate generals on military bases,"
+    publishedDateTime: 2020-12-04T08:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28E0Y5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E0Y5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E0Y5"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542984625&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01U3"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543432218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30GH"
         width: 817
         height: 545
         isCached: true
-  - title: "Mike Pence will not quarantine after four aides test positive for coronavirus"
-    excerpt: "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said."
-    publishedDateTime: 2020-10-25T19:24:00Z
-    webUrl: "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
+  - title: "For Trump advocate Sidney Powell, a playbook steeped in conspiracy theories"
+    excerpt: "The appellate lawyer has emerged as a key voice on the far right, fueling skepticism that Joe Biden rightfully won presidential contests in key battleground states."
+    publishedDateTime: 2020-11-28T22:39:00Z
+    webUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump to meet next week with industry, government officials on COVID vaccine"
+    excerpt: "President Donald Trump will gather leaders from industry and government next week for a summit on the coronavirus vaccine, the White House said on Tuesday, as the outgoing president seeks to emphasize his role in the speedy development of a vaccine."
+    publishedDateTime: 2020-12-01T21:07:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-vaccines-trump-idUSKBN28B69R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B69R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B69R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 122
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106758775-16034587192020-10-23t130410z_459438327_rc2doj9e42yw_rtrmadp_0_usa-election.jpeg?v=1603458769"
-        width: 2965
-        height: 1977
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543100580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03HX"
+        width: 886
+        height: 545
         isCached: true
-  - title: "Joe Biden lays out a detailed plan to fight coronavirus as new infections soar"
-    excerpt: "Biden's plan would effectively nationalize mask wearing, Covid-19 testing, PPE procurement, reopening guidelines and vaccine distribution."
-    publishedDateTime: 2020-10-23T21:54:00Z
-    webUrl: "https://www.cnbc.com/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 121
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106759351-16034839162020-10-23t193614z_543779170_rc2joj9bymez_rtrmadp_0_usa-election-biden.jpeg?v=1603483967"
-        width: 3500
-        height: 2314
-        isCached: true
-  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
-    excerpt: "Vice President Mike Pence's chief of staff and his senior political adviser have tested positive for COVID-19, according to reports."
-    publishedDateTime: 2020-10-25T10:16:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6028911002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6028911002"
+  - title: "Live political updates: President Trump expected to spend Thanksgiving at the White House"
+    excerpt: "President Donald Trump and the first lady will be spending Thanksgiving at the White House for the first time since he began his tenure as president instead of at his Mar-a-Lago club in Florida. It is uncertain whether the change in scenery is attributable to the rising number of coronavirus cases,"
+    publishedDateTime: 2020-11-26T15:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/26/trump-thanksgiving-political-updates/6430438002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6430438002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6430438002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 115
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump Jr., the president’s eldest son, tests positive for the coronavirus, spokesperson says"
-    excerpt: "Donald Trump Jr., the eldest son of President Donald Trump, was quarantining Friday after learning he has been infected with the coronavirus, a spokesperson said."
-    publishedDateTime: 2020-11-20T23:46:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-donald-trump-jr-covid19-20201120-5wtzb4nqznc2hi5aesmbdkvlmi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-donald-trump-jr-covid19-20201120-5wtzb4nqznc2hi5aesmbdkvlmi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-donald-trump-jr-covid19-20201120-5wtzb4nqznc2hi5aesmbdkvlmi-story.html?outputType=amp"
+  - title: "US Covid response in chaos as controversial Trump pandemic adviser Atlas resigns – live updates"
+    excerpt: "Country sees 28th consecutive day with over 100,000 new coronavirus cases recorded – follow all the latest news live"
+    publishedDateTime: 2020-12-01T14:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc655ad8f08ca673e8551c2"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 111
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
     images:
-      - url: "https://www.chicagotribune.com/resizer/BJz1b_CZfapJFbcKHYJAxdneffw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/REJGIQUBZMDXOQG7HZBR4PB6LI.aspx"
-        width: 1200
-        height: 800
+      - url: "https://i.guim.co.uk/img/media/6fb3812a919f54bcc052e8e0a9d077e79c2117cf/0_353_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2bdffa1eb06c9220edf46de05f129f37"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Trump says coronavirus vaccines may be approved by year's end"
-    excerpt: "President Trump spoke in public for the first time in more than a week, saying two coronavirus vaccines could be approved by the end of the year and available to Americans as soon as April. Ben Tracy has more."
-    publishedDateTime: 2020-11-14T00:09:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-says-coronavirus-vaccines-may-be-approved-by-years-end/"
+  - title: "The Daily 202: Ousted U.S. attorney, removed by Barr as he investigated Trump associates, lands new job"
+    excerpt: "During a noon meeting in a suite at the Pierre hotel in Manhattan on a Friday in June, Attorney General Bill Barr pressured Geoffrey Berman to step aside as the U.S. attorney for the Southern District of New York."
+    publishedDateTime: 2020-12-01T16:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/13/e3c98bf0-6b23-4f19-86df-04f641f2dee2/thumbnail/1200x630/910ad882516943167431f634b5b1cdb3/cbsn-fusion-trump-says-coronavirus-vaccines-may-be-approved-by-years-end-thumbnail-587778-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IAW7TCUQP5FAVGSQ44D7LNWC7Y&w=1440"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Donald Trump Jr. Tests Positive For The Coronavirus"
-    excerpt: "The president's son, who announced his diagnosis on Instagram, said he has no symptoms and feels fine. Trump Jr. said he plans to quarantine and \"take it seriously.\""
-    publishedDateTime: 2020-11-21T16:54:00Z
-    webUrl: "https://www.npr.org/2020/11/21/937574684/donald-trump-jr-tests-positive-for-the-coronavirus"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/11/21/ap_20325834765888_wide-c0ccca04b1e02e8ea0ac59c4d149f229f64d7718.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Scott Atlas resigns as special adviser to Trump on coronavirus -Fox News"
-    excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump on the coronavirus, Fox News reported on Monday, after a controversial four months at the White House in which he clashed repeatedly with other members of the task force responding to the deadly"
-    publishedDateTime: 2020-12-01T01:45:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-atlas-idUSW1N2HQ0F6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HQ0F6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HQ0F6"
+  - title: "Trump to meet COVID-19 vaccine makers, distributors next week: Stat News"
+    excerpt: "The Trump administration has invited vaccine manufacturers, drug distributors and government officials to a COVID-19 Vaccine Summit next week at the White House, Stat News reported on Tuesday, citing an invitation obtained by the news organization."
+    publishedDateTime: 2020-12-01T18:24:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-vaccines/trump-to-meet-covid-19-vaccine-makers-distributors-next-week-stat-news-idUSKBN28B5TV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TV"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 104
-  - title: "Multiple people in Vice President Mike Pence's orbit test positive for the coronavirus"
-    excerpt: "Vice President Mike Pence will not quarantine after multiple people in his orbit test positive for the coronavirus. Pence's press secretary says the vice president is essential personnel and will maintain his schedule."
-    publishedDateTime: 2020-10-26T12:35:00Z
-    webUrl: "https://www.cbsnews.com/video/multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/ea344a62-27f3-43f3-bc18-064eec3db129/thumbnail/1200x630/2b643b630ac6e7dca1e24427c4417fa2/cbsn-fusion-multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus-thumbnail-574507-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump Let the Right Make Him the Herbert Hoover of the Coronavirus"
-    excerpt: "Perhaps we will look back at the 2020 election and conclude that Donald Trump, who was always going to be Donald Trump, never had a chance to beat an opponent who led him in virtually every poll ..."
-    publishedDateTime: 2020-10-26T15:54:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/10/donald-trump-lose-election-coronavirus-control-pandemic-masks-atlas.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/10/donald-trump-lose-election-coronavirus-control-pandemic-masks-atlas.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/10/donald-trump-lose-election-coronavirus-control-pandemic-masks-atlas.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/c35/fbc/be3c8f77bbd298d4996104b93d272c6164-donald-trump.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mike Pence's chief of staff, top adviser both test positive for coronavirus"
-    excerpt: "Sources tell ABC News, Marc Short, Chief of Staff to the Vice President Mike Pence has tested positive for COVID-19. And top adviser Marty Obst has also tested positive for coronavirus earlier ..."
-    publishedDateTime: 2020-10-25T03:43:00Z
-    webUrl: "https://abc7.com/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
-    ampWebUrl: "https://abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 73
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7316573_102420-ap-mike-pence-img.jpg"
-        width: 3422
-        height: 2281
-        isCached: true
-  - title: "VP Mike Pence to continue campaigning after chief of staff tests positive for coronavirus"
-    excerpt: "Pence spokesman Devin O’Malley said Pence and his wife, Karen Pence, both tested negative for the virus on Saturday."
-    publishedDateTime: 2020-10-25T03:34:00Z
-    webUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/"
-    ampWebUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 66
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2020/10/Virus-Outbreak-Pence-16x9-1-1.jpg?w=1024&h=579"
-        width: 1024
-        height: 579
-        isCached: true
-  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
-    excerpt: "Vice President Mike Pence's chief of staff and his senior political adviser have tested positive for COVID-19, according to reports."
-    publishedDateTime: 2020-10-25T18:11:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/6028911002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6028911002"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Legendary Florida State coach Bobby Bowden says he beat coronavirus to vote for Donald Trump"
-    excerpt: "The Florida State coaching legend added another win to his career total, it just didn’t come on a football field. Bowden, 91, beat coronavirus. His motivation? He says it was so he could participate in the presidential election in November."
-    publishedDateTime: 2020-10-22T14:44:00Z
-    webUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html"
-    ampWebUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 64
-    images:
-      - url: "https://www.nydailynews.com/resizer/n86PgTsxzNsdGCH3r9bUqsW9kQo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7VS5ZK3VDHRSTYX6YFC7QYAD7A.aspx"
-        width: 1200
-        height: 816
-        isCached: true
-  - title: "Trump Spox Hogan Gidley Says He Doesn’t Want to ‘Quibble Over Semantics’ on WH Claim Trump Ended Coronavirus"
-    excerpt: "Hogan Gidley, press secretary for President Donald Trump's campaign, was grilled about the claim that one of Trump's accomplishments has been \"ending the Covid-19 pandemic,\" and responded by referring to the false claim as a matter of \"semantics."
-    publishedDateTime: 2020-10-28T22:34:00Z
-    webUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/"
-    ampWebUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 56
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Alisyn-Camerota-Hogan-Gidley-10-28.jpg"
-        width: 1200
-        height: 624
-        isCached: true
-  - title: "Trump's Controversial Coronavirus Advisor Resigns: Report"
-    excerpt: "One of President Donald Trump's favored coronavirus advisors who sparked controversy over his comments against mask-wearing and other issues has resigned, US media reported Monday. Fox News obtained the resignation letter dated December 1 for Scott Atlas,"
-    publishedDateTime: 2020-12-01T01:05:00Z
-    webUrl: "https://www.ibtimes.com/trumps-controversial-coronavirus-advisor-resigns-report-3091738"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/30/dr-scott-atlas-pictured-october-one-of-president.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "North Carolina campaigns continue for Vice President Mike Pence after chief of staff tests positive for coronavirus"
-    excerpt: "Vice President Mike Pence will campaign in North Carolina Sunday after his chief of staff tested positive for the coronavirus."
-    publishedDateTime: 2020-10-27T20:14:00Z
-    webUrl: "https://www.wxii12.com/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
-    ampWebUrl: "https://www.wxii12.com/amp/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
-    cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
-    type: article
-    provider:
-      name: WXII12
-      domain: wxii12.com
-    quality: 53
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/1000-19-1603642733.jpeg?crop=1.00xw:0.846xh;0,0.0685xh&resize=1200:*"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "L8yUOEH8iPhtW7HKmLyNo+9ea2WTIXhai5E9jvb+JYyjZfdfwC1xsNA/VHuI5gLUAyr8P8efxMaX9V0dOySdggYAG8y5QD9fxB4/FV109ZbqrJCHf7qioLaai/hc5QP0sXykmHJBRtJQpV3xwjG3khlf1TrAXjYV8rFJUQr7A2WqIgQd3qBpYQGqxrX/9LmSVCLyT89zH+ihpmQ2gTm06yLp+Qvq2vYsJISArx8LLe1B3T7oPvSu0LL1nGIkzSRUN4evSxgVKbWEuYJ2ZooKiZt7umNzeEP5Pf0+/bKkAzKgzpH9Rpt9fDMWp4EFdeKHOgZ4tRYx1YgpRuuCwE+d7yifExfm/HbB6bZ7Pu8gicB0+LvtjsLFGccD3qvj0/FPNzcpCtcaqbueBW6zZTyp1BO40Rq70z3wz32Hpc9Nnp5RhWzpACxvGYyUdzqXzM/SLU6JKSINe5TyL763xQw92kWOKPBYcDRLqxRq6HqKKdNA7XS1VvIhh9SHLdO7z0mzyj6ZHY7+wYevFbajOQlgDg==;Bgy5vvNENjv3G8KG5d+NhQ=="
 ---

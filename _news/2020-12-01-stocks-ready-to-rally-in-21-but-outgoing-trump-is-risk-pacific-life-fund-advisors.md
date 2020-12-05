@@ -47,53 +47,59 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Barr sees no sign of major U.S. vote fraud despite Trump's claims"
-    excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department has found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
-    publishedDateTime: 2020-12-02T10:11:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28B5UK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28B5UK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28B5UK"
+  - title: "Mary Trump’s next book probes ‘America’s national trauma’ under Trump presidency"
+    excerpt: "Mary Trump's \"The Reckoning,\" a follow-up to the bestselling exposé she wrote about her uncle Donald, will examine how \"America is suffering from PTSD.\""
+    publishedDateTime: 2020-12-02T20:03:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump"
+    ampWebUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2020-12-02/mary-trump-second-book-the-reckoning-president-trump?_amp=true"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
-        width: 1022
-        height: 545
-        isCached: true
-  - title: "Despite Trump's continued claims, Barr sees no sign of major U.S. vote fraud"
-    excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department had found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
-    publishedDateTime: 2020-12-02T01:52:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-idAFKBN28B5UH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28B5UH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28B5UH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543116416&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03NK"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "U.S. Supreme Court weighs Trump bid to bar illegal immigrants from census totals"
-    excerpt: "The Supreme Court on Monday is set to take up President Donald Trump's unprecedented and contentious effort to exclude illegal immigrants from the population totals used to allocate U.S. House of Representatives districts to states."
-    publishedDateTime: 2020-11-29T12:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN2890F4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890F4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890F4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 120
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542800006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS09M"
-        width: 817
-        height: 545
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ce164d8/2147483647/strip/true/crop/3000x1959+0+77/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2F60%2Fdff1233a4316bfb87aa7e431a470%2Ftrump-taj-mahal-opening-06047.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "FDA chief called to White House as Trump pushes for vaccine"
+    excerpt: "The head of the agency responsible for approving any COVID-19 vaccine for the U.S. was summoned to the White House Tuesday as an increasingly frustrated President Donald Trump complained approval wasn't coming faster."
+    publishedDateTime: 2020-12-02T01:57:00Z
+    webUrl: "https://www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fda-chief-called-to-white-house-as-trump-pushes-for-vaccine-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "U.S. Senate panel votes to approve Trump FCC nominee"
+    excerpt: "The U.S. Senate Commerce Committee voted on Wednesday to approve the nomination of a senior Trump administration official involved in an effort to seek new social media regulations to a seat on the Federal Communications Commission."
+    publishedDateTime: 2020-12-02T15:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-tech-idUSL1N2II1LY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2II1LY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1LY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "An anonymous group of top US CEOs said they would hold off acting against Trump until after the Georgia recount. It's done."
+    excerpt: "The CEOs said they only had limited patience for Trump's attempts to dispute the election results, according to the Associated Press."
+    publishedDateTime: 2020-11-20T11:53:00Z
+    webUrl: "https://www.businessinsider.com/georgia-recount-done-top-ceos-were-waiting-act-against-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/georgia-recount-done-top-ceos-were-waiting-act-against-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-recount-done-top-ceos-were-waiting-act-against-trump-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/5fb7a12450e71a0011556684?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "qQhckgtEoi7lJO2rVRJzGUtKBuDF+9oJsUsp5E3LymgySCV1duHiDiCfUhDc9KqatIwCYSzNV0kU7XRDRcKXq//s71EvtFhWX/AyGTDAOJMhsjK5DQjBo+5By0E2j/RYuc/fxa2hIKKEbMK1NTyZfyydRJzC1XwWGI1hNSeZNT2kp8oinYuGv9I7RW/xquwa+gGP9FevVmKImL9OlqObekUpohlrO6rVEt/fkkl80E98hZaPgygCVDq33l6g3ebEyiWl44KxV0HXUPZAR+FN3fvJMe2QQGDuaEf+RM0JvxNhyikERkv0KHD15fYSORV0zSKBRWA3+em7kv3LU6Qf72BUlyGyIm71DaK0dQY3J6c=;gWPWuswkTxCJ4IbniJxX4Q=="

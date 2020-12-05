@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence heading to Florida for some time off"
-    excerpt: "Vice President Mike Pence appears ready to take some time off a week after the election and is scheduled to travel to Sanibel this week."
-    publishedDateTime: 2020-11-09T20:30:00Z
-    webUrl: "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html"
-    ampWebUrl: "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
+  - title: "Mike Pence heading to Florida vacation island"
+    excerpt: "Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday, according to the Federal Aviation Administration."
+    publishedDateTime: 2020-11-09T14:50:00Z
+    webUrl: "https://www.newsday.com/news/nation/mike-pence-faa-sanibel-1.50061089"
+    ampWebUrl: "https://www.newsday.com/amp/news/nation/mike-pence-faa-sanibel-1.50061089"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/nation/mike-pence-faa-sanibel-1.50061089"
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
+      name: Newsday
+      domain: newsday.com
     quality: 75
     images:
-      - url: "https://www.orlandosentinel.com/resizer/QdFXkmhBXzHQxxU8fmvKKjwxr2w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SEX4UHCYTJSBVUHFJBBID32F7M.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.newsday.com/polopoly_fs/1.50061090.1604940614!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "The Latest: Mike Pence heading to Florida vacation island"
+    excerpt: "President-elect Joe Biden has announced the members of his coronavirus task force, which will put together a blueprint for fighting the pandemic."
+    publishedDateTime: 2020-11-09T14:26:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/09/the-latest-mike-pence-heading-to-florida-vacation-island/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/09/the-latest-mike-pence-heading-to-florida-vacation-island/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/09/the-latest-mike-pence-heading-to-florida-vacation-island/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/Biden_53500-1.jpg?w=1024&h=799"
+        width: 1024
+        height: 799
         isCached: true
   - title: "Mike Pence heading to Florida vacation island for the rest of the week"
     excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to"
@@ -58,6 +74,38 @@ related:
       - url: "https://fox40.com/wp-content/uploads/sites/13/2020/11/pence2b.jpg?w=1280"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Mike Pence heading to Florida vacation island"
+    excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to"
+    publishedDateTime: 2020-11-09T17:31:00Z
+    webUrl: "https://www.wwlp.com/news/mike-pence-heading-to-florida-vacation-island/"
+    ampWebUrl: "https://www.wwlp.com/news/mike-pence-heading-to-florida-vacation-island/amp/"
+    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/mike-pence-heading-to-florida-vacation-island/amp/"
+    type: article
+    provider:
+      name: WWLP
+      domain: wwlp.com
+    quality: 75
+    images:
+      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2020/11/pence2b.jpg?w=1280"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Latest: Mike Pence heading to Florida vacation island"
+    excerpt: "WASHINGTON (AP) \" The Latest on President-elect Joe Biden (all times local): 9 p.m. International observers from the Organization of American States"
+    publishedDateTime: 2020-11-10T03:52:00Z
+    webUrl: "https://www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote"
+    ampWebUrl: "https://www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote?template=ampart"
+    cdnAmpWebUrl: "https://www-heraldnews-com.cdn.ampproject.org/c/s/www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote?template=ampart"
+    type: article
+    provider:
+      name: The Herald News
+      domain: heraldnews.com
+    quality: 75
+    images:
+      - url: "https://www.heraldnews.com/storyimage/ZZ/20201109/NEWS/311099982/AR/0/AR-311099982.jpg?MaxW=600"
+        width: 512
+        height: 341
         isCached: true
   - title: "VP Mike Pence is taking a vacation in Florida. But he’s not going to Disney World"
     excerpt: "Being vice president is a tough job. Especially one who has just been voted out of office and is fighting to stay in it."
