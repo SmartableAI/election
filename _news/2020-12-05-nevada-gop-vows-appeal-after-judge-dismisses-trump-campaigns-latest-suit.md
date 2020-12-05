@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Giuliani blames GOP legislators for letting down Trump as other court cases get dismissed"
+    excerpt: "After weeks of failed lawsuits, the Trump campaign suffered another blow in a late Thursday-night Supreme Court decision rejecting the campaign's efforts to reverse Pennsylvania’s election results."
+    publishedDateTime: 2020-12-05T03:09:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MG0A05vuu3Y/giuliani-gop-legislators-let-down-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/giuliani-gop-legislators-let-down-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-gop-legislators-let-down-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f1e9ef4-9f2c-4d69-ad79-d689751c9a41/45d541b2-f2d3-461e-bb28-2f05b3ef8537/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Moves Forward With Changes to Federal Hiring, Firing"
     excerpt: "The Trump administration is rapidly moving forward with a last-minute push to ease hiring and firing standards for many federal workers."
     publishedDateTime: 2020-12-02T14:20:00Z
@@ -94,6 +110,6 @@ related:
         height: 720
         isCached: true
 
-secured: "GX0oC/WgEx6gv9X9ynzUxByoC3HAxMeNzirqiYMsn8Hqy6v6LfAVYWLjIlW+uvdGqchMD/mbMIxu3RRAPOFi5XedPTpGircZM1N3pxjrUvqwp80+EG+Wpej/iXXplGzCQflqi+XtQH2UFy6+xJ5fqEU6fmwBMOH9ORTdjNv2tvspmScSUVzfm5s2vOwUkcjfW7Ku4YuZLETxDcx15fZc16nnwMnu+wp/wQkymhKG8udJPxozxFYmxD1gsJM74ZCQv3SMxI7t7787+0iOQFyyf00Gc61VExhW2/KA2MFTBAs1spbt5IPq3XuX9W+XGMxpxfY9WiSQWBNQ34gytNWUEYrC2KuwrzuNtyOxUWAa4iU=;uy/bkmNHs39zoqyuULlbAg=="
+secured: "bC+gEeCBerpcg6FRWZV+5yMyXTSS8MoPN5/2xqRtR/cb69l5/mAel6MPxypgpMv0lINMhRv7Eq3oDRs36CarU79FRHGl1H6xeRmXktzbJphLrpgINcajZ1xQZL9TRrXfpont+tmU80NiKEEEWE/ydHl72OsF/XL0f8To3XpapxQWZ20D1Ga63yB6MiwR1v2IT+7bahwfLyecBP/9fWRA0RWj5jeqVQCy2GqOoringC0GeBD1ZXWzgZNlLB8ekllDs1kDaCkEtww+x2IR/vi5aVDx0dnqexaNZzFZogdnAfUEVqtL4wFCozH7UaujD/I67xCsFqa0iXOWVa63XF7Uc5+MvNao0kE30xzT9tCHung=;KbhbuwRNSKud+Gk6nwXURQ=="
 ---
 

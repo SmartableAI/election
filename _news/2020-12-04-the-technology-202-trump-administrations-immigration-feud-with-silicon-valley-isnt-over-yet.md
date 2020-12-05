@@ -271,6 +271,17 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "EXPLAINER: Trump's failing, monthlong fight against election"
+    excerpt: "President Donald Trump's frantic effort in the courts to delegitimize an election he lost has come no closer in a month to reversing any results."
+    publishedDateTime: 2020-12-05T03:55:00Z
+    webUrl: "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Killing of suspected Iranian nuclear mastermind risks confrontation as Trump exits"
     excerpt: "An Iranian scientist long suspected by the West of masterminding a secret nuclear bomb programme was killed in an ambush near Tehran on Friday that could provoke confrontation between Iran and its foes in the last weeks of Donald Trump's presidency."
     publishedDateTime: 2020-11-28T12:49:00Z
@@ -381,6 +392,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Nevada judge dismisses Trump effort to overturn the state’s election results, finding campaign failed to prove fraud"
+    excerpt: "The decision represented the latest blow to the Trump campaign’s hopes of using the courts to change the result of the presidential election in the last month."
+    publishedDateTime: 2020-12-05T04:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/nevada-trump-lawsuit-dismissed/2020/12/04/844d420a-3682-11eb-a997-1f4c53d2a747_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/nevada-trump-lawsuit-dismissed/2020/12/04/844d420a-3682-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/nevada-trump-lawsuit-dismissed/2020/12/04/844d420a-3682-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OFFNBRBWQYI6XKMXD5GFHUVHI4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "As Trump's Election Pressure Campaign Hits Republican Officials, Some Hit Back"
     excerpt: "\"History will not be kind to those who are cognizant of the truth and yet choose silence for political expediency,\" said one Republican election official."
     publishedDateTime: 2020-12-04T09:00:00Z
@@ -394,6 +421,22 @@ related:
       - url: "https://media.npr.org/assets/img/2020/12/03/sterling_wide-3846dfa543c96cb7c24beef6010a1e5f9a501f12.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Trump administration pushes out more leading defense advisors as the Pentagon purge continues"
+    excerpt: "The removal of members of the Defense Business Board follows the purge of the Defense Policy Board just last week"
+    publishedDateTime: 2020-12-05T04:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fca82f3037cbd0018613f11?width=1200&format=jpeg"
+        width: 1200
+        height: 599
         isCached: true
   - title: "Donald Trump spent Thanksgiving night railing against Section 230 on Twitter as #DiaperDon went viral"
     excerpt: "Twitter users mocked the president using the hashtag #DiaperDon after he sat at a smaller-than-usual table during a news conference."

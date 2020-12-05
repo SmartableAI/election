@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Here are 9 fascinating facts to know about BlackRock, the world's largest asset manager popping up in the Biden administration"
+    excerpt: "The asset manager has become a force in DC, and two executives with BlackRock on their resumes are set to hold prominent roles in Biden's cabinet."
+    publishedDateTime: 2020-12-04T16:36:00Z
+    webUrl: "https://www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5fc7e5e750e71a00115587a5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "wDzQqdv9+cESmPRjn8h7Bt1pQsnvMQjNpHcVnx03cglGMPX5eK2kFKT7gUBRsfsH2KYF3sV7OrQO0DDBGuKWNYkDHhlkKgwVK+oX4O2gygrtdlCgXdNwLTLu+Si0zygRIw28JJYVjbJtE1aS6pg1CCPcSWWHtHfYHm9hbp1csglGj8KlTLhP1YUHee3b45JGaAWXd15v39jMFD3ayRSBz4AOPKLYOiRZyNPG/0cGTBBhkF0SxzpT+T788TUS2HSrAWS3N6XpeRYKr62N+4kGfi2XovWaliFCfSNK5aAxK08MhPtGPq8zBjrdfWO/3YZgnvoHQGDKRuwRJgwcussgg924yXnrH1gGm37KnjeGY3S/RF6zSwRJv9Gzy2wsHfLhkF33WHt8JDgYpf2AMBoln3X3tkB0slngc36UFtrjvtDXbFY+yAlDJiX+yUxdKQmdxnRNALZqcgKXlmBfdmTSol8gw6lZUzw8vB2AsrzA8LKK7UVQLEOPAudyY8A/h41dSF5WhJ5OlOtY5c67FFP9RQ==;3lr2TzchGOoejak6hqxrbQ=="
 ---

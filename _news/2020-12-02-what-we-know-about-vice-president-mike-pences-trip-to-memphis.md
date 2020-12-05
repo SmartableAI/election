@@ -2,19 +2,19 @@
 category: news
 title: "What we know about Vice President Mike Pence's trip to Memphis"
 excerpt: "Vice President Mike Pence is scheduled to arrive in Memphis at 1 p.m. Thursday afternoon, his office said Wednesday. Air Force Two is scheduled to touch down in Memphis at about 1 p.m. Then, in an airplane hangar at Memphis International Airport,"
-publishedDateTime: 2020-12-02T05:00:00Z
-originalUrl: "https://www.freep.com/story/news/2020/12/02/vice-president-mike-pence-visit-memphis-roundtable-fedex-operation-warp-speed/3794113001/"
-webUrl: "https://www.freep.com/story/news/2020/12/02/vice-president-mike-pence-visit-memphis-roundtable-fedex-operation-warp-speed/3794113001/"
-ampWebUrl: "https://amp.freep.com/amp/3794113001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3794113001"
+publishedDateTime: 2020-12-02T08:00:00Z
+originalUrl: "https://www.azcentral.com/story/news/2020/12/02/vice-president-mike-pence-visit-memphis-roundtable-fedex-operation-warp-speed/3794113001/"
+webUrl: "https://www.azcentral.com/story/news/2020/12/02/vice-president-mike-pence-visit-memphis-roundtable-fedex-operation-warp-speed/3794113001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3794113001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3794113001"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -149,6 +149,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "En+MQ2Mw6CaYZ17M0ZeRJ4L3VPj51AxBfejBk9LrzAzx1iTUY4vw99mfEf5WRZPybzxQ4PSzXsXtqZv58l6aMs68643USrfMu4qWijNjoXWZdFOT0aelobj9GprBgQBYPFevsT8rDr5+yrt4ridDGUP0EIqFKFYyMxvlKp4bolxHhfOIfVGf2ep7pRtDz9wtk5rpqKBOhYcxn0sE5X+uinJnVtnzSLkP2+tAgCtfQP9Q+lZsKxvQO6ZSfBBHhknUTXS6UHK1dT+UCVsyVrvnjdpA4nffnaxuaGZ4Ctlfi3CNpIqGHc8Lr/W4e+C3nE5togC613Wxb7haYhLs+mvWtma/WPOh+611usAzeGd4SVvlbye2jXYzVPOq9XwC44wX3hAP0pt5XgqT/oGh3guq4qMYUbDWz2011CsFP5oLeSart8A7LxylgsmArQuOSZJzZ48VPy6IDp1Pb4lskRudftfQt1bVnFZhtVsJLOaL7tRPE/3mSuXkN3xfCJJJv8qgVX5etmtcwIIhTUCVoYhF0g==;hMYXyCFRQcYBn44S3Bk5+A=="
+secured: "w+x2cpSGurUdsppOQaa96yb7EZqYwqc9MKm9nHdupgZJNB1kjslmj1f+9idjJkXAcbGWioXGyBmLUnSkT8dtRoFu2Xbuqj6hgBRF4wJcXkDNT6Rna1iHjf0sJwelOwNwOpfkyO2z1+ybsV19j9JAX24QQ6i/JzrD99Bqgm24Z9YWGFHBc1eQYgkXBnj07w4vs0mdcf2rlrUeIYoUJd+cpp/zbcVQvZQWrD3Uu6P2dzxGF4MwOYp2wIIABIbUWwwi28kDoG+TGDuhov7kxeFwmYnIBOqXFkiQBLsm9S/ciQD5yiyWKVxbpAZBXq14Sg+y/Gf76uddBjQYtW1ZxqWKPnp9omYmRkUZ26CC3l78u7g=;ggg4SlVU1QVb6cOxcdue1A=="
 ---
 

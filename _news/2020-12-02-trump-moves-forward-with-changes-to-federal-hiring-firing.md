@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Giuliani blames GOP legislators for letting down Trump as other court cases get dismissed"
+    excerpt: "After weeks of failed lawsuits, the Trump campaign suffered another blow in a late Thursday-night Supreme Court decision rejecting the campaign's efforts to reverse Pennsylvania’s election results."
+    publishedDateTime: 2020-12-05T03:09:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MG0A05vuu3Y/giuliani-gop-legislators-let-down-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/giuliani-gop-legislators-let-down-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-gop-legislators-let-down-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f1e9ef4-9f2c-4d69-ad79-d689751c9a41/45d541b2-f2d3-461e-bb28-2f05b3ef8537/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Why Barr’s break with Trump could be a turning point"
     excerpt: "On Tuesday, a very high-profile Republican, Bill Barr, essentially agreed with what the media have been saying about the lack of widespread fraud."
     publishedDateTime: 2020-12-03T08:05:00Z

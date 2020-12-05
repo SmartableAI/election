@@ -239,6 +239,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Twitter weighs in on whether Trump could be banned after leaving office"
+    excerpt: "Once President-elect Joe Biden assumes office on Inauguration Day, Twitter could remove President Trump’s special privileges as a high-profile world leader and treat his account as a normal one if he keeps butting up against the platform’s rules."
+    publishedDateTime: 2020-12-05T03:39:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WDwVSxG_9X8/twitter-whether-trump-ban-leaving-office"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-whether-trump-ban-leaving-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-whether-trump-ban-leaving-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20339074006282.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "LIVE UPDATES: Trump plans Georgia visit to campaign for Senate runoff candidates"
     excerpt: "Follow for the latest updates on the January U.S. Senate runoffs in Georgia"
     publishedDateTime: 2020-11-28T08:36:52Z

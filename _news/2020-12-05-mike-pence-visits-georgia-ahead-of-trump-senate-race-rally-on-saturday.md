@@ -236,6 +236,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Twitter weighs in on whether Trump could be banned after leaving office"
+    excerpt: "Once President-elect Joe Biden assumes office on Inauguration Day, Twitter could remove President Trump’s special privileges as a high-profile world leader and treat his account as a normal one if he keeps butting up against the platform’s rules."
+    publishedDateTime: 2020-12-05T03:39:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WDwVSxG_9X8/twitter-whether-trump-ban-leaving-office"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-whether-trump-ban-leaving-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-whether-trump-ban-leaving-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20339074006282.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Concha on media coverage of Biden injury: If it was Trump, they would have 'screamed' about transparency"
     excerpt: "The mainstream media would not have covered President Trump the same as President-elect Joe Biden's foot injury, Fox News contributor Joe Concha argued Tuesday."
     publishedDateTime: 2020-12-01T13:43:22Z
@@ -532,6 +548,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "k+ka+nQqJEXRfSYfD8Xdbq2gvnyG+nLRMKeKFMEc76kw0BF0GyFwOZaWdUwK2HTo9+m6UFHzu4dNXnricLvS/UAp4DwLjO7PnLBKCF5rNfqjU4O5WGEGJco3AhaBWFZpUPq8AdCdpr98FYEF+/2dTh+RL3cx6HFEuVOlA1drYoQJQp7gcSsERoXYnLhIGaYjEXVlGkq7+OKWLqb5sKOAQQXe24WGhLz90ymudWHhrYn3vCC2fIIO6RV2uvedV+6xw1qqb+YZ75D9fzVZhAs/m1ZFoEGAkit8W6E1fxqU2sSw5J2F1CMLDORSD6BGD/9aiueFcO9WN8eATjoOs6d0e3hlmGZq6IKUjZ5gUiBheZE=;gr8sG0NC4Y3i0ZytqjHhNQ=="
+secured: "ng9wjoDESzfhThtZscdCa3nx+FU2U9KyCPP9dsNZLwqvpYAo1X8vuEMqF0T6DO++wZS13k7iNCENO6qY5YpHlQbjjTmsJCxW0+gfnACtHet5ckprbCi8w5RSk1fehjhGwKgmKxNmUX6xp0pocWFUH6JFF/4D4Nyqr7H2bEscY2Gxtq6WO2Eje8iUzI4ZGMOCL/lSiOGyeH+rSGGkfO01S5C8Qtj2aznP2KCpDmOcWo478qGT+V4r1k3Ip2GETO1CPCwNIhtlAFR8eqTRoMx7tJYfZKL1gGhgUnW0MOygv/Xqy8h3J/0JI+nneGxAMUSzsDDRLJjpEt+nEM73vEy5JEwFU7E1eqLuaiHzEnTFZr/AOVHh8yynD7cAzHnzSq1oDUqTJ01+1gIAz3aEfOZLuBJqSVVb+drVSdM1tYmdrj0aYdU8kFykSQKiIqr1MfF4V/90tptkeY0BsEpH4EHf67xHb+b5ALt6l3SnHaj0lANpxwvXlpWQWDKQXjJFic+mbLxSJZpvOukqKycgQkOFyw==;OmbjXy41EwfcamtlqkG4KA=="
 ---
 

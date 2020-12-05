@@ -90,6 +90,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Here are 9 fascinating facts to know about BlackRock, the world's largest asset manager popping up in the Biden administration"
+    excerpt: "The asset manager has become a force in DC, and two executives with BlackRock on their resumes are set to hold prominent roles in Biden's cabinet."
+    publishedDateTime: 2020-12-04T16:36:00Z
+    webUrl: "https://www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5fc7e5e750e71a00115587a5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "8vjFccbSijfz2TMJeTnbkJAoolfvqKPTlNmqx6o5IXXCyOkSicm357gdMXFDi9LQYz4PiM7PP58osKSdmSizvEbSAbM+NgEyXSizKnBbRnca527kjvrFjhog1QSdRAAhkah6aPJ+e47R9etAL0oc2TVCYj5BL7kX/w989z4caZuTxDkRAfqfX0VGg64lrNwbmtNGpvuSCUIAfNTA1IcfCK6jhmY3FXlkq3DcPsuoPpV3nMG9m8TsCve/Vvt+BPrS+gNC56pFxvsCrrEA93Hs6LvTYFMpOgeLreQqQWRrl56Ue1Pu8S4HZbOuXzKQQ160H1Rw+xMHPIP5nn2X9vykDhCkLmRqv6B7++CyXwoTkmHz5z2fGCut0ufmnQY7Gf2v4wCVP7kJwvPF8uzc3CXpyKYPo10SeboSk7iiB2kV/WBii8lilUFRpDEdXD8mv832snhZe3yvoxxwTDgic8ybr7imB23opC6sgk+JzcIEj6uHxxOVAV/iV+KoluRcsfebVS6IEqlLMQDyPQf7LGyOYg==;8G8zv/+M5S5neuhV615D7g=="
 ---

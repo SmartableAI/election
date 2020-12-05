@@ -478,6 +478,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Donald Trump’s brutal day in court"
+    excerpt: "Several of the most devastating opinions, both Friday and in recent weeks, have come from conservative judges and, in some federal cases, Trump appointees."
+    publishedDateTime: 2020-12-05T03:25:00Z
+    webUrl: "https://www.politico.com/news/2020/12/04/donald-trump-in-court-443010"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/04/donald-trump-in-court-443010"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/04/donald-trump-in-court-443010"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b4/04/df2ce6c54562a7bea43d4d7a4cde/ap20278165386313-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump looms over Georgia's high-stakes Senate races, worrying Republicans"
     excerpt: "The president is scheduled to hold a rally in the state Saturday after spending weeks attacking GOP elected officials."
     publishedDateTime: 2020-12-02T23:50:00Z

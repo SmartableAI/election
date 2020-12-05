@@ -95,6 +95,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump inciting violence, warns Georgia election official"
+    excerpt: "An election official in the US state of Georgia has said President Trump will bear responsibility for any violence that results from unsubstantiated election fraud claims he has stoked. \"It's all gone too far,"
+    publishedDateTime: 2020-12-05T04:58:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-55153918?fbclid=IwAR2fD8Zl3UORWlMMq0z0jVZX5VnHJsb-X6-yQLe0fWco9gZb48qtRF2_0dM"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55153918"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55153918"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/53A8/production/_115761412_gettyimages-1229491924.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Trump campaign files election lawsuit in Georgia, suffers more legal defeats"
+    excerpt: "Donald Trump's campaign said it filed a lawsuit in Georgia state court on Friday seeking to invalidate the presidential election results there, the latest in a series of legal challenges aimed at reversing his loss that have so far gone nowhere."
+    publishedDateTime: 2020-12-05T04:30:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/trump-campaign-files-election-lawsuit-in-georgia-suffers-more-legal-defeats-idUSKBN28E37D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E37D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E37D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543523100&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB401N"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Vice President Pence remains silent on election outcome while campaigning for Georgia runoff"
     excerpt: "Pence will rally Republicans to vote for Georgia Sens. David Perdue and Kelly Loeffler in the Jan. 5 election."
     publishedDateTime: 2020-12-04T10:14:00Z
@@ -492,6 +524,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wlZosGkypajrxErlaWGquOviC71F9uZLBhAfVET8f9TDPTO9fYDEUncaSYbse2xOjwKTPBjD+p5LfQglxgLsCHZ4PFnJR4U8KoV/PoIjHq42rBmrlgqGafOiYknoem3Sp7ETCqMfb38Vk1neZ12/4/putLh4ZN5iT5aky0xNKsbab0fNlSwYJvMMLzrn3aU56p18JL/q8eU0Zou1VhZQ/ITvRa9FlZ+bwFnZdE7dR4KVDes80syWncdSjrW6nvlCy9ApazGVzVqkFq193iKoceuytifq1MhIhQfqRw8P/soK1BqiXKHBBq0yhmJwsdYvGYgSU9umTlhsUYEpl/QtMPRuTgowvkDNHL5nFaREU0E=;/OwVC63j5yirZFeKG0adYQ=="
+secured: "dg2ANOvgHHQdlZzNXyT+rWxAbDRyXFnBwLsE+Gm0inKj/WXKM3bzmqrF7mNSRZiuGZtTuPxyz+UsPageNyLvrt+M0No5EnfghyRmnpzmTfAd1BdvUwXtm+4s8ljs1fxuyYIXoeWiHSW+uKeHl4pd5LzcJgk5zLZpcbMZryzfxVPplsR11hsyaQkHmTKm8UD2Od+6InQB31pCcqEA/brxEO5D3im0Rj84W1+VUH4F7glEkAn3EWEmQ0Rsx0yZ1afp3zBzobhg+lfPcSDhfpA46Nnb/PFmumMLwBR21NbUpHToRANIglV8WEAPN8T0thkheY+mvfLpt6Ny5xsaPOeHaYg72YB3HxU3s9ThN9mElkng12ibsICKa3EsVAKrCpOQ4IOjdULFSOOy8NR1eTT5170cvEstUOTt8ghep+2oUQ/5Tn9CeFsidyLE0iLor2UZ9JxULbuK0142FA2BSrtJbePg1iYaLFSEhuJnJIlaxdtRTYWeBTxI+amAeWHQQoNWIYdCY7Gmit4a3rCqDbSwdA==;kRLo2ChXYb/z0DNF2y8mDg=="
 ---
 

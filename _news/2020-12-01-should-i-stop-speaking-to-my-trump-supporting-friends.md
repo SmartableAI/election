@@ -462,6 +462,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Donald Trump’s brutal day in court"
+    excerpt: "Several of the most devastating opinions, both Friday and in recent weeks, have come from conservative judges and, in some federal cases, Trump appointees."
+    publishedDateTime: 2020-12-05T03:25:00Z
+    webUrl: "https://www.politico.com/news/2020/12/04/donald-trump-in-court-443010"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/04/donald-trump-in-court-443010"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/04/donald-trump-in-court-443010"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b4/04/df2ce6c54562a7bea43d4d7a4cde/ap20278165386313-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
     publishedDateTime: 2020-12-01T16:55:00Z
