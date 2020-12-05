@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Nevada GOP vows appeal after judge dismisses Trump campaign’s latest suit"
+    excerpt: "The Republican Party in Nevada vowed to appeal the Friday decision by Judge James Russell, dismissing claims of widespread voter fraud in the 2020 presidential election made by Trump’s legal team."
+    publishedDateTime: 2020-12-05T02:44:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5qbf0HsMis/nevada-gop-appeal-judge-trump-campaigns-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/nevada-gop-appeal-judge-trump-campaigns-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-gop-appeal-judge-trump-campaigns-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f1e9ef4-9f2c-4d69-ad79-d689751c9a41/45d541b2-f2d3-461e-bb28-2f05b3ef8537/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Moves Forward With Changes to Federal Hiring, Firing"
     excerpt: "The Trump administration is rapidly moving forward with a last-minute push to ease hiring and firing standards for many federal workers."
     publishedDateTime: 2020-12-02T14:20:00Z

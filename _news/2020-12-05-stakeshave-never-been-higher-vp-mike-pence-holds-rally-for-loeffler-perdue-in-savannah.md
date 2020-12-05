@@ -43,7 +43,23 @@ related:
         width: 2331
         height: 1556
         isCached: true
+  - title: "Mike Pence comes to Georgia for CDC meeting, Savannah rally"
+    excerpt: "After is visit in the capital city, Pence is expected to head to Savannah for a \"Defend the Majority Rally\" with Senators David Perdue and Kelly Loeffler. Pence will deliver remar"
+    publishedDateTime: 2020-12-04T22:18:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 75
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/fae39ff4-1320-4789-8acc-8810b4f6567f/fae39ff4-1320-4789-8acc-8810b4f6567f_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
-secured: "Qk8v0UewsJTGbG16FkCCbalP9FQ9OS4CyvVdyhBANINd3tMGil7CNKSGZA2xCeWcw0zSTR0n4MT8Uax48NEHclcCK0YI7Uuu4Ekmh3bjSXrEAX/j0SbiTB753jDPDN8ZTzLIMIKtL9t88hZeQYBXuau8ZF093uTwwho/E5zaEEEjMqknliAt/Bzn7Z3nGtxZdsUK/OI9PQtPq4j1wfl1iEj+/RlKlxE9lRiiSCdy/x7U0fv+HNJKZXEUlI5196djuNyG2AfOYvTl7/WN4wCr/Yfioek9dyf1ngiDAAGBhdTCkTgOHZUwLJGi6tOhMnm/UFqSnkiwqQ+unbLGEw/kFt5ff1dPMkCuoCT/z2Dd5S0=;qcJtYjWTu0/mL1pb1HlqvQ=="
+secured: "cK14m8jOoNFQzkptOfUm3bbH7b2lcZbB0Dex2ce7cJUBSSqIgkmEy6jgVbIr0R/OfV1H9qpZzpjBw8QRSL4OHN6FPA+0WdlnPeVRDJDjggYnGomPuPH76JFaeuyLK0c74TYQe4WhcfpsSOXBrVUnVTqROhVnk6jQR+v+7NR3BbO+fvrs5b2+3vaxNV/iBQBDMtAq4m/C2Gfm/6PiqgtWA5sXwTjK4A/F+CgYRJUbjswkSgdhSC+73ZkinMNNe1lVGMC9ZMjLczSuOqNlEMqm+zjJMT2gORN7UCRFSA5lU1hQztIktoZwlxBWGRHQDOOEDUE4mVsD0BgLXQSBrobdO59B+TOHhc71C1s15mkWidHotRqLX9d0l6MtrDbvynGgr6kU78my+dsknD5c4W1InjdoTqkTaCuxJ0G9xXHMFGWYC+pnSpaUs+dNpHkHQIkNGfFxJ7jjGTMlJzXjeUgXba95IMiTWRYseDlgKFXiAQUNPvMATxkkOJAI+0BuoJuJPQauFGP00vq/tLvc4jsXuA==;fHIe+MKuQ341ggTy9IzMRQ=="
 ---
 

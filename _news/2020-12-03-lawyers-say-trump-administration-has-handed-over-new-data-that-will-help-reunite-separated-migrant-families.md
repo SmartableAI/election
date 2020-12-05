@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "As Deadline Lapses, Trump Administration Continues TikTok Talks"
+    excerpt: "The Trump administration will allow a Friday deadline for TikTok’s Chinese parent company to sell the viral video app to lapse, said a person with knowledge of the decision. But the government will not enforce an executive order demanding the sale,"
+    publishedDateTime: 2020-12-05T02:07:00Z
+    webUrl: "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ysROvjkX5gtKKGR7TskX9VMX0qBpn9CY/bccrAS8dej+Tp7UAbopq3hlcabEhlh3MIOc3Jmi5ejYf4dp5tHtcmWylStbB5oiHA35Syd0615qlq2Km3d4kEpxjiUOl2F2Ns64NAHJYuoKxoeN9hdxTSbQ7o8b+B6vjKTBwEipd6lC8ksnIDK3SJ4d/3NvZJCrUZ3iUPaeACU1XKG3ZB8DJxOA7KgNfhFW5yGMgXZIG6SyGLsouqn7T+IwhNbkbd9e1Tja3WwSdqhlHjR4DFFijQm7BPI82VRwGwbAQNeFb1kRro1eVkRj2e64VnCObKMlaY8qqwzNWCOtw0RmUgo0ilhCGQfnXPGXOoYyJSd9ZW0=;sjgwuFQepo5wASVcAOHSMg=="
 ---

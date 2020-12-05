@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump is holding out on supporting the $908 billion COVID-19 stimulus bill despite more lawmakers rallying round it"
-    excerpt: "After a press conference, the White House clarified that Trump does not support the $908 billion compromise bill, and instead wants a smaller one."
-    publishedDateTime: 2020-12-04T12:17:00Z
-    webUrl: "https://www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
-    images:
-      - url: "https://i.insider.com/5fca1f38b6a3a800199b688e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "cajmBm69DFgeyDdd3gI0qtiOs/gh6N17kw0mukdvFagYiiyxrOdght0uskK+9HEi3StZU89SepeIAkW51p9KsCOcKlYEj3kDFHaqTYQlgtBCdNK5NL8EJ3pwrFsxLbNI/R2/fH3yZPcw19+LxLuQyPTw10kXkM0vjkFlJaUO9CAmCTp/YXCPiNkiByhAHHUnfCAidcUIwQRhBgEAu0qFb89qdHokraLftpPRbmAhCaEtBhE3MXLEaRBHcVQY1z/ODiwzocC03ceNK2bsX+SLx5DIsIenW1mbCVugpv3Xde6qKP/PcyUOHIPjjCy0y2doJmZYrDczxauBmtU0eHpZSi0/1+sUpKPn7TsGwZKzb0g9uYvi8/+BjfTZ0ZUmoii0NhTTAC/Pb4is0YJo79JUAksUAZ0EPaPl0UaRbkI936S+Wqq5F5KRz15A3pmG/jfrztb+Bb/pKrMTyMOtwQ+qgIm2lWyTqM701dddjDOSbilsQnBIV0wUwnMhWScbDVW3/CjabTGIGJcpkVtDtsr2LA==;Dqig+Na/JMx76KwMDpp2Ig=="
 ---

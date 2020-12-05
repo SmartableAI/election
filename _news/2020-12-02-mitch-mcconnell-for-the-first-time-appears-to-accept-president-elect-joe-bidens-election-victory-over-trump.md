@@ -255,6 +255,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump's latest batch of election lawsuits fizzle as dozens of losses pile up"
+    excerpt: "President no closer to overturning result, with just one small victory in a month’s worth of cases"
+    publishedDateTime: 2020-12-05T02:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/04/trump-election-lawsuits-losses-michigan-nevada-georgia-arizona"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/04/trump-election-lawsuits-losses-michigan-nevada-georgia-arizona"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/04/trump-election-lawsuits-losses-michigan-nevada-georgia-arizona"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/724b62c7c2c143d8832f184f55f71ba8fd2b1a8d/0_300_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bb0f281b6b8a31ce67aabb7ef9962b99"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Factbox: Trump reshaped U.S. immigration system, Biden wants to reverse course"
     excerpt: "President Donald Trump's push to crack down on illegal immigration and overhaul the legal immigration system was at the heart of the Republican's 2016 campaign and remained at the forefront of his White House agenda."
     publishedDateTime: 2020-12-03T11:32:00Z

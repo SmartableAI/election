@@ -637,20 +637,6 @@ related:
         width: 1278
         height: 719
         isCached: true
-  - title: "Mike Pence campaigns in Georgia for Senate runoff elections"
-    excerpt: "Vice President Mike Pence is campaigning in Georgia ahead of the two Senate runoff elections there in January. CBS News campaign reporter LaCrai Mitchell joined CBSN with details on that and the outcome of the recount in Georgia."
-    publishedDateTime: 2020-11-21T01:15:00Z
-    webUrl: "https://www.cbsnews.com/video/mike-pence-campaigns-in-georiga-for-senate-runoff-elections/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/21/81a7d18b-7048-4d17-b82d-971aace7b830/thumbnail/1200x630/182241d14d0784dc2ff695deb6bee018/cbsn-fusion-mike-pence-campaigns-in-georiga-for-senate-runoff-elections-thumbnail-592241-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Can Joe Biden forgive student debt without Congress? Here's what the experts say"
     excerpt: "Can the president forgive student debt without Congress? A lot is riding on that answer. With Republicans generally hostile toward the idea of debt cancellation, the legislative route could prove difficult."
     publishedDateTime: 2020-11-21T19:39:00Z

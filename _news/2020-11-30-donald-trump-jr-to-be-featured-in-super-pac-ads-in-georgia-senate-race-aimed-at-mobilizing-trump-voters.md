@@ -416,6 +416,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Mike Pence visits Georgia ahead of Trump Senate race rally on Saturday"
+    excerpt: "Vice President Mike Pence visited Georgia on Friday ahead of a get-out-the-vote rally by President Trump on Saturday to boost the two GOP Senate runoff candidates. Pence insisted during a speech"
+    publishedDateTime: 2020-12-05T00:42:00Z
+    webUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/"
+    ampWebUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mike-pence-georgia-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Georgia Official Urges Trump to Condemn Threats Against Election Workers"
     excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
     publishedDateTime: 2020-12-02T02:08:00Z

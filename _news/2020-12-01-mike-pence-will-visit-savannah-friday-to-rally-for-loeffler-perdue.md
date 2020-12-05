@@ -9,7 +9,7 @@ ampWebUrl: "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-sava
 cdnAmpWebUrl: "https://www-savannahnow-com.cdn.ampproject.org/c/s/www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue?template=ampart"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence comes to Georgia for CDC meeting, Savannah rally"
+    excerpt: "After is visit in the capital city, Pence is expected to head to Savannah for a \"Defend the Majority Rally\" with Senators David Perdue and Kelly Loeffler. Pence will deliver remar"
+    publishedDateTime: 2020-12-04T22:18:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 75
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/fae39ff4-1320-4789-8acc-8810b4f6567f/fae39ff4-1320-4789-8acc-8810b4f6567f_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "'Stakes...have never been higher': VP Mike Pence holds rally for Loeffler, Perdue in Savannah"
     excerpt: "Vice President Mike Pence visited Savannah on Friday during a Save the Majority Rally near the Savannah-Hilton Head International Airport.  Pence, during the campaign stop for Senate-incumbents Kelly Loeffler and David Perdue,"
     publishedDateTime: 2020-12-04T23:51:00Z
