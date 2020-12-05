@@ -492,9 +492,9 @@ related:
   - title: "U.S. Appeals Court rejects bid to block Georgia win for Biden"
     excerpt: "A federal appeals court on Saturday rejected a bid by a conservative lawyer to block President-elect Joe Biden's victory in Georgia and left in place procedures that will make it easier for voters to cast absentee ballots in January when two Senate seats are up for grabs."
     publishedDateTime: 2020-12-05T16:49:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-georgia-idUSKBN28F0MS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28F0MS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28F0MS"
+    webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-georgia-idUKKBN28F0MW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28F0MW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28F0MW"
     type: article
     provider:
       name: Reuters

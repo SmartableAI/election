@@ -77,6 +77,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ga. Sec of State says he'll vote for GOP senators who backed Trump's calls for his resignation"
+    excerpt: "Brad Raffensperger touted his support for both his state's Republican candidates for Senate -- incumbents Kelly Loeffler and David Perdue -- despite them joining President Trump in calling for his resignation after he certified President-elect Joe Biden's victory in the longtime GOP stronghold. "
+    publishedDateTime: 2020-12-05T19:27:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ow4w0v8ng1w/ga-sec-of-state-says-hell-vote-for-republican-senators-despite-candidates-trump-calling-for-him-to-resign"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20335602465466-e1606850021803.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump continues fight in Wis., Pa.: ‘We have found many illegal votes’"
     excerpt: "President Trump promised to bring a case disputing the Wisconsin vote count after the recount was completed there, and said his campaign was disputing a number of votes far bigger than the margin President-elect Joe Biden won."
     publishedDateTime: 2020-11-29T00:03:00Z

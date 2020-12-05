@@ -319,6 +319,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump called Georgia Gov. Brian Kemp urging him for help in overturning Biden's statewide election win: report"
+    excerpt: "The president, who has been fixated on the conservative-leaning state since his electoral loss, has insisted that he came up short due to voter fraud."
+    publishedDateTime: 2020-12-05T20:26:00Z
+    webUrl: "https://www.businessinsider.com/brian-kemp-trump-phone-call-oveturn-georgia-election-results-biden-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/brian-kemp-trump-phone-call-oveturn-georgia-election-results-biden-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brian-kemp-trump-phone-call-oveturn-georgia-election-results-biden-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5fcbe481b6a3a800199b6e0a?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Lame-duck president pardons turkey; Trump breaks post-election isolation for tradition"
     excerpt: "President Donald Trump emerged from self-imposed isolation on Tuesday to show that at least one thing in Washington would run according to tradition: the pardoning of a Thanksgiving turkey."
     publishedDateTime: 2020-11-24T21:48:00Z
@@ -870,6 +886,6 @@ related:
         height: 225
         isCached: true
 
-secured: "Nq3AtoqJKmZJODoJ2cZh9td2W/Wkiq+kPU42DhKqNzbNG3vAdHpv1WqKZ7/tHdtxUu4p/rS3pjaxakykxWtFL+uWcNfVe1NtIgLiy1fry2KmC2psUdnCiZNJWQHFg/CSf6idI4brPAZe1+hrCD0+WVzxpm4ibzFc8BMWvemKJMMQuQcvMfJRTaPvynY2sgu4B0XyA3EcXicZBzuDabmXdJZGOWR8t9DLGAOoA4ouH0Dnmctbc6mX15ciBrmwZv4zfC/a02fWYOOBzwkEM5xG9zeZTLEBOHYkzoQUvk0JBPInOlG9r9d9oYQyH3ojG9iDHk3mJ87Og/Ygg+mxLlXqbOPOSttlTd9Y5p1FxgscSXo=;ypkyxu/QpCy0BIua7b8pmA=="
+secured: "bx1M0zvxGrfFDWgb8Ld/XyZVsHzuyK8/791kwWkV3khmrbkuAxbW+nXjOq3Rn3EQXyzWLtcAgJpowxXQt41+6+gTCg7CCLeGWuKUM1bkZeV6fzcrczWZzPBO1gx00okXMlgqzBrInYHpWxu6yj4Dw5I138zLwJV++nVzvd48oxi6Xkib8wtZzR9QAwott2TEB0LWSTveIyHxaD/p/yesyw3SHQE5L5RkA8Pm1ni/ctxZR3r+LiBiED1dh0JPT7YKUiOH00J/tWX9P+w8WlBHeSzTxmIzKvXV+HfgX3PsjIm1SseGa5b+3Xouh5ddK3rH9NQI4/KEJhO/lMEOkfqESzNdWP201wVZb9PAXMdYgJ5oQtxTkZkXeJF/cNo5KeWMvUuk+/hPGvosXv7zXlCbFVsXP+gnORLXoKKPsK3syzNsJ0w2TjEMhZx/vTSZnX1fPkPcfJJLViVXSJFd1q1ep5qmxFerw1vlspVJu6VLn/IKqoqoL8VKM2u7EeYBsfMrtTIF/ygHHAZmWBJ+onRlOg==;t7kXYDeR42EXEp5QBV7vPw=="
 ---
 

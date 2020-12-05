@@ -319,6 +319,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump called Georgia Gov. Brian Kemp urging him for help in overturning Biden's statewide election win: report"
+    excerpt: "The president, who has been fixated on the conservative-leaning state since his electoral loss, has insisted that he came up short due to voter fraud."
+    publishedDateTime: 2020-12-05T20:26:00Z
+    webUrl: "https://www.businessinsider.com/brian-kemp-trump-phone-call-oveturn-georgia-election-results-biden-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/brian-kemp-trump-phone-call-oveturn-georgia-election-results-biden-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brian-kemp-trump-phone-call-oveturn-georgia-election-results-biden-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5fcbe481b6a3a800199b6e0a?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Factbox: Trump suffers major defeat in legal battle to overturn the election, but presses on"
     excerpt: "U.S. President Donald Trump's campaign and his allies have suffered a string of judicial defeats in their bid to prevent states from certifying President-Elect Joe Biden as the winner of the Nov. 3 presidential election."
     publishedDateTime: 2020-11-23T11:26:00Z

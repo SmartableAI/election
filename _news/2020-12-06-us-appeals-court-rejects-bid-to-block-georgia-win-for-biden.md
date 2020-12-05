@@ -3,10 +3,10 @@ category: news
 title: "U.S. Appeals Court rejects bid to block Georgia win for Biden"
 excerpt: "A federal appeals court on Saturday rejected a bid by a conservative lawyer to block President-elect Joe Biden's victory in Georgia and left in place procedures that will make it easier for voters to cast absentee ballots in January when two Senate seats are up for grabs."
 publishedDateTime: 2020-12-05T16:49:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-georgia-idUSKBN28F0MS"
-webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-georgia-idUSKBN28F0MS"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28F0MS"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28F0MS"
+originalUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-georgia-idUKKBN28F0MW"
+webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-georgia-idUKKBN28F0MW"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28F0MW"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28F0MW"
 type: article
 quality: 125
 heat: -1
@@ -979,6 +979,6 @@ related:
         height: 563
         isCached: true
 
-secured: "0biebJZWH6JocADqPRpaFxok63DeChDOQyU+Sp5ppyGGJN/R6f5bM2ObrZRCaRW+KgkWeRiN+YTe9TqNogW9MnnoSZHJtv6FYjGvG0zocb4gfF4RI3KWrbDbJ1E6CwSh9oqbLnF51ue18lZXA9is9V395XP7e/oOq/X7yeDk31cTOEBVHz2QqH5K9acjVkELaPCtaOwVY7LG9TMuUcktZr0cV7ABWf6bDOH/PtYN0qOU0r6AR9kONybZvQ2HPNcNew9AE+oQVVWs0yz/x17XaloKkYTvF99wrKjqEMemc0af+pK61qDdALnlgAYeWzHnjYDQ95RY9Viu5zuUCvVRSlj6rgHlLGGc/kO9D+GrsbPvDxH0V4v9sNdYm8bZiemFLAIYE3IdiintilyOvrXv338IWMF8pwWbxmd2JtjfAhBdIDBtUQZ4NJBz2vkNECnFT+CyBcFx5EkzYfq70t/n98ZOJ4e7pv1ZQJv+6ChEMWz585HrE2wmcL+SEGhy6zl22PI2xeiujzLR6FGzWZqSlA==;poFEsRWJAagntlP9pmgLHw=="
+secured: "ljZ401tM7BIL/KKZegyDQKbx0oi+CfLgUwjpOn+vyNEOvRYyty3um7aNN+wUJSn961InOnzgwgHI1FowMzS+zONWIrPjc8n3wcX2Ba5WSFB0x/oH4nGCBmQJPyBVHKJPTZUuZWCHHGPNhswU6fsnr2v//uzZBlesWvPxWCOrmSn/PerYkjnSimn90VqVehzehS7HzRn42pT+UUaJMgg0y8r36IPiaC9ZzdeJdg3bTaYxZUN37LmHtcfovHOYf+0ulnMq4s0VTHqNZw8pdwhKB91VCVy+y4i2JoigPSYCrhcEBAfuHd1vNTr3NeoSBJ8TVNQt8SUldAskrw+XfrIX187DnKi790oNCf5Pd0TKOLQ=;vm7ky8PVlXNbUpG5oldeWA=="
 ---
 

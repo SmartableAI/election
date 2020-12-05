@@ -315,6 +315,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump called Georgia Gov. Brian Kemp urging him for help in overturning Biden's statewide election win: report"
+    excerpt: "The president, who has been fixated on the conservative-leaning state since his electoral loss, has insisted that he came up short due to voter fraud."
+    publishedDateTime: 2020-12-05T20:26:00Z
+    webUrl: "https://www.businessinsider.com/brian-kemp-trump-phone-call-oveturn-georgia-election-results-biden-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/brian-kemp-trump-phone-call-oveturn-georgia-election-results-biden-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brian-kemp-trump-phone-call-oveturn-georgia-election-results-biden-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5fcbe481b6a3a800199b6e0a?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Lame-duck president pardons turkey; Trump breaks post-election isolation for tradition"
     excerpt: "President Donald Trump emerged from self-imposed isolation on Tuesday to show that at least one thing in Washington would run according to tradition: the pardoning of a Thanksgiving turkey."
     publishedDateTime: 2020-11-24T21:48:00Z

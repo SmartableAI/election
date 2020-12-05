@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump lost the 2020 election, but he proved America can win again"
+    excerpt: "Whatever happened in the 2020 election, the first draft of history should be clear: President Donald Trump proved that American decline can be resisted and reversed. He showed that our nation can"
+    publishedDateTime: 2020-12-05T15:21:00Z
+    webUrl: "https://nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/"
+    ampWebUrl: "https://nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/donald-trump-rally.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "+zk4rmWAvdLhkzHFZLLFrd8p/83sIA3KVq5YIsYCr3VSqDFwJXfpAbYdQB8N/ydUpp2/ockrdjXuDHE4vnsndQNFgs1nTbb4NM4hqSzq1tad7izblxrERICEYpVlYMLntKNdqluoh5EuQ5wXYqGox8Wrc0c9w90e93HkTmcnxCbRf7kWhYDJe9d1hShCqn3W8ezbBJjruuslGsf509NLrn8mFuf7hE4xSG49t9A2G/iPl/VeQ3nZXbU3k7NPq30ZJ3anLdcAFii201AtgnzI3OHj0xqr2J9Jx+/RfoWeELHvsWmRfgXntSBrjex/XewpesbkkdQNxG8+wvrkYoVhe1W6Lru5sxQcKeACrRpqhVQ=;mQFdK+lWv4TiIe/mKKP0yg=="
 ---
