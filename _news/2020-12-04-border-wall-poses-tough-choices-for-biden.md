@@ -813,6 +813,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "President-elect Joe Biden adjusting agenda to reflect narrow divide in Congress and raging COVID-19 pandemic"
+    excerpt: "President-elect Joe Biden is adjusting the scope of his agenda to meet the challenges of governing with a narrowly divided Congress and the complications of legislating during a raging pandemic."
+    publishedDateTime: 2020-12-04T21:22:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 106
+    images:
+      - url: "https://www.chicagotribune.com/resizer/opJ1Y7BGX96YyyJZ6kWe52uNa-o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V46L4EKR7MVRDTPAELXFYIBV2Q.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AP source: Biden taps ex-Fed chair Yellen to lead treasury"
     excerpt: "WASHINGTON (AP) — President-elect Joe Biden has chosen former Federal Reserve Chair Janet Yellen to serve as treasury secretary, a pivotal role in which she would help shape and direct his economic policies,"
     publishedDateTime: 2020-11-23T22:15:00Z

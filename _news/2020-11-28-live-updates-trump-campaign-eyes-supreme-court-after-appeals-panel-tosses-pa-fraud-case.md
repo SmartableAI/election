@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Biden says he will urge Americans to wear masks, take vaccine"
+    excerpt: "Follow for the latest updates on the 2020 election"
+    publishedDateTime: 2020-12-05T07:00:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ChbaDmv5XGc/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/251457ee-a938-4bbc-8755-319a0bada67e/5c01162a-52d5-44f1-bf33-749c74a43cbc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Trump campaign alleges abuse around the process of absentee voting in Wisconsin"
     excerpt: "A lawsuit was filed Tuesday morning and comes after Wisconsin completed its partial recount — which maintained that Joe Biden won the presidential race in the state — and after Wisconsin Gov. Tony Evers formally certified Biden’s victory Monday night."
     publishedDateTime: 2020-12-02T03:52:34Z

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Trump dismisses DOJ's probe of bribery-for-pardon allegation: 'Fake News!'"
-excerpt: "President Trump on Tuesday dismissed reports that the Justice Department was investigating claims of a bribery scheme involving a possible presidential pardon."
-publishedDateTime: 2020-12-02T09:19:56Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Crt1jzDR3-s/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Crt1jzDR3-s/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news"
-ampWebUrl: "https://www.foxnews.com/politics/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news.amp"
+title: "LIVE UPDATES: Biden says he will urge Americans to wear masks, take vaccine"
+excerpt: "Follow for the latest updates on the 2020 election"
+publishedDateTime: 2020-12-05T07:00:12Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ChbaDmv5XGc/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ChbaDmv5XGc/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine.amp"
 type: article
 quality: 173
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf560f2e-05fa-4ff8-9f82-14d5d26d17fd/e937ee12-a5c3-4c30-b63a-b94bfc66284b/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/251457ee-a938-4bbc-8755-319a0bada67e/5c01162a-52d5-44f1-bf33-749c74a43cbc/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -127,19 +127,19 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "LIVE UPDATES: Biden says he will urge Americans to wear masks, take vaccine"
-    excerpt: "Follow for the latest updates on the 2020 election"
-    publishedDateTime: 2020-12-05T07:00:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ChbaDmv5XGc/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine.amp"
+  - title: "Trump dismisses DOJ's probe of bribery-for-pardon allegation: 'Fake News!'"
+    excerpt: "President Trump on Tuesday dismissed reports that the Justice Department was investigating claims of a bribery scheme involving a possible presidential pardon."
+    publishedDateTime: 2020-12-02T09:19:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Crt1jzDR3-s/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dismisses-dojs-probe-of-bribery-for-pardon-allegation-fake-news.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/251457ee-a938-4bbc-8755-319a0bada67e/5c01162a-52d5-44f1-bf33-749c74a43cbc/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf560f2e-05fa-4ff8-9f82-14d5d26d17fd/e937ee12-a5c3-4c30-b63a-b94bfc66284b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -222,6 +222,6 @@ related:
         height: 500
         isCached: true
 
-secured: "dYyiRDDDtV9J72WDcVsA8IitUYn402MIMB2J6LuwphAhWUSviEabknihsU4dgefLUE2xBPHJ+sUYIdvF+QwiRQ7cer/ufaL7NfT+rheFe4Eo89T1+Mjr36nJ8p3mhgwth5o6+9HLm4+aGyTLeIxCkFzWQ+wUXDTmwIHyQVZScHMIxclKaU8Ndup+S+v7MI49wtULbx4u2DC4TjgAt4dhNdD+BqXtZqVKFBE0skQV6lx4YzcFurNJ19xATKnQRhRz4Q2A6xcVthlv6eK/0xeBuA/jaEm058gtfGKpvpa+2y5oevb/sO7A/BiBiDiGmm2zEYo3Bo1OMxAS/QiQIS/rjyfbhHUI8wG31sfSsGE1TPU=;kW9NPdfUaSicOV7SidYYRA=="
+secured: "Gxj3nf27clKsc/DpxGBbjndYvypuU0MGZlgs08xoWL+rK/TUhUAYMvMf2RzUmxfpqkHYls6iRfiBO7l3LaeS3T7Y7NML+v1/DO0V8AAkkjdJ7u8eGvOs/zcG+8EEirhV2QxMgFbhm9hCckfZNEdcOWhmUblXJYJ7e1W20bEvfloqlaNnTuI4a+CnHS25rR+QmXNk1ZCKs4IjpHtfM/qHnQ/3CNny/4x0xWIMAbmCqkjQaDK4RBNWKnEfgcZ2ybRA67tpl85PCruCMj+HZT9BIbxw7jbFcZMQHntfh9lY0wu1vED9WpWNlrVz26mv0tBDdAHO8zIRmV6MK6wMSgQe5BjUPNM6X2mvTx4ia+gvIJ4=;IC9cXCQi/YRMwTq/p3/bzw=="
 ---
 

@@ -799,6 +799,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "President-elect Joe Biden adjusting agenda to reflect narrow divide in Congress and raging COVID-19 pandemic"
+    excerpt: "President-elect Joe Biden is adjusting the scope of his agenda to meet the challenges of governing with a narrowly divided Congress and the complications of legislating during a raging pandemic."
+    publishedDateTime: 2020-12-04T21:22:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 106
+    images:
+      - url: "https://www.chicagotribune.com/resizer/opJ1Y7BGX96YyyJZ6kWe52uNa-o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V46L4EKR7MVRDTPAELXFYIBV2Q.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AP source: Biden taps ex-Fed chair Yellen to lead treasury"
     excerpt: "WASHINGTON (AP) — President-elect Joe Biden has chosen former Federal Reserve Chair Janet Yellen to serve as treasury secretary, a pivotal role in which she would help shape and direct his economic policies,"
     publishedDateTime: 2020-11-23T22:15:00Z
@@ -1056,6 +1072,6 @@ related:
         height: 660
         isCached: true
 
-secured: "9ArSz+IQKEqR3Q3UpuGLE9pxMm/1TGeT3qKkQK3t3UZBLD0B9TbB4b/TC55Hj9TMSIRYDLJ3b/orUQexf50AxvbBHi5zy9R+C0uyQtVxGRMSqa2M9/apzjg1NEpNrrQZqMlPVvAplSpdStOdb0y46xMSkbQGq0loarwvyeTDL2zHvSQmo050OQhbQq/8tMjDTZZTSRD8FxebD4EVjlaRTfcg7yCF1nacsOYSs+mrXgT6dLbUV9vEYAeVR6eUnKULoxQ+9aovRfcAuFiYreFA7GsgpBIudqAKwvxeoxAG5oxY6FHmhhO15JWx3OMTcHReyrDmotwCKM3SMDsQ5Z1n1q4/dXxIpPLvCGyRF5JPT6A=;19OhigXoeZUn6HTbzKuBjQ=="
+secured: "ZxcgYYomsRyT+W/FJLGF/xOajGH3I4i2GbCHzLSLEMAvB2OekNw8ydMAbEjYa6NG2tugVIJxmjKZHStWFFAq4eliPnWyZXX0zHkCecnkf2XXXDdXHeIDwsDo9FLxlwQJpCcpkbSA4VoEOENiihpPEUzN+3UDDw+bq49OjmBpfp31HziIAx3KaRcQOn+UJiKHTm75rcXZ9nOrd0bWzXKKXkqa2erxIHxUbRbFSncdc1QmqaA8MuKAdpEfVR65k/F+dIoVGxLAPMrm8MFAw6vLs05da3a3j6tiPQtwp/gVcfMBS8WEdzvimlTCseI1FybWiFZq0IiG/bojRE+qPH4gCFNkBFYTNVTif7fA1QaJYb6lstDqR99wC3LJGTfp9Mi0Qm/fEL9OaKYxlHuko650T/EcO9HdfukoVvzFGC0FL5Is9OCnnih+s8HIIosYvEal+ExujKp2FbrUgyGO4hm5TRMNWbRABr/+KnIV2pWBRP/SHT9P8KHX88g3CxwO2oI61pNrM/uLQnS2WgVCx3qmcA==;sh8CQHCzmh+i1Amr4MDDCA=="
 ---
 

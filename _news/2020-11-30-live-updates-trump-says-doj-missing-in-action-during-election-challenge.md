@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-says-doj-missing
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp"
 type: article
 quality: 188
-heat: 408
+heat: 428
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 173
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf560f2e-05fa-4ff8-9f82-14d5d26d17fd/e937ee12-a5c3-4c30-b63a-b94bfc66284b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Biden says he will urge Americans to wear masks, take vaccine"
+    excerpt: "Follow for the latest updates on the 2020 election"
+    publishedDateTime: 2020-12-05T07:00:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ChbaDmv5XGc/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-says-he-will-urge-americans-to-wear-masks-take-vaccine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/251457ee-a938-4bbc-8755-319a0bada67e/5c01162a-52d5-44f1-bf33-749c74a43cbc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

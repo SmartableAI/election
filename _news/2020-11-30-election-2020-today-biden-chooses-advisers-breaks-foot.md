@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-biden-ch
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 1460
+heat: 1480
 published: true
 
 provider:
@@ -798,6 +798,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KEVH72BKXEI6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "President-elect Joe Biden adjusting agenda to reflect narrow divide in Congress and raging COVID-19 pandemic"
+    excerpt: "President-elect Joe Biden is adjusting the scope of his agenda to meet the challenges of governing with a narrowly divided Congress and the complications of legislating during a raging pandemic."
+    publishedDateTime: 2020-12-04T21:22:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 106
+    images:
+      - url: "https://www.chicagotribune.com/resizer/opJ1Y7BGX96YyyJZ6kWe52uNa-o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V46L4EKR7MVRDTPAELXFYIBV2Q.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "AP source: Biden taps ex-Fed chair Yellen to lead treasury"
     excerpt: "WASHINGTON (AP) — President-elect Joe Biden has chosen former Federal Reserve Chair Janet Yellen to serve as treasury secretary, a pivotal role in which she would help shape and direct his economic policies,"

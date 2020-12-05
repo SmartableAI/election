@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Jill Biden, Joe’s chief protector, stepping up as first lady"
-excerpt: "No,” Jill Biden, then clad in a bikini, wrote in Sharpie across her stomach and then marched through a strategy session in which advisers were trying to talk her husband into challenging Republican President George W."
-publishedDateTime: 2020-11-29T15:00:00Z
-originalUrl: "https://www.washingtonpost.com/politics/jill-biden-joes-chief-protector-stepping-up-as-first-lady/2020/11/29/aaa394c8-3253-11eb-9699-00d311f13d2d_story.html"
-webUrl: "https://www.washingtonpost.com/politics/jill-biden-joes-chief-protector-stepping-up-as-first-lady/2020/11/29/aaa394c8-3253-11eb-9699-00d311f13d2d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/jill-biden-joes-chief-protector-stepping-up-as-first-lady/2020/11/29/aaa394c8-3253-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-joes-chief-protector-stepping-up-as-first-lady/2020/11/29/aaa394c8-3253-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+title: "President-elect Joe Biden adjusting agenda to reflect narrow divide in Congress and raging COVID-19 pandemic"
+excerpt: "President-elect Joe Biden is adjusting the scope of his agenda to meet the challenges of governing with a narrowly divided Congress and the complications of legislating during a raging pandemic."
+publishedDateTime: 2020-12-04T21:22:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
 type: article
-quality: 125
+quality: 106
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://www.chicagotribune.com/resizer/opJ1Y7BGX96YyyJZ6kWe52uNa-o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V46L4EKR7MVRDTPAELXFYIBV2Q.aspx"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -69,6 +69,22 @@ related:
     webUrl: "https://www.washingtonpost.com/health/virus-today-americans-travel-as-biden-addresses-nation/2020/11/25/9bec9fdc-2f61-11eb-9dd6-2d0179981719_story.html"
     ampWebUrl: "https://www.washingtonpost.com/health/virus-today-americans-travel-as-biden-addresses-nation/2020/11/25/9bec9fdc-2f61-11eb-9dd6-2d0179981719_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/virus-today-americans-travel-as-biden-addresses-nation/2020/11/25/9bec9fdc-2f61-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Jill Biden, Joe’s chief protector, stepping up as first lady"
+    excerpt: "No,” Jill Biden, then clad in a bikini, wrote in Sharpie across her stomach and then marched through a strategy session in which advisers were trying to talk her husband into challenging Republican President George W."
+    publishedDateTime: 2020-11-29T15:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/jill-biden-joes-chief-protector-stepping-up-as-first-lady/2020/11/29/aaa394c8-3253-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/jill-biden-joes-chief-protector-stepping-up-as-first-lady/2020/11/29/aaa394c8-3253-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-joes-chief-protector-stepping-up-as-first-lady/2020/11/29/aaa394c8-3253-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -799,22 +815,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "President-elect Joe Biden adjusting agenda to reflect narrow divide in Congress and raging COVID-19 pandemic"
-    excerpt: "President-elect Joe Biden is adjusting the scope of his agenda to meet the challenges of governing with a narrowly divided Congress and the complications of legislating during a raging pandemic."
-    publishedDateTime: 2020-12-04T21:22:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 106
-    images:
-      - url: "https://www.chicagotribune.com/resizer/opJ1Y7BGX96YyyJZ6kWe52uNa-o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V46L4EKR7MVRDTPAELXFYIBV2Q.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AP source: Biden taps ex-Fed chair Yellen to lead treasury"
     excerpt: "WASHINGTON (AP) — President-elect Joe Biden has chosen former Federal Reserve Chair Janet Yellen to serve as treasury secretary, a pivotal role in which she would help shape and direct his economic policies,"
     publishedDateTime: 2020-11-23T22:15:00Z
@@ -1072,6 +1072,6 @@ related:
         height: 660
         isCached: true
 
-secured: "GnAFxvF+bQXt7OZSlnXd82MEEVBNvnVReCMKBBT+8ei+0K7cFQHMqblebGhL8ZwAlzJFHHWVe5vXn3ap4+XxQOzlYKaOBFhhD8KeghRW4uCf00fEAJ86SL+nGPoUo84cqCiRD0tuf06vark/ZR7mM4Rjpo57W/x6AtIuIFYOOAVewUYjAuf2ldg93o5j8YodzKqYGiZpqJveVZOzeO50ChVvgBXSaK/gxfd7DikdLIdPubt+D6lTGfKenhrF+m6q0nj5ewhiMxOxdsRojyo/cBdH39wCv2TxSBrTkbT1W5ms5G606EUq9UQZwncM/cleTtx8BGzfZqbwLC+D8Il38EWRPA0Yb8nkGcS9GQvQTDc=;XslgLB/qIPj/nVJd00LIaQ=="
+secured: "Nq3AtoqJKmZJODoJ2cZh9td2W/Wkiq+kPU42DhKqNzbNG3vAdHpv1WqKZ7/tHdtxUu4p/rS3pjaxakykxWtFL+uWcNfVe1NtIgLiy1fry2KmC2psUdnCiZNJWQHFg/CSf6idI4brPAZe1+hrCD0+WVzxpm4ibzFc8BMWvemKJMMQuQcvMfJRTaPvynY2sgu4B0XyA3EcXicZBzuDabmXdJZGOWR8t9DLGAOoA4ouH0Dnmctbc6mX15ciBrmwZv4zfC/a02fWYOOBzwkEM5xG9zeZTLEBOHYkzoQUvk0JBPInOlG9r9d9oYQyH3ojG9iDHk3mJ87Og/Ygg+mxLlXqbOPOSttlTd9Y5p1FxgscSXo=;ypkyxu/QpCy0BIua7b8pmA=="
 ---
 

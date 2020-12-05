@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
-excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
-publishedDateTime: 2020-12-04T06:39:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
-webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E012"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E012"
+title: "Trump orders most U.S. troops out of Somalia, continuing post-election drawdown"
+excerpt: "The Pentagon said Friday it is pulling most U.S. troops out of Somalia on President Donald Trump’s orders, continuing a post-election shrink."
+publishedDateTime: 2020-12-05T07:26:00Z
+originalUrl: "https://www.usatoday.com/story/news/world/2020/12/04/donald-trump-pulls-most-700-u-s-troops-out-somalia/3831229001/"
+webUrl: "https://www.usatoday.com/story/news/world/2020/12/04/donald-trump-pulls-most-700-u-s-troops-out-somalia/3831229001/"
+ampWebUrl: "https://amp.usatoday.com/amp/3831229001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3831229001"
 type: article
-quality: 130
+quality: 136
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543403980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB300L"
-    width: 815
-    height: 545
+  - url: "https://www.gannett-cdn.com/presto/2020/11/27/NLED/ae1f5043-44da-4f76-a9e9-36285e5cc516-somalia.jpg?auto=webp&crop=5310,2987,x0,y251&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -63,22 +63,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump orders most U.S. troops out of Somalia, continuing post-election drawdown"
-    excerpt: "The Pentagon said Friday it is pulling most U.S. troops out of Somalia on President Donald Trump’s orders, continuing a post-election shrink."
-    publishedDateTime: 2020-12-05T07:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/12/04/donald-trump-pulls-most-700-u-s-troops-out-somalia/3831229001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3831229001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3831229001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 136
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/27/NLED/ae1f5043-44da-4f76-a9e9-36285e5cc516-somalia.jpg?auto=webp&crop=5310,2987,x0,y251&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live"
     excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
     publishedDateTime: 2020-12-02T14:32:00Z
@@ -110,6 +94,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/27/a84e6a05-6f92-418a-b995-bfbb250c7869/thumbnail/1200x630/c7323ae807fae8f6e60d60695c3e44ae/trump-white-house-diplomatic-room.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
+    excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
+    publishedDateTime: 2020-12-04T06:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E012"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E012"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 130
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543403980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB300L"
+        width: 815
+        height: 545
         isCached: true
   - title: "'Don't talk to me that way': Trump lashes out at White House reporter over election question"
     excerpt: "Trump angrily admonished Reuters reporter Jeff Mason after he asked if he would concede the election after the Electoral College voted for Biden."
@@ -795,6 +795,6 @@ related:
         height: 683
         isCached: true
 
-secured: "2VL1IvUBeOveosCzyPllVDqHqIPFwk90QmifL9ZlvOlVOQNqMp/hRLixhnsSP3ArYLwP+X652tK27fh7y6hO6mTkmYmzCLN2btzCdrfMEjb3Dy10fc+LBURhOUIXbrVWuBP5wm6bLFlt0cNNbQD1zxHiKt2eUsjm5N33/LtDJm4jMUwDFfne3N6Pd+d4GBRk6dX51t78xbpmIRpnUOklQP4E8xJbZHAiYmj1xq/UcePw22NflieuVSqMX3m+aKbnEKGxHTogZVE/r94X2UeQ8fu1TvH3KqhSJKo+BG7YfG1qBmyc4Lr/iG6u1SkXV6UV32l0m9QufW+C4bHuyEnDUAzC7+DGKSGze9t+qA1bxlI=;UpbpMbGF2frmkCu15FIOnw=="
+secured: "3gwkoin62twfB/CFgOHkWv6lDa26W1+INCGR+bJggbRAWrUwhC21W1KKT/wrV3iMKQqsSwX4IhSKCYrglog03bnZ9rQSkXv/6s7B1Qk3pQ3WWPXZ0WF0X8Co9O8lJ2FoEBqFpw2fE4qfVNfkrbjhC+LIySA1LQrbCKdELBAFAebg3fgV+au4SFYXjvyBK5zrVOE5zME8N8koo0bEjJD8qNsu7OguWrqLf5QQuISStwYJbuq1QTpyUHg1SjHNOx4o4tgjvyRsHSixu+7B3rnzfu+haNBLhc5ue1YGLQ04BX7gIxm5UBqBJhUvtSBpumk5yYK0yl0amCpDAZVbuoRoCr2/KU4Nu76cnKiURB/YyV0=;WgTduKGnujmi1FuKmt6mbA=="
 ---
 

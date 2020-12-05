@@ -1331,6 +1331,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "7PQOvn9j7MgX+ZHS2F7YAJ3Iw3MJGXyigUG/d7fP4ywiKhmt0n6pGm6Ix39BiFpZ8wmrr0dpOJLvlgO47PgITIf7q9+cs/rnaA5yp/Dnfle4hiplNs9KQyg+GoxFF9zCo0hHoG7JB1tJkjinCNvVivdzwhApHXkj7E0Pn+Ukfgnm3Wf/INgnndnbKbNc+ku0Sa/qsrAJW47hmZjyImEeMXrqSkBAqlrf+NAS9bo72wtE/OUhD/3poAkCsXbjyPUnM+eKVFurB6gcyQpWaCcp4EEcL5fjH8xTEaghw5LY1+A5PXwMJvePQzPzonA2KKdCBlamyZ2o54qx3xdmCnaBh+Ls3O9bnO11SEz8QUtmXb8=;ZI3w9yOrfoMs3xkphd3WLA=="
+secured: "g+QhOgt2Y0BSG8/yojgXApgjIZh5tYjHr2MZm0JOW8mWddRBJdCusY8/6aj8fo13AOqIvSwnX7IDeM3Ux0zqrVb4i/gRpww4PTrKU/fMl4yDq3BYtByB9WTk1lMT2NZxeYqvsx5OeltdB2c3DJmX4klOv2qV+PZleX1ItJw3PCKFkCyO1PtpaeOAVs/n5oqHul/N1wd7Q/CGmlbRu9aHF08WKBjjJh30LnHtsCxa2HzuZs99PPGeovYKEjzqhHchgoU3ADmWUiEki+s/Qq3c2Mu/J56ZUE+TF9BWwQguFsQhnCbnHlW+vrJoSOngoUGsKAUJgBVqW1RPgbfOzDYMe/nR/WBX+smbIhiuCLLzYjnIiZ2kFEuyz/dAbpxVyVYlwnyaZn4J+TrDV0WE7Crba1kvB7oTVGN8w9j3P0sjeffL/gE3LXbFr51fH+D/MAdK+rduEEETEEtTq+1SKlYukPR7WhVy1EJgKr9rlLtXNBCxm8oJmjhWIGI61+vTfxrlv3TlRl0ZMn/M/vzTm8zmlg==;qxm+cFaUcRtv9FF4IltCBw=="
 ---
 

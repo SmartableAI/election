@@ -57,6 +57,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump orders most U.S. troops out of Somalia, continuing post-election drawdown"
+    excerpt: "The Pentagon said Friday it is pulling most U.S. troops out of Somalia on President Donald Trump’s orders, continuing a post-election shrink."
+    publishedDateTime: 2020-12-05T07:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/world/2020/12/04/donald-trump-pulls-most-700-u-s-troops-out-somalia/3831229001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3831229001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3831229001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/27/NLED/ae1f5043-44da-4f76-a9e9-36285e5cc516-somalia.jpg?auto=webp&crop=5310,2987,x0,y251&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live"
     excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
     publishedDateTime: 2020-12-02T14:32:00Z
