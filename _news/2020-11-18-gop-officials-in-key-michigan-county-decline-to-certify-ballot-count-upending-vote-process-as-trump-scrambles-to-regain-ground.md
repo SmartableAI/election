@@ -1030,6 +1030,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Under Trump, New Anti-Abortion Rules Shook Fragile Health Systems Around the World"
+    excerpt: "President-elect Joe Biden inherits a global health landscape changed by the Trump administration more than under any Republican president since Ronald Reagan."
+    publishedDateTime: 2020-11-24T18:06:00Z
+    webUrl: "https://www.npr.org/2020/11/24/938519690/under-trump-new-anti-abortion-rules-shook-fragile-health-systems-around-the-worl"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 99
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/24/gettyimages-1051867602_wide-e6b8e73289b7438b356931c20496ebda39d52e3c.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
 
 secured: "p5z/BbckRN/A/TSAy0lCLTQjo1ANp0O84lw5gxfSS5JHJOV9KZYWZLOGdvWQ4kc2mr2AaFjO5HtwPIzFwYHXeEXV88UgAIxyR9ELgx2qud7LsKo1u3fmQ3zzbSumQlh9zGpA8FrZtMgSW67WdUUlN5l0xDgL2XsKtNMUTqHkeTNlIKSpBFx4oInimFQa1c/OPxhWkB5aDdRYP/RfR7ovIXYyRKgJUn74HPtPeLYXU9W5rgb2ancV2HjdTZWO5Zzx6DVqrUZVt3ecDVxf5sL2Rdw1ePvNZVk93S0Lf6WIm4wvShIJAbLyi5pjAaRqzz6wwAbL2tTeky9mHl3QSf3ek+iN0th6zwgCzd+QqE2xm4M=;XN2dfftpZhWXtrRnnanCZg=="
 ---

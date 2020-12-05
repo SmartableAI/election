@@ -31,85 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Former head of U.S. election security calls Trump team fraud allegations 'farcical'"
-    excerpt: "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\"."
-    publishedDateTime: 2020-11-28T01:36:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-krebs-idINKBN28801I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28801I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28801I"
+  - title: "Who needs Russia? Loudest attacks on US vote are from Trump"
+    excerpt: "In the weeks before the presidential election, federal authorities warned that foreign countries could spread false information about the results to discredit the legitimacy of the outcome"
+    publishedDateTime: 2020-11-21T18:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/russia-loudest-attacks-us-vote-trump-74325908"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/russia-loudest-attacks-us-vote-trump-74325908"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/russia-loudest-attacks-us-vote-trump-74325908"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 134
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542720087&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR00W"
-        width: 753
-        height: 545
-        isCached: true
-  - title: "Romney blasts ‘undemocratic’ Trump for pressuring Republicans to overturn election results"
-    excerpt: "Romney joined Sen. Ben Sasse (R-Neb.) on Thursday as the only GOP senators to publicly oppose the president, as Trump and his campaign continue lobbing baseless allegations of widespread voter fraud in Michigan and other states."
-    publishedDateTime: 2020-11-20T20:57:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 130
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4LIIIYRDVII6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump lashes out on Twitter as former top DHS official reasserts that election was ‘secure’"
-    excerpt: "Trump turned to his Twitter feed to excoriate Christopher Krebs and \"60 Minutes,\" calling it “fake news,” and reasserting his unproven claims that the election was rigged."
-    publishedDateTime: 2020-11-30T10:55:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 130
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-30-2020/t_9e28b00823cd4f17b4113e591f25ba7c_name_Screen_Shot_2020_11_29_at_11_52_16_PM.png&w=1440"
-        width: 1440
-        height: 800
-        isCached: true
-  - title: "Tucker Carlson calls out Trump's election lawyer for refusing to show evidence supporting the president's baseless voter fraud claims"
-    excerpt: "Some of President Donald Trump's false election fraud claims are apparently a bridge too far for one of Trump's biggest Fox News boosters."
-    publishedDateTime: 2020-11-20T16:43:00Z
-    webUrl: "https://www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5fb7d98650e71a0011556726?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Ivanka Trump calls New York investigations into Trump Organization tax write-offs political 'harassment'"
-    excerpt: "\"This is harassment pure and simple,\" said Ivanka Trump after it was reported subpoenas were issued in connection with a consulting fee she was paid."
-    publishedDateTime: 2020-11-20T17:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/20/ivanka-trump-calls-investigations-trump-organization-taxes-harassment/6354080002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6354080002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6354080002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/681af82e-b400-457d-9906-c0af2393d801-AP_Election_2020_Trump.jpg?auto=webp&crop=2659,1496,x326,y133&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b02740a5fba14ae7b27cb28de2934cc4_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "AxA71NQUl8uppwrbQAivueb7CzTf50m4/ErCFJN5+kpc1w64+bYg/wQEHMnYIJc38BkTd1oqWLO/7dzadiZxhVWdEz82aHCdjAV2zPlnBjDZ2F8xrbo8bZaMeu5ha7d4QGgNmIux89Hn1eBWgK0QauqezUGAJOuZ75Pli38D7p6HdADq/djiGmYDEzAinqft4S9jYm/LOAlB6j2SQW7oNAVAAaSyim+8RQRKPJ7b8faouRbskPfP/d539dqYj6av7o15OTHzjjC9Ty5PCxP9dDrRgSZws8y9c4EF8WJfyzH70hloDTEAuYg6Z1F5phqEm9B/mGuT6eGbtlONRLWwYXdUrBulaOjPdvYGjSDah1I=;aoPWDK9+orVJ1EJ1nDZuzA=="

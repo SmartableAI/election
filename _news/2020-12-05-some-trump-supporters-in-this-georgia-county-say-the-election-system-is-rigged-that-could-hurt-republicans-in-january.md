@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "All eyes are on Georgia ahead of Trump's rally and Senate debate"
+    excerpt: "The eyes of the political universe will turn to Georgia this weekend, as the voter registration deadline for January's Senate runoffs approaches.\n    \n"
+    publishedDateTime: 2020-12-05T16:00:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SJKKQCLU4DE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/georgia-state-of-play/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/georgia-state-of-play/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202101313-warnock-ossoff-perdue-loefler-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Donald Trump Jr. aides launch super PAC as Georgia worries mount"
     excerpt: "The president's son stars in a new ad campaign as Republicans worry Trump's voter fraud accusations will depress GOP turnout in the Senate runoffs."
     publishedDateTime: 2020-11-30T09:44:00Z

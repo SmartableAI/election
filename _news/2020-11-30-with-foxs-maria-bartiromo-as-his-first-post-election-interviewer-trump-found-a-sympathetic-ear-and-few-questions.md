@@ -31,265 +31,117 @@ images:
     isCached: true
 
 related:
-  - title: "Trump ally banned from Justice Department after seeking sensitive election intel: report"
-    excerpt: "The official serving as President Donald Trump’s eyes and ears at the Justice Department has been banned from the building after trying to pressure staffers to give up sensitive information about election fraud and other matters she could relay to the White House,"
-    publishedDateTime: 2020-12-03T20:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/03/trump-ally-heidi-stirrup-banned-doj-after-seeking-election-intel/3814426001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3814426001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3814426001"
+  - title: "Trump lashes out on Twitter as former top DHS official reasserts that election was ‘secure’"
+    excerpt: "Trump turned to his Twitter feed to excoriate Christopher Krebs and \"60 Minutes,\" calling it “fake news,” and reasserting his unproven claims that the election was rigged."
+    publishedDateTime: 2020-11-30T10:55:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 130
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-30-2020/t_9e28b00823cd4f17b4113e591f25ba7c_name_Screen_Shot_2020_11_29_at_11_52_16_PM.png&w=1440"
+        width: 1440
+        height: 800
+        isCached: true
+  - title: "'Don't talk to me that way': Trump lashes out at White House reporter over election question"
+    excerpt: "Trump angrily admonished Reuters reporter Jeff Mason after he asked if he would concede the election after the Electoral College voted for Biden."
+    publishedDateTime: 2020-11-27T16:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/president-donald-trump-snaps-reuters-reporter-jeff-mason/6436651002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6436651002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6436651002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 131
+    quality: 129
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/37828913-dfc7-4783-bf2b-9e3ac6633562-AFP_AFP_8UX3YC.jpg?auto=webp&crop=5306,2985,x0,y63&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/27/USAT/536f926b-b9a6-40f9-a967-1a3409fc583c-AFP_AFP_8VY78B.jpg?auto=webp&crop=5759,3240,x0,y332&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Barr sees no sign of major U.S. vote fraud despite Trump's claims"
-    excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department has found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
-    publishedDateTime: 2020-12-02T10:11:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28B5UK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28B5UK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28B5UK"
+  - title: "Trump officials move to relax rules on killing birds"
+    excerpt: "The Trump administration published an environmental analysis Friday finding that its proposal not to hold companies responsible for killing birds “incidentally” would not cause undue harm, clearly the way for it to finalize the rollback before the president’s term ends on Jan."
+    publishedDateTime: 2020-11-27T15:51:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
-        width: 1022
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOKXIAFSLII6TLGIDWCHXLGKOM.jpg&w=1440"
+        width: 1440
+        height: 972
         isCached: true
-  - title: "Could Trump preemptively pardon his family — or even himself?"
-    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
-    publishedDateTime: 2020-12-04T00:49:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28D1FN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D1FN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D1FN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543344545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Senate vote likely next week on blocking Trump's massive UAE arms sale"
-    excerpt: "The top Democrat on the U.S. Senate Foreign Relations Committee said he expected lawmakers would vote as soon as next week on resolutions seeking to block Republican President Donald Trump's $23 billion weapons sale to the United Arab Emirates."
-    publishedDateTime: 2020-12-03T18:51:00Z
-    webUrl: "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28D2XS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D2XS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2XS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543367325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21NU"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Drug industry trade groups sue Trump admin over drug pricing rule"
-    excerpt: "Drug industry trade groups filed two lawsuits against the Trump administration on Friday challenging new U.S. rules to lower drug prices, potentially undermining one of President Donald Trump's flagship efforts to take on high drug costs."
-    publishedDateTime: 2020-12-05T05:43:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-drug-pricing-idUSKBN28E2KI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E2KI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E2KI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543504641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31RG"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "Explainer: Could Trump preemptively pardon his family — or even himself?"
-    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
-    publishedDateTime: 2020-12-03T11:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-pardon-idINKBN28D1IC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28D1IC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28D1IC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543317980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Explainer: Could Trump preemptively pardon his family — or even himself?"
-    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
-    publishedDateTime: 2020-12-03T16:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-pardon/explainer-could-trump-preemptively-pardon-his-family-or-even-himself-idINKBN28D1IC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28D1IC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28D1IC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543344545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Despite Trump's continued claims, Barr sees no sign of major U.S. vote fraud"
-    excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department had found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
-    publishedDateTime: 2020-12-02T01:52:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-idAFKBN28B5UH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28B5UH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28B5UH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543116416&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03NK"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "U.S. Supreme Court weighs Trump bid to bar illegal immigrants from census totals"
-    excerpt: "The Supreme Court on Monday is set to take up President Donald Trump's unprecedented and contentious effort to exclude illegal immigrants from the population totals used to allocate U.S. House of Representatives districts to states."
-    publishedDateTime: 2020-11-29T12:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN2890F4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890F4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890F4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542800006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS09M"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Justices skeptical of Trump bid to exclude all undocumented immigrants from census"
-    excerpt: "President Donald Trump's sweeping order to exclude all undocumented immigrants from the 2020 Census faced skepticism Monday from a majority on the U.S. Supreme Court."
-    publishedDateTime: 2020-11-30T19:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/justices-skeptical-trump-bid-exclude-undocumented-immigrants-census/story?id=74465536"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/justices-skeptical-trump-bid-exclude-undocumented-immigrants-census/story?id=74465536"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/justices-skeptical-trump-bid-exclude-undocumented-immigrants-census/story?id=74465536"
+  - title: "Judge throws out Trump rules limiting skilled-worker visas"
+    excerpt: "A U.S. judge in California has struck down two Trump administration rules designed to drastically curtail the number of visas issued each year to skilled foreign workers"
+    publishedDateTime: 2020-12-02T14:12:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/judge-throws-trump-rules-limiting-skilled-worker-visas-74493314"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/judge-throws-trump-rules-limiting-skilled-worker-visas-74493314"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/judge-throws-trump-rules-limiting-skilled-worker-visas-74493314"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 119
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/supreme-court-rt-jt-201130_1606763537529_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_116ebf0bcf7d4a8ab707549e3f5a4652_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump aide banned from Justice Dept. after pressuring staffers for case information"
-    excerpt: "A Trump aide at the Justice Department has been banned from the building after trying to pressure staff members for sensitive case information."
-    publishedDateTime: 2020-12-04T10:23:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department?_amp=true"
+  - title: "The only experts Trump wants his supporters to rely on are themselves"
+    excerpt: "Trump is trying, unsuccessfully, to use it in the latter sense. He's unsuccessful because the idea that Republicans lower on the ticket might do better than Republicans higher on"
+    publishedDateTime: 2020-12-03T20:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/03/only-experts-trump-wants-his-supporters-rely-are-themselves/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/03/only-experts-trump-wants-his-supporters-rely-are-themselves/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/03/only-experts-trump-wants-his-supporters-rely-are-themselves/?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 119
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/4a0f100/2147483647/strip/true/crop/5224x3412+0+37/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Fa4%2Ffc0b18963aad988309de671ad9b7%2F119a28a48b65471da8e7610b476cf7ad"
-        width: 320
-        height: 209
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELNV3VRT7AI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "‘Betrayed’ Black asylum seekers say Trump administration is ramping up deportations by force and fraud"
-    excerpt: "ICE uses physical abuse, solitary confinement and false documents to force Black and African asylum seekers onto 'death planes,' The Times has found through interviews and legal documents."
-    publishedDateTime: 2020-11-27T12:13:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true"
+  - title: "Twitter keeps flagging Trump for disinformation because Trump keeps tweeting disinformation"
+    excerpt: "This is a nonsense turducken, a false claim from a disreputable source stuck into a Trump tweet that layers on its own falsehood. The claims about Dominion voting machines are fal"
+    publishedDateTime: 2020-12-02T16:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/twitter-keeps-flagging-trump-disinformation-because-trump-keeps-tweeting-disinformation/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/twitter-keeps-flagging-trump-disinformation-because-trump-keeps-tweeting-disinformation/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/twitter-keeps-flagging-trump-disinformation-because-trump-keeps-tweeting-disinformation/?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 109
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/aa4cd1d/2147483647/strip/true/crop/5785x3778+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2Fc4%2F01af9ef14b14aec3e57f0fd96307%2Ftrump-64946.jpg"
-        width: 320
-        height: 209
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H2KWBWRFJAI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 978
         isCached: true
-  - title: "Trump returns to the White House from Camp David"
-    excerpt: "President Donald Trump returned to the White House on Sunday after spending the Thanksgiving holiday break with his family at Camp David. (Nov. 29)"
-    publishedDateTime: 2020-11-29T20:14:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/29/trump-returns-white-house-camp-david/6457672002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/98e5c227-dd38-4ef0-aabd-82799a517b55_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Rudy Giuliani talked to Trump about getting a preemptive pardon before the president leaves office, report says"
-    excerpt: "Giuliani is the focus of a federal criminal investigation into whether he violated foreign lobbying laws through his dealings in Ukraine."
-    publishedDateTime: 2020-12-01T15:49:00Z
-    webUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
+  - title: "Donald Trump spent Thanksgiving night railing against Section 230 on Twitter as #DiaperDon went viral"
+    excerpt: "Twitter users mocked the president using the hashtag #DiaperDon after he sat at a smaller-than-usual table during a news conference."
+    publishedDateTime: 2020-11-27T12:31:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-calls-end-section-230-diaperdon-goes-viral-twitter-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-calls-end-section-230-diaperdon-goes-viral-twitter-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-calls-end-section-230-diaperdon-goes-viral-twitter-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
+    quality: 110
     images:
-      - url: "https://i.insider.com/5fb7b84b32f2170011f7040d?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fc0e445037cbd00186128d1?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
-    excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The Associated Press on Sunday."
-    publishedDateTime: 2020-11-30T19:14:00Z
-    webUrl: "https://www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/source-pa-lawmaker-gets-a-positive-test-at-trump-meeting-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Lawmakers bristle after Trump threatens defense bill veto"
-    excerpt: "President Donald Trump is closing out his relationship with Congress with one more power jab, threatening to veto a hugely popular defense bill unless lawmakers clamp down on big tech companies he claims were biased against him during ."
-    publishedDateTime: 2020-12-03T09:11:00Z
-    webUrl: "https://www.businessinsider.com/lawmakers-bristle-after-trump-threatens-defense-bill-veto-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/lawmakers-bristle-after-trump-threatens-defense-bill-veto-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lawmakers-bristle-after-trump-threatens-defense-bill-veto-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
-    excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The."
-    publishedDateTime: 2020-11-30T05:35:00Z
-    webUrl: "https://www.chron.com/news/article/Source-Pa-lawmaker-gets-a-positive-test-at-15762212.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Source-Pa-lawmaker-gets-a-positive-test-at-15762212.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Source-Pa-lawmaker-gets-a-positive-test-at-15762212.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
 
 secured: "L+wLg3MBrE9HW5bmqfnt153oEjils2mNyLYGkfn4fGDwYI+kJCC0B8L8ark90Aua8mN/qzzEq3EwpljCQnrDZ1v1vN80EeKBU3RTYZSkC2FGlTFfa/SPDbIBzqfUt43NGx6iVtzQCjS6wYszvZakuUslpn2aliOchs3NVkrbl54Jpc46gUMCqnDA3lh8TCA/mWUoClBxoeD+JiCCLsn6y+WPNssVNpQ+LgkSpYSrus48A2nO7FqJzP4WQ/HFQxJS8fArG7O5/qUTNXIIGpD2ZhYoPGkctUTsYkaLE/yCMEkRUClfdXAGx1/qkZdUqRWZikTkTCj/1vY6FzvVngL592ALpcYxCakPOVUWYgdyR6qY8uqAM/lZTiHO39JiP1Q05FzcrJxur/XBI6y+COUP6Xrbev1cnG4GUJ6uTk6g1rg3WMXz4gWc/bryeYO3bCavkmwkkmaf/0XX28u1FJHPKFHF7OQ3+1azoxUlrWk5TkZ5iGFFwsw3ugxPscRgDo9I5ovkgjtU7GEd4gMyMTxLdw==;8oql/4qJCelnEFETDtMmlA=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z343"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z343"
 type: article
 quality: 125
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,88 @@ images:
     width: 816
     height: 545
     isCached: true
+
+related:
+  - title: "An anonymous senior Trump campaign advisor said Trump 'basically just conceded' by 'recommending' that the GSA start the Biden-Harris transition"
+    excerpt: "Emily Murphy, the head of the General Services Administration, has allowed President-elect Joe Biden to access resources to begin the transition."
+    publishedDateTime: 2020-11-24T14:03:00Z
+    webUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
+    images:
+      - url: "https://i.insider.com/5fbc971050e71a0011556fe8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden says U.S. 'ready to lead' again on global stage"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday began a new phase in his transition to the White House after the Trump administration gave the Democrat access to critical resources that will enable him to take the reins of power in January."
+    publishedDateTime: 2020-11-25T00:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/biden-forges-ahead-with-building-team-after-trump-clears-way-for-transition-idUSKBN2841BA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2841BA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2841BA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542321930&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1GU"
+        width: 801
+        height: 545
+        isCached: true
+  - title: "Biden hires all-female senior communications team"
+    excerpt: "Biden’s press team will be led by Kate Bedingfield, a veteran Biden aide who served as his campaign communications director and will hold the same title in his White House. “Communicating directly and truthfully to the American people is one of the most important duties of a President,"
+    publishedDateTime: 2020-11-29T21:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TGSF3ORSRII6XDJYNLVBVWZYHE.jpg&w=1440"
+        width: 1440
+        height: 956
+        isCached: true
+  - title: "President-elect Joe Biden hires all-female communications staff"
+    excerpt: "Harris administration appointed the country's first all-female communications team to relay messages from the White House."
+    publishedDateTime: 2020-11-30T00:29:00Z
+    webUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fc4269350e71a0011557de4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "State Department tells staff: transition to Biden administration has begun"
+    excerpt: "The U.S. State Department has informed staff that the transition process has begun and a team had been assigned inside the agency to support a handover to the incoming Biden administration, according to an internal email seen by Reuters on Wednesday."
+    publishedDateTime: 2020-11-26T00:10:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-statedepartment/state-department-tells-staff-transition-to-biden-administration-has-begun-idUSKBN2852XS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852XS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852XS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542458526&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1KP"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "atcekd6owyK4VbeGCKcjWwEzNvoN7HR/XhrwnVwEv786z8POrvP2ZXhCPtaBuPun60AXnSzVcNRpxFimLSrdRskJfUv6HytbiudAc2vziDh+yEWt90xoSJS9fuHsPTXaljM3B5rPmY9yOnVWen1sekXaO+TVNLu59cDPxxA55RF1nYZbveH2FDJhsQ6uBO9Zm+vSyRMQzXEwA01Emz6hbc0yoD2Jsjwf9SpgIvufOZplOJ3x0hE1Z9fo9U4tsYBuAyL7/zFqbs2NXQfJPtsYgTUe/AgsP+q7xmHDGxIpFZakA7rraD3yG1GvE5TTxDnH7vG0iKJbvm3Bq+yOAdVg+k93V8iVmTBmU4MF95/SRxlKaw0MWobxqWWpMD/rLGT3GB4LdHnd9sCbkxXdu5RZnjDjx/bqiavpYaAZFM47bCx+whI06Y/5eYzcNYeATzScBVAwzIrFtcr0TzqlTBji89puQvjyO2Z6ffX3zSuHATMBsqhSnji3m03PwcTOGlK5fd9GiPhnfNGNWwGvAtGhiA==;xBpFKVfJqaX27UELZMaZ9g=="
 ---

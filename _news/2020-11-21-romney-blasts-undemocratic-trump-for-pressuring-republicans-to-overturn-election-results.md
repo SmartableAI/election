@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-u
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp"
 type: article
 quality: 130
-heat: -1
-published: false
+heat: 250
+published: true
 
 provider:
   name: Washington Post
@@ -31,85 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Former head of U.S. election security calls Trump team fraud allegations 'farcical'"
-    excerpt: "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\"."
-    publishedDateTime: 2020-11-28T01:36:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-krebs-idINKBN28801I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28801I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28801I"
+  - title: "UPDATE 1-Trump's Fed pick Shelton draws third Republican 'no'"
+    excerpt: "A third senator said he would oppose Republican U.S. President Donald Trump’s controversial pick for the Federal Reserve, former economic adviser Judy Shelton, narrowing the margin of her support but likely not eliminating her chance at confirmation."
+    publishedDateTime: 2020-11-16T20:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-fed-shelton/update-1-trumps-fed-pick-shelton-draws-third-republican-no-idUSL1N2I22EO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2Q6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2Q6"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 134
+    quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542720087&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR00W"
-        width: 753
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1I1"
+        width: 817
         height: 545
         isCached: true
-  - title: "Trump lashes out on Twitter as former top DHS official reasserts that election was ‘secure’"
-    excerpt: "Trump turned to his Twitter feed to excoriate Christopher Krebs and \"60 Minutes,\" calling it “fake news,” and reasserting his unproven claims that the election was rigged."
-    publishedDateTime: 2020-11-30T10:55:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/?outputType=amp"
+  - title: "The Latest: Romney slams Trump efforts as 'undemocratic'"
+    excerpt: "Two Republican senators are criticizing President Donald Trump and his team for their efforts to pressure state and local election officials to overturn President-elect Joe Biden’s victories in severa"
+    publishedDateTime: 2020-11-20T17:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-pelosi-schumer-delaware-biden-74303461"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-pelosi-schumer-delaware-biden-74303461"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-pelosi-schumer-delaware-biden-74303461"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_07a8807fdbb448b98d57c9140be12ac8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Swimming through the ‘Trump Undertow’"
+    excerpt: "Hugh Hewitt declared in his Nov. 23 op-ed, “The enduring impact of the Trump Undertow,” that the much-vaunted “will of the people” is worth less to him than a Republican win. His glee that the GOP will now have more control of reapportionment following the census gives the game away. His party, he crowed, will be able to redraw congressional districts and the electoral college to give an outsize value to Republican votes. We are not interested in democracy, just in power. All’s fair — if it works. This is the attitude of his party’s current leader, and Mr. Hewitt is happy to embrace it. He functions as a good party operative. Support our journalism. Subscribe today. In a lame stab at justifying this, he attempted to minimize President-elect Joe Biden’s win, by complaining that President Trump lost by a mere stadium full of votes in key states. He did not try to deal with the actual 6 million-vote difference. This is apparently just a game to Mr. Hewitt. Forget that our lives are at stake. He wants to win, and the future of the nation takes a back seat. Is this patriotism? Only in his painfully abridged vocabulary. I seldom get a laugh out of Hugh Hewitt’s columns, but one line in his Nov. 23 op-ed made me laugh out loud: “The party Trump leads is reluctant to tilt at legal windmills.” What has President Trump been doing since Nov. 3 but tilting at legal windmills? Actually, no, he isn’t tilting at windmills, because windmills are physical realities. Mr. Trump is tilting at phantoms, ghosts. Fever dreams. Illusions. He has filed more than 30 lawsuits, and most were found by courts to be without legal merit and baseless. Not founded on facts. Great big nothingburgers. So, many thanks to whatever op-ed editor left that line in the column when it was on its way to print. It’s fantastic. (In both meanings of the word.)"
+    publishedDateTime: 2020-11-27T02:22:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/swimming-through-the-trump-undertow/2020/11/25/5d19bd9e-2da9-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/swimming-through-the-trump-undertow/2020/11/25/5d19bd9e-2da9-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/swimming-through-the-trump-undertow/2020/11/25/5d19bd9e-2da9-11eb-9dd6-2d0179981719_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 130
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-30-2020/t_9e28b00823cd4f17b4113e591f25ba7c_name_Screen_Shot_2020_11_29_at_11_52_16_PM.png&w=1440"
-        width: 1440
-        height: 800
-        isCached: true
-  - title: "GM dumps Trump in his attempt to bar California from setting emissions"
-    excerpt: "GM urges other carmakers to withdraw support of the Trump administration's attempt to bar California from setting its own emission rules."
-    publishedDateTime: 2020-11-24T00:01:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/11/23/gm-trump-california-emissions-biden/6401627002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6401627002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6401627002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/34c91a8fdf1511f71134089b998fd833d033cdc4/c=0-36-512-325/local/-/media/2016/10/25/DetroitFreePress/DetroitFreePress/636129760971560378-GM-logo-with-flag-2-.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 677
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ROPITHRON4I6XBQN66MZLGOLYI.jpg&w=1440"
+        width: 1440
+        height: 988
         isCached: true
-  - title: "Tucker Carlson calls out Trump's election lawyer for refusing to show evidence supporting the president's baseless voter fraud claims"
-    excerpt: "Some of President Donald Trump's false election fraud claims are apparently a bridge too far for one of Trump's biggest Fox News boosters."
-    publishedDateTime: 2020-11-20T16:43:00Z
-    webUrl: "https://www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11?amp"
+  - title: "Trump reportedly told an ally he knows he lost the 2020 election but wants revenge on Democrats for disputing his 2016 win"
+    excerpt: "He is refusing to concede partly because he is still furious that Barack Obama and Hillary Clinton said Russia helped him win in 2016, CNN reported."
+    publishedDateTime: 2020-11-20T10:58:00Z
+    webUrl: "https://www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 109
+    quality: 114
     images:
-      - url: "https://i.insider.com/5fb7d98650e71a0011556726?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa2d44269331a0011bc73d9?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Ivanka Trump calls New York investigations into Trump Organization tax write-offs political 'harassment'"
-    excerpt: "\"This is harassment pure and simple,\" said Ivanka Trump after it was reported subpoenas were issued in connection with a consulting fee she was paid."
-    publishedDateTime: 2020-11-20T17:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/20/ivanka-trump-calls-investigations-trump-organization-taxes-harassment/6354080002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6354080002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6354080002"
+  - title: "Republicans leaders privately described Trump as a political liability and said they faced losing Senate runoffs"
+    excerpt: "Republican Sens. David Perdue and Kelly Loeffler reportedly expressed concern about an anti-Trump vote in a call about runoff elections in Georgia."
+    publishedDateTime: 2020-11-20T10:59:00Z
+    webUrl: "https://www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/681af82e-b400-457d-9906-c0af2393d801-AP_Election_2020_Trump.jpg?auto=webp&crop=2659,1496,x326,y133&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5fb3c253d980a12837167e3a?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
+        isCached: true
+  - title: "A Trump speechwriter who was sacked in 2018 for meeting white nationalists has been rehired to oversee US Holocaust memorials"
+    excerpt: "President Donald Trump appointed Darren Beattie to join the Commission for the Preservation of America's Heritage Abroad on Wednesday."
+    publishedDateTime: 2020-11-19T10:51:00Z
+    webUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5fb64cfa32f2170011f6ff67?width=1200&format=jpeg"
+        width: 1064
+        height: 532
         isCached: true
 
 secured: "pM6euV8cy2uI6AViUiv/5+ax4eQkhuzgqX49rWw64Y5gDatHnx0ml7a3UX3N8xHpkzkQjHRUCIuNm4s4HHv7KWMCZKBesNfHewVVPw0OGlFH9Rc3EnhG/sumieDKM8aLzTiwp53vd13Fcek5y4pB3UJSIHtdET7uePYMTR03s0DYN7hqVc/3fOqg0Yuy2HtqNBwcXu8Eqp0JUXp5QYMsLZmwph2/e1wUqafTsRN1loy2LlA2AqYRlfjp9XS5Oro/gc+o5RmhEzwAs043A40sNNCrIIn8IOaGV6bMjbdXt3SBC6jmlU+ZJOLb/m7YhiNIEmfl+73kK+Q7XLBYl3cOko1ak3yZLARmT/wk7gXEvVM=;4vJgas67xfmDh9tBdQU7hQ=="

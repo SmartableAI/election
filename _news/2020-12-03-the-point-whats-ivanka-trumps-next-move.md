@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/ivanka-trump-whats-next/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/ivanka-trump-whats-next/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "New combative Ivanka Trump sparks questions about her future"
+    excerpt: "A more combative Ivanka Trump has emerged with little more than one month left in her role as adviser to President Donald Trump, as the first daughter makes a conscious effort to publicly push back on her critics.\n    \n"
+    publishedDateTime: 2020-12-05T16:41:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kbwRoBVXXVQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/ivanka-trump-future/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/ivanka-trump-future/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202192457-ivanka-trump-deposition-lawsuit-inaugural-committee-scannell-tsr-vpx-00000930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "KMi6LLrP99x8R5u4KgRAQxjlqcAb6GbKzqUvPHWZQtGoBB9lZ0AgBe55+dW1Y3PbkzZgX5eZuD3dYRsnJHRl/ieDNy59GU6027v3c//7lYZJ0cXFpEXoOyK6eua0wzR6zB11k8A8O5Nb5ig/ut8zeXlF8TweLMxcterTZ7/I844yUMpVMQ5DDCR6UglrdD1dG/Ei4FgfnjJai//o0cm0dFEBt2XaCtdn5KwZgr7ecu+yNinnC38A+Pwp7+s85eAgazs+FgQUqc9ezOC2cQeHlXWNBRUlDzOy9tDsOPRyywYR1tPIP0ys2U6dW6ULnp3hUlp6KIORu36fyY+ZbDtbYUfnM6sK7i8/8SBYdYDQvcU=;L3xzjiYBWGRKYmHxqztdlw=="
 ---

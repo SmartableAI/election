@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-03/harris-announ
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 565
+published: true
 
 provider:
   name: Bloomberg
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch live: Biden and Harris introduce key economic team members"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are set to introduce key economic team members Tuesday afternoon in Wilmington, Delaware."
-    publishedDateTime: 2020-12-01T22:27:00Z
-    webUrl: "https://www.cnbc.com/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 140
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106797646-16055585112020-11-16t202540z_641690806_rc2k4k9gobvu_rtrmadp_0_usa-biden.jpeg?v=1605558548"
-        width: 3500
-        height: 2365
-        isCached: true
-  - title: "An anonymous senior Trump campaign advisor said Trump 'basically just conceded' by 'recommending' that the GSA start the Biden-Harris transition"
-    excerpt: "Emily Murphy, the head of the General Services Administration, has allowed President-elect Joe Biden to access resources to begin the transition."
-    publishedDateTime: 2020-11-24T14:03:00Z
-    webUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 128
-    images:
-      - url: "https://i.insider.com/5fbc971050e71a0011556fe8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Kamala Harris names chief of staff, other key positions"
     excerpt: "Elect Kamala D. Harris will name Tina Flournoy Chief of Staff, the transition team announced Thursday, tapping a trailblazer with decades of Washington experience to help run the vice presidential operation."
     publishedDateTime: 2020-12-03T19:19:00Z
@@ -79,37 +47,37 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Kamala Harris Celebrates 50 Days Until Biden Is President; Sarah Cooper, Rosanna Arquette and Others Respond"
-    excerpt: "Vice President-elect Kamala Harris took to Twitter this morning to happily remind people they are only 50 days away from Joe Biden 's January 20th Presidential Inauguration. As she put it, \"Only 50 days until we get to call @JoeBiden President of the United States."
-    publishedDateTime: 2020-12-01T15:43:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522?amp=1"
+  - title: "Kamala Harris picks Tina Flournoy to be her chief of staff"
+    excerpt: "Vice President-elect Kamala Harris has named veteran Democratic strategist Tina Flournoy as her chief of staff."
+    publishedDateTime: 2020-12-03T18:03:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff?_amp=true"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1669370/kamala-harris-joe-biden.jpg"
-        width: 2500
-        height: 1668
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0bda102/2147483647/strip/true/crop/3000x1959+0+73/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2F2b%2Fe6b1728352869e91a42d682a4b5c%2F73b0762e11fb4961a09c11fc06669ad5"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Vice President-elect Kamala Harris is poised to break barriers on multiple fronts"
-    excerpt: "It was exactly one year ago Thursday that California Sen. Kamala Harris dropped out of the presidential race, citing a lack of funds. Now she is poised to break barriers as the first woman, first Black American and first South-Asian American vice president-elect."
-    publishedDateTime: 2020-12-03T22:35:00Z
-    webUrl: "https://www.pbs.org/newshour/show/vice-president-elect-kamala-harris-is-poised-to-break-barriers-on-multiple-fronts"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/show/vice-president-elect-kamala-harris-is-poised-to-break-barriers-on-multiple-fronts"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/vice-president-elect-kamala-harris-is-poised-to-break-barriers-on-multiple-fronts"
+  - title: "Kamala Harris makes history as first woman and person of color to be vice president"
+    excerpt: "Kamala Harris, the groundbreaking senator from California, has made history again -- set to become the first female vice president and woman of color in the White House. Harris, 56, the daughter of immigrants,"
+    publishedDateTime: 2020-11-07T16:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-makes-history-woman-person-color-vice/story?id=73999923"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-makes-history-woman-person-color-vice/story?id=73999923"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-makes-history-woman-person-color-vice/story?id=73999923"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 120
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/VP_tape-1024x699.jpg"
-        width: 1024
-        height: 699
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-philadelphia-rt-jt-201103_1604441807194_hpMain_16x9_992.jpg"
+        width: 992
+        height: 557
         isCached: true
   - title: "Kamala Harris calls teen who went viral for painting portrait of vice president-elect"
     excerpt: "\"You really have a gift, my goodness. I was so touched to see it,\" Vice President-elect Kamala Harris told the 14-year-old artist."
@@ -127,19 +95,33 @@ related:
         width: 909
         height: 630
         isCached: true
-  - title: "Kamala Harris on ‘the difference between charity and duty’"
-    excerpt: "Vice President-elect Kamala Harris spoke about Americans “duty\" to their communities during a Thanksgiving address at D.C. Central Kitchen on Nov. 25."
-    publishedDateTime: 2020-11-25T23:30:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/kamala-harris-on-the-difference-between-charity-and-duty/2020/11/25/099aab8d-7b0f-4e43-b68b-2eb58225965a_video.html"
+  - title: "The Latest: Kamala Harris names Tina Flournoy chief of staff"
+    excerpt: "WASHINGTON (AP) — The Latest on President-elect Joe Biden (all times local): 8:35 a.m. Vice President-elect Kamala Harris is hiring veteran Democratic strategist Tina Flournoy as"
+    publishedDateTime: 2020-12-03T13:56:00Z
+    webUrl: "https://apnews.com/article/joe-biden-al-gore-hillary-clinton-coronavirus-pandemic-bill-clinton-e2469384b1f146d798edebcbad989c36/gallery/7e31b78677014cb48d6c6c481bc05d55"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Associated Press
+      domain: apnews.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-25-2020/t_4123531793634076a85e79a952ef5903_name_harris.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
+      - url: "https://storage.googleapis.com/afs-prod/media/26f6da94effd4303ba958dd7e0b88fb8/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Dianne Feinstein backs Alex Padilla for Kamala Harris’ Senate seat"
+    excerpt: "Sen. Dianne Feinstein endorsed Alex Padilla to join her in the Senate, saying she has shared her support of the California secretary of state with Gov. Gavin Newsom. The governor must pick someone to fill out the remaining two years of Vice President-elect Kamala Harris’ term."
+    publishedDateTime: 2020-12-03T19:41:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Dianne-Feinstein-backs-Alex-Padilla-for-Kamala-15772613.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/45/35/20338528/5/rawImage.jpg"
+        width: 2048
+        height: 1377
         isCached: true
   - title: "Kamala Harris Taps Ex-Diplomat to Be Her National Security Advisor"
     excerpt: "Nancy McEldowney is one of several former senior foreign service officers expected to join the senior ranks of the new U.S. administration."
@@ -155,17 +137,6 @@ related:
         width: 1000
         height: 723
         isCached: true
-  - title: "Janet Yellen and Kamala Harris keep shattering glass ceilings – but global elite boys club remains"
-    excerpt: "Young, University of Massachusetts Amherst and Tuugi Chuluun, Loyola University Maryland (THE CONVERSATION) Janet Yellen may soon become the first woman to lead the Treasury Department, about six years after shattering another glass ceiling at the top of the Federal Reserve."
-    publishedDateTime: 2020-11-25T13:37:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 91
   - title: "Tina Flournoy, longtime Democratic strategist, named Vice President-elect Kamala Harris chief of staff"
     excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
     publishedDateTime: 2020-12-03T14:29:00Z
@@ -177,22 +148,6 @@ related:
     quality: 89
     images:
       - url: "https://www.chicagotribune.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris Shares Her Family's Favorite Cornbread Dressing Recipe"
-    excerpt: "With Thanksgiving only a couple days away, Vice President-elect Kamala Harris decided to share her recipe for cornbread dressing. “During difficult times I have always turned to cooking,” she wrote in an Instagram post on Tuesday with her recipe."
-    publishedDateTime: 2020-11-25T16:14:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-shares-her-familys-favorite-cornbread-dressing-recipe/2745847/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-shares-her-familys-favorite-cornbread-dressing-recipe/2745847/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/kamala-harris-shares-her-familys-favorite-cornbread-dressing-recipe/2745847/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
-    images:
-      - url: "https://media.nbcnewyork.com/2020/11/kamala-harris-cornbread-dressing-te-main-201125_e8382611305aa6bff826a8c0e0dfe593.fit-2000w.jpg?resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
@@ -228,21 +183,69 @@ related:
         width: 1024
         height: 766
         isCached: true
-  - title: "San Jose teen artist wows Kamala Harris, wins national acclaim"
-    excerpt: "A San Jose teen artist who recently won raves from Kamala Harris for a portrait he painted of the Vice President-elect, is now earning national acclaim. Tyler Gordon, 14, has been named a Top 5 finalist for Time magazine’s first-ever Kid of the Year honors and will be among the talented youngsters featured in a Nickelodeon television special Friday night."
-    publishedDateTime: 2020-12-04T02:09:00Z
-    webUrl: "https://www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim"
-    ampWebUrl: "https://www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim/amp/"
+  - title: "VP-elect Kamala Harris picks Tina Flournoy to be her chief of staff"
+    excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
+    publishedDateTime: 2020-12-03T17:22:00Z
+    webUrl: "https://www.denverpost.com/2020/12/03/kamala-harris-tina-flournoy-chief-of-staff-pick/"
+    ampWebUrl: "https://www.denverpost.com/2020/12/03/kamala-harris-tina-flournoy-chief-of-staff-pick/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/12/03/kamala-harris-tina-flournoy-chief-of-staff-pick/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/12/Biden_20132.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Omaha's Symone Sanders will be chief spokeswoman for VP-elect Kamala Harris"
+    excerpt: "Symone Sanders is a graduate of Mercy High and Creighton University; her mother is publisher of the Omaha Star."
+    publishedDateTime: 2020-11-29T23:29:00Z
+    webUrl: "https://omaha.com/news/local/govt-and-politics/omahas-symone-sanders-will-be-chief-spokeswoman-for-vp-elect-kamala-harris/article_0c8e95f0-b6fc-51b3-983a-593bc7d9c2e3.html"
+    ampWebUrl: "https://omaha.com/news/local/govt-and-politics/omahas-symone-sanders-will-be-chief-spokeswoman-for-vp-elect-kamala-harris/article_0c8e95f0-b6fc-51b3-983a-593bc7d9c2e3.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/local/govt-and-politics/omahas-symone-sanders-will-be-chief-spokeswoman-for-vp-elect-kamala-harris/article_0c8e95f0-b6fc-51b3-983a-593bc7d9c2e3.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 73
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/65/d65390d1-17ef-51a6-bf87-71b4ce3c5b4d/5fb53bc58afee.preview.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Democratic fight emerges ahead of appointment to fill Kamala Harris’ Senate seat"
+    excerpt: "A cross-country lobbying campaign for Vice President-elect Kamala Harris’ Senate seat has pitted factions divided by race, gender and geography against one another and heightened internal"
+    publishedDateTime: 2020-11-26T14:03:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/"
     type: article
     provider:
       name: Mercury News
       domain: mercurynews.com
-    quality: 75
+    quality: 70
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/time-koty-tyler-gordon.jpg?w=800&h=532"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_ea094ba89905318495f9d2a79bd2c69a-h_b6055c4a4a32d16317462659e297de20.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Kamala Harris visits outdoor Washington, D.C. market for Small Business Saturday"
+    excerpt: "Vice President-elect Kamala Harris stressed the importance of supporting small businesses amid the COVID-19 pandemic as she visited an outdoor market in Washington, D.C. for Small Business Saturday."
+    publishedDateTime: 2020-11-29T17:03:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 70
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5851606665676/2020/1/5226819b3561030471050fc4702b6888/v1.5/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday.jpg"
         width: 800
-        height: 532
+        height: 531
         isCached: true
   - title: "Kamala Harris has so far picked an all-women staff to aid her in the White House"
     excerpt: "Harris transition team announced Thursday that Vice President-elect Kamala Harris will name Tina Flournoy to be her chief of staff, and add Rohini Kosoglu as domestic policy adviser and Nancy McEldowney as national security adviser."
@@ -276,22 +279,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Janet Yellen and Kamala Harris keep shattering glass ceilings - but global elite boys club remains"
-    excerpt: "Janet Yellen may soon become the first woman to lead the Treasury Department, about six years after shattering another glass ceiling at the top of the Federal R"
-    publishedDateTime: 2020-11-25T18:05:00Z
-    webUrl: "https://www.chron.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 61
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Kamala Harris Announces New Staff Picks, Marking First Time Women Will Hold Top 3 Spots in VP's Office"
     excerpt: "This will be the first time in history that women will hold the top three spots in the U.S. vice president’s office."
     publishedDateTime: 2020-12-04T20:30:00Z
@@ -322,22 +309,45 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Gov. Andrew Cuomo, Dr. Anthony Fauci, Kanye West, Kamala Harris, Black Lives Matter nominated for Time’s Person of the Year"
-    excerpt: "Gov. Andrew Cuomo and Dr. Anthony Fauci have been nominated for Time’s Person of the Year. Time magazine released its list of reader poll nominees Wednesday for the 2020 Person of the Year honor. The governor of New York and Fauci,"
-    publishedDateTime: 2020-11-27T18:01:00Z
-    webUrl: "https://www.masslive.com/coronavirus/2020/11/gov-andrew-cuomo-dr-anthony-fauci-kanye-west-kamala-harris-black-lives-matter-nominated-for-times-person-of-the-year.html"
-    ampWebUrl: "https://www.masslive.com/coronavirus/2020/11/gov-andrew-cuomo-dr-anthony-fauci-kanye-west-kamala-harris-black-lives-matter-nominated-for-times-person-of-the-year.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/11/gov-andrew-cuomo-dr-anthony-fauci-kanye-west-kamala-harris-black-lives-matter-nominated-for-times-person-of-the-year.html?outputType=amp"
+  - title: "Harris: COVID spawns 'hunger crisis in America'"
+    excerpt: "Vice President-elect Kamala Harris says there is a \"hunger crisis in America now\" due to the COVID-19 pandemic but promises quick action to address the challenge when in office. (Dec. 1)"
+    publishedDateTime: 2020-12-01T20:57:00Z
+    webUrl: "https://www.azcentral.com/videos/news/nation/2020/12/01/harris-covid-spawns-hunger-crisis-america/3784754001/"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 49
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 55
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RFFAMYBJTBHUFCYFPLJT5JKI4Y.JPG"
-        width: 4637
-        height: 2961
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ad580295-1d25-439c-8e53-253056ba70fd_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Feinstein picks Padilla in jockeying for Harris' Senate seat"
+    excerpt: "Sen. Dianne Feinstein has picked a favorite in the fight to replace Vice President-elect Kamala Harris as California's junior senator: Secretary of State Alex Padilla."
+    publishedDateTime: 2020-12-03T00:53:00Z
+    webUrl: "https://omaha.com/news/national/feinstein-picks-padilla-in-jockeying-for-harris-senate-seat/article_fc1290f1-795e-51e8-88fe-b6d9ad172a75.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Latest: Kamala Harris names Tina Flournoy chief of staff | Charlotte Observer"
+    excerpt: "Vice President-elect Kamala Harris is hiring veteran Democratic strategist Tina Flournoy as her chief of staff."
+    publishedDateTime: 2020-12-03T14:29:00Z
+    webUrl: "https://www.charlotteobserver.com/news/article247574705.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/article247574705.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article247574705.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 50
   - title: "Omaha native will be chief spokeswoman for Harris"
     excerpt: "Omaha native Symone Sanders will serve as chief spokeswoman for Vice President-elect Kamala Harris. President-elect Joe Biden announced Sanders' role on his history-making communications team Sunday."
     publishedDateTime: 2020-11-30T18:41:00Z

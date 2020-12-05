@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2UD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2UD"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 225
+published: true
 
 provider:
   name: Reuters
@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "UPDATE 1-Trump's Fed pick Shelton draws third Republican 'no'"
-    excerpt: "A third senator said he would oppose Republican U.S. President Donald Trump’s controversial pick for the Federal Reserve, former economic adviser Judy Shelton, narrowing the margin of her support but likely not eliminating her chance at confirmation."
-    publishedDateTime: 2020-11-16T20:55:00Z
-    webUrl: "https://www.reuters.com/article/usa-fed-shelton/update-1-trumps-fed-pick-shelton-draws-third-republican-no-idUSL1N2I22EO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2Q6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2Q6"
+  - title: "Arlington National Cemetery canceled an event over virus concerns. Trump overrode them."
+    excerpt: "Wreaths Across America draws thousands of volunteers to Arlington National Cemetery every winter to place holiday wreaths at headstones."
+    publishedDateTime: 2020-11-18T04:30:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/2020/11/17/trump-arlington-wreaths-across-america/"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/2020/11/17/trump-arlington-wreaths-across-america/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2020/11/17/trump-arlington-wreaths-across-america/?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1I1"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZD3VEHRJDUI6XGYUVWDSCV7LZE.jpg&w=1440"
+        width: 1440
+        height: 941
         isCached: true
-  - title: "Can American democracy survive Donald Trump?"
-    excerpt: "Lying, paranoia and conspiracy are defining features of a totalitarian society. What hope is there for a brand new era, in the aftermath of an administration that has relied on all three?"
-    publishedDateTime: 2020-11-21T10:39:00Z
-    webUrl: "https://www.theguardian.com/books/2020/nov/21/can-american-democracy-survive-donald-trump"
-    ampWebUrl: "https://amp.theguardian.com/books/2020/nov/21/can-american-democracy-survive-donald-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2020/nov/21/can-american-democracy-survive-donald-trump"
+  - title: "Sheldon Adelson’s Las Vegas Review-Journal Tells Trump To Stop Delaying ‘The Inevitable’"
+    excerpt: "The billionaire casino tycoon was one of Trump’s biggest donors ahead of the presidential election. Now the newspaper he owns is saying that Trump should concede."
+    publishedDateTime: 2020-11-13T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/"
+    ampWebUrl: "https://www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
+      name: Forbes
+      domain: forbes.com
+    quality: 116
     images:
-      - url: "https://i.guim.co.uk/img/media/fdecd60107ee26ff8ec9fc6b7c101755148aca56/0_123_5704_3423/master/5704.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=97cfb0a42dc3034f2a07ffb6a4f8db8f"
-        width: 600
-        height: 360
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fadfccc6304390c09f137af%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Senate readies vote on Judy Shelton, granting Trump another opportunity to shape Federal Reserve"
     excerpt: "Shelton’s confirmation could mark Trump’s final imprint on the Fed board, just months before the Biden administration is inaugurated."
@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 945
         isCached: true
+  - title: "The Pentagon's top policy official resigned the day after Trump 'terminated' his defense secretary"
+    excerpt: "Under Secretary of Defense for Policy James Anderson had clashed with the White House over attempts to put controversial people at the Pentagon."
+    publishedDateTime: 2020-11-10T17:28:00Z
+    webUrl: "https://www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5faac361f7d1cb0019e3ad14?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Senate could vote on Trump's Fed nominees next week: Bloomberg News"
     excerpt: "The Republican leadership at the U.S. Senate has discussed holding a vote on U.S. President Donald Trump’s nominees to the Federal Reserve as early as next week, Bloomberg News reported Thursday, citing Republican Senator John Cornyn."
     publishedDateTime: 2020-11-13T00:11:00Z
@@ -90,22 +106,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Republicans leaders privately described Trump as a political liability and said they faced losing Senate runoffs"
-    excerpt: "Republican Sens. David Perdue and Kelly Loeffler reportedly expressed concern about an anti-Trump vote in a call about runoff elections in Georgia."
-    publishedDateTime: 2020-11-20T10:59:00Z
-    webUrl: "https://www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5fb3c253d980a12837167e3a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "dsnIbRgi12gAtW1WZScsyXAuoGar2qtvjFEzra34GQYerNj61H50jx9Tw3FM5mhu8+XdHwCc+4RlhARwSHmUOwy+ZeOtrr93Jv80BhPNUGbXkCLEbOvJjaqDI2kGouLIPUQ5dU/oq+gt0d254I3E1vvzRu6LsXGvOPw1kkFnVTUF230um25L1PQ1vu6AHlOnvP39r/RyqEiVMxegwuxbSZ/ez1LGTsUI0H0AmYVVHvInNcQSyZ1urUHLn48Rgc3TH3O5pgHHfnGzKEHa3u7RCs5+uzQSJ8dRK7dXZ5puwk1zBUoCydfUvexnkBysphhWRmwInwY/p2Dtq829F8Ef9oxdc32o6MzO0s73uDFuFeM=;Js4qAC4umA7jqyLFrp8gXw=="
 ---

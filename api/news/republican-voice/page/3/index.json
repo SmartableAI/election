@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-26-trump-campaign-adviser-boris-epshteyn-tests-positive-for-coronavirus.md",
+      "title": "Trump campaign adviser Boris Epshteyn tests positive for coronavirus",
+      "excerpt": "Boris Epshteyn, a campaign adviser to President Trump, announced Wednesday that he has tested positive for the novel coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cvdkgp7J360/trump-campaign-adviser-boris-epshteyn-tests-positive-for-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cvdkgp7J360/trump-campaign-adviser-boris-epshteyn-tests-positive-for-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/epsh.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-adviser-boris-epshteyn-tests-positive-for-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-adviser-boris-epshteyn-tests-positive-for-coronavirus.amp",
+      "publishedDateTime": "2020-11-25T21:14:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-progressive-groups-want-squad-member-rashida-tlaib-in-biden-cabinet.md",
       "title": "Progressive groups want 'squad member' Rashida Tlaib in Biden cabinet",
       "excerpt": "Progressive groups are pushing President-elect Joe Biden to include more candidates who lean further to the left than him in his cabinet, including a member of the “Squad,” as they seek influence over policymaking.",
@@ -1609,63 +1665,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-fannie-freddie-overseer-seeks-to-end-federal-control-before-trump-leaves.md",
-      "title": "Fannie, Freddie Overseer Seeks to End Federal Control Before Trump Leaves",
-      "excerpt": "The federal regulator who oversees Fannie Mae and Freddie Mac is pushing to speed up the mortgage giants’ exit from 12 years of government control but has yet to reach an agreement he needs with Treasury Secretary Steven Mnuchin,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/fannie-freddie-overseer-seeks-to-end-federal-control-before-trump-leaves-11605873600",
-      "originalUrl": "https://www.wsj.com/articles/fannie-freddie-overseer-seeks-to-end-federal-control-before-trump-leaves-11605873600",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-261113/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/fannie-freddie-overseer-seeks-to-end-federal-control-before-trump-leaves-11605873600",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/fannie-freddie-overseer-seeks-to-end-federal-control-before-trump-leaves-11605873600",
-      "publishedDateTime": "2020-11-20T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

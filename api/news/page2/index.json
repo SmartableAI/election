@@ -2,21 +2,25 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-04-could-trump-pardon-family-members-and-other-close-associates-his-prior-pardons-may-set-the-stage-for-more.md",
-      "title": "Could Trump pardon family members and other close associates? His prior pardons may set the stage for more",
-      "excerpt": "As President Trump weighs granting more pardons during his final days in office, experts say the politicization of his broad clemency powers is a fait accompli.",
+      "path": "_news/2020-12-04-biden-wrestles-with-politics-in-effort-to-depoliticize-the-justice-department.md",
+      "title": "Biden wrestles with politics in effort to depoliticize the Justice Department ",
+      "excerpt": "Political questions from Democrats and a new Republican litmus test have suddenly become complicating factors in one of President-elect Joe Biden's most critical choices: picking a new Attorney General to lead the Justice Department out of its highly politicized era.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/04/trumps-flynn-pardon-prompts-fears-politicization-sweeping-power/3803847001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/04/trumps-flynn-pardon-prompts-fears-politicization-sweeping-power/3803847001/",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JrsNL3KCkDA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JrsNL3KCkDA/index.html",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 211,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/03/USAT/5331e166-9612-4ec8-9820-957905b145ec-Trump_video.jpg?auto=webp&crop=5597,3149,x0,y284&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201129183807-biden-file-1125-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +28,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3803847001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3803847001",
-      "publishedDateTime": "2020-12-04T02:07:00-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html",
+      "publishedDateTime": "2020-12-04T03:03:02-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-in-race-to-cement-legacy-trump-pushes-dozens-of-midnight-regulations.md",
+      "title": "In race to cement legacy, Trump pushes dozens of 'midnight regulations'",
+      "excerpt": "The Trump administration is quietly racing to solidify its legacy, fulfill campaign promises and overhaul federal regulations that could take Joe Biden years to undo.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "originalUrl": "https://abcnews.go.com/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-ap-er-201203_1607026156831_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "publishedDateTime": "2020-12-04T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -51,6 +107,220 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-republican-congressman-tells-trump-to-delete-your-account-after-he-tweeted-a-45-minute-speech-repeating-baseless-voter-fraud-claims.md",
+      "title": "Republican congressman tells Trump to 'delete your account' after he tweeted a 45-minute speech repeating baseless voter-fraud claims",
+      "excerpt": "Republican Rep. Adam Kinzinger, who represents Illinois' 16th District, quote-tweeted Trump on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/republican-congressman-tells-trump-to-delete-your-account-2020-12?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.businessinsider.com/republican-congressman-tells-trump-to-delete-your-account-2020-12?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc8a986037cbd0018613869?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/republican-congressman-tells-trump-to-delete-your-account-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republican-congressman-tells-trump-to-delete-your-account-2020-12?amp",
+      "publishedDateTime": "2020-12-04T02:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-trump-pence-to-campaign-in-georgia-as-senate-runoff-turnout-concerns-grow-among-gop.md",
+      "title": "Trump, Pence to campaign in Georgia as Senate runoff turnout concerns grow among GOP",
+      "excerpt": "Mike Pence and President Donald Trump's rallies for Georgia's senators will be against a backdrop of growing concerns about GOP turnout in the Senate runoff election.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 923,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/pence-loeffler-perdue-gty-jc-201203_1607035893960_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
+      "publishedDateTime": "2020-12-04T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-dangerously-viral-how-trump-supporters-spread-false-claims.md",
+      "title": "Dangerously viral: How Trump, supporters spread false claims",
+      "excerpt": "It took just a day for a cellphone video of a man hauling a large box into a Detroit election office to be viewed more than a million times",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_2d577ba5f467404c81900887ef2cd68b_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
+      "publishedDateTime": "2020-12-04T02:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-watters-riffs-on-biden-choosing-critics-for-cabinet-they-call-him-a-buffoon-and-he-says-you-get-me.md",
+      "title": "Watters riffs on Biden choosing critics for Cabinet: 'They call him a buffoon, and he says \"you get me'''",
+      "excerpt": "\"The Five\" co-host Jesse Watters remarked Thursday that President-elect Joe Biden appears to have stocked his would-be Cabinet and administration with notable recent or former critics -- including Vice President-elect Sen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/jesse-watters-biden-critics-cabinet-tucker-carlson-tonight",
+      "originalUrl": "https://www.foxnews.com/media/jesse-watters-biden-critics-cabinet-tucker-carlson-tonight",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e9a6113-5b29-49e5-8bd0-708cb62b0ed2/a52f250f-66c5-42e6-82c4-378ac35dcaad/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/jesse-watters-biden-critics-cabinet-tucker-carlson-tonight.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jesse-watters-biden-critics-cabinet-tucker-carlson-tonight.amp",
+      "publishedDateTime": "2020-12-04T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     },
     {
@@ -331,21 +601,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-04-coronavirus-live-news-biden-joins-ex-presidents-in-pledge-to-get-vaccinated-in-public-as-global-deaths-pass-15m.md",
-      "title": "Coronavirus live news: Biden joins ex-presidents in pledge to get vaccinated in public as global deaths pass 1.5m",
-      "excerpt": "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m",
+      "path": "_news/2020-12-04-perdue-tacitly-acknowledges-biden-administration-despite-public-pronouncements.md",
+      "title": "Perdue tacitly acknowledges Biden administration, despite public pronouncements",
+      "excerpt": "In a private zoom call with the Republican Jewish Coalition obtained by The Washington Post, Sen. David Perdue (R-Ga.) referred several times to a new administration run by President-elect Joe Biden.",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc994b08f08b46221a1a6aa",
-      "originalUrl": "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc994b08f08b46221a1a6aa",
+      "webUrl": "https://www.washingtonpost.com/video/politics/perdue-tacitly-acknowledges-biden-administration-despite-public-pronouncements/2020/12/03/c37a74dc-9256-49d7-a1c2-81b4ef4927ef_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/politics/perdue-tacitly-acknowledges-biden-administration-despite-public-pronouncements/2020/12/03/c37a74dc-9256-49d7-a1c2-81b4ef4927ef_video.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 121,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/c090cd83408471d34aa1737ecbe2a87179cb7948/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1079fb7348bc08caefecba23853b0e7d",
-          "width": 600,
-          "height": 360,
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-04-2020/t_db5a42fdfdc94478a709335819c5af2c_name_Perdue_2.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+          "width": 1484,
+          "height": 834,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -353,16 +623,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m",
-      "publishedDateTime": "2020-12-03T17:58:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T17:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -492,6 +762,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-kamala-harris-makes-more-history-with-all-female-senior-staff-picks.md",
+      "title": "Kamala Harris Makes More History With All-Female Senior Staff Picks",
+      "excerpt": "For the first time, the top three positions in the office of the vice president will be held by women -- and all serving under the first woman to hold the office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 565,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDqnSWHoECyc/v0/360x-1.jpg",
+          "width": 360,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
+      "publishedDateTime": "2020-12-03T15:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -720,110 +1042,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-04-trump-ally-banned-from-justice-department-after-seeking-sensitive-election-intel-report.md",
-      "title": "Trump ally banned from Justice Department after seeking sensitive election intel: report",
-      "excerpt": "The official serving as President Donald Trump’s eyes and ears at the Justice Department has been banned from the building after trying to pressure staffers to give up sensitive information about election fraud and other matters she could relay to the White House,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/03/trump-ally-heidi-stirrup-banned-doj-after-seeking-election-intel/3814426001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/03/trump-ally-heidi-stirrup-banned-doj-after-seeking-election-intel/3814426001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 471,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/10/USAT/37828913-dfc7-4783-bf2b-9e3ac6633562-AFP_AFP_8UX3YC.jpg?auto=webp&crop=5306,2985,x0,y63&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3814426001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3814426001",
-      "publishedDateTime": "2020-12-03T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-the-trump-administration-accused-facebook-of-reserving-over-2600-high-paying-jobs-for-foreign-workers-instead-of-hiring-americans.md",
-      "title": "The Trump administration accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans",
-      "excerpt": "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp",
-      "publishedDateTime": "2020-12-03T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-03-ratcliffe-urges-biden-to-let-durham-probe-run-its-course-says-more-docs-should-be-declassified.md",
       "title": "Ratcliffe urges Biden to let Durham probe run its course, says more docs 'should be' declassified",
       "excerpt": "EXCLUSIVE: Director of National Intelligence John Ratcliffe on Thursday urged President-elect Joe Biden to allow Special Counsel John Durham's investigation into the origins of the Russia probe to run its course, while saying he hopes there will be \"folks held accountable that should be.\"",
@@ -993,21 +1211,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-04-dianne-feinstein-backs-alex-padilla-for-kamala-harris-senate-seat.md",
-      "title": "Dianne Feinstein backs Alex Padilla for Kamala Harris’ Senate seat",
-      "excerpt": "Sen. Dianne Feinstein endorsed Alex Padilla to join her in the Senate, saying she has shared her support of the California secretary of state with Gov. Gavin Newsom. The governor must pick someone to fill out the remaining two years of Vice President-elect Kamala Harris’ term.",
+      "path": "_news/2020-12-04-senate-vote-likely-next-week-on-blocking-trumps-massive-uae-arms-sale.md",
+      "title": "Senate vote likely next week on blocking Trump's massive UAE arms sale",
+      "excerpt": "The top Democrat on the U.S. Senate Foreign Relations Committee said he expected lawmakers would vote as soon as next week on resolutions seeking to block Republican President Donald Trump's $23 billion weapons sale to the United Arab Emirates.",
       "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/politics/article/Dianne-Feinstein-backs-Alex-Padilla-for-Kamala-15772613.php",
-      "originalUrl": "https://www.houstonchronicle.com/politics/article/Dianne-Feinstein-backs-Alex-Padilla-for-Kamala-15772613.php",
+      "webUrl": "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28D2XS",
+      "originalUrl": "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28D2XS",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://s.hdnux.com/photos/01/15/45/35/20338528/5/rawImage.jpg",
-          "width": 2048,
-          "height": 1377,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543367325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21NU",
+          "width": 818,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1015,68 +1233,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T11:41:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28D2XS",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2XS",
+      "publishedDateTime": "2020-12-03T10:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-ivanka-trump-confirms-she-was-questioned-by-the-dc-attorney-generals-office-over-inaugural-committee-spending.md",
-      "title": "Ivanka Trump confirms she was questioned by the D.C. attorney general’s office over Inaugural Committee spending",
-      "excerpt": "The president’s daughter released an email showing that she told Trump hotel executives to charge “market price.” The hotel is accused of overcharging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-03T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1207,170 +1373,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-kamala-harris-picks-tina-flournoy-to-be-her-chief-of-staff.md",
-      "title": "Kamala Harris picks Tina Flournoy to be her chief of staff",
-      "excerpt": "Vice President-elect Kamala Harris has named veteran Democratic strategist Tina Flournoy as her chief of staff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/0bda102/2147483647/strip/true/crop/3000x1959+0+73/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2F2b%2Fe6b1728352869e91a42d682a4b5c%2F73b0762e11fb4961a09c11fc06669ad5",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff?_amp=true",
-      "publishedDateTime": "2020-12-03T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-trump-awards-football-coach-lou-holtz-the-medal-of-freedom.md",
-      "title": "Trump awards football coach Lou Holtz the Medal of Freedom",
-      "excerpt": "President Donald Trump awarded the Medal of Freedom to former football coach Lou Holtz on Thursday in an Oval Office ceremony.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTVejM6MY1o/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTVejM6MY1o/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/160502185550-lou-holtz-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/donald-trump-lou-holtz-medal-of-freedom/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/donald-trump-lou-holtz-medal-of-freedom/index.html",
-      "publishedDateTime": "2020-12-03T09:59:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-kennedy-democrats-some-republicans-have-their-bowels-in-an-uproar-over-trump-not-conceding.md",
-      "title": "Kennedy: Democrats, some Republicans 'have their bowels in an uproar' over Trump not conceding",
-      "excerpt": "Sen. John Kennedy, R-La., said President Trump had every right to contest the results of the 2020 election in an appearance on \"America's Newsroom.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yaRhk-AF1gY/kennedy-democrats-republicans-bowels-uproar-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yaRhk-AF1gY/kennedy-democrats-republicans-bowels-uproar-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b3666d9-d0ce-4a8a-ac95-d2970fd93791/468e9eed-4dd8-4fcf-a499-59cddc9b2507/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kennedy-democrats-republicans-bowels-uproar-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kennedy-democrats-republicans-bowels-uproar-election.amp",
-      "publishedDateTime": "2020-12-03T08:22:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

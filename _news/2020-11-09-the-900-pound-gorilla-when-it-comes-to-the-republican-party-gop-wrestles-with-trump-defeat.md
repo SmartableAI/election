@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6213267002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6213267002"
 type: article
 quality: 114
-heat: 154
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Supreme Court appears ready to uphold Affordable Care Act over latest challenge from Trump, GOP"
-    excerpt: "The court is reviewing a decision that found part of the law, also known as Obamacare, unconstitutional. The case raises questions about the fate of health insurance for millions of Americans."
-    publishedDateTime: 2020-11-10T23:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
+  - title: "If the GOP doesn't quit its Trump addiction it'll suck the life out of American democracy"
+    excerpt: "It's pitiful to see most of Trump's party join him in burning everything down after his loss, and it does not bode well for the future of our country."
+    publishedDateTime: 2020-11-15T22:34:00Z
+    webUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YYJWDOBCYUI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 994
+      - url: "https://i.insider.com/5faf1bc31c741f0019ac9d43?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
   - title: "‘What’s the downside for humoring him?’: A GOP official’s unintentionally revealing quote about the Trump era"
     excerpt: "What is the downside for humoring him for this little bit of time? No one seriously thinks the results will change,” the official said. “He went golfing this weekend. It’s not like he’s plotting how to prevent Joe Biden from taking power on Jan."

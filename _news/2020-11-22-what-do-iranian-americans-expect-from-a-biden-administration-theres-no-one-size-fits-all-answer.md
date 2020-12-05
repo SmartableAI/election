@@ -31,108 +31,74 @@ images:
     isCached: true
 
 related:
-  - title: "Who are the top contenders for the Biden administration?"
-    excerpt: "President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
-    publishedDateTime: 2020-11-17T18:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1OD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD"
+  - title: "Trump's America-first approach 'meant America alone', says Joe Biden – video"
+    excerpt: "President-elect Joe Biden says his presidency would not be 'a third Obama term' and that he would consider appointing a Republican"
+    publishedDateTime: 2020-11-25T01:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-america-first-approach-meant-america-alone-says-joe-biden-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 127
+    images:
+      - url: "https://i.guim.co.uk/img/media/3b5387289c02728ddcd625e8fbb7739ce859f9cf/0_202_3047_1829/master/3047.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28a1692bd9f6f64c8271b0beb3ee0451"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Corporate America says it is ready to work with Biden"
+    excerpt: "Corporate America says it is ready to work with President-elect Joe Biden, hoping for quick action on a new round of COVID-19 relief and infrastructure spending."
+    publishedDateTime: 2020-11-09T21:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-companies-idUSKBN27P28S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P28S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P28S"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541519015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0YJ"
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540560927&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81CA"
         width: 817
         height: 545
         isCached: true
-  - title: "Biden set to meet Friday with top Democratic leaders in Congress"
-    excerpt: "U.S. President-elect Joe Biden is scheduled to meet on Friday with House of Representatives Speaker Nancy Pelosi and Senate Democratic Leader Chuck Schumer, according to a Pelosi aide."
-    publishedDateTime: 2020-11-20T02:20:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Z32Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z32Z"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z32Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541818310&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1TB"
-        width: 832
-        height: 545
-        isCached: true
-  - title: "Birx wants to stay on in Biden administration: Colleagues"
-    excerpt: "Dr. Deborah Birx, White House coronavirus response coordinator, has said she would be interested in helping the Biden administration get up and running, colleagues said."
-    publishedDateTime: 2020-11-20T23:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
+  - title: "America's bellwethers crumbled in aligning with Trump in '20"
+    excerpt: "Indiana's Vigo County had been America’s most reliable presidential bellwether, voting in line with the rest of the nation since 1956"
+    publishedDateTime: 2020-11-19T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/deborah-birx-ss-jt-201120_1605888616659_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fe367a2fc1344c12bbb8e0178298717e_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Pompeo touts Iran policy in Gulf ahead of Biden presidency"
-    excerpt: "U.S. Secretary of State Mike Pompeo is defending his tour of Arab Gulf states and the Trump administration’s continued efforts to squeeze Iran, even as a new U.S. administration led by Joe Biden prepa"
-    publishedDateTime: 2020-11-22T13:44:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/pompeo-touts-iran-policy-gulf-ahead-biden-presidency-74344603"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/pompeo-touts-iran-policy-gulf-ahead-biden-presidency-74344603"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/pompeo-touts-iran-policy-gulf-ahead-biden-presidency-74344603"
+  - title: "Can American democracy survive Donald Trump?"
+    excerpt: "Lying, paranoia and conspiracy are defining features of a totalitarian society. What hope is there for a brand new era, in the aftermath of an administration that has relied on all three?"
+    publishedDateTime: 2020-11-21T10:39:00Z
+    webUrl: "https://www.theguardian.com/books/2020/nov/21/can-american-democracy-survive-donald-trump"
+    ampWebUrl: "https://amp.theguardian.com/books/2020/nov/21/can-american-democracy-survive-donald-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2020/nov/21/can-american-democracy-survive-donald-trump"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/International/WireAP_79b95503c7e24edf9b39f4c30a2704cd_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/fdecd60107ee26ff8ec9fc6b7c101755148aca56/0_123_5704_3423/master/5704.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=97cfb0a42dc3034f2a07ffb6a4f8db8f"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Biden inauguration will be scaled down amid COVID, aide says"
-    excerpt: "The inauguration of President-elect Joe Biden will be a scaled-down version of the usual traditions that will not endanger Americans health amid the coronavirus pandemic, a top aide said on Sunday."
-    publishedDateTime: 2020-11-22T17:03:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-inauguration/biden-inauguration-will-be-scaled-down-amid-covid-aide-says-idUSL1N2I80B7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2820LG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820LG"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542071473&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL0DT"
-        width: 689
-        height: 545
-        isCached: true
-  - title: "Joe Biden to nominate Antony Blinken as Secretary of State"
-    excerpt: "President-elect Joe Biden is planning to announce that he has selected Tony Blinken, one of his closest and longest serving foreign policy advisers, to be his Secretary of State. It puts Blinken at one of the highest-profile cabinet positions at a time when Biden is planning to put foreign policy as a major pillar in his administration,"
-    publishedDateTime: 2020-11-23T02:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3SNO7NBNGMI6XHOWFUAXTGAXDE.jpg&w=1440"
-        width: 1440
-        height: 922
-        isCached: true
-  - title: "Europe hopes for reset, end to ‘damage control’ under Biden"
-    excerpt: "European relations under the Biden administration can end years in which Europe was mainly concerned with “damage control.”"
-    publishedDateTime: 2020-11-24T11:41:00Z
-    webUrl: "https://www.washingtonpost.com/business/europe-hopes-for-reset-end-to-damage-control-under-biden/2020/11/24/f7137836-2e49-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/europe-hopes-for-reset-end-to-damage-control-under-biden/2020/11/24/f7137836-2e49-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/europe-hopes-for-reset-end-to-damage-control-under-biden/2020/11/24/f7137836-2e49-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+  - title: "VIRUS TODAY: Americans travel as Biden addresses nation"
+    excerpt: "Here’s what’s happening Wednesday with the coronavirus pandemic in the U.S.: — Millions of Americans are traveling for the Thanksgiving holiday despite warnings from health officials that family gatherings could make a bad situation worse."
+    publishedDateTime: 2020-11-25T21:03:00Z
+    webUrl: "https://www.washingtonpost.com/health/virus-today-americans-travel-as-biden-addresses-nation/2020/11/25/9bec9fdc-2f61-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/virus-today-americans-travel-as-biden-addresses-nation/2020/11/25/9bec9fdc-2f61-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/virus-today-americans-travel-as-biden-addresses-nation/2020/11/25/9bec9fdc-2f61-11eb-9dd6-2d0179981719_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -143,188 +109,163 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Keep the tough approach or seek cooperation? China looms large for Biden."
-    excerpt: "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces."
-    publishedDateTime: 2020-11-11T00:29:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I4U264BCD4I6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden received 'congratulations' from Pope Francis: transition statement"
-    excerpt: "Elect Joe Biden spoke with Pope Francis on Thursday, and Biden thanked him for his \"blessing and congratulations,\" his transition team said in a statement."
-    publishedDateTime: 2020-11-12T23:08:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-pope/biden-received-congratulations-from-pope-francis-transition-statement-idUSKBN27S2TQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2TQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2TQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541026140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1WO"
-        width: 733
-        height: 545
-        isCached: true
-  - title: "Biden says he has picked a Treasury secretary who will please all Democrats"
-    excerpt: "President-elect Joe Biden said on Thursday he had selected his Treasury secretary and would reveal his choice as soon as next week."
-    publishedDateTime: 2020-11-19T23:11:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-dollar-idUSKBN27Z34L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z34L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L"
+  - title: "Biden picks Cuban-American lawyer Mayorkas as U.S. homeland security chief"
+    excerpt: "President-elect Joe Biden will nominate Alejandro Mayorkas to become U.S. secretary of homeland security, Biden's transition team said on Monday, entrusting the Cuban immigrant to help reverse outgoing President Donald Trump's hard-line immigration policies."
+    publishedDateTime: 2020-11-24T06:55:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-homeland-idINKBN2832I5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2832I5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2832I5"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 123
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541824389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UT"
-        width: 825
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542228607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM19M"
+        width: 817
         height: 545
         isCached: true
-  - title: "Plagued by COVID outbreaks, the meatpacking industry could be forced to change under Biden"
-    excerpt: "President-elect Joe Biden could direct his agencies to implement and enforce strict safety measures to protect worker health, experts said."
-    publishedDateTime: 2020-11-20T22:36:00Z
-    webUrl: "https://www.usatoday.com/story/news/investigations/2020/11/20/meatpacking-industry-could-face-significant-changes-under-joe-biden/3777230001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3777230001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3777230001"
+  - title: "Biden urges Americans to be safe during holiday, fight coronavirus pandemic"
+    excerpt: "U.S. President-elect Joe Biden on Wednesday pleaded with Americans to take steps to remain safe as COVID-19 cases surge on the eve of the Thanksgiving holiday and pledged again to make combating the pandemic a top priority when he takes office in January."
+    publishedDateTime: 2020-11-25T22:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2851FD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2851FD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2851FD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542482301&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1SJ"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Barack Obama: ‘Donald Trump and I tell very different stories about America’"
+    excerpt: "Four years after leaving office, he’s officially the world’s most admired man.But what is Obama’s legacy? The former president talks Trump, Biden and America’s new dawn"
+    publishedDateTime: 2020-11-21T09:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/affec64d8841c54c434781ee58243286b79600d2/0_0_8212_5178/master/8212.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f652526eb0dd4a56201ef7c555a31c29"
+        width: 600
+        height: 378
+        isCached: true
+  - title: "Biden says 'America is back' at the head of the table – but is that a good thing?"
+    excerpt: "After four years of Trump, many diplomats are hopeful – but US critics say the idea of a return to a ‘golden age’ is a delusion"
+    publishedDateTime: 2020-11-26T17:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/15b1ca4a91a070ff0a9b6ca8feaca7827d6267f2/0_287_4579_2748/master/4579.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4d71b9496b19b99400f322775a13b90f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Most Americans want protections for LGBTQ people. Biden could finally make that happen"
+    excerpt: "After four years of President Trump, victories for Biden and LGBTQ state lawmakers have created a \"reason for hope\" for many LGBTQ Americans."
+    publishedDateTime: 2020-11-20T12:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/20/under-biden-lgbtq-rights-more-americans-could-norm/6334516002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6334516002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6334516002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 115
+    quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/21/USAT/9079416e-8378-4e8f-a692-4b24bef7a647-tyson_workers.JPG?auto=webp&crop=2015,1134,x0,y186&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/935cb4ec-6f78-4f86-a438-ef082c670230-David.jpg?auto=webp&crop=2999,1687,x0,y153&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Former US Secretary of State Henry Kissinger reveals his hopes for the next president: 'I like Joe Biden'"
-    excerpt: "Kissinger discussed what he expects from the new president, what successes he thinks Trump's administration had, and his longing for harmony."
-    publishedDateTime: 2020-11-11T03:28:00Z
-    webUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
+  - title: "Melania Trump, like America, may be more in love with President Trump than his critics would hope"
+    excerpt: "The camera pans from her stiletto heel, up her sparkly gown, to her familiar face — it’s Melania Trump! (Her head superimposed on the body of the actual bachelorette.) Is Melania Trump really looking forward to being rid of President Trump as much as tens of millions of Americans are?"
+    publishedDateTime: 2020-11-17T13:04:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
     images:
-      - url: "https://i.insider.com/5faaca37f7d1cb0019e3ad4e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSOXTPAXDQI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Biden made his first administration hire this week, with others on the horizon. Here are some top contenders."
-    excerpt: "Biden has long said that his cabinet will also reflect how the country looks, noting he will have women and people of color in leadership positions. Here are some of the top names being floated for cabinet positions: Doug Jones,"
-    publishedDateTime: 2020-11-14T13:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/biden-administration-top-contenders-include-susan-rice-tom-perez/6279888002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6279888002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6279888002"
+  - title: "Judge slaps down Trump appointee who has sought to reshape Voice of America and related agencies"
+    excerpt: "Michael Pack, who took over VOA’s parent agency, has stirred opposition to sweeping changes at government-funded broadcasters."
+    publishedDateTime: 2020-11-21T20:52:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XWYCY3VPFYI6VGFVE6NGI6NB4Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "In Thanksgiving message, Joe Biden reminds Americans \"we're at war with a virus, not with each other\""
+    excerpt: "Washington — President-elect Joe Biden urged Americans to resist surrendering to the \"fatigue\" of the coronavirus pandemic and come together with the shared goal of defeating the virus, echoing calls of public health officials who are calling for the nation to scale down their Thanksgiving celebrations amid the surge in COVID-19 cases nationwide."
+    publishedDateTime: 2020-11-25T20:44:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 110
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/25/8e3e3b24-051d-4285-a0a2-de21efdfe8a4/thumbnail/1200x630g8/58eaece4ff4e082cf8a78dcf603888e3/gettyimages-1229785663.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "University dean resigns over statement that called Biden voters \"ignorant, anti-American and anti-Christian\""
+    excerpt: "A dean at a university in Virginia has resigned after posting a statement on Facebook that called supporters of President-elect Joe Biden “ignorant, anti-American and anti-Christian.” Virginia Wesleyan University announced the resignation Monday in a statement on its website."
+    publishedDateTime: 2020-11-17T17:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/education/2020/11/17/virginia-wesleyan-university-dean-resigns-statement-biden-voters/6325744002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6325744002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6325744002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 106
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/NTHR/ee89b08f-f36f-4e66-b69a-49b8e6c5ef7b-biden_ap_photo.jpg?auto=webp&crop=3983,2241,x0,y203&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/865081a8-2c31-4568-a288-c275f590d8b5-AP_Election_2020_Washington.jpg?auto=webp&crop=4987,2806,x0,y253&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Europe hopes for reset, end to 'damage control' under Biden"
-    excerpt: "European relations under the Biden administration can end years in which Europe was mainly concerned with “damage control.”"
-    publishedDateTime: 2020-11-24T20:30:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/europe-hopes-reset-end-damage-control-biden-74374411"
+  - title: "‘My Frustration Turned Into Anger.’ Some Americans Who Lost Family Members to COVID-19 Have Turned Against Donald Trump"
+    excerpt: "While it’s impossible to know how many former Trump supporters who lost family to COVID-19 changed their minds the way Zeman did, it’s clear that the pandemic has catalyzed a nationwide politics of grief."
+    publishedDateTime: 2020-11-19T21:40:00Z
+    webUrl: "https://time.com/5913055/coronavirus-family-members-political-grief/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
+      name: Time
+      domain: time.com
+    quality: 81
     images:
-      - url: "https://s.abcnews.com/images/International/WireAP_df57ed474f6947c8a31ad471313afa06_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Health officials lay out wish list for Biden Administration: Restore the CDC, prioritize health across the globe"
-    excerpt: "A who's who of health officials published a commentary Wednesday outlining their wish list for the incoming Biden-Harris Administration, starting with their desire for the U.S. to rejoin the global public health community."
-    publishedDateTime: 2020-12-03T18:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/12/03/health-experts-call-biden-restore-cdc-prioritize-global-health/3792331001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3792331001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3792331001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/505fe506013ba96c4ebd6d67660c8f64967f96f8/c=949-779-4680-2887/local/-/media/2018/02/20/USATODAY/USATODAY/636547234970675887-IMG-0406.JPG?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "Canada will press Biden administration for integrated 'Buy North America' approach"
-    excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."
-    publishedDateTime: 2020-11-17T02:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-biden-canada/canada-will-press-biden-administration-for-integrated-buy-north-america-approach-idUST5N2FK01W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUST5N2FK01W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUST5N2FK01W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 99
-  - title: "Biden to nominate Avril Haines as next director of national intelligence; she would be the first woman to hold the position"
-    excerpt: "Haines, a lawyer by training, held senior national security roles in the Obama administration, including as the No. 2 at CIA."
-    publishedDateTime: 2020-11-23T23:15:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/avril-haines-to-head-intelligence-community/2020/11/23/e9dce3f4-2daf-11eb-96c2-aac3f162215d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/avril-haines-to-head-intelligence-community/2020/11/23/e9dce3f4-2daf-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/avril-haines-to-head-intelligence-community/2020/11/23/e9dce3f4-2daf-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 99
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BVSY3BNWQI6XHOWFUAXTGAXDE.jpg&w=1440"
-        width: 1440
-        height: 978
-        isCached: true
-  - title: "One of Biden's top coronavirus advisors calls for focused restrictions based on disease spread instead of a nationwide lockdown"
-    excerpt: "\"So we've got to follow science, but we've got to also be more precise than we were in the spring,\" Dr. Vivek Murthy said on Friday."
-    publishedDateTime: 2020-11-13T18:23:00Z
-    webUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://i.insider.com/5faebd8b402d49001924ed2f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden promises to fix discrimination in housing. Here are 3 ways he plans to tackle it."
-    excerpt: "President-elect Joe Biden wants to root out discriminatory housing practices via a barrage of measures, down to changing the way houses get appraised."
-    publishedDateTime: 2020-11-22T14:48:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-housing-policy-real-estate-discrimination-2020-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
-    images:
-      - url: "https://i.insider.com/5fb6911732f2170011f70056?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://api.time.com/wp-content/uploads/2020/11/Barbara-Zeman.jpg?w=720"
+        width: 720
+        height: 432
         isCached: true
 
 secured: "qc6UtKUCbWmUnDtLAQE9lo/AhV3qIu7CmYlQ58QQQuHUUP2ny8O6Yh+8RIreSdZigDELQLksh3DPJ2MCdsxXfpcB7YnBNOYedNJwOkURpGT0M/H46VqgWUIWs8tYhOI16xwCcLaudhlFHMcq8uccw5GbeOrRphztX4dFOYF+V31NWFKJN8629ri+M6kyVz8d3VWAH7uexA+7xkv5zUpEJJXmXOuBMtYjN80S4a/ixe1dtVl2MRRrSENSb4CdLKMZs4vZU3Uy1QmvGVZHnLCQbIceM5JrXTqBdaGeeHzmsc2LVL35dxtvlxs9uRgdtj2PXHzdqqbKKSVoLP1EoDCUgUt5TaqInaYOZCb4pdEaHMSmrzKs5Vq3YnWQZ0xQu8rBV3pdvVCG4p9aZlXEgyZDFnD75i7mRe8JW4BgSvpsqvuhXoPmJItLjkQxoPCsZxcPA8WYxhu+coBkskbkV3IGBrn25TzvKRbcXpmhM9oIQSrTvloxuc2rso/jG+LSTp/2k/IMAX/NHzXacL9GQq7ipA==;y/ilSnKVONgbSwIzw/HOBA=="

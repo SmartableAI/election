@@ -27,12 +27,92 @@ images:
     isCached: true
 
 related:
-  - title: "Election 2020 Today: Biden chooses advisers, breaks foot"
-    excerpt: "Here’s what’s happening Monday in Election 2020 and President-elect Joe Biden’s transition. BIDEN’S ECONOMIC PICKS: President-elect Joe Biden is expected in the coming days to name several of his most senior economic advisers."
-    publishedDateTime: 2020-11-30T12:57:00Z
-    webUrl: "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+  - title: "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'"
+    excerpt: "Former White House advisor Kellyanne Conway's comments in an interview with The 19th go directly against Trump's claims undermining the 2020 election."
+    publishedDateTime: 2020-12-05T14:50:00Z
+    webUrl: "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 167
+    images:
+      - url: "https://i.insider.com/5fcb8c9db6a3a800199b6db2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Latest: Graham: Trump should attend Biden’s inauguration"
+    excerpt: "Lindsey Graham says he thinks President Donald Trump should attend President-elect Joe Biden’s inauguration because it would be “good for the country.”"
+    publishedDateTime: 2020-12-01T00:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 150
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden identifies more administration officials, Trump vows continued election fight"
+    excerpt: "President-elect Joe Biden chose more senior aides to lead his administration's efforts to defeat the coronavirus and rebuild the U.S. economy, and his office confirmed on Sunday he would begin receiving classified briefings that are an essential step toward taking"
+    publishedDateTime: 2020-11-30T06:23:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idINKBN2890NW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2890NW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2890NW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 149
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542849124&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT02Y"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "First Thing: Biden boosts diversity of top team while Trump continues election assault"
+    excerpt: "The president-elect has announced an all-female senior communications team, while Trump continues to rail against the election result. Plus, November’s coronavirus cases are double last month’s record"
+    publishedDateTime: 2020-11-30T11:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/30/first-thing-biden-boosts-diversity-of-top-team-while-trump-continues-election-assault"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/30/first-thing-biden-boosts-diversity-of-top-team-while-trump-continues-election-assault"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/30/first-thing-biden-boosts-diversity-of-top-team-while-trump-continues-election-assault"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 147
+    images:
+      - url: "https://i.guim.co.uk/img/media/e9327a7fdce17edfa5c72e082c05cfc34cb02268/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b4d1a6c4d4a6aa03c703c17210ecf462"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "What a Joe BIden-Kamala Harris administration means for markets, tech, healthcare, cannabis, and Donald Trump"
+    excerpt: "The AP, NBC, CNN, The New York Times, and The Washington Post called the presidential election for Joe Biden shortly after 11 a.m. ET Saturday."
+    publishedDateTime: 2020-11-09T03:22:00Z
+    webUrl: "https://www.businessinsider.com/how-a-biden-harris-administration-impacts-business-politics-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/how-a-biden-harris-administration-impacts-business-politics-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-a-biden-harris-administration-impacts-business-politics-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 146
+    images:
+      - url: "https://i.insider.com/5fa81e7d1df1d500182197b1?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Completed Wisconsin recount confirms Biden’s win over Trump"
+    excerpt: "Wisconsin has finished a recount of its presidential results, confirming Democrat Joe Biden’s victory over President Donald Trump in the key battleground state"
+    publishedDateTime: 2020-11-30T11:12:00Z
+    webUrl: "https://www.washingtonpost.com/national/completed-wisconsin-recount-confirms-bidens-win-over-trump/2020/11/30/e958a236-32fc-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/completed-wisconsin-recount-confirms-bidens-win-over-trump/2020/11/30/e958a236-32fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/completed-wisconsin-recount-confirms-bidens-win-over-trump/2020/11/30/e958a236-32fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -43,37 +123,339 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Election 2020 Today: Biden chooses advisers, breaks foot"
-    excerpt: "Here’s what’s happening Monday in Election 2020 and President-elect Joe Biden 's transition. BIDEN'S ECONOMIC PICKS: President-elect Joe Biden is expected in the coming days to name several of his most senior economic advisers."
-    publishedDateTime: 2020-11-30T20:56:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/election-2020-today-biden-chooses-advisers-breaks-foot-74458906"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/election-2020-today-biden-chooses-advisers-breaks-foot-74458906"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/election-2020-today-biden-chooses-advisers-breaks-foot-74458906"
+  - title: "Republicans turn to Biden transition as Trump's legal options dwindle"
+    excerpt: "Senior U.S. Republicans on Sunday said a transition to a Joe Biden presidency looks inevitable as President Donald Trump questioned whether the Supreme Court would even hear any of the challenges his campaign has vowed to pursue."
+    publishedDateTime: 2020-11-29T16:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN2890NN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890NN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890NN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542816486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0HC"
+        width: 771
+        height: 545
+        isCached: true
+  - title: "Arizona certifies Biden’s narrow victory over Trump"
+    excerpt: "Arizona officials certified the state’s election results on Monday, formalizing Democrat Joe Biden’s narrow victory over Donald Trump even as the Republican president’s attorneys continued to make baseless claims of fraud about the state’s vote count."
+    publishedDateTime: 2020-11-30T21:12:00Z
+    webUrl: "https://www.washingtonpost.com/national/arizona-certifies-bidens-narrow-victory-over-trump/2020/11/30/c8777340-3350-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/arizona-certifies-bidens-narrow-victory-over-trump/2020/11/30/c8777340-3350-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/arizona-certifies-bidens-narrow-victory-over-trump/2020/11/30/c8777340-3350-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden’s win over Trump in Wisconsin set to be certified"
+    excerpt: "Joe Biden’s victory in battleground Wisconsin is scheduled to be certified following a partial recount that only added to his 20,600-vote margin over President Donald Trump"
+    publishedDateTime: 2020-11-30T20:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/bidens-win-over-trump-in-wisconsin-set-to-be-certified/2020/11/30/cb3d5dd6-3348-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/bidens-win-over-trump-in-wisconsin-set-to-be-certified/2020/11/30/cb3d5dd6-3348-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bidens-win-over-trump-in-wisconsin-set-to-be-certified/2020/11/30/cb3d5dd6-3348-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Watch live: Biden and Harris introduce key economic team members"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are set to introduce key economic team members Tuesday afternoon in Wilmington, Delaware."
+    publishedDateTime: 2020-12-01T22:27:00Z
+    webUrl: "https://www.cnbc.com/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 140
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106797646-16055585112020-11-16t202540z_641690806_rc2k4k9gobvu_rtrmadp_0_usa-biden.jpeg?v=1605558548"
+        width: 3500
+        height: 2365
+        isCached: true
+  - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
+    excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."
+    publishedDateTime: 2020-12-01T16:56:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-census-biden-idUSKBN28B5D7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5D7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5D7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543073421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB033D"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump hints at 2024 run, Biden to meet with U.S. workers hit by pandemic"
+    excerpt: "Donald Trump hinted he may be ready to move on to planning another run for the U.S. presidency in 2024 as President-elect Joe Biden prepared on Wednesday to confront the raging pandemic that will likely be his first major challenge in office."
+    publishedDateTime: 2020-12-02T23:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN28C1GM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump-Biden transition live updates: Biden rolls out economic team leaders"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 51 days. Georgia Secretary of State Brad Raffensperger spoke before reporters Monday morning at the state capitol building in Atlanta and announced that his office has opened investigations into four third-party groups that he claimed are \"working to register people in other states to vote here in Georgia."
+    publishedDateTime: 2020-11-30T17:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 140
+    quality: 138
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_2049e707cb124f88b7ae0ef8dd0602ae_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.abcnews.com/images/Politics/biden-01-ap-iwb-201125_1606334957574_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "VIRUS TODAY: Americans travel as Biden addresses nation"
-    excerpt: "Here’s what’s happening Wednesday with the coronavirus pandemic in the U.S.: — Millions of Americans are traveling for the Thanksgiving holiday despite warnings from health officials that family gatherings could make a bad situation worse."
-    publishedDateTime: 2020-11-25T21:03:00Z
-    webUrl: "https://www.washingtonpost.com/health/virus-today-americans-travel-as-biden-addresses-nation/2020/11/25/9bec9fdc-2f61-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/virus-today-americans-travel-as-biden-addresses-nation/2020/11/25/9bec9fdc-2f61-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/virus-today-americans-travel-as-biden-addresses-nation/2020/11/25/9bec9fdc-2f61-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+  - title: "Biden promises help to U.S. workers hit by pandemic, Trump hints at 2024 run"
+    excerpt: "President-elect Joe Biden on Wednesday promised a group of workers hit by the raging COVID-19 pandemic that more aid would be on the way, while President Donald Trump hinted he may be ready to begin planning another run for the White House in 2024."
+    publishedDateTime: 2020-12-03T13:30:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28C1H8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1H8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1H8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden transition kicks into gear, as Trump acknowledges dwindling legal options"
+    excerpt: "President-elect Joe Biden is expected to unveil his picks for several top economic positions as early as Monday when he will also finally receive his first classified intelligence briefing, an essential step towards taking control of national security."
+    publishedDateTime: 2020-11-30T11:32:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28A1AB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1AB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1AB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0Q0"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Mitch McConnell for the first time appears to accept President-elect Joe Biden's election victory over Trump"
+    excerpt: "The Senate Majority Leader spoke of a \"new administration\" when discussing future COVID-19 economic stimulus negotiations."
+    publishedDateTime: 2020-12-01T20:17:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-wins-presidential-election-mitch-mcconnell-accepts-results-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-wins-presidential-election-mitch-mcconnell-accepts-results-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-wins-presidential-election-mitch-mcconnell-accepts-results-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 136
+    images:
+      - url: "https://i.insider.com/5fa19bd769331a0011bc703b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Factbox: Trump reshaped U.S. immigration system, Biden wants to reverse course"
+    excerpt: "President Donald Trump's push to crack down on illegal immigration and overhaul the legal immigration system was at the heart of the Republican's 2016 campaign and remained at the forefront of his White House agenda."
+    publishedDateTime: 2020-12-03T11:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-trump-changes-factbox-idUSKBN28D1GK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D1GK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D1GK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543317674&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20S5"
+        width: 757
+        height: 545
+        isCached: true
+  - title: "Trump reportedly wants to hold a 2024 campaign event during Biden's inauguration"
+    excerpt: "Donald Trump is strategizing ways to stay relevant amid incoming Biden administration, the Daily Beast reported, citing sources close to the president."
+    publishedDateTime: 2020-11-28T16:48:00Z
+    webUrl: "https://www.businessinsider.com/trump-reportedly-wants-2024-campaign-event-during-bidens-inauguration-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-reportedly-wants-2024-campaign-event-during-bidens-inauguration-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-reportedly-wants-2024-campaign-event-during-bidens-inauguration-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5fc2683e50e71a0011557ce9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump-Biden transition live updates: Biden pitches 100 day mask-wearing campaign"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
+    publishedDateTime: 2020-12-04T20:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-file-gty-ml-201204_1607095813243_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Power Up: One reason Trump keeps pushing to overturn Biden win: He's raking in cash"
+    excerpt: "President Trump has raised more than $150 million pushing his false claims about a rigged election, but a big chunk of the money could wind up as a down payment for the president's post-White House political operation – another sign that the blundering efforts to overturn the election results may not really be about winning at all."
+    publishedDateTime: 2020-12-01T11:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/power-up-one-reason-trump-keeps-pushing-overturn-biden-win-it-raking-cash/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/power-up-one-reason-trump-keeps-pushing-overturn-biden-win-it-raking-cash/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/power-up-one-reason-trump-keeps-pushing-overturn-biden-win-it-raking-cash/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZAI342BSOEI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Wisconsin recount confirms Biden’s win over Trump, cementing the president’s failure to change the election results"
+    excerpt: "The state’s two largest counties spent more than a week recounting ballots, but the final tally barely changed."
+    publishedDateTime: 2020-11-29T16:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-recount-over/2020/11/29/b4896ade-30c9-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 133
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YNFQS4RSKEI6XNM4VW3RKPIQYI.jpg&w=1440"
+        width: 1440
+        height: 1044
+        isCached: true
+  - title: "Trump campaign files last-ditch lawsuit in attempt to overturn Biden win in Wisconsin"
+    excerpt: "The suit, which legal experts said has little chance of prevailing, argues that elections officials improperly accepted more than 200,000 votes, but does not allege fraud."
+    publishedDateTime: 2020-12-02T04:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/wisconsin-trump-lawsuit/2020/12/01/e75c5570-33f3-11eb-b59c-adb7153d10c2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-trump-lawsuit/2020/12/01/e75c5570-33f3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-trump-lawsuit/2020/12/01/e75c5570-33f3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 133
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X4XC7WBUFII6XKMXD5GFHUVHI4.jpg&w=1440"
+        width: 1440
+        height: 1057
+        isCached: true
+  - title: "Trump demands Biden prove he won election, continues to lob fraud accusations"
+    excerpt: "President Trump is now demanding that President-elect Joe Biden prove he actually won the election. While Mr. Trump and his campaign repeatedly insist the race was rigged, court ruling after court ruling has upheld the outcome."
+    publishedDateTime: 2020-11-28T13:38:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-demands-biden-prove-he-won-election-continues-to-lob-fraud-accusations/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 132
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/28/cc5d8a2d-af7b-440e-8aba-bfb3960569ab/thumbnail/1200x630/f3ca4b9a685890b224979d92b49ec67e/cbsn-fusion-trump-demands-biden-prove-he-won-election-continues-to-lob-fraud-accusations-thumbnail-597367-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Arizona and Wisconsin certify Joe Biden's win as Trump continues to challenge results – live"
+    excerpt: "State officials effectively put to rest any doubt that Biden won as Trump campaign made its fifth request for Georgia officials to audit signatures"
+    publishedDateTime: 2020-11-30T22:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/30/us-election-joe-biden-donald-trump-coronavirus-covid-19-live-updates?page=with:block-5fc542bf8f08959b167738a7"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/30/us-election-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/30/us-election-joe-biden-donald-trump-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 129
+    images:
+      - url: "https://i.guim.co.uk/img/media/5d777dd5ba2466782f5b778dfcce7caa34bda9c0/0_260_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10758a1db0394570a074f5176379b121"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump’s unfinished border wall faces uncertain future after Biden pledge to freeze construction"
+    excerpt: "President-elect Joe Biden has pledged to halt construction once in office, leaving Trump’s signature project in the lurch."
+    publishedDateTime: 2020-12-02T18:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/biden-border-wall-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/biden-border-wall-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/biden-border-wall-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 128
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5PEZPEP2QI6VIF4J2NNJBTNEE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Joe Biden confirmed as winner in Wisconsin ahead of promised lawsuit from President Donald Trump"
+    excerpt: "Joe Biden confirmed as winner in Wisconsin ahead of promised lawsuit from President Donald Trump. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-11-30T21:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/joe-biden-confirmed-as-winner-in-wisconsin-ahead-of-promised-lawsuit-from-president-donald-trump/2020/11/30/c41488c0-3354-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/joe-biden-confirmed-as-winner-in-wisconsin-ahead-of-promised-lawsuit-from-president-donald-trump/2020/11/30/c41488c0-3354-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/joe-biden-confirmed-as-winner-in-wisconsin-ahead-of-promised-lawsuit-from-president-donald-trump/2020/11/30/c41488c0-3354-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 127
     images:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
+    excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
+    publishedDateTime: 2020-11-30T23:03:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/wisconsin-gov-tony-evers-signs-certification-joe-bidens-74470525"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/wisconsin-gov-tony-evers-signs-certification-joe-bidens-74470525"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/wisconsin-gov-tony-evers-signs-certification-joe-bidens-74470525"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 126
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Jill Biden, Joe’s chief protector, stepping up as first lady"
     excerpt: "No,” Jill Biden, then clad in a bikini, wrote in Sharpie across her stomach and then marched through a strategy session in which advisers were trying to talk her husband into challenging Republican President George W."
@@ -91,824 +473,163 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden chooses an all-female senior White House press team"
-    excerpt: "President-elect Joe Biden will have an all-female communications team at his White House, led by campaign communications director Kate Bedingfield."
-    publishedDateTime: 2020-11-30T06:11:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-11-29/biden-chooses-an-all-female-senior-white-house-press-team"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-29/biden-chooses-an-all-female-senior-white-house-press-team?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-29/biden-chooses-an-all-female-senior-white-house-press-team?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/d0905f2/2147483647/strip/true/crop/4902x3202+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F44%2Fe0%2Fb14d08af4c349b87fafc63e086ec%2Felection-2020-wisconsin-recount-84374.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Biden hires all-female senior communications team"
-    excerpt: "Biden’s press team will be led by Kate Bedingfield, a veteran Biden aide who served as his campaign communications director and will hold the same title in his White House. “Communicating directly and truthfully to the American people is one of the most important duties of a President,"
-    publishedDateTime: 2020-11-29T21:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TGSF3ORSRII6XDJYNLVBVWZYHE.jpg&w=1440"
-        width: 1440
-        height: 956
-        isCached: true
-  - title: "Biden names all-woman communications team"
-    excerpt: "President-elect Joe Biden on Sunday tapped key campaign staff and advisors to lead his all-woman communications team, naming former Obama State Department spokeswoman Jen Psaki as his White House press secretary and campaign spokeswoman Kate Bedingfield as"
-    publishedDateTime: 2020-11-30T08:24:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-communications-idUSKBN2890YK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890YK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890YK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542835857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0N3"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden picks top campaign aides in key communications roles"
-    excerpt: "President-elect Joe Biden on Sunday tapped key campaign staff and advisors to lead his communications team, naming former Obama State Department spokeswoman Jen Psaki as his White House press secretary and campaign spokeswoman Kate Bedingfield as communications director."
-    publishedDateTime: 2020-11-29T22:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-communications/biden-picks-top-campaign-aides-in-key-communications-roles-idUSKBN2890YK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890YK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890YK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542835857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0N3"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden sprains ankle while playing with his dog Major, office says"
-    excerpt: "The president-elect was walking his dog Major on Saturday when he twisted his ankle, the transition team said."
-    publishedDateTime: 2020-11-29T23:18:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/29/biden-twisted-ankle/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OHHPGW4C3JBXJOKY6F27T4GEME.jpg&w=1440"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Doctor says Biden fractured foot while playing with his dog"
-    excerpt: "WILMINGTON, Del. — President-elect Joe Biden fractured his foot while playing with one of his dogs, but doctors found “no obvious fracture” while examining him Sunday, according to his doctor. Biden suffered the injury on Saturday and visited an ..."
-    publishedDateTime: 2020-11-30T00:43:00Z
-    webUrl: "https://www.washingtonpost.com/politics/doctor-says-biden-fractured-foot-while-playing-with-his-dog/2020/11/29/0a3bd566-32a5-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/doctor-says-biden-fractured-foot-while-playing-with-his-dog/2020/11/29/0a3bd566-32a5-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/doctor-says-biden-fractured-foot-while-playing-with-his-dog/2020/11/29/0a3bd566-32a5-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Doctor says Biden sprained a foot while playing with his dog"
-    excerpt: "President-elect Joe Biden sprained a foot while playing with one of his dogs, but doctors found “no obvious fracture” while examining him Sunday"
-    publishedDateTime: 2020-11-29T23:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-twists-ankle-playing-dog-doctor-74452040"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-twists-ankle-playing-dog-doctor-74452040"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-twists-ankle-playing-dog-doctor-74452040"
+  - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
+    publishedDateTime: 2020-12-02T13:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_8a7e665217bc45b5b193c2dd740e1203_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "President-elect Joe Biden hires all-female communications staff"
-    excerpt: "Harris administration appointed the country's first all-female communications team to relay messages from the White House."
-    publishedDateTime: 2020-11-30T00:29:00Z
-    webUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fc4269350e71a0011557de4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Top secret: Biden gets access to President’s Daily Brief"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris began receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan. 20"
-    publishedDateTime: 2020-11-30T15:25:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-receive-first-intelligence-briefing-monday/2020/11/30/462363a2-3320-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-receive-first-intelligence-briefing-monday/2020/11/30/462363a2-3320-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-receive-first-intelligence-briefing-monday/2020/11/30/462363a2-3320-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Wisconsin counties finish recounts, Biden's lead reconfirmed"
-    excerpt: "The recount of presidential ballots in Wisconsin’s two largest counties finished on Sunday, confirming that Democratic President-elect Joe Biden defeated President Donald Trump in the key swing state by more than 20,"
-    publishedDateTime: 2020-11-29T17:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin/wisconsin-counties-finish-recounts-bidens-lead-reconfirmed-idUSKBN2890R2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890R2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890R2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542819350&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0J3"
-        width: 1022
-        height: 545
-        isCached: true
-  - title: "Biden budget pick Neera Tanden a lightning rod in Washington"
-    excerpt: "Neera Tanden, President-elect Joe Biden's outspoken nominee to head the Office of Management and Budget, faces a challenge winning Senate confirmation after a Washington career in which she has crossed powerful figures on both the right and left."
-    publishedDateTime: 2020-12-01T09:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUSKBN28B3GL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3GL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3GL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542989720&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01X4"
-        width: 823
-        height: 545
-        isCached: true
-  - title: "Biden names liberal econ team as pandemic threatens workers"
-    excerpt: "With unemployment still high and a new economic slump possible this winter, President-elect Joe Biden has announced a liberal team of economic advisers"
-    publishedDateTime: 2020-12-01T12:39:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-names-liberal-econ-team-pandemic-threatens-workers-74474309"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e1eb1f0937a946559f4c1685d17ddba3_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden still searching for defense secretary"
-    excerpt: "The president-elect announced several members of his national security team last week, but has not selected a defense secretary."
-    publishedDateTime: 2020-12-01T00:54:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-defense-secretary/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-defense-secretary/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-defense-secretary/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/24/b900a1c9-4450-4005-8ab5-a10a112cf717/thumbnail/1200x630g8/125c5e2fe615c83c99d79d48dd3eb2e1/gettyimages-1287289470.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe Biden weighs Rahm Emanuel for transportation secretary"
-    excerpt: "President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel to serve as his transportation secretary"
-    publishedDateTime: 2020-12-01T05:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Top secret: Biden gets access to President’s Daily Brief"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris began receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan. 20"
-    publishedDateTime: 2020-12-01T01:59:00Z
-    webUrl: "https://www.washingtonpost.com/politics/top-secret-biden-gets-access-to-presidents-daily-brief/2020/11/30/d759037e-3378-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/top-secret-biden-gets-access-to-presidents-daily-brief/2020/11/30/d759037e-3378-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/top-secret-biden-gets-access-to-presidents-daily-brief/2020/11/30/d759037e-3378-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Wisconsin certifies Joe Biden as winner following recount"
-    excerpt: "Joe Biden’s victory in Wisconsin has been certified following a partial recount that added slightly to his 20,600-vote margin over President Trump."
-    publishedDateTime: 2020-12-01T00:18:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-11-30/wisconsin-certifies-joe-biden-as-winner-following-recount"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-30/wisconsin-certifies-joe-biden-as-winner-following-recount?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-30/wisconsin-certifies-joe-biden-as-winner-following-recount?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/4f37cdd/2147483647/strip/true/crop/4258x2781+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff9%2Fde%2F27e8a8844982a6aa5f1387360bc1%2Fap20334644546013.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Biden to present top economy advisers as pandemic threat worsens"
-    excerpt: "U.S. President-elect Joe Biden will formally introduce his top economic policy advisers on Tuesday as his administration prepares to take power amid a slowing economic recovery hampered by the resurgent coronavirus pandemic."
-    publishedDateTime: 2020-12-01T17:35:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idUSKBN28B5UK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5UK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5UK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543087688&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB039D"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden, top Democrats swing behind bipartisan virus aid bill"
-    excerpt: "Biden said the developing aid package “wouldn’t be the answer, but it would be the immediate help for a lot of things.” He wants a relief bill to pass Congress now, with more aid to come next year. Biden’s remarks followed an announcement by House Speaker Nancy Pelosi,"
-    publishedDateTime: 2020-12-02T05:20:00Z
-    webUrl: "https://www.washingtonpost.com/politics/senate-gop-leader-sticking-with-partisan-covid-relief-plan/2020/12/02/1674ef56-345e-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/senate-gop-leader-sticking-with-partisan-covid-relief-plan/2020/12/02/1674ef56-345e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-gop-leader-sticking-with-partisan-covid-relief-plan/2020/12/02/1674ef56-345e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden urges Congress to pass coronavirus package, promises more action"
-    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
-    publishedDateTime: 2020-12-01T20:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-urges-congress-to-pass-coronavirus-package-promises-more-action-idUSL1N2IH242"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543101682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03ID"
-        width: 758
-        height: 545
-        isCached: true
-  - title: "Controversial postal chief poised to remain in Biden administration"
-    excerpt: "With no clear recourse to immediately remove him, Postmaster General Louis DeJoy is expected to remain in his role after President-elect Joe Biden is sworn in next month."
-    publishedDateTime: 2020-12-01T18:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/controversial-postal-chief-poised-remain-biden-administration/story?id=74469137"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/controversial-postal-chief-poised-remain-biden-administration/story?id=74469137"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/controversial-postal-chief-poised-remain-biden-administration/story?id=74469137"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/dejoy-gty-jt-201130_1606777534812_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Unveiling economic team, Biden pledges, ‘Help is on the way’"
-    excerpt: "President-elect Joe Biden has introduced top advisors he says will help his administration rebuild an economy hammered by the COVID-19 pandemic."
-    publishedDateTime: 2020-12-01T21:43:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-01/unveiling-economic-team-biden-pledges-help-is-on-the-way"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-01/unveiling-economic-team-biden-pledges-help-is-on-the-way?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-01/unveiling-economic-team-biden-pledges-help-is-on-the-way?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/9c1be0d/2147483647/strip/true/crop/4207x2748+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2F37%2F6b45480b46af967b7e3d5412685d%2Fbiden-37838.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Biden faces growing pressure over defense secretary pick"
-    excerpt: "President-elect Joe Biden is facing increasing pressure from competing Democratic factions as he finalizes his choice for secretary of defense."
-    publishedDateTime: 2020-12-03T11:23:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-03/biden-growing-pressure-defense-secretary-pick"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-03/biden-growing-pressure-defense-secretary-pick?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-03/biden-growing-pressure-defense-secretary-pick?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/9c1be0d/2147483647/strip/true/crop/4207x2748+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2F37%2F6b45480b46af967b7e3d5412685d%2Fbiden-37838.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Biden to meet with U.S. workers hit by pandemic, says Congress must act"
-    excerpt: "President-elect Joe Biden will talk with workers and business owners on Wednesday about how the coronavirus has affected them as he prepares to confront his highest priority on taking office: the resurgent pandemic in the United States."
-    publishedDateTime: 2020-12-02T20:36:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-workers-idINKBN28C1GM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1GM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1GM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden, top Democrats swing behind bipartisan virus aid bill"
-    excerpt: "WASHINGTON -- President-elect Joe Biden swung behind a bipartisan COVID-19 relief effort Wednesday and his top Capitol Hill allies cut their demands for a $2 trillion-plus measure by more than half in hopes of breaking a monthslong logjam and delivering much-sought aid as the tempestuous congressional session speeds to a close."
-    publishedDateTime: 2020-12-03T06:32:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/top-democrats-swing-bipartisan-coronavirus-aid-bill-74509741"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/top-democrats-swing-bipartisan-coronavirus-aid-bill-74509741"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/top-democrats-swing-bipartisan-coronavirus-aid-bill-74509741"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4915031dcafe45a7876e927842927883_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Fauci says he will speak with Biden transition officials on Thursday"
-    excerpt: "Fauci told CBS News that he has not yet spoken with President-elect Joe Biden but expects to do so in the near future."
-    publishedDateTime: 2020-12-03T14:36:00Z
-    webUrl: "https://www.cbsnews.com/news/fauci-speak-biden-officials/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/fauci-speak-biden-officials/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/fauci-speak-biden-officials/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/01/6d5c18cf-39eb-42a7-bf15-46b66a208016/thumbnail/1200x630g2/4c8f69e70dffbe7561ed3ea1e3a6213c/gettyimages-1229866325.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "GOP senators dismiss possible congressional challenge to Biden victory"
-    excerpt: "Amid President Trump’s unfounded claims of fraud, several of his supporters in the House have said they are exploring a challenge to electoral college results."
-    publishedDateTime: 2020-12-03T01:19:00Z
-    webUrl: "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELBI7NRUCMI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 974
-        isCached: true
-  - title: "Klain brings decades of DC experience to Biden White House"
-    excerpt: "Ron Klain has checked all the boxes of a classic Washington striver: Georgetown, Harvard Law, Supreme Court and Capitol Hill staffer, White House adviser and, along the way, of course, lobbyist and la"
-    publishedDateTime: 2020-12-02T16:55:05Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/klain-lead-biden-white-house-return-professionals-74496722"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/klain-lead-biden-white-house-return-professionals-74496722"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/klain-lead-biden-white-house-return-professionals-74496722"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_887f8ac3db0d4656b4e9d3986d10cc9a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Unveiling economic team, Biden pledges, 'Help is on the way'"
-    excerpt: "President-elect Joe Biden has introduced top advisers he says will help his administration rebuild an economy hammered by the coronavirus pandemic"
-    publishedDateTime: 2020-12-03T03:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-unveils-economic-team-critical-moment-recovery-74481765"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-unveils-economic-team-critical-moment-recovery-74481765"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-unveils-economic-team-critical-moment-recovery-74481765"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_dde971aafe2f40269ccc2ead36f4bca8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Among first acts, Biden to call for 100 days of mask-wearing"
-    excerpt: "Joe Biden says he will ask Americans to commit to 100 days of wearing masks as one of his first acts as president"
-    publishedDateTime: 2020-12-04T02:41:00Z
-    webUrl: "https://www.washingtonpost.com/politics/among-first-acts-biden-to-call-for-100-days-of-mask-wearing/2020/12/03/30082d8e-35da-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/among-first-acts-biden-to-call-for-100-days-of-mask-wearing/2020/12/03/30082d8e-35da-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/among-first-acts-biden-to-call-for-100-days-of-mask-wearing/2020/12/03/30082d8e-35da-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden taps Deese to head climate-focused White House economic council"
-    excerpt: "U.S. President-elect Joe Biden said on Thursday he had selected Brian Deese, who helped lead President Barack Obama's efforts to bail out the automotive industry during the 2009 financial crisis and was a key player in helping secure the Paris climate agreement,"
-    publishedDateTime: 2020-12-04T00:58:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-deese/biden-names-top-economic-adviser-deese-to-fight-climate-change-jobs-crisis-idUSKBN28D2NU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D2NU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2NU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543360436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21KF"
-        width: 809
-        height: 545
-        isCached: true
-  - title: "Iran says it will comply with nuclear deal if Biden lifts all sanctions"
-    excerpt: "Foreign minister calls on US to ‘show its good faith’ but appears to rule out renegotiating deal"
-    publishedDateTime: 2020-12-03T16:23:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/d209bfa3a03f58206f01df31391304887c2edad0/501_533_2999_1799/master/2999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a638d3f1e6624eecb32fe34530257b20"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Unveiling economic team, Biden pledges, 'Help is on the way'"
-    excerpt: "President-elect Joe Biden has introduced top advisers he says will help his administration rebuild an economy hammered by the coronavirus pandemic"
-    publishedDateTime: 2020-12-04T07:11:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_dde971aafe2f40269ccc2ead36f4bca8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden is facing high hopes, tough choices on border wall"
-    excerpt: "The U.S. government has been trying to take Pamela Rivas' land for a border wall since before Joe Biden was vice president. From a brushy bluff, Rivas can look across the Rio Grande to Mexico on the other side."
-    publishedDateTime: 2020-12-04T23:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-facing-high-hopes-tough-choices-border-wall-74520092"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-facing-high-hopes-tough-choices-border-wall-74520092"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-facing-high-hopes-tough-choices-border-wall-74520092"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+    quality: 124
     images:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
         isCached: true
-  - title: "Biden officially secures enough electors to become president"
-    excerpt: "California has certified its presidential election and appointed 55 electors pledged to vote for Joe Biden, officially handing the Democrat the Electoral College majority needed to win the White House"
-    publishedDateTime: 2020-12-05T01:13:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-officially-secures-electors-president-74549765"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-officially-secures-electors-president-74549765"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-officially-secures-electors-president-74549765"
+  - title: "Kamala Harris Celebrates 50 Days Until Biden Is President; Sarah Cooper, Rosanna Arquette and Others Respond"
+    excerpt: "Vice President-elect Kamala Harris took to Twitter this morning to happily remind people they are only 50 days away from Joe Biden 's January 20th Presidential Inauguration. As she put it, \"Only 50 days until we get to call @JoeBiden President of the United States."
+    publishedDateTime: 2020-12-01T15:43:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_5bb5c0a1786c4fdbb982ea1fb00f60ca_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden picks Cuban-American lawyer Mayorkas as U.S. homeland security chief"
-    excerpt: "President-elect Joe Biden will nominate Alejandro Mayorkas to become U.S. secretary of homeland security, Biden's transition team said on Monday, entrusting the Cuban immigrant to help reverse outgoing President Donald Trump's hard-line immigration policies."
-    publishedDateTime: 2020-11-24T06:55:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-homeland-idINKBN2832I5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2832I5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2832I5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542228607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM19M"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden taps Blinken as secretary of state as foreign policy team takes shape"
-    excerpt: "President-elect Joe Biden on Monday named the key members of his foreign policy team, tapping Antony Blinken as the next U.S. secretary of state, Jake Sullivan as national security adviser and Linda Thomas-Greenfield as the U."
-    publishedDateTime: 2020-11-23T23:40:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN2830ET"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2830EI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2830EI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542227095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN02V"
-        width: 824
-        height: 545
-        isCached: true
-  - title: "State Department tells staff: transition to Biden administration has begun"
-    excerpt: "The U.S. State Department has informed staff that the transition process has begun and a team had been assigned inside the agency to support a handover to the incoming Biden administration, according to an internal email seen by Reuters on Wednesday."
-    publishedDateTime: 2020-11-26T00:10:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-biden-statedepartment/state-department-tells-staff-transition-to-biden-administration-has-begun-idUSKBN2852XS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852XS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852XS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542458526&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1KP"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden transition advisers emerge as top contenders to run covid-19 response"
-    excerpt: "As President-elect Joe Biden makes fighting the raging coronavirus his most urgent mission when he takes office next month, two figures already playing central roles in his transition are emerging as the most likely officials to preside over the new White House’s pandemic response."
-    publishedDateTime: 2020-12-03T01:10:00Z
-    webUrl: "https://www.washingtonpost.com/health/biden-covid-response-team/2020/12/02/292c9752-34c7-11eb-a997-1f4c53d2a747_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/biden-covid-response-team/2020/12/02/292c9752-34c7-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-covid-response-team/2020/12/02/292c9752-34c7-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BE3GLGRVAMI6XDJYNLVBVWZYHE.jpg&w=1440"
-        width: 1440
-        height: 1011
-        isCached: true
-  - title: "Iran pressures Biden with plan to increase underground enrichment machines"
-    excerpt: "Iran is raising pressure on U.S. President-elect Joe Biden with plans to install more advanced uranium-enriching centrifuges at an underground plant in breach of its deal with major powers, a U.N. nuclear watchdog report showed on Friday."
-    publishedDateTime: 2020-12-04T15:42:00Z
-    webUrl: "https://www.reuters.com/article/us-iran-nuclear-iaea/iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines-idUSKBN28E1XM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E1VR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E1VR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543482313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31BL"
-        width: 808
-        height: 545
-        isCached: true
-  - title: "President-elect Joe Biden twists ankle after slipping while playing with dog"
-    excerpt: "President-elect Joe Biden twisted his ankle after slipping while playing with his dog, his office said on Sunday."
-    publishedDateTime: 2020-11-29T21:38:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-idUKKBN2890WS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2890WS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2890WS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542834160&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0MH"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Black Lives Matter movement at a crossroads as Biden prepares to take office"
-    excerpt: "Sloan’s hesitant support for Biden reflects a divide among racial justice activists about the movement’s strategy under the soon-to-be presidency. Some factions of the Black L"
-    publishedDateTime: 2020-12-02T05:54:00Z
-    webUrl: "https://www.washingtonpost.com/national/black-lives-matter-movement-at-a-crossroads-as-biden-prepares-to-take-office/2020/12/01/8ebb95ce-2f26-11eb-860d-f7999599cbc2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/black-lives-matter-movement-at-a-crossroads-as-biden-prepares-to-take-office/2020/12/01/8ebb95ce-2f26-11eb-860d-f7999599cbc2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/black-lives-matter-movement-at-a-crossroads-as-biden-prepares-to-take-office/2020/12/01/8ebb95ce-2f26-11eb-860d-f7999599cbc2_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4TDVL6BUGQI6XIRJ2FTO3EHWCY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Here’s the problem Biden faces if he picks current lawmakers for his Cabinet."
-    excerpt: "President-elect Joe Biden has begun to select candidates for crucial positions in the Cabinet and other senior administration spots. In the running are sitting elected officials. For example, various Democratic Party factions have urged Biden to select his former primary opponents ,"
-    publishedDateTime: 2020-12-02T11:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/heres-problem-biden-faces-if-he-picks-current-lawmakers-his-cabinet/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/heres-problem-biden-faces-if-he-picks-current-lawmakers-his-cabinet/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/heres-problem-biden-faces-if-he-picks-current-lawmakers-his-cabinet/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IOP6QNT7III6VBGCA6JNQWIZCE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden team to meet with Latino lawmakers amid calls for diverse cabinet picks"
-    excerpt: "Congressional Hispanic Caucus has pushed for the president-elect to select a Latino person to lead a major federal agency"
-    publishedDateTime: 2020-12-02T21:42:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/ca519be7e2232ba11e4ac5d8dfae38be29db558d/0_84_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad7e7a3e5456b291902a6b3d9d880c9e"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "UPDATE 1-Biden urges Congress to pass coronavirus package, promises more action"
-    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
-    publishedDateTime: 2020-12-02T00:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idUSL1N2IH242"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 121
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
-        width: 1022
-        height: 545
+      - url: "https://d.newsweek.com/en/full/1669370/kamala-harris-joe-biden.jpg"
+        width: 2500
+        height: 1668
         isCached: true
-  - title: "Biden tries to spread calm, as some Democrats worry about his willingness to fight"
-    excerpt: "The president-elect has made good on his campaign vow to lower the temperature as he deals with Republicans and Democrats."
-    publishedDateTime: 2020-11-26T11:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-transition-conciliatory-tone/2020/11/25/aacd4ed6-29bf-11eb-8fa2-06e7cbb145c0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-transition-conciliatory-tone/2020/11/25/aacd4ed6-29bf-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-transition-conciliatory-tone/2020/11/25/aacd4ed6-29bf-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+  - title: "Biden gains 87 votes in Trump's $3M Wisconsin recount as Dane County wraps up review. President plans lawsuit."
+    excerpt: "Biden netted 132 votes in Milwaukee County and Trump netted 45 votes in Dane County. Taken together, that increased Biden's statewide lead to 21,695."
+    publishedDateTime: 2020-11-29T17:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/29/wisconsin-recount-completed-biden-gains-dane-country/6456378002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6456378002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6456378002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KEVH72BKXEI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "President-elect Joe Biden adjusting agenda to reflect narrow divide in Congress and raging COVID-19 pandemic"
-    excerpt: "President-elect Joe Biden is adjusting the scope of his agenda to meet the challenges of governing with a narrowly divided Congress and the complications of legislating during a raging pandemic."
-    publishedDateTime: 2020-12-04T21:22:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-biden-agenda-congress-20201204-cfjkqqqrjbev5pyxfmzfvjbebm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 106
-    images:
-      - url: "https://www.chicagotribune.com/resizer/opJ1Y7BGX96YyyJZ6kWe52uNa-o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V46L4EKR7MVRDTPAELXFYIBV2Q.aspx"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/ffd79519-3119-4182-b2c8-3743924ea336-MJS_recount_4_hoffman.jpg_RECOUNT.jpg?auto=webp&crop=4516,2541,x0,y210&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "AP source: Biden taps ex-Fed chair Yellen to lead treasury"
-    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has chosen former Federal Reserve Chair Janet Yellen to serve as treasury secretary, a pivotal role in which she would help shape and direct his economic policies,"
-    publishedDateTime: 2020-11-23T22:15:00Z
-    webUrl: "https://www.businessinsider.com/ap-source-biden-taps-ex-fed-chair-yellen-to-lead-treasury-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/ap-source-biden-taps-ex-fed-chair-yellen-to-lead-treasury-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-source-biden-taps-ex-fed-chair-yellen-to-lead-treasury-2020-11?amp"
+  - title: "Vice President-elect Kamala Harris is poised to break barriers on multiple fronts"
+    excerpt: "It was exactly one year ago Thursday that California Sen. Kamala Harris dropped out of the presidential race, citing a lack of funds. Now she is poised to break barriers as the first woman, first Black American and first South-Asian American vice president-elect."
+    publishedDateTime: 2020-12-03T22:35:00Z
+    webUrl: "https://www.pbs.org/newshour/show/vice-president-elect-kamala-harris-is-poised-to-break-barriers-on-multiple-fronts"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/vice-president-elect-kamala-harris-is-poised-to-break-barriers-on-multiple-fronts"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/vice-president-elect-kamala-harris-is-poised-to-break-barriers-on-multiple-fronts"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 120
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/VP_tape-1024x699.jpg"
+        width: 1024
+        height: 699
+        isCached: true
+  - title: "Biden gains 87 votes in Trump's $3 million Wisconsin recount as Dane County wraps up review. President plans lawsuit."
+    excerpt: "Dane County wrapped up its recount Sunday, affirming Democrat Joe Biden’s victory in Wisconsin. President Donald Trump is preparing a lawsuit."
+    publishedDateTime: 2020-11-29T21:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/29/dane-county-recount-show-biden-won-wisconsin-trump-prepares-lawsuit/6455880002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6455880002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6455880002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/ffd79519-3119-4182-b2c8-3743924ea336-MJS_recount_4_hoffman.jpg_RECOUNT.jpg?auto=webp&crop=4516,2541,x0,y210&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden's Coalition Was United In Beating Trump. Governing May Reveal Its Cracks"
+    excerpt: "Joe Biden won by tapping into a diverse group of voters who were on a mission to defeat President Trump. But now without Trump, Biden faces a daunting challenge to keep that coalition together."
+    publishedDateTime: 2020-12-01T09:01:00Z
+    webUrl: "https://www.npr.org/2020/12/01/939098913/bidens-coalition-was-united-in-beating-trump-governing-may-reveal-its-cracks"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 116
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/30/gettyimages-1229787981_wide-8c5bbb4cd944362015198263749515a545ebda1e.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Congress is briefly reconvening, under pressure from Trump and Biden to pass a COVID-19 stimulus bill after months of gridlock"
+    excerpt: "Congress has spent months arguging over the details of a follow-up stimulus package, to the immense frustration of many."
+    publishedDateTime: 2020-11-30T12:07:00Z
+    webUrl: "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-pressure-pass-covid-19-stimulus-brief-window-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "Explainer: What to expect from Biden's foreign policy"
-    excerpt: "What to expect from Biden's foreign policy. Posted [NFA] The following are some of the policy issues that President-elect Joe Biden's foreign policy team face"
-    publishedDateTime: 2020-11-26T15:10:00Z
-    webUrl: "https://www.reuters.com/video/watch/explainer-what-to-expect-from-bidens-for-id722389066?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+    quality: 112
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20201126&i=OVD67MCPR&r=OVD67MCPR&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Biden injures foot while playing with his dog"
-    excerpt: "President-elect Joe Biden suffered hairline fractures in his foot while playing with his dog on Nov. 29. Biden will wear a walking boot for several weeks."
-    publishedDateTime: 2020-11-30T12:56:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/biden-injures-foot-while-playing-with-his-dog/2020/11/30/0482afcf-7ec3-4de1-b0c7-997f0069284e_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-30-2020/t_f5bb8ecea79743948f03ae468fdb512f_name_Screen_Shot_2020_11_30_at_7_39_06_AM_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
-  - title: "President-elect Biden names senior members of economic team"
-    excerpt: "President-elect Joe Biden will announce senior members of his economic team tomorrow, including his nominee for Treasury Secretary Janet Yellen. This comes as he's facing divisions from the progressive wing of the party over some of his potential picks."
-    publishedDateTime: 2020-11-30T18:52:00Z
-    webUrl: "https://www.cbsnews.com/video/president-elect-biden-economic-team-janet-yellen/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/30/5dabf651-0fae-4b55-a201-6ff9266b1fbc/thumbnail/1200x630/f152343bf9a3140c38fea89c2d25975a/cbsn-fusion-president-elect-biden-economic-team-janet-yellen-thumbnail-598419-640x360.jpg"
+      - url: "https://i.insider.com/5fc4ce3550e71a0011557e44?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Live politics updates: President-elect Biden to discuss economic crisis with workers and small-business owners"
-    excerpt: "President-elect Joe Biden plans to meet online Wednesday with workers and small-business owners to discuss the economic crisis, as part of his preparations for taking office. Biden highlighted the need for more federal stimulus spending Tuesday while introducing his economics team,"
-    publishedDateTime: 2020-12-02T15:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/02/presidential-transition-updates-politics-joe-biden-donald-trump/3791958001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3791958001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3791958001"
+  - title: "Arizona's Republican governor dunked on Trump after the president criticized him for certifying that the state voted for Biden"
+    excerpt: "Gov. Doug Ducey has responded after the president dialed into his state's election hearings to allege \"corruption,\" then went on a Twitter rampage."
+    publishedDateTime: 2020-12-01T11:37:00Z
+    webUrl: "https://www.businessinsider.com/arizona-gop-gov-doug-ducey-slams-trump-state-certification-criticism-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/arizona-gop-gov-doug-ducey-slams-trump-state-certification-criticism-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-gop-gov-doug-ducey-slams-trump-state-certification-criticism-2020-12?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/0ea21f1c-a0a4-477a-be43-069126ee14c8-biden_economics_team.jpg?auto=webp&crop=7462,4198,x0,y0&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5fc12a4250e71a0011557ada?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Biden pledges help for workers hit hard by COVID"
-    excerpt: "President-elect Joe Biden met virtually with Americans who have been hard-hit economically by the coronavirus pandemic, promising help is on the way. He also urged Congress to pass a stimulus bill now as a \"down payment\" before he takes office."
-    publishedDateTime: 2020-12-03T00:26:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/biden-pledges-help-workers-hit-hard-covid/3803349001/"
+  - title: "Arizona certifies Biden's win as Trump's legal team holds an event in the state over the president's baseless claims of voter fraud"
+    excerpt: "The election was secure \"despite numerous unfounded claims to the contrary,\" Secretary of State Katie Hobbs said on Monday."
+    publishedDateTime: 2020-12-01T03:37:00Z
+    webUrl: "https://www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-certifies-election-as-trump-team-holds-event-on-voter-fraud-2020-11?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fc54f13037cbd0018612f22?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Election 2020: Joe Biden beats defiant Donald Trump; Kamala Harris first woman elected vice president"
+    excerpt: "In a Saturday evening address to the nation, Biden touted the fact that he’s won more votes than any presidential ticket in history, calling his win “a convincing victory, a victory for the people.”"
+    publishedDateTime: 2020-11-08T02:43:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/eeaaf938-b5ac-4ab2-906e-68396cf80859_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.courant.com/resizer/Ee0W9aCN3FWG-v2fbZgPvyrZ73A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KZKWCXLLWNHSTL2ISPRCT3M6EE.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Border wall poses tough choices for Biden"
     excerpt: "The incoming Biden White House will face a series of tough choices created by the outgoing Trump administration, which is still pushing forward with a frenzy of southwest border wall construction even after losing the November election."
@@ -923,87 +644,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0a319b81-11b1-44bc-afd9-a936d08d11c2_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Biden pushes Congress to provide relief for out-of-work Americans"
-    excerpt: "With nearly 11 million people unemployed and more than 400,000 COVID-19 deaths projected by the time he takes office, President-elect Joe Biden said Congress must provide relief for Americans set to lose federal aid in a matter of weeks."
-    publishedDateTime: 2020-12-05T00:00:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-pushes-congress-to-provide-relief-for-out-of-work-americans/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/04/e48dcfc6-73e3-4efa-b58d-9075e97f83bf/thumbnail/1200x630/083ca26610c86ced4b158b123bbe1e5e/cbsn-fusion-biden-pushes-congress-to-provide-relief-for-out-of-work-americans-thumbnail-601539-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
-    excerpt: "Joanna Walters in New York (now) and Martin Belam (earlier) Joe Biden has just confirmed in person that Anthony Blinken will become his secretary of state. Blinken is there with other new picks. They are standing some distance from each other and are ..."
-    publishedDateTime: 2020-11-24T18:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd4b358f08850ef86c56cd"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 102
-  - title: "Joe Biden's Novel Approach to Climate Change Could Side-Step a Divided Congress"
-    excerpt: "As the country burned and flooded, Joe Biden leaned into climate change more than any other general-election presidential contender in U.S. history. Now, even as he faces the possibility of a divided Congress,"
-    publishedDateTime: 2020-11-28T23:01:00Z
-    webUrl: "https://time.com/5910008/joe-biden-climate-change-election/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 101
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/joe-biden-climate-03.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Perdue tacitly acknowledges Biden administration, despite public pronouncements"
-    excerpt: "In a private zoom call with the Republican Jewish Coalition obtained by The Washington Post, Sen. David Perdue (R-Ga.) referred several times to a new administration run by President-elect Joe Biden."
-    publishedDateTime: 2020-12-04T01:32:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/perdue-tacitly-acknowledges-biden-administration-despite-public-pronouncements/2020/12/03/c37a74dc-9256-49d7-a1c2-81b4ef4927ef_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-04-2020/t_db5a42fdfdc94478a709335819c5af2c_name_Perdue_2.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
-  - title: "President-elect Biden calls on Americans to wear masks for his first 100 days in office"
-    excerpt: "President-elect Joe Biden says he wants the American public to wear masks for his first 100 days in office to help slow the spread of COVID-19. Mr. Biden continues to build out his coronavirus pandemic response team,"
-    publishedDateTime: 2020-12-04T14:33:00Z
-    webUrl: "https://www.cbsnews.com/video/president-elect-biden-calls-on-americans-to-wear-masks-100-days/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/04/bbf7e83d-69b4-4bdd-8437-a6e84d0c78e3/thumbnail/1200x630/e78e695cf08585ba584dca9760b6bfa7/cbsn-fusion-president-elect-biden-calls-on-americans-to-wear-masks-for-his-first-100-days-in-office-thumbnail-601166-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "President-elect Biden considering appointing members of the LGBTQ+ community to his cabinet"
-    excerpt: "President-elect Joe Biden is set to have one of the most diverse cabinets the nation has ever seen. Advocates and allies are hoping that diversity includes LGBTQ+ representation as well. LGBTQ Victory Institute Vice President Ruben Gonzalez discusses potential cabinet picks."
-    publishedDateTime: 2020-11-28T21:58:00Z
-    webUrl: "https://www.cbsnews.com/video/president-elect-biden-considering-appointing-members-of-the-lgbtq-community-to-his-cabinet/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 95
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/d688dce4-44fc-4ba3-90f6-3dead692d3ed/thumbnail/1200x630/2ec41d29d884f7b9634745ae99cfad73/cbsn-fusion-president-elect-biden-considering-appointing-members-of-the-lgbtq-community-to-his-cabinet-thumbnail-597544-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden, Harris to receive first presidential intelligence briefings"
     excerpt: "U.S. President-elect Joe Biden is scheduled to receive his first presidential intelligence briefing on national security threats Monday as he prepares for his transition into office."
@@ -1021,52 +661,77 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "President-elect Joe Biden gains over 100 votes after Milwaukee County recount"
-    excerpt: "Elect Joe Biden gained more than 100 more votes in Milwaukee County in a recount, adding to his lead. The Trump campaign submitted a recount petition and paid a $3 million fee to the Wisconsin Elections Commission for the partial recount of presidential election results ordered last week,"
-    publishedDateTime: 2020-11-28T19:36:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/28/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount/7811606583294/"
+  - title: "Biden, Harris get first access to Trump's top-secret President's Daily Brief"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris got their first look Monday at the top-secret President's Daily Brief since winning the 2020 election. President Trump had delayed Biden's access to the PDB,"
+    publishedDateTime: 2020-12-01T06:24:00Z
+    webUrl: "https://theweek.com/5things/952601/biden-harris-first-access-trumps-topsecret-presidents-daily-brief"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
+      name: THE WEEK
+      domain: theweek.com
+    quality: 82
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/7811606583294/2020/1/cf33271cf4070f966585c8d3e536d871/v1.5/President-elect-Joe-Biden-gains-over-100-votes-after-Milwaukee-County-recount.jpg"
-        width: 800
-        height: 534
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1286019386.jpg?itok=X1likKTA"
+        width: 840
+        height: 560
         isCached: true
-  - title: "Joe Biden: President-elect seen in protective boot on fractured foot"
-    excerpt: "Joe Biden is seen wearing a protective boot on his right foot, which he fractured playing with his dog."
-    publishedDateTime: 2020-12-01T20:37:00Z
-    webUrl: "https://www.bbc.co.uk/news/election-us-2020-55151354"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p0905xmn.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Joe Biden Considers Roger Ferguson to Lead National Economic Council, Gary Gensler for Deputy Treasury Secretary"
-    excerpt: "President-elect Joe Biden is considering TIAA CEO Roger Ferguson to be his National Economic Council director and former Commodity Futures Trading Commission chairman Gary Gensler as Deputy Treasury Secretary,"
-    publishedDateTime: 2020-11-25T22:32:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/?amp"
+  - title: "Transition Latest: Harris Promises Action on Hunger; Trump Challenges Wisconsin Results"
+    excerpt: "Although the federal General Services Administration recognized President-elect Joe Biden as the “apparent winner” of the Nov. 3 election last week, President Donald Trump is challenging the results in multiple battleground states."
+    publishedDateTime: 2020-12-02T16:43:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/transition-latest-biden-weighs-emanuel-for-cabinet-trump-headed-to-georgia/2753281/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/transition-latest-biden-weighs-emanuel-for-cabinet-trump-headed-to-georgia/2753281/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/transition-latest-biden-weighs-emanuel-for-cabinet-trump-headed-to-georgia/2753281/?amp"
     type: article
     provider:
       name: NBC New York
       domain: nbcnewyork.com
-    quality: 54
+    quality: 82
     images:
-      - url: "https://media.nbcnewyork.com/2020/11/106802622-1606341920317-roger.jpg?fit=990%2C660"
-        width: 990
-        height: 660
+      - url: "https://media.nbcnewyork.com/2020/11/Diptych-win2.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "San Jose teen artist wows Kamala Harris, wins national acclaim"
+    excerpt: "A San Jose teen artist who recently won raves from Kamala Harris for a portrait he painted of the Vice President-elect, is now earning national acclaim. Tyler Gordon, 14, has been named a Top 5 finalist for Time magazine’s first-ever Kid of the Year honors and will be among the talented youngsters featured in a Nickelodeon television special Friday night."
+    publishedDateTime: 2020-12-04T02:09:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/time-koty-tyler-gordon.jpg?w=800&h=532"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
+    excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."
+    publishedDateTime: 2020-11-30T23:16:00Z
+    webUrl: "https://www.chron.com/news/article/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Wisconsin-Gov-Tony-Evers-signs-15764302.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 63
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Joe Biden and Kamala Harris Victory Speeches"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris addressed the nation from Wilmington, Delaware, after being declared the winners of the 2020 presidential election. President-elect Biden said the American people have \"delivered us a clear victory,"
+    publishedDateTime: 2020-11-09T02:03:00Z
+    webUrl: "https://www.c-span.org/video/?477916-1/president-elect-joe-biden-vice-president-elect-kamala-harris-address-nation&live"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
 
 secured: "unawMZJZIW0SrxQrB6GsJn5T4hmXIJYAdh7LRQz8r5085LnnjZYAEuQBPvR3B9KkLdo9vFMB4uVzjyB0KwFxfdM4WveszQWvFs8tnOL8TF/A1S+aevNqWr59Q4b/384Y/WpQrjSruu2wuIzh0vpz5Zb8dTwKvVYP/8/Vxd8uN/73V5abW5APcK27ePX+bDqzFXA/oelOXbf3Qr2ttL3Mdz6Jt0a/lQlZiWbRZymadYrrMUaQvOA1WoVAdeon4t2fm5MrcfOJ1ydn5m/n59CzjQEQHyV30Z7tMtVex6c4PbP+pxhKiB7TwrE5wOmpaUgkxT1qKQTGqxdRQlpk9T9tUHpxLSBDzxf+GRR7RPT+7J0=;4zwvcD26wg9NVvWFjj4pmw=="
 ---

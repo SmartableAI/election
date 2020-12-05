@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-05-kellyanne-conway-breaks-from-trump-and-says-joe-biden-and-kamala-harris-will-prevail.md",
+      "title": "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'",
+      "excerpt": "Former White House advisor Kellyanne Conway's comments in an interview with The 19th go directly against Trump's claims undermining the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
+      "originalUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1067,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fcb8c9db6a3a800199b6db2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp",
+      "publishedDateTime": "2020-12-05T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-harris-on-her-working-relationship-with-biden-we-are-full-partners-in-this-process.md",
       "title": "Harris on her working relationship with Biden: 'We are full partners in this process' ",
       "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris may have been fierce rivals in the Democratic primary, but now, as they prepare to take control of the White House, they say they are full partners who agree on how to approach the country's most pressing issues.\n    \n",
@@ -59,21 +113,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-04-dianne-feinstein-backs-alex-padilla-for-kamala-harris-senate-seat.md",
-      "title": "Dianne Feinstein backs Alex Padilla for Kamala Harris’ Senate seat",
-      "excerpt": "Sen. Dianne Feinstein endorsed Alex Padilla to join her in the Senate, saying she has shared her support of the California secretary of state with Gov. Gavin Newsom. The governor must pick someone to fill out the remaining two years of Vice President-elect Kamala Harris’ term.",
+      "path": "_news/2020-12-04-kamala-harris-makes-more-history-with-all-female-senior-staff-picks.md",
+      "title": "Kamala Harris Makes More History With All-Female Senior Staff Picks",
+      "excerpt": "For the first time, the top three positions in the office of the vice president will be held by women -- and all serving under the first woman to hold the office.",
       "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/politics/article/Dianne-Feinstein-backs-Alex-Padilla-for-Kamala-15772613.php",
-      "originalUrl": "https://www.houstonchronicle.com/politics/article/Dianne-Feinstein-backs-Alex-Padilla-for-Kamala-15772613.php",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 565,
       "tags": null,
       "images": [
         {
-          "url": "https://s.hdnux.com/photos/01/15/45/35/20338528/5/rawImage.jpg",
-          "width": 2048,
-          "height": 1377,
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDqnSWHoECyc/v0/360x-1.jpg",
+          "width": 360,
+          "height": 272,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -81,68 +135,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T11:41:00-08:00",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
+      "publishedDateTime": "2020-12-03T15:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-kamala-harris-picks-tina-flournoy-to-be-her-chief-of-staff.md",
-      "title": "Kamala Harris picks Tina Flournoy to be her chief of staff",
-      "excerpt": "Vice President-elect Kamala Harris has named veteran Democratic strategist Tina Flournoy as her chief of staff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/0bda102/2147483647/strip/true/crop/3000x1959+0+73/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2F2b%2Fe6b1728352869e91a42d682a4b5c%2F73b0762e11fb4961a09c11fc06669ad5",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-03/kamala-harris-picks-tina-flournoy-chief-of-staff?_amp=true",
-      "publishedDateTime": "2020-12-03T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -220,58 +222,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-02-watch-live-biden-and-harris-introduce-key-economic-team-members.md",
-      "title": "Watch live: Biden and Harris introduce key economic team members",
-      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris are set to introduce key economic team members Tuesday afternoon in Wilmington, Delaware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 560,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106797646-16055585112020-11-16t202540z_641690806_rc2k4k9gobvu_rtrmadp_0_usa-biden.jpeg?v=1605558548",
-          "width": 3500,
-          "height": 2365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html",
-      "publishedDateTime": "2020-12-01T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-12-01-frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.md",
       "title": "Frontrunners for Kamala Harris Senate seat praised Fidel Castro",
       "excerpt": "Two frontrunners for Vice President-elect Kamala Harris' Senate seat have praised former Cuban dictator Fidel Castro.",
@@ -325,49 +275,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-kamala-harris-visits-outdoor-washington-dc-market-for-small-business-saturday.md",
-      "title": "Kamala Harris visits outdoor Washington, D.C. market for Small Business Saturday",
-      "excerpt": "Vice President-elect Kamala Harris stressed the importance of supporting small businesses amid the COVID-19 pandemic as she visited an outdoor market in Washington, D.C. for Small Business Saturday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/5851606665676/2020/1/5226819b3561030471050fc4702b6888/v1.5/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday.jpg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/",
-      "publishedDateTime": "2020-11-29T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     },
@@ -477,6 +384,102 @@
       ],
       "topics": [
         "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-janet-yellen-and-kamala-harris-keep-shattering-glass-ceilings-but-global-elite-boys-club-remains.md",
+      "title": "Janet Yellen and Kamala Harris keep shattering glass ceilings – but global elite boys club remains",
+      "excerpt": "Young, University of Massachusetts Amherst and Tuugi Chuluun, Loyola University Maryland (THE CONVERSATION) Janet Yellen may soon become the first woman to lead the Treasury Department, about six years after shattering another glass ceiling at the top of the Federal Reserve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php",
+      "publishedDateTime": "2020-11-25T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-an-anonymous-senior-trump-campaign-advisor-said-trump-basically-just-conceded-by-recommending-that-the-gsa-start-the-biden-harris-transition.md",
+      "title": "An anonymous senior Trump campaign advisor said Trump 'basically just conceded' by 'recommending' that the GSA start the Biden-Harris transition",
+      "excerpt": "Emily Murphy, the head of the General Services Administration, has allowed President-elect Joe Biden to access resources to begin the transition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fbc971050e71a0011556fe8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp",
+      "publishedDateTime": "2020-11-24T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Kamala Harris"
       ]
     },
@@ -594,7 +597,7 @@
       "originalUrl": "https://www.newsweek.com/conservative-pastor-says-kamala-harris-driven-antichrist-spirit-1548407",
       "featuredContent": null,
       "highlight": null,
-      "heat": 303,
+      "heat": 343,
       "tags": null,
       "images": [
         {

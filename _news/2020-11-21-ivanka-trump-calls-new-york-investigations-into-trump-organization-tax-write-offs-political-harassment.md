@@ -31,83 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Former head of U.S. election security calls Trump team fraud allegations 'farcical'"
-    excerpt: "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\"."
-    publishedDateTime: 2020-11-28T01:36:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-krebs-idINKBN28801I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28801I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28801I"
+  - title: "New York subpoenas Trump Organization records on consulting fees paid to Ivanka"
+    excerpt: "New York’s attorney general has sent a subpoena to the Trump Organization for records related to consulting fees paid to Ivanka Trump."
+    publishedDateTime: 2020-11-20T10:31:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes?_amp=true"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 134
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 121
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542720087&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR00W"
-        width: 753
-        height: 545
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6ae8be4/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F3b%2F8b3c08284a4b9772eac3ad91e97a%2Felection-2020-trump-86023.jpg"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Romney blasts ‘undemocratic’ Trump for pressuring Republicans to overturn election results"
-    excerpt: "Romney joined Sen. Ben Sasse (R-Neb.) on Thursday as the only GOP senators to publicly oppose the president, as Trump and his campaign continue lobbing baseless allegations of widespread voter fraud in Michigan and other states."
-    publishedDateTime: 2020-11-20T20:57:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 130
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4LIIIYRDVII6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump lashes out on Twitter as former top DHS official reasserts that election was ‘secure’"
-    excerpt: "Trump turned to his Twitter feed to excoriate Christopher Krebs and \"60 Minutes,\" calling it “fake news,” and reasserting his unproven claims that the election was rigged."
-    publishedDateTime: 2020-11-30T10:55:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 130
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-30-2020/t_9e28b00823cd4f17b4113e591f25ba7c_name_Screen_Shot_2020_11_29_at_11_52_16_PM.png&w=1440"
-        width: 1440
-        height: 800
-        isCached: true
-  - title: "GM dumps Trump in his attempt to bar California from setting emissions"
-    excerpt: "GM urges other carmakers to withdraw support of the Trump administration's attempt to bar California from setting its own emission rules."
-    publishedDateTime: 2020-11-24T00:01:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/11/23/gm-trump-california-emissions-biden/6401627002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6401627002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6401627002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/34c91a8fdf1511f71134089b998fd833d033cdc4/c=0-36-512-325/local/-/media/2016/10/25/DetroitFreePress/DetroitFreePress/636129760971560378-GM-logo-with-flag-2-.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 677
-        isCached: true
-  - title: "Tucker Carlson calls out Trump's election lawyer for refusing to show evidence supporting the president's baseless voter fraud claims"
-    excerpt: "Some of President Donald Trump's false election fraud claims are apparently a bridge too far for one of Trump's biggest Fox News boosters."
-    publishedDateTime: 2020-11-20T16:43:00Z
-    webUrl: "https://www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11?amp"
+  - title: "New York fraud investigations into Trump have expanded to include consulting fee write-offs, some of which appeared to be paid to Ivanka Trump"
+    excerpt: "A Times investigation found one consulting fee exactly matched a payment disclosed by Ivanka Trump that she received from a firm she co-owns."
+    publishedDateTime: 2020-11-20T07:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 109
+    quality: 89
     images:
-      - url: "https://i.insider.com/5fb7d98650e71a0011556726?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fb7351050e71a0011556636?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump's kids are said to be split over whether he should concede, with Ivanka looking for an off-ramp while Eric and Don Jr. want to fight to the end"
+    excerpt: "Ivanka Trump, Donald Trump Jr. and Eric Trump have different opinions on whether Trump should concede the presidential election, CNN said."
+    publishedDateTime: 2020-11-13T10:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/5fae52c91e8d5000198134bb?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

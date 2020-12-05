@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-06-essential-arts-anonymous-architect-of-fake-trump-presidential-library-speaks.md",
+      "title": "Essential Arts: Anonymous architect of fake Trump presidential library speaks",
+      "excerpt": "An interview with an architect who imagined Trump's library. Cuba's artist crackdown. Plus, your thoughts on virtual arts and Lou Harrison's generosity, in our weekly arts newsletter",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/newsletter/2020-12-05/essential-arts-designing-trumps-library-essential-arts",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/newsletter/2020-12-05/essential-arts-designing-trumps-library-essential-arts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/ff9e163/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbb%2F1b%2F5c8564484e099d494170f63573a0%2Fext-shot-x-overheadgen-1920.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-05T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-kellyanne-conway-breaks-from-trump-and-says-joe-biden-and-kamala-harris-will-prevail.md",
+      "title": "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'",
+      "excerpt": "Former White House advisor Kellyanne Conway's comments in an interview with The 19th go directly against Trump's claims undermining the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
+      "originalUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1067,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fcb8c9db6a3a800199b6db2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp",
+      "publishedDateTime": "2020-12-05T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-historians-sue-trump-administration-to-stop-bonfire-of-records-in-the-rose-garden.md",
       "title": "Historians sue Trump administration to stop ‘bonfire of records in the Rose Garden’",
       "excerpt": "The American Historical Association and other groups fear President Trump, Jared Kushner, Ivanka Trump and others in his inner circle may not preserve critical records",
@@ -10,7 +116,7 @@
       "originalUrl": "https://www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -106,29 +212,29 @@
       ]
     },
     {
-      "path": "_news/2020-12-05-trump-campaign-paid-dechert-164k-for-recount-related-legal-services-fec-filings-show.md",
-      "title": "Trump campaign paid Dechert $164K for 'recount' related legal services, FEC filings show",
-      "excerpt": "U.S. President Donald Trump's campaign last month paid more than $164,000 to Dechert, a law firm that during the 2020 election touted its work on pro bono voting rights cases in which it often faced off against Republican-backed lawyers.",
+      "path": "_news/2020-12-05-explainer-trumps-failing-monthlong-fight-against-election.md",
+      "title": "EXPLAINER: Trump's failing, monthlong fight against election",
+      "excerpt": "President Donald Trump's frantic effort in the courts to delegitimize an election he lost has come no closer in a month to reversing any results.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017",
-      "originalUrl": "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017",
+      "webUrl": "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12",
+      "originalUrl": "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 160,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2IL017",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IL017",
-      "publishedDateTime": "2020-12-04T21:55:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp",
+      "publishedDateTime": "2020-12-04T19:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -149,21 +255,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-05-president-trumps-niece-mary-trump-says-her-cruel-and-traitorous-uncle-belongs-in-prison.md",
-      "title": "President Trump’s niece, Mary Trump, says her ‘cruel and traitorous’ uncle belongs in prison",
-      "excerpt": "Mary Trump rejects the notion that putting a former president on trial would deepen the nation’s political divisions.",
+      "path": "_news/2020-12-05-trump-campaign-committees-spent-11-million-at-trump-properties-in-the-last-days-of-his-losing-campaign.md",
+      "title": "Trump campaign committees spent $1.1 million at Trump properties in the last days of his losing campaign",
+      "excerpt": "President Trump’s campaign and its affiliated committees spent more than $1.1 million at Trump’s own properties in the last weeks of the 2020 campaign, continuing a pattern during his presidency.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/12/04/trumps-niece-says-her-cruel-and-traitorous-uncle-belongs-prison/3832014001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/12/04/trumps-niece-says-her-cruel-and-traitorous-uncle-belongs-prison/3832014001/",
+      "webUrl": "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 168,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/04/USAT/90f61df1-be20-45c5-9bd8-9690433193d5-AP_Mary_Trump_Interview.jpg?auto=webp&crop=1499,844,x0,y76&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CTEF6BVZMI6XFUZADJRD4J5FU.jpg&w=1440",
+          "width": 1440,
+          "height": 956,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -171,68 +277,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3832014001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3832014001",
-      "publishedDateTime": "2020-12-04T15:04:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp",
+      "publishedDateTime": "2020-12-04T14:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-nissan-joins-gm-in-exiting-auto-group-backing-trump.md",
-      "title": "Nissan joins GM in exiting auto group backing Trump",
-      "excerpt": "Japanese automaker Nissan Motor Co said on Friday it was joining General Motors in exiting a group of automakers that had backed U.S. President Donald Trump in his bid to prevent California from imposing its own vehicle emissions rules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-autos-emissions-trump/nissan-joins-gm-in-exiting-auto-group-backing-trump-idUSKBN28E326",
-      "originalUrl": "https://www.reuters.com/article/us-autos-emissions-trump/nissan-joins-gm-in-exiting-auto-group-backing-trump-idUSKBN28E326",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543501229&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31PO",
-          "width": 747,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28E326",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E326",
-      "publishedDateTime": "2020-12-04T13:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -414,6 +468,110 @@
       ]
     },
     {
+      "path": "_news/2020-12-04-fact-check-facebook-post-touting-decreasing-drug-prices-under-trump-is-misleading.md",
+      "title": "Fact check: Facebook post touting decreasing drug prices under Trump is misleading",
+      "excerpt": "A viral claim appears to take data out of context to tout decreasing drug prices under President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/04/fact-check-post-decreasing-rx-drug-prices-contains-outdated-info/3769032001/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/04/fact-check-post-decreasing-rx-drug-prices-contains-outdated-info/3769032001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/27/PDEM/c3395239-b93c-47ff-9c0e-1e00867e5431-Prescription_pills_with_money.jpg?auto=webp&crop=4155,2338,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3769032001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3769032001",
+      "publishedDateTime": "2020-12-04T06:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-trump-is-holding-out-on-supporting-the-908-billion-covid-19-stimulus-bill-despite-more-lawmakers-rallying-round-it.md",
+      "title": "Trump is holding out on supporting the $908 billion COVID-19 stimulus bill despite more lawmakers rallying round it",
+      "excerpt": "After a press conference, the White House clarified that Trump does not support the $908 billion compromise bill, and instead wants a smaller one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12",
+      "originalUrl": "https://www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fca1f38b6a3a800199b688e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12?amp",
+      "publishedDateTime": "2020-12-04T04:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-in-race-to-cement-legacy-trump-pushes-dozens-of-midnight-regulations.md",
       "title": "In race to cement legacy, Trump pushes dozens of 'midnight regulations'",
       "excerpt": "The Trump administration is quietly racing to solidify its legacy, fulfill campaign promises and overhaul federal regulations that could take Joe Biden years to undo.",
@@ -422,7 +580,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -526,7 +684,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
       "featuredContent": null,
       "highlight": null,
-      "heat": 863,
+      "heat": 923,
       "tags": null,
       "images": [
         {
@@ -571,21 +729,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-04-could-trump-pardon-family-members-and-other-close-associates-his-prior-pardons-may-set-the-stage-for-more.md",
-      "title": "Could Trump pardon family members and other close associates? His prior pardons may set the stage for more",
-      "excerpt": "As President Trump weighs granting more pardons during his final days in office, experts say the politicization of his broad clemency powers is a fait accompli.",
+      "path": "_news/2020-12-04-dangerously-viral-how-trump-supporters-spread-false-claims.md",
+      "title": "Dangerously viral: How Trump, supporters spread false claims",
+      "excerpt": "It took just a day for a cellphone video of a man hauling a large box into a Detroit election office to be viewed more than a million times",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/04/trumps-flynn-pardon-prompts-fears-politicization-sweeping-power/3803847001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/04/trumps-flynn-pardon-prompts-fears-politicization-sweeping-power/3803847001/",
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/03/USAT/5331e166-9612-4ec8-9820-957905b145ec-Trump_video.jpg?auto=webp&crop=5597,3149,x0,y284&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://s.abcnews.com/images/Politics/WireAP_2d577ba5f467404c81900887ef2cd68b_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -593,16 +751,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3803847001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3803847001",
-      "publishedDateTime": "2020-12-04T02:07:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
+      "publishedDateTime": "2020-12-04T02:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -732,110 +890,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-04-trump-ally-banned-from-justice-department-after-seeking-sensitive-election-intel-report.md",
-      "title": "Trump ally banned from Justice Department after seeking sensitive election intel: report",
-      "excerpt": "The official serving as President Donald Trump’s eyes and ears at the Justice Department has been banned from the building after trying to pressure staffers to give up sensitive information about election fraud and other matters she could relay to the White House,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/03/trump-ally-heidi-stirrup-banned-doj-after-seeking-election-intel/3814426001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/03/trump-ally-heidi-stirrup-banned-doj-after-seeking-election-intel/3814426001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 471,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/10/USAT/37828913-dfc7-4783-bf2b-9e3ac6633562-AFP_AFP_8UX3YC.jpg?auto=webp&crop=5306,2985,x0,y63&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3814426001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3814426001",
-      "publishedDateTime": "2020-12-03T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-the-trump-administration-accused-facebook-of-reserving-over-2600-high-paying-jobs-for-foreign-workers-instead-of-hiring-americans.md",
-      "title": "The Trump administration accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans",
-      "excerpt": "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp",
-      "publishedDateTime": "2020-12-03T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-04-trump-administration-claims-facebook-improperly-reserved-jobs-for-h-1b-workers.md",
       "title": "Trump Administration Claims Facebook Improperly Reserved Jobs for H-1B Workers",
       "excerpt": "A Justice Department lawsuit accuses the social-media company of illegally reserving high-paying jobs for immigrant workers it was sponsoring for permanent residence and failing to adequately search for U.",
@@ -893,21 +947,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-04-ivanka-trump-confirms-she-was-questioned-by-the-dc-attorney-generals-office-over-inaugural-committee-spending.md",
-      "title": "Ivanka Trump confirms she was questioned by the D.C. attorney general’s office over Inaugural Committee spending",
-      "excerpt": "The president’s daughter released an email showing that she told Trump hotel executives to charge “market price.” The hotel is accused of overcharging.",
+      "path": "_news/2020-12-04-senate-vote-likely-next-week-on-blocking-trumps-massive-uae-arms-sale.md",
+      "title": "Senate vote likely next week on blocking Trump's massive UAE arms sale",
+      "excerpt": "The top Democrat on the U.S. Senate Foreign Relations Committee said he expected lawmakers would vote as soon as next week on resolutions seeking to block Republican President Donald Trump's $23 billion weapons sale to the United Arab Emirates.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html",
+      "webUrl": "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28D2XS",
+      "originalUrl": "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28D2XS",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543367325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21NU",
+          "width": 818,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -915,16 +969,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-03T10:39:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28D2XS",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2XS",
+      "publishedDateTime": "2020-12-03T10:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1211,58 +1265,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-03-republican-us-lawmakers-may-defy-trump-over-defense-bill-veto-threat.md",
-      "title": "Republican U.S. lawmakers may defy Trump over defense bill veto threat",
-      "excerpt": "The chairman of the U.S. Senate Armed Services Committee and some other Republican lawmakers pushed back on Wednesday against President Donald Trump's threat to veto a massive defense bill unless it eliminates a federal law protecting tech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-defense-congress-idUSKBN28C344",
-      "originalUrl": "https://www.reuters.com/article/usa-defense-congress-idUSKBN28C344",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543247195&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11Q1",
-          "width": 797,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28C344",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C344",
-      "publishedDateTime": "2020-12-02T12:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-03-trump-backs-mcconnells-republican-covid-19-relief-package-mnuchin.md",
       "title": "Trump backs McConnell's Republican COVID-19 relief package: Mnuchin",
       "excerpt": "President Donald Trump will sign coronavirus relief legislation proposed by Republican Senate Majority Leader Mitch McConnell, Treasury Secretary Steven Mnuchin told reporters on Wednesday, should the proposed package pass the U.",
@@ -1271,7 +1273,7 @@
       "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1380,7 +1382,7 @@
       "originalUrl": "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 220,
+      "heat": 260,
       "tags": null,
       "images": [
         {

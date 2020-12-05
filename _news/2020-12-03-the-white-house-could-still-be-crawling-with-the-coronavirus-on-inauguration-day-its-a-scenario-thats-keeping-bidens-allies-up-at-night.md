@@ -46,22 +46,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Joe Biden’s Plans To Carry Out Every Proposal On The LGBTQ Community’s List"
-    excerpt: "President-elect Joe Biden just released his plans for the LGBTQ community and he wants to grant all of it's wishes."
-    publishedDateTime: 2020-11-28T21:13:00Z
-    webUrl: "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702"
-    ampWebUrl: "https://www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-plans-carry-out-every-proposal-lgbtq-communitys-list-3090702?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/24/soundbiteus-president-elect-joe-biden-introduces-a-seasoned.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "W7lfZ3nNHMudaC6PRPBaNpMyLFKBedJ35ZGx7IYTMTMyFlYh9tWVomgZGryHLUl5c0BpFChZ5MNFc1kPJWAoauIq3RQMWGYW5opHR88fTbnkx9IyBf7PcW6Ruy3oDXPyyuZNTrvYMaXkTElVrvz4I3ffy2cwXVhGDUDLUacIp8N/6XYUpQaUVKuHkOu8v/1os5EEVR67oLghy8Y/uWF4+9mRP8Rbl/pgCfSnwrEzPqjB6lXwtW2T1Kyynr5M3gX4MpgsggvDGcvlSZ+Pi/oowSVFscKhFf9Vj9dbXhvgH5/+c+5bOYNQEAXzN7nvSJM31k6PIK8MZY2HQI2Ip+pMxj6uvWR6yfRxtrsMTGdxeO4xWcjitLIo9Jw0UEBsqQU+mklArk9OAd4ZkGiNylgK90nWJkJSx18iX2xB6oTE/1czZ56wbHRA8NkTjVhgB4sM4bYh1NXPEGz3BQGemcOP3PYVwHJ4m1HuOhZX/MA8m96TZXqywQYP0SUez9eMWcTQ5dgzOkSVPTbZUAAtRoHfCA==;HkNXYwFUev5QFYkc5ZoM1Q=="
 ---

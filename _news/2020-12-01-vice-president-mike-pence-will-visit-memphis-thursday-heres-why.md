@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3786333001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3786333001"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fauci says he will speak with Biden transition officials on Thursday"
+    excerpt: "Fauci told CBS News that he has not yet spoken with President-elect Joe Biden but expects to do so in the near future."
+    publishedDateTime: 2020-12-03T14:36:00Z
+    webUrl: "https://www.cbsnews.com/news/fauci-speak-biden-officials/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/fauci-speak-biden-officials/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/fauci-speak-biden-officials/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/01/6d5c18cf-39eb-42a7-bf15-46b66a208016/thumbnail/1200x630g2/4c8f69e70dffbe7561ed3ea1e3a6213c/gettyimages-1229866325.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Operation Warp Speed: What to know about program, focus of VP Pence's Memphis roundtable"
     excerpt: "Operation Warp Speed's unique effort to distribute COVID-19 vaccines brought Vice President Mike Pence to Memphis to meet with FedEx and others."
     publishedDateTime: 2020-12-03T18:12:00Z

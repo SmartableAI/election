@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
+    excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
+    publishedDateTime: 2020-12-04T06:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E012"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E012"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 130
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543403980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB300L"
+        width: 815
+        height: 545
+        isCached: true
   - title: "Wisconsin governor certifies Biden as winner of state"
     excerpt: "Wisconsin Governor Tony Evers on Monday certified Democrat Joe Biden as the winner of the state's presidential election."
     publishedDateTime: 2020-12-01T06:03:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/ad9469e2-a3e6-419c-b96f-c6b66aa56f6a-AP_Election_2020_Pennsylvania.jpg?auto=webp&crop=2960,1665,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Wisconsin and Arizona make it official as Trump fails to stop vote certification in all six states where he contested his defeat"
+    excerpt: "The president and his allies vowed to continue pressing legal claims challenging the election results in several states — but such efforts have met with resounding failures in the courts."
+    publishedDateTime: 2020-12-01T08:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/arizona-wisconsin-certify-election/2020/11/30/ec161756-3338-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 96
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NKGJIERTLMI6XDJYNLVBVWZYHE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "FbiSWWMIGIz3D1/oqgh9EtdbDQJl9uFF1k4uEoBOSpAvObifZXQvJGcILY0BU0suABzv42K35JlqYxBjI2dfOrQHmezu4SRRhxAE8mvi2S0NRlTkX7EJsrnITMxRRBc+HgdAWnvGlb9kczn/et2dA2KqGZo26qkvWlZEgAogL0e7hYvdGOaKQXaGghSmCRHWnoo7dxqYwsj6VAfhcVpVT3tvHCo4mKuEw3/l3sLB1Lt4uIaeAQai7GfcfQ0ihGUn5wuN9CEjcO60LYSXDZauSLIVMHyPglgUQIOEdWO5Z5oSuR0FkNo1x7JMpXF9HQ3LJlvXqhvAcpNJ9MnmLpbLg0JA+aHjMPXSdg529fl/UDQ=;VOFXYXzm4rLx+N7i9QL+Wg=="

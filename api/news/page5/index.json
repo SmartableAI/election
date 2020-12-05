@@ -66,7 +66,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -107,6 +107,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-trump-lawyer-joe-digenova-says-election-security-chief-fired-by-the-president-should-be-taken-out-at-dawn-and-shot.md",
+      "title": "Trump lawyer Joe diGenova says election security chief fired by the president should be 'taken out at dawn and shot'",
+      "excerpt": "Chris Krebs has become a target for the Trump campaign after saying that the November 3 election was \"the most secure in American history.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc62c86037cbd00186130a8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp",
+      "publishedDateTime": "2020-12-01T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -162,6 +214,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-01-trump-lashes-out-at-gop-gov-doug-ducey-after-certification-of-arizona-results-showing-biden-win.md",
+      "title": "Trump lashes out at GOP Gov. Doug Ducey after certification of Arizona results showing Biden win",
+      "excerpt": "During the certification, Ducey's phone buzzed with \"Hail to the Chief\" - a ringtone he has said he uses for White House calls. He set it aside.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/01/president-trump-slams-arizona-gov-ducey-after-election-certification/6474822002/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/01/president-trump-slams-arizona-gov-ducey-after-election-certification/6474822002/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/06/PPHX/0c89899d-5747-45b1-a30d-0bfcc469be09-1_AP20218733705034.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6474822002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6474822002",
+      "publishedDateTime": "2020-12-01T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-coronavirus-updates-pence-says-vaccine-could-be-shipped-in-2-weeks-gov-ron-desantis-says-florida-schools-to-stay-open-in-2021.md",
       "title": "Coronavirus updates: Pence says vaccine could be shipped in 2 weeks; Gov. Ron DeSantis says Florida schools to stay open in 2021",
       "excerpt": "California Gov. Gavin Newsom warns of tougher stay-at-home order. Michigan Rep. John Chirkun tests positive. U.S. deaths top 268K. Latest COVID news.",
@@ -170,7 +274,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/health/2020/12/01/covid-news-cdc-vaccine-anchorage-california-florida-schools/6470606002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -446,7 +550,7 @@
       "originalUrl": "https://www.reuters.com/article/idUSKBN28B4LN",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -490,6 +594,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-01-biden-weighs-rahm-emanuel-for-transportation-secretary.md",
+      "title": "Biden weighs Rahm Emanuel for transportation secretary",
+      "excerpt": "CHICAGO (AP) — President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel, a substantial and somewhat divisive figure in Democratic Party politics, to serve as his transportation secretary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12",
+      "originalUrl": "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12?amp",
+      "publishedDateTime": "2020-12-01T01:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-vice-president-mike-pence-will-visit-memphis-thursday-heres-why.md",
       "title": "Vice President Mike Pence will visit Memphis Thursday. Here's why.",
       "excerpt": "Vice President Mike Pence is planning to travel to Memphis Thursday to discuss Operation Warp Speed, the nation's COVID-19 pandemic response.",
@@ -498,7 +645,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2020/12/01/vice-president-mike-pence-visit-memphis-operation-warp-speed/3786333001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -650,58 +797,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-trump-raises-more-than-150-million-appealing-to-false-election-claims.md",
-      "title": "Trump raises more than $150 million appealing to false election claims",
-      "excerpt": "The record influx of donations is one reason Trump and some allies are inclined to continue a legal onslaught and public affairs blitz despite repeated failures to challenge President-elect Joe Biden’s victory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-raises-more-than-150-million-appealing-to-false-election-claims/2020/11/30/82e922e6-3347-11eb-afe6-e4dbee9689f8_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-raises-more-than-150-million-appealing-to-false-election-claims/2020/11/30/82e922e6-3347-11eb-afe6-e4dbee9689f8_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZGSLP7BOQAI6XHOWFUAXTGAXDE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-raises-more-than-150-million-appealing-to-false-election-claims/2020/11/30/82e922e6-3347-11eb-afe6-e4dbee9689f8_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-raises-more-than-150-million-appealing-to-false-election-claims/2020/11/30/82e922e6-3347-11eb-afe6-e4dbee9689f8_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-30T18:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-01-mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue.md",
       "title": "Mike Pence will visit Savannah Friday to rally for Loeffler, Perdue",
       "excerpt": "Vice President Mike Pence will be in Georgia for the second time in two weeks on Friday, and this time, he’ll be in Savannah. Pence will return to",
@@ -753,7 +848,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -805,7 +900,7 @@
       "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-atlas-idUSKBN28B3AS",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -849,21 +944,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-the-latest-graham-trump-should-attend-bidens-inauguration.md",
-      "title": "The Latest: Graham: Trump should attend Biden’s inauguration",
-      "excerpt": "Lindsey Graham says he thinks President Donald Trump should attend President-elect Joe Biden’s inauguration because it would be “good for the country.”",
+      "path": "_news/2020-12-01-post-election-gallup-poll-biden-favorability-rises-to-55-while-trumps-dips-to-42.md",
+      "title": "Post-election Gallup poll: Biden favorability rises to 55% while Trump's dips to 42%",
+      "excerpt": "WASHINGTON – According to a new poll from Gallup, President-elect Joe Biden’s favorability rating is up following the conclusion of the election while President Donald Trumps",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/30/poll-biden-favorability-rises-while-trumps-falls-post-election/6471704002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/30/poll-biden-favorability-rises-while-trumps-falls-post-election/6471704002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1910,
+      "heat": 1248,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
+          "url": "https://www.gannett-cdn.com/presto/2020/12/01/USAT/30672691-3610-4f9a-8828-e1c1beaf8e2c-AP_Biden-LGBTQ_Rights.jpg?auto=webp&crop=5999,3375,x0,y600&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -871,16 +966,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-30T16:42:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6471704002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6471704002",
+      "publishedDateTime": "2020-11-30T16:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -897,8 +992,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Joe Biden"
+        "Donald Trump"
       ]
     },
     {
@@ -1232,118 +1326,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-melania-trumps-white-house-holiday-decor-spotlights-essential-workers.md",
-      "title": "Melania Trump's White House holiday decor spotlights essential workers",
-      "excerpt": "'Tis the holiday season at the White House. All of the halls, from the East Room to the Red Room, were decked by over 125 volunteers this weekend and unveiled Monday to feature classic holiday décor with an \"America the Beautiful\" theme for the Trumps' final Christmas in office.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4piMF8Sq3os/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4piMF8Sq3os/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201130093329-01-white-house-holiday-decorations-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html",
-      "publishedDateTime": "2020-11-30T07:13:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-trump-presses-hapless-georgia-governor-to-overrule-secretary-of-state-on-signature-matching.md",
-      "title": "Trump presses 'hapless' Georgia governor to overrule secretary of state on signature matching",
-      "excerpt": "President Trump called on Republican Georgia Gov. Brian Kemp to override Secretary of State Brad Raffensperger on matching signatures during the state's recount, in a tweet Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gJVoONUUgn4/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gJVoONUUgn4/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98f88203-24d7-48e9-933e-73bf757b5e5a/9f7d0c25-3767-460e-9963-bfa3a70ae474/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount.amp",
-      "publishedDateTime": "2020-11-30T06:34:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

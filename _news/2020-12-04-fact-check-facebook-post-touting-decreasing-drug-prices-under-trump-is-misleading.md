@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/3769032001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3769032001"
 type: article
 quality: 119
-heat: -1
-published: false
+heat: 179
+published: true
 
 provider:
   name: USA Today
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nissan joins GM in exiting auto group backing Trump"
-    excerpt: "Japanese automaker Nissan Motor Co said on Friday it was joining General Motors in exiting a group of automakers that had backed U.S. President Donald Trump in his bid to prevent California from imposing its own vehicle emissions rules."
-    publishedDateTime: 2020-12-04T21:59:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-emissions-trump/nissan-joins-gm-in-exiting-auto-group-backing-trump-idUSKBN28E326"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E326"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E326"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543501229&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31PO"
-        width: 747
-        height: 545
-        isCached: true
-  - title: "UPDATE 1-Nissan joins GM in exiting auto group backing Trump"
-    excerpt: "Japanese automaker Nissan Motor Co on Friday joined General Motors Co in exiting a group of automakers that had backed U.S. President Donald Trump in his bid to prevent California from imposing its own vehicle emissions rules."
-    publishedDateTime: 2020-12-05T02:44:00Z
-    webUrl: "https://www.reuters.com/article/autos-emissions-trump/update-1-nissan-joins-gm-in-exiting-auto-group-backing-trump-idUSL1N2IK2PU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E326"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E326"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543501229&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31PO"
-        width: 747
-        height: 545
-        isCached: true
   - title: "Fact check: Graphic comparing Trump and Obama is from 2018 and contains an approval rating error"
     excerpt: "In November 2020, a 2018 graphic comparing President Donald Trump and President Barack Obama “by the numbers” resurfaced on social media. The chart presents figures showing the Trump administration had outperformed the Obama administration in terms of presidential"
     publishedDateTime: 2020-11-30T21:26:00Z
@@ -78,6 +46,38 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542935392&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1DM"
         width: 818
         height: 545
+        isCached: true
+  - title: "The Trump administration accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans"
+    excerpt: "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers."
+    publishedDateTime: 2020-12-03T20:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Trump administration in a new lawsuit accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans"
+    excerpt: "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers."
+    publishedDateTime: 2020-12-03T11:41:00Z
+    webUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "dNMAfkWJnFNThUo3ZqaMFSsyxUtgZxiFEX289+HYSIaUGUDCInkojgC1r6/RibeomhXcFk+Uipe1DgwAJmqzVggbrnqgT8SEwtt/1X4xEF+VsbX9mZ6SLc9RdgvL5KofJW+FL0VhCHJ6A257ptwwv826f0LAo/R7p7rsxpj5l/A3/y54xOjc5hSIyn0GI+7jOczTmhv7H7ed32n2xa4pu7PdDsv/RvVn2FlERlikSKIbTyT3ABy9BjSLZO3I0NCPHo6WzHQcO91ISdLH/xcwV9PolZSfAPqFmuPv3O8FKZP5q1CiZGQW7mG3zh9X1xEo/C1/LNmdrnaQpswzt5RaW+9zbntaoeKcrIL2BT+SJvl0LufSPs13YKaVDZs1ZOJbl1/7ka5yfZdDmcYbWmzxyfg7I35qjjku0aheei3co4nc88jkaVJBkKRKB+ZKT3ZY95SFX+1sW098da/tbu8ImngwYbjB4IKdwvrwEX0QdnrN1+Wo2wWzvQRtbePd50HYMb5gp1Fc6ttSdUZVwRpQqA==;QTBYk1meegI426DKRPVl/Q=="

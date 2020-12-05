@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Romney blasts ‘undemocratic’ Trump for pressuring Republicans to overturn election results"
+    excerpt: "Romney joined Sen. Ben Sasse (R-Neb.) on Thursday as the only GOP senators to publicly oppose the president, as Trump and his campaign continue lobbing baseless allegations of widespread voter fraud in Michigan and other states."
+    publishedDateTime: 2020-11-20T20:57:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 130
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4LIIIYRDVII6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "UPDATE 1-Trump's Fed pick Shelton draws third Republican 'no'"
     excerpt: "A third senator said he would oppose Republican U.S. President Donald Trump’s controversial pick for the Federal Reserve, former economic adviser Judy Shelton, narrowing the margin of her support but likely not eliminating her chance at confirmation."
     publishedDateTime: 2020-11-16T20:55:00Z
@@ -47,65 +63,70 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump Fed nominee Shelton blocked in Senate, for now"
-    excerpt: "The U.S. Senate on Tuesday blocked President Donald Trump's controversial nomination of Judy Shelton to the Federal Reserve's board, though a White House spokesman expressed confidence she would eventually be confirmed."
-    publishedDateTime: 2020-11-17T22:40:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2UD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2UD"
+  - title: "The Latest: Romney slams Trump efforts as 'undemocratic'"
+    excerpt: "Two Republican senators are criticizing President Donald Trump and his team for their efforts to pressure state and local election officials to overturn President-elect Joe Biden’s victories in severa"
+    publishedDateTime: 2020-11-20T17:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-pelosi-schumer-delaware-biden-74303461"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-pelosi-schumer-delaware-biden-74303461"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-pelosi-schumer-delaware-biden-74303461"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541544795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1PP"
-        width: 840
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_07a8807fdbb448b98d57c9140be12ac8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Can American democracy survive Donald Trump?"
-    excerpt: "Lying, paranoia and conspiracy are defining features of a totalitarian society. What hope is there for a brand new era, in the aftermath of an administration that has relied on all three?"
-    publishedDateTime: 2020-11-21T10:39:00Z
-    webUrl: "https://www.theguardian.com/books/2020/nov/21/can-american-democracy-survive-donald-trump"
-    ampWebUrl: "https://amp.theguardian.com/books/2020/nov/21/can-american-democracy-survive-donald-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2020/nov/21/can-american-democracy-survive-donald-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/fdecd60107ee26ff8ec9fc6b7c101755148aca56/0_123_5704_3423/master/5704.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=97cfb0a42dc3034f2a07ffb6a4f8db8f"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Senate readies vote on Judy Shelton, granting Trump another opportunity to shape Federal Reserve"
-    excerpt: "Shelton’s confirmation could mark Trump’s final imprint on the Fed board, just months before the Biden administration is inaugurated."
-    publishedDateTime: 2020-11-13T00:31:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/11/12/fed-shelton-senate/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/12/fed-shelton-senate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/12/fed-shelton-senate/?outputType=amp"
+  - title: "Swimming through the ‘Trump Undertow’"
+    excerpt: "Hugh Hewitt declared in his Nov. 23 op-ed, “The enduring impact of the Trump Undertow,” that the much-vaunted “will of the people” is worth less to him than a Republican win. His glee that the GOP will now have more control of reapportionment following the census gives the game away. His party, he crowed, will be able to redraw congressional districts and the electoral college to give an outsize value to Republican votes. We are not interested in democracy, just in power. All’s fair — if it works. This is the attitude of his party’s current leader, and Mr. Hewitt is happy to embrace it. He functions as a good party operative. Support our journalism. Subscribe today. In a lame stab at justifying this, he attempted to minimize President-elect Joe Biden’s win, by complaining that President Trump lost by a mere stadium full of votes in key states. He did not try to deal with the actual 6 million-vote difference. This is apparently just a game to Mr. Hewitt. Forget that our lives are at stake. He wants to win, and the future of the nation takes a back seat. Is this patriotism? Only in his painfully abridged vocabulary. I seldom get a laugh out of Hugh Hewitt’s columns, but one line in his Nov. 23 op-ed made me laugh out loud: “The party Trump leads is reluctant to tilt at legal windmills.” What has President Trump been doing since Nov. 3 but tilting at legal windmills? Actually, no, he isn’t tilting at windmills, because windmills are physical realities. Mr. Trump is tilting at phantoms, ghosts. Fever dreams. Illusions. He has filed more than 30 lawsuits, and most were found by courts to be without legal merit and baseless. Not founded on facts. Great big nothingburgers. So, many thanks to whatever op-ed editor left that line in the column when it was on its way to print. It’s fantastic. (In both meanings of the word.)"
+    publishedDateTime: 2020-11-27T02:22:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/swimming-through-the-trump-undertow/2020/11/25/5d19bd9e-2da9-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/swimming-through-the-trump-undertow/2020/11/25/5d19bd9e-2da9-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/swimming-through-the-trump-undertow/2020/11/25/5d19bd9e-2da9-11eb-9dd6-2d0179981719_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 112
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5POELBWLQEI6VGNQQQTOE3JAHM.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ROPITHRON4I6XBQN66MZLGOLYI.jpg&w=1440"
         width: 1440
-        height: 945
+        height: 988
         isCached: true
-  - title: "Senate could vote on Trump's Fed nominees next week: Bloomberg News"
-    excerpt: "The Republican leadership at the U.S. Senate has discussed holding a vote on U.S. President Donald Trump’s nominees to the Federal Reserve as early as next week, Bloomberg News reported Thursday, citing Republican Senator John Cornyn."
-    publishedDateTime: 2020-11-13T00:11:00Z
-    webUrl: "https://www.reuters.com/article/usa-fed-nominees/senate-could-vote-on-trumps-fed-nominees-next-week-bloomberg-news-idUSL1N2HY2Q5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HY2Q5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HY2Q5"
+  - title: "Trump reportedly told an ally he knows he lost the 2020 election but wants revenge on Democrats for disputing his 2016 win"
+    excerpt: "He is refusing to concede partly because he is still furious that Barack Obama and Hillary Clinton said Russia helped him win in 2016, CNN reported."
+    publishedDateTime: 2020-11-20T10:58:00Z
+    webUrl: "https://www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fa2d44269331a0011bc73d9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "A Trump speechwriter who was sacked in 2018 for meeting white nationalists has been rehired to oversee US Holocaust memorials"
+    excerpt: "President Donald Trump appointed Darren Beattie to join the Commission for the Preservation of America's Heritage Abroad on Wednesday."
+    publishedDateTime: 2020-11-19T10:51:00Z
+    webUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5fb64cfa32f2170011f6ff67?width=1200&format=jpeg"
+        width: 1064
+        height: 532
+        isCached: true
 
 secured: "j7hTG3I+kXXkig8N+j6+SFiEakYCbI0Im+KpLWxBbT0JBNogumLb5dKsOCz9vh8vEwBichgxVX6c0H/oaISGvzFaTejrUl4Gb6VhOTDO/bPHEDiol04JMefFfVPEX3KEVEk6XlM2bCyJ8+3KAoRm47iKvlYYiB20/4LiVGfQimmJ4qEIdXOgvvYnuGWowi0DoCTe1dcsh+mpOlNSpBzqDHJZtOyNmlVlKPNAD/VjProDXSrupmXVcn3RfdJyrMR9xpLkOudNq7SXf8QRuJ80Xm5r9k/WWhgBLiroQI8fgpzlEWj/W51oNFYoTygwfqr7OKVdMI9paNyqjI5RtwGH0CviwyrZfE4e58/R1JAm3T4=;tR8DLymheoyL2uEmehgpdA=="
 ---

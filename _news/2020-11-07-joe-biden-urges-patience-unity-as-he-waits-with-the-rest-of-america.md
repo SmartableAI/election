@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6201879002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6201879002"
 type: article
 quality: 125
-heat: 385
+heat: 365
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 125
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540533714&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80KI"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Corporate America says it is ready to work with Biden"
-    excerpt: "Corporate America says it is ready to work with President-elect Joe Biden, hoping for quick action on a new round of COVID-19 relief and infrastructure spending."
-    publishedDateTime: 2020-11-09T21:36:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-companies-idUSKBN27P28S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P28S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P28S"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540560927&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81CA"
         width: 817
         height: 545
         isCached: true

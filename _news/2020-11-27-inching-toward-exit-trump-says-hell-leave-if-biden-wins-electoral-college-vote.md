@@ -575,22 +575,6 @@ related:
         width: 853
         height: 545
         isCached: true
-  - title: "Biden identifies more administration officials, Trump vows continued election fight"
-    excerpt: "President-elect Joe Biden chose more senior aides to lead his administration's efforts to defeat the coronavirus and rebuild the U.S. economy, and his office confirmed on Sunday he would begin receiving classified briefings that are an essential step toward taking"
-    publishedDateTime: 2020-11-30T06:23:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-idINKBN2890NW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2890NW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2890NW"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 149
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542849124&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT02Y"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump and Biden protesters duel outside vote-counting centers in cliffhanger election"
     excerpt: "Backers of President Donald Trump, some carrying guns, ramped up demonstrations on Thursday night against what he has baselessly called a rigged election, in battleground states where votes were still being counted."
     publishedDateTime: 2020-11-07T00:00:00Z
@@ -719,22 +703,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "First Thing: Biden boosts diversity of top team while Trump continues election assault"
-    excerpt: "The president-elect has announced an all-female senior communications team, while Trump continues to rail against the election result. Plus, November’s coronavirus cases are double last month’s record"
-    publishedDateTime: 2020-11-30T11:10:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/nov/30/first-thing-biden-boosts-diversity-of-top-team-while-trump-continues-election-assault"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/30/first-thing-biden-boosts-diversity-of-top-team-while-trump-continues-election-assault"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/30/first-thing-biden-boosts-diversity-of-top-team-while-trump-continues-election-assault"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 147
-    images:
-      - url: "https://i.guim.co.uk/img/media/e9327a7fdce17edfa5c72e082c05cfc34cb02268/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b4d1a6c4d4a6aa03c703c17210ecf462"
-        width: 600
-        height: 360
-        isCached: true
   - title: "US election 2020: Joe Biden holds lead over Donald Trump in tense wait for results – live"
     excerpt: "Battle for White House now down to handful of states including Nevada, Georgia and Pennsylvania"
     publishedDateTime: 2020-11-05T20:08:00Z
@@ -766,22 +734,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540144950&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41EX"
         width: 1117
         height: 545
-        isCached: true
-  - title: "What a Joe BIden-Kamala Harris administration means for markets, tech, healthcare, cannabis, and Donald Trump"
-    excerpt: "The AP, NBC, CNN, The New York Times, and The Washington Post called the presidential election for Joe Biden shortly after 11 a.m. ET Saturday."
-    publishedDateTime: 2020-11-09T03:22:00Z
-    webUrl: "https://www.businessinsider.com/how-a-biden-harris-administration-impacts-business-politics-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/how-a-biden-harris-administration-impacts-business-politics-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-a-biden-harris-administration-impacts-business-politics-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 146
-    images:
-      - url: "https://i.insider.com/5fa81e7d1df1d500182197b1?width=1200&format=jpeg"
-        width: 1024
-        height: 512
         isCached: true
   - title: "As Biden marches forward with Cabinet, Trump hopes likely to fade in key states"
     excerpt: "U.S. President Donald Trump's increasingly tenuous efforts to reverse his election loss to President-elect Joe Biden could be dealt a lethal blow on Monday, as Biden turns to the task of building his cabinet."
@@ -2111,22 +2063,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Republicans turn to Biden transition as Trump's legal options dwindle"
-    excerpt: "Senior U.S. Republicans on Sunday said a transition to a Joe Biden presidency looks inevitable as President Donald Trump questioned whether the Supreme Court would even hear any of the challenges his campaign has vowed to pursue."
-    publishedDateTime: 2020-11-29T16:58:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN2890NN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890NN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890NN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542816486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS0HC"
-        width: 771
-        height: 545
-        isCached: true
   - title: "A large majority of Brits wanted Biden to defeat Trump in the US election, a new opinion poll has found"
     excerpt: "An opinion poll showed that 57% of Brits wanted Biden to triumph in the US election, while only 16% supported Trump."
     publishedDateTime: 2020-11-08T12:20:00Z
@@ -2332,22 +2268,6 @@ related:
     quality: 139
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541384320&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF17L"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
-    excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."
-    publishedDateTime: 2020-12-01T16:56:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-census-biden-idUSKBN28B5D7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5D7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5D7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 139
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543073421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB033D"
         width: 817
         height: 545
         isCached: true
@@ -2719,22 +2639,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden promises help to U.S. workers hit by pandemic, Trump hints at 2024 run"
-    excerpt: "President-elect Joe Biden on Wednesday promised a group of workers hit by the raging COVID-19 pandemic that more aid would be on the way, while President Donald Trump hinted he may be ready to begin planning another run for the White House in 2024."
-    publishedDateTime: 2020-12-03T13:30:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28C1H8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1H8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1H8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 137
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK"
-        width: 817
-        height: 545
-        isCached: true
   - title: "AP projection: Donald Trump easily wins SC for the second consecutive election"
     excerpt: "As expected, Donald Trump will win South Carolina, according to a projection from the Associated Press. The AP called the race shortly before 8 p.m., about an hour after polls closed in the state. With about three-fourths of the state's precincts reporting early Wednesday morning,"
     publishedDateTime: 2020-11-06T21:29:00Z
@@ -2863,22 +2767,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden transition kicks into gear, as Trump acknowledges dwindling legal options"
-    excerpt: "President-elect Joe Biden is expected to unveil his picks for several top economic positions as early as Monday when he will also finally receive his first classified intelligence briefing, an essential step towards taking control of national security."
-    publishedDateTime: 2020-11-30T11:32:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28A1AB"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A1AB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A1AB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 136
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0Q0"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Joe Biden beats Donald Trump to win US election – live 2020 updates"
     excerpt: "Democrat wins Pennsylvania and its 20 electoral votes, surpassing 270 needed to win White House"
     publishedDateTime: 2020-11-07T16:43:00Z
@@ -2983,22 +2871,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-team-ap-rc-201124_1606241837239_hpMain_2_16x9_1600.jpg"
         width: 1600
         height: 899
-        isCached: true
-  - title: "Trump reportedly wants to hold a 2024 campaign event during Biden's inauguration"
-    excerpt: "Donald Trump is strategizing ways to stay relevant amid incoming Biden administration, the Daily Beast reported, citing sources close to the president."
-    publishedDateTime: 2020-11-28T16:48:00Z
-    webUrl: "https://www.businessinsider.com/trump-reportedly-wants-2024-campaign-event-during-bidens-inauguration-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-reportedly-wants-2024-campaign-event-during-bidens-inauguration-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-reportedly-wants-2024-campaign-event-during-bidens-inauguration-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 135
-    images:
-      - url: "https://i.insider.com/5fc2683e50e71a0011557ce9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "'We're going to win this race': Biden predicts victory as his lead over Trump grows"
     excerpt: "Democrat Joe Biden said he was going to win the U.S. presidency as his lead grew over President Donald Trump in battleground states, although television networks held off from declaring him the victor as officials continued to count votes."
@@ -3239,20 +3111,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/db17ceff-b50c-47ce-bc33-dd34f73d0e0f-GTY_1190233605.JPG?auto=webp&crop=2610,1469,x0,y587&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump demands Biden prove he won election, continues to lob fraud accusations"
-    excerpt: "President Trump is now demanding that President-elect Joe Biden prove he actually won the election. While Mr. Trump and his campaign repeatedly insist the race was rigged, court ruling after court ruling has upheld the outcome."
-    publishedDateTime: 2020-11-28T13:38:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-demands-biden-prove-he-won-election-continues-to-lob-fraud-accusations/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 132
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/28/cc5d8a2d-af7b-440e-8aba-bfb3960569ab/thumbnail/1200x630/f3ca4b9a685890b224979d92b49ec67e/cbsn-fusion-trump-demands-biden-prove-he-won-election-continues-to-lob-fraud-accusations-thumbnail-597367-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden goes ahead of Trump in Michigan as vote count continues in state's largest counties"
     excerpt: "President Trump has tried to claim victory with millions of votes still to be tallied in key states such as Michigan and Pennsylvania."
@@ -5092,22 +4950,6 @@ related:
         width: 1440
         height: 959
         isCached: true
-  - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
-    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
-    publishedDateTime: 2020-12-02T13:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-results-court-transition/?id=74449971"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "US election 2020: Joe Biden urges calm as he holds lead over Donald Trump in tense wait – live"
     excerpt: "Battle for White House down to handful of states including Nevada, Georgia and Pennsylvania"
     publishedDateTime: 2020-11-05T21:35:00Z
@@ -6914,22 +6756,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Election 2020: Joe Biden beats defiant Donald Trump; Kamala Harris first woman elected vice president"
-    excerpt: "In a Saturday evening address to the nation, Biden touted the fact that he’s won more votes than any presidential ticket in history, calling his win “a convincing victory, a victory for the people.”"
-    publishedDateTime: 2020-11-08T02:43:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 105
-    images:
-      - url: "https://www.courant.com/resizer/Ee0W9aCN3FWG-v2fbZgPvyrZ73A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KZKWCXLLWNHSTL2ISPRCT3M6EE.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "From women to migrants: What does a Biden win mean for Africa?"
     excerpt: "Democrat Joe Biden's victory in the U.S. presidential election is set to affect Africa's 1.3 billion people on issues ranging from climate change and immigration to women's health and human rights, according to academics and analysts."
     publishedDateTime: 2020-11-08T00:17:00Z
@@ -8193,15 +8019,6 @@ related:
     excerpt: "Senator Kamala Harris Speaks at Biden Campaign Event in Fort Worth, Texas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a"
     publishedDateTime: 2020-11-06T21:58:00Z
     webUrl: "https://www.c-span.org/video/?477893-1/joe-biden-senator-kamala-harris-address-nation"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 50
-  - title: "Joe Biden and Kamala Harris Victory Speeches"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris addressed the nation from Wilmington, Delaware, after being declared the winners of the 2020 presidential election. President-elect Biden said the American people have \"delivered us a clear victory,"
-    publishedDateTime: 2020-11-09T02:03:00Z
-    webUrl: "https://www.c-span.org/video/?477916-1/president-elect-joe-biden-vice-president-elect-kamala-harris-address-nation&live"
     type: article
     provider:
       name: C-SPAN

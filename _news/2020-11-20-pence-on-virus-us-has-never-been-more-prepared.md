@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2020/11/19/pence-virus
 webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/19/pence-virus-us-has-never-been-more-prepared/6349703002/"
 type: article
 quality: 105
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pence offers upbeat assessment of COVID as virus surges"
-    excerpt: "Vice President Mike Pence concluded the White House’s first coronavirus task force briefing in months without taking questions or urging Americans not to travel at Thanksgiving."
-    publishedDateTime: 2020-11-20T00:36:00Z
-    webUrl: "https://www.reviewjournal.com/news/politics-and-government/pence-offers-upbeat-assessment-of-covid-as-virus-surges-2186665/"
-    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/pence-offers-upbeat-assessment-of-covid-as-virus-surges-2186665/amp/"
-    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/pence-offers-upbeat-assessment-of-covid-as-virus-surges-2186665/amp/"
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 75
-    images:
-      - url: "https://www.reviewjournal.com/wp-content/uploads/2020/11/14483795_web1_Viirus-Outbreak-Pence.jpg?w=1200"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Mike Pence on virus: US 'has never been more prepared'"
     excerpt: "Vice President Mike Pence is offering an upbeat assessment of the status of the coronavirus in the U.S., despite a surge in cases, hospitalizations and more than a quarter of"
     publishedDateTime: 2020-11-20T02:08:00Z

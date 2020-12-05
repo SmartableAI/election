@@ -27,31 +27,194 @@ images:
     isCached: true
 
 related:
-  - title: "Pence on virus: US 'has never been more prepared'"
-    excerpt: "Vice President Mike Pence offered an upbeat assessment of the coronavirus situation in the U.S., despite a surge in cases, hospitalizations and more than 250,000 deaths. He spoke at the first coronavirus task force briefing in months."
-    publishedDateTime: 2020-11-20T00:15:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/19/pence-virus-us-has-never-been-more-prepared/6349703002/"
+  - title: "Trump remains silent as US passes 250,000 COVID-19 deaths"
+    excerpt: "The White House did not respond to repeated inquiries from ABC News on whether Trump had any plans to recognize the more than 250,000 reported deaths related to COVID-19, although"
+    publishedDateTime: 2020-11-19T20:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/coronavirus-deaths-memorial-rtr-jc-201119_1605805254490_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Analysis: With silence, GOP enables Trump's risky endgame"
+    excerpt: "Republicans in Congress are engaged in a risky but calculated bet that once President Donald Trump has exhausted his legal challenges to the election, he will come to grips with his loss to President-"
+    publishedDateTime: 2020-11-21T14:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-silence-gop-enables-trumps-risky-endgame-74331782"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-silence-gop-enables-trumps-risky-endgame-74331782"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-silence-gop-enables-trumps-risky-endgame-74331782"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e3cc0791e2fe4d19add779ce37da1ddc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump Jr. tests positive for COVID-19, says spokesman"
+    excerpt: "Donald Trump Jr., the son of U.S. President Donald Trump, tested positive for COVID-19 this week, although he is experiencing no symptoms, according to his spokesman."
+    publishedDateTime: 2020-11-21T04:32:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-junior-idUKKBN2802VP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2802VP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2802VP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541958241&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ1N5"
+        width: 855
+        height: 545
+        isCached: true
+  - title: "Donald Trump appears to admit Covid is 'running wild' in the US"
+    excerpt: "Comments, in contrast to pre-election rhetoric, come as FDA approves emergency use authorisation for Regeneron antibody therapy"
+    publishedDateTime: 2020-11-22T03:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/11babe9d3a64c4d54f512bcefe3890e0b1c37495/0_12_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ac28a2429a8046cea6435f95cff76d4b"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Experimental drug given to Trump to treat covid-19 wins FDA clearance"
+    excerpt: "The Food and Drug Administration on Saturday granted emergency authorization to the experimental antibody treatment given to President Trump last month when he developed covid-19, the disease caused by the coronavirus."
+    publishedDateTime: 2020-11-22T06:32:00Z
+    webUrl: "https://www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B47Z67Q2ZUI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "WATCH LIVE: Trump pardons Thanksgiving turkey"
+    excerpt: "As the coronavirus pandemic is upending the U.S. holiday season, President Donald Trump is due to pardon the annual Thanksgiving turkey in a White House ceremony."
+    publishedDateTime: 2020-11-24T16:12:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-pardons-thanksgiving-turkey"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-pardons-thanksgiving-turkey"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-pardons-thanksgiving-turkey"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/11/BreadButterIssues-1024x665.jpg"
+        width: 1024
+        height: 665
+        isCached: true
+  - title: "Coronavirus live news: Donald Trump Jr tests positive as Mexico deaths pass 100,000"
+    excerpt: "Obrador rejects criticism as political attacks; Canada fears big rise in cases could overwhelm hospitals; Italy records 37,242 new cases"
+    publishedDateTime: 2020-11-21T00:44:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel?page=with:block-5fb849138f087f6ff1099dcf"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/143d5194599195ebb149ec008a26c09d7481351f/0_154_4256_2553/master/4256.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8c2b6bdcf1c94e3ecf7b746635d35ed3"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "New COVID-19 closures, Trump campaign lawsuit, Hurricane Iota: 5 things to know Tuesday"
+    excerpt: "More states face new closures and restrictions due to COVID-19, the Trump campaign heads to court in Pennsylvania and more news to start your Tuesday."
+    publishedDateTime: 2020-11-17T21:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/11/17/covid-19-closures-trump-campaign-lawsuit-5-things-know-tuesday/6282623002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6282623002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6282623002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2020/11/13/USATODAY/usatsports/covid-closure-gettyimages-1216449625.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "OAN, touted by Donald Trump for its 'Great News,' suspended from YouTube for COVID-19 misinformation"
+    excerpt: "OAN, which had been warned about violating a COVID-19 misinformation policy, according to YouTube, won't be allowed to upload videos for one week."
+    publishedDateTime: 2020-11-25T01:31:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/11/24/oan-suspended-youtube-covid-19-misinformation/6416595002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6416595002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6416595002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/55465d1c-f9da-4cdd-9c04-350816a3668b-GTY_1228712427.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Senate Dems push COVID relief, slam Trump drawdown"
+    excerpt: "Senate Democrats are pushing for a generous COVID relief package, while also slamming President Donald Trump for throwing up obstacles during the transition, and planning to drawdown U.S. troops in the Mideast."
+    publishedDateTime: 2020-11-18T00:45:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/17/senate-dems-push-covid-relief-slam-trump-drawdown/6333993002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1b2d795c-256d-4fd7-9029-79fd5463556e_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/755a0dcc-e996-4758-99b4-56ad96a722f9_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Mike Pence on virus: US 'has never been more prepared'"
-    excerpt: "Vice President Mike Pence is offering an upbeat assessment of the status of the coronavirus in the U.S., despite a surge in cases, hospitalizations and more than a quarter of"
-    publishedDateTime: 2020-11-20T02:08:00Z
-    webUrl: "https://www.stltoday.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_3b807094-5fd9-5240-af71-6cff7158a319.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_3b807094-5fd9-5240-af71-6cff7158a319.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_3b807094-5fd9-5240-af71-6cff7158a319.amp.html"
+  - title: "Judge stops Trump policy of ‘expelling’ child migrants, questioning legality of border controls linked to covid crisis"
+    excerpt: "Decision could have wider implications for the Biden administration as illegal border crossings into the United States have risen to their highest levels in more than a year."
+    publishedDateTime: 2020-11-18T20:40:00Z
+    webUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4TYO3BJ3QI6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "President Trump Tweets Donald Trump Jr. Is Doing Well After COVID-19 Diagnosis"
+    excerpt: "Donald Trump Jr. learned of his positive result earlier this week and has had no symptoms, according to a spokesperson"
+    publishedDateTime: 2020-11-21T15:31:00Z
+    webUrl: "https://time.com/5914624/president-trump-tweets-donald-trump-jr-is-doing-well-after-covid-19-diagnosis/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 101
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/AP20325835953740.jpg"
+        width: 3899
+        height: 2596
+        isCached: true
 
 secured: "UkNnw99zGw+Bzf65KzJIV3Xl2jUWJxNkPFkWjXdgNBUQ/YdZ42dz1Fiyo1vRKwJu75W8uvO/FKq8IIVwoCKnb6wtrBs/RedBU9S9ph6mc8UmH8isVqr8ujtHDaFNUYmlyM3uXxOP5qcSmQ25trOcoB8kYDNFmTS+VOMmPuyxErto14Pl7nNUBLa57aPpsM5MFafOV+uar1gD+J4CN4sQKJxn5doF5o5mYwZ1Y2eiPeZ3C+YiT+gVCh+3HP5Be9/I7pCfmDWNHmTYIq1UTl/gWOh62t+VS7e7smT3KyBuN3GNPkMB6c7F6ixXXEkx790DNhDRW2BVJBXrlxluJpuLYqY7wB+zVMbbFVzbQ1VHeqg=;yPI/vv7zZuqZXXx+njqTng=="
 ---

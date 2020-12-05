@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "How will cable news thrive without Donald Trump in the White House?"
+    excerpt: "Fox News, CNN and MSNBC saw record ratings under President Trump, who is not yet done reshaping the cable news landscape."
+    publishedDateTime: 2020-11-23T19:17:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/business/story/2020-11-23/cable-tv-news-donald-trump-fox-news-cnn-msnbc"
+    ampWebUrl: "https://www.latimes.com/entertainment-arts/business/story/2020-11-23/cable-tv-news-donald-trump-fox-news-cnn-msnbc?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/business/story/2020-11-23/cable-tv-news-donald-trump-fox-news-cnn-msnbc?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7830cfd/2147483647/strip/true/crop/7360x4807+0+53/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe9%2Fa8%2F02f0cf3f4c3c97513c9d4d7adcc1%2F463751-la-et-ct-fox-news-polls019.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump allies are reportedly considering buying out Newsmax to build a strong competitor to Fox News"
     excerpt: "Fox News viewers have been navigating over to Newsmax after the network declared Biden as the winner."
     publishedDateTime: 2020-11-15T20:18:00Z

@@ -95,6 +95,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump says coronavirus vaccine deliveries to begin next week"
+    excerpt: "U.S. President Donald Trump said on Thursday that delivery of the coronavirus vaccine would begin next week and the week after."
+    publishedDateTime: 2020-11-27T03:39:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-idUSKBN2862GY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2862GY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2862GY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542596063&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1E5"
+        width: 899
+        height: 545
+        isCached: true
+  - title: "Biden urges Congress to pass coronavirus package, promises more action"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
+    publishedDateTime: 2020-12-01T20:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-urges-congress-to-pass-coronavirus-package-promises-more-action-idUSL1N2IH242"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543101682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03ID"
+        width: 758
+        height: 545
+        isCached: true
   - title: "Coronavirus Is Surging Across The US So Mike Pence Held A Useless Briefing"
     excerpt: "With coronavirus cases surging nationwide, experts fear another 150,000 Americans will die by in the next three months."
     publishedDateTime: 2020-11-20T00:10:00Z
@@ -111,20 +143,36 @@ related:
         width: 625
         height: 415
         isCached: true
-  - title: "Biden urges Americans to be safe during holiday, fight coronavirus pandemic"
-    excerpt: "U.S. President-elect Joe Biden on Wednesday pleaded with Americans to take steps to remain safe as COVID-19 cases surge on the eve of the Thanksgiving holiday and pledged again to make combating the pandemic a top priority when he takes office in January."
-    publishedDateTime: 2020-11-25T22:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2851FD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2851FD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2851FD"
+  - title: "Biden plans scaled-back inauguration to avoid spreading coronavirus in crowds"
+    excerpt: "Setting a sharp contrast with President Donald Trump, whose administration began with a fight over the size of his inaugural crowds, President-elect Joe Biden said on Friday he plans a scaled-back event for safety's sake during the pandemic."
+    publishedDateTime: 2020-12-05T12:03:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28E38W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E38W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E38W"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 123
+    quality: 122
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542482301&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1SJ"
-        width: 818
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543536446&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31SN"
+        width: 689
+        height: 545
+        isCached: true
+  - title: "UPDATE 1-Biden urges Congress to pass coronavirus package, promises more action"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
+    publishedDateTime: 2020-12-02T00:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idUSL1N2IH242"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
+        width: 1022
         height: 545
         isCached: true
   - title: "Biden says bipartisan coronavirus aid bill should be passed but will still need more"
@@ -235,6 +283,17 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Congress braces for Biden's national coronavirus strategy"
+    excerpt: "WASHINGTON (AP) — Congress is bracing for President-elect Joe Biden to move beyond the Trump administration’s state-by-state approach to the and build out a national strategy to fight the pandemic and distribute the eventual vaccine."
+    publishedDateTime: 2020-11-25T23:40:00Z
+    webUrl: "https://www.businessinsider.com/congress-braces-for-bidens-national-coronavirus-strategy-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/congress-braces-for-bidens-national-coronavirus-strategy-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-braces-for-bidens-national-coronavirus-strategy-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden's team has made contact with Dr. Fauci, and the president-elect said he has been 'very, very helpful' in briefings with staff"
     excerpt: "The contact between Fauci and Biden's team comes as the US may be entering the darkest stage yet of the coronavirus pandemic."
     publishedDateTime: 2020-11-25T06:08:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-el
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/?outputType=amp"
 type: article
 quality: 130
-heat: -1
-published: false
+heat: 270
+published: true
 
 provider:
   name: Washington Post
@@ -31,85 +31,117 @@ images:
     isCached: true
 
 related:
-  - title: "Former head of U.S. election security calls Trump team fraud allegations 'farcical'"
-    excerpt: "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\"."
-    publishedDateTime: 2020-11-28T01:36:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-krebs-idINKBN28801I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28801I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28801I"
+  - title: "'Don't talk to me that way': Trump lashes out at White House reporter over election question"
+    excerpt: "Trump angrily admonished Reuters reporter Jeff Mason after he asked if he would concede the election after the Electoral College voted for Biden."
+    publishedDateTime: 2020-11-27T16:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/president-donald-trump-snaps-reuters-reporter-jeff-mason/6436651002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6436651002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6436651002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 134
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542720087&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR00W"
-        width: 753
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/11/27/USAT/536f926b-b9a6-40f9-a967-1a3409fc583c-AFP_AFP_8VY78B.jpg?auto=webp&crop=5759,3240,x0,y332&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Romney blasts ‘undemocratic’ Trump for pressuring Republicans to overturn election results"
-    excerpt: "Romney joined Sen. Ben Sasse (R-Neb.) on Thursday as the only GOP senators to publicly oppose the president, as Trump and his campaign continue lobbing baseless allegations of widespread voter fraud in Michigan and other states."
-    publishedDateTime: 2020-11-20T20:57:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp"
+  - title: "Trump officials move to relax rules on killing birds"
+    excerpt: "The Trump administration published an environmental analysis Friday finding that its proposal not to hold companies responsible for killing birds “incidentally” would not cause undue harm, clearly the way for it to finalize the rollback before the president’s term ends on Jan."
+    publishedDateTime: 2020-11-27T15:51:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 130
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4LIIIYRDVII6XHCKBXDCILCICQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOKXIAFSLII6TLGIDWCHXLGKOM.jpg&w=1440"
+        width: 1440
+        height: 972
+        isCached: true
+  - title: "Judge throws out Trump rules limiting skilled-worker visas"
+    excerpt: "A U.S. judge in California has struck down two Trump administration rules designed to drastically curtail the number of visas issued each year to skilled foreign workers"
+    publishedDateTime: 2020-12-02T14:12:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/judge-throws-trump-rules-limiting-skilled-worker-visas-74493314"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/judge-throws-trump-rules-limiting-skilled-worker-visas-74493314"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/judge-throws-trump-rules-limiting-skilled-worker-visas-74493314"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_116ebf0bcf7d4a8ab707549e3f5a4652_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The only experts Trump wants his supporters to rely on are themselves"
+    excerpt: "Trump is trying, unsuccessfully, to use it in the latter sense. He's unsuccessful because the idea that Republicans lower on the ticket might do better than Republicans higher on"
+    publishedDateTime: 2020-12-03T20:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/03/only-experts-trump-wants-his-supporters-rely-are-themselves/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/03/only-experts-trump-wants-his-supporters-rely-are-themselves/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/03/only-experts-trump-wants-his-supporters-rely-are-themselves/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELNV3VRT7AI6XFUZADJRD4J5FU.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "GM dumps Trump in his attempt to bar California from setting emissions"
-    excerpt: "GM urges other carmakers to withdraw support of the Trump administration's attempt to bar California from setting its own emission rules."
-    publishedDateTime: 2020-11-24T00:01:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/11/23/gm-trump-california-emissions-biden/6401627002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6401627002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6401627002"
+  - title: "With Fox’s Maria Bartiromo as his first post-election interviewer, Trump found a sympathetic ear and few questions"
+    excerpt: "Trump broke his relative silence by calling into Maria Bartiromo’s “Sunday Morning Futures” show for 45 minutes. It was a major exclusive that he handed to Bartiromo, a veteran financial journalist who has emerged over the last four years as one of the biggest backers of Trump’s presidency within the Fox News Media corporate ecosystem."
+    publishedDateTime: 2020-11-29T20:07:00Z
+    webUrl: "https://www.washingtonpost.com/media/2020/11/29/trump-fox-bartiromo-interview/"
+    ampWebUrl: "https://www.washingtonpost.com/media/2020/11/29/trump-fox-bartiromo-interview/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/11/29/trump-fox-bartiromo-interview/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/34c91a8fdf1511f71134089b998fd833d033cdc4/c=0-36-512-325/local/-/media/2016/10/25/DetroitFreePress/DetroitFreePress/636129760971560378-GM-logo-with-flag-2-.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 677
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYTSGZXMSAI6VPIIDMIBGK2FR4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Tucker Carlson calls out Trump's election lawyer for refusing to show evidence supporting the president's baseless voter fraud claims"
-    excerpt: "Some of President Donald Trump's false election fraud claims are apparently a bridge too far for one of Trump's biggest Fox News boosters."
-    publishedDateTime: 2020-11-20T16:43:00Z
-    webUrl: "https://www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11?amp"
+  - title: "Twitter keeps flagging Trump for disinformation because Trump keeps tweeting disinformation"
+    excerpt: "This is a nonsense turducken, a false claim from a disreputable source stuck into a Trump tweet that layers on its own falsehood. The claims about Dominion voting machines are fal"
+    publishedDateTime: 2020-12-02T16:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/twitter-keeps-flagging-trump-disinformation-because-trump-keeps-tweeting-disinformation/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/twitter-keeps-flagging-trump-disinformation-because-trump-keeps-tweeting-disinformation/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/twitter-keeps-flagging-trump-disinformation-because-trump-keeps-tweeting-disinformation/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H2KWBWRFJAI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 978
+        isCached: true
+  - title: "Donald Trump spent Thanksgiving night railing against Section 230 on Twitter as #DiaperDon went viral"
+    excerpt: "Twitter users mocked the president using the hashtag #DiaperDon after he sat at a smaller-than-usual table during a news conference."
+    publishedDateTime: 2020-11-27T12:31:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-calls-end-section-230-diaperdon-goes-viral-twitter-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-calls-end-section-230-diaperdon-goes-viral-twitter-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-calls-end-section-230-diaperdon-goes-viral-twitter-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 109
+    quality: 110
     images:
-      - url: "https://i.insider.com/5fb7d98650e71a0011556726?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fc0e445037cbd00186128d1?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Ivanka Trump calls New York investigations into Trump Organization tax write-offs political 'harassment'"
-    excerpt: "\"This is harassment pure and simple,\" said Ivanka Trump after it was reported subpoenas were issued in connection with a consulting fee she was paid."
-    publishedDateTime: 2020-11-20T17:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/20/ivanka-trump-calls-investigations-trump-organization-taxes-harassment/6354080002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6354080002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6354080002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/681af82e-b400-457d-9906-c0af2393d801-AP_Election_2020_Trump.jpg?auto=webp&crop=2659,1496,x326,y133&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "L6ugyxC52zkar4CRDstCYY3V/bB0Ye427hiRFsFHxA8SSxyPphaMc7eoAQLNzLrGjwKtbjrunnPFKr6Mk4TGje/qAocCCBqxFhdeL9pUiKwMHtIaLLelgrwvqYSDtEM/dXmQnfnKOa1kBs0qXSuo5fTucCM2OC6sLtOa3qDickBiDshkwbW+X1KUgGNjcDaX1JwTBjhWe6olowUg29889LYTw3TC0+U6GNGsKUvlhIaAq+TeyTIfiJ26XDTYVz2xzh2dKmHXsGC0NsYm12OmFEiw8QgScirtAT7x4VTFFYj1dIZ5chOq/6R8dz9SDId0vJ0XsfzSv/u/DWSlTGXhO+fr1/c51BrpKVOZjitwTko=;binKsT8ZeM4z8y5yCrtltQ=="

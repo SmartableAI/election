@@ -31,12 +31,74 @@ images:
     isCached: true
 
 related:
-  - title: "Biden tells governors he’ll help states overcome coronavirus"
-    excerpt: "In a virtual meeting with governors, Joe Biden has expressed concern that President Donald Trump’s unprecedented attempt to block the peaceful transition of power at the White House has hindered the f"
-    publishedDateTime: 2020-11-19T16:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+  - title: "Trump's America-first approach 'meant America alone', says Joe Biden – video"
+    excerpt: "President-elect Joe Biden says his presidency would not be 'a third Obama term' and that he would consider appointing a Republican"
+    publishedDateTime: 2020-11-25T01:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-america-first-approach-meant-america-alone-says-joe-biden-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 127
+    images:
+      - url: "https://i.guim.co.uk/img/media/3b5387289c02728ddcd625e8fbb7739ce859f9cf/0_202_3047_1829/master/3047.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28a1692bd9f6f64c8271b0beb3ee0451"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Corporate America says it is ready to work with Biden"
+    excerpt: "Corporate America says it is ready to work with President-elect Joe Biden, hoping for quick action on a new round of COVID-19 relief and infrastructure spending."
+    publishedDateTime: 2020-11-09T21:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-companies-idUSKBN27P28S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P28S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P28S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540560927&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81CA"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "America's bellwethers crumbled in aligning with Trump in '20"
+    excerpt: "Indiana's Vigo County had been America’s most reliable presidential bellwether, voting in line with the rest of the nation since 1956"
+    publishedDateTime: 2020-11-19T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fe367a2fc1344c12bbb8e0178298717e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Can American democracy survive Donald Trump?"
+    excerpt: "Lying, paranoia and conspiracy are defining features of a totalitarian society. What hope is there for a brand new era, in the aftermath of an administration that has relied on all three?"
+    publishedDateTime: 2020-11-21T10:39:00Z
+    webUrl: "https://www.theguardian.com/books/2020/nov/21/can-american-democracy-survive-donald-trump"
+    ampWebUrl: "https://amp.theguardian.com/books/2020/nov/21/can-american-democracy-survive-donald-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2020/nov/21/can-american-democracy-survive-donald-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/fdecd60107ee26ff8ec9fc6b7c101755148aca56/0_123_5704_3423/master/5704.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=97cfb0a42dc3034f2a07ffb6a4f8db8f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "VIRUS TODAY: Americans travel as Biden addresses nation"
+    excerpt: "Here’s what’s happening Wednesday with the coronavirus pandemic in the U.S.: — Millions of Americans are traveling for the Thanksgiving holiday despite warnings from health officials that family gatherings could make a bad situation worse."
+    publishedDateTime: 2020-11-25T21:03:00Z
+    webUrl: "https://www.washingtonpost.com/health/virus-today-americans-travel-as-biden-addresses-nation/2020/11/25/9bec9fdc-2f61-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/virus-today-americans-travel-as-biden-addresses-nation/2020/11/25/9bec9fdc-2f61-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/virus-today-americans-travel-as-biden-addresses-nation/2020/11/25/9bec9fdc-2f61-11eb-9dd6-2d0179981719_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -47,246 +109,163 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Donald Trump Jr tests positive for coronavirus – as it happened"
-    excerpt: "President’s eldest son tested positive for Covid-19 earlier this week, spokesman said, and is fourth member of Trump family to contract virus"
-    publishedDateTime: 2020-11-20T20:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb86a6f8f087f6ff1099ed6"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/d6e38cf16120655d6f33182716bf34403d310069/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7d3646efad6165b44747fe4ae85d0375"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Donald Trump Jr tests positive for coronavirus – live"
-    excerpt: "President’s eldest son tested positive for Covid-19 earlier this week, spokesman said, and is fourth member of Trump family to contract virus"
-    publishedDateTime: 2020-11-21T01:11:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb85c988f087f6ff1099e70"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/d6e38cf16120655d6f33182716bf34403d310069/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7d3646efad6165b44747fe4ae85d0375"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump to appear at virtual G-20 as coronavirus ravages the globe"
-    excerpt: "After days of noncommittal silence, the White House finally confirmed late Friday afternoon — less than 24 hours before the global summit’s scheduled start — that President Trump would participate. It’s just the latest reminder that during this once-in-a-century health and economic emergency,"
-    publishedDateTime: 2020-11-20T22:28:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PRL5GWBHRQI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden to meet with U.S. workers hit by coronavirus pandemic"
-    excerpt: "President-elect Joe Biden on Wednesday will meet with American workers and business owners hit by COVID-19 as he prepares to confront the pandemic that has taken a heavy human and economic toll when he takes office next month."
-    publishedDateTime: 2020-12-02T11:30:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-workers-idUSKBN28C1GM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C1GM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C1GM"
+  - title: "Biden picks Cuban-American lawyer Mayorkas as U.S. homeland security chief"
+    excerpt: "President-elect Joe Biden will nominate Alejandro Mayorkas to become U.S. secretary of homeland security, Biden's transition team said on Monday, entrusting the Cuban immigrant to help reverse outgoing President Donald Trump's hard-line immigration policies."
+    publishedDateTime: 2020-11-24T06:55:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-homeland-idINKBN2832I5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2832I5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2832I5"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543178895&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB10R3"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Coronavirus Is Surging Across The US So Mike Pence Held A Useless Briefing"
-    excerpt: "With coronavirus cases surging nationwide, experts fear another 150,000 Americans will die by in the next three months."
-    publishedDateTime: 2020-11-20T00:10:00Z
-    webUrl: "https://www.buzzfeednews.com/article/danvergano/coronavirus-surging-so-pence-briefing"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/danvergano/coronavirus-surging-so-pence-briefing"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/danvergano/coronavirus-surging-so-pence-briefing"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
     quality: 123
     images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-11/18/18/campaign_images/184616d5f766/31-cool-and-useful-gadget-gifts-for-the-person-wh-2-13464-1605725191-31_dblbig.jpg"
-        width: 625
-        height: 415
-        isCached: true
-  - title: "Biden says bipartisan coronavirus aid bill should be passed but will still need more"
-    excerpt: "President-elect Joe Biden said on Thursday a bipartisan coronavirus aid bill should be passed but that he will have to ask for more once in office."
-    publishedDateTime: 2020-12-04T07:32:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-biden/biden-says-bipartisan-coronavirus-aid-bill-should-be-passed-but-will-still-need-more-idUSW1N2HQ0GN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E08E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E08E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543406856&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB3042"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542228607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM19M"
         width: 817
         height: 545
         isCached: true
-  - title: "From the coronavirus to the environment, Biden plans to take government in new direction"
-    excerpt: "A review of Biden's plans so far suggests that among his priorities will be tackling COVID-19, rolling back Trump actions, expanding on Obama initiatives."
-    publishedDateTime: 2020-11-24T21:05:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate?_amp=true"
+  - title: "Barack Obama: ‘Donald Trump and I tell very different stories about America’"
+    excerpt: "Four years after leaving office, he’s officially the world’s most admired man.But what is Obama’s legacy? The former president talks Trump, Biden and America’s new dawn"
+    publishedDateTime: 2020-11-21T09:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 116
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/bdbe1ab/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F54%2Fce%2Fbb2ca196c0e9e959721af595922e%2Fla-me-ln-road-closures-for-vice-president-bide-001"
-        width: 320
-        height: 209
+      - url: "https://i.guim.co.uk/img/media/affec64d8841c54c434781ee58243286b79600d2/0_0_8212_5178/master/8212.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f652526eb0dd4a56201ef7c555a31c29"
+        width: 600
+        height: 378
         isCached: true
-  - title: "Trump urges Congress to pass a 'big and focused' coronavirus relief bill in 1st stimulus comments since losing the election"
-    excerpt: "Despite divisions between Republicans and Democrats, Trump called on lawmakers to approve a stimulus package, saying they need to \"get it done!\""
-    publishedDateTime: 2020-11-14T17:00:00Z
-    webUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
+  - title: "Biden says 'America is back' at the head of the table – but is that a good thing?"
+    excerpt: "After four years of Trump, many diplomats are hopeful – but US critics say the idea of a return to a ‘golden age’ is a delusion"
+    publishedDateTime: 2020-11-26T17:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
     images:
-      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.guim.co.uk/img/media/15b1ca4a91a070ff0a9b6ca8feaca7827d6267f2/0_287_4579_2748/master/4579.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4d71b9496b19b99400f322775a13b90f"
+        width: 600
+        height: 360
         isCached: true
-  - title: "'Hand in glove': President-elect Biden promises governors coordination in combatting coronavirus"
-    excerpt: "Governors noted it took eight months to distribute 100 million tests for the virus, but that distributing free vaccine in the coming months will require reaching 330 million Americans"
-    publishedDateTime: 2020-11-19T22:36:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/joe-biden-promises-governors-work-hand-glove-against-coronavirus/6341252002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6341252002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6341252002"
+  - title: "Most Americans want protections for LGBTQ people. Biden could finally make that happen"
+    excerpt: "After four years of President Trump, victories for Biden and LGBTQ state lawmakers have created a \"reason for hope\" for many LGBTQ Americans."
+    publishedDateTime: 2020-11-20T12:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/20/under-biden-lgbtq-rights-more-americans-could-norm/6334516002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6334516002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6334516002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 112
+    quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/5341e1cb-b550-4252-bfb6-4885180b4482-biden_governors_1.jpg?auto=webp&crop=2999,1687,x0,y127&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/935cb4ec-6f78-4f86-a438-ef082c670230-David.jpg?auto=webp&crop=2999,1687,x0,y153&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump Jr., the president’s eldest son, tests positive for the coronavirus, spokesperson says"
-    excerpt: "Donald Trump Jr., the eldest son of President Donald Trump, was quarantining Friday after learning he has been infected with the coronavirus, a spokesperson said."
-    publishedDateTime: 2020-11-20T23:46:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-donald-trump-jr-covid19-20201120-5wtzb4nqznc2hi5aesmbdkvlmi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-donald-trump-jr-covid19-20201120-5wtzb4nqznc2hi5aesmbdkvlmi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-donald-trump-jr-covid19-20201120-5wtzb4nqznc2hi5aesmbdkvlmi-story.html?outputType=amp"
+  - title: "Melania Trump, like America, may be more in love with President Trump than his critics would hope"
+    excerpt: "The camera pans from her stiletto heel, up her sparkly gown, to her familiar face — it’s Melania Trump! (Her head superimposed on the body of the actual bachelorette.) Is Melania Trump really looking forward to being rid of President Trump as much as tens of millions of Americans are?"
+    publishedDateTime: 2020-11-17T13:04:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 111
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
     images:
-      - url: "https://www.chicagotribune.com/resizer/BJz1b_CZfapJFbcKHYJAxdneffw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/REJGIQUBZMDXOQG7HZBR4PB6LI.aspx"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSOXTPAXDQI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump says coronavirus vaccines may be approved by year's end"
-    excerpt: "President Trump spoke in public for the first time in more than a week, saying two coronavirus vaccines could be approved by the end of the year and available to Americans as soon as April. Ben Tracy has more."
-    publishedDateTime: 2020-11-14T00:09:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-says-coronavirus-vaccines-may-be-approved-by-years-end/"
+  - title: "Judge slaps down Trump appointee who has sought to reshape Voice of America and related agencies"
+    excerpt: "Michael Pack, who took over VOA’s parent agency, has stirred opposition to sweeping changes at government-funded broadcasters."
+    publishedDateTime: 2020-11-21T20:52:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XWYCY3VPFYI6VGFVE6NGI6NB4Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "What do Iranian Americans expect from a Biden administration? There’s no one-size-fits-all answer"
+    excerpt: "As they look to the incoming Biden administration to grapple with issues that are top of mind for many in the diaspora — the economy, jobs, foreign policy and the coronavirus pandemic — community members say it would be a mistake to assume that there is a one-size-fits-all approach to pleasing"
+    publishedDateTime: 2020-11-22T14:18:00Z
+    webUrl: "https://www.latimes.com/california/story/2020-11-22/iranian-americans-expect-biden-administration"
+    ampWebUrl: "https://www.latimes.com/california/story/2020-11-22/iranian-americans-expect-biden-administration?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-22/iranian-americans-expect-biden-administration?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 112
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/da646f2/2147483647/strip/true/crop/4000x2613+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9c%2Fc1%2F3750d95040808465e17a6d46d153%2Fla-photos-1staff-655631-la-me-covid-features-macarthur-park-10-als.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "In Thanksgiving message, Joe Biden reminds Americans \"we're at war with a virus, not with each other\""
+    excerpt: "Washington — President-elect Joe Biden urged Americans to resist surrendering to the \"fatigue\" of the coronavirus pandemic and come together with the shared goal of defeating the virus, echoing calls of public health officials who are calling for the nation to scale down their Thanksgiving celebrations amid the surge in COVID-19 cases nationwide."
+    publishedDateTime: 2020-11-25T20:44:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-delivers-thanksgiving-address-watch-live-stream-today-2020-11-25/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 105
+    quality: 110
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/13/e3c98bf0-6b23-4f19-86df-04f641f2dee2/thumbnail/1200x630/910ad882516943167431f634b5b1cdb3/cbsn-fusion-trump-says-coronavirus-vaccines-may-be-approved-by-years-end-thumbnail-587778-640x360.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/25/8e3e3b24-051d-4285-a0a2-de21efdfe8a4/thumbnail/1200x630g8/58eaece4ff4e082cf8a78dcf603888e3/gettyimages-1229785663.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Donald Trump Jr. Tests Positive For The Coronavirus"
-    excerpt: "The president's son, who announced his diagnosis on Instagram, said he has no symptoms and feels fine. Trump Jr. said he plans to quarantine and \"take it seriously.\""
-    publishedDateTime: 2020-11-21T16:54:00Z
-    webUrl: "https://www.npr.org/2020/11/21/937574684/donald-trump-jr-tests-positive-for-the-coronavirus"
+  - title: "University dean resigns over statement that called Biden voters \"ignorant, anti-American and anti-Christian\""
+    excerpt: "A dean at a university in Virginia has resigned after posting a statement on Facebook that called supporters of President-elect Joe Biden “ignorant, anti-American and anti-Christian.” Virginia Wesleyan University announced the resignation Monday in a statement on its website."
+    publishedDateTime: 2020-11-17T17:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/education/2020/11/17/virginia-wesleyan-university-dean-resigns-statement-biden-voters/6325744002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6325744002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6325744002"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
     images:
-      - url: "https://media.npr.org/assets/img/2020/11/21/ap_20325834765888_wide-c0ccca04b1e02e8ea0ac59c4d149f229f64d7718.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Biden's team has made contact with Dr. Fauci, and the president-elect said he has been 'very, very helpful' in briefings with staff"
-    excerpt: "The contact between Fauci and Biden's team comes as the US may be entering the darkest stage yet of the coronavirus pandemic."
-    publishedDateTime: 2020-11-25T06:08:00Z
-    webUrl: "https://www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
-    images:
-      - url: "https://i.insider.com/5fbde6e132f2170011f71164?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/865081a8-2c31-4568-a288-c275f590d8b5-AP_Election_2020_Washington.jpg?auto=webp&crop=4987,2806,x0,y253&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Vice President Mike Pence delivers remarks at the White House Coronavirus Task Force briefing"
-    excerpt: "Vice President Mike Pence delivered remarks at the White House Coronavirus Task Force briefing today. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
-    publishedDateTime: 2020-11-19T22:31:00Z
-    webUrl: "https://www.cnbc.com/video/2020/11/19/vice-president-mike-pence-delivers-remarks-at-the-white-house-coronavirus-task-force-briefing.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 94
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106799878-16058227011605822696-12530909175-1080pnbcnews.jpg?v=1605822700"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Why Joe Biden Needs Mitch McConnell to Govern"
-    excerpt: "Republicans on the Hill despised Obama but saw Biden as one of them. “There is a reason ‘Get Joe on the phone’ is shorthand for ‘Time to get serious’ in my office,” McConnell said in 2016."
-    publishedDateTime: 2020-11-19T03:15:00Z
-    webUrl: "https://time.com/5913168/why-joe-biden-needs-mitch-mcconnell/"
+  - title: "‘My Frustration Turned Into Anger.’ Some Americans Who Lost Family Members to COVID-19 Have Turned Against Donald Trump"
+    excerpt: "While it’s impossible to know how many former Trump supporters who lost family to COVID-19 changed their minds the way Zeman did, it’s clear that the pandemic has catalyzed a nationwide politics of grief."
+    publishedDateTime: 2020-11-19T21:40:00Z
+    webUrl: "https://time.com/5913055/coronavirus-family-members-political-grief/"
     type: article
     provider:
       name: Time
       domain: time.com
-    quality: 85
-  - title: "Pence speaks at first coronavirus task briefing in months"
-    excerpt: "Vice President Mike Pence spoke Thursday about the effort against the coronavirus at the first White House coronavirus task force press briefing since July."
-    publishedDateTime: 2020-11-19T22:56:00Z
-    webUrl: "https://www.firstcoastnews.com/video/news/health/coronavirus/pence-covid-19-task-force-briefing/507-91be02d4-bcf8-468a-9114-11aef56aeb14"
-    type: article
-    provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 55
+    quality: 81
     images:
-      - url: "https://media.firstcoastnews.com/assets/CCT/images/08b5c1f1-df3c-499e-8afe-df8b583772b3/08b5c1f1-df3c-499e-8afe-df8b583772b3_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://api.time.com/wp-content/uploads/2020/11/Barbara-Zeman.jpg?w=720"
+        width: 720
+        height: 432
         isCached: true
 
 secured: "1F0zCdf9CupszREpQeXyKFqydCMuERhO0peHv1lDfiep2QmP4YEjjH1sjmGtfZKZsi+CQ84F1r/yJuaArdtFT9LuCH18B+72X+quSclqYCqk+4xuuI9M9EWuh26l6VM+O2C2JUSYIsR6uV+Vegq1FcvbYrT5qrW9JffOOD10zRHVaUo4HrGI7wlKAVtGagFz4uJb9KU/mFKrdsxXw6imfSYE5yCxCLoZ4qbdZiV9S9HloKuj5SGq/UkPan3GTt1DhIZ7mLQTM57u/C4GZj1KfIVzXasZK19NfSDGNE5D7XWL6wGMjtX2GJ54C+uWVu4Eog2Pt+P0UDiAEbwf63o0s4RMA0/zNztQDHqDNPx7sBs=;p6FkrlqH0+kHsY+Aa7qWkQ=="

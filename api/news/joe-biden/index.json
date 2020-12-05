@@ -2,6 +2,117 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-05-kellyanne-conway-breaks-from-trump-and-says-joe-biden-and-kamala-harris-will-prevail.md",
+      "title": "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'",
+      "excerpt": "Former White House advisor Kellyanne Conway's comments in an interview with The 19th go directly against Trump's claims undermining the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
+      "originalUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1067,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fcb8c9db6a3a800199b6db2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp",
+      "publishedDateTime": "2020-12-05T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-transition-highlights-biden-discusses-stalling-economy-amid-new-hopes-on-stimulus.md",
+      "title": "Transition Highlights: Biden Discusses ‘Stalling’ Economy Amid New Hopes on Stimulus",
+      "excerpt": "President-elect Joe Biden is urging Congress to quickly pass another virus relief plan as leaders of both parties work toward a compromise. Vice President Mike Pence said the nation faced a ‘season of hope’ as vaccine efforts advance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/12/04/us/joe-biden-trump",
+      "originalUrl": "https://www.nytimes.com/live/2020/12/04/us/joe-biden-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/04/us/politics/04transition-briefing-biden-jobs/merlin_180779328_573c5cc9-0524-4153-a319-93334f6b8c48-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-msnbcs-kasie-hunt-panned-for-saying-shes-struck-how-biden-as-a-rule-doesnt-lie.md",
       "title": "MSNBC's Kasie Hunt panned for saying she's 'struck' how Biden 'as a rule, doesn’t lie'",
       "excerpt": "MSNBC anchor Kasie Hunt was widely mocked on social media Friday for being excessively trusting of President-elect Joe Biden.",
@@ -59,58 +170,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-05-california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house.md",
-      "title": "California certifies Joe Biden’s victory, giving the Democrat more than the 270 electors needed to win the White House",
-      "excerpt": "California certifies Joe Biden’s victory, giving the Democrat more than the 270 electors needed to win the White House",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-04T16:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-05-joe-biden-owes-philly-15500-in-unpaid-bills-after-leaving-a-muddy-mess-from-a-campaign-event-the-city-wants-its-money-asap.md",
       "title": "Joe Biden owes Philly $15,500 in unpaid bills after leaving a muddy mess from a campaign event. The city wants its money ASAP.",
       "excerpt": "Biden's team hasn't paid the $6,025 site fee for using Philly's FDR Park, and $9,500 to cover repairs of a portion of the park's waterlogged grounds.",
@@ -143,6 +202,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines.md",
+      "title": "Iran pressures Biden with plan to increase underground enrichment machines",
+      "excerpt": "Iran is raising pressure on U.S. President-elect Joe Biden with plans to install more advanced uranium-enriching centrifuges at an underground plant in breach of its deal with major powers, a U.N. nuclear watchdog report showed on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-iran-nuclear-iaea/iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines-idUSKBN28E1XM",
+      "originalUrl": "https://www.reuters.com/article/us-iran-nuclear-iaea/iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines-idUSKBN28E1XM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543482313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31BL",
+          "width": 808,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28E1VR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E1VR",
+      "publishedDateTime": "2020-12-04T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -220,21 +331,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-04-coronavirus-live-news-biden-joins-ex-presidents-in-pledge-to-get-vaccinated-in-public-as-global-deaths-pass-15m.md",
-      "title": "Coronavirus live news: Biden joins ex-presidents in pledge to get vaccinated in public as global deaths pass 1.5m",
-      "excerpt": "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m",
+      "path": "_news/2020-12-04-perdue-tacitly-acknowledges-biden-administration-despite-public-pronouncements.md",
+      "title": "Perdue tacitly acknowledges Biden administration, despite public pronouncements",
+      "excerpt": "In a private zoom call with the Republican Jewish Coalition obtained by The Washington Post, Sen. David Perdue (R-Ga.) referred several times to a new administration run by President-elect Joe Biden.",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc994b08f08b46221a1a6aa",
-      "originalUrl": "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc994b08f08b46221a1a6aa",
+      "webUrl": "https://www.washingtonpost.com/video/politics/perdue-tacitly-acknowledges-biden-administration-despite-public-pronouncements/2020/12/03/c37a74dc-9256-49d7-a1c2-81b4ef4927ef_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/politics/perdue-tacitly-acknowledges-biden-administration-despite-public-pronouncements/2020/12/03/c37a74dc-9256-49d7-a1c2-81b4ef4927ef_video.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 121,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/c090cd83408471d34aa1737ecbe2a87179cb7948/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1079fb7348bc08caefecba23853b0e7d",
-          "width": 600,
-          "height": 360,
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-04-2020/t_db5a42fdfdc94478a709335819c5af2c_name_Perdue_2.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+          "width": 1484,
+          "height": 834,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -242,16 +353,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m",
-      "publishedDateTime": "2020-12-03T17:58:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T17:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -324,21 +435,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-02-the-trailer-what-biden-and-the-left-are-demanding-of-each-other.md",
-      "title": "The Trailer: What Biden and the left are demanding of each other",
-      "excerpt": "The campaign to shape Biden's agenda, the next (and even stranger) stage of election contests, and Donald Trump Jr. goes on the air in Georgia",
+      "path": "_news/2020-12-03-gop-senators-dismiss-possible-congressional-challenge-to-biden-victory.md",
+      "title": "GOP senators dismiss possible congressional challenge to Biden victory",
+      "excerpt": "Amid President Trump’s unfounded claims of fraud, several of his supporters in the House have said they are exploring a challenge to electoral college results.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/",
+      "webUrl": "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html",
+      "originalUrl": "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IU43CRK7EI6XHBBHTCQDUEYD4.jpg&w=1440",
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELBI7NRUCMI6XFUZADJRD4J5FU.jpg&w=1440",
           "width": 1440,
-          "height": 960,
+          "height": 974,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -346,9 +457,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp",
-      "publishedDateTime": "2020-12-01T14:39:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-02T17:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -488,7 +599,7 @@
       "originalUrl": "https://www.reuters.com/article/idUSKBN28B4LN",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -532,91 +643,29 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-the-latest-graham-trump-should-attend-bidens-inauguration.md",
-      "title": "The Latest: Graham: Trump should attend Biden’s inauguration",
-      "excerpt": "Lindsey Graham says he thinks President Donald Trump should attend President-elect Joe Biden’s inauguration because it would be “good for the country.”",
+      "path": "_news/2020-12-01-biden-weighs-rahm-emanuel-for-transportation-secretary.md",
+      "title": "Biden weighs Rahm Emanuel for transportation secretary",
+      "excerpt": "CHICAGO (AP) — President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel, a substantial and somewhat divisive figure in Democratic Party politics, to serve as his transportation secretary.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html",
+      "webUrl": "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12",
+      "originalUrl": "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1910,
+      "heat": 125,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-30T16:42:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12?amp",
+      "publishedDateTime": "2020-12-01T01:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-election-2020-today-biden-chooses-advisers-breaks-foot.md",
-      "title": "Election 2020 Today: Biden chooses advisers, breaks foot",
-      "excerpt": "Here’s what’s happening Monday in Election 2020 and President-elect Joe Biden’s transition. BIDEN’S ECONOMIC PICKS: President-elect Joe Biden is expected in the coming days to name several of his most senior economic advisers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1480,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-30T04:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -637,21 +686,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-29-he-understands-washington-joe-scarborough-finds-echoes-of-truman-in-biden.md",
-      "title": "'He understands Washington': Joe Scarborough finds echoes of Truman in Biden",
-      "excerpt": "Joe host, author of a new book on Harry S Truman, sees parallels in the two presidents’ efforts to rebuild",
+      "path": "_news/2020-11-30-the-latest-biden-foreign-leaders-talk-about-pandemic.md",
+      "title": "The Latest: Biden, foreign leaders talk about pandemic",
+      "excerpt": "President-elect Joe Biden spent Monday at home accepting congratulatory calls from foreign leaders, a day after being diagnosed with stress fractures in his foot",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
-      "originalUrl": "https://www.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
+      "webUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 565,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/0c784c506893f0daeb8873a502c6060bfa00b248/0_0_5184_3110/master/5184.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=719db21f257d74441bd1723dd6f565b6",
-          "width": 600,
-          "height": 360,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -659,16 +708,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
-      "publishedDateTime": "2020-11-29T01:00:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-30T05:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -697,7 +746,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -721,110 +770,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-after-biden-win-rehoboth-beach-celebrates-local-boy-who-made-good-hes-our-joe.md",
-      "title": "After Biden win, Rehoboth Beach celebrates local boy who made good: ‘He’s our Joe’",
-      "excerpt": "Bikinis and beach umbrellas are marked to sell. The only hint of summer is the tangy scent of vinegar-doused french fries wafting from the one Thrasher’s stand that has remained open. Late fall and winter is when Rehoboth Beach typically gets to crawl back into its shell,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QASGXPBOUQI6XHOWFUAXTGAXDE.jpg&w=1440",
-          "width": 1440,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-27T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-biden-says-america-is-back-at-the-head-of-the-table-but-is-that-a-good-thing.md",
-      "title": "Biden says 'America is back' at the head of the table – but is that a good thing?",
-      "excerpt": "After four years of Trump, many diplomats are hopeful – but US critics say the idea of a return to a ‘golden age’ is a delusion",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/15b1ca4a91a070ff0a9b6ca8feaca7827d6267f2/0_287_4579_2748/master/4579.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4d71b9496b19b99400f322775a13b90f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy",
-      "publishedDateTime": "2020-11-26T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1068,6 +1013,59 @@
       ]
     },
     {
+      "path": "_news/2020-11-25-trumps-america-first-approach-meant-america-alone-says-joe-biden-video.md",
+      "title": "Trump's America-first approach 'meant America alone', says Joe Biden – video",
+      "excerpt": "President-elect Joe Biden says his presidency would not be 'a third Obama term' and that he would consider appointing a Republican",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-america-first-approach-meant-america-alone-says-joe-biden-video",
+      "originalUrl": "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-america-first-approach-meant-america-alone-says-joe-biden-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 427,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3b5387289c02728ddcd625e8fbb7739ce859f9cf/0_202_3047_1829/master/3047.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28a1692bd9f6f64c8271b0beb3ee0451",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T17:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-virginia-democrats-thrilled-with-biden-victory-arent-looking-for-carbon-copy.md",
       "title": "Virginia Democrats, Thrilled With Biden Victory, Aren’t Looking for Carbon Copy",
       "excerpt": "Suburban women who played a huge role in Joe Biden’s victory are not convinced that they need a white man to win their governor’s race next year.",
@@ -1133,7 +1131,7 @@
       "originalUrl": "https://www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1185,7 +1183,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1289,7 +1287,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1440,
+      "heat": 1380,
       "tags": null,
       "images": [
         {
@@ -1502,7 +1500,7 @@
       "originalUrl": "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1554,7 +1552,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 545,
       "tags": null,
       "images": [
         {

@@ -29,177 +29,131 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Jr. tests positive for COVID-19, says spokesman"
-    excerpt: "Donald Trump Jr., the son of U.S. President Donald Trump, tested positive for COVID-19 this week, although he is experiencing no symptoms, according to his spokesman."
-    publishedDateTime: 2020-11-21T04:32:00Z
-    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-junior-idUKKBN2802VP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2802VP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2802VP"
+  - title: "Trump campaign legal team distances itself from Powell"
+    excerpt: "The Trump campaign’s legal team is moving to distance itself from a firebrand conservative attorney, Sidney Powell"
+    publishedDateTime: 2020-11-23T06:44:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541958241&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ1N5"
-        width: 855
-        height: 545
+      - url: "https://s.abcnews.com/images/US/WireAP_17cfc180a8774b43bb88b736e14821fe_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Experimental drug given to Trump to treat covid-19 wins FDA clearance"
-    excerpt: "The Food and Drug Administration on Saturday granted emergency authorization to the experimental antibody treatment given to President Trump last month when he developed covid-19, the disease caused by the coronavirus."
-    publishedDateTime: 2020-11-22T06:32:00Z
-    webUrl: "https://www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/"
-    ampWebUrl: "https://www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/?outputType=amp"
+  - title: "Trump campaign disavows conspiracy theory-spouting attorney Sidney Powell"
+    excerpt: "The Trump campaign’s legal team is distancing itself from conservative attorney Sidney Powell, a purveyor of unfounded voting conspiracy theories."
+    publishedDateTime: 2020-11-23T10:17:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/512e097/2147483647/strip/true/crop/3034x1982+0+21/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F66%2F110684d9467c885e9125a53f9c39%2Fap20325745047715.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "For Trump advocate Sidney Powell, a playbook steeped in conspiracy theories"
+    excerpt: "The appellate lawyer has emerged as a key voice on the far right, fueling skepticism that Joe Biden rightfully won presidential contests in key battleground states."
+    publishedDateTime: 2020-11-28T22:39:00Z
+    webUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B47Z67Q2ZUI6XC62QFGKK3QTRM.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
-        height: 810
+        height: 960
         isCached: true
-  - title: "Even Trump's fiercest critics say he may have gotten some world affairs right"
-    excerpt: "Some experts, ex-diplomats and even President Donald Trump's opponents concede his overseas initiatives have produced limited, qualified successes."
-    publishedDateTime: 2020-11-24T08:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/11/24/even-trump-critics-say-he-may-have-gotten-some-foreign-policy-right/6353491002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6353491002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6353491002"
+  - title: "Giuliani releases statement distancing Trump campaign from lawyer Sidney Powell"
+    excerpt: "The president’s legal team was thrown into tumult Sunday when two Trump attorneys – Rudolph W. Giuliani and Jenna Ellis – released a statement abruptly distancing the campaign from a third attorney, Sidney Powell."
+    publishedDateTime: 2020-11-23T00:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/22/giuliani-releases-statement-distancing-trump-campaign-lawyer-sidney-powell/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/22/giuliani-releases-statement-distancing-trump-campaign-lawyer-sidney-powell/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/22/giuliani-releases-statement-distancing-trump-campaign-lawyer-sidney-powell/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/e35eb054-4f0c-4242-817e-388e7e50cf16-GTY_1222600011.jpg?auto=webp&crop=3615,2033,x0,y74&format=pjpg&width=1200"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BHKKJBBNDMI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "U.S. Supreme Court weighs Trump bid to bar illegal immigrants from census totals"
+    excerpt: "The Supreme Court on Monday is set to take up President Donald Trump's unprecedented and contentious effort to exclude illegal immigrants from the population totals used to allocate U.S. House of Representatives districts to states."
+    publishedDateTime: 2020-11-29T12:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN2890F4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890F4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890F4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542800006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS09M"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Banished from the Trump legal team, attorney Sidney Powell still finds a guest chair on Fox"
+    excerpt: "What Dobbs didn’t mention is that eight days earlier, Donald Trump’s re-election campaign had put out a statement dropping Powell from their legal effort to overturn the resul"
+    publishedDateTime: 2020-12-01T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/"
+    ampWebUrl: "https://www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/12/01/sidney-powell-trump-fox/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump axed campaign lawyer Sidney Powell was because 'she was too conspiratorial even for him'"
+    excerpt: "Powell has alleged a vast plot involving foreign communists and GOP officials to subvert the election, but even Trump it seems has heard enough."
+    publishedDateTime: 2020-11-23T11:56:00Z
+    webUrl: "https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/5fbb973350e71a0011556be6?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Coronavirus live news: Donald Trump Jr tests positive as Mexico deaths pass 100,000"
-    excerpt: "Obrador rejects criticism as political attacks; Canada fears big rise in cases could overwhelm hospitals; Italy records 37,242 new cases"
-    publishedDateTime: 2020-11-21T00:44:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel?page=with:block-5fb849138f087f6ff1099dcf"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
-    images:
-      - url: "https://i.guim.co.uk/img/media/143d5194599195ebb149ec008a26c09d7481351f/0_154_4256_2553/master/4256.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8c2b6bdcf1c94e3ecf7b746635d35ed3"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Corn vs. Cob: Trump pardons 'lucky' Thanksgiving turkey but avoids political jokes"
-    excerpt: "President Donald Trump partook in an annual holiday tradition – the pardoning of the National Thanksgiving Turkey, a turkey named Corn."
-    publishedDateTime: 2020-11-24T21:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/24/president-donald-trump-pardons-thanksgiving-turkey-skips-political-jokes/6406179002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6406179002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406179002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/446ebf97-c3da-4737-a944-cc6c6e2b5dfb-turkey-pic.jpg?auto=webp&crop=3382,1902,x1,y161&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "New COVID-19 closures, Trump campaign lawsuit, Hurricane Iota: 5 things to know Tuesday"
-    excerpt: "More states face new closures and restrictions due to COVID-19, the Trump campaign heads to court in Pennsylvania and more news to start your Tuesday."
-    publishedDateTime: 2020-11-17T21:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/11/17/covid-19-closures-trump-campaign-lawsuit-5-things-know-tuesday/6282623002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6282623002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6282623002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2020/11/13/USATODAY/usatsports/covid-closure-gettyimages-1216449625.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "OAN, touted by Donald Trump for its 'Great News,' suspended from YouTube for COVID-19 misinformation"
-    excerpt: "OAN, which had been warned about violating a COVID-19 misinformation policy, according to YouTube, won't be allowed to upload videos for one week."
-    publishedDateTime: 2020-11-25T01:31:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/11/24/oan-suspended-youtube-covid-19-misinformation/6416595002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6416595002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6416595002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/55465d1c-f9da-4cdd-9c04-350816a3668b-GTY_1228712427.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Senate Dems push COVID relief, slam Trump drawdown"
-    excerpt: "Senate Democrats are pushing for a generous COVID relief package, while also slamming President Donald Trump for throwing up obstacles during the transition, and planning to drawdown U.S. troops in the Mideast."
-    publishedDateTime: 2020-11-18T00:45:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/17/senate-dems-push-covid-relief-slam-trump-drawdown/6333993002/"
+  - title: "Trump returns to the White House from Camp David"
+    excerpt: "President Donald Trump returned to the White House on Sunday after spending the Thanksgiving holiday break with his family at Camp David. (Nov. 29)"
+    publishedDateTime: 2020-11-29T20:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/29/trump-returns-white-house-camp-david/6457672002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/755a0dcc-e996-4758-99b4-56ad96a722f9_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/98e5c227-dd38-4ef0-aabd-82799a517b55_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Judge stops Trump policy of ‘expelling’ child migrants, questioning legality of border controls linked to covid crisis"
-    excerpt: "Decision could have wider implications for the Biden administration as illegal border crossings into the United States have risen to their highest levels in more than a year."
-    publishedDateTime: 2020-11-18T20:40:00Z
-    webUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4TYO3BJ3QI6XD5CA3T4XMKFYA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "President Trump Tweets Donald Trump Jr. Is Doing Well After COVID-19 Diagnosis"
-    excerpt: "Donald Trump Jr. learned of his positive result earlier this week and has had no symptoms, according to a spokesperson"
-    publishedDateTime: 2020-11-21T15:31:00Z
-    webUrl: "https://time.com/5914624/president-trump-tweets-donald-trump-jr-is-doing-well-after-covid-19-diagnosis/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 101
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/AP20325835953740.jpg"
-        width: 3899
-        height: 2596
-        isCached: true
-  - title: "The Latest: Pence offers positive COVID-19 assessment in US"
-    excerpt: "Vice President Mike Pence is offering an upbeat assessment of the status of the coronavirus in the U.S., despite a surge in cases, hospitalizations and more than a quarter of a million deaths. Pence says President Donald Trump directed that Thursday’s briefing be held."
-    publishedDateTime: 2020-11-19T22:12:00Z
-    webUrl: "https://www.chron.com/news/article/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php"
-    ampWebUrl: "https://www.chron.com/news/amp/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
 
 secured: "GDZW85+bi7YfmdBMKSySG+bFpFswFaMvwb633SSUTxy5kE7DRfEGBsFKDb7ydAIgZn/FML9SXx6mAY+Z11p5veROHyy6/Bihpz7u2ZnJ+Y2kF7mkIf0JAJ53IDvzjz77fCOhq4tbOL7F2t3M8e+5kyNSYWrGalBMZO28bS4I5tZoGmyOQ5I4Iw6MqKylC2mgvRi3e4AJWAv+zt0BGGxHlw8iUlNvoSjkb0p0jkSNVSRLEpGYKR96t5daYo8VJQ2/uFRNq7CvGCLdiuZXs9UrAR5XnexTLP++S3wj2j7sitVjSaRsh4OWGaEFyw3G1nxhbNxnA9OopwS6Mgku3+Z2o41r1ParqIrbgVDYR1RuJGJXIwJDUuUa5bI469VM24zG5lBylIGxNQDti3/2UDAJA01lQGEz/4tdU71AM4nhN65kqTe1nhpwh+egYqqwVTDuoI6xjqzN06qukJjLCfhScYvi4jr3RM1O2Fmglhqo5YzLUaaZVyASl6apUn6kBBQu7qSRK2kzGCXis6jTJqODbw==;9LHv7C9hNbhvVuR1jPSYew=="

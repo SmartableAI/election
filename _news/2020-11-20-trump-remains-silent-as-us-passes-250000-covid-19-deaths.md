@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-2
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 365
+published: true
 
 provider:
   name: ABC
@@ -31,193 +31,194 @@ images:
     isCached: true
 
 related:
-  - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live updates"
-    excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
-    publishedDateTime: 2020-12-02T14:24:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates?page=with:block-5fc77f578f08c1b9f1358496"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 130
-    images:
-      - url: "https://i.guim.co.uk/img/media/be52e726131e6fc701bed4467ec98eeae8bcf0f1/533_0_5467_3280/master/5467.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43aeecc3f1120f55f6e477d2f29152ed"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump says coronavirus vaccine deliveries to begin next week"
-    excerpt: "U.S. President Donald Trump said on Thursday that delivery of the coronavirus vaccine would begin next week and the week after."
-    publishedDateTime: 2020-11-27T03:39:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-idUSKBN2862GY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2862GY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2862GY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542596063&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1E5"
-        width: 899
-        height: 545
-        isCached: true
-  - title: "The Note: Deadlines and dead ends pile up losses for Trump"
-    excerpt: "The weekend brought an end to Wisconsin's partial recount -- as funded by the Trump campaign -- with President-elect Joe Biden actually netting 87 additional votes, in results sch"
-    publishedDateTime: 2020-11-30T11:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
+  - title: "Analysis: With silence, GOP enables Trump's risky endgame"
+    excerpt: "Republicans in Congress are engaged in a risky but calculated bet that once President Donald Trump has exhausted his legal challenges to the election, he will come to grips with his loss to President-"
+    publishedDateTime: 2020-11-21T14:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-silence-gop-enables-trumps-risky-endgame-74331782"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-silence-gop-enables-trumps-risky-endgame-74331782"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-silence-gop-enables-trumps-risky-endgame-74331782"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-gty-ml-201127_1606495893630_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e3cc0791e2fe4d19add779ce37da1ddc_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Here are 3 retired generals who embraced bizarre Trump conspiracies"
-    excerpt: "These highly decorated military generals promoted baseless claims from the conspiracy theory movement."
-    publishedDateTime: 2020-12-03T22:47:00Z
-    webUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
+  - title: "Donald Trump Jr. tests positive for COVID-19, says spokesman"
+    excerpt: "Donald Trump Jr., the son of U.S. President Donald Trump, tested positive for COVID-19 this week, although he is experiencing no symptoms, according to his spokesman."
+    publishedDateTime: 2020-11-21T04:32:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-junior-idUKKBN2802VP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2802VP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2802VP"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://i.insider.com/5f739ab60ab50d00184ad213?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "U.S. Congress defense bill defies Trump on Germany withdrawal, base names"
-    excerpt: "U.S. lawmakers unveiled the final version of a massive annual defense policy bill on Thursday that defies President Donald Trump's plans to withdraw troops from Germany and keep the names of Confederate generals on military bases,"
-    publishedDateTime: 2020-12-04T08:59:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28E0Y5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E0Y5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E0Y5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543432218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30GH"
-        width: 817
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541958241&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ1N5"
+        width: 855
         height: 545
         isCached: true
-  - title: "For Trump advocate Sidney Powell, a playbook steeped in conspiracy theories"
-    excerpt: "The appellate lawyer has emerged as a key voice on the far right, fueling skepticism that Joe Biden rightfully won presidential contests in key battleground states."
-    publishedDateTime: 2020-11-28T22:39:00Z
-    webUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump to meet next week with industry, government officials on COVID vaccine"
-    excerpt: "President Donald Trump will gather leaders from industry and government next week for a summit on the coronavirus vaccine, the White House said on Tuesday, as the outgoing president seeks to emphasize his role in the speedy development of a vaccine."
-    publishedDateTime: 2020-12-01T21:07:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-vaccines-trump-idUSKBN28B69R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B69R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B69R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543100580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03HX"
-        width: 886
-        height: 545
-        isCached: true
-  - title: "Donald Trump stays silent as US sees record 2,804 coronavirus deaths in a day"
-    excerpt: "President fails to address national crisis, instead remaining focused on false voter fraud claims"
-    publishedDateTime: 2020-12-03T23:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?fbclid=IwAR3nVOmlemfsTlSWpYAhp6z54GuqiGlvzzwfF_6UdrJQZF_SboTdFIX9nl4"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
+  - title: "Donald Trump appears to admit Covid is 'running wild' in the US"
+    excerpt: "Comments, in contrast to pre-election rhetoric, come as FDA approves emergency use authorisation for Regeneron antibody therapy"
+    publishedDateTime: 2020-11-22T03:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 122
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/9b7ad9168d5afd5172fc698f7ae4253e0db17dd4/0_0_2677_1607/master/2677.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b17cf0c766de2a5fef79401ceebd787d"
+      - url: "https://i.guim.co.uk/img/media/11babe9d3a64c4d54f512bcefe3890e0b1c37495/0_12_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ac28a2429a8046cea6435f95cff76d4b"
         width: 600
         height: 360
         isCached: true
-  - title: "Live political updates: President Trump expected to spend Thanksgiving at the White House"
-    excerpt: "President Donald Trump and the first lady will be spending Thanksgiving at the White House for the first time since he began his tenure as president instead of at his Mar-a-Lago club in Florida. It is uncertain whether the change in scenery is attributable to the rising number of coronavirus cases,"
-    publishedDateTime: 2020-11-26T15:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/26/trump-thanksgiving-political-updates/6430438002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6430438002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6430438002"
+  - title: "Experimental drug given to Trump to treat covid-19 wins FDA clearance"
+    excerpt: "The Food and Drug Administration on Saturday granted emergency authorization to the experimental antibody treatment given to President Trump last month when he developed covid-19, the disease caused by the coronavirus."
+    publishedDateTime: 2020-11-22T06:32:00Z
+    webUrl: "https://www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B47Z67Q2ZUI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "WATCH LIVE: Trump pardons Thanksgiving turkey"
+    excerpt: "As the coronavirus pandemic is upending the U.S. holiday season, President Donald Trump is due to pardon the annual Thanksgiving turkey in a White House ceremony."
+    publishedDateTime: 2020-11-24T16:12:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-pardons-thanksgiving-turkey"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-pardons-thanksgiving-turkey"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-pardons-thanksgiving-turkey"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/11/BreadButterIssues-1024x665.jpg"
+        width: 1024
+        height: 665
+        isCached: true
+  - title: "Coronavirus live news: Donald Trump Jr tests positive as Mexico deaths pass 100,000"
+    excerpt: "Obrador rejects criticism as political attacks; Canada fears big rise in cases could overwhelm hospitals; Italy records 37,242 new cases"
+    publishedDateTime: 2020-11-21T00:44:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel?page=with:block-5fb849138f087f6ff1099dcf"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/143d5194599195ebb149ec008a26c09d7481351f/0_154_4256_2553/master/4256.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8c2b6bdcf1c94e3ecf7b746635d35ed3"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "New COVID-19 closures, Trump campaign lawsuit, Hurricane Iota: 5 things to know Tuesday"
+    excerpt: "More states face new closures and restrictions due to COVID-19, the Trump campaign heads to court in Pennsylvania and more news to start your Tuesday."
+    publishedDateTime: 2020-11-17T21:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/11/17/covid-19-closures-trump-campaign-lawsuit-5-things-know-tuesday/6282623002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6282623002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6282623002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 116
+    quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2020/11/13/USATODAY/usatsports/covid-closure-gettyimages-1216449625.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "US Covid response in chaos as controversial Trump pandemic adviser Atlas resigns – live updates"
-    excerpt: "Country sees 28th consecutive day with over 100,000 new coronavirus cases recorded – follow all the latest news live"
-    publishedDateTime: 2020-12-01T14:45:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc655ad8f08ca673e8551c2"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
+  - title: "OAN, touted by Donald Trump for its 'Great News,' suspended from YouTube for COVID-19 misinformation"
+    excerpt: "OAN, which had been warned about violating a COVID-19 misinformation policy, according to YouTube, won't be allowed to upload videos for one week."
+    publishedDateTime: 2020-11-25T01:31:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/11/24/oan-suspended-youtube-covid-19-misinformation/6416595002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6416595002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6416595002"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 113
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
     images:
-      - url: "https://i.guim.co.uk/img/media/6fb3812a919f54bcc052e8e0a9d077e79c2117cf/0_353_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2bdffa1eb06c9220edf46de05f129f37"
-        width: 600
-        height: 360
+      - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/55465d1c-f9da-4cdd-9c04-350816a3668b-GTY_1228712427.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Daily 202: Ousted U.S. attorney, removed by Barr as he investigated Trump associates, lands new job"
-    excerpt: "During a noon meeting in a suite at the Pierre hotel in Manhattan on a Friday in June, Attorney General Bill Barr pressured Geoffrey Berman to step aside as the U.S. attorney for the Southern District of New York."
-    publishedDateTime: 2020-12-01T16:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp"
+  - title: "Senate Dems push COVID relief, slam Trump drawdown"
+    excerpt: "Senate Democrats are pushing for a generous COVID relief package, while also slamming President Donald Trump for throwing up obstacles during the transition, and planning to drawdown U.S. troops in the Mideast."
+    publishedDateTime: 2020-11-18T00:45:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/17/senate-dems-push-covid-relief-slam-trump-drawdown/6333993002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/755a0dcc-e996-4758-99b4-56ad96a722f9_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Judge stops Trump policy of ‘expelling’ child migrants, questioning legality of border controls linked to covid crisis"
+    excerpt: "Decision could have wider implications for the Biden administration as illegal border crossings into the United States have risen to their highest levels in more than a year."
+    publishedDateTime: 2020-11-18T20:40:00Z
+    webUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 109
+    quality: 101
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IAW7TCUQP5FAVGSQ44D7LNWC7Y&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4TYO3BJ3QI6XD5CA3T4XMKFYA.jpg&w=1440"
         width: 1440
-        height: 810
+        height: 960
         isCached: true
-  - title: "Trump to meet COVID-19 vaccine makers, distributors next week: Stat News"
-    excerpt: "The Trump administration has invited vaccine manufacturers, drug distributors and government officials to a COVID-19 Vaccine Summit next week at the White House, Stat News reported on Tuesday, citing an invitation obtained by the news organization."
-    publishedDateTime: 2020-12-01T18:24:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-vaccines/trump-to-meet-covid-19-vaccine-makers-distributors-next-week-stat-news-idUSKBN28B5TV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TV"
+  - title: "President Trump Tweets Donald Trump Jr. Is Doing Well After COVID-19 Diagnosis"
+    excerpt: "Donald Trump Jr. learned of his positive result earlier this week and has had no symptoms, according to a spokesperson"
+    publishedDateTime: 2020-11-21T15:31:00Z
+    webUrl: "https://time.com/5914624/president-trump-tweets-donald-trump-jr-is-doing-well-after-covid-19-diagnosis/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
+      name: Time
+      domain: time.com
+    quality: 101
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/AP20325835953740.jpg"
+        width: 3899
+        height: 2596
+        isCached: true
+  - title: "Pence offers upbeat assessment of COVID as virus surges"
+    excerpt: "Vice President Mike Pence concluded the White House’s first coronavirus task force briefing in months without taking questions or urging Americans not to travel at Thanksgiving."
+    publishedDateTime: 2020-11-20T00:36:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/pence-offers-upbeat-assessment-of-covid-as-virus-surges-2186665/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/pence-offers-upbeat-assessment-of-covid-as-virus-surges-2186665/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/pence-offers-upbeat-assessment-of-covid-as-virus-surges-2186665/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2020/11/14483795_web1_Viirus-Outbreak-Pence.jpg?w=1200"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "8ztUxmYtb9q37h9QM3d/7+1YjxYtwJeAedPNrvvotlIPTHWjXHhKWfPNWJLZ0ojCHqBlDvRc8NJqsLLDGQSh3BegYyfKRXcSxEUPSsm6ePyka8FN+FVv4swBXIwOqvFEzYEcqsACLfth2BH9DyeDF88tDS4iqZNJwyo32ZJRnhaxgjtvCrl4vGhAiaRJXmElOph/LVuOvNRKry76ijgV2E++pjwquQa8JPSAP2Z+CwIyLtQswlX6GbahXSUJdVjFJQsJ47VCyDGGQUuyTIRJ4pPCHrvlXWyPBYKwgCOaz+Xdrd2Gi6F+A/sZnI8Shvqhb4E+FkgkhoxYnazaT9LpEPdqr9NIrNYkeEluWt7m5CAdbkYUaX2fe3mzqn3wRuHWUJN96JAtIJm38R2ohonWJLIznD1imw6qgeaUg41ckw5MNTxUWDptfyfe9mHx4C8TrzsgUordhGPEwqbTECayKIjmNy+7AW4PwHYsWbfXeZEGa1ZDjdeBqs7AEu3bi03jYf7JmTcCkFE7bS7NP61yhA==;8/ByqPFBWbWxjnYD79vqoA=="
 ---

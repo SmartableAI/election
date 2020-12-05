@@ -181,7 +181,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
       "featuredContent": null,
       "highlight": null,
-      "heat": 863,
+      "heat": 923,
       "tags": null,
       "images": [
         {
@@ -291,7 +291,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/health/2020/12/01/covid-news-cdc-vaccine-anchorage-california-florida-schools/6470606002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -343,7 +343,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2020/12/01/vice-president-mike-pence-visit-memphis-operation-warp-speed/3786333001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -438,7 +438,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -733,7 +733,7 @@
       "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/11/19/pence-virus-us-has-never-been-more-prepared/6349703002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -830,6 +830,49 @@
       "topics": [
         "Election",
         "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-the-latest-pence-offers-positive-covid-19-assessment-in-us.md",
+      "title": "The Latest: Pence offers positive COVID-19 assessment in US",
+      "excerpt": "Vice President Mike Pence is offering an upbeat assessment of the status of the coronavirus in the U.S., despite a surge in cases, hospitalizations and more than a quarter of a million deaths. Pence says President Donald Trump directed that Thursday’s briefing be held.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
+      "originalUrl": "https://www.chron.com/news/article/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
+      "publishedDateTime": "2020-11-19T14:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence"
       ]
     },
@@ -1462,49 +1505,6 @@
       "provider": {
         "name": "Newsday",
         "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-after-a-second-loss-to-greg-pence-jeannine-lee-lake-sets-her-sights-on-2022.md",
-      "title": "After a second loss to Greg Pence, Jeannine Lee Lake sets her sights on 2022",
-      "excerpt": "With 97% of precincts counted in this year's Sixth District Congressional race, Greg Pence had 68.6% of the vote to Jeannine Lee Lake's 27.8%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestarpress.com/story/news/local/2020/11/08/after-second-loss-greg-pence-jeannine-lee-lake-sets-sights-2022/6189470002/",
-      "originalUrl": "https://www.thestarpress.com/story/news/local/2020/11/08/after-second-loss-greg-pence-jeannine-lee-lake-sets-sights-2022/6189470002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/06/PMUN/9f434446-2b64-4dbc-b26c-8a6d2cf551b1-jersey_22.jpg?auto=webp&crop=719,405,x0,y240&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.thestarpress.com/amp/6189470002",
-      "cdnAmpWebUrl": "https://amp-thestarpress-com.cdn.ampproject.org/c/s/amp.thestarpress.com/amp/6189470002",
-      "publishedDateTime": "2020-11-08T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star Press",
-        "domain": "thestarpress.com",
         "images": null,
         "publishers": null,
         "authors": null

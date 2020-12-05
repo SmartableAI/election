@@ -43,22 +43,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Kamala Harris makes history as first woman and person of color to be vice president"
-    excerpt: "Kamala Harris, the groundbreaking senator from California, has made history again -- set to become the first female vice president and woman of color in the White House. Harris, 56, the daughter of immigrants,"
-    publishedDateTime: 2020-11-07T16:47:00Z
-    webUrl: "https://abcnews.go.com/Politics/kamala-harris-makes-history-woman-person-color-vice/story?id=73999923"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-makes-history-woman-person-color-vice/story?id=73999923"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-makes-history-woman-person-color-vice/story?id=73999923"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
-    images:
-      - url: "https://s.abcnews.com/images/Politics/kamala-harris-philadelphia-rt-jt-201103_1604441807194_hpMain_16x9_992.jpg"
-        width: 992
-        height: 557
-        isCached: true
   - title: "Kamala Harris makes history, becoming the first Black woman and South Asian elected Vice President"
     excerpt: "Kamala Harris made history Saturday as the first Black woman elected as vice president of the United States, shattering barriers that have kept men — almost all of them white — entrenched at the highest levels of American politics for more than two centuries."
     publishedDateTime: 2020-11-07T17:50:00Z

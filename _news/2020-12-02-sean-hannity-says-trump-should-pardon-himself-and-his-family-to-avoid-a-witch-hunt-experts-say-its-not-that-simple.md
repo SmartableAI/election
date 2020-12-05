@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Giuliani discussed ‘pre-emptive pardon' with Trump, report says – live"
-    excerpt: "New York Times reports lawyer has discussed possibility with president, but not yet clear what Giuliani would need pardon for – follow all the latest news"
-    publishedDateTime: 2020-12-01T18:35:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc68c458f08c1b9f135793d"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
+  - title: "Trump lawyer Joe diGenova says election security chief fired by the president should be 'taken out at dawn and shot'"
+    excerpt: "Chris Krebs has become a target for the Trump campaign after saying that the November 3 election was \"the most secure in American history.\""
+    publishedDateTime: 2020-12-01T14:58:00Z
+    webUrl: "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
     images:
-      - url: "https://i.guim.co.uk/img/media/c11052f35fb1f65fe7c377c654ef0658772a6589/0_27_4860_2916/master/4860.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=da753df18c72d2a40197acf879c33f5f"
-        width: 600
-        height: 360
+      - url: "https://i.insider.com/5fc62c86037cbd00186130a8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Representatives for 'Tiger King's' Joe Exotic are said to be chasing Trump down for a pardon and spending thousands of dollars to get it"
+    excerpt: "Representatives for the former zookeeper ran up a $10,000 tab at one of Trump's hotels in an effort to get his attention."
+    publishedDateTime: 2020-11-26T06:56:00Z
+    webUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5fbefa81037cbd0018612744?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "3MeFQ+9fzY9A+98as87OnGpQEFVxmoWmwzKNmMcTMwOEhspBeaYv1zhhl8SSBJ7lbawn0IRzRYF71eMo7L4bI/H0sUhaOMPZQsjeCI74Q7/fBEPnRl3pEjobt6y2ryRpOcrnbVZh12MUhNMjpL0MUHjoGJiz5oZq2vAIobVE1qtm8A+EJ8xJTS8HjrPvtO4XYBmlelQEPSf9AdTAAR9gGbEe38X9OS/Z7bBCnyWXfkt5U0vAj/l0gy/PG04WMRWfdnJbyUYpR5+5rR7E3w/x7zUwNpztU/sYJpQBpXhkhfr7CyoeB0HNNqHGSG8niBtpvdfYPCPy5GR6Q0u4gQMSTMJ6YOkpu4RBdJ/VApm6cGCqV1rtpysyKLC7srRqWJPiFud6V4c0nDc3CuaVAqGTafA60+K1LJaDsDDlKd4rfBuY0F99zk8GiMIZB4b8ubNKmdbXm52shJPehu20RJB3cwazzHga+1o78fyuk9vo2kZ44gaWhzuKnfP3REPKEX+M/mwgXNKyyfVCz8R4DAFoRQ==;rZnrXaPB4LLdNcdR6K1uqQ=="

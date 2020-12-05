@@ -47,38 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "In fresh blow to Trump, U.S. court rejects Pennsylvania election case"
-    excerpt: "A federal appeals court on Friday rejected an attempt by U.S. President Donald Trump's campaign to block President-elect Joe Biden from being declared the winner of Pennsylvania, dealing another significant setback to Trump's bid to overturn the Nov."
-    publishedDateTime: 2020-11-28T06:22:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-pennsylvania-idINKBN2872BA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2872BA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2872BA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201127&t=2&i=1542693700&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAQ167"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "U.S. appeals court rejects Trump campaign's Pennsylvania election case"
-    excerpt: "A federal appeals court on Friday rejected a request by U.S. President Donald Trump's campaign to block President-elect Joe Biden from being declared the winner of the battleground state of Pennsylvania,"
-    publishedDateTime: 2020-11-27T18:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-pennsylvania-idUSKBN2872AZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2872AZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2872AZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201127&t=2&i=1542693700&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAQ167"
-        width: 819
-        height: 545
-        isCached: true
   - title: "U.S. judiciary, shaped by Trump, thwarts his election challenges"
     excerpt: "U.S. President Donald Trump's reshaping of the federal judiciary has done little to help him win lawsuits challenging the election outcome, with Trump appointees rebuffing him and the U.S. Supreme Court showing little interest in getting involved."
     publishedDateTime: 2020-12-01T23:17:00Z
@@ -111,38 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump loves to win but keeps losing election lawsuits"
-    excerpt: "In his quest to cling to power, President Donald Trump has managed to lose not just once to Democrat Joe Biden but over and over again in courts across the country"
-    publishedDateTime: 2020-12-04T10:53:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-loves-win-losing-election-lawsuits-74533715"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_228055904c5f4d6a9937890e1fc77162_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump loves to win but keeps losing election lawsuits"
-    excerpt: "In his quest to cling to power, President Donald Trump has managed to lose not just once to Democrat Joe Biden but over and over again in courts across the country"
-    publishedDateTime: 2020-12-05T00:28:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/c827ea9e-3690-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/c827ea9e-3690-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/c827ea9e-3690-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Trump's grievances feed menacing undertow after the election"
     excerpt: "\"Death threats, physical threats, intimidation – it's too much, it's not right,\" said one GOP elections official in Georgia."
     publishedDateTime: 2020-12-04T18:14:00Z
@@ -159,21 +95,37 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "U.S. federal appeals court rejects Trump campaign's Pennsylvania election case"
-    excerpt: "A U.S. federal appeals court on Friday rejected a request by U.S. President Donald Trump's campaign to block President-elect Joe Biden from being declared the winner of the battleground state of Pennsylvania."
-    publishedDateTime: 2020-11-27T23:04:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2872AZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2872AZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2872AZ"
+  - title: "Debunking Trump allies’ latest arguments about fraud in the 2020 election"
+    excerpt: "The 2020 presidential contest ended four weeks ago Tuesday, but for President Trump and his allies, the fight continues. The president, as you’re no doubt well aware, continues to insist that it was he,"
+    publishedDateTime: 2020-11-30T20:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/30/debunking-trump-teams-latest-arguments-about-fraud-2020-election/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/30/debunking-trump-teams-latest-arguments-about-fraud-2020-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/30/debunking-trump-teams-latest-arguments-about-fraud-2020-election/?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 136
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 139
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201127&t=2&i=1542693700&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAQ167"
-        width: 819
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CVGQRKRPI4I6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump's latest batch of election lawsuits fizzle as dozens of losses pile up"
+    excerpt: "President no closer to overturning result, with just one small victory in a month’s worth of cases"
+    publishedDateTime: 2020-12-05T02:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/04/trump-election-lawsuits-losses-michigan-nevada-georgia-arizona"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/04/trump-election-lawsuits-losses-michigan-nevada-georgia-arizona"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/04/trump-election-lawsuits-losses-michigan-nevada-georgia-arizona"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/724b62c7c2c143d8832f184f55f71ba8fd2b1a8d/0_300_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bb0f281b6b8a31ce67aabb7ef9962b99"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump rehashes baseless election claims in 46-minute video from the White House"
     excerpt: "Trump's video had the look of an official address, but his words had the feel of a series of tweets strung together to lash out at perceived enemies."
@@ -252,6 +204,22 @@ related:
     quality: 133
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543492518&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31LV"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump questions whether Supreme Court would hear election challenge as options dwindle"
+    excerpt: "President Donald Trump on Sunday questioned whether the Supreme Court would ever hear a case airing his unproven allegations of widespread election fraud as senior U.S. Republicans said a transition to a Joe Biden presidency looked inevitable."
+    publishedDateTime: 2020-11-30T02:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN2890NP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2890NP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2890NP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542849124&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT02Y"
         width: 817
         height: 545
         isCached: true
@@ -415,6 +383,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Senate confirms two Trump picks for energy regulation panel"
+    excerpt: "The U.S. Senate on Monday confirmed two of President Donald Trump's picks for the Federal Energy Regulatory Commission (FERC), in a move that could secure a Republican majority on the panel through June."
+    publishedDateTime: 2020-12-01T01:46:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-senate-ferc-idUSKBN28B3DC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3DC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3DC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542985386&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01VA"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump threatens defense veto over social media protections"
     excerpt: "President Donald Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users"
     publishedDateTime: 2020-12-02T04:01:00Z
@@ -437,6 +421,22 @@ related:
     webUrl: "https://abcnews.go.com/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166"
     ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Ivanka Trump deposed as part of inauguration fund lawsuit"
+    excerpt: "Ivanka Trump has been deposed by attorneys alleging that President Donald Trump’s 2017 inauguration committee misused donor funds"
+    publishedDateTime: 2020-12-03T13:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ivanka-trump-deposed-part-inauguration-fund-lawsuit-74517016"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ivanka-trump-deposed-part-inauguration-fund-lawsuit-74517016"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ivanka-trump-deposed-part-inauguration-fund-lawsuit-74517016"
     type: article
     provider:
       name: ABC
@@ -559,6 +559,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Ivanka Trump questioned under oath in lawsuit over use of inauguration funds"
+    excerpt: "Ivanka Trump, the president's daughter and adviser, was questioned under oath this week as part of a civil lawsuit alleging misuse of nonprofit funds for Donald Trump's inauguration four years ago."
+    publishedDateTime: 2020-12-03T06:43:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-inauguration-idUSKBN28D046"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D046"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D046"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543273411&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB2035"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Ivanka Trump questioned under oath in lawsuit over use of inauguration funds"
+    excerpt: "Ivanka Trump, the president's daughter and adviser, was questioned under oath this week as part of a civil lawsuit alleging misuse of nonprofit funds for Donald Trump's inauguration four years ago."
+    publishedDateTime: 2020-12-04T01:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-inauguration/ivanka-trump-questioned-under-oath-in-lawsuit-over-use-of-inauguration-funds-idUSKBN28D05K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D05K"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D05K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543273411&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB2035"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Supreme Court hears Trump bid to bar illegal immigrants from U.S. census count"
     excerpt: "U.S. Supreme Court justices on Monday began hearing arguments on President Donald Trump's move to exclude illegal immigrants from the population totals used to allocate congressional districts to states,"
     publishedDateTime: 2020-11-30T15:44:00Z
@@ -574,6 +606,36 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542904482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT0R0"
         width: 817
         height: 545
+        isCached: true
+  - title: "President Trump's war on immigration takes on political overtone at Supreme Court"
+    excerpt: "The president is seeking to exclude undocumented immigrants from census calculations used to apportion House seats, electoral votes and federal funds."
+    publishedDateTime: 2020-11-29T14:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/29/donald-trumps-immigration-election-policies-collide-supreme-court/6391231002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6391231002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6391231002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/05/30/USAT/69ac00ae-95d1-4bf3-a68c-8cc7972d3dd5-AP_Supreme_Court_Census_Citizenship.JPG?auto=webp&crop=4199,2352,x0,y251&format=pjpg&width=1200"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "Trump escalates baseless attacks on election with 46-minute video rant"
+    excerpt: "He claimed without evidence that the nation’s election system was “under coordinated assault and siege” and that it was “statistically impossible” for him to have lost to President-elect Joe Biden."
+    publishedDateTime: 2020-12-03T01:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-election-video/2020/12/02/f6c8d63c-34e8-11eb-a997-1f4c53d2a747_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DXBM6HRLJQI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Killing of suspected Iranian nuclear mastermind risks confrontation as Trump exits"
     excerpt: "An Iranian scientist long suspected by the West of masterminding a secret nuclear bomb programme was killed in an ambush near Tehran on Friday that could provoke confrontation between Iran and its foes in the last weeks of Donald Trump's presidency."
@@ -697,6 +759,22 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "Trump order could spark mass firings of civil servants before inauguration, lawmakers warn"
+    excerpt: "U.S. government civil servants could face mass firings under an executive order before President Donald Trump leaves office, and Democratic lawmakers, watchdog groups and unions are scrambling to block it."
+    publishedDateTime: 2020-11-26T02:56:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-transition-civilservants-idUSKBN28538O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28538O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28538O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542487310&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP00M"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Attorney General Barr contradicts Trump, says no evidence of widespread election fraud"
     excerpt: "Attorney General William Barr said the Justice Department has not found evidence of widespread voter fraud in the 2020 election. This contradicts President Trump’s baseless claims about the election."
     publishedDateTime: 2020-12-02T16:28:00Z
@@ -795,6 +873,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Ivanka Trump Deposed In Inauguration Fund Lawsuit"
+    excerpt: "President Trump's eldest daughter gave a deposition this week in connection with the suit, being heard in a Washington, D.C. court. She condemned the investigation on Twitter."
+    publishedDateTime: 2020-12-03T15:26:00Z
+    webUrl: "https://www.npr.org/2020/12/03/942054569/ivanka-trump-deposed-in-inauguration-fund-lawsuit"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/03/ap_20301833488219_wide-7c4d6471270d895c2cdd40e0ba918e8e36ce43d9.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Latest on the Trump administration"
+    excerpt: "Watch \"Latest on the Trump administration; Trump's 46-minute video, FDA admin. Stephen Hahn meeting\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-03T18:42:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201203181408-latest-on-the-trump-administration-trumps-46-minute-video-fda-admin-stephen-hahn-meeting/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/03/story_07962328_1607020144.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pennsylvania Republicans leaders dismiss Trump fraud claims, but call for audit"
     excerpt: "Pennsylvania Republican leaders on Friday did not join President Donald Trump and his close allies in accusing the state’s election officials of fraud, but did step forward to call for an audit of the election."
     publishedDateTime: 2020-11-07T10:15:00Z

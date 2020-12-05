@@ -47,6 +47,70 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "What the Trump family’s new political committees can and can’t do"
+    excerpt: "The president isn’t the only Trump who appears to be exploring the boundaries of campaign fundraising. Aides to his son Donald Trump Jr. have formed a political action committee called Save the U.S. Senate PAC that is focused on the run-off elections in Georgia in early January."
+    publishedDateTime: 2020-12-01T12:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/what-trump-familys-new-political-committees-can-cant-do/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/what-trump-familys-new-political-committees-can-cant-do/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/what-trump-familys-new-political-committees-can-cant-do/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I46LDCBMAYI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+  - title: "Trump raises $170 million as he looks to future"
+    excerpt: "President Donald Trump has raised roughly $170 million since his Election Day defeat, a sum garnered through a nonstop stream of solicitations that have falsely claimed the election was stolen while requesting contributions for an “election defense fund."
+    publishedDateTime: 2020-12-01T23:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-raises-170-million-future-74484442"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-raises-170-million-future-74484442"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-raises-170-million-future-74484442"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c8bb9f93c441453bba9524f96f509a06_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump aide banned from Justice after trying to get case info"
+    excerpt: "The official serving as President Donald Trump’s eyes and ears at the Justice Department has been banned from the building after trying to pressure staffers to give up sensitive case information she c"
+    publishedDateTime: 2020-12-04T02:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-aide-banned-justice-case-info-74523331"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-aide-banned-justice-case-info-74523331"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-aide-banned-justice-case-info-74523331"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_985e843cc7b644d4af8e84280fa14e0a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "U.S. Republicans balk as Trump uses defense bill for leverage on Big Tech"
+    excerpt: "President Donald Trump's threat to veto a defense bill if it does not repeal legal protections for social media companies faced stiff bipartisan opposition on Wednesday, setting the stage for a confrontation with lawmakers scrambling to pass the massive bill by year-end."
+    publishedDateTime: 2020-12-03T14:05:00Z
+    webUrl: "https://www.reuters.com/article/usa-defense-congress-idINKBN28D06I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28D06I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28D06I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543275681&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11Q1"
+        width: 797
+        height: 545
+        isCached: true
   - title: "Mary Trump’s next book probes ‘America’s national trauma’ under Trump presidency"
     excerpt: "Mary Trump's \"The Reckoning,\" a follow-up to the bestselling exposé she wrote about her uncle Donald, will examine how \"America is suffering from PTSD.\""
     publishedDateTime: 2020-12-02T20:03:00Z
@@ -63,6 +127,38 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Justices skeptical of Trump bid to exclude all undocumented immigrants from census"
+    excerpt: "President Donald Trump's sweeping order to exclude all undocumented immigrants from the 2020 Census faced skepticism Monday from a majority on the U.S. Supreme Court."
+    publishedDateTime: 2020-11-30T19:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/justices-skeptical-trump-bid-exclude-undocumented-immigrants-census/story?id=74465536"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/justices-skeptical-trump-bid-exclude-undocumented-immigrants-census/story?id=74465536"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/justices-skeptical-trump-bid-exclude-undocumented-immigrants-census/story?id=74465536"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/supreme-court-rt-jt-201130_1606763537529_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "UPDATE 2-U.S. Republicans balk as Trump uses defense bill for leverage on Big Tech"
+    excerpt: "President Donald Trump's threat to veto a defense bill if it does not repeal legal protections for social media companies faced stiff bipartisan opposition on Wednesday, setting the stage for a confrontation with lawmakers scrambling to pass the massive bill by year-end."
+    publishedDateTime: 2020-12-03T02:35:00Z
+    webUrl: "https://www.reuters.com/article/usa-defense-congress-idINL1N2II2DE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C344"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C344"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543275681&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11Q1"
+        width: 797
+        height: 545
+        isCached: true
   - title: "FDA chief called to White House as Trump pushes for vaccine"
     excerpt: "The head of the agency responsible for approving any COVID-19 vaccine for the U.S. was summoned to the White House Tuesday as an increasingly frustrated President Donald Trump complained approval wasn't coming faster."
     publishedDateTime: 2020-12-02T01:57:00Z
@@ -74,6 +170,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Fox News Is Holding More Cards Than Trump Realizes"
+    excerpt: "Even if there’s a MAGA exodus from Fox, the cable network’s profits are protected by lucrative cable contracts."
+    publishedDateTime: 2020-12-02T13:19:00Z
+    webUrl: "https://www.washingtonpost.com/business/fox-news-is-holding-more-cards-than-trump-realizes/2020/12/02/67323ba2-349e-11eb-9699-00d311f13d2d_story.html?amp;amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MWONXCRUTYI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "U.S. Senate panel votes to approve Trump FCC nominee"
     excerpt: "The U.S. Senate Commerce Committee voted on Wednesday to approve the nomination of a senior Trump administration official involved in an effort to seek new social media regulations to a seat on the Federal Communications Commission."
     publishedDateTime: 2020-12-02T15:46:00Z
@@ -85,6 +195,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Fox News Is Holding More Cards Than Trump Realizes"
+    excerpt: "Even if there’s a MAGA exodus from Fox, the cable network’s profits are protected by lucrative cable contracts."
+    publishedDateTime: 2020-12-02T18:27:00Z
+    webUrl: "https://www.washingtonpost.com/business/fox-news-is-holding-more-cards-than-trump-realizes/2020/12/02/67323ba2-349e-11eb-9699-00d311f13d2d_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MWONXCRUTYI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "An anonymous group of top US CEOs said they would hold off acting against Trump until after the Georgia recount. It's done."
     excerpt: "The CEOs said they only had limited patience for Trump's attempts to dispute the election results, according to the Associated Press."
     publishedDateTime: 2020-11-20T11:53:00Z

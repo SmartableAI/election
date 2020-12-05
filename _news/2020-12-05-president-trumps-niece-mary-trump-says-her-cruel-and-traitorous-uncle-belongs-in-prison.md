@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/3832014001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3832014001"
 type: article
 quality: 114
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -29,6 +29,88 @@ images:
     width: 1200
     height: 676
     isCached: true
+
+related:
+  - title: "Trump vows defense bill veto unless internet liability shield scrapped"
+    excerpt: "U.S. President Donald Trump said on Tuesday he would veto the $740 billion National Defense Authorization Act unless it includes a measure eliminating a federal law protecting tech companies such as Facebook and Twitter."
+    publishedDateTime: 2020-12-02T14:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-tech/trump-vows-defense-bill-veto-unless-internet-liability-shield-scrapped-idINKBN28C0B1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C0B1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C0B1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543139133&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB1045"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Drug industry trade groups sue Trump admin over drug pricing rule"
+    excerpt: "Drug industry trade groups filed two lawsuits against the Trump administration on Friday challenging new U.S. rules to lower drug prices, potentially undermining one of President Donald Trump's flagship efforts to take on high drug costs."
+    publishedDateTime: 2020-12-05T05:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-drug-pricing-idUSKBN28E2KI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E2KI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E2KI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543504641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31RG"
+        width: 819
+        height: 545
+        isCached: true
+  - title: "U.S. Congress defense bill defies Trump on Germany withdrawal, base names"
+    excerpt: "U.S. lawmakers unveiled the final version of a massive annual defense policy bill on Thursday that defies President Donald Trump's plans to withdraw troops from Germany and keep the names of Confederate generals on military bases,"
+    publishedDateTime: 2020-12-04T08:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28E0Y5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E0Y5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E0Y5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543432218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30GH"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump aide banned from Justice Dept. after pressuring staffers for case information"
+    excerpt: "A Trump aide at the Justice Department has been banned from the building after trying to pressure staff members for sensitive case information."
+    publishedDateTime: 2020-12-04T10:23:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 119
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/4a0f100/2147483647/strip/true/crop/5224x3412+0+37/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Fa4%2Ffc0b18963aad988309de671ad9b7%2F119a28a48b65471da8e7610b476cf7ad"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Republicans are abandoning Trump over his threat to hold defense bill hostage to get back at tech companies"
+    excerpt: "Lawmakers take pride in passing the annual defense spending bill, and they're not happy about Trump interfering with that."
+    publishedDateTime: 2020-12-03T15:46:00Z
+    webUrl: "https://www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5fc8fcfe50e71a0011558a89?width=1200&format=jpeg"
+        width: 799
+        height: 399
+        isCached: true
 
 secured: "ER4a1W7s1u9s7VJViIl3iLwhLWZl+zoEiipo9sRzDtz71TCot+VQZRi29HsMFYo9MqSXbS8LoxcXopMTO2h80NbwYzeE8CXZ8LIyNbDhf3tVM5xrtntvdIDynnLir+fesT54nZK0w/4q9laQyr5sb0dkeej6YqU6+TRItBCZ0axHsyiiD1s2mQDvAmKig7f/LbE15PG2WPZs4P80bl6PgQDroBve2sJrDTSlNZY74Ox5i2IFlXqOCNib7wjrmer8gen5wTI8aYaceMeDSTPZ0rahDnWjdBLAhARZOVkmU4sy62vmG0MK5rLxswSrJ5/d6n95tn6O9iXXooWNeS45zzes03+xz09210/+CBphuhU=;Eg0Yab3Q1qLA4Ta9zhQtlg=="
 ---

@@ -31,69 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says Federal Reserve's interest rate policy has been 'positive'"
-    excerpt: "U.S. President-elect Joe Biden on Thursday said he supports the way the Federal Reserve has managed interest rate policy and that he has selected a person to run the Treasury Department."
-    publishedDateTime: 2020-11-20T02:38:00Z
-    webUrl: "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z34L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L"
+  - title: "An anonymous senior Trump campaign advisor said Trump 'basically just conceded' by 'recommending' that the GSA start the Biden-Harris transition"
+    excerpt: "Emily Murphy, the head of the General Services Administration, has allowed President-elect Joe Biden to access resources to begin the transition."
+    publishedDateTime: 2020-11-24T14:03:00Z
+    webUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541824389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UT"
-        width: 825
-        height: 545
-        isCached: true
-  - title: "Biden says UK border with Ireland must be open"
-    excerpt: "U.S. President-elect Joe Biden said on Tuesday he did not want to see a guarded border between Ireland and the United Kingdom, adding that he had previously discussed the matter with the British and Irish prime ministers and other European leaders."
-    publishedDateTime: 2020-11-25T05:38:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-ireland-idAFKBN2843BF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2843BF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2843BF"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542354032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1P7"
-        width: 740
-        height: 545
-        isCached: true
-  - title: "Biden COVID-19 task force says transition delay could be compromising U.S. virus response"
-    excerpt: "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,"
-    publishedDateTime: 2020-11-17T21:31:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN27X2WD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2WD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2WD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548736&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1R8"
-        width: 781
-        height: 545
-        isCached: true
-  - title: "'That's his first love': Why Biden may be a foreign policy president despite domestic crises"
-    excerpt: "The president-elect already knows many of the players on the world stage – from Vladimir Putin to Angela Merkel to Benjamin Netanyahu."
-    publishedDateTime: 2020-11-20T19:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/20/joe-biden-has-more-foreign-experience-than-trump-obama-bush-clinton/6315516002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6315516002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6315516002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/f52547b1-2a3a-4726-82b9-11f1b16bc5a5-A07_BIDEN_NETANYAHU_16.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5fbc971050e71a0011556fe8?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
+        isCached: true
+  - title: "Breakingviews - Cox: Donald Trump is the new Benjamin Harrison"
+    excerpt: "New York Magazine proclaimed Benjamin Harrison the most forgotten of America’s commanders in chief. Donald Trump’s turbulent stint as a fellow one-term president may, ironically, revive interest in his 19th century Republican forebear’s four years in"
+    publishedDateTime: 2020-11-20T02:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-cox-donald-trump-is-the-new-benjamin-harrison-idUSKBN27Z343"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z343"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z343"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541819456&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UH"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Biden hires all-female senior communications team"
+    excerpt: "Biden’s press team will be led by Kate Bedingfield, a veteran Biden aide who served as his campaign communications director and will hold the same title in his White House. “Communicating directly and truthfully to the American people is one of the most important duties of a President,"
+    publishedDateTime: 2020-11-29T21:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-hires-all-female-senior-communications-team/2020/11/29/5b60b58e-3277-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TGSF3ORSRII6XDJYNLVBVWZYHE.jpg&w=1440"
+        width: 1440
+        height: 956
+        isCached: true
+  - title: "President-elect Joe Biden hires all-female communications staff"
+    excerpt: "Harris administration appointed the country's first all-female communications team to relay messages from the White House."
+    publishedDateTime: 2020-11-30T00:29:00Z
+    webUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-elect-joe-biden-hires-all-female-communications-staff-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fc4269350e71a0011557de4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "State Department tells staff: transition to Biden administration has begun"
+    excerpt: "The U.S. State Department has informed staff that the transition process has begun and a team had been assigned inside the agency to support a handover to the incoming Biden administration, according to an internal email seen by Reuters on Wednesday."
+    publishedDateTime: 2020-11-26T00:10:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-statedepartment/state-department-tells-staff-transition-to-biden-administration-has-begun-idUSKBN2852XS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852XS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852XS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542458526&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1KP"
+        width: 817
+        height: 545
         isCached: true
 
 secured: "3TGwJZ4Oi4xZplgIjuSEz53O1pVg/CQfJgver9i2AkiTYtPBbJFR/rDJA61MOYzIH/0dLlugCm7R9q3MBPfHSCDRk7AJe16I5mEnDMPZcKXJyhO5yECKQqlKAjVz4xEkto7D8AASXCrLrtBHzvlYIj4I8hGD9QxvMjSClAGD18sK3ZrlH0wVVIfSw2TZgRwt2GV5zPJSYKMxynWmQo04s6PZMP+40a8UASajB649xYr32lucpqBoTwRD5ZBekmSSQLWm/MQvfYd40igk/3D8bdWYu21v8aFDb1gIIWBJKa5XAwUf8fKtklVrLTTMYB9T2DGN5CWksEhmbhHIOiNR+RgwVvAGuRJc9SEVAEd0k9U=;wzLh+pm4P6ROmDZkeDdbUg=="

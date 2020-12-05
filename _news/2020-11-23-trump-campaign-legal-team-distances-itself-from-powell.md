@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-di
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
 type: article
 quality: 125
-heat: 205
+heat: 285
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "For Trump advocate Sidney Powell, a playbook steeped in conspiracy theories"
+    excerpt: "The appellate lawyer has emerged as a key voice on the far right, fueling skepticism that Joe Biden rightfully won presidential contests in key battleground states."
+    publishedDateTime: 2020-11-28T22:39:00Z
+    webUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Giuliani releases statement distancing Trump campaign from lawyer Sidney Powell"
     excerpt: "The president’s legal team was thrown into tumult Sunday when two Trump attorneys – Rudolph W. Giuliani and Jenna Ellis – released a statement abruptly distancing the campaign from a third attorney, Sidney Powell."
     publishedDateTime: 2020-11-23T00:10:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BHKKJBBNDMI6XHOWFUAXTGAXDE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "U.S. Supreme Court weighs Trump bid to bar illegal immigrants from census totals"
+    excerpt: "The Supreme Court on Monday is set to take up President Donald Trump's unprecedented and contentious effort to exclude illegal immigrants from the population totals used to allocate U.S. House of Representatives districts to states."
+    publishedDateTime: 2020-11-29T12:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN2890F4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890F4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890F4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542800006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS09M"
+        width: 817
+        height: 545
         isCached: true
   - title: "Banished from the Trump legal team, attorney Sidney Powell still finds a guest chair on Fox"
     excerpt: "What Dobbs didn’t mention is that eight days earlier, Donald Trump’s re-election campaign had put out a statement dropping Powell from their legal effort to overturn the resul"
@@ -94,6 +126,34 @@ related:
       - url: "https://i.insider.com/5fbb973350e71a0011556be6?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump Is In No Mood To Concede, But Says Will Leave White House"
+    excerpt: "President Trump took questions from reporters for the first time since he lost the election to Joe Biden. He said he'll leave the White House on Jan. 20, but made clear he won't concede."
+    publishedDateTime: 2020-11-27T00:37:00Z
+    webUrl: "https://www.npr.org/sections/biden-transition-updates/2020/11/26/939386434/trump-is-in-no-mood-to-concede-but-says-will-leave-white-house"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/26/gettyimages-1229807318_wide-dc29074408bab292f4fe2832d0280d50e2312ab2.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Trump returns to the White House from Camp David"
+    excerpt: "President Donald Trump returned to the White House on Sunday after spending the Thanksgiving holiday break with his family at Camp David. (Nov. 29)"
+    publishedDateTime: 2020-11-29T20:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/29/trump-returns-white-house-camp-david/6457672002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/98e5c227-dd38-4ef0-aabd-82799a517b55_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "osuYXw7sjeGSAR6vO6IYAVoeYjvUg+ixe/eiTNVgJDMB+7cts1CGTZv0X4yScTbeXvMVXEnmm801hkOos8u6nz1Jhr322IOIyXVZnHNt1ca7ImfEtM00Kan0fBQ3IWsGizeTeFewa0P4mw1p/h6yKxWMpdWTLndmvkaXl/Fb/acL1a2DfS/lHbTG27lqq0Hl1vSGetWy11Bnn+qt5PFoaAkDruywhNtRM6197IXnZsEZJOoDlMF8I7zsv5E+Xpcn1hEEB1wI6zsnwpkAk9/IkLOUj12PyJLwvKri+mVHi5S3BE0qAlwgvcahu/trtTBdjehwUnlzuyqyVDeN5RCFK0cXZav08FZQvrW96m+2mVA=;9SB+1taENC83vpGFZg92vw=="

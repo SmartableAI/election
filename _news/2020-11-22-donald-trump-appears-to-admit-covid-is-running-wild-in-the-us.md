@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "America's bellwethers crumbled in aligning with Trump in '20"
-    excerpt: "Indiana's Vigo County had been America’s most reliable presidential bellwether, voting in line with the rest of the nation since 1956"
-    publishedDateTime: 2020-11-19T01:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+  - title: "Trump remains silent as US passes 250,000 COVID-19 deaths"
+    excerpt: "The White House did not respond to repeated inquiries from ABC News on whether Trump had any plans to recognize the more than 250,000 reported deaths related to COVID-19, although"
+    publishedDateTime: 2020-11-19T20:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fe367a2fc1344c12bbb8e0178298717e_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/coronavirus-deaths-memorial-rtr-jc-201119_1605805254490_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -63,115 +63,161 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "How will cable news thrive without Donald Trump in the White House?"
-    excerpt: "Fox News, CNN and MSNBC saw record ratings under President Trump, who is not yet done reshaping the cable news landscape."
-    publishedDateTime: 2020-11-23T19:17:00Z
-    webUrl: "https://www.latimes.com/entertainment-arts/business/story/2020-11-23/cable-tv-news-donald-trump-fox-news-cnn-msnbc"
-    ampWebUrl: "https://www.latimes.com/entertainment-arts/business/story/2020-11-23/cable-tv-news-donald-trump-fox-news-cnn-msnbc?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/business/story/2020-11-23/cable-tv-news-donald-trump-fox-news-cnn-msnbc?_amp=true"
+  - title: "Donald Trump Jr. tests positive for COVID-19, says spokesman"
+    excerpt: "Donald Trump Jr., the son of U.S. President Donald Trump, tested positive for COVID-19 this week, although he is experiencing no symptoms, according to his spokesman."
+    publishedDateTime: 2020-11-21T04:32:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-junior-idUKKBN2802VP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2802VP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2802VP"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/7830cfd/2147483647/strip/true/crop/7360x4807+0+53/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe9%2Fa8%2F02f0cf3f4c3c97513c9d4d7adcc1%2F463751-la-et-ct-fox-news-polls019.jpg"
-        width: 320
-        height: 209
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541958241&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ1N5"
+        width: 855
+        height: 545
         isCached: true
-  - title: "Donald Trump called Monica Palmer after Wayne County Board of Canvassers meeting"
-    excerpt: "Monica Palmer, the Republican chair of the Wayne County Board of Canvassers, says Trump called her after Tuesday night's meeting."
-    publishedDateTime: 2020-11-19T19:42:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/11/19/trump-monica-palmer-wayne-canvassers-certification-election/3776190001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3776190001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3776190001"
+  - title: "Experimental drug given to Trump to treat covid-19 wins FDA clearance"
+    excerpt: "The Food and Drug Administration on Saturday granted emergency authorization to the experimental antibody treatment given to President Trump last month when he developed covid-19, the disease caused by the coronavirus."
+    publishedDateTime: 2020-11-22T06:32:00Z
+    webUrl: "https://www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B47Z67Q2ZUI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "WATCH LIVE: Trump pardons Thanksgiving turkey"
+    excerpt: "As the coronavirus pandemic is upending the U.S. holiday season, President Donald Trump is due to pardon the annual Thanksgiving turkey in a White House ceremony."
+    publishedDateTime: 2020-11-24T16:12:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-pardons-thanksgiving-turkey"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-pardons-thanksgiving-turkey"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-pardons-thanksgiving-turkey"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/11/BreadButterIssues-1024x665.jpg"
+        width: 1024
+        height: 665
+        isCached: true
+  - title: "Coronavirus live news: Donald Trump Jr tests positive as Mexico deaths pass 100,000"
+    excerpt: "Obrador rejects criticism as political attacks; Canada fears big rise in cases could overwhelm hospitals; Italy records 37,242 new cases"
+    publishedDateTime: 2020-11-21T00:44:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel?page=with:block-5fb849138f087f6ff1099dcf"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/143d5194599195ebb149ec008a26c09d7481351f/0_154_4256_2553/master/4256.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8c2b6bdcf1c94e3ecf7b746635d35ed3"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "New COVID-19 closures, Trump campaign lawsuit, Hurricane Iota: 5 things to know Tuesday"
+    excerpt: "More states face new closures and restrictions due to COVID-19, the Trump campaign heads to court in Pennsylvania and more news to start your Tuesday."
+    publishedDateTime: 2020-11-17T21:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/11/17/covid-19-closures-trump-campaign-lawsuit-5-things-know-tuesday/6282623002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6282623002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6282623002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 120
+    quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTF/ea67708f-0b90-4e33-8844-f0ea57dc05b4-AP_Election_2020_Trump_MIAB1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2020/11/13/USATODAY/usatsports/covid-closure-gettyimages-1216449625.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "If the GOP doesn't quit its Trump addiction it'll suck the life out of American democracy"
-    excerpt: "It's pitiful to see most of Trump's party join him in burning everything down after his loss, and it does not bode well for the future of our country."
-    publishedDateTime: 2020-11-15T22:34:00Z
-    webUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
+  - title: "OAN, touted by Donald Trump for its 'Great News,' suspended from YouTube for COVID-19 misinformation"
+    excerpt: "OAN, which had been warned about violating a COVID-19 misinformation policy, according to YouTube, won't be allowed to upload videos for one week."
+    publishedDateTime: 2020-11-25T01:31:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/11/24/oan-suspended-youtube-covid-19-misinformation/6416595002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6416595002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6416595002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
     images:
-      - url: "https://i.insider.com/5faf1bc31c741f0019ac9d43?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Melania Trump, like America, may be more in love with President Trump than his critics would hope"
-    excerpt: "The camera pans from her stiletto heel, up her sparkly gown, to her familiar face — it’s Melania Trump! (Her head superimposed on the body of the actual bachelorette.) Is Melania Trump really looking forward to being rid of President Trump as much as tens of millions of Americans are?"
-    publishedDateTime: 2020-11-17T13:04:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSOXTPAXDQI6XC62QFGKK3QTRM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Judge slaps down Trump appointee who has sought to reshape Voice of America and related agencies"
-    excerpt: "Michael Pack, who took over VOA’s parent agency, has stirred opposition to sweeping changes at government-funded broadcasters."
-    publishedDateTime: 2020-11-21T20:52:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XWYCY3VPFYI6VGFVE6NGI6NB4Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump's kids are said to be split over whether he should concede, with Ivanka looking for an off-ramp while Eric and Don Jr. want to fight to the end"
-    excerpt: "Ivanka Trump, Donald Trump Jr. and Eric Trump have different opinions on whether Trump should concede the presidential election, CNN said."
-    publishedDateTime: 2020-11-13T10:55:00Z
-    webUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
-    images:
-      - url: "https://i.insider.com/5fae52c91e8d5000198134bb?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/55465d1c-f9da-4cdd-9c04-350816a3668b-GTY_1228712427.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "‘My Frustration Turned Into Anger.’ Some Americans Who Lost Family Members to COVID-19 Have Turned Against Donald Trump"
-    excerpt: "While it’s impossible to know how many former Trump supporters who lost family to COVID-19 changed their minds the way Zeman did, it’s clear that the pandemic has catalyzed a nationwide politics of grief."
-    publishedDateTime: 2020-11-19T21:40:00Z
-    webUrl: "https://time.com/5913055/coronavirus-family-members-political-grief/"
+  - title: "Senate Dems push COVID relief, slam Trump drawdown"
+    excerpt: "Senate Democrats are pushing for a generous COVID relief package, while also slamming President Donald Trump for throwing up obstacles during the transition, and planning to drawdown U.S. troops in the Mideast."
+    publishedDateTime: 2020-11-18T00:45:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/17/senate-dems-push-covid-relief-slam-trump-drawdown/6333993002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/755a0dcc-e996-4758-99b4-56ad96a722f9_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Judge stops Trump policy of ‘expelling’ child migrants, questioning legality of border controls linked to covid crisis"
+    excerpt: "Decision could have wider implications for the Biden administration as illegal border crossings into the United States have risen to their highest levels in more than a year."
+    publishedDateTime: 2020-11-18T20:40:00Z
+    webUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4TYO3BJ3QI6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "President Trump Tweets Donald Trump Jr. Is Doing Well After COVID-19 Diagnosis"
+    excerpt: "Donald Trump Jr. learned of his positive result earlier this week and has had no symptoms, according to a spokesperson"
+    publishedDateTime: 2020-11-21T15:31:00Z
+    webUrl: "https://time.com/5914624/president-trump-tweets-donald-trump-jr-is-doing-well-after-covid-19-diagnosis/"
     type: article
     provider:
       name: Time
       domain: time.com
-    quality: 81
+    quality: 101
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/Barbara-Zeman.jpg?w=720"
-        width: 720
-        height: 432
+      - url: "https://api.time.com/wp-content/uploads/2020/11/AP20325835953740.jpg"
+        width: 3899
+        height: 2596
+        isCached: true
+  - title: "Pence offers upbeat assessment of COVID as virus surges"
+    excerpt: "Vice President Mike Pence concluded the White House’s first coronavirus task force briefing in months without taking questions or urging Americans not to travel at Thanksgiving."
+    publishedDateTime: 2020-11-20T00:36:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/pence-offers-upbeat-assessment-of-covid-as-virus-surges-2186665/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/pence-offers-upbeat-assessment-of-covid-as-virus-surges-2186665/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/pence-offers-upbeat-assessment-of-covid-as-virus-surges-2186665/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2020/11/14483795_web1_Viirus-Outbreak-Pence.jpg?w=1200"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "/w4fwjCb/hAPlGhk172VQDbfRrq41j7xcfT1/GNIhOJoOYHCTZY0fNkTwF5BgaX43+KtOq7OnZ5Py67aYQVzj6VCZ/68K7Fuwk/pFA/TH9BTayxFTcujKaHGO9PqN0ewuMmbBIlqCF7hd5qSu/2Qo+ZLm0vC3xIAbUxpQVs9BCLxeMNEHUFmV137aMTA27QFgQC5rLy6UJh0C0aQRpJoaouWxxo75kbBKTrRxZAWb2bmSo8rFIXRHcJa7JoeXxJ4WRdBz6d55jMWNSmEzHmvy+RrMR6PYTTjQ0YPZ2hVYRI7cXlxuoD26uxFBskYiITooIsRB4IylxgbtPrUKRXyakB0UkJmGP3hT7/Mu4Km/9xNMA6Q51hweGEDdLysyY8KJAJoneG44mnKDJbt7gOJ+oQOoMvcbEa0T63wMngk5AnvJsrAcNfBqwEPJzOGbi7UnH7Sjynp5DWRi5Keqi8G4o1uqv7l56siQeV/DO0os+U3rp8VGWxGLjc79LRBiDNcnWPytOkiYzvq6CT22yW4rQ==;Q9EdB++WS35b+aruBBvZYA=="

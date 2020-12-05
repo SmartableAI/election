@@ -31,172 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Latino voters who fled dictatorships demand four more years for Trump"
-    excerpt: "Many Latino Trump supporters who escaped authoritarian regimes fear they are once again witnessing widespread election fraud despite lack of evidence."
-    publishedDateTime: 2020-11-17T13:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/17/latino-trump-voters-fear-stolen-election-amid-fraud-conspiracies/6257746002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6257746002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6257746002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/15/USAT/a93122e0-6b9a-4924-a36e-05d72d17be1c-LatinosForTrump-Socialism.jpg?auto=webp&crop=5759,3240,x0,y384&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Criminal probe, legal fights await Trump after White House"
-    excerpt: "President Donald Trump’s legal entanglements are likely to intensify when he leaves the White House and loses immunity from prosecution"
-    publishedDateTime: 2020-11-20T06:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_89fd04d324f5413fa1373a2dacc2cbfc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Lobster biz hopes for stability after tumultuous Trump era"
-    excerpt: "President Donald Trump positioned himself as a friend of New England’s lobstermen, but members of the industry said they are looking forward to the possibility of stability under President-elect Joe B"
-    publishedDateTime: 2020-11-22T15:42:00Z
-    webUrl: "https://www.washingtonpost.com/business/lobster-biz-hopes-for-stability-after-tumultuous-trump-era/2020/11/22/5d569582-2cd9-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/lobster-biz-hopes-for-stability-after-tumultuous-trump-era/2020/11/22/5d569582-2cd9-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/lobster-biz-hopes-for-stability-after-tumultuous-trump-era/2020/11/22/5d569582-2cd9-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+  - title: "Romney blasts ‘undemocratic’ Trump for pressuring Republicans to overturn election results"
+    excerpt: "Romney joined Sen. Ben Sasse (R-Neb.) on Thursday as the only GOP senators to publicly oppose the president, as Trump and his campaign continue lobbing baseless allegations of widespread voter fraud in Michigan and other states."
+    publishedDateTime: 2020-11-20T20:57:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 130
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "No, Trump is not attempting a ‘coup.’ Here’s why the distinction matters."
-    excerpt: "But while the steps Trump and other Republicans officials have taken to discredit the results of the election are enormously damaging, they do not constitute a coup. This is not m"
-    publishedDateTime: 2020-11-11T22:45:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XZLP6QREHAI6XHCKBXDCILCICQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4LIIIYRDVII6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "'Elders' group of ex-leaders founded by Mandela urges Trump to accept defeat"
-    excerpt: "The Elders, a group of prominent former world leaders, voiced concern on Thursday at U.S. President Donald Trump's refusal to concede electoral defeat, saying it showed disrespect for the integrity of American democracy."
-    publishedDateTime: 2020-11-12T14:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-elders-idUSKBN27S20C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S20C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S20C"
+  - title: "UPDATE 1-Trump's Fed pick Shelton draws third Republican 'no'"
+    excerpt: "A third senator said he would oppose Republican U.S. President Donald Trump’s controversial pick for the Federal Reserve, former economic adviser Judy Shelton, narrowing the margin of her support but likely not eliminating her chance at confirmation."
+    publishedDateTime: 2020-11-16T20:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-fed-shelton/update-1-trumps-fed-pick-shelton-draws-third-republican-no-idUSL1N2I22EO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2Q6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2Q6"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 122
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540980986&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB177"
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1I1"
         width: 817
         height: 545
         isCached: true
-  - title: "Trump lawyers suffer embarrassing rebukes from judges over voter fraud claims"
-    excerpt: "Over and over again over the past week, Trump's lawyers have been forced to account for their lack of evidence. It often hasn't gone well."
-    publishedDateTime: 2020-11-11T16:57:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4X74IKWYGMI6NIHG2UBNM5I3ZA&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Donald Trump Jr. tests positive for COVID-19 - spokesman"
-    excerpt: "Donald Trump Jr. tested positive for COVID-19 this week and is experiencing no symptoms, according to a spokesman for the son of President Donald Trump. (Reporting by Steve Holland and Daphne Psaledakis;"
-    publishedDateTime: 2020-11-21T00:45:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-junior-idUSL1N2I62SK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2I62SK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2I62SK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Latinas for Trump founder unseated Florida Democrat after ‘shadow candidate’ with his surname entered the race"
-    excerpt: "Alex Rodriguez did not live in Miami and had never been involved in politics. But he did share a last name with the Democratic incumbent in a heated race for state Senate."
-    publishedDateTime: 2020-11-20T16:31:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/20/florida-election-trump-senator-rodriguez/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/20/florida-election-trump-senator-rodriguez/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/20/florida-election-trump-senator-rodriguez/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FMDZT4PMMJABVGESEOJQP6BKA4.png&w=1440"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "BONUS: WHAT'S NEXT FOR TRUMP?"
-    excerpt: "In this bonus episode of Up First, It's Been a Minute host Sam Sanders explores what might happen to Donald Trump after he leaves office. This episode breaks down ongoing investigations and lawsuits into Trump and his family,"
-    publishedDateTime: 2020-11-22T11:50:00Z
-    webUrl: "https://www.npr.org/2020/11/20/937270241/bonus-whats-next-for-trump"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/11/20/UpFirst_New_Logo_NPR_Small_wide-f01c27b52e6edc22229e2621c6064fe967306656.png?s=1400"
-        width: 1400
-        height: 786
-        isCached: true
-  - title: "Spokesman: Trump's son Don Jr. has tested positive this week for coronavirus, has been isolating and has no symptoms"
-    excerpt: "Trump's son Don Jr. has tested positive this week for coronavirus, has been isolating and has no symptoms. 24/7 coverage of breaking news and live events"
-    publishedDateTime: 2020-11-21T18:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/spokesman-trumps-son-don-jr-tested-positive-week-74326930"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/spokesman-trumps-son-don-jr-tested-positive-week-74326930"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/spokesman-trumps-son-don-jr-tested-positive-week-74326930"
+  - title: "The Latest: Romney slams Trump efforts as 'undemocratic'"
+    excerpt: "Two Republican senators are criticizing President Donald Trump and his team for their efforts to pressure state and local election officials to overturn President-elect Joe Biden’s victories in severa"
+    publishedDateTime: 2020-11-20T17:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-pelosi-schumer-delaware-biden-74303461"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-pelosi-schumer-delaware-biden-74303461"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-pelosi-schumer-delaware-biden-74303461"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 102
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://s.abcnews.com/images/Politics/WireAP_07a8807fdbb448b98d57c9140be12ac8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "The Psychological Toll of 4 Years of Donald Trump Will Linger. Disciplined Hope Can Help Us More Forward"
-    excerpt: "In our fight against the oppression intensified by the Trump Administration, we have resisted Muslim bans, family separations, police violence, natural disasters, man-made disasters, undermined protections and compromised social safety nets."
-    publishedDateTime: 2020-11-10T16:27:00Z
-    webUrl: "https://time.com/5909885/after-donald-trump/"
+  - title: "Swimming through the ‘Trump Undertow’"
+    excerpt: "Hugh Hewitt declared in his Nov. 23 op-ed, “The enduring impact of the Trump Undertow,” that the much-vaunted “will of the people” is worth less to him than a Republican win. His glee that the GOP will now have more control of reapportionment following the census gives the game away. His party, he crowed, will be able to redraw congressional districts and the electoral college to give an outsize value to Republican votes. We are not interested in democracy, just in power. All’s fair — if it works. This is the attitude of his party’s current leader, and Mr. Hewitt is happy to embrace it. He functions as a good party operative. Support our journalism. Subscribe today. In a lame stab at justifying this, he attempted to minimize President-elect Joe Biden’s win, by complaining that President Trump lost by a mere stadium full of votes in key states. He did not try to deal with the actual 6 million-vote difference. This is apparently just a game to Mr. Hewitt. Forget that our lives are at stake. He wants to win, and the future of the nation takes a back seat. Is this patriotism? Only in his painfully abridged vocabulary. I seldom get a laugh out of Hugh Hewitt’s columns, but one line in his Nov. 23 op-ed made me laugh out loud: “The party Trump leads is reluctant to tilt at legal windmills.” What has President Trump been doing since Nov. 3 but tilting at legal windmills? Actually, no, he isn’t tilting at windmills, because windmills are physical realities. Mr. Trump is tilting at phantoms, ghosts. Fever dreams. Illusions. He has filed more than 30 lawsuits, and most were found by courts to be without legal merit and baseless. Not founded on facts. Great big nothingburgers. So, many thanks to whatever op-ed editor left that line in the column when it was on its way to print. It’s fantastic. (In both meanings of the word.)"
+    publishedDateTime: 2020-11-27T02:22:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/swimming-through-the-trump-undertow/2020/11/25/5d19bd9e-2da9-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/swimming-through-the-trump-undertow/2020/11/25/5d19bd9e-2da9-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/swimming-through-the-trump-undertow/2020/11/25/5d19bd9e-2da9-11eb-9dd6-2d0179981719_story.html?outputType=amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 88
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/michelle-gustafson-joe-biden-kamala-harris-victory-speech.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ROPITHRON4I6XBQN66MZLGOLYI.jpg&w=1440"
+        width: 1440
+        height: 988
+        isCached: true
+  - title: "Trump reportedly told an ally he knows he lost the 2020 election but wants revenge on Democrats for disputing his 2016 win"
+    excerpt: "He is refusing to concede partly because he is still furious that Barack Obama and Hillary Clinton said Russia helped him win in 2016, CNN reported."
+    publishedDateTime: 2020-11-20T10:58:00Z
+    webUrl: "https://www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fa2d44269331a0011bc73d9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Republicans leaders privately described Trump as a political liability and said they faced losing Senate runoffs"
+    excerpt: "Republican Sens. David Perdue and Kelly Loeffler reportedly expressed concern about an anti-Trump vote in a call about runoff elections in Georgia."
+    publishedDateTime: 2020-11-20T10:59:00Z
+    webUrl: "https://www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5fb3c253d980a12837167e3a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "MaPO47QmfugqSi8XXkWXuBVwErUNjBhEQMbNVXIO8NwMIA71Aj7IDz4ds+LK+GJFkWtnrLkCbnT4IdRrGapw8kUdHRRM0aaSTUK3VybDXQ+IH6wjThhQjtgdlyHDEU9uH5xFZ/Yw8mX/eftd+DiSuABiH22Vfn9j/3+7j7Z0jUpolzQVtQVPN5iBetDiBUDgR7E+X3qMcU4DbJEREGR3gjV9rvypIvWkKq1nuT48xNGtpxELWAk64civBFOc5O/5jFlhrIP1K/iwffHz3piYu3dpjY6ZT+UjY+5D84Q8snr4wLzvMcx2tXvahlL/UncsXdNoh4lbu9zPwZUZIJRLm7mX6G8HY6bktrDknQmeFEo=;nV9+w2cB/ednGzlGee9pWQ=="

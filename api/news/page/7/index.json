@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-11-28-federal-court-rejects-trump-election-lawsuit-in-pennsylvania.md",
-      "title": "Federal court rejects Trump election lawsuit in Pennsylvania",
-      "excerpt": "Trump’s legal team vows to appeal to supreme court after yet another defeat, as judge says claims ‘have no merit’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/nov/27/trump-voter-fraud-lawsuit-rejected-pennsylvania-court",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/27/trump-voter-fraud-lawsuit-rejected-pennsylvania-court",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e6f2259d304f6f787a135065b88b79b3493bd809/0_130_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fd84facba09f851884fd458239cee7f8",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/27/trump-voter-fraud-lawsuit-rejected-pennsylvania-court",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/trump-voter-fraud-lawsuit-rejected-pennsylvania-court",
-      "publishedDateTime": "2020-11-27T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-28-mini-desk-tiny-hands-small-soul-trump-mocked-for-giving-speech-at-little-table.md",
       "title": "‘Mini desk. Tiny hands. Small soul’: Trump mocked for giving speech at little table",
       "excerpt": "DiaperDon trends on Twitter after outgoing president’s furniture steals limelight",
@@ -265,58 +213,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-28-after-biden-win-rehoboth-beach-celebrates-local-boy-who-made-good-hes-our-joe.md",
-      "title": "After Biden win, Rehoboth Beach celebrates local boy who made good: ‘He’s our Joe’",
-      "excerpt": "Bikinis and beach umbrellas are marked to sell. The only hint of summer is the tangy scent of vinegar-doused french fries wafting from the one Thrasher’s stand that has remained open. Late fall and winter is when Rehoboth Beach typically gets to crawl back into its shell,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QASGXPBOUQI6XHOWFUAXTGAXDE.jpg&w=1440",
-          "width": 1440,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-27T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-27-exclusive-former-cia-station-chief-darrell-blocker-floated-to-lead-agency-under-biden-source-says.md",
       "title": "Exclusive: Former CIA station chief Darrell Blocker floated to lead agency under Biden, source says",
       "excerpt": "EXCLUSIVE: While President-elect Joe Biden has yet to announce his pick for CIA director, an array of names has been highlighted, and among them is Darrell M. Blocker -- one of the highest-serving persons of color to have served in the clandestine service, Fox News has learned.",
@@ -405,6 +301,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-betrayed-black-asylum-seekers-say-trump-administration-is-ramping-up-deportations-by-force-and-fraud.md",
+      "title": "‘Betrayed’ Black asylum seekers say Trump administration is ramping up deportations by force and fraud",
+      "excerpt": "ICE uses physical abuse, solitary confinement and false documents to force Black and African asylum seekers onto 'death planes,' The Times has found through interviews and legal documents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations",
+      "originalUrl": "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/aa4cd1d/2147483647/strip/true/crop/5785x3778+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2Fc4%2F01af9ef14b14aec3e57f0fd96307%2Ftrump-64946.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true",
+      "publishedDateTime": "2020-11-27T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -545,7 +493,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -701,58 +649,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-27-biden-says-america-is-back-at-the-head-of-the-table-but-is-that-a-good-thing.md",
-      "title": "Biden says 'America is back' at the head of the table – but is that a good thing?",
-      "excerpt": "After four years of Trump, many diplomats are hopeful – but US critics say the idea of a return to a ‘golden age’ is a delusion",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/15b1ca4a91a070ff0a9b6ca8feaca7827d6267f2/0_287_4579_2748/master/4579.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4d71b9496b19b99400f322775a13b90f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/26/biden-america-is-back-foreign-policy-diplomacy",
-      "publishedDateTime": "2020-11-26T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-26-dem-leaders-condemn-trumps-pardon-of-michael-flynn-abuse-of-power.md",
       "title": "Dem leaders condemn Trump's pardon of Michael Flynn: 'Abuse of power'",
       "excerpt": "Democratic leaders lambasted President Trump for pardoning his former national security adviser Michael Flynn on Wednesday, condemning the move as a \"brazen\" abuse of power. ",
@@ -809,6 +705,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-27-up-to-the-people-not-the-medical-profession-to-oust-trump-apa-chief.md",
+      "title": "Up to the people, not the medical profession, to oust Trump: APA chief",
+      "excerpt": "The public has had its say: President-elect Joe Biden’s margin of victory was by more than 6 million votes, and on Jan. 20, he will take office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/readers/2020/11/24/up-people-not-medical-profession-oust-trump-reader-view/6406402002/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/readers/2020/11/24/up-people-not-medical-profession-oust-trump-reader-view/6406402002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/24/USAT/8c17956c-0537-44e6-afa5-301f770ba35a-AP_Election_2020_Nevada.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6406402002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406402002",
+      "publishedDateTime": "2020-11-26T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-joe-and-jill-biden-our-most-important-thanksgiving-tradition.md",
       "title": "Joe and Jill Biden: Our most important Thanksgiving tradition",
       "excerpt": "This Thanksgiving, tables throughout our country will have an empty chair.\n    \n",
@@ -862,58 +810,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-representatives-for-tiger-kings-joe-exotic-are-said-to-be-chasing-trump-down-for-a-pardon-and-spending-thousands-of-dollars-to-get-it.md",
-      "title": "Representatives for 'Tiger King's' Joe Exotic are said to be chasing Trump down for a pardon and spending thousands of dollars to get it",
-      "excerpt": "Representatives for the former zookeeper ran up a $10,000 tab at one of Trump's hotels in an effort to get his attention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11",
-      "originalUrl": "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fbefa81037cbd0018612744?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp",
-      "publishedDateTime": "2020-11-25T22:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1304,6 +1200,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-25-janet-yellen-and-kamala-harris-keep-shattering-glass-ceilings-but-global-elite-boys-club-remains.md",
+      "title": "Janet Yellen and Kamala Harris keep shattering glass ceilings – but global elite boys club remains",
+      "excerpt": "Young, University of Massachusetts Amherst and Tuugi Chuluun, Loyola University Maryland (THE CONVERSATION) Janet Yellen may soon become the first woman to lead the Treasury Department, about six years after shattering another glass ceiling at the top of the Federal Reserve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php",
+      "publishedDateTime": "2020-11-25T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-matt-schlapp-nevada-allowing-trump-team-to-present-election-fraud-case-a-great-step.md",
       "title": "Matt Schlapp: Nevada allowing Trump team to present election fraud case 'a great step'",
       "excerpt": "Nevada is ready to hear the Trump campaign's case regarding illegal balloting allegations in Clark County, American Conservative Union chairman Matt Schlapp told “Hannity” Tuesday night.",
@@ -1357,6 +1296,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-trump-will-soon-leave-the-white-house-how-long-before-he-stops-dominating-the-conversation.md",
+      "title": "Trump will soon leave the White House. How long before he stops dominating the conversation?",
+      "excerpt": "Since then, Trump has dominated America’s attention. He has worked hard to make sure that’s the case, of course, littering social media with his thoughts and often seizing the reins of traditional media by leveraging his position.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/11/24/trump-will-soon-leave-white-house-how-long-before-he-stops-dominating-conversation/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/24/trump-will-soon-leave-white-house-how-long-before-he-stops-dominating-conversation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GYF32XRNCAI6XHOWFUAXTGAXDE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/24/trump-will-soon-leave-white-house-how-long-before-he-stops-dominating-conversation/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/24/trump-will-soon-leave-white-house-how-long-before-he-stops-dominating-conversation/?outputType=amp",
+      "publishedDateTime": "2020-11-24T20:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

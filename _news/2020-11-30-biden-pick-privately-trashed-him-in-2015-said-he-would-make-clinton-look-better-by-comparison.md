@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Retired Catholic archbishop says Biden should be denied Holy Communion over abortion stance"
+    excerpt: "The issue of Communion denial has sharply divided the Catholic leadership, leading to the formation of a council to assess the issue."
+    publishedDateTime: 2020-12-05T15:43:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oQWa9WG5Bi0/archbishop-biden-not-full-communion-with-church-urges-denial"
+    ampWebUrl: "https://www.foxnews.com/politics/archbishop-biden-not-full-communion-with-church-urges-denial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/archbishop-biden-not-full-communion-with-church-urges-denial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Archbishop-Charles-Chaput-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Sen. Cotton says Neera Tanden has no chance of being confirmed, tells Biden 'go back to the drawing board'"
     excerpt: "Neera Tanden has “no chance of being confirmed,” Sen. Tom Cotton said on Wednesday."
     publishedDateTime: 2020-12-02T14:06:53Z

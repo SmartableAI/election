@@ -31,193 +31,322 @@ images:
     isCached: true
 
 related:
-  - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live updates"
-    excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
-    publishedDateTime: 2020-12-02T14:24:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates?page=with:block-5fc77f578f08c1b9f1358496"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
+  - title: "Biden tells governors he’ll help states overcome coronavirus"
+    excerpt: "In a virtual meeting with governors, Joe Biden has expressed concern that President Donald Trump’s unprecedented attempt to block the peaceful transition of power at the White House has hindered the f"
+    publishedDateTime: 2020-11-19T16:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Donald Trump Jr tests positive for coronavirus – as it happened"
+    excerpt: "President’s eldest son tested positive for Covid-19 earlier this week, spokesman said, and is fourth member of Trump family to contract virus"
+    publishedDateTime: 2020-11-20T20:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb86a6f8f087f6ff1099ed6"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 130
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/be52e726131e6fc701bed4467ec98eeae8bcf0f1/533_0_5467_3280/master/5467.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43aeecc3f1120f55f6e477d2f29152ed"
+      - url: "https://i.guim.co.uk/img/media/d6e38cf16120655d6f33182716bf34403d310069/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7d3646efad6165b44747fe4ae85d0375"
         width: 600
         height: 360
         isCached: true
-  - title: "Trump remains silent as US passes 250,000 COVID-19 deaths"
-    excerpt: "The White House did not respond to repeated inquiries from ABC News on whether Trump had any plans to recognize the more than 250,000 reported deaths related to COVID-19, although"
-    publishedDateTime: 2020-11-19T20:43:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+  - title: "Donald Trump Jr tests positive for coronavirus – live"
+    excerpt: "President’s eldest son tested positive for Covid-19 earlier this week, spokesman said, and is fourth member of Trump family to contract virus"
+    publishedDateTime: 2020-11-21T01:11:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb85c988f087f6ff1099e70"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/coronavirus-deaths-memorial-rtr-jc-201119_1605805254490_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/d6e38cf16120655d6f33182716bf34403d310069/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7d3646efad6165b44747fe4ae85d0375"
+        width: 600
+        height: 360
         isCached: true
-  - title: "The Note: Deadlines and dead ends pile up losses for Trump"
-    excerpt: "The weekend brought an end to Wisconsin's partial recount -- as funded by the Trump campaign -- with President-elect Joe Biden actually netting 87 additional votes, in results sch"
-    publishedDateTime: 2020-11-30T11:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
+  - title: "Trump to appear at virtual G-20 as coronavirus ravages the globe"
+    excerpt: "After days of noncommittal silence, the White House finally confirmed late Friday afternoon — less than 24 hours before the global summit’s scheduled start — that President Trump would participate. It’s just the latest reminder that during this once-in-a-century health and economic emergency,"
+    publishedDateTime: 2020-11-20T22:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-gty-ml-201127_1606495893630_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PRL5GWBHRQI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Here are 3 retired generals who embraced bizarre Trump conspiracies"
-    excerpt: "These highly decorated military generals promoted baseless claims from the conspiracy theory movement."
-    publishedDateTime: 2020-12-03T22:47:00Z
-    webUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
+  - title: "Biden to meet with U.S. workers hit by coronavirus pandemic"
+    excerpt: "President-elect Joe Biden on Wednesday will meet with American workers and business owners hit by COVID-19 as he prepares to confront the pandemic that has taken a heavy human and economic toll when he takes office next month."
+    publishedDateTime: 2020-12-02T11:30:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-workers-idUSKBN28C1GM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C1GM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543178895&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB10R3"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden urges Congress to pass coronavirus package, promises more action"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
+    publishedDateTime: 2020-12-01T20:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-urges-congress-to-pass-coronavirus-package-promises-more-action-idUSL1N2IH242"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543101682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03ID"
+        width: 758
+        height: 545
+        isCached: true
+  - title: "Coronavirus Is Surging Across The US So Mike Pence Held A Useless Briefing"
+    excerpt: "With coronavirus cases surging nationwide, experts fear another 150,000 Americans will die by in the next three months."
+    publishedDateTime: 2020-11-20T00:10:00Z
+    webUrl: "https://www.buzzfeednews.com/article/danvergano/coronavirus-surging-so-pence-briefing"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/danvergano/coronavirus-surging-so-pence-briefing"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/danvergano/coronavirus-surging-so-pence-briefing"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 123
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-11/18/18/campaign_images/184616d5f766/31-cool-and-useful-gadget-gifts-for-the-person-wh-2-13464-1605725191-31_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "Biden plans scaled-back inauguration to avoid spreading coronavirus in crowds"
+    excerpt: "Setting a sharp contrast with President Donald Trump, whose administration began with a fight over the size of his inaugural crowds, President-elect Joe Biden said on Friday he plans a scaled-back event for safety's sake during the pandemic."
+    publishedDateTime: 2020-12-05T12:03:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28E38W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E38W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E38W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543536446&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31SN"
+        width: 689
+        height: 545
+        isCached: true
+  - title: "UPDATE 1-Biden urges Congress to pass coronavirus package, promises more action"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
+    publishedDateTime: 2020-12-02T00:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idUSL1N2IH242"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
+        width: 1022
+        height: 545
+        isCached: true
+  - title: "Biden says bipartisan coronavirus aid bill should be passed but will still need more"
+    excerpt: "President-elect Joe Biden said on Thursday a bipartisan coronavirus aid bill should be passed but that he will have to ask for more once in office."
+    publishedDateTime: 2020-12-04T07:32:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-biden/biden-says-bipartisan-coronavirus-aid-bill-should-be-passed-but-will-still-need-more-idUSW1N2HQ0GN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E08E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E08E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543406856&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB3042"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "From the coronavirus to the environment, Biden plans to take government in new direction"
+    excerpt: "A review of Biden's plans so far suggests that among his priorities will be tackling COVID-19, rolling back Trump actions, expanding on Obama initiatives."
+    publishedDateTime: 2020-11-24T21:05:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 116
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/bdbe1ab/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F54%2Fce%2Fbb2ca196c0e9e959721af595922e%2Fla-me-ln-road-closures-for-vice-president-bide-001"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Trump urges Congress to pass a 'big and focused' coronavirus relief bill in 1st stimulus comments since losing the election"
+    excerpt: "Despite divisions between Republicans and Democrats, Trump called on lawmakers to approve a stimulus package, saying they need to \"get it done!\""
+    publishedDateTime: 2020-11-14T17:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 125
+    quality: 114
     images:
-      - url: "https://i.insider.com/5f739ab60ab50d00184ad213?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "U.S. Congress defense bill defies Trump on Germany withdrawal, base names"
-    excerpt: "U.S. lawmakers unveiled the final version of a massive annual defense policy bill on Thursday that defies President Donald Trump's plans to withdraw troops from Germany and keep the names of Confederate generals on military bases,"
-    publishedDateTime: 2020-12-04T08:59:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28E0Y5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E0Y5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E0Y5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543432218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30GH"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "For Trump advocate Sidney Powell, a playbook steeped in conspiracy theories"
-    excerpt: "The appellate lawyer has emerged as a key voice on the far right, fueling skepticism that Joe Biden rightfully won presidential contests in key battleground states."
-    publishedDateTime: 2020-11-28T22:39:00Z
-    webUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump to meet next week with industry, government officials on COVID vaccine"
-    excerpt: "President Donald Trump will gather leaders from industry and government next week for a summit on the coronavirus vaccine, the White House said on Tuesday, as the outgoing president seeks to emphasize his role in the speedy development of a vaccine."
-    publishedDateTime: 2020-12-01T21:07:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-vaccines-trump-idUSKBN28B69R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B69R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B69R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543100580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03HX"
-        width: 886
-        height: 545
-        isCached: true
-  - title: "Donald Trump stays silent as US sees record 2,804 coronavirus deaths in a day"
-    excerpt: "President fails to address national crisis, instead remaining focused on false voter fraud claims"
-    publishedDateTime: 2020-12-03T23:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?fbclid=IwAR3nVOmlemfsTlSWpYAhp6z54GuqiGlvzzwfF_6UdrJQZF_SboTdFIX9nl4"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/9b7ad9168d5afd5172fc698f7ae4253e0db17dd4/0_0_2677_1607/master/2677.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b17cf0c766de2a5fef79401ceebd787d"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Live political updates: President Trump expected to spend Thanksgiving at the White House"
-    excerpt: "President Donald Trump and the first lady will be spending Thanksgiving at the White House for the first time since he began his tenure as president instead of at his Mar-a-Lago club in Florida. It is uncertain whether the change in scenery is attributable to the rising number of coronavirus cases,"
-    publishedDateTime: 2020-11-26T15:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/26/trump-thanksgiving-political-updates/6430438002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6430438002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6430438002"
+  - title: "'Hand in glove': President-elect Biden promises governors coordination in combatting coronavirus"
+    excerpt: "Governors noted it took eight months to distribute 100 million tests for the virus, but that distributing free vaccine in the coming months will require reaching 330 million Americans"
+    publishedDateTime: 2020-11-19T22:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/joe-biden-promises-governors-work-hand-glove-against-coronavirus/6341252002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6341252002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6341252002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 116
+    quality: 112
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/5341e1cb-b550-4252-bfb6-4885180b4482-biden_governors_1.jpg?auto=webp&crop=2999,1687,x0,y127&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "US Covid response in chaos as controversial Trump pandemic adviser Atlas resigns – live updates"
-    excerpt: "Country sees 28th consecutive day with over 100,000 new coronavirus cases recorded – follow all the latest news live"
-    publishedDateTime: 2020-12-01T14:45:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc655ad8f08ca673e8551c2"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
+  - title: "Donald Trump Jr., the president’s eldest son, tests positive for the coronavirus, spokesperson says"
+    excerpt: "Donald Trump Jr., the eldest son of President Donald Trump, was quarantining Friday after learning he has been infected with the coronavirus, a spokesperson said."
+    publishedDateTime: 2020-11-20T23:46:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-donald-trump-jr-covid19-20201120-5wtzb4nqznc2hi5aesmbdkvlmi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-donald-trump-jr-covid19-20201120-5wtzb4nqznc2hi5aesmbdkvlmi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-donald-trump-jr-covid19-20201120-5wtzb4nqznc2hi5aesmbdkvlmi-story.html?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 113
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 111
     images:
-      - url: "https://i.guim.co.uk/img/media/6fb3812a919f54bcc052e8e0a9d077e79c2117cf/0_353_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2bdffa1eb06c9220edf46de05f129f37"
-        width: 600
-        height: 360
+      - url: "https://www.chicagotribune.com/resizer/BJz1b_CZfapJFbcKHYJAxdneffw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/REJGIQUBZMDXOQG7HZBR4PB6LI.aspx"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "The Daily 202: Ousted U.S. attorney, removed by Barr as he investigated Trump associates, lands new job"
-    excerpt: "During a noon meeting in a suite at the Pierre hotel in Manhattan on a Friday in June, Attorney General Bill Barr pressured Geoffrey Berman to step aside as the U.S. attorney for the Southern District of New York."
-    publishedDateTime: 2020-12-01T16:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp"
+  - title: "Trump says coronavirus vaccines may be approved by year's end"
+    excerpt: "President Trump spoke in public for the first time in more than a week, saying two coronavirus vaccines could be approved by the end of the year and available to Americans as soon as April. Ben Tracy has more."
+    publishedDateTime: 2020-11-14T00:09:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-says-coronavirus-vaccines-may-be-approved-by-years-end/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IAW7TCUQP5FAVGSQ44D7LNWC7Y&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/13/e3c98bf0-6b23-4f19-86df-04f641f2dee2/thumbnail/1200x630/910ad882516943167431f634b5b1cdb3/cbsn-fusion-trump-says-coronavirus-vaccines-may-be-approved-by-years-end-thumbnail-587778-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Trump to meet COVID-19 vaccine makers, distributors next week: Stat News"
-    excerpt: "The Trump administration has invited vaccine manufacturers, drug distributors and government officials to a COVID-19 Vaccine Summit next week at the White House, Stat News reported on Tuesday, citing an invitation obtained by the news organization."
-    publishedDateTime: 2020-12-01T18:24:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-vaccines/trump-to-meet-covid-19-vaccine-makers-distributors-next-week-stat-news-idUSKBN28B5TV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TV"
+  - title: "Donald Trump Jr. Tests Positive For The Coronavirus"
+    excerpt: "The president's son, who announced his diagnosis on Instagram, said he has no symptoms and feels fine. Trump Jr. said he plans to quarantine and \"take it seriously.\""
+    publishedDateTime: 2020-11-21T16:54:00Z
+    webUrl: "https://www.npr.org/2020/11/21/937574684/donald-trump-jr-tests-positive-for-the-coronavirus"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/21/ap_20325834765888_wide-c0ccca04b1e02e8ea0ac59c4d149f229f64d7718.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Congress braces for Biden's national coronavirus strategy"
+    excerpt: "WASHINGTON (AP) — Congress is bracing for President-elect Joe Biden to move beyond the Trump administration’s state-by-state approach to the and build out a national strategy to fight the pandemic and distribute the eventual vaccine."
+    publishedDateTime: 2020-11-25T23:40:00Z
+    webUrl: "https://www.businessinsider.com/congress-braces-for-bidens-national-coronavirus-strategy-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/congress-braces-for-bidens-national-coronavirus-strategy-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-braces-for-bidens-national-coronavirus-strategy-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Biden's team has made contact with Dr. Fauci, and the president-elect said he has been 'very, very helpful' in briefings with staff"
+    excerpt: "The contact between Fauci and Biden's team comes as the US may be entering the darkest stage yet of the coronavirus pandemic."
+    publishedDateTime: 2020-11-25T06:08:00Z
+    webUrl: "https://www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5fbde6e132f2170011f71164?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Vice President Mike Pence delivers remarks at the White House Coronavirus Task Force briefing"
+    excerpt: "Vice President Mike Pence delivered remarks at the White House Coronavirus Task Force briefing today. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
+    publishedDateTime: 2020-11-19T22:31:00Z
+    webUrl: "https://www.cnbc.com/video/2020/11/19/vice-president-mike-pence-delivers-remarks-at-the-white-house-coronavirus-task-force-briefing.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 94
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106799878-16058227011605822696-12530909175-1080pnbcnews.jpg?v=1605822700"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Why Joe Biden Needs Mitch McConnell to Govern"
+    excerpt: "Republicans on the Hill despised Obama but saw Biden as one of them. “There is a reason ‘Get Joe on the phone’ is shorthand for ‘Time to get serious’ in my office,” McConnell said in 2016."
+    publishedDateTime: 2020-11-19T03:15:00Z
+    webUrl: "https://time.com/5913168/why-joe-biden-needs-mitch-mcconnell/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
+  - title: "Pence speaks at first coronavirus task briefing in months"
+    excerpt: "Vice President Mike Pence spoke Thursday about the effort against the coronavirus at the first White House coronavirus task force press briefing since July."
+    publishedDateTime: 2020-11-19T22:56:00Z
+    webUrl: "https://www.firstcoastnews.com/video/news/health/coronavirus/pence-covid-19-task-force-briefing/507-91be02d4-bcf8-468a-9114-11aef56aeb14"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 55
+    images:
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/08b5c1f1-df3c-499e-8afe-df8b583772b3/08b5c1f1-df3c-499e-8afe-df8b583772b3_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "lKn7y2oQ9c9Qh/JKsh4/GzkWUou25DXf3F5z8GRztXzseUGjJ5fL06V6uw4jVOPsXPEtBvb45xjPz6odJSlnmpQujk5FtQ9O/0E1SX+LlcJijDbSPcCStGaPsbYf379n1DJC91SLczyL7PNrrozlPc1FDscQfrJdXPs3QbCzs+zTqkY/Fh09aV6UlaTVEITLONMeEIVPfpePdtCRvEsFuMoNKgcg9y/FninvmzYdSrTwrgVFt8tgQkm6oYjOLqveMQj7ACZ0LWIz9ue9yyWtqJpLbI+3Sc6AwTmShP+SFO843hEOenOVzfG3+e6k3EfPKXjWC0jr1JN/4ipCNjMVG+sLt9oQ4Ns5Ss+MShwpcfU=;SCZojCsimO3onbtnJj9o9A=="
 ---

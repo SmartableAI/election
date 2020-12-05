@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "If the GOP doesn't quit its Trump addiction it'll suck the life out of American democracy"
+    excerpt: "It's pitiful to see most of Trump's party join him in burning everything down after his loss, and it does not bode well for the future of our country."
+    publishedDateTime: 2020-11-15T22:34:00Z
+    webUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5faf1bc31c741f0019ac9d43?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "'The 900-pound gorilla when it comes to the Republican Party': GOP wrestles with Trump defeat"
     excerpt: "GOP presidential nominee said Trump is likely to cast a long shadow over the Republican Party, even after he is out of office."
     publishedDateTime: 2020-11-08T16:58:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Supreme Court appears ready to uphold Affordable Care Act over latest challenge from Trump, GOP"
-    excerpt: "The court is reviewing a decision that found part of the law, also known as Obamacare, unconstitutional. The case raises questions about the fate of health insurance for millions of Americans."
-    publishedDateTime: 2020-11-10T23:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YYJWDOBCYUI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 994
         isCached: true
 
 secured: "GZzjTkYMgDXK+aDYGArKJcKbPk/48SjG68b1t246+fz/lFV4zemu1FlxY8Pz+qp935Lbv42ZXwU8jWQ6Mrdc3ha3x7bX6bUP7hLe2YLQ2AWQoX7MQ4yyavMU8HnZrKhqCYObkw+0m+N7ZgPDpcBbx2a3M0kmJGCuQCZbAi09uE6w9wNHCNDjGOvb0ENjVln+E2TuIFtNLlN74uq0W2edbKK6Ykkiuj0FHXlcUbIKReMp7H4LGB0e6QKkFAKsQ2L7CKojk9ThmO+PxtGnRzLnyv9Ufl310RR48jnWeuEc12P8PU+uewcRXB+uNVo9x4su1Vh0KP9OSrMyZfEO69IlfzUqrXA/lo9G/Czti2iCtjs=;ipa2jIRTCKGnG/L3lxaqnA=="

@@ -127,6 +127,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump campaign files election lawsuit in Georgia, suffers more legal defeats"
+    excerpt: "Donald Trump's campaign said it filed a lawsuit in Georgia state court on Friday seeking to invalidate the presidential election results there, the latest in a series of legal challenges aimed at reversing his loss that have so far gone nowhere."
+    publishedDateTime: 2020-12-05T16:28:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN28E37D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E37D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E37D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543537204&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB407O"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump mounts another legal challenge to election, asking Georgia for a do-over"
     excerpt: "President Donald Trump filed a new lawsuit in Georgia Friday afternoon contesting the results of the election and requesting a do-over in his latest long-shot legal bid."
     publishedDateTime: 2020-12-05T05:49:00Z
@@ -270,6 +286,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/donald-trump-gop-social-media-00-gty-llr-201202_1606950356056_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
+    excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
+    publishedDateTime: 2020-11-29T22:12:00Z
+    webUrl: "https://www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-trump-lost-he-should-leave-quietly-says-brad-raffensperger-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5fc364fd50e71a0011557d50?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump's false fraud claims could threaten GOP hopes in Georgia Senate races"
     excerpt: "The president has pledged to devote \"125%\" of his energy to the election he lost, despite the raging coronavirus pandemic."
@@ -466,6 +498,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/7e985c20-7008-49c7-aebd-e59192ce11bb_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump won't say if he still has confidence in..."
+    excerpt: "Watch \"President Trump won't say if he still has confidence in AG Barr\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-05T00:11:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201204233715-president-trump-wont-say-if-he-still-has-confidence-in-ag-barr/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/04/story_07986340_1607125204.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump roils Georgia GOP as party waits to see if presidential visit helps — or hurts — in crucial Senate runoffs"
     excerpt: "The president’s baseless claims of fraud in the November elections have sparked a Republican civil war in the state, where voters will return to the polls on Jan. 5 in a pair of races that will determine control of the U."

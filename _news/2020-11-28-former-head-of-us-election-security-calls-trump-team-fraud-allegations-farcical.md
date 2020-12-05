@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28801I"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28801I"
 type: article
 quality: 134
-heat: 234
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,85 +31,344 @@ images:
     isCached: true
 
 related:
-  - title: "Romney blasts ‘undemocratic’ Trump for pressuring Republicans to overturn election results"
-    excerpt: "Romney joined Sen. Ben Sasse (R-Neb.) on Thursday as the only GOP senators to publicly oppose the president, as Trump and his campaign continue lobbing baseless allegations of widespread voter fraud in Michigan and other states."
-    publishedDateTime: 2020-11-20T20:57:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp"
+  - title: "Trump allies Barr, Giuliani at odds on discredited election fraud claims"
+    excerpt: "Cracks emerged between two of President Donald Trump's key legal allies on Tuesday as Attorney General William Barr said his department had found no evidence of the widespread voter fraud Trump alleges,"
+    publishedDateTime: 2020-12-02T06:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-barr/trump-allies-barr-giuliani-at-odds-on-discredited-election-fraud-claims-idUSKBN28B685"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B685"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B685"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 130
+      name: Reuters
+      domain: reuters.com
+    quality: 139
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4LIIIYRDVII6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543106880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03GT"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Trump lashes out on Twitter as former top DHS official reasserts that election was ‘secure’"
-    excerpt: "Trump turned to his Twitter feed to excoriate Christopher Krebs and \"60 Minutes,\" calling it “fake news,” and reasserting his unproven claims that the election was rigged."
-    publishedDateTime: 2020-11-30T10:55:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/?outputType=amp"
+  - title: "As lawyers keep pushing Trump election challenges, calls for sanctions mount"
+    excerpt: "As President Donald Trump and his allies continue to bring legal challenges in an effort to overturn the election, some election officials are starting to cry foul."
+    publishedDateTime: 2020-12-05T10:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/lawyers-pushing-trump-election-challenges-calls-sanctions-mount/story?id=74544823"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/lawyers-pushing-trump-election-challenges-calls-sanctions-mount/story?id=74544823"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lawyers-pushing-trump-election-challenges-calls-sanctions-mount/story?id=74544823"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 130
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-30-2020/t_9e28b00823cd4f17b4113e591f25ba7c_name_Screen_Shot_2020_11_29_at_11_52_16_PM.png&w=1440"
-        width: 1440
-        height: 800
+      - url: "https://s.abcnews.com/images/Politics/trump-lawyer-sanctions-rudy-giuliani-sidney-powell-01-rt-llr-201204_1607119234055_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "GM dumps Trump in his attempt to bar California from setting emissions"
-    excerpt: "GM urges other carmakers to withdraw support of the Trump administration's attempt to bar California from setting its own emission rules."
-    publishedDateTime: 2020-11-24T00:01:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/11/23/gm-trump-california-emissions-biden/6401627002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6401627002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6401627002"
+  - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live"
+    excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
+    publishedDateTime: 2020-12-02T14:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates?page=with:block-5fc7a3a68f08c1b9f135871e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 134
+    images:
+      - url: "https://i.guim.co.uk/img/media/be52e726131e6fc701bed4467ec98eeae8bcf0f1/533_0_5467_3280/master/5467.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43aeecc3f1120f55f6e477d2f29152ed"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump repeats baseless \"fraud\" claims but says he'll go if election results formalized"
+    excerpt: "The president said it would be a \"mistake\" for the Electoral College to uphold what he claims, without proof, was an election marred by \"massive fraud.\""
+    publishedDateTime: 2020-11-27T13:51:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-says-hell-leave-if-electoral-college-votes-biden/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-says-hell-leave-if-electoral-college-votes-biden/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-says-hell-leave-if-electoral-college-votes-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 132
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/27/a84e6a05-6f92-418a-b995-bfbb250c7869/thumbnail/1200x630/c7323ae807fae8f6e60d60695c3e44ae/trump-white-house-diplomatic-room.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump ally banned from Justice Department after seeking sensitive election intel: report"
+    excerpt: "The official serving as President Donald Trump’s eyes and ears at the Justice Department has been banned from the building after trying to pressure staffers to give up sensitive information about election fraud and other matters she could relay to the White House,"
+    publishedDateTime: 2020-12-03T20:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/03/trump-ally-heidi-stirrup-banned-doj-after-seeking-election-intel/3814426001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3814426001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3814426001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/37828913-dfc7-4783-bf2b-9e3ac6633562-AFP_AFP_8UX3YC.jpg?auto=webp&crop=5306,2985,x0,y63&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live updates"
+    excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
+    publishedDateTime: 2020-12-02T14:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates?page=with:block-5fc77f578f08c1b9f1358496"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
+    images:
+      - url: "https://i.guim.co.uk/img/media/be52e726131e6fc701bed4467ec98eeae8bcf0f1/533_0_5467_3280/master/5467.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43aeecc3f1120f55f6e477d2f29152ed"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Julian Assange's partner appeals to Trump to pardon him"
+    excerpt: "Julian Assange’s partner, Stella Moris, has tweeted President Donald Trump on Thanksgiving, appealing to him to pardon the WikiLeaks founder"
+    publishedDateTime: 2020-11-26T16:50:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/34c91a8fdf1511f71134089b998fd833d033cdc4/c=0-36-512-325/local/-/media/2016/10/25/DetroitFreePress/DetroitFreePress/636129760971560378-GM-logo-with-flag-2-.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 677
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Tucker Carlson calls out Trump's election lawyer for refusing to show evidence supporting the president's baseless voter fraud claims"
-    excerpt: "Some of President Donald Trump's false election fraud claims are apparently a bridge too far for one of Trump's biggest Fox News boosters."
-    publishedDateTime: 2020-11-20T16:43:00Z
-    webUrl: "https://www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11?amp"
+  - title: "Barr sees no sign of major U.S. vote fraud despite Trump's claims"
+    excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department has found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
+    publishedDateTime: 2020-12-02T10:11:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28B5UK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28B5UK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28B5UK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
+        width: 1022
+        height: 545
+        isCached: true
+  - title: "Giuliani discussed ‘pre-emptive pardon' with Trump, report says – live"
+    excerpt: "New York Times reports lawyer has discussed possibility with president, but not yet clear what Giuliani would need pardon for – follow all the latest news"
+    publishedDateTime: 2020-12-01T18:35:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc68c458f08c1b9f135793d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/c11052f35fb1f65fe7c377c654ef0658772a6589/0_27_4860_2916/master/4860.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=da753df18c72d2a40197acf879c33f5f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "In video, Trump recycles unsubstantiated voter fraud claims"
+    excerpt: "President Donald Trump has delivered a 46-minute diatribe against the election results that produced a win for Democrat Joe Biden, unspooling one misstatement after another to back his baseless claim"
+    publishedDateTime: 2020-12-03T00:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Donald Trump releases video statement repeating baseless vote fraud claims"
+    excerpt: "President claims electoral system ‘under coordinated assault’ but justice department found no evidence of significant fraud"
+    publishedDateTime: 2020-12-02T19:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/02/donald-trump-video-statement-baseless-vote-fraud-claims"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/02/donald-trump-video-statement-baseless-vote-fraud-claims"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/donald-trump-video-statement-baseless-vote-fraud-claims"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/5f714bef23eb0c30aed9288b3df899803d5f06df/8_37_1139_683/master/1139.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5d5e99a8f793124bb185d42d2ea3217d"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Justice Dept. meets Trump, Giuliani vote-fraud claims with silent skepticism"
+    excerpt: "The Justice Department has met President Trump’s fantastical claims of widespread voter fraud with two weeks of skeptical silence, not taking any overt moves to investigate what Trump’s lawyer, Rudolph W."
+    publishedDateTime: 2020-11-21T22:18:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IUUPVKBMAMI6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+  - title: "Despite Trump's continued claims, Barr sees no sign of major U.S. vote fraud"
+    excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department had found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
+    publishedDateTime: 2020-12-02T01:52:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-idAFKBN28B5UH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28B5UH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28B5UH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543116416&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03NK"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump is said to be livid at Barr, with one official suggesting termination possible"
+    excerpt: "President Trump remained livid Wednesday at Attorney General William P. Barr, with one senior administration official indicating there was a chance Barr could be fired — not just for his public comments undercutting Trump’s unfounded claims of election-shifting fraud,"
+    publishedDateTime: 2020-12-03T00:22:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-barr-election-fraud/2020/12/02/5717626c-34e2-11eb-a997-1f4c53d2a747_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-barr-election-fraud/2020/12/02/5717626c-34e2-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-barr-election-fraud/2020/12/02/5717626c-34e2-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLF2BSRU7MI6XDJYNLVBVWZYHE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "President Trump not happy with Attorney General William Barr's election comments"
+    excerpt: "President Trump is \"not happy\" with Attorney General William Barr after Barr says the Justice Department has not yet seen any evidence of widespread voter fraud that would change the outcome of the 2020 election."
+    publishedDateTime: 2020-12-05T16:52:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-not-happy-with-attorney-general-william-barrs-election-comments/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/04/abf5d912-ddd7-4970-ba76-9c08be507777/thumbnail/1200x630/a35d5b801ed7abb3b435a12c879c3a6b/cbsn-fusion-president-trump-not-happy-with-attorney-general-william-barrs-election-comments-thumbnail-601085-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Daily 202: Ousted U.S. attorney, removed by Barr as he investigated Trump associates, lands new job"
+    excerpt: "During a noon meeting in a suite at the Pierre hotel in Manhattan on a Friday in June, Attorney General Bill Barr pressured Geoffrey Berman to step aside as the U.S. attorney for the Southern District of New York."
+    publishedDateTime: 2020-12-01T16:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IAW7TCUQP5FAVGSQ44D7LNWC7Y&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Rudy Giuliani talked to Trump about getting a preemptive pardon before the president leaves office, report says"
+    excerpt: "Giuliani is the focus of a federal criminal investigation into whether he violated foreign lobbying laws through his dealings in Ukraine."
+    publishedDateTime: 2020-12-01T15:49:00Z
+    webUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 109
+    quality: 105
     images:
-      - url: "https://i.insider.com/5fb7d98650e71a0011556726?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fb7b84b32f2170011f7040d?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Ivanka Trump calls New York investigations into Trump Organization tax write-offs political 'harassment'"
-    excerpt: "\"This is harassment pure and simple,\" said Ivanka Trump after it was reported subpoenas were issued in connection with a consulting fee she was paid."
-    publishedDateTime: 2020-11-20T17:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/20/ivanka-trump-calls-investigations-trump-organization-taxes-harassment/6354080002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6354080002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6354080002"
+  - title: "Trump rehashes unsubstantiated voter fraud charges"
+    excerpt: "In a video released Wednesday, President Donald Trump delivered a 46-minute diatribe against the election that produced a win for Democrat Joe Biden, unspooling one misstatement after another to back his baseless claim that he really won."
+    publishedDateTime: 2020-12-03T00:55:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/trump-rehashes-unsubstantiated-voter-fraud-charges/3803536001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 108
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/681af82e-b400-457d-9906-c0af2393d801-AP_Election_2020_Trump.jpg?auto=webp&crop=2659,1496,x326,y133&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5e369c17-2563-4818-b065-d33127d7a479_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump won't say whether he has confidence in Barr"
+    excerpt: "President Donald Trump refused to say whether he still has confidence in his Attorney General Bill Barr after Barr told The Associated Press this week he has not seen any evidence of voter fraud that would have overturned the election results."
+    publishedDateTime: 2020-12-03T19:25:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/trump-wont-say-whether-he-has-confidence-barr/3812418001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0855d35a-7ddd-4bba-8f00-253c0e15a27d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Pentagon installs 2 Trump allies on defense advisory board"
+    excerpt: "The Pentagon has appointed two close allies of President Donald Trump to a defense advisory board, continuing a post-election purge in the final weeks of the administration."
+    publishedDateTime: 2020-12-05T06:30:00Z
+    webUrl: "https://www.businessinsider.com/pentagon-installs-2-trump-allies-on-defense-advisory-board-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/pentagon-installs-2-trump-allies-on-defense-advisory-board-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-installs-2-trump-allies-on-defense-advisory-board-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Fired Official Says Correcting Trump's Fraud Claims The 'Right Thing To Do'"
+    excerpt: "Christopher Krebs, who led the federal government's efforts to secure the 2020 election, called the operation near seamless despite President Trump's claims to the contrary."
+    publishedDateTime: 2020-12-01T09:01:00Z
+    webUrl: "https://www.npr.org/2020/12/01/940133163/fired-official-says-correcting-trumps-fraud-claims-the-right-thing-to-do"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 103
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/30/krebs-11.30_wide-e43cef9ee4556529e051f15e1859cbca4ac3c851.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Trump attorney Rudy Giuliani coming to Michigan to give testimony on 2020 election"
+    excerpt: "Rudy Giuliani, attorney for President Donald Trump, is coming to Michigan Wednesday to address a legislative committee probing Michigan’s 2020 election process."
+    publishedDateTime: 2020-12-01T16:19:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/12/trump-attorney-rudy-giuliani-coming-to-michigan-to-give-testimony-on-2020-election.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/12/trump-attorney-rudy-giuliani-coming-to-michigan-to-give-testimony-on-2020-election.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/12/trump-attorney-rudy-giuliani-coming-to-michigan-to-give-testimony-on-2020-election.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OUA5RKJTANEJLMY2CFI2PWMQZI.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "3banAmI63CJw77A+hPzvvmi+Bv2fDFgZlj7Y4racHx/NlKjs+K0/ak1RELMkkE062jMP7EG8aKapC1+TVgk7MAdWdmMOuZzF6ceugn+qwwOYHRcfpRlzQ2EsIYnRGeYn3aSE7mmrLt3mbhClVvn13mfu+skN/YTKykB2Wx7WEvwNh71s+wYRloUtv4yOLJ6fE4ZZhHAAm5aKZE44IC2We/eTfuGJ9JCoQX9Hv9NabPYjF+HQBmQ4nE1Gz6+RiBG6cNGeoOLda3lbIlmQDu9Yo7XBXDT6OkCgdXeGYEORylKYVFxmkI/LRQsVSPxWu9aHOXIvD4Xs2uFfVdyeU+LFTOcsp3GXRPIWngnh57qlZl6QmaM/rMjeJqCXKZkNUfsUIIssjbpYeHOU5UwNIWwFMHXHQcF0z2Ynu4GgSe6yx+HUa5J9qyys8vKKxqG+0+98RSpf/Psf7KSB7mKiegUJ3I3gj3jzbsCnmKrEeMnH1i1pmx3T9S8zv5qmc50X1OPKfQGfbFRLEqo3Ny35b3SSmQ==;J2KwYBe2i6ndE82g5tNd1w=="

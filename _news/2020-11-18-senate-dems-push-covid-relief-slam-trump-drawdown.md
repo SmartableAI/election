@@ -29,6 +29,38 @@ images:
     isCached: true
 
 related:
+  - title: "Trump remains silent as US passes 250,000 COVID-19 deaths"
+    excerpt: "The White House did not respond to repeated inquiries from ABC News on whether Trump had any plans to recognize the more than 250,000 reported deaths related to COVID-19, although"
+    publishedDateTime: 2020-11-19T20:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/coronavirus-deaths-memorial-rtr-jc-201119_1605805254490_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Analysis: With silence, GOP enables Trump's risky endgame"
+    excerpt: "Republicans in Congress are engaged in a risky but calculated bet that once President Donald Trump has exhausted his legal challenges to the election, he will come to grips with his loss to President-"
+    publishedDateTime: 2020-11-21T14:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-silence-gop-enables-trumps-risky-endgame-74331782"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-silence-gop-enables-trumps-risky-endgame-74331782"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-silence-gop-enables-trumps-risky-endgame-74331782"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e3cc0791e2fe4d19add779ce37da1ddc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump Jr. tests positive for COVID-19, says spokesman"
     excerpt: "Donald Trump Jr., the son of U.S. President Donald Trump, tested positive for COVID-19 this week, although he is experiencing no symptoms, according to his spokesman."
     publishedDateTime: 2020-11-21T04:32:00Z
@@ -44,6 +76,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541958241&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ1N5"
         width: 855
         height: 545
+        isCached: true
+  - title: "Donald Trump appears to admit Covid is 'running wild' in the US"
+    excerpt: "Comments, in contrast to pre-election rhetoric, come as FDA approves emergency use authorisation for Regeneron antibody therapy"
+    publishedDateTime: 2020-11-22T03:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/11babe9d3a64c4d54f512bcefe3890e0b1c37495/0_12_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ac28a2429a8046cea6435f95cff76d4b"
+        width: 600
+        height: 360
         isCached: true
   - title: "Experimental drug given to Trump to treat covid-19 wins FDA clearance"
     excerpt: "The Food and Drug Administration on Saturday granted emergency authorization to the experimental antibody treatment given to President Trump last month when he developed covid-19, the disease caused by the coronavirus."
@@ -61,21 +109,21 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Even Trump's fiercest critics say he may have gotten some world affairs right"
-    excerpt: "Some experts, ex-diplomats and even President Donald Trump's opponents concede his overseas initiatives have produced limited, qualified successes."
-    publishedDateTime: 2020-11-24T08:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/11/24/even-trump-critics-say-he-may-have-gotten-some-foreign-policy-right/6353491002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6353491002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6353491002"
+  - title: "WATCH LIVE: Trump pardons Thanksgiving turkey"
+    excerpt: "As the coronavirus pandemic is upending the U.S. holiday season, President Donald Trump is due to pardon the annual Thanksgiving turkey in a White House ceremony."
+    publishedDateTime: 2020-11-24T16:12:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-pardons-thanksgiving-turkey"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-pardons-thanksgiving-turkey"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-pardons-thanksgiving-turkey"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
+      name: PBS
+      domain: pbs.org
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/e35eb054-4f0c-4242-817e-388e7e50cf16-GTY_1222600011.jpg?auto=webp&crop=3615,2033,x0,y74&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/11/BreadButterIssues-1024x665.jpg"
+        width: 1024
+        height: 665
         isCached: true
   - title: "Coronavirus live news: Donald Trump Jr tests positive as Mexico deaths pass 100,000"
     excerpt: "Obrador rejects criticism as political attacks; Canada fears big rise in cases could overwhelm hospitals; Italy records 37,242 new cases"
@@ -92,22 +140,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/143d5194599195ebb149ec008a26c09d7481351f/0_154_4256_2553/master/4256.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8c2b6bdcf1c94e3ecf7b746635d35ed3"
         width: 600
         height: 360
-        isCached: true
-  - title: "Corn vs. Cob: Trump pardons 'lucky' Thanksgiving turkey but avoids political jokes"
-    excerpt: "President Donald Trump partook in an annual holiday tradition – the pardoning of the National Thanksgiving Turkey, a turkey named Corn."
-    publishedDateTime: 2020-11-24T21:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/24/president-donald-trump-pardons-thanksgiving-turkey-skips-political-jokes/6406179002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6406179002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406179002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/446ebf97-c3da-4737-a944-cc6c6e2b5dfb-turkey-pic.jpg?auto=webp&crop=3382,1902,x1,y161&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "New COVID-19 closures, Trump campaign lawsuit, Hurricane Iota: 5 things to know Tuesday"
     excerpt: "More states face new closures and restrictions due to COVID-19, the Trump campaign heads to court in Pennsylvania and more news to start your Tuesday."
@@ -141,20 +173,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Is In No Mood To Concede, But Says Will Leave White House"
-    excerpt: "President Trump took questions from reporters for the first time since he lost the election to Joe Biden. He said he'll leave the White House on Jan. 20, but made clear he won't concede."
-    publishedDateTime: 2020-11-27T00:37:00Z
-    webUrl: "https://www.npr.org/sections/biden-transition-updates/2020/11/26/939386434/trump-is-in-no-mood-to-concede-but-says-will-leave-white-house"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/11/26/gettyimages-1229807318_wide-dc29074408bab292f4fe2832d0280d50e2312ab2.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Judge stops Trump policy of ‘expelling’ child migrants, questioning legality of border controls linked to covid crisis"
     excerpt: "Decision could have wider implications for the Biden administration as illegal border crossings into the United States have risen to their highest levels in more than a year."
     publishedDateTime: 2020-11-18T20:40:00Z
@@ -185,21 +203,21 @@ related:
         width: 3899
         height: 2596
         isCached: true
-  - title: "The Latest: Pence offers positive COVID-19 assessment in US"
-    excerpt: "Vice President Mike Pence is offering an upbeat assessment of the status of the coronavirus in the U.S., despite a surge in cases, hospitalizations and more than a quarter of a million deaths. Pence says President Donald Trump directed that Thursday’s briefing be held."
-    publishedDateTime: 2020-11-19T22:12:00Z
-    webUrl: "https://www.chron.com/news/article/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php"
-    ampWebUrl: "https://www.chron.com/news/amp/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php"
+  - title: "Pence offers upbeat assessment of COVID as virus surges"
+    excerpt: "Vice President Mike Pence concluded the White House’s first coronavirus task force briefing in months without taking questions or urging Americans not to travel at Thanksgiving."
+    publishedDateTime: 2020-11-20T00:36:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/pence-offers-upbeat-assessment-of-covid-as-virus-surges-2186665/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/pence-offers-upbeat-assessment-of-covid-as-virus-surges-2186665/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/pence-offers-upbeat-assessment-of-covid-as-virus-surges-2186665/amp/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2020/11/14483795_web1_Viirus-Outbreak-Pence.jpg?w=1200"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "2QAUCpeXu30LWSKqk3IJaVovi+muew6Opg3OJwkXW79zsqqvL9+85EzFK+fugDycFOSsrId0FUDT+ErIwSmOmqebXzIDdoSssuE2HbE03FwKnPzGwU5efjE2QqcNAmcb1uWgArp70CoCRg3rrdyJEiiu3Uf5MTLix0wGOnMdaCYL9z2iVZJRmqET03iErgKYfiHlGqt7e+pCba9iwDOTHC+Bnrg7VdWNdxsghzmEUwxPH9s8qVduvFMh7IUmRWr1axEicnvuX4rEDfwjBmZtZ2V2wraY4T6m63dZz05vihB6WHRCEKNP5Rkv52OKORk28wnei9t7YPB4PaiANk50XjA3gTzjxLlIj8nSU6meMJtPi4Chk+a2VU361Hy9FxBHcmDs1eAXt+M4yMb1iTUS5P37sD77tS4UC0aTUY09D910PKq0eNWEQQmYo+A1Iid7gFe0haSiPz3vOW7eEedDzczCjHQl0AN44cJyFusOtb5xMN2xzhO4oCTXeut1BdNm7P2bmoGZzqd1mVF3RqUBnw==;iv71lqdqM/AumXLS22qyFQ=="

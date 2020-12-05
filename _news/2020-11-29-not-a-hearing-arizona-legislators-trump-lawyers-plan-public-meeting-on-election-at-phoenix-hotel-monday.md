@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6449311002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6449311002"
 type: article
 quality: 123
-heat: 123
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -29,6 +29,40 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Trump lashes out at GOP Gov. Doug Ducey after certification of Arizona results showing Biden win"
+    excerpt: "During the certification, Ducey's phone buzzed with \"Hail to the Chief\" - a ringtone he has said he uses for White House calls. He set it aside."
+    publishedDateTime: 2020-12-01T13:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/01/president-trump-slams-arizona-gov-ducey-after-election-certification/6474822002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6474822002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6474822002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/06/PPHX/0c89899d-5747-45b1-a30d-0bfcc469be09-1_AP20218733705034.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Politics updates: Biden sprains foot ankle playing with dog; Trump mocked for 'I came up with vaccines' claim"
+    excerpt: "Trump mocked for his latest attempt to take credit for a COVID vaccine; GOP Sen. Blunt refuses to call Biden the president-elect – politics updates."
+    publishedDateTime: 2020-11-30T08:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/29/political-updates-donald-trump-joe-biden-president-transition/6449096002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6449096002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6449096002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/29/USAT/00288076-ff0d-47d5-b774-babb23ac3b4a-GTY_1229788118.jpg?auto=webp&crop=4499,2531,x0,y175&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "qrgHwwhch0537lc1oVxyno2Sn3WlqdzKgecsmiBBr2xcYYYiyvD1PQ64YqitWxsywx69SFU0oyyY/J63uSIxQyqatgwNJZ5dFgRnY243eKnS7qHLWvLzf4vIOKjY12fsn/ieVGpPVAPzJcyXGXrRnVFLHoi1ioIFXVhr9BSBYAEc4OMVnCxh53BAM9iCTxIHwqTXpnWC/FCXjZyMpq/TF0QfIxmem1sGEq4R3SavjmccrpiPsPcTEpPwxd0GFZCiU4y7R46Y/CMWDMzRQOPBcsP6Cz7Fz6x7kbCEO3u1Hf7NpzUobi7RRe5SGbPfd/z7R/UFIQdPjOHgD963HWm/Sy3ogU50dtlUfIW/s0ToNbQ=;BJNj7zneWy4o9F4bLYsqzQ=="
 ---

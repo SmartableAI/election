@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-slams-bidens-unity-platf
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-slams-bidens-unity-platform-points-to-admin-picks.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1fb50e8-f4fd-425d-9b2d-08dd32d77629/a69bb578-d024-4d13-902f-ea215b4f647c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Retired Catholic archbishop says Biden should be denied Holy Communion over abortion stance"
+    excerpt: "The issue of Communion denial has sharply divided the Catholic leadership, leading to the formation of a council to assess the issue."
+    publishedDateTime: 2020-12-05T15:43:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oQWa9WG5Bi0/archbishop-biden-not-full-communion-with-church-urges-denial"
+    ampWebUrl: "https://www.foxnews.com/politics/archbishop-biden-not-full-communion-with-church-urges-denial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/archbishop-biden-not-full-communion-with-church-urges-denial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Archbishop-Charles-Chaput-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden pick privately trashed him in 2015, said he would make Clinton look better by comparison"
     excerpt: "Neera Tanden is President-elect Joe Biden's pick for director of the Office of Management and Budget, but a leaked email from 2015 indicates that Tanden may not have always believed Biden was the best Democratic presidential candidate for the job."

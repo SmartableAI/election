@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
 type: article
 quality: 104
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,21 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Coronavirus updates: US sees deadliest day — again; Biden asks for 100 days of masks; California has a new regional stay-at-home order"
-    excerpt: "California has a new regional stay-at-home order. US sees its deadliest day. And President-elect Biden says he'll ask Americans to wear masks for 100 days."
-    publishedDateTime: 2020-12-04T14:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/12/04/covid-news-us-deaths-biden-public-vaccine-california-stay-home/3818218001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3818218001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3818218001"
+  - title: "GOP senators dismiss possible congressional challenge to Biden victory"
+    excerpt: "Amid President Trump’s unfounded claims of fraud, several of his supporters in the House have said they are exploring a challenge to electoral college results."
+    publishedDateTime: 2020-12-03T01:19:00Z
+    webUrl: "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 93
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/15/USAT/84a08671-560a-4b37-b299-13d5bc1f70f6-AP_Virus_Outbreak_California.jpg?auto=webp&crop=4371,2459,x0,y51&format=pjpg&width=1200"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELBI7NRUCMI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 974
+        isCached: true
+  - title: "Iran says it will comply with nuclear deal if Biden lifts all sanctions"
+    excerpt: "Foreign minister calls on US to ‘show its good faith’ but appears to rule out renegotiating deal"
+    publishedDateTime: 2020-12-03T16:23:00Z
+    webUrl: "https://www.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d209bfa3a03f58206f01df31391304887c2edad0/501_533_2999_1799/master/2999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a638d3f1e6624eecb32fe34530257b20"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "President-elect Joe Biden predicts ‘bleak future’ if Congress doesn’t act on COVID-19 aid"
+    excerpt: "Biden has said that while he doesn't support a nationwide lockdown, he plans to ask Americans to commit to 100 days of mask-wearing to help combat the virus as one of his first acts as president."
+    publishedDateTime: 2020-12-04T22:24:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 116
+    images:
+      - url: "https://www.chicagotribune.com/resizer/y77g0ME3grCoELK2CDk2zNIok78=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UN7URUO5WJH4P7JVZZIPAT4PDA.jpg"
         width: 1200
-        height: 675
+        height: 800
+        isCached: true
+  - title: "California certifies Joe Biden’s victory, giving the Democrat more than the 270 electors needed to win the White House"
+    excerpt: "California certifies Joe Biden’s victory, giving the Democrat more than the 270 electors needed to win the White House"
+    publishedDateTime: 2020-12-05T00:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
 
 secured: "GgYeB57aXQm9izRFtw3UJ5Fb5TP5Pf3WoFwnE7dlj3yZ/aknTyS3n0crJzwqGXL8qvdsNzsWwOdqcjvqZfoBdfnh1rReluqgT7DE4NOW6eTZGiV1O+JGT/InjQutKB/bG3tPMC2Vrjq7lSkqfvYhj4+NWZp+rxG7RwdBqojSWhRsStXcsHWTWcqIF/AH5/WVvC2GTecfyTiFuxqaNBdd9h915pzMIn12Sg/GH0HV4I+V3s27XIjDpyxh00xI5IBqvjLGHY9gGVnJs+70pfSNlF/1QSP7r83ON0vrT+HzX8tgA+ipQM8eCTFBrTuaupP3cmmf/3nNHAuEvwqLwUDE58p0ZBJWLe59AIvVdnVoG4RcCn7WYLgrzia5e6746Zj77lfnwKV7450cNfFReuTrNKk7lM9yIOhQ28fKFsCBZQ0bFa98lVl4kHCyQiSCMcfDRRY3hkvAz5+n7JGMqn5vCwxq/pwA5M5kSqyXpcGRiuNBH7SKRJk4UUO+yop58OhdQtStjsxzCk3kVNdLVu7iDw==;RQ3GmA/f9uE6oGgOoWPpQQ=="

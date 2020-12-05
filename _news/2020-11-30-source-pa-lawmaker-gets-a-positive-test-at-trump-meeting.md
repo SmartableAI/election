@@ -27,243 +27,117 @@ images:
     isCached: true
 
 related:
-  - title: "Trump ally banned from Justice Department after seeking sensitive election intel: report"
-    excerpt: "The official serving as President Donald Trump’s eyes and ears at the Justice Department has been banned from the building after trying to pressure staffers to give up sensitive information about election fraud and other matters she could relay to the White House,"
-    publishedDateTime: 2020-12-03T20:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/03/trump-ally-heidi-stirrup-banned-doj-after-seeking-election-intel/3814426001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3814426001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3814426001"
+  - title: "Up to the people, not the medical profession, to oust Trump: APA chief"
+    excerpt: "The public has had its say: President-elect Joe Biden’s margin of victory was by more than 6 million votes, and on Jan. 20, he will take office."
+    publishedDateTime: 2020-11-26T16:17:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/readers/2020/11/24/up-people-not-medical-profession-oust-trump-reader-view/6406402002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6406402002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406402002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 131
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/37828913-dfc7-4783-bf2b-9e3ac6633562-AFP_AFP_8UX3YC.jpg?auto=webp&crop=5306,2985,x0,y63&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/8c17956c-0537-44e6-afa5-301f770ba35a-AP_Election_2020_Nevada.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Barr sees no sign of major U.S. vote fraud despite Trump's claims"
-    excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department has found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
-    publishedDateTime: 2020-12-02T10:11:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28B5UK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28B5UK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28B5UK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
-        width: 1022
-        height: 545
-        isCached: true
-  - title: "Could Trump preemptively pardon his family — or even himself?"
-    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
-    publishedDateTime: 2020-12-04T00:49:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28D1FN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D1FN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D1FN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543344545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Senate vote likely next week on blocking Trump's massive UAE arms sale"
-    excerpt: "The top Democrat on the U.S. Senate Foreign Relations Committee said he expected lawmakers would vote as soon as next week on resolutions seeking to block Republican President Donald Trump's $23 billion weapons sale to the United Arab Emirates."
-    publishedDateTime: 2020-12-03T18:51:00Z
-    webUrl: "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28D2XS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D2XS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2XS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543367325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21NU"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Drug industry trade groups sue Trump admin over drug pricing rule"
-    excerpt: "Drug industry trade groups filed two lawsuits against the Trump administration on Friday challenging new U.S. rules to lower drug prices, potentially undermining one of President Donald Trump's flagship efforts to take on high drug costs."
-    publishedDateTime: 2020-12-05T05:43:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-drug-pricing-idUSKBN28E2KI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E2KI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E2KI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543504641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31RG"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "Explainer: Could Trump preemptively pardon his family — or even himself?"
-    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
-    publishedDateTime: 2020-12-03T11:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-pardon-idINKBN28D1IC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28D1IC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28D1IC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543317980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Explainer: Could Trump preemptively pardon his family — or even himself?"
-    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
-    publishedDateTime: 2020-12-03T16:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-pardon/explainer-could-trump-preemptively-pardon-his-family-or-even-himself-idINKBN28D1IC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28D1IC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28D1IC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543344545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Despite Trump's continued claims, Barr sees no sign of major U.S. vote fraud"
-    excerpt: "U.S. Attorney General William Barr said on Tuesday the Justice Department had found no evidence of widespread voter fraud in last month's election, even as President Donald Trump kept up his flailing legal efforts to reverse his defeat."
-    publishedDateTime: 2020-12-02T01:52:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-idAFKBN28B5UH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28B5UH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28B5UH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543116416&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03NK"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "U.S. Supreme Court weighs Trump bid to bar illegal immigrants from census totals"
-    excerpt: "The Supreme Court on Monday is set to take up President Donald Trump's unprecedented and contentious effort to exclude illegal immigrants from the population totals used to allocate U.S. House of Representatives districts to states."
-    publishedDateTime: 2020-11-29T12:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-census-idUSKBN2890F4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2890F4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2890F4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542800006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS09M"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Justices skeptical of Trump bid to exclude all undocumented immigrants from census"
-    excerpt: "President Donald Trump's sweeping order to exclude all undocumented immigrants from the 2020 Census faced skepticism Monday from a majority on the U.S. Supreme Court."
-    publishedDateTime: 2020-11-30T19:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/justices-skeptical-trump-bid-exclude-undocumented-immigrants-census/story?id=74465536"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/justices-skeptical-trump-bid-exclude-undocumented-immigrants-census/story?id=74465536"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/justices-skeptical-trump-bid-exclude-undocumented-immigrants-census/story?id=74465536"
+  - title: "The Note: Deadlines and dead ends pile up losses for Trump"
+    excerpt: "The weekend brought an end to Wisconsin's partial recount -- as funded by the Trump campaign -- with President-elect Joe Biden actually netting 87 additional votes, in results sch"
+    publishedDateTime: 2020-11-30T11:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 119
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/supreme-court-rt-jt-201130_1606763537529_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/trump-gty-ml-201127_1606495893630_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump aide banned from Justice Dept. after pressuring staffers for case information"
-    excerpt: "A Trump aide at the Justice Department has been banned from the building after trying to pressure staff members for sensitive case information."
-    publishedDateTime: 2020-12-04T10:23:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-04/trump-aide-banned-justice-department?_amp=true"
+  - title: "Republican U.S. lawmakers may defy Trump over defense bill veto threat"
+    excerpt: "The chairman of the U.S. Senate Armed Services Committee and some other Republican lawmakers pushed back on Wednesday against President Donald Trump's threat to veto a massive defense bill unless it eliminates a federal law protecting tech companies."
+    publishedDateTime: 2020-12-02T20:54:00Z
+    webUrl: "https://www.reuters.com/article/usa-defense-congress-idUSKBN28C344"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C344"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C344"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 119
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/4a0f100/2147483647/strip/true/crop/5224x3412+0+37/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Fa4%2Ffc0b18963aad988309de671ad9b7%2F119a28a48b65471da8e7610b476cf7ad"
-        width: 320
-        height: 209
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543247195&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11Q1"
+        width: 797
+        height: 545
         isCached: true
-  - title: "With Fox’s Maria Bartiromo as his first post-election interviewer, Trump found a sympathetic ear and few questions"
-    excerpt: "Trump broke his relative silence by calling into Maria Bartiromo’s “Sunday Morning Futures” show for 45 minutes. It was a major exclusive that he handed to Bartiromo, a veteran financial journalist who has emerged over the last four years as one of the biggest backers of Trump’s presidency within the Fox News Media corporate ecosystem."
-    publishedDateTime: 2020-11-29T20:07:00Z
-    webUrl: "https://www.washingtonpost.com/media/2020/11/29/trump-fox-bartiromo-interview/"
-    ampWebUrl: "https://www.washingtonpost.com/media/2020/11/29/trump-fox-bartiromo-interview/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/11/29/trump-fox-bartiromo-interview/?outputType=amp"
+  - title: "Trump silent as UK is first to authorizes vaccine"
+    excerpt: "Despite his repeated efforts to take credit for the record pace at which scientists have developed a vaccine for the novel coronavirus, President Donald Trump was uncharacteristically silent Wednesday after the United Kingdom became the first nation to authorize a COVID-19 vaccine."
+    publishedDateTime: 2020-12-02T22:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/GMA/201202_gma_rulli1_0702_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Chinese firms on U.S. exchanges threatened by bill headed to Trump's desk"
+    excerpt: "The U.S. House of Representatives passed a law to kick Chinese companies off U.S. stock exchanges if they do not fully comply with the country's auditing rules, giving President Donald Trump one more tool to threaten Beijing with before leaving office."
+    publishedDateTime: 2020-12-03T00:45:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-stocks/update-3-chinese-firms-on-u-s-exchanges-threatened-by-bill-headed-to-trumps-desk-idUSL1N2II36R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C3C3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C3C3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543263917&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YF"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "How much protection can Trump offer his family with his pardon power? A lot."
+    excerpt: "The prospective pardons, first reported by the New York Times, raise immediate questions about the president’s power to grant pardons, a power that Trump has embraced. It is, after all, precisely the sort of power that he hoped the presidency would bring: authoritative,"
+    publishedDateTime: 2020-12-02T18:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/how-much-protection-can-trump-offer-his-family-with-his-pardon-power-lot/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/how-much-protection-can-trump-offer-his-family-with-his-pardon-power-lot/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/how-much-protection-can-trump-offer-his-family-with-his-pardon-power-lot/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 118
+    quality: 122
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYTSGZXMSAI6VPIIDMIBGK2FR4.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VFMHADSZKAI6RGEJA66MCMT7JM.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "‘Betrayed’ Black asylum seekers say Trump administration is ramping up deportations by force and fraud"
-    excerpt: "ICE uses physical abuse, solitary confinement and false documents to force Black and African asylum seekers onto 'death planes,' The Times has found through interviews and legal documents."
-    publishedDateTime: 2020-11-27T12:13:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true"
+  - title: "Mnuchin says pandemic loan to Trump donor’s company ‘not the spirit and the intent’ of program"
+    excerpt: "Treasury secretary responds to Congresswoman's questions about why a car-title lender was able to get low-interest federal loan"
+    publishedDateTime: 2020-12-04T00:42:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/12/03/mnuchin-wellshire-main-street/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/12/03/mnuchin-wellshire-main-street/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/03/mnuchin-wellshire-main-street/?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 109
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/aa4cd1d/2147483647/strip/true/crop/5785x3778+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2Fc4%2F01af9ef14b14aec3e57f0fd96307%2Ftrump-64946.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Trump returns to the White House from Camp David"
-    excerpt: "President Donald Trump returned to the White House on Sunday after spending the Thanksgiving holiday break with his family at Camp David. (Nov. 29)"
-    publishedDateTime: 2020-11-29T20:14:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/29/trump-returns-white-house-camp-david/6457672002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/98e5c227-dd38-4ef0-aabd-82799a517b55_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Rudy Giuliani talked to Trump about getting a preemptive pardon before the president leaves office, report says"
-    excerpt: "Giuliani is the focus of a federal criminal investigation into whether he violated foreign lobbying laws through his dealings in Ukraine."
-    publishedDateTime: 2020-12-01T15:49:00Z
-    webUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/5fb7b84b32f2170011f7040d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7LXJKBFMMI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 582
         isCached: true
   - title: "Source: Pa. lawmaker gets a positive test at Trump meeting"
     excerpt: "A Pennsylvania state senator abruptly left a West Wing meeting with President Donald Trump after being informed he had tested positive for the coronavirus, a person with direct knowledge of the meeting told The Associated Press on Sunday."
@@ -276,6 +150,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump Vows To Veto Defense Bill Unless Shield For Big Tech Is Scrapped"
+    excerpt: "The president wants Congress to repeal Section 230 of the 1996 Communications Decency Act, a provision that provides legal protection for tech companies."
+    publishedDateTime: 2020-12-02T10:25:00Z
+    webUrl: "https://www.npr.org/2020/12/02/941019533/trump-vows-to-veto-defense-bill-unless-shield-for-big-tech-is-scrapped"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/02/gettyimages-1287973486_wide-4b50fb0dcd84e4d45aab8a54361a3590fc74dcd4.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Lawmakers bristle after Trump threatens defense bill veto"
     excerpt: "President Donald Trump is closing out his relationship with Congress with one more power jab, threatening to veto a hugely popular defense bill unless lawmakers clamp down on big tech companies he claims were biased against him during ."
     publishedDateTime: 2020-12-03T09:11:00Z
@@ -287,6 +175,50 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump reportedly considering pardons for family members"
+    excerpt: "The White House is dodging questions about reports that President Trump is considering preemptive pardons for three of his adult children and his son-in-law. Ben Tracy reports."
+    publishedDateTime: 2020-12-03T00:04:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-reportedly-considering-pardons-for-family-members/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/03/df15d6e8-a197-437e-a0f3-7865b37d6913/thumbnail/1200x630/c5d88b341c61ac4ff3fc03c4a9d587a8/tracy-600139-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump threatens to veto defense bill unless Congress repeals Section 230, a safeguard for social media companies"
+    excerpt: "Trump is threatening to veto a defense policy bill unless it ends protections for companies that shield them from material posted by their users."
+    publishedDateTime: 2020-12-02T13:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/02/trump-says-veto-defense-bill-over-section-230-social-media/3791708001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3791708001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3791708001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/23824b15-b233-4546-b723-194679457438-AP20336673206931.jpg?auto=webp&crop=5876,3306,x0,y298&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump threatens to veto defense policy bill unless Congress repeals Section 230, a safeguard for social media companies"
+    excerpt: "President Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users."
+    publishedDateTime: 2020-12-02T16:48:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-defense-bill-section-230-veto-20201202-w27r6au4ybbv7pl6iaw27qqlcm-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 81
+    images:
+      - url: "https://www.chicagotribune.com/resizer/jpb7yUyEnSZw9GiaZNZjTGH2ujg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QEGKLYVSHAPI2YREJM6WIDPREA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Ff1rz3TIFqU7TzQsE0Uy842eDT91dbJYVYYYmGwF5/WqWkkUtVm+G+Z9sUDVibZS4tpHOLn5MKDxuYmfujuw00vdYXd8dqWxPjDZO2kGuJxC9xR/De6VzA/QT/p8nMyahEYBOZCUYTY7SBoo+5WXo/TZgJHfKiITpifSpmA8buhb1BH4JwICfrLgZ0zMVfwRvsYSYLNlvgl1PWHevyvJRoYgJlY+Sb3LiIwv0s28/qEYftNW6oCOULjW/r9JHWSMTQrMoXeYWqGld7W2nyLe8p6Omkgvs+TLwJelwfxDxG7WSIVML/ixt4W6LwpgX+GUaFrYJFANJX9GRb1CfTEVoiC0LwFcTNeBwifXUN9ds2w=;rXXxSsS03yxqURfZH2OqqQ=="
 ---

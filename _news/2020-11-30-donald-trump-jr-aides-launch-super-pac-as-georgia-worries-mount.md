@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "All eyes are on Georgia ahead of Trump's rally and Senate debate"
+    excerpt: "The eyes of the political universe will turn to Georgia this weekend, as the voter registration deadline for January's Senate runoffs approaches.\n    \n"
+    publishedDateTime: 2020-12-05T16:00:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SJKKQCLU4DE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/georgia-state-of-play/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/georgia-state-of-play/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202101313-warnock-ossoff-perdue-loefler-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Some Trump supporters in this Georgia county say the election system is 'rigged.' That could hurt Republicans in January"
     excerpt: "Sixty miles west of Atlanta, Haralson County sits a world away from Georgia's largest and booming metro area. Here, in the small towns that sit in the foothills of the Appalachian mountains, Republican roots run generations deep. In November, the county voted for Donald Trump over Joe Biden, 87% to 13%"
     publishedDateTime: 2020-12-05T00:16:18Z

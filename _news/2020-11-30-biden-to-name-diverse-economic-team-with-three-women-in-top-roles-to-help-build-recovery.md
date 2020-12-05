@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden weighs ambassador picks amid pressure to diversify "
+    excerpt: "President-elect Joe Biden's team is in the early stages of considering who to appoint as ambassadors around the world, with a handful of selections for high profile posts expected to come sometime in January, according to three sources familiar with the discussions.\n    \n"
+    publishedDateTime: 2020-12-05T14:22:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ERyYyEOqh18/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-ambassadors-jockeying/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-ambassadors-jockeying/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: The worsening pandemic raises the stakes for Biden's economic program"
     excerpt: "Sitting in an Iowa diner a year ago, candidate Joe Biden aimed his economic agenda at the widening gap between America's rich and everyone else.\n    \n"
     publishedDateTime: 2020-11-29T14:15:35Z

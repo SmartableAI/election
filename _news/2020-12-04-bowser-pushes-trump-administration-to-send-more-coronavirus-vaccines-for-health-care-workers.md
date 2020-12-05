@@ -47,21 +47,37 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump silent as UK is first to authorizes vaccine"
-    excerpt: "Despite his repeated efforts to take credit for the record pace at which scientists have developed a vaccine for the novel coronavirus, President Donald Trump was uncharacteristically silent Wednesday after the United Kingdom became the first nation to authorize a COVID-19 vaccine."
-    publishedDateTime: 2020-12-02T22:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-silent-uk-authorizes-vaccine-us/story?id=74506377"
+  - title: "White House coronavirus adviser Fauci to meet with Biden transition team: CNN"
+    excerpt: "White House coronavirus task force member Anthony Fauci will meet with members of President-elect Joe Biden's team on Thursday after President Donald Trump's administration delayed the transition process for weeks amid a coronavirus surge."
+    publishedDateTime: 2020-12-03T15:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/white-house-coronavirus-adviser-fauci-to-meet-with-biden-transition-team-cnn-idUSL1N2IJ17Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D26U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D26U"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 122
     images:
-      - url: "https://s.abcnews.com/images/GMA/201202_gma_rulli1_0702_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543343689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB219D"
+        width: 846
+        height: 545
+        isCached: true
+  - title: "Donald Trump stays silent as US sees record 2,804 coronavirus deaths in a day"
+    excerpt: "President fails to address national crisis, instead remaining focused on false voter fraud claims"
+    publishedDateTime: 2020-12-03T23:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence?fbclid=IwAR3nVOmlemfsTlSWpYAhp6z54GuqiGlvzzwfF_6UdrJQZF_SboTdFIX9nl4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/03/donald-trump-coronavirus-record-deaths-silence"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/9b7ad9168d5afd5172fc698f7ae4253e0db17dd4/0_0_2677_1607/master/2677.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b17cf0c766de2a5fef79401ceebd787d"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump fixated on his own political fate as virus kills record number of Americans"
     excerpt: "President Donald Trump has remained largely absent on a pandemic of historic proportions, fixated on his political career."
@@ -110,6 +126,22 @@ related:
       - url: "https://i.insider.com/5fa6b3caf7d1cb0019e3a5f6?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "US Covid response in chaos as controversial Trump pandemic adviser Atlas resigns – live updates"
+    excerpt: "Country sees 28th consecutive day with over 100,000 new coronavirus cases recorded – follow all the latest news live"
+    publishedDateTime: 2020-12-01T14:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc655ad8f08ca673e8551c2"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/6fb3812a919f54bcc052e8e0a9d077e79c2117cf/0_353_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2bdffa1eb06c9220edf46de05f129f37"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump has been distorting the military's role in work on a coronavirus vaccine from the very start"
     excerpt: "The military has contributed mightily to the project, but it won't produce, store, distribute, or administer the vaccines."

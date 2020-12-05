@@ -2,6 +2,118 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-30-melania-trumps-white-house-holiday-decor-spotlights-essential-workers.md",
+      "title": "Melania Trump's White House holiday decor spotlights essential workers",
+      "excerpt": "'Tis the holiday season at the White House. All of the halls, from the East Room to the Red Room, were decked by over 125 volunteers this weekend and unveiled Monday to feature classic holiday décor with an \"America the Beautiful\" theme for the Trumps' final Christmas in office.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4piMF8Sq3os/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4piMF8Sq3os/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201130093329-01-white-house-holiday-decorations-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html",
+      "publishedDateTime": "2020-11-30T07:13:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-trump-presses-hapless-georgia-governor-to-overrule-secretary-of-state-on-signature-matching.md",
+      "title": "Trump presses 'hapless' Georgia governor to overrule secretary of state on signature matching",
+      "excerpt": "President Trump called on Republican Georgia Gov. Brian Kemp to override Secretary of State Brad Raffensperger on matching signatures during the state's recount, in a tweet Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gJVoONUUgn4/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gJVoONUUgn4/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98f88203-24d7-48e9-933e-73bf757b5e5a/9f7d0c25-3767-460e-9963-bfa3a70ae474/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount.amp",
+      "publishedDateTime": "2020-11-30T06:34:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-trump-rips-60-minutes-for-not-contacting-him-after-chris-krebs-interview.md",
       "title": "Trump rips ‘60 Minutes’ for not contacting him after Chris Krebs interview",
       "excerpt": "President Trump blasted CBS’ “60 Minutes” for not contacting him for comment after interviewing the administration’s former cybersecurity chief, whom Trump fired earlier",
@@ -47,6 +159,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-the-latest-biden-foreign-leaders-talk-about-pandemic.md",
+      "title": "The Latest: Biden, foreign leaders talk about pandemic",
+      "excerpt": "President-elect Joe Biden spent Monday at home accepting congratulatory calls from foreign leaders, a day after being diagnosed with stress fractures in his foot",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 565,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-30T05:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -106,21 +270,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-30-election-2020-today-biden-chooses-advisers-breaks-foot.md",
-      "title": "Election 2020 Today: Biden chooses advisers, breaks foot",
-      "excerpt": "Here’s what’s happening Monday in Election 2020 and President-elect Joe Biden’s transition. BIDEN’S ECONOMIC PICKS: President-elect Joe Biden is expected in the coming days to name several of his most senior economic advisers.",
+      "path": "_news/2020-11-30-trump-lashes-out-on-twitter-as-former-top-dhs-official-reasserts-that-election-was-secure.md",
+      "title": "Trump lashes out on Twitter as former top DHS official reasserts that election was ‘secure’",
+      "excerpt": "Trump turned to his Twitter feed to excoriate Christopher Krebs and \"60 Minutes,\" calling it “fake news,” and reasserting his unproven claims that the election was rigged.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html",
+      "webUrl": "https://www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1480,
+      "heat": 270,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-30-2020/t_9e28b00823cd4f17b4113e591f25ba7c_name_Screen_Shot_2020_11_29_at_11_52_16_PM.png&w=1440",
+          "width": 1440,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,9 +292,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-2020-today-biden-chooses-advisers-breaks-foot/2020/11/30/92738a26-330b-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-30T04:57:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/30/krebs-60-minutes-election-trump/?outputType=amp",
+      "publishedDateTime": "2020-11-30T02:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -154,7 +318,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Donald Trump"
       ]
     },
     {
@@ -330,7 +494,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -483,49 +647,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-kamala-harris-visits-outdoor-washington-dc-market-for-small-business-saturday.md",
-      "title": "Kamala Harris visits outdoor Washington, D.C. market for Small Business Saturday",
-      "excerpt": "Vice President-elect Kamala Harris stressed the importance of supporting small businesses amid the COVID-19 pandemic as she visited an outdoor market in Washington, D.C. for Small Business Saturday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/5851606665676/2020/1/5226819b3561030471050fc4702b6888/v1.5/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday.jpg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/",
-      "publishedDateTime": "2020-11-29T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -748,58 +869,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-he-understands-washington-joe-scarborough-finds-echoes-of-truman-in-biden.md",
-      "title": "'He understands Washington': Joe Scarborough finds echoes of Truman in Biden",
-      "excerpt": "Joe host, author of a new book on Harry S Truman, sees parallels in the two presidents’ efforts to rebuild",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
-      "originalUrl": "https://www.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0c784c506893f0daeb8873a502c6060bfa00b248/0_0_5184_3110/master/5184.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=719db21f257d74441bd1723dd6f565b6",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
-      "publishedDateTime": "2020-11-29T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1063,58 +1132,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-29-not-a-hearing-arizona-legislators-trump-lawyers-plan-public-meeting-on-election-at-phoenix-hotel-monday.md",
-      "title": "Not a hearing: Arizona legislators, Trump lawyers plan public meeting on election at Phoenix hotel Monday",
-      "excerpt": "The meeting at the Hyatt Regency in downtown Phoenix is not a hearing of the Legislature as Finchem and Trump campaign's legal team have cast it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/28/arizona-legislators-trump-lawyers-plan-phoenix-meeting-election/6449311002/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/28/arizona-legislators-trump-lawyers-plan-phoenix-meeting-election/6449311002/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6449311002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6449311002",
-      "publishedDateTime": "2020-11-28T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-28-trump-calls-on-congress-to-help-decimated-restaurant-industry.md",
       "title": "Trump calls on Congress to help ‘decimated’ restaurant industry",
       "excerpt": "President Trump took to Twitter on Friday night to urge Congress to pass the next coronavirus stimulus package and aid failing restaurants as the second wave of the pandemic is forcing some parts of the country to re-enter stricter social distancing guidelines.",
@@ -1171,58 +1188,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-28-former-head-of-us-election-security-calls-trump-team-fraud-allegations-farcical.md",
-      "title": "Former head of U.S. election security calls Trump team fraud allegations 'farcical'",
-      "excerpt": "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-usa-election-krebs-idINKBN28801I",
-      "originalUrl": "https://www.reuters.com/article/uk-usa-election-krebs-idINKBN28801I",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542720087&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR00W",
-          "width": 753,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28801I",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28801I",
-      "publishedDateTime": "2020-11-27T17:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-28-milwaukee-county-vote-recount-gives-biden-small-boost.md",
       "title": "Milwaukee County vote recount gives Biden small boost",
       "excerpt": "Milwaukee County completed its recount of presidential ballots, finding only small changes in vote totals for one of the two Wisconsin counties recounting ballots",
@@ -1231,7 +1196,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -1329,6 +1294,58 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-federal-court-rejects-trump-election-lawsuit-in-pennsylvania.md",
+      "title": "Federal court rejects Trump election lawsuit in Pennsylvania",
+      "excerpt": "Trump’s legal team vows to appeal to supreme court after yet another defeat, as judge says claims ‘have no merit’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/nov/27/trump-voter-fraud-lawsuit-rejected-pennsylvania-court",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/27/trump-voter-fraud-lawsuit-rejected-pennsylvania-court",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1360,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e6f2259d304f6f787a135065b88b79b3493bd809/0_130_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fd84facba09f851884fd458239cee7f8",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/27/trump-voter-fraud-lawsuit-rejected-pennsylvania-court",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/trump-voter-fraud-lawsuit-rejected-pennsylvania-court",
+      "publishedDateTime": "2020-11-27T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

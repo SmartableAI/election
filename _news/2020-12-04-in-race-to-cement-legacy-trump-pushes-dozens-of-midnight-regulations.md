@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203"
 type: article
 quality: 125
-heat: 165
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,52 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/03/02/USAT/d0dd52bc-6a8d-4345-8975-6be2340c5160-XXX__JG_138371_DACA_SCOTUS_11_12_201_jmg_3259.JPG?auto=webp&crop=5546,3120,x0,y276&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump moves to strip job protections from White House budget analysts as he races to transform civil service"
+    excerpt: "The outgoing Trump administration is racing to enact the biggest change to the federal civil service in generations, reclassifying career employees at key agencies to strip their job protections and leave them open to being fired before Joe Biden takes office."
+    publishedDateTime: 2020-11-28T00:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-moves-to-strip-job-protections-from-white-house-budget-analysts-as-he-races-to-transform-civil-service/2020/11/27/d04f6eba-2e69-11eb-96c2-aac3f162215d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-moves-to-strip-job-protections-from-white-house-budget-analysts-as-he-races-to-transform-civil-service/2020/11/27/d04f6eba-2e69-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-moves-to-strip-job-protections-from-white-house-budget-analysts-as-he-races-to-transform-civil-service/2020/11/27/d04f6eba-2e69-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVPRJABRAYI6XBQN66MZLGOLYI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "The Finance 202: Trump failed to remake the Fed in his image. His legacy may be polarizing its confirmations."
+    excerpt: "President Trump’s four-year struggle to reshape the Federal Reserve in his image likely met its failed end Thursday. The Senate confirmed one of his last nominees to the central bank’s board: Christopher Waller,"
+    publishedDateTime: 2020-12-04T13:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SCHDUVRUIMI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Talk Of 'Preemptive' Pardons By Trump Raises Questions: What Can He Do?"
+    excerpt: "Presidents have awarded clemency in this way before, but it's certainly not the usual course of action. And there are unresolved questions about what might be to come."
+    publishedDateTime: 2020-12-02T17:27:00Z
+    webUrl: "https://www.npr.org/2020/12/02/941290291/talk-of-preemptive-pardons-by-trump-raises-questions-what-can-he-do"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/02/ap_20325834765888_wide-0bc21641905e5666d3b0f2d85c96e0bb938fd1fa.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
 
 secured: "gKRkft5aHbkpJsqSQxMa32PosIqNh1KRNKGHo/CahoEeQn8jJbpBiiYdGSgVBTMrLU81gfgXsuxf/rgqidYT5DhF5M+alnvYqLWyJ5fbxWqhPPIbcBJSdcTWMXBa2/t4jGfuub73TxJ9io9FT2TRpEIB6vW15MyhP7MmCcdfwgSOPl851eg6sqtEU/mKC4kuaOTTw1NKd02cq4hiuEjm1Vsrijkp9Vd8haYlmTswgZsrG9tYaiq7ck3RX8Teyv3+xr0fG3e7y40iUcf8as1i/6IJcko6IVEY5/1gpuyIh4ARZl208QO8Fn2Bpb6a6STX/SI5QsCkZi9hazxITSO/m/K8vTuuv+G9tXUoDDJfbCubPU/9vHsoxX7FMF1uUivqK0rTaOxNDxdcLqCRSdwM1g2rctSta56ZHW+PMwwnrdDt3470MVHzNbkkSxHXRlDgXuppQSLSdDUTBsKtWoU8MrJ1BEsgi1srBgsMhrcx9E5+pP7NAw+kiZ8j5lCsxw3H5Yibl01LEBjFcdihAFjEpw==;8f0iGl5wXtTX4xxNJR3ECA=="

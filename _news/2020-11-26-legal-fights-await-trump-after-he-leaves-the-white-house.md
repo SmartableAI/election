@@ -61,21 +61,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump reportedly told an ally he knows he lost the 2020 election but wants revenge on Democrats for disputing his 2016 win"
-    excerpt: "He is refusing to concede partly because he is still furious that Barack Obama and Hillary Clinton said Russia helped him win in 2016, CNN reported."
-    publishedDateTime: 2020-11-20T10:58:00Z
-    webUrl: "https://www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11?amp"
+  - title: "Live political updates: President Trump expected to spend Thanksgiving at the White House"
+    excerpt: "President Donald Trump and the first lady will be spending Thanksgiving at the White House for the first time since he began his tenure as president instead of at his Mar-a-Lago club in Florida. It is uncertain whether the change in scenery is attributable to the rising number of coronavirus cases,"
+    publishedDateTime: 2020-11-26T15:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/26/trump-thanksgiving-political-updates/6430438002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6430438002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6430438002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
     images:
-      - url: "https://i.insider.com/5fa2d44269331a0011bc73d9?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
   - title: "'This is extremely powerful data': Trump's 2020 campaign app manufacturer in financial trouble"
     excerpt: "The \"Official Trump 2020 App\" allowed President Trump's reelection campaign to monitor the movements of his supporters."
@@ -108,6 +108,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Yes, Trump can pardon himself — but it's a risky move that won't protect him from all prosecutions he could face"
+    excerpt: "If the president were to issue himself a pardon before leaving office, it would likely be construed as an admission of guilt."
+    publishedDateTime: 2020-11-26T17:45:00Z
+    webUrl: "https://www.businessinsider.com/can-trump-pardon-himself-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/can-trump-pardon-himself-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/can-trump-pardon-himself-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5fbfc93a50e71a00115578df?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump's chief of staff told GOP senators to 'make the most of' the next 45 days in an apparent admission that Trump could leave office"
     excerpt: "Chief of staff Mark Meadows seemed to acknowledge to senators the reality that Trump is leaving the White House — though Trump himself has not."

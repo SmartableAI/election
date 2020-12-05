@@ -31,149 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live updates"
-    excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
-    publishedDateTime: 2020-12-02T14:24:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates?page=with:block-5fc77f578f08c1b9f1358496"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 130
-    images:
-      - url: "https://i.guim.co.uk/img/media/be52e726131e6fc701bed4467ec98eeae8bcf0f1/533_0_5467_3280/master/5467.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43aeecc3f1120f55f6e477d2f29152ed"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump remains silent as US passes 250,000 COVID-19 deaths"
-    excerpt: "The White House did not respond to repeated inquiries from ABC News on whether Trump had any plans to recognize the more than 250,000 reported deaths related to COVID-19, although"
-    publishedDateTime: 2020-11-19T20:43:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/coronavirus-deaths-memorial-rtr-jc-201119_1605805254490_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump says coronavirus vaccine deliveries to begin next week"
-    excerpt: "U.S. President Donald Trump said on Thursday that delivery of the coronavirus vaccine would begin next week and the week after."
-    publishedDateTime: 2020-11-27T03:39:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-idUSKBN2862GY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2862GY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2862GY"
+  - title: "Scott Atlas resigns as special adviser to Trump on coronavirus"
+    excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump, a White House official said on Monday, after a controversial four months during which he clashed repeatedly with other members of the coronavirus task force."
+    publishedDateTime: 2020-12-01T01:43:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-atlas-idUSKBN28B3AS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542596063&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1E5"
-        width: 899
-        height: 545
-        isCached: true
-  - title: "The Note: Deadlines and dead ends pile up losses for Trump"
-    excerpt: "The weekend brought an end to Wisconsin's partial recount -- as funded by the Trump campaign -- with President-elect Joe Biden actually netting 87 additional votes, in results sch"
-    publishedDateTime: 2020-11-30T11:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-deadlines-dead-ends-pile-losses-trump/story?id=74447957"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-gty-ml-201127_1606495893630_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Here are 3 retired generals who embraced bizarre Trump conspiracies"
-    excerpt: "These highly decorated military generals promoted baseless claims from the conspiracy theory movement."
-    publishedDateTime: 2020-12-03T22:47:00Z
-    webUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-generals-trump-conspiracy-theory-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f739ab60ab50d00184ad213?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "U.S. Congress defense bill defies Trump on Germany withdrawal, base names"
-    excerpt: "U.S. lawmakers unveiled the final version of a massive annual defense policy bill on Thursday that defies President Donald Trump's plans to withdraw troops from Germany and keep the names of Confederate generals on military bases,"
-    publishedDateTime: 2020-12-04T08:59:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28E0Y5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E0Y5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E0Y5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543432218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30GH"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542984625&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01U3"
         width: 817
         height: 545
         isCached: true
-  - title: "For Trump advocate Sidney Powell, a playbook steeped in conspiracy theories"
-    excerpt: "The appellate lawyer has emerged as a key voice on the far right, fueling skepticism that Joe Biden rightfully won presidential contests in key battleground states."
-    publishedDateTime: 2020-11-28T22:39:00Z
-    webUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powell-trump-kraken-lawsuit/2020/11/28/344d0b12-2e78-11eb-96c2-aac3f162215d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump to meet next week with industry, government officials on COVID vaccine"
-    excerpt: "President Donald Trump will gather leaders from industry and government next week for a summit on the coronavirus vaccine, the White House said on Tuesday, as the outgoing president seeks to emphasize his role in the speedy development of a vaccine."
-    publishedDateTime: 2020-12-01T21:07:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-vaccines-trump-idUSKBN28B69R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B69R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B69R"
+  - title: "White House coronavirus adviser Fauci to meet with Biden transition team: CNN"
+    excerpt: "White House coronavirus task force member Anthony Fauci will meet with members of President-elect Joe Biden's team on Thursday after President Donald Trump's administration delayed the transition process for weeks amid a coronavirus surge."
+    publishedDateTime: 2020-12-03T15:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/white-house-coronavirus-adviser-fauci-to-meet-with-biden-transition-team-cnn-idUSL1N2IJ17Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D26U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D26U"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 122
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543100580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03HX"
-        width: 886
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543343689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB219D"
+        width: 846
         height: 545
         isCached: true
-  - title: "Live political updates: President Trump expected to spend Thanksgiving at the White House"
-    excerpt: "President Donald Trump and the first lady will be spending Thanksgiving at the White House for the first time since he began his tenure as president instead of at his Mar-a-Lago club in Florida. It is uncertain whether the change in scenery is attributable to the rising number of coronavirus cases,"
-    publishedDateTime: 2020-11-26T15:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/26/trump-thanksgiving-political-updates/6430438002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6430438002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6430438002"
+  - title: "Trump fixated on his own political fate as virus kills record number of Americans"
+    excerpt: "President Donald Trump has remained largely absent on a pandemic of historic proportions, fixated on his political career."
+    publishedDateTime: 2020-12-04T23:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-fixated-political-fate-virus-kills-record-number/story?id=74536821"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-fixated-political-fate-virus-kills-record-number/story?id=74536821"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-fixated-political-fate-virus-kills-record-number/story?id=74536821"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/International/houston-icu-gty-rc-201130_1606744730935_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Which Trump official has coronavirus now? This reporter always seems to know first."
+    excerpt: "If you want to find out who in the Trump administration has tested positive for coronavirus, you should probably just set an alert for Jennifer Jacobs’s tweets. The Bloomberg reporter has emerged as the preeminent source for intel on covid-19 cases in and around the White House."
+    publishedDateTime: 2020-11-24T20:08:00Z
+    webUrl: "https://www.washingtonpost.com/media/2020/11/24/white-house-trump-coronavirus-jennifer-jacobs-bloomberg/"
+    ampWebUrl: "https://www.washingtonpost.com/media/2020/11/24/white-house-trump-coronavirus-jennifer-jacobs-bloomberg/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/11/24/white-house-trump-coronavirus-jennifer-jacobs-bloomberg/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OUYQYUQI3AI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Rep. Matt Gaetz, a close Trump ally, says he's tested positive for coronavirus antibodies"
+    excerpt: "The Republican Florida lawmaker is one of Trump's staunchest defenders on Capitol Hill and is a fixture in conservative media."
+    publishedDateTime: 2020-11-08T00:16:00Z
+    webUrl: "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5fa6b3caf7d1cb0019e3a5f6?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
+        isCached: true
+  - title: "Bowser pushes Trump administration to send more coronavirus vaccines for health-care workers"
+    excerpt: "In a letter, D.C.’s mayor says the city will be able to inoculate only a small number of its health-care workers because of a population-based distribution formula."
+    publishedDateTime: 2020-12-03T22:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/coronavirus-dc-vaccines/2020/12/03/ad5d1d10-3569-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LIOFX4RVUAI6XDJYNLVBVWZYHE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "US Covid response in chaos as controversial Trump pandemic adviser Atlas resigns – live updates"
     excerpt: "Country sees 28th consecutive day with over 100,000 new coronavirus cases recorded – follow all the latest news live"
@@ -191,33 +143,47 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "The Daily 202: Ousted U.S. attorney, removed by Barr as he investigated Trump associates, lands new job"
-    excerpt: "During a noon meeting in a suite at the Pierre hotel in Manhattan on a Friday in June, Attorney General Bill Barr pressured Geoffrey Berman to step aside as the U.S. attorney for the Southern District of New York."
-    publishedDateTime: 2020-12-01T16:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/daily-202-ousted-us-attorney-removed-by-barr-he-investigated-trump-associates-lands-new-job/?outputType=amp"
+  - title: "Trump has been distorting the military's role in work on a coronavirus vaccine from the very start"
+    excerpt: "The military has contributed mightily to the project, but it won't produce, store, distribute, or administer the vaccines."
+    publishedDateTime: 2020-11-30T23:00:00Z
+    webUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-fact-check-trump-distorts-military-role-in-vaccines-2020-11?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IAW7TCUQP5FAVGSQ44D7LNWC7Y&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://i.insider.com/5fc576ac50e71a0011558155?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Trump to meet COVID-19 vaccine makers, distributors next week: Stat News"
-    excerpt: "The Trump administration has invited vaccine manufacturers, drug distributors and government officials to a COVID-19 Vaccine Summit next week at the White House, Stat News reported on Tuesday, citing an invitation obtained by the news organization."
-    publishedDateTime: 2020-12-01T18:24:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-vaccines/trump-to-meet-covid-19-vaccine-makers-distributors-next-week-stat-news-idUSKBN28B5TV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TV"
+  - title: "Scott Atlas resigns as special adviser to Trump on coronavirus -Fox News"
+    excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump on the coronavirus, Fox News reported on Monday, after a controversial four months at the White House in which he clashed repeatedly with other members of the task force responding to the deadly"
+    publishedDateTime: 2020-12-01T01:45:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-atlas-idUSW1N2HQ0F6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HQ0F6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HQ0F6"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "Trump's Controversial Coronavirus Advisor Resigns: Report"
+    excerpt: "One of President Donald Trump's favored coronavirus advisors who sparked controversy over his comments against mask-wearing and other issues has resigned, US media reported Monday. Fox News obtained the resignation letter dated December 1 for Scott Atlas,"
+    publishedDateTime: 2020-12-01T01:05:00Z
+    webUrl: "https://www.ibtimes.com/trumps-controversial-coronavirus-advisor-resigns-report-3091738"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/30/dr-scott-atlas-pictured-october-one-of-president.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "L8yUOEH8iPhtW7HKmLyNo+9ea2WTIXhai5E9jvb+JYyjZfdfwC1xsNA/VHuI5gLUAyr8P8efxMaX9V0dOySdggYAG8y5QD9fxB4/FV109ZbqrJCHf7qioLaai/hc5QP0sXykmHJBRtJQpV3xwjG3khlf1TrAXjYV8rFJUQr7A2WqIgQd3qBpYQGqxrX/9LmSVCLyT89zH+ihpmQ2gTm06yLp+Qvq2vYsJISArx8LLe1B3T7oPvSu0LL1nGIkzSRUN4evSxgVKbWEuYJ2ZooKiZt7umNzeEP5Pf0+/bKkAzKgzpH9Rpt9fDMWp4EFdeKHOgZ4tRYx1YgpRuuCwE+d7yifExfm/HbB6bZ7Pu8gicB0+LvtjsLFGccD3qvj0/FPNzcpCtcaqbueBW6zZTyp1BO40Rq70z3wz32Hpc9Nnp5RhWzpACxvGYyUdzqXzM/SLU6JKSINe5TyL763xQw92kWOKPBYcDRLqxRq6HqKKdNA7XS1VvIhh9SHLdO7z0mzyj6ZHY7+wYevFbajOQlgDg==;Bgy5vvNENjv3G8KG5d+NhQ=="
 ---
