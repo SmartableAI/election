@@ -1,20 +1,20 @@
 ---
 category: news
 title: "What we know about Vice President Mike Pence's trip to Memphis"
-excerpt: "Vice President Mike Pence is scheduled to arrive in Memphis at 1 p.m. Thursday afternoon, his office said Wednesday. Air Force Two is scheduled to touch down in Memphis at about 1"
-publishedDateTime: 2020-12-02T00:00:00Z
-originalUrl: "https://www.indystar.com/story/news/2020/12/02/vice-president-mike-pence-visit-memphis-roundtable-fedex-operation-warp-speed/3794113001/"
-webUrl: "https://www.indystar.com/story/news/2020/12/02/vice-president-mike-pence-visit-memphis-roundtable-fedex-operation-warp-speed/3794113001/"
-ampWebUrl: "https://amp.indystar.com/amp/3794113001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3794113001"
+excerpt: "Vice President Mike Pence is scheduled to arrive in Memphis at 1 p.m. Thursday afternoon, his office said Wednesday. Air Force Two is scheduled to touch down in Memphis at about 1 p.m. Then, in an airplane hangar at Memphis International Airport,"
+publishedDateTime: 2020-12-02T05:00:00Z
+originalUrl: "https://www.freep.com/story/news/2020/12/02/vice-president-mike-pence-visit-memphis-roundtable-fedex-operation-warp-speed/3794113001/"
+webUrl: "https://www.freep.com/story/news/2020/12/02/vice-president-mike-pence-visit-memphis-roundtable-fedex-operation-warp-speed/3794113001/"
+ampWebUrl: "https://amp.freep.com/amp/3794113001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3794113001"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -149,6 +149,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "M8y+7dN2xuhS3wbfID1hAey26bwqu13hrifK/OyLJHBOpRt+ShOiKKCoFD4CtD7sg6LCnY355uN4joJH6T3wq8PzPxtVvdef3C8epYP+/k3OfY4O+r9BBKCulHVrlyA1kOWRgWaj5fH32LgEQcP9kN7GyaWCWPuSgTHfsbv+ShJb+bxAGGNnNA0jT0Muqo6sNItDdQNHJKDPLtURBdsaw82Te9xQIrlIuTZfUqxnfn1Xo7Laetpy/z2Sc4u9RuDtc4YP1hfaMeXs6WrjC7RbZoxFgUmgcOQ0BQ19cawnJcIIdh48rXy7+iBZlZmjiIM5peRoJcHa3MUrDP4Tcfdjpv2wvD/3OYIez1J5JxV+OLs8UoCcySjqnCj3ULvhNwnb1Z7nbQr7DUPb83cErAhQ5jjk+/+VFCwqR3EUU4TddsQ8U7XqxitxZRX+ff+tmr88HHXbgvG3Tj90/zWAmRijEqk2exV6vHYTKnEYU92wmUq7u/riCxaE+HJyJegBgLtJ8Bw3QXN+Dj2ADHRfobDctA==;FxMaRS8DIObq1nAjGIep/w=="
+secured: "EEP90XA53r6zron3nTQ8wpPZIjvCiLKq4f/+qCRxFkgMqn5XPE64vujXFgf1tTmhj/s5t2+n2+AD6RTC6gP4VDMxlSR2sObBFb7Dyx6PwtBYoSnbSXg10MQcYxx1Y2nrNIZyRBDNKrMeK8/Adnv50MNrCjqUP8aLdq+X2xFwOx5/c30xx0yDjIPBCXIYHiItBvFH+OyJblSTcussOFLrhkEcdhrup8saCQvUgbKFjgXXWbbWPNP9ECHnL84c0m4vF3tbZWY449yZw+xCiqNgehzwTcVDeskapgRxo0jSoRMkcrGB2oIBVWr3mjylGLs0odY/jwAAx7Gxv+GY6o+8il8PhvVYnv2m4cjzwe3DM3w=;HeDDrwfWGTw5Ba5fY93RRQ=="
 ---
 

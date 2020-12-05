@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "While Trump rants about votes, none of his election security officials support him "
+    excerpt: "President Donald Trump is increasingly isolated in his claims of election fraud as a growing number of senior administration officials are either directly contradicting his baseless allegations or refusing to echo them.\n    \n"
+    publishedDateTime: 2020-12-04T23:51:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NTK-6cpoHhc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-election-security-officials/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-election-security-officials/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200916062816-donald-trump-0901-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Some Republicans, including Roy Blunt, would like to see Trump at Biden's inauguration "
     excerpt: "When President Donald Trump lost this year's election to Joe Biden, almost nobody around him said they could envision the losing incumbent attending his successor's inauguration.\n    \n"
     publishedDateTime: 2020-11-29T18:22:49Z

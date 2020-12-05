@@ -601,6 +601,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden is facing high hopes, tough choices on border wall"
+    excerpt: "The U.S. government has been trying to take Pamela Rivas' land for a border wall since before Joe Biden was vice president. From a brushy bluff, Rivas can look across the Rio Grande to Mexico on the other side."
+    publishedDateTime: 2020-12-04T23:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-facing-high-hopes-tough-choices-border-wall-74520092"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-facing-high-hopes-tough-choices-border-wall-74520092"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-facing-high-hopes-tough-choices-border-wall-74520092"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Biden officially secures enough electors to become president"
+    excerpt: "California has certified its presidential election and appointed 55 electors pledged to vote for Joe Biden, officially handing the Democrat the Electoral College majority needed to win the White House"
+    publishedDateTime: 2020-12-05T00:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-officially-secures-enough-electors-to-become-president/2020/12/04/528ad7c2-3692-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-officially-secures-enough-electors-to-become-president/2020/12/04/528ad7c2-3692-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-officially-secures-enough-electors-to-become-president/2020/12/04/528ad7c2-3692-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden picks Cuban-American lawyer Mayorkas as U.S. homeland security chief"
     excerpt: "President-elect Joe Biden will nominate Alejandro Mayorkas to become U.S. secretary of homeland security, Biden's transition team said on Monday, entrusting the Cuban immigrant to help reverse outgoing President Donald Trump's hard-line immigration policies."
     publishedDateTime: 2020-11-24T06:55:00Z
@@ -873,6 +905,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0a319b81-11b1-44bc-afd9-a936d08d11c2_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden pushes Congress to provide relief for out-of-work Americans"
+    excerpt: "With nearly 11 million people unemployed and more than 400,000 COVID-19 deaths projected by the time he takes office, President-elect Joe Biden said Congress must provide relief for Americans set to lose federal aid in a matter of weeks."
+    publishedDateTime: 2020-12-05T00:00:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-pushes-congress-to-provide-relief-for-out-of-work-americans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/04/e48dcfc6-73e3-4efa-b58d-9075e97f83bf/thumbnail/1200x630/083ca26610c86ced4b158b123bbe1e5e/cbsn-fusion-biden-pushes-congress-to-provide-relief-for-out-of-work-americans-thumbnail-601539-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
     excerpt: "Joanna Walters in New York (now) and Martin Belam (earlier) Joe Biden has just confirmed in person that Anthony Blinken will become his secretary of state. Blinken is there with other new picks. They are standing some distance from each other and are ..."

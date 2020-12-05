@@ -159,6 +159,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "A Gathering Political Storm Hits Georgia, With Trump on the Way"
+    excerpt: "With two crucial senate seats up for grabs, Mike Pence and Barack Obama joined the fray in support of their party’s candidates, and President Trump is headed there on Saturday."
+    publishedDateTime: 2020-12-05T00:22:00Z
+    webUrl: "https://www.nytimes.com/2020/12/04/us/politics/trump-georgia-senate-obama.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/04/us/politics/trump-georgia-senate-obama.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/04/us/politics/trump-georgia-senate-obama.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/04/us/politics/04georgia1/04georgia1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump Associates Said to Have Been Scrutinized in Suspected Pardon Scheme"
     excerpt: "A billionaire from San Francisco sought clemency for a psychologist convicted of monetary crimes. The Republican donor Elliott Broidy and a lawyer for Jared Kushner were enlisted."
     publishedDateTime: 2020-12-04T01:34:00Z

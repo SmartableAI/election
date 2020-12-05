@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden pledges to avoid conflicts of interest with family's biz dealings"
+    excerpt: "President-elect Joe Biden pledged on Thursday that his family, and specifically his son Hunter, won't be involved in businesses that create a conflict of interest with his office."
+    publishedDateTime: 2020-12-05T00:18:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ObFtnOaffv8/biden-hunter-conflicts-of-interest"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hunter-conflicts-of-interest.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hunter-conflicts-of-interest.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2834c4a-59cb-4100-b7d6-b7ee683d190e/49ce0484-dc44-47bf-b266-f43b8449cacb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Cotton says Neera Tanden has no chance of being confirmed, tells Biden 'go back to the drawing board'"
     excerpt: "Neera Tanden has “no chance of being confirmed,” Sen. Tom Cotton said on Wednesday."
     publishedDateTime: 2020-12-02T14:06:53Z

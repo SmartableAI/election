@@ -109,6 +109,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Drug industry trade groups sue Trump admin over drug pricing rule"
+    excerpt: "Drug industry trade groups filed two lawsuits against the Trump administration on Friday challenging new U.S. rules to lower drug prices, potentially undermining one of President Donald Trump's flagship efforts to take on high drug costs."
+    publishedDateTime: 2020-12-04T23:52:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-drug-pricing/update-1-drug-industry-trade-groups-sue-trump-admin-over-drug-pricing-rule-idUSL1N2IK2QC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E2KI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E2KI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543504641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31RG"
+        width: 819
+        height: 545
+        isCached: true
   - title: "Iowa's contact-tracing firm helped Trump, Reynolds campaigns"
     excerpt: "After facing a workforce shortage for months, Iowa has awarded an emergency $2.3 million contact-tracing contract to a company owned by a Republican Party insider"
     publishedDateTime: 2020-12-04T17:29:00Z

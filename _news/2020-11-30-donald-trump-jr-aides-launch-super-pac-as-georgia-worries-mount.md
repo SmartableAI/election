@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Some Trump supporters in this Georgia county say the election system is 'rigged.' That could hurt Republicans in January"
+    excerpt: "Sixty miles west of Atlanta, Haralson County sits a world away from Georgia's largest and booming metro area. Here, in the small towns that sit in the foothills of the Appalachian mountains, Republican roots run generations deep. In November, the county voted for Donald Trump over Joe Biden, 87% to 13%"
+    publishedDateTime: 2020-12-05T00:16:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OAAGX4WN7ys/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/georgia-county-trump-supporters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/georgia-county-trump-supporters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204183258-trump-supporter-georgia-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "scAOIZhZSVM/7KdgITR5d4cVgkPaQMV+ASzt9o0gkYuI6uJnlGwXlG3UkbtWh2BY7IeLQKeo8jWhBE3lv6nC5cWJ9LnHpmmF5qk5tVE8H8+K42j8S3UnXM5TQa3NxDrVqJG6P+zSFfV+AXiUR9teLZ01YvsIEKMSk1Zlr35AaJ9b8SxB5PWIlKdUiE6n/yIqc80vYq3DEpiu7Q9WmWJIKZyRnGug+/vW0Uwx/ETgUL00f6MZpsX/5KJLTLMXJ3APjbQsfVWGxE0DmVgsdwZxA7Z+gG0HmcowOI8YDVLsvw35CwFDDPOH71qlioxiGRA8J87qiFFzlGai2eSYu591C1ovbK5JiCtT8oh3oKgabvEBej4gyioI4/MSXcrI5IGtTjJkQFwU9TaswMtNjRaRz4lichFFexlRirhipTVG/ddpoRkWFB3kxG6i8hvpzmNZBvQd5Bmuv2OihMBna8K39feP2AAsre4QvUjkvfZK4Fu30aaaZgmUrlI3C7eYglGuVMW4MzqOwkPPea6sCX+pkA==;V+NI/Nmzl726UcLA+lqNyw=="
 ---

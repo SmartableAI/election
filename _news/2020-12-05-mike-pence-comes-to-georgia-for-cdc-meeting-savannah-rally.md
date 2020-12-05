@@ -75,6 +75,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Power Up: Trump, Pence head to Georgia as election fraud claims risk depressing Senate runoff turnout"
+    excerpt: "They'll rally voters in the Peach State ahead of two Senate runoff races that will decide which party controls the chamber for the next two years. Their approach will be especially critical after pro-Trump attorneys Lin Wood and Sidney Powell urged Georgians not to cast ballots unless state leaders fight to overturn the results of the November presidential election results that clinched the state for Joe Biden."
+    publishedDateTime: 2020-12-04T11:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/power-up-trump-pence-head-georgia-election-fraud-claims-risk-depressing-senate-runoff-turnout/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/power-up-trump-pence-head-georgia-election-fraud-claims-risk-depressing-senate-runoff-turnout/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/power-up-trump-pence-head-georgia-election-fraud-claims-risk-depressing-senate-runoff-turnout/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GKLNBBBPMYI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump loves to win but keeps losing election lawsuits"
     excerpt: "In his quest to cling to power, President Donald Trump has managed to lose not just once to Democrat Joe Biden but over and over again in courts across the country"
     publishedDateTime: 2020-12-04T10:53:00Z
@@ -507,6 +523,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Live politics updates: Biden plans to campaign in Georgia for Senate candidates"
+    excerpt: "President-elect Joe Biden said he would campaign in Georgia, where two Senate runoff races could determine if Republicans retain control of the Senate"
+    publishedDateTime: 2020-12-04T23:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/04/presidential-transition-politics-updates-joe-biden-donald-trump/3818578001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3818578001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3818578001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/9fac5866-b3ae-48b6-a692-862b958b0386-AP20339752338738.jpg?auto=webp&crop=5626,3165,x0,y318&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Georgia elections chief battles fellow Republicans, Trump"
     excerpt: "Georgia's secretary of state is a man on an island, and the political flood is rising fast, as President Donald Trump and his allies vent their outrage at the fellow Republican and make unsupported claims that mismanagement and fraud tainted the state's presidential election."
     publishedDateTime: 2020-11-17T16:56:00Z
@@ -533,6 +565,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201129&t=2&i=1542800006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAS09M"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump continues to push false election fraud claims despite legal defeats"
+    excerpt: "President Trump focused Friday on more baseless claims of a rigged election, even as he continues to face legal defeats. Ben Tracy reports."
+    publishedDateTime: 2020-12-05T00:08:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-continues-to-push-false-election-fraud-claims-despite-legal-defeats/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/05/755b434c-409b-4145-854c-f81f2b26b95f/thumbnail/1200x630/de887d8bcd4981d5ffe463738e1b9e54/cbsn-fusion-trump-continues-to-push-false-election-fraud-claims-despite-legal-defeats-thumbnail-601559-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "With 2 high-stakes Senate runoffs in the balance, Pence heads to Georgia a day before Trump’s potentially volatile visit"
     excerpt: "The GOP has been roiled by Trump’s continued denial of his own defeat and his baseless attacks that Republican officials in Georgia, including the governor and secretary of state, enabled widespread voter fraud on behalf of President-elect Joe Biden."
@@ -838,6 +884,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mike Pence rallies Peach State Republicans, says ‘election contests continue’ for Donald Trump"
+    excerpt: "As our election contests continue here in Georgia and in courts across the country,” Pence vowed that the administration will “keep fighting until every legal vote is counted and every illegal vote is thrown out,"
+    publishedDateTime: 2020-12-04T23:57:00Z
+    webUrl: "https://floridapolitics.com/archives/386827-mike-pence-rallies-peach-state-republicans-says-election-contests-continue-for-donald-trump"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 73
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/10/Pence-debate.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Mike Pence: The Calm To Trump's Storm"
     excerpt: "Vice President Mike Pence is the calm to Donald Trump's storm, bringing a sedate demeanor and the religious, conservative ballast the men hope will spare them from losing the White House."
     publishedDateTime: 2020-10-30T00:00:00Z
@@ -902,6 +962,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "xqHNSxAj/NkkbSQ8UmOeEicAW4x1k9ZYWOSBu+KYM32BMzsvHwRt0t7mHzgSeulh8AZQfi40WBzfsJm/9UytwEboT+8TOeNU91KIqKQrYfmt+DQWsvzMnQhqBEMSC5l3T3O1+aTUFueB7W8H2+uA5aWTNRxBXHbWmiqibXxUJtXJNECNUQTuWI+tHBM/5GY4RTqg/MAB5dfYYGJpFLzfy8Tk1ijmZqmu6MU4xSiKvKj4C1JgbBZ3SdKyykwlbTBerQb7oJ0nPpV+LRbCANh2iybK0zXOTf+FOaFoG4gVxDrqESpZH0XQMpH7rO2SyXHzLHFCsyz/V55VBcuS3/k3mTn6DOfRQ9fMvoCoaDCUa0w=;oDYErK+PmvtB5o2Uu6+POw=="
+secured: "ZZdo5DKrUcAn8U/YcpHhPElBv5BCYvnkXl67NRBi8ELGsAzb49TJCm1Yf7vdR0AJ/3PJBdjofeHhroUGahvBCJsm9nrglTYqV1RbmgAXAeskWgF2qwwP6bcp+Dx4WMtHnxsHyIlve03xY1DkjkZkFPMV1wb9LNThMensT05sZ2RlJ6iwHvz0ieYt9kH5xxgionfayaUWisfWMSOx/gnPArq9XDcfYJc1qqAcIJ6VvCTARBhGAKZhKmiFsqeNd7T9+CSn9UbJfNzOahkCjbJvm1EYuXj8TA6Bd8eFK5gOcifms2dC0e5nX5Xo2h2hB/ZH5ZZM8s2jqy2lbj7xekM0Pfe+NtKWyiwlwFowlkmtCoHQbr2P1v2QnPjx/hE5bvhVIL4F7TEfNEUGv/9parM3Z5Ni8c1N3IUgN2uBElYHg2yDqcDNvA+NJebhH5jaEeiDomPPJSf3LOEMhxyuRp/0GN+uoV57yNo2RmyWe3B+0Rx5INhsdHUP2PjnvIDhl4r/1QlnRNPU0axGwwjkHH4lsw==;jwKow36Nr9vIjxOz5tq3lw=="
 ---
 

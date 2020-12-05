@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Judge calls Trump request in Wisconsin lawsuit 'bizarre'"
+title: "Judge calls Trump request in Wisconsin lawsuit ‘bizarre’"
 excerpt: "A federal judge hearing President Donald Trump’s lawsuit seeking to overturn Democrat Joe Biden’s win in Wisconsin says that the president’s request to “remand” the case to the GOP-controlled Legislature to pick new electors was “bizarre."
-publishedDateTime: 2020-12-04T22:25:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/judge-calls-trump-request-wisconsin-lawsuit-bizarre-74547151"
-webUrl: "https://abcnews.go.com/Politics/wireStory/judge-calls-trump-request-wisconsin-lawsuit-bizarre-74547151"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-calls-trump-request-wisconsin-lawsuit-bizarre-74547151"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-calls-trump-request-wisconsin-lawsuit-bizarre-74547151"
+publishedDateTime: 2020-12-05T00:19:00Z
+originalUrl: "https://www.washingtonpost.com/politics/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre/2020/12/04/7eb2cf92-368f-11eb-9699-00d311f13d2d_story.html"
+webUrl: "https://www.washingtonpost.com/politics/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre/2020/12/04/7eb2cf92-368f-11eb-9699-00d311f13d2d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre/2020/12/04/7eb2cf92-368f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre/2020/12/04/7eb2cf92-368f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -714,6 +714,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "NtuX+G9QcDxid0eR6d594y7Nwmpsbyi6WJK5/QQx/pMjhk2u8NIyVzQuyyjHyvJZdRNp3azCeWf0FJRZdtL9gwJEq4xxjpM78gypwJZqduIJmLdCT8Xa6ssXbIURQJ9cfALKF6bNfcCHj+GlnrupkracQ5QNfE/WqHckMWpetUkZ6B0Mn1W+ysCeMXD1fPNChdnDv/gf4DmyhCF1zn+8CVOL9kcYiV6aQVjsWs8x/e71yky82BnTXsj7Kc9//4KpMTO/5NPyWLAqfv39lZXPnbRgYikEpSJQx27vCPX+gvGQcWZsnBiV60MLTKywEYGA+a9zCtqnCzMt75KEvMl+Z6k7marDpfso7Z6ApejBUB8=;K2guwdAWAn+8sHhiSXMZBQ=="
+secured: "WQSXITnqUNhrVjVwMcQjSYLZrYIBZIu82ueGZzNs0u3LiKKNjbGUJGiJltHTUW6lxQLDk5XeW+akQ8LZBFwb55IG7zCEDmuJBHXbdjcRYDIKWO74S6Lve1XOn1ssIHh0C67BZgR8lpEh+OZCivaO+RYC+MBw3p+5WuL0s7P1P6ZjsycRlASi6tD1hNW+KGyYXCin0TXTio+saFJvMH7KJXZE7hwAamjFZTRNcfu32CdNn9/8Hg1/o0DC+bybiScZoAnvR0FatvERHxBuUFTatuFHOXP9XmotPEOSmZdZ2nCYy7qYKIqiRM78juplJDbc7CRVPOhK3/aZa5G1YYIXqeTjJv0s/dNYM0pX+SKBsPc=;jAMGo5BtjFqKIRN4AQXGiA=="
 ---
 

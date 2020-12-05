@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-new
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/29/donald-trump-fox-news-legal-cases-supreme-court-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/12/03/multimedia/03trump-lawsuit-1/03trump-lawsuit-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "A Gathering Political Storm Hits Georgia, With Trump on the Way"
+    excerpt: "With two crucial senate seats up for grabs, Mike Pence and Barack Obama joined the fray in support of their party’s candidates, and President Trump is headed there on Saturday."
+    publishedDateTime: 2020-12-05T00:22:00Z
+    webUrl: "https://www.nytimes.com/2020/12/04/us/politics/trump-georgia-senate-obama.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/04/us/politics/trump-georgia-senate-obama.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/04/us/politics/trump-georgia-senate-obama.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/04/us/politics/04georgia1/04georgia1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

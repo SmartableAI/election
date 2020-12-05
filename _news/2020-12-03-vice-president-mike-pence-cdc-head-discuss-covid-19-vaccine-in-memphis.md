@@ -3,18 +3,18 @@ category: news
 title: "Vice President Mike Pence, CDC head discuss COVID-19 vaccine in Memphis"
 excerpt: "The event comes when one vaccine, made by Pfizer and BioNTech, is likely days away from getting the Food and Drug Administration's emergency approval."
 publishedDateTime: 2020-12-03T00:00:00Z
-originalUrl: "https://www.statesman.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
-webUrl: "https://www.statesman.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
-ampWebUrl: "https://amp.statesman.com/amp/3800763001"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/3800763001"
+originalUrl: "https://www.indystar.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
+webUrl: "https://www.indystar.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
+ampWebUrl: "https://amp.indystar.com/amp/3800763001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3800763001"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -101,6 +101,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "vu0XxvzuoIXd82tEkY1A5+x1j08MjjQFU8Odys+3ieDLVArqp3yJcLAbFPk3HWMlsFEhtWxcZmqwrfGL7raJ2s2t3qF80ETEhN61uX5UKhX8V2e3/0Ru8KW6Hhl+AL7GYsBD2BHtIi/rYUrdQKYY9ABAZUMviM4kvn4onfSDCmQZpE14tPWeCH0uTbpUQFwyfuH7MkQBPSjZLEhF8tuUmTZMNXhuPHXjZbHNPE/aQVKg/Y9Ky0V6b+bgiTYFrC5FjyLHmGYx21CG7bf28RBSlyMAOeWfnVMzB4LsD6RKEinqUJdaTY7iEO9/k5hZpTtK8GUnwD2sOLz+nhvCCEBa3lfDlV5YO32xswEGPtoRhV8=;TJS5tSS+Z65jXPVmvIfqPg=="
+secured: "6o1WHOpH/hrtuEXPE3d8z+ZzQOkt46ssVY2LEU3lgQEciqKAfiTCgw+rvrvhyOeSB+nN9wRjf7P5qiqhbFIhdG4v19Huxwmad6KH2oiouuyC78mU0cgJQf2ymlZ20p+N9ClCg8H+XmrGSfr0gEgqt7ZkEKvpEvp3aRpbsFW0LbySgiDsoOonoT31C6XVSMVPV14FqUqAMs4mxCKwbsNPjy9DNw1eaZmjN6c59UTKzxcZ4B7YpcN5g1LjMTRWnXL7GQIwEsPEA8PqynQLyPTF/yd7zLishoNhV2YflKo4SXyLlWp3bdysRRqcKPODS6nJytdx3REmVRJ8hY16M4cxB+IuW0PQtWhC+fMqKumuLCk=;gAexSIEURUxqqePmbDRjPA=="
 ---
 

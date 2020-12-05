@@ -96,6 +96,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump files latest lawsuit in Georgia challenging election result"
+    excerpt: "President Trump and a Georgia Republican voter filed the latest lawsuit Friday challenging last month's election result, alleging that there are demonstrable ways Georgia's election laws were violated \"thousands\" of times."
+    publishedDateTime: 2020-12-04T23:25:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sYuAZFTTxQw/trump-lawsuit-georgia-challenging-election-result"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-lawsuit-georgia-challenging-election-result.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-lawsuit-georgia-challenging-election-result.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e806eeae-f80a-466f-a8c3-c7209c14d158/86067518-0868-454e-9525-020b4623dbbf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Trump says he will leave office if Electoral College votes for Biden"
     excerpt: "President Trump said Thursday that he would leave office if the Electoral College votes for President-elect Joe Biden, while also promising to keep up with his legal fight."
     publishedDateTime: 2020-11-27T13:36:05Z

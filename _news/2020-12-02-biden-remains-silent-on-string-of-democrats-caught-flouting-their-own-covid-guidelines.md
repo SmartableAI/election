@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-silent-democrats-covid-guidel
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-silent-democrats-covid-guidelines.amp"
 type: article
 quality: 167
-heat: 167
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Consulting firm scrubs Wiki page of Biden’s COVID-19 czar: report"
+    excerpt: "The Wikipedia page for President-elect Joe Biden’s new Covid czar Jeff Zients has been scrubbed of material that could portray him as not progressive enough, Politico first reported. "
+    publishedDateTime: 2020-12-05T00:35:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HaSgGLYjXU4/consulting-firm-scrubs-wiki-page-of-bidens-covid-czar-report"
+    ampWebUrl: "https://www.foxnews.com/politics/consulting-firm-scrubs-wiki-page-of-bidens-covid-czar-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consulting-firm-scrubs-wiki-page-of-bidens-covid-czar-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Jeff-Zients-REUTERS.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "fneMBRCJ+guZX+dQRzbUilkEsz6gkmjmzbZvhAyJRQuEb0Jpd4+IOlWv/bwStFyp23pFekqe1+6wCdjK+Jr9A3sddiZ5/aCMQZgDLqcz1cMnKA1aEFgUqucxO9GVmb/UD7aPiTe+yye2cHlP9IvO2NbO5wkkujPcGp/3Iaw/0RhJeegJog4kBevvaOT/zVECPNG/X10iwaubiuEUm5enjnWNyWE/tTbtprvWvO6/YZmI8iGZHGxnwWppXmW0P3GtB4g5zuglZ3MUL+ix+zFNegCMTS24fMWA9hTDGIdjFaAhGOkGK/m16iKnuQmloDbinn3zEXoQRJU+GG9Mkg77uyLRQtMohaH/PTQFN1YKKfg=;ubffs7L4S8QGLf9SxRvl8g=="
 ---
