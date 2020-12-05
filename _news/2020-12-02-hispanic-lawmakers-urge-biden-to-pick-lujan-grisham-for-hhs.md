@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/hispanics-congress-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/hispanics-congress-biden-michelle-lujan-grisham-hhs/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Becerra among new candidates for Biden’s health secretary"
+    excerpt: "President-elect Joe Biden is eyeing three new candidates for health secretary after previous front-runners fell out of contention for the job this week, according to people familiar with the discussions."
+    publishedDateTime: 2020-12-04T23:24:00Z
+    webUrl: "https://www.politico.com/news/2020/12/04/biden-hhs-secretary-becerra-granholm-442970"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/71/3c/5d5f17854e198de23497914d09bd/190611-xavier-becerra-gtty-773.jpg"
+        width: 4500
+        height: 2999
+        isCached: true
 
 secured: "eE/3mI1OZAq0F6E8pdItu8x030waqHfxHwkPe0FW4rsTgEyH9OWMIa4xe0lYkwLvWaANWCEoUaoXOtFdwIlFjlzg2yVHEUInbXPWjbrhCHrXGKf4QtfdREJ8jc3cmQAyyc/SqBw1qZw+X9syvvbVEMRsJBGtP+wMTLVNC6sXfL8AQWVAdPpRNcFvVpTgv1SYbQR6M59Xdx0p/rER5AkI6EmIofrQ1MTNP7ehgKCZZzwUwSeQVErr9mGViZu5KfO3ED7AnV6EcsW7Jvgd0JhLHOWcwzmcX918MwMQgLssdhl/ObbXJvrATCc45re0MD3PzwikvpP83/jvJtbrzhHeW60ibYhoir2Jp3wIEGLbhdQ=;k9pur4lw53U3XsqAWH97+Q=="
 ---

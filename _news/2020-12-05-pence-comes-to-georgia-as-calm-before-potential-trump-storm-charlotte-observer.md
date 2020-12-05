@@ -109,8 +109,8 @@ related:
         isCached: true
   - title: "Trump campaign files election lawsuit in Georgia, suffers more legal defeats"
     excerpt: "Donald Trump's campaign said it filed a lawsuit in Georgia state court on Friday seeking to invalidate the presidential election results there, the latest in a series of legal challenges aimed at reversing his loss that have so far gone nowhere."
-    publishedDateTime: 2020-12-05T04:30:00Z
-    webUrl: "https://www.reuters.com/article/usa-election/trump-campaign-files-election-lawsuit-in-georgia-suffers-more-legal-defeats-idUSKBN28E37D"
+    publishedDateTime: 2020-12-05T09:48:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKBN28E37D"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E37D"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E37D"
     type: article
@@ -328,6 +328,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/21/81a7d18b-7048-4d17-b82d-971aace7b830/thumbnail/1200x630/182241d14d0784dc2ff695deb6bee018/cbsn-fusion-mike-pence-campaigns-in-georiga-for-senate-runoff-elections-thumbnail-592241-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "California faces stay-at-home orders, Trump heads to Georgia: 5 things to know this weekend"
+    excerpt: "Trump holds rally in Georgia for Republican senators, California faces stay-at-home orders and more things to start your weekend."
+    publishedDateTime: 2020-12-05T10:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/12/05/coronavirus-pandemic-california-trump-georgia-college-football-basketball/3823426001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3823426001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3823426001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/05/USAT/c80bf3a7-b05d-4cec-9925-62bd906ff66b-AP_Virus_Outbreak_California_2.jpg?auto=webp&crop=3428,1928,x0,y77&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "With 2 high-stakes Senate runoffs in the balance, Pence heads to Georgia a day before Trump’s potentially volatile visit"
     excerpt: "The GOP has been roiled by Trump’s continued denial of his own defeat and his baseless attacks that Republican officials in Georgia, including the governor and secretary of state, enabled widespread voter fraud on behalf of President-elect Joe Biden."

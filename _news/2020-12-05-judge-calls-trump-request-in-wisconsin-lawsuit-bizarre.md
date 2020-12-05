@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Judge calls Trump request in Wisconsin lawsuit 'bizarre'"
-excerpt: "A judge hearing President Donald Trump's federal lawsuit seeking to overturn Democrat Joe Biden's win in Wisconsin said Friday that the president's request to “remand” the case to the GOP-controlled Legislature to pick new electors was “bizarre."
-publishedDateTime: 2020-12-05T06:29:00Z
-originalUrl: "https://www.businessinsider.com/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre-2020-12"
-webUrl: "https://www.businessinsider.com/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre-2020-12"
-ampWebUrl: "https://www.businessinsider.com/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre-2020-12?amp"
+title: "Judge calls Trump request in Wisconsin lawsuit ‘bizarre’"
+excerpt: "A federal judge hearing President Donald Trump’s lawsuit seeking to overturn Democrat Joe Biden’s win in Wisconsin says that the president’s request to “remand” the case to the GOP-controlled Legislature to pick new electors was “bizarre."
+publishedDateTime: 2020-12-05T00:19:00Z
+originalUrl: "https://www.washingtonpost.com/politics/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre/2020/12/04/7eb2cf92-368f-11eb-9699-00d311f13d2d_story.html"
+webUrl: "https://www.washingtonpost.com/politics/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre/2020/12/04/7eb2cf92-368f-11eb-9699-00d311f13d2d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre/2020/12/04/7eb2cf92-368f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/judge-calls-trump-request-in-wisconsin-lawsuit-bizarre/2020/12/04/7eb2cf92-368f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Angry at election defeat, Trump seeks partial recount in Wisconsin"
@@ -1025,6 +1031,6 @@ related:
         height: 960
         isCached: true
 
-secured: "69EOpQ0GnjRd8z59R5e9TihmHhNTRTqRutC50959b3YqsK1Zh12X/hD+FA1fF3L4Ww5cp4L8SSjOfPmsVjGzxXtSD0viXQxaipX+MOLRlAUsbSXV0nrATCJBdKd+2xknKyCvyFULawGQhMbl79njeiLhkK27Vh7MjsGntZP2RJaAyILZgrbTXCXND+hZx0sze78/BfiDghx25fSR3QR7uY+bq/OcakVxHVGyXaPLDuejrshRC9ilX9nRhjUXJt/qw4cxiRu7nunLsOCSSWjIoYigUOZ+XB4rtHoZ/sM2pbcRBnmkyP7yF+EYzGJMBOYCvrYVZngRczvhpIaqTWKugiZpdRbyrXN6gYgvAoyDSJk=;3IqOUfVZFjxA+MF+efMIzQ=="
+secured: "iluQOB48MEtp1pnbjnbzsPFSNQIImuhfAUePDVkUGC0imcQ5EDC0tW1UIyKIbc8udTsBh5Aoe7Rt0nWPr23SJ7FOfbJZrkG4dQzSNzd95km7aZHZPqLNnmb5aRbvZ6pJD1BwFeTOh3ep5joDJUPmOx2W4I7H0WveE3+xdgubmOBC6KW8rCfAWbd1004prQyL+iauvibzKiRNwZrnepZEdqcZdC7WoA+byypepfjs8RO1WeRu/orGW2Cxdkfj1JSJTFAQeKZ1xASyAkGJfPWb1wmNFuEWhvpeutv6QfqdyPKTmEj80D6L2vKaazPFDTUEP/UjPrmouLWBzCIpf4FNrYhFbTHB98jEOuf0aaaRVtA=;WcWbt9bI7TXpbhJFR+zQhg=="
 ---
 

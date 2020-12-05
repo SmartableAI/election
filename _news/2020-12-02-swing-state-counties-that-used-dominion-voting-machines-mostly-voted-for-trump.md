@@ -351,22 +351,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Pentagon installs 2 Trump allies on defense advisory board"
-    excerpt: "The Pentagon has appointed two close political allies of President Donald Trump to a defense advisory board, continuing a purge of the Defense Department in the waning weeks of the Trump administratio"
-    publishedDateTime: 2020-12-04T20:59:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/pentagon-installs-2-trump-allies-on-defense-advisory-board/2020/12/04/9870cd42-3673-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/pentagon-installs-2-trump-allies-on-defense-advisory-board/2020/12/04/9870cd42-3673-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/pentagon-installs-2-trump-allies-on-defense-advisory-board/2020/12/04/9870cd42-3673-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Chinese firms on U.S. exchanges threatened by bill headed to Trump's desk"
     excerpt: "The U.S. House of Representatives passed a law to kick Chinese companies off U.S. stock exchanges if they do not fully comply with the country's auditing rules, giving President Donald Trump one more tool to threaten Beijing with before leaving office."
     publishedDateTime: 2020-12-03T00:45:00Z
@@ -700,6 +684,17 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Pentagon installs 2 Trump allies on defense advisory board"
+    excerpt: "The Pentagon has appointed two close allies of President Donald Trump to a defense advisory board, continuing a post-election purge in the final weeks of the administration."
+    publishedDateTime: 2020-12-05T06:30:00Z
+    webUrl: "https://www.businessinsider.com/pentagon-installs-2-trump-allies-on-defense-advisory-board-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/pentagon-installs-2-trump-allies-on-defense-advisory-board-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-installs-2-trump-allies-on-defense-advisory-board-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Yes, Trump can pardon himself — but it's a risky move that won't protect him from all prosecutions he could face"
     excerpt: "If the president were to issue himself a pardon before leaving office, it would likely be construed as an admission of guilt."
     publishedDateTime: 2020-11-26T17:45:00Z

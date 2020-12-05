@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump loyalist Loeffler's attacks on pastor Warnock risk suburban votes in Georgia's U.S. Senate race"
-excerpt: "Beau Davis, a 33-year-old security specialist from the Atlanta suburbs, is the kind of voter Republican Senators Kelly Loeffler and David Perdue may need to win runoff elections next month that will determine the balance of power in Washington."
-publishedDateTime: 2020-12-04T12:12:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-georgia-senate-idINKBN28E1MI"
-webUrl: "https://www.reuters.com/article/usa-election-georgia-senate-idINKBN28E1MI"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28E1MI"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28E1MI"
+title: "California faces stay-at-home orders, Trump heads to Georgia: 5 things to know this weekend"
+excerpt: "Trump holds rally in Georgia for Republican senators, California faces stay-at-home orders and more things to start your weekend."
+publishedDateTime: 2020-12-05T10:06:00Z
+originalUrl: "https://www.usatoday.com/story/news/2020/12/05/coronavirus-pandemic-california-trump-georgia-college-football-basketball/3823426001/"
+webUrl: "https://www.usatoday.com/story/news/2020/12/05/coronavirus-pandemic-california-trump-georgia-college-football-basketball/3823426001/"
+ampWebUrl: "https://amp.usatoday.com/amp/3823426001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3823426001"
 type: article
-quality: 110
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543447796&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30NU"
-    width: 817
-    height: 545
+  - url: "https://www.gannett-cdn.com/presto/2020/12/05/USAT/c80bf3a7-b05d-4cec-9925-62bd906ff66b-AP_Virus_Outbreak_California_2.jpg?auto=webp&crop=3428,1928,x0,y77&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -333,22 +333,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "California faces stay-at-home orders, Trump heads to Georgia: 5 things to know this weekend"
-    excerpt: "Trump holds rally in Georgia for Republican senators, California faces stay-at-home orders and more things to start your weekend."
-    publishedDateTime: 2020-12-05T10:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/12/05/coronavirus-pandemic-california-trump-georgia-college-football-basketball/3823426001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3823426001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3823426001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/05/USAT/c80bf3a7-b05d-4cec-9925-62bd906ff66b-AP_Virus_Outbreak_California_2.jpg?auto=webp&crop=3428,1928,x0,y77&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "With 2 high-stakes Senate runoffs in the balance, Pence heads to Georgia a day before Trump’s potentially volatile visit"
     excerpt: "The GOP has been roiled by Trump’s continued denial of his own defeat and his baseless attacks that Republican officials in Georgia, including the governor and secretary of state, enabled widespread voter fraud on behalf of President-elect Joe Biden."
     publishedDateTime: 2020-12-04T20:53:00Z
@@ -364,6 +348,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/PjSBn1l8fNjr-vsTzWC1Z5om8B0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NCHTIGDBJXWNWTHQRSBW6C2KD4.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump loyalist Loeffler's attacks on pastor Warnock risk suburban votes in Georgia's U.S. Senate race"
+    excerpt: "Beau Davis, a 33-year-old security specialist from the Atlanta suburbs, is the kind of voter Republican Senators Kelly Loeffler and David Perdue may need to win runoff elections next month that will determine the balance of power in Washington."
+    publishedDateTime: 2020-12-04T12:12:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-senate-idINKBN28E1MI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28E1MI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28E1MI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 110
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543447796&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30NU"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump heading to Georgia ahead of Senate runoffs"
     excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
@@ -540,6 +540,6 @@ related:
         height: 630
         isCached: true
 
-secured: "idfQACCcjOzDHpo7i8msXfd09+SETZ+akrEiTUlaZK5h6v3uBQZNH1qEgkE2aAVWrcnA7g+a0i6coxHzCG44RN2kF/mSYaulECVqtYEmlZBwYIfCgWJZIhKQfWhiVgQGfkMqbLhNbabTa+1lOc5nMPACnXE9E+4pz5fHQcVZgSiaF0tBZNEIgcYnLyPGZUNPdNag9pcAf1IShfejrqy1FH/PmS3D5Z2yuehR+rt44OAuFonMg8x9bKr7Jc8YCDy/DodcHyNUY2PBWEOq2sUa3JiKvvRuwXRS5zJ2vi2NVtK2FQsH5nFtPGWpnkUnvyA38Kr7667XcEvCb5LlLWpGE7nN10xseNxUPffovweLFZc=;X4p9W9b5AFfsFEw+8+3Qlw=="
+secured: "dQppe/C08PJxlNZmVZ/3kLGHmeXUdZ9WbsYAFR4y/qgBHfg1VLScymG+UgjBVtTY+3ARB8aztW1S2b0Lio+VXT+ke8rPp3FpAPF1n8Y4xXTRYPaH1Zj/M95fgeEtr27RB4my9UuMJfzbkcjfeCYoqQDdCTAhvOp0u7+n+ph0O1lNNRretLN1MU35Ct7HeUTayJoe6mS53P/IS4PqVu/FUmRujHYSMUsWTNt55xlfzIMJOPRKQ0spE1Qq+bbAh5Luj1MI2BCLJINbR5/aJRSaLmFFGWdWPTLmbNTr0NA42zrXxDKlrlhVMAvCdYCO7rXvE1xPUim0gchI9xaXS0HoHdpQ1PQdyEs0ELf7rK65Vag=;SpiAP9Ck5St/TdD3QsXXVw=="
 ---
 

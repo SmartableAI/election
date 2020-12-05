@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Pentagon installs 2 Trump allies on defense advisory board"
-excerpt: "The Pentagon has appointed two close political allies of President Donald Trump to a defense advisory board, continuing a purge of the Defense Department in the waning weeks of the Trump administratio"
-publishedDateTime: 2020-12-04T20:59:00Z
-originalUrl: "https://www.washingtonpost.com/world/national-security/pentagon-installs-2-trump-allies-on-defense-advisory-board/2020/12/04/9870cd42-3673-11eb-9699-00d311f13d2d_story.html"
-webUrl: "https://www.washingtonpost.com/world/national-security/pentagon-installs-2-trump-allies-on-defense-advisory-board/2020/12/04/9870cd42-3673-11eb-9699-00d311f13d2d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/world/national-security/pentagon-installs-2-trump-allies-on-defense-advisory-board/2020/12/04/9870cd42-3673-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/pentagon-installs-2-trump-allies-on-defense-advisory-board/2020/12/04/9870cd42-3673-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+excerpt: "The Pentagon has appointed two close allies of President Donald Trump to a defense advisory board, continuing a post-election purge in the final weeks of the administration."
+publishedDateTime: 2020-12-05T06:30:00Z
+originalUrl: "https://www.businessinsider.com/pentagon-installs-2-trump-allies-on-defense-advisory-board-2020-12"
+webUrl: "https://www.businessinsider.com/pentagon-installs-2-trump-allies-on-defense-advisory-board-2020-12"
+ampWebUrl: "https://www.businessinsider.com/pentagon-installs-2-trump-allies-on-defense-advisory-board-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-installs-2-trump-allies-on-defense-advisory-board-2020-12?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Trump raises more than $150 million appealing to false election claims"
@@ -795,6 +789,6 @@ related:
         height: 683
         isCached: true
 
-secured: "d/CP1pGdQ/eNKw3eSKP6+qp3q9CmYoM1XaAv9jgIYyuudn2jEwl2/4koOW8HH+T9uBma15N9L0JlvCkJgkhKtGdbYf/KO+cY5Q1enLK2men9UajfvsfeYWY91Zzce8mpEOH28ZDn8+4JsQrOrIv47FF8IdqNx+4gAZ/XfSVlo44nw0XQsoxbOixMb/Sk0zIx/q/bfhO/XMrR7+8MX3iyOyoqwPvyNr05iRtPxpTYTcPl5Y94LhKSV+nzDou1JvTqL7zHXM2pjxXrZC024hKlZQq6gycXhneNQr+/pJW3MfLdavW6nn6PEuKVPNS1PQDsNjBDJz3iW9Z/7ElTJ6rcQ+9mbcgnuTa0LXIu3mg5jWw=;UY13wF0TZ1iEHEwI0QBONA=="
+secured: "nW2SpUdWEouEAHDQUaVJLGpGrIBJ9Ixb7IXvDWje2NdTkFnWPjKsobDzWtV52luvm9ujkaQiu/eITcR5JR2zQ76g5TcOwZseS/BaDnqeuNSIes8bB13+jJDt2cHiJUxaHu6GZ2UhvYpy4m+ACMn1CVs/4RZCF1dRVg68kFJ4dT8QaOXZ9eggPIEBNekFAcHoPd0dE/7LYHlYkzfQB0rF0ItgdkBSLym7rg9dDcM38kOm3W0p9nGFEXf4QVEbVLTOpjEjthA6b9w2EWVaRClwI+gew31U3nOlYR0mcyKFfIApsOsbuhj/MoWdjNWn3YkbVibbxXVkCCYlLFXkx2tfN9oN0wno7TzbllIg+Th669s=;sRt2COeKi3XJJ+0UIWOUrA=="
 ---
 
