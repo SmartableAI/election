@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-says-doj-missing
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp"
 type: article
 quality: 188
-heat: 428
+heat: 448
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bc71753-778e-4f60-ad87-1c50cfa1104f/36f89332-d7c5-4524-ab7f-191e86a4ecc4/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Hemingway: Trump tackling election integrity issue 'unites Republican voters like nothing else'"
+    excerpt: "Republicans have been \"concerned\" with preserving election integrity prior to the 2020 presidential election, Mollie Hemingway said on Thursday."
+    publishedDateTime: 2020-12-05T18:03:00Z
+    webUrl: "https://www.foxnews.com/politics/hemingway-trump-tackling-election-integrity-republican-voters"
+    ampWebUrl: "https://www.foxnews.com/politics/hemingway-trump-tackling-election-integrity-republican-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hemingway-trump-tackling-election-integrity-republican-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "GM Stops Backing Trump Administration in Emissions Fight With California"
     excerpt: "General Motors will no longer back the administration in its legal battle to strip California’s authority to set its own fuel-efficiency regulations, saying GM’s goals for green cars are aligned with the state and the new Biden administration."

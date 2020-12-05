@@ -192,6 +192,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Donald Trump Is Not a Political Genius"
+    excerpt: "As far as I can figure out, no Presidential margin reported at 1AM even half as large as Trump had at 3:41 AM 11/4 did not hold up in the state's history. So we are supposed to believe that there was double the natural volatility 2:42 hours later in the count than ever in history?"
+    publishedDateTime: 2020-12-05T13:23:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/05/donald_trump_is_not_a_political_genius_530753.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/528925_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Donald Trump Hates Democracy"
     excerpt: "President Trump was all frauded out Sunday morning on Fox News: This election was a total fraud. And: This is the greatest fraud in the history of our country, from an electoral standpoint. And: This is a fraud against the American people."
     publishedDateTime: 2020-12-02T11:41:00Z

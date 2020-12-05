@@ -303,6 +303,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "At Georgia Senate rally, Trump can help his party or himself"
+    excerpt: "President Donald Trump’s first political rally since losing his reelection bid is ostensibly to urge support for the Republican incumbents in Georgia’s two runoffs that will decide which party control"
+    publishedDateTime: 2020-12-05T17:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-senate-rally-trump-party-74557704"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-senate-rally-trump-party-74557704"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-senate-rally-trump-party-74557704"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a043d2e65b344114b1183f496467d566_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump's false fraud claims could threaten GOP hopes in Georgia Senate races"
     excerpt: "The president has pledged to devote \"125%\" of his energy to the election he lost, despite the raging coronavirus pandemic."
     publishedDateTime: 2020-12-04T00:42:00Z

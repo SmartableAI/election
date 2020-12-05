@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Lawyers say Trump administration has handed over new data that will help reunite separated migrant families"
-    excerpt: "The ACLU's Lee Gelernt said he's often asked whether the Trump administration has helped reunite families. He said that rather than help, it has withheld data."
-    publishedDateTime: 2020-12-03T10:07:00Z
-    webUrl: "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249782"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249782"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 117
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2018_31/2514806/180730-tornillo-port-of-entry-toys-ac-956p_fcc586443aed0aae4a4cd4baa38b093b.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "HabCr4vPQKo64lMJgWJf1iLIjSiAxlkHUBQNjbqvheoF9zIbJEnVC29iSRIwGyBqwvQrUUPcqhOn4J635W6W5C0ZFBmE1MZQqweEZFFTPFPrqElVUVD197veIHMvdfkHxvkF6Mlw8Ap/zY0jJHVdxjV7JiIREGhpH8UooFmWWiL6Dc1vywtvMuBz/wSI5WNcc+2L2GOGgT8xSLgfgqFj9Rirs/CwJRWBevDY+8sxtISjeN3619Vg9bsfKllrOH93bNr0KraCnE1+yXLwK4Vbm4WhKYDbZ+1Sh3ot8ZlGk695MHO5XaMwYNc77XAjjbkhvKYCIsTXMI+okb807jn7cD1phZBRTdzgJMgLtVga49k=;i/SVf/xUeAQFdjWJk8vqVA=="
 ---

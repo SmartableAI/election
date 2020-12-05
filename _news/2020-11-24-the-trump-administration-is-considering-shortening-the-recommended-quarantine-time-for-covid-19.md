@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump administration removes experts from Defense Policy Board"
+    excerpt: "Several high profile members of the Defense Policy Board were removed on Wednesday by the Trump administration, in yet another purge of longstanding foreign policy experts and national security establishment figures in the final days of the Trump era, according to three defense officials.\n    \n"
+    publishedDateTime: 2020-11-26T18:39:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k8suVwUNIo4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180602110519-pentagon-logo-podium-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump admits 'it's hard to get to the Supreme Court'"
     excerpt: "CNN's Amara Walker and Carl Bernstein discuss President Trump's admission during a Fox News interview that \"it's hard\" to get cases to the Supreme Court and how Trump's continued legal challenges could undermine future election processes.\n    \n"
     publishedDateTime: 2020-11-29T19:57:23Z
@@ -47,67 +63,35 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Canada to Trump: You can't take our prescription drugs"
-    excerpt: "Canada is putting the kibosh on President Donald Trump's efforts to lower drug prices by importing medications from our northern neighbor.\n    \n"
-    publishedDateTime: 2020-11-30T16:16:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnI4UU8-Rj4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
+  - title: "The Point: How Michael Flynn perfectly explains Donald Trump's presidency"
+    excerpt: "Three weeks into Donald Trump's presidency, he fired Michael Flynn as his national security adviser. On Wednesday, eight weeks to the day when Trump will leave the White House, he pardoned Flynn for lying to the FBI as part of the investigation into Russian interference in the 2016 election.\n    \n"
+    publishedDateTime: 2020-11-26T02:27:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_WXSWKniNEU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/donald-trump-michael-flynn-pardon/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/donald-trump-michael-flynn-pardon/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190103095059-20190103-drug-prices-gfx-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170114094510-trump-flynn-campaign-trail-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Justice Department releases Trump's pardon of Flynn and asks court for dismissal"
-    excerpt: "The Justice Department on Monday released a copy of President Donald Trump's pardon of former national security adviser Michael Flynn and formally asked a federal court to dismiss the case against him.\n    \n"
-    publishedDateTime: 2020-11-30T23:28:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rc1liRHkvaI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/michael-flynn-pardon-filing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/michael-flynn-pardon-filing/index.html"
+  - title: "Trump digs deeper into debunked conspiracy theories instead of embracing reality "
+    excerpt: "At first, President Donald Trump's refusal to concede an election he clearly lost appeared to many of his allies a temporary stage of grief. Give it a few days, some shrugged. A week, tops.\n    \n"
+    publishedDateTime: 2020-11-20T14:52:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i-3-GJql1x0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/trump-conspiracy-theories-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/trump-conspiracy-theories-election-2020/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124230912-03-michael-flynn-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Federal appeals court rules against the Trump administration's public charge rule"
-    excerpt: "The Ninth Circuit Court of Appeals on Wednesday ruled against the Trump administration's controversial \"public charge\" rule that critics say has a chilling effect on immigrants who may need to seek medical assistance, marking the latest blow against the regulation.\n    \n"
-    publishedDateTime: 2020-12-02T21:58:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q3CoLbVR-uQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/immigration-public-charge/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/immigration-public-charge/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170612151430-ninth-u-s-circuit-court-of-appeals-0612-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Courts across the country hand Trump and his allies more losses as attempts to upend election results collapse"
-    excerpt: "The Trump campaign and its allies were dealt additional blows in Michigan, Nevada, Wisconsin and Arizona on Friday as courts rejected their attempts to challenge the presidential election results.\n    \n"
-    publishedDateTime: 2020-12-05T02:23:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aVc3S8TDq-g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-election-defeats-courts/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-election-defeats-courts/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204145824-01-trump-1126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120140503-02-white-house-1118-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -127,147 +111,69 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Pentagon nominee spreads debunked conspiracies and tweets suggesting Trump declare martial law"
-    excerpt: "President Donald Trump's nominee to become a senior Pentagon official spread debunked conspiracies on Twitter that called Trump's election loss to Joe Biden a \"coup\" attempt and shared tweets that suggest Trump should declare martial law.\n    \n"
-    publishedDateTime: 2020-12-04T13:02:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AW2xlQXEi_4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-nominee-pentagon-martial-law/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-nominee-pentagon-martial-law/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/151211153020-scott-ogrady-closeup-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump Raises $170 Million as He Denies His Loss and Eyes the Future"
-    excerpt: "The president’s campaign has ratcheted up its appeals for cash, but 75 percent of every contribution is going to a new political action committee that could fund his next political move."
-    publishedDateTime: 2020-12-01T04:51:00Z
-    webUrl: "https://www.nytimes.com/2020/11/30/us/politics/trump-campaign-donations.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/30/us/politics/trump-campaign-donations.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/us/politics/trump-campaign-donations.amp.html"
+  - title: "Midnight Ruling Exposes Rifts at a Supreme Court Transformed by Trump"
+    excerpt: "The justices issued six opinions, several of them unusually bitter, in upholding challenges from churches and synagogues to state pandemic restrictions on religious services."
+    publishedDateTime: 2020-11-26T22:45:00Z
+    webUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30trump-money-photo/30trump-money-photo-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/26/us/politics/26dc-scotus-church2/26dc-scotus-church2-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Tenants Sue Trump Over Scheme That Drove Up Their Rents"
-    excerpt: "The latest legal front against the outbound president involves a maneuver that earned him and his siblings millions while lowering their taxes."
-    publishedDateTime: 2020-12-03T22:13:00Z
-    webUrl: "https://www.nytimes.com/2020/12/03/nyregion/trump-lawsuit-tenants.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/03/nyregion/trump-lawsuit-tenants.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/nyregion/trump-lawsuit-tenants.amp.html"
+  - title: "Trump Gave W.H.O. a List of Demands. Hours Later, He Walked Away."
+    excerpt: "When President Trump quit the health organization, he left a list of seven demands on the table. Here they are."
+    publishedDateTime: 2020-11-27T14:43:00Z
+    webUrl: "https://www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/03/multimedia/03trump-lawsuit-1/03trump-lawsuit-1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/23/world/00trump-who-1/00trump-who-1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "A Gathering Political Storm Hits Georgia, With Trump on the Way"
-    excerpt: "With two crucial senate seats up for grabs, Mike Pence and Barack Obama joined the fray in support of their party’s candidates, and President Trump is headed there on Saturday."
-    publishedDateTime: 2020-12-05T00:22:00Z
-    webUrl: "https://www.nytimes.com/2020/12/04/us/politics/trump-georgia-senate-obama.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/04/us/politics/trump-georgia-senate-obama.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/04/us/politics/trump-georgia-senate-obama.amp.html"
+  - title: "Trump administration hands over new data on families separated at border"
+    excerpt: "NBC News’ Jacob Soboroff reports on newly released details from the Trump administration on migrant families who were separated at the southern border and how this information may impact the unification efforts."
+    publishedDateTime: 2020-12-04T00:21:00Z
+    webUrl: "https://www.nbcnews.com/now/video/trump-administration-hands-over-new-data-on-families-separated-at-border-97081413807"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97081413807"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97081413807"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/04/us/politics/04georgia1/04georgia1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump Associates Said to Have Been Scrutinized in Suspected Pardon Scheme"
-    excerpt: "A billionaire from San Francisco sought clemency for a psychologist convicted of monetary crimes. The Republican donor Elliott Broidy and a lawyer for Jared Kushner were enlisted."
-    publishedDateTime: 2020-12-04T01:34:00Z
-    webUrl: "https://www.nytimes.com/2020/12/03/us/pardon-elliott-broidy-abbe-lowell.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/03/us/pardon-elliott-broidy-abbe-lowell.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/us/pardon-elliott-broidy-abbe-lowell.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 134
     images:
-      - url: "https://static01.nyt.com/images/2020/12/03/lens/03dc-pardon-justice/merlin_180727236_7067670e-968d-44e7-b237-21f48bffbe6e-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_trump_separation_201203_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Could Trump pardon family members if they haven't been charged with crimes?"
-    excerpt: "Could Trump pardon family members if they haven't been charged with a crime? WASHINGTON — Speculation that President Donald Trump might issue pardons before he leaves office for members of his family or other supporters raises a question about whether pardons can be issued pre-emptively — that is,"
-    publishedDateTime: 2020-12-03T02:14:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/could-trump-pardon-family-members-if-they-haven-t-been-n1249707"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249707"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249707"
+  - title: "Lawyers say Trump administration has handed over new data that will help reunite separated migrant families"
+    excerpt: "The ACLU's Lee Gelernt said he's often asked whether the Trump administration has helped reunite families. He said that rather than help, it has withheld data."
+    publishedDateTime: 2020-12-03T10:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249782"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249782"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 133
+    quality: 117
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432571/201202-donald-trump-jm-1031_26037655efec3920d6e2760cd31d74ff.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2018_31/2514806/180730-tornillo-port-of-entry-toys-ac-956p_fcc586443aed0aae4a4cd4baa38b093b.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Supreme Court Takes Up Trump Plan to Exclude Unauthorized Immigrants in Redistricting"
-    excerpt: "The administration’s efforts, which are subject to practical hurdles, would upset a constitutional consensus and could shift political power from Democratic states to Republican ones."
-    publishedDateTime: 2020-11-30T10:14:00Z
-    webUrl: "https://www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 128
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30dc-scotus/30dc-scotus-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Supreme Court skeptical of Trump's plan to exclude undocumented immigrants from census"
-    excerpt: "Several justices, including some conservative ones, seemed to doubt that the president had such a sweeping power to modify the census results."
-    publishedDateTime: 2020-11-30T17:59:00Z
-    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-skeptical-trump-s-plan-exclude-undocumented-immigrants-census-n1249373"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249373"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249373"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3431877/201130-donald-trump-jm-1222_09c5176df224157034d1666e28d89ff9.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump threatens to veto defense bill over social media rule"
-    excerpt: "President Donald Trump threatened to veto must-pass defense policy legislation on Tuesday unless lawmakers agree to repeal a legal shield for social media companies, a move that one senior House staffer called \"a total non-starter\" for Democrats."
-    publishedDateTime: 2020-12-02T03:57:00Z
-    webUrl: "https://www.politico.com/news/2020/12/01/trump-threatens-veto-defense-bill-social-media-442115"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/30/50/55b84843455c9998b73b04e76fd1/20201129-djt-gty-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "JowXMLV4pejHcLQ6K1wRMT17PxqnIfia+mgs7iKMkeezJWvcEZsHjYwhgWafpLb2v2/4m5YrO4Ym59Qdh3hqlg9caNrBS/QxmHMB46GPvAL4VnZvxxhKAmIKndgYc0O4UbySDIV/rwu7w6n9LzD/RtpyKKRWvBZGu2lJ0x2xxs3uEbPGhTOdHA0tAWVx+AMYu//NDbUZP2P5HFhwaE3qXdrkn9kh25QOvY/YgKiuymNj0HQ9vTd01lN6orZ6/FuKHaMZzStKOtC8x6DNmus+Stz0Y0vmWZ7/zcZsj0pLacA04UxcUg0c7hLHVZbGkT4/+Qp2B22j3fa+8NCPWrhk21O55DwBltq9lfO/Yu6N/CQ=;TOGQnBwhkhZyyC+aTYecRw=="

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Transition Highlights: Judge Dismisses Trump Lawsuit in Pennsylvania"
+    excerpt: "Senator Pat Toomey of Pennsylvania, a Republican, said that with the dismissal, the president had “exhausted” his legal options in the state. Senator Kelly Loeffler of Georgia is in isolation after testing positive for the coronavirus."
+    publishedDateTime: 2020-11-26T22:13:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/21/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/21/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/21/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/21/world/21transition-briefing-pennsylvaniaSUB/21transition-briefing-pennsylvaniaSUB-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "mKX8Z1eJ7UMttjf/cejJfUQnCKJTi4GXUijbVpY52jnayBK4QXviJJCKvm5jTPzGUW44gEcaiRDP93Uw2eNJAamxYsj2Qndns1tA58fwOHLSS3bqAZZZ84QAJWu1SUZiIBsbjKOhAxvSRHA0yJQ6ppdrLh6LAYjfTyXpNQXsh473WdCG5NGmvX+63K8faQx6NsyEq6mJwtO7iT8pUj6xH9Apsdrp+EFTmmO5dtsl/C7E/Uz5L4/hq/P45wjuFLx0vXDlgF5tcxswF+uRg6hLd4XEs785NIQX4Juhv5FFKCYKfAv3LGoYgPfjvxh/ywyLMhGTByGygPwMLPa6KEqjOFz1HHm0fkqoINfpF4bWbLw=;Nxw1bY/OEkreRXpQbuT6XQ=="
 ---

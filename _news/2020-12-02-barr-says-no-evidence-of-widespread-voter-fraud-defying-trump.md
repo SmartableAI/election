@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence's political future remains clouded by Trump"
+    excerpt: "Days after the election, Mike Pence called a close friend for a 30-minute conversation to analyze what had just happened and what it all might mean for the future of the Republican Party. According to this person, the vice president was upbeat about the success of GOP candidates lower down the ballot,"
+    publishedDateTime: 2020-12-05T18:11:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ftlqIK9dZS4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120140130-trump-pence-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Arizona Gov. Doug Ducey defends election process after Trump attack"
     excerpt: "Arizona Republican Gov. Doug Ducey sent a lengthy string of tweets Monday night defending the state's election process after being attacked by President Donald Trump for his handling of it.\n    \n"
     publishedDateTime: 2020-12-01T04:57:43Z
@@ -48,19 +64,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "William Barr breaks with Trump's election fantasy"
-    excerpt: "Attorney General William Barr just dealt the most credible blow to Donald Trump's lies about a stolen election, precisely because he previously often came across more as the President's personal lawyer than a neutral arbiter of justice.\n    \n"
-    publishedDateTime: 2020-12-02T07:27:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3LaWOvHAMK4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/william-barr-donald-trump-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/william-barr-donald-trump-election/index.html"
+  - title: "Analysis: GOP silence on Trump's false election claims recalls McCarthy era"
+    excerpt: "The silence of congressional Republican leaders as President Donald Trump's unfounded claims of election fraud grow wilder and more venomous increasingly resembles the party's deference to Sen. Joe McCarthy during the worst excesses of his anti-Communist crusade in the early 1950s.\n    \n"
+    publishedDateTime: 2020-12-01T12:09:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MeBlUYs1Nx8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-election-claims-mccarthy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-election-claims-mccarthy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 190
+    quality: 188
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902162801-bill-barr-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130170258-mcconnell-1110-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -77,22 +93,6 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120184839-governor-brian-kemp-1112-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "While Trump rants about votes, none of his election security officials support him "
-    excerpt: "President Donald Trump is increasingly isolated in his claims of election fraud as a growing number of senior administration officials are either directly contradicting his baseless allegations or refusing to echo them.\n    \n"
-    publishedDateTime: 2020-12-04T23:51:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NTK-6cpoHhc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-election-security-officials/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-election-security-officials/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 184
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200916062816-donald-trump-0901-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,51 +128,51 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's legal defeats pile up while his attacks on Georgia's election system raise GOP concerns "
-    excerpt: "President Donald Trump found himself trapped in an election riddle of his own making Friday -- continuing to push false claims that the election was a \"total scam,\" even after another humiliating court rebuke in Pennsylvania, while insisting that his supporters should turn out in Georgia's January Senate"
-    publishedDateTime: 2020-11-28T05:15:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xAwCxnu1PRg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
+  - title: "Georgia election official pleads with Trump and Republicans to 'stop inciting acts of violence'"
+    excerpt: "A Georgia election official on Tuesday condemned threats of physical violence and intimidation against election workers and officials, pleading with President Donald Trump to denounce the threats and urging both of the state's Republican senators to intervene.\n    \n"
+    publishedDateTime: 2020-12-02T01:24:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DnM9T6vgK1Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/georgia-election-official-trump-republicans-violence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/georgia-election-official-trump-republicans-violence/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 177
+    quality: 178
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201171009-sterling-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump frustrated with Barr after election comments but officials don't want AG fired, sources say"
-    excerpt: "President Donald Trump is frustrated with Attorney General William Barr after his comments to The Associated Press breaking from the President's false claims of fraud in the election, two sources tell CNN.\n    \n"
-    publishedDateTime: 2020-12-03T02:31:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nTgP5J13uOo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/trump-william-barr-frustration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/trump-william-barr-frustration/index.html"
+  - title: "Trump raises more than $207 million since Election Day as he pushes baseless election fraud claims"
+    excerpt: "President Donald Trump's political operation raised more than $207 million since Election Day, as the President inundates his supporters with fundraising appeals and refuses to concede his White House loss, according to figures released Thursday night by his campaign.\n    \n"
+    publishedDateTime: 2020-12-04T00:26:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UKvy1orU01E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-fundraising-election-day/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-fundraising-election-day/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 177
+    quality: 176
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201225050-trump-barr-split-1201-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130728-02-trump-1203-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration removes experts from Defense Policy Board"
-    excerpt: "Several high profile members of the Defense Policy Board were removed on Wednesday by the Trump administration, in yet another purge of longstanding foreign policy experts and national security establishment figures in the final days of the Trump era, according to three defense officials.\n    \n"
-    publishedDateTime: 2020-11-26T18:39:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k8suVwUNIo4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-administration-defense-policy-board/index.html"
+  - title: "Canada to Trump: You can't take our prescription drugs"
+    excerpt: "Canada is putting the kibosh on President Donald Trump's efforts to lower drug prices by importing medications from our northern neighbor.\n    \n"
+    publishedDateTime: 2020-11-30T16:16:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnI4UU8-Rj4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/canada-trump-prescription-drug-imports/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180602110519-pentagon-logo-podium-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190103095059-20190103-drug-prices-gfx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -189,6 +189,38 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127145444-01-trump-golfing-1127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Melania Trump's White House holiday decor spotlights essential workers"
+    excerpt: "'Tis the holiday season at the White House. All of the halls, from the East Room to the Red Room, were decked by over 125 volunteers this weekend and unveiled Monday to feature classic holiday décor with an \"America the Beautiful\" theme for the Trumps' final Christmas in office.\n    \n"
+    publishedDateTime: 2020-11-30T15:13:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4piMF8Sq3os/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130093329-01-white-house-holiday-decorations-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: Trump's pardon of Michael Flynn"
+    excerpt: "The Justice Department on Monday released a copy of President Donald Trump's pardon last week of former national security adviser Michael Flynn.\n    \n"
+    publishedDateTime: 2020-11-30T23:07:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CWMM6zvlHNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/flynn-pardon-read-file/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/flynn-pardon-read-file/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130175525-trump-flynn-pardon-signature-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -224,51 +256,227 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "How Trump raised massive amounts of money after the election and other takeaways from campaign filings"
-    excerpt: "President Donald Trump raised staggering amounts after losing the White House. Casino billionaire Sheldon Adelson kept donating in the election's waning days, and South Carolina Sen. Lindsey Graham set a new fundraising high water mark for Senate incumbents.\n    \n"
-    publishedDateTime: 2020-12-04T20:59:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2LY-rSs8bPM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/five-takeaways-from-trump-and-biden-fundraising/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/five-takeaways-from-trump-and-biden-fundraising/index.html"
+  - title: "Trump attorney issues call for violence against truth-telling former election cybersecurity official"
+    excerpt: "An attorney for the Trump campaign on Monday issued a call for violence against Chris Krebs, a former cybersecurity official who was unceremoniously ousted from his post by President Donald Trump after he rejected the President's unfounded claims of widespread voter fraud.\n    \n"
+    publishedDateTime: 2020-12-01T04:38:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8KMyXTVyliA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/joe-digenova-attorney-trump-campaign-chris-krebs-violence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/joe-digenova-attorney-trump-campaign-chris-krebs-violence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180319134937-joseph-e-digenova-smerconish-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Expect a 'flurry' of pardons before Trump leaves office, source says"
+    excerpt: "The public should expect a \"flurry\" of pardons before President Donald Trump leaves office, a source close to the White House says, as has happened at the end of previous administrations.\n    \n"
+    publishedDateTime: 2020-12-02T22:40:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SWj2s8ZcYV4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/donald-trump-flurry-of-pardons/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/donald-trump-flurry-of-pardons/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump looks at pre-pardons like a family insurance policy"
+    excerpt: "Beg your pardon?\n    \n"
+    publishedDateTime: 2020-12-02T20:39:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0NHahqkWLSM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/trump-presidential-pardon-children/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/trump-presidential-pardon-children/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201143231-01-trump-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump using military funding as leverage in fight with tech giants"
+    excerpt: "President Donald Trump's threat Tuesday to veto an annual defense bill unless Congress removes legal protections for social media companies drew swift, sharp bipartisan pushback from lawmakers who charged Trump was using leverage over the troops to settle personal scores.\n    \n"
+    publishedDateTime: 2020-12-02T18:28:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ot5LnSFVLHY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/trump-ndaa-threat-section-230/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/trump-ndaa-threat-section-230/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201143231-01-trump-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: What's Ivanka Trump's next move?"
+    excerpt: "Exactly seven weeks from today, Donald Trump won't be President anymore. And likewise, his eldest daughter, Ivanka, will be out of a job.\n    \n"
+    publishedDateTime: 2020-12-03T00:28:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bTek0dzWnEc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/ivanka-trump-whats-next/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/ivanka-trump-whats-next/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827222552-107-rnc-thursday-ivanka-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact checking Trump's month of shifting, consistently baseless claims for why he lost the election  "
+    excerpt: "In the month since the election, President Donald Trump has grasped for seemingly any theory to explain why he lost to Joe Biden, no matter how outlandish -- dead people voted, poll watchers were illegally removed, foreign countries influenced the tabulation of the votes! Yet as his explanations have"
+    publishedDateTime: 2020-12-05T17:03:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N1dWVdTalak/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/trump-november-election-roundup/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/trump-november-election-roundup/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112160416-twitter-trump-tweet-election-misinformation-label---stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New combative Ivanka Trump sparks questions about her future"
+    excerpt: "A more combative Ivanka Trump has emerged with little more than one month left in her role as adviser to President Donald Trump, as the first daughter makes a conscious effort to publicly push back on her critics.\n    \n"
+    publishedDateTime: 2020-12-05T16:41:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kbwRoBVXXVQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/ivanka-trump-future/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/ivanka-trump-future/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202192457-ivanka-trump-deposition-lawsuit-inaugural-committee-scannell-tsr-vpx-00000930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Ex-Presidents fill leadership vacuum as Trump ignores worsening pandemic"
+    excerpt: "This is what presidential leadership looks like.\n    \n"
+    publishedDateTime: 2020-12-03T09:11:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tvbc7KqK8rU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-coronavirus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-coronavirus-vaccine/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump sees 'the writing on the wall' despite what he maintains publicly about the election, advisers say "
-    excerpt: "Despite what President Donald Trump is tweeting and saying publicly in the wake of Arizona and Wisconsin certifying President-elect Joe Biden's victory Monday, Trump sees the scoreboard and understands he has no chance of hanging on to the presidency, two White House advisers told CNN.\n    \n"
-    publishedDateTime: 2020-12-01T02:27:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GHexN5-hjxI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/trump-writing-on-the-wall-election-advisers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/trump-writing-on-the-wall-election-advisers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130002955-donald-trump-videoconference-1126-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "White House exodus begins even as Trump continues to baselessly claim victory"
-    excerpt: "White House staffers at all levels are plotting their departures as a growing number of aides to President Donald Trump are abandoning his quest to overturn the 2020 election results -- some in frustration with the building they are leaving behind.\n    \n"
-    publishedDateTime: 2020-12-04T22:21:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KKnFaxZVI4w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-loyalty-purge/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-loyalty-purge/index.html"
+  - title: "President Donald Trump raises more than $170 million since Election Day as he pushes baseless fraud claims"
+    excerpt: "President Donald Trump and his political operation have raised more than $170 million since Election Day, a person familiar with the matter said -- a massive fundraising haul fueled by Trump's baseless allegations that the election was rigged.\n    \n"
+    publishedDateTime: 2020-12-01T14:23:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9cfULf62V9w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/president-donald-trump-raises-more-than-170-million-since-election-day/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/president-donald-trump-raises-more-than-170-million-since-election-day/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130000216-donald-trump-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's intelligence chief warns China is the greatest threat to US since WWII"
+    excerpt: "The Trump administration's most senior intelligence official issued a stark warning Thursday that China is preparing for \"an open-ended period of confrontation with the US,\" urging bipartisan action to address \"the greatest threat to America today\" and to \"democracy around the world since World War II.\"\n"
+    publishedDateTime: 2020-12-03T22:58:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ChEfcw0Vozg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/ratcliffe-china-threat-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/ratcliffe-china-threat-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200528134604-01-john-ratcliffe-0505-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Justice Department releases Trump's pardon of Flynn and asks court for dismissal"
+    excerpt: "The Justice Department on Monday released a copy of President Donald Trump's pardon of former national security adviser Michael Flynn and formally asked a federal court to dismiss the case against him.\n    \n"
+    publishedDateTime: 2020-11-30T23:28:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rc1liRHkvaI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/michael-flynn-pardon-filing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/michael-flynn-pardon-filing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124230912-03-michael-flynn-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Federal appeals court rules against the Trump administration's public charge rule"
+    excerpt: "The Ninth Circuit Court of Appeals on Wednesday ruled against the Trump administration's controversial \"public charge\" rule that critics say has a chilling effect on immigrants who may need to seek medical assistance, marking the latest blow against the regulation.\n    \n"
+    publishedDateTime: 2020-12-02T21:58:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q3CoLbVR-uQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/immigration-public-charge/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/immigration-public-charge/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170612151430-ninth-u-s-circuit-court-of-appeals-0612-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's criticism of GOP Senate candidates has Republicans worried ahead of rally"
+    excerpt: "President Donald Trump heads to Georgia on Saturday to campaign for two Republican senators one month ahead of a critical runoff that will determine which party controls the Senate. But Trump's visit comes as he has spent the last several weeks consumed by his own election loss while attacking party"
+    publishedDateTime: 2020-12-04T22:47:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XTO1_LseAAM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-georgia-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-georgia-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130728-02-trump-1203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Plotting the future: Trump kids even look to profit from their father's fallen legacy "
+    excerpt: "It was Thanksgiving, but instead of being seated at an elaborate table dressed with gold silverware, expensive china and a buffet of chilled seafood, turkey and beef tenderloin, waited on by household staff, Donald Trump Jr., Eric Trump, Ivanka Trump and Jared Kushner were in the wilderness of Maryland.\n"
+    publishedDateTime: 2020-12-03T19:55:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z5-B-ZTFF8w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-kids-future-presidency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-kids-future-presidency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203122910-03-trump-kids-rnc-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -288,83 +496,101 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP senators' strategy on Trump's election fraud claims: Keep quiet and carry on "
-    excerpt: "A wide range of Republican senators are shrugging off President Donald Trump's evidence-free claims that mass voter fraud cost him the election, ignoring their party leader's relentless attacks against a foundation of American democracy amid their growing expectation that the matter will be resolved"
-    publishedDateTime: 2020-12-01T02:44:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jZHRsL5biNA/index.html"
+  - title: "FDA chief meets with Meadows again as Trump remains frustrated with pace of vaccine approval"
+    excerpt: "Embattled Food and Drug Administration Commissioner Stephen Hahn met with White House chief of staff Mark Meadows for second day in a row on Wednesday as President Donald Trump remains frustrated no Covid-19 vaccine has been granted US emergency approval yet.\n    \n"
+    publishedDateTime: 2020-12-02T18:28:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tEsuZZ9siU4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/trump-hahn-fda-vaccine-mark-meadows/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/trump-hahn-fda-vaccine-mark-meadows/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924181014-hahn-0923-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "‘It Has All Gone Too Far’: Georgia Election Official Lashes Trump"
-    excerpt: "Gabriel Sterling, a voting system official in Georgia, harshly criticized the president for failing to condemn threats of violence against people overseeing the voting system in his state."
-    publishedDateTime: 2020-12-02T00:50:00Z
-    webUrl: "https://www.nytimes.com/2020/12/01/us/politics/georgia-election-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/01/us/politics/georgia-election-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/us/politics/georgia-election-trump.amp.html"
+  - title: "Democrats seek disciplinary investigation for Trump lawyer who called for violence against former election cybersecurity official"
+    excerpt: "Congressional Democrats on Wednesday asked the DC Bar's Office of Disciplinary Counsel to open an investigation into an attorney for the Trump campaign who had issued a call for violence against a former cybersecurity official who was ousted from his post after he rejected President Donald Trump's unfounded"
+    publishedDateTime: 2020-12-03T04:06:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/psfIz6i84eE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/democrats-disciplinary-action-digenova-trump-lawyer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/democrats-disciplinary-action-digenova-trump-lawyer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180319134937-joseph-e-digenova-smerconish-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Pentagon nominee spreads debunked conspiracies and tweets suggesting Trump declare martial law"
+    excerpt: "President Donald Trump's nominee to become a senior Pentagon official spread debunked conspiracies on Twitter that called Trump's election loss to Joe Biden a \"coup\" attempt and shared tweets that suggest Trump should declare martial law.\n    \n"
+    publishedDateTime: 2020-12-04T13:02:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AW2xlQXEi_4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-nominee-pentagon-martial-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-nominee-pentagon-martial-law/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/151211153020-scott-ogrady-closeup-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Mark Kelly sworn in by Pence, flipping Senate seat in Trump 'rigged election' state blue"
+    excerpt: "Kelly's swearing-in gives Democrats a Senate pickup in Arizona, where Trump claims there was massive voter fraud."
+    publishedDateTime: 2020-12-02T20:38:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/mark-kelly-sworn-pence-flipping-senate-seat-trump-rigged-election-n1249732"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249732"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249732"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 156
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432713/201202-mark-kelly-swearing-in-jm-1456_75186dab390f83298dd0535de87c37d9.jpg"
+        width: 2500
+        height: 1664
+        isCached: true
+  - title: "Feeling Spurned by Trump, U.N. Sees Redemption in Biden and Team"
+    excerpt: "Diplomats say the Trump administration’s “America First” policy demeaned the United Nations. But the organization is feeling reinvigorated by the president-elect and his choice of ambassador."
+    publishedDateTime: 2020-12-03T22:46:00Z
+    webUrl: "https://www.nytimes.com/2020/12/03/world/americas/feeling-spurned-by-trump-un-sees-redemption-in-biden-and-team.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/03/world/americas/feeling-spurned-by-trump-un-sees-redemption-in-biden-and-team.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/world/americas/feeling-spurned-by-trump-un-sees-redemption-in-biden-and-team.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01georgia-vote/01georgia-vote-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/01/world/01nations-biden5/01nations-biden5-facebookJumbo.jpg"
         width: 1050
-        height: 550
+        height: 549
         isCached: true
-  - title: "Wisconsin’s Top Court Rejects Trump Lawsuit as His Election Push Fades"
-    excerpt: "The Supreme Court in the state narrowed yet another legal path for the Trump campaign as it tries to overturn his loss to Joe Biden."
-    publishedDateTime: 2020-12-04T00:11:00Z
-    webUrl: "https://www.nytimes.com/2020/12/03/us/politics/wisconsin-georgia-trump-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/03/us/politics/wisconsin-georgia-trump-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/us/politics/wisconsin-georgia-trump-election.amp.html"
+  - title: "Full Panel: President Trump still falsely claiming voter fraud"
+    excerpt: "Kasie Hunt, Michael Eric Dyson, O. Kay Henderson and Hugh Hewitt join the Meet the Press roundtable to talk about the president's attempts to find voter fraud and the president-elect's transition challenges."
+    publishedDateTime: 2020-11-29T15:03:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-president-trump-still-falsely-claiming-voter-fraud-96816709743"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96816709743"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96816709743"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/03/us/politics/03wisconsin/03wisconsin-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump's legal defeats pile up while his attacks on Georgia's election system raise GOP concerns"
-    excerpt: "President Donald Trump is pushing contradictory messages about Georgia, calling the state's election system fraudulent at the same time he is urging his supporters to turn out for Republican Sens. Kelly Loeffler and David Perdue in twin runoff races that will determine control of the US Senate."
-    publishedDateTime: 2020-11-28T21:00:00Z
-    webUrl: "https://www.cnn.com/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 138
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Midnight Ruling Exposes Rifts at a Supreme Court Transformed by Trump"
-    excerpt: "The justices issued six opinions, several of them unusually bitter, in upholding challenges from churches and synagogues to state pandemic restrictions on religious services."
-    publishedDateTime: 2020-11-26T22:45:00Z
-    webUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/26/us/politics/26dc-scotus-church2/26dc-scotus-church2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/mtp_full_panel_201129_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "The King of Trump TV Thinks You’re Dumb Enough to Buy It"
     excerpt: "Chris Ruddy, the C.E.O. of Newsmax, has found a business opportunity in feeding Trump supporters the fantasy that the president could still win the election."
@@ -398,6 +624,38 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump Raises $170 Million as He Denies His Loss and Eyes the Future"
+    excerpt: "The president’s campaign has ratcheted up its appeals for cash, but 75 percent of every contribution is going to a new political action committee that could fund his next political move."
+    publishedDateTime: 2020-12-01T04:51:00Z
+    webUrl: "https://www.nytimes.com/2020/11/30/us/politics/trump-campaign-donations.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/30/us/politics/trump-campaign-donations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/us/politics/trump-campaign-donations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30trump-money-photo/30trump-money-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump to restart foreign deals, breaking a post-presidency norm"
+    excerpt: "A return to overseas dealmaking raises new ethical issues no ex-president has ever confronted. Trump’s sprawling global company is private and increasingly reliant on foreign lenders."
+    publishedDateTime: 2020-12-02T01:12:00Z
+    webUrl: "https://www.politico.com/news/2020/12/01/trump-foreign-real-estate-441928"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/01/trump-foreign-real-estate-441928"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/01/trump-foreign-real-estate-441928"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/44/4d/fca6e10149919d5e5a992466a463/ap20031797048613-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Census delay could scuttle Trump's plans to exclude immigrants"
     excerpt: "Documents released by House Democrats suggest the Census Bureau may not deliver apportionment data to the White House until after Joe Biden becomes president."
     publishedDateTime: 2020-12-03T03:30:00Z
@@ -430,6 +688,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "No, Barr was not part of a secret plot against President Trump."
+    excerpt: "After the attorney general said the Justice Department had not found voter fraud, pro-Trump personalities accused Mr. Barr of being part of a nefarious scheme against the president."
+    publishedDateTime: 2020-12-03T00:52:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/technology/no-barr-was-not-part-of-a-secret-plot-against-president-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/technology/no-barr-was-not-part-of-a-secret-plot-against-president-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/technology/no-barr-was-not-part-of-a-secret-plot-against-president-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02distortions-brief-barr/02distortions-brief-barr-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Top Trump allies look ahead to a new administration."
     excerpt: "Entering December, with fewer than 50 days left until Inauguration Day, several of President Trump’s closest allies on Tuesday began signaling a reluctance to continue participating in the president’s broadsides on the election."
     publishedDateTime: 2020-12-02T18:13:00Z
@@ -446,6 +720,38 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump hasn't ruled out firing Attorney General Barr, sources say"
+    excerpt: "Barr on Tuesday said the Justice Department hadn't seen any evidence of fraud that would have changed the election outcome."
+    publishedDateTime: 2020-12-03T03:57:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-hasn-t-ruled-out-firing-attorney-general-barr-sources-n1249796"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249796"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249796"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kwe_trump_barr_pardon_investigation_201202_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump repeats baseless voter fraud claims after Barr says no evidence"
+    excerpt: "President Trump repeated his unsubstantiated claims of widespread voter fraud in a 46 minute video shot by the White House without press in the room. It comes one day after Attorney General Barr told the Associated Press he has “not seen fraud” on a scale that could have changed the election outcome."
+    publishedDateTime: 2020-12-03T00:29:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-repeats-baseless-voter-fraud-claims-after-barr-says-no-evidence-97021509542"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97021509542"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97021509542"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_kwe_trump_barr_pardon_investigation_201202_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Who Has Trump Pardoned So Far?"
     excerpt: "Michael T. Flynn, a former national security adviser who pleaded guilty to lying to the F.B.I., was pardoned in November, while Roger Stone’s sentence was commuted in July."
     publishedDateTime: 2020-12-03T09:14:00Z
@@ -459,6 +765,54 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/12/02/us/02xp-trumppardon1/02xp-trumppardon1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Tenants Sue Trump Over Scheme That Drove Up Their Rents"
+    excerpt: "The latest legal front against the outbound president involves a maneuver that earned him and his siblings millions while lowering their taxes."
+    publishedDateTime: 2020-12-03T22:13:00Z
+    webUrl: "https://www.nytimes.com/2020/12/03/nyregion/trump-lawsuit-tenants.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/03/nyregion/trump-lawsuit-tenants.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/nyregion/trump-lawsuit-tenants.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/03/multimedia/03trump-lawsuit-1/03trump-lawsuit-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump awards Lou Holtz with Presidential Medal of Freedom"
+    excerpt: "President Trump awarded former football coach Lou Holtz the Presidential Medal of Freedom during a ceremony at the White House."
+    publishedDateTime: 2020-12-03T18:26:00Z
+    webUrl: "https://www.nbcnews.com/video/trump-awards-lou-holtz-with-presidential-medal-of-freedom-97064005923"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97064005923"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97064005923"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/holtz_trump.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "A Gathering Political Storm Hits Georgia, With Trump on the Way"
+    excerpt: "With two crucial senate seats up for grabs, Mike Pence and Barack Obama joined the fray in support of their party’s candidates, and President Trump is headed there on Saturday."
+    publishedDateTime: 2020-12-05T00:22:00Z
+    webUrl: "https://www.nytimes.com/2020/12/04/us/politics/trump-georgia-senate-obama.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/04/us/politics/trump-georgia-senate-obama.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/04/us/politics/trump-georgia-senate-obama.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/04/us/politics/04georgia1/04georgia1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -494,53 +848,53 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump looms over Georgia's high-stakes Senate races, worrying Republicans"
-    excerpt: "The president is scheduled to hold a rally in the state Saturday after spending weeks attacking GOP elected officials."
-    publishedDateTime: 2020-12-02T23:50:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-looms-over-georgia-s-high-stakes-senate-races-worrying-n1249686"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249686"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249686"
+  - title: "Trump Associates Said to Have Been Scrutinized in Suspected Pardon Scheme"
+    excerpt: "A billionaire from San Francisco sought clemency for a psychologist convicted of monetary crimes. The Republican donor Elliott Broidy and a lawyer for Jared Kushner were enlisted."
+    publishedDateTime: 2020-12-04T01:34:00Z
+    webUrl: "https://www.nytimes.com/2020/12/03/us/pardon-elliott-broidy-abbe-lowell.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/03/us/pardon-elliott-broidy-abbe-lowell.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/us/pardon-elliott-broidy-abbe-lowell.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/03/lens/03dc-pardon-justice/merlin_180727236_7067670e-968d-44e7-b237-21f48bffbe6e-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Can Trump Pre-emptively Pardon Allies or Himself? Clemency Power, Explained"
+    excerpt: "The president has discussed potential pardons that could test the boundaries of his constitutional power to nullify criminal liability."
+    publishedDateTime: 2020-12-02T18:54:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-pardons.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-pardons.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/trump-pardons.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02dc-trumppardon/02dc-trumppardon-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Could Trump pardon family members if they haven't been charged with crimes?"
+    excerpt: "Could Trump pardon family members if they haven't been charged with a crime? WASHINGTON — Speculation that President Donald Trump might issue pardons before he leaves office for members of his family or other supporters raises a question about whether pardons can be issued pre-emptively — that is,"
+    publishedDateTime: 2020-12-03T02:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/could-trump-pardon-family-members-if-they-haven-t-been-n1249707"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249707"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249707"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 134
+    quality: 133
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432132/201201-donald-trump-al-0936_acd19401dfb6bd30ec39486989bdb51f.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432571/201202-donald-trump-jm-1031_26037655efec3920d6e2760cd31d74ff.jpg"
         width: 2500
-        height: 1666
-        isCached: true
-  - title: "Trump administration hands over new data on families separated at border"
-    excerpt: "NBC News’ Jacob Soboroff reports on newly released details from the Trump administration on migrant families who were separated at the southern border and how this information may impact the unification efforts."
-    publishedDateTime: 2020-12-04T00:21:00Z
-    webUrl: "https://www.nbcnews.com/now/video/trump-administration-hands-over-new-data-on-families-separated-at-border-97081413807"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97081413807"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97081413807"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_trump_separation_201203_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Experts worry Trump can't be trusted with nation's secrets after leaving office"
-    excerpt: "Some ex-intelligence officials are saying that when President Donald Trump leaves office, he should not receive access to classified information about the country's national security secrets."
-    publishedDateTime: 2020-11-27T14:04:00Z
-    webUrl: "https://www.nbcnews.com/now/video/experts-worry-trump-can-t-be-trusted-with-nation-s-secrets-after-leaving-office-96714821678"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96714821678"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96714821678"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_trump_natsec_secrets_201127_1920x1080.jpg"
-        width: 1920
-        height: 1080
+        height: 1667
         isCached: true
   - title: "Trump gets icy reception as he tries to influence final days of lame-duck Congress"
     excerpt: "WASHINGTON — President Donald Trump’s last-minute demand to scrap an internet liability law using a bill that authorizes the military to function earned a frosty reception from his party, raising questions about his influence on Capitol Hill amid a flurry of activity before Christmas."
@@ -557,6 +911,68 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_49/3432697/201202-donald-trump-jm-1425_2cb3f4930252baaa899e0b9669eafb1c.jpg"
         width: 2500
         height: 1567
+        isCached: true
+  - title: "Supreme Court Takes Up Trump Plan to Exclude Unauthorized Immigrants in Redistricting"
+    excerpt: "The administration’s efforts, which are subject to practical hurdles, would upset a constitutional consensus and could shift political power from Democratic states to Republican ones."
+    publishedDateTime: 2020-11-30T10:14:00Z
+    webUrl: "https://www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/us/supreme-court-immigrants-redistricting.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30dc-scotus/30dc-scotus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Supreme Court skeptical of Trump's plan to exclude undocumented immigrants from census"
+    excerpt: "Several justices, including some conservative ones, seemed to doubt that the president had such a sweeping power to modify the census results."
+    publishedDateTime: 2020-11-30T17:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-skeptical-trump-s-plan-exclude-undocumented-immigrants-census-n1249373"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249373"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249373"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3431877/201130-donald-trump-jm-1222_09c5176df224157034d1666e28d89ff9.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "The Justice Department is investigating a potential bribery scheme for a Trump pardon."
+    excerpt: "The Justice Department has been investigating whether intermediaries for a federal convict offered White House officials a bribe in exchange for a potential pardon or commutation from President Trump,"
+    publishedDateTime: 2020-12-02T22:14:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-brieft-pardon/01transition-brieft-pardon-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump threatens to veto defense bill over social media rule"
+    excerpt: "President Donald Trump threatened to veto must-pass defense policy legislation on Tuesday unless lawmakers agree to repeal a legal shield for social media companies, a move that one senior House staffer called \"a total non-starter\" for Democrats."
+    publishedDateTime: 2020-12-02T03:57:00Z
+    webUrl: "https://www.politico.com/news/2020/12/01/trump-threatens-veto-defense-bill-social-media-442115"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/30/50/55b84843455c9998b73b04e76fd1/20201129-djt-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Section 230 threats escalate in final stretch of Trump presidency"
     excerpt: "The president’s threat to veto a high-stakes defense bill over his Section 230 objections has been shot down by Congress. But a separate push to weaken the liability shield is expected to soon get a Senate Judiciary vote."
@@ -599,6 +1015,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/02/us/02citizenship-header/02citizenship-header-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "DeSantis tells Trump to 'fight on,' takes aim at science and has beef with John Roberts"
+    excerpt: "Ron DeSantis on Thursday told a private gathering of political donors and corporate executives that he has urged President Donald Trump to “fight on\" to overturn November’s election results. In wide-ranging remarks made in person behind closed doors at a meeting of the Associated Industries of Florida,"
+    publishedDateTime: 2020-12-03T23:16:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/12/03/desantis-tells-trump-to-fight-on-takes-aim-at-science-and-has-beef-with-john-roberts-1341031"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 107
+    images:
+      - url: "https://static.politico.com/e3/b8/6ec508a6493e87b085b9a7930c41/gettyimages-1256001941-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "RsZxLMMlaR8dqf17EaHvuEw69nVe/qt4RVuwo6FzEDOn1kEGMntEfMglQf+udMnZVu0NwSSmFpMsqqJVqWoB2SsvElx9Lf+CD0v9jzqx0U/KqMMdESDEd/0FbaqHMPhDnIKbTy+aOt1pd7XBw4bDxdv7H1yqtaUBT6WUuHgRqMlqqmFVXvxPWi/gT2jyfMnRPJKySBoDQcVoENGsWxNr5kjGmboJxOR5t20dKosxrSPmWdcDoUraSTQkjNRaqZIefoEhbsfjbj7HjCkozcBNtkH2YV/baX6xaQv6bPwvDxAIHXdlDyZpbpKpXwVyAiGLTi/HL+H5N22Qa5HFtXwvsyHNA6ofk/77UTveGxb2qZA=;n3ot2xek1a4eTy6sizvo7A=="

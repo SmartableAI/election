@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Lawyers say Trump administration has handed over new data that will help reunite separated migrant families"
-    excerpt: "The ACLU's Lee Gelernt said he's often asked whether the Trump administration has helped reunite families. He said that rather than help, it has withheld data."
-    publishedDateTime: 2020-12-03T10:07:00Z
-    webUrl: "https://www.nbcnews.com/politics/immigration/lawyers-say-trump-admin-has-handed-over-data-will-help-n1249782"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249782"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249782"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 117
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2018_31/2514806/180730-tornillo-port-of-entry-toys-ac-956p_fcc586443aed0aae4a4cd4baa38b093b.jpg"
-        width: 2500
-        height: 1667
         isCached: true
 
 secured: "PqAMPthN3pyIG4TbSa0KiSShoV9SF1y5oEvTfGU7NvZ1L1/k4CLoU22+GfzeA/rZdWPZ4XOQWaKmM4YAKqpVXnI7PaiVfHLZp398tQLaXcE3yqNlQePwoteLRotDXh5sBJI7z4pd0D6E0cqbiBwOgTzb1ZVeAB8xTEewaB3L5HlPPwEkvsmlcoa3zn06FiSrnfKmsw7yLpQVUnf6MTigJj1B2TpUPOWHAdSq6yyhl5j9yjJoaM4IdMYoCWnHzEqPS+CUb5SA+a4HNyItpeA7clXicERUDCKryNDkQZp4pErTNI/GWl5zbvlYPp+r+LauokgEhfpue1sXkyuTrw8c2mEuQaDesQbXNm+kJP4cHko=;ZzC+CLICyEKvMIpyvmn4OA=="

@@ -196,6 +196,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Donald Trump Is Not a Political Genius"
+    excerpt: "As far as I can figure out, no Presidential margin reported at 1AM even half as large as Trump had at 3:41 AM 11/4 did not hold up in the state's history. So we are supposed to believe that there was double the natural volatility 2:42 hours later in the count than ever in history?"
+    publishedDateTime: 2020-12-05T13:23:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/05/donald_trump_is_not_a_political_genius_530753.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/528925_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "529+kHc4VT3mVQaTagjQiV/0L+bAjMbXSEfpcV6mM1EXygalXRMbQ0X2baiXYrbuo9Q04yaXSepWFLWbAD2HJszZIgIuTAHuAWzALzJLoNicfdaGJ6qPHhLPTK/sLollvrjPKlVNvFLTWUBMU/FTfBUqFwuyL//KYAeeQi/cu6S0QwDu8hPbPGezg6D8R+w8rSzGhAYFAQsekQYyJk/zGtzVOJrNXTxYCOuln3peIgfLOTICU4eWsUpv1tg8Mvgc7wh5IxETidTg+6NyLg3VZzBrCbPgTD8bEt/U8wuIcPJD2dXvsVhLnIJxnpQg1ri4T2+MxF1ZizN2CHeesuMy0uoQP98bWSIImfLsowXSedk=;I39sSk7DB7pg/UDSVOefLA=="
 ---

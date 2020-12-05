@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn"
 type: article
 quality: 188
-heat: 408
+heat: 388
 published: true
 
 provider:
@@ -126,22 +126,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123161353-kash-patel-2019-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Feeling Spurned by Trump, U.N. Sees Redemption in Biden and Team"
-    excerpt: "Diplomats say the Trump administration’s “America First” policy demeaned the United Nations. But the organization is feeling reinvigorated by the president-elect and his choice of ambassador."
-    publishedDateTime: 2020-12-03T22:46:00Z
-    webUrl: "https://www.nytimes.com/2020/12/03/world/americas/feeling-spurned-by-trump-un-sees-redemption-in-biden-and-team.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/03/world/americas/feeling-spurned-by-trump-un-sees-redemption-in-biden-and-team.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/world/americas/feeling-spurned-by-trump-un-sees-redemption-in-biden-and-team.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/01/world/01nations-biden5/01nations-biden5-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Ivanka Trump deposed Tuesday as part of inauguration fund lawsuit"
     excerpt: "The suit claims the Inaugural Committee made improper payments to the president's Washington hotel during the week of the inauguration in 2017."

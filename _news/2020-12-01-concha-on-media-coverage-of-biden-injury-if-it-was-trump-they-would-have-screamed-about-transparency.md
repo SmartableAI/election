@@ -447,6 +447,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "President Trump visits Valdosta, Georgia for first post-election rally"
+    excerpt: "His re-election campaign may be over, but President Trump still can’t resist a rally. The president and First Lady Melania Trump head to Valdosta, GA, Saturday to stump with Republican Sens."
+    publishedDateTime: 2020-12-05T18:02:00Z
+    webUrl: "https://nypost.com/2020/12/05/trump-visits-valdosta-georgia-for-first-post-election-rally/"
+    ampWebUrl: "https://nypost.com/2020/12/05/trump-visits-valdosta-georgia-for-first-post-election-rally/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/trump-visits-valdosta-georgia-for-first-post-election-rally/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Georgia Official Urges Trump to Condemn Threats Against Election Workers"
     excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
     publishedDateTime: 2020-12-02T02:08:00Z

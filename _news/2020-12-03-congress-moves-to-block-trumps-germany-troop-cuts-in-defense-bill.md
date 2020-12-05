@@ -31,133 +31,131 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: GOP silence on Trump's false election claims recalls McCarthy era"
-    excerpt: "The silence of congressional Republican leaders as President Donald Trump's unfounded claims of election fraud grow wilder and more venomous increasingly resembles the party's deference to Sen. Joe McCarthy during the worst excesses of his anti-Communist crusade in the early 1950s.\n    \n"
-    publishedDateTime: 2020-12-01T12:09:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MeBlUYs1Nx8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-election-claims-mccarthy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/gop-silence-trump-false-election-claims-mccarthy/index.html"
+  - title: "William Barr breaks with Trump's election fantasy"
+    excerpt: "Attorney General William Barr just dealt the most credible blow to Donald Trump's lies about a stolen election, precisely because he previously often came across more as the President's personal lawyer than a neutral arbiter of justice.\n    \n"
+    publishedDateTime: 2020-12-02T07:27:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3LaWOvHAMK4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/william-barr-donald-trump-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/william-barr-donald-trump-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 188
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130170258-mcconnell-1110-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902162801-bill-barr-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia election official pleads with Trump and Republicans to 'stop inciting acts of violence'"
-    excerpt: "A Georgia election official on Tuesday condemned threats of physical violence and intimidation against election workers and officials, pleading with President Donald Trump to denounce the threats and urging both of the state's Republican senators to intervene.\n    \n"
-    publishedDateTime: 2020-12-02T01:24:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DnM9T6vgK1Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/georgia-election-official-trump-republicans-violence/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/georgia-election-official-trump-republicans-violence/index.html"
+  - title: "While Trump rants about votes, none of his election security officials support him "
+    excerpt: "President Donald Trump is increasingly isolated in his claims of election fraud as a growing number of senior administration officials are either directly contradicting his baseless allegations or refusing to echo them.\n    \n"
+    publishedDateTime: 2020-12-04T23:51:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NTK-6cpoHhc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-election-security-officials/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-election-security-officials/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 178
+    quality: 184
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201171009-sterling-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200916062816-donald-trump-0901-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump raises more than $207 million since Election Day as he pushes baseless election fraud claims"
-    excerpt: "President Donald Trump's political operation raised more than $207 million since Election Day, as the President inundates his supporters with fundraising appeals and refuses to concede his White House loss, according to figures released Thursday night by his campaign.\n    \n"
-    publishedDateTime: 2020-12-04T00:26:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UKvy1orU01E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-fundraising-election-day/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-fundraising-election-day/index.html"
+  - title: "Trump frustrated with Barr after election comments but officials don't want AG fired, sources say"
+    excerpt: "President Donald Trump is frustrated with Attorney General William Barr after his comments to The Associated Press breaking from the President's false claims of fraud in the election, two sources tell CNN.\n    \n"
+    publishedDateTime: 2020-12-03T02:31:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nTgP5J13uOo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/trump-william-barr-frustration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/trump-william-barr-frustration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 176
+    quality: 177
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130728-02-trump-1203-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201225050-trump-barr-split-1201-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "President Donald Trump raises more than $170 million since Election Day as he pushes baseless fraud claims"
-    excerpt: "President Donald Trump and his political operation have raised more than $170 million since Election Day, a person familiar with the matter said -- a massive fundraising haul fueled by Trump's baseless allegations that the election was rigged.\n    \n"
-    publishedDateTime: 2020-12-01T14:23:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9cfULf62V9w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/president-donald-trump-raises-more-than-170-million-since-election-day/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/president-donald-trump-raises-more-than-170-million-since-election-day/index.html"
+  - title: "Trump and Barr had 'contentious' White House meeting this week"
+    excerpt: "President Donald Trump and Attorney General William Barr had a \"contentious,\" lengthy meeting inside the West Wing this week after Barr told The Associated Press in an interview that the Justice Department had uncovered no evidence of fraud that would change the election outcome, one person familiar"
+    publishedDateTime: 2020-12-03T16:20:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNwL_Szchuo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130000216-donald-trump-1126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201225050-trump-barr-split-1201-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's criticism of GOP Senate candidates has Republicans worried ahead of rally"
-    excerpt: "President Donald Trump heads to Georgia on Saturday to campaign for two Republican senators one month ahead of a critical runoff that will determine which party controls the Senate. But Trump's visit comes as he has spent the last several weeks consumed by his own election loss while attacking party"
-    publishedDateTime: 2020-12-04T22:47:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XTO1_LseAAM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-georgia-senate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-georgia-senate/index.html"
+  - title: "Wisconsin’s Top Court Rejects Trump Lawsuit as His Election Push Fades"
+    excerpt: "The Supreme Court in the state narrowed yet another legal path for the Trump campaign as it tries to overturn his loss to Joe Biden."
+    publishedDateTime: 2020-12-04T00:11:00Z
+    webUrl: "https://www.nytimes.com/2020/12/03/us/politics/wisconsin-georgia-trump-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/03/us/politics/wisconsin-georgia-trump-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/us/politics/wisconsin-georgia-trump-election.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130728-02-trump-1203-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/12/03/us/politics/03wisconsin/03wisconsin-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Georgia's lieutenant governor joins state GOP officials in rejecting Trump's 'misinformation'"
-    excerpt: "Georgia's Republican lieutenant governor on Tuesday joined a growing list of GOP officials in the state who are publicly rejecting President Donald Trump's baseless claims of voter fraud, saying the misinformation spread by the President and his allies is \"alarming\" and could jeopardize the party in"
-    publishedDateTime: 2020-12-01T16:21:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d22YeEYC3r0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/geoff-duncan-election-misinformation-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/geoff-duncan-election-misinformation-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201081905-geoff-duncan-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Democrats seek disciplinary investigation for Trump lawyer who called for violence against former election cybersecurity official"
-    excerpt: "Congressional Democrats on Wednesday asked the DC Bar's Office of Disciplinary Counsel to open an investigation into an attorney for the Trump campaign who had issued a call for violence against a former cybersecurity official who was ousted from his post after he rejected President Donald Trump's unfounded"
-    publishedDateTime: 2020-12-03T04:06:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/psfIz6i84eE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/democrats-disciplinary-action-digenova-trump-lawyer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/democrats-disciplinary-action-digenova-trump-lawyer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180319134937-joseph-e-digenova-smerconish-screengrab-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump to restart foreign deals, breaking a post-presidency norm"
-    excerpt: "A return to overseas dealmaking raises new ethical issues no ex-president has ever confronted. Trump’s sprawling global company is private and increasingly reliant on foreign lenders."
-    publishedDateTime: 2020-12-02T01:12:00Z
-    webUrl: "https://www.politico.com/news/2020/12/01/trump-foreign-real-estate-441928"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/01/trump-foreign-real-estate-441928"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/01/trump-foreign-real-estate-441928"
+  - title: "McEnany incorrectly credits Trump with White House AIDS ribbon"
+    excerpt: "The press secretary made the false assertion while defending the administration for its omission of LGBTQ people in a World AIDS Day statement."
+    publishedDateTime: 2020-12-02T20:37:00Z
+    webUrl: "https://www.politico.com/news/2020/12/02/mcenany-trump-white-house-aids-ribbon-442264"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/02/mcenany-trump-white-house-aids-ribbon-442264"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/02/mcenany-trump-white-house-aids-ribbon-442264"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 135
     images:
-      - url: "https://static.politico.com/44/4d/fca6e10149919d5e5a992466a463/ap20031797048613-1.jpg"
+      - url: "https://static.politico.com/74/5b/33b208544690b59793476e22219f/ap20336673666172-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Experts worry Trump can't be trusted with nation's secrets after leaving office"
+    excerpt: "Some ex-intelligence officials are saying that when President Donald Trump leaves office, he should not receive access to classified information about the country's national security secrets."
+    publishedDateTime: 2020-11-27T14:04:00Z
+    webUrl: "https://www.nbcnews.com/now/video/experts-worry-trump-can-t-be-trusted-with-nation-s-secrets-after-leaving-office-96714821678"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96714821678"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96714821678"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_trump_natsec_secrets_201127_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump rebukes Barr, complains AG ‘hasn’t done anything’ with baseless fraud claims"
+    excerpt: "The president also said Justice Department officials “haven’t looked very hard, which is a disappointment, to be honest with you.”"
+    publishedDateTime: 2020-12-04T03:16:00Z
+    webUrl: "https://www.politico.com/news/2020/12/03/trump-william-barr-fraud-claims-442641"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/557ffa23-c050-4521-b292-a1030422be9d/28017a41-ef89-4e1d-a00e-6f91e74ebf57/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "NSzZ5WDs7Ayog8ujyXufnMD7E5gD4mKv0SeCCwK6ATOkVhK05f9JqgGKWUrleJl56V592+wf9hvZidNEomfRJEKRCwJTahPY3X07/iSSLr7TAAz7lRdvF1/MlQQPNzrcHBuru/tY8NH+EHFlyioape5jSUgq5Q4UAhxOPIPbrhC+E/pgUFiADEod969ijJz2VKNJKMpE4JfEYKkBFzOsHrmzNIyF9f2TbEZQA/0eOUj6EUlfjzepxFQGbkMOLASYk14i6dNWchqebPYubRo5Vb9Y+GJEZwcuzOP3ah4AFXSi1Yb8uCrsyoNUb+1TQUa+QoTTSnjyJ9qQsCrSifAeHmI9ohoDC1NoQWv6NSCOKd0=;upz96yr4ymqL22KwPZjDYA=="

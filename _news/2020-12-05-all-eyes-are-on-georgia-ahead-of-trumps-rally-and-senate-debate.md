@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/georgia-state-of-play/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/georgia-state-of-play/index.html"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 215
+published: true
 
 provider:
   name: CNN
@@ -31,51 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Republicans brace for Trump rally in Georgia ahead of January runoffs"
-    excerpt: "Georgia Republicans are increasingly worried about President Donald Trump's rally on Saturday for the two Senate runoff races, as some brace for a tirade to overturn his loss that could hurt the party's effort to keep control of the chamber.\n    \n"
-    publishedDateTime: 2020-12-03T12:21:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H7EM0rwGCYc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/republicans-trump-rally-georgia-senate-runoff/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/republicans-trump-rally-georgia-senate-runoff/index.html"
+  - title: "Obama and Pence hit Georgia campaign trail to court Senate runoff voters"
+    excerpt: "\"Anybody listening right now, you need to realize this is not just about Georgia,\" Obama said. \"This is about America - this is about the world.\""
+    publishedDateTime: 2020-12-04T22:48:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/obama-pence-hit-georgia-campaign-trail-court-senate-runoff-voters-n1250029"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250029"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250029"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180114192337-02-trump-perdue-split-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_47/3429880/201120-barack-obama-al-0812_a91487a269184df40996804a637177e8.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Some Trump supporters in this Georgia county say the election system is 'rigged.' That could hurt Republicans in January"
-    excerpt: "Sixty miles west of Atlanta, Haralson County sits a world away from Georgia's largest and booming metro area. Here, in the small towns that sit in the foothills of the Appalachian mountains, Republican roots run generations deep. In November, the county voted for Donald Trump over Joe Biden, 87% to 13%"
-    publishedDateTime: 2020-12-05T00:16:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OAAGX4WN7ys/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/georgia-county-trump-supporters/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/georgia-county-trump-supporters/index.html"
+  - title: "Presidential Transition Live Updates: Trump Team Files Last Ditch Lawsuits Ahead of Deadline to Finalize the Election"
+    excerpt: "The safe harbor deadline — the date by which any election controversies must be settled — is Dec. 8. President-elect Joe Biden’s nominees send a clear message that his economic policymaking will be shaped by liberal thinkers."
+    publishedDateTime: 2020-11-30T18:13:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/30/us/joe-biden-trump.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204183258-trump-supporter-georgia-super-tease.jpeg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Donald Trump Jr. aides launch super PAC as Georgia worries mount"
-    excerpt: "The president's son stars in a new ad campaign as Republicans worry Trump's voter fraud accusations will depress GOP turnout in the Senate runoffs."
-    publishedDateTime: 2020-11-30T09:44:00Z
-    webUrl: "https://www.politico.com/news/2020/11/30/donald-trump-jr-super-pac-georgia-worries-mount-441205"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/d1/90/320a62d547098438aa9ed817e738/gettyimages-1268372750-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30transition-briefing-trump-cases1/30transition-briefing-trump-cases1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "/NjeOeJQHSIOnjr1OyE8HB3d4R8Hmo+4tVJT15QnylQVZmJahVWMOm9N7MMVyQXLxf2DBOl1iP+xlhwgNIbt2jMd45A2/ruFOLxOosWFgdlc11bjMXlrgjLpTirnnE0trBPLxgoQXT8van2CEDYol59KItXc9eQm1gFpyqdO29LzAdB7Jn+ZiuyRne5xOSApUs0MOTAw21YTK3nbvyaX8WPmbq2d0ka08jfRxagr0oxgakOlwEVS59uO99Re++hZ491d1ksJ386mkeSuVfuSrdkE/x/pWdr57iUNu8NRK7E5zES6sl0evjeKEbaNw14fWNF2Ac0Ie2XQw4iQwyRtVA6HEw7qoKTD9y71+G4AXFc=;fRFG/b2vwXkWNEpgKz50hA=="

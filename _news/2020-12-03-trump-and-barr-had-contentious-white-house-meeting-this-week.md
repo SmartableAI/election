@@ -31,51 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Melania Trump's White House holiday decor spotlights essential workers"
-    excerpt: "'Tis the holiday season at the White House. All of the halls, from the East Room to the Red Room, were decked by over 125 volunteers this weekend and unveiled Monday to feature classic holiday décor with an \"America the Beautiful\" theme for the Trumps' final Christmas in office.\n    \n"
-    publishedDateTime: 2020-11-30T15:13:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4piMF8Sq3os/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/melania-trump-white-house-holiday-decorations/index.html"
+  - title: "William Barr breaks with Trump's election fantasy"
+    excerpt: "Attorney General William Barr just dealt the most credible blow to Donald Trump's lies about a stolen election, precisely because he previously often came across more as the President's personal lawyer than a neutral arbiter of justice.\n    \n"
+    publishedDateTime: 2020-12-02T07:27:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3LaWOvHAMK4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/william-barr-donald-trump-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/william-barr-donald-trump-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902162801-bill-barr-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "While Trump rants about votes, none of his election security officials support him "
+    excerpt: "President Donald Trump is increasingly isolated in his claims of election fraud as a growing number of senior administration officials are either directly contradicting his baseless allegations or refusing to echo them.\n    \n"
+    publishedDateTime: 2020-12-04T23:51:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NTK-6cpoHhc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-election-security-officials/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-election-security-officials/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200916062816-donald-trump-0901-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump frustrated with Barr after election comments but officials don't want AG fired, sources say"
+    excerpt: "President Donald Trump is frustrated with Attorney General William Barr after his comments to The Associated Press breaking from the President's false claims of fraud in the election, two sources tell CNN.\n    \n"
+    publishedDateTime: 2020-12-03T02:31:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nTgP5J13uOo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/02/politics/trump-william-barr-frustration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/trump-william-barr-frustration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201225050-trump-barr-split-1201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Congress moves to block Trump's Germany troop cuts in defense bill"
+    excerpt: "The final version of the National Defense Authorization Act has a provision that would effectively block President Donald Trump's attempt to significantly reduce US troops in Germany, a move the President said was because of Berlin's failure to spend adequate amounts on defense.\n    \n"
+    publishedDateTime: 2020-12-03T22:41:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/19og3FTT5bo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/ndaa-trump-germany-troop-cuts/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/ndaa-trump-germany-troop-cuts/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130093329-01-white-house-holiday-decorations-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130726-01-trump-1203-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump invites Pennsylvania GOP lawmakers to White House after calling in to baseless voter fraud event"
-    excerpt: "President Donald Trump's planned trip to join his attorney Rudy Giuliani in Gettysburg, Pennsylvania, on Wednesday has been canceled, two sources familiar with the matter tell CNN.\n    \n"
-    publishedDateTime: 2020-11-25T23:38:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g2I1VpYZoHk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-hearing-giuliani/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/trump-pennsylvania-hearing-giuliani/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Transition Highlights: Judge Dismisses Trump Lawsuit in Pennsylvania"
-    excerpt: "Senator Pat Toomey of Pennsylvania, a Republican, said that with the dismissal, the president had “exhausted” his legal options in the state. Senator Kelly Loeffler of Georgia is in isolation after testing positive for the coronavirus."
-    publishedDateTime: 2020-11-26T22:13:00Z
-    webUrl: "https://www.nytimes.com/live/2020/11/21/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/11/21/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/21/us/joe-biden-trump.amp.html"
+  - title: "Wisconsin’s Top Court Rejects Trump Lawsuit as His Election Push Fades"
+    excerpt: "The Supreme Court in the state narrowed yet another legal path for the Trump campaign as it tries to overturn his loss to Joe Biden."
+    publishedDateTime: 2020-12-04T00:11:00Z
+    webUrl: "https://www.nytimes.com/2020/12/03/us/politics/wisconsin-georgia-trump-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/03/us/politics/wisconsin-georgia-trump-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/03/us/politics/wisconsin-georgia-trump-election.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2020/12/21/world/21transition-briefing-pennsylvaniaSUB/21transition-briefing-pennsylvaniaSUB-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/03/us/politics/03wisconsin/03wisconsin-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -95,37 +127,35 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump awards Lou Holtz with Presidential Medal of Freedom"
-    excerpt: "President Trump awarded former football coach Lou Holtz the Presidential Medal of Freedom during a ceremony at the White House."
-    publishedDateTime: 2020-12-03T18:26:00Z
-    webUrl: "https://www.nbcnews.com/video/trump-awards-lou-holtz-with-presidential-medal-of-freedom-97064005923"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97064005923"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97064005923"
+  - title: "Experts worry Trump can't be trusted with nation's secrets after leaving office"
+    excerpt: "Some ex-intelligence officials are saying that when President Donald Trump leaves office, he should not receive access to classified information about the country's national security secrets."
+    publishedDateTime: 2020-11-27T14:04:00Z
+    webUrl: "https://www.nbcnews.com/now/video/experts-worry-trump-can-t-be-trusted-with-nation-s-secrets-after-leaving-office-96714821678"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96714821678"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96714821678"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 131
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/holtz_trump.jpg"
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_trump_natsec_secrets_201127_1920x1080.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "The Justice Department is investigating a potential bribery scheme for a Trump pardon."
-    excerpt: "The Justice Department has been investigating whether intermediaries for a federal convict offered White House officials a bribe in exchange for a potential pardon or commutation from President Trump,"
-    publishedDateTime: 2020-12-02T22:14:00Z
-    webUrl: "https://www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/the-justice-department-is-investigating-a-potential-bribery-scheme-for-a-trump-pardon.amp.html"
+  - title: "Trump rebukes Barr, complains AG ‘hasn’t done anything’ with baseless fraud claims"
+    excerpt: "The president also said Justice Department officials “haven’t looked very hard, which is a disappointment, to be honest with you.”"
+    publishedDateTime: 2020-12-04T03:16:00Z
+    webUrl: "https://www.politico.com/news/2020/12/03/trump-william-barr-fraud-claims-442641"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 127
+      name: Politico
+      domain: politico.com
+    quality: 109
     images:
-      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-brieft-pardon/01transition-brieft-pardon-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/557ffa23-c050-4521-b292-a1030422be9d/28017a41-ef89-4e1d-a00e-6f91e74ebf57/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "xRc9f2hs5fwSMCZg2Dssx1kfyiylPXM/PigSAN/Ft9MssbLIPX8Jgpf9B2mnayaLviXS6Gu1HkIjDe/GDrzPoPxM3R1tzskRC96PwmQpHFG3DDfqFLJ6f4coCLWhCrtp4VkfHl0JxBrSHZ8mghF7JyM4FyLpXAam03QtFZe11ybNQsMI45M3CUO04udeISxZJHFmZD3mymfRSZ+ajOScjrNEVEF1ToUJePCxw6rvlnATXrEPKFzCiyPp1sirOj3De7/cJSeJ2itTzz/SgjM04euSzEo9fmWzvg3fvSYDU3XD8xs+oSAaMZNPlDOV57ABQ5XzSgFqBS390U9XmlBQPvs7W7CW7ChoNmyVYVjayiE=;xfYx7tRXh4Qnc6peLN9mpw=="

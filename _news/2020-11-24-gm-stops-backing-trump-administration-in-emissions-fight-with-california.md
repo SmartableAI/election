@@ -192,6 +192,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hemingway: Trump tackling election integrity issue 'unites Republican voters like nothing else'"
+    excerpt: "Republicans have been \"concerned\" with preserving election integrity prior to the 2020 presidential election, Mollie Hemingway said on Thursday."
+    publishedDateTime: 2020-12-05T18:03:00Z
+    webUrl: "https://www.foxnews.com/politics/hemingway-trump-tackling-election-integrity-republican-voters"
+    ampWebUrl: "https://www.foxnews.com/politics/hemingway-trump-tackling-election-integrity-republican-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hemingway-trump-tackling-election-integrity-republican-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Court Denies Trump Appeal: ‘Calling an Election Unfair Does Not Make It So’"
     excerpt: "A federal appeals court Friday denied the Trump campaign’s appeal in Pennsylvania, writing that the case lacked proof and had no merit, and striking another blow to [the president’s dwindling legal av"
     publishedDateTime: 2020-11-28T00:16:00Z

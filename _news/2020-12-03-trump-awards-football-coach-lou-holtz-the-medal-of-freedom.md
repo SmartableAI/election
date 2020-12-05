@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/donald-trump-lou-holtz-m
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/donald-trump-lou-holtz-medal-of-freedom/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Trump Gave W.H.O. a List of Demands. Hours Later, He Walked Away."
-    excerpt: "When President Trump quit the health organization, he left a list of seven demands on the table. Here they are."
-    publishedDateTime: 2020-11-27T14:43:00Z
-    webUrl: "https://www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/27/world/europe/trump-who-tedros-china-virus.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/23/world/00trump-who-1/00trump-who-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "3VA6YfZgbeQaIVyssunjc10Ujbnf8AoW2ocpFPY4jPHsVqUBi4VgZ1jJHeuYKG4sTF4uJJKgKTN6UquHE5fjBEvDpkgjUPXiZLgDb8LAjid4ph6sXb+UsblOQtfToQnqhVQ6B9fI4LvhBOFm9EKYt4qxR7F8rc7a4S0HpwIF9zsynPX06Fe6GWKWAecG7BuF2sOs1sQKPx+RViqCxfQMJL0Ed5CY87Elj0+qQkQbEc0Gn3mcM7bALHnDLavfy/xXZKY0E6oGVBMHRE6VBjnRSyTzDRr3Disp+i3gF1ev3rpSCKpQKvOxeCF9sMHYt3ilHSdsrxSp2t5Qt8YA+x1dzch/2aNixHRNE1QDMm1G5zk=;y5d6DsdM1sM69/87tfQJmg=="
 ---
