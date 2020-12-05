@@ -27,117 +27,85 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Joe Biden called 'forces of intolerance,' not Trump supporters, the 'dregs of society'"
-    excerpt: "Accounts linked to President Donald Trump and his family claim that Joe Biden called Trump supporters the \"dregs of society.\" In reality, he said that about \"forces of intolerance.\""
-    publishedDateTime: 2020-10-15T20:39:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-biden-never-called-trump-supporters-dregs-society/5966195002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5966195002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5966195002"
+  - title: "Joe Biden’s love of Amtrak tells us how he would govern"
+    excerpt: "After the first presidential debate, Joe Biden did what he has done many times before: boarded a train. “The Build Back Better Express” would lumber for the better part of a day between Cleveland and Johnstown."
+    publishedDateTime: 2020-10-20T10:03:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AP FACT CHECK: Trump's shaky claims on virus, Dem misfires"
-    excerpt: "Impatient to return to the campaign trail, President Donald Trump made a series of claims over the weekend about his health and the course of the pandemic"
-    publishedDateTime: 2020-10-12T16:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_9d6e66d6924445e48427c1746568a45b_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVBWLIQDUII6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Fact check: Fake quote says Biden wants to 'lock down' US"
-    excerpt: "Does Democratic presidential candidate Joe Biden want to \"lock down our nation until we have a vaccine ready,\" like one Facebook meme claims?"
-    publishedDateTime: 2020-10-16T19:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/16/fact-check-fake-quote-says-joe-biden-wants-lock-down-us/3671196001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3671196001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3671196001"
+  - title: "Greenwald slams Schiff over Biden emails on Fox"
+    excerpt: "Greenwald, the journalist who in 2013 worked with whistleblower Edward Snowden to published leaked intelligence on the National Security Agency's surveillance programs, accused Schiff of lying about Russia being behind a New York Post story on Hunter Biden 's emails."
+    publishedDateTime: 2020-10-20T18:24:00Z
+    webUrl: "https://thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox"
+    ampWebUrl: "https://thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://thehill.com/sites/default/files/greenwaldglenn_01222020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Fact-check: Is Chris Pratt a Donald Trump Supporter?"
-    excerpt: "The 'Guardians of the Galaxy' star began trending over the weekend due to a poll posted on social media which asked Twitter users to ditch one of the famous Chris A-listers; Chris Pine, Chris Evans, Chris Hemsworth and Chris Pratt."
-    publishedDateTime: 2020-10-19T12:48:00Z
-    webUrl: "https://www.newsweek.com/chris-pratt-trump-supporter-politics-fact-check-1540240"
-    ampWebUrl: "https://www.newsweek.com/chris-pratt-trump-supporter-politics-fact-check-1540240?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chris-pratt-trump-supporter-politics-fact-check-1540240?amp=1"
+  - title: "Biden endorses Democratic challenger in Texas House district"
+    excerpt: "Democratic presidential nominee Joe Biden has thrown his support behind progressive congressional candidate Julie Oliver in her race for a House seat in central Texas."
+    publishedDateTime: 2020-10-21T19:20:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1620141/chris-pratt.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty_webb.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
-    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
-    publishedDateTime: 2020-10-17T16:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3667187001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3667187001"
+  - title: "Press: Joe Biden drops bomb on oil industry"
+    excerpt: "Asked about his plan to combat climate change, Biden defiantly pledged: “I would transition away from the oil industry, yes. The oil industry pollutes, significantly. It has to be replaced by ..."
+    publishedDateTime: 2020-10-27T12:15:00Z
+    webUrl: "https://thehill.com/opinion/campaign/522839-press-joe-biden-drops-bomb-on-oil-industry"
+    ampWebUrl: "https://thehill.com/opinion/campaign/522839-press-joe-biden-drops-bomb-on-oil-industry?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/522839-press-joe-biden-drops-bomb-on-oil-industry?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/ca_oiloklahoma_042720getty.jpg"
+        width: 1440
+        height: 880
         isCached: true
-  - title: "Fact check: Clip of Biden's statement on 'some Black woman' is missing context"
-    excerpt: "Commentary on clips of Biden discussing how a \"Black woman\" stocked his grocery shelves is missing context. Full video shows he was not being racist."
-    publishedDateTime: 2020-10-16T02:46:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-joe-biden-clips-some-black-woman-stocking-shelves-lack-context/3656186001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3656186001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3656186001"
+  - title: "'Black lives matter': Navy SEAL who oversaw bin Laden raid says he voted for Joe Biden"
+    excerpt: "The retired Navy SEAL did not specifically name President Trump, but ended the op-ed by saying \"I voted for Joe Biden.\""
+    publishedDateTime: 2020-10-21T05:12:00Z
+    webUrl: "https://www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/15/NLED/2f18dbc3-9b54-4e8b-a5ca-327dc34cf452-AP20259675695247.jpg?auto=webp&crop=2933,1650,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Fact check: Fabricated Biden quote supports transgender children’s right to transition"
-    excerpt: "Posts on social media falsely attribute a quote to Joe Biden in which he says that transgender children have a right to transition and there is no reason to deny them this right. In his recent town hall,"
-    publishedDateTime: 2020-10-22T18:38:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-quote-transgender-chi-idUSKBN2772PM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2772PM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2772PM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 117
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538497787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L1J7"
-        width: 818
-        height: 545
+      - url: "https://i.insider.com/5d07f57cf2f4796a1323eb05?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Fact check: Post misquotes Biden on court-packing amid debate over size of Supreme Court"
     excerpt: "Joe Biden never said the “day after” he’s elected, people will “know what he stands for.” A Google search of the exact quote turned up no results."
@@ -155,101 +123,65 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact check: Biden leveraged $1B in aid to Ukraine to oust corrupt prosecutor, not to help his son"
-    excerpt: "Despite a Senate GOP investigation that found no wrongdoing by Joe Biden on foreign policy in Ukraine, claims to the contrary continue to circulate."
-    publishedDateTime: 2020-10-21T21:44:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/21/fact-check-joe-biden-leveraged-ukraine-aid-oust-corrupt-prosecutor/5991434002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5991434002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5991434002"
+  - title: "If Joe Biden loses, it probably won’t be because of an increase in GOP voter registration"
+    excerpt: "Voter registration numbers recently released in Florida, North Carolina and Pennsylvania are not necessarily a sign of some significant underlying shift."
+    publishedDateTime: 2020-10-22T17:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/22/if-joe-biden-loses-it-probably-wont-be-because-an-increase-gop-voter-registration/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/22/if-joe-biden-loses-it-probably-wont-be-because-an-increase-gop-voter-registration/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/22/if-joe-biden-loses-it-probably-wont-be-because-an-increase-gop-voter-registration/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/09/27/USAT/dadf01aa-eb70-4664-bb52-7c5b64523d76-EPA_FILE_USA_UKRAINE_WHISTLEBLOWER_COMPLAINT_TRUMP_BIDEN.JPG?auto=webp&crop=3499,1969,x0,y219&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D5AU6OATBEI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Fact check: The recovery of Trump and Johnson from COVID-19 does not prove vaccines are unnecessary"
-    excerpt: "A post has been shared on Facebook saying that the recovery of U.S. President Donald Trump and British Prime Minister Boris Johnson from COVID-19 “proves” there is no need for a vaccine. This claim is false."
-    publishedDateTime: 2020-10-15T12:36:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-vaccine/fact-check-the-recovery-of-trump-and-johnson-from-covid-19-does-not-prove-vaccines-are-unnecessary-idUSKBN2701GY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701GY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GY"
+  - title: "North America’s Building Trades Unions Issue Formal Endorsement of Joe Biden for President"
+    excerpt: "Today, North America’s Building Trades Unions (NABTU) formally endorsed former Vice President Joe Biden and Senator Kamala Harris for President and Vice President of the United States. The organization issued the following statement from NABTU President Sean McGarvey: “North America’s Building Trades Unions are proud to endorse former Vice President Joe Biden for President of the United States."
+    publishedDateTime: 2020-10-23T17:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/joe-biden-business-building-construction-construction-and-engineering-industrial-products-and-services-dbfaad2cabd003fffb18a350f7b64888"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 111
+      name: Associated Press
+      domain: apnews.com
+    quality: 95
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537572406&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0WX"
-        width: 818
-        height: 545
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Biden says Trump is 'going to throw everything but the kitchen sink at me,' after Hunter Biden stories spark Facebook, Twitter backlash"
-    excerpt: "Democratic presidential nominee Joe Biden warned campaign donors that President Donald Trump is \"going to throw everything but the kitchen sink at me\" during the 19 days remaining before Election Day."
-    publishedDateTime: 2020-10-15T21:48:00Z
-    webUrl: "https://www.cnbc.com/2020/10/15/joe-biden-says-trump-lies-will-continue-after-hunter-biden-articles.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/15/joe-biden-says-trump-lies-will-continue-after-hunter-biden-articles.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/15/joe-biden-says-trump-lies-will-continue-after-hunter-biden-articles.html"
+  - title: "Would Joe Biden Transition To Clean Energy Destroy The Oil Industry?"
+    excerpt: "Biden's energy plan calls for net-zero emissions by 2050, saying the oil industry has to go because of pollution Biden denies he would eliminate fracking, an issue in the key swing state of Pennsylvania The oil industry lobbying group API calls Biden's proposed leasing ban \"extreme\" President Donald Trump and the oil industry tried to gin up fears of a Democratic victory in energy producing swing states with Election Day little more than a week away,"
+    publishedDateTime: 2020-10-23T17:06:00Z
+    webUrl: "https://www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445"
+    ampWebUrl: "https://www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445?amp=1"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 108
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106739921-16025015462020-10-10t235625z_178747536_rc2xfj93a2cr_rtrmadp_0_usa-election-biden.jpeg?v=1602501611"
-        width: 3269
-        height: 1991
-        isCached: true
-  - title: "Fact Check: Would Biden Raise Your Taxes? It Depends on Your Income"
-    excerpt: "The Committee for a Responsible Federal Budget (CRFB) reported that Biden's plan would create revenue of \"$3.35 trillion and $3.67 trillion over a decade if enacted in full starting in 2021.\""
-    publishedDateTime: 2020-10-09T17:43:00Z
-    webUrl: "https://heavy.com/news/biden-taxes/"
-    ampWebUrl: "https://heavy.com/news/biden-taxes/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/biden-taxes/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 75
     images:
-      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-36-1.jpg?quality=65&strip=all"
-        width: 780
-        height: 439
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/01/the-decision-to-halt-fracking-comes-weeks-before.jpg"
+        width: 1024
+        height: 611
         isCached: true
-  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
-    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
-    publishedDateTime: 2020-10-19T15:48:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3667187001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3667187001"
+  - title: "That should make him president: Joe Biden shows up — and shows he's learned the lesson of 2016"
+    excerpt: "In his final debate performance of the 2020 campaign (and with any luck, his last one ever), the president fumbled the one attack line that his campaign had prepared against Joe Biden for years."
+    publishedDateTime: 2020-10-22T00:00:00Z
+    webUrl: "https://www.salon.com/2020/10/23/that-should-make-him-president-joe-biden-shows-up--and-shows-hes-learned-the-lesson-of-2016/"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 72
+      name: Salon
+      domain: salon.com
+    quality: 43
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Fact check: Yes, Joe Biden took a knee in Miami. No, it wasn’t during the national anthem."
-    excerpt: "A Miami Herald photo of former vice president and Democratic presidential nominee Joe Biden taken during a campaign event in Miami’s Little Haiti neighborhood is being recirculated in social media with a false narrative that the national anthem was playing when the photo was taken."
-    publishedDateTime: 2020-10-12T00:40:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article246385535.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246385535.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246385535.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 65
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f0193b67-c79f-4001-8a27-6109bd7bb30d/de4342bb-06c5-4dde-98b1-4c8915f4b177/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://media.salon.com/2020/10/joe-biden-debate-1022204.jpg"
+        width: 1692
+        height: 1142
         isCached: true
 
 secured: "E/JntH+L7NhsOb1VuGl2nx7JHbQCWckzeOudB4LWdeqLPIODsjm5wvxcAIiy7uGsRP99/vmFLadzUk0aok5YyeJS6eP0j63XoxJy8C3xGncH4/kQMdvQ/QMAJvGwm7WafiZrLu+iPGnjDiXsfJEGgjnnEmOdYPxAoCCVTkhvyoyQ54VbGKZGg9LSuva+uIDV5nDZbwBZSjXLNHbQUAT87vnS/8otVCE6waBf73P8BLNNU9LTAC3QkmR/F/aWmn8MpSFkq8mlt3hVn+UXmvNGG/1vhIpqiEzcxh0qJF/Y5sZMIq9YuPwbov7NARO9ZOgzioNf3Cmq4RTYcRXGSvQIT5AYbzhDdrBIU2HR9NZ7AzI=;UYU3SvvwipDNiFIxV23hNw=="

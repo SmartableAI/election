@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Whitmer tells Trump to stop focusing on her, start focusing on pandemic"
-    excerpt: "Michigan Gov. Gretchen Whitmer had stern words for President Trump on Sunday – telling him to stop spending so much time criticizing her and instead spend more time on fighting the novel coronavirus pandemic."
-    publishedDateTime: 2020-10-18T20:55:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qZrdrARkJc/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Whitmer thanks FBI, blames Trump admin after kidnapping plot foiled"
     excerpt: "Michigan Gov. Gretchen Whitmer blamed the Trump administration for rhetoric that she claimed led to a kidnapping plot against her, after the Trump campaign accused her of encouraging attempts on the president's life."
     publishedDateTime: 2020-10-25T14:57:07Z
@@ -63,168 +47,84 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Pollster Frank Luntz: If Trump defies polls again 'my profession is done'"
-    excerpt: "Republican pollster Frank Luntz told Fox News’ Bret Baier on Thursday night, that his \"profession is done\" if President Trump wins re-election come Nov. 3, and proves the national polls wrong yet again."
-    publishedDateTime: 2020-10-23T21:02:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCF-h7bsK_s/pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done"
-    ampWebUrl: "https://www.foxnews.com/politics/pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done.amp"
+  - title: "FBI, Mueller received Trump transition records from GSA in secret: Senate report"
+    excerpt: "Former Special Counsel Robert Mueller and the FBI gained access to Trump transition team records during their Russia investigation through the General Services Administration, according to a report from Senate Republicans."
+    publishedDateTime: 2020-10-24T09:41:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8I-mIYYKgt8/fbi-mueller-received-trump-transition-records-from-gsa-in-secret-senate-report"
+    ampWebUrl: "https://www.foxnews.com/politics/fbi-mueller-received-trump-transition-records-from-gsa-in-secret-senate-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-mueller-received-trump-transition-records-from-gsa-in-secret-senate-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 170
     images:
-      - url: "https://secure.media.foxnews.com/BrightCove/990505083001/990505083001/2020/10/23/990505083001_6204035840001_6204035992001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/258329fb-0604-4640-8978-fb5d8bba0899/3b283e69-2893-40dc-88b6-aba91f19b82d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Government sues Melania Trump’s former best friend over ‘scathing tell-all’"
-    excerpt: "The Department of Justice has requested that all profits be directed to a ‘constructive trust.’"
-    publishedDateTime: 2020-10-13T23:25:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IPNjwshtALo/government-sues-melania-trump-best-friend"
-    ampWebUrl: "https://www.foxnews.com/politics/government-sues-melania-trump-best-friend.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/government-sues-melania-trump-best-friend.amp"
+  - title: "Trump administration proposes change to rules governing international students in US"
+    excerpt: "The Trump administration is proposing another major change to student visa rules, adding a fixed end date of up to four years. "
+    publishedDateTime: 2020-10-30T18:38:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hqQjAZsZEI4/trump-administration-international-students-us-rules"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-international-students-us-rules.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-international-students-us-rules.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ab45625-a326-4a1c-82c6-af5cd7f05f08/5467e445-6504-4c44-b26f-c96e16ddc911/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39212e9e-69cc-4ce5-8f14-e6ea3a89b03b/695cc4df-9d23-491b-84e0-012d477f09de/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "'Nodding lady' at Trump town hall accuses critics of targeting her employees"
-    excerpt: "\"Nodding lady\" Marya Joli says her employees have been receiving hate messages since her appearance on an NBC town hall."
-    publishedDateTime: 2020-10-21T12:52:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SBDgWZZ1Xfs/nodding-lady-trump-town-hall-hate-messages"
-    ampWebUrl: "https://www.foxnews.com/politics/nodding-lady-trump-town-hall-hate-messages.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nodding-lady-trump-town-hall-hate-messages.amp"
+  - title: "Whitmer kidnapping plot: Michigan governor, in essay, again blames Trump's 'violent rhetoric'"
+    excerpt: "Michigan Gov. Gretchen Whitmer wrote an essay in The Atlantic on Tuesday about a foiled plot to kidnap her but spent nearly every word making a case against reelecting President Trump."
+    publishedDateTime: 2020-10-27T15:24:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GSivHBJOdhk/whitmer-kidnapping-michigan-governor-trump-essay-the-atlantic"
+    ampWebUrl: "https://www.foxnews.com/politics/whitmer-kidnapping-michigan-governor-trump-essay-the-atlantic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-kidnapping-michigan-governor-trump-essay-the-atlantic.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/120832826_10157610663063365_1553076211698567708_n.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/ap20282742613995-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Adelson shells out $75 million to pump up pro-Trump super PAC in final stretch"
-    excerpt: "Casino magnate and Republican megadonor Sheldon Adelson and his wife Miriam contributed $75 million last month to a super PAC backing President Trump’s re-election bid as the race for the White House entered its closing weeks."
-    publishedDateTime: 2020-10-16T02:40:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_-zo-nyXMXw/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch"
-    ampWebUrl: "https://www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp"
+  - title: "FBI reveals alleged Whitmer kidnapper plotter also wanted to hang Trump, disproving Democrats' narrative"
+    excerpt: "Some Democrats have blamed the president's inflammatory rhetoric with inciting the kidnap scheme."
+    publishedDateTime: 2020-10-29T01:49:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/amBamIwQlq8/fbi-whitmer-kidnap-hang-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/fbi-whitmer-kidnap-hang-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-whitmer-kidnap-hang-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e80b0076-79fc-45e5-a4d4-5a6dcc5d5b2a/8b3ed7b7-806e-4f84-8b34-88666e876b21/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ceaa499-d5b5-4917-ac44-406654011b1c/b10fb369-d5aa-4334-8275-cc8d437f5d58/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Herschel Walker claps back at those trying to change his mind about casting Trump vote"
-    excerpt: "Former NFL running back Herschel Walker on Sunday addressed critics who have tried to change his mind regarding his plans to vote for President Donald Trump in the November Election."
-    publishedDateTime: 2020-10-25T21:33:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CIt-BDgONOw/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49cd9545-8d20-42fb-a18a-f2dee89ff05f/aa598eef-8742-4fa8-b656-699b26d681b7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign press secretary temporarily suspended on Twitter over mail-in voting tweet"
-    excerpt: "EXCLUSIVE: The Trump campaign’s national press secretary had his Twitter account suspended Thursday, just hours before the presidential debate, after he tweeted about his experience of being sent absentee ballot materials intended for someone else."
-    publishedDateTime: 2020-10-22T22:51:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJNqKKZE_tc/trump-press-secretary-suspended-twitter"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-press-secretary-suspended-twitter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-press-secretary-suspended-twitter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/gidley.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Florida worker suspended for flying Trump flag from government truck"
-    excerpt: "The 61-year-old, who has been with the town government for over two decades, was accused of flying a blue Trump flag out the driver side window of the truck earlier this month."
-    publishedDateTime: 2020-10-15T21:23:00Z
-    webUrl: "https://www.foxnews.com/us/florida-worker-suspended-trump-flag"
-    ampWebUrl: "https://www.foxnews.com/us/florida-worker-suspended-trump-flag.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/florida-worker-suspended-trump-flag.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/340/340/Image-2020-07-09-at-7.41.42-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "NYPD cop suspended for using loudspeaker to say 'Trump 2020' while on duty"
-    excerpt: "A New York police officer has reportedly been suspended without pay for using the department vehicle’s loudspeaker to proclaim his support for President Donald Trump’s 2020 campaign."
-    publishedDateTime: 2020-10-25T21:20:00Z
-    webUrl: "https://www.foxnews.com/us/nypd-cop-suspended-using-loudspeaker-trump-2020-on-duty"
-    ampWebUrl: "https://www.foxnews.com/us/nypd-cop-suspended-using-loudspeaker-trump-2020-on-duty.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/nypd-cop-suspended-using-loudspeaker-trump-2020-on-duty.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/NYPD.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "'The Five' react to Trump challenging Dems to impeach him over Supreme Court pick"
-    excerpt: "The political collision course over the Supreme Court is going forward. President Trump set to announce his nominee on Saturday, and Senate Republicans say they have the numbers to hold a vote.  The partisan infighting is just getting started."
-    publishedDateTime: 2020-10-25T19:27:00Z
-    webUrl: "https://www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e42e87e-93f1-4e1c-8ded-d69a5bd1bb32/38e3396b-54c0-4f94-b332-93fdfc80e55e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump teases stepping in if Republicans oppose multi-trillion dollar stimulus package"
-    excerpt: "President Trump hinted he might intervene if Republican senators don't support a second coronavirus stimulus package worth trillions of dollars, during an interview with Charles Benson of WTMJ4 Milwaukee on Saturday. "
-    publishedDateTime: 2020-10-18T20:49:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/avJI_CYja3s/trump-threatens-action-if-gop-senators-oppose-coronavirus-stimulus"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-  - title: "Trump Says the Quiet Part Out Loud: He's Losing"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-10-18T11:41:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/17/trump_says_the_quiet_part_out_loud_hes_losing_526678.html"
+  - title: "Gov. Whitmer: When Trump Attacks Me, The \"Violent Rhetoric\" Increases, It's Anti-American"
+    excerpt: "Gov. Gretchen Whitmer (D-MI) on being attacked by President Donald Trump: \"Every time he focuses on my state or on me, we see the violent rhetoric increase. We see the threats online increase. It's dangerous."
+    publishedDateTime: 2020-10-29T11:42:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/29/gov_whitmer_when_trump_attacks_me_the_violent_rhetoric_increases_its_anti-american.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
+    quality: 56
+    images:
+      - url: "https://assets.realclear.com/images/52/525518.jpg"
+        width: 1068
+        height: 800
+        isCached: true
 
 secured: "LYVcg0DBYH5KG86GqkzosGtiQQsDEHz258YYeJ3Q2LBUZLoMP+tBKEX/AOvC1NufJWp6wjKmlFZGtJYZoDDbT7b0d/C+8Os+zozLhxnlmU3l85S6ZWZKgrWa1CAhXvQCs8m+7q76Rydgbn53zcIGLxQiUuLGHS82HysXSCQG2UAfdhMw0vyfAUB/Yyo+U5vU2ujCsdIO/7a58XWOlsE+TlGBduz4z/pMtBwE5TRmY1SPhJVpncAdu5h6LUtI4A4Y+C05jCh0pq88GPmsqanxcwp4NSm0UrHfKKM0MSGGhMshpLwXndoKdCN2jQCI2IV8EaVKurd+2JoKn3OC7W1ENpgL5kIPH7QuaFwzrFjhRL0=;gVe7uQmxftAfn7nEADBQYg=="
 ---

@@ -32,245 +32,293 @@ images:
     isCached: true
 
 related:
-  - title: "The Pennsylvania women Trump has lost   "
-    excerpt: "They are all nervous.\n    \n"
-    publishedDateTime: 2020-10-12T23:53:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TGlJbOjzvxo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
+  - title: "Rudy Giuliani seeks to represent Trump in Pennsylvania election case"
+    excerpt: "Rudy Giuliani, President Donald Trump's personal lawyer, formally told a federal court that he will represent the Trump campaign in its long shot case to block Pennsylvania from certifying votes.\n    \n"
+    publishedDateTime: 2020-11-17T16:16:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2I59qmdeqlE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-lawsuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190925034820-giuliani-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's effort to steal the election is done"
+    excerpt: "President Donald Trump's not-secret attempt to steal the presidential election likely met its end Monday. And it was a group of local officials doing their job in Michigan that ended it.\n    \n"
+    publishedDateTime: 2020-11-24T03:00:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3WHU5zt4290/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/what-matters-november-23/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/what-matters-november-23/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190822155129-02-general-services-administration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pennsylvania certifies election results for Biden"
+    excerpt: "Pennsylvania on Tuesday morning certified its 2020 general election results, formally awarding another 20 electoral votes from a key battleground state for Joe Biden.\n    \n"
+    publishedDateTime: 2020-11-24T18:05:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mx4pj7IfXGc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/state-certification-2020-election-results-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/state-certification-2020-election-results-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121185207-01-pennsylvania-mail-in-ballot-counting-1112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump puts Giuliani in charge of post-election legal fight after series of losses"
+    excerpt: "President Donald Trump has placed his personal lawyer Rudy Giuliani in charge of his campaign's legal challenges contesting the outcome of the 2020 election, according to The New York Times.\n    \n"
+    publishedDateTime: 2020-11-15T03:43:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IM49YH4Ky00/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911215635-rudy-giuliani-0701-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senior GOP lawmakers grow anxious over Trump's effort to overturn election results "
+    excerpt: "A growing number of veteran GOP lawmakers are pushing back on President Donald Trump's tactics to overturn election results showing he lost the race, raising concerns that his tactics could hurt the US response to the coronavirus crisis and undercut a key pillar of democracy.\n    \n"
+    publishedDateTime: 2020-11-20T17:46:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/juQ2sPW01Aw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/gop-lawmakers-call-on-trump-to-begin-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/gop-lawmakers-call-on-trump-to-begin-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200205170728-01-lamar-alexander-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Inside Rudy Giuliani's attempt to sow chaos on behalf of Trump and steal the election"
+    excerpt: "One day before the Trump campaign's legal team needed to convince a federal judge that Joe Biden shouldn't have won Pennsylvania, Rudy Giuliani didn't like what he was hearing. Lawyers were going over arguments for the case at the Trump campaign headquarters in Arlington, Virginia, when Giuliani suddenly"
+    publishedDateTime: 2020-11-20T00:16:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8KaTscRWHek/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/rudy-giuliani-chaos-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/rudy-giuliani-chaos-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119143047-01-rudy-giuliani-presser-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New York Times: Rudy Giuliani put in charge of Trump's election lawsuits after series of losses"
+    excerpt: "President Donald Trump has placed his personal lawyer Rudy Giuliani in charge of his campaign's legal challenges contesting the outcome of the 2020 election, according to The New York Times.\n    \n"
+    publishedDateTime: 2020-11-14T16:04:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IM49YH4Ky00/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911215635-rudy-giuliani-0701-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Wisconsin recount would cost Trump campaign $7.9 million"
+    excerpt: "The Wisconsin Elections Commission said Monday that if President Donald Trump's campaign wants a recount of the razor-thin presidential race in the state, it will need to pay $7.9 million upfront.\n    \n"
+    publishedDateTime: 2020-11-16T22:42:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wTQcKuj9Swg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/wisconsin-recount-estimated-cost/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/wisconsin-recount-estimated-cost/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012131858-pa-voters-4-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109122421-ballot-counting-wisconsin-1103-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Blitzer presses Pelosi on why she hasn't taken Trump stimulus deal"
-    excerpt: "CNN's Wolf Blitzer speaks with House Speaker Nancy Pelosi about why she has not accepted President Donald Trump's roughly $1.8 trillion stimulus offer.\n    \n"
-    publishedDateTime: 2020-10-13T22:21:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pd7gtWDfc3w/nancy-pelosi-intv-stimulus-bill-trump-offer-coronavirus-tsr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/13/nancy-pelosi-intv-stimulus-bill-trump-offer-coronavirus-tsr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/13/nancy-pelosi-intv-stimulus-bill-trump-offer-coronavirus-tsr-vpx.cnn"
+  - title: "Why Trump's legal team is coming up short"
+    excerpt: "CNN's John Avlon fact-checks President Trump's lawsuits in key states that played a critical role determining the outcome of the 2020 US election.\n    \n"
+    publishedDateTime: 2020-11-17T13:27:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HYn9Z3pUYzY/trump-election-lawsuits-reality-check-avlon-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/17/trump-election-lawsuits-reality-check-avlon-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/17/trump-election-lawsuits-reality-check-avlon-newday-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013175114-wolf-blitzer-nancy-pelosi-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117081500-avlon-reality-check-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Melania Trump to make first campaign appearance in months"
-    excerpt: "First lady Melania Trump will join President Donald Trump at his Erie, Pennsylvania, rally on Tuesday evening, according to a White House official. It will be the first lady's first in-person appearance at a campaign event, outside of August's Republican National Convention speech at the White House,"
-    publishedDateTime: 2020-10-19T16:29:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5CTRVHYo9ZQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/melania-trump-campaign-event/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/melania-trump-campaign-event/index.html"
+  - title: "Avlon: The real culpability belongs to Republican Trump allies"
+    excerpt: "CNN's John Avlon looks at President Trump's legal cases and false claims, and how he is trying to overturn the 2020 presidential election.\n    \n"
+    publishedDateTime: 2020-11-19T13:29:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cBF6IFnfA9s/trump-2020-election-overturn-courts-reality-check-avlon-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/19/trump-2020-election-overturn-courts-reality-check-avlon-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/19/trump-2020-election-overturn-courts-reality-check-avlon-newday-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200727212235-melania-trump-rose-garden-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119081145-john-avlon-reality-check-1119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's doctor says the President has tested negative on consecutive days"
-    excerpt: "White House physician Sean Conley said Monday President Donald Trump has tested negative for Covid-19 on consecutive days, as the President heads to a crowded campaign rally in Florida.\n    \n"
-    publishedDateTime: 2020-10-12T23:39:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oZfst1Abrhg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/trump-health-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/trump-health-coronavirus/index.html"
+  - title: "Federal judge dismisses Trump campaign Pennsylvania lawsuit"
+    excerpt: "A US District Court judge Saturday dismissed a lawsuit by the Trump campaign trying to invalidate millions of Pennsylvania mail-in votes.\n    \n"
+    publishedDateTime: 2020-11-22T00:43:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WjaCBQ3rpvw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/federal-judge-dismisses-trump-pennsylvania-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/federal-judge-dismisses-trump-pennsylvania-lawsuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121021211-03-donald-trump-1120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: Judge's order dismissing Trump campaign Pennsylvania lawsuit"
+    excerpt: "Judge Matthew Brann of the US District Court in the Middle District of Pennsylvania dealt a death blow on Saturday to the Trump campaign's effort to overturn President-elect Joe Biden's victory. Read Brann's order below.\n    \n"
+    publishedDateTime: 2020-11-22T03:20:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/usgrGXvSUF0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/pennsylvania-trump-lawsuit-dismissal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/pennsylvania-trump-lawsuit-dismissal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121185207-01-pennsylvania-mail-in-ballot-counting-1112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Rudy Giuliani's day in a Pennsylvania courtroom representing Donald Trump"
+    excerpt: "Rudy Giuliani, President Donald Trump's personal lawyer, formally told a federal court that he will represent the Trump campaign in its long shot case to block Pennsylvania from certifying votes.\n    \n"
+    publishedDateTime: 2020-11-18T03:32:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2I59qmdeqlE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-lawsuit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190925034820-giuliani-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: Trump continues dishonesty bombardment at Pennsylvania rally"
-    excerpt: "President Donald Trump has returned to the campaign trail with all of his usual campaign dishonesty.\n    \n"
-    publishedDateTime: 2020-10-14T13:12:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sPtUa3640eM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-rally-johnstown-pennsylvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-rally-johnstown-pennsylvania/index.html"
+  - title: "Judges rule against Trump campaign in 6 Pennsylvania cases over absentee ballots"
+    excerpt: "Two judges in Pennsylvania on Friday tossed a half dozen court cases the Trump campaign had brought to invalidate thousands of votes around Philadelphia, where voters carried President-elect Joe Biden to a clear win in the battleground state.\n    \n"
+    publishedDateTime: 2020-11-14T00:49:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k155O0Qypks/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/pennsylvania-absentee-ballots-trump-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/pennsylvania-absentee-ballots-trump-campaign/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013201442-01-trump-rally-pa-1013-screengrab-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110092511-ballot-counting-pennsylvania-1104-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump needs this pivotal county and its rural voters to win Pennsylvania"
-    excerpt: "Women and men of all ages arrive well before opening. It is midmorning in the middle of the week, but a lengthy line of people patiently waiting forms outside a country home painted to look like an American flag, near a 14-foot Donald Trump cutout on the front lawn.\n    \n"
-    publishedDateTime: 2020-10-14T19:29:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D0PGgFo3BIY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/pennsylvania-trump-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/pennsylvania-trump-2020-election/index.html"
+  - title: "Trump campaign fundraises off of Giuliani news conference and uses photo of Trump in hospital"
+    excerpt: "The Trump campaign sent out another fundraising email to supporters on Friday, signed by President Donald Trump, praising his attorney Rudy Giuliani's widely panned news conference this week and featuring a photo of Trump taken when he was a coronavirus patient in the hospital.\n    \n"
+    publishedDateTime: 2020-11-20T21:49:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aLMOtvlcMwc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/trump-campaign-email-giuliani-presser/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/trump-campaign-email-giuliani-presser/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014150337-02-trump-house-pennsylvania-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005154527-01-trump-walter-reed-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's final campaign pitch is a false warning of 'cheating' in Pennsylvania"
-    excerpt: "President Donald Trump closed out his bid for a second term with a false warning that \"cheating\" in the key state of Pennsylvania could lead to violence in the streets. It was his latest attempt to tarnish the integrity of an election clash with Democrat Joe Biden that nearly 100 million Americans have"
-    publishedDateTime: 2020-11-03T09:33:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3Z-3KwMz-ew/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/03/politics/donald-trump-joe-biden-us-election-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/03/politics/donald-trump-joe-biden-us-election-analysis/index.html"
+  - title: "Pennsylvania Supreme Court rejects Trump campaign's effort to block counting certain absentee ballots"
+    excerpt: "Pennsylvania's Supreme Court on Monday rejected the Trump campaign's effort to block the counting of absentee ballots with missing dates or names, clearing the way for 10,000 votes to be counted in Philadelphia and Allegheny counties, in another defeat for President Donald Trump's desperate legal battle.\n"
+    publishedDateTime: 2020-11-23T23:50:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nv2D31TkH84/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/pennsylvania-supreme-court-trump-campaign-absentee-ballots/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/pennsylvania-supreme-court-trump-campaign-absentee-ballots/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 160
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102234405-donald-trump-1031-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121185207-01-pennsylvania-mail-in-ballot-counting-1112-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Stimulus impasse continues as a year goes by since Pelosi and Trump last spoke"
-    excerpt: "House Speaker Nancy Pelosi and President Donald Trump last spoke by phone one year ago Friday.\n    \n"
-    publishedDateTime: 2020-10-16T20:48:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XJ3ZfcQhB38/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/stimulus-latest-negotiations-congress-pelosi/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/stimulus-latest-negotiations-congress-pelosi/index.html"
+  - title: "Fact Check: Rudy Giuliani and Eric Trump's press conference was filled with false claims about ballots in Pennsylvania"
+    excerpt: "After announcing the Trump campaign's plan to pursue a series of lawsuits at an event billed as a press conference in Philadelphia, the President's son, Eric Trump, and his personal lawyer, Rudy Giuliani, didn't take questions from the media. Instead, they spent time lambasting election officials who"
+    publishedDateTime: 2020-11-05T15:37:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FE56q_IDSxo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 151
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007163357-03-trump-pelosi-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104001833-pensilvania-philadelphia-voting-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Justice Department files complaint against Melania Trump's ex-friend over tell-all book"
-    excerpt: "The Justice Department is suing Stephanie Winston Wolkoff, an ex-friend and former adviser to first lady Melania Trump, claiming she breached a confidentiality agreement by publishing a tell-all book, according to a lawsuit filed in the Washington, DC, District Court on Tuesday.\n    \n"
-    publishedDateTime: 2020-10-13T22:56:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UKnx-i26VuI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/justice-department-stephanie-winston-wolkoff-melania-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/justice-department-stephanie-winston-wolkoff-melania-trump/index.html"
+  - title: "Pennsylvania Supreme Court rules Trump campaign observers had no right to stand within a specific distance during Philadelphia ballot processing"
+    excerpt: "The Pennsylvania Supreme Court on Tuesday ruled 5-2 that a Trump campaign ballot processing observer in Philadelphia had no right to stand any particular distance away from election workers, and it's up to counties to decide where poll watchers can stand.\n    \n"
+    publishedDateTime: 2020-11-17T23:05:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKBCBP5NKvY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/pennsylvania-supreme-court-ballot-observation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/pennsylvania-supreme-court-ballot-observation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 138
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003190039-16-trump-covid-circle-melania-trump-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117142614-donald-trump-1113-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Fact check: At Pennsylvania rally, Trump makes four false claims about voting in the state"
-    excerpt: "President Donald Trump has made a habit of lying about the integrity of the election. And in the first of his three Monday events in Pennsylvania, he made four false claims about voting in the state.\n    \n"
-    publishedDateTime: 2020-10-27T00:43:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UlOJrsdkIhI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/fact-check-voting-pennsylvania-fraud-philadelphia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/fact-check-voting-pennsylvania-fraud-philadelphia/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142449-03-trump-rally-pa-1026-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Can Trump Squeeze More From His White Base in Pennsylvania and Beyond?"
-    excerpt: "With President Trump trailing Joseph R. Biden Jr. in Pennsylvania in nearly every poll, his last refuge and perhaps best hope is to maximize the turnout of working-class white voters."
-    publishedDateTime: 2020-10-11T13:10:00Z
-    webUrl: "https://www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/09pa-trump1/09pa-trump1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Watch live: Biden holds campaign event in Pennsylvania"
-    excerpt: "Former Vice President Joe Biden delivers remarks at a Build Back Better campaign event in Erie, Pa. Oct. 10, 2020"
-    publishedDateTime: 2020-10-10T20:46:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-biden-holds-campaign-event-in-pennsylvania-93601349870"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93601349870"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93601349870"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/AFP_8RU7Q2.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump campaign stalls in Pennsylvania"
-    excerpt: "The president’s unsteady coronavirus leadership is damaging his chances of winning this Rust Belt battleground a second time."
-    publishedDateTime: 2020-10-14T08:35:00Z
-    webUrl: "https://www.politico.com/news/2020/10/14/pennsylvania-swing-states-428527"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/pennsylvania-swing-states-428527"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/pennsylvania-swing-states-428527"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/51/76/8266e35c4a9693eb80ec83d1b315/penn-optimized.gif"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Michael Cohen writing book about DOJ and Trump world"
-    excerpt: "It is fair and accurate to state that President Trump has weaponized the Department of Justice,” the president’s former attorney said in an interview."
-    publishedDateTime: 2020-10-14T23:13:00Z
-    webUrl: "https://www.politico.com/news/2020/10/14/michael-cohen-writing-book-doj-trump-429488"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/michael-cohen-writing-book-doj-trump-429488"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/michael-cohen-writing-book-doj-trump-429488"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/9a/c7/dd3e9a91484dbaaee6008ab2b907/gettyimages-1147335350-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "The Candidates: Donald Trump’s Promises"
-    excerpt: "In the first of a two-part series exploring the policies of the presidential candidates, we look at whether Mr. Trump has made good on his commitments from 2016."
-    publishedDateTime: 2020-10-15T10:20:00Z
-    webUrl: "https://www.nytimes.com/2020/10/15/podcasts/the-daily/donald-trump-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/15/podcasts/the-daily/donald-trump-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/15/podcasts/the-daily/donald-trump-election.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/15/world/15daily-1/15daily-1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "In Pennsylvania, Trump Voter Fury Foretells a Nation Still Divided"
     excerpt: "President Trump has presented no hard evidence of voter fraud, but his charges have riled supporters in Pennsylvania who now insist the election has been stolen."
@@ -304,100 +352,102 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Melania Trump slams former friend who wrote tell-all: 'She hardly knew me'"
-    excerpt: "The first lady blasted Stephanie Winston Wolkoff's book as \"idle gossip\" and said she needs to look \"within\" at \"her own dishonest behavior.\""
-    publishedDateTime: 2020-10-16T17:20:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/melania-trump-slams-former-friend-who-wrote-tell-all-she-n1243736"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243736"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243736"
+  - title: "Another shake-up on Trump campaign legal team"
+    excerpt: "The campaign has apparently tried to replace the entire team handling its federal lawsuit seeking to block certification of Pennsylvania’s election results."
+    publishedDateTime: 2020-11-17T02:17:00Z
+    webUrl: "https://www.politico.com/news/2020/11/16/trump-campaign-legal-shake-up-436924"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/16/trump-campaign-legal-shake-up-436924"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/16/trump-campaign-legal-shake-up-436924"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/15/bf/209cb7ae463b9edb8d0a91fc2be8/gettyimages-1227657113-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Giuliani Is Said to Seek $20,000 a Day Payment for Trump Legal Work"
+    excerpt: "Last week, the president put the former New York mayor in charge of the court challenges to his loss in the election. Since then they have suffered nothing but setbacks."
+    publishedDateTime: 2020-11-17T18:37:00Z
+    webUrl: "https://www.nytimes.com/2020/11/17/us/politics/giuliani-trump-election-pay.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/17/us/politics/giuliani-trump-election-pay.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/us/politics/giuliani-trump-election-pay.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/17/us/politics/17dc-trump-rudy/17dc-trump-rudy-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Appeals court deals Trump-Giuliani Pennsylvania lawsuit yet another blow"
+    excerpt: "A federal appeals court Friday rejected the Trump campaign's effort to revive its lawsuit claiming that Pennsylvania officials conducted the election in a way that discriminated against those who voted."
+    publishedDateTime: 2020-11-27T19:26:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/appeals-court-deals-trump-giuliani-pennsylvania-lawsuit-yet-another-blow-n1249144"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249144"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249144"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 133
+    quality: 134
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420760/201016-melania-trump-ew-1045a_8abb581f8e006a522aa576ec8b021e0d.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_48/3431433/201127-rudy_giuliani-mc-1826_66aabca8641ad717f38b5227ec4069c5.JPG"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Donald Trump Is Losing His Touch. So Is the TV Producer Who Shaped His Image."
-    excerpt: "Mark Burnett helped turn Donald Trump into a national figure with “The Apprentice.” But since 2016, his impact “has kind of gone bust.”"
-    publishedDateTime: 2020-10-19T00:07:00Z
-    webUrl: "https://www.nytimes.com/2020/10/18/business/media/burnett-trump-apprentice.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/18/business/media/burnett-trump-apprentice.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/18/business/media/burnett-trump-apprentice.amp.html"
+  - title: "Presidential Transition Live Updates: Trump Suffers Another Legal Loss, This Time in Pennsylvania"
+    excerpt: "Business leaders called for an orderly transition. Senator Kelly Loeffler of Georgia tested positive for the coronavirus and then received an inconclusive result. And the White House scheduled three more executions to take place before the start of the Biden administration."
+    publishedDateTime: 2020-11-22T14:06:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/22/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/22/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/22/us/joe-biden-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 132
     images:
-      - url: "https://static01.nyt.com/images/2020/10/19/business/18JPBenSmith-print/18BenSmith-01-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/21/world/21transition-briefing-pennsylvania-promo/21transition-briefing-pennsylvania-promo-facebookJumbo-v2.jpg"
         width: 1050
-        height: 549
+        height: 550
         isCached: true
-  - title: "St. Louis couple who waved guns at protest have spoken to Trump about their case"
-    excerpt: "Mark and Patricia McCloskey were indicted by a St. Louis grand jury last week on charges of unlawful use of a weapon and tampering with evidence."
-    publishedDateTime: 2020-10-14T18:11:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/st-louis-couple-who-waved-guns-protest-have-spoken-trump-n1243391"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243391"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243391"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420164/201014-mccloskey-court-hearing-se-143p_7b68a0bea8cb98aebd86e91b93602446.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump’s Taxes Show He Engineered a Sudden Windfall in 2016"
-    excerpt: "Over $21 million in highly unusual payments from the Las Vegas hotel Donald Trump owns with Phil Ruffin were routed through other Trump companies, then directed to Mr. Trump. Tax records expose ..."
-    publishedDateTime: 2020-10-09T11:26:00Z
-    webUrl: "https://www.nytimes.com/interactive/2020/10/09/us/donald-trump-taxes-las-vegas.html"
+  - title: "A law firm has stopped representing the Trump campaign in a Pennsylvania suit."
+    excerpt: "Porter Wright Morris & Arthur, the law firm leading the Trump campaign’s efforts to cast doubt on the presidential election results in Pennsylvania, abruptly withdrew from a federal lawsuit that it filed days earlier on behalf of President Trump."
+    publishedDateTime: 2020-11-13T20:16:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/us/a-law-firm-has-stopped-representing-the-trump-campaign-in-a-pennsylvania-suit.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/us/a-law-firm-has-stopped-representing-the-trump-campaign-in-a-pennsylvania-suit.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/us/a-law-firm-has-stopped-representing-the-trump-campaign-in-a-pennsylvania-suit.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 115
+    quality: 131
     images:
-      - url: "https://static01.nyt.com/images/2020/10/07/us/donald-trump-taxes-las-vegas-1602094433672/donald-trump-taxes-las-vegas-1602094433672-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/13transition-briefing-campaign-lawyers/merlin_179792331_959fa2b2-a4e4-4ce5-8a9c-96f0e32c9c81-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "‘He’s just so angry all the time’: Trump hemorrhaging support among suburban women"
-    excerpt: "It’s hard to overstate just how badly the president is performing with white, college-educated women in the suburbs of Detroit."
-    publishedDateTime: 2020-10-14T08:43:00Z
-    webUrl: "https://www.politico.com/news/2020/10/14/michigan-swing-states-428896"
+  - title: "Giuliani makes accusations of fraud that the Trump team has failed to support in court."
+    excerpt: "Giuliani, President Trump’s personal lawyer, mixed misleading statements, wild conspiracy theories and outright fabrications as he attempted to suggest that Mr. Trump still had a viable pathway to winning the election."
+    publishedDateTime: 2020-11-19T21:16:00Z
+    webUrl: "https://www.nytimes.com/2020/11/19/technology/giuliani-false-fraud-claims.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/19/technology/giuliani-false-fraud-claims.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/19/technology/giuliani-false-fraud-claims.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 109
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
     images:
-      - url: "https://static.politico.com/62/c2/1853becf4b63bd80506cf7825124/michigan.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/11/19/us/politics/19daily-distortion-giuliani-sub/merlin_180210207_1d292ed5-df73-498d-b15a-5a53bb911823-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Trump Wants to Win. Why Does He Act Like He Wants to Lose?"
-    excerpt: "Trump thinks he doesn't need any advice. And hey, he won when everyone (even he) thought he'd lose. But it looks like his famous gut (instinct) may be catching up with him."
-    publishedDateTime: 2020-10-17T04:12:00Z
-    webUrl: "https://www.thedailybeast.com/trump-wants-to-win-why-does-he-act-like-he-wants-to-lose"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
-  - title: "‘SNL’ Mocks Its Own Network’s Wild Trump Town Hall"
-    excerpt: "NBC stirred plenty of controversy this week by granting Donald Trump his own town hall in the same time slot as Joe Biden’s broadcast—but the decision seems even more cynical than some critics alleged when you realize how much Saturday Night Live maestro Lorne Michaels and his merry band of comedians must have been drooling at the prospect."
-    publishedDateTime: 2020-10-18T04:43:00Z
-    webUrl: "https://www.thedailybeast.com/snl-mocks-its-own-networks-wild-trump-town-hall"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
 
 secured: "TZ5Df/lGIdeRfs+4fFdie/uB4sDP0koRxn8lSeB3CsvbC0EeCMTOpY5El/LY3QcT2FlosWd43HN6tCT7vxCmHFFaqHCw+ZMWKxpPJO/zI72x0QyyMYXSjK+SDKvvyVrX5WU8ckqP8U5aYCYXP7iJhGBSytm6W0r6MS1oO6PCbJX/qq8tWa9G6ia70RDOetW+8GgxAQ1CT3IHna4e3awG/p6MQErFFzRLPbA+00ozWZMyV9Xn5J0r5PVkkRnLv9fZHkPHgqCVv6SK5tC7BXZPl9uzViG2sp2psTyZOVOPDihaOW/gqoylL3C32iKRqRHIcLUDaFDBUfdu0CXbu8bnarbiElTPExASfba0jxlgmCT1AmtZbENEMLKfNi9V5Pjo9YEhZJFqt0DWZNOf3PZ9nAyCNQo6UOp+iSUFebchlj7aCm8D3tY8cKCe2/osfY1dHi2jKc5vj4I4sLG0RfHzcEBVKUjmbAkmhUruzBq3QbdtU0Q3o+n/5ozlQsErOemmXZkoocjn4EYER37H4/qwAA==;ASMqfrEyoASMCGixc3ao/A=="
 ---

@@ -27,65 +27,102 @@ images:
     isCached: true
 
 related:
-  - title: "Pence to mount 'aggressive' campaign push in final two weeks"
-    excerpt: "Vice President Mike Pence will travel at least five days a week and ramp up to at least two campaign rallies each day as part of a “very aggressive schedule” in the final days before the election, Pen"
-    publishedDateTime: 2020-10-19T13:40:00Z
-    webUrl: "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks"
-    ampWebUrl: "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks?amp"
+  - title: "Jill Biden, Mike Pence to make stops in Detroit, Pontiac this week"
+    excerpt: "More:President Trump in Michigan: Joe Biden is lost to 'sick' liberals Also in Michigan election tours, Vice President Mike Pence is scheduled to hit Pontiac on Thursday and Ivanka Trump and Pete Buttigeig are in the Grand Rapids area today. Trump is ..."
+    publishedDateTime: 2020-10-19T20:24:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/19/jill-biden-mike-pence-detroit-pontiac-michigan/3710604001/"
+    ampWebUrl: "https://amp.freep.com/amp/3710604001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3710604001"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 90
     images:
-      - url: "https://thehill.com/sites/default/files/pencemike_100820getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.gannett-cdn.com/-mm-/05208a420be8c489fe9ef8bb2fd732a59d2a9bf9/c=0-98-1920-1183/local/-/media/2015/09/09/DetroitFreePress/DetroitFreePress/635774172406625329-obama-09.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
         isCached: true
-  - title: "Vice President Pence to Hold Rally in Maine Monday, 2 Weeks Before Election"
-    excerpt: "Vice President Mike Pence is set to travel to Maine for a “Make America Great Again” rally next week, in the final stretch of the 2020 presidential campaign. The Trump campaign announced Friday that Pence would be hosting a rally in Hermon at 11:30 a."
-    publishedDateTime: 2020-10-16T21:09:00Z
-    webUrl: "https://www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/"
-    ampWebUrl: "https://www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/?amp"
-    cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/?amp"
+  - title: "Vice President Pence to visit Portsmouth this week"
+    excerpt: "Vice President Mike Pence is scheduled to return to New Hampshire for a campaign event. Sources said Pence will be in Portsmouth for the event, but exact details of the visit have not been released. President Donald Trump’s son Eric Trump is scheduled be in Manchester on Monday for an event at the DoubleTree Hotel."
+    publishedDateTime: 2020-10-19T03:08:00Z
+    webUrl: "https://www.wmur.com/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
+    ampWebUrl: "https://www.wmur.com/amp/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
     type: article
     provider:
-      name: NECN
-      domain: necn.com
-    quality: 88
-    images:
-      - url: "https://media.necn.com/2020/10/Video-3.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Vice President Mike Pence schedules campaign rally in Flint Wednesday"
-    excerpt: "Vice President Mike Pence is coming back to Michigan Wednesday with only six days left until the Nov. 3 presidential election. The Trump campaign announced Pence will hold a campaign rally at Bishop International Airport in Flint on Oct."
-    publishedDateTime: 2020-10-26T17:26:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-schedules-campaign-rally-in-flint-wednesday.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-schedules-campaign-rally-in-flint-wednesday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/vice-president-mike-pence-schedules-campaign-rally-in-flint-wednesday.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
+      name: WMUR9
+      domain: wmur.com
     quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2AUJ4FPUWVA7PJPYE6YQN23GGQ.JPG"
-        width: 1300
-        height: 867
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mike-pence-in-laconia-922-1600804976.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Vice President Mike Pence To Campaign In Oakland County Thursday"
-    excerpt: "(CBS DETROIT) – Vice President Mike Pence is returning to Michigan Thursday for a campaign rally. The visit comes less than two weeks before Election Day and before the second presidential ..."
-    publishedDateTime: 2020-10-22T16:12:00Z
-    webUrl: "https://detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/"
-    ampWebUrl: "https://detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/amp/"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/amp/"
+  - title: "VP Mike Pence to campaign in Michigan again this week"
+    excerpt: "Vice President Mike Pence will be making a campaign stop in Michigan this week, following a rally in Grand Rapids last Wednesday. This time, Pence will be on the east side of the state holding a 'Make America Great Again' event in Waterford Township on Thursday,"
+    publishedDateTime: 2020-10-21T02:14:00Z
+    webUrl: "https://www.khou.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    ampWebUrl: "https://www.khou.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
     type: article
     provider:
-      name: CBS Detroit
-      domain: cbslocal.com
-    quality: 55
+      name: KHOU 11
+      domain: khou.com
+    quality: 75
+    images:
+      - url: "https://media.khou.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Vice President Mike Pence stops in Michigan, tomorrow"
+    excerpt: "Vice President Mike Pence is set to host a “Make America Great” rally in Oakland County tomorrow afternoon. The Vice President is hitting the campaign trail hard with less than two weeks to go before the election."
+    publishedDateTime: 2020-10-21T21:40:00Z
+    webUrl: "https://www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/"
+    ampWebUrl: "https://www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/amp/"
+    type: article
+    provider:
+      name: WLNS.com
+      domain: wlns.com
+    quality: 75
+    images:
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/pence-1.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Mike Pence makes campaign stop in Metro Detroit"
+    excerpt: "Vice President Mike Pence made a campaign stop in Metro Detroit on Thursday. Pence held a rally at the Oakland County International Airport. Pence hailed the appointment, and what he believes will be the swearing in,"
+    publishedDateTime: 2020-10-22T22:33:00Z
+    webUrl: "https://www.clickondetroit.com/news/politics/2020/10/22/vice-president-mike-pence-makes-campaign-stop-in-metro-detroit/"
+    ampWebUrl: "https://www.clickondetroit.com/news/politics/2020/10/22/vice-president-mike-pence-makes-campaign-stop-in-metro-detroit/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/politics/2020/10/22/vice-president-mike-pence-makes-campaign-stop-in-metro-detroit/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 75
+    images:
+      - url: "https://www.clickondetroit.com/resizer/npY4eCLoZPl0ZNqZScty_Y3m7xY=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/10-22-2020/t_e146ea240b75447f91e717762a8c5a61_name_image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Mike Pence, second lady Karen Pence to make separate stops in North Carolina next week"
+    excerpt: "In the homestretch leading up to Election Day, the Trump/Pence campaign announced both Vice President Mike Pence and second lady Karen Pence will make stops in battleground North Carolina next week."
+    publishedDateTime: 2020-10-25T01:35:00Z
+    webUrl: "https://abc11.com/politics/mike-karen-pence-to-make-separate-stops-in-north-carolina-next-week/7314278/"
+    ampWebUrl: "https://abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 60
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "2ptGOBZX2yxtaENLJr8QrkUBLL4W+uom++7OaGSg282cU1zZsWkrQdoq3ZQ5UzrbgG4y+QDYzRhZgG3Gmr+MII3iF1jWvqL/+lbjH9ws8BuJ3GRQf8nbgFqD8meh1sRgKB8KKI+BR6/no72YHf3SKJXsNTn/mjG89/Q6Ssr/EckneP943QfF16n6bMN+o6ybOrxGdARaLd9ZA22R61PF9u3BFEeYPUcuTg/rO0OB8ZDo4I9IuYNS0TaL496yPfRLfnb5MdrwatAerm/FGtoWO2LUybahjQwLl/zdQG19IQ7ulnFiKdXP+ZI//IjLnQfmJnNNmvLQDN9d5FG/+0TBuqbhYuDbCk14ohkhMjXuI4LUA3LTD5WyeQfuVb5ewCVHQaAX9mAFuRjvKr3AHyZ7ulGE3jrdN3320TBGUXtzHpb6+ClCH2tV2fURSGHtbHbTlKmC4L0a7hIhoEBc0oVe7hFGRm2wCiF492CYC69baQLF5tNz/ZLj6OdxyR+LLyEChL2Ny2ZGfTqeXXyaevZ4bw==;nB1k8eZ/UZmrh461uKaBBQ=="
 ---

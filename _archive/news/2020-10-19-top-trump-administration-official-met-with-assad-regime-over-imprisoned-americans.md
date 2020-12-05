@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/syria-us-hostages/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/syria-us-hostages/index.html"
 type: article
 quality: 170
-heat: 250
+heat: 190
 published: true
 
 provider:
@@ -31,69 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Federal judge strikes down Trump rule that could have cut food stamps for nearly 700,000 unemployed Americans "
-    excerpt: "A federal judge Sunday struck down a Trump administration rule that could have stripped food stamps from nearly 700,000 people, saying the US Department of Agriculture has been \"icily silent\" about how many Americans would have been denied benefits had the changes been in effect during the pandemic.\n"
-    publishedDateTime: 2020-10-19T01:48:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o9aQ1SERkpU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/food-stamps-trump-administration-work-requirements/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/food-stamps-trump-administration-work-requirements/index.html"
+  - title: "Trump's despicable rants against Whitmer"
+    excerpt: "Dean Obeidallah writes that Donald Trump's continued attacks on Michigan Governor Gretchen Whitmer -- the target of an alleged rightwing kidnap plot -- shows that he makes up for his of compassion and empathy with cruelty and vindictiveness."
+    publishedDateTime: 2020-10-18T23:43:00Z
+    webUrl: "https://www.cnn.com/2020/10/18/opinions/trump-despicable-rants-whitmer-obeidallah/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/opinions/trump-despicable-rants-whitmer-obeidallah/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/opinions/trump-despicable-rants-whitmer-obeidallah/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 155
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001121600-snap-food-stamps-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009162352-whitmer-trump-split-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Trump and Biden and America's two, polarized political realities live on prime time"
-    excerpt: "(CNN)More than 800 Americans died from Covid-19 Thursday, yet President Donald Trump still played the victim. On a night of simultaneous town halls on rival TV channels, Trump and Democratic ..."
-    publishedDateTime: 2020-10-16T06:21:00Z
-    webUrl: "https://www.cnn.com/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 144
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015230410-biden-trump-town-halls-2-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump is 'legitimizing' hate incidents against Asian Americans: U.N. experts"
-    excerpt: "The experts wrote that “U.S. authorities have utterly failed to take the steps required to detect, monitor, and prevent racist and xenophobic incidents” toward Asian Americans."
-    publishedDateTime: 2020-10-17T08:13:00Z
-    webUrl: "https://www.nbcnews.com/news/asian-america/u-n-experts-trump-legitimizing-hate-incidents-against-asian-americans-n1243791"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243791"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243791"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3413558/200921-un-anniversary-mc-9473_e1dfda68f626dc90d8518a14ef374869.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Romney decries state of America's 'vile, vituperative, hate-filled' politics, puts blame largely on Trump"
-    excerpt: "Romney said he's \"troubled\" by U.S. politics having \"moved away from spirited debate to a vile, vituperative, hate-filled morass\" unbecoming of America."
-    publishedDateTime: 2020-10-13T15:28:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/romney-decries-state-america-s-vile-vituperative-hate-filled-politics-n1243154"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243154"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243154"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 118
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2019_43/3066261/191023-mitt-romney-ew-354p_c77d2968ce9850c2647d31469de00994.jpg"
-        width: 2500
-        height: 1667
         isCached: true
 
 secured: "F7eOtiF+xSqGB4hu9bCJhuzqqX5NJHe54QNeZLfgvGe48xWDDjmdsqF4ENTpSM3aiotUcEd7pO8mciTOqCH4G7qL6/LS++JhRiFPryxRR54WMWaq3cYd1uBwEXR0N+/n4S/OLahSlV8Nr/nVAp4GlmotJfKRU7B7Va8LFPDBPr55SZ+v0tdnpsqN96nvKr6kxIN++T9BtHU1yAN1tVCuFdWgCd94M1FY7QEzsYcWaH3yFMqdXhAO/Pk1p1rLazcaGGLYzvLlncSxa43cRlV+vgNJyfX7uxqgSROTLNSRAaxrUosq14nwSIC1d5PR3icp00ecockH6VOMSRLIf0WKBvg7fM7uE3x2PMyQ53OvkNk=;mBwqZpYkLPMAxIof8OmrHg=="

@@ -31,145 +31,144 @@ images:
     isCached: true
 
 related:
-  - title: "Trump determined to avoid Hillary Clinton's fatal campaign blunder"
-    excerpt: "Focusing on tight races and battlegrounds, Clinton lost critical states in the Rust Belt after not campaigning there."
-    publishedDateTime: 2020-10-14T18:58:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VWdS12PwJII/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error"
-    ampWebUrl: "https://www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp"
+  - title: "Biden backers have looming sense of deja vu"
+    excerpt: "With multiple polls predicting a clear Biden victory in the November Election, Democrats are getting an uncomfortable sense of déjà vu given that polls in the final weeks of the 2016 election overwhelmingly predicted a victory for Hillary Clinton."
+    publishedDateTime: 2020-10-20T02:34:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dvqIv88vUQ/biden-backers-have-looming-sense-of-deja-vu"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TrumpPrayer.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20291811263827.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump campaign banking on rural Florida voters to repeat 2016 success"
-    excerpt: "President Trump's 2020 presidential campaign has set its sights on Florida's rural voters, in an effort to repeat the electoral success that delivered the swing state for the commander-in-chief four years ago. "
-    publishedDateTime: 2020-10-15T21:02:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aaz3wCm2aas/trump-campaign-rural-florida-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp"
+  - title: "Laptop connected to Hunter Biden linked to FBI money laundering probe"
+    excerpt: "The FBI’s subpoena of a laptop and hard drive purportedly belonging to Hunter Biden came in connection with a money laundering investigation in late 2019, according to documents obtained by Fox News and verified by multiple federal law enforcement officials who reviewed them. "
+    publishedDateTime: 2020-10-22T01:08:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UUeMnEB3iH4/laptop-hunter-biden-linked-fbi-money-laundering-probe"
+    ampWebUrl: "https://www.foxnews.com/politics/laptop-hunter-biden-linked-fbi-money-laundering-probe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/laptop-hunter-biden-linked-fbi-money-laundering-probe.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56f7aee2-127a-431b-a0ee-460b6468c3fe/f3fb124b-ba4f-48d6-8063-fc8728caf2c6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hillary Clinton 'sick to my stomach' over possible second Trump term"
-    excerpt: "Former Secretary of State and Democratic presidential nominee Hillary Clinton said the thought of President Trump winning reelection makes her \"literally sick to my stomach\" on a podcast released Monday."
-    publishedDateTime: 2020-10-26T11:07:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IFfHOIbM_0/hillary-clinton-trump-re-election-sick-to-stomach"
-    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-trump-re-election-sick-to-stomach.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-trump-re-election-sick-to-stomach.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Clinton-Foundation-Bill-Hillary-Getty-thumb.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Wisconsin voter who backed Hillary Clinton in 2016: Trump policies have helped my family"
-    excerpt: "Accompanied by two other voters on “Fox & Friends” to discuss the 2020 presidential election, a Wisconsin woman who has been a lifelong Democrat said she is likely switching over to supporting President Trump."
-    publishedDateTime: 2020-11-02T14:48:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FXlYWXGkWKk/wisconsin-voter-backed-clinton-trump-policies-helped-family"
-    ampWebUrl: "https://www.foxnews.com/politics/wisconsin-voter-backed-clinton-trump-policies-helped-family.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-voter-backed-clinton-trump-policies-helped-family.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Hillary Clinton: Voters should 'cancel' Trump 'reality show' after town hall ratings revealed"
-    excerpt: "Former Democratic nominee Hillary Clinton on Friday urged her supporters to \"cancel\" the “Trump reality show” in the November election. "
-    publishedDateTime: 2020-10-17T05:24:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bHP7LJuG1HI/hillary-clinton-voters-should-cancel-trump-reality-show-after-town-hall-ratings-revealed"
-    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-voters-should-cancel-trump-reality-show-after-town-hall-ratings-revealed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-voters-should-cancel-trump-reality-show-after-town-hall-ratings-revealed.amp"
+  - title: "Bernie Sanders eyeing potential Biden Cabinet role: report"
+    excerpt: "U.S. Sen. Bernie Sanders is reportedly interested in serving in Joe Biden’s Cabinet if the Democrat wins the presidency -- with plans to push for more “progressive voices” in the nation's leadership."
+    publishedDateTime: 2020-10-23T09:19:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iA4JqSIJgms/bernie-sanders-eyeing-potential-biden-cabinet-role-report"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-eyeing-potential-biden-cabinet-role-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-eyeing-potential-biden-cabinet-role-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hillary-Clinton-Recent-GETTY.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451a825a-4bce-48ca-ae30-4802571fc1db/63d6daa7-1718-4ae9-9181-044df4ee0013/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AOC claims young voters will choose Biden because they can influence him more easily"
+    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., said that young Americans will vote for Democratic presidential nominee Joe Biden, not because they think he is “their favorite person” but because they believe they can more easily sway him to act on behalf of their interests."
+    publishedDateTime: 2020-10-25T15:53:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CV-mMk_x4ZA/aoc-young-voters-choose-biden-influence-him"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-young-voters-choose-biden-influence-him.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-young-voters-choose-biden-influence-him.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86013dd9-61fb-4c71-84ef-02bc3da60248/f1bf3308-3ad3-485e-9fa1-66cba83206e8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sources tell Fox News FBI has possession of purported Hunter Biden laptop"
+    excerpt: ""
+    publishedDateTime: 2020-10-20T22:48:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L3kraosJ3u0/sources-tell-fox-news-fbi-has-possession-of-purported-hunter-biden-laptop"
+    ampWebUrl: "https://www.foxnews.com/politics/sources-tell-fox-news-fbi-has-possession-of-purported-hunter-biden-laptop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sources-tell-fox-news-fbi-has-possession-of-purported-hunter-biden-laptop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+  - title: "Tucker: American power centers align to get Joe Biden elected"
+    excerpt: "Kamala Harris 22 years younger than Joe Biden is. So if Joe Biden wins next month, at some point, possibly sooner than we expect, Kamala Harris will control the White House, the Federal government. And that is a concern because very few people in the Democratic Party,"
+    publishedDateTime: 2020-10-24T12:32:00Z
+    webUrl: "https://www.foxnews.com/transcript/tucker-american-power-centers-align-to-get-joe-biden-elected"
+    ampWebUrl: "https://www.foxnews.com/transcript/tucker-american-power-centers-align-to-get-joe-biden-elected.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-american-power-centers-align-to-get-joe-biden-elected.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59de329c-bbe9-486e-868c-2cf2fbcebbac/7b6e4a68-63c7-43d2-9e9d-23ca176bc0de/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "FBI holding laptop allegedly containing Hunter Biden business emails: officials"
+    excerpt: "FBI in possession of Hunter Biden's purported laptop, sources say The FBI is in possession of the laptop purportedly belonging to Hunter Biden which allegedly contained emails revealing details of his foreign business dealings,"
+    publishedDateTime: 2020-10-21T09:21:00Z
+    webUrl: "https://www.foxnews.com/us/fbi-holding-laptop-allegedly-containing-hunter-biden-business-emails-officials"
+    ampWebUrl: "https://www.foxnews.com/us/fbi-holding-laptop-allegedly-containing-hunter-biden-business-emails-officials.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/fbi-holding-laptop-allegedly-containing-hunter-biden-business-emails-officials.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Joe-Hunter-Biden-FBI-THUMB.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump authorizes declassification of all Russia collusion, Hillary Clinton email probe documents"
-    excerpt: "President Trump on Tuesday said he has “full authorized the total declassification” of “any & all” documents related to the Russia investigation and the FBI’s investigation into former Secretary of State Hillary Clinton’s use of a private email server."
-    publishedDateTime: 2020-10-07T00:54:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9N72ZCxZ9aM/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents.amp"
+  - title: "Plurality of Catholics Back Barrett; Biden Lead Holds Steady"
+    excerpt: "As public opinion polls show Joe Biden handily ahead in his quest to become the second Roman Catholic candidate elected president of the United States, Catholic voters have emerged as perhaps the"
+    publishedDateTime: 2020-10-20T14:35:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "http://assets.realclear.com/images/52/524567_5_.jpg"
+        width: 750
+        height: 552
         isCached: true
-  - title: "Trump downplays Obama's return to campaign trail, says he was 'all over the place' for Hillary Clinton"
-    excerpt: "Trump: “There is nobody that campaigned harder for “Crooked” Hillary Clinton than Obama.\""
-    publishedDateTime: 2020-10-22T01:36:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rsRA27UQlM8/trump-obama-return-campaign-speech-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-obama-return-campaign-speech-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-obama-return-campaign-speech-biden.amp"
+  - title: "Plurality of Catholics Back Barrett; Biden Lead Holds Steady"
+    excerpt: "As public opinion polls show Joe Biden handily ahead in his quest to become the second Roman Catholic candidate elected president of the United States, Catholic voters have emerged as perhaps the"
+    publishedDateTime: 2020-10-20T22:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c7f9ff4-65e4-4165-9aa4-5efe700736a5/b71debd9-2387-43bb-9caa-7bf76d7cb037/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Miami Herald defends Kamala Harris from comparison to Clinton, claims she's been labeled the 'Black Hilary'"
-    excerpt: "The Miami Herald published an article on Sunday defending Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., from comparisons to Hillary Clinton, after the hashtag #BlackHillary began trending on social media,"
-    publishedDateTime: 2020-10-11T22:42:00Z
-    webUrl: "https://www.foxnews.com/politics/miami-herald-defends-kamala-harris-from-comparison-to-black-hillary-clinton"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 97
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282070998414.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Hillary Clinton Mocked for Her 'Black Hole of Cringe' Birthday Message to Kamala Harris"
-    excerpt: "Democratic vice presidential candidate Sen. Kamala Harris turned 56 on Tuesday, gathering birthday greetings throughout the day on social media. Many celebrities, politicians, voters, colleagues, friends,"
-    publishedDateTime: 2020-10-20T22:15:00Z
-    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/20/why-hillary-clinton-is-being-mocked-for-her-birthday-message-to-kamala-harris-n2578450"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 57
-    images:
-      - url: "https://media.townhall.com/townhall/reu/s1280x720/2019/60/32c28ada-c980-4373-bb6d-88386aae861c.png"
-        width: 1280
-        height: 720
+      - url: "http://assets.realclear.com/images/52/524567_5_.jpg"
+        width: 750
+        height: 552
         isCached: true
 
 secured: "RNoW+3zV/M04YYYNBL47d366PasgQvp84vaiglFes1L9Bxww6SX5Z3eg3rUwyHro+xGiPS6noyMMBce5Pk8QT2nrUkId99uK4Tb9CWYikpjyGYW7ArtoP3nFAG/GJm/Szm1dr+4aAAeB2RtkMGzAOXRl16ceHuNPENOfx1hGSUCXKDDVdp8VSGrAgsXwd2hxIXqksNeAguqzjqnIBa1uYx1QF7wR/XiFblLo5SgjOFMG9WzhbYSbpjSDHHKiEj9u6B0fZsXUqGUDHjNNzoh1B6ZpkMJ2/lv+bok99RtDHQ7JNdz8Rql8nzsQZqsi2TrOHrLxCYQrLUWXyfF9BzFbxwRZYc8aLVx4jiu6IkUFgw8=;XF+I+x+pEDY+pCHzD5nLXg=="
