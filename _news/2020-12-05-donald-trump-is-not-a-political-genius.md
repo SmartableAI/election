@@ -42,6 +42,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Kemp, Trump clash over election results"
+    excerpt: "Georgia Gov. Brian Kemp, a Republican, pushed back on President Trump’s demands for a “signature verification” in an attempt to overturn the state’s elections results, saying he has called for such an audit three times."
+    publishedDateTime: 2020-12-05T21:39:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxzkPal54wM/kemp-trump-clash-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/kemp-trump-clash-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kemp-trump-clash-election-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a4a9ebc-4f78-424b-9148-fc3b34ea96cf/b84819e6-bcfb-4af7-bf95-1351ac8d2195/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
     excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
     publishedDateTime: 2020-12-03T19:59:24Z

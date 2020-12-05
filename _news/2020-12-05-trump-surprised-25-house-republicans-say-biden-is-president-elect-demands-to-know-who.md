@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Mike Pence visits Georgia ahead of Trump Senate race rally on Saturday"
-excerpt: "Vice President Mike Pence visited Georgia on Friday ahead of a get-out-the-vote rally by President Trump on Saturday to boost the two GOP Senate runoff candidates. Pence insisted during a speech"
-publishedDateTime: 2020-12-05T00:42:00Z
-originalUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/"
-webUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/"
-ampWebUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/amp/"
+title: "Trump ‘surprised’ 25 House Republicans say Biden is president-elect, demands to know who"
+excerpt: "President Trump said he is “surprised” that “so many” Congressional Republicans believe President-elect Joe Biden won the election, and demanded a list of all GOP members who thought so. "
+publishedDateTime: 2020-12-05T22:51:56Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4wdVfbIMII/trump-surprised-25-house-republicans-biden-demands-who"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4wdVfbIMII/trump-surprised-25-house-republicans-biden-demands-who"
+ampWebUrl: "https://www.foxnews.com/politics/trump-surprised-25-house-republicans-biden-demands-who.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-surprised-25-house-republicans-biden-demands-who.amp"
 type: article
-quality: 150
+quality: 181
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Mike Pence
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mike-pence-georgia-2.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-4.jpg"
+    width: 339
+    height: 226
     isCached: true
 
 related:
@@ -171,22 +174,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb90e26-1a7c-435c-9c19-1954f1794e4a/6028a03c-dc91-4110-b09d-e04c086c1e52/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump ‘surprised’ 25 House Republicans say Biden is president-elect, demands to know who"
-    excerpt: "President Trump said he is “surprised” that “so many” Congressional Republicans believe President-elect Joe Biden won the election, and demanded a list of all GOP members who thought so. "
-    publishedDateTime: 2020-12-05T22:51:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4wdVfbIMII/trump-surprised-25-house-republicans-biden-demands-who"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-surprised-25-house-republicans-biden-demands-who.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-surprised-25-house-republicans-biden-demands-who.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-4.jpg"
-        width: 339
-        height: 226
         isCached: true
   - title: "Trump claims Biden must prove votes weren't 'illegally obtained' in order to enter White House"
     excerpt: "President Trump on Friday claimed that President-elect Joe Biden must prove that the votes he received in the presidential election were not “illegally obtained” in order to enter the White House -- the latest sign that Trump is not giving up his efforts to challenge the result."
@@ -460,6 +447,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Mike Pence visits Georgia ahead of Trump Senate race rally on Saturday"
+    excerpt: "Vice President Mike Pence visited Georgia on Friday ahead of a get-out-the-vote rally by President Trump on Saturday to boost the two GOP Senate runoff candidates. Pence insisted during a speech"
+    publishedDateTime: 2020-12-05T00:42:00Z
+    webUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/"
+    ampWebUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mike-pence-georgia-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "President Trump visits Valdosta, Georgia for first post-election rally"
     excerpt: "His re-election campaign may be over, but President Trump still can’t resist a rally. The president and First Lady Melania Trump head to Valdosta, GA, Saturday to stump with Republican Sens."
     publishedDateTime: 2020-12-05T18:02:00Z
@@ -612,6 +615,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "ng9wjoDESzfhThtZscdCa3nx+FU2U9KyCPP9dsNZLwqvpYAo1X8vuEMqF0T6DO++wZS13k7iNCENO6qY5YpHlQbjjTmsJCxW0+gfnACtHet5ckprbCi8w5RSk1fehjhGwKgmKxNmUX6xp0pocWFUH6JFF/4D4Nyqr7H2bEscY2Gxtq6WO2Eje8iUzI4ZGMOCL/lSiOGyeH+rSGGkfO01S5C8Qtj2aznP2KCpDmOcWo478qGT+V4r1k3Ip2GETO1CPCwNIhtlAFR8eqTRoMx7tJYfZKL1gGhgUnW0MOygv/Xqy8h3J/0JI+nneGxAMUSzsDDRLJjpEt+nEM73vEy5JEwFU7E1eqLuaiHzEnTFZr/AOVHh8yynD7cAzHnzSq1oDUqTJ01+1gIAz3aEfOZLuBJqSVVb+drVSdM1tYmdrj0aYdU8kFykSQKiIqr1MfF4V/90tptkeY0BsEpH4EHf67xHb+b5ALt6l3SnHaj0lANpxwvXlpWQWDKQXjJFic+mbLxSJZpvOukqKycgQkOFyw==;OmbjXy41EwfcamtlqkG4KA=="
+secured: "7j/qB4727+owpoRA3ZpRoPBjnS+7ckoh0ruqRAani3D1ibPrYutyqLW7MXIfVwW0AnZmhirrd+qItjxHCk6kBBkk2/MyuqlMCJel3W6jFv5C3JQKqCqjf24HdaQ9eDFqjn1mZcYqruQGGuHwkj7suwkhGtncaSniWaxxZnzaIvFtuo4o+EuZ5wOyMp1+79xtOx47hS+MmIn3VRlWVZB0bgbgzfSQ8GtP1JEkTBcBwl4XVwktkmCXwTXFqU0sFFWBF8z4GAE1CKIR2qR5ZvoCoIJ10VRRx2iV5u0A+ZJA+8a+rhS1E8KApS8MsYeotPreHKHXLQfSUVMjjrBC2mzXCDeeOhLpJbVzH8fHZS3p/g0=;3Qfz1+7qRYiGkyYDcsfRBg=="
 ---
 

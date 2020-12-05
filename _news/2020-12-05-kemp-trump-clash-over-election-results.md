@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Wisconsin’s Highest Court Turns Away Trump Lawsuit Challenging Election Defeat"
-excerpt: "Wisconsin’s high court dealt another setback to President Trump’s efforts to overturn his defeat to President-elect Biden, turning away a lawsuit challenging the validity of hundreds of thousands of mail-in ballots."
-publishedDateTime: 2020-12-04T02:03:00Z
-originalUrl: "https://www.wsj.com/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
-webUrl: "https://www.wsj.com/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
-ampWebUrl: "https://www.wsj.com/amp/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
+title: "Kemp, Trump clash over election results"
+excerpt: "Georgia Gov. Brian Kemp, a Republican, pushed back on President Trump’s demands for a “signature verification” in an attempt to overturn the state’s elections results, saying he has called for such an audit three times."
+publishedDateTime: 2020-12-05T21:39:37Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxzkPal54wM/kemp-trump-clash-election-results"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxzkPal54wM/kemp-trump-clash-election-results"
+ampWebUrl: "https://www.foxnews.com/politics/kemp-trump-clash-election-results.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kemp-trump-clash-election-results.amp"
 type: article
-quality: 146
+quality: 190
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
+  name: Fox News
+  domain: foxnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-267926/social"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a4a9ebc-4f78-424b-9148-fc3b34ea96cf/b84819e6-bcfb-4af7-bf95-1351ac8d2195/1280x720/match/image.jpg"
     width: 1280
-    height: 640
+    height: 720
     isCached: true
 
 related:
@@ -47,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Kemp, Trump clash over election results"
-    excerpt: "Georgia Gov. Brian Kemp, a Republican, pushed back on President Trump’s demands for a “signature verification” in an attempt to overturn the state’s elections results, saying he has called for such an audit three times."
-    publishedDateTime: 2020-12-05T21:39:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxzkPal54wM/kemp-trump-clash-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/kemp-trump-clash-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kemp-trump-clash-election-results.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a4a9ebc-4f78-424b-9148-fc3b34ea96cf/b84819e6-bcfb-4af7-bf95-1351ac8d2195/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
     excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
@@ -176,6 +159,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Wisconsin’s Highest Court Turns Away Trump Lawsuit Challenging Election Defeat"
+    excerpt: "Wisconsin’s high court dealt another setback to President Trump’s efforts to overturn his defeat to President-elect Biden, turning away a lawsuit challenging the validity of hundreds of thousands of mail-in ballots."
+    publishedDateTime: 2020-12-04T02:03:00Z
+    webUrl: "https://www.wsj.com/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
+    ampWebUrl: "https://www.wsj.com/amp/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-267926/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
     excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
     publishedDateTime: 2020-12-03T20:13:00Z
@@ -232,6 +231,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "VecNgOEp4uidC3PHezA4pp22CjQwcCf1tASVOTPsvkEHvfkMSZYb1qSCzk4p0w1ns/l2/VGriwwCEoe+R46pp6Jpr2nFeZJ+wZJcDJxRjfz7kfOTgaRftugPJ5NmJLvx57+xndcONkJrxMmGNZAL1vx1+AGm+Fta62qqfC1f+y0U/54QVLN14Wi/DzRLZRHVXRo914OPN9t/stDccoNW1tz5Y3Rq77QU611cIur4wmequtdqQaTi4jPNlSyWltdxKhrioo/roAVKKu7a+IsHGfkbrYQEJwHvBTx7bOssL634zlPGL8GFC+6aQ+gxdVoAalmYB3UBlFjYsN/YYON92pSzANfBJ2xYsybztxk/iZI=;s2EtWOqURYX0G8ofyfzcpQ=="
+secured: "EYJwv7Cc4k8G3gdgTbIYhb8hFLnzl4r7AoB4FV/mGwIxS97cD4kJmzw8DHDwPEkNlQc6+XX0pccrcQ+MyPI4Il0b52NMkIvobCcm0dthe/yGiUHweBpwUWpOI5qi4qgs7ZzfeXnQ8Z2RHCWNRFdNiLBdcg796wo4/SS4xnXKPbocJQePv5GGJ14nkUGh2bQqEwRx9928qqw9gvB1N9kMwGuwvXe+y/l9R2EHtzESTZqWDOU8HBlW52j7a6yhwGNLZp2t7jFpPNxBgSCb6Nl6O9PvT5dpmErZ0Q2Wx+oUJXxVxpX4MkS4N8RWCHZGh4BdPEwWnu5ihX3ID6ZJLoV9eMJMwIZoPlc2AsvnAEYp3Bk=;gCC6cejokQF4jFCcp4+Zuw=="
 ---
 

@@ -1,30 +1,34 @@
 ---
 category: news
-title: "Mike Pence visits Georgia ahead of Trump Senate race rally on Saturday"
-excerpt: "Vice President Mike Pence visited Georgia on Friday ahead of a get-out-the-vote rally by President Trump on Saturday to boost the two GOP Senate runoff candidates. Pence insisted during a speech"
-publishedDateTime: 2020-12-05T00:42:00Z
-originalUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/"
-webUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/"
-ampWebUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/amp/"
+title: "Georgia Republicans Await Trump Visit With Trepidation Ahead of Crucial Vote"
+excerpt: "GOP officials in Georgia hope the president will rally support for their candidates in two runoff Senate races when he visits Saturday evening, but are concerned he may renew his attacks on the state’s Republican leaders."
+publishedDateTime: 2020-12-05T22:15:00Z
+originalUrl: "https://www.wsj.com/articles/georgia-republicans-await-trump-visit-with-trepidation-ahead-of-crucial-vote-11607187433"
+webUrl: "https://www.wsj.com/articles/georgia-republicans-await-trump-visit-with-trepidation-ahead-of-crucial-vote-11607187433"
+ampWebUrl: "https://www.wsj.com/amp/articles/georgia-republicans-await-trump-visit-with-trepidation-ahead-of-crucial-vote-11607187433"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-republicans-await-trump-visit-with-trepidation-ahead-of-crucial-vote-11607187433"
 type: article
-quality: 150
+quality: 132
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mike-pence-georgia-2.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://images.wsj.net/im-268593/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -460,6 +464,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Mike Pence visits Georgia ahead of Trump Senate race rally on Saturday"
+    excerpt: "Vice President Mike Pence visited Georgia on Friday ahead of a get-out-the-vote rally by President Trump on Saturday to boost the two GOP Senate runoff candidates. Pence insisted during a speech"
+    publishedDateTime: 2020-12-05T00:42:00Z
+    webUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/"
+    ampWebUrl: "https://nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/04/mike-pence-visits-georgia-ahead-of-trump-senate-race-rally-on-saturday/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/mike-pence-georgia-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "President Trump visits Valdosta, Georgia for first post-election rally"
     excerpt: "His re-election campaign may be over, but President Trump still can’t resist a rally. The president and First Lady Melania Trump head to Valdosta, GA, Saturday to stump with Republican Sens."
     publishedDateTime: 2020-12-05T18:02:00Z
@@ -540,22 +560,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Georgia Republicans Await Trump Visit With Trepidation Ahead of Crucial Vote"
-    excerpt: "GOP officials in Georgia hope the president will rally support for their candidates in two runoff Senate races when he visits Saturday evening, but are concerned he may renew his attacks on the state’s Republican leaders."
-    publishedDateTime: 2020-12-05T22:15:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-republicans-await-trump-visit-with-trepidation-ahead-of-crucial-vote-11607187433"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-republicans-await-trump-visit-with-trepidation-ahead-of-crucial-vote-11607187433"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-republicans-await-trump-visit-with-trepidation-ahead-of-crucial-vote-11607187433"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 132
-    images:
-      - url: "https://images.wsj.net/im-268593/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump Says He Will Leave White House if Electoral College Votes Biden"
     excerpt: "President Trump said he will leave the White House in January if the Electoral College backs Joe Biden, as he took questions from reporters for the first time since the election. Photo: Erin Schaff/Bl"
     publishedDateTime: 2020-11-27T12:17:00Z
@@ -612,6 +616,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "ng9wjoDESzfhThtZscdCa3nx+FU2U9KyCPP9dsNZLwqvpYAo1X8vuEMqF0T6DO++wZS13k7iNCENO6qY5YpHlQbjjTmsJCxW0+gfnACtHet5ckprbCi8w5RSk1fehjhGwKgmKxNmUX6xp0pocWFUH6JFF/4D4Nyqr7H2bEscY2Gxtq6WO2Eje8iUzI4ZGMOCL/lSiOGyeH+rSGGkfO01S5C8Qtj2aznP2KCpDmOcWo478qGT+V4r1k3Ip2GETO1CPCwNIhtlAFR8eqTRoMx7tJYfZKL1gGhgUnW0MOygv/Xqy8h3J/0JI+nneGxAMUSzsDDRLJjpEt+nEM73vEy5JEwFU7E1eqLuaiHzEnTFZr/AOVHh8yynD7cAzHnzSq1oDUqTJ01+1gIAz3aEfOZLuBJqSVVb+drVSdM1tYmdrj0aYdU8kFykSQKiIqr1MfF4V/90tptkeY0BsEpH4EHf67xHb+b5ALt6l3SnHaj0lANpxwvXlpWQWDKQXjJFic+mbLxSJZpvOukqKycgQkOFyw==;OmbjXy41EwfcamtlqkG4KA=="
+secured: "/Szy2C6lsHViF/vOSw6GytcEWmpRJgDEn8Ll5cWsR9l5rbtIfTsk5o01x/Hn5sks1t+TNiAdg3cQe2EmrI8NcISqF0DNv6VzzbzSK5b/IJfk10Jt/IsBoDNXLzbiEeb4Diag+fW07wjdMZUeWiMO39T7VMRH6BHlBolYFRb22hn+zdavrLFXMz/uSeas2fnEn22xzgbqnESdp1eF5RgTNVFMWRgjb/srf7G4Bd0U37rkod51PuWhGBDPPFHLEBY9ztgr2jODL7oJj6O2s/pkrR/AzD5Bl6LfLxRpym6fpHpreTaYgGnNWXwYib43s1n9KgJc4AmspZi0RcBwfcWpb99kQAZgWCpAWRuXwFsv574=;D/DZTKwilhGMArwJWZBKXA=="
 ---
 

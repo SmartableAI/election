@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden: Covid vaccination in US will not be mandatory"
+    excerpt: "President-elect Joe Biden says Americans won't be forced to take a coronavirus vaccine when one becomes available in the US. (CDC) for the first time urged \"universal mask use\" anywhere outside people's homes."
+    publishedDateTime: 2020-12-04T23:58:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55193939?at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_custom4=A2D6BF8C-3680-11EB-B3A9-C39D4744363C&at_medium=custom7"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55193939"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55193939"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1482/production/_115805250_mediaitem115805246.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Live politics updates: Joe Biden calls for ‘new era of LGBTQ rights’"
     excerpt: "The House is set to vote on marijuana legalization at the federal level Friday, though the bill is expected to come up short in the Senate."
     publishedDateTime: 2020-12-04T17:52:00Z
@@ -94,22 +110,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/73e64eba-6d9d-476b-96d2-17e675c487a6-AP20326568855426.jpg?auto=webp&crop=5999,3374,x1,y200&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Joe Biden: Covid vaccination in US will not be mandatory"
-    excerpt: "President-elect Joe Biden says Americans won't be forced to take a coronavirus vaccine when one becomes available in the US. It comes as the Centers for Disease Control (CDC) for the first time urged \"universal mask use\" anywhere outside people's homes."
-    publishedDateTime: 2020-12-04T22:39:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-55193939"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/world-us-canada-55193939"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-us-canada-55193939"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1482/production/_115805250_mediaitem115805246.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "L0UgB1dPjQzekVvRe+mxz1bENgccaWkjNm0ry54ZEG1yS+ZNC2dTtoR1mR6v8ZV18CRQX7l2Ne3Fx0DzLosI+L5dzkHqOMhKU6v/csCbi0D5JYgi/uvpnlH3RCnM4r1uc8FhoWtuKSYKlaPNDTfPKyWtD8KtKk7S5nuYW3AWQnwvPMObn/fdpcTIY0WdaFuAuAidJuqvBiuIUqKBDfSubm1wzvUsGN2W8TmeY5hKAZqCORKi7GjT637NdReM4zc33zPICmNQwx512KbDD/EUkvd/T6KZYPy1L5Pvqqen2pQCfOT5XPfE7RmKaqRysxd4IEpEuiGo7jglu1k54GMLcb9wuVlORNAK7cUm6xvFomP70qf83GRtpppVJ6XK4RzdTOC+MQ1H/t1QBxCQECFqqTxMXZQ3rU6HvIl+/lsCU2ufJDAj2yQFTS7DKcRLPfnLnzVMMdP1guY/VFnDUIvu09pGL3jD71B6YHJ+9xwNjh+MuIMDf9WS4I/Gt9xU35g95V73LDdvdKIU7w6YPkt10w==;i0BSr+J/7j8jTJEd08pbSQ=="

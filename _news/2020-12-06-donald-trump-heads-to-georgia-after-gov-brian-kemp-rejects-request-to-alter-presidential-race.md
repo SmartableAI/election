@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump says he is ashamed that he supported Georgia Gov. Brian Kemp"
-excerpt: "The president, still smarting from President-elect Joe Biden winning Georgia in the November election, lashed out at the state's top Republican."
-publishedDateTime: 2020-11-29T20:05:00Z
-originalUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11"
-webUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11"
-ampWebUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
+title: "Donald Trump heads to Georgia after Gov. Brian Kemp rejects request to alter presidential race"
+excerpt: "Gov. Brian Kemp rejected Trump's request to call a special legislative session to approve appointment of a pro-Trump slate to the Electoral College."
+publishedDateTime: 2020-12-05T22:22:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2020/12/05/trump-georgia-brian-kemp-rejects-changing-election/3839689001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2020/12/05/trump-georgia-brian-kemp-rejects-changing-election/3839689001/"
+ampWebUrl: "https://amp.usatoday.com/amp/3839689001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3839689001"
 type: article
-quality: 125
+quality: 113
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5fa9e8791df1d50018219bfe?width=1200&format=jpeg"
+  - url: "https://www.gannett-cdn.com/-mm-/581fdba872020aee7bff332eeb9a68fceaf5dba0/c=0-187-1600-1087/local/-/media/2020/12/02/USATODAY/usatsports/B9342396546Z.1_20201202054812_000_GJ1RQO70N.2-0.jpg?auto=webp&format=pjpg&width=1200"
     width: 1200
-    height: 600
+    height: 675
     isCached: true
 
 related:
@@ -206,6 +206,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_9517c546180741c3a92a1a18459fb0a1_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump says he is ashamed that he supported Georgia Gov. Brian Kemp"
+    excerpt: "The president, still smarting from President-elect Joe Biden winning Georgia in the November election, lashed out at the state's top Republican."
+    publishedDateTime: 2020-11-29T20:05:00Z
+    webUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brian-kemp-trump-georgia-voting-machines-raffensperger-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa9e8791df1d50018219bfe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "GOP leader McDaniel to run for 3rd term with Trump's backing"
     excerpt: "Republican National Committee Chairwoman Ronna McDaniel is launching her bid for a third two-year term heading the GOP's governing organization"
@@ -412,22 +428,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/PjSBn1l8fNjr-vsTzWC1Z5om8B0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NCHTIGDBJXWNWTHQRSBW6C2KD4.aspx"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Donald Trump heads to Georgia after Gov. Brian Kemp rejects request to alter presidential race"
-    excerpt: "Gov. Brian Kemp rejected Trump's request to call a special legislative session to approve appointment of a pro-Trump slate to the Electoral College."
-    publishedDateTime: 2020-12-05T22:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/05/trump-georgia-brian-kemp-rejects-changing-election/3839689001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3839689001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3839689001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/581fdba872020aee7bff332eeb9a68fceaf5dba0/c=0-187-1600-1087/local/-/media/2020/12/02/USATODAY/usatsports/B9342396546Z.1_20201202054812_000_GJ1RQO70N.2-0.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Trump loyalist Loeffler's attacks on pastor Warnock risk suburban votes in Georgia's U.S. Senate race"
     excerpt: "Beau Davis, a 33-year-old security specialist from the Atlanta suburbs, is the kind of voter Republican Senators Kelly Loeffler and David Perdue may need to win runoff elections next month that will determine the balance of power in Washington."
@@ -664,6 +664,6 @@ related:
         height: 630
         isCached: true
 
-secured: "cg5K8sHWzQkuBLPgovGr9XgXLBNUpX93iZkGMxMz0V6fWHAyIDgJjUryodalDfm2asHlZwrThSwezcmNbc5Rk/daSOoy3Q7dpt99y0TDGDkLHTKV/OYbmTuXchG4GUanHGvJ4iiJl0mgktHGpzrz6Pmh9ev64A2Hx4ppMVyXtLmPn/AQMKy6vmWXfuSGrGk45Ha4pmVYOWJ3J/Ca/N4aD+vaSVWya2H+j/dN2NPyxOSxWKtnY9qkxN+QisBii40xgz5Pkx4IgwIS0ugpwWl4IX2k3a2n9Sgeq+Wgn7e1M2LO9YK8XzqEI/KOucDWCV5I1djmPh/xuG+3ONIwh2hasK1t9g8iv24fvV2V7fqk8VA=;12zz2MsrjMzAAOnF8ckcOA=="
+secured: "iizaI/m92VXfrpq0eojuYJCsO7xpzYr1ttsesqQuHLwwDndA4YALWvj+imR/CabQS61NyFU7a4cGtjk1rHplZPnZoFjqXn0CcCd+1/gI2QM4KQDgdJEYzYhZuwNegqe0T4Sr41WOrPYJIzwTzrtRlv5+6oYZwDldrd2IE9sORlFhWGOZgRZeZdWnoM6FwFto2UKWwGibOkWdSdHXx54rxQvYqoOH3oxC0cF0+6ponr+Nn6OcFIqgL9zQd105ld4gWED/VEjfmzuFiQgDNJRFb8CJb79OzG6vP50+tan+S2NyAi0OnMtDGTg64lJT0K05qOWuIYlRjEKVYJqHQDJVjNomsHIOwHh8DKWz5gIZ9ic=;F5JgMFNSLymtk1q2IvNLow=="
 ---
 

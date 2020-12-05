@@ -413,6 +413,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Donald Trump heads to Georgia after Gov. Brian Kemp rejects request to alter presidential race"
+    excerpt: "Gov. Brian Kemp rejected Trump's request to call a special legislative session to approve appointment of a pro-Trump slate to the Electoral College."
+    publishedDateTime: 2020-12-05T22:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/05/trump-georgia-brian-kemp-rejects-changing-election/3839689001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3839689001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3839689001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/581fdba872020aee7bff332eeb9a68fceaf5dba0/c=0-187-1600-1087/local/-/media/2020/12/02/USATODAY/usatsports/B9342396546Z.1_20201202054812_000_GJ1RQO70N.2-0.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump loyalist Loeffler's attacks on pastor Warnock risk suburban votes in Georgia's U.S. Senate race"
     excerpt: "Beau Davis, a 33-year-old security specialist from the Atlanta suburbs, is the kind of voter Republican Senators Kelly Loeffler and David Perdue may need to win runoff elections next month that will determine the balance of power in Washington."
     publishedDateTime: 2020-12-04T12:12:00Z
@@ -648,6 +664,6 @@ related:
         height: 630
         isCached: true
 
-secured: "y1mERz02NcYXGc16C/Wec6NE+6rnhdRW+RJ6MjJOKv6tsBANqbvG6vv5dTfdOUQWyKi/IadoHV7g3SP6h7ALeDK1H58kqrl6lPQDc4OZ0pUl2gReGOyjSbE0g/cEb5/IpsUEn4YTj1BHpgqwSGwsbRHuH5Z9nBwyFNwyC6qliihPjBL8nmX70mQRY5q7vTYjCniDlZgJSdsZDXoTGaw+oWJdIf2+X/L03ALduQDC/axR8l2IgLbcTELuoYOyE8WXQkXZ6THyR92sdGkk8rscfz8RH5+WqoDCwQbxZG5mzZwf/3SB/CExBLTWy0zm3q2A/lbr9HLm7jnaewVWQKimssLIZi1xPMxCtiKlBLtIR+Q=;Pphz4++KIhyAGVKEB4ylfg=="
+secured: "bYjIY9j2EFGF4xkwDS1RO3fUd+PwGMoZOdd6FzoTPB0xaBqbPDk4Rk4492UgiyWzVi8jpQZSrSCdCv7GiUrYaqP0Osiag1tOV2GRRJSbpZZVWs/Ej32AzDwgwE0+ck/BC9v7iRXDVqOPemLJXYhLfMh0zGfK7NWtvFbti3/EgYyHk20uUGXxqMzZduwV+vn5/Xj8xp90GI4nDYVisM34Nyj2lRhDJhy3tQMd67yfTUmAjM6xqkvFE4pJ50+8fARMYxs2LAZlomkcvGUP7cOqrkTSWV1fZF+FOM3/WtfVfjdQEthfWp2BHdSxDCavWdpQprqSradT/BBnw8d+6LcwFEQKFEeXo/+mPGYtyEOPPx0h/fek7JYIT2blxzSm/Fn/t3+DMPtZkgXubtY1IEhAcWhLMDCP1PFAtDVRZ6/AJOMFmvd38Fi1Cs6XrAjSAC3wl/Y5aDxwML/6axWrLmwp+YNcBdaCrJnPHWHi9w4+DRQElHypVstmwahudI/AeQHvanawJiP+4iybyK9vSuKXhQ==;f42/W9anIMns87WQPoWN3w=="
 ---
 

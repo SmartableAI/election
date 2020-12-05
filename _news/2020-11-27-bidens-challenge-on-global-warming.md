@@ -164,6 +164,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump ‘surprised’ 25 House Republicans say Biden is president-elect, demands to know who"
+    excerpt: "President Trump said he is “surprised” that “so many” Congressional Republicans believe President-elect Joe Biden won the election, and demanded a list of all GOP members who thought so. "
+    publishedDateTime: 2020-12-05T22:51:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4wdVfbIMII/trump-surprised-25-house-republicans-biden-demands-who"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-surprised-25-house-republicans-biden-demands-who.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-surprised-25-house-republicans-biden-demands-who.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trump-4.jpg"
+        width: 339
+        height: 226
+        isCached: true
   - title: "Trump claims Biden must prove votes weren't 'illegally obtained' in order to enter White House"
     excerpt: "President Trump on Friday claimed that President-elect Joe Biden must prove that the votes he received in the presidential election were not “illegally obtained” in order to enter the White House -- the latest sign that Trump is not giving up his efforts to challenge the result."
     publishedDateTime: 2020-11-27T17:35:08Z
@@ -531,6 +547,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20291046912810.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Georgia Republicans Await Trump Visit With Trepidation Ahead of Crucial Vote"
+    excerpt: "GOP officials in Georgia hope the president will rally support for their candidates in two runoff Senate races when he visits Saturday evening, but are concerned he may renew his attacks on the state’s Republican leaders."
+    publishedDateTime: 2020-12-05T22:15:00Z
+    webUrl: "https://www.wsj.com/articles/georgia-republicans-await-trump-visit-with-trepidation-ahead-of-crucial-vote-11607187433"
+    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-republicans-await-trump-visit-with-trepidation-ahead-of-crucial-vote-11607187433"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-republicans-await-trump-visit-with-trepidation-ahead-of-crucial-vote-11607187433"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-268593/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump Says He Will Leave White House if Electoral College Votes Biden"
     excerpt: "President Trump said he will leave the White House in January if the Electoral College backs Joe Biden, as he took questions from reporters for the first time since the election. Photo: Erin Schaff/Bl"

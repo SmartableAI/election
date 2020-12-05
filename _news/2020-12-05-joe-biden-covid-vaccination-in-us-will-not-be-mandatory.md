@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Joe Biden: Covid vaccination in US will not be mandatory"
-excerpt: "President-elect Joe Biden says Americans won't be forced to take a coronavirus vaccine when one becomes available in the US. It comes as the Centers for Disease Control (CDC) for the first time urged \"universal mask use\" anywhere outside people's homes."
-publishedDateTime: 2020-12-04T22:39:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-us-canada-55193939"
-webUrl: "https://www.bbc.co.uk/news/world-us-canada-55193939"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/world-us-canada-55193939"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-us-canada-55193939"
+excerpt: "President-elect Joe Biden says Americans won't be forced to take a coronavirus vaccine when one becomes available in the US. (CDC) for the first time urged \"universal mask use\" anywhere outside people's homes."
+publishedDateTime: 2020-12-04T23:58:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-55193939?at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_custom4=A2D6BF8C-3680-11EB-B3A9-C39D4744363C&at_medium=custom7"
+webUrl: "https://www.bbc.com/news/world-us-canada-55193939?at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_custom4=A2D6BF8C-3680-11EB-B3A9-C39D4744363C&at_medium=custom7"
+ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55193939"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55193939"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -108,6 +112,6 @@ related:
         height: 675
         isCached: true
 
-secured: "bg2SzS/EZW+3DKY7/Z/AhlbA0JSWDOEsCJCVHTrC6Ag8ApKhWJHMwE9/l/73d0GI80HX5yCLy8dFOutwSqhVti6fH+NgNiVVSPBrekyymiAsyzxaVcltnFTZnFlJktfmGom0myFCBzVXa94VazeDj7i2CgqUTxqtZTZvxvqCXh7UisBOBMWx3/3O8Ai8QoYNx3d+VsALlxpkMQILhOI9l2ghWr6m4C1gactTwugvyXmy9xnzRA21TACGeGqGMrC0qMnGvHne6F1taQJ5alQNN9g4lGF3r/jxhHkqiDx4YnL0NxGCdFdZJkeLQ+xKGCS1CTK/kuDrjPgUKHvloKwaZZU0ZVvzE0FLADoarL5ToEsYIN1oVBud7QsHARMnTLNMmFyddudrxL7jLWWC6ZXmzDwKqrKL/XRcC+lO9QClvpf8ekKj+6CY8M6y+zLF0Q3pTqsTqunq9eR+d0yBIiYyR5jHrUpCHM/6lMLpQoqLhkS2zTOgNsF0WNOehIqDo4qC9yFJ50zaHB6Sg0DzJGz4bQ==;EvD72ff3ixhKM6I/ebUkfg=="
+secured: "AjhBJwVeUJ9mmTtDFqID33l7kt5/VkBLdoRQNSQGWf1HJ/mUwIoum0/Pe9dWnbmfxv4QzqfU1+QCEfCFU6IbBZLp+ctEx26Ha+rmu2bwa+RayDox6w7tXKe1sct4uoKdju/Ds6Clx61OER/5PovmAMWUMgmBM1UWlLKIoitfgROmuLciygjvHi6t2REa0Rb0KsCHH2ZBjLZm1G6MSrTtb0fPnuf0C+X9JXqemD7DW58b5ztq4VR+YKPHKvTbBGNGNrcRnKx5Q7t69nBJ3Cz/rMJdH2fz/c4gFCL67E48po2w6Jv0keWCxay/iNLsorSG/b+8dZIfgTF0DmTUS+TLtowMYzzL51w7ZRy/wqHLLqU=;QXTjcafUppfTeBz3Eg3f0w=="
 ---
 
