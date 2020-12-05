@@ -1,22 +1,22 @@
 ---
 category: news
-title: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
-excerpt: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
-publishedDateTime: 2020-12-05T05:36:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
-webUrl: "https://abcnews.go.com/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
+title: "California certifies Joe Biden’s victory, giving the Democrat more than the 270 electors needed to win the White House"
+excerpt: "California certifies Joe Biden’s victory, giving the Democrat more than the 270 electors needed to win the White House"
+publishedDateTime: 2020-12-05T00:38:00Z
+originalUrl: "https://www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html"
+webUrl: "https://www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 101
 heat: 101
 published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,11 +25,11 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
-secured: "8L57y4ejtGKkxblgpKnP6n8pMmK7yxD0Ax1YOgvgsLqYIKFWmqRzM9L3zSRK4HHKaWrZxjyaylypu8kEeKSQVeb3KR88F4UwgU/L+2DcQYSkOUZqZJlPglbMu5fKPn/N+ROxhA5ze4JP1ChB7X+WqL7PXUkmc6JQ7Rvwa8CNwEfMu9nW/68kL3Pk8SDe3pzUXwYkbCiejxqVbAxFbAotg0houAa+Gh9+QwtJ5Qr5/AivRrRQi+M9gJBwjL181BGrYP+alwJ2tY70mtNH0WTLSnvd9175xELCf3EFaz3FYdlz567KeSbWaJ9qJR3OHyjcsxHzlpZrXpcBk8u6JqF5n0Z6K3EFJe50dbnTR+ryHbA=;+vQ3alWoRO2tGPkKCEeHXQ=="
+secured: "8pOE+/jWT18TAqv0ty4NzNqAlKuu/6nM3WHoTKV+CPtzmJMBBT602TUA+UwvZrqxIALyrq2uu1FJKSVIyc1499Kuv64EGQjuPMCL+FuX1ODlrvW0ZCGHLteyFtU8zKUb3Ub4pFb6bhKTHklAE8JREINujqtvAtZzCI/htFn72ofZitAw2oAREzK+uqpK47qB3fN5KVts1xoXQ3z7ahj1qQ3a5vvUJIamTOpG7X4NvNPAPPwR/JmsGMPh1++tQOXGqkk6mw892j0l/7hD1iP88nJi0gJKF5nX+VZzI9J4b32wYN2mKqgGPoWKQFgKNH8D7qT1+O62TqHI2wHDVMtqOQJB2YVzylbNOrhjuV49iNk=;U2eqTVRSJFt08dRIGFAPyA=="
 ---
 

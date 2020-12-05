@@ -236,6 +236,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "GOP anticipation builds ahead of Trump's Georgia rally"
+    excerpt: "GOP anticipation and trepidation over Trump’s Georgia Senate runoffs rally."
+    publishedDateTime: 2020-12-05T13:40:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/beIj8e9AW1s/trump-georgia-rally-saturday-dec-5-gop"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-rally-saturday-dec-5-gop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-rally-saturday-dec-5-gop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Twitter weighs in on whether Trump could be banned after leaving office"
     excerpt: "Once President-elect Joe Biden assumes office on Inauguration Day, Twitter could remove President Trump’s special privileges as a high-profile world leader and treat his account as a normal one if he keeps butting up against the platform’s rules."
     publishedDateTime: 2020-12-05T03:39:26Z

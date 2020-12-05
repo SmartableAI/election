@@ -1,0 +1,69 @@
+---
+category: news
+title: "Biden's Cabinet conundrum deepens amid criticism over diversity"
+excerpt: "Joe Biden renewed his promise this week to build an administration that will \"look like the country.\" But that task is proving to be a major challenge for the President-elect as he tries to achieve the right ideological balance and avoid alienating key allies -- while some Black and Latino leaders voice"
+publishedDateTime: 2020-12-05T14:23:02Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7BlO8kzxmos/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7BlO8kzxmos/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/joe-biden-diversity-cabinet-picks/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/joe-biden-diversity-cabinet-picks/index.html"
+type: article
+quality: 175
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204172428-biden-coronavirus-vaccine-distribution-challenge-trump-saenz-dnt-tsr-vpx-00002530-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Biden on nominating diverse Cabinet: 'I'm going to keep my commitment'"
+    excerpt: "Joe Biden said Thursday he would keep his commitment to nominate a Cabinet that reflects America's diversity, as the President-elect faces increasing pressure to appoint Black and Latino nominees to remaining high-level Cabinet positions.\n    \n"
+    publishedDateTime: 2020-12-04T02:37:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vsb3q7crI98/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'Push me': Biden welcomes diversity push as he faces criticism over Cabinet picks"
+    excerpt: "President-elect Joe Biden got a lot of help from a lot of different people to beat President Donald Trump. Now he's already facing some frustration from constituencies that got him elected that he's not giving them enough room at the governing table.\n    \n"
+    publishedDateTime: 2020-12-04T05:10:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d9WgPfyMM9Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/what-matters-biden-cabinet-diversity/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/what-matters-biden-cabinet-diversity/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "8N2/niVOiiSGg6pGQD5l5RFOFKICNcZxkyB2xhUIWJaEK1qzP/6Z9Yk6uOihM9XeycIjoGh518uaVaroo42pqybJ1n5R9JG0XX0U4N7OX3ROUsrxB2nN0o9yxf97n9g2PghbiJB51bO3+6ZpxKa2FoKsPbLXphTZDCjKciQ2WhYc/u6L0Pj3sAdh3Vx0ve9UK8PstGvT6BTvENTIgPZmG684rPzWDAUwCt+3F98nJT/3AjSI4Z+QHyfpQEqU/E+YRj7KOSxc/lfXhQWLIY1Xsls+J9wNAaTEhI89ePh2D0oBBZWHzyoLMKhTMVwuRN0DjNODzriX/kg0kSetA0NHjGJ0+ypsGXHqM0ahKclBd9I=;Y2mTfCg2lP1hh7Shs86ZZQ=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-run
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
 type: article
 quality: 202
-heat: 862
+heat: 882
 published: true
 
 provider:
@@ -214,6 +214,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sGMmkBLq_Lk/trump-to-headline-rally-in-georgia-runoffs-saturdaywe-now-know-the-where-and-when-of-president-trumps-rally"
     ampWebUrl: "https://www.foxnews.com/politics/trump-to-headline-rally-in-georgia-runoffs-saturdaywe-now-know-the-where-and-when-of-president-trumps-rally.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-headline-rally-in-georgia-runoffs-saturdaywe-now-know-the-where-and-when-of-president-trumps-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "GOP anticipation builds ahead of Trump's Georgia rally"
+    excerpt: "GOP anticipation and trepidation over Trump’s Georgia Senate runoffs rally."
+    publishedDateTime: 2020-12-05T13:40:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/beIj8e9AW1s/trump-georgia-rally-saturday-dec-5-gop"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-rally-saturday-dec-5-gop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-rally-saturday-dec-5-gop.amp"
     type: article
     provider:
       name: Fox News

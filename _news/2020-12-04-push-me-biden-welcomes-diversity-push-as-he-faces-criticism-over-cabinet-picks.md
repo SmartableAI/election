@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's Cabinet conundrum deepens amid criticism over diversity"
+    excerpt: "Joe Biden renewed his promise this week to build an administration that will \"look like the country.\" But that task is proving to be a major challenge for the President-elect as he tries to achieve the right ideological balance and avoid alienating key allies -- while some Black and Latino leaders voice"
+    publishedDateTime: 2020-12-05T14:23:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7BlO8kzxmos/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/joe-biden-diversity-cabinet-picks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/joe-biden-diversity-cabinet-picks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204172428-biden-coronavirus-vaccine-distribution-challenge-trump-saenz-dnt-tsr-vpx-00002530-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "PHRGqQeBxy3YiSNw5GJi9LAYFhYxi83Ywt85cPbpJ+WK5o2hM5yKacFJhQ/vJSF0iOqEOfiM8yNXGhQSbq35CbXMGCFEb/lZHV9Cx6Em0Y6ZwtPljx3yeMdurC5Ii8oKLVmW2KMi/goGQzPbk8YA6yovGAHkqvCLLxeFEV8qiqO3SAhwndTGaaYsKv/qK/Y10RpViF09xObZWd4f5LCyDqcTfSvToHiJDBM5ck4YLlyugIP/V7DMr7f5FCgRngZUgoiiBW0Q24PN54OFolFHs+Yoz96mqa5XjUS6blE/95SBzUf4m/8eTWTv2A4UiKGtE+wxoJQikFyf8famElGVawUkmTi06SXq8FzOVctTBgE=;1Tq8hpgrUK6kfK3OuGonFA=="
 ---

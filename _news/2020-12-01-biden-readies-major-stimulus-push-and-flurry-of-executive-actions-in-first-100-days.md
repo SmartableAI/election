@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden weighs picks to lead his big infrastructure push"
+    excerpt: "Joe Biden's plan to remake America's crumbling infrastructure as President is expected to increase the pressure on three key Cabinet picks to work together for results that Americans can see clearly and quickly in the early months of his presidency, sources told CNN.\n    \n"
+    publishedDateTime: 2020-12-05T14:23:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wP4JuZ7YXVI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-infrastructure-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-infrastructure-cabinet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201140638-04-biden-economic-team-1201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he will ask Americans to wear masks for the first 100 days he's in office"
     excerpt: "President-elect Joe Biden told CNN's Jake Tapper on Thursday that he has asked Dr. Anthony Fauci to be a chief medical adviser and part of his Covid-19 response team when his administration begins next year.\n    \n"
     publishedDateTime: 2020-12-03T22:44:44Z

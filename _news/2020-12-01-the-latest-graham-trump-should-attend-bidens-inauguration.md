@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-graham-trump-shou
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-graham-trump-should-attend-bidens-inauguration/2020/11/30/0f64b9ee-336e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1870
+heat: 1910
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/01/USAT/30672691-3610-4f9a-8828-e1c1beaf8e2c-AP_Biden-LGBTQ_Rights.jpg?auto=webp&crop=5999,3375,x0,y600&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'"
+    excerpt: "Former White House advisor Kellyanne Conway's comments in an interview with The 19th go directly against Trump's claims undermining the 2020 election."
+    publishedDateTime: 2020-12-05T14:50:00Z
+    webUrl: "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 147
+    images:
+      - url: "https://i.insider.com/5fcb8c9db6a3a800199b6db2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Drip by drip, U.S. Republicans slowly break from Trump election claims"
     excerpt: "More prominent Republicans on Monday joined the call for President Donald Trump to end efforts to overturn his election defeat and allow President-elect Joe Biden to begin the formal transition to a new administration."
@@ -814,8 +830,8 @@ related:
         isCached: true
   - title: "Biden plans scaled-back inauguration to avoid spreading coronavirus in crowds"
     excerpt: "Setting a sharp contrast with President Donald Trump, whose administration began with a fight over the size of his inaugural crowds, President-elect Joe Biden said on Friday he plans a scaled-back event for safety's sake during the pandemic."
-    publishedDateTime: 2020-12-05T04:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-inauguration/biden-plans-scaled-back-inauguration-to-avoid-spreading-coronavirus-in-crowds-idUSKBN28E38W"
+    publishedDateTime: 2020-12-05T12:03:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28E38W"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E38W"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E38W"
     type: article
@@ -1231,6 +1247,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0855d35a-7ddd-4bba-8f00-253c0e15a27d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden: Latest jobs report 'dire'"
+    excerpt: "President-elect Joe Biden says that the most recent jobs report is \"dire\" and that there is no time to lose in crafting a rescue package as millions of people have lost their jobs or have seen their incomes slashed during the pandemic."
+    publishedDateTime: 2020-12-04T22:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/04/biden-latest-jobs-report-dire/3832066001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/8adb341f-e20a-4ad0-bba2-82f78b3d67a8_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

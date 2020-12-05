@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html"
 type: article
 quality: 182
-heat: 402
+heat: 422
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200512102610-01-fauci-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Joe Biden weighs picks to lead his big infrastructure push"
+    excerpt: "Joe Biden's plan to remake America's crumbling infrastructure as President is expected to increase the pressure on three key Cabinet picks to work together for results that Americans can see clearly and quickly in the early months of his presidency, sources told CNN.\n    \n"
+    publishedDateTime: 2020-12-05T14:23:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wP4JuZ7YXVI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-infrastructure-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-infrastructure-cabinet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201140638-04-biden-economic-team-1201-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
