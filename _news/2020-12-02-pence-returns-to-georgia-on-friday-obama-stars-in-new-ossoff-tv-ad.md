@@ -576,6 +576,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Iran will reportedly hike oil production if Biden eases sanctions Trump imposed"
+    excerpt: "President Hassan Rouhani was quoted in state media saying that before President Trump exited the Iranian nuclear deal in 2018 and reimposed crippling sanctions the Islamic Republic had exported"
+    publishedDateTime: 2020-12-06T14:09:00Z
+    webUrl: "https://nypost.com/2020/12/06/iran-will-reportedly-hike-oil-production-if-biden-eases-sanctions-trump-imposed/"
+    ampWebUrl: "https://nypost.com/2020/12/06/iran-will-reportedly-hike-oil-production-if-biden-eases-sanctions-trump-imposed/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/06/iran-will-reportedly-hike-oil-production-if-biden-eases-sanctions-trump-imposed/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/iran-oil-biden-comments.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump hints at 2024 presidential run in remarks at White House party"
     excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
     publishedDateTime: 2020-12-02T16:06:00Z

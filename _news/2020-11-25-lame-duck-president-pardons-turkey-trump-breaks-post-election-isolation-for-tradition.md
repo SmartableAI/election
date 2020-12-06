@@ -255,6 +255,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump tactics to overturn election could have staying power"
+    excerpt: "Even after he exits the White House, President Donald Trump’s efforts to challenge the legitimacy of the election and seeking to overturn the will of voters could have staying power"
+    publishedDateTime: 2020-12-06T14:51:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-tactics-to-overturn-election-could-have-staying-power/2020/12/06/8ad7ea02-37d2-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-tactics-to-overturn-election-could-have-staying-power/2020/12/06/8ad7ea02-37d2-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-tactics-to-overturn-election-could-have-staying-power/2020/12/06/8ad7ea02-37d2-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump-Biden transition live updates: New lawsuit seeks to nix Georgia results"
     excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
     publishedDateTime: 2020-11-28T06:28:00Z
@@ -915,6 +931,17 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Trump Challenges Vote Results While Urging Turnout in Ga."
+    excerpt: "President Donald Trump is pressing his grievances over losing the presidential election, using a weekend rally to spread baseless allegations of misconduct in last month’s voting in Georgia and beyond even as he pushed supporters to turn out for a pair of Republican Senate candidates in a runoff election in January."
+    publishedDateTime: 2020-12-06T05:20:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-06/trump-challenges-vote-results-while-urging-turnout-in-ga"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-06/trump-challenges-vote-results-while-urging-turnout-in-ga?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-06/trump-challenges-vote-results-while-urging-turnout-in-ga?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "2uqEkGEABcOkpJ2EL+Gdby9PdKHHrYid7O2Iqh5wBa/rg4RLD4ojyNA3sbfMqzXgQR8EVJ1xGsdB3r3Ln+wzZlhZcZDVDP3Wm62SmnJuiy+oZ1h6NQiru7GAMCDnndf22sNmv+beCmEKCdZF8bSwU8myTgdPJyHZ3hts16Sa5ErG7tEEncSFXWMQgsSbYm/WB0nt2GL1cg2+S11F0RmNelC7kQrvDcELkZzDP/4Knomr69Oi0mbgz66tCQeLBrfHCAzIHIRHkdEO9eN3d6qmU1/ol9uWbV6NeGgJ/EiBiCtul42EPPutYYcmPQHZ5OlRVzw1ZNzCo50RMiOa8vCgMYZ9cGFrJrkW8GtUC9ywCFGgCNz/myQVKJsaobHpk/h62vh9cFuf+D7ohRSPRfCNsWgwlxysjVbRh3gQelI5njhNYG3oHM6FsmYoFIk+/c+ir1Va4ZoYJPl4ZS5EEmQQZrTSIHnOS734sSvEXHSNp7hIq9bUcxfQKFMgUcWYuw16L58e6QEfimVmJ6qCBs2L7Q==;XB2k98PfwvRmufgQr1CXiQ=="
 ---

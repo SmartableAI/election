@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-sen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
 type: article
 quality: 143
-heat: 1123
+heat: 1163
 published: true
 
 provider:
@@ -320,6 +320,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP White House hopefuls wait to see what Trump does next"
+    excerpt: "Donald Trump's increasingly direct flirtations with running for president four years from now are putting a freeze on the rest of the potential 2024 Republican field"
+    publishedDateTime: 2020-12-06T14:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_128395a5a3fa4f5fa8955dd591bc5d74_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Latest: Trump falsely claims he won Georgia"
     excerpt: "President Donald Trump kicked off his Saturday night rally in Georgia for Republican Sens. Kelly Loeffler and David Perdue by recycling the falsehood that he won the state"
     publishedDateTime: 2020-12-06T00:41:00Z
@@ -448,6 +464,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Live politics updates: Court rejects pro-Trump attorney Wood's appeal to stop Georgia election certification"
+    excerpt: "Federal appeals court rejects lawsuit seeking to stop Georgia certification; staffer to Sen. Loeffler dies in car crash – politics updates."
+    publishedDateTime: 2020-12-06T14:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/06/politics-updates-donald-trump-joe-biden-election-transition-georgia/3847789001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3847789001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3847789001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/47a7fd47-bb7a-4ae2-8aaa-c870c2399cc5-AP_Election_2020_Georgia_1.jpg?auto=webp&crop=5471,3077,x0,y82&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence campaigns in Georgia for Senate runoff elections"
     excerpt: "Vice President Mike Pence is campaigning in Georgia ahead of the two Senate runoff elections there in January. CBS News campaign reporter LaCrai Mitchell joined CBSN with details on that and the outcome of the recount in Georgia."
     publishedDateTime: 2020-11-21T01:15:00Z
@@ -463,18 +495,18 @@ related:
         height: 630
         isCached: true
   - title: "Trump heads to Georgia for two Republican candidates while pressing vote fraud claims"
-    excerpt: "U.S. President Donald Trump campaigns on Saturday for two Republican senators in Georgia facing January runoffs, but some in his party worry he may do more harm than good if he focuses on personal grievances over his loss in the Nov."
-    publishedDateTime: 2020-12-06T00:57:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia/trump-campaigns-for-georgias-republican-senators-but-will-that-help-or-hurt-idUSKBN28F0EK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28F0EK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28F0EK"
+    excerpt: "U.S. President Donald Trump headed to Georgia on Saturday for a rally aimed at boosting two Republican senators facing January runoffs, but some in his party worried he could end up hurting them by focusing on efforts to overturn his own loss on Nov."
+    publishedDateTime: 2020-12-06T04:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-idINKBN28F0EI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28F0EI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28F0EI"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 118
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543568731&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB4075"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543574568&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB501B"
         width: 817
         height: 545
         isCached: true

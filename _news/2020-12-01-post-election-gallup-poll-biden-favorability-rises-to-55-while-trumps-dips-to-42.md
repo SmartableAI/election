@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6471704002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6471704002"
 type: article
 quality: 148
-heat: 1308
+heat: 1348
 published: true
 
 provider:
@@ -229,6 +229,22 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump tactics to overturn election could have staying power"
+    excerpt: "Even after he exits the White House, President Donald Trump’s efforts to challenge the legitimacy of the election and seeking to overturn the will of voters could have staying power"
+    publishedDateTime: 2020-12-06T14:51:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-tactics-to-overturn-election-could-have-staying-power/2020/12/06/8ad7ea02-37d2-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-tactics-to-overturn-election-could-have-staying-power/2020/12/06/8ad7ea02-37d2-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-tactics-to-overturn-election-could-have-staying-power/2020/12/06/8ad7ea02-37d2-11eb-aad9-8959227280c4_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -915,6 +931,17 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Trump Challenges Vote Results While Urging Turnout in Ga."
+    excerpt: "President Donald Trump is pressing his grievances over losing the presidential election, using a weekend rally to spread baseless allegations of misconduct in last month’s voting in Georgia and beyond even as he pushed supporters to turn out for a pair of Republican Senate candidates in a runoff election in January."
+    publishedDateTime: 2020-12-06T05:20:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-06/trump-challenges-vote-results-while-urging-turnout-in-ga"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-06/trump-challenges-vote-results-while-urging-turnout-in-ga?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-06/trump-challenges-vote-results-while-urging-turnout-in-ga?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "HAKpaOFNsU+nkcNHRYDaJ0OoZpVp23opm7zytyGaJjZvhyuNxbcIH++NEJETVjMLI28JX8RtYqYTNsxynFzk16BSmSWy9bvXseKtR3Msw4cvHsNHaWt3rl3cL+Ss/kYZ1mu3Ucsb69MSAX/Vyynf1ubbWxGxg1DUO6vHUVT1rvt1fHsnFb+w+XlPJgH59htTk3m15BuxmYdHkpNcWD2s/fGlIw21+N0zP6YG89vgBjzVKdG6SlTQTnr+1bRPxbMJOWzHatM7zWoKmQCILYo2W4IRF0avaC8mF9xKmiRT91sBnaI1zyl5LTC8F0IhoRmoQGL3IJ041TMGbEv/G+Olqh1KWRQpZJrIGp/iPweUyWkvKj4nfR/UcqxqB2csv6FWfy3qf/Jdgit7gBJs7SRcx3TWNLYCHsJETdDNoQHOpqAjrxPWKD2KrsHXVD5WP5nbves4vSI3kxVz1rBpjp6PN88svTy3tuJcvnaCUru7iVALLspXqQ/Ma1fR7/gwB8k7yyXZAW8SmiWOv4TMQA/igw==;1p5x2Pvj7cdPClGyw6ja1Q=="
 ---
