@@ -239,6 +239,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden's staff nominations are early test of relationship with progressives"
+    excerpt: "The Democratic left rallied around the party’s nominee but are now warily surveying his picks for top administration positions"
+    publishedDateTime: 2020-12-06T10:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/aa1012ec8311abb0800902730dedc528f26b2a22/0_138_4953_2973/master/4953.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3caeec7363d79a0ebbfbb56e9ccce2cf"
+        width: 600
+        height: 360
+        isCached: true
   - title: "After Biden win, Rehoboth Beach celebrates local boy who made good: ‘He’s our Joe’"
     excerpt: "Bikinis and beach umbrellas are marked to sell. The only hint of summer is the tangy scent of vinegar-doused french fries wafting from the one Thrasher’s stand that has remained open. Late fall and winter is when Rehoboth Beach typically gets to crawl back into its shell,"
     publishedDateTime: 2020-11-27T18:06:00Z

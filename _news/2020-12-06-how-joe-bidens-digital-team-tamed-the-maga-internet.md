@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden to name diverse economic team, with three women in top roles to help build recovery"
-excerpt: "President-elect Joe Biden is set to formally name key members of his economic team on Monday, with the long-expected announcement of Janet Yellen as Treasury Secretary, CNN has learned, along with two other women in top roles to help him navigate the nation's punishing fiscal headwinds in hopes of building"
-publishedDateTime: 2020-11-30T15:52:44Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-LEoanAyZ4o/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-LEoanAyZ4o/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/index.html"
+title: "How Joe Biden’s Digital Team Tamed the MAGA Internet"
+excerpt: "The campaign’s empathetic digital strategy held up surprisingly well against President Trump’s passionate digital following."
+publishedDateTime: 2020-12-06T10:00:00Z
+originalUrl: "https://www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.html"
+webUrl: "https://www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.html"
+ampWebUrl: "https://www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.amp.html"
 type: article
-quality: 166
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130103441-biden-economic-admin-1130-announcement-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2020/12/03/business/00roose3/merlin_168733392_16c1ea80-610a-432f-b94e-c320eeba195b-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -95,21 +96,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "How Joe Biden’s Digital Team Tamed the MAGA Internet"
-    excerpt: "The campaign’s empathetic digital strategy held up surprisingly well against President Trump’s passionate digital following."
-    publishedDateTime: 2020-12-06T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.amp.html"
+  - title: "Biden to name diverse economic team, with three women in top roles to help build recovery"
+    excerpt: "President-elect Joe Biden is set to formally name key members of his economic team on Monday, with the long-expected announcement of Janet Yellen as Treasury Secretary, CNN has learned, along with two other women in top roles to help him navigate the nation's punishing fiscal headwinds in hopes of building"
+    publishedDateTime: 2020-11-30T15:52:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-LEoanAyZ4o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/29/politics/biden-economic-team/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 166
     images:
-      - url: "https://static01.nyt.com/images/2020/12/03/business/00roose3/merlin_168733392_16c1ea80-610a-432f-b94e-c320eeba195b-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130103441-biden-economic-admin-1130-announcement-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Biden meets with struggling workers, calls for more Covid relief amid economic crisis"
     excerpt: "President-elect Joe Biden on Wednesday used a virtual roundtable with workers and small-business owners struggling economically due to the worsening coronavirus pandemic to offer another full-throated call for more Covid-19 stimulus."
@@ -128,6 +129,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "axaysSo1NQkg+oN1JBNtkZDJs9eIRIAyCKR1ZFe1UxjpmK+JgnD9/wDd9v89M8aGDAkjw1G/VnC1dFq9QojkEJJvtoO+8x61x/em+O1i/PV4HWcopTh/mZQ/leBsUkcsIaGkmk0tPvyhU/SKqxd3lx17s41eL839b5X2X0pJT+qcDiOR6rYOx4VveKhUA0iEQykLrD86A0/YOrCPA3fIS7h7hBJLyi8Uao+uDlcIskGM0Eyb00heV7Q9WF11lpJWQ/rNGQU9qZqbd/d0kHlS87+kowIZDFOF6UC795wpURgDciuy+H3mcsXNPEn7C5y3LgsL3GXvr8S55eIYzU3lM94Jiai5faZWdFh+yMoiFqo=;S74HKm5e6RKh8SlzEbc3Ww=="
+secured: "fLwPl+Cz8vlI76WxW5agL7Jvha1VzVYuJdbm/02oqQ4l64ruzd2pvyYJFU+uKFxwf6L5cEadwOwcpbUvGv/OxBiHI5l8vdBMUezBYRGwcOtMhED/MjP4Lb5yKlCS0QE+Cb/R0QPNNU7EQWHi7LVMIxR8aVDhSBW+kK9riXYoj+24KWAo2EnD3U9rnDaGlIhgesQ+u3K+G4zGATe5ShdC1cBRDvbZdFZaHbjPEYVV4HZGR/EDrfr4mZrncEF8U2H8Nfs/ijai12PhsS+1O9fo5g61fXNdoAAsIBPrXvtDKYwuUUxMzfVplB4ljNLu2TQfYLprWrsNj4mG+a/01DyVSlmYW/w+NPNGA7o5bkyOJHQ=;5SeFoO11SDk3wrDh7tDFRw=="
 ---
 

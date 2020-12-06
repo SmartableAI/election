@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 122
     images:
       - url: "https://i.guim.co.uk/img/media/ca519be7e2232ba11e4ac5d8dfae38be29db558d/0_84_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad7e7a3e5456b291902a6b3d9d880c9e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Biden's staff nominations are early test of relationship with progressives"
+    excerpt: "The Democratic left rallied around the party’s nominee but are now warily surveying his picks for top administration positions"
+    publishedDateTime: 2020-12-06T10:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/aa1012ec8311abb0800902730dedc528f26b2a22/0_138_4953_2973/master/4953.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3caeec7363d79a0ebbfbb56e9ccce2cf"
         width: 600
         height: 360
         isCached: true

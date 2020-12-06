@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Live politics updates: President-elect Biden to discuss economic crisis with workers and small-business owners"
-excerpt: "President-elect Joe Biden plans to meet online Wednesday with workers and small-business owners to discuss the economic crisis, as part of his preparations for taking office. Biden highlighted the need for more federal stimulus spending Tuesday while introducing his economics team,"
-publishedDateTime: 2020-12-02T15:04:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2020/12/02/presidential-transition-updates-politics-joe-biden-donald-trump/3791958001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2020/12/02/presidential-transition-updates-politics-joe-biden-donald-trump/3791958001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3791958001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3791958001"
+title: "Joe Biden's staff nominations are early test of relationship with progressives"
+excerpt: "The Democratic left rallied around the party’s nominee but are now warily surveying his picks for top administration positions"
+publishedDateTime: 2020-12-06T10:03:00Z
+originalUrl: "https://www.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
+webUrl: "https://www.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
+ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
 type: article
-quality: 105
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/0ea21f1c-a0a4-477a-be43-069126ee14c8-biden_economics_team.jpg?auto=webp&crop=7462,4198,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://i.guim.co.uk/img/media/aa1012ec8311abb0800902730dedc528f26b2a22/0_138_4953_2973/master/4953.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3caeec7363d79a0ebbfbb56e9ccce2cf"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -239,22 +239,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Joe Biden's staff nominations are early test of relationship with progressives"
-    excerpt: "The Democratic left rallied around the party’s nominee but are now warily surveying his picks for top administration positions"
-    publishedDateTime: 2020-12-06T10:03:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/06/joe-biden-progressives-staff-nominations-democrats"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
-    images:
-      - url: "https://i.guim.co.uk/img/media/aa1012ec8311abb0800902730dedc528f26b2a22/0_138_4953_2973/master/4953.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3caeec7363d79a0ebbfbb56e9ccce2cf"
-        width: 600
-        height: 360
-        isCached: true
   - title: "After Biden win, Rehoboth Beach celebrates local boy who made good: ‘He’s our Joe’"
     excerpt: "Bikinis and beach umbrellas are marked to sell. The only hint of summer is the tangy scent of vinegar-doused french fries wafting from the one Thrasher’s stand that has remained open. Late fall and winter is when Rehoboth Beach typically gets to crawl back into its shell,"
     publishedDateTime: 2020-11-27T18:06:00Z
@@ -316,6 +300,22 @@ related:
     quality: 106
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/78a6bcc7-71fe-40bf-8353-207740a5fa8e-Mayorkas.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Live politics updates: President-elect Biden to discuss economic crisis with workers and small-business owners"
+    excerpt: "President-elect Joe Biden plans to meet online Wednesday with workers and small-business owners to discuss the economic crisis, as part of his preparations for taking office. Biden highlighted the need for more federal stimulus spending Tuesday while introducing his economics team,"
+    publishedDateTime: 2020-12-02T15:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/02/presidential-transition-updates-politics-joe-biden-donald-trump/3791958001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3791958001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3791958001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/0ea21f1c-a0a4-477a-be43-069126ee14c8-biden_economics_team.jpg?auto=webp&crop=7462,4198,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -408,6 +408,6 @@ related:
         height: 576
         isCached: true
 
-secured: "1eLMu8UgDlq1OObCbEUBE9XzdnYw7Gxb8U55lXKy840iWfki4mN33kjX7H9Wr7ycLHOvx1xGvDjQ6bw+JC/8pZqSdn/tbSRlXogGdlOODwZJS64VquJy1beua8b7L8EKSVrnjxrNr75CVmxQu6GmqmXv2/8s0CjH1R8qocjr2dSuxo/2EvHImQi2TtTWhtPmtIpoi20OsLOOjjs/bZZWjcwDAAOG2UrFPGy3FOkU771LfCTceVTJBfbCn4H2RANhQzsRJQGmAxsKUO1R7IOjhkt2hMNLiZ1Ok3xHhwqPdEg46Q3w1i9Ivp+9Rhy6NIAwYarp19jMtt/1+30xj7Vr/3wc+V2xRA9mekQHEYUGaDbbZ9PyUTy9cEZZ7yOzpOTaYGeqqt0V2HbzQc3xdtl6vhDxKEAQ8wr1ofAGvURsjMm57hQqEM2KfP21z5M/FdSqxFcI6ViKnzd5Lh2t0Hv4kS0DxCzwAZ3CC4g3WesRR2LQa99NDVg39D8zXJiWU640Lr8YW7gxSxrJwfP9rFkGJA==;cYQQdZMQ+dtY0qddfZZFUw=="
+secured: "p+kQU7HuuXMw1T3IQzz9QdWMxdVNh1IvSVZV6VhfAnlEIAkSBjEfLpXrNSivUPVsNkYzeFhsyK4Hsy13yksHLmrorsp99kIs+5cfkEbRtgpeerf7vdtra+J/UNnzycC9C9zOZ96uklX09qzOq6JvUK0Ka2C1SneL3w2tkWcP1+ULwLZsCVaSuBT8fgFI/Iln8hBCFMELZHdi/n9eR2fATBnRt5kuOPwUSItoi5Cld4jBMebo3CxQA3tVHZkTMHfpOHBL64fUqBht4hGC0GN0WhgvTTNl4Kn4nVajJsSqRhP6UO5Tb9AR7rkiwIVl5ffv4DGhslUhmVIBkyNLgQvVSuT9h3DrQJJp6aE0JqnQCYQ=;zJyKLSmfci+8fnX/wzutBQ=="
 ---
 
