@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Democratic fight emerges ahead of appointment to fill Kamala Harris’ Senate seat"
-excerpt: "A cross-country lobbying campaign for Vice President-elect Kamala Harris’ Senate seat has pitted factions divided by race, gender and geography against one another and heightened internal"
-publishedDateTime: 2020-11-26T14:03:00Z
-originalUrl: "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/"
-webUrl: "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/"
-ampWebUrl: "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/"
-cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/"
+title: "Kamala Harris is on the cusp of power, but has to tread carefully"
+excerpt: "As veep, Kamala Harris will have every opportunity for clout. Biden, the oldest man to become president, has promised her a prime role. But she faces minefields too."
+publishedDateTime: 2020-12-06T11:14:00Z
+originalUrl: "https://www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully"
+webUrl: "https://www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully"
+ampWebUrl: "https://www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully?_amp=true"
 type: article
-quality: 70
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: Los Angeles Times
+  domain: latimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_ea094ba89905318495f9d2a79bd2c69a-h_b6055c4a4a32d16317462659e297de20.jpg?w=1024&h=576"
-    width: 1024
-    height: 576
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/1da91ae/2147483647/strip/true/crop/3749x2449+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2F22%2F9c0dee354cbba4f0c7e05e08af94%2Fap20185052720753.jpg"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -72,22 +76,6 @@ related:
     quality: 125
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/0bda102/2147483647/strip/true/crop/3000x1959+0+73/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2F2b%2Fe6b1728352869e91a42d682a4b5c%2F73b0762e11fb4961a09c11fc06669ad5"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Kamala Harris is on the cusp of power, but has to tread carefully"
-    excerpt: "As veep, Kamala Harris will have every opportunity for clout. Biden, the oldest man to become president, has promised her a prime role. But she faces minefields too."
-    publishedDateTime: 2020-12-06T11:14:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/1da91ae/2147483647/strip/true/crop/3749x2449+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2F22%2F9c0dee354cbba4f0c7e05e08af94%2Fap20185052720753.jpg"
         width: 320
         height: 209
         isCached: true
@@ -243,6 +231,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Democratic fight emerges ahead of appointment to fill Kamala Harris’ Senate seat"
+    excerpt: "A cross-country lobbying campaign for Vice President-elect Kamala Harris’ Senate seat has pitted factions divided by race, gender and geography against one another and heightened internal"
+    publishedDateTime: 2020-11-26T14:03:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 70
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_ea094ba89905318495f9d2a79bd2c69a-h_b6055c4a4a32d16317462659e297de20.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Kamala Harris visits outdoor Washington, D.C. market for Small Business Saturday"
     excerpt: "Vice President-elect Kamala Harris stressed the importance of supporting small businesses amid the COVID-19 pandemic as she visited an outdoor market in Washington, D.C. for Small Business Saturday."
     publishedDateTime: 2020-11-29T17:03:00Z
@@ -370,6 +374,6 @@ related:
       domain: omaha.com
     quality: 35
 
-secured: "JleqUDFQGwxRc1NodDGqtyXCUQPAeZ4yGsWwjfzh5Mcv+WD8oIlKu1fd9OXewg/u+lC4k/c+flQIRK10RPwnSDvslSBOlt1J0JbMWx2ebnWO3hKoBRSKFBkhrzCITFbDKbiIn+LZRsBvbGx+TYyx5wcrSEjgSju55eX0ZYS4mB8xVXISDSLymJ2wAGchaQSfZMNHgpxYVsKTlPZEbSU5PMlHjaY0spoaWCProDTGM9FuYkZWnev1a2aNhjTCE/8pNIqDtIfF3LvIiaGUpyjCK24AnFDbCMOdbUcJkWyrgGov6ljfYwM3D2dGEihNTIhEZYy2R7yU82jgZyggtJQfT/HB1+WzdQ74Dli5BItfnnZPu/Etue5m1xjMs4mSC8vbWbqULlA3rBUrd0rNVshtSCyLBqc/+ZW3t3ATnB7dDNZXCif1sNHh7R3xIZHm14pgiECvWhjCH9uOF7UVeNptHdIEpWYUDJzDm7WYBoDrRmqLtJydyj1J/zKnPc66XHsMzXdHX2WNCFGVVp5bZ7DTUg==;51jl6pEmiCGiObvLtPDc4w=="
+secured: "0WAPxX9+YkfCkA3zFWJddj+t0PfirMaH2wyclh+pna0luAtw4YDWeTsybS4bopUgRHCAIKSqxPCwU19Wgv2h577hmdKSUvK8U5ASqQVGpV2rir+oPOu3DZlKmapF2nm/6dxuDdk2XMVA88dMWtQLYN224zisrCCreKyAOTvqWU/LpXgxsf6ADDHtzA93Nd7hxnjDWfdCggL3e5VPkrS18azDapEKZ36n4S707rMsIpfQFO+KIoCjpW1YTtrik+qF6qwnVNcjEMpKl6EPepV/rUsaRYCXDQZdMRGmpib9+tUxP4uFEykIsbwFuEXdzzBoXgFASj3h+p1FeBUcu1gpnLxQuUUY7ZXKZHqqBxNNfsM=;2elDcSPQhBzaytxkuAHH3g=="
 ---
 

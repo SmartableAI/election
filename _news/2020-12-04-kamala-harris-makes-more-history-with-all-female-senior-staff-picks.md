@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-03/harris-announ
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 125
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/0bda102/2147483647/strip/true/crop/3000x1959+0+73/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2F2b%2Fe6b1728352869e91a42d682a4b5c%2F73b0762e11fb4961a09c11fc06669ad5"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Kamala Harris is on the cusp of power, but has to tread carefully"
+    excerpt: "As veep, Kamala Harris will have every opportunity for clout. Biden, the oldest man to become president, has promised her a prime role. But she faces minefields too."
+    publishedDateTime: 2020-12-06T11:14:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1da91ae/2147483647/strip/true/crop/3749x2449+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2F22%2F9c0dee354cbba4f0c7e05e08af94%2Fap20185052720753.jpg"
         width: 320
         height: 209
         isCached: true

@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's false fraud claims are laying groundwork for new voting restrictions, experts warn"
+    excerpt: "While the courts aren’t buying Trump's attempts to overturn the election he lost, experts say they are already seeing a push for new laws making it harder to vote."
+    publishedDateTime: 2020-12-06T09:54:00Z
+    webUrl: "https://www.nbcnews.com/politics/elections/trump-s-false-fraud-claims-are-laying-groundwork-new-voting-n1250059"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250059"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250059"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 125
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432174/201201-donald-trump-rally-jm-1114_c7d849bfde4e4a44e66c8cd9722a7824.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "8boL5U1YjCwAdMUxywwt/LwaH+r4wH9ZEUlu0vfB6gYZ1eC9ncOGsOujCTU22JUioKKNSgTDdGKY6sg4FJDecrIXY5GXeYx63BcI0PY5w1VaO69wpv1KxeKDVVDYgzMXdwTLymcAPd4HaSD7Q4MqMpgZaVzfJTN+vcQmhvuGKL/If6B3nyJMHsxS0LTmLjDqeO76eUlgLp8bjKtmz4uOWRCgEvzBDSIep1c4bzfO1mluXtJ+D85PxnojOnqzG2rps0t/g3MUY7hDrYQiO3aQveHRYpoz4vYZQLNeTgcF5QzlDDObDgQB8LHp7W7erocrzBqXCM8Cu8HFirFsRB99hNuhoGQr/m3Ov0AH0Xc9UhwMLRP3+ZGmlnyRXha4qRRC/GBNSQQOch0spy+TFNLpB/IcBdZ0S5RL2kua0Zg33lQ+e1gnMjuJDbgV2zWE0Ufq8QPtbVossYHCVlX0M7Fh6rYxX9QLcyhsovrkaYXl5bKWxF5vghIfTX2aBvhSikjMTFRx0xar1QaZtPlXa1e4hg==;424nsSoocPavKC5bUaoqiQ=="
 ---

@@ -63,6 +63,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Kamala Harris is on the cusp of power, but has to tread carefully"
+    excerpt: "As veep, Kamala Harris will have every opportunity for clout. Biden, the oldest man to become president, has promised her a prime role. But she faces minefields too."
+    publishedDateTime: 2020-12-06T11:14:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1da91ae/2147483647/strip/true/crop/3749x2449+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2F22%2F9c0dee354cbba4f0c7e05e08af94%2Fap20185052720753.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Kamala Harris makes history as first woman and person of color to be vice president"
     excerpt: "Kamala Harris, the groundbreaking senator from California, has made history again -- set to become the first female vice president and woman of color in the White House. Harris, 56, the daughter of immigrants,"
     publishedDateTime: 2020-11-07T16:47:00Z
