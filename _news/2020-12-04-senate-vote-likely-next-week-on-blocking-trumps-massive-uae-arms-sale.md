@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D2XS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2XS"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/02/1b2aff86-0030-4f6e-ad59-386903796529/thumbnail/1200x630g2/ae00e73e1d028b5549c484a69354be04/gettyimages-1229807681.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump tells Republicans they shouldn't protest the election results by not voting"
+    excerpt: "President Trump spoke at a rally on Dec. 5 in Valdosta, Ga., to urge people to vote for Republican Sen. Kelly Loeffler and Sen. David Perdue ahead of the Georgia senate runoff election on Jan. 5."
+    publishedDateTime: 2020-12-06T02:44:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/trump-tells-republicans-they-shouldnt-protest-the-election-results-by-not-voting/2020/12/05/5922ab6c-1d06-4331-ae7f-4dd4a2c25450_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-06-2020/t_f0a1da2d4a514873ad37fc5440c94ac6_name_0c3b4406_3763_11eb_9699_00d311f13d2d_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
 
 secured: "WU/PpXCJFxg55QLlFQuDueckWGoIsqKkzj2aql8mCGR2i0ELT0xkPzRezMwozPLn/5QtzTDG3IPR9UG8s7IcH0ciXepEg5DhLCUAdC0kG0WEKuwpqO9jptiSr60BDxB7E1fxG926irAkutRtGvewAH1wxX/ED238uN9IpWfwR9yzkteGX09L/96NjZV4+UDs+pUYDeHhHslcYBZwXilH4gC9CayqFzwnw4orJb4cgiS2Um3jgCcgxdx5WZeoIiwKQg+ddmzq8KAGlcLg+IAdkon9H7zH2T9VhsPAEzBl4f2cHo7wR5Htmnlrc7L5RjRTxITsw06Lbg1pV4GBE5+UvXhD2hEXYhSTrlBgub0g9/Q=;GDXVPn0Fr8dt1IHxDOaAaQ=="

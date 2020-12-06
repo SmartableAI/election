@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump heads to Georgia for two Republican candidates while pressing vote fraud claims"
-excerpt: "U.S. President Donald Trump campaigns on Saturday for two Republican senators in Georgia facing January runoffs, but some in his party worry he may do more harm than good if he focuses on personal grievances over his loss in the Nov."
-publishedDateTime: 2020-12-06T00:57:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-georgia/trump-campaigns-for-georgias-republican-senators-but-will-that-help-or-hurt-idUSKBN28F0EK"
-webUrl: "https://www.reuters.com/article/usa-election-georgia/trump-campaigns-for-georgias-republican-senators-but-will-that-help-or-hurt-idUSKBN28F0EK"
+title: "Trump campaigns in Georgia for two Republican candidates while pressing vote fraud claims"
+excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party fear could end up hurting, not helping, their chances if he focuses on efforts to reverse his own election defeat."
+publishedDateTime: 2020-12-06T02:43:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-georgia/trump-campaigns-in-georgia-for-two-republican-candidates-while-pressing-vote-fraud-claims-idUSKBN28F0EK"
+webUrl: "https://www.reuters.com/article/usa-election-georgia/trump-campaigns-in-georgia-for-two-republican-candidates-while-pressing-vote-fraud-claims-idUSKBN28F0EK"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28F0EK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28F0EK"
 type: article
-quality: 118
+quality: 116
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543568731&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB4075"
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543574568&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB501B"
     width: 817
     height: 545
     isCached: true
@@ -445,19 +445,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump campaigns in Georgia for two Republican candidates while pressing vote fraud claims"
-    excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party fear could end up hurting, not helping, their chances if he focuses on efforts to reverse his own election defeat."
-    publishedDateTime: 2020-12-06T02:43:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia/trump-campaigns-in-georgia-for-two-republican-candidates-while-pressing-vote-fraud-claims-idUSKBN28F0EK"
+  - title: "Trump heads to Georgia for two Republican candidates while pressing vote fraud claims"
+    excerpt: "U.S. President Donald Trump campaigns on Saturday for two Republican senators in Georgia facing January runoffs, but some in his party worry he may do more harm than good if he focuses on personal grievances over his loss in the Nov."
+    publishedDateTime: 2020-12-06T00:57:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia/trump-campaigns-for-georgias-republican-senators-but-will-that-help-or-hurt-idUSKBN28F0EK"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28F0EK"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28F0EK"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 116
+    quality: 118
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543574568&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB501B"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543568731&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB4075"
         width: 817
         height: 545
         isCached: true
@@ -744,6 +744,6 @@ related:
         height: 630
         isCached: true
 
-secured: "srH0+Gsl2GsCNgvfawFpnQezkflv+nICs5RVC4UaMvAlPuqZJ+7uPoFKhVRhiZb3CXSW9MQWuEimaMQfEbt0EzRPp1dgrZQofhVZpQVzVrk0wFb0eWHnKYVqr5shxNOKqYA2wWTD+//ahKchF1VDvvMkSQCbZp/blyQeIhym6pW7CgTel7RcPSh2tDMwXZZvN3Dg8LJGoEWOfQWvLUaLKoueuZm4N/rjP4F6DmQM9vA6NI9gvl2Tt170hdbJviAcoDAfjiDmHEVgVIDHjh1uS+eBwbvuh2OiuztLuFSvaCkXTLx6jLam+YYnHi0MyWo1tun3DiqPk34Ea6WYAg4SI6wAgPFj+wJDZJAygnXo4oyk8K6uCIw5CYZYFCXKriIhPNe/SQTmTJj+k/XazVgyaVNkwkGxeEI8WZFRW3Hbcenn1NBF/WUUKbrbREinICXdeHtRQVIdmFdf8b51RL6Ok4L/1uE1wdT0NWoWAsB6WqJbGc1v8ESaQBodDFC3PlxX9j/bdR4oa/Ya8IpCgU+XQA==;Gasa1QRL9opFfXF+ngSZnQ=="
+secured: "e5trPx+0kcNreGEfCS3D/WCosylOOQmGGjRfol4t1guOBLy//00vtjz/48Jn80SBFb4XPGVRj8T0L2vpUwGdjz/KXIOnMs5opzy2hgSO3nowyPYbPcvtBDVRPR3iUFT1ysAWifZaX2CGF9ghAbOOlnZIZPYfETWBrJrE142DQeoUbjgPqGj/eoEYfO87EzlzIeSqtW3bX6qEbKebhZfb0C8hm0AosgW7As1803fJeBHSMMN5dS/Pf7EomCXWUGf2UqAOLkMkU0s9Jmzn2CCPKGgjyPeBnI5+STHaxxEF45CCNn7bQNSvkjQuBJBAu8lXGtzbL0fqBLXCvWgeqiHax4ppoVQmJEtmEkTjc2pbryQ=;rLVaKGe9LzyWK6sYSswalg=="
 ---
 

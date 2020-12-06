@@ -476,6 +476,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "President Trump urges Georgia to turn out for Senate runoff election"
+    excerpt: "President Trump delivered his first stump speech since Election Day Saturday night, telling an enthusiastic Georgia crowd that the 2020 election was “rigged,” including in the Peach State —"
+    publishedDateTime: 2020-12-06T02:35:00Z
+    webUrl: "https://nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/"
+    ampWebUrl: "https://nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/donald-trump-2.jpg?quality=90&strip=all&w=978"
+        width: 978
+        height: 652
+        isCached: true
   - title: "Georgia Official Urges Trump to Condemn Threats Against Election Workers"
     excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
     publishedDateTime: 2020-12-02T02:08:00Z

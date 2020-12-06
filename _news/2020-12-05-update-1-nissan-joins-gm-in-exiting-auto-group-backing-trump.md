@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump tells Republicans they shouldn't protest the election results by not voting"
+    excerpt: "President Trump spoke at a rally on Dec. 5 in Valdosta, Ga., to urge people to vote for Republican Sen. Kelly Loeffler and Sen. David Perdue ahead of the Georgia senate runoff election on Jan. 5."
+    publishedDateTime: 2020-12-06T02:44:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/trump-tells-republicans-they-shouldnt-protest-the-election-results-by-not-voting/2020/12/05/5922ab6c-1d06-4331-ae7f-4dd4a2c25450_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-06-2020/t_f0a1da2d4a514873ad37fc5440c94ac6_name_0c3b4406_3763_11eb_9699_00d311f13d2d_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
 
 secured: "vHMhBSsu3oeUQEzFKgWd2mK5JzEUDXQiTJret5wRzNvDGGbjaGE2Ar6bktY+2mKuXs6C5o25Gi/sfQXEw8LChdCjvg/tFFop5ILoOSxfRO574NPuCa/z6ZDG/W/cGLzGUi7swSwi0qX7/1nWh901brgoIyGlbli4kNCJgd4AifkKzKsrRw7/jnJRKKFnQifLcRFlt96813FCFFhrTQ/+UfJIhSI660eNcOAOhcwb4CdHlrCFOkfLRDrinJTDKkGL+J347FLaWOft1kushcPA+BVOMzpDMxQj4kWvYS/GU0li4STlTi/VdtPeR4oRs7pftrOCANufKLJu5TxMmJJx/GU6HwzkeB5V4hsbY8A9PwA=;Z+pIrLIKiaZbaRqtXLODnA=="
 ---

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Joe Biden weighs picks to lead his big infrastructure push"
-excerpt: "Joe Biden's plan to remake America's crumbling infrastructure as President is expected to increase the pressure on three key Cabinet picks to work together for results that Americans can see clearly and quickly in the early months of his presidency, sources told CNN.\n    \n"
-publishedDateTime: 2020-12-05T14:23:32Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wP4JuZ7YXVI/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wP4JuZ7YXVI/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-infrastructure-cabinet/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-infrastructure-cabinet/index.html"
+title: "Biden's desire to stop the border wall could be costly and arduous "
+excerpt: "President-elect Joe Biden pledged to end construction of his predecessor's signature border wall, but halting the ongoing, multibillion-dollar project will be an arduous, complex and potentially costly process.\n    \n"
+publishedDateTime: 2020-12-05T22:56:40Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r_zsQDlrnnA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r_zsQDlrnnA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-border-wall/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-border-wall/index.html"
 type: article
 quality: 175
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201140638-04-biden-economic-team-1201-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925153336-trump-border-wall-0623-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -111,19 +111,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's desire to stop the border wall could be costly and arduous "
-    excerpt: "President-elect Joe Biden pledged to end construction of his predecessor's signature border wall, but halting the ongoing, multibillion-dollar project will be an arduous, complex and potentially costly process.\n    \n"
-    publishedDateTime: 2020-12-05T22:56:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r_zsQDlrnnA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-border-wall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-border-wall/index.html"
+  - title: "Joe Biden weighs picks to lead his big infrastructure push"
+    excerpt: "Joe Biden's plan to remake America's crumbling infrastructure as President is expected to increase the pressure on three key Cabinet picks to work together for results that Americans can see clearly and quickly in the early months of his presidency, sources told CNN.\n    \n"
+    publishedDateTime: 2020-12-05T14:23:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wP4JuZ7YXVI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/biden-infrastructure-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/biden-infrastructure-cabinet/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925153336-trump-border-wall-0623-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201140638-04-biden-economic-team-1201-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -238,6 +238,6 @@ related:
         height: 629
         isCached: true
 
-secured: "U/aIHZBsnO5VJYsmoOCpQufuju0FLr+qo79rG4JWo+TAr4S88lDgnFX+r4zncGn00ysJ4TvzEkVWiCSiNF/E+SdqwzXKjTTRAuO2XpFDPx8yYTedMYLMcqR5e+94525NRVbi71j9PCdAy0+gx+Isv+v7xB4lJ4N+y0UtxFapE3N2vf9TS7A+fmOz7x2SWXbVw2DXHZrjwkwlv8A83bYFWt93MJtXSnCbdqEiHTb2TggtQGYGlyCHuCFMvomaZbaPSTaZcqiLgd3t+M/3SktgkiZLfnSXki55PAbXIwQWzM9CHJKZU5f8UVNWb9Rgui587+LzvJsEFa8s9BySUaEE3b/055CuNgDBJL8/NGMjS10=;qSlkSko/clvObccepR0owA=="
+secured: "5Yl5ZRcXzZaFjA8x8Omv6AvWNRFRa0i0awzIB2WQE/CqPV2ZG0ChR5j4nRUREOhLZiSZ0FVKlK0HJMZRkuCS6OEdPMJRX4Gie/4SwN5LmQtg71sxFIkVgq5Vf7+75dLp+BtkfQ2XVhW8vGNB+bGAqwnbwkGA83lHxI+MFydJJNq9QMZU7wrQNwMIfRriwlNRHwjwmDqqoF3aTUEfB3HfNx0So7684zfZHdYct5nCRUz7IFMhBnfP2RLgUCxpySaVYiIZt8Fysz3Yv1lFviDVFTf9Umb6egs51X1rBpPp3W3uMW9UHI4cSOrQoia/CUkuCQaN4JPSzg5pUkq/fvrih86aeEfmyHJMHIvhXLcK7Ak=;r3Qi+btMOi+LTI51h5cuEA=="
 ---
 

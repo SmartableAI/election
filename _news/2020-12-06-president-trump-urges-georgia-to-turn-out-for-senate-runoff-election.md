@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Biden gets boost from Wisconsin recount that cost Trump $3M"
-excerpt: "President-elect Joe Biden picked up 132 more votes after an election recount in Milwaukee County, among the two places in Wisconsin that President Trump spent $3 million to force a recount."
-publishedDateTime: 2020-11-28T17:48:11Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZU6vMKqo9G0/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZU6vMKqo9G0/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for"
-ampWebUrl: "https://www.foxnews.com/politics/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for.amp"
+title: "President Trump urges Georgia to turn out for Senate runoff election"
+excerpt: "President Trump delivered his first stump speech since Election Day Saturday night, telling an enthusiastic Georgia crowd that the 2020 election was “rigged,” including in the Peach State —"
+publishedDateTime: 2020-12-06T02:35:00Z
+originalUrl: "https://nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/"
+webUrl: "https://nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/"
+ampWebUrl: "https://nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/amp/"
 type: article
-quality: 190
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c997284-a2ad-47fe-8a05-dd9d47ff0bf6/bed80447-4fdb-48ff-a8f2-52976986e621/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/donald-trump-2.jpg?quality=90&strip=all&w=978"
+    width: 978
+    height: 652
     isCached: true
 
 related:
@@ -76,6 +73,22 @@ related:
     quality: 190
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden gets boost from Wisconsin recount that cost Trump $3M"
+    excerpt: "President-elect Joe Biden picked up 132 more votes after an election recount in Milwaukee County, among the two places in Wisconsin that President Trump spent $3 million to force a recount."
+    publishedDateTime: 2020-11-28T17:48:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZU6vMKqo9G0/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gets-boost-after-wisconsin-recount-that-trump-paid-3m-for.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c997284-a2ad-47fe-8a05-dd9d47ff0bf6/bed80447-4fdb-48ff-a8f2-52976986e621/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -463,22 +476,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "President Trump urges Georgia to turn out for Senate runoff election"
-    excerpt: "President Trump delivered his first stump speech since Election Day Saturday night, telling an enthusiastic Georgia crowd that the 2020 election was “rigged,” including in the Peach State —"
-    publishedDateTime: 2020-12-06T02:35:00Z
-    webUrl: "https://nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/"
-    ampWebUrl: "https://nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/trump-urges-georgia-to-vote-in-senate-runoff-election/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/donald-trump-2.jpg?quality=90&strip=all&w=978"
-        width: 978
-        height: 652
-        isCached: true
   - title: "President Trump visits Valdosta, Georgia for first post-election rally"
     excerpt: "His re-election campaign may be over, but President Trump still can’t resist a rally. The president and First Lady Melania Trump head to Valdosta, GA, Saturday to stump with Republican Sens."
     publishedDateTime: 2020-12-05T18:02:00Z
@@ -631,6 +628,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "8MdpPwDHLZNGRgDWdnR/PMztbkW+nYgf1McdsZ4JEXijDOH2z7IZHWEtWD9IRv9i2dkkd+S4maW/Xz2cQ0oM3yYQMpPNZOy0FByCbtTG38/QUj5+u6uuUV/2xTkD4W2IA5AYoq7/NGIASHGPBYF53KT8Pj60ZbP/tK51NbO+Q6oOOfM2dJ39A1Cp8hMTqhGX68T5z0EJcBtpm9/q227eMDFK/Sm7kTroP75FtQwCd1wQ2DNTcCHFXIaXNay0JQUEKGQpDQHJUxP3rCWcWsJ6pgksIBaCFShErdI+01fTPFlCIWucOPD3BSJwCGk2mB62bIR/xSEg1aXUoj19g+kV0Tp3EbKMIB+XYuICytXhbr8=;j0beMjWEN9iNSDWMSeOtZw=="
+secured: "t7d7RZiqm8vjlzd0X2TsIkQUeEWPHS8tuL/wBV3qUC4KvmueB4ogWDbrck0gyOOc6spzA2AEhWJh8nfyczqFbxGU0Uq/Qwu2pADOgoSQvRuMilja0CXldNItFfyrv3CgRXiqTNLynHViBEEBx0wgXnG1dKgccPzry18D7/rB4GyhD8PRxcBFFG4a6PptEsL7NyplncmzrkU6EPIu38DQf0xoBfO8BnKQll1NYJ2tFWQwwF7Lo4hCvMWl2Bwj2pmkMrrczhWFRMfvBdXg02zQMCU328ezeB3n7ecTGGEt1mSHcM7Zs9Sv/kuFDgmKVQoI+ULepL353EgqkGJxPUNlfMRgULJE9R5GIJcX1zyqtfk=;Q6MhkpODUZlhXVFXdx8grA=="
 ---
 
