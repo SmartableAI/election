@@ -48,16 +48,18 @@ related:
         height: 558
         isCached: true
   - title: "AP FACT CHECK: Trump floods rally with audacious falsehoods"
-    excerpt: "President Donald Trump flooded his first postelection political rally with complaints rooted in his defeat by Democrat Joe Biden"
+    excerpt: "President Donald Trump flooded his first postelection political rally with debunked conspiracy theories and audacious falsehoods Saturday as he claimed victory in an election he decisively lost. A sampling from his remarks in Valdosta,"
     publishedDateTime: 2020-12-06T04:34:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-floods-rally-groundless-grievances-74564322"
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-floods-rally-audacious-falsehoods-74566007"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-floods-rally-audacious-falsehoods-74566007"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-floods-rally-audacious-falsehoods-74566007"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b7fafea7bd474b10b1c93345564cc233_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_82f489e77d20447783346eb257cc0e16_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

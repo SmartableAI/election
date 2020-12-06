@@ -238,6 +238,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump presses Georgia governor to help subvert election"
+    excerpt: "President Donald Trump’s first political rally since losing the election is meant to boost Republican incumbents campaigning in two Georgia runoffs that will decide which party controls the Senate"
+    publishedDateTime: 2020-12-06T00:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump-Biden transition live updates: New lawsuit seeks to nix Georgia results"
     excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
     publishedDateTime: 2020-11-28T06:28:00Z

@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Kellyanne Conway: 'It looks like Joe Biden and Kamala Harris will prevail'"
-excerpt: "Kellyanne Conway, President Trump’s former adviser, counselor and campaign manager, became his latest ally to acknowledge his days in the White House are just about over during an interview Friday."
-publishedDateTime: 2020-12-05T19:12:00Z
-originalUrl: "https://www.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
-webUrl: "https://www.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
-ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
+title: "Live politics updates: Biden secures the number of electors needed to defeat Trump, become president"
+excerpt: "Biden has the electors to be president; Trump pressures Kemp to get the state legislature to flip Georgia ahead of rally – politics updates."
+publishedDateTime: 2020-12-06T02:28:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2020/12/05/live-politics-updates-joe-biden-donald-trump/3838713001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2020/12/05/live-politics-updates-joe-biden-donald-trump/3838713001/"
+ampWebUrl: "https://amp.usatoday.com/amp/3838713001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3838713001"
 type: article
-quality: 98
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/26/Election_2020_RNC_00324.jpg-809fc_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+  - url: "https://www.gannett-cdn.com/presto/2020/12/05/USAT/6a4ebf24-fc97-4b93-a66a-df1653a6c4d8-GTY_1289457977.jpg?auto=webp&crop=7605,4278,x0,y200&format=pjpg&width=1200"
     width: 1200
-    height: 700
+    height: 675
     isCached: true
 
 related:
@@ -490,22 +493,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Live politics updates: Biden secures the number of electors needed to defeat Trump, become president"
-    excerpt: "Biden has the electors to be president; Trump pressures Kemp to get the state legislature to flip Georgia ahead of rally – politics updates."
-    publishedDateTime: 2020-12-06T02:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/05/live-politics-updates-joe-biden-donald-trump/3838713001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3838713001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3838713001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/05/USAT/6a4ebf24-fc97-4b93-a66a-df1653a6c4d8-GTY_1289457977.jpg?auto=webp&crop=7605,4278,x0,y200&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
     publishedDateTime: 2020-12-02T13:35:00Z
@@ -692,6 +679,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kellyanne Conway: 'It looks like Joe Biden and Kamala Harris will prevail'"
+    excerpt: "Kellyanne Conway, President Trump’s former adviser, counselor and campaign manager, became his latest ally to acknowledge his days in the White House are just about over during an interview Friday."
+    publishedDateTime: 2020-12-05T19:12:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 98
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/26/Election_2020_RNC_00324.jpg-809fc_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Biden, Harris to receive first presidential intelligence briefings"
     excerpt: "U.S. President-elect Joe Biden is scheduled to receive his first presidential intelligence briefing on national security threats Monday as he prepares for his transition into office."
     publishedDateTime: 2020-11-30T12:05:00Z
@@ -796,6 +799,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "BlDiRCnrNoO/9IEkM/6GWPbz5jaTheLYJFORKoIjzRhjL/Q5ZFB7lSAXwLHNigme9nqmbMcvViXn159enY0Ry84Mw5kN1T2HKySeKhXyaGH2J3x8UmsPv9RIEqemV5RhJuZ+vlOlKeEfQGzdexFH1mb/7t/ufEbEF0HOx8HgSedtAXlv6b6cOx2XJUknCjDKlK+ejSMzuEItAUSdtJIaHBs0LApda8NPqfN9UQ/UZPh7sUsWbmDBFCkJShK7C39MVmKkBFyCdhAuhyFy7jzT8iV2GH6QRhqXHSAKKzDl2RfXqfux66GYc9plgI9n/tvFyleHR0U8sbk24L3b+6ioShXjkj5Pnk3yI9r1AtGqkYzVzzezIGjDL3vHFr9NbU8c7n8huUEol93vqbmrbbhxbXfIxGgFCUIEAz1eoK86CYPqCzoVgjjzz3Rj6gkizAJP6KtUH/20YiuXTtRlMM50lkFAtz6cCZls4CNf0Xg+9azV5NjdheeY7s8FYs6KLlViokFELatU9SEq9n1H+TLSxg==;qe04rRLqfIZBV3MGEv7qTg=="
+secured: "REDFRGbO/di+Kh7fqmC10q6HUyzHMGMbLZfGCTE5WGYo48BI4OY1nuzWBPAx7ocbvgKFfwgAGOJUY5P1Z6nBmpTzypiPhjGrEabF2thyBiO6wLuA3xpHv/DE+2afgtmM4p+IJ3Z2x0EH86tgYEkDQnmpW/JhF8SQXaKivBFPMoCGZfvMthnUpkVQNTK3InB2/iJP9vGeH290Da/4TM/imcDsxBNOdqruvggjtlGW1ItEvkssEBkUiOCwzYzOUfIjzsma+WKnFNYRqAvLd6ZqH6VOCO796hz4cDghhwQVnGbx2ydLZSZye0Z1WsLskLmyhB9Qz+Adl6pnAdjQehz2aIQu6GJuC5mHqb6444nyn2Q=;iBsBge3wCaI1lHnoE0ofNg=="
 ---
 

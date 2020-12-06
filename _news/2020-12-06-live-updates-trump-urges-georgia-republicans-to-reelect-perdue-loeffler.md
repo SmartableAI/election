@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Live Updates: Trump says DOJ 'missing in action' during election challenge"
-excerpt: "Follow for the latest updates on the 2020 election legal fight."
-publishedDateTime: 2020-11-30T04:20:13Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QGxQx6bPQ3I/live-updates-trump-says-doj-missing-in-action-during-election-challenge"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QGxQx6bPQ3I/live-updates-trump-says-doj-missing-in-action-during-election-challenge"
-ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp"
+title: "LIVE UPDATES: Trump urges Georgia Republicans to reelect Perdue, Loeffler"
+excerpt: "Follow for the latest updates on the Georgia Senate runoffs"
+publishedDateTime: 2020-12-06T08:36:48Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JyBHwPEZXVI/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JyBHwPEZXVI/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020.amp"
 type: article
-quality: 188
-heat: 468
-published: true
+quality: 174
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +25,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd00b8cb-3654-49f6-a8db-b0fe6e3fb865/6aa8c157-f99d-4b17-8c8c-2f2e6f3af5d7/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64f1a210-dff4-48db-a6f3-62bfd4d76b8c/4152f4df-3684-437a-a048-a5ab0f84ad09/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
 
 related:
+  - title: "Live Updates: Trump says DOJ 'missing in action' during election challenge"
+    excerpt: "Follow for the latest updates on the 2020 election legal fight."
+    publishedDateTime: 2020-11-30T04:20:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QGxQx6bPQ3I/live-updates-trump-says-doj-missing-in-action-during-election-challenge"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd00b8cb-3654-49f6-a8db-b0fe6e3fb865/6aa8c157-f99d-4b17-8c8c-2f2e6f3af5d7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Giuliani says Powell not part of Trump’s legal team after election fraud claims"
     excerpt: "President Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”"
     publishedDateTime: 2020-11-23T04:13:07Z
@@ -110,22 +126,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Coney-Barrett-AP-e1606994039819.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "LIVE UPDATES: Trump urges Georgia Republicans to reelect Perdue, Loeffler"
-    excerpt: "Follow for the latest updates on the Georgia Senate runoffs"
-    publishedDateTime: 2020-12-06T08:36:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JyBHwPEZXVI/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64f1a210-dff4-48db-a6f3-62bfd4d76b8c/4152f4df-3684-437a-a048-a5ab0f84ad09/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trump dismisses DOJ's probe of bribery-for-pardon allegation: 'Fake News!'"
     excerpt: "President Trump on Tuesday dismissed reports that the Justice Department was investigating claims of a bribery scheme involving a possible presidential pardon."
@@ -254,6 +254,6 @@ related:
         height: 500
         isCached: true
 
-secured: "0ZnOLvYE+/YML4yMngYAzPEVOd3JnvfasWNVzWnyk4MXn4C0f1Y58nlDZizpThfWKxlFSc2iBKeC/JIe5r1/tqMgECIIooTKfhRFX/vj8stetwgMaG+dXIHrTu53/wUmqP1XpfTNBUskTJNf7ERIYk/g1sK43rZv9n2S0Lysh5EtlbwlGQjaLm+aeooVWyLePLFac7PqRwHfPl6fJsMCURXJqt1D2i/qXUTptogF+EUeCcEavk2cAacCxxO2z4QvJLAMDIe4CbhOsd8fKNc73l0AwdeswBUp6IyyXjNLALxgUvZtZk7+KAQe7u0By8TfsfN4iRrDL+PnpJlnYTyLXyZqns177XOTzcOff+WovSk=;Vh2MhNLEKNpXWofiWeLNHA=="
+secured: "3kFOGmq6rnS07ssHNfjy3KBM0+maL9OKzjGA6S+kd1ynABgy4GQxsdnaHj0aVF/03daqjFYawD8e3oGQlIcuSAY8bD6gf7LGgkrDYtm5fI+anerbNbAcid7imQr+dVsMPea3/AvJov2jsHthpH8/pEQHAEr9j4TkJMdrhy51iFwGkn7G6x7/a1y/ZZo11h6XzrGnBSuMQQ1oF+j8152ePQ4kNf9tCaqbPg7YDDtJ0ZRe2Qe79zZWwb9sfG276NjwYi2KRggyvfUTTBLX8yPU3axnCDkG1qRQMWI3K4p0UF+bLLnAuKB8oUFJY0VhDWR0Y2dcjAAwyRXipahWdkjg7pqgSU11BQbNWrRRkKh0DwI=;srXJgOD1+nAFTIMrU32/pg=="
 ---
 

@@ -124,6 +124,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "LIVE UPDATES: Trump urges Georgia Republicans to reelect Perdue, Loeffler"
+    excerpt: "Follow for the latest updates on the Georgia Senate runoffs"
+    publishedDateTime: 2020-12-06T08:36:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JyBHwPEZXVI/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-georgia-republicans-vote-senate-runoffs-12-6-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64f1a210-dff4-48db-a6f3-62bfd4d76b8c/4152f4df-3684-437a-a048-a5ab0f84ad09/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump dismisses DOJ's probe of bribery-for-pardon allegation: 'Fake News!'"
     excerpt: "President Trump on Tuesday dismissed reports that the Justice Department was investigating claims of a bribery scheme involving a possible presidential pardon."
     publishedDateTime: 2020-12-02T09:19:56Z

@@ -47,6 +47,20 @@ related:
         width: 808
         height: 545
         isCached: true
+  - title: "We’ve entered into a new era of globalization — no matter what Joe Biden does"
+    excerpt: "Supporters of an open international economy see new hope in Joe Biden’s election that perhaps globalization is not on its death bed after all. But the assumption that Biden will restore robust growth in international trade and investment is misplaced."
+    publishedDateTime: 2020-12-04T11:06:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2021/01/07/weve-entered-into-new-era-globalization-no-matter-what-joe-biden-does/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/resizer/H8nN4ZoaWHxWUviuMDxj3sYgoDM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X5UJMARTS4I6XFUZADJRD4J5FU.jpg"
+        width: 1484
+        height: 990
+        isCached: true
 
 secured: "wiCnrwOtLwZGrIP6KPvIR1JekO4UZ6WYZk/99HD9EeJXZX6SXEGyX0A/pYziJSUYpuRsjR4uF4w6KdzgOtzuF17vqYzZfCE+yI2qPxT6gC5nErrLr0SUL249E5TAMSFLRVllZ1uA69Cu5y821z/0xW4gYzZd3kWURxzi86mtwM6pGKt5Gg9F0vcZQuD5eZefH47hXj1N76zmJwv+eIKSib3LEYfLkiuZN5XareU52rOPdXbw23mL588ghnd24TX8VZaMzYYMMVYJe2wb6Uu1A+DRRI+qC5VITyLUsNUEcXSQIGotx+VCmi9hFV3rI7wNqjIMD+8ZTa0lFfH6Di0iQ9DhoneybYlk4ra8yWDt5yC3roWDboIJH70j/eY4JQ3SGK7ewgS6Zf3bzhQI5fg/P/6Q7r6xCMFgjCPZ8x0+m+I7E6O7SSwXFDKAGXFmL9INJVKSeFgMTD4xXikjQGzYJSqY5t+Ol9Jp6jypfh8qymRr/buV4Is769RaTR51ouOHKQIf066cFKegs2DPLAmeTw==;/Ba1xzkuDWZhuKqqi6aegg=="
 ---

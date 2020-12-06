@@ -477,6 +477,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Live politics updates: Biden secures the number of electors needed to defeat Trump, become president"
+    excerpt: "Biden has the electors to be president; Trump pressures Kemp to get the state legislature to flip Georgia ahead of rally – politics updates."
+    publishedDateTime: 2020-12-06T02:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/05/live-politics-updates-joe-biden-donald-trump/3838713001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3838713001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3838713001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/05/USAT/6a4ebf24-fc97-4b93-a66a-df1653a6c4d8-GTY_1289457977.jpg?auto=webp&crop=7605,4278,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
     publishedDateTime: 2020-12-02T13:35:00Z

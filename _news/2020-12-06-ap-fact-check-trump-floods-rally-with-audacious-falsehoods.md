@@ -1,12 +1,14 @@
 ---
 category: news
 title: "AP FACT CHECK: Trump floods rally with audacious falsehoods"
-excerpt: "President Donald Trump flooded his first postelection political rally with complaints rooted in his defeat by Democrat Joe Biden"
+excerpt: "President Donald Trump flooded his first postelection political rally with debunked conspiracy theories and audacious falsehoods Saturday as he claimed victory in an election he decisively lost. A sampling from his remarks in Valdosta,"
 publishedDateTime: 2020-12-06T04:34:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-floods-rally-groundless-grievances-74564322"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-floods-rally-groundless-grievances-74564322"
+originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-floods-rally-audacious-falsehoods-74566007"
+webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-floods-rally-audacious-falsehoods-74566007"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-floods-rally-audacious-falsehoods-74566007"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-floods-rally-audacious-falsehoods-74566007"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_b7fafea7bd474b10b1c93345564cc233_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/WireAP_82f489e77d20447783346eb257cc0e16_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -62,6 +64,6 @@ related:
         height: 600
         isCached: true
 
-secured: "unyevqgTKpy/nvUweCqW3/Ade9/l/eQb/10i9GFnYJSrwvDKyOti6l2yj7TBofmAyrT80ljKhVR4X2hqhoOiOMt+uCNYMjtthaAN+WNgyVXxJsTbE7n9hpwcOAbscoMW2SuupXhZ1d/ZtPDNN5s2+GGE69AJH1N3Y8AZlKO1zz7BQA21i+ZoqMkW/QMmUbwcOkH/RP86NC2IyDDpHQBCWT8mRcwPIFwWlgIuISMVOH/P+w7d+YTydbYlg9BK7M9T1IgOHsPCyQCDC3dgU3IduxSAOeBFqdCX1uG8h6wsCySip9om3uBVFbvmXfYES2CnjMSQXJWtfNZxZ1u44AtSn868ZeFLb+XF9ZljBsCv1lL5yPcs3yLbzvsjvVKOkIbZUaTzXJB4ILKK62wYStfxShnwmePWIBkRc89N7Xp+/vE+w7phpFj1FUb7ungtrfrXEF0BPq6e+PwdU5LnHtthqbafYZS+4xpQBhg+frrvzoCIlz1m1Iu5tSwzYXDgm9IQ7ZvcRbPBrcyM68VF3UBJjw==;WVpBwFvXMI4YTXlTLWx5Ug=="
+secured: "uwWOR7SWp9pciLpzSTID+LhmTXhk2XfGLjG23VSoNRWP9uhBTnbBokzr8VwiEG7dl7buY/F+Mk9E05gZlHS4LNRwiw4HaCGdUWs/EoeUwQDC0T9OyVs3gMVxafeeiqOFnVt3inzi1S8Th8X5xuYoTHH3RTy8sNkzV5JQv+3SiwgROLvy8+iDfFc160J0xZj8sJUb0qUuMV1/70HuIwhNjaQvrkcBYdL2exUlPJhBoq6QHPRmDDA1ywn3PAMB3r7/nFclMzUyEA23w20ccslHn69EPEkNCuflOrnHyRMFSVVw2mR0Q5BCZAPdKL72Yzvm85iZOKF8yuFQ7HI1tozSsYDmGW+k8Tzr2D+n+VxhWRU=;fiwB62tIMMAJl+yU657/ng=="
 ---
 

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "In fresh blow to Trump, U.S. court rejects Pennsylvania election case"
-excerpt: "A federal appeals court on Friday rejected an attempt by U.S. President Donald Trump's campaign to block President-elect Joe Biden from being declared the winner of Pennsylvania, dealing another significant setback to Trump's bid to overturn the Nov."
-publishedDateTime: 2020-11-28T06:22:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-pennsylvania-idINKBN2872BA"
-webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-pennsylvania-idINKBN2872BA"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2872BA"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2872BA"
+title: "Trump presses Georgia governor to help subvert election"
+excerpt: "President Donald Trump’s first political rally since losing the election is meant to boost Republican incumbents campaigning in two Georgia runoffs that will decide which party controls the Senate"
+publishedDateTime: 2020-12-06T00:09:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201127&t=2&i=1542693700&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAQ167"
-    width: 819
-    height: 545
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NC7L5BBN2AI6XHOWFUAXTGAXDE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "In fresh blow to Trump, U.S. court rejects Pennsylvania election case"
+    excerpt: "A federal appeals court on Friday rejected an attempt by U.S. President Donald Trump's campaign to block President-elect Joe Biden from being declared the winner of Pennsylvania, dealing another significant setback to Trump's bid to overturn the Nov."
+    publishedDateTime: 2020-11-28T06:22:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-pennsylvania-idINKBN2872BA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2872BA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2872BA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201127&t=2&i=1542693700&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAQ167"
+        width: 819
+        height: 545
         isCached: true
   - title: "Joe Biden gains votes in Wisconsin county after Trump-ordered recount"
     excerpt: "Milwaukee recount, which cost Trump campaign $3m, boosts Democratic president-elect days before state must certify result"
@@ -213,22 +229,6 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/c827ea9e-3690-11eb-9699-00d311f13d2d_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/c827ea9e-3690-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-loves-to-win-but-keeps-losing-election-lawsuits/2020/12/04/c827ea9e-3690-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump presses Georgia governor to help subvert election"
-    excerpt: "President Donald Trump’s first political rally since losing the election is meant to boost Republican incumbents campaigning in two Georgia runoffs that will decide which party controls the Senate"
-    publishedDateTime: 2020-12-06T00:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-presses-georgia-governor-to-help-subvert-election/2020/12/05/5b210b16-3757-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -916,6 +916,6 @@ related:
         height: 225
         isCached: true
 
-secured: "4Z8R9k8PnfCX05yNXiGz4+jSTVcAp/SqorgyQxe4aBa1Pjl0T/ZaDKlic6z/p0xhRG/rbhZyGSCtYQssu3gxvtP2uBMvtptvojpAukXykgCWL+4oXez58WFzww7nMHtG0GKNkLrv7VMAtuVBmmtuhvAJRwT+2ojY6oHLWzT03F0LIYWAMpe5ERlmw0lWtHUe1mgbxTnGbk328GFplzqvc6Qu63/7aIWs1zRbEJi0wjUTjnfnzA4vH7QQEZktignOCjtMHzs3Xsos0nGU5pKTUXjXLQHY/uivzdxb8fjTnTxMYs9SWdUBskN+mxl56Y8gBFcOUojaGQ6wcX6xCL2o9m5Mfsdpe7A96OtoAjClWmvCR/hR5qdq8qGszHtvPSQAvA9sbOwqUzFRAKoHhxuJI4/PXyGk/TpCNnD3dWUQgQsmjtuJ0e/IOchN24pIr03xcRhFTCjLCSXwwIh3yI/PiVJt3uXDSntJ52BSb1rVE5FmQHjiW0wTwbFIg2FUvf9VQV0dvWaoNn7x+gyKt3APAw==;4vEk10nSH+U951JKv+2Nvw=="
+secured: "Dln9CAAlMCG/JCHEngbKg69N/3SLL2Yi/JwzcQb9jOOXTCMDlspo6qXifsxX/3xMs0+emGusxCPVogYnTv2Iw6+rPzWDCOuj14yLFdLL+fh0Lv7K+11EWEkTp2SHvo2moncd3RoOtQCd6Dz6ZpEpV14+3jC8L1eAVyyJFrUd8R/pOJD3YohqmR817WTWIoYQBMl514PSCbkFTJfNq3J88VAL0Os46kLO/LB6GIWen+14ztDT+colud5SRDBL4tUgr1stxWDtUK0m2aTCO3/NbNN4zfm1CTbJcenzhozjFAzThBPp1wXXc8q9AOtln7WknowCPwgy9pH3iObnr3r/X4tOzLimsgNycSMmak/c8HM=;qy1rBf6JoRDKnZaFhzhvIA=="
 ---
 
