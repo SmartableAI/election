@@ -319,6 +319,54 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Latest: Trump falsely claims he won Georgia"
+    excerpt: "President Donald Trump kicked off his Saturday night rally in Georgia for Republican Sens. Kelly Loeffler and David Perdue by recycling the falsehood that he won the state"
+    publishedDateTime: 2020-12-06T00:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-trump-falsely-claims-he-won-georgia/2020/12/05/c84bb7f0-375b-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-falsely-claims-he-won-georgia/2020/12/05/c84bb7f0-375b-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-falsely-claims-he-won-georgia/2020/12/05/c84bb7f0-375b-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump presses Georgia governor to overturn presidential vote result"
+    excerpt: "President Trump has fruitlessly pressed Georgia’s governor to call a special legislative session aimed at overturning presidential election results."
+    publishedDateTime: 2020-12-06T00:09:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-05/the-latest-trump-presses-ga-gov-to-overturn-vote-result"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-05/the-latest-trump-presses-ga-gov-to-overturn-vote-result?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-05/the-latest-trump-presses-ga-gov-to-overturn-vote-result?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/08815ee/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5d%2F77%2F9490d32745948290aad90a77213d%2Fbiden-95025.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Trump urges Georgia governor to call special session of state legislature"
+    excerpt: "U.S. President Donald Trump on Saturday called on Georgia Governor Brian Kemp to hold a special session of the state legislature over election results there."
+    publishedDateTime: 2020-12-05T22:26:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-trump-idAFKBN28F0V7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28F0V7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28F0V7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543566578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB40L4"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump's false fraud claims could threaten GOP hopes in Georgia Senate races"
     excerpt: "The president has pledged to devote \"125%\" of his energy to the election he lost, despite the raging coronavirus pandemic."
     publishedDateTime: 2020-12-04T00:42:00Z
@@ -380,6 +428,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/21/81a7d18b-7048-4d17-b82d-971aace7b830/thumbnail/1200x630/182241d14d0784dc2ff695deb6bee018/cbsn-fusion-mike-pence-campaigns-in-georiga-for-senate-runoff-elections-thumbnail-592241-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump heads to Georgia for two Republican candidates while pressing vote fraud claims"
+    excerpt: "U.S. President Donald Trump campaigns on Saturday for two Republican senators in Georgia facing January runoffs, but some in his party worry he may do more harm than good if he focuses on personal grievances over his loss in the Nov."
+    publishedDateTime: 2020-12-06T00:57:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia/trump-campaigns-for-georgias-republican-senators-but-will-that-help-or-hurt-idUSKBN28F0EK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28F0EK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28F0EK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543568731&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB4075"
+        width: 817
+        height: 545
         isCached: true
   - title: "California faces stay-at-home orders, Trump heads to Georgia: 5 things to know this weekend"
     excerpt: "Trump holds rally in Georgia for Republican senators, California faces stay-at-home orders and more things to start your weekend."

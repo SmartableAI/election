@@ -158,6 +158,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump calls Georgia governor for help to overturn Biden's victory in the state"
+    excerpt: "With no clear pathway to re-election, President Donald Trump called Georgia Gov. Brian Kemp on Saturday in an attempt to pressure him to call a special session of the state Legislature in an effort to overturn President-elect Joe Biden's narrow victory in the state."
+    publishedDateTime: 2020-12-05T23:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-calls-georgia-governor-help-overturn-biden-s-victory-state-n1250123"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250123"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250123"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 146
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3415440/200928-donald-trump-mn-0821_d1fac2e4c777a6994293a94f4c45c6d2.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Ivanka Trump deposed Tuesday as part of inauguration fund lawsuit"
     excerpt: "The suit claims the Inaugural Committee made improper payments to the president's Washington hotel during the week of the inauguration in 2017."
     publishedDateTime: 2020-12-03T04:55:00Z
@@ -205,6 +221,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125153328-02-biden-thanksgiving-remarks-1125-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Pentagon denies blocking Biden transition team"
+    excerpt: "Reports found the Pentagon rejected requests from the Biden team to meet with leaders at the National Security Agency and other military spy services."
+    publishedDateTime: 2020-12-05T22:02:00Z
+    webUrl: "https://www.politico.com/news/2020/12/05/pentagon-denies-blocking-biden-transition-443080"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/05/pentagon-denies-blocking-biden-transition-443080"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/05/pentagon-denies-blocking-biden-transition-443080"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/70/1d/911d803844eba8d3b4b91c1375ac/ap20322781084822-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "Nzt+Pb1ry02NNWZcGwsJctD4jsWnZeDUGU6schGW+B1/FcNBj7iO4d623dij/hBSUY/VGDtbJo0bopovcyg4k46v6gU1VAxnsr1wWev+ZCPwAioo38vrYSBeIAoRXHywYJ/dHPkvf0VPSDuKnutpDYomNLdcJkO/go0/X7J4tNQ815qzHEtnqqy5Z4Xwm3jcPYHKug+ca9+qhgnqmyzAAtbtfoYY+elBpmEILUpFiSu9BaHoYfR0iTZtw2iewQGOA6P/xmPoUFmKE2BtSn5bwlStfbetmZRr3wOhB9/VUKfs5yMNhAsLJVw8+zAlUGV3PORi35l22fh51iL5hGZ8H6bcok6XrufRhwGRMuCl6ro=;L1SYutxOLfFIA6nFBSkwsQ=="

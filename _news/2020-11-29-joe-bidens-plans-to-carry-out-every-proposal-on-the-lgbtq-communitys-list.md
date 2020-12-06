@@ -361,6 +361,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden officially secures enough electors to become president after California certifies his victory in the state"
+    excerpt: "California certified its presidential election Friday, officially handing Biden the Electoral College majority needed to win the White House."
+    publishedDateTime: 2020-12-05T02:52:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 102
+    images:
+      - url: "https://www.chicagotribune.com/resizer/xvHs5DmNU-TWtuQsIVRcbg-B8P0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F7CW27NKDBAWFFLEC2ZWZKZBJ4.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President-elect Biden calls on Americans to wear masks for his first 100 days in office"
     excerpt: "President-elect Joe Biden says he wants the American public to wear masks for his first 100 days in office to help slow the spread of COVID-19. Mr. Biden continues to build out his coronavirus pandemic response team,"
     publishedDateTime: 2020-12-04T14:33:00Z

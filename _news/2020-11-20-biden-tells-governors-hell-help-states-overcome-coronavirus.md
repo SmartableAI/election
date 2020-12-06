@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 545
+heat: 565
 published: true
 
 provider:
@@ -147,6 +147,22 @@ related:
     excerpt: "Setting a sharp contrast with President Donald Trump, whose administration began with a fight over the size of his inaugural crowds, President-elect Joe Biden said on Friday he plans a scaled-back event for safety's sake during the pandemic."
     publishedDateTime: 2020-12-05T12:03:00Z
     webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28E38W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E38W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E38W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543536446&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31SN"
+        width: 689
+        height: 545
+        isCached: true
+  - title: "Biden plans scaled-back inauguration to avoid spreading coronavirus in crowds"
+    excerpt: "Setting a sharp contrast with President Donald Trump, whose administration began with a fight over the size of his inaugural crowds, President-elect Joe Biden said on Friday he plans a scaled-back event for safety's sake during the pandemic."
+    publishedDateTime: 2020-12-05T16:35:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-inauguration/biden-plans-scaled-back-inauguration-to-avoid-spreading-coronavirus-in-crowds-idUSKBN28E38W"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E38W"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E38W"
     type: article

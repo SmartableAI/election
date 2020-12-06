@@ -8,7 +8,7 @@ webUrl: "https://www.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-tru
 ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
 type: article
-quality: 88
+quality: 98
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/26/Election_2020_RNC_00324.jpg-809fc_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"

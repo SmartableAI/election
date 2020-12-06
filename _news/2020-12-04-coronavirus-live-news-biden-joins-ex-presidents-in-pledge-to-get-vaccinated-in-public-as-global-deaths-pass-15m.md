@@ -79,21 +79,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "California certifies Joe Biden’s victory, giving the Democrat more than the 270 electors needed to win the White House"
-    excerpt: "California certifies Joe Biden’s victory, giving the Democrat more than the 270 electors needed to win the White House"
-    publishedDateTime: 2020-12-05T00:38:00Z
-    webUrl: "https://www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+  - title: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
+    excerpt: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
+    publishedDateTime: 2020-12-05T05:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 101
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
 
 secured: "GgYeB57aXQm9izRFtw3UJ5Fb5TP5Pf3WoFwnE7dlj3yZ/aknTyS3n0crJzwqGXL8qvdsNzsWwOdqcjvqZfoBdfnh1rReluqgT7DE4NOW6eTZGiV1O+JGT/InjQutKB/bG3tPMC2Vrjq7lSkqfvYhj4+NWZp+rxG7RwdBqojSWhRsStXcsHWTWcqIF/AH5/WVvC2GTecfyTiFuxqaNBdd9h915pzMIn12Sg/GH0HV4I+V3s27XIjDpyxh00xI5IBqvjLGHY9gGVnJs+70pfSNlF/1QSP7r83ON0vrT+HzX8tgA+ipQM8eCTFBrTuaupP3cmmf/3nNHAuEvwqLwUDE58p0ZBJWLe59AIvVdnVoG4RcCn7WYLgrzia5e6746Zj77lfnwKV7450cNfFReuTrNKk7lM9yIOhQ28fKFsCBZQ0bFa98lVl4kHCyQiSCMcfDRRY3hkvAz5+n7JGMqn5vCwxq/pwA5M5kSqyXpcGRiuNBH7SKRJk4UUO+yop58OhdQtStjsxzCk3kVNdLVu7iDw==;RQ3GmA/f9uE6oGgOoWPpQQ=="

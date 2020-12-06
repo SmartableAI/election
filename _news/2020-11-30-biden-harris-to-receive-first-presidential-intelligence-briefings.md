@@ -685,7 +685,7 @@ related:
     provider:
       name: Washington Times
       domain: washingtontimes.com
-    quality: 88
+    quality: 98
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/26/Election_2020_RNC_00324.jpg-809fc_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
         width: 1200

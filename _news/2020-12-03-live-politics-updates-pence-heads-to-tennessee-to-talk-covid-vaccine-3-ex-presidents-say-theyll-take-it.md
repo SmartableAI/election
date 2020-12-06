@@ -77,14 +77,14 @@ related:
     quality: 104
   - title: "Vice President Mike Pence, CDC head discuss COVID-19 vaccine in Memphis"
     excerpt: "The event comes when one vaccine, made by Pfizer and BioNTech, is likely days away from getting the Food and Drug Administration's emergency approval."
-    publishedDateTime: 2020-12-03T00:00:00Z
-    webUrl: "https://www.indystar.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3800763001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3800763001"
+    publishedDateTime: 2020-12-03T08:00:00Z
+    webUrl: "https://www.azcentral.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3800763001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3800763001"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/03/PMCA/bf0a41e8-0c13-46f5-a263-0a1b2442f382-EDIT_W_29033.jpg?auto=webp&crop=4063,2286,x0,y55&format=pjpg&width=1200"

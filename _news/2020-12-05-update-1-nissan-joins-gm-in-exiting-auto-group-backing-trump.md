@@ -63,6 +63,22 @@ related:
         width: 747
         height: 545
         isCached: true
+  - title: "Trump's Save America PAC is raking in donations — what can that money be spent on?"
+    excerpt: "Since November 3, the campaign, Republican National Committee, Trump Victory and Trump Make America Great Again joint committees, and President Trump's new political action committee, Save America, have collected $207."
+    publishedDateTime: 2020-12-05T21:02:00Z
+    webUrl: "https://www.cbsnews.com/news/trumps-save-america-pac-is-raking-in-donations-what-can-that-money-be-spent-on/?ftag=CNM-00-10aab7e"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trumps-save-america-pac-is-raking-in-donations-what-can-that-money-be-spent-on/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trumps-save-america-pac-is-raking-in-donations-what-can-that-money-be-spent-on/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/02/1b2aff86-0030-4f6e-ad59-386903796529/thumbnail/1200x630g2/ae00e73e1d028b5549c484a69354be04/gettyimages-1229807681.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vHMhBSsu3oeUQEzFKgWd2mK5JzEUDXQiTJret5wRzNvDGGbjaGE2Ar6bktY+2mKuXs6C5o25Gi/sfQXEw8LChdCjvg/tFFop5ILoOSxfRO574NPuCa/z6ZDG/W/cGLzGUi7swSwi0qX7/1nWh901brgoIyGlbli4kNCJgd4AifkKzKsrRw7/jnJRKKFnQifLcRFlt96813FCFFhrTQ/+UfJIhSI660eNcOAOhcwb4CdHlrCFOkfLRDrinJTDKkGL+J347FLaWOft1kushcPA+BVOMzpDMxQj4kWvYS/GU0li4STlTi/VdtPeR4oRs7pftrOCANufKLJu5TxMmJJx/GU6HwzkeB5V4hsbY8A9PwA=;Z+pIrLIKiaZbaRqtXLODnA=="
 ---

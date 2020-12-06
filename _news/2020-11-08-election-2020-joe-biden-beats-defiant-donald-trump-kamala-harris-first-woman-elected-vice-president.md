@@ -659,6 +659,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kellyanne Conway: 'It looks like Joe Biden and Kamala Harris will prevail'"
+    excerpt: "Kellyanne Conway, President Trump’s former adviser, counselor and campaign manager, became his latest ally to acknowledge his days in the White House are just about over during an interview Friday."
+    publishedDateTime: 2020-12-05T19:12:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 98
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/26/Election_2020_RNC_00324.jpg-809fc_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Biden, Harris to receive first presidential intelligence briefings"
     excerpt: "U.S. President-elect Joe Biden is scheduled to receive his first presidential intelligence briefing on national security threats Monday as he prepares for his transition into office."
     publishedDateTime: 2020-11-30T12:05:00Z
@@ -674,22 +690,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/6361606734101/2020/1/4ab660c5c81dfba3c4ff40c92454f373/v1.5/Biden-Harris-to-receive-first-presidential-intelligence-briefings.jpg"
         width: 800
         height: 532
-        isCached: true
-  - title: "Kellyanne Conway: 'It looks like Joe Biden and Kamala Harris will prevail'"
-    excerpt: "Kellyanne Conway, President Trump’s former adviser, counselor and campaign manager, became his latest ally to acknowledge his days in the White House are just about over during an interview Friday."
-    publishedDateTime: 2020-12-05T19:12:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 88
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/26/Election_2020_RNC_00324.jpg-809fc_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Biden, Harris get first access to Trump's top-secret President's Daily Brief"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris got their first look Monday at the top-secret President's Daily Brief since winning the 2020 election. President Trump had delayed Biden's access to the PDB,"

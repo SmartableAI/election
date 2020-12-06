@@ -1,22 +1,22 @@
 ---
 category: news
-title: "California certifies Joe Biden’s victory, giving the Democrat more than the 270 electors needed to win the White House"
-excerpt: "California certifies Joe Biden’s victory, giving the Democrat more than the 270 electors needed to win the White House"
-publishedDateTime: 2020-12-05T00:38:00Z
-originalUrl: "https://www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html"
-webUrl: "https://www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/california-certifies-joe-bidens-victory-giving-the-democrat-more-than-the-270-electors-needed-to-win-the-white-house/2020/12/04/2a1a3774-3692-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+title: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
+excerpt: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
+publishedDateTime: 2020-12-05T05:36:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
+webUrl: "https://abcnews.go.com/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
 type: article
 quality: 101
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -96,6 +96,6 @@ related:
         height: 360
         isCached: true
 
-secured: "8pOE+/jWT18TAqv0ty4NzNqAlKuu/6nM3WHoTKV+CPtzmJMBBT602TUA+UwvZrqxIALyrq2uu1FJKSVIyc1499Kuv64EGQjuPMCL+FuX1ODlrvW0ZCGHLteyFtU8zKUb3Ub4pFb6bhKTHklAE8JREINujqtvAtZzCI/htFn72ofZitAw2oAREzK+uqpK47qB3fN5KVts1xoXQ3z7ahj1qQ3a5vvUJIamTOpG7X4NvNPAPPwR/JmsGMPh1++tQOXGqkk6mw892j0l/7hD1iP88nJi0gJKF5nX+VZzI9J4b32wYN2mKqgGPoWKQFgKNH8D7qT1+O62TqHI2wHDVMtqOQJB2YVzylbNOrhjuV49iNk=;U2eqTVRSJFt08dRIGFAPyA=="
+secured: "U7lKWQE0S17SemONlExxdx8yqO4yFNa8koSUNIogt/7bNilHKdP86u1A9Y4YE574ZLPuXzK9u/WU9iVq5gRtp24cYFfQYyaAybJXwkaa28lp5+YKM5yG2TRAspT1M7p/B217i35a66X4z2JhBP42q5bL/gMhsI+QHGxvotA2TRKi9hR5iL92rs8KgRUszaUb+akOnCusI5ca/aZk5WBE9Xw4s/UVeaE3P3vHD8vcEOpYMxKfNMwK07F1Zfa+ej4VVMaDIIaFi3ys3sWFPekoTQacWsu4x+GQyEr6xuFobt+mOB5yMn+JNnJiYL1nk0xoJIlEe8gEPmeR1HCH72PDdQ3+a9TcVmAO8EyBQjIDi+U=;HDoolt6+YWCt73a/lOwgVw=="
 ---
 

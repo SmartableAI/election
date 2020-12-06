@@ -2,19 +2,19 @@
 category: news
 title: "Vice President Mike Pence, CDC head discuss COVID-19 vaccine in Memphis"
 excerpt: "The event comes when one vaccine, made by Pfizer and BioNTech, is likely days away from getting the Food and Drug Administration's emergency approval."
-publishedDateTime: 2020-12-03T00:00:00Z
-originalUrl: "https://www.indystar.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
-webUrl: "https://www.indystar.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
-ampWebUrl: "https://amp.indystar.com/amp/3800763001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3800763001"
+publishedDateTime: 2020-12-03T08:00:00Z
+originalUrl: "https://www.azcentral.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
+webUrl: "https://www.azcentral.com/story/news/2020/12/03/mike-pense-memphis-operation-warp-speed-vaccine-distribution/3800763001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3800763001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3800763001"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -101,6 +101,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "ljf6T6g/EgJqbpGVgbrWtGZ7EsrbBVNBlK3UxsMvigchxip38ObJ52t88ebIjrE2nv9gkO8ZdwCB6ceJ7e3Y8fBglIvGKfORoL1Mbzy/mZWyN+ka+X/A6LmwATZL/z/4FAgqXCXt02KZYnPq7pbl6XgXNH+4RqwDspxbjiIDmSnL0wpgbhetRxVvm3zyL2n2rGUE9yatbYjQE+/uI4jbg1kZIRBcAfky5yA5uNIqZSb7vPEk1aY3TH2ZL5di7EzV0k0gFy4QIdMM/+MVxyYKxOxOeANEiNLzI0XRvS6ZCvXOVRJtI+ubc8XUaaXp9CGmQ+CK9RtSIcAUt6f4Q9RlyPftQ0pOWGUQGmFyUWU+Yq4g7HJpjZFymkPJP29k7rjrd/w8PqJCk7XilMDx2F8QI0bceeIMScOJAbDlZLfR7Qoko42Crw3uH9kRR2x5Bh+1wwHii9LIrzgV0z5MsfWRT2t3ihuh8a72X1btPOOlDmYJtqATHicX+gjT5mK29hTYRUlBSftlPuEYvppwYVEKFw==;uPR271ge3jDJ64fK/A7wmQ=="
+secured: "y2dLaQ8gtLRBh85FqCssD4x7tx5nrRrinMtla4ldozNM50yEJoYI38hk6QlVXYcbY4DIUkhUPEgKDClgby/K37j45XwqPurZHYy1zsHn/2DzpiKu5iCJH/HUUtdjEKIwA3pP9a6p9tNWmWGSmnV6bG7aibmxm9zjchK1xbR2INRVYGQsQl328/fWp5j0eJ22Gpo3kuaHABIVowkJ8JNCARHBkLgLzRLHpS1//1UF0GOLZOVajE7YiDYMHaPASEjncTmlponoZgfEEiBUc7savZnacYkpUOPjVWHznMevA5VXCZmrVoYIq7VbdVe9tdjhvpIGZmwbk+0Fc6dyx4IWgXKRb63iqM5tPdK0v+nFkiU=;0dvv+ITfTo+HGpoK8eG9tw=="
 ---
 

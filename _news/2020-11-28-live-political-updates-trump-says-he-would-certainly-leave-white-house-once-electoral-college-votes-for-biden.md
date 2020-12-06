@@ -585,6 +585,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump fans steadfast at first rally after election"
+    excerpt: "Supporters turned out in Valdosta, Georgia for President Donald Trump’s first political rally since losing the election. The event is meant to boost Republican incumbents campaigning in two runoffs that will decide party control of the Senate."
+    publishedDateTime: 2020-12-05T23:45:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/05/trump-fans-steadfast-first-rally-after-election/3844228001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e4295af7-1dd1-49ac-9a95-9243a83063e3_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Three major developments in President-elect Joe Biden's transition to the White House"
     excerpt: "Since President-elect Joe Biden’s victory earlier this month, President Donald Trump has refused to concede and continues to make baseless claims of voter fraud –– pushing election lawsuit battles across the country,"
     publishedDateTime: 2020-11-29T17:02:00Z
