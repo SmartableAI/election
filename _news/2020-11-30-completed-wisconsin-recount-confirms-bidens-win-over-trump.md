@@ -111,6 +111,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Trump demands to see a list of Congressional Republicans who have acknowledged Biden's election win"
+    excerpt: "A survey published by The Washington Post on Saturday found that only 25 Congressional Republicans have acknowledged Biden's election victory."
+    publishedDateTime: 2020-12-06T11:51:00Z
+    webUrl: "https://www.businessinsider.com/trump-wants-list-of-congressional-republicans-who-recognized-biden-win-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-wants-list-of-congressional-republicans-who-recognized-biden-win-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-wants-list-of-congressional-republicans-who-recognized-biden-win-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 141
+    images:
+      - url: "https://i.insider.com/5fcc996b037cbd00186141d2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Republicans turn to Biden transition as Trump's legal options dwindle"
     excerpt: "Senior U.S. Republicans on Sunday said a transition to a Joe Biden presidency looks inevitable as President Donald Trump questioned whether the Supreme Court would even hear any of the challenges his campaign has vowed to pursue."
     publishedDateTime: 2020-11-29T16:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-wo
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp"
 type: article
 quality: 167
-heat: 1147
+heat: 1167
 published: true
 
 provider:
@@ -96,6 +96,22 @@ related:
       - url: "https://i.insider.com/5fa81e7d1df1d500182197b1?width=1200&format=jpeg"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Trump demands to see a list of Congressional Republicans who have acknowledged Biden's election win"
+    excerpt: "A survey published by The Washington Post on Saturday found that only 25 Congressional Republicans have acknowledged Biden's election victory."
+    publishedDateTime: 2020-12-06T11:51:00Z
+    webUrl: "https://www.businessinsider.com/trump-wants-list-of-congressional-republicans-who-recognized-biden-win-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-wants-list-of-congressional-republicans-who-recognized-biden-win-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-wants-list-of-congressional-republicans-who-recognized-biden-win-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 141
+    images:
+      - url: "https://i.insider.com/5fcc996b037cbd00186141d2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Completed Wisconsin recount confirms Biden’s win over Trump"
     excerpt: "Wisconsin has finished a recount of its presidential results, confirming Democrat Joe Biden’s victory over President Donald Trump in the key battleground state"

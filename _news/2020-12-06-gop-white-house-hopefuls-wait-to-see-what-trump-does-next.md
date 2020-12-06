@@ -1,22 +1,22 @@
 ---
 category: news
 title: "GOP White House hopefuls wait to see what Trump does next"
-excerpt: "Donald Trump's increasingly direct flirtations with running for president four years from now are putting a freeze on the rest of the potential 2024 Republican field"
-publishedDateTime: 2020-12-06T14:51:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
-webUrl: "https://abcnews.go.com/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
+excerpt: "Donald Trump’s increasingly direct flirtations with running for president four years from now are putting a freeze on the rest of the potential 2024 Republican field"
+publishedDateTime: 2020-12-06T13:15:00Z
+originalUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-wait-to-see-what-trump-does-next/2020/12/06/291db16e-37c5-11eb-aad9-8959227280c4_story.html"
+webUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-wait-to-see-what-trump-does-next/2020/12/06/291db16e-37c5-11eb-aad9-8959227280c4_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-wait-to-see-what-trump-does-next/2020/12/06/291db16e-37c5-11eb-aad9-8959227280c4_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-wait-to-see-what-trump-does-next/2020/12/06/291db16e-37c5-11eb-aad9-8959227280c4_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_128395a5a3fa4f5fa8955dd591bc5d74_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -493,6 +493,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump keeps up false claims of widespread fraud at Georgia rally for U.S. senators"
+    excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party feared could end up hurting, not helping, their chances by focusing on his efforts to reverse his own election defeat."
+    publishedDateTime: 2020-12-06T14:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-idUKKBN28F0EF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28F0EF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28F0EF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543574568&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB501B"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump heads to Georgia for two Republican candidates while pressing vote fraud claims"
     excerpt: "U.S. President Donald Trump headed to Georgia on Saturday for a rally aimed at boosting two Republican senators facing January runoffs, but some in his party worried he could end up hurting them by focusing on efforts to overturn his own loss on Nov."
     publishedDateTime: 2020-12-06T04:44:00Z
@@ -705,6 +721,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaigns in Georgia for Republican senators"
+    excerpt: "Rough Cuts Trump campaigns in Georgia for Republican senators. Posted . In a speech to his supporters, U.S President Donald Trump told the chanting crowd that he came to southern"
+    publishedDateTime: 2020-12-06T11:35:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD7VJL5R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201206&i=OVD7VJL5R&r=OVD7VJL5R&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump roils Georgia GOP as party waits to see if presidential visit helps — or hurts — in crucial Senate runoffs"
     excerpt: "The president’s baseless claims of fraud in the November elections have sparked a Republican civil war in the state, where voters will return to the polls on Jan. 5 in a pair of races that will determine control of the U."
     publishedDateTime: 2020-12-03T12:05:00Z
@@ -824,6 +854,6 @@ related:
         height: 630
         isCached: true
 
-secured: "S1MfA+IhQWVml/mJMofXO8XI1lyMtNn7R57+ti28C9CIhmIvTy8z0JaZ7EusfXQcHuHmCCPIAKVP4Vh/70ur2mrTquviA3yz8nwcMHTdAsLOwAFRTN1p8QCLOGq0simKOeKCVwhfZ2gXIypiWHgZNAaB2JsccwBMrFhNfNENs33NRPOw0SRhcaYEFAE+20d4XSruO25k2njo6wCxxfPjPpiOiL2sV/h1tRW07eRHPM6CmeD8BDJlpyWyBjdySZf4yVvbWma60mF45/stAFj8qBMeO+ea7NGNhAo7KRulEFXLOqaiQjr+bAa9kRpBL2GNf+6c3VaIknKw8WzCz2oeb1UxmKDPsa6CKzegAGyp3os=;33VohrFUxkMEOZdm9zEv0A=="
+secured: "x55JyQupGbJO/mwVZ+sYIms88NspbA+ri8cVM6StmpZ4tTJ+SgxmTZvc6XyJpJUbcJ8lmK/3bus/T16jVdcAe0g5K7+lSC3z3rUoqbO7enmJy3WYCFj14cWTS5wnJgWqNWkwxhCDsttqkAU29GK3BpAhUt+X3pxNPIcGlx/Pdz+95i+R9FMQHp4MqJHBiLvxQMk8D/14gOCPfLgx0lHueUlycvYYZClBwUYpQmLPpP/gr2N5X/OG5CsoU7ZFh6jxVybBVMLaxwr+DYM6i1dxc/6BF4Yq40cLTLCPMVT1sh53yD7lUQn/TWYPAaT3xi/xZ18UCEbArMGhAE3diyc/tY6tIwWqpxfsyQFe7kz41g4=;gwbVkQ0AukS27rEZ3yUAAA=="
 ---
 

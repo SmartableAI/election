@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Biden's already more popular than Trump's ever been"
+    excerpt: "Poll of the week: A new Gallup poll finds that President-elect Joe Biden has a 55% favorable rating and a 41% unfavorable rating.\n    \n"
+    publishedDateTime: 2020-12-06T16:48:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WPqpjel5kPY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/biden-trump-popularity-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/biden-trump-popularity-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia Republican officials reject Trump's calls to overturn election results"
     excerpt: "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger, both Republicans, on Monday rebuffed President Donald Trump's calls to overturn the state's election results more than a week after they certified Joe Biden as the winner.\n    \n"
     publishedDateTime: 2020-11-30T19:06:47Z
@@ -460,6 +476,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130728-02-trump-1203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's grip on GOP may be his greatest feat of political wizardry yet"
+    excerpt: "In his over-the-top bombast and grandiosity, President Donald Trump has always evoked one of the iconic characters in American entertainment.\n    \n"
+    publishedDateTime: 2020-12-06T13:35:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a2L6scSwdD8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/donald-trump-post-election-gop-control/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/donald-trump-post-election-gop-control/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201205212306-02-trump-rally-georgia-1205-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1038,6 +1070,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-brieft-pardon/01transition-brieft-pardon-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "If Republicans lose either runoff race, Trump may be risking his long-term political clout"
+    excerpt: "Dany Pletka, Senior Fellow, Foreign and Defense Policy Studies at the American Enterprise Institute, says that President Trump will be to blame if the GOP loses either senate runoff."
+    publishedDateTime: 2020-12-06T16:18:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/if-republicans-lose-either-runoff-race-trump-may-be-risking-his-long-term-political-clout-97212997741"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97212997741"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97212997741"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 125
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/1607267479014_mtp_clip_pletka_201206_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump threatens to veto defense bill over social media rule"
     excerpt: "President Donald Trump threatened to veto must-pass defense policy legislation on Tuesday unless lawmakers agree to repeal a legal shield for social media companies, a move that one senior House staffer called \"a total non-starter\" for Democrats."
