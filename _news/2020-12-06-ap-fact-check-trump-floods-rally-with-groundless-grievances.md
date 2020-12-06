@@ -1,26 +1,34 @@
 ---
 category: news
-title: "AP FACT CHECK: Trump distorts military role in vaccines"
-excerpt: "From the get-go, President Donald Trump has suggested that the military would be central in developing, producing and distributing vaccines for the pandemic"
-publishedDateTime: 2020-11-28T14:34:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/ap-fact-check-trump-distorts-military-role-vaccines-74435789"
-webUrl: "https://abcnews.go.com/Health/wireStory/ap-fact-check-trump-distorts-military-role-vaccines-74435789"
+title: "AP FACT CHECK: Trump floods rally with groundless grievances"
+excerpt: "President Donald Trump flooded his first postelection political rally with grievances rooted in his defeat by Democrat Joe Biden"
+publishedDateTime: 2020-12-06T02:28:00Z
+originalUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-floods-rally-with-groundless-grievances/2020/12/05/c5ddd5fc-376a-11eb-9699-00d311f13d2d_story.html"
+webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-floods-rally-with-groundless-grievances/2020/12/05/c5ddd5fc-376a-11eb-9699-00d311f13d2d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-floods-rally-with-groundless-grievances/2020/12/05/c5ddd5fc-376a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-trump-floods-rally-with-groundless-grievances/2020/12/05/c5ddd5fc-376a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
-quality: 85
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Fact check: Video shows mail waste, not shredded Trump ballots"
@@ -70,22 +78,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541108180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0WZ"
         width: 817
         height: 545
-        isCached: true
-  - title: "AP FACT CHECK: Trump floods rally with groundless grievances"
-    excerpt: "President Donald Trump flooded his first postelection political rally with grievances rooted in his defeat by Democrat Joe Biden"
-    publishedDateTime: 2020-12-06T02:28:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-floods-rally-with-groundless-grievances/2020/12/05/c5ddd5fc-376a-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-floods-rally-with-groundless-grievances/2020/12/05/c5ddd5fc-376a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-trump-floods-rally-with-groundless-grievances/2020/12/05/c5ddd5fc-376a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Fact check: False QAnon claim that Trump secretly watermarked mail-in ballots to prove fraud"
     excerpt: "QAnon followers are pushing the claim that Donald Trump secretly watermarked mail-in ballots to prove fraud. This is false."
@@ -157,7 +149,16 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "AP FACT CHECK: Trump distorts military role in vaccines"
+    excerpt: "From the get-go, President Donald Trump has suggested that the military would be central in developing, producing and distributing vaccines for the pandemic"
+    publishedDateTime: 2020-11-28T14:34:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/ap-fact-check-trump-distorts-military-role-vaccines-74435789"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
 
-secured: "LhRZN1PNZKCTVBFeQUIIousxipHsiqQ2cgPtslQqwoPC+qLMLimkFXhJ+g9FsNjRXM3TP9SLrde8tGK/bYxkg3y2ZyiE68csczAdnO52MbPshfZzLHgPvrv8tOLXlY38uS2i7aW0PtTB40sPWs/pJs1KCkV7dtiZQ2NSD6oY3G0LOH006xL+eGUUfYT8WK0jDJVVQKboUpuCtBtC2E/bjJVWkEsdGaqz31BDzRFcZB5BTkTWmjWZVMZKEWpC2rv4HLY9oHtY7LrNrnyS2zMBV8zhyrWVLTSERtE5v7Fle68iQOozlsEUnqXvtIzY4Vxo4YMo/PJyvht5r6hLuxfOPCk1Byqi5QXDgjvdXx+oI7Y=;vX/Jl1GbTv2P0OgefhqaGQ=="
+secured: "StLVPLLr0Q+4xlvgSFICYhVdA5alj30G+ZiYk1y3gU9cZ5oQ5q7he1AtdwSajkjNs1SMLOAclOSje75/FtUa70TxBpWDNkPkxSzhyy8VovGmwPaMPanqmp7UeQifCONaVc08lrYuwz6ZVgKUdqyZqpLAL4ixIdggcx3BAyQaLUbjnVL8NlB6RU9z/8DXFApektMMYtLu6WrZlv0oiZ90jYtlMpKaMKDy8fMPVmmYS53vkbvy4nvZdZJlKyRi3lps1PeD51ss3lPJCftcviaN09oyQVUc4NZ05NDGXYRpVKjUb+wO7NmwMvHU5qr4OfsgGrADPOaTAr3V7pKY5twlxBlcvIPzJ8+UFyEOLYljouo=;d7fMFnu++DT436eJ0/Enow=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/georgia-state-of-play/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/georgia-state-of-play/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30transition-briefing-trump-cases1/30transition-briefing-trump-cases1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump tells supporters to vote in Georgia runoffs, refuses to accept reality of his loss"
+    excerpt: "\"I've probably worked harder in the last three weeks than I ever have in my life,\" Trump said of his efforts to overturn election results. \"Doing this.\""
+    publishedDateTime: 2020-12-06T03:04:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-tells-supporters-vote-georgia-runoffs-refuses-accept-reality-his-n1250128"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250128"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250128"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_49/3433631/201205-donald-trump-rally-cs-749p_246d6139e50fc8dc90585101a6d0abd3.jpg"
+        width: 2500
+        height: 1554
         isCached: true
 
 secured: "/NjeOeJQHSIOnjr1OyE8HB3d4R8Hmo+4tVJT15QnylQVZmJahVWMOm9N7MMVyQXLxf2DBOl1iP+xlhwgNIbt2jMd45A2/ruFOLxOosWFgdlc11bjMXlrgjLpTirnnE0trBPLxgoQXT8van2CEDYol59KItXc9eQm1gFpyqdO29LzAdB7Jn+ZiuyRne5xOSApUs0MOTAw21YTK3nbvyaX8WPmbq2d0ka08jfRxagr0oxgakOlwEVS59uO99Re++hZ491d1ksJ386mkeSuVfuSrdkE/x/pWdr57iUNu8NRK7E5zES6sl0evjeKEbaNw14fWNF2Ac0Ie2XQw4iQwyRtVA6HEw7qoKTD9y71+G4AXFc=;fRFG/b2vwXkWNEpgKz50hA=="

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden: Covid vaccination in US will not be mandatory"
-    excerpt: "President-elect Joe Biden says Americans won't be forced to take a coronavirus vaccine when one becomes available in the US. (CDC) for the first time urged \"universal mask use\" anywhere outside people's homes."
-    publishedDateTime: 2020-12-04T23:58:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55193939?at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_custom4=A2D6BF8C-3680-11EB-B3A9-C39D4744363C&at_medium=custom7"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55193939"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55193939"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1482/production/_115805250_mediaitem115805246.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Biden picks two former Obama officials to help lead COVID-19 response - Politico"
     excerpt: "President-elect Joe Biden has selected former Obama administration official Jeff Zients to be his White House coronavirus coordinator and former U.S. Surgeon General Vivek Murthy to return in that role,"
     publishedDateTime: 2020-12-03T18:52:00Z

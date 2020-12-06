@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Mnuchin: Trump backs GOP virus relief plan"
-excerpt: "Treasury Secretary Steven Mnuchin says President Donald Trump would sign a proposal for COVID-19 relief funding backed by Senate Majority Leader Mitch McConnell, a scaled-back GOP bill that has already failed twice this fall."
-publishedDateTime: 2020-12-02T18:53:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2020/12/02/mnuchin-trump-backs-gop-virus-relief-plan/3797252001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/02/mnuchin-trump-backs-gop-virus-relief-plan/3797252001/"
+title: "Trump keeps up baseless fraud claims at rally for U.S. senators in Georgia"
+excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party feared could end up hurting, not helping, their chances by focusing on his efforts to reverse his own election defeat."
+publishedDateTime: 2020-12-06T04:06:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-georgia/trump-keeps-up-baseless-fraud-claims-at-rally-for-u-s-senators-in-georgia-idUSKBN28F0EK"
+webUrl: "https://www.reuters.com/article/usa-election-georgia/trump-keeps-up-baseless-fraud-claims-at-rally-for-u-s-senators-in-georgia-idUSKBN28F0EK"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28F0EK"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28F0EK"
 type: article
-quality: 105
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/733f7b7d-bd20-40ea-9e31-6f13eac4e562_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543574568&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB501B"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -397,22 +399,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump keeps up baseless fraud claims at rally for U.S. senators in Georgia"
-    excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party feared could end up hurting, not helping, their chances by focusing on his efforts to reverse his own election defeat."
-    publishedDateTime: 2020-12-06T04:06:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia/trump-keeps-up-baseless-fraud-claims-at-rally-for-u-s-senators-in-georgia-idUSKBN28F0EK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28F0EK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28F0EK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543574568&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB501B"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump campaign, GOP raised at least $170 million since Election Day pushing baseless election fraud claims"
     excerpt: "Since Election Day, President Donald Trump’s campaign has raised over $170 million -- much of that money has gone to retire campaign debt and to fund Trump's new PAC."
     publishedDateTime: 2020-12-01T23:49:00Z
@@ -601,6 +587,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mnuchin: Trump backs GOP virus relief plan"
+    excerpt: "Treasury Secretary Steven Mnuchin says President Donald Trump would sign a proposal for COVID-19 relief funding backed by Senate Majority Leader Mitch McConnell, a scaled-back GOP bill that has already failed twice this fall."
+    publishedDateTime: 2020-12-02T18:53:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/02/mnuchin-trump-backs-gop-virus-relief-plan/3797252001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/733f7b7d-bd20-40ea-9e31-6f13eac4e562_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Georgia Senate Runoffs Lure Possible 2024 GOP Hopefuls, Including Trump"
     excerpt: "The president is set to campaign in Georgia this weekend as he weighs another run in four years. That could upend the ambitions of several other Republicans visiting the state recently."
     publishedDateTime: 2020-12-04T09:01:00Z
@@ -776,6 +776,6 @@ related:
         height: 630
         isCached: true
 
-secured: "LSK12TGnGkUW3/xNCgHnzFt/uUgnmi8bQBNkfbhswuAvaywTYCAEWwrr98X71+e6wl7LBWG+o+UYTfiEgImU9nxXKgRS1l9u8Tqqc2PoPCeJvIkqRNEOoU3vgNttthJaAXJrFZ+xDkk6yjS33M7o0dOvdcpw7LYVQGdTgiaMyYEiNG7w4u7nKo7JL634q5JZ+dkN4PMSATPpFAYOFG++i6QIZaRIUO/lAwAI6bHsqI+tI/ljbCQTorwFTRqIXma6TJJqgh8G3yscUvh42vEeY2dGCt018TBJPWpqZOYzB4OeCDbqoGU1G450B4SmQGPwnFvMbjeKZgfquqyEDW8VqrrQkyTd4Tomxs1hKHQkHZ+jjRQfmM711JXC/SHfELIIkisRrS0E2AtaW080jDjRhhVSEyRBXfr9tHxQiN5qYW1uAPFLa5EA1zXYEb6welJW7omildFxN1iaIqNbRoeGY0KCKXM2LeyFQOMBgu/yGCPzp7zSe4F07npdk2m+VzEEImf/tObRoiLRVCAN+v1p5w==;msy7xuTnd3/6I4kd3MNWhQ=="
+secured: "bBQPVvMqCtKM6qZWBgTsac8JraQgBmikyZz9deZPKYL1LBD1A8cB6VPAGs0VZkG2kjngJr+NDRLhSVFkghRF3fDA/fvtNVRCSMQ5A30PNptGhVhN7s/jMICVBcKhuWwBcncHKGRZbF00gYZDDtyeSSyA1GWPOqt/E93chn+XzYmTe9kFqB5U6B2OuSg1IzwezEHZ+D3BDs0AI2YuiyjIaMoS0CpbNzBuwkXTJqtDWUijlhMEbpFTeNMq811q39J5xjtIjk8Ot6+E4Kq7k/oxuRi7kzLRdo+332J9XqIxGl9YpNswQb3a8l3EIBrO8tZQdD+/1IKYLvUk4Tp4qeQsodhij/nPdfXQ/X+huYseSlg=;QsAX2K8z85kTNhhDMxwRKw=="
 ---
 

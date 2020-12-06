@@ -47,6 +47,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AP FACT CHECK: Trump floods rally with audacious falsehoods"
+    excerpt: "President Donald Trump flooded his first postelection political rally with complaints rooted in his defeat by Democrat Joe Biden"
+    publishedDateTime: 2020-12-06T04:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-floods-rally-groundless-grievances-74564322"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b7fafea7bd474b10b1c93345564cc233_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "GNXtEMONnMalPxQF+gJXrOHzts+umiFsDqPw27Wl/wAJErmlUcHhiGsjIaAGn5iQnRD2Dge6G/PyRLQuqzOk/MQD1UpoPcI+UE09u7s9cYSbywTTSlVu2s8uuPtbrbCgIrFrUD3NbpyUIxNNAMRRatWLuqEbQg3Q0nTjUIFKElaoYtW/4A+J5sRvz+N8sGKDrcWzXLECkdSMxqTzt8572OkIuiEmx7BmxXKB+ttn2OqnI9o9sBVRkyZNJE6iMlZNOZAYK/dZ1zKQLnhJUTvCsAelxl4isTAtxw6Av3iC6e8sOV76Y47cxWrUyTLD9/Y/+oxvgGHO6ofOBKmMMbdC+VdVCAyVURiBR3L5JeYpjTzMviEhYU4KyL76uLT0DllsG2b2VpkLMpmKq9gvqVm1M8rctvA1BK0q0xDTXtp9+R/WZQZGTFcKKSamh7JRiFdyD5cNRY1UM9CCCpn60r2vjoiiq0FVLbrYFBYv/oU/LQCgyrzR+UnlemEaPnIr2Rq/MJ8/7W8zkYKKL/gXwRARBQ==;Psxjt962xNP/7vs7lpM9yQ=="
 ---

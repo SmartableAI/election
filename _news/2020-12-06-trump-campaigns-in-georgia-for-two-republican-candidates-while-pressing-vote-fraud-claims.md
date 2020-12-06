@@ -399,6 +399,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump keeps up baseless fraud claims at rally for U.S. senators in Georgia"
+    excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party feared could end up hurting, not helping, their chances by focusing on his efforts to reverse his own election defeat."
+    publishedDateTime: 2020-12-06T04:06:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia/trump-keeps-up-baseless-fraud-claims-at-rally-for-u-s-senators-in-georgia-idUSKBN28F0EK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28F0EK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28F0EK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543574568&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB501B"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump campaign, GOP raised at least $170 million since Election Day pushing baseless election fraud claims"
     excerpt: "Since Election Day, President Donald Trump’s campaign has raised over $170 million -- much of that money has gone to retire campaign debt and to fund Trump's new PAC."
     publishedDateTime: 2020-12-01T23:49:00Z
@@ -540,6 +556,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543447796&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30NU"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump presses his own grievances over losing the presidential race at Georgia rally for Republican senators facing runoff election"
+    excerpt: "Trump spread baseless allegations of misconduct in last month’s vote, even as he pushed supporters to cast ballots for a pair of Republican Senate candidates."
+    publishedDateTime: 2020-12-06T04:18:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-georgia-rally-20201205-zm3tnrk6crb7jegwhyrd723lfu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-georgia-rally-20201205-zm3tnrk6crb7jegwhyrd723lfu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-georgia-rally-20201205-zm3tnrk6crb7jegwhyrd723lfu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 110
+    images:
+      - url: "https://www.chicagotribune.com/resizer/_ezZ-C7LaTkE2cMNaCG08IIpOD0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VWJMRQS2OTX7JQWEOM5DUR3RFA.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump heading to Georgia ahead of Senate runoffs"
     excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
@@ -744,6 +776,6 @@ related:
         height: 630
         isCached: true
 
-secured: "e5trPx+0kcNreGEfCS3D/WCosylOOQmGGjRfol4t1guOBLy//00vtjz/48Jn80SBFb4XPGVRj8T0L2vpUwGdjz/KXIOnMs5opzy2hgSO3nowyPYbPcvtBDVRPR3iUFT1ysAWifZaX2CGF9ghAbOOlnZIZPYfETWBrJrE142DQeoUbjgPqGj/eoEYfO87EzlzIeSqtW3bX6qEbKebhZfb0C8hm0AosgW7As1803fJeBHSMMN5dS/Pf7EomCXWUGf2UqAOLkMkU0s9Jmzn2CCPKGgjyPeBnI5+STHaxxEF45CCNn7bQNSvkjQuBJBAu8lXGtzbL0fqBLXCvWgeqiHax4ppoVQmJEtmEkTjc2pbryQ=;rLVaKGe9LzyWK6sYSswalg=="
+secured: "mglj9VCmWm05chIaOfTo19zx1GwW5GWLBHDjMKRiU6h0pH/bRddCx4pM0zG72cf3bvEuMXP8JfJQleh6956nbdwNPliJhVZzC6j9QaQL2dqm4O3DZNRMnIB00YzoBDRH9CvmuXK+wRVmN4BWUjQJpupnuPfMfFye2UZ0lcOlnsmSn5YDyM31GxMnFsSrwKHN1tzZHkL+uISBBELEGX22xuAPqRuzUeH45+qY/9JC7LGrvCWwh4onB9hoSZrZweLy55LOStYBJy4znqX8t7JfTy/ao+irzaHTph/ydyVShLn25MNEsdCjQtDWnmeff6aUzIos7+FQ3wKOwlBiTHi8weaNrvBiFtyYpm4uibNJx1lSwFvlX2oZAJ9bxX+gaVqU7xoofYBkoZxtwdP7fbLPHBttp9H4gVXQyZ2uMSGfQwYZc7y7LnH9Uluox184PGkLYA5SptWRF7qdvsXNFvUNTRmU3UWZeV8bCcqgIvgSbmPXZa7TVbqteUZJ0BdraEHHu5THeis06jzGjPwlpE2aFQ==;0SVoowxUM1JoVodptLiqxw=="
 ---
 

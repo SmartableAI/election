@@ -399,6 +399,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump keeps up baseless fraud claims at rally for U.S. senators in Georgia"
+    excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party feared could end up hurting, not helping, their chances by focusing on his efforts to reverse his own election defeat."
+    publishedDateTime: 2020-12-06T04:06:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia/trump-keeps-up-baseless-fraud-claims-at-rally-for-u-s-senators-in-georgia-idUSKBN28F0EK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28F0EK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28F0EK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543574568&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB501B"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Live politics updates: Biden plans to campaign in Georgia for Senate candidates"
     excerpt: "President-elect Joe Biden said he would campaign in Georgia, where two Senate runoff races could determine if Republicans retain control of the Senate"
     publishedDateTime: 2020-12-04T23:58:00Z
@@ -540,6 +556,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543447796&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30NU"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump presses his own grievances over losing the presidential race at Georgia rally for Republican senators facing runoff election"
+    excerpt: "Trump spread baseless allegations of misconduct in last month’s vote, even as he pushed supporters to cast ballots for a pair of Republican Senate candidates."
+    publishedDateTime: 2020-12-06T04:18:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-georgia-rally-20201205-zm3tnrk6crb7jegwhyrd723lfu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-georgia-rally-20201205-zm3tnrk6crb7jegwhyrd723lfu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-georgia-rally-20201205-zm3tnrk6crb7jegwhyrd723lfu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 110
+    images:
+      - url: "https://www.chicagotribune.com/resizer/_ezZ-C7LaTkE2cMNaCG08IIpOD0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VWJMRQS2OTX7JQWEOM5DUR3RFA.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump heading to Georgia ahead of Senate runoffs"
     excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."

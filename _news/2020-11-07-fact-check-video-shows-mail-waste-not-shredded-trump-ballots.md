@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M25L"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M25L"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541108180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0WZ"
         width: 817
         height: 545
+        isCached: true
+  - title: "AP FACT CHECK: Trump floods rally with groundless grievances"
+    excerpt: "President Donald Trump flooded his first postelection political rally with grievances rooted in his defeat by Democrat Joe Biden"
+    publishedDateTime: 2020-12-06T02:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-floods-rally-with-groundless-grievances/2020/12/05/c5ddd5fc-376a-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-floods-rally-with-groundless-grievances/2020/12/05/c5ddd5fc-376a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-trump-floods-rally-with-groundless-grievances/2020/12/05/c5ddd5fc-376a-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Fact check: False QAnon claim that Trump secretly watermarked mail-in ballots to prove fraud"
     excerpt: "QAnon followers are pushing the claim that Donald Trump secretly watermarked mail-in ballots to prove fraud. This is false."

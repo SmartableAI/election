@@ -64,6 +64,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump tells supporters to vote in Georgia runoffs, refuses to accept reality of his loss"
+    excerpt: "\"I've probably worked harder in the last three weeks than I ever have in my life,\" Trump said of his efforts to overturn election results. \"Doing this.\""
+    publishedDateTime: 2020-12-06T03:04:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-tells-supporters-vote-georgia-runoffs-refuses-accept-reality-his-n1250128"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250128"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250128"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_49/3433631/201205-donald-trump-rally-cs-749p_246d6139e50fc8dc90585101a6d0abd3.jpg"
+        width: 2500
+        height: 1554
+        isCached: true
 
 secured: "bw4z1DBrJ0VSL7NdtuDeCkhXoe0SmTy8C3T0JnljsUJkm/xTzjbFEX4g0Pqt3Lk8w3eIgZr6LwddB7XoUfUjD72PPHURLhhyTi3eeAyYEMyaQUMZfdQMi7eDk4dniA7fQbGAaTNUBJGzqTQD0zv/XPwpBd2FQnb+7oMb0JWx84ZqcA8Ao/BzCm6XxEybS1xeo/BMpyeaaPaleZsYbBenbu3xA/z8x4LgupJVOx7EAOxsdLt/zRx10y9hKg8ZuXAhW4nbVTj0ku1mj7mwrQmXB0imWWb8Y+SK8CYwz/Eww9sH5U8eGxLxYpbZNJNy9uFyulFlUfIqP6EetahTZtKLEXU4c3AW4COJ3bakhZ0ahIQ=;e0ubfNMgJJ7KwPZmth6ZRA=="
 ---
