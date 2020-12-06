@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Trump 'surprised' some congressional Republicans think Biden won election"
+    excerpt: "Follow for the latest updates on the 2020 election."
+    publishedDateTime: 2020-12-06T05:41:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z5a8soicvt8/trump-surprised-congressional-republicans-biden-won-election-12-6-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-surprised-congressional-republicans-biden-won-election-12-6-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-surprised-congressional-republicans-biden-won-election-12-6-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 197
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aaca5c8c-b769-4449-8d7c-92a7aaddc214/9f4dff36-6ba0-49e0-b71b-19d2d47e6c91/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden wins presidential race in Georgia, defeating Trump"
     excerpt: "Biden now has 306 electoral votes."
     publishedDateTime: 2020-11-20T01:19:43Z
@@ -109,6 +125,22 @@ related:
     quality: 190
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e806eeae-f80a-466f-a8c3-c7209c14d158/86067518-0868-454e-9525-020b4623dbbf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump, Georgia governor clash over election results"
+    excerpt: "Follow for the latest updates on Trump's 2020 legal challenges"
+    publishedDateTime: 2020-12-06T05:47:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/es-q1G6XQKA/live-updates-trump-georgia-governor-clash-election-12-6-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-georgia-governor-clash-election-12-6-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-georgia-governor-clash-election-12-6-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/173a5348-d54c-421c-98b5-a78d78786523/a1dd487d-39a4-4368-9cae-e408837c1c58/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

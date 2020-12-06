@@ -3,8 +3,8 @@ category: news
 title: "Trump keeps up baseless fraud claims at rally for U.S. senators in Georgia"
 excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party feared could end up hurting, not helping, their chances by focusing on his efforts to reverse his own election defeat."
 publishedDateTime: 2020-12-06T04:06:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-georgia/trump-keeps-up-baseless-fraud-claims-at-rally-for-u-s-senators-in-georgia-idUSKBN28F0EK"
-webUrl: "https://www.reuters.com/article/usa-election-georgia/trump-keeps-up-baseless-fraud-claims-at-rally-for-u-s-senators-in-georgia-idUSKBN28F0EK"
+originalUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN28F0EK"
+webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN28F0EK"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28F0EK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28F0EK"
 type: article
@@ -126,6 +126,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543523100&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB401N"
         width: 817
         height: 545
+        isCached: true
+  - title: "At Georgia rally, Trump spouts election falsehoods, amplifies old grievances"
+    excerpt: "Trump falsely proclaimed himself the victor of the presidential race at Saturday's rally, his first since losing the election to Joe Biden."
+    publishedDateTime: 2020-12-06T02:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/05/trump-obama-events-heat-up-georgia-senate-races-before-voter-registration-deadline/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/05/trump-obama-events-heat-up-georgia-senate-races-before-voter-registration-deadline/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/05/trump-obama-events-heat-up-georgia-senate-races-before-voter-registration-deadline/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 137
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QACYZSRXNAI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump campaign files election lawsuit in Georgia, suffers more legal defeats"
     excerpt: "Donald Trump's campaign said it filed a lawsuit in Georgia state court on Friday seeking to invalidate the presidential election results there, the latest in a series of legal challenges aimed at reversing his loss that have so far gone nowhere."
@@ -776,6 +792,6 @@ related:
         height: 630
         isCached: true
 
-secured: "bBQPVvMqCtKM6qZWBgTsac8JraQgBmikyZz9deZPKYL1LBD1A8cB6VPAGs0VZkG2kjngJr+NDRLhSVFkghRF3fDA/fvtNVRCSMQ5A30PNptGhVhN7s/jMICVBcKhuWwBcncHKGRZbF00gYZDDtyeSSyA1GWPOqt/E93chn+XzYmTe9kFqB5U6B2OuSg1IzwezEHZ+D3BDs0AI2YuiyjIaMoS0CpbNzBuwkXTJqtDWUijlhMEbpFTeNMq811q39J5xjtIjk8Ot6+E4Kq7k/oxuRi7kzLRdo+332J9XqIxGl9YpNswQb3a8l3EIBrO8tZQdD+/1IKYLvUk4Tp4qeQsodhij/nPdfXQ/X+huYseSlg=;QsAX2K8z85kTNhhDMxwRKw=="
+secured: "hqgYHOBCyQT9GzkWbbJnUVmjTByP8pAQGWH2a9GDbhHy0SEntfXOP1DlYGrUvC4sImxwWHPBi3n6FfzcIHLdpnLUTOGhgVhoysmfgW5O1SHvKz2fWi16HiudPp7fld7qIqLAZZYJjEeVU2kr5aG7le6btoaOOqX0awe8ofeJYqz4rtMqBtDQhjUsnH6f/IamGkz1snHXhCABvVEqnl+j7QQSKwPoAUc18WJ2uG08xPV3eiE9A/AbCAIAYMBxuciQAvNBzH9JJAguTA0UOY/OCYZHZVFD7YcREjLE6yjEaPyhF7Wpl6ZGUY0CNk885DqMXpz9G16YjO3hqO/9/8/XyKr2EF6YTYwsXywSSrzaV3k=;sBrRCFgOtMqLtthxvMP8JQ=="
 ---
 

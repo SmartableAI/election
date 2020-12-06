@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-sen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
 type: article
 quality: 143
-heat: 1103
+heat: 1123
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543523100&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB401N"
         width: 817
         height: 545
+        isCached: true
+  - title: "At Georgia rally, Trump spouts election falsehoods, amplifies old grievances"
+    excerpt: "Trump falsely proclaimed himself the victor of the presidential race at Saturday's rally, his first since losing the election to Joe Biden."
+    publishedDateTime: 2020-12-06T02:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/05/trump-obama-events-heat-up-georgia-senate-races-before-voter-registration-deadline/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/05/trump-obama-events-heat-up-georgia-senate-races-before-voter-registration-deadline/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/05/trump-obama-events-heat-up-georgia-senate-races-before-voter-registration-deadline/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 137
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QACYZSRXNAI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump campaign files election lawsuit in Georgia, suffers more legal defeats"
     excerpt: "Donald Trump's campaign said it filed a lawsuit in Georgia state court on Friday seeking to invalidate the presidential election results there, the latest in a series of legal challenges aimed at reversing his loss that have so far gone nowhere."
@@ -387,7 +403,7 @@ related:
   - title: "Trump keeps up baseless fraud claims at rally for U.S. senators in Georgia"
     excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party feared could end up hurting, not helping, their chances by focusing on his efforts to reverse his own election defeat."
     publishedDateTime: 2020-12-06T04:06:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia/trump-keeps-up-baseless-fraud-claims-at-rally-for-u-s-senators-in-georgia-idUSKBN28F0EK"
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN28F0EK"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28F0EK"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28F0EK"
     type: article

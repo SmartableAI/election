@@ -864,6 +864,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump plays a new Role: campaigner in chief"
+    excerpt: "If I lost, I would be a very gracious loser…. I would say I lost and I would go to Florida and I would take it easy.”"
+    publishedDateTime: 2020-12-06T03:24:00Z
+    webUrl: "https://www.politico.com/news/2020/12/05/trump-new-role-campaigner-in-chief-443100"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/05/trump-new-role-campaigner-in-chief-443100"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/05/trump-new-role-campaigner-in-chief-443100"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ce/c7/0e6cc0734194a6c75fa789f0c486/ap20341081924616-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
     publishedDateTime: 2020-12-01T16:55:00Z
@@ -927,6 +943,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3432571/201202-donald-trump-jm-1031_26037655efec3920d6e2760cd31d74ff.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "'Don’t listen to my friends’: Trump encourages Georgia Republicans to vote"
+    excerpt: "President Donald Trump attends a rally in support of Sen. David Perdue and Sen. Kelly Loeffler on Saturday in Valdosta, Ga. | Spencer Platt/ After a narrow, stinging defeat in Georgia, President Donald Trump visited the state on Saturday stoking the flames of false claims of election fraud and intra-party attacks that threaten to scorch Republicans’ chances of holding onto the Senate."
+    publishedDateTime: 2020-12-06T03:50:00Z
+    webUrl: "https://www.politico.com/news/2020/12/05/trump-rally-georgia-senate-runoff-perdue-loeffler-443077"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/05/trump-rally-georgia-senate-runoff-perdue-loeffler-443077"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/05/trump-rally-georgia-senate-runoff-perdue-loeffler-443077"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/3d/f8/d0e8b96e4de382170de73b63bd1e/201205-trump-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Here's who Trump has granted pardons and commutations to during his presidency"
     excerpt: "The end of President Donald Trump's time in office has been marked by a renewed interest in granting clemency -- both from the President, and from members of his inner circle looking for protection before President-elect Joe Biden assumes office."
