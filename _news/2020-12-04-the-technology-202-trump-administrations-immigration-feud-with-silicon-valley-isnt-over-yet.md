@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Historians sue Trump administration to stop ‘bonfire of records in the Rose Garden’"
-    excerpt: "The American Historical Association and other groups fear President Trump, Jared Kushner, Ivanka Trump and others in his inner circle may not preserve critical records"
-    publishedDateTime: 2020-12-05T12:10:00Z
-    webUrl: "https://www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/"
-    ampWebUrl: "https://www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AORK3MQIWQI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 959
-        isCached: true
   - title: "Supreme Court will hear Trump administration defend controversial Medicaid work requirements"
     excerpt: "Forcing low-income people to work or prepare for employment in exchange for health coverage is an experiment that's been tried in only three states."
     publishedDateTime: 2020-12-04T20:30:00Z
@@ -78,6 +62,54 @@ related:
       - url: "https://i.insider.com/5fca82f3037cbd0018613f11?width=1200&format=jpeg"
         width: 1200
         height: 599
+        isCached: true
+  - title: "Trump administration appoints loyalists Corey Lewandowski and David Bossie to Defense Business Board"
+    excerpt: "The Trump administration installed loyalists on a Pentagon advisory panel on Friday, naming Corey Lewandowski and David Bossie among the new appointees to the Defense Business Board. The appointments were announced along with the removal of other members,"
+    publishedDateTime: 2020-12-04T20:31:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JVMGHMQ7S4I6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "‘Betrayed’ Black asylum seekers say Trump administration is ramping up deportations by force and fraud"
+    excerpt: "ICE uses physical abuse, solitary confinement and false documents to force Black and African asylum seekers onto 'death planes,' The Times has found through interviews and legal documents."
+    publishedDateTime: 2020-11-27T12:13:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 109
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/aa4cd1d/2147483647/strip/true/crop/5785x3778+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2Fc4%2F01af9ef14b14aec3e57f0fd96307%2Ftrump-64946.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Trump administration pushes pay freeze for federal workers, after initially calling for a 1 percent raise"
+    excerpt: "Trump’s early-year budget plan had called for the raise along with proposals to reduce the value of retirement benefits."
+    publishedDateTime: 2020-12-02T21:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZMWMTW3OMI6VNHREW3WFTN36Q.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "s6wAmvuPqMAV5MjvRQqsVXI4b6X1HjTyaUCb3yQHoiAj8rLsp35XLOVm8gRYJ8sXr9ANoBP+5NKvUjYECbno1PnKpwcpB4utqLQqAVoZgkVUushlojKtaPAuX3YUI5wbLrFa1NQfHsqf218SaGROro40kYA8uN1ycosP7f4xelyzbtM7dSYCH0QnVTXkU7KJtV62KRSWCbFJMIr1AK0tD16pnPbqvE2K8gfEbYrYx/EFaobf2dqUd40K35+s5e2Ad4VRJ54PJ/2AThGB5dkAs997RwkQl0YFYB45GW3AjhF3NUU8nYoefMKP1cZtFC3748SIdUayWRGtheETW33A9sYqlWhJtxfYlQtLd11zYgQ=;tK4paqkKIBy2NPqQJCIZVg=="

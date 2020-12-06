@@ -383,6 +383,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "The Trailer: What Trump supporters in Georgia believe"
+    excerpt: "In this edition: The president's election-rejection tour, the wild charges being made in Georgia's Senate races, and the final election of 2020."
+    publishedDateTime: 2020-12-06T22:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/06/trailer-what-trump-supporters-georgia-believe/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/06/trailer-what-trump-supporters-georgia-believe/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/06/trailer-what-trump-supporters-georgia-believe/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NUO4YHBXPQI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
     excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
     publishedDateTime: 2020-11-29T22:12:00Z

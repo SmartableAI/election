@@ -383,6 +383,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "The Trailer: What Trump supporters in Georgia believe"
+    excerpt: "In this edition: The president's election-rejection tour, the wild charges being made in Georgia's Senate races, and the final election of 2020."
+    publishedDateTime: 2020-12-06T22:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/06/trailer-what-trump-supporters-georgia-believe/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/06/trailer-what-trump-supporters-georgia-believe/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/06/trailer-what-trump-supporters-georgia-believe/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NUO4YHBXPQI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump urges Georgia governor to call special session of state legislature"
     excerpt: "U.S. President Donald Trump on Saturday called on Georgia Governor Brian Kemp to hold a special session of the state legislature over election results there."
     publishedDateTime: 2020-12-05T22:26:00Z

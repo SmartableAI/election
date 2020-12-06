@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6341457002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6341457002"
 type: article
 quality: 114
-heat: -1
-published: false
+heat: 214
+published: true
 
 provider:
   name: USA Today
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Historians sue Trump administration to stop ‘bonfire of records in the Rose Garden’"
-    excerpt: "The American Historical Association and other groups fear President Trump, Jared Kushner, Ivanka Trump and others in his inner circle may not preserve critical records"
-    publishedDateTime: 2020-12-05T12:10:00Z
-    webUrl: "https://www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/"
-    ampWebUrl: "https://www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AORK3MQIWQI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 959
-        isCached: true
   - title: "Trump administration pushes out more leading defense advisors as the Pentagon purge continues"
     excerpt: "The removal of members of the Defense Business Board follows the purge of the Defense Policy Board just last week"
     publishedDateTime: 2020-12-05T04:23:00Z
@@ -78,6 +62,54 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LW6IDFBJG4I6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 919
+        isCached: true
+  - title: "Trump administration appoints loyalists Corey Lewandowski and David Bossie to Defense Business Board"
+    excerpt: "The Trump administration installed loyalists on a Pentagon advisory panel on Friday, naming Corey Lewandowski and David Bossie among the new appointees to the Defense Business Board. The appointments were announced along with the removal of other members,"
+    publishedDateTime: 2020-12-04T20:31:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JVMGHMQ7S4I6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "‘Betrayed’ Black asylum seekers say Trump administration is ramping up deportations by force and fraud"
+    excerpt: "ICE uses physical abuse, solitary confinement and false documents to force Black and African asylum seekers onto 'death planes,' The Times has found through interviews and legal documents."
+    publishedDateTime: 2020-11-27T12:13:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-27/black-asylym-seekers-trump-officials-push-deportations?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 109
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/aa4cd1d/2147483647/strip/true/crop/5785x3778+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2Fc4%2F01af9ef14b14aec3e57f0fd96307%2Ftrump-64946.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Trump administration pushes pay freeze for federal workers, after initially calling for a 1 percent raise"
+    excerpt: "Trump’s early-year budget plan had called for the raise along with proposals to reduce the value of retirement benefits."
+    publishedDateTime: 2020-12-02T21:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-fed-pay-freeze/2020/12/02/8daaa8e4-34c3-11eb-b59c-adb7153d10c2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZMWMTW3OMI6VNHREW3WFTN36Q.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "Qvk8QU/ZzolNGEU8yN2N6xEEIhR1Vu3INPs5lm4wKPtuESaQqwObSGdmz5uPKKnUjxxhLN9zyb+obdOijRhWGq7yp9nay07WXH8Hcl94C8jMI031UJdggY+Ru0bIbMKCrJRgmPX1bR7niw3K3pbsv+ircD/PeODcvITT8UjYv7zkMGNp1lsbPXuNGy05hIpQG9eecrMSHaNUV5gX7BoOPu+AgHER+uZymRFFKrbqcrS4sRUjUfPxtTrOy+xWsyCZUMGRM3Xb4DD4ygS+eE731ZMcWAGRvJIYVY6Jni+CnDq+NznjKVOJpY2do41DJaf2jYOrsI+zGxdMpCVg0wpa5j/TtvGb8rmMOU/Gw0wuVnY=;fNvsdhHc15ZSWlzGLi2aYA=="

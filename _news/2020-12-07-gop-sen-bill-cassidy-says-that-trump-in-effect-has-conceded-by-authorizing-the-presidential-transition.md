@@ -383,6 +383,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "The Trailer: What Trump supporters in Georgia believe"
+    excerpt: "In this edition: The president's election-rejection tour, the wild charges being made in Georgia's Senate races, and the final election of 2020."
+    publishedDateTime: 2020-12-06T22:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/06/trailer-what-trump-supporters-georgia-believe/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/06/trailer-what-trump-supporters-georgia-believe/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/06/trailer-what-trump-supporters-georgia-believe/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NUO4YHBXPQI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
     excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
     publishedDateTime: 2020-11-29T22:12:00Z
@@ -884,6 +900,6 @@ related:
         height: 630
         isCached: true
 
-secured: "u3MuHIvARlOqPbeWpunAGdd+aOb11sPcLxM0aDB3znsFci0SY6VNuqiO0qPG4KBGy4/OebfFDwUlS9FiXfBCyGnEN+UAPXXpprinSTwU2FsjEafueSeLxpFBIZuHMLNCJqEan3Jo/rY/XnKliYcyxwDe0m6xh08P+2DRJlYQhokwzIOcdDH1+8L85IhgMxYh3prQz14D2fZUEJd04DsGGVJ4bsNPr+ZwhNVnElnTXn3pxkNt6c7xNWzfSpfWDVahYAh8p1wy/XLczrE9TCjeKw495i5Em6z+7CzGbkLN8++0uYEzdC8gbUg1bwq44mRAt85INjgyNBsPPDMqlX4Pgsb+btCKkISENU1O1ok8jkA=;t8ULakNAqElbRXc4HBycdQ=="
+secured: "1SXsJS/wSsL+UEgw0Bg2VFIi5NVMGp9ePQDPR8NSv+CBJ+pSxQ/fxBT8JGahPNkgGr1oCl1YJLjnhv0mPLdrlU+iDHxWWZv9ReC/NJ77O8Qx26+inarTRWoHmm8PuFAi+MHJmhZbiB4uJ9Nl3Yj0y2PlXwqMKcSJ/Cp3GHcYsKjQs11CbRTzMyqS8gyHGruDnnj4IjrIKNpI6/eR5rAjrh4tg97PyyKa39tUaR/ugfaSbKs/rdwRyza5cIz9MWAc67P97Uz/kuDw+HOr+8XfnX+4sZKuFkxEmUmH8WN83D1Sau6H2OuL/2WQHSZ1w1hj4yj8Q5gcgBGM8T4A6vLoTb/9X3JRs++hitj1BtcQxL+vyWrbLq12wcJWJpISVhQFGgoQwRtO/Ihb5gdvR9tNr3j3LbZiivF4DGC5+IpnJ4qF/JfDbAS6DUtEjb/aUkMQn2GSxY2tashP7oinDIQwsKv101XRhQRydX1YqcKBN6uF1vAMF13dMvb33dMGviHHEeAgzdyziefCFiVLK8TvYw==;Wzt3A88dVLSVs6bckEFKGQ=="
 ---
 

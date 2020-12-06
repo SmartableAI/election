@@ -207,6 +207,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump lawyer Rudy Giuliani tested positive for coronavirus, Trump says"
+    excerpt: "U.S. President Donald Trump's personal lawyer, Rudy Giuliani, has tested positive for the novel coronavirus, Trump said on Twitter on Sunday."
+    publishedDateTime: 2020-12-06T21:19:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28G0T2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543618615&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50IE"
+        width: 823
+        height: 545
+        isCached: true
   - title: "Trump says campaign attorney Rudy Giuliani tested positive for COVID-19"
     excerpt: "President Trump said his attorney Rudy Giuliani, who has been leading efforts to overturn the results of the Nov. 3 general election, has tested positive for the COVID-19."
     publishedDateTime: 2020-12-06T20:53:00Z
@@ -287,6 +303,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump lawyer Rudy Giuliani positive for COVID-19 after wave of lawmaker lobbying"
+    excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, after a wave of travel by the former New York mayor seeking to persuade Republican state lawmakers to overturn the election results."
+    publishedDateTime: 2020-12-06T22:05:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-travel-challenging-election-results-idUSKBN28G0T2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543618615&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50IE"
+        width: 823
+        height: 545
+        isCached: true
   - title: "Trump is said to be livid at Barr, with one official suggesting termination possible"
     excerpt: "President Trump remained livid Wednesday at Attorney General William P. Barr, with one senior administration official indicating there was a chance Barr could be fired — not just for his public comments undercutting Trump’s unfounded claims of election-shifting fraud,"
     publishedDateTime: 2020-12-03T00:22:00Z
@@ -332,6 +364,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IAW7TCUQP5FAVGSQ44D7LNWC7Y&w=1440"
         width: 1440
         height: 810
+        isCached: true
+  - title: "'Get better soon Rudy, we will carry on!!!': Trump tweets that Rudy Giuliani tested positive for coronavirus"
+    excerpt: "Giuliani, who spent the week traveling the country challenging the election results, is the latest close associate of the president to test positive."
+    publishedDateTime: 2020-12-06T21:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/06/trump-attorney-rudy-giuliani-tests-positive-coronavirus/3850967001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3850967001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3850967001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/ad9469e2-a3e6-419c-b96f-c6b66aa56f6a-AP_Election_2020_Pennsylvania.jpg?auto=webp&crop=2960,1665,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Rudy Giuliani talked to Trump about getting a preemptive pardon before the president leaves office, report says"
     excerpt: "Giuliani is the focus of a federal criminal investigation into whether he violated foreign lobbying laws through his dealings in Ukraine."
