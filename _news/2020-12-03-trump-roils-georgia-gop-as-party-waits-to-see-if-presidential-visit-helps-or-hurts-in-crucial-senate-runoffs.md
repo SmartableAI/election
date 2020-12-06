@@ -653,6 +653,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "GOP Sen. Bill Cassidy says that Trump 'in effect has conceded' by authorizing the presidential transition"
+    excerpt: "While the senator has acknowledged Joe Biden as the president-elect, he said Trump's legal challenges should be allowed to play out in court."
+    publishedDateTime: 2020-12-06T20:32:00Z
+    webUrl: "https://www.businessinsider.com/bill-cassidy-trump-conceding-presidential-election-gsa-authorization-biden-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/bill-cassidy-trump-conceding-presidential-election-gsa-authorization-biden-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bill-cassidy-trump-conceding-presidential-election-gsa-authorization-biden-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5fcd23a5037cbd001861420c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump heading to Georgia ahead of Senate runoffs"
     excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
     publishedDateTime: 2020-12-02T02:26:00Z
@@ -750,6 +766,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201206&i=OVD7VJL5R&r=OVD7VJL5R&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Trump travels to Georgia to campaign ahead of Senate runoff"
+    excerpt: "President Trump will host a rally Saturday in Georgia for the two Republican Senate candidates in the state's January runoff. His involvement on the campaign trail comes after the Washington Post reports Mr."
+    publishedDateTime: 2020-12-06T20:06:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-visits-georgia-to-rally-support-for-gop-ahead-of-senate-runoff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/05/83d9f131-87b6-46d6-99fa-55fdb6be3d0d/thumbnail/1200x630/ed8ed65f64f18ed2b0f30f75dfcec66c/cbsn-fusion-pres-trump-visits-georgia-to-rally-support-for-gop-ahead-of-senate-runoff-thumbnail-602167-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Georgia official calls on Trump to condemn threats against election workers: \"Someone's gonna get killed\""
     excerpt: "One of Georgia's top election officials rebuked President Trump for his rhetoric Tuesday after a local elections worker received a death threat. Gabriel Sterling, a Republican, called on the president and Senators Kelly Loeffler and David Perdue to condemn the threats and warned,"

@@ -191,6 +191,54 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Rudy Giuliani has tested positive for COVID-19, Trump says"
+    excerpt: "President Donald Trump tweeted on Sunday. \"@RudyGiuliani, by far the greatest mayor in the history of NYC, and who has been working tirelessly exposing the most corrupt election (by far!) in the history of the USA,"
+    publishedDateTime: 2020-12-06T20:33:00Z
+    webUrl: "https://abcnews.go.com/US/rudy-giuliani-tested-positive-covid-19-trump/story?id=74571847"
+    ampWebUrl: "https://abcnews.go.com/amp/US/rudy-giuliani-tested-positive-covid-19-trump/story?id=74571847"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/rudy-giuliani-tested-positive-covid-19-trump/story?id=74571847"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/rudy-giuliani-file-rt-jef-201206_1607286223261_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump says campaign attorney Rudy Giuliani tested positive for COVID-19"
+    excerpt: "President Trump said his attorney Rudy Giuliani, who has been leading efforts to overturn the results of the Nov. 3 general election, has tested positive for the COVID-19."
+    publishedDateTime: 2020-12-06T20:53:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-06/trump-says-rudy-giuliani-tested-positive-for-covid-19"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-06/trump-says-rudy-giuliani-tested-positive-for-covid-19?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-06/trump-says-rudy-giuliani-tested-positive-for-covid-19?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/3e93524/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0a%2Fbf%2F8b117a3f47aab7a83bd339209959%2Ftrump-75735.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Trump says lawyer Rudy Giuliani has Covid-19"
+    excerpt: "President Donald Trump says his personal lawyer Rudy Giuliani has tested positive for Covid-19. The president wrote in a tweet: \"Get better soon Rudy, we will carry on!\" Mr Giuliani, who has been leading the Trump campaign's legal challenges to the 2020 election results,"
+    publishedDateTime: 2020-12-06T20:53:00Z
+    webUrl: "https://www.bbc.com/news/amp/world-us-canada-55210243"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55210243"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55210243"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2247/production/_115857780_giuliani-gettyimages-1229918573.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Donald Trump releases video statement repeating baseless vote fraud claims"
     excerpt: "President claims electoral system ‘under coordinated assault’ but justice department found no evidence of significant fraud"
     publishedDateTime: 2020-12-02T19:25:00Z
@@ -340,6 +388,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Rudy Giuliani tested positive for coronavirus, Trump says"
+    excerpt: "U.S. President Donald Trump's personal lawyer Rudy Giuliani has tested positive for the novel coronavirus, Trump said on Twitter on Sunday. (Reporting by Jan Wolfe; Editing by Daniel Wallis)"
+    publishedDateTime: 2020-12-06T20:49:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani-idUSL1N2IM0FU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IM0FU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IM0FU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Fired Official Says Correcting Trump's Fraud Claims The 'Right Thing To Do'"
     excerpt: "Christopher Krebs, who led the federal government's efforts to secure the 2020 election, called the operation near seamless despite President Trump's claims to the contrary."
     publishedDateTime: 2020-12-01T09:01:00Z
@@ -370,6 +429,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump Lawyer Rudy Giuliani Tests Positive for COVID"
+    excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for coronavirus. The president confirmed in a Sunday afternoon tweet that the former New York mayor had tested positive."
+    publishedDateTime: 2020-12-06T20:48:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-06/trump-lawyer-rudy-giuliani-tests-positive-for-covid"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-06/trump-lawyer-rudy-giuliani-tests-positive-for-covid?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-06/trump-lawyer-rudy-giuliani-tests-positive-for-covid?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "1pw5jJEiXyfuf/I3AKi6gbiet/EH9IHCrQJ7eYWnwUQZdRl5ArK4OfAGEQQqMJ0QVTAYki9kVRozwiyo/L3lsEP7tGKjy8zWmemGc4RJW4MS+6md3dJuzCIGeWleSCuSBQfqcMT9fHIBdFGxyxAeS/YhLgfNPz+Ty1Rpl0rGuZGYUPYvdpGJwudzCV0FDwmyY8RR0g9ax72PcP1yeYI7fobfKD/EzpVxQqzJieapR0kbTILPzmlcw1H7VcYNLoHUmcS+IzwYktUWy9Z52IalbXVRZ35P+GmYA8msGlBrqbgjmD8V/1TVwIe0qftj4uODCee+IFL0fFq9mm4Xapq8ADtrR/k3vc/oJjtqYaxhaZogPwAWLBszitvAUGUZIhC0YOmYfU5mXX2CkDxwYKQN0vUObkg/KIzyFUd0CbHNUoeFvKc4tD7Au6K9mQ5t4PychW+uzklKlo+71P5xw2OABddoKfpbgW8USLVTPku5FF+/wkttRSRu+FsQhPUWqhA6qh6lhtoXLMqZEgilvHuZsA==;WiyzilxNaA4qlAgdcjVzxA=="
 ---

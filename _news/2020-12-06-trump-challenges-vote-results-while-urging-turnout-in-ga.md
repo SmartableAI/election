@@ -265,6 +265,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump tactics to overturn election could have staying power"
+    excerpt: "Even after he exits the White House, President Trump’s efforts to challenge the election's legitimacy and seeking to overturn the will of voters may linger."
+    publishedDateTime: 2020-12-06T20:15:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-06/trump-tactics-to-overturn-election-could-have-staying-power"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-06/trump-tactics-to-overturn-election-could-have-staying-power?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-06/trump-tactics-to-overturn-election-could-have-staying-power?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/449931e/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8a%2Ffe%2F24b4afe048febb2ca4d403c31e0c%2Fla-photos-1staff-523655-me-0411-coronavirus-saturday-003.IK.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump-Biden transition live updates: New lawsuit seeks to nix Georgia results"
     excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
     publishedDateTime: 2020-11-28T06:28:00Z

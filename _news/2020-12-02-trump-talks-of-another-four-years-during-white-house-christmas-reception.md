@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Rudy Giuliani tests positive for coronavirus, Trump says"
+    excerpt: "Rudy Giuliani, the personal attorney to President Donald Trump, has tested positive for Covid-19, Trump announced.\n    \n"
+    publishedDateTime: 2020-12-06T20:42:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qe7R554dAOY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/rudy-giuliani-coronavirus-positive/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/rudy-giuliani-coronavirus-positive/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119151558-rudy-giuliani-press-briefing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump invites Pennsylvania GOP lawmakers to White House after calling in to baseless voter fraud event"
     excerpt: "President Donald Trump's planned trip to join his attorney Rudy Giuliani in Gettysburg, Pennsylvania, on Wednesday has been canceled, two sources familiar with the matter tell CNN.\n    \n"
     publishedDateTime: 2020-11-25T23:38:59Z

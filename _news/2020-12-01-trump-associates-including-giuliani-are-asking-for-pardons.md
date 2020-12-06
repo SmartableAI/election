@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/trump-rudy-giuliani-pard
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/trump-rudy-giuliani-pardons/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201143231-01-trump-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Rudy Giuliani tests positive for coronavirus, Trump says"
+    excerpt: "Rudy Giuliani, the personal attorney to President Donald Trump, has tested positive for Covid-19, Trump announced.\n    \n"
+    publishedDateTime: 2020-12-06T20:42:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qe7R554dAOY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/rudy-giuliani-coronavirus-positive/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/rudy-giuliani-coronavirus-positive/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119151558-rudy-giuliani-press-briefing-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

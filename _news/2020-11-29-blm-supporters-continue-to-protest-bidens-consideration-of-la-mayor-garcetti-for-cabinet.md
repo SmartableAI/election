@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden campaign coordinated with left-wing Facebook pages to channel Democratic 'anger': report"
+    excerpt: "The Biden campaign may have largely relied on positive messaging on its official social media, but it also coordinated with \"aggressive anti-Trump\" Facebook pages that acted as a \"rapid-response brain trust for the campaign,\" The New York Times tech columnist Kevin Roose wrote Sunday."
+    publishedDateTime: 2020-12-06T18:54:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zOguIMkn7rI/biden-campaign-facebook-pages-content-digital"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-facebook-pages-content-digital.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-facebook-pages-content-digital.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20336659224888-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "GKabaJ/duaS2KChGf9tgOWPZhTDttZ/QTKz2G1rOijDkbUTJfckfTKc54qIYsjzshfv8YF+W3Q6HEJS1Ts8XJZi4cSDS/+N17HVl8ArBWOxEBnYaaWYS84kLRq78hxch3OunerEWU6v0km9G/Fe3lkhXQNHM1hXimC+31JumEteqSnhwh8aNxsg5D2PhGVshbF4cOh4TkKgG3GGDnrzadcjfnGkIkyltY+3hMh/VJQHdboe8k17+phVAOXomMPtHNcyrU6PoI+K1vOjQL6H3j+qhc3PXnsZUWE7QCe7diLfi2r6Jit+N9A4nsD/SXXy0qLpSlgFKUckYjL/foCpWhMM5v+p+pmIzIvoeECa4B+cwp0oXaGPAt1w3HINsAwoLs9DDG5ZSUtnhey5zi/Aj1nwVSwjIbVJrWMCgxo4yvNU2MbghyaD5MFXDAokrsSTQ874paadjN9rl/dejjfhN5FvkMgeQJj+5O/aiN5TWbe5dxGKcRoM4/nrQuTVN8I5q5Je3NMp0nK+9Xaghvgoidw==;NDVkjs8UiQImvP0Fpxx0QA=="
 ---

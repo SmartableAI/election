@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rudy Giuliani Tests Positive for Covid-19, Trump Says"
+    excerpt: "Mr. Giuliani has been leading President Trump’s effort to overturn the election results."
+    publishedDateTime: 2020-12-06T20:44:00Z
+    webUrl: "https://www.wsj.com/articles/rudy-giuliani-tests-positive-for-covid-19-trump-says-11607286624"
+    ampWebUrl: "https://www.wsj.com/amp/articles/rudy-giuliani-tests-positive-for-covid-19-trump-says-11607286624"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/rudy-giuliani-tests-positive-for-covid-19-trump-says-11607286624"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-269041/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "WjN3dJQACFLfUckDA6cwCMVnk1eFemhGbNJVn50TtOotSSRlhYkj6cbBOszxPUpRMsldshSfUHjUdoSfmHlzeuZk6OK1AMTzJ/C+gsB8LWmsBpLQS+MIGlHEm14rZFJ23ey42ESNPPBQrudlZIsl3Y88N7hneOlRhDRxo0dgOYis20wLTrYuyTV4FWGt0lje45OTws95Kfw7IzEJPT7bc47uqWTFkFKJldEnAv/FiQFzkNOhWEjX0mOaWiRIlwjORq95D5JN8swZMisNTspq2STlSi1Vb2cxvgtdh2wMwDrjfle04mo7GfBpYn1+SK4OgQjd8lnThOH9WqgN1azcg1r8k2VwGUf8YhYKmvJ0EFM=;NSrziEYEwQ/ZmVfXMQx5Rw=="
 ---

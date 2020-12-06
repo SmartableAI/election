@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-07-trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19.md",
+      "title": "Trump tweets Rudy Giuliani has tested positive for COVID-19",
+      "excerpt": "President Trump’s lawyer and former New York City mayor Rudy Giuliani, who has been pressing the case that the 2020 election was rife with fraud, has the coronavirus, Trump tweeted on",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/",
+      "originalUrl": "https://nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/rudy-covid.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/amp/",
+      "publishedDateTime": "2020-12-06T12:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-06-white-house-vaccine-chief-praises-bidens-plan-to-ask-americans-to-wear-masks-for-first-100-days.md",
       "title": "White House vaccine chief praises Biden's plan to ask Americans to wear masks for first 100 days",
       "excerpt": "Moncef Slaoui, the head of the US government's effort to develop a vaccine against Covid-19, on Sunday praised President-elect Joe Biden's plan to ask all Americans to wear masks to curb the spread of the coronavirus, saying the practice is key as the country awaits widespread distribution of the vaccine.\n",
@@ -220,63 +268,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-saturday-night-live-returns-with-weekend-update-segment-mocking-donald-trump-rudy-giulianis-fraud-claims.md",
-      "title": "'Saturday Night Live' returns with 'Weekend Update' segment mocking Donald Trump, Rudy Giuliani's fraud claims",
-      "excerpt": "This week's \"Saturday Night Live\" saw “Weekend Update” returned after a three-week hiatus to mock Donald Trump’s ongoing efforts to prove alleged voter fraud in the 2020 election as well as his personal lawyer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/saturday-night-live-returns-weekend-update-trump-giuliani-fraud-claims",
-      "originalUrl": "https://www.foxnews.com/entertainment/saturday-night-live-returns-weekend-update-trump-giuliani-fraud-claims",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/WeekendUpdate3.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/saturday-night-live-returns-weekend-update-trump-giuliani-fraud-claims.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/saturday-night-live-returns-weekend-update-trump-giuliani-fraud-claims.amp",
-      "publishedDateTime": "2020-12-06T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -1167,7 +1158,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {

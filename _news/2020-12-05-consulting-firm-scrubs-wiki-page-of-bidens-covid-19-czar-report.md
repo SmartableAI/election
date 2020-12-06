@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/consulting-firm-scrubs-wiki-page-of
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consulting-firm-scrubs-wiki-page-of-bidens-covid-czar-report.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9c7e661-973a-421d-9d3c-c492d013a8c8/0f7df908-dfcb-4ff5-a3e7-cb7708020b06/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden campaign coordinated with left-wing Facebook pages to channel Democratic 'anger': report"
+    excerpt: "The Biden campaign may have largely relied on positive messaging on its official social media, but it also coordinated with \"aggressive anti-Trump\" Facebook pages that acted as a \"rapid-response brain trust for the campaign,\" The New York Times tech columnist Kevin Roose wrote Sunday."
+    publishedDateTime: 2020-12-06T18:54:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zOguIMkn7rI/biden-campaign-facebook-pages-content-digital"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-facebook-pages-content-digital.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-facebook-pages-content-digital.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20336659224888-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "BLM supporters continue to protest Biden's consideration of LA Mayor Garcetti for cabinet"
     excerpt: "Black Lives Matter activists protested outside the home of Los Angeles Mayor Eric Garcetti to protest the mayor’s potential nomination to President-elect Joe Biden’s cabinet."

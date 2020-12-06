@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/entertainment/saturday-night-live-returns-we
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/saturday-night-live-returns-weekend-update-trump-giuliani-fraud-claims.amp"
 type: article
 quality: 115
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,24 @@ images:
     height: 320
     isCached: true
 
-secured: "8fL3d1vQMraLisWXBYqohKmv8s5g1AP1N1c8VEUZd58eY0DNg+slyfldyhyR1zSYnMY48oVH0VjxEMloJJAps+5LSq2Yq6d4v+1hQfIRqkdlxpKk/nh0BE6+266exyC4ni6GlcHG3LTEKhZlumn6e7/r38cCuMi6S3Jxbv0JuKHmqWPsEt4cOh4ur9N+aHA15e6OVb3BHBKmn79SZ/3KZM4LeRmU08Mnvo/GwPHU7KpEGxp5T8KhCuA0ZAvk1RCYzw6tTVY6qIeyNMn7Ki1a/5XaQw0EBR+6sZCdDWtarGke36edkR3ePVD8cMEHCH6PiMT7lkLDff/r1ZZ4C7+GDBrIOO3NXxywN+VNoDARkHA=;LHbtyXn3Hdw9SDJnk3xoqw=="
+related:
+  - title: "Trump tweets Rudy Giuliani has tested positive for COVID-19"
+    excerpt: "President Trump’s lawyer and former New York City mayor Rudy Giuliani, who has been pressing the case that the 2020 election was rife with fraud, has the coronavirus, Trump tweeted on"
+    publishedDateTime: 2020-12-06T20:34:00Z
+    webUrl: "https://nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/"
+    ampWebUrl: "https://nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/06/trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/rudy-covid.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "bd4hMXnjEzjXHwMrt6gqbJzSeyJdZkjjJXB+MnzAiWFjkltaQu30DGEbVs4FlXohrk0xU4jnthzCCxnQtdDv3Wwy95Biq0mHQvJFOIQNKZC8DdUQlxi+j66zcZepYEt3xf5HMm8/TfQofuk8UkWukeg4jc3O7YQm2Y8MrerwjOMm9QBEePf26+ULuPXz0V8Lr/CjQJgxUrt6JT8OdEbcfjkorGItuF3TFE9xrzfAC3D/Yeb82bIR2o/CQ4XCdkvRHIjeynJkDwvdVOfzfWCVueb30ucloddP3X0qqLxSw0vyxxCh6X/QGdHYS6WHvnNnm1/8L2XiCEl2qz4j0jGEXZ0ZPlUzRMJdvnuL3h3njgeqEXzLjiUpjHLCqcpIYcyUUuQGEf5VYUMhBz1PSq7j2dhbZuSZ6zDsguvtP8a4fsIv6n5v0TWkNEnYF9vb7FTMu2PsVDiuoDu3vGmD1wMOyfCcqx30BPvGMGYilzMHSBkvm3ZFLQ9GiJUPKQUpoibM5pHq3ou/pQtWtzLmsv77HA==;UkbqGsvKxzYM6oChouvlLA=="
 ---
 

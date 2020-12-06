@@ -351,6 +351,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump announces that Rudy Giuliani has Covid"
+    excerpt: "The president's lawyer has appeared maskless during meetings with state lawmakers in recent days. The meetings are part of the president's push to overturn the election results."
+    publishedDateTime: 2020-12-06T20:34:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-announces-rudy-giuliani-has-covid-n1250163"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250163"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250163"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3433723/201206-rudy-giuliani-jm-1526_276b300fa78aa533d50bc74cae50ef1f.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Appeals court deals Trump-Giuliani Pennsylvania lawsuit yet another blow"
     excerpt: "A federal appeals court Friday rejected the Trump campaign's effort to revive its lawsuit claiming that Pennsylvania officials conducted the election in a way that discriminated against those who voted."
     publishedDateTime: 2020-11-27T19:26:00Z
