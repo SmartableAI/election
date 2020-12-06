@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 605
+heat: 625
 published: true
 
 provider:
@@ -360,6 +360,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/04/e48dcfc6-73e3-4efa-b58d-9075e97f83bf/thumbnail/1200x630/083ca26610c86ced4b158b123bbe1e5e/cbsn-fusion-biden-pushes-congress-to-provide-relief-for-out-of-work-americans-thumbnail-601539-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "U.S. Appeals Court rejects bid to block Biden's GA win"
+    excerpt: "Top News U.S. Appeals Court rejects bid to block Biden's GA win. Posted [NFA] A federal appeals court on Saturday rejected a bid by a conservative lawyer to block President-elect"
+    publishedDateTime: 2020-12-05T21:54:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD7QJZKV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201205&i=OVD7QJZKV&r=OVD7QJZKV&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Joe Biden officially secures enough electors to become president after California certifies his victory in the state"
     excerpt: "California certified its presidential election Friday, officially handing Biden the Electoral College majority needed to win the White House."

@@ -334,20 +334,20 @@ related:
         height: 558
         isCached: true
   - title: "GOP White House hopefuls wait to see what Trump does next"
-    excerpt: "Donald Trump’s increasingly direct flirtations with running for president four years from now are putting a freeze on the rest of the potential 2024 Republican field"
-    publishedDateTime: 2020-12-06T13:15:00Z
-    webUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-wait-to-see-what-trump-does-next/2020/12/06/291db16e-37c5-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-wait-to-see-what-trump-does-next/2020/12/06/291db16e-37c5-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-wait-to-see-what-trump-does-next/2020/12/06/291db16e-37c5-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    excerpt: "Donald Trump's increasingly direct flirtations with running for president four years from now are putting a freeze on the rest of the potential 2024 Republican field"
+    publishedDateTime: 2020-12-06T14:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_128395a5a3fa4f5fa8955dd591bc5d74_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "The Latest: Trump falsely claims he won Georgia"
     excerpt: "President Donald Trump kicked off his Saturday night rally in Georgia for Republican Sens. Kelly Loeffler and David Perdue by recycling the falsehood that he won the state"

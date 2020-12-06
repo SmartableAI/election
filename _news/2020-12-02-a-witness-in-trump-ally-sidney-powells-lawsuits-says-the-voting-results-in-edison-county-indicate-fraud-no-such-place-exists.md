@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/sidney-powell-election-lawsuit-witne
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sidney-powell-election-lawsuit-witness-vote-problems-edison-county-2020-12?amp"
 type: article
 quality: 96
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Sidney Powell's Trump lawsuit is the stuff of 'mythos' and has no basis in reality, said Georgia officials in bid for dismissal"
+    excerpt: "Trump's claims of fraud and malfeasance \"would be extraordinary if true, but they are not,\" the joint filing stated."
+    publishedDateTime: 2020-12-06T16:20:00Z
+    webUrl: "https://www.businessinsider.com/georgia-says-sidney-powell-trump-election-lawsuit-stuff-mythos-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/georgia-says-sidney-powell-trump-election-lawsuit-stuff-mythos-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-says-sidney-powell-trump-election-lawsuit-stuff-mythos-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5fccf3b5eadd8400183df640?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "4xGqOldSMe/bda6csTUSP2gXo+36+WKNyuFpC5fio9lIjBm095zzBmmvYUt48gqf3OawO+zqbIOUS2ykl2Faw8glBqWUJ7PF1LcV8mUyGVh1ER9ACIKp1iJc4IN9C/SwJetDdZxdncfcmXYmSGEfhzfIi5KncwKn8tFFM6I+4oEy/dSfAgb6RAm/tXOyhuGF2Cz8aVyHmRjeKnudJ6RiwUQ8Nrh+8iFpax8C5UQRTl8XAzrcX1gnRfYZcJF7Dv9v812HPMOuN3LhEDra7ToSZoHGPRK0YCmh5PI/wNjhclz7eYMtKLo9CRSpNbFFsN9Rb9tmP5IHXEyjB3bkhzdS87p44aK6D3cJOgQ4rtlESVw=;/VOMBKXIMcWiOtb8T0Aeug=="
 ---

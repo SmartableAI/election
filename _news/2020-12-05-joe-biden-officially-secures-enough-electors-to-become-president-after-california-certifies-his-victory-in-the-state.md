@@ -377,6 +377,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. Appeals Court rejects bid to block Biden's GA win"
+    excerpt: "Top News U.S. Appeals Court rejects bid to block Biden's GA win. Posted [NFA] A federal appeals court on Saturday rejected a bid by a conservative lawyer to block President-elect"
+    publishedDateTime: 2020-12-05T21:54:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD7QJZKV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201205&i=OVD7QJZKV&r=OVD7QJZKV&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "President-elect Biden calls on Americans to wear masks for his first 100 days in office"
     excerpt: "President-elect Joe Biden says he wants the American public to wear masks for his first 100 days in office to help slow the spread of COVID-19. Mr. Biden continues to build out his coronavirus pandemic response team,"
     publishedDateTime: 2020-12-04T14:33:00Z

@@ -2,6 +2,110 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-21-pence-pitches-georgia-senators-as-last-line-of-gop-defense.md",
+      "title": "Pence pitches Georgia senators as last line of GOP defense",
+      "excerpt": "Vice President Mike Pence campaigned Friday in Georgia in support of the state’s two Republican senators and warning of a potential Democratic takeover of Washington in January",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_379847ea0f644970a1858391707aad70_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047",
+      "publishedDateTime": "2020-11-20T16:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-romney-blasts-undemocratic-trump-for-pressuring-republicans-to-overturn-election-results.md",
+      "title": "Romney blasts ‘undemocratic’ Trump for pressuring Republicans to overturn election results",
+      "excerpt": "Romney joined Sen. Ben Sasse (R-Neb.) on Thursday as the only GOP senators to publicly oppose the president, as Trump and his campaign continue lobbing baseless allegations of widespread voter fraud in Michigan and other states.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 250,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4LIIIYRDVII6XHCKBXDCILCICQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp",
+      "publishedDateTime": "2020-11-20T12:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-biden-transition-official-asks-progressives-to-wait-before-they-pass-judgment.md",
       "title": "Biden transition official asks progressives to wait 'before they pass judgment’",
       "excerpt": "Amid criticism from progressive groups over President-elect Joe Biden’s choices so far for top White House officials, a leading Biden transition official on Friday encouraged people to wait to see the full picture of the team the president-elect names and highlighted that the Biden administration would",
@@ -1215,115 +1319,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-pence-on-virus-us-has-never-been-more-prepared.md",
-      "title": "Pence on virus: US 'has never been more prepared'",
-      "excerpt": "Vice President Mike Pence offered an upbeat assessment of the coronavirus situation in the U.S., despite a surge in cases, hospitalizations and more than 250,000 deaths. He spoke at the first coronavirus task force briefing in months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/11/19/pence-virus-us-has-never-been-more-prepared/6349703002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/11/19/pence-virus-us-has-never-been-more-prepared/6349703002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/1b2d795c-256d-4fd7-9029-79fd5463556e_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T16:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-trumps-refusal-to-concede-creates-strange-gap-between-biden-and-harris-on-classified-intelligence.md",
-      "title": "Trump's refusal to concede creates strange gap between Biden and Harris on classified intelligence",
-      "excerpt": "Vice President-elect Kamala Harris took part in a classified briefing of the Senate Intelligence Committee this week and emerged in a strange position -- being more informed about current threats than President-elect Joe Biden but bound by congressional rules to keep that information from him.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ooSwoBiPky0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ooSwoBiPky0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1861,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201116153545-05-biden-harris-economy-remarks-1116-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html",
-      "publishedDateTime": "2020-11-19T16:10:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

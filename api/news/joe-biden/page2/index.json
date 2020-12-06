@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-19-joe-biden-nurse-share-emotional-moment-during-virtual-roundtable.md",
+      "title": "Joe Biden, nurse share emotional moment during virtual roundtable",
+      "excerpt": "President-elect Joe Biden grew emotional during a virtual roundtable after hearing Mary Turner, an intensive care unit nurse, describe her experience on the frontline battling Covid-19. The Minnesota nurse spoke with CNN's Erin Burnett.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201118201002-mary-carter-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
+      "publishedDateTime": "2020-11-18T18:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-nyc-subway-system-faces-steep-cuts-mta-chairman-calls-on-amtrak-joe-biden-to-stave-off-9400-layoffs.md",
       "title": "NYC subway system faces steep cuts; MTA chairman calls on 'Amtrak Joe' Biden to stave off 9,400 layoffs",
       "excerpt": "New York City subways and buses could lose nearly 7,000 jobs amid service reductions of up to 40%. Commuter rail fare increases are also possible.",

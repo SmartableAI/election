@@ -116,6 +116,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-05-vp-pence-confidence-in-vaccine-important-for-us.md",
+      "title": "VP Pence: Confidence in vaccine important for US",
+      "excerpt": "As U.S. deaths from COVID-19 topped 2,800 Thursday, a new daily high, and with more than 100,000 Americans hospitalized with the disease, VP Mike Pence is trying to boost confidence in the vaccines that are awaiting regulatory approval.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/12/04/vp-pence-confidence-vaccine-important-us/3828978001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/12/04/vp-pence-confidence-vaccine-important-us/3828978001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/5f767ab3-426f-4c4e-84db-6b1f98f0c47d_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-pence-says-us-a-week-and-a-half-away-from-likely-approval-of-first-coronavirus-vaccine.md",
       "title": "Pence says US 'a week and a half away' from 'likely approval' of first coronavirus vaccine",
       "excerpt": "Vice President Mike Pence said Friday that the U.S. is “maybe just a week and a half away” from the “likely approval” of the first vaccine to protect against the novel coronavirus.",
@@ -1472,49 +1524,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-mike-pence-heading-to-florida-vacation-island.md",
-      "title": "Mike Pence heading to Florida vacation island",
-      "excerpt": "Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday, according to the Federal Aviation Administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/news/nation/mike-pence-faa-sanibel-1.50061089",
-      "originalUrl": "https://www.newsday.com/news/nation/mike-pence-faa-sanibel-1.50061089",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsday.com/polopoly_fs/1.50061090.1604940614!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/news/nation/mike-pence-faa-sanibel-1.50061089",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/nation/mike-pence-faa-sanibel-1.50061089",
-      "publishedDateTime": "2020-11-09T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

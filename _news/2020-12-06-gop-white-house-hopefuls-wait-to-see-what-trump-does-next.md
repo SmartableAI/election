@@ -1,22 +1,22 @@
 ---
 category: news
 title: "GOP White House hopefuls wait to see what Trump does next"
-excerpt: "Donald Trump’s increasingly direct flirtations with running for president four years from now are putting a freeze on the rest of the potential 2024 Republican field"
-publishedDateTime: 2020-12-06T13:15:00Z
-originalUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-wait-to-see-what-trump-does-next/2020/12/06/291db16e-37c5-11eb-aad9-8959227280c4_story.html"
-webUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-wait-to-see-what-trump-does-next/2020/12/06/291db16e-37c5-11eb-aad9-8959227280c4_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-wait-to-see-what-trump-does-next/2020/12/06/291db16e-37c5-11eb-aad9-8959227280c4_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-wait-to-see-what-trump-does-next/2020/12/06/291db16e-37c5-11eb-aad9-8959227280c4_story.html?outputType=amp"
+excerpt: "Donald Trump's increasingly direct flirtations with running for president four years from now are putting a freeze on the rest of the potential 2024 Republican field"
+publishedDateTime: 2020-12-06T14:51:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
+webUrl: "https://abcnews.go.com/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_128395a5a3fa4f5fa8955dd591bc5d74_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -854,6 +854,6 @@ related:
         height: 630
         isCached: true
 
-secured: "x55JyQupGbJO/mwVZ+sYIms88NspbA+ri8cVM6StmpZ4tTJ+SgxmTZvc6XyJpJUbcJ8lmK/3bus/T16jVdcAe0g5K7+lSC3z3rUoqbO7enmJy3WYCFj14cWTS5wnJgWqNWkwxhCDsttqkAU29GK3BpAhUt+X3pxNPIcGlx/Pdz+95i+R9FMQHp4MqJHBiLvxQMk8D/14gOCPfLgx0lHueUlycvYYZClBwUYpQmLPpP/gr2N5X/OG5CsoU7ZFh6jxVybBVMLaxwr+DYM6i1dxc/6BF4Yq40cLTLCPMVT1sh53yD7lUQn/TWYPAaT3xi/xZ18UCEbArMGhAE3diyc/tY6tIwWqpxfsyQFe7kz41g4=;gwbVkQ0AukS27rEZ3yUAAA=="
+secured: "zDANcCAoBLPH1j+da/cfZCb1i/sQwf1Uih9rwIhH3hbaisc97VEXH6bs2gdMFV8SNtC3vQFuME2eN/hbLcFBeJJKRncaYo0p7v9gN/jXpC8TWXCRNiYuRnGgsbrqz3/6nqwW6iFJruIhP6xEhsOv3D0JE1zewtvJ9xZGstYdMd6QSqyPxFyhEjflJL2D0F0/ff4tr3lAHsQ69/fipILbftMJ342X+lPS+dpTGYtIkKJ/XZuTcO/ggQGEv/BT+wnqh0Irup4lGK+qopZk4eNOMEuX2Fi7BIPJyzx8UUm+yM0XBN9m0SZ/gPMhEHa1+hWxRAcp1U7qo2JXDnEjPkUyw4J3ycbH8+1Tud78o0SehWQ=;onWtVZVkddrx5HmxqInP1A=="
 ---
 

@@ -2,6 +2,170 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-04-trump-administration-must-accept-new-daca-applications-judge-orders.md",
+      "title": "Trump administration must accept new DACA applications, judge orders",
+      "excerpt": "The Trump administration must post a public notice that it will accept new applications for the Obama-era program shielding undocumented immigrants who came to the US as children from deportation, a federal judge ordered Friday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKkg1yjy1Qs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKkg1yjy1Qs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/171116102112-daca-protest-02-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html",
+      "publishedDateTime": "2020-12-04T14:38:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-trump-purges-pentagon-advisory-board-and-gives-seats-to-former-campaign-managers.md",
+      "title": "Trump purges Pentagon advisory board and gives seats to former campaign managers",
+      "excerpt": "President Donald Trump has purged a Pentagon business advisory board and replaced its members with his former campaign manager and deputy campaign manager, neither of whom have served in the military or have any apparent experience with the defense industry.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUnccSYtHPw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUnccSYtHPw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190918092128-corey-lewandowski-newday-09182019-1-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html",
+      "publishedDateTime": "2020-12-04T12:42:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-vp-pence-confidence-in-vaccine-important-for-us.md",
+      "title": "VP Pence: Confidence in vaccine important for US",
+      "excerpt": "As U.S. deaths from COVID-19 topped 2,800 Thursday, a new daily high, and with more than 100,000 Americans hospitalized with the disease, VP Mike Pence is trying to boost confidence in the vaccines that are awaiting regulatory approval.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/12/04/vp-pence-confidence-vaccine-important-us/3828978001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/12/04/vp-pence-confidence-vaccine-important-us/3828978001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/5f767ab3-426f-4c4e-84db-6b1f98f0c47d_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-trump-administration-appoints-loyalists-corey-lewandowski-and-david-bossie-to-defense-business-board.md",
       "title": "Trump administration appoints loyalists Corey Lewandowski and David Bossie to Defense Business Board",
       "excerpt": "The Trump administration installed loyalists on a Pentagon advisory panel on Friday, naming Corey Lewandowski and David Bossie among the new appointees to the Defense Business Board. The appointments were announced along with the removal of other members,",
@@ -1190,170 +1354,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-romney-calls-trumps-leadership-on-covid-19-a-great-human-tragedy.md",
-      "title": "Romney calls Trump's leadership on Covid-19 'a great human tragedy'",
-      "excerpt": "Republican Sen. Mitt Romney on Thursday blasted President Donald Trump's leadership -- or lack thereof -- during the deadly coronavirus pandemic as \"a great human tragedy.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K3U2LsdyrRM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K3U2LsdyrRM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200205144611-02-romney-trump-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/mitt-romney-trump-coronavirus-leadership/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/mitt-romney-trump-coronavirus-leadership/index.html",
-      "publishedDateTime": "2020-12-03T15:44:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.md",
-      "title": "Republicans demand probe into Padilla's $35M grant to Biden-linked firm, claim 'misuse' of taxpayer funds",
-      "excerpt": "EXCLUSIVE: Republicans on the House Oversight and House Administration Committees are demanding answers from California Secretary of State Alex Padilla, who has emerged the frontrunner to be appointed to Vice President-elect Kamala Harris’ Senate seat, about a “highly questionable” $35 million contract",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAqL3PyjFNE/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAqL3PyjFNE/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.amp",
-      "publishedDateTime": "2020-12-03T15:30:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-kamala-harris-makes-more-history-with-all-female-senior-staff-picks.md",
-      "title": "Kamala Harris Makes More History With All-Female Senior Staff Picks",
-      "excerpt": "For the first time, the top three positions in the office of the vice president will be held by women -- and all serving under the first woman to hold the office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 585,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDqnSWHoECyc/v0/360x-1.jpg",
-          "width": 360,
-          "height": 272,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks",
-      "publishedDateTime": "2020-12-03T15:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

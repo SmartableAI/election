@@ -557,6 +557,22 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Van Jones: 'Joe Biden is a romantic idealist in the age of cynicism and snark'"
+    excerpt: "The CNN commentator tells how, too tearful to read his notes, he spoke from the heart – and for millions of Americans – after Biden’s win"
+    publishedDateTime: 2020-12-06T17:45:00Z
+    webUrl: "https://www.theguardian.com/world/2020/dec/06/van-jones-cnn-faces-of-2020-joe-biden-romantic-idealist"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/06/van-jones-cnn-faces-of-2020-joe-biden-romantic-idealist"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/06/van-jones-cnn-faces-of-2020-joe-biden-romantic-idealist"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/26fa0f6e6ff1c00a63a35dcc8adb68c8319b348e/79_0_2396_1438/master/2396.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=89378b8e97e1cf624a836a912385a642"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden gains 87 votes in Trump's $3M Wisconsin recount as Dane County wraps up review. President plans lawsuit."
     excerpt: "Biden netted 132 votes in Milwaukee County and Trump netted 45 votes in Dane County. Taken together, that increased Biden's statewide lead to 21,695."
     publishedDateTime: 2020-11-29T17:28:00Z
@@ -570,6 +586,22 @@ related:
     quality: 120
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/23/PMJS/ffd79519-3119-4182-b2c8-3743924ea336-MJS_recount_4_hoffman.jpg_RECOUNT.jpg?auto=webp&crop=4516,2541,x0,y210&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "As COVID-19 surges, health experts hope Biden will put in place what Trump didn’t: A national testing strategy"
+    excerpt: "Such a strategy, experts say, could systematically check more people for infections and spot surges before they take off."
+    publishedDateTime: 2020-12-06T17:13:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-coronavirus-updates-20201206-nw57v7r3qbg57dtxbolxrkqn5m-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-coronavirus-updates-20201206-nw57v7r3qbg57dtxbolxrkqn5m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-coronavirus-updates-20201206-nw57v7r3qbg57dtxbolxrkqn5m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/P5sQovd2OmQlwTOiZvCr2_lrTyA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7TXECIBUMJGZ5IZ56JDBHPOE5E.aspx"
         width: 1200
         height: 675
         isCached: true

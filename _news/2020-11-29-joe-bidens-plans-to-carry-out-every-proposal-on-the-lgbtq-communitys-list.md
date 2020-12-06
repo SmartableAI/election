@@ -377,6 +377,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. Appeals Court rejects bid to block Biden's GA win"
+    excerpt: "Top News U.S. Appeals Court rejects bid to block Biden's GA win. Posted [NFA] A federal appeals court on Saturday rejected a bid by a conservative lawyer to block President-elect"
+    publishedDateTime: 2020-12-05T21:54:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD7QJZKV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201205&i=OVD7QJZKV&r=OVD7QJZKV&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Joe Biden officially secures enough electors to become president after California certifies his victory in the state"
     excerpt: "California certified its presidential election Friday, officially handing Biden the Electoral College majority needed to win the White House."
     publishedDateTime: 2020-12-05T02:52:00Z

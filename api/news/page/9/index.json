@@ -2,6 +2,114 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-23-meet-the-rapid-response-director-top-biden-aide-on-how-the-2020-campaign-was-unlike-any-other.md",
+      "title": "Meet the Rapid Response director: Top Biden aide on how the 2020 campaign was unlike any other",
+      "excerpt": "\"The Operators\" is a series profiling influential political aides on Capitol Hill, in the White House and on closely watched political campaigns about the behind-the-scenes work they do.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EU1Ys1iD3Qs/meet-the-rapid-response-director-top-biden-aide-andrew-bates",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EU1Ys1iD3Qs/meet-the-rapid-response-director-top-biden-aide-andrew-bates",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp",
+      "publishedDateTime": "2020-11-23T04:57:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state.md",
+      "title": "Joe Biden to nominate Antony Blinken as US secretary of state",
+      "excerpt": "Veteran diplomat may be named as early as Tuesday, with Linda Thomas-Greenfield to be ambassador to UN",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f17e33141fb0b3e732ceab4f761965273fe4c5ea/10_333_3870_2323/master/3870.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ee21c729a60f195ad4bb1abc03ef977",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state",
+      "publishedDateTime": "2020-11-23T00:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-trump-campaign-legal-team-distances-itself-from-powell.md",
       "title": "Trump campaign legal team distances itself from Powell",
       "excerpt": "The Trump campaign’s legal team is moving to distance itself from a firebrand conservative attorney, Sidney Powell",
@@ -1256,110 +1364,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-pence-pitches-georgia-senators-as-last-line-of-gop-defense.md",
-      "title": "Pence pitches Georgia senators as last line of GOP defense",
-      "excerpt": "Vice President Mike Pence campaigned Friday in Georgia in support of the state’s two Republican senators and warning of a potential Democratic takeover of Washington in January",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_379847ea0f644970a1858391707aad70_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047",
-      "publishedDateTime": "2020-11-20T16:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-romney-blasts-undemocratic-trump-for-pressuring-republicans-to-overturn-election-results.md",
-      "title": "Romney blasts ‘undemocratic’ Trump for pressuring Republicans to overturn election results",
-      "excerpt": "Romney joined Sen. Ben Sasse (R-Neb.) on Thursday as the only GOP senators to publicly oppose the president, as Trump and his campaign continue lobbing baseless allegations of widespread voter fraud in Michigan and other states.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 250,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4LIIIYRDVII6XHCKBXDCILCICQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/20/mitt-romney-trump-undemocratic-republicans-election/?outputType=amp",
-      "publishedDateTime": "2020-11-20T12:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

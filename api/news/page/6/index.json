@@ -2,6 +2,114 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-30-biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland.md",
+      "title": "Biden will try to revitalize 'smoke and mirrors' Iran deal: KT McFarland",
+      "excerpt": "The Biden administration will \"try to revitalize\" the 2015 Iran nuclear deal, former Deputy National Security Adviser K.T. McFarland predicted Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sk7kP4n7r70/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sk7kP4n7r70/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-try-to-revitalize-smoke-and-mirrors-iran-deal-kt-mcfarland.amp",
+      "publishedDateTime": "2020-11-30T13:58:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-former-top-admiral-alarmed-by-pentagon-purge-says-trump-still-has-time-to-do-something-really-destructive.md",
+      "title": "Former top admiral alarmed by Pentagon purge says Trump still has time to do something 'really destructive'",
+      "excerpt": "\"There are some real Trump loyalists there now in charge,\" former Chairman of the Joint Chiefs of Staff Adm. Mike Mullen said Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11",
+      "originalUrl": "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc54a4550e71a0011558043?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp",
+      "publishedDateTime": "2020-11-30T12:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-presidential-transition-live-updates-trump-team-files-last-ditch-lawsuits-ahead-of-deadline-to-finalize-the-election.md",
       "title": "Presidential Transition Live Updates: Trump Team Files Last Ditch Lawsuits Ahead of Deadline to Finalize the Election",
       "excerpt": "The safe harbor deadline — the date by which any election controversies must be settled — is Dec. 8. President-elect Joe Biden’s nominees send a clear message that his economic policymaking will be shaped by liberal thinkers.",
@@ -171,7 +279,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 605,
+      "heat": 625,
       "tags": null,
       "images": [
         {
@@ -1234,105 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-mini-desk-tiny-hands-small-soul-trump-mocked-for-giving-speech-at-little-table.md",
-      "title": "‘Mini desk. Tiny hands. Small soul’: Trump mocked for giving speech at little table",
-      "excerpt": "DiaperDon trends on Twitter after outgoing president’s furniture steals limelight",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture",
-      "publishedDateTime": "2020-11-27T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-federal-appeals-court-denies-trump-campaign-effort-to-revive-pennsylvania-lawsuit-saying-claims-have-no-merit.md",
-      "title": "Federal appeals court denies Trump campaign effort to revive Pennsylvania lawsuit saying 'claims have no merit'",
-      "excerpt": "A federal appeals court denied the Trump campaign's effort to revive a federal lawsuit challenging the election results in Pennsylvania, ruling \"the claims have no merit.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h9kQVfOphD0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h9kQVfOphD0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201121185207-01-pennsylvania-mail-in-ballot-counting-1112-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/27/politics/trump-pennsylvania-lawsuit-appeal/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/trump-pennsylvania-lawsuit-appeal/index.html",
-      "publishedDateTime": "2020-11-27T11:57:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

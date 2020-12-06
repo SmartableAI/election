@@ -58,6 +58,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-07-sidney-powells-trump-lawsuit-is-the-stuff-of-mythos-and-has-no-basis-in-reality-said-georgia-officials-in-bid-for-dismissal.md",
+      "title": "Sidney Powell's Trump lawsuit is the stuff of 'mythos' and has no basis in reality, said Georgia officials in bid for dismissal",
+      "excerpt": "Trump's claims of fraud and malfeasance \"would be extraordinary if true, but they are not,\" the joint filing stated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/georgia-says-sidney-powell-trump-election-lawsuit-stuff-mythos-2020-12",
+      "originalUrl": "https://www.businessinsider.com/georgia-says-sidney-powell-trump-election-lawsuit-stuff-mythos-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fccf3b5eadd8400183df640?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/georgia-says-sidney-powell-trump-election-lawsuit-stuff-mythos-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-says-sidney-powell-trump-election-lawsuit-stuff-mythos-2020-12?amp",
+      "publishedDateTime": "2020-12-06T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-06-full-gabriel-sterling-interview-trump-has-a-higher-responsibility.md",
       "title": "Full Gabriel Sterling Interview: Trump has a 'higher' responsibility",
       "excerpt": "Gabriel Sterling, Voting System Implementation Manager for the State of Georgia, talks to Meet the Press about why he spoke out against President Trump's push to reverse the vote in Georgia.",
@@ -168,6 +220,63 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-saturday-night-live-returns-with-weekend-update-segment-mocking-donald-trump-rudy-giulianis-fraud-claims.md",
+      "title": "'Saturday Night Live' returns with 'Weekend Update' segment mocking Donald Trump, Rudy Giuliani's fraud claims",
+      "excerpt": "This week's \"Saturday Night Live\" saw “Weekend Update” returned after a three-week hiatus to mock Donald Trump’s ongoing efforts to prove alleged voter fraud in the 2020 election as well as his personal lawyer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/saturday-night-live-returns-weekend-update-trump-giuliani-fraud-claims",
+      "originalUrl": "https://www.foxnews.com/entertainment/saturday-night-live-returns-weekend-update-trump-giuliani-fraud-claims",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/WeekendUpdate3.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/saturday-night-live-returns-weekend-update-trump-giuliani-fraud-claims.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/saturday-night-live-returns-weekend-update-trump-giuliani-fraud-claims.amp",
+      "publishedDateTime": "2020-12-06T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -343,17 +452,17 @@
     {
       "path": "_news/2020-12-06-jill-biden-will-back-debt-free-community-college-as-student-debt-nears-17-trillion-report.md",
       "title": "Jill Biden will back debt-free community college as student debt nears $1.7 trillion: report",
-      "excerpt": "Dr. Jill Biden will advocate for debt-free community college as First Lady, a source close to President-elect Joe Biden's wife told Yahoo News. ",
+      "excerpt": "Dr. Jill Biden will advocate for debt-free community college as First Lady, a source close to President-elect Joe Biden's wife told Yahoo News.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L5_qFpJKfCk/jill-biden-debt-free-community-college-as-first-lady",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L5_qFpJKfCk/jill-biden-debt-free-community-college-as-first-lady",
+      "webUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady",
+      "originalUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 164,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -369,7 +478,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady.amp",
-      "publishedDateTime": "2020-12-05T18:41:04-08:00",
+      "publishedDateTime": "2020-12-05T18:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -393,6 +502,7 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -683,7 +793,7 @@
       "originalUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1167,
+      "heat": 1207,
       "tags": null,
       "images": [
         {
@@ -1262,118 +1372,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-trump-administration-must-accept-new-daca-applications-judge-orders.md",
-      "title": "Trump administration must accept new DACA applications, judge orders",
-      "excerpt": "The Trump administration must post a public notice that it will accept new applications for the Obama-era program shielding undocumented immigrants who came to the US as children from deportation, a federal judge ordered Friday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKkg1yjy1Qs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKkg1yjy1Qs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/171116102112-daca-protest-02-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html",
-      "publishedDateTime": "2020-12-04T14:38:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-trump-purges-pentagon-advisory-board-and-gives-seats-to-former-campaign-managers.md",
-      "title": "Trump purges Pentagon advisory board and gives seats to former campaign managers",
-      "excerpt": "President Donald Trump has purged a Pentagon business advisory board and replaced its members with his former campaign manager and deputy campaign manager, neither of whom have served in the military or have any apparent experience with the defense industry.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUnccSYtHPw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUnccSYtHPw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190918092128-corey-lewandowski-newday-09182019-1-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html",
-      "publishedDateTime": "2020-12-04T12:42:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }
