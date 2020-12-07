@@ -509,6 +509,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Georgia voting manager says that refuting Trump's debunked election claims are a like a 'game of whack-a-mole'"
+    excerpt: "\"The president's statements are false,\" he said. \"It undermines democracy. We've got to get to a point where responsible people act responsibly.\""
+    publishedDateTime: 2020-12-06T21:50:00Z
+    webUrl: "https://www.businessinsider.com/gabriel-sterling-trump-georgia-debunked-voter-election-fraud-claims-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/gabriel-sterling-trump-georgia-debunked-voter-election-fraud-claims-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gabriel-sterling-trump-georgia-debunked-voter-election-fraud-claims-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5fccf3b9037cbd00186141f7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump makes false claims about election results at Georgia rally"
+    excerpt: "President Trump visited Georgia to campaign for two Republican Senate candidates, but used the rally to complain and repeat false claims about the presidential election. Chip Reid reports."
+    publishedDateTime: 2020-12-07T00:05:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-makes-false-claims-about-election-results-at-georgia-rally/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/06/48ff8c01-9b6e-402e-82be-f23532f545ad/thumbnail/1200x630/ae25ba5520ef4e579278b166a5617af3/1206-wn-reid-602626-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump keeps up false claims of widespread fraud at Georgia rally for U.S. senators"
     excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party feared could end up hurting, not helping, their chances by focusing on his efforts to reverse his own election defeat."
     publishedDateTime: 2020-12-06T14:21:00Z
@@ -900,6 +930,6 @@ related:
         height: 630
         isCached: true
 
-secured: "AgQdfFhRoOW53kxr/RB+vwCXF+dTOMlrxR64z4v8D5tw4vFmnFk62i9QevMLvVl2Y1xz9qp5AmIannptSKQAty/2Q4SYNe13GXAaw7JPiPspQWDQuABlCZQ3b0tv+jVttXBqwUs4hIptWVv8+MFv5NLzwj09e0VQDG3N+OdE0sB8u3VZ6PP0JXSPEoRNy2phO/Z8jVTBHTprHxnwMTdG3UfQwoDIl+KXntbRzFo9KVr0r00mgEuR5ACgQth91QflTHCnsEVaePuXAMzGEpFSNOcEcsid5olgmCqJNgi0ohuxIZY6O5thK1l/ROo5ATgMz3E1hi5/5WNzdeHvjRtzex8w7k4v3i3zbarCoYMiL64=;07UvLVmrXtMS42qDixNigA=="
+secured: "jXJj6Hdsdt/PHoq0p9RlT4hr7J3PBeV9fAhTbosEP39VsWoTH0YiYDCB+Xf7ERIqb1rTjp4R4Gjl8vZJZiY9jn/mbBCe36m+7e5f1nUQcir/fH6Qon0kqIY2424klGRelA6J4IW0yrm0XpsUxDWOE+WktpLLNw0M3D/jaXOz6VcMXXh6HycXWwTDCPcuh9b+yGfICRADts5dCJVWy0VSPmPJZpP9VvL0krDcVLP+BewHQ9ISYRYrz0LyadkuadpZfMOKBs2uO3pw3iCD1FuF3B/fEOj1hZW8aDCtQGMjK3yTKiEtAqoc6ZYIA+SmGwf1TP5pfCQsen67m8XxOeOLJ7pEjuBNRLhSJhly2pw5hjWdLbK1Y/WslrI7jAN3o4KNChjeIHtBiEMuMlhg3P/YGZJRp5MWDKGlYJ8+t7kVRd1XUUwFxS9GvCdIYtyxXxUU1HxBqsrhk38weUyC5zxTm8Cfyx3FFrL54Qru9Sj2BBPNhusV9V04utZbltifX7TDQFiMZlraU1UtzhsLxizxIg==;nIN9cFt/GdpajLp4PPLDjg=="
 ---
 

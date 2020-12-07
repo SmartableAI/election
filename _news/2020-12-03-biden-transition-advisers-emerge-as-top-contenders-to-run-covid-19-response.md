@@ -191,6 +191,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden picks Calif. AG to be first Latino health secretary"
+    excerpt: "President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administratio"
+    publishedDateTime: 2020-12-06T23:51:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_8179be43226c4bdf96e4f2732aa30135_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Here’s the problem Biden faces if he picks current lawmakers for his Cabinet."
     excerpt: "President-elect Joe Biden has begun to select candidates for crucial positions in the Cabinet and other senior administration spots. In the running are sitting elected officials. For example, various Democratic Party factions have urged Biden to select his former primary opponents ,"
     publishedDateTime: 2020-12-02T11:12:00Z

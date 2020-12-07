@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden expected to nominate Xavier Becerra to lead Health and Human Services"
+    excerpt: "President-elect Joe Biden is poised to nominate California Attorney General Xavier Becerra to lead the Department of Health and Human Services, a Biden transition official tells CNN.\n    \n"
+    publishedDateTime: 2020-12-07T00:56:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vf3I4_se7F4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/xavier-becerra-health-and-human-services/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/xavier-becerra-health-and-human-services/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200710175823-california-attorney-general-xavier-becerra-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: The worsening pandemic raises the stakes for Biden's economic program"
     excerpt: "Sitting in an Iowa diner a year ago, candidate Joe Biden aimed his economic agenda at the widening gap between America's rich and everyone else.\n    \n"
     publishedDateTime: 2020-11-29T14:15:35Z

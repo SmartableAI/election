@@ -142,6 +142,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
+    excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
+    publishedDateTime: 2020-12-06T23:23:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Mifn6ZHwF8/trump-inauguration-day-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-inauguration-day-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pence returns to Georgia on Friday; Obama stars in new Ossoff TV ad"
     excerpt: "Vice President Mike Pence will return to Georgia on Friday to hit the campaign trail in the state’s twin Jan. 5 Senate runoff elections, where the Republicans' Senate majority is at stake."
     publishedDateTime: 2020-12-01T17:57:52Z
@@ -557,6 +573,22 @@ related:
       - url: "https://images.wsj.net/im-266968/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
+    excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
+    publishedDateTime: 2020-12-07T00:03:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-inauguration-day-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 147
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Georgia GOP Official Urges Trump to Condemn Threats Against Election Officials"
     excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."

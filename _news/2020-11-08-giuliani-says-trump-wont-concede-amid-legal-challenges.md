@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/giuliani-says-trump-wont-concede-am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp"
 type: article
 quality: 175
-heat: 255
+heat: 235
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f1e9ef4-9f2c-4d69-ad79-d689751c9a41/45d541b2-f2d3-461e-bb28-2f05b3ef8537/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Rudy Giuliani Tests Positive for Covid-19, Trump Says"
-    excerpt: "Mr. Giuliani has been leading President Trump’s effort to overturn the election results."
-    publishedDateTime: 2020-12-06T20:44:00Z
-    webUrl: "https://www.wsj.com/articles/rudy-giuliani-tests-positive-for-covid-19-trump-says-11607286624"
-    ampWebUrl: "https://www.wsj.com/amp/articles/rudy-giuliani-tests-positive-for-covid-19-trump-says-11607286624"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/rudy-giuliani-tests-positive-for-covid-19-trump-says-11607286624"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-269041/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "tCo8vP6W9SFWqvJvzLdpdD6ngRH7n3Yt9DTnMxigsG0NpxQWA/ZOcM9uzuY8+ymyCBMjJWAWsDFNa49rH4Afa3DkMtz4+x1muAEjlBs+d9tUBCRYvfUam9buX0AvhJZC+INk+K1CP5yIHrzCsMcvG9AtfBkPnxfFoOptcjBDVkCN5P/H/7Gc1YEQUL4XJLdK+iA9CpxObLOVD8sSSpJSz8dnrXYDHpKgnpJAdkYM4YF0LENX6Ze04YoSVNiEuVbXFFG7HxFCU8/Xo6rQIPrIeAjg/P1FBT2wqIGVWlb5hrWnCj3+vHMZUE+B7SHPO0I9HiWIiFjhpBFrql/CQ7MN9MS33iQWJMbfdXscyyIJhVk=;PA9LcUERgQse8YdR8/dOlg=="

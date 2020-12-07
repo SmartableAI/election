@@ -207,6 +207,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Rudy Giuliani tests positive for COVID-19, Trump says"
+    excerpt: "Rudy Giuliani, President Trump's personal attorney who has been traveling the country raising unsubstantiated claims of voter fraud, tested positive for COVID-19, the president said Sunday. \".@RudyGiuliani,"
+    publishedDateTime: 2020-12-07T00:20:00Z
+    webUrl: "https://www.cbsnews.com/news/rudy-giuliani-tests-positive-for-covid19-trump-tweets-2020-12-06/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/rudy-giuliani-tests-positive-for-covid19-trump-tweets-2020-12-06/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/rudy-giuliani-tests-positive-for-covid19-trump-tweets-2020-12-06/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/06/0a568217-27df-4cab-ba62-e2bd58bd977e/thumbnail/1200x630/8e7115d01fe374a1bd37797a705de9f2/gettyimages-1229918573.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump lawyer Rudy Giuliani tested positive for coronavirus, Trump says"
     excerpt: "U.S. President Donald Trump's personal lawyer, Rudy Giuliani, has tested positive for the novel coronavirus, Trump said on Twitter on Sunday."
     publishedDateTime: 2020-12-06T21:19:00Z
@@ -222,6 +238,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543618615&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50IE"
         width: 823
         height: 545
+        isCached: true
+  - title: "Trump lawyer Rudy Giuliani tests positive for COVID"
+    excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for coronavirus. The president confirmed in a Sunday afternoon tweet that the former New York mayor had tested positive."
+    publishedDateTime: 2020-12-06T20:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump says campaign attorney Rudy Giuliani tested positive for COVID-19"
     excerpt: "President Trump said his attorney Rudy Giuliani, who has been leading efforts to overturn the results of the Nov. 3 general election, has tested positive for the COVID-19."
@@ -477,17 +509,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump Lawyer Rudy Giuliani Tests Positive for COVID"
-    excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for coronavirus. The president confirmed in a Sunday afternoon tweet that the former New York mayor had tested positive."
-    publishedDateTime: 2020-12-06T20:48:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-06/trump-lawyer-rudy-giuliani-tests-positive-for-covid"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-06/trump-lawyer-rudy-giuliani-tests-positive-for-covid?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-06/trump-lawyer-rudy-giuliani-tests-positive-for-covid?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "3banAmI63CJw77A+hPzvvmi+Bv2fDFgZlj7Y4racHx/NlKjs+K0/ak1RELMkkE062jMP7EG8aKapC1+TVgk7MAdWdmMOuZzF6ceugn+qwwOYHRcfpRlzQ2EsIYnRGeYn3aSE7mmrLt3mbhClVvn13mfu+skN/YTKykB2Wx7WEvwNh71s+wYRloUtv4yOLJ6fE4ZZhHAAm5aKZE44IC2We/eTfuGJ9JCoQX9Hv9NabPYjF+HQBmQ4nE1Gz6+RiBG6cNGeoOLda3lbIlmQDu9Yo7XBXDT6OkCgdXeGYEORylKYVFxmkI/LRQsVSPxWu9aHOXIvD4Xs2uFfVdyeU+LFTOcsp3GXRPIWngnh57qlZl6QmaM/rMjeJqCXKZkNUfsUIIssjbpYeHOU5UwNIWwFMHXHQcF0z2Ynu4GgSe6yx+HUa5J9qyys8vKKxqG+0+98RSpf/Psf7KSB7mKiegUJ3I3gj3jzbsCnmKrEeMnH1i1pmx3T9S8zv5qmc50X1OPKfQGfbFRLEqo3Ny35b3SSmQ==;J2KwYBe2i6ndE82g5tNd1w=="
 ---

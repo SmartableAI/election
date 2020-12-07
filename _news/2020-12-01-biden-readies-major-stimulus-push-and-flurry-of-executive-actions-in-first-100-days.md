@@ -269,6 +269,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden selects Becerra as secretary of Health and Human Services"
+    excerpt: "WASHINGTON — President-elect Joe Biden has selected California Attorney General Xavier Becerra to serve as his secretary of Health and Human Services, choosing an experienced politician to help oversee the government’s response to the coronavirus pandemic,"
+    publishedDateTime: 2020-12-06T23:53:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/06/biden-selects-becerra-as-secretary-of-health-and-human-services-1342516"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/1b/12/b3e1e2e043c1bf3e71ac53922be2/ap20008822339217-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "Zeq49Ia8d/efYR91M5mQ2WHPlNw2a8ALU4uGUngKrSfnVgqjRfgK+1T4BSLtCzqnSX6C1Usj1aQPNT4SM9+qEnfP5cwD2ozg502regn84TFkvO8i6DG1TCzlMphowmJt07phWz/Q7xYitQ+Nh9sPX7zkejd3PM3CnheiwiymNJX8UyfJuP1sDbPHeBb9MGW7n2N1B2APY4rZ6LXDIroDB6T4H2lovzrEehs+xiINjdjsddJSMbxeVQTmqnxfK4Lw655CsGu9AHQznQXlvYex8Oq2xAAjKwyyz9BRoH7lejcxRCb6yB2dnIAe4FdY/zg9ECQuPxvWy2mFueITjIg5cWqBZMYBzgt0xLI4kcPXrK0=;CafRnRzYhWdIiZc5TkGjdA=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's baseless election claims loom over Georgia Senate debate"
+    excerpt: "Republican Sen. Kelly Loeffler of Georgia and her Democratic opponent Rev. Raphael Warnock are set to face off in a debate on Sunday ahead of a pivotal runoff election next month.\n    \n"
+    publishedDateTime: 2020-12-07T00:35:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5eLhDlddxlU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/kelly-loeffler-raphael-warnock-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/kelly-loeffler-raphael-warnock-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201206142001-03-raphael-warnock-kelly-loeffler-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump frustrated with Barr after election comments but officials don't want AG fired, sources say"
     excerpt: "President Donald Trump is frustrated with Attorney General William Barr after his comments to The Associated Press breaking from the President's false claims of fraud in the election, two sources tell CNN.\n    \n"
     publishedDateTime: 2020-12-03T02:31:33Z

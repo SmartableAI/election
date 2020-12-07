@@ -223,6 +223,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Rudy Giuliani tests positive for COVID-19, Trump says"
+    excerpt: "Rudy Giuliani, President Trump's personal attorney who has been traveling the country raising unsubstantiated claims of voter fraud, tested positive for COVID-19, the president said Sunday. \".@RudyGiuliani,"
+    publishedDateTime: 2020-12-07T00:20:00Z
+    webUrl: "https://www.cbsnews.com/news/rudy-giuliani-tests-positive-for-covid19-trump-tweets-2020-12-06/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/rudy-giuliani-tests-positive-for-covid19-trump-tweets-2020-12-06/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/rudy-giuliani-tests-positive-for-covid19-trump-tweets-2020-12-06/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/06/0a568217-27df-4cab-ba62-e2bd58bd977e/thumbnail/1200x630/8e7115d01fe374a1bd37797a705de9f2/gettyimages-1229918573.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump lawyer Rudy Giuliani tests positive for COVID"
+    excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for coronavirus. The president confirmed in a Sunday afternoon tweet that the former New York mayor had tested positive."
+    publishedDateTime: 2020-12-06T20:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump says campaign attorney Rudy Giuliani tested positive for COVID-19"
     excerpt: "President Trump said his attorney Rudy Giuliani, who has been leading efforts to overturn the results of the Nov. 3 general election, has tested positive for the COVID-19."
     publishedDateTime: 2020-12-06T20:53:00Z
@@ -477,18 +509,7 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump Lawyer Rudy Giuliani Tests Positive for COVID"
-    excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for coronavirus. The president confirmed in a Sunday afternoon tweet that the former New York mayor had tested positive."
-    publishedDateTime: 2020-12-06T20:48:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-06/trump-lawyer-rudy-giuliani-tests-positive-for-covid"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-06/trump-lawyer-rudy-giuliani-tests-positive-for-covid?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-06/trump-lawyer-rudy-giuliani-tests-positive-for-covid?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
-secured: "KN3gy74pUxR5iTgypMpiwSUPXcp23dRFeJOlnhslLbXXU40DmWmBmTyf/gI7OLgndqiY5dd4JcJaFifBqwK4B6FUafxa2ADBSdZ9qefjBzRulJFAxJWIc4uvi8/JmwHkCpu8wrs74BhIR9hhW029KM1ALHQ8rl9jojX1GNSgQaVl2GU3gucc2RvBQA+I5rwEaR8crTa3lSf21ywVg6KIy5Ph2tToWfh0TqORvHSxuDZwaTcXmEYDLMsNBp43x+Z1tKDcbioYyC06NUbRxuOGM9ivSpArZziHQ4GsTMf5nSpHKN+EsBCHmJBp9SfsKog1kvu/ugu95N1Ihd0qd2hOqubft8T3Uct8V9P11GM+2Ac=;Ypbq59cZYAkYPPCaqoXgTw=="
+secured: "GSiFgGRcf3vz5exhCmy84r2mMaMHVl5AA5yf/cMUCDFC43wD2vNWHS4pcNYoRyqF3AhGtMcD0/zDTg1UETpO1tFR+y3IxekrUDDAYd3hS6CAiL87p02SVcD1f/rCzfX16Q6gOt82bHT0uJEZh8dmkuvRSzwpneci+lzcsOvz1eZU4K8wXVcZkeJ0cAnIMUel9HEVBFrlPZmiRRzm+s1ZVBgkuPHAIVtE38PK5ldiwZT3c42O9y4irWAmDbH7mKA1UEoiiIb/TICM1EhQK5ioArjul8qQAsK+c0KijVNFKAJqx3mTMdHxpYrokDCeKonCtfVqib4Ehwe6r9piPqFSivngekJlu0mpSw5q6ZO917fgSI9TPxFzhSsTwq3L8l1oOdJbltcB7vKzbVLXu4F4Q3r6JgsASjM49kzZjSben2og7YyEvK3Tyj/c7aDoTo8CC4aXZCNT4F6u/JlfKf1urPIDmzUIxHJpl3DuJI13k7Zmrdko3YPewNgX8ceoCoij/bWZkNuWnBgYXT6i1sKxbg==;pPDZCuWdSpJ3vZWiU999ig=="
 ---
 

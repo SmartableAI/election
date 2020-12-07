@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html"
 type: article
 quality: 182
-heat: 482
+heat: 502
 published: true
 
 provider:
@@ -268,6 +268,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Biden selects Becerra as secretary of Health and Human Services"
+    excerpt: "WASHINGTON — President-elect Joe Biden has selected California Attorney General Xavier Becerra to serve as his secretary of Health and Human Services, choosing an experienced politician to help oversee the government’s response to the coronavirus pandemic,"
+    publishedDateTime: 2020-12-06T23:53:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/06/biden-selects-becerra-as-secretary-of-health-and-human-services-1342516"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/1b/12/b3e1e2e043c1bf3e71ac53922be2/ap20008822339217-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "xaBuoiDiEC5iHvLcPVq1wgYDYibsDZYvgBVxGVcsKKAxDFhJwnftq21YMbHjQfJsyVji2RXv2/Ef47bVUcPZsKh3lFet0E62gtsgnsCt90bhvIAeLNzcSAPGsVBMpfNLfUg/2LaXiFlnNVgADlM80XiTUbamf7eH8Zbfpx9kBB0ji+BbuI1S17AjglNKxXwpecrI8r61iZrUzE4KaYPlRGAoqRM1YeKNzC0ibK7kO5MIsqcWMQcE84wiwuCzJ6lScJztkJEKneWv6XwomtHXSq9AldBXFsJ3xxFOaTtEBWMBO620lEg9m+W+UqVAhA7erABQXSO+Nk2dc8duXLHP2zprIEeWIp5XXBS817OLjws=;U6w3aEkRBCKkNgewLkwPpA=="

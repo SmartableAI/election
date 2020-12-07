@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trump Lawyer Rudy Giuliani Tests Positive for COVID"
+title: "Trump lawyer Rudy Giuliani tests positive for COVID"
 excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for coronavirus. The president confirmed in a Sunday afternoon tweet that the former New York mayor had tested positive."
-publishedDateTime: 2020-12-06T20:48:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-12-06/trump-lawyer-rudy-giuliani-tests-positive-for-covid"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-12-06/trump-lawyer-rudy-giuliani-tests-positive-for-covid"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-06/trump-lawyer-rudy-giuliani-tests-positive-for-covid?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-06/trump-lawyer-rudy-giuliani-tests-positive-for-covid?context=amp"
+publishedDateTime: 2020-12-06T20:44:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lawyer-rudy-giuliani-tests-positive-for-covid/2020/12/06/d3036cbc-3803-11eb-aad9-8959227280c4_story.html?outputType=amp"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Trump allies Barr, Giuliani at odds on discredited election fraud claims"
@@ -216,6 +222,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/rudy-giuliani-file-rt-jef-201206_1607286223261_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Rudy Giuliani tests positive for COVID-19, Trump says"
+    excerpt: "Rudy Giuliani, President Trump's personal attorney who has been traveling the country raising unsubstantiated claims of voter fraud, tested positive for COVID-19, the president said Sunday. \".@RudyGiuliani,"
+    publishedDateTime: 2020-12-07T00:20:00Z
+    webUrl: "https://www.cbsnews.com/news/rudy-giuliani-tests-positive-for-covid19-trump-tweets-2020-12-06/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/rudy-giuliani-tests-positive-for-covid19-trump-tweets-2020-12-06/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/rudy-giuliani-tests-positive-for-covid19-trump-tweets-2020-12-06/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/06/0a568217-27df-4cab-ba62-e2bd58bd977e/thumbnail/1200x630/8e7115d01fe374a1bd37797a705de9f2/gettyimages-1229918573.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump lawyer Rudy Giuliani tested positive for coronavirus, Trump says"
     excerpt: "U.S. President Donald Trump's personal lawyer, Rudy Giuliani, has tested positive for the novel coronavirus, Trump said on Twitter on Sunday."
@@ -488,6 +510,6 @@ related:
         height: 683
         isCached: true
 
-secured: "LkT5iqq0sQ+a46E3UxO2yJyjHhCDrpeYEPoho6vWOp2D9NNOYor5T4xE+15+7tPIXYKsCAcXLE5QOz79l3whYOfwVL4Lepz1Vajl1OBvgQxgdX+ZYUS3SYw6wJoxMlU1AHXuOYVxxmFprIFyt4814//FPeuSAc7k2sxjHbn61J03RGy+K9JC05RA8L3UnnxUvZ1ILbj9X9llG22uh1wgXs/WiUaMRfqxdffRgAU6HTO3Wvtlm/6A5lb7N+M92hhO+8XLwhHjLYPucjKPtrfj0BjO6kGex5O7pykPw5WljEKESLc7DUBpQbVquSRtvO9up89hIldLoNnLnh3uGDztwrwZ8HBoyoiJciZL2r/SGjG2/v2hTntyAlEfx0VsRdDXvu2oOCBs+9uWiUbyX1ng8TQZRuTB2ULcrtKoSuP89JH7CxkOOgb64b7s5g1gWIZrlZe3d0ZJGkwGDG9Zv7zGd9WTIdY/05dWvbXFq9E4H68NjdaiT3dWfPPpUAYk/M+jHosnLy2XGeVBwnhcdVoqqA==;pYSQkIp9aLfqI06/w3CoJQ=="
+secured: "rAXhevHuEKXXmeXQom1WtDVGX0G8wfc/zKFKrmDrhFnquhXMYqPgUlXjJSJmURkOl64BICLEPjlyt0rUeWbKVjosmxKSHGC8MVJLbn+dU6TkPcNvWxz3Rk9FoV5dbWLQ+yNHpoH6Jj6/bA54smz37cRlTLJpXZQtRcOn7ZVcnkMtdZa3XZfRGVV5qjgmLDd0C4DMdjQ7B6OnkbO8QdY/n7DSwVJhlpmV+/3pyCLTomTxRX50drmvHg9bKT/yy3bplFuUWKcb70ZIqCn+q1ydz+TvGBSgpQ1sLcUtiQKS/FpEdH5Tl6qL2Wjgw9nRIGnLIQtBB63QJZqpN6HqjsTLilO7I++u1cF1YLKCksaOoJI=;J129NYVwvdOYsSK8DAtwzw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-sen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
 type: article
 quality: 143
-heat: 1263
+heat: 1303
 published: true
 
 provider:
@@ -507,6 +507,36 @@ related:
     quality: 120
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/21/81a7d18b-7048-4d17-b82d-971aace7b830/thumbnail/1200x630/182241d14d0784dc2ff695deb6bee018/cbsn-fusion-mike-pence-campaigns-in-georiga-for-senate-runoff-elections-thumbnail-592241-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Georgia voting manager says that refuting Trump's debunked election claims are a like a 'game of whack-a-mole'"
+    excerpt: "\"The president's statements are false,\" he said. \"It undermines democracy. We've got to get to a point where responsible people act responsibly.\""
+    publishedDateTime: 2020-12-06T21:50:00Z
+    webUrl: "https://www.businessinsider.com/gabriel-sterling-trump-georgia-debunked-voter-election-fraud-claims-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/gabriel-sterling-trump-georgia-debunked-voter-election-fraud-claims-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gabriel-sterling-trump-georgia-debunked-voter-election-fraud-claims-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5fccf3b9037cbd00186141f7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump makes false claims about election results at Georgia rally"
+    excerpt: "President Trump visited Georgia to campaign for two Republican Senate candidates, but used the rally to complain and repeat false claims about the presidential election. Chip Reid reports."
+    publishedDateTime: 2020-12-07T00:05:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-makes-false-claims-about-election-results-at-georgia-rally/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/06/48ff8c01-9b6e-402e-82be-f23532f545ad/thumbnail/1200x630/ae25ba5520ef4e579278b166a5617af3/1206-wn-reid-602626-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
