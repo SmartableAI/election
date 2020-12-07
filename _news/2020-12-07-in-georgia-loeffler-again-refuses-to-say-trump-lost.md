@@ -813,6 +813,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "GOP White House hopefuls wait to see what Trump does next"
+    excerpt: "When a party loses the White House, a new crop of presidential hopefuls typically begin moving quickly to lay the groundwork for a run in the next campaign."
+    publishedDateTime: 2020-12-07T03:03:00Z
+    webUrl: "https://www.businessinsider.com/gop-white-house-hopefuls-wait-to-see-what-trump-does-next-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/gop-white-house-hopefuls-wait-to-see-what-trump-does-next-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-white-house-hopefuls-wait-to-see-what-trump-does-next-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump travels to Georgia to campaign ahead of Senate runoff"
     excerpt: "President Trump will host a rally Saturday in Georgia for the two Republican Senate candidates in the state's January runoff. His involvement on the campaign trail comes after the Washington Post reports Mr."
     publishedDateTime: 2020-12-06T20:06:00Z
@@ -946,6 +957,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fh8ENAPDrz3Zv/HjZqpl45HfxLCsIrVQmrGp8UL08W5zb1Z1B6/Wq53oljNIM8gU5GuINnmh9GCziV4SYKoEZ+5ZVOdw54mvMYGK+rYm4/7ZG7B2KXkd6Y3gDJA7mLIsSowWtc5FwDvmcMw7nBBexrKmJOVXI1a4G5XB9/Y2HWzAtV/P+nx6i0cYQon2VqQGyJHIPoZ8h40JyNTZjDLkaW/cwTCZ6MqCqrdPPS6QSj91IEjIO8Xz1Ez5PqWmfbPeWgv9kZT8IZ0rakNg2a7Rii6cOHNMnSL9itrC8lnpf3JE/4IyNfg2WYtiygONqxJpi4KbmKBSBjTICCHzNPruExk+X6HWCqtpJaDXl1Tnxvc=;vTP/rXqoJxeDopYPRzgXqg=="
+secured: "Ls7dLUGRj6YP8wb0mwzzPEbrI8g7hgkNyXWZgF+2HpAgejvG+o2YrSm2p+8DPaX4v+T4E5SgGRkr/pyoOfzrthG3ph7dEisO97DpQgQHlUOUgWwhLxu4zxwSk+rp+Wt4wZ/+SYHunoKVpcJa9Xrl00dLmjOSDbgosbcz9PNrHc8A/lWrNINqHk1BEB+KM27uTvYcQ7lb+TYiBBn7lK3WdvsUkpksp0q2R2gbjXVbM1BUOw5K7zqPa3XL7R5v5qNCsIDCcxCkhFIZpGVskBMZIChzzJqxPT4kaWCfyddOIZM7dl4RmOmkEaNvCHMcJIeYC3ysS5Lag252IyFQgNGeVmfeNvC9Sd2nmSS7s+siZLXJnHTblWsXx6uxjQTQAlC5T34dSh+IEEZvV3zazR0kgKmEG/YBTh0cX9jpgnkUtMBI355wXK+AbhfIiS55+x/G16RV3kRt1WI6pHa3dM+LYTnsC5wUpLhTlBeOvmGa1sSGHP+k4nnPKTzhwxL25h67Re603ZI7NhI7mvMLGYsyhA==;XfWe6ImFcJO4YJEpRe1jrw=="
 ---
 

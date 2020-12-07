@@ -351,6 +351,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Georgia’s Kemp again rejects lawmakers replacing electors after call with Trump"
+    excerpt: ""
+    publishedDateTime: 2020-12-07T04:47:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6y0ldAqgGvQ/georgias-kemp-again-rejects-lawmakers-replacing-electors-after-call-with-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/georgias-kemp-again-rejects-lawmakers-replacing-electors-after-call-with-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgias-kemp-again-rejects-lawmakers-replacing-electors-after-call-with-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/612e10a1-2e19-4187-9810-f21cbbf153df/d2d7a5d8-08f2-41fd-92b9-c005b70f7afc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Trump to campaign in Georgia for GOP senators ahead of January runoff"
     excerpt: "President Trump said Thursday that he plans to visit Georgia to campaign for incumbent Republican Sens. Kelly Loeffler and David Perdue ahead of their Jan. 5 runoff elections. "
     publishedDateTime: 2020-11-27T12:15:48Z

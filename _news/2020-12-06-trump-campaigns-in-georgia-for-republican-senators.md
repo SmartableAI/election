@@ -813,6 +813,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GOP White House hopefuls wait to see what Trump does next"
+    excerpt: "When a party loses the White House, a new crop of presidential hopefuls typically begin moving quickly to lay the groundwork for a run in the next campaign."
+    publishedDateTime: 2020-12-07T03:03:00Z
+    webUrl: "https://www.businessinsider.com/gop-white-house-hopefuls-wait-to-see-what-trump-does-next-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/gop-white-house-hopefuls-wait-to-see-what-trump-does-next-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-white-house-hopefuls-wait-to-see-what-trump-does-next-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump travels to Georgia to campaign ahead of Senate runoff"
     excerpt: "President Trump will host a rally Saturday in Georgia for the two Republican Senate candidates in the state's January runoff. His involvement on the campaign trail comes after the Washington Post reports Mr."
     publishedDateTime: 2020-12-06T20:06:00Z

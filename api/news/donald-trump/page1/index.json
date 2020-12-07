@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-07-unambiguous-loud-and-threatening-trump-supporters-protest-at-home-of-michigan-secretary-of-state-jocelyn-benson.md",
+      "title": "'Unambiguous, loud and threatening': Trump supporters protest at home of Michigan Secretary of State Jocelyn Benson",
+      "excerpt": "Secretary of State Jocelyn Benson said she and her son were preparing to watch a Christmas movie when the protesters showed up outside her home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/06/michigan-secretary-state-jocelyn-benson-protest-home/3853743001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/06/michigan-secretary-state-jocelyn-benson-protest-home/3853743001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/10/03/PDTF/4d1cb9cc-996c-41ed-827d-f28cb68e9c8b-Jocelyn_Benson2.jpg?auto=webp&crop=3959,2227,x0,y183&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3853743001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3853743001",
+      "publishedDateTime": "2020-12-06T19:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-loeffler-refuses-to-say-whether-trump-lost-spars-with-warnock-over-their-agendas-records.md",
       "title": "Loeffler refuses to say whether Trump lost, spars with Warnock over their agendas, records",
       "excerpt": "Loeffler framed the election as a last line of defense against the Democratic agenda, prompting the question of whether that meant she was acknowledging Biden's win.",
@@ -960,7 +1012,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1323,
+      "heat": 1343,
       "tags": null,
       "images": [
         {
@@ -1516,58 +1568,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-trump-backs-mcconnells-republican-covid-19-relief-package-mnuchin.md",
-      "title": "Trump backs McConnell's Republican COVID-19 relief package: Mnuchin",
-      "excerpt": "President Donald Trump will sign coronavirus relief legislation proposed by Republican Senate Majority Leader Mitch McConnell, Treasury Secretary Steven Mnuchin told reporters on Wednesday, should the proposed package pass the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN28C2ES",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543258818&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11XI",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28C2ES",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C2ES",
-      "publishedDateTime": "2020-12-02T12:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

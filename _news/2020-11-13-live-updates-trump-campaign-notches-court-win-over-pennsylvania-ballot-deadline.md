@@ -175,6 +175,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Trump considering dramatic White House departure amid legal fight"
+    excerpt: "Trump said last month that he would leave office if the Electoral College votes for President-elect Joe Biden"
+    publishedDateTime: 2020-12-07T03:55:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/So_fEGG0sno/live-updates-legal-12-7-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-7-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-7-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Trump speaks out in first interview since Election Day"
     excerpt: "Follow for the latest updates on the 2020 election."
     publishedDateTime: 2020-11-29T06:23:52Z

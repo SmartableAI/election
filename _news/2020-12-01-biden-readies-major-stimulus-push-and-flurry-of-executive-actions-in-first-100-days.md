@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden expected to nominate Dr. Vivek Murthy to reprise role as US surgeon general"
+    excerpt: "As he builds out his health team, President-elect Joe Biden is expected to nominate Dr. Vivek Murthy as US Surgeon General, two sources familiar with the matter confirmed to CNN, returning to the role he served in during the Obama administration.\n    \n"
+    publishedDateTime: 2020-12-07T02:54:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8_L4HhVNrTU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/vivek-murthy-surgeon-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/vivek-murthy-surgeon-general/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200416163416-02-vivek-murthy-2015-climate-change-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he will ask Americans to wear masks for the first 100 days he's in office"
     excerpt: "President-elect Joe Biden told CNN's Jake Tapper on Thursday that he has asked Dr. Anthony Fauci to be a chief medical adviser and part of his Covid-19 response team when his administration begins next year.\n    \n"
     publishedDateTime: 2020-12-03T22:44:44Z

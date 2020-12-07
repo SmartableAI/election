@@ -827,6 +827,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "GOP White House hopefuls wait to see what Trump does next"
+    excerpt: "When a party loses the White House, a new crop of presidential hopefuls typically begin moving quickly to lay the groundwork for a run in the next campaign."
+    publishedDateTime: 2020-12-07T03:03:00Z
+    webUrl: "https://www.businessinsider.com/gop-white-house-hopefuls-wait-to-see-what-trump-does-next-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/gop-white-house-hopefuls-wait-to-see-what-trump-does-next-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-white-house-hopefuls-wait-to-see-what-trump-does-next-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump roils Georgia GOP as party waits to see if presidential visit helps — or hurts — in crucial Senate runoffs"
     excerpt: "The president’s baseless claims of fraud in the November elections have sparked a Republican civil war in the state, where voters will return to the polls on Jan. 5 in a pair of races that will determine control of the U."
     publishedDateTime: 2020-12-03T12:05:00Z

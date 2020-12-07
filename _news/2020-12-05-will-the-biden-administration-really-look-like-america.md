@@ -158,6 +158,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden expected to nominate Dr. Vivek Murthy to reprise role as US surgeon general"
+    excerpt: "As he builds out his health team, President-elect Joe Biden is expected to nominate Dr. Vivek Murthy as US Surgeon General, two sources familiar with the matter confirmed to CNN, returning to the role he served in during the Obama administration.\n    \n"
+    publishedDateTime: 2020-12-07T02:54:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8_L4HhVNrTU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/vivek-murthy-surgeon-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/vivek-murthy-surgeon-general/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200416163416-02-vivek-murthy-2015-climate-change-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden readies major stimulus push and flurry of executive actions in first 100 days"
     excerpt: "President-elect Joe Biden and his transition team are preparing for an early, all-out push to pass an ambitious new stimulus bill, while also drawing up plans for a flurry of executive actions aimed at delivering on campaign promises and undoing the Trump administration's efforts to undermine key government"
     publishedDateTime: 2020-12-01T12:02:06Z

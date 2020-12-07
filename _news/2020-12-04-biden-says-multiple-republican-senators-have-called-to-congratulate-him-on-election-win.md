@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html"
 type: article
 quality: 182
-heat: 502
+heat: 522
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden expected to nominate Dr. Vivek Murthy to reprise role as US surgeon general"
+    excerpt: "As he builds out his health team, President-elect Joe Biden is expected to nominate Dr. Vivek Murthy as US Surgeon General, two sources familiar with the matter confirmed to CNN, returning to the role he served in during the Obama administration.\n    \n"
+    publishedDateTime: 2020-12-07T02:54:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8_L4HhVNrTU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/vivek-murthy-surgeon-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/vivek-murthy-surgeon-general/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200416163416-02-vivek-murthy-2015-climate-change-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

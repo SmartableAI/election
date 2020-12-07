@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-26-joe-biden-says-lets-be-thankful-for-democracy-in-message-of-unity-live.md",
+      "title": "Joe Biden says 'Let's be thankful for democracy' in message of unity – live",
+      "excerpt": "Biden will speak in Wilmington as US records highest daily Covid deaths since May and 172,935 new cases",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbeb83c8f08850ef86c6ad4",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbeb83c8f08850ef86c6ad4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/24f99c0d55da1b4d269627546f6fde1b348710d6/0_162_4928_2956/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3362e2ec893a9005aef414c6b8f5edc",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates",
+      "publishedDateTime": "2020-11-25T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-chinese-leader-xi-jinping-congratulates-biden-on-winning-election.md",
       "title": "Chinese leader Xi Jinping congratulates Biden on winning election",
       "excerpt": "Chinese President Xi Jinping on Wednesday sent a congratulatory message to President-elect Joe Biden, more than two weeks after the Democratic candidate was projected the winner of the US presidential election.\n    \n",
@@ -1294,62 +1346,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-biden-to-tap-former-fed-chair-janet-yellen-as-treasury-secretary-report.md",
-      "title": "Biden to tap former Fed Chair Janet Yellen as Treasury secretary: report",
-      "excerpt": "President-elect Joe Biden will reportedly nominate former Federal Reserve Chair Janet Yellen to serve as Treasury secretary in his administration, which would make her the first female to hold the Cabinet post.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vnQAEvCYeI0/biden-to-tap-former-fed-chair-janet-yellen-as-treasury-secretary-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vnQAEvCYeI0/biden-to-tap-former-fed-chair-janet-yellen-as-treasury-secretary-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-tap-former-fed-chair-janet-yellen-as-treasury-secretary-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-tap-former-fed-chair-janet-yellen-as-treasury-secretary-report.amp",
-      "publishedDateTime": "2020-11-23T12:28:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
