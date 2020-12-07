@@ -209,8 +209,8 @@ related:
         isCached: true
   - title: "Giuliani tests positive for COVID-19, latest in Trump's inner circle"
     excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, prompting one state legislature to close for a week after Giuliani visited to try to persuade lawmakers to help reverse Trump's election defeat."
-    publishedDateTime: 2020-12-07T02:12:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSKBN28G0T2"
+    publishedDateTime: 2020-12-07T06:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-4-giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSL1N2IM0G2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
     type: article
@@ -386,7 +386,7 @@ related:
   - title: "Trump lawyer Rudy Giuliani positive for COVID-19 after wave of lawmaker lobbying"
     excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, after a wave of travel by the former New York mayor seeking to persuade Republican state lawmakers to overturn the election results."
     publishedDateTime: 2020-12-07T02:16:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-2-trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-lawmaker-lobbying-idUSL1N2IM0G2"
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-travel-challenging-election-results-idUSKBN28G0T2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
     type: article
@@ -558,6 +558,6 @@ related:
         height: 683
         isCached: true
 
-secured: "ukNiWQCjXJa7ScZe67sYkqeZeeMSmeHzz8jOJvPkWt/FxtRSZhCjy2IWzWtfl4+MtPUvfZ0mIrcncFOqSfc8VwB8Q79eQRPQPvV/8ehw43thsmRvqHTwjBaDAKmZov99qkNThP9Z6Dl6tuEGqlHMbddQW7c7Nc5fwxYesNoTmwcgvjKBTA+2DbWUWxzAcOrRE1s08+yXDyZaZzyGBz1jZPJ0L5z9uJqoOZ5Wdi9uyevau6xSNn1v9HMSTp2AGJwJhhXJdno2IArkZRbwGrCw+bbkbFnEafHhLZwlFG0Cdd/rBkaVhWEUNDkNcs6D4VGnNuX0PwM9v2zOWSAxuQj58itK6S+2SIcmJj7PeLX3mHw=;iEXNooELDLyxnRbetA8ryQ=="
+secured: "cVx6Eg3kvnzUu50pvNFVRJVPLrBqVtbgFI7pF2wMs2LGeVEyd61ryL400k0Vwvz+TMEbY6kgdln1CJETN13V1Th43NFybrpc567ocpsC9zZccPKNHPGaJ+xUyZ1WpHxJf9SP7pc7YD8SudhWvrHTNgj5g5qb0Q5pHTF4D6lS8vlYi3nEeZ33nlpfDWPpUSBumpaSZWESeJH5xkYfrtySubfSGg2MKx5SSq3kkAZPDBpYy6EXZZq8HTBfcGWW4pwih9aStyf4DkMp254ntTmdkbv7DKMZ4o7BpSqUtU4tZkDQmT7dUdjPeGcpXcwKENs2kFG04d0D+v7vZz9BRr/T4EFF4u2uiopIhO0MYjNeD3itwACRdpX2oHOMVjVPcv/8446Z9zWqKeXjadmL+5mQwz2LlpLxNka4cOpkcgWpQfC7QJRnNROi5z77KUwixhosrqwu8cuFoCBD8M5EFbJzig/Iy4SP3MGANVyeRXHWgfNIz1tAJworQk8EGNlBcFoloEf9nLbMcDIxlnYKGYH1Qg==;DMKVQHHQROR6uCsKzRqgmw=="
 ---
 

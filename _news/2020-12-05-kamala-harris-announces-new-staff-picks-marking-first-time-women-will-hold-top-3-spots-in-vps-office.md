@@ -307,6 +307,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Tina Flournoy, longtime Democratic strategist, named chief of staff for Vice President-elect Kamala Harris"
+    excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
+    publishedDateTime: 2020-12-04T17:37:00Z
+    webUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html"
+    ampWebUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 57
+    images:
+      - url: "https://www.sun-sentinel.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris shares how to brine a turkey in viral video"
     excerpt: "A 2019 video of Vice President-elect Kamala Harris offering tips on how to brine a Thanksgiving turkey is spreading across social media faster than you can pass the gravy. The video was captured and posted on Twitter by Washington Post journalist Jonathan Capehart who asked Harris for her tips on cooking a turkey as she was preparing for an appearance on MSNBC's \"PoliticsNation."
     publishedDateTime: 2020-11-26T19:18:00Z

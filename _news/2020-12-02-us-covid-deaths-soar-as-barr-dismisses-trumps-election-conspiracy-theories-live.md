@@ -193,8 +193,8 @@ related:
         isCached: true
   - title: "Giuliani tests positive for COVID-19, latest in Trump's inner circle"
     excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, prompting one state legislature to close for a week after Giuliani visited to try to persuade lawmakers to help reverse Trump's election defeat."
-    publishedDateTime: 2020-12-07T02:12:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSKBN28G0T2"
+    publishedDateTime: 2020-12-07T06:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-4-giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSL1N2IM0G2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
     type: article
@@ -386,7 +386,7 @@ related:
   - title: "Trump lawyer Rudy Giuliani positive for COVID-19 after wave of lawmaker lobbying"
     excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, after a wave of travel by the former New York mayor seeking to persuade Republican state lawmakers to overturn the election results."
     publishedDateTime: 2020-12-07T02:16:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-2-trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-lawmaker-lobbying-idUSL1N2IM0G2"
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-travel-challenging-election-results-idUSKBN28G0T2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
     type: article

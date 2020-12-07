@@ -321,6 +321,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tina Flournoy, longtime Democratic strategist, named chief of staff for Vice President-elect Kamala Harris"
+    excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
+    publishedDateTime: 2020-12-04T17:37:00Z
+    webUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html"
+    ampWebUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 57
+    images:
+      - url: "https://www.sun-sentinel.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Harris: COVID spawns 'hunger crisis in America'"
     excerpt: "Vice President-elect Kamala Harris says there is a \"hunger crisis in America now\" due to the COVID-19 pandemic but promises quick action to address the challenge when in office. (Dec. 1)"
     publishedDateTime: 2020-12-01T20:57:00Z

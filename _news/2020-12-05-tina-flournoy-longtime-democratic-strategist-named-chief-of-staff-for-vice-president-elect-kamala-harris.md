@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Kamala Harris visits outdoor Washington, D.C. market for Small Business Saturday"
-excerpt: "Vice President-elect Kamala Harris stressed the importance of supporting small businesses amid the COVID-19 pandemic as she visited an outdoor market in Washington, D.C. for Small Business Saturday."
-publishedDateTime: 2020-11-29T17:03:00Z
-originalUrl: "https://www.upi.com/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/"
-webUrl: "https://www.upi.com/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/"
-ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/"
+title: "Tina Flournoy, longtime Democratic strategist, named chief of staff for Vice President-elect Kamala Harris"
+excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
+publishedDateTime: 2020-12-04T17:37:00Z
+originalUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html"
+webUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html"
+ampWebUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
 type: article
-quality: 70
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Sun Sentinel
+  domain: sun-sentinel.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/sv/ph/og/upi/5851606665676/2020/1/5226819b3561030471050fc4702b6888/v1.5/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday.jpg"
-    width: 800
-    height: 531
+  - url: "https://www.sun-sentinel.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -259,6 +259,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris visits outdoor Washington, D.C. market for Small Business Saturday"
+    excerpt: "Vice President-elect Kamala Harris stressed the importance of supporting small businesses amid the COVID-19 pandemic as she visited an outdoor market in Washington, D.C. for Small Business Saturday."
+    publishedDateTime: 2020-11-29T17:03:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/29/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday/5851606665676/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 70
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5851606665676/2020/1/5226819b3561030471050fc4702b6888/v1.5/Kamala-Harris-visits-outdoor-Washington-DC-market-for-Small-Business-Saturday.jpg"
+        width: 800
+        height: 531
+        isCached: true
   - title: "Kamala Harris has so far picked an all-women staff to aid her in the White House"
     excerpt: "Harris transition team announced Thursday that Vice President-elect Kamala Harris will name Tina Flournoy to be her chief of staff, and add Rohini Kosoglu as domestic policy adviser and Nancy McEldowney as national security adviser."
     publishedDateTime: 2020-12-03T16:31:00Z
@@ -304,22 +320,6 @@ related:
     quality: 59
     images:
       - url: "https://media.nbcnewyork.com/2020/12/106804517-16068492022020-12-01t185222z_353046037_rc2iek9vyz3q_rtrmadp_0_usa-biden.jpeg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Tina Flournoy, longtime Democratic strategist, named chief of staff for Vice President-elect Kamala Harris"
-    excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
-    publishedDateTime: 2020-12-04T17:37:00Z
-    webUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html"
-    ampWebUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 57
-    images:
-      - url: "https://www.sun-sentinel.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
         width: 1200
         height: 675
         isCached: true
@@ -386,6 +386,6 @@ related:
       domain: omaha.com
     quality: 35
 
-secured: "cLolzWCNu6EUq8aceGgxbGE1p3j9EyYbBctJq5EvnIqH68oXYDfwP9xwyn+KnvEIRu4aOz2iDYQKzi7oozbnaK9xAk5lWKZj/7l/yb7W2pTiYCg3XupDNZM4oTEBirjjLp+/cpXOypaC3a19EYbYjJD2r8xsmuO6KEHG507SH1MLeHa6WZRCQIX6qaDPGMOJlatkW8TVLy/Y+LUJzmjgCVOsT9vV6AncYboHzbBPQO8SvCWRFjws2cyyfNxQiodz2eBUqoNBt3V+DojFIoMgm0bVuflQQXzabq0Xc9tkNKRaKHN1qAfhpR8niAAfM8DC8W51rADe3NtK2ug8hISVLCgFoF9UbiDximeP1t08vjz8nRCu9KjiDlDbKYcCRxJHcFtoWMkK/p1iPqUrQuq9C6/Ra/bavqrUxagw8KVHDPyKrHpZhCSi+SQffjs0Rmn1515Wrn/rmDTN0PSzh/BEsuv0vuDQ8Ic9NuX+CxZ4BjzUae2ivIq6kAoCXk0kg7vIQLGD1Oy4U9hNOScMsmKT0Q==;8kimf+k+Fi2X7cSM0M2+9w=="
+secured: "2Gt7GIg2YwwTcwdAop/BsNB4ulpYvE+hGesrBETgs/D2ZfnCyZds9fRwstQwQQw1xpj4yFz3X0FsIfH+TZyfSyYRACwjrV3i+ePEN0d5P3KoUWIEBKw79h+UniGGo+jvWrnY2i/wlR3uYcW+Nj7x7MJUBBPT/2NvHBraCBAwF3b67JW/7EkKPjaGE5/1aqt7GUrTMm7iYPB5QvXNLASGKT6+g6HtBv71dJGvnzBKm2sTIDNOwXoshPg4RDYh/ZZnvlM3PTIxOVo5LmFLsfcpPzA1Ju7jQI6G6h3MICpAk/uGlGE33kaC0v0O50ifc9VKlv1tawoE0qw0aHwiAAdMyVGERaUMi5NVncGOJt8Iz6I=;7fGpUSMswTJU95lp1qpjzQ=="
 ---
 

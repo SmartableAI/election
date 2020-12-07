@@ -2,9 +2,9 @@
 category: news
 title: "Giuliani tests positive for COVID-19, latest in Trump's inner circle"
 excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, prompting one state legislature to close for a week after Giuliani visited to try to persuade lawmakers to help reverse Trump's election defeat."
-publishedDateTime: 2020-12-07T02:12:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-giuliani/giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSKBN28G0T2"
-webUrl: "https://www.reuters.com/article/usa-trump-giuliani/giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSKBN28G0T2"
+publishedDateTime: 2020-12-07T06:34:00Z
+originalUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-4-giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSL1N2IM0G2"
+webUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-4-giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSL1N2IM0G2"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
 type: article
@@ -386,7 +386,7 @@ related:
   - title: "Trump lawyer Rudy Giuliani positive for COVID-19 after wave of lawmaker lobbying"
     excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, after a wave of travel by the former New York mayor seeking to persuade Republican state lawmakers to overturn the election results."
     publishedDateTime: 2020-12-07T02:16:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-2-trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-lawmaker-lobbying-idUSL1N2IM0G2"
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-travel-challenging-election-results-idUSKBN28G0T2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
     type: article
@@ -558,6 +558,6 @@ related:
         height: 683
         isCached: true
 
-secured: "+TZ+iIROc1pxdLv3pa/Z85XkfutFhVkxiIxulrhTjBNAXsax/SUNrRSRsdNESJGFoclEHjVEwwGWv9D19lYpy4vztU7HVjmFgduTM+giGu8qxPM9lKDxgOe8/r1MFY4uodQvlOCowKlWClIlJDt7OqJhtxVm+0DCbGyF7pyNjQtG9/bv37ew4tpAMwbjdd8CTcSFwgQPma0SwXQ48GORhc+ncg6fAIqC3CvoEKW5u2+ZYrjEjZeyDPWDGYtXH9ka8aOSA7FdOgTlgJNDRubucZ26Fp5f2HP5mw43rdtsvMjLEfZfj4IH05GMd0EvdSmDd0NKbfdUGULMjkRYErPSkdPCBqTqppcAqYWun5u7GDSM+HRl5TcsQ/QtNFi+NdLGRR2qa3imxiLgLgLfIXlDo46fJ/+JvQNTYgR8ULHuVXsYEB/885PdkUboINiuDg+I+zstqE7Tn62/qq36cbmkfOUS9DTKpiJjHbzJrRjjmVqj0UHTwqm+VZd79sKMgt51zMsveyWfhlMrAaDQkJIQpw==;1OPQzSr9MpKhdXVeXFwjWw=="
+secured: "qnmuFNZkFZxhPhc/c9XhQ5A20/7W1xTJYOsz/oeCR1TbMnu95RRbFYbTAqlP6yZxu+WkvP3FVH39fYJ4qbOpfdyMTbVxaFRszUSu673+xv0XIU+Fd9dj/R4nbSwBiAyVGY48BM7pgdUfZvK6crMYYWwQ0OUqTVEj/QwIWL6nns0ZUNtaxf81GcUlMHwOrz19NNCY/E8XmXDM62j5vmnWd+gub+cGmLpcFxHd4w1oOncEgcBsH69nm1SG3nAZkRG/iZmKrIgBt0H4YZr6Tnhq0yCtPWxZcO7qZjDH5sMeWCgNAIqjb90hwiqGgVzB6CgdJXmEd3zlusP7TrdEtiLXWO7Qyx79wJurRBf2DwmAW4Y=;3sRvLf8WWzQu/aDdOqmFDg=="
 ---
 
