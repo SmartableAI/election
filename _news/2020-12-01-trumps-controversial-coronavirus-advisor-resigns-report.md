@@ -45,6 +45,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "U.S. Congress heads to defense bill showdown with Trump over Big Tech"
+    excerpt: "A senior U.S. Republican lawmaker said on Monday he hoped Congress would pass a $740 billion defense bill this week by a margin large enough to ward off President Donald Trump's veto threat, which he said risked \"punishing\" the troops."
+    publishedDateTime: 2020-12-07T18:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-congress/u-s-congress-heads-to-defense-bill-showdown-with-trump-over-big-tech-idUSKBN28H2DQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2DQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2DQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543724407&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61DA"
+        width: 816
+        height: 545
+        isCached: true
   - title: "White House coronavirus adviser Fauci to meet with Biden transition team: CNN"
     excerpt: "White House coronavirus task force member Anthony Fauci will meet with members of President-elect Joe Biden's team on Thursday after President Donald Trump's administration delayed the transition process for weeks amid a coronavirus surge."
     publishedDateTime: 2020-12-03T15:24:00Z

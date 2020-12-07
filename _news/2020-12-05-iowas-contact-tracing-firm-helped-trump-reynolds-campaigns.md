@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/iowas-contact-tracing-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/iowas-contact-tracing-firm-helped-trump-reynolds-campaigns-74540682"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump honors legendary Iowa wrestler Gable at White House"
+    excerpt: "President Donald Trump presented the nation’s highest civilian honor to Dan Gable, a renowned wrestler and coach from Iowa who won a gold medal at the 1972 Summer Olympics"
+    publishedDateTime: 2020-12-07T15:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-to-honor-legendary-iowa-wrestler-gable-at-white-house/2020/12/07/8dba5334-38a1-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-honor-legendary-iowa-wrestler-gable-at-white-house/2020/12/07/8dba5334-38a1-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-honor-legendary-iowa-wrestler-gable-at-white-house/2020/12/07/8dba5334-38a1-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Former soldier who pleaded guilty to killing 16 Afghans and 7 other former troops and contractors are asking Trump for pardons"
     excerpt: "At least eight former service members and Blackwater guards convicted of war crimes have filed petitions seeking pardons or clemency from Trump."
     publishedDateTime: 2020-12-07T08:36:00Z

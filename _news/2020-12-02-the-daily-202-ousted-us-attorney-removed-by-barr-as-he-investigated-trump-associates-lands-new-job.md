@@ -367,6 +367,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump says his attorney Giuliani is doing well, does not have fever"
+    excerpt: "U.S. President Donald Trump's hospitalized personal attorney Rudy Giuliani is doing well and does not have a temperature, the president said on Monday at the White House."
+    publishedDateTime: 2020-12-07T20:20:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/trump-says-his-lawyer-giuliani-hospitalized-with-covid-19-does-not-have-fever-idUSKBN28H2FU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2FU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2FU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543737032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61IP"
+        width: 811
+        height: 545
+        isCached: true
   - title: "Donald Trump releases video statement repeating baseless vote fraud claims"
     excerpt: "President claims electoral system ‘under coordinated assault’ but justice department found no evidence of significant fraud"
     publishedDateTime: 2020-12-02T19:25:00Z
@@ -476,6 +492,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/04/abf5d912-ddd7-4970-ba76-9c08be507777/thumbnail/1200x630/a35d5b801ed7abb3b435a12c879c3a6b/cbsn-fusion-president-trump-not-happy-with-attorney-general-william-barrs-election-comments-thumbnail-601085-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump suggests Rudy Giuliani's crusade to overturn the election results is 'more important' than when he led New York's 9/11 response"
+    excerpt: "Giuliani was lauded for his 9/11 response, but his public image has cratered in recent years as he spins a web of increasingly incoherent conspiracies."
+    publishedDateTime: 2020-12-07T19:48:00Z
+    webUrl: "https://www.businessinsider.com/trump-giuliani-legal-efforts-more-important-than-nyc-mayor-911-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-giuliani-legal-efforts-more-important-than-nyc-mayor-911-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-giuliani-legal-efforts-more-important-than-nyc-mayor-911-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5fce7fa0eadd8400183df929?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "'Get better soon Rudy, we will carry on!!!': Trump tweets that Rudy Giuliani tested positive for coronavirus"
     excerpt: "Giuliani, who spent the week traveling the country challenging the election results, is the latest close associate of the president to test positive."

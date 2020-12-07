@@ -47,6 +47,54 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "GOP Rep. Ken Buck calls for Hunter Biden special counsel in letter to Barr"
+    excerpt: "EXCLUSIVE: Republican Rep. Ken Buck on Monday urged Attorney General William Barr to appoint a special counsel to investigate Hunter Biden's business dealings and a laptop purportedly belonging to him in order to ensure an investigation “free from political interference.”"
+    publishedDateTime: 2020-12-07T19:36:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPN7bxKFtu0/gop-rep-ken-buck-hunter-biden-special-counsel"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Pro-lifers, religious liberty advocates sound alarm over Biden HHS pick Xavier Becerra"
+    excerpt: "A number of Catholics and conservative activists are sounding the alarm Monday over Health and Human Services Secretary nominee Xavier Becerra, pointing to his record of attacking conservative policies as California's attorney general. "
+    publishedDateTime: 2020-12-07T20:19:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NDbnaXr1Gq0/pro-lifers-religious-liberty-advocates-becerra-hhs"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-lifers-religious-liberty-advocates-becerra-hhs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-lifers-religious-liberty-advocates-becerra-hhs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21e1e348-1ec2-479b-b481-cdd70f49ab47/4c923316-a2af-45f8-a6c4-18f5b1cb409a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Republicans slam Biden's HHS pick Becerra as 'disaster for California'"
+    excerpt: "Republicans slammed President-elect Joe Biden after he announced his choice of California Attorney General Xavier Becerra for secretary of Health and Human Services on Monday, and they criticized Becerra's record on abortion and other issues."
+    publishedDateTime: 2020-12-07T16:29:00Z
+    webUrl: "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1181949866.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "8XT+befAk4nzJOrgHFHC9WNkFayGca2yJy5MobfblMuAr/8emcbURK8woyuLj/XGm0RB9zucMeszE7QWSOLGvj+k6QTCv+hSe95dn7fq73ohJoEEi6rqWIrmlYxJQGseRAJgzHE2X0kTj6AaETIgh6QgTwZU3lqkA6vuIvxDZVta+NbEIBUT0zixmOI7I/+ME7TuuaklSVGxuYAOQldbYVw0Y0A3XKzCkAJeaH8Kx0we60GJ0mejXwosUTodUnbq1j6Kpn6BOJFMB60WnYX567kXIkpqoZCc7Qe3xCvIvauFuPAGfocEt9Faxe5O7oj5MS5xV3i4PJNmZZlJotJglijNZqsn3Nd0tIr0R/b88xw=;rCCcohIfbB1Q9+rSdo5AaQ=="
 ---

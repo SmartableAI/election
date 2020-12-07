@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live"
     excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
-    publishedDateTime: 2020-12-07T13:46:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce2b128f0861e6ffe1de22"
+    publishedDateTime: 2020-12-07T14:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce26118f08a20e617d9464"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
     type: article

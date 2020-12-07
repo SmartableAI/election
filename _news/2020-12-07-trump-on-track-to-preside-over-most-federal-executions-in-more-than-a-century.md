@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "U.S. Congress heads to defense bill showdown with Trump over Big Tech"
+    excerpt: "A senior U.S. Republican lawmaker said on Monday he hoped Congress would pass a $740 billion defense bill this week by a margin large enough to ward off President Donald Trump's veto threat, which he said risked \"punishing\" the troops."
+    publishedDateTime: 2020-12-07T18:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-congress/u-s-congress-heads-to-defense-bill-showdown-with-trump-over-big-tech-idUSKBN28H2DQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2DQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2DQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543724407&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61DA"
+        width: 816
+        height: 545
+        isCached: true
   - title: "White House coronavirus adviser Fauci to meet with Biden transition team: CNN"
     excerpt: "White House coronavirus task force member Anthony Fauci will meet with members of President-elect Joe Biden's team on Thursday after President Donald Trump's administration delayed the transition process for weeks amid a coronavirus surge."
     publishedDateTime: 2020-12-03T15:24:00Z
@@ -201,6 +217,6 @@ related:
         height: 682
         isCached: true
 
-secured: "FuPmRQbeJ9ZLp97x8Vowx4NHygBXEEiiy5tQqcFrfRq4E3inMbVokvYUk3JUusgZ0yDfDzmY/EljMMJ7dQ+87hZKQKqO5wpBWaOgFH0Dsdb5MLZEqIg/4DjsxBNWhmV0b68ug243wTuK2d2cfu3CfzoXM8IUGKn5+pP75YuT2GFkdqEImbNVkhp1aQ7evLp+htH1zSztYzhSutlZ/OA961ZImk0GIv8Nk+gMXeUOxZAUsZr+1ajHXXJjUVi/zlogTEazlzDD0W6ez3toT06QwPnWmTauub9zmVpksOvFv6OY7ZC2Sk+5rWzZCmo016TSLwk7pRHgQ/7GbjwV3ZdArTloBcNIjfhWfBdPh+DdXyE=;H+BpcI7BrmbD/1XiERW9NQ=="
+secured: "6OkQ/Rskz11GaAcK7qH/+Yi1MeflW1h0LsnwDM0BGmbdntWChibIcDI3PomOA75QRJbrASwqqL7JjPS0yG59D14a4ibiAQuLOlVd3tXXPwER7VcnfvxOhlneQqcV3DCVb0KTDtCx+VihiFctbbTEi0Eifl7eXS3EP3f84Vqq/Py+7SVBzJuHA1K/EqQrvb5Snn8WyAq6Z/ykio1ID0xgz7wCKIFnEsrEz7B2ZP90qA3uWJEiKtpoqNH9hprtYzkQ3ZjVvp+6DXccGyyqhFewiSIsQzsXbTFZJZICAxoTEUxvQDqwyF1J5aLBC1WBzvls2SvZ9qFu/9MJ5PXs3Tpjq9t7UwfuxJfEM1Uq+OniTLZD2XzoC3K/iD3xldv1EXh3Tpsh+G/YXtSPVZ9UAiBuhu/ln3DD3AT79U4yyB/30GMfeGkIino6ffcfxTICqGqJumWtn9SwXV9n3s1pPYtmOUOVaizAfTwRc59PgpTAbgr0YQKgq0q7scdsoW9KYEhr+ki78rDdFTgtvIkneiow7w==;N0J+iQU0W1J/TDWId98Bhw=="
 ---
 

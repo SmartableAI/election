@@ -1,34 +1,28 @@
 ---
 category: news
 title: "The Latest: Biden names prominent allies as inaugural chairs"
-excerpt: "President-elect Joe Biden is naming some of his most prominent allies to be co-chairs for his upcoming Inauguration"
-publishedDateTime: 2020-12-07T15:24:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
-webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
+excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+publishedDateTime: 2020-12-07T15:27:00Z
+originalUrl: "https://www.businessinsider.com/the-latest-biden-names-prominent-allies-as-inaugural-chairs-2020-12"
+webUrl: "https://www.businessinsider.com/the-latest-biden-names-prominent-allies-as-inaugural-chairs-2020-12"
+ampWebUrl: "https://www.businessinsider.com/the-latest-biden-names-prominent-allies-as-inaugural-chairs-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-names-prominent-allies-as-inaugural-chairs-2020-12?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_97ba35b36e2949f0acd2398caec14d70_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden talks inauguration plans; Obama, Pence seek to boost Ga. Senate candidates"
@@ -498,6 +492,6 @@ related:
         height: 576
         isCached: true
 
-secured: "9un/G4NHeEiGHncQxTLbMARXwGGz4jJcGY8XvZRJgq5xnMwZZFry0fYAG4qukV6/W4flBqIMsOqFMzjyFtIk9WjVPy4RlUG1fEUG94VA2Tg0RG6wFLqP15TG3iev04+KZgOTEvH39ntebtN+WNGSY+9QYOVVf3BTnlPYgMWGQtUwQrWMgbz8EgWh3Q+OzIHmCsZmWmXdeRh1USv4GkDxUCoJv1y2V/D55+m3/d2om2jJ1wJm6Pb77myfiqlwmTaf/7VHdJj2JZ/hmix75CJHtViyiT4MtJ1hgLQzdPF2DwcUOoVNWAmbUYlHb27BjYG+PSOx0GMRkVxI0k3oCra5dACm9lgPSvVuzvgukdyeSvE=;nHRwWEXj5ig0Or8TIGYuFw=="
+secured: "r+eKVUePx5I3SiNcY1ve4CBhhCk8PZhH2rQfhn6pO9fI4drps2FVvYrZk+Y3aWq9ryj6VHuRVf5k/2YQfxsWI2Z22nLKb002RpVpObTj8cf4U1Xrfz/+jLkBOpoqbtvilwe8E6rXYXR1NIMY54CPsLUvxPcqCmuQaM+RtfNtT50lv3ocxw/O/FtOPJCMFsBzPrGqAj2lbMlop9xHQni67aytGPb8AuwebZGx2+73qksWbOf9DpaP2y4ufiprjlyQuPmD5877jUlK1MjNW1182dWwNswrDOXNfZ/nqMksmVI29R/eV2r1s4zg80eHWcRwEGedzuWOemILVtHuM8tKF/Iauy7utRb/b8PKG1TiT1A=;broFHWXRhqQ+6I3D5bqNtg=="
 ---
 

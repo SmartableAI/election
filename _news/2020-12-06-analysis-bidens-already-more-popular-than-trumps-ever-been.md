@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House conservatives urge Trump not to concede and press for floor fight over election loss"
+    excerpt: "President Donald Trump's staunchest defenders on Capitol Hill are urging him not to concede even after President-elect Joe Biden wins the Electoral College vote next week, calling on their party's leader to fight for his unsubstantiated claims of widespread election fraud all the way to the House floor"
+    publishedDateTime: 2020-12-07T20:32:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pQiOMC-B_3E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/house-republicans-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/house-republicans-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200728170636-jim-jordan-barr-hearing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia election official pleads with Trump and Republicans to 'stop inciting acts of violence'"
     excerpt: "A Georgia election official on Tuesday condemned threats of physical violence and intimidation against election workers and officials, pleading with President Donald Trump to denounce the threats and urging both of the state's Republican senators to intervene.\n    \n"
     publishedDateTime: 2020-12-02T01:24:59Z
@@ -524,6 +540,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201205212306-02-trump-rally-georgia-1205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Aides speculate if Trump will travel to Mar-a-Lago for holidays and never return"
+    excerpt: "Where President Donald Trump decides to spend the final weeks of his presidency has become a matter of internal speculation as aides wonder whether he'll leave the White House for the holidays -- and never return.\n    \n"
+    publishedDateTime: 2020-12-07T18:51:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e7-pfAIO1e8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/trump-mar-a-lago-christmas-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/trump-mar-a-lago-christmas-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050331-02-donald-trump-thanksgiving-1126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -959,6 +991,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "As His Term Ends, Trump Faces More Questions on Payments to His Hotel"
+    excerpt: "A civil case being pursued by the attorney general for the District of Columbia has brought renewed attention to what limits there should be on a president’s ability to profit from the office."
+    publishedDateTime: 2020-12-07T17:44:00Z
+    webUrl: "https://www.nytimes.com/2020/12/07/us/politics/trump-hotel-payments.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/07/us/politics/trump-hotel-payments.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/07/us/politics/trump-hotel-payments.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/06/us/politics/06dc-inaugural1/06dc-inaugural1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
     publishedDateTime: 2020-12-01T16:55:00Z
@@ -1176,6 +1224,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Hawley urges Trump to veto Covid bill absent stimulus checks"
+    excerpt: "Josh Hawley is not happy that the leading coronavirus proposals lack another round of direct payments to Americans — and he’s taking his case straight to President Donald Trump. The Missouri Republican lobbied Trump to veto any coronavirus aid bill that does not contain a second tranche of checks to Americans in a phone call on Saturday."
+    publishedDateTime: 2020-12-07T19:35:00Z
+    webUrl: "https://www.politico.com/news/2020/12/07/hawley-trump-veto-covid-bill-443444"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/c4/9d/0fd706de40b0806372574b469c58/ap20288642422941.jpg"
+        width: 5156
+        height: 3435
         isCached: true
   - title: "The Trump Administration Just Made the Citizenship Test Harder. How Would You Do?"
     excerpt: "Test your knowledge on some of the topics from American history and government that prospective new citizens have to answer."
