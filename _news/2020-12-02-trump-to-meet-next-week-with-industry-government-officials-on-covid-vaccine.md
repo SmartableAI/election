@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Trump to sign order giving priority access for COVID vaccines to Americans"
+    excerpt: "President Donald Trump will sign an executive order on Tuesday to ensure that priority access for COVID-19 vaccines procured by the U.S. government is given to Americans, a senior administration official said on Monday."
+    publishedDateTime: 2020-12-07T21:11:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-vaccines-trump-idUKKBN28H2LN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28H2LN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28H2LN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543746778&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61GM"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Live politics updates: Pence heads to Tennessee to talk COVID vaccine, 3 ex-presidents say they'll take it"
     excerpt: "Pence visits Memphis on Thursday to hold a roundtable discussion on distributing a COVID-19 vaccine as case numbers in the U.S. reach new highs."
     publishedDateTime: 2020-12-03T13:50:00Z

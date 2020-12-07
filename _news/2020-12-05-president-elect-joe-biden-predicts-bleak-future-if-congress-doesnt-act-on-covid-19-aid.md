@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Despite Biden pledge, coronavirus bill in Congress now may be all Americans get: analysts"
+    excerpt: "President-elect Joe Biden has called the $908 billion coronavirus aid bill taking shape in Congress a \"downpayment\" toward a bigger stimulus next year, but if it passes, that is all U.S. businesses and workers should count on,"
+    publishedDateTime: 2020-12-07T22:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-economy-coronavirus-stimulus-idUKKBN28H2SR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28H2SR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28H2SR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543740708&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61KL"
+        width: 754
+        height: 545
+        isCached: true
   - title: "Biden shortlist for White House key environmental post shows focus on environmental justice"
     excerpt: "President-elect Joe Biden is vetting three environmental justice leaders to head up the White House agency that will take the lead in coordinating efforts to safeguard communities disproportionately affected by pollution,"
     publishedDateTime: 2020-12-01T11:29:00Z

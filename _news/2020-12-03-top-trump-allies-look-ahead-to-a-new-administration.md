@@ -432,6 +432,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's challenges failed but there's still room for drama"
+    excerpt: "Voters voted. States counted the votes. Challenges were heard and rejected. Now it's up to the Electoral College to make President-elect Joe Biden's victory completely official.\n    \n"
+    publishedDateTime: 2020-12-07T21:55:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N3ae63UrRAs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/electoral-college-vote-timeline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/electoral-college-vote-timeline/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016115324-20201016-election-day-to-inauguration-illustration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ex-Presidents fill leadership vacuum as Trump ignores worsening pandemic"
     excerpt: "This is what presidential leadership looks like.\n    \n"
     publishedDateTime: 2020-12-03T09:11:11Z
@@ -576,6 +592,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "State Republicans continue to break with Trump, while those in Congress remain silent"
+    excerpt: "It was a tale of two realities in Georgia this weekend.\n    \n"
+    publishedDateTime: 2020-12-07T22:19:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5IV3lCuw-0Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/trump-republican-party-capitol-hill-states/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/trump-republican-party-capitol-hill-states/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202123706-raffensperger-1130-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Plotting the future: Trump kids even look to profit from their father's fallen legacy "
     excerpt: "It was Thanksgiving, but instead of being seated at an elaborate table dressed with gold silverware, expensive china and a buffet of chilled seafood, turkey and beef tenderloin, waited on by household staff, Donald Trump Jr., Eric Trump, Ivanka Trump and Jared Kushner were in the wilderness of Maryland.\n"
     publishedDateTime: 2020-12-03T19:55:51Z
@@ -621,6 +653,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924181014-hahn-0923-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House lawmakers say they will cut holiday short to override possible Trump veto of defense bill"
+    excerpt: "Multiple House lawmakers, including the top Democrat and Republican on the House Armed Services Committee, have said they will cut their holiday short if necessary to override a veto by President Donald Trump of the National Defense Authorization Act.\n    \n"
+    publishedDateTime: 2020-12-07T22:15:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LIIfsiICBYo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/thornberry-smith-trump-ndaa-veto-override-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/thornberry-smith-trump-ndaa-veto-override-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207131736-03-trump-1205-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1007,6 +1055,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/06/us/politics/06dc-inaugural1/06dc-inaugural1-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Special Counsel to Trump: Punish Navarro for Hatch Act violations"
+    excerpt: "White House trade adviser Peter Navarro also made frequent use of his Twitter account to attack both Biden and Harris."
+    publishedDateTime: 2020-12-07T21:17:00Z
+    webUrl: "https://www.politico.com/news/2020/12/07/peter-navarro-hatch-act-violations-443470"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/07/peter-navarro-hatch-act-violations-443470"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/07/peter-navarro-hatch-act-violations-443470"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/af/e8/8a623b59473c9d450f917558bd79/ap20211456448974.jpg"
+        width: 5472
+        height: 3646
         isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."

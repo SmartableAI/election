@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'This ship has sailed': Judges reject 2 more cases from pro-Trump lawyer Sidney Powell"
+    excerpt: "Attorney Sidney Powell saw swift defeat in two cases Monday morning, with judges in Michigan and Georgia dismissing her efforts to overturn the 2020 presidential contest."
+    publishedDateTime: 2020-12-07T21:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/ship-sailed-courts-reject-cases-pro-trump-lawyer/story?id=74585342"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/ship-sailed-courts-reject-cases-pro-trump-lawyer/story?id=74585342"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/ship-sailed-courts-reject-cases-pro-trump-lawyer/story?id=74585342"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/sidney-powell-01-ap-iwb-201207_1607362601991_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "A witness in Trump ally Sidney Powell's lawsuits says the voting results in 'Edison County' indicate fraud. No such place exists."
     excerpt: "The lawsuit is being pushed by allies of President Donald Trump in an effort to fight voters and declare him the winner of Michigan's electoral votes."
     publishedDateTime: 2020-12-01T17:23:00Z

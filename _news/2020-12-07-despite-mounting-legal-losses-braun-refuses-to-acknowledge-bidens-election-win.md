@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937"
 type: article
 quality: 135
-heat: 695
+heat: 715
 published: true
 
 provider:
@@ -414,6 +414,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/2d84c7be3188f5520d3dd4947c7876a17e0b13ae/0_546_6400_3841/master/6400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6a8f5735fb343bd060268ab89ee2f5c"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden is now seriously considering a Black US Army general to lead the US military"
+    excerpt: "If nominated by Biden and confirmed by the Senate, the retired US Army general would be America's first Black defense secretary."
+    publishedDateTime: 2020-12-07T22:51:00Z
+    webUrl: "https://www.businessinsider.com/biden-lloyd-austin-defense-secretary-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-lloyd-austin-defense-secretary-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-lloyd-austin-defense-secretary-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5fcea2d6037cbd001861460f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden, leading Democrats on board with the new $908 billion bipartisan stimulus proposal"
     excerpt: "The proposal includes enhanced federal unemployment benefits of $300 per week and $25 billion in rental assistance."

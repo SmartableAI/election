@@ -1,28 +1,34 @@
 ---
 category: news
 title: "The Latest: Biden names prominent allies as inaugural chairs"
-excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
-publishedDateTime: 2020-12-07T15:27:00Z
-originalUrl: "https://www.businessinsider.com/the-latest-biden-names-prominent-allies-as-inaugural-chairs-2020-12"
-webUrl: "https://www.businessinsider.com/the-latest-biden-names-prominent-allies-as-inaugural-chairs-2020-12"
-ampWebUrl: "https://www.businessinsider.com/the-latest-biden-names-prominent-allies-as-inaugural-chairs-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-names-prominent-allies-as-inaugural-chairs-2020-12?amp"
+excerpt: "President-elect Joe Biden is naming some of his most prominent allies to be co-chairs for his upcoming Inauguration"
+publishedDateTime: 2020-12-07T15:24:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
+webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_97ba35b36e2949f0acd2398caec14d70_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Biden talks inauguration plans; Obama, Pence seek to boost Ga. Senate candidates"
@@ -248,6 +254,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "Former CIA director says intelligence community will recover under Biden"
+    excerpt: "Former CIA Director Michael Hayden said Monday that he believes that the intelligence community will recover under President-elect Biden, after it faced repeated attacks from President Trump over the past four years."
+    publishedDateTime: 2020-12-07T22:41:00Z
+    webUrl: "https://www.cbsnews.com/news/michael-hayden-former-cia-director-intelligence-community-will-recover-under-biden/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/michael-hayden-former-cia-director-intelligence-community-will-recover-under-biden/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/michael-hayden-former-cia-director-intelligence-community-will-recover-under-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/07/04dfc8e0-5817-4c99-8312-3be7a4b1230b/thumbnail/1200x630/5f84e8e5b635e038d429583d2243481a/ap-080205068440.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Here’s the problem Biden faces if he picks current lawmakers for his Cabinet."
     excerpt: "President-elect Joe Biden has begun to select candidates for crucial positions in the Cabinet and other senior administration spots. In the running are sitting elected officials. For example, various Democratic Party factions have urged Biden to select his former primary opponents ,"
@@ -492,6 +514,6 @@ related:
         height: 576
         isCached: true
 
-secured: "r+eKVUePx5I3SiNcY1ve4CBhhCk8PZhH2rQfhn6pO9fI4drps2FVvYrZk+Y3aWq9ryj6VHuRVf5k/2YQfxsWI2Z22nLKb002RpVpObTj8cf4U1Xrfz/+jLkBOpoqbtvilwe8E6rXYXR1NIMY54CPsLUvxPcqCmuQaM+RtfNtT50lv3ocxw/O/FtOPJCMFsBzPrGqAj2lbMlop9xHQni67aytGPb8AuwebZGx2+73qksWbOf9DpaP2y4ufiprjlyQuPmD5877jUlK1MjNW1182dWwNswrDOXNfZ/nqMksmVI29R/eV2r1s4zg80eHWcRwEGedzuWOemILVtHuM8tKF/Iauy7utRb/b8PKG1TiT1A=;broFHWXRhqQ+6I3D5bqNtg=="
+secured: "fswLFHF+eaGwMehKcJPFs7HEeUB3MYzKgFsOBvnrdi534FB59S1yy57LiF8VuiR3P5shZeeXaudUcovMYR9BoaUoJmpwgEgjazGpCUREbra7MS9p6G2iNYX32n9h69MNFSBtvXVeV2P78X7xnMnhb4RuYVfsA3c47Y8mj8CNbh2F7HolwEHynRgXSGqfz0uT8C57MVAXP/qezvSgy6YbYYfYg0Lr35Lxon2pAkHRecpC1MlTzv9ppWHL/SRaIKsoBuCkfl1y9ZAdXplnBcWYcSIlRqN78/CChjg+2XvFqJGWlndkM0ymVb/ILfsH3vLzcKgSKGDKUEI5154upiqNHdi0tcpNy++mde9fLE8P2NQ=;fDQIQye0ycsVJmTURhLGYA=="
 ---
 

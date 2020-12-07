@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543178895&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB10R3"
         width: 817
         height: 545
+        isCached: true
+  - title: "Georgia upholds Biden's win as US approaches 15m coronavirus cases - live"
+    excerpt: "We have now counted legally-cast ballots three times, and the results remain unchanged,’ says Brad Raffensperger, Georgia’s secretary of state"
+    publishedDateTime: 2020-12-07T21:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/730b1899663f9fe8321baaaff43b7fe1efd95b53/0_210_6016_3610/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a89c32dae22553d9c97145e7fb9681bb"
+        width: 600
+        height: 360
         isCached: true
   - title: "Coronavirus Is Surging Across The US So Mike Pence Held A Useless Briefing"
     excerpt: "With coronavirus cases surging nationwide, experts fear another 150,000 Americans will die by in the next three months."

@@ -127,6 +127,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Georgia upholds Biden's win as US approaches 15m coronavirus cases - live"
+    excerpt: "We have now counted legally-cast ballots three times, and the results remain unchanged,’ says Brad Raffensperger, Georgia’s secretary of state"
+    publishedDateTime: 2020-12-07T21:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/730b1899663f9fe8321baaaff43b7fe1efd95b53/0_210_6016_3610/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a89c32dae22553d9c97145e7fb9681bb"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden says bipartisan coronavirus aid bill should be passed but will still need more"
     excerpt: "President-elect Joe Biden said on Thursday a bipartisan coronavirus aid bill should be passed but that he will have to ask for more once in office."
     publishedDateTime: 2020-12-04T07:32:00Z

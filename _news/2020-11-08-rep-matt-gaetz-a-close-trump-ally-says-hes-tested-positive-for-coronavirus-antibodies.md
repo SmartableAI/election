@@ -202,6 +202,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "White House Trade Advisor Peter Navarrow Violates Hatch Act; Has President Trump?"
+    excerpt: "The Office of Special Counsel found that White House trade advisor Peter Navarro violated the Hatch Act on multiple occasions."
+    publishedDateTime: 2020-12-07T22:28:00Z
+    webUrl: "https://www.ibtimes.com/white-house-trade-advisor-peter-navarrow-violates-hatch-act-has-president-trump-3096593"
+    ampWebUrl: "https://www.ibtimes.com/white-house-trade-advisor-peter-navarrow-violates-hatch-act-has-president-trump-3096593?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/white-house-trade-advisor-peter-navarrow-violates-hatch-act-has-president-trump-3096593?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/12/white-house-trade-advisor-peter-navarro-pictured-in.jpg"
+        width: 1024
+        height: 680
+        isCached: true
   - title: "Trump's Controversial Coronavirus Advisor Resigns: Report"
     excerpt: "One of President Donald Trump's favored coronavirus advisors who sparked controversy over his comments against mask-wearing and other issues has resigned, US media reported Monday. Fox News obtained the resignation letter dated December 1 for Scott Atlas,"
     publishedDateTime: 2020-12-01T01:05:00Z

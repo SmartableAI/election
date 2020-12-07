@@ -431,6 +431,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden is now seriously considering a Black US Army general to lead the US military"
+    excerpt: "If nominated by Biden and confirmed by the Senate, the retired US Army general would be America's first Black defense secretary."
+    publishedDateTime: 2020-12-07T22:51:00Z
+    webUrl: "https://www.businessinsider.com/biden-lloyd-austin-defense-secretary-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-lloyd-austin-defense-secretary-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-lloyd-austin-defense-secretary-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5fcea2d6037cbd001861460f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden, leading Democrats on board with the new $908 billion bipartisan stimulus proposal"
     excerpt: "The proposal includes enhanced federal unemployment benefits of $300 per week and $25 billion in rental assistance."
     publishedDateTime: 2020-12-04T11:07:00Z

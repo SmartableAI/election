@@ -216,6 +216,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "White House Trade Advisor Peter Navarrow Violates Hatch Act; Has President Trump?"
+    excerpt: "The Office of Special Counsel found that White House trade advisor Peter Navarro violated the Hatch Act on multiple occasions."
+    publishedDateTime: 2020-12-07T22:28:00Z
+    webUrl: "https://www.ibtimes.com/white-house-trade-advisor-peter-navarrow-violates-hatch-act-has-president-trump-3096593"
+    ampWebUrl: "https://www.ibtimes.com/white-house-trade-advisor-peter-navarrow-violates-hatch-act-has-president-trump-3096593?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/white-house-trade-advisor-peter-navarrow-violates-hatch-act-has-president-trump-3096593?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/12/white-house-trade-advisor-peter-navarro-pictured-in.jpg"
+        width: 1024
+        height: 680
+        isCached: true
 
 secured: "Jc+ZMh3GXgTnyb5s7H9hG71YQL5/wqRdhHqw+SU7DQ9nTxOlzcNEtzU8+CaYainY6yI/kEBlK9wFPqLj2copXjlNGdEQgciAaTXSZKnLAEXMStUO0HES39TinXMRN3mOEAgj/pyqbESMUQiDJsiXEIKvWgzwMn78QfthKTWMlps/ebLy7YZGG35xA5l47oaOIFr9P8PJtzJCJ6oo3GA1sYEs1EpRs55d9Wfvvj0OvUmvJAy5kQu4orkPN4vaaTXd78VgYGokVrecQgySXYMtetIGU4b2m3d8ryEe+J7z/W3Y0XFMH2i87evcM1fvKLYS0Zs3UgiJ6eZMdlJ5RX9Z+FcI3fWn7HJqZfXiAARF7Zk=;oKRjBSXyn9/zL8wP9QzCRw=="
 ---

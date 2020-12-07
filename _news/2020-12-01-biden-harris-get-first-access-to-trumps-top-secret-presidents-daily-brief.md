@@ -471,6 +471,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Georgia upholds Biden's win as Trump turns down offer of more coronavirus vaccine doses - live"
+    excerpt: "New York Times reports Trump passed on Pfizer’s offer in late summer and the company may not be able to provide more doses until next June"
+    publishedDateTime: 2020-12-07T22:44:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce99b38f084f47a8a40f83"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 128
+    images:
+      - url: "https://i.guim.co.uk/img/media/730b1899663f9fe8321baaaff43b7fe1efd95b53/0_210_6016_3610/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a89c32dae22553d9c97145e7fb9681bb"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden confirmed as winner in Wisconsin ahead of promised lawsuit from President Donald Trump"
     excerpt: "Joe Biden confirmed as winner in Wisconsin ahead of promised lawsuit from President Donald Trump. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
     publishedDateTime: 2020-11-30T21:41:00Z
@@ -865,6 +881,33 @@ related:
         width: 1500
         height: 785
         isCached: true
+  - title: "Death Stalks Joe Biden Still"
+    excerpt: "Biden had already lost a friend of 30 years. Maybe you’ve seen the haunting photo of Delaware state police officers standing next to the mutilated station wagon. It ran on page 2 of a local paper alongside an Associated Press story informing readers that Biden’s wife,"
+    publishedDateTime: 2020-12-07T20:32:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2020/12/who-joe-biden-lost-covid-19/617303/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617303/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617303/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/BnBhQvWveliq5r9NCWCodrFgf6k=/0x0:1334x750/570x320/media/img/mt/2020/12/IMG_3348/original.jpg"
+        width: 570
+        height: 320
+        isCached: true
+  - title: "Trump Adviser Broke Law With Biden Criticism, Watchdog Says"
+    excerpt: "A federal watchdog agency has found that President Donald Trump’s economic adviser Peter Navarro repeatedly violated the law during the presidential campaign season with his criticisms of now-President-elect Joe Biden."
+    publishedDateTime: 2020-12-07T21:28:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-07/trump-adviser-broke-law-with-biden-criticism-watchdog-says"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-07/trump-adviser-broke-law-with-biden-criticism-watchdog-says?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-07/trump-adviser-broke-law-with-biden-criticism-watchdog-says?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
     excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."
     publishedDateTime: 2020-11-30T23:16:00Z

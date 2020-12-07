@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Top Biden COVID adviser cheered George Floyd protests despite pandemic"
+    excerpt: "President-elect Joe Biden’s pick to lead a task force that will address racial disparities in the coronavirus response, suggested earlier this year that advising protesters to stay home in the wake of George Floyd’s police custody death would undermine the fight against police brutality – even though"
+    publishedDateTime: 2020-12-07T21:52:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fuDq0uVIHGM/top-biden-covid-adviser-george-floyd-protests-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/top-biden-covid-adviser-george-floyd-protests-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-biden-covid-adviser-george-floyd-protests-pandemic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20337006173537.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Georgia secretary of state to recertify results confirming Biden win after third count"
     excerpt: "Georgia Secretary of State Brad Raffensperger says his office will recertify the presidential election results on Monday, following a second recount that once again upheld President-elect Joe Biden's victory in the state."
     publishedDateTime: 2020-12-07T17:11:59Z

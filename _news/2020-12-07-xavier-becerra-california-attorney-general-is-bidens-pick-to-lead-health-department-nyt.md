@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Republicans raise red flags over Becerra’s nomination to lead Biden health department"
+    excerpt: "Some Senate Republicans have signaled concern with Becerra's nomination, but it is unclear if it is enough to block his appointment."
+    publishedDateTime: 2020-12-07T22:37:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-07/republicans-raise-red-flags-over-becerras-nomination-to-lead-biden-health-department"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-07/republicans-raise-red-flags-over-becerras-nomination-to-lead-biden-health-department?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-07/republicans-raise-red-flags-over-becerras-nomination-to-lead-biden-health-department?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 118
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7346959/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F21%2F1c%2Fa43eff0d40549c495fb9035e1854%2Falt-auditorium-1920.png"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live"
     excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
     publishedDateTime: 2020-12-07T14:04:00Z

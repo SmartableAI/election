@@ -189,6 +189,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Trump administration reportedly rejected an offer from Pfizer for more COVID-19 vaccine doses, and now other countries might get them"
+    excerpt: "The Trump administration purchased 100 million doses of Pfizer's vaccine, but it's a two-dose treatment so it will only go to 50 million Americans."
+    publishedDateTime: 2020-12-07T22:33:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-rejected-pfizer-offer-more-covid-19-vaccine-doses-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-rejected-pfizer-offer-more-covid-19-vaccine-doses-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-rejected-pfizer-offer-more-covid-19-vaccine-doses-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5fcea8cfeadd8400183dfa73?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "jh9gJJoyir7PKFiW6k6hUQgFPjwgt1BCF2mY93VagmID1J2k33V/Uu6px96fauyFraogzaVPrtuVrbWSbJ6kVbkdBWlUCDgnIfHQNM9b9lVQ6CANAKnUbQsCgwR1QsaTRo+5VoH1SWPP5VlwiA9LyYO9/oqn3N25I/Zpp+mi4Ah4OCRwYAncmyNB5w0YlOCRhtB4GpE7EiipTBSlfeampPTph2nIci6vCrVQ/2IwJLenL7UDTc9L7Xtv8wbFYQqKCElN/PeJwm0K2mbO4Kuu2SJ4z22sBTzNi1sXVefJaIPr6GLRTgMvaZwgtXAvlMI3EdXm4FVgW9NOKUcOtzcdXLIA6tu2boBiSo3t/AzSk2A=;KlzDDQd0GCo6v7QuWr4L7A=="
 ---

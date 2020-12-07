@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Republicans raise red flags over Becerra’s nomination to lead Biden health department"
+    excerpt: "Some Senate Republicans have signaled concern with Becerra's nomination, but it is unclear if it is enough to block his appointment."
+    publishedDateTime: 2020-12-07T22:37:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-07/republicans-raise-red-flags-over-becerras-nomination-to-lead-biden-health-department"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-07/republicans-raise-red-flags-over-becerras-nomination-to-lead-biden-health-department?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-07/republicans-raise-red-flags-over-becerras-nomination-to-lead-biden-health-department?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 118
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7346959/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F21%2F1c%2Fa43eff0d40549c495fb9035e1854%2Falt-auditorium-1920.png"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Xavier Becerra, California attorney general, is Biden's pick to lead health department: NYT"
     excerpt: "The former congressman from Los Angeles has served as California's top prosecutor since 2017."
     publishedDateTime: 2020-12-07T10:19:00Z
@@ -128,6 +144,6 @@ related:
         height: 677
         isCached: true
 
-secured: "hITyrhPcRpCgc14AVkIfFCOxyM+JJzj3gr0dmQWm3zUNsbL9NRNVRQtHjORJwpuCRVdh8Mp0vzvva7f1oUFuH85SH8xkjSbt9LnRTB0Bs33bKhDIyM52KRf8vam/CXk0ue9rxZXDNPCiHUEozdVinYZXjkLAzA28o+rQt6CjHwMobP2xLi3MtxaoINgjHRkKR39TQ7bUDRc/VDOpO5/gGIELNEihmqjz5KFfr+T08dcMN7gcckBhXvmAC9NCeoe63SqQs6rsaDCLJoVLTUrwsZW18ZatWCCouYf9qIOfCz+B7CoiiW6LplMkBSpPbx/p8gjnpkd7wct+6NGicf1+hoqyF/RRwnUbKlDfMdqKRc4=;P/any2bARpjryM60oKd50g=="
+secured: "VRER/xMavi67dveavkJDGImIeiSx69btBgZWg2zspfrKxhy+MJeyrgEoEsSdDzHBy1btp9iUgenyPKLtmtpFewuF+m5xMTbN+0GJo7V8n+5lBmvDyQpk7mR2F8wH2yaDPXIscTV6VC67iYiHzTCWKNdi23EefA8US7oOOOOhZKMNsrN46uur786MqOhdq5CC6ZE8LHAcrAzmq9jpcNBsN0iN5o0CnQJM95jy3g/Hz+D6iSG9k1Rx8QvHYBZDGAnbO9897hosvBSwRa6OaLlExnkP6g2awUpxue9vR1Er4Tfcth6x/UABDB2c58vpB8O1eIhsCjEKELU7n4Fq76U8nk9/wbZNo0108KVvMLIaPEicJXQaswVeIp6MsOR54+JiwP1iedDFb9GUVVJGsTUj5sKhLpNUBpGuwgcxT90RvUX4vYSdoVIQtNeiLhAkJz6aOF54/eEbCmN441rkAoQA3vYRAa81Tg6srEb4RccgADe2gDFrHo07VeG92bVc9qe3cOnSvPgYgTkawGQ7jAm2lQ==;O5+C7W6hgXMeUaq4HqadPQ=="
 ---
 

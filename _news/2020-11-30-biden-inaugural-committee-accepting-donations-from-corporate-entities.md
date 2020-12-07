@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-inaugural-committee-accepting
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inaugural-committee-accepting-donations-from-corporate-entities.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden HHS pick sued nuns over contraception mandate"
+    excerpt: "President-elect Biden has chosen a secretary of Health and Human Services who sued to block a policy that would have exempted nuns from Obamacare's contraception mandate, provoking even more scrutiny over how Biden's Catholic faith influences his political agenda."
+    publishedDateTime: 2020-12-07T21:06:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fohoO2PHXFc/biden-hhs-pick-nuns-contraception-mandate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-pick-nuns-contraception-mandate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-pick-nuns-contraception-mandate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21e1e348-1ec2-479b-b481-cdd70f49ab47/4c923316-a2af-45f8-a6c4-18f5b1cb409a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Consulting firm linked to Biden's cabinet scrubs China work from website"
     excerpt: "WestExec, a Washington, D.C. consulting firm, has reportedly scrubbed its work with China from its website as its history receives more scrutiny in the lead-up to Joe Biden’s presidency."
