@@ -256,20 +256,20 @@ related:
         height: 630
         isCached: true
   - title: "Trump lawyer Giuliani in hospital after positive COVID test"
-    excerpt: "President Donald Trump said Sunday his personal attorney Rudy Giuliani has tested positive for the coronavirus, making him the latest in Trump’s inner circle to contract the disease that is now surging across the U."
-    publishedDateTime: 2020-12-07T02:49:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-lawyer-giuliani-in-hospital-after-positive-covid-test/2020/12/06/cec68b6a-3836-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-lawyer-giuliani-in-hospital-after-positive-covid-test/2020/12/06/cec68b6a-3836-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lawyer-giuliani-in-hospital-after-positive-covid-test/2020/12/06/cec68b6a-3836-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for the coronavirus, making him the latest in Trump's inner circle to contract the disease that is now surging across the U."
+    publishedDateTime: 2020-12-07T06:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-lawyer-giuliani-hospital-positive-covid-test-74577554"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-lawyer-giuliani-hospital-positive-covid-test-74577554"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-lawyer-giuliani-hospital-positive-covid-test-74577554"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_14f1636a3763410bb1b2fe0b2bb65990_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump lawyer Rudy Giuliani tested positive for coronavirus, Trump says"
     excerpt: "U.S. President Donald Trump's personal lawyer, Rudy Giuliani, has tested positive for the novel coronavirus, Trump said on Twitter on Sunday."
@@ -382,6 +382,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543116416&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03NK"
         width: 817
         height: 545
+        isCached: true
+  - title: "Attorney General Bill Barr may leave office before the end of Trump's term: NYT"
+    excerpt: "The report comes after Barr broke from Trump last week, saying the Justice Department and the FBI had not found evidence of widespread voter fraud."
+    publishedDateTime: 2020-12-07T05:14:00Z
+    webUrl: "https://www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5fcdb5c0eadd8400183df683?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump is said to be livid at Barr, with one official suggesting termination possible"
     excerpt: "President Trump remained livid Wednesday at Attorney General William P. Barr, with one senior administration official indicating there was a chance Barr could be fired — not just for his public comments undercutting Trump’s unfounded claims of election-shifting fraud,"

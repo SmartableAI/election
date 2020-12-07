@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-tru
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html"
 type: article
 quality: 135
-heat: -1
-published: false
+heat: 155
+published: true
 
 provider:
   name: New York Times
@@ -32,37 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration must accept new DACA applications, judge orders"
-    excerpt: "The Trump administration must post a public notice that it will accept new applications for the Obama-era program shielding undocumented immigrants who came to the US as children from deportation, a federal judge ordered Friday.\n    \n"
-    publishedDateTime: 2020-12-04T22:38:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKkg1yjy1Qs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/daca-applications-order/index.html"
+  - title: "Presidential Transition Live Updates: Trump Team Files Last Ditch Lawsuits Ahead of Deadline to Finalize the Election"
+    excerpt: "The safe harbor deadline — the date by which any election controversies must be settled — is Dec. 8. President-elect Joe Biden’s nominees send a clear message that his economic policymaking will be shaped by liberal thinkers."
+    publishedDateTime: 2020-11-30T18:13:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/30/us/joe-biden-trump.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171116102112-daca-protest-02-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump orders a near total withdrawal of US troops from Somalia"
-    excerpt: "President Donald Trump has ordered the majority of US troops to leave Somalia \"by early 2021,\" in just the latest major military policy decision being taken in the final days of the Trump administration.\n    \n"
-    publishedDateTime: 2020-12-04T22:34:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LGe5rcO0jYU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-somalia-troop-withdrawal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-somalia-troop-withdrawal/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170530091543-01-pentagon-aerial-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/11/30/us/politics/30transition-briefing-trump-cases1/30transition-briefing-trump-cases1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "0JEYb1NDGa8cFCLm9bSp/h2pYn7kHvDR4wXILZ0UAinVSTB6WJL+OCQu5fDWUkWoxuW9gpTAxBWULerUAs6FtFeHaNQQdJILyJpbHU87CpKs+R05VTVRa8uaHo1/7kmzRWI9pd+bd0mywlz1qPtCdN1ITsP/NIgeKtJKuu+h7c1iLFradnQm7X4C2Y7/sJToaMWpxbDpiHttp7H3fpKzQcrbo50rdOQmt038y2gRkJJSmpIvvUH8ezrocCDL/4/krKI15LcJUSTjzKK8xlT6XUysvl7aytqwceZZC7zLbxD4yQDPOGKu79ss1MIkBjMyWCONqvZ5kzLyFPScChZ+7qY0GNTVgC3kVFVKsG08M24=;8kOi+dzX0v9SO91LufGfxQ=="

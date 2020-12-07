@@ -2,26 +2,26 @@
 category: news
 title: "Mike Pence comes to Georgia for CDC meeting, Savannah rally"
 excerpt: "After is visit in the capital city, Pence is expected to head to Savannah for a \"Defend the Majority Rally\" with Senators David Perdue and Kelly Loeffler. Pence will deliver remar"
-publishedDateTime: 2020-12-04T22:18:00Z
-originalUrl: "https://www.11alive.com/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
-webUrl: "https://www.11alive.com/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
-ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
-cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
+publishedDateTime: 2020-12-04T21:18:00Z
+originalUrl: "https://www.khou.com/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
+webUrl: "https://www.khou.com/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
+ampWebUrl: "https://www.khou.com/amp/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/elections/vice-president-mike-pence-expected-to-visit-atlanta-savannah-on-friday/85-724b8895-e53a-4867-9947-61a2fdda3c9d"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: 11Alive
-  domain: 11alive.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.11alive.com/assets/WXIA/images/fae39ff4-1320-4789-8acc-8810b4f6567f/fae39ff4-1320-4789-8acc-8810b4f6567f_1140x641.jpg"
+  - url: "https://media.khou.com/assets/WXIA/images/fae39ff4-1320-4789-8acc-8810b4f6567f/fae39ff4-1320-4789-8acc-8810b4f6567f_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -60,6 +60,6 @@ related:
         height: 675
         isCached: true
 
-secured: "v+3mRdXqkfZeKFqiqZDcBWj35OFPwQg1oWmKZzOcYJ4uFV5RBnYebQPelFhbVdMGx8nuuhSGS+ae97pO8iY4CZZdPblU3Kp+2Mfybr7t3yt+VY0CvqQZNNQ7kx+qWdaqWj49US5AUNzoHW8qmvmKq4uqdaIgrFf6rw6IJjc97y022VFiYdJQ4+K/5yvvSkEe8WLd/qyRkRf7JsyYA7PWoqs1G0MbJ/cLcVC9mcmxDTWRUSHuEzUNRUdC3EvwfpcK4eM5/NxxzGDtdyyDw8mj0d96e0eZ+N3hIcPY+cByuIY/xWfWT42Y9NMuj33b31v/1MN9l+FIq6Ry5vT+gHjNz7RgZSbkS0pLhjSm9kII2zA2tWuNhW3vy3mXquzeEu25H8K3kRblQBIJ+Lx7898HMDb9ZFriC4UWvTZxeM4UtNy4eucZLL0ar7/hFguyT6137LB2J42zDN8v1j7OHNWg5QpBhc6vS1CYQPqn6Hav6ZFJY755w4KVc2EBkJcBoMmiRArTVMl4Ulk8IZ87MNlTbA==;UF6Cov6vhMPomxxEiNdydA=="
+secured: "S4WSlW85B3/Qausm3gQlUopt9yG38nq2JVfU4w7g43apizRKCJ7lvqTG62IDDoReU5ZppcHNe7e+L+iNfAx8P/rKXZeUJRctLwCKB/XEsNtDq3u47Vty4lmigBnr6Ur0fhd0ux7FohvuaqGNGv7/gUfVogRTwg2DUmz/XLMm8Nk3KrAGQI6IPW9fH6uzY4mLAzIIQklygLUvezc/qNjShQc8m60GbNIdPVLYqVamB7u7l7KwUMc1OCNwZghxILOFR/wBJCantqKk+WAIBRWteioOIDRmOlzjv1L7ar8vB5nEyPrW4XHZzFCeCOv+Eazi/ErSMJrSFQ/7RodmQca5p3vYbDC4FJ+xVPjbfsFDbBo=;q7CrNVmPC/DJJbKLWZAOvg=="
 ---
 

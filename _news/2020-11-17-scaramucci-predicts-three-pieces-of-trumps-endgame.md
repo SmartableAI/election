@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/17/anthony-scaramucc
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/17/anthony-scaramucci-lists-three-pieces-trumps-endgame-ctn-vpx.cnn"
 type: article
 quality: 175
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "How to Protect America From the Next Donald Trump"
-    excerpt: "The Constitution is supposed to protect us from demagogues. Can we make it work again? Voting Donald Trump out of office was crucial, but it will not be enough to save the American experiment. Many critics have used the words “authoritarian” or “fascist” to describe the president’s mode of politics,"
-    publishedDateTime: 2020-11-09T14:00:00Z
-    webUrl: "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/06/opinion/06garsten/06garsten-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "xziPLBw97r6PZweDZBl6UixIH6mD2ZnXcphLeCwIG4jxLq+Iw/+txOgzMWl3iXVTy/WfQ5cLqZMT/tzE9QpYHbkdsO1bz+JgJOaXthtvxMGbpKXmGWYbpEjcJLoACTQdip83RRbxRrMnYEhOEllGD9mRekfhs/hCAcItsRfrD+t8lxUGkSrdyjaxGpEuUseLytVcFIDuaegpN9+DFCXELVHCZrU7woYQiNhKyMGGslEbAxG+1YhRdCboBE4fIoC62g7lQ6aZs41DeIi7NQnPzHqd9eIVAvGhgfU3tHwCFr/1gkOl42xULa0E+P+jDu7tRuG/0iKctyjGtXFa1wf4bXJsXNShkvVrBVKNb+QPuMU=;x1fDLAY51s9StzfZe+bNYw=="
 ---

@@ -1,53 +1,36 @@
 ---
 category: news
-title: "Trump administration hands over new data on families separated at border"
-excerpt: "NBC News’ Jacob Soboroff reports on newly released details from the Trump administration on migrant families who were separated at the southern border and how this information may impact the unification efforts."
-publishedDateTime: 2020-12-04T00:21:00Z
-originalUrl: "https://www.nbcnews.com/now/video/trump-administration-hands-over-new-data-on-families-separated-at-border-97081413807"
-webUrl: "https://www.nbcnews.com/now/video/trump-administration-hands-over-new-data-on-families-separated-at-border-97081413807"
-ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97081413807"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97081413807"
+title: "Trump's pandemic blindness and election denial darkens America's desperate winter "
+excerpt: "Donald Trump's final-days denial is darkening America's winter of sickness and death, damaging democracy, hampering Joe Biden's nascent presidency and jeopardizing Republican hopes of clinging to the Senate.\n    \n"
+publishedDateTime: 2020-12-07T05:41:05Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hSuo6xOBNS0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hSuo6xOBNS0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/donald-trump-pandemic-election-results-joe-biden/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/donald-trump-pandemic-election-results-joe-biden/index.html"
 type: article
-quality: 134
-heat: -1
-published: false
+quality: 184
+heat: 364
+published: true
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_trump_separation_201203_1920x1080.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201205212226-01-trump-rally-georgia-1205-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
-  - title: "Trump's pandemic blindness and election denial darkens America's desperate winter "
-    excerpt: "Donald Trump's final-days denial is darkening America's winter of sickness and death, damaging democracy, hampering Joe Biden's nascent presidency and jeopardizing Republican hopes of clinging to the Senate.\n    \n"
-    publishedDateTime: 2020-12-07T05:41:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hSuo6xOBNS0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/donald-trump-pandemic-election-results-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/donald-trump-pandemic-election-results-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 184
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201205212226-01-trump-rally-georgia-1205-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump administration must accept new DACA applications, judge orders"
     excerpt: "The Trump administration must post a public notice that it will accept new applications for the Obama-era program shielding undocumented immigrants who came to the US as children from deportation, a federal judge ordered Friday.\n    \n"
     publishedDateTime: 2020-12-04T22:38:14Z
@@ -158,6 +141,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump administration hands over new data on families separated at border"
+    excerpt: "NBC News’ Jacob Soboroff reports on newly released details from the Trump administration on migrant families who were separated at the southern border and how this information may impact the unification efforts."
+    publishedDateTime: 2020-12-04T00:21:00Z
+    webUrl: "https://www.nbcnews.com/now/video/trump-administration-hands-over-new-data-on-families-separated-at-border-97081413807"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97081413807"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97081413807"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_trump_separation_201203_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Federal watchdog finds 'substantial likelihood of wrongdoing' by Trump appointees overseeing Voice of America"
     excerpt: "The federal watchdog's findings mark the latest rebuke of the Trump-appointed CEO of the U.S. Agency for Global Media, Michael Pack."
     publishedDateTime: 2020-12-03T18:24:00Z
@@ -175,6 +174,6 @@ related:
         height: 1400
         isCached: true
 
-secured: "Wk2Zv5Kbx5P5eOnT95qAW4MYt9recobuxYQNEF3bOtFDQ65AJNN4MAQdHVcBU74SbfpzluNjTZgmfBk11iZ3sKKxr4TkobqKD19xVX6xllg+bzIO5C4jpn3HtZYk/ujkBJp/S4hklVs1yy8SPRal35zQ5sQDPMEMxwDmpyDwT/7pasEJXODYqSGIahAURBn3xEjU+mT1e1neGB1FurpGGFCoIj/oe47IXMZhEr5wjg0PkMOJTZa0AetjCdXc2Rovgw3OpgTe+jMTWnwz2zvh0PMJ63iByHQMUeMOsUhBc560wKsPYtSFGIfjQ26byGbryuku45Q4OuMDKiCSCKHK5VCMxWVfFSerG/THUglD5oU=;Lm1aDB9QRm/gXpDmbhZm6A=="
+secured: "2DYYf/G+xLeagZ6cVmgSGT15YMOxwR4JSh20mZX6alMCkdU7PuajNY3Ito73XSArnkMPG0G3qlETT3Tj05Dqxw8UgrtzUcAXrFEPEw97aSv7//rftH4UXQy0n0WuB7191M6fdXZuNVRKL8wLUBZh7szI1dOQtKPG9U2EMCVaMQBYpN+L+LZ7p2u4u0V5cdBRWyr1LLViP8jQ3cnfRARgn7zJGauJo6M0a0z8EwjKbgsxbfeea/Y1o5iIw5h6H/+TFpb9Jms22pN2b7+DJwZgjcsnEhBIPTH3W9+gP3HhM3rIAIycfUEclMAqadIuouaAOboOZA5vYadmaSJyu+6MHtty/QM6noUXvyDNnJsA4u4=;/LzZAV/rbpPKUp2QvVkUiw=="
 ---
 

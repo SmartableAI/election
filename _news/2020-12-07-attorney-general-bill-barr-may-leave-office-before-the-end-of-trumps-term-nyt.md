@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Rudy Giuliani tested positive for coronavirus, Trump says"
-excerpt: "U.S. President Donald Trump's personal lawyer Rudy Giuliani has tested positive for the novel coronavirus, Trump said on Twitter on Sunday. (Reporting by Jan Wolfe; Editing by Daniel Wallis)"
-publishedDateTime: 2020-12-06T20:49:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-giuliani-idUSL1N2IM0FU"
-webUrl: "https://www.reuters.com/article/usa-trump-giuliani-idUSL1N2IM0FU"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IM0FU"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IM0FU"
+title: "Attorney General Bill Barr may leave office before the end of Trump's term: NYT"
+excerpt: "The report comes after Barr broke from Trump last week, saying the Justice Department and the FBI had not found evidence of widespread voter fraud."
+publishedDateTime: 2020-12-07T05:14:00Z
+originalUrl: "https://www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12"
+webUrl: "https://www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12"
+ampWebUrl: "https://www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12?amp"
 type: article
-quality: 105
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://i.insider.com/5fcdb5c0eadd8400183df683?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Trump allies Barr, Giuliani at odds on discredited election fraud claims"
@@ -377,22 +383,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Attorney General Bill Barr may leave office before the end of Trump's term: NYT"
-    excerpt: "The report comes after Barr broke from Trump last week, saying the Justice Department and the FBI had not found evidence of widespread voter fraud."
-    publishedDateTime: 2020-12-07T05:14:00Z
-    webUrl: "https://www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 121
-    images:
-      - url: "https://i.insider.com/5fcdb5c0eadd8400183df683?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump lawyer Rudy Giuliani positive for COVID-19 after wave of lawmaker lobbying"
     excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, after a wave of travel by the former New York mayor seeking to persuade Republican state lawmakers to overturn the election results."
     publishedDateTime: 2020-12-07T02:16:00Z
@@ -526,6 +516,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Rudy Giuliani tested positive for coronavirus, Trump says"
+    excerpt: "U.S. President Donald Trump's personal lawyer Rudy Giuliani has tested positive for the novel coronavirus, Trump said on Twitter on Sunday. (Reporting by Jan Wolfe; Editing by Daniel Wallis)"
+    publishedDateTime: 2020-12-06T20:49:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani-idUSL1N2IM0FU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IM0FU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IM0FU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Fired Official Says Correcting Trump's Fraud Claims The 'Right Thing To Do'"
     excerpt: "Christopher Krebs, who led the federal government's efforts to secure the 2020 election, called the operation near seamless despite President Trump's claims to the contrary."
     publishedDateTime: 2020-12-01T09:01:00Z
@@ -557,6 +558,6 @@ related:
         height: 683
         isCached: true
 
-secured: "ITPam0WqhXqPIbQbMhJgHCvjR3/caIs/LB6GUJDQdXMYJ7U+4wH0wM9Hak2UXL93gbccbhiEey44ML+HIXuX2iI/D+C9p6lmM4iFiaGkyE4C5SjfXzsM2jCaBoPcmlww9p6NMWdDnZYn+NnT+/9dykAwScm8z/ylidUjG5s/JoJdLAsSupw7XcgoUBacFFMC8SIPZXr49ga6bFV6Q+MvH69hY9jFsYAH37+W9g6jzTnZNYY8brzVdvaLfhYRHyyhTJSFZrBUdhfd38aTLPdbg02wOAFDOPrLFg5tyuHmYOJxeIGai3UuE2f7kAXd/j/soRAajXC/uta872kNAf26pXAcw3YyIhN9idtpNJG4qfE=;oF9qeIhrft7QkFcYrzRIlw=="
+secured: "74DB3Tc82oiOs+5AqY7mynOpDG204S0EkCxi+Ac0Peszij1sAIrj/54Nz/ywVh0mqJsvu+z81cc/kLo6jIoF2JmeNXBUeb+kxTU+/Ur/bqrV2AtYk7IMlyftq4lp8t7hM8Ybpt6rauxe02zKAVwaxj0We7CeAv7D+cVHQYAiQatEL0Yy5lZXP/AzkMkZZltbyQ50wDWqFIaIAsnlmrm8MNBLc+eV5lW4OxCJIFSwXon5u33skWxtGa+DZtahHEkkxGY37TYZ2BgBigkFfEKFIBWOO5gJcYqUjaPHCp4rHsV7qEC/zSN6dsWJFDv9JaBF4EYfExi4JlpNCQLoeT4TY6cHVDR+/TDSWyz5TFylvQA=;Bqd+mnZizywVW33SG8JCsw=="
 ---
 

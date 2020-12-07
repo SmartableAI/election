@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Trump lawyer Giuliani in hospital after positive COVID test"
-excerpt: "President Donald Trump said Sunday his personal attorney Rudy Giuliani has tested positive for the coronavirus, making him the latest in Trump’s inner circle to contract the disease that is now surging across the U."
-publishedDateTime: 2020-12-07T02:49:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-lawyer-giuliani-in-hospital-after-positive-covid-test/2020/12/06/cec68b6a-3836-11eb-aad9-8959227280c4_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-lawyer-giuliani-in-hospital-after-positive-covid-test/2020/12/06/cec68b6a-3836-11eb-aad9-8959227280c4_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-lawyer-giuliani-in-hospital-after-positive-covid-test/2020/12/06/cec68b6a-3836-11eb-aad9-8959227280c4_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lawyer-giuliani-in-hospital-after-positive-covid-test/2020/12/06/cec68b6a-3836-11eb-aad9-8959227280c4_story.html?outputType=amp"
+excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for the coronavirus, making him the latest in Trump's inner circle to contract the disease that is now surging across the U."
+publishedDateTime: 2020-12-07T06:19:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-lawyer-giuliani-hospital-positive-covid-test-74577554"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-lawyer-giuliani-hospital-positive-covid-test-74577554"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-lawyer-giuliani-hospital-positive-covid-test-74577554"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-lawyer-giuliani-hospital-positive-covid-test-74577554"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_14f1636a3763410bb1b2fe0b2bb65990_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -367,6 +367,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Attorney General Bill Barr may leave office before the end of Trump's term: NYT"
+    excerpt: "The report comes after Barr broke from Trump last week, saying the Justice Department and the FBI had not found evidence of widespread voter fraud."
+    publishedDateTime: 2020-12-07T05:14:00Z
+    webUrl: "https://www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/attorney-general-barr-leave-office-before-end-trump-term-nyt-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5fcdb5c0eadd8400183df683?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump lawyer Rudy Giuliani positive for COVID-19 after wave of lawmaker lobbying"
     excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, after a wave of travel by the former New York mayor seeking to persuade Republican state lawmakers to overturn the election results."
     publishedDateTime: 2020-12-07T02:16:00Z
@@ -542,6 +558,6 @@ related:
         height: 683
         isCached: true
 
-secured: "LUn8YDxDEFe/4me9p93BAGTkJD86Dez0lrcq+iHjPRBheKPvMCTNOBTcIHCzYiBJSKCDbqJo4YM0SdWqX1jYQcj1EJDWuuIu2fDFKfNMl3XZ3BU098OQxqa0PSyvest9+0BudRyUf0O8gg1d/o0E/CXSWGLsS27A0pQyS+4+avrbKOtvccMvP5sQaC0vAyqybA3ndGVkTFdqYJ8RFFq2okD8baIHbTs9rlQvYbseI9lKu+/S7DT/T6pnG+4HEOdLM/oC19z4UYlGpsYSNX9WNGKv+7TDUaQ9dOPsJpm8aMgrJOiWgKVgV61xDSVK1Fe+RH+3g/a6QkSAki8VNfnOwtCtfN0oT/aJmx5UcdkfD14=;cmC77W4cBcW4PlfykkFapw=="
+secured: "ukNiWQCjXJa7ScZe67sYkqeZeeMSmeHzz8jOJvPkWt/FxtRSZhCjy2IWzWtfl4+MtPUvfZ0mIrcncFOqSfc8VwB8Q79eQRPQPvV/8ehw43thsmRvqHTwjBaDAKmZov99qkNThP9Z6Dl6tuEGqlHMbddQW7c7Nc5fwxYesNoTmwcgvjKBTA+2DbWUWxzAcOrRE1s08+yXDyZaZzyGBz1jZPJ0L5z9uJqoOZ5Wdi9uyevau6xSNn1v9HMSTp2AGJwJhhXJdno2IArkZRbwGrCw+bbkbFnEafHhLZwlFG0Cdd/rBkaVhWEUNDkNcs6D4VGnNuX0PwM9v2zOWSAxuQj58itK6S+2SIcmJj7PeLX3mHw=;iEXNooELDLyxnRbetA8ryQ=="
 ---
 

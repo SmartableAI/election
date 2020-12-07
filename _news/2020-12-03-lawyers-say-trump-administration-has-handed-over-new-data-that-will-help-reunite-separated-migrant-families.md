@@ -160,22 +160,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump administration hands over new data on families separated at border"
-    excerpt: "NBC News’ Jacob Soboroff reports on newly released details from the Trump administration on migrant families who were separated at the southern border and how this information may impact the unification efforts."
-    publishedDateTime: 2020-12-04T00:21:00Z
-    webUrl: "https://www.nbcnews.com/now/video/trump-administration-hands-over-new-data-on-families-separated-at-border-97081413807"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97081413807"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97081413807"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_trump_separation_201203_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "ysROvjkX5gtKKGR7TskX9VMX0qBpn9CY/bccrAS8dej+Tp7UAbopq3hlcabEhlh3MIOc3Jmi5ejYf4dp5tHtcmWylStbB5oiHA35Syd0615qlq2Km3d4kEpxjiUOl2F2Ns64NAHJYuoKxoeN9hdxTSbQ7o8b+B6vjKTBwEipd6lC8ksnIDK3SJ4d/3NvZJCrUZ3iUPaeACU1XKG3ZB8DJxOA7KgNfhFW5yGMgXZIG6SyGLsouqn7T+IwhNbkbd9e1Tja3WwSdqhlHjR4DFFijQm7BPI82VRwGwbAQNeFb1kRro1eVkRj2e64VnCObKMlaY8qqwzNWCOtw0RmUgo0ilhCGQfnXPGXOoYyJSd9ZW0=;sjgwuFQepo5wASVcAOHSMg=="
 ---
