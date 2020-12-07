@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-sen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
 type: article
 quality: 143
-heat: 1303
+heat: 1323
 published: true
 
 provider:
@@ -367,6 +367,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/08815ee/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5d%2F77%2F9490d32745948290aad90a77213d%2Fbiden-95025.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "In Georgia, Loeffler again refuses to say Trump lost"
+    excerpt: "Republican Sen. Kelly Loeffler's is blasting her Democratic challenger Raphael Warnock as a radical while she also continues to deny that President Donald Trump lost his re-election attempt"
+    publishedDateTime: 2020-12-07T02:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/loeffler-warnock-meet-georgia-senate-debate-74568174"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/loeffler-warnock-meet-georgia-senate-debate-74568174"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loeffler-warnock-meet-georgia-senate-debate-74568174"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f1c614dcc6204ddba3c782c7b8165dab_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "The Trailer: What Trump supporters in Georgia believe"
     excerpt: "In this edition: The president's election-rejection tour, the wild charges being made in Georgia's Senate races, and the final election of 2020."

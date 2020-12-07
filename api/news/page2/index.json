@@ -2,6 +2,119 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-05-ousted-cybersecurity-chief-krebs-to-trump-these-constant-attacks-are-very-dangerous.md",
+      "title": "Ousted cybersecurity chief Krebs to Trump: 'These constant attacks ... are very dangerous'",
+      "excerpt": "Former top cybersecurity official Chris Krebs sent a clear message to President Donald Trump on Friday: Stop attacking the integrity of last month's election because American democracy is fragile.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QXAae4AbhRg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QXAae4AbhRg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201204170456-chris-krebs-on-the-lead-12-4-2020-vpx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/chris-krebs-trump-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/chris-krebs-trump-cnntv/index.html",
+      "publishedDateTime": "2020-12-04T16:26:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-obama-and-pence-hit-georgia-campaign-trail-to-court-senate-runoff-voters.md",
+      "title": "Obama and Pence hit Georgia campaign trail to court Senate runoff voters",
+      "excerpt": "\"Anybody listening right now, you need to realize this is not just about Georgia,\" Obama said. \"This is about America - this is about the world.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/obama-pence-hit-georgia-campaign-trail-court-senate-runoff-voters-n1250029",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/obama-pence-hit-georgia-campaign-trail-court-senate-runoff-voters-n1250029",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_47/3429880/201120-barack-obama-al-0812_a91487a269184df40996804a637177e8.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250029",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250029",
+      "publishedDateTime": "2020-12-04T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-trump-administration-must-accept-new-daca-applications-judge-orders.md",
       "title": "Trump administration must accept new DACA applications, judge orders",
       "excerpt": "The Trump administration must post a public notice that it will accept new applications for the Obama-era program shielding undocumented immigrants who came to the US as children from deportation, a federal judge ordered Friday.\n    \n",
@@ -55,6 +168,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-president-elect-joe-biden-predicts-bleak-future-if-congress-doesnt-act-on-covid-19-aid.md",
+      "title": "President-elect Joe Biden predicts ‘bleak future’ if Congress doesn’t act on COVID-19 aid",
+      "excerpt": "Biden has said that while he doesn't support a nationwide lockdown, he plans to ask Americans to commit to 100 days of mask-wearing to help combat the virus as one of his first acts as president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/y77g0ME3grCoELK2CDk2zNIok78=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UN7URUO5WJH4P7JVZZIPAT4PDA.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-04T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -396,7 +561,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1062,
+      "heat": 1102,
       "tags": null,
       "images": [
         {
@@ -493,21 +658,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-04-iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines.md",
-      "title": "Iran pressures Biden with plan to increase underground enrichment machines",
-      "excerpt": "Iran is raising pressure on U.S. President-elect Joe Biden with plans to install more advanced uranium-enriching centrifuges at an underground plant in breach of its deal with major powers, a U.N. nuclear watchdog report showed on Friday.",
+      "path": "_news/2020-12-05-here-are-9-fascinating-facts-to-know-about-blackrock-the-worlds-largest-asset-manager-popping-up-in-the-biden-administration.md",
+      "title": "Here are 9 fascinating facts to know about BlackRock, the world's largest asset manager popping up in the Biden administration",
+      "excerpt": "The asset manager has become a force in DC, and two executives with BlackRock on their resumes are set to hold prominent roles in Biden's cabinet.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-iran-nuclear-iaea/iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines-idUSKBN28E1XM",
-      "originalUrl": "https://www.reuters.com/article/us-iran-nuclear-iaea/iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines-idUSKBN28E1XM",
+      "webUrl": "https://www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12",
+      "originalUrl": "https://www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543482313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31BL",
-          "width": 808,
-          "height": 545,
+          "url": "https://i.insider.com/5fc7e5e750e71a00115587a5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -515,16 +680,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28E1VR",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E1VR",
-      "publishedDateTime": "2020-12-04T07:42:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12?amp",
+      "publishedDateTime": "2020-12-04T08:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -874,7 +1039,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1303,
+      "heat": 1323,
       "tags": null,
       "images": [
         {
@@ -1169,171 +1334,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html",
       "publishedDateTime": "2020-12-03T18:37:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-perdue-tacitly-acknowledges-biden-administration-despite-public-pronouncements.md",
-      "title": "Perdue tacitly acknowledges Biden administration, despite public pronouncements",
-      "excerpt": "In a private zoom call with the Republican Jewish Coalition obtained by The Washington Post, Sen. David Perdue (R-Ga.) referred several times to a new administration run by President-elect Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/politics/perdue-tacitly-acknowledges-biden-administration-despite-public-pronouncements/2020/12/03/c37a74dc-9256-49d7-a1c2-81b4ef4927ef_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/politics/perdue-tacitly-acknowledges-biden-administration-despite-public-pronouncements/2020/12/03/c37a74dc-9256-49d7-a1c2-81b4ef4927ef_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-04-2020/t_db5a42fdfdc94478a709335819c5af2c_name_Perdue_2.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T17:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-michael-flynns-firing-25-days-that-shook-the-trump-presidency.md",
-      "title": "Michael Flynn’s firing: 25 days that shook the Trump presidency",
-      "excerpt": "NBC News’ Carol Lee breaks down the events that lead to Michael Flynn’s firing from the Trump administration. Dec. 3, 2020",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/michael-flynn-s-firing-25-days-that-shook-the-trump-presidency-97081413883",
-      "originalUrl": "https://www.nbcnews.com/now/video/michael-flynn-s-firing-25-days-that-shook-the-trump-presidency-97081413883",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_flynn_201203_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo97081413883",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97081413883",
-      "publishedDateTime": "2020-12-03T16:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-romney-calls-trumps-leadership-on-covid-19-a-great-human-tragedy.md",
-      "title": "Romney calls Trump's leadership on Covid-19 'a great human tragedy'",
-      "excerpt": "Republican Sen. Mitt Romney on Thursday blasted President Donald Trump's leadership -- or lack thereof -- during the deadly coronavirus pandemic as \"a great human tragedy.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K3U2LsdyrRM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K3U2LsdyrRM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200205144611-02-romney-trump-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/mitt-romney-trump-coronavirus-leadership/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/mitt-romney-trump-coronavirus-leadership/index.html",
-      "publishedDateTime": "2020-12-03T15:44:14-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

@@ -2,15 +2,67 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-07-despite-mounting-legal-losses-braun-refuses-to-acknowledge-bidens-election-win.md",
+      "title": "Despite mounting legal losses, Braun refuses to acknowledge Biden's election win",
+      "excerpt": "The majority of the nearly 50 court cases brought by the Trump campaign have been tossed out by judges across the country.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937",
+      "originalUrl": "https://abcnews.go.com/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 995,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/this-week-dick-durbin-mike-braun-01-gty-201205.jph_1607200841208_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937",
+      "publishedDateTime": "2020-12-06T18:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-biden-to-nominate-california-ag-xavier-becerra-for-health-secretary.md",
       "title": "Biden to nominate California AG Xavier Becerra for health secretary",
       "excerpt": "U.S. President-elect Joe Biden plans to nominate California Attorney General Xavier Becerra to serve as secretary of health and human services, a person familiar with the decision said on Sunday.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-biden-becerra/biden-to-nominate-california-ag-xavier-becerra-for-health-secretary-person-familiar-idUSL1N2IM0KI",
-      "originalUrl": "https://www.reuters.com/article/usa-biden-becerra/biden-to-nominate-california-ag-xavier-becerra-for-health-secretary-person-familiar-idUSL1N2IM0KI",
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-becerra-idUSKBN28G0YM",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-becerra-idUSKBN28G0YM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -279,6 +331,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-05-president-elect-joe-biden-predicts-bleak-future-if-congress-doesnt-act-on-covid-19-aid.md",
+      "title": "President-elect Joe Biden predicts ‘bleak future’ if Congress doesn’t act on COVID-19 aid",
+      "excerpt": "Biden has said that while he doesn't support a nationwide lockdown, he plans to ask Americans to commit to 100 days of mask-wearing to help combat the virus as one of his first acts as president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/y77g0ME3grCoELK2CDk2zNIok78=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UN7URUO5WJH4P7JVZZIPAT4PDA.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-04T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-joe-biden-owes-philly-15500-in-unpaid-bills-after-leaving-a-muddy-mess-from-a-campaign-event-the-city-wants-its-money-asap.md",
       "title": "Joe Biden owes Philly $15,500 in unpaid bills after leaving a muddy mess from a campaign event. The city wants its money ASAP.",
       "excerpt": "Biden's team hasn't paid the $6,025 site fee for using Philly's FDR Park, and $9,500 to cover repairs of a portion of the park's waterlogged grounds.",
@@ -331,21 +435,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-04-iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines.md",
-      "title": "Iran pressures Biden with plan to increase underground enrichment machines",
-      "excerpt": "Iran is raising pressure on U.S. President-elect Joe Biden with plans to install more advanced uranium-enriching centrifuges at an underground plant in breach of its deal with major powers, a U.N. nuclear watchdog report showed on Friday.",
+      "path": "_news/2020-12-05-here-are-9-fascinating-facts-to-know-about-blackrock-the-worlds-largest-asset-manager-popping-up-in-the-biden-administration.md",
+      "title": "Here are 9 fascinating facts to know about BlackRock, the world's largest asset manager popping up in the Biden administration",
+      "excerpt": "The asset manager has become a force in DC, and two executives with BlackRock on their resumes are set to hold prominent roles in Biden's cabinet.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-iran-nuclear-iaea/iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines-idUSKBN28E1XM",
-      "originalUrl": "https://www.reuters.com/article/us-iran-nuclear-iaea/iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines-idUSKBN28E1XM",
+      "webUrl": "https://www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12",
+      "originalUrl": "https://www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543482313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31BL",
-          "width": 808,
-          "height": 545,
+          "url": "https://i.insider.com/5fc7e5e750e71a00115587a5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -353,16 +457,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28E1VR",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E1VR",
-      "publishedDateTime": "2020-12-04T07:42:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12?amp",
+      "publishedDateTime": "2020-12-04T08:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -383,21 +487,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-04-perdue-tacitly-acknowledges-biden-administration-despite-public-pronouncements.md",
-      "title": "Perdue tacitly acknowledges Biden administration, despite public pronouncements",
-      "excerpt": "In a private zoom call with the Republican Jewish Coalition obtained by The Washington Post, Sen. David Perdue (R-Ga.) referred several times to a new administration run by President-elect Joe Biden.",
+      "path": "_news/2020-12-04-coronavirus-live-news-biden-joins-ex-presidents-in-pledge-to-get-vaccinated-in-public-as-global-deaths-pass-15m.md",
+      "title": "Coronavirus live news: Biden joins ex-presidents in pledge to get vaccinated in public as global deaths pass 1.5m",
+      "excerpt": "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/politics/perdue-tacitly-acknowledges-biden-administration-despite-public-pronouncements/2020/12/03/c37a74dc-9256-49d7-a1c2-81b4ef4927ef_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/politics/perdue-tacitly-acknowledges-biden-administration-despite-public-pronouncements/2020/12/03/c37a74dc-9256-49d7-a1c2-81b4ef4927ef_video.html",
+      "webUrl": "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc994b08f08b46221a1a6aa",
+      "originalUrl": "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc994b08f08b46221a1a6aa",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-04-2020/t_db5a42fdfdc94478a709335819c5af2c_name_Perdue_2.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 834,
+          "url": "https://i.guim.co.uk/img/media/c090cd83408471d34aa1737ecbe2a87179cb7948/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1079fb7348bc08caefecba23853b0e7d",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -405,16 +509,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T17:32:00-08:00",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m",
+      "publishedDateTime": "2020-12-03T17:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-iran-says-it-will-comply-with-nuclear-deal-if-biden-lifts-all-sanctions.md",
+      "title": "Iran says it will comply with nuclear deal if Biden lifts all sanctions",
+      "excerpt": "Foreign minister calls on US to ‘show its good faith’ but appears to rule out renegotiating deal",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions",
+      "originalUrl": "https://www.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d209bfa3a03f58206f01df31391304887c2edad0/501_533_2999_1799/master/2999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a638d3f1e6624eecb32fe34530257b20",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions",
+      "publishedDateTime": "2020-12-03T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -467,58 +623,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-gop-senators-dismiss-possible-congressional-challenge-to-biden-victory.md",
-      "title": "GOP senators dismiss possible congressional challenge to Biden victory",
-      "excerpt": "Amid President Trump’s unfounded claims of fraud, several of his supporters in the House have said they are exploring a challenge to electoral college results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html",
-      "originalUrl": "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELBI7NRUCMI6XFUZADJRD4J5FU.jpg&w=1440",
-          "width": 1440,
-          "height": 974,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-02T17:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -746,7 +850,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 645,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -790,6 +894,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-29-he-understands-washington-joe-scarborough-finds-echoes-of-truman-in-biden.md",
+      "title": "'He understands Washington': Joe Scarborough finds echoes of Truman in Biden",
+      "excerpt": "Joe host, author of a new book on Harry S Truman, sees parallels in the two presidents’ efforts to rebuild",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
+      "originalUrl": "https://www.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0c784c506893f0daeb8873a502c6060bfa00b248/0_0_5184_3110/master/5184.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=719db21f257d74441bd1723dd6f565b6",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2020/nov/29/morning-joe-scarborough-joe-biden-harry-truman-book",
+      "publishedDateTime": "2020-11-29T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-28-milwaukee-county-vote-recount-gives-biden-small-boost.md",
       "title": "Milwaukee County vote recount gives Biden small boost",
       "excerpt": "Milwaukee County completed its recount of presidential ballots, finding only small changes in vote totals for one of the two Wisconsin counties recounting ballots",
@@ -798,7 +954,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 505,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1235,7 +1391,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1415,167 +1571,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-joe-bidens-irish-ancestral-hometown-ballina-revels-in-win-as-london-grows-uneasy-over-brexit.md",
-      "title": "Joe Biden's Irish ancestral hometown, Ballina, revels in win as London grows uneasy over Brexit",
-      "excerpt": "Ballina, once known as the salmon fishing capital of Ireland, now boasts its very own incoming American president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/joe-biden-s-irish-ancestral-hometown-ballina-revels-win-london-n1248080",
-      "originalUrl": "https://www.nbcnews.com/news/world/joe-biden-s-irish-ancestral-hometown-ballina-revels-win-london-n1248080",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_47/3429167/201118-biden-ireland-mc-8352_6c91b65d75bda061f00fe5be9a1bf0b4.JPG",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1248080",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248080",
-      "publishedDateTime": "2020-11-20T17:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-biden-top-democrats-lay-groundwork-for-multibillion-dollar-push-to-boost-us-broadband.md",
-      "title": "Biden, top Democrats lay groundwork for multibillion dollar push to boost U.S. broadband",
-      "excerpt": "President-elect Joe Biden and top congressional Democrats are laying the groundwork to seek a massive increase in federal broadband spending next year, hoping they can secure billions of dollars in new government aid to improve internet access and affordability -- and help people stay online during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R55O6VRKQQI6XHBBHTCQDUEYD4.jpg&w=1440",
-          "width": 1440,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/?outputType=amp",
-      "publishedDateTime": "2020-11-20T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-biden-says-federal-reserves-interest-rate-policy-has-been-positive.md",
-      "title": "Biden says Federal Reserve's interest rate policy has been 'positive'",
-      "excerpt": "U.S. President-elect Joe Biden on Thursday said he supports the way the Federal Reserve has managed interest rate policy and that he has selected a person to run the Treasury Department.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L",
-      "originalUrl": "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541824389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UT",
-          "width": 825,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Z34L",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L",
-      "publishedDateTime": "2020-11-19T18:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

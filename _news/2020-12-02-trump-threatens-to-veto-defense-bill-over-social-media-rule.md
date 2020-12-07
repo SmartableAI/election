@@ -382,6 +382,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Source: Attorney general considering exiting before Trump leaves office"
+    excerpt: "Attorney General William Barr is considering leaving his post before January 20, the day President Donald Trump leaves office, a source with knowledge of the matter confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-07T02:00:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKgjnO9nG7Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/william-barr-considering-leaving-office/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/william-barr-considering-leaving-office/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202204015-bill-barr-0728-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ex-Presidents fill leadership vacuum as Trump ignores worsening pandemic"
     excerpt: "This is what presidential leadership looks like.\n    \n"
     publishedDateTime: 2020-12-03T09:11:11Z

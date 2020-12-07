@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html"
 type: article
 quality: 200
-heat: 1620
+heat: 1640
 published: true
 
 provider:
@@ -365,6 +365,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202192457-ivanka-trump-deposition-lawsuit-inaugural-committee-scannell-tsr-vpx-00000930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Source: Attorney general considering exiting before Trump leaves office"
+    excerpt: "Attorney General William Barr is considering leaving his post before January 20, the day President Donald Trump leaves office, a source with knowledge of the matter confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-07T02:00:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKgjnO9nG7Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/william-barr-considering-leaving-office/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/william-barr-considering-leaving-office/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202204015-bill-barr-0728-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

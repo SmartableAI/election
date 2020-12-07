@@ -3,13 +3,13 @@ category: news
 title: "Biden to nominate California AG Xavier Becerra for health secretary"
 excerpt: "U.S. President-elect Joe Biden plans to nominate California Attorney General Xavier Becerra to serve as secretary of health and human services, a person familiar with the decision said on Sunday."
 publishedDateTime: 2020-12-07T00:19:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-becerra/biden-to-nominate-california-ag-xavier-becerra-for-health-secretary-person-familiar-idUSL1N2IM0KI"
-webUrl: "https://www.reuters.com/article/usa-biden-becerra/biden-to-nominate-california-ag-xavier-becerra-for-health-secretary-person-familiar-idUSL1N2IM0KI"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-becerra-idUSKBN28G0YM"
+webUrl: "https://www.reuters.com/article/us-usa-biden-becerra-idUSKBN28G0YM"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0YM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0YM"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,7 +63,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden picks California AG Xavier Becerra to lead HHS amid global coronavirus pandemic"
+    excerpt: "Becerra, if confirmed, would take on a crucial role in the Biden administration, leading its response to the coronavirus pandemic."
+    publishedDateTime: 2020-12-07T01:53:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2020/12/06/joe-biden-picks-california-ag-xavier-becerra-lead-hhs-reports-say/3776655001/"
+    ampWebUrl: "https://amp.freep.com/amp/3776655001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3776655001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/04/03/USAT/b223a861-b13a-47e9-8a1a-6575f468fd84-Becerra.jpg?auto=webp&crop=2707,1528,x0,y131&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
 
-secured: "JsECoFqwHZf9td8G9xHPEdXAJ7pNVnRKv/jTGxoe72uGp0TV6rXCSRenFMGSOMr6EFR/kmLD/IdtDJjCCXp2leLQ/NwL68bntUsFoK0k6mcLDhNRrk5EAyNJjJWlOVXCF4MawZ4D39njB+rfJJnwiK6QkXXKt+LHTgs1RUw3bShLnWoTSg/Pqf5r62jmHEkl6J94ZbszdazqCCJ0ZsobEdC2EkJzdmIvUHBD3yIDhIIjDn+ZYwtrsShouSF3ZHXoRVas0VQqCp7+FD6AcZe7kDubJKnW1yzuzQHs6XHGeV/k+4weCZcePHDrdO4SJLUKJXHi65BSRXm3fFufuZ2Eg/yl/bLtcdBa7gMkogIjy1U=;bFP1+pDAzQQfyDstHnTKMg=="
+secured: "Tpl2nfITNpOMHuPXsPqxF8Zq8mIntRZ4D1oIoXDfeJD2ff1lqPuRxhamfRZX6iTiONVlbBqkvdtSgxc73PhNRoEw3LuhavLLPxmJvviUr6Qn4n1vstHZYvrxQQg2b2ZmTjO+7mEKEazDw0BijrI8ZesQ6a03li1K4vLvwxkdJte19lFR3Nf8ZnuaLbh0kc9QMxC9FU0MGZ4JPnby1aCcA3B71T9j8UXcoY6O/YgReTzFOxicLH6BVjfZ79Ce5lUsvquiQEvUvRjWyuq1YFLf0a1lid/yrfl2eXTDpmH4ACQXDvl/3nxbkMUtAEmbsjrggvFxCVtJ9tGqflsz/i8mASeJMGU+yzuBfBdocEZvU9k=;U8LUcjIDrRoU2v2SzZpHNQ=="
 ---
 

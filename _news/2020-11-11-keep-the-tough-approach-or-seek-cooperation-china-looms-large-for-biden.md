@@ -143,22 +143,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Controversial postal chief poised to remain in Biden administration"
-    excerpt: "With no clear recourse to immediately remove him, Postmaster General Louis DeJoy is expected to remain in his role after President-elect Joe Biden is sworn in next month."
-    publishedDateTime: 2020-12-01T18:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/controversial-postal-chief-poised-remain-biden-administration/story?id=74469137"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/controversial-postal-chief-poised-remain-biden-administration/story?id=74469137"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/controversial-postal-chief-poised-remain-biden-administration/story?id=74469137"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/dejoy-gty-jt-201130_1606777534812_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden received 'congratulations' from Pope Francis: transition statement"
     excerpt: "Elect Joe Biden spoke with Pope Francis on Thursday, and Biden thanked him for his \"blessing and congratulations,\" his transition team said in a statement."
     publishedDateTime: 2020-11-12T23:08:00Z

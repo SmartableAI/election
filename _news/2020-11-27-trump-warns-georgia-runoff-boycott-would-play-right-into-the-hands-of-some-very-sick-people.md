@@ -431,6 +431,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump warns Georgia voters, 'If you don't vote, the socialists and the communists win'"
+    excerpt: "President Trump urged his supporters to vote for Republican Sens. Kelly Loeffler and David Perdue to prevent the \"socialists\" and \"communists\" from gaining control of the U.S. Senate."
+    publishedDateTime: 2020-12-07T02:01:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ToD9tQ4smzE/trump-communist-democrats-senate-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-communist-democrats-senate-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-communist-democrats-senate-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5df23335-ac07-46ed-9efb-3e51cd2864e9/c872150b-28b4-470c-adf7-2872970f6b35/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden’s Georgia Victory Over Trump Certified by Secretary of State"
     excerpt: "Georgia Secretary of State Brad Raffensperger certified the Nov. 3 election results, declaring President-elect Joe Biden the winner of the state. Mr. Biden’s victory in Georgia is the first for a Democratic presidential candidate since Bill Clinton narrowly defeated George H."
     publishedDateTime: 2020-11-20T22:50:00Z
@@ -638,6 +654,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20291046912810.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Loeffler refuses to acknowledge Trump loss in Georgia senate debate"
+    excerpt: "During a contentious Sunday night debate ahead of next month’s pivotal Senate runoff elections in Georgia, Republican Sen. Kelly Loeffler refused to acknowledge that President"
+    publishedDateTime: 2020-12-07T02:02:00Z
+    webUrl: "https://nypost.com/2020/12/06/loeffler-refuses-to-acknowledge-trump-loss-in-debate/"
+    ampWebUrl: "https://nypost.com/2020/12/06/loeffler-refuses-to-acknowledge-trump-loss-in-debate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/06/loeffler-refuses-to-acknowledge-trump-loss-in-debate/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/georgia-debate.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Georgia Republicans Await Trump Visit With Trepidation Ahead of Crucial Vote"
     excerpt: "GOP officials in Georgia hope the president will rally support for their candidates in two runoff Senate races when he visits Saturday evening, but are concerned he may renew his attacks on the state’s Republican leaders."

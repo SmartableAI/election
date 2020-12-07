@@ -127,22 +127,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden urges Congress to pass coronavirus package, promises more action"
-    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
-    publishedDateTime: 2020-12-01T20:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-urges-congress-to-pass-coronavirus-package-promises-more-action-idUSL1N2IH242"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543101682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03ID"
-        width: 758
-        height: 545
-        isCached: true
   - title: "Biden plans scaled-back inauguration to avoid spreading coronavirus in crowds"
     excerpt: "Setting a sharp contrast with President Donald Trump, whose administration began with a fight over the size of his inaugural crowds, President-elect Joe Biden said on Friday he plans a scaled-back event for safety's sake during the pandemic."
     publishedDateTime: 2020-12-05T12:03:00Z
@@ -173,22 +157,6 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543536446&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31SN"
         width: 689
-        height: 545
-        isCached: true
-  - title: "UPDATE 1-Biden urges Congress to pass coronavirus package, promises more action"
-    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
-    publishedDateTime: 2020-12-02T00:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idUSL1N2IH242"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
-        width: 1022
         height: 545
         isCached: true
   - title: "Biden says bipartisan coronavirus aid bill should be passed but will still need more"

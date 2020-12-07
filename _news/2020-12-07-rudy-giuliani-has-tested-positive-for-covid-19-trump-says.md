@@ -207,6 +207,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Giuliani tests positive for COVID-19, latest in Trump's inner circle"
+    excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, prompting one state legislature to close for a week after Giuliani visited to try to persuade lawmakers to help reverse Trump's election defeat."
+    publishedDateTime: 2020-12-07T02:12:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSKBN28G0T2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543618615&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50IE"
+        width: 823
+        height: 545
+        isCached: true
   - title: "Rudy Giuliani tests positive for COVID-19, Trump says"
     excerpt: "Rudy Giuliani, President Trump's personal attorney who has been traveling the country raising unsubstantiated claims of voter fraud, tested positive for COVID-19, the president said Sunday. \".@RudyGiuliani,"
     publishedDateTime: 2020-12-07T00:20:00Z
@@ -222,6 +238,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/06/0a568217-27df-4cab-ba62-e2bd58bd977e/thumbnail/1200x630/8e7115d01fe374a1bd37797a705de9f2/gettyimages-1229918573.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump lawyer Giuliani in hospital after positive COVID test"
+    excerpt: "President Donald Trump said Sunday his personal attorney Rudy Giuliani has tested positive for the coronavirus, making him the latest in Trump’s inner circle to contract the disease that is now surging across the U."
+    publishedDateTime: 2020-12-07T02:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-lawyer-giuliani-in-hospital-after-positive-covid-test/2020/12/06/cec68b6a-3836-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-lawyer-giuliani-in-hospital-after-positive-covid-test/2020/12/06/cec68b6a-3836-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lawyer-giuliani-in-hospital-after-positive-covid-test/2020/12/06/cec68b6a-3836-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump lawyer Rudy Giuliani tested positive for coronavirus, Trump says"
     excerpt: "U.S. President Donald Trump's personal lawyer, Rudy Giuliani, has tested positive for the novel coronavirus, Trump said on Twitter on Sunday."
@@ -337,8 +369,8 @@ related:
         isCached: true
   - title: "Trump lawyer Rudy Giuliani positive for COVID-19 after wave of lawmaker lobbying"
     excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, after a wave of travel by the former New York mayor seeking to persuade Republican state lawmakers to overturn the election results."
-    publishedDateTime: 2020-12-06T22:05:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-travel-challenging-election-results-idUSKBN28G0T2"
+    publishedDateTime: 2020-12-07T02:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-2-trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-lawmaker-lobbying-idUSL1N2IM0G2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
     type: article
@@ -510,6 +542,6 @@ related:
         height: 683
         isCached: true
 
-secured: "Z19AZxIUm8u1jhEOG5nltP+EDAnHkM0kzTfmelSaWO/gBfb7FzypaoZbknPJoxqUD7atUfZxMOa+GQNX2keY6cPXY855wXoq307gTGqCUJzcs9UAuepEaa64hO5mgLQ+KA6wGCOvi82bL82eEONEClbFr5FDjsPNixKhw3w52JO0k3ql2ze36rdRVxNO12OT7GBqmcYN1G36fvxzoopqljtfLNmwCoH9C2fy0t/2ROdCOpCiKIwLiEPQhuEcZeP8x9wO9djATeR7LVEk8Pcr+SoiWC2B+shnxvgNmq1jjfCSA1tKLY8pFxRxPfMYpR6rHk3/P0RbUmLzRqlDuB9MC+rHFvbdBwzP8vTeMtliTQA=;2UQ9DDpW2Y0ea9v1Wvo0Fg=="
+secured: "ATLdad4FeDTdHCgcpefrzrpEYRrIy0Lp0P1atwE2urh6rqREBAY2NcQ17GUDgrNlY9efsQxfQi7G65gMl1ufw0rPpCSuhKBsjU8LExnBdufG9DapSJzrbHmwC1zlSEzXkyr6WO3ZYBE+mG5nyIFp4nJe08Eze3hNUC1lpxojD2OqZqBXRxcXPDY/YitePuVBk0cjLu69wiQbsFz1fj04l+3BVdIqFg7O1dbpyditItx9NwC4z9ebjia0dUbhRg36osR57ctwAG/2BtWP9nTS8IhP/bNk5M0juSHYcYFCM/g+E6N9EW/81B0+0PpMsZadgjEjd3StSoz5YJHATCvQsSDe39IxPuUtztIkXy01/n/4smUl0qYEHLQ6xrPNjg2Q27ieCF2J0PvuP8EzXOoYXwTJ5Fk/p+ypzItMH7o0T9VJu/5zO1QKJ5GoKkoIobuUS7vJBri6JUuUAZ5PvSLwjZvAn9jYzeJSDGmb/Li9E9W/p3XOkM+e23OB1HhR/+JoB6pP9ihEHa0/WIwXWThsoA==;Jz/FcYTW2Hfy4oe1zndMWA=="
 ---
 

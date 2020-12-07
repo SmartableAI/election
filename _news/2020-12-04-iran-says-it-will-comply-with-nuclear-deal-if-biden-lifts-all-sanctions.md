@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-de
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 125
+published: true
 
 provider:
   name: The Guardian
@@ -29,72 +29,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "GOP senators dismiss possible congressional challenge to Biden victory"
-    excerpt: "Amid President Trump’s unfounded claims of fraud, several of his supporters in the House have said they are exploring a challenge to electoral college results."
-    publishedDateTime: 2020-12-03T01:19:00Z
-    webUrl: "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELBI7NRUCMI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 974
-        isCached: true
-  - title: "President-elect Joe Biden predicts ‘bleak future’ if Congress doesn’t act on COVID-19 aid"
-    excerpt: "Biden has said that while he doesn't support a nationwide lockdown, he plans to ask Americans to commit to 100 days of mask-wearing to help combat the virus as one of his first acts as president."
-    publishedDateTime: 2020-12-04T22:24:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 116
-    images:
-      - url: "https://www.chicagotribune.com/resizer/y77g0ME3grCoELK2CDk2zNIok78=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UN7URUO5WJH4P7JVZZIPAT4PDA.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Coronavirus live news: Biden joins ex-presidents in pledge to get vaccinated in public as global deaths pass 1.5m"
-    excerpt: "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m"
-    publishedDateTime: 2020-12-04T01:58:00Z
-    webUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc994b08f08b46221a1a6aa"
-    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 104
-    images:
-      - url: "https://i.guim.co.uk/img/media/c090cd83408471d34aa1737ecbe2a87179cb7948/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1079fb7348bc08caefecba23853b0e7d"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
-    excerpt: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
-    publishedDateTime: 2020-12-05T05:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 101
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
 
 secured: "tkB7OHFi/1em6kinPVn94z5lCUOd9dKS3Q/FoHsxmCsNnPxfc3p1jCHpuPAWCa+vLmgo7IUbO2AkYncINWr5yVKOjYuLMbyOVqwJ8Le5hHJFa5n2n7gSzs3pZ7PoUxAgpbGjmPLd7yZCvJMJl0WSBFBCMhtaiJ0NArNg5AQxPvr3f5Pyvc+Ku3X1XGzaLTEdrrHdI92txf3SIZ/oosswrKJS55Ep/nNOriu/kxsK/g6PfQmjnDbYThvRu89oNHr5HTUJw67BSFZPKLoWROtB/+BlJ/dsKUV+mr9V+CtmdMB3yOCJi60/IoEXUYRGHl6LRdaFCO3MrBApw3PmSUzPnezw9huOULyNgbm1L1n2SZ4cK+Xl3tn61yH2+ryuKJr3i1nfp1OJlH38UUja36unB2D2ekmxHH8cpqM5S9jIg3NZFYHhj8gZt+zt8vk2nTihmCbzu5ZEJoVT/XHhDhMl7NwW5VQi9Qgw+MfE0nN6VS2eX7S23JN3AEDN9ubbqKn9gNXGDCs9wzCDuJcztLC6ew==;goGxI9Q/3vZWJnX7u1E2uA=="
 ---

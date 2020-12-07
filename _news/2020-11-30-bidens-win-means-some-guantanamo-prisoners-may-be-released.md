@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-presidency-guantanamo-prisone
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidency-guantanamo-prisoners-released.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0bef5df3-b1ad-4063-9945-74d7c18dcd09/d317839e-7140-4e34-b763-0f08bbdeea34/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden changes his story on Bin Laden raid -- again"
+    excerpt: "President-elect Joe Biden came under fire earlier this year for denying his opposition to the 2011 raid that killed Usama bin Laden after previously claiming that he advised then-President Obama against it. "
+    publishedDateTime: 2020-12-07T00:59:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VUmhWXUtvkE/biden-bin-laden-raid-obama"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-bin-laden-raid-obama.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bin-laden-raid-obama.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b76c0eaf-5096-4a0a-bb3c-7fc7db46132a/9941afad-0e5a-4e96-985a-d38d9e65ff99/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

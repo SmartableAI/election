@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-03-john-mulaney-says-he-was-investigated-by-the-secret-service-over-joke-that-was-not-about-donald-trump.md",
+      "title": "John Mulaney says he was investigated by the Secret Service over joke 'that was not about Donald Trump'",
+      "excerpt": "John Mulaney says he was investigated by the Secret Service after making a joke that many believed was a threat against President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
+      "originalUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/John-Mulaney-Getty.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
+      "publishedDateTime": "2020-12-02T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy.md",
       "title": "Wisconsin governor: Trump election lawsuit an 'assault on democracy'",
       "excerpt": "Wisconsin Gov. Tony Evers (D) criticized President Trump’s latest lawsuit seeking to overturn the state's election results as an “assault on democracy.”",
@@ -441,7 +498,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-barr/trump-allies-barr-giuliani-at-odds-on-discredited-election-fraud-claims-idUSKBN28B685",
       "featuredContent": null,
       "highlight": null,
-      "heat": 759,
+      "heat": 799,
       "tags": null,
       "images": [
         {
@@ -1491,58 +1548,6 @@
       "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/mini-desk-trump-mocked-speech-little-table-diaperdon-twitter-president-furniture",
       "publishedDateTime": "2020-11-27T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-trumps-furniture-fail-thats-not-a-desk-donald-its-a-table-for-tv-dinners.md",
-      "title": "Trump's furniture fail: that's not a desk, Donald – it's a table for TV dinners",
-      "excerpt": "The Resolute desk at the White House is made of timbers taken from a Royal Navy ship. It projects pure power. Is that why the defeated US president has switched to an occasional table he can barely squeeze his legs under?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
-      "originalUrl": "https://www.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/16cb7b7093d8a5252e82b5c01d2d72c758b0c441/0_0_5916_3944/master/5916.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f35b785ba07815a5d778c7bd2f281979",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2020/nov/27/trumps-furniture-fail-desk-donald-table-tv-dinners",
-      "publishedDateTime": "2020-11-27T08:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",

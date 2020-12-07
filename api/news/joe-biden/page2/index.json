@@ -2,6 +2,167 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-21-joe-bidens-irish-ancestral-hometown-ballina-revels-in-win-as-london-grows-uneasy-over-brexit.md",
+      "title": "Joe Biden's Irish ancestral hometown, Ballina, revels in win as London grows uneasy over Brexit",
+      "excerpt": "Ballina, once known as the salmon fishing capital of Ireland, now boasts its very own incoming American president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/joe-biden-s-irish-ancestral-hometown-ballina-revels-win-london-n1248080",
+      "originalUrl": "https://www.nbcnews.com/news/world/joe-biden-s-irish-ancestral-hometown-ballina-revels-win-london-n1248080",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_47/3429167/201118-biden-ireland-mc-8352_6c91b65d75bda061f00fe5be9a1bf0b4.JPG",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1248080",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248080",
+      "publishedDateTime": "2020-11-20T17:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-biden-top-democrats-lay-groundwork-for-multibillion-dollar-push-to-boost-us-broadband.md",
+      "title": "Biden, top Democrats lay groundwork for multibillion dollar push to boost U.S. broadband",
+      "excerpt": "President-elect Joe Biden and top congressional Democrats are laying the groundwork to seek a massive increase in federal broadband spending next year, hoping they can secure billions of dollars in new government aid to improve internet access and affordability -- and help people stay online during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R55O6VRKQQI6XHBBHTCQDUEYD4.jpg&w=1440",
+          "width": 1440,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/?outputType=amp",
+      "publishedDateTime": "2020-11-20T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-biden-says-federal-reserves-interest-rate-policy-has-been-positive.md",
+      "title": "Biden says Federal Reserve's interest rate policy has been 'positive'",
+      "excerpt": "U.S. President-elect Joe Biden on Thursday said he supports the way the Federal Reserve has managed interest rate policy and that he has selected a person to run the Treasury Department.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L",
+      "originalUrl": "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541824389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UT",
+          "width": 825,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Z34L",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L",
+      "publishedDateTime": "2020-11-19T18:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-biden-tells-governors-hell-help-states-overcome-coronavirus.md",
       "title": "Biden tells governors he’ll help states overcome coronavirus",
       "excerpt": "In a virtual meeting with governors, Joe Biden has expressed concern that President Donald Trump’s unprecedented attempt to block the peaceful transition of power at the White House has hindered the f",
@@ -10,7 +171,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 565,
+      "heat": 525,
       "tags": null,
       "images": [
         {
@@ -276,7 +437,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD",
       "featuredContent": null,
       "highlight": null,
-      "heat": 505,
+      "heat": 485,
       "tags": null,
       "images": [
         {
@@ -1422,59 +1583,7 @@
         "Election",
         "Joe Biden"
       ]
-    },
-    {
-      "path": "_news/2020-11-06-watch-live-biden-speaks-from-delaware.md",
-      "title": "Watch live: Biden speaks from Delaware",
-      "excerpt": "Democratic presidential candidate Joe Biden delivers remarks from Wilmington, Del.The event is scheduled to begin at 4:15 p.m.Watch the live video above.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware",
-      "originalUrl": "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe2_11042020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp",
-      "publishedDateTime": "2020-11-05T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 3
 }

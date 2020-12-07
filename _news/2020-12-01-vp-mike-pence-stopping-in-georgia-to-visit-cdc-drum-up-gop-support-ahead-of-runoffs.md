@@ -379,6 +379,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "In Georgia, Loeffler again refuses to say Trump lost"
+    excerpt: "Republican Sen. Kelly Loeffler's is blasting her Democratic challenger Raphael Warnock as a radical while she also continues to deny that President Donald Trump lost his re-election attempt"
+    publishedDateTime: 2020-12-07T02:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/loeffler-warnock-meet-georgia-senate-debate-74568174"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/loeffler-warnock-meet-georgia-senate-debate-74568174"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loeffler-warnock-meet-georgia-senate-debate-74568174"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f1c614dcc6204ddba3c782c7b8165dab_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Trailer: What Trump supporters in Georgia believe"
     excerpt: "In this edition: The president's election-rejection tour, the wild charges being made in Georgia's Senate races, and the final election of 2020."
     publishedDateTime: 2020-12-06T22:42:00Z
