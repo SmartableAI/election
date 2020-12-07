@@ -2,6 +2,116 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-07-biden-picks-california-attorney-general-xavier-becerra-to-lead-health-and-human-services.md",
+      "title": "Biden picks California Attorney General Xavier Becerra to lead Health and Human Services",
+      "excerpt": "As the nation’s next top health official, Becerra will arguably hold the most consequential Cabinet role at the outset of Biden’s new administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/biden-will-pick-california-attorney-general-xavier-becerra-lead-health-n1250170",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/biden-will-pick-california-attorney-general-xavier-becerra-lead-health-n1250170",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_32/3403124/200808-xavier-becerra-al-1014_ccd4811d1072657f57e99a351f1e4662.jpg",
+          "width": 2500,
+          "height": 1335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250170",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250170",
+      "publishedDateTime": "2020-12-07T04:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-trump-suggests-joe-biden-will-try-to-take-the-word-christmas-out-of-the-vocabulary.md",
+      "title": "Trump suggests Joe Biden will try to take the word Christmas 'out of the vocabulary'",
+      "excerpt": "Trump claimed credit for re-introducing the Americans' right to say 'Merry Christmas' during his time in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fce1adbeadd8400183df6be?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp",
+      "publishedDateTime": "2020-12-07T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-despite-mounting-legal-losses-braun-refuses-to-acknowledge-bidens-election-win.md",
       "title": "Despite mounting legal losses, Braun refuses to acknowledge Biden's election win",
       "excerpt": "The majority of the nearly 50 court cases brought by the Trump campaign have been tossed out by judges across the country.",
@@ -10,7 +120,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1015,
+      "heat": 655,
       "tags": null,
       "images": [
         {
@@ -383,58 +493,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-05-president-elect-joe-biden-predicts-bleak-future-if-congress-doesnt-act-on-covid-19-aid.md",
-      "title": "President-elect Joe Biden predicts ‘bleak future’ if Congress doesn’t act on COVID-19 aid",
-      "excerpt": "Biden has said that while he doesn't support a nationwide lockdown, he plans to ask Americans to commit to 100 days of mask-wearing to help combat the virus as one of his first acts as president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html",
-      "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/y77g0ME3grCoELK2CDk2zNIok78=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UN7URUO5WJH4P7JVZZIPAT4PDA.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-04T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-05-joe-biden-owes-philly-15500-in-unpaid-bills-after-leaving-a-muddy-mess-from-a-campaign-event-the-city-wants-its-money-asap.md",
       "title": "Joe Biden owes Philly $15,500 in unpaid bills after leaving a muddy mess from a campaign event. The city wants its money ASAP.",
       "excerpt": "Biden's team hasn't paid the $6,025 site fee for using Philly's FDR Park, and $9,500 to cover repairs of a portion of the park's waterlogged grounds.",
@@ -487,58 +545,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-05-here-are-9-fascinating-facts-to-know-about-blackrock-the-worlds-largest-asset-manager-popping-up-in-the-biden-administration.md",
-      "title": "Here are 9 fascinating facts to know about BlackRock, the world's largest asset manager popping up in the Biden administration",
-      "excerpt": "The asset manager has become a force in DC, and two executives with BlackRock on their resumes are set to hold prominent roles in Biden's cabinet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12",
-      "originalUrl": "https://www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc7e5e750e71a00115587a5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12?amp",
-      "publishedDateTime": "2020-12-04T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-04-coronavirus-live-news-biden-joins-ex-presidents-in-pledge-to-get-vaccinated-in-public-as-global-deaths-pass-15m.md",
       "title": "Coronavirus live news: Biden joins ex-presidents in pledge to get vaccinated in public as global deaths pass 1.5m",
       "excerpt": "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m",
@@ -547,7 +553,7 @@
       "originalUrl": "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc994b08f08b46221a1a6aa",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -591,21 +597,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-04-iran-says-it-will-comply-with-nuclear-deal-if-biden-lifts-all-sanctions.md",
-      "title": "Iran says it will comply with nuclear deal if Biden lifts all sanctions",
-      "excerpt": "Foreign minister calls on US to ‘show its good faith’ but appears to rule out renegotiating deal",
+      "path": "_news/2020-12-03-the-latest-biden-picks-deese-for-national-economic-council.md",
+      "title": "The Latest: Biden picks Deese for National Economic Council",
+      "excerpt": "President-elect Joe Biden has tapped former Obama administration senior economic adviser Brian Deese to be director of the National Economic Council",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions",
-      "originalUrl": "https://www.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions",
+      "webUrl": "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 185,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/d209bfa3a03f58206f01df31391304887c2edad0/501_533_2999_1799/master/2999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a638d3f1e6624eecb32fe34530257b20",
-          "width": 600,
-          "height": 360,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -613,16 +619,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions",
-      "publishedDateTime": "2020-12-03T08:23:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-03T05:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -643,21 +649,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-03-biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat.md",
-      "title": "Biden must decide on North Korea strategy early, says top Obama-era diplomat",
-      "excerpt": "Kurt Campbell says the delay in acting on Pyongyang in previous Democratic administration ‘headed off any possibility of engagement’",
+      "path": "_news/2020-12-03-biden-to-meet-with-us-workers-hit-by-pandemic-says-congress-must-act.md",
+      "title": "Biden to meet with U.S. workers hit by pandemic, says Congress must act",
+      "excerpt": "President-elect Joe Biden will talk with workers and business owners on Wednesday about how the coronavirus has affected them as he prepares to confront his highest priority on taking office: the resurgent pandemic in the United States.",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/dec/03/biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/03/biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat",
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-workers-idINKBN28C1GM",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-workers-idINKBN28C1GM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 265,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/f580281220eb37f4b6d4922996221607b777c97a/0_0_4423_2654/master/4423.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a3de84c58a1b4e6bdf50a5f4b06e8d26",
-          "width": 600,
-          "height": 360,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -665,16 +671,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/03/biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/03/biden-must-decide-on-north-korea-strategy-early-says-top-obama-era-diplomat",
-      "publishedDateTime": "2020-12-02T22:05:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28C1GM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1GM",
+      "publishedDateTime": "2020-12-02T12:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-the-trailer-what-biden-and-the-left-are-demanding-of-each-other.md",
+      "title": "The Trailer: What Biden and the left are demanding of each other",
+      "excerpt": "The campaign to shape Biden's agenda, the next (and even stranger) stage of election contests, and Donald Trump Jr. goes on the air in Georgia",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IU43CRK7EI6XHBBHTCQDUEYD4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp",
+      "publishedDateTime": "2020-12-01T14:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -703,7 +761,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/01/presidential-transition-politics-updates-joe-biden-donald-trump/3782498001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -779,153 +837,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-biden-shortlist-for-white-house-key-environmental-post-shows-focus-on-environmental-justice.md",
-      "title": "Biden shortlist for White House key environmental post shows focus on environmental justice",
-      "excerpt": "President-elect Joe Biden is vetting three environmental justice leaders to head up the White House agency that will take the lead in coordinating efforts to safeguard communities disproportionately affected by pollution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/idUSKBN28B4LN",
-      "originalUrl": "https://www.reuters.com/article/idUSKBN28B4LN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543044431&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB02IH",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28B4LN",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B4LN",
-      "publishedDateTime": "2020-12-01T03:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-biden-weighs-rahm-emanuel-for-transportation-secretary.md",
-      "title": "Biden weighs Rahm Emanuel for transportation secretary",
-      "excerpt": "CHICAGO (AP) — President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel, a substantial and somewhat divisive figure in Democratic Party politics, to serve as his transportation secretary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12",
-      "originalUrl": "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-weighs-rahm-emanuel-for-transportation-secretary-2020-12?amp",
-      "publishedDateTime": "2020-12-01T01:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-the-latest-biden-foreign-leaders-talk-about-pandemic.md",
-      "title": "The Latest: Biden, foreign leaders talk about pandemic",
-      "excerpt": "President-elect Joe Biden spent Monday at home accepting congratulatory calls from foreign leaders, a day after being diagnosed with stress fractures in his foot",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-unveils-jan-20-inaugural-committee/2020/11/30/dc75c678-3312-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-30T05:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1023,6 +934,58 @@
       "ampWebUrl": "https://www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/milwaukee-county-vote-recount-gives-biden-small-boost/2020/11/27/ee6ea654-3111-11eb-9dd6-2d0179981719_story.html?outputType=amp",
       "publishedDateTime": "2020-11-27T16:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-after-biden-win-rehoboth-beach-celebrates-local-boy-who-made-good-hes-our-joe.md",
+      "title": "After Biden win, Rehoboth Beach celebrates local boy who made good: ‘He’s our Joe’",
+      "excerpt": "Bikinis and beach umbrellas are marked to sell. The only hint of summer is the tangy scent of vinegar-doused french fries wafting from the one Thrasher’s stand that has remained open. Late fall and winter is when Rehoboth Beach typically gets to crawl back into its shell,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QASGXPBOUQI6XHOWFUAXTGAXDE.jpg&w=1440",
+          "width": 1440,
+          "height": 961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-rehoboth-beach/2020/11/27/904d0fee-2ea9-11eb-860d-f7999599cbc2_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-27T10:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -1164,6 +1127,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-26-joe-biden-says-this-is-not-a-third-obama-term-in-first-sit-down-interview.md",
+      "title": "Joe Biden says ‘this is not a third Obama term’ in first sit-down interview",
+      "excerpt": "Although his list of cabinet nominees included many Obama-era alumni, Joe Biden said the challenges facing him were unique",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/24/joe-biden-nbc-interview-presidency",
+      "publishedDateTime": "2020-11-25T16:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days.md",
       "title": "Biden says he'll push 'pathway to citizenship for over 11 million undocumented people' in first 100 days",
       "excerpt": "President-elect Joe Biden has committed to forging \"a pathway to citizenship for over 11 million undocumented people in America\" in the first 100 days of his administration.",
@@ -1218,58 +1224,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-joe-biden-says-lets-be-thankful-for-democracy-in-message-of-unity-live.md",
-      "title": "Joe Biden says 'Let's be thankful for democracy' in message of unity – live",
-      "excerpt": "Biden will speak in Wilmington as US records highest daily Covid deaths since May and 172,935 new cases",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbeb83c8f08850ef86c6ad4",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbeb83c8f08850ef86c6ad4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/24f99c0d55da1b4d269627546f6fde1b348710d6/0_162_4928_2956/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3362e2ec893a9005aef414c6b8f5edc",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates",
-      "publishedDateTime": "2020-11-25T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1391,7 +1345,7 @@
       "originalUrl": "https://www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1443,7 +1397,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1571,6 +1525,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-biden-team-slams-treasury-decision-to-curtail-fed-lending-powers-calls-move-deeply-irresponsible.md",
+      "title": "Biden team slams Treasury decision to curtail Fed lending powers, calls move ‘deeply irresponsible’",
+      "excerpt": "The Federal Reserve and Treasury Department had a rare public falling out over whether the central bank should retain emergency lending powers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/us-policy/2020/11/20/federal-reserve-treasury-coronavirus/",
+      "originalUrl": "https://www.washingtonpost.com/us-policy/2020/11/20/federal-reserve-treasury-coronavirus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDT5I2BE4MI6XHCKBXDCILCICQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2020/11/20/federal-reserve-treasury-coronavirus/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/11/20/federal-reserve-treasury-coronavirus/?outputType=amp",
+      "publishedDateTime": "2020-11-20T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

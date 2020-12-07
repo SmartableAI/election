@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-tr
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp"
 type: article
 quality: 122
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump admin set to approve Arizona land swap for mine opposed by Native Americans"
+    excerpt: "U.S. President Donald Trump's outgoing administration is set to approve a controversial land swap later this month that would give Rio Tinto Ltd and partners more than 2,400 acres (9.7 square kilometers) to build an Arizona copper mine,"
+    publishedDateTime: 2020-12-07T06:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-mining-resolution-idUSKBN28H0FW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H0FW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H0FW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543651036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB608F"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Coronavirus live news: Biden to ask Americans to wear masks for 100 days as global deaths pass 1.5m"
     excerpt: "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m"
     publishedDateTime: 2020-12-04T00:24:00Z

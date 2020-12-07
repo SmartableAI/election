@@ -397,6 +397,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Note: Trump brings GOP along in dangerous final acts"
+    excerpt: "The process that so many Republicans have been saying they want to play out is rather thoroughly exhausted already."
+    publishedDateTime: 2020-12-07T11:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-trump-brings-gop-dangerous-final-acts/story?id=74571494"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-brings-gop-dangerous-final-acts/story?id=74571494"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-brings-gop-dangerous-final-acts/story?id=74571494"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Trump_rally_201_hpMain_20201206-202802_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Trailer: What Trump supporters in Georgia believe"
     excerpt: "In this edition: The president's election-rejection tour, the wild charges being made in Georgia's Senate races, and the final election of 2020."
     publishedDateTime: 2020-12-06T22:42:00Z
@@ -492,6 +508,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/donald-trump-02-rtr-jc-201201_1606859554402_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Kelly Loeffler repeats Trump didn't lose 2020 election during Georgia Senate debate against Raphael Warnock"
+    excerpt: "Loeffler three times refused to acknowledge that President Trump​ lost re-election in November, as she debated her Democratic opponent less than one month to the runoff election."
+    publishedDateTime: 2020-12-07T12:16:00Z
+    webUrl: "https://www.cbsnews.com/news/kelly-loeffler-raphael-warnock-georgia-senate-debate-recap/?intcid=CNI-00-10aaa3b"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kelly-loeffler-raphael-warnock-georgia-senate-debate-recap/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kelly-loeffler-raphael-warnock-georgia-senate-debate-recap/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/07/9dc2e7e5-4bec-4b6f-878c-94d8cb08fd8c/thumbnail/1200x630/8e8a2641c4459beee3fea8112064b486/georgia-senate-runoff-debate-2020-12-06.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Live politics updates: Biden plans to campaign in Georgia for Senate candidates"
     excerpt: "President-elect Joe Biden said he would campaign in Georgia, where two Senate runoff races could determine if Republicans retain control of the Senate"

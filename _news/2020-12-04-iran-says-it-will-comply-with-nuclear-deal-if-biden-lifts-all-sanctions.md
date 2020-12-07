@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-de
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions"
 type: article
 quality: 125
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -29,6 +29,118 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Biden to meet with U.S. workers hit by pandemic, says Congress must act"
+    excerpt: "President-elect Joe Biden will talk with workers and business owners on Wednesday about how the coronavirus has affected them as he prepares to confront his highest priority on taking office: the resurgent pandemic in the United States."
+    publishedDateTime: 2020-12-02T20:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-workers-idINKBN28C1GM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1GM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1GM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Joe Biden says 'Let's be thankful for democracy' in message of unity – live"
+    excerpt: "Biden will speak in Wilmington as US records highest daily Covid deaths since May and 172,935 new cases"
+    publishedDateTime: 2020-11-25T20:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbeb83c8f08850ef86c6ad4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/24f99c0d55da1b4d269627546f6fde1b348710d6/0_162_4928_2956/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3362e2ec893a9005aef414c6b8f5edc"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden team to meet with Latino lawmakers amid calls for diverse cabinet picks"
+    excerpt: "Congressional Hispanic Caucus has pushed for the president-elect to select a Latino person to lead a major federal agency"
+    publishedDateTime: 2020-12-02T21:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/ca519be7e2232ba11e4ac5d8dfae38be29db558d/0_84_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad7e7a3e5456b291902a6b3d9d880c9e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "President-elect Joe Biden predicts ‘bleak future’ if Congress doesn’t act on COVID-19 aid"
+    excerpt: "Biden has said that while he doesn't support a nationwide lockdown, he plans to ask Americans to commit to 100 days of mask-wearing to help combat the virus as one of his first acts as president."
+    publishedDateTime: 2020-12-04T22:24:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 116
+    images:
+      - url: "https://www.chicagotribune.com/resizer/y77g0ME3grCoELK2CDk2zNIok78=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UN7URUO5WJH4P7JVZZIPAT4PDA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden shortlist for White House key environmental post shows focus on environmental justice"
+    excerpt: "President-elect Joe Biden is vetting three environmental justice leaders to head up the White House agency that will take the lead in coordinating efforts to safeguard communities disproportionately affected by pollution,"
+    publishedDateTime: 2020-12-01T11:29:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN28B4LN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B4LN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B4LN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543044431&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB02IH"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden pushes Congress to provide relief for out-of-work Americans"
+    excerpt: "With nearly 11 million people unemployed and more than 400,000 COVID-19 deaths projected by the time he takes office, President-elect Joe Biden said Congress must provide relief for Americans set to lose federal aid in a matter of weeks."
+    publishedDateTime: 2020-12-05T00:00:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-pushes-congress-to-provide-relief-for-out-of-work-americans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/04/e48dcfc6-73e3-4efa-b58d-9075e97f83bf/thumbnail/1200x630/083ca26610c86ced4b158b123bbe1e5e/cbsn-fusion-biden-pushes-congress-to-provide-relief-for-out-of-work-americans-thumbnail-601539-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden officially secures enough electors to become president after California certifies his victory in the state"
+    excerpt: "California certified its presidential election Friday, officially handing Biden the Electoral College majority needed to win the White House."
+    publishedDateTime: 2020-12-05T02:52:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 102
+    images:
+      - url: "https://www.chicagotribune.com/resizer/xvHs5DmNU-TWtuQsIVRcbg-B8P0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F7CW27NKDBAWFFLEC2ZWZKZBJ4.aspx"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "tkB7OHFi/1em6kinPVn94z5lCUOd9dKS3Q/FoHsxmCsNnPxfc3p1jCHpuPAWCa+vLmgo7IUbO2AkYncINWr5yVKOjYuLMbyOVqwJ8Le5hHJFa5n2n7gSzs3pZ7PoUxAgpbGjmPLd7yZCvJMJl0WSBFBCMhtaiJ0NArNg5AQxPvr3f5Pyvc+Ku3X1XGzaLTEdrrHdI92txf3SIZ/oosswrKJS55Ep/nNOriu/kxsK/g6PfQmjnDbYThvRu89oNHr5HTUJw67BSFZPKLoWROtB/+BlJ/dsKUV+mr9V+CtmdMB3yOCJi60/IoEXUYRGHl6LRdaFCO3MrBApw3PmSUzPnezw9huOULyNgbm1L1n2SZ4cK+Xl3tn61yH2+ryuKJr3i1nfp1OJlH38UUja36unB2D2ekmxHH8cpqM5S9jIg3NZFYHhj8gZt+zt8vk2nTihmCbzu5ZEJoVT/XHhDhMl7NwW5VQi9Qgw+MfE0nN6VS2eX7S23JN3AEDN9ubbqKn9gNXGDCs9wzCDuJcztLC6ew==;goGxI9Q/3vZWJnX7u1E2uA=="
 ---

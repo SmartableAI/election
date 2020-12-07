@@ -204,7 +204,7 @@ related:
   - title: "Giuliani tests positive for COVID-19, latest in Trump's inner circle"
     excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, prompting one state legislature to close for a week after Giuliani visited to try to persuade lawmakers to help reverse Trump's election defeat."
     publishedDateTime: 2020-12-07T06:50:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSKBN28G0T2"
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-5-giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSL1N2IM0G2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
     type: article
@@ -526,6 +526,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump's lawyer Rudy Giuliani asks witness to remove her face mask"
+    excerpt: "At a hearing before the Michigan legislature about alleged voter fraud, Donald Trump's lawyer, Rudy Giuliani asked a witness seated next to him to remove her mask, because he said he couldn’t hear her."
+    publishedDateTime: 2020-12-07T12:00:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55214670"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p090q08t.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Fired Official Says Correcting Trump's Fraud Claims The 'Right Thing To Do'"
     excerpt: "Christopher Krebs, who led the federal government's efforts to secure the 2020 election, called the operation near seamless despite President Trump's claims to the contrary."
     publishedDateTime: 2020-12-01T09:01:00Z

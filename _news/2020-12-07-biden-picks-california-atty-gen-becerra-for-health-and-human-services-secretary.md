@@ -31,85 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to nominate California AG Xavier Becerra for health secretary"
-    excerpt: "U.S. President-elect Joe Biden plans to nominate California Attorney General Xavier Becerra to serve as secretary of health and human services, a person familiar with the decision said on Sunday."
-    publishedDateTime: 2020-12-07T00:19:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-becerra-idUSKBN28G0YM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0YM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0YM"
+  - title: "The Latest: Biden picks Deese for National Economic Council"
+    excerpt: "President-elect Joe Biden has tapped former Obama administration senior economic adviser Brian Deese to be director of the National Economic Council"
+    publishedDateTime: 2020-12-03T13:45:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543627983&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50MF"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Xavier Becerra, California attorney general, is Biden's pick to lead health department: NYT"
-    excerpt: "The former congressman from Los Angeles has served as California's top prosecutor since 2017."
-    publishedDateTime: 2020-12-07T10:19:00Z
-    webUrl: "https://www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12?amp"
+  - title: "Biden picks Calif. AG to be first Latino health secretary"
+    excerpt: "President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administratio"
+    publishedDateTime: 2020-12-06T23:51:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5fcd7579037cbd0018614224?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Health/WireAP_8179be43226c4bdf96e4f2732aa30135_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Joe Biden to nominate California attorney general Xavier Becerra as health secretary – reports"
-    excerpt: "If confirmed by the Senate, Becerra will be the first Latino to head the federal health department"
-    publishedDateTime: 2020-12-07T01:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/07/joe-biden-to-nominate-california-attorney-general-xavier-becerra-to-be-health-secretary-reports"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/07/joe-biden-to-nominate-california-attorney-general-xavier-becerra-to-be-health-secretary-reports"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/07/joe-biden-to-nominate-california-attorney-general-xavier-becerra-to-be-health-secretary-reports"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 113
-    images:
-      - url: "https://i.guim.co.uk/img/media/ee255d7954925041171c74481706b1c08381c8a4/0_87_4056_2434/master/4056.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=218ba1bbe1661ba935ae5ffe151e27c2"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Coronavirus updates: US sees deadliest day — again; Biden asks for 100 days of masks; California has a new regional stay-at-home order"
-    excerpt: "California has a new regional stay-at-home order. US sees its deadliest day. And President-elect Biden says he'll ask Americans to wear masks for 100 days."
-    publishedDateTime: 2020-12-04T14:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/12/04/covid-news-us-deaths-biden-public-vaccine-california-stay-home/3818218001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3818218001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3818218001"
+  - title: "Biden: Latest jobs report 'dire'"
+    excerpt: "President-elect Joe Biden says that the most recent jobs report is \"dire\" and that there is no time to lose in crafting a rescue package as millions of people have lost their jobs or have seen their incomes slashed during the pandemic."
+    publishedDateTime: 2020-12-04T22:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/04/biden-latest-jobs-report-dire/3832066001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 93
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/15/USAT/84a08671-560a-4b37-b299-13d5bc1f70f6-AP_Virus_Outbreak_California.jpg?auto=webp&crop=4371,2459,x0,y51&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden picks California AG Xavier Becerra to lead HHS amid global coronavirus pandemic"
-    excerpt: "Becerra, if confirmed, would take on a crucial role in the Biden administration, leading its response to the coronavirus pandemic."
-    publishedDateTime: 2020-12-07T01:53:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2020/12/06/joe-biden-picks-california-ag-xavier-becerra-lead-hhs-reports-say/3776655001/"
-    ampWebUrl: "https://amp.freep.com/amp/3776655001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3776655001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/04/03/USAT/b223a861-b13a-47e9-8a1a-6575f468fd84-Becerra.jpg?auto=webp&crop=2707,1528,x0,y131&format=pjpg&width=1200"
-        width: 1200
-        height: 677
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/8adb341f-e20a-4ad0-bba2-82f78b3d67a8_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Fsy95DcjtOAl7ZQsth3DVGCp78p82VEQWlM73vi+uFJ51rQohakb+5SD4qF6NhDkjkB0nyYXNiA0yo4K8LmWX3SrBDRN6KhE2wfXVFJuFq68XCxj1KDBgOjv2oDo9dFwiP9N7VyPBWZ2brjm0TiMZ5Y3HvryNe4flcKVRfN18uPWy/GEwUnABr8HC0NXch7BG5Jy79cM9xCQH8lqU/XF0R3CK28JN919SA6+uE2m/L+irA5d6+DzHLx3QjL+MUqiSeTp/QqSYNMuuv9rxSwnN9RLyzliD1qLIW28rUXd9yhHFsKtQlWhjWiqWnik7Wn9s1bB49Phgxfvkih61lVIyKO7ifJfw3d8N/yszHokZUXlVB07ejyENqAEKNh6WnrUXd4tPFxWaAnPtXErjwo1NOwn2v6Jq3Qh8H9haRbuqiFfPCRbtuqbemQhFgau4r7UyNxq0NSUEzzwo07/w6IB1EagwEEFCglwdS02HjyQwREkETgzz3G4Hwhx39tgrpH2yQriWJsYEb+8gpeg6/MW4w==;UDrfhUnBYxHPyb4mJaaqQQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/25/us-election-don
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
 type: article
 quality: 123
-heat: 123
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -29,6 +29,118 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Biden to meet with U.S. workers hit by pandemic, says Congress must act"
+    excerpt: "President-elect Joe Biden will talk with workers and business owners on Wednesday about how the coronavirus has affected them as he prepares to confront his highest priority on taking office: the resurgent pandemic in the United States."
+    publishedDateTime: 2020-12-02T20:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-workers-idINKBN28C1GM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1GM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1GM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Iran says it will comply with nuclear deal if Biden lifts all sanctions"
+    excerpt: "Foreign minister calls on US to ‘show its good faith’ but appears to rule out renegotiating deal"
+    publishedDateTime: 2020-12-03T16:23:00Z
+    webUrl: "https://www.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d209bfa3a03f58206f01df31391304887c2edad0/501_533_2999_1799/master/2999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a638d3f1e6624eecb32fe34530257b20"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden team to meet with Latino lawmakers amid calls for diverse cabinet picks"
+    excerpt: "Congressional Hispanic Caucus has pushed for the president-elect to select a Latino person to lead a major federal agency"
+    publishedDateTime: 2020-12-02T21:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/joe-biden-congressional-hispanic-caucus-latino-cabinet-picks"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/ca519be7e2232ba11e4ac5d8dfae38be29db558d/0_84_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad7e7a3e5456b291902a6b3d9d880c9e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "President-elect Joe Biden predicts ‘bleak future’ if Congress doesn’t act on COVID-19 aid"
+    excerpt: "Biden has said that while he doesn't support a nationwide lockdown, he plans to ask Americans to commit to 100 days of mask-wearing to help combat the virus as one of his first acts as president."
+    publishedDateTime: 2020-12-04T22:24:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 116
+    images:
+      - url: "https://www.chicagotribune.com/resizer/y77g0ME3grCoELK2CDk2zNIok78=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UN7URUO5WJH4P7JVZZIPAT4PDA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden shortlist for White House key environmental post shows focus on environmental justice"
+    excerpt: "President-elect Joe Biden is vetting three environmental justice leaders to head up the White House agency that will take the lead in coordinating efforts to safeguard communities disproportionately affected by pollution,"
+    publishedDateTime: 2020-12-01T11:29:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN28B4LN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B4LN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B4LN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543044431&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB02IH"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden pushes Congress to provide relief for out-of-work Americans"
+    excerpt: "With nearly 11 million people unemployed and more than 400,000 COVID-19 deaths projected by the time he takes office, President-elect Joe Biden said Congress must provide relief for Americans set to lose federal aid in a matter of weeks."
+    publishedDateTime: 2020-12-05T00:00:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-pushes-congress-to-provide-relief-for-out-of-work-americans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/04/e48dcfc6-73e3-4efa-b58d-9075e97f83bf/thumbnail/1200x630/083ca26610c86ced4b158b123bbe1e5e/cbsn-fusion-biden-pushes-congress-to-provide-relief-for-out-of-work-americans-thumbnail-601539-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden officially secures enough electors to become president after California certifies his victory in the state"
+    excerpt: "California certified its presidential election Friday, officially handing Biden the Electoral College majority needed to win the White House."
+    publishedDateTime: 2020-12-05T02:52:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-biden-electors-20201205-k7dellhnezfixorx62iosy4bzu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 102
+    images:
+      - url: "https://www.chicagotribune.com/resizer/xvHs5DmNU-TWtuQsIVRcbg-B8P0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F7CW27NKDBAWFFLEC2ZWZKZBJ4.aspx"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "8l0sHNGLVwJK3abbFUvwaEdEl0VNk1C0ccCKFLZOdey1JZKGKAQYd++Eoii4oSfgyBHExBLSMPH9u9EUwjQKgXMB4/YdqMDDuyoH2RymV4ajsjrAkk7hxiPefuvE1F1OSWFywx03Kvg0pHoQRMCeBnG09cT0bkUZh5nMNEQsRQyzAO0yp7+qsxdaN78MEB1xP7BwZHC+1hQWO6Fg/MWtd35FzAcSf1mjTDNSXApBjHfX0SHJU+nm5rdTogVgG41dkxEuArqtKCkl/UA34e3/j0GIfDk6raQgHLCp/ybNKqArdd+MxMP3VRKEyldOhZmMqUX7iZFDI95i3le2R51jfq+g7Ij6HPwmQYbXgC2cRwg=;SfwePAO1KV1APU02FcFxTA=="
 ---

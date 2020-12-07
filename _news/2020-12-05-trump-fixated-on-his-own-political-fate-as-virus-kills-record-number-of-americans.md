@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump on track to preside over most federal executions in more than a century"
+    excerpt: "In its waning days, the Trump administration is on track to log the highest number of federal executions of any presidency in more than a century."
+    publishedDateTime: 2020-12-07T12:19:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-07/trump-cementing-death-penalty-legacy-most-executions"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-07/trump-cementing-death-penalty-legacy-most-executions?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-07/trump-cementing-death-penalty-legacy-most-executions?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 122
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/33550ce/2147483647/strip/true/crop/5002x3267+0+34/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fad%2Fa8%2F4834156d906fefae57c274574495%2F109a97301dce44fa93e5cff8a598f22d"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Which Trump official has coronavirus now? This reporter always seems to know first."
     excerpt: "If you want to find out who in the Trump administration has tested positive for coronavirus, you should probably just set an alert for Jennifer Jacobs’s tweets. The Bloomberg reporter has emerged as the preeminent source for intel on covid-19 cases in and around the White House."
     publishedDateTime: 2020-11-24T20:08:00Z

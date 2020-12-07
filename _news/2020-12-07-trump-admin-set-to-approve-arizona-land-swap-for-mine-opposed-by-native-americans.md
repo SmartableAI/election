@@ -31,55 +31,39 @@ images:
     isCached: true
 
 related:
-  - title: "Trump lashes out at GOP Gov. Doug Ducey after certification of Arizona results showing Biden win"
-    excerpt: "During the certification, Ducey's phone buzzed with \"Hail to the Chief\" - a ringtone he has said he uses for White House calls. He set it aside."
-    publishedDateTime: 2020-12-01T13:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/01/president-trump-slams-arizona-gov-ducey-after-election-certification/6474822002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6474822002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6474822002"
+  - title: "While Cuban-Americans in Florida came out big for Trump, Cubans stuck in Mexico pinned their hopes on Biden"
+    excerpt: "\"I will remain hoping for a change. I'm glad Trump is out for good, and no thanks to my family in Florida,\" a Cuban doctor in Mexico told Insider."
+    publishedDateTime: 2020-12-02T08:11:00Z
+    webUrl: "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 127
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/06/PPHX/0c89899d-5747-45b1-a30d-0bfcc469be09-1_AP20218733705034.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5fc6cfb5037cbd00186133de?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Not a hearing: Arizona legislators, Trump lawyers plan public meeting on election at Phoenix hotel Monday"
-    excerpt: "The meeting at the Hyatt Regency in downtown Phoenix is not a hearing of the Legislature as Finchem and Trump campaign's legal team have cast it."
-    publishedDateTime: 2020-11-28T16:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/28/arizona-legislators-trump-lawyers-plan-phoenix-meeting-election/6449311002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6449311002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6449311002"
+  - title: "Coronavirus live news: Biden to ask Americans to wear masks for 100 days as global deaths pass 1.5m"
+    excerpt: "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m"
+    publishedDateTime: 2020-12-04T00:24:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc97cce8f08d350f1751189"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
+      name: The Guardian
+      domain: theguardian.com
+    quality: 111
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Politics updates: Biden sprains foot ankle playing with dog; Trump mocked for 'I came up with vaccines' claim"
-    excerpt: "Trump mocked for his latest attempt to take credit for a COVID vaccine; GOP Sen. Blunt refuses to call Biden the president-elect – politics updates."
-    publishedDateTime: 2020-11-30T08:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/29/political-updates-donald-trump-joe-biden-president-transition/6449096002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6449096002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6449096002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/29/USAT/00288076-ff0d-47d5-b774-babb23ac3b4a-GTY_1229788118.jpg?auto=webp&crop=4499,2531,x0,y175&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://i.guim.co.uk/img/media/f7bf741bb5ed58d1d1a7ab5eb7e7e64a7344f762/0_389_5769_3462/master/5769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4c7d46d692f3f408174b8245cb43dcab"
+        width: 600
+        height: 360
         isCached: true
 
-secured: "aiB8r+tAy9vILg95Q37JZ5Nf2iCS+zy7M5B8zcfuBlZWZXdsTHm6Vd2M7Yz8hLzHCX4iNluvoPn9i/z3Xl8N0p8QGtCHg5PXKMGcpj4My7onkFxYq8nHY9kN6qMHHhLPKFDgouDAQ5oGNgKtQojMqRRsa9SN0prmVxlahTgSOjna9Zk9Zo+BTSKrs7jgxbwf6DPYma8ZkSb3Q16kmGMcxrbgGO+BTszbYMenaNWDtxU5jlTI5P/CujQl3wkoGqTvvZrDCwGrtyVM8dP0NA0AviVKkU5sbo2y5aOdrYXfG81Icsnynb7mnQ3a1Gow4wucV7jny9trmhwH86ifq/fnCUXsiaYIpCj97Y/EqasEGV4=;pkSYu2zMIqTE4dxicrJqcw=="
+secured: "1++Zx76XYhvCcxzbDFXaoecIVfQtxKuraL4fH2pvBkjo+xMWZuHRL6MMIjelfDZuG210wJ0E4HZCXm2f2i1cZvgMxhe8DbSHBFmxOgXqYT6AXSbNX760z1NSwsYhxsuFxuN+AS5v3zkPvNdW84vLhPYs3Sz3eOQetAkxHN/80zR8hfPNxVcxngkX2WF+bFKW2B0PdXYuYAybryR3iXdOBWZhWfweK5kWZ5XU5uuqTSad7CfdS4PSr4BA5kJPJOZrxpNNq2UqojncIpYadRXW//op91dNLltWoR/ppTpp1OICBwXbnWdz1JGCos31KlCJXPQXB58oE0Zc7H0xhQVSWVhTGqhRTyoQAGcAr/LwPa/uTwxCZZrgRv7n6aBYL8fbuMmCnsClHCLDJlDuT6RFGuNzHpQzrS2AYxDuVtXgvkZvvlNB2wOTJhJvlbV0NLXD5P+sr9UHjZKRjOaITIMtLQykj1F0kSmAIeJ4K4IP5RkADlLajPFfsy7lMr1Ag/MH79nsMEdMwNmIWvf6cPQAYg==;0cmxq0DH/hkepHEpcqCueQ=="
 ---
 

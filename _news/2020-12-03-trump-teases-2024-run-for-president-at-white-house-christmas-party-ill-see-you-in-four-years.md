@@ -31,51 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump suggests 2024 presidential bid: 'I'll see you in four years'"
-    excerpt: "President makes comments to Republicans at a White House reception, where video shows dozens of people crammed together without masks"
-    publishedDateTime: 2020-12-02T06:03:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years"
+  - title: "Trump suggests Joe Biden will try to take the word Christmas 'out of the vocabulary'"
+    excerpt: "Trump claimed credit for re-introducing the Americans' right to say 'Merry Christmas' during his time in office."
+    publishedDateTime: 2020-12-07T12:21:00Z
+    webUrl: "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 143
     images:
-      - url: "https://i.guim.co.uk/img/media/54100791a8b7b74981f48fa11e0f564cee5eaa9a/0_279_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=12fbd88d874e58a3ea82feb28d17ca57"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Republican presidential candidates for 2024 left waiting as Trump freezes the field of hopefuls"
-    excerpt: "GOP White House hopefuls are essentially left to watch what Trump does next instead of courting fundraisers, building networks and visiting early-voting states."
-    publishedDateTime: 2020-12-06T15:36:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-republican-presidential-candidates-2024-20201206-hhkrzi2hhjfm7dtunvbcbbvtxi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-republican-presidential-candidates-2024-20201206-hhkrzi2hhjfm7dtunvbcbbvtxi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-republican-presidential-candidates-2024-20201206-hhkrzi2hhjfm7dtunvbcbbvtxi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 113
-    images:
-      - url: "https://www.chicagotribune.com/resizer/ZdyvCSvdqPKg_6o2nVn9U_WGnaQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MSHWKTPAHNBURL46ZXID5WL3QE.aspx"
+      - url: "https://i.insider.com/5fce1adbeadd8400183df6be?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "President Trump pardons ex-national security adviser Michael Flynn; ends three-year legal odyssey"
-    excerpt: "Michael Flynn pleaded guilty three years ago to lying about his conversations with Russian Ambassador Sergey Kislyak."
-    publishedDateTime: 2020-11-27T07:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/25/michael-flynn-trump-announces-pardon-former-national-security-advisor/6419985002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6419985002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6419985002"
+  - title: "Trump lashes out at GOP Gov. Doug Ducey after certification of Arizona results showing Biden win"
+    excerpt: "During the certification, Ducey's phone buzzed with \"Hail to the Chief\" - a ringtone he has said he uses for White House calls. He set it aside."
+    publishedDateTime: 2020-12-01T13:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/01/president-trump-slams-arizona-gov-ducey-after-election-certification/6474822002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6474822002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6474822002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 112
+    quality: 127
     images:
-      - url: "https://www.gannett-cdn.com/presto/2018/12/05/USAT/4a1f6fa3-badd-463d-8f4e-af5c2580740a-615530474.jpg?auto=webp&crop=2826,1590,x343,y292&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/08/06/PPHX/0c89899d-5747-45b1-a30d-0bfcc469be09-1_AP20218733705034.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

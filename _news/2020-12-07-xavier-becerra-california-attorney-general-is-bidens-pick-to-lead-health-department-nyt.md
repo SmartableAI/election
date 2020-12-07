@@ -47,22 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden picks California Atty. Gen. Becerra for Health and Human Services secretary"
-    excerpt: "President-elect Joe Biden has selected California Atty. Gen. Xavier Becerra to be his Health and Human Services secretary."
-    publishedDateTime: 2020-12-06T23:54:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 120
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/44efb7f/2147483647/strip/true/crop/6271x4096+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2Ff5%2F3007e50448f8b7e5ae317a32c9ed%2Fla-photos-1staff-642253-me-1030-pol-ca-newsom-17-cmc.jpg"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Joe Biden to nominate California attorney general Xavier Becerra as health secretary – reports"
     excerpt: "If confirmed by the Senate, Becerra will be the first Latino to head the federal health department"
     publishedDateTime: 2020-12-07T01:20:00Z
@@ -76,6 +60,22 @@ related:
     quality: 113
     images:
       - url: "https://i.guim.co.uk/img/media/ee255d7954925041171c74481706b1c08381c8a4/0_87_4056_2434/master/4056.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=218ba1bbe1661ba935ae5ffe151e27c2"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live updates"
+    excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
+    publishedDateTime: 2020-12-07T12:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce1d2c8f0861e6ffe1dd38"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 110
+    images:
+      - url: "https://i.guim.co.uk/img/media/2cc445bf737d81e49f29fc07384d0de8f756ea35/374_246_3446_2067/master/3446.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a4facaedb7e2082adf2fe269611b017e"
         width: 600
         height: 360
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 677
         isCached: true
 
-secured: "ReK/2r3hAy1YWBCzHiLrYMOxLu4E03nUkmYT8yz73qnj0qHvjwa2TmWhHgV5tWBfU2sTL30Ot5qiU52HHHjvZJAABiShHu38/FQKWwsI05Rjjrtd25RU87Ddw9Ar9ksMgGnOi1vx3ZWllJ0PSL0zBTQACFnDWryDf+85Yr7TdejgcFL9/Ja+JLZ5EXwkG9y7yQXJpr3ZAqhwEUhGM6DA+L3knZbqCmgZ13HbwsBgU7+9cB7QC0rVTS0ksHujrRj9a5QBWt8wTBOW3Ud79l46mZtDVEaEjLjnI3abBi1I82GJODiLyQ+IOQLMZoSnL+MrEz864n+GBvwL1diplr/3hx4IgzXKWFxJDo8yujOKAXs=;9x06a/l1HKWUR8gm2todjQ=="
+secured: "UPYuzRbOFbKgEwNpvlSOj/+b5G0rfWY6M6JWJnCuwVndRRcc8xgpen/Q/ERtPkaGEjBV/eFM+sf2l4vsWAyefXn2M2ZqaFAFffTyYNTelQy4/Y6LJ/QdXjuvotCGuLVWGbJbDFvAjrup6Y4/pwifAJmRRffH7Bp538AAL3tPcs8yfhnfTCetu+FmRTHdv5d42fpf3Blb85YgE1HFVzj7JXTqGVS3x6SsH0uKdKExMnDmXV8pheOvp2Ed/m2sOIMk9X5Ok8g0S0vgTghT5wXq/5H/a2U7McaM1VGiNgg7klmK7q2mZ6LBFtKbSXz+znFcBqYGOkH/bqhBk3M22XEAVoAmyUkQSbFndd+wXktJA1BL2z89E1tOfmXahpT5UpRwhZr0u4JWT/XeN06Jwv9NSC94ePPp8VVo6iNhluxVEaljsQnc41TpasZUAjg20G2FJzLrH/YwjUqbDwknXzc1hdRm9aI2Hnnes2A0/aMxbMZG/7wamhX4umRCJYJUwP1SvuAA/1PBxsphCy7PP0okBg==;13HHLZeFxfnBZh5YUW/kFg=="
 ---
 

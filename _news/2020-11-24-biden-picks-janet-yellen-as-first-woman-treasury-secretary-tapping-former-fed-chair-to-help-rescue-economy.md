@@ -95,20 +95,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Joe Biden's Novel Approach to Climate Change Could Side-Step a Divided Congress"
-    excerpt: "As the country burned and flooded, Joe Biden leaned into climate change more than any other general-election presidential contender in U.S. history. Now, even as he faces the possibility of a divided Congress,"
-    publishedDateTime: 2020-11-28T23:01:00Z
-    webUrl: "https://time.com/5910008/joe-biden-climate-change-election/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 101
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/joe-biden-climate-03.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Joe Biden tamps down idea of nominating Elizabeth Warren, Bernie Sanders for Cabinet jobs"
     excerpt: "\"We already have significant representation among progressives in our administration, but there's nothing really off the table,\" Biden said."
     publishedDateTime: 2020-11-26T04:12:00Z

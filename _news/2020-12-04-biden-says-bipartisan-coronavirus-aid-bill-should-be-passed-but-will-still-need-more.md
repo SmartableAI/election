@@ -143,38 +143,6 @@ related:
         width: 625
         height: 415
         isCached: true
-  - title: "Biden plans scaled-back inauguration to avoid spreading coronavirus in crowds"
-    excerpt: "Setting a sharp contrast with President Donald Trump, whose administration began with a fight over the size of his inaugural crowds, President-elect Joe Biden said on Friday he plans a scaled-back event for safety's sake during the pandemic."
-    publishedDateTime: 2020-12-05T12:03:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28E38W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E38W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E38W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543536446&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31SN"
-        width: 689
-        height: 545
-        isCached: true
-  - title: "Biden plans scaled-back inauguration to avoid spreading coronavirus in crowds"
-    excerpt: "Setting a sharp contrast with President Donald Trump, whose administration began with a fight over the size of his inaugural crowds, President-elect Joe Biden said on Friday he plans a scaled-back event for safety's sake during the pandemic."
-    publishedDateTime: 2020-12-05T16:35:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-inauguration/biden-plans-scaled-back-inauguration-to-avoid-spreading-coronavirus-in-crowds-idUSKBN28E38W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E38W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E38W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543536446&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31SN"
-        width: 689
-        height: 545
-        isCached: true
   - title: "From the coronavirus to the environment, Biden plans to take government in new direction"
     excerpt: "A review of Biden's plans so far suggests that among his priorities will be tackling COVID-19, rolling back Trump actions, expanding on Obama initiatives."
     publishedDateTime: 2020-11-24T21:05:00Z

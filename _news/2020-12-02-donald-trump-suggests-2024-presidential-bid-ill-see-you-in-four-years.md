@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggest
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years"
 type: article
 quality: 124
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2018/12/05/USAT/4a1f6fa3-badd-463d-8f4e-af5c2580740a-615530474.jpg?auto=webp&crop=2826,1590,x343,y292&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump teases 2024 run for president at White House Christmas party: ‘I’ll see you in four years’"
-    excerpt: "President Donald Trump teased running again for president in 2024 as he hosted a holiday reception at the White House."
-    publishedDateTime: 2020-12-02T19:59:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 112
-    images:
-      - url: "https://www.chicagotribune.com/resizer/eWz6YaZpjv13UyZnuMN9_9d0L3U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MR5JQFF7QVAAZGFBXYO4BDLZII.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "AF8IWVAQrxf7Lf1tfkqknYMiu5fEKpKVC6a/TlvvEGDW2lEYeBXGmq+IohI9WLVECRRrPud2sr9txXuEd3A6525zkoytohT55J2iqdOUB9hesCpgvsFaX6zKRZ23zwLOW1WIdOyuk+z57r+/8p+t9EgxmwNrybqMl8M+cCvmDDiarJS1LDH9qMaBO37dZLeXk6UJXSuA9SdXIf82y2zWHsFHYzX4LyV5dEOY7PisGYiJnSiHfdPIi7V/g5wcGUNGNbVai2A6QOTWaNO/hSWM0D9Qw32KbX6iBP17+OrF8IH2BAVhqVgbCbH0vvtnczgs1NjbT17P7IuPmiz+7ouJMTySoC0BkA/webUJbWhN1/mRdaE+wblkGoV7/Y4KP153YODXYtNfvxzV9LCf3t8jLqSfABoCBCwVNTQkp6n7nQcJHZ7DxlINDfCVMxHww13k8s1fb6rTZg84BnKDzVPhKes/LnYic60Lx8FGFIc3CUEQpwvnWULZwTFWpFRuHOEDh48kEOp9A5Ms1eOlgKZj7A==;zoDjyvwe8su0o/2Dfbod5g=="

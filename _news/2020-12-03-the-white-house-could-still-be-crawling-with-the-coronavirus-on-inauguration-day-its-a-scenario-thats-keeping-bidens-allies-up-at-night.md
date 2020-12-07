@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden shortlist for White House key environmental post shows focus on environmental justice"
-    excerpt: "President-elect Joe Biden is vetting three environmental justice leaders to head up the White House agency that will take the lead in coordinating efforts to safeguard communities disproportionately affected by pollution,"
-    publishedDateTime: 2020-12-01T11:29:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN28B4LN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B4LN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B4LN"
+  - title: "Coronavirus live news: Biden joins ex-presidents in pledge to get vaccinated in public as global deaths pass 1.5m"
+    excerpt: "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m"
+    publishedDateTime: 2020-12-04T01:58:00Z
+    webUrl: "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc994b08f08b46221a1a6aa"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 115
+      name: The Guardian
+      domain: theguardian.com
+    quality: 104
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543044431&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB02IH"
-        width: 817
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/c090cd83408471d34aa1737ecbe2a87179cb7948/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1079fb7348bc08caefecba23853b0e7d"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "W7lfZ3nNHMudaC6PRPBaNpMyLFKBedJ35ZGx7IYTMTMyFlYh9tWVomgZGryHLUl5c0BpFChZ5MNFc1kPJWAoauIq3RQMWGYW5opHR88fTbnkx9IyBf7PcW6Ruy3oDXPyyuZNTrvYMaXkTElVrvz4I3ffy2cwXVhGDUDLUacIp8N/6XYUpQaUVKuHkOu8v/1os5EEVR67oLghy8Y/uWF4+9mRP8Rbl/pgCfSnwrEzPqjB6lXwtW2T1Kyynr5M3gX4MpgsggvDGcvlSZ+Pi/oowSVFscKhFf9Vj9dbXhvgH5/+c+5bOYNQEAXzN7nvSJM31k6PIK8MZY2HQI2Ip+pMxj6uvWR6yfRxtrsMTGdxeO4xWcjitLIo9Jw0UEBsqQU+mklArk9OAd4ZkGiNylgK90nWJkJSx18iX2xB6oTE/1czZ56wbHRA8NkTjVhgB4sM4bYh1NXPEGz3BQGemcOP3PYVwHJ4m1HuOhZX/MA8m96TZXqywQYP0SUez9eMWcTQ5dgzOkSVPTbZUAAtRoHfCA==;HkNXYwFUev5QFYkc5ZoM1Q=="

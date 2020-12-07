@@ -47,22 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden picks California Atty. Gen. Becerra for Health and Human Services secretary"
-    excerpt: "President-elect Joe Biden has selected California Atty. Gen. Xavier Becerra to be his Health and Human Services secretary."
-    publishedDateTime: 2020-12-06T23:54:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 120
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/44efb7f/2147483647/strip/true/crop/6271x4096+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2Ff5%2F3007e50448f8b7e5ae317a32c9ed%2Fla-photos-1staff-642253-me-1030-pol-ca-newsom-17-cmc.jpg"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Xavier Becerra, California attorney general, is Biden's pick to lead health department: NYT"
     excerpt: "The former congressman from Los Angeles has served as California's top prosecutor since 2017."
     publishedDateTime: 2020-12-07T10:19:00Z
@@ -78,6 +62,22 @@ related:
       - url: "https://i.insider.com/5fcd7579037cbd0018614224?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live updates"
+    excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
+    publishedDateTime: 2020-12-07T12:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce1d2c8f0861e6ffe1dd38"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 110
+    images:
+      - url: "https://i.guim.co.uk/img/media/2cc445bf737d81e49f29fc07384d0de8f756ea35/374_246_3446_2067/master/3446.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a4facaedb7e2082adf2fe269611b017e"
+        width: 600
+        height: 360
         isCached: true
   - title: "Coronavirus updates: US sees deadliest day — again; Biden asks for 100 days of masks; California has a new regional stay-at-home order"
     excerpt: "California has a new regional stay-at-home order. US sees its deadliest day. And President-elect Biden says he'll ask Americans to wear masks for 100 days."
@@ -112,6 +112,6 @@ related:
         height: 677
         isCached: true
 
-secured: "oIn3aMZFIve5CuBJ3eLbx+3+1Q7BnZcFeEXPcq687kT39jNPPZd0BV7azZiNOUFzgD9xWTEMSW9wkQsJUTw6tYNJOxA78T5NoquSb/YwsQjbFYh0xQDQ4nAyOIlTrccjqFXU3Q5nCt24gdtGFBQcoLePOlmrGlt+viHi7Vm5dn3PoNS8SIv4e3twxL7MzcWPBXelEw7V+LF5/2dV6+xs7B2GQ4Kg0y80j73D43psbyFRhazpLyGFitna5IsOLz77NHEOYcwFVQHoWeLCvRLIcURttj9mhHoSx2nBEIERH8lG1jzTnnqGt8epNsZea2sJFzZH7lo63KTE5qcPhlXyk8sCRvIYfGaDvX+POdesCYo=;wCOQPgFq0gS/2mjoR4XYrQ=="
+secured: "dAXAV1nux7V2vJOxhVv4pfvS2V3TEw6/aqfUhmzoMcTVkJevTM59x0SPSF9aVAXRmLcuvdzHnTGAySTsPrqter7960dEoR1o9Me0jV1rWvVHp7jR85OMNwMR9fS1nGH4/4kIW460iJX7B9Ol/bVnuLE15Lm0kTwlC7sj2B8x+gldFIebjle/RujkAcwaoiHtx519HCBD7rYZS6iU+mgP+/FLsi6zdVs2ndN8YplxB+Q5PXmySOUpOPZFmtmPxuZ6TU1MuG5bo/X/P4kutyaoWF6LsBSspKpH9C+uQdItMACw0sTP9gYlVFVhzvqWkgKmRi5KqFfWd1OpOmdjkQmWMSpjKtgq9sVmX3OlY81xZ/O5kQ0FLTX5vUyMSWqsBLVlN/XybBcTjcivhORfA7ACN2ujlqzbt73Zqgi9HJ85ZlTEO3tkkwPIc87IS4rszt8Nddr6TlVwkL3AoHHmMkZKlweDI5jSLompa6x3u2hegbfXhTZK3ra+iqigYPMXx0m14dJVJ39Gk8cFYX7/KgOm5Q==;eh13fu8uogB1qEb+j04M8g=="
 ---
 

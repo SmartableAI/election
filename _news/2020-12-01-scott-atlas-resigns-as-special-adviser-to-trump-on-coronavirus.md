@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/9b7ad9168d5afd5172fc698f7ae4253e0db17dd4/0_0_2677_1607/master/2677.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b17cf0c766de2a5fef79401ceebd787d"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump on track to preside over most federal executions in more than a century"
+    excerpt: "In its waning days, the Trump administration is on track to log the highest number of federal executions of any presidency in more than a century."
+    publishedDateTime: 2020-12-07T12:19:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-07/trump-cementing-death-penalty-legacy-most-executions"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-07/trump-cementing-death-penalty-legacy-most-executions?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-07/trump-cementing-death-penalty-legacy-most-executions?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 122
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/33550ce/2147483647/strip/true/crop/5002x3267+0+34/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fad%2Fa8%2F4834156d906fefae57c274574495%2F109a97301dce44fa93e5cff8a598f22d"
+        width: 320
+        height: 209
         isCached: true
   - title: "Trump fixated on his own political fate as virus kills record number of Americans"
     excerpt: "President Donald Trump has remained largely absent on a pandemic of historic proportions, fixated on his political career."

@@ -31,53 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Trump lashes out at GOP Gov. Doug Ducey after certification of Arizona results showing Biden win"
-    excerpt: "During the certification, Ducey's phone buzzed with \"Hail to the Chief\" - a ringtone he has said he uses for White House calls. He set it aside."
-    publishedDateTime: 2020-12-01T13:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/01/president-trump-slams-arizona-gov-ducey-after-election-certification/6474822002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6474822002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6474822002"
+  - title: "Live politics updates: Biden on COVID stimulus: 'Help is on the way'"
+    excerpt: "President-elect Joe Biden called on Congress to approve an economic stimulus plan. He also suggested that a package would be followed up."
+    publishedDateTime: 2020-12-01T19:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/01/presidential-transition-politics-updates-joe-biden-donald-trump/3782498001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3782498001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3782498001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 127
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/06/PPHX/0c89899d-5747-45b1-a30d-0bfcc469be09-1_AP20218733705034.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/01/USAT/ecd7b3a5-670d-4b2c-b34a-ce5d3672fc9f-AP20336659224888.jpg?auto=webp&crop=5999,3374,x1,y278&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Not a hearing: Arizona legislators, Trump lawyers plan public meeting on election at Phoenix hotel Monday"
-    excerpt: "The meeting at the Hyatt Regency in downtown Phoenix is not a hearing of the Legislature as Finchem and Trump campaign's legal team have cast it."
-    publishedDateTime: 2020-11-28T16:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/28/arizona-legislators-trump-lawyers-plan-phoenix-meeting-election/6449311002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6449311002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6449311002"
+  - title: "Live politics updates: Joe Biden calls for ‘new era of LGBTQ rights’"
+    excerpt: "The House is set to vote on marijuana legalization at the federal level Friday, though the bill is expected to come up short in the Senate."
+    publishedDateTime: 2020-12-04T17:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/04/presidential-transition-politics-updates-joe-biden-donald-trump/3818578001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3818578001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3818578001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 123
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/73e64eba-6d9d-476b-96d2-17e675c487a6-AP20326568855426.jpg?auto=webp&crop=5999,3374,x1,y200&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump admin set to approve Arizona land swap for mine opposed by Native Americans"
-    excerpt: "U.S. President Donald Trump's outgoing administration is set to approve a controversial land swap later this month that would give Rio Tinto Ltd and partners more than 2,400 acres (9.7 square kilometers) to build an Arizona copper mine,"
-    publishedDateTime: 2020-12-07T06:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-mining-resolution-idUSKBN28H0FW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H0FW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H0FW"
+  - title: "Live politics updates: Biden unveils health team; Giuliani in the hospital after testing positive for COVID"
+    excerpt: "If confirmed by the Senate, Xavier Becerra, 62, would be the first Latino to head the Department of Health and Human Services"
+    publishedDateTime: 2020-12-07T12:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/07/politics-updates-joe-biden-donald-trump-presidential-transition/3854979001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3854979001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3854979001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543651036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB608F"
-        width: 818
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2019/02/05/USAT/aa5942fd-7582-4a29-9088-a4ed6825cfd4-AP_California_v_Trump.JPG?auto=webp&crop=4069,2303,x0,y158&format=pjpg&width=1200"
+        width: 1200
+        height: 679
+        isCached: true
+  - title: "Live politics updates: President-elect Biden to discuss economic crisis with workers and small-business owners"
+    excerpt: "President-elect Joe Biden plans to meet online Wednesday with workers and small-business owners to discuss the economic crisis, as part of his preparations for taking office. Biden highlighted the need for more federal stimulus spending Tuesday while introducing his economics team,"
+    publishedDateTime: 2020-12-02T15:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/02/presidential-transition-updates-politics-joe-biden-donald-trump/3791958001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3791958001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3791958001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/0ea21f1c-a0a4-477a-be43-069126ee14c8-biden_economics_team.jpg?auto=webp&crop=7462,4198,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Live politics updates: Kamala Harris names 3 top staffers, Pence to talk COVID vaccine in Tennessee"
+    excerpt: "Pence visits Memphis on Thursday to hold a roundtable discussion on distributing a COVID-19 vaccine as case numbers in the U.S. reach new highs."
+    publishedDateTime: 2020-12-03T18:12:00Z
+    webUrl: "https://www.statesmanjournal.com/story/news/politics/2020/12/03/politics-updates-presidential-transition-joe-biden-donald-trump/3801997001/"
+    ampWebUrl: "https://amp.statesmanjournal.com/amp/3801997001"
+    cdnAmpWebUrl: "https://amp-statesmanjournal-com.cdn.ampproject.org/c/s/amp.statesmanjournal.com/amp/3801997001"
+    type: article
+    provider:
+      name: Statesman Journal
+      domain: statesmanjournal.com
+    quality: 86
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/05/USAT/751f29ad-47cd-4791-9506-d4b6b846b53e-KamalaHarris.jpg?auto=webp&crop=3703,2083,x0,y188&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "m2VNMQ7CoNJ9n6uY83tdi1vdJMLQ/iIm8KC9VOCIhKENRMZreQJmAfCFE9DwykwXH5bW6w0mOFtqeTMGapDEttQq4FcSOCWFeRa09aaV/CMe0roSfwu7PtI7GfskyHyZQq3O3CHuVJ5F6WQTNh1T6dn8lly9gQIQ4uVNh2/gA1ch/BljNTin1KMdKsHQV05+ztIPc8nm6TCtadphjEFZmA8c/CAL2FLTasAoDMU8ywQp6fRnx9AArAOjeoedOQdf1OR9JDESFyOJm/dB2X4UBaGAbfg6hP3Orh9d1GcE+xX6vS8z/rkGIMDZ1NvRiOWQa61KEcZAg/sEtvRsB3KPdSzs7bJxAbBNJymtjLRlbqFaO6Jrj+MOlndPm9e7OuKMpRg/IYQGFICPPjV1QJPr3XAHCQwNVbCDuqpSLa+fYsQBWWuQKyTMWCq9Vcf0DI7DfIAIuifaz+pvVHC2VMQzH8fayKh8MAHVpe8PerNGzImp/vOFcEviSj65w/xsIRUlxmdzmw2pohef7liMcn/PBQ==;ZPaq/1BYoyceVttTw0tAUw=="

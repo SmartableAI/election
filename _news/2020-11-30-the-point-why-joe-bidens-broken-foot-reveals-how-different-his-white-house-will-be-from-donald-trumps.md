@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats' push to investigate Trump won't stop when he leaves office"
+    excerpt: "Democrats in Congress are still intent on investigating President Donald Trump and his administration after he leaves office, including a pursuit of Trump's tax returns, a drive that threatens to complicate President-elect Joe Biden's pledges of bipartisan unity since he won the election.\n    \n"
+    publishedDateTime: 2020-12-07T11:01:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BQahw-CxCEI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/democratic-investigations-trump-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/democratic-investigations-trump-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204145825-02-trump-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ivanka Trump was deposed Tuesday in DC attorney general's inauguration lawsuit"
     excerpt: "Ivanka Trump, the President's daughter and adviser, sat for a deposition Tuesday with investigators from the Washington, DC, attorney general's office as part of its lawsuit alleging the misuse of inaugural funds, according to a court filing.\n    \n"
     publishedDateTime: 2020-12-03T00:45:10Z

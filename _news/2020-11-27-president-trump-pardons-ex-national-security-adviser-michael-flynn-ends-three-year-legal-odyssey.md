@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump teases 2024 run for president at White House Christmas party: ‘I’ll see you in four years’"
-    excerpt: "President Donald Trump teased running again for president in 2024 as he hosted a holiday reception at the White House."
-    publishedDateTime: 2020-12-02T19:59:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-2024-20201202-skgjdobpx5cedaleswbc7verm4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 112
-    images:
-      - url: "https://www.chicagotribune.com/resizer/eWz6YaZpjv13UyZnuMN9_9d0L3U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MR5JQFF7QVAAZGFBXYO4BDLZII.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "GUmglvIyIVTxAfDIqXoXBh+UlKWK+6j7Djb0tCTjaxPyui3hfbMqbPYGjmLxk8t+NgXGr8lsnkAQmtYWfeeG6E2OWklXNqgX71Gk4Wr+Rl6dDsBj52AJS1xDBGksgD+v/NKRjDFWwBB2b9kGrncSTSRt2q0RqQMXD74pqhxi8k4PLd9RH+a8sy4GzsTyvqIMUq641Nih2GkEhMd6KMqK3aLv3phAIqfcWijUwBuQDIuXfc1Cyt1ixmBG05Ofka7LXBHgA+BjonZrEm+82b//UZuaeLE02V1JP0ymi5UU8mN7Eq+jkdVzqhoyR9CHM0prUkD12ixMzFeDN+jHhCF2wbPl+aidvDaCqyMA8ik5puwnJ2TuqsG1MuWDvHSMdwiE67vlBv8QHPqoyGibtWjMiFLTnwS4HCMmnXeEE1Ivwf3Tsw5FKNiccsJRzVvcQkeKZPrG7YZ/uC7+W6wfjwUncCO1zFw6n7WLF6ADKnoDcIqAW2gDIi9mgttS9vFDLutfsSRvByFRoHtV1aeyV8PUOw==;ZzixXnlhiAxPfhLYdmCC2Q=="
 ---

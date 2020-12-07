@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats' push to investigate Trump won't stop when he leaves office"
+    excerpt: "Democrats in Congress are still intent on investigating President Donald Trump and his administration after he leaves office, including a pursuit of Trump's tax returns, a drive that threatens to complicate President-elect Joe Biden's pledges of bipartisan unity since he won the election.\n    \n"
+    publishedDateTime: 2020-12-07T11:01:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BQahw-CxCEI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/democratic-investigations-trump-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/democratic-investigations-trump-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204145825-02-trump-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Why Joe Biden's broken foot reveals how different his White House will be from Donald Trump's"
     excerpt: "Days before Thanksgiving last year, President Donald Trump made an unannounced and previously unscheduled trip to Walter Reed medical center. The White House said the trip was for a \"quick exam and labs.\" We still don't know why he actually went -- or what the outcome of his visit was.\n    \n"
     publishedDateTime: 2020-11-30T18:11:49Z
