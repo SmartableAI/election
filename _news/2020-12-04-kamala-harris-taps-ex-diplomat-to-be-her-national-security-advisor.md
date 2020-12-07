@@ -313,6 +313,22 @@ related:
         isCached: true
   - title: "Tina Flournoy, longtime Democratic strategist, named chief of staff for Vice President-elect Kamala Harris"
     excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
+    publishedDateTime: 2020-12-04T13:20:00Z
+    webUrl: "https://www.orlandosentinel.com/politics/2020-election/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/politics/2020-election/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/politics/2020-election/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 57
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tina Flournoy, longtime Democratic strategist, named chief of staff for Vice President-elect Kamala Harris"
+    excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
     publishedDateTime: 2020-12-04T17:37:00Z
     webUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html"
     ampWebUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"

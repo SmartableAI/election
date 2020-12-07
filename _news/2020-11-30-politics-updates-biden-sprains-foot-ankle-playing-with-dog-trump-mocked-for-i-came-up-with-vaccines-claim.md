@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump admin set to approve Arizona land swap for mine opposed by Native Americans"
+    excerpt: "U.S. President Donald Trump's outgoing administration is set to approve a controversial land swap later this month that would give Rio Tinto Ltd and partners more than 2,400 acres (9.7 square kilometers) to build an Arizona copper mine,"
+    publishedDateTime: 2020-12-07T06:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-mining-resolution-idUSKBN28H0FW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H0FW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H0FW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543651036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB608F"
+        width: 818
+        height: 545
+        isCached: true
 
 secured: "m2VNMQ7CoNJ9n6uY83tdi1vdJMLQ/iIm8KC9VOCIhKENRMZreQJmAfCFE9DwykwXH5bW6w0mOFtqeTMGapDEttQq4FcSOCWFeRa09aaV/CMe0roSfwu7PtI7GfskyHyZQq3O3CHuVJ5F6WQTNh1T6dn8lly9gQIQ4uVNh2/gA1ch/BljNTin1KMdKsHQV05+ztIPc8nm6TCtadphjEFZmA8c/CAL2FLTasAoDMU8ywQp6fRnx9AArAOjeoedOQdf1OR9JDESFyOJm/dB2X4UBaGAbfg6hP3Orh9d1GcE+xX6vS8z/rkGIMDZ1NvRiOWQa61KEcZAg/sEtvRsB3KPdSzs7bJxAbBNJymtjLRlbqFaO6Jrj+MOlndPm9e7OuKMpRg/IYQGFICPPjV1QJPr3XAHCQwNVbCDuqpSLa+fYsQBWWuQKyTMWCq9Vcf0DI7DfIAIuifaz+pvVHC2VMQzH8fayKh8MAHVpe8PerNGzImp/vOFcEviSj65w/xsIRUlxmdzmw2pohef7liMcn/PBQ==;ZPaq/1BYoyceVttTw0tAUw=="
 ---

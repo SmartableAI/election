@@ -2,6 +2,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-19-flashback-trump-sounded-the-alarm-about-voter-fraud-before-he-became-president.md",
+      "title": "FLASHBACK: Trump sounded the alarm about voter fraud before he became president",
+      "excerpt": "Trump raised concerns about votes during the 2012 election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_tRWPawNTSQ/trump-alarm-voter-fraud-president",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_tRWPawNTSQ/trump-alarm-voter-fraud-president",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a98bd85-8cb6-40db-a341-bed123126296/b14b578b-9eab-4265-bd71-466ccf3a8c4c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-alarm-voter-fraud-president.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-alarm-voter-fraud-president.amp",
+      "publishedDateTime": "2020-11-18T19:05:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-joe-biden-nurse-share-emotional-moment-during-virtual-roundtable.md",
       "title": "Joe Biden, nurse share emotional moment during virtual roundtable",
       "excerpt": "President-elect Joe Biden grew emotional during a virtual roundtable after hearing Mary Turner, an intensive care unit nurse, describe her experience on the frontline battling Covid-19. The Minnesota nurse spoke with CNN's Erin Burnett.",
@@ -1308,62 +1364,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-trump-fires-cisa-director-chris-krebs-claims-statement-on-election-security-was-highly-inaccurate.md",
-      "title": "Trump fires CISA Director Chris Krebs, claims statement on election security was 'highly inaccurate'",
-      "excerpt": "Krebs-led CISA said the Nov. 3 election was the 'most secure in American history'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/19P6EZ-lUTs/trump-fires-cisa-director-chris-krebs-election-security",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/19P6EZ-lUTs/trump-fires-cisa-director-chris-krebs-election-security",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10aa280a-73b7-4f38-9da4-081f1854383f/9a655ca6-5dbf-44cc-b6fa-649bbee51f9f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-fires-cisa-director-chris-krebs-election-security.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fires-cisa-director-chris-krebs-election-security.amp",
-      "publishedDateTime": "2020-11-17T17:14:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

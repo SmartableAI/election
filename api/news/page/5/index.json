@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-02-trump-allies-barr-giuliani-at-odds-on-discredited-election-fraud-claims.md",
+      "title": "Trump allies Barr, Giuliani at odds on discredited election fraud claims",
+      "excerpt": "Cracks emerged between two of President Donald Trump's key legal allies on Tuesday as Attorney General William Barr said his department had found no evidence of the widespread voter fraud Trump alleges,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-barr/trump-allies-barr-giuliani-at-odds-on-discredited-election-fraud-claims-idUSKBN28B685",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-barr/trump-allies-barr-giuliani-at-odds-on-discredited-election-fraud-claims-idUSKBN28B685",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 819,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543106880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03GT",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28B685",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B685",
+      "publishedDateTime": "2020-12-01T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years.md",
       "title": "Donald Trump suggests 2024 presidential bid: 'I'll see you in four years'",
       "excerpt": "President makes comments to Republicans at a White House reception, where video shows dozens of people crammed together without masks",
@@ -891,7 +943,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/01/president-trump-slams-arizona-gov-ducey-after-election-certification/6474822002/?scrolla=5eb6d68b7fedc32c19ef33b4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -1303,58 +1355,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-vice-president-mike-pence-will-visit-memphis-thursday-heres-why.md",
-      "title": "Vice President Mike Pence will visit Memphis Thursday. Here's why.",
-      "excerpt": "Vice President Mike Pence is planning to travel to Memphis Thursday to discuss Operation Warp Speed, the nation's COVID-19 pandemic response.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/12/01/vice-president-mike-pence-visit-memphis-operation-warp-speed/3786333001/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/12/01/vice-president-mike-pence-visit-memphis-operation-warp-speed/3786333001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/19/USAT/a9990e0f-1d48-4a88-8453-d7b48ac0ff46-GTY_1285534426.jpg?auto=webp&crop=3672,2066,x0,y186&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3786333001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3786333001",
-      "publishedDateTime": "2020-11-30T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

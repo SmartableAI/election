@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0YM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0YM"
 type: article
 quality: 125
-heat: 185
+heat: 225
 published: true
 
 provider:
@@ -47,6 +47,38 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Xavier Becerra, California attorney general, is Biden's pick to lead health department: NYT"
+    excerpt: "The former congressman from Los Angeles has served as California's top prosecutor since 2017."
+    publishedDateTime: 2020-12-07T10:19:00Z
+    webUrl: "https://www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5fcd7579037cbd0018614224?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden to nominate California attorney general Xavier Becerra as health secretary – reports"
+    excerpt: "If confirmed by the Senate, Becerra will be the first Latino to head the federal health department"
+    publishedDateTime: 2020-12-07T01:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/07/joe-biden-to-nominate-california-attorney-general-xavier-becerra-to-be-health-secretary-reports"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/07/joe-biden-to-nominate-california-attorney-general-xavier-becerra-to-be-health-secretary-reports"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/07/joe-biden-to-nominate-california-attorney-general-xavier-becerra-to-be-health-secretary-reports"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/ee255d7954925041171c74481706b1c08381c8a4/0_87_4056_2434/master/4056.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=218ba1bbe1661ba935ae5ffe151e27c2"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Coronavirus updates: US sees deadliest day — again; Biden asks for 100 days of masks; California has a new regional stay-at-home order"
     excerpt: "California has a new regional stay-at-home order. US sees its deadliest day. And President-elect Biden says he'll ask Americans to wear masks for 100 days."
     publishedDateTime: 2020-12-04T14:38:00Z
@@ -80,6 +112,6 @@ related:
         height: 677
         isCached: true
 
-secured: "KIiJ1KlCu3eXwP9ngv/HpNpjjQoiMGvpWgIL9kU76KzS3k4jNlzMXxsh5Q1JTdcMVktfNpZYcTcWLkHA8A+edquipLokeHDK+D1+byQPmcWIvAZ+m35hZg5QxmC+MwscJjl58GSsbJA/Lqq7SiJfxRVuIIN8X44Zsqx494shH2zk0BgGHXF8p2gWpzopY7wl5bYW6/tkvcvemneVIAgOKbmCscFuUZKKUy8p4ACEyPTw4MeUH7rR9qebF/LJy+SaxxPJLifNlDr8auiTo+c8OkNeZwTciroTW5ONUJmk50cClhb3bwkZOK0H8RCW6SLvDTwwv72KRwSCxo1/zcdg1ANLrRky6ONTPJdAt/YB/uQ0U7DARHGjqXJPKyFwo2dXkZzVQbm56QQBD325v4RX2D0nQzvqZgBpNbd+XHePCelyMWgo4hXf32n0lSoMw2XPGZmX5DHS52l7X+OPejVLKBpEQ2zC37XeuiBOBCNqiWstyx+BsDnWzX8fsaXA+883s+/QOvPdtrrFLct69TWBuw==;85dGdUsr+gwUXVqC0geLuw=="
+secured: "hzESPO+7P1LX8jn7UG26o/cTPMck+AbfZDYz9kCOLqmspE5/aOOpV2YPGP47fhQqxDcsOOyANR1JyibhejGlN22GZIAyba7X6lSHAoGbNVzZThAe1edhTvkpgiN8KxYq9jFi8Xiyb3gA0kiebPk6sfPqPrc8FlBQwBUBGXtC6Ik8KB2FOmsoNLhUynNbIRTs569Qo3sHPyU6YFk8Zwfs5Z/me1m4xB2oM71fXOqpo9z0D9oVv/IADVWez4kzO7OGvGNSXqorQu98POH7VwHXn67nxtyCYgmBfwvGYegyD66KGLUYwtHr7jetrFkWSpQinFnneOfWDcgy4RlvIysFO65F9q3LX8F16v01rZOTTWBWr+9jAt7Sa/ayk8VSWk1pqeRpCPfVti5iQMhi4wgACke2t6Vb4ZpcGQQdLJO8CYzFOwqn0ufZEMhzT12kjdC5ghDP3hezp10d6bFOEOp3gk3BT345ITf2GBEs402yQ7wp+X5CTxGOBO6SwSYY1+aIEuqzAXlhS0gVnDEkEDGnjw==;nAF2Ef1mdjeyvoM9IW0DAw=="
 ---
 

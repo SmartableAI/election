@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html"
 type: article
 quality: 182
-heat: 522
+heat: 562
 published: true
 
 provider:
@@ -236,6 +236,38 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/83/de/b9ea4027407c90eb5835f66aaf32/20201203-gina-raimondo-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden Says He Wants to Stand Up for Democracy. Here’s Where to Start."
+    excerpt: "President-elect Joe Biden has pledged to put democracy back on the agenda after four years of  Trump’s unapologetic coddling of dictators. Mr. Biden has promised to hos"
+    publishedDateTime: 2020-12-07T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/07/opinion/biden-egypt-human-rights.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/07/opinion/biden-egypt-human-rights.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/07/opinion/biden-egypt-human-rights.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/07/opinion/07hanna-01/07hanna-01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Biden's ambassador to the GOP"
+    excerpt: "Those partnerships will be more important than ever as Biden faces the real possibility of at least two years of a GOP Senate majority and a Republican Party still led by an antagonistic former President Donald Trump."
+    publishedDateTime: 2020-12-07T09:36:00Z
+    webUrl: "https://www.politico.com/news/2020/12/07/chris-coons-biden-gop-relationship-443008"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/07/chris-coons-biden-gop-relationship-443008"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/07/chris-coons-biden-gop-relationship-443008"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b1/2b/3476dcae409ba52571a59cbcbc64/201205-coons-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

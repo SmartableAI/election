@@ -2,9 +2,9 @@
 category: news
 title: "Giuliani tests positive for COVID-19, latest in Trump's inner circle"
 excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, prompting one state legislature to close for a week after Giuliani visited to try to persuade lawmakers to help reverse Trump's election defeat."
-publishedDateTime: 2020-12-07T06:34:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-4-giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSL1N2IM0G2"
-webUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-4-giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSL1N2IM0G2"
+publishedDateTime: 2020-12-07T06:50:00Z
+originalUrl: "https://www.reuters.com/article/usa-trump-giuliani/giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSKBN28G0T2"
+webUrl: "https://www.reuters.com/article/usa-trump-giuliani/giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSKBN28G0T2"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
 type: article
@@ -558,6 +558,6 @@ related:
         height: 683
         isCached: true
 
-secured: "qnmuFNZkFZxhPhc/c9XhQ5A20/7W1xTJYOsz/oeCR1TbMnu95RRbFYbTAqlP6yZxu+WkvP3FVH39fYJ4qbOpfdyMTbVxaFRszUSu673+xv0XIU+Fd9dj/R4nbSwBiAyVGY48BM7pgdUfZvK6crMYYWwQ0OUqTVEj/QwIWL6nns0ZUNtaxf81GcUlMHwOrz19NNCY/E8XmXDM62j5vmnWd+gub+cGmLpcFxHd4w1oOncEgcBsH69nm1SG3nAZkRG/iZmKrIgBt0H4YZr6Tnhq0yCtPWxZcO7qZjDH5sMeWCgNAIqjb90hwiqGgVzB6CgdJXmEd3zlusP7TrdEtiLXWO7Qyx79wJurRBf2DwmAW4Y=;3sRvLf8WWzQu/aDdOqmFDg=="
+secured: "a+QoIZp7gBeBf1h+U5Hxuz7yt2HQ9Tm3h2ukIaJCHgWlBEvXlVK8Wmc+lwQAVfFEAf25jY6fRZF9qCsBLZM1n2saCpyH5HsXxDHBUP+mVfzwVsRCzq4etN6RSkBHKjKn/aYHmWthm8PIJq1x6YlCKITKZrNu8TNV2vaJbT5ruXKoxrnIjIx94UOW6Cm2wTYlOujfU+HCi1oZDWSUwtVtoVDV84CtcCaz/85MBY5NJ5/hereRA4bHwky8W/oteBBMvqkSf6pRSvYIQBDJTCi/1HgTdXa3IsuHq52K0SDY5ddFa1BDuVq4p+OVkPMRp8Atvz7y7bjhHnSOxaTTkhvYQfsEOVySGSx9/tkxuHowspY=;0xA9H+2BMEpJ2nsGwYoNkQ=="
 ---
 

@@ -10,7 +10,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937",
       "featuredContent": null,
       "highlight": null,
-      "heat": 995,
+      "heat": 1015,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-becerra-idUSKBN28G0YM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -163,6 +163,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-06-joe-bidens-groundhog-day-moment.md",
+      "title": "Joe Biden’s ‘Groundhog Day’ moment",
+      "excerpt": "But Joe Biden is actually living that reality. It’s not simply that Biden was elected president after serving as vice president. It’s that the situation he will face when he enters the White House next month is eerily parallel to the one he faced with Barack Obama when they were elected in 2008.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OGOMWBWPUI6XFUZADJRD4J5FU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp",
+      "publishedDateTime": "2020-12-05T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-06-transition-highlights-biden-discusses-stalling-economy-amid-new-hopes-on-stimulus.md",
       "title": "Transition Highlights: Biden Discusses ‘Stalling’ Economy Amid New Hopes on Stimulus",
       "excerpt": "President-elect Joe Biden is urging Congress to quickly pass another virus relief plan as leaders of both parties work toward a compromise. Vice President Mike Pence said the nation faced a ‘season of hope’ as vaccine efforts advance,",
@@ -228,7 +280,7 @@
       "originalUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1207,
+      "heat": 1247,
       "tags": null,
       "images": [
         {
@@ -1519,58 +1571,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-biden-team-slams-treasury-decision-to-curtail-fed-lending-powers-calls-move-deeply-irresponsible.md",
-      "title": "Biden team slams Treasury decision to curtail Fed lending powers, calls move ‘deeply irresponsible’",
-      "excerpt": "The Federal Reserve and Treasury Department had a rare public falling out over whether the central bank should retain emergency lending powers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/us-policy/2020/11/20/federal-reserve-treasury-coronavirus/",
-      "originalUrl": "https://www.washingtonpost.com/us-policy/2020/11/20/federal-reserve-treasury-coronavirus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDT5I2BE4MI6XHCKBXDCILCICQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2020/11/20/federal-reserve-treasury-coronavirus/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/11/20/federal-reserve-treasury-coronavirus/?outputType=amp",
-      "publishedDateTime": "2020-11-20T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

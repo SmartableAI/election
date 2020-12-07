@@ -818,6 +818,38 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "The Easy Way for Joe Biden to Save Lives"
+    excerpt: "There’s an on-the-shelf policy the Biden administration could enact unilaterally that would save millions of American lives, without costing the government a single cent on net. That policy, one pushed for but never implemented by the Trump administration,"
+    publishedDateTime: 2020-12-05T11:11:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2020/12/easy-way-to-quit-smoking/617305/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617305/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617305/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/jmB42DJzPPFAnmeCrgMjCurSMYI=/570x321/media/img/mt/2020/12/smoking4/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
+  - title: "Who Joe Biden Has Announced for His Cabinet So Far"
+    excerpt: "President-elect Joe Biden has been widely expected to staff his administration with a mix of experienced advisers and credentialed experts from Washington, D.C., as well as the kinds of diverse faces he says ensure his administration reflects the country."
+    publishedDateTime: 2020-12-05T19:53:00Z
+    webUrl: "https://people.com/politics/whos-who-in-joe-bidens-cabinet/"
+    ampWebUrl: "https://people.com/politics/whos-who-in-joe-bidens-cabinet/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/whos-who-in-joe-bidens-cabinet/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 75
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B11025%2C3200%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fjoe-biden-3.jpg"
+        width: 1500
+        height: 785
+        isCached: true
   - title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
     excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."
     publishedDateTime: 2020-11-30T23:16:00Z

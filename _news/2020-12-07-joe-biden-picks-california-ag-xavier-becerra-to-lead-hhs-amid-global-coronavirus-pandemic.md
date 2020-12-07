@@ -59,6 +59,38 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Xavier Becerra, California attorney general, is Biden's pick to lead health department: NYT"
+    excerpt: "The former congressman from Los Angeles has served as California's top prosecutor since 2017."
+    publishedDateTime: 2020-12-07T10:19:00Z
+    webUrl: "https://www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/xavier-becerral-is-bidens-pick-to-lead-health-department-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5fcd7579037cbd0018614224?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden to nominate California attorney general Xavier Becerra as health secretary – reports"
+    excerpt: "If confirmed by the Senate, Becerra will be the first Latino to head the federal health department"
+    publishedDateTime: 2020-12-07T01:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/07/joe-biden-to-nominate-california-attorney-general-xavier-becerra-to-be-health-secretary-reports"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/07/joe-biden-to-nominate-california-attorney-general-xavier-becerra-to-be-health-secretary-reports"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/07/joe-biden-to-nominate-california-attorney-general-xavier-becerra-to-be-health-secretary-reports"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/ee255d7954925041171c74481706b1c08381c8a4/0_87_4056_2434/master/4056.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=218ba1bbe1661ba935ae5ffe151e27c2"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Coronavirus updates: US sees deadliest day — again; Biden asks for 100 days of masks; California has a new regional stay-at-home order"
     excerpt: "California has a new regional stay-at-home order. US sees its deadliest day. And President-elect Biden says he'll ask Americans to wear masks for 100 days."
     publishedDateTime: 2020-12-04T14:38:00Z

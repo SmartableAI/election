@@ -354,7 +354,7 @@ related:
         height: 340
         isCached: true
   - title: "Georgia’s Kemp again rejects lawmakers replacing electors after call with Trump"
-    excerpt: ""
+    excerpt: "Gov. Brian Kemp, the Georgia Republican, issued a joint statement Sunday night that said it would be in violation of state law for him to call a special session of the legislature to overturn his state’s election results."
     publishedDateTime: 2020-12-07T04:47:36Z
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6y0ldAqgGvQ/georgias-kemp-again-rejects-lawmakers-replacing-electors-after-call-with-trump"
     ampWebUrl: "https://www.foxnews.com/politics/georgias-kemp-again-rejects-lawmakers-replacing-electors-after-call-with-trump.amp"
@@ -590,6 +590,22 @@ related:
     quality: 149
     images:
       - url: "https://images.wsj.net/im-266968/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump-Era Tax Rule Benefiting Some Multinationals May Get Revised Under Biden"
+    excerpt: "A regulation that cut the tax bills of companies such as Philip Morris and Sealed Air could be poised for reversal in 2021 as the Biden administration tries to deliver on its campaign promise to raise taxes on corporations."
+    publishedDateTime: 2020-12-07T10:44:00Z
+    webUrl: "https://www.wsj.com/articles/trump-era-tax-rule-benefiting-some-multinationals-may-get-revised-under-biden-11607337001"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-era-tax-rule-benefiting-some-multinationals-may-get-revised-under-biden-11607337001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-era-tax-rule-benefiting-some-multinationals-may-get-revised-under-biden-11607337001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 147
+    images:
+      - url: "https://images.wsj.net/im-268013/social"
         width: 1280
         height: 640
         isCached: true

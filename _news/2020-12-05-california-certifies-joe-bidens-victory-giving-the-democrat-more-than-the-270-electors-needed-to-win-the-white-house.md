@@ -575,6 +575,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden’s drive for diversity in top political jobs is only an illusion of change"
+    excerpt: "He may have selected a cabinet that looks like America, but the president-elect’s picks are just business as usual, says Guardian columnist Nesrine Malik"
+    publishedDateTime: 2020-12-07T06:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2020/dec/07/biden-diversity-top-political-jobs-illusion-change-america"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/dec/07/biden-diversity-top-political-jobs-illusion-change-america"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/dec/07/biden-diversity-top-political-jobs-illusion-change-america"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/2d84c7be3188f5520d3dd4947c7876a17e0b13ae/0_546_6400_3841/master/6400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6a8f5735fb343bd060268ab89ee2f5c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden, leading Democrats on board with the new $908 billion bipartisan stimulus proposal"
     excerpt: "The proposal includes enhanced federal unemployment benefits of $300 per week and $25 billion in rental assistance."
     publishedDateTime: 2020-12-04T11:07:00Z

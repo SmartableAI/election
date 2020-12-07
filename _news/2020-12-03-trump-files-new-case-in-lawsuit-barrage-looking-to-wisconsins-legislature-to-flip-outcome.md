@@ -111,6 +111,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump tactics to overturn election could have staying power"
+    excerpt: "Even after he exits the White House, President Donald Trump's efforts to challenge the legitimacy of the election and seeking to overturn the will of voters could have staying power."
+    publishedDateTime: 2020-12-07T09:05:00Z
+    webUrl: "https://www.businessinsider.com/trump-tactics-to-overturn-election-could-have-staying-power-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-tactics-to-overturn-election-could-have-staying-power-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tactics-to-overturn-election-could-have-staying-power-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Wisconsin and Arizona make it official as Trump fails to stop vote certification in all six states where he contested his defeat"
     excerpt: "The president and his allies vowed to continue pressing legal claims challenging the election results in several states — but such efforts have met with resounding failures in the courts."
     publishedDateTime: 2020-12-01T08:24:00Z

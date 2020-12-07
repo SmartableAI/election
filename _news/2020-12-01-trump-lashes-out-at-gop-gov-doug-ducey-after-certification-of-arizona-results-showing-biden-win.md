@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6474822002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6474822002"
 type: article
 quality: 127
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/29/USAT/00288076-ff0d-47d5-b774-babb23ac3b4a-GTY_1229788118.jpg?auto=webp&crop=4499,2531,x0,y175&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump admin set to approve Arizona land swap for mine opposed by Native Americans"
+    excerpt: "U.S. President Donald Trump's outgoing administration is set to approve a controversial land swap later this month that would give Rio Tinto Ltd and partners more than 2,400 acres (9.7 square kilometers) to build an Arizona copper mine,"
+    publishedDateTime: 2020-12-07T06:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-mining-resolution-idUSKBN28H0FW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H0FW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H0FW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543651036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB608F"
+        width: 818
+        height: 545
         isCached: true
 
 secured: "/YZchF0oOtVfFZ6+WrBjTelcidw9x6Wi6jf7g31V9It0EW+6MpiuWYifr4SuERPOK/B1fDxiCiOyiHzeF3sf8cZ+PyME07CSgHVm3oSk5VwAQQnEvCU9727bYgahgEd9HMczo5qweeeOg2oqcWnFrFpl14alb3QmbVWAl3hod97vMYpzwqmEPGSyJhUz3E4HhFLSDpeVBb6f2v9nrP8M9hzHMDsbUHkVHtkpvQdqMXAfSriFkkLK8ys6URT2OYr3D6MM6+5/8l2IavGbwXbau/N53m0YlbMQf8SRtaL/oOsztBjm6+ZcgwovObu8uVbN50wxKWQQ8womUNNoRhwxe/ZfuqcVGQBoIYqpQC9EHQ0=;uJooiN+lUFnSGrw2LXmVhA=="
