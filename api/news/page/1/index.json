@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-07-trump-has-a-long-history-of-responding-to-loss-with-anything-but-grace.md",
+      "title": "Trump has a long history of responding to loss with anything but grace",
+      "excerpt": "From an award given to an opponent in Scotland to failing to cheat in a CNBC poll, Trump's response has been consistent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SKSDQ5BX5UI6XKWZRFMSE4UAYQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp",
+      "publishedDateTime": "2020-12-07T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-biden-picks-california-attorney-general-xavier-becerra-to-lead-health-and-human-services.md",
       "title": "Biden picks California Attorney General Xavier Becerra to lead Health and Human Services",
       "excerpt": "As the nation’s next top health official, Becerra will arguably hold the most consequential Cabinet role at the outset of Biden’s new administration.",
@@ -228,7 +280,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937",
       "featuredContent": null,
       "highlight": null,
-      "heat": 655,
+      "heat": 675,
       "tags": null,
       "images": [
         {
@@ -389,7 +441,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-becerra-idUSKBN28G0YM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -441,7 +493,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -1101,7 +1153,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1640,
+      "heat": 1660,
       "tags": null,
       "images": [
         {
@@ -1308,60 +1360,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-kellyanne-conway-breaks-from-trump-and-says-joe-biden-and-kamala-harris-will-prevail.md",
-      "title": "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'",
-      "excerpt": "Former White House advisor Kellyanne Conway's comments in an interview with The 19th go directly against Trump's claims undermining the 2020 election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
-      "originalUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fcb8c9db6a3a800199b6db2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp",
-      "publishedDateTime": "2020-12-05T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Joe Biden",
-        "Donald Trump"
       ]
     }
   ],

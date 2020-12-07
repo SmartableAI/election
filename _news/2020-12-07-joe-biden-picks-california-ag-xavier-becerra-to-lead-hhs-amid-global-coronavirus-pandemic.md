@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live"
+    excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
+    publishedDateTime: 2020-12-07T14:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce31f18f084f47a8a408d3"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 114
+    images:
+      - url: "https://i.guim.co.uk/img/media/2cc445bf737d81e49f29fc07384d0de8f756ea35/374_246_3446_2067/master/3446.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a4facaedb7e2082adf2fe269611b017e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden to nominate California attorney general Xavier Becerra as health secretary – reports"
     excerpt: "If confirmed by the Senate, Becerra will be the first Latino to head the federal health department"
     publishedDateTime: 2020-12-07T01:20:00Z
@@ -78,7 +94,7 @@ related:
   - title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live updates"
     excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
     publishedDateTime: 2020-12-07T12:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce1d2c8f0861e6ffe1dd38"
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce17408f08a20e617d9354"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
     type: article

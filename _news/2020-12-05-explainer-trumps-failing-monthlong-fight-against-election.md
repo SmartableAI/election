@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/explainer-trumps-failing-monthlong-f
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp"
 type: article
 quality: 120
-heat: 160
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -25,33 +25,118 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Nevada judge dismisses Trump effort to overturn the state’s election results, finding campaign failed to prove fraud"
-    excerpt: "The decision represented the latest blow to the Trump campaign’s hopes of using the courts to change the result of the presidential election in the last month."
-    publishedDateTime: 2020-12-05T04:41:00Z
-    webUrl: "https://www.washingtonpost.com/politics/nevada-trump-lawsuit-dismissed/2020/12/04/844d420a-3682-11eb-a997-1f4c53d2a747_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/nevada-trump-lawsuit-dismissed/2020/12/04/844d420a-3682-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/nevada-trump-lawsuit-dismissed/2020/12/04/844d420a-3682-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+  - title: "Trump has a long history of responding to loss with anything but grace"
+    excerpt: "From an award given to an opponent in Scotland to failing to cheat in a CNBC poll, Trump's response has been consistent."
+    publishedDateTime: 2020-12-07T14:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 117
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OFFNBRBWQYI6XKMXD5GFHUVHI4.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SKSDQ5BX5UI6XKWZRFMSE4UAYQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump campaign paid Dechert $164K for 'recount' related legal services, FEC filings show"
-    excerpt: "U.S. President Donald Trump's campaign last month paid more than $164,000 to Dechert, a law firm that during the 2020 election touted its work on pro bono voting rights cases in which it often faced off against Republican-backed lawyers."
-    publishedDateTime: 2020-12-05T05:55:00Z
-    webUrl: "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IL017"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IL017"
+  - title: "Fact check: Facebook post touting decreasing drug prices under Trump is misleading"
+    excerpt: "A viral claim appears to take data out of context to tout decreasing drug prices under President Donald Trump."
+    publishedDateTime: 2020-12-04T14:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/04/fact-check-post-decreasing-rx-drug-prices-contains-outdated-info/3769032001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3769032001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3769032001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 96
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/27/PDEM/c3395239-b93c-47ff-9c0e-1e00867e5431-Prescription_pills_with_money.jpg?auto=webp&crop=4155,2338,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Republican presidential candidates for 2024 left waiting as Trump freezes the field of hopefuls"
+    excerpt: "GOP White House hopefuls are essentially left to watch what Trump does next instead of courting fundraisers, building networks and visiting early-voting states."
+    publishedDateTime: 2020-12-06T15:36:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-republican-presidential-candidates-2024-20201206-hhkrzi2hhjfm7dtunvbcbbvtxi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-republican-presidential-candidates-2024-20201206-hhkrzi2hhjfm7dtunvbcbbvtxi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-republican-presidential-candidates-2024-20201206-hhkrzi2hhjfm7dtunvbcbbvtxi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 113
+    images:
+      - url: "https://www.chicagotribune.com/resizer/ZdyvCSvdqPKg_6o2nVn9U_WGnaQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MSHWKTPAHNBURL46ZXID5WL3QE.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump campaign committees spent $1.1 million at Trump properties in the last days of his losing campaign"
+    excerpt: "President Trump’s campaign and its affiliated committees spent more than $1.1 million at Trump’s own properties in the last weeks of the 2020 campaign, continuing a pattern during his presidency."
+    publishedDateTime: 2020-12-04T22:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CTEF6BVZMI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 956
+        isCached: true
+  - title: "The Technology 202: Trump's misleading claims about Section 230 could last beyond his showdown with Congress"
+    excerpt: "If Trump follows through on his threat to veto the must-pass military operations bill unless it contains language to repeal Section 230, he could face his first potential veto override of his presidency,"
+    publishedDateTime: 2020-12-03T14:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NVPXVQBVEYI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "The Trump administration accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans"
+    excerpt: "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers."
+    publishedDateTime: 2020-12-03T20:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Trump administration in a new lawsuit accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans"
+    excerpt: "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers."
+    publishedDateTime: 2020-12-03T11:41:00Z
+    webUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "gnYWb8/0fCI+Bpl8pzIiGUYJuEUwPTUoEh3yt/LMMjucYxRbVLDMM+aHXRvrxcUvcjFmAyc2e2Bbx+BaLjb0wRJIUnke0Rh/aNGWnCUz23fxGD+0vYO9F7Xbp9zGbJhfkD1nWFXCWiefqDT/hVIB7FXdRIa9B02OVTZXm+geUvJyiVSpRqDKH+en/tT3rpr3hInDOto1nn3C5tqt7kr2PV7Rav4QSoQ98aL4iS2uG/pFvsgpqlRnJclQzqneGVuw2i6q2vtgw9B++UJDI1qfEWPJZ8qpifkk21E1XgXw8jzGgp8nH5Lwe7ROMyvS1OiyzCjcVwpGKeG4V/6MuKKoniCgFuKrUQQ203uWHZ9Z8jY=;h2gY4DK7R+Y5DAtZWebqMA=="
 ---

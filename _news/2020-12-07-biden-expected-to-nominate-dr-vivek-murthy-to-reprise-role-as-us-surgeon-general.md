@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden unveils health team that will lead pandemic response"
+    excerpt: "President-elect Joe Biden on Monday announced the health team that will lead his administration's response to the coronavirus pandemic when he takes office in January.\n    \n"
+    publishedDateTime: 2020-12-07T14:46:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oFWBhC8CliE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/biden-health-team-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/biden-health-team-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden readies major stimulus push and flurry of executive actions in first 100 days"
     excerpt: "President-elect Joe Biden and his transition team are preparing for an early, all-out push to pass an ambitious new stimulus bill, while also drawing up plans for a flurry of executive actions aimed at delivering on campaign promises and undoing the Trump administration's efforts to undermine key government"
     publishedDateTime: 2020-12-01T12:02:06Z

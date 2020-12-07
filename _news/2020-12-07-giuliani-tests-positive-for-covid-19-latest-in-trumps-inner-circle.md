@@ -2,9 +2,9 @@
 category: news
 title: "Giuliani tests positive for COVID-19, latest in Trump's inner circle"
 excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, prompting one state legislature to close for a week after Giuliani visited to try to persuade lawmakers to help reverse Trump's election defeat."
-publishedDateTime: 2020-12-07T06:50:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-5-giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSL1N2IM0G2"
-webUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-5-giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSL1N2IM0G2"
+publishedDateTime: 2020-12-07T08:16:00Z
+originalUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-3-trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-travel-challenging-election-results-idUSL1N2IM0G2"
+webUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-3-trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-travel-challenging-election-results-idUSL1N2IM0G2"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
 type: article
@@ -206,6 +206,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Rudy Giuliani has coronavirus, Donald Trump says"
+    excerpt: "Multiple US media reports say the lawyer is in hospital, as Arizona closes state legislature for a week in wake of 76-year-old’s recent visit"
+    publishedDateTime: 2020-12-07T13:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/06/rudy-giuliani-coronavirus-covid-donald-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/06/rudy-giuliani-coronavirus-covid-donald-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/06/rudy-giuliani-coronavirus-covid-donald-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/05104e2dd6a5c6b0a064253f13e0fbee813cad21/0_0_5803_3482/master/5803.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=94540471a7a442b35c34f8c041c413e7"
+        width: 600
+        height: 360
         isCached: true
   - title: "Rudy Giuliani has tested positive for COVID-19, Trump says"
     excerpt: "President Donald Trump tweeted on Sunday. \"@RudyGiuliani, by far the greatest mayor in the history of NYC, and who has been working tirelessly exposing the most corrupt election (by far!) in the history of the USA,"
@@ -572,6 +588,6 @@ related:
         height: 683
         isCached: true
 
-secured: "rHNBHVMHtu97IdcOzH8TlhjzH6aKpwod34eUz3NhXhV9Pu+Pugo0BPi//pMliFeHkcwDK3bpMsnmRgYpfIVUpZGDBDbcDUymHCPGwN4GUzMnfyAheYf+ArztygutzIlsgwu7QFt2ODEwStP0/gycPswRy6YGO7zOmDM+3Ls5DZKioZuqQTgKiT9jODPbGY5+iGUY6ohOh+aovy50Nl7TEZf67r5J5vGiuRp4+2npurlorhSRG9eW/F9e0Egf6N1mIcsrsfAEE2EZO6zDXLlYksHHsdDxl9ZXcHqLr3n8ga8yHOH9cuXZJUeqc8SZ30qhowWdJKBgKt2JpROe21d2qFG6YvKZ/YYbSDDAtufZJMs=;Pv74uaWPvB5XOOM0YJmPtA=="
+secured: "DMlqV3nUGLLsuyqdTOv8K734d4grq8/Lh+L/hv6o9fUbyD7FZt/YRQ5e0+Rg0QGbT3OSScY/3NKuaSexIgVtEMAV0wbwCl1vP4I4H9wZwnurosH4mH5DZfUzalXyDg1dVGk6KXf0uP1ndw4uTAiJUwJiMSh56OIsgLccLUKWB3N6TiuMT1P5CyBbAKS/sjT3O6RyK+TTNzW4XS4WFI9dcrcofgH9Yqp1GJ5E/q+jgzmAdzuzIX9S+j0C3qAWnWBW8ds1593VyufPvAQCR0kzVu8Vwdh9ulbJRLQACp69O6lZIOX66dVTFtrI8XyMP1nP0PBKTi+Alzdn0PTJwQ88AyY+iQn5Yn/FHL582XfZ0uI=;xEXbs7bcg0wFGOZzwAj96A=="
 ---
 

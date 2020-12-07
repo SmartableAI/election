@@ -31,28 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "EXPLAINER: Trump's failing, monthlong fight against election"
-    excerpt: "President Donald Trump's frantic effort in the courts to delegitimize an election he lost has come no closer in a month to reversing any results."
-    publishedDateTime: 2020-12-05T03:55:00Z
-    webUrl: "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-  - title: "Trump campaign paid Dechert $164K for 'recount' related legal services, FEC filings show"
-    excerpt: "U.S. President Donald Trump's campaign last month paid more than $164,000 to Dechert, a law firm that during the 2020 election touted its work on pro bono voting rights cases in which it often faced off against Republican-backed lawyers."
-    publishedDateTime: 2020-12-05T05:55:00Z
-    webUrl: "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IL017"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IL017"
+  - title: "Canada blocks bulk exports of some prescription drugs in response to Trump import plan"
+    excerpt: "Canada on Saturday blocked bulk exports of prescription drugs if they would create a shortage at home, in response to outgoing U.S. President Donald Trump's efforts to allow imports from Canada to lower some drug prices for Americans."
+    publishedDateTime: 2020-11-29T00:49:00Z
+    webUrl: "https://www.reuters.com/article/usa-healthcare-canada-idCAKBN2880RJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2880RJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2880RJ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 96
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542764319&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR0I7"
+        width: 876
+        height: 545
+        isCached: true
 
 secured: "9lcMgGwh4bp6+HgY03YeFBxIvxz90aYXBJwOezhU2NP61KLgAUR/yAwKX53SsDJaYwyPQrgjE/Qhm7FM1B5KwNfcGyNQDoIVe+68Ed64VNweAiga3ioN1B+Y/1UYgdjUIjcS+b46/X7tNpJTOsLHo4rYngvufoj3ALrDcLCyNTz5FU9vL2CANC36SKiDxN6Zvw4B7nqEofS9umyYcTAtStJ1LnAK+x5X5D498rWwL3XN2o6zUr+TF/NFUPHKVeM12+X8LYk8TgJum1t9PKM8LjRfNGp0R2+v6sxdp3f7NKZ1WECV2qiKKTlyGNwq3qL9k3w5UjN+xl7vy5hkVqzHWchUCC+sNGz/ztiPaPrZ6jM=;k4pJpcA8n7H9tncb1QF64Q=="
 ---

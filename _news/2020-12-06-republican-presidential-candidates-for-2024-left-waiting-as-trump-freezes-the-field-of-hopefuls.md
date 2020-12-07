@@ -31,37 +31,112 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump suggests 2024 presidential bid: 'I'll see you in four years'"
-    excerpt: "President makes comments to Republicans at a White House reception, where video shows dozens of people crammed together without masks"
-    publishedDateTime: 2020-12-02T06:03:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years"
+  - title: "Trump has a long history of responding to loss with anything but grace"
+    excerpt: "From an award given to an opponent in Scotland to failing to cheat in a CNBC poll, Trump's response has been consistent."
+    publishedDateTime: 2020-12-07T14:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/54100791a8b7b74981f48fa11e0f564cee5eaa9a/0_279_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=12fbd88d874e58a3ea82feb28d17ca57"
-        width: 600
-        height: 360
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SKSDQ5BX5UI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "President Trump pardons ex-national security adviser Michael Flynn; ends three-year legal odyssey"
-    excerpt: "Michael Flynn pleaded guilty three years ago to lying about his conversations with Russian Ambassador Sergey Kislyak."
-    publishedDateTime: 2020-11-27T07:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/25/michael-flynn-trump-announces-pardon-former-national-security-advisor/6419985002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6419985002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6419985002"
+  - title: "EXPLAINER: Trump's failing, monthlong fight against election"
+    excerpt: "President Donald Trump's frantic effort in the courts to delegitimize an election he lost has come no closer in a month to reversing any results."
+    publishedDateTime: 2020-12-05T03:55:00Z
+    webUrl: "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "Fact check: Facebook post touting decreasing drug prices under Trump is misleading"
+    excerpt: "A viral claim appears to take data out of context to tout decreasing drug prices under President Donald Trump."
+    publishedDateTime: 2020-12-04T14:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/04/fact-check-post-decreasing-rx-drug-prices-contains-outdated-info/3769032001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3769032001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3769032001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 112
+    quality: 119
     images:
-      - url: "https://www.gannett-cdn.com/presto/2018/12/05/USAT/4a1f6fa3-badd-463d-8f4e-af5c2580740a-615530474.jpg?auto=webp&crop=2826,1590,x343,y292&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/08/27/PDEM/c3395239-b93c-47ff-9c0e-1e00867e5431-Prescription_pills_with_money.jpg?auto=webp&crop=4155,2338,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump campaign committees spent $1.1 million at Trump properties in the last days of his losing campaign"
+    excerpt: "President Trump’s campaign and its affiliated committees spent more than $1.1 million at Trump’s own properties in the last weeks of the 2020 campaign, continuing a pattern during his presidency."
+    publishedDateTime: 2020-12-04T22:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CTEF6BVZMI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 956
+        isCached: true
+  - title: "The Technology 202: Trump's misleading claims about Section 230 could last beyond his showdown with Congress"
+    excerpt: "If Trump follows through on his threat to veto the must-pass military operations bill unless it contains language to repeal Section 230, he could face his first potential veto override of his presidency,"
+    publishedDateTime: 2020-12-03T14:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NVPXVQBVEYI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "The Trump administration accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans"
+    excerpt: "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers."
+    publishedDateTime: 2020-12-03T20:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Trump administration in a new lawsuit accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans"
+    excerpt: "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers."
+    publishedDateTime: 2020-12-03T11:41:00Z
+    webUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "fy9jiCN4avPVcPhvoLH2NJywiE5Vczur3ok5vX9DJ0zoQ7BSVRhy1rG8p9jkLLSxvlXZzgw/ma2dv+Oa5lSFrS8WThb676/d/bJ7VMVJhaK+8oLawzYMB7/82TT+Cqn77YQAy1+JJO+cQOQETCr7f+nTrUi3w2AtuTsGMeegWBKADez7cEVJIeH0DZdepfK52plU+5424fZ7FZRoX+zHvTRDLSSZrjXsQ/GpVz4CTHltOZ9STxINi+E9zAEO8UH2lUVVzNiO54Jfi2Dvvzc7CZIdZqL1gqCqC4dyW41lWfGWjQaWMLrqmcc9yDVF6Y5twVnwFhvEw4/O0DDyDNMKkQibiekl1teJZqn9n55z4xgIjoCNhrXQpJvxsPtyGoZ/Hkk3cA6AKc0iK16JtQ+y5Cebja2FKf84pVEIk2GnOGzhGuW2OSKsz53GFMHQRbayg2ZBApv6lGrX4Zsa8Kju25wYsZMd5xZ0k5Rep9RXRoowiO84zDPpQKXGwYU9upCXZDVvTPNYznLyfy8TXKlmqQ==;OpW+zDA6y9sXIHSsC0Ftaw=="

@@ -63,22 +63,6 @@ related:
         width: 1440
         height: 959
         isCached: true
-  - title: "Trump campaign committees spent $1.1 million at Trump properties in the last days of his losing campaign"
-    excerpt: "President Trump’s campaign and its affiliated committees spent more than $1.1 million at Trump’s own properties in the last weeks of the 2020 campaign, continuing a pattern during his presidency."
-    publishedDateTime: 2020-12-04T22:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 108
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CTEF6BVZMI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 956
-        isCached: true
   - title: "Could Trump pardon family members and other close associates? His prior pardons may set the stage for more"
     excerpt: "As President Trump weighs granting more pardons during his final days in office, experts say the politicization of his broad clemency powers is a fait accompli."
     publishedDateTime: 2020-12-04T10:07:00Z

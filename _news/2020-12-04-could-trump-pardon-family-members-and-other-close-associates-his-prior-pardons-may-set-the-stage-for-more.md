@@ -79,22 +79,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump campaign committees spent $1.1 million at Trump properties in the last days of his losing campaign"
-    excerpt: "President Trump’s campaign and its affiliated committees spent more than $1.1 million at Trump’s own properties in the last weeks of the 2020 campaign, continuing a pattern during his presidency."
-    publishedDateTime: 2020-12-04T22:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 108
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CTEF6BVZMI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 956
-        isCached: true
 
 secured: "ZglT3zyWfWYQ8Q0dTVJbZ2wiKqWtbeAzl8983vwWAVgvcFuXi0mF/tiJ8y44KHNOD130RIOE1LLp51sKN2jCCmEEXPaIX+UW+ADaQMNG6S7YmxSWSEqTA19Lx9N1a/1t8YkK/UlhaHSaRrIWSpLSr13kuDMC57ITm2GDRcmdlclQyx9hoLpknJGG1jCJcULkoJ4Hb7dx9KFbn4kP/Oo6PJFrgXLlLb3e2xnPk54LYLSNbdSizsglYHCvrsS/3f+ACMcS2IQ1dGaLwvjnvY967SGWmtYcPxlzRdVqSoKwCM9cm77qqabHGuObAb7uJW2tlWktbYcXgOjmSUwZ+jeZS68JHWAaDcRBrtGIoYQYNQ+aFlsa7+n6RbudITUxrF3vmcirU3wToozTa/Ooub+ry4Z4PfuMVLJx0NGGOcsu95MZMD5kmFRpihrpJqsHIb/CZTZ2BWnIudXioGXWQYE4ICvPGiOpjuBQR2fqa6UzclONZ95zXSnzskMEMdHB+dg78qm7n73NEpW4UV9z0RqNIg==;sCsj6PMKY2Esrz6xVOzW9g=="
 ---

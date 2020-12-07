@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden picks Calif. AG to be first Latino health secretary"
-    excerpt: "President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administratio"
-    publishedDateTime: 2020-12-06T23:51:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_8179be43226c4bdf96e4f2732aa30135_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden picks California Atty. Gen. Becerra for Health and Human Services secretary"
     excerpt: "President-elect Joe Biden has selected California Atty. Gen. Xavier Becerra to be his Health and Human Services secretary."
     publishedDateTime: 2020-12-06T23:54:00Z
@@ -77,6 +61,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden picks Calif. AG to be first Latino health secretary"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administration's coronavirus response."
+    publishedDateTime: 2020-12-07T11:14:00Z
+    webUrl: "https://www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "RowwirLo7IUKorgxfty9IqMgE5PQ0Kla+IPihoWMWB2ruAo/tgd6EmyAyVO44n8cjHCf//xNYpV4VXzIIE9nTvRC/p6vKEZRM85nJETpNIgnfc5cpgdLVu5RSHxfF2LohW7cBe4N4qBuR/OmxgWGTmLbcJD02c0OevDfg8A38mMq6eBeXeWg7NQWoZI6rC2/Gd5++4xD0a96oqB1DhH9uE1LiDr4hY5ZEklIpbrvN3je2r4z6XtX3bBWB65TDiA6kXzPWGKgsgRzQdDFNCGEweDYjWzwXCxdBTabIq8DoKpFN5Se6Z1/MBIfG5tbgCw66IsQiOQ4z8ctkCYhkAfMUoPn1aOGhKj82F6f0NmUflM=;bwvWVpduLlBiLGh0N/qs7w=="
 ---

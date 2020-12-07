@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden unveils health team that will lead pandemic response"
+    excerpt: "President-elect Joe Biden on Monday announced the health team that will lead his administration's response to the coronavirus pandemic when he takes office in January.\n    \n"
+    publishedDateTime: 2020-12-07T14:46:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oFWBhC8CliE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/biden-health-team-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/biden-health-team-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to nominate Dr. Vivek Murthy to reprise role as US surgeon general"
     excerpt: "As he builds out his health team, President-elect Joe Biden is expected to nominate Dr. Vivek Murthy as US Surgeon General, two sources familiar with the matter confirmed to CNN, returning to the role he served in during the Obama administration.\n    \n"
     publishedDateTime: 2020-12-07T02:54:38Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-07-trump-has-a-long-history-of-responding-to-loss-with-anything-but-grace.md",
+      "title": "Trump has a long history of responding to loss with anything but grace",
+      "excerpt": "From an award given to an opponent in Scotland to failing to cheat in a CNBC poll, Trump's response has been consistent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SKSDQ5BX5UI6XKWZRFMSE4UAYQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp",
+      "publishedDateTime": "2020-12-07T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-trump-suggests-joe-biden-will-try-to-take-the-word-christmas-out-of-the-vocabulary.md",
       "title": "Trump suggests Joe Biden will try to take the word Christmas 'out of the vocabulary'",
       "excerpt": "Trump claimed credit for re-introducing the Americans' right to say 'Merry Christmas' during his time in office.",
@@ -224,7 +276,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -640,29 +692,29 @@
       ]
     },
     {
-      "path": "_news/2020-12-05-explainer-trumps-failing-monthlong-fight-against-election.md",
-      "title": "EXPLAINER: Trump's failing, monthlong fight against election",
-      "excerpt": "President Donald Trump's frantic effort in the courts to delegitimize an election he lost has come no closer in a month to reversing any results.",
+      "path": "_news/2020-12-05-trump-campaign-paid-dechert-164k-for-recount-related-legal-services-fec-filings-show.md",
+      "title": "Trump campaign paid Dechert $164K for 'recount' related legal services, FEC filings show",
+      "excerpt": "U.S. President Donald Trump's campaign last month paid more than $164,000 to Dechert, a law firm that during the 2020 election touted its work on pro bono voting rights cases in which it often faced off against Republican-backed lawyers.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12",
-      "originalUrl": "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12",
+      "webUrl": "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017",
+      "originalUrl": "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp",
-      "publishedDateTime": "2020-12-04T19:55:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2IL017",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IL017",
+      "publishedDateTime": "2020-12-04T21:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -881,58 +933,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-fact-check-facebook-post-touting-decreasing-drug-prices-under-trump-is-misleading.md",
-      "title": "Fact check: Facebook post touting decreasing drug prices under Trump is misleading",
-      "excerpt": "A viral claim appears to take data out of context to tout decreasing drug prices under President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/04/fact-check-post-decreasing-rx-drug-prices-contains-outdated-info/3769032001/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/04/fact-check-post-decreasing-rx-drug-prices-contains-outdated-info/3769032001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/27/PDEM/c3395239-b93c-47ff-9c0e-1e00867e5431-Prescription_pills_with_money.jpg?auto=webp&crop=4155,2338,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3769032001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3769032001",
-      "publishedDateTime": "2020-12-04T06:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1489,58 +1489,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-03-the-technology-202-trumps-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress.md",
-      "title": "The Technology 202: Trump's misleading claims about Section 230 could last beyond his showdown with Congress",
-      "excerpt": "If Trump follows through on his threat to veto the must-pass military operations bill unless it contains language to repeal Section 230, he could face his first potential veto override of his presidency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NVPXVQBVEYI6XFUZADJRD4J5FU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/?outputType=amp",
-      "publishedDateTime": "2020-12-03T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-03-simply-unthinkable-law-officers-call-for-halt-to-executions-in-trumps-final-weeks.md",
       "title": "'Simply unthinkable': Law officers call for halt to executions in Trump's final weeks",
       "excerpt": "Five executions are scheduled before Biden, who opposes capital punishment, takes office. Ninety current and former law officials want them to stop.",
@@ -1590,6 +1538,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-trump-lays-out-election-fraud-case-in-online-video-bad-things-happened.md",
+      "title": "Trump lays out election-fraud case in online video: 'Bad things happened'",
+      "excerpt": "Trump says if he's right about election fraud, 'Biden can't be president' President Trump is once again charging that last month’s presidential election was rigged and rife with fraud. In an address posted on his Twitter and Facebook pages that the president described as possibly “the most important speech,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened",
+      "originalUrl": "https://www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/2trump-newsletter-xxx-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened.amp",
+      "publishedDateTime": "2020-12-03T02:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

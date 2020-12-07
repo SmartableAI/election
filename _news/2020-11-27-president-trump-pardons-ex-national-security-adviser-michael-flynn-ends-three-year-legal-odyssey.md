@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Republican presidential candidates for 2024 left waiting as Trump freezes the field of hopefuls"
-    excerpt: "GOP White House hopefuls are essentially left to watch what Trump does next instead of courting fundraisers, building networks and visiting early-voting states."
-    publishedDateTime: 2020-12-06T15:36:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-republican-presidential-candidates-2024-20201206-hhkrzi2hhjfm7dtunvbcbbvtxi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-republican-presidential-candidates-2024-20201206-hhkrzi2hhjfm7dtunvbcbbvtxi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-republican-presidential-candidates-2024-20201206-hhkrzi2hhjfm7dtunvbcbbvtxi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 113
-    images:
-      - url: "https://www.chicagotribune.com/resizer/ZdyvCSvdqPKg_6o2nVn9U_WGnaQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MSHWKTPAHNBURL46ZXID5WL3QE.aspx"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "GUmglvIyIVTxAfDIqXoXBh+UlKWK+6j7Djb0tCTjaxPyui3hfbMqbPYGjmLxk8t+NgXGr8lsnkAQmtYWfeeG6E2OWklXNqgX71Gk4Wr+Rl6dDsBj52AJS1xDBGksgD+v/NKRjDFWwBB2b9kGrncSTSRt2q0RqQMXD74pqhxi8k4PLd9RH+a8sy4GzsTyvqIMUq641Nih2GkEhMd6KMqK3aLv3phAIqfcWijUwBuQDIuXfc1Cyt1ixmBG05Ofka7LXBHgA+BjonZrEm+82b//UZuaeLE02V1JP0ymi5UU8mN7Eq+jkdVzqhoyR9CHM0prUkD12ixMzFeDN+jHhCF2wbPl+aidvDaCqyMA8ik5puwnJ2TuqsG1MuWDvHSMdwiE67vlBv8QHPqoyGibtWjMiFLTnwS4HCMmnXeEE1Ivwf3Tsw5FKNiccsJRzVvcQkeKZPrG7YZ/uC7+W6wfjwUncCO1zFw6n7WLF6ADKnoDcIqAW2gDIi9mgttS9vFDLutfsSRvByFRoHtV1aeyV8PUOw==;ZzixXnlhiAxPfhLYdmCC2Q=="
 ---

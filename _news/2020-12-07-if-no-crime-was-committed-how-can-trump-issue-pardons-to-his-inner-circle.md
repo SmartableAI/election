@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 123
-heat: 203
+heat: 183
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543441769&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB3063"
         width: 817
         height: 545
-        isCached: true
-  - title: "Trump campaign committees spent $1.1 million at Trump properties in the last days of his losing campaign"
-    excerpt: "President Trump’s campaign and its affiliated committees spent more than $1.1 million at Trump’s own properties in the last weeks of the 2020 campaign, continuing a pattern during his presidency."
-    publishedDateTime: 2020-12-04T22:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 108
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CTEF6BVZMI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 956
         isCached: true
   - title: "Could Trump pardon family members and other close associates? His prior pardons may set the stage for more"
     excerpt: "As President Trump weighs granting more pardons during his final days in office, experts say the politicization of his broad clemency powers is a fait accompli."

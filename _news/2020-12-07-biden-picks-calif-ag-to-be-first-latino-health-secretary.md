@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden picks Calif. AG to be first Latino health secretary"
-excerpt: "President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administratio"
-publishedDateTime: 2020-12-06T23:51:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
-webUrl: "https://abcnews.go.com/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
+excerpt: "WASHINGTON (AP) — President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administration's coronavirus response."
+publishedDateTime: 2020-12-07T11:14:00Z
+originalUrl: "https://www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12"
+webUrl: "https://www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12"
+ampWebUrl: "https://www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_8179be43226c4bdf96e4f2732aa30135_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "The Latest: Biden picks Deese for National Economic Council"
@@ -78,6 +72,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "7tFKqn/7ezgXJGLzkwDKOiGVs2G77kpaenkMBck6AdKkB6S5OjGp0REoNiDT5xu4Rvli19xPooRbHE/qFe5JpzNpG+lbxA1LPTxrChJ6eQJN/cnRa0Y5xF/GfWCR2gXUZOQk2IHPJOJuOvsVs/vgLb6fuevfOTTX/zEtmXTXYs+dN+mHHyuZ8dL2OiSXRg73Astya/OpsOs3lcme5R5ZgEgmmmAaV0qtwmUocg7ra0cZXD3zOOD0u8vMDB37sceJ1GGiE4zAw/w/erBk0G5RPqNpBaOcJ07IFXXI0oSkIj5vIT7y6cFAVK7Y6cJs7apivGHEbLky7I+wMcVa6bGJWgYvOxrEzNYUdepvGxykGEU=;vHZmM/GJImGutLa4o9HFWw=="
+secured: "RNlHuiHGLzrBw3Rgz0YdXKOWKWq3k0HBGPzCO3LFYhd/RquVuCZDZoXeGrtKKzLbF+VrUCiPCPzfCNj2Lz2JS2uScSZVgnh+wm8m95pGP36MDP8/chrMzIwvRATfSkoxXBnEm4Kc4SENERicDolTY/UXjSUi3aJkTy7BmJ8o8vR463pYswob4HVd4h1YNJgXlJobGzf97XAZLGJPLdUpJzTZolhjYgGSD0w1WS0SirlRJICdb6pYJ6TfB8xDwz+A03una8n0vGBVVmeJwPS2d9PayOT7D7CR+2lCjLfZW9p3xqbBG0cmT4sCRF4Ev96dIxAtKmzFmmFWEu9pLimEb9B0e3PMApQOUToKjDmUMBM=;P4Cc6QsxMeFGNoWbrb87NQ=="
 ---
 

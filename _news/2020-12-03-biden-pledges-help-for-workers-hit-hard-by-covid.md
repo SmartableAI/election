@@ -317,6 +317,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "U.S. green groups say honeymoon is over, turn up heat on Biden"
+    excerpt: "U.S. environmental groups that poured money and effort behind Democrat Joe Biden's successful run for president are shifting to a new more adversarial role now that he has been elected, launching a pressure campaign to make sure he delivers on his promises to fight"
+    publishedDateTime: 2020-12-07T14:07:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-green-idUSKBN28H1CC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H1CC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H1CC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543683664&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB60PX"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden transition advisers emerge as top contenders to run covid-19 response"
     excerpt: "As President-elect Joe Biden makes fighting the raging coronavirus his most urgent mission when he takes office next month, two figures already playing central roles in his transition are emerging as the most likely officials to preside over the new White House’s pandemic response."
     publishedDateTime: 2020-12-03T01:10:00Z

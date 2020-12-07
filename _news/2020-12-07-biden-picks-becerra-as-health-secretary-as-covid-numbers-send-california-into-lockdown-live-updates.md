@@ -3,8 +3,8 @@ category: news
 title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live updates"
 excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
 publishedDateTime: 2020-12-07T12:19:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce1d2c8f0861e6ffe1dd38"
-webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce1d2c8f0861e6ffe1dd38"
+originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce17408f08a20e617d9354"
+webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce17408f08a20e617d9354"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
 type: article
@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live"
+    excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
+    publishedDateTime: 2020-12-07T14:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce31f18f084f47a8a408d3"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 114
+    images:
+      - url: "https://i.guim.co.uk/img/media/2cc445bf737d81e49f29fc07384d0de8f756ea35/374_246_3446_2067/master/3446.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a4facaedb7e2082adf2fe269611b017e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden to nominate California attorney general Xavier Becerra as health secretary – reports"
     excerpt: "If confirmed by the Senate, Becerra will be the first Latino to head the federal health department"
     publishedDateTime: 2020-12-07T01:20:00Z
@@ -112,6 +128,6 @@ related:
         height: 677
         isCached: true
 
-secured: "/5U8CdiuBxDKEocuXQT17AxD7d3EuJ+SG9UDxjgWB+phyK++f7/NVetzJW6Cx9o1Nee+tySMMPJISFR0eA1wVHt/8eRaA2FHb3RCmd2YG/M10naZdGoBk3vhrdy+l82R9Kufq7MfF3XVDEx59vjNecbC01YeazQwijdO1v5Fe0ZhNRAh57Qek+8yRVB8StaT1VYcQweQRECpGhrkWajnXPCHfotfrPGUFdLiOvTC4iH2VzGdJtf2jOw2tEYNa7T56I/ANMiPa8H0TCiC/JBffxMePJVKmS0RH033K4iFFU/D1kjS8DsUhtokVRLpdj4CpYKFQz054l4B4jb4QXr+S9fjxLC1h6ONsViJhqlY/fw=;y4nrRXm0mC5NHeGv94o1+w=="
+secured: "58kJii7etEvK1oQFFYqIVnsQV+tlZM9pEzVVhU3vCIJNpdzrS/2X0wSKxUL3+WaIbFzKdiDUXPvJVTfT7iyPb7RkKbosYXuvon+rcMqypURvsm6VAcN0gS9DDCAOuv4ZXgHH8tF4W39qKCBAA2xL9DAZbsVyEiqIbCJ1GCreVPd0R83v9NpPpTIlnzIYDRWsj7vAhmf9eyOFwYTe4IuGgu9pFxeEpFFYcW8s8i33girkvfjIgD99TyTus0ikpvGLp27X9bzBfS5WycHiNV5d3oNBbainfH4kY/IcZbhCuDM4AUlzNvK776+Hg1ap/5iBRGEhX8dnxvhjlR493KJX1xn05+srFFWj7LpPFHdBgiw=;dmdosAZ1Irb1oi4+Hs8jXA=="
 ---
 

@@ -31,6 +31,33 @@ images:
     isCached: true
 
 related:
+  - title: "Trump has a long history of responding to loss with anything but grace"
+    excerpt: "From an award given to an opponent in Scotland to failing to cheat in a CNBC poll, Trump's response has been consistent."
+    publishedDateTime: 2020-12-07T14:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SKSDQ5BX5UI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "EXPLAINER: Trump's failing, monthlong fight against election"
+    excerpt: "President Donald Trump's frantic effort in the courts to delegitimize an election he lost has come no closer in a month to reversing any results."
+    publishedDateTime: 2020-12-05T03:55:00Z
+    webUrl: "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Fact check: Facebook post touting decreasing drug prices under Trump is misleading"
     excerpt: "A viral claim appears to take data out of context to tout decreasing drug prices under President Donald Trump."
     publishedDateTime: 2020-12-04T14:56:00Z
@@ -47,21 +74,53 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact check: Graphic comparing Trump and Obama is from 2018 and contains an approval rating error"
-    excerpt: "In November 2020, a 2018 graphic comparing President Donald Trump and President Barack Obama “by the numbers” resurfaced on social media. The chart presents figures showing the Trump administration had outperformed the Obama administration in terms of presidential"
-    publishedDateTime: 2020-11-30T21:26:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-obama-trump-by-the-numbers/fact-check-graphic-comparing-trump-and-obama-is-from-2018-and-contains-an-approval-rating-error-idUSKBN28A2CA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28A2CA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A2CA"
+  - title: "Republican presidential candidates for 2024 left waiting as Trump freezes the field of hopefuls"
+    excerpt: "GOP White House hopefuls are essentially left to watch what Trump does next instead of courting fundraisers, building networks and visiting early-voting states."
+    publishedDateTime: 2020-12-06T15:36:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-republican-presidential-candidates-2024-20201206-hhkrzi2hhjfm7dtunvbcbbvtxi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-republican-presidential-candidates-2024-20201206-hhkrzi2hhjfm7dtunvbcbbvtxi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-republican-presidential-candidates-2024-20201206-hhkrzi2hhjfm7dtunvbcbbvtxi-story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 112
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 113
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542935392&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1DM"
-        width: 818
-        height: 545
+      - url: "https://www.chicagotribune.com/resizer/ZdyvCSvdqPKg_6o2nVn9U_WGnaQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MSHWKTPAHNBURL46ZXID5WL3QE.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump campaign committees spent $1.1 million at Trump properties in the last days of his losing campaign"
+    excerpt: "President Trump’s campaign and its affiliated committees spent more than $1.1 million at Trump’s own properties in the last weeks of the 2020 campaign, continuing a pattern during his presidency."
+    publishedDateTime: 2020-12-04T22:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CTEF6BVZMI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 956
+        isCached: true
+  - title: "The Technology 202: Trump's misleading claims about Section 230 could last beyond his showdown with Congress"
+    excerpt: "If Trump follows through on his threat to veto the must-pass military operations bill unless it contains language to repeal Section 230, he could face his first potential veto override of his presidency,"
+    publishedDateTime: 2020-12-03T14:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/03/technology-202-trump-misleading-claims-about-section-230-could-last-beyond-his-showdown-with-congress/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NVPXVQBVEYI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "The Trump administration accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans"
     excerpt: "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers."

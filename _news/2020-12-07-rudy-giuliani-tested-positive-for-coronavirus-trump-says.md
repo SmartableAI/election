@@ -203,8 +203,8 @@ related:
         isCached: true
   - title: "Giuliani tests positive for COVID-19, latest in Trump's inner circle"
     excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, prompting one state legislature to close for a week after Giuliani visited to try to persuade lawmakers to help reverse Trump's election defeat."
-    publishedDateTime: 2020-12-07T06:50:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-5-giuliani-tests-positive-for-covid-19-latest-in-trumps-inner-circle-idUSL1N2IM0G2"
+    publishedDateTime: 2020-12-07T08:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-giuliani/update-3-trump-lawyer-rudy-giuliani-positive-for-covid-19-after-wave-of-travel-challenging-election-results-idUSL1N2IM0G2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0T2"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0T2"
     type: article
@@ -216,6 +216,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543618615&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50IE"
         width: 823
         height: 545
+        isCached: true
+  - title: "Rudy Giuliani has coronavirus, Donald Trump says"
+    excerpt: "Multiple US media reports say the lawyer is in hospital, as Arizona closes state legislature for a week in wake of 76-year-old’s recent visit"
+    publishedDateTime: 2020-12-07T13:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/06/rudy-giuliani-coronavirus-covid-donald-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/06/rudy-giuliani-coronavirus-covid-donald-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/06/rudy-giuliani-coronavirus-covid-donald-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/05104e2dd6a5c6b0a064253f13e0fbee813cad21/0_0_5803_3482/master/5803.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=94540471a7a442b35c34f8c041c413e7"
+        width: 600
+        height: 360
         isCached: true
   - title: "Rudy Giuliani has tested positive for COVID-19, Trump says"
     excerpt: "President Donald Trump tweeted on Sunday. \"@RudyGiuliani, by far the greatest mayor in the history of NYC, and who has been working tirelessly exposing the most corrupt election (by far!) in the history of the USA,"

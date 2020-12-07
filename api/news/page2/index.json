@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-05-kellyanne-conway-breaks-from-trump-and-says-joe-biden-and-kamala-harris-will-prevail.md",
+      "title": "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'",
+      "excerpt": "Former White House advisor Kellyanne Conway's comments in an interview with The 19th go directly against Trump's claims undermining the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
+      "originalUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fcb8c9db6a3a800199b6db2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp",
+      "publishedDateTime": "2020-12-05T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-appeals-court-oks-trump-taking-military-money-for-border-wall.md",
       "title": "Appeals court OKs Trump taking military money for border wall",
       "excerpt": "A federal appeals court ruled Friday that a lower court was wrong to bar the Trump administration from taking $3.6 billion from military construction projects for a border wall.",
@@ -110,29 +164,29 @@
       ]
     },
     {
-      "path": "_news/2020-12-05-explainer-trumps-failing-monthlong-fight-against-election.md",
-      "title": "EXPLAINER: Trump's failing, monthlong fight against election",
-      "excerpt": "President Donald Trump's frantic effort in the courts to delegitimize an election he lost has come no closer in a month to reversing any results.",
+      "path": "_news/2020-12-05-trump-campaign-paid-dechert-164k-for-recount-related-legal-services-fec-filings-show.md",
+      "title": "Trump campaign paid Dechert $164K for 'recount' related legal services, FEC filings show",
+      "excerpt": "U.S. President Donald Trump's campaign last month paid more than $164,000 to Dechert, a law firm that during the 2020 election touted its work on pro bono voting rights cases in which it often faced off against Republican-backed lawyers.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12",
-      "originalUrl": "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12",
+      "webUrl": "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017",
+      "originalUrl": "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp",
-      "publishedDateTime": "2020-12-04T19:55:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2IL017",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IL017",
+      "publishedDateTime": "2020-12-04T21:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1015,58 +1069,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-fact-check-facebook-post-touting-decreasing-drug-prices-under-trump-is-misleading.md",
-      "title": "Fact check: Facebook post touting decreasing drug prices under Trump is misleading",
-      "excerpt": "A viral claim appears to take data out of context to tout decreasing drug prices under President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/04/fact-check-post-decreasing-rx-drug-prices-contains-outdated-info/3769032001/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/04/fact-check-post-decreasing-rx-drug-prices-contains-outdated-info/3769032001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/27/PDEM/c3395239-b93c-47ff-9c0e-1e00867e5431-Prescription_pills_with_money.jpg?auto=webp&crop=4155,2338,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3769032001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3769032001",
-      "publishedDateTime": "2020-12-04T06:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

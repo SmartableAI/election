@@ -95,6 +95,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Armed pro-Trump protesters gather outside Michigan elections chief's home"
+    excerpt: "Jocelyn Benson says gathering in which bogus claims were made about electoral fraud was ‘unambiguous, loud and threatening’"
+    publishedDateTime: 2020-12-07T14:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/07/michigan-elections-chief-trump-protesters"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/07/michigan-elections-chief-trump-protesters"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/07/michigan-elections-chief-trump-protesters"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/dfb8f654743b4f3dfad7866c4af5eb49173d3fb9/166_0_4392_2636/master/4392.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=adc0a20bd9d2e89caf8d4e5ad6b320fe"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Federal appeals court issues stinging rejection of Trump campaign election fraud lawsuit"
     excerpt: "The U.S. Third Circuit Court has rejected the Trump campaign’s appeal of a federal lawsuit filed in Pennsylvania that challenged the outcome of the 2020 elections."
     publishedDateTime: 2020-11-27T20:11:00Z

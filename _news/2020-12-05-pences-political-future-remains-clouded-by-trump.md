@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html"
 type: article
 quality: 200
-heat: 1640
+heat: 1660
 published: true
 
 provider:
@@ -927,6 +927,22 @@ related:
       - url: "https://static.politico.com/ce/c7/0e6cc0734194a6c75fa789f0c486/ap20341081924616-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "The Places That Had the Biggest Swings Toward and Against Trump"
+    excerpt: "Mr. Biden gained in well-educated suburbs and exurbs, often in places that have tended to vote Republican in recent decades, like the Atlanta, Dallas and Phoenix areas. In addition to these broad patterns,"
+    publishedDateTime: 2020-12-07T14:09:00Z
+    webUrl: "https://www.nytimes.com/2020/12/07/upshot/trump-election-vote-shift.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/07/upshot/trump-election-vote-shift.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/07/upshot/trump-election-vote-shift.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/06/upshot/00up-garden-of-gods/merlin_146752203_b27133e7-29e9-40e3-9c08-7852f4f21cc0-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
