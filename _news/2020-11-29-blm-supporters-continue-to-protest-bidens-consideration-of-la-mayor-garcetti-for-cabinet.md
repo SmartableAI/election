@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Georgia secretary of state to recertify results confirming Biden win after third count"
+    excerpt: "Georgia Secretary of State Brad Raffensperger says his office will recertify the presidential election results on Monday, following a second recount that once again upheld President-elect Joe Biden's victory in the state."
+    publishedDateTime: 2020-12-07T17:11:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4PymTRoLBCU/georgia-election-recertification-biden-win-third-count"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-election-recertification-biden-win-third-count.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-recertification-biden-win-third-count.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "BLM supporters continue to protest Biden's consideration of LA Mayor Garcetti for cabinet"
     excerpt: "Black Lives Matter activists protested outside the home of Los Angeles Mayor Eric Garcetti to protest the mayor’s potential nomination to President-elect Joe Biden’s cabinet. "
     publishedDateTime: 2020-11-28T20:24:41Z

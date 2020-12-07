@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/consulting-firm-scrubs-wiki-page-of
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consulting-firm-scrubs-wiki-page-of-bidens-covid-czar-report.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7586e126-d8ae-47f5-8902-55e26aed1d69/36905f69-318f-4be9-9a87-e0d5a4321778/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Georgia secretary of state to recertify results confirming Biden win after third count"
+    excerpt: "Georgia Secretary of State Brad Raffensperger says his office will recertify the presidential election results on Monday, following a second recount that once again upheld President-elect Joe Biden's victory in the state."
+    publishedDateTime: 2020-12-07T17:11:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4PymTRoLBCU/georgia-election-recertification-biden-win-third-count"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-election-recertification-biden-win-third-count.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-recertification-biden-win-third-count.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "BLM supporters continue to protest Biden's consideration of LA Mayor Garcetti for cabinet"
     excerpt: "Black Lives Matter activists protested outside the home of Los Angeles Mayor Eric Garcetti to protest the mayor’s potential nomination to President-elect Joe Biden’s cabinet. "

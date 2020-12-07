@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-hi
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -121,6 +121,22 @@ related:
       - url: "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Pentagon advisor resigns in protest, saying the Trump administration is putting the nation 'at risk' by purging posts to fill them with loyalists"
+    excerpt: "He said purging advisory boards and replacing members with 'political partisans' has 'now put the nation's safety and security at risk.'"
+    publishedDateTime: 2020-12-07T18:58:00Z
+    webUrl: "https://www.businessinsider.com/pentagon-advisor-resigns-says-trump-admin-putting-nation-at-risk-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/pentagon-advisor-resigns-says-trump-admin-putting-nation-at-risk-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-advisor-resigns-says-trump-admin-putting-nation-at-risk-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/5e3959c25bc79c1f9c787b67?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
   - title: "The Trump administration in a new lawsuit accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans"
     excerpt: "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers."

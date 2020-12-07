@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html"
 type: article
 quality: 200
-heat: 1660
+heat: 1680
 published: true
 
 provider:
@@ -381,6 +381,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202204015-bill-barr-0728-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Trump campaign legal efforts may be coming to an end, sources say"
+    excerpt: "There is a sense developing within Donald Trump's legal team and what remains of his campaign staff that their efforts to overturn or delay the results of the election are coming to an end, multiple sources tell CNN, despite what the President has said publicly.\n    \n"
+    publishedDateTime: 2020-12-07T17:43:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8P2OpqK17Ik/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/donald-trump-lawsuits-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/donald-trump-lawsuits-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201206163106-giuliani-georgia-capitol-1203-alt-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -211,6 +211,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Trump ratchets up pace of executions before Biden inaugural"
+    excerpt: "As Donald Trump’s presidency winds down, his administration is ratcheting up the pace of federal executions despite a surge of coronavirus cases in prisons"
+    publishedDateTime: 2020-12-07T18:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-cementing-death-penalty-legacy-biden-inaugural-74579070"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-cementing-death-penalty-legacy-biden-inaugural-74579070"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-cementing-death-penalty-legacy-biden-inaugural-74579070"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_70d69aee84e240af90bef411cacb6ad6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
     excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."
     publishedDateTime: 2020-12-01T16:56:00Z

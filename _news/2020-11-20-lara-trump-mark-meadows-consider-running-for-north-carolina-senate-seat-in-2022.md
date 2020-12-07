@@ -49,15 +49,15 @@ related:
         isCached: true
   - title: "Arizona legislature closes as Trump lawyers push for special session to pick electors"
     excerpt: "Trump campaign senior legal adviser Jenna Ellis blasted Arizona's speaker of the House on Sunday night after the state legislature closed following news that her colleague Rudy Giuliani tested positive for coronavirus days after speaking to Arizona state lawmakers about allegations of election fraud."
-    publishedDateTime: 2020-12-07T14:57:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WgYLp0prOO4/trump-arizona-legislature-electors-rudy-giuliani-coronavirus"
+    publishedDateTime: 2020-12-07T15:05:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-arizona-legislature-electors-rudy-giuliani-coronavirus"
     ampWebUrl: "https://www.foxnews.com/politics/trump-arizona-legislature-electors-rudy-giuliani-coronavirus.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-arizona-legislature-electors-rudy-giuliani-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 128
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20335611859534.jpg?ve=1&tl=1"
         width: 640

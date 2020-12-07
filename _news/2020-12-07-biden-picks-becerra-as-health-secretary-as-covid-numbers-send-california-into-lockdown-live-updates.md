@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live"
     excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
-    publishedDateTime: 2020-12-07T14:04:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce28e38f08a20e617d9492"
+    publishedDateTime: 2020-12-07T13:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce2b128f0861e6ffe1de22"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
     type: article
@@ -128,6 +128,6 @@ related:
         height: 677
         isCached: true
 
-secured: "FxTh7TCzpY9gmR8uAjimZDvaFPFZYCycV6y6EFAhgRzdxo1sxTfQmVvbtV7tGTdKczrQALkWNY2AaE/1+pyCzRTBhZUtzGjYNJ/SLqCI+liXTiwO69XgxEQNirfRXE6QfeN/OtRPVkDE+1aZHEl2Q8n7ZYGba0Kej7fk4lnUBeAuZLnNwVDA7SI7HgxAuQqnOvVidMUrvVTYuA5tGNTSK60BAEr1KM7jPIviF4b4+evpreomMfto8A3ofBWdv39iUXLKZTZFZecVyti4EqDSo7yOrFRwbLY/Ph0+Y/uhL3TCVHpMSozHDD8Agg5KXMCgBhnzODWhd1Kki+XKGu9Pyn1JNrSDdenlcYB4XIFEGTc=;gBYfrSuMCHSw2xbV5aNVSg=="
+secured: "gQOq2alWuKV/x+4fiIXMRcpVb3fwvIbusmtpnX89zXEp6d9efO8VnTbsWUwG3EjmC0hYuzVGnwF/SE0oQLDj/yXFdt/pHQ4aPvlcGrnI0fzS6woUCNL6EhoQisPzkOs7pPdhFGnTX2AhyfbKnNm/mj2aOtucwRH6csQCdbY/uohp2SOjIiO7bBcLasdUzf4LjqEjzuTYeqhQYxHilRMMJb6/mCvn9lohcxx90EEAsvNybFqzuVDzMu1aBB4onRymD9yvuYBsoTux2HTSod/8GQo3yhnZoDqOBX+RwMwJuDHKTgDsNdNVvBcK8VYSpkss/+UElgtg3jywsXRBjlV8fOGUqnnLMkeWccgTP4wDsOGeq6ZSvN2/Ujf6tg8U817oGihe85GQIDu4PJLnLXe1w6jLlRWIfU9pOF7Z0i7txqL9S0ss7yxh7CUcecV9Kn9zcunZ1kaOAM4F25wN0vSjmZgJLdcjgXF8tPJbGFvc+4bu2SFdXXhfYLpxBIkjmlo+649DZhZy/Rh/7POjPaIqBA==;Sfu0I0tH//GIyNMA+jn8zw=="
 ---
 

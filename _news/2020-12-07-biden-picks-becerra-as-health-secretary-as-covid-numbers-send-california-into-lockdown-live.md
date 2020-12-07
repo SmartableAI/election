@@ -2,9 +2,9 @@
 category: news
 title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live"
 excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
-publishedDateTime: 2020-12-07T14:04:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce28e38f08a20e617d9492"
-webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce28e38f08a20e617d9492"
+publishedDateTime: 2020-12-07T13:46:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce2b128f0861e6ffe1de22"
+webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce2b128f0861e6ffe1de22"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
 type: article
@@ -128,6 +128,6 @@ related:
         height: 677
         isCached: true
 
-secured: "dO3fDM915dn7l+1ixYQswZdQjg3CvzZwLtMWNBwOgff/g06iLohwXJClZTFXAvBYdY2RJAeCr15UCCZDGjIeVs7WMc8VMuzVlSuBpHcHPVH98Cce+HcZCb5gWkuJbUHLxYGzZ3/osa1q9CrLz2TFhQiUAn2gZOR2hyjOLItUUKd0WgQYG98OHb1e05tWQO50pDVk2RZKtVCzqr1bJ87P6bHzWfyWOTepKQ8gO4sfs0YhdlBGwu7vKvtKowNUiAgbhHYr7wicxBb/+XwZrPDgWrtDSuoDQWThNXCGZ896Y4xmGcqltoUtg0SeuIoAmoS2eQEMs5tGfWdga8fjiKMndMGR0Ms+Fjz6EA7Y1OSBTm8=;K+Cv8jO4r1Yhvs4+px4GZA=="
+secured: "vSG9dbxcySE5rkDNeMJMFvttktPO/hS13dhz10jlPa9rfAkym8CuBvVhhAdUGFZ2HQhwykD5ZGLZZzymdZw+uc12Z4l0q1xjFQkh77/Y62TjxlV8M2y9VW7C+uNDoAErlU798e4ot6PzItlqcNuWFr5J64mQPwphWPojmLtftVkWbAnuKyECtsOvl3CzjKzrV/urptVGBR3R4n90azL1M+MImyw/ALXYdQhKE/yNrBI/1HbkWw1YwLUZ+hibCIKlYfjF/KLLF1Adt6iBG2aDRrPoKRkvQZPE70M544i6kNxBKZSWy6GWatac0B28ZYWkV+CbHsVtVaQxHP3rXxBX2CU/wfQ1GjxYavtxtEYkxzs=;XbJWLAMdjgPrZAFbqcmXZg=="
 ---
 

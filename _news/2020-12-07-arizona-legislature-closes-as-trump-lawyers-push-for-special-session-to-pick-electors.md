@@ -2,13 +2,13 @@
 category: news
 title: "Arizona legislature closes as Trump lawyers push for special session to pick electors"
 excerpt: "Trump campaign senior legal adviser Jenna Ellis blasted Arizona's speaker of the House on Sunday night after the state legislature closed following news that her colleague Rudy Giuliani tested positive for coronavirus days after speaking to Arizona state lawmakers about allegations of election fraud."
-publishedDateTime: 2020-12-07T14:57:31Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WgYLp0prOO4/trump-arizona-legislature-electors-rudy-giuliani-coronavirus"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WgYLp0prOO4/trump-arizona-legislature-electors-rudy-giuliani-coronavirus"
+publishedDateTime: 2020-12-07T15:05:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-arizona-legislature-electors-rudy-giuliani-coronavirus"
+webUrl: "https://www.foxnews.com/politics/trump-arizona-legislature-electors-rudy-giuliani-coronavirus"
 ampWebUrl: "https://www.foxnews.com/politics/trump-arizona-legislature-electors-rudy-giuliani-coronavirus.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-arizona-legislature-electors-rudy-giuliani-coronavirus.amp"
 type: article
-quality: 168
+quality: 128
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -64,6 +65,6 @@ related:
         height: 340
         isCached: true
 
-secured: "yOzpW50s2ZzsYSyBU50pA5bMS5xDmvzNnGinaszjBGmCLWiesNaL2XeG2JpUF3XUMRJDjn5w3zd4RvAAne6uAPHUtXVtgu0WrEENHa6Z5NpDf4UB2egm2j0QhAeJq8rAFUwIEdzlbd6JuLo8VCyoGL0xmcACMHGFQ5V49wHLFMxnUXW9dVZ9pniJBYDEc6/hwW73X4617EcgpXDW18LmHX6bnp+TWWeb2VgGcKPzVBWEhZd+N+MB3PS6s/shWYIx1bkZxjLKi5yxgS/BdY4CvlUlBUMHVNPDgfLI3TLA2OcyaX0ZWhCe8hX1ZoZ1QyV+jTQk20esfEpIateDYesbGbkF2afrg0NurY9APYkfpNI=;745xhYYw4VwHHY4MPgFlMw=="
+secured: "hURs8HQdVhWDQRQS8IQdX/i5uvMrA443g0mGT0y668FQlzCLXRnbgt+sjfZg+XyvGU5/mS8EDpIaYVQF/+/NEpzMgJ+X6td4DD6dX/3GnL6kHpXAdjs9uvbnTxwWwdDtPvl88qK5WuS0EZ7Ptq8WpoxmcUDZFMfrLScSpEG9fQ3Il8+1DGPqKoPRcKfXfuZT6rVDyqFqIUqLXRGvCpgCLexoOcR+831pwb88+/luWw18SnX3sDeKYYHeQkzkWx8wD4xANKW5sRMS69yTzA8+ct3ARYFhp+aJKpz9Up1Z0hCQQ+XIA9LCALV60/pE+zNCGXFa6hpNyacAuHSwm3bE0zy6KU7pJ3dW5InYYBOcpew=;dNzVBTs55nJuY4rI6lZB8g=="
 ---
 

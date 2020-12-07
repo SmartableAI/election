@@ -63,22 +63,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden picks Calif. AG Becerra to lead HHS, pandemic response"
-    excerpt: "President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administratio"
-    publishedDateTime: 2020-12-07T10:46:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_5f8654f6ab3748619e48c6a6f9e505a4_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Joe Biden says 'Let's be thankful for democracy' in message of unity – live"
     excerpt: "Biden will speak in Wilmington as US records highest daily Covid deaths since May and 172,935 new cases"
     publishedDateTime: 2020-11-25T20:19:00Z
@@ -173,6 +157,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden picks Calif. AG Becerra to lead HHS, pandemic response"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administration's coronavirus response."
+    publishedDateTime: 2020-12-07T12:53:00Z
+    webUrl: "https://www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "llmFE7yNJ8WqJiPxqq8rmtDKCSgCXI/OuxybSTBgAbwaHapfyM13vo/nwk5JcDD4FqCOsUSajS92PVWPr1QVhs71f+10bEt8280Z4cCet23kvUEm5fNaeOwkThdgHiivgpAoBiNhYAOLUlBUCAH6wxSp5anCw41oogeH2JHvXtpeyeMucrPaxTP0D/fVcP06L/gU2NrsqWhwj2BGo2tjtJ7ifcCqFFgiYHYIUzmwGQlwnCYLdUjWGkmhHb54IJv2bWOfDVF4QSbVCjXnXCfaYzzmN4okZF+zF9F82jIOq9+Svgk9Cdg8EgUrICyfr96L04r50qHCMdg+wXrxYoDC71gO7a6VaCnwOY+ZaZhFFoi3tYDkMFFeBTZO6A4zZQ1NOZ5WSPcRQ4qcQ/z3tHGs9xjtkvrZwbAyBqjue0JNFYo5Y3daNNQEoLIQxI6GvS6lftNB6UXX2PkshlF5NfZQiQRx/xsFFG87kWr4KVQbaHNLCkA1hOUhK0Q6c5DPYXY1WmrgZI06mry9nsC1V4YXRg==;g7ufxAg+quI6zLqlwuYHVw=="
 ---

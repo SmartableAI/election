@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden picks Calif. AG Becerra to lead HHS, pandemic response"
-excerpt: "President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administratio"
-publishedDateTime: 2020-12-07T10:46:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
-webUrl: "https://abcnews.go.com/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
+excerpt: "WASHINGTON (AP) — President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administration's coronavirus response."
+publishedDateTime: 2020-12-07T12:53:00Z
+originalUrl: "https://www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12"
+webUrl: "https://www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12"
+ampWebUrl: "https://www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-calif-ag-becerra-to-lead-hhs-pandemic-response-2020-12?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_5f8654f6ab3748619e48c6a6f9e505a4_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden to meet with U.S. workers hit by pandemic, says Congress must act"
@@ -174,6 +168,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ZXZRe+DGXU3Nu51n9QPcsoMHtlsRkYc6a1vDpAB7uV7oKoiSGJUSlOQU9KG096KZaNnK6y4sVaJ1UL+KbshDiRHmyEO6oGMAEbAHiwfaeOkUMtz9BAh4xOlgVFl98AgERjtafd8aPjb3Jyh6j50RS64ZB1mQpbND3FtP5N1IltKv02stfAgop6L7MIyXCZM7CgfcES7qNZDPs41IjOpKike9YJ+kSO4ISTDdJbU9QB+jZ4q2N0CCMVGN+iyGgKZL0AC29pkw9Gq3kGhKa6lDeEiYPid44ToXcm77ZucedFCStOVZP23Rnw4sVA3zbkZmlmOMZq0BUrsSmXFgY2hfKznkSttmHLPJ0MRP8n+Z1o8=;lg2tl/lAwOGlcU64hl07LA=="
+secured: "lDkYogYnntz+i+Id/LZkXftDROoSVSxqVKLwkX8boVavm2eriywGwqqXkpigR2Vb4D6WLzLEY/LMEX06LODVqgHOs3Mh9Nugdw948QJZTQXQLc7IV4RTv8ZlHDEIjgDCYxkLfWfCqt5DZ7eew795WW9jNN3aPk7iWziKeKgty+FEdIvAS1w0nGhEed3nZI+9dkRqbGTsIexBO+b+jYfhxhW9biLAU1mAmty21EPHnO8SaO4LtVGY12UDaBWltX3pIwOCw7j1/Cm+lH2xTuaMW/HuCmdXfYzOATultryDh3rFo6//GhdScxysA3jLIRZ9EVfjMS0m1f1wLT6pFhIXpoR7ZgqJ3gQBASKLOWVCtSM=;ovXe9R3E7UJHP784rtnX9A=="
 ---
 
