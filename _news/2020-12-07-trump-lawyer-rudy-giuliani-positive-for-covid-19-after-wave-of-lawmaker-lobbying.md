@@ -351,6 +351,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Barr may leave Trump administration before Inauguration Day"
+    excerpt: "The attorney general, long criticized by the left and newly criticized by some on the right, has mulled not staying until the last day of the Trump administration."
+    publishedDateTime: 2020-12-07T16:25:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/william-barr-may-resign/2020/12/06/bbbc5f7e-382a-11eb-9276-ae0ca72729be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/william-barr-may-resign/2020/12/06/bbbc5f7e-382a-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/william-barr-may-resign/2020/12/06/bbbc5f7e-382a-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UUI77ZBYFMI6XETWVYGKOJZJXY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump releases video statement repeating baseless vote fraud claims"
     excerpt: "President claims electoral system ‘under coordinated assault’ but justice department found no evidence of significant fraud"
     publishedDateTime: 2020-12-02T19:25:00Z

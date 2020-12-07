@@ -335,6 +335,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Barr may leave Trump administration before Inauguration Day"
+    excerpt: "The attorney general, long criticized by the left and newly criticized by some on the right, has mulled not staying until the last day of the Trump administration."
+    publishedDateTime: 2020-12-07T16:25:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/william-barr-may-resign/2020/12/06/bbbc5f7e-382a-11eb-9276-ae0ca72729be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/william-barr-may-resign/2020/12/06/bbbc5f7e-382a-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/william-barr-may-resign/2020/12/06/bbbc5f7e-382a-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UUI77ZBYFMI6XETWVYGKOJZJXY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump releases video statement repeating baseless vote fraud claims"
     excerpt: "President claims electoral system ‘under coordinated assault’ but justice department found no evidence of significant fraud"
     publishedDateTime: 2020-12-02T19:25:00Z
@@ -588,6 +604,6 @@ related:
         height: 683
         isCached: true
 
-secured: "odvpxFoDxYYqExSDh/YT4bTuQe9jHxlIMtFojh5fFpYasbmdz7LhtuwwkxVXvP/GV9CQ6E7jvDjlUtnFOFWfo+hCov3eoJUCulwLy3zEOJaAQbWv+b0lYVEvYdxoOXx21oDkVWDmkW2jpjy8lW3M0fBGwY5pY5pW1vgLq/1HmvfjxH/lePG1e8me8hK/5de66fUApAp2VdE++vXAnyzAOPRG+7D3HhXRJcyQGyTAyuUdbsX9aefIdNjOK6FcIVEvLFGX863u456CM0p8g5QGXU4Zur4N3+qS8ANi6ah2qZQjsGLr0ptCvP7360M8e6woDpC4SxW5k5GWdF39306KmEFyXszhRDnZNLvlIttkStM=;zAL2832U6u7kXgaHRZqo3A=="
+secured: "nlROY5XWZde6H2EfKJfsUInCTajoJM6/n8L8TFVvoqwdg6yujIWVRsL9S9lM6HzFQaN6iE1lqlbt/OH4ly2ntGPjsS2xirI6PyRFyyCS7wd4Z951DyeLDSKPqqP1BY8CZQiccZcql/jrAb/t21re7pGmPs9DcbJtW3ABFJDmCAZW+eJe7rfNIAq0kv1VzQsYVhn8B1yTVl57xes7hrGZSmqIx/0/wyJcXvdnHYGED62tvnWxr8Lic7OS1bbCrGtUgAN6LLEbwnXDBHylfrdaUFYqdjjzDVtdpMpEZCfSFsWRnUJlsqyzFR/UVXlIQoORXFXKf1YOu6sYhb0ZmpxV9iF91uUmx76rrXa5lBIQx7pacXOHq7YB70VBIiFl8ZuB6mNbSfB9MQh9WphMUfl4mOa3y4Z/2PXHiWVX8WQaVfP7zzCntSX7UdiUKV240aVRstch6Spd6/4+BIgEzIsPnfBbAZ6GqSk+IlpOykmzwlEBvfMa5olM9AVHZSaqxNSthFGolqFZ4zyH0rS0pUXv5Q==;01ScUdi+0IiaWBgNfkdDVA=="
 ---
 

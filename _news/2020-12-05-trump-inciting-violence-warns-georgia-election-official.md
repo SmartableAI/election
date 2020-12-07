@@ -95,6 +95,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Georgia GOP Sen. Loeffler again refuses to say Trump lost the election"
+    excerpt: "Republican Sen. Kelly Loeffler blasts Democratic challenger Raphael Warnock as a radical while continuing to deny President Trump lost the election."
+    publishedDateTime: 2020-12-07T16:59:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-07/georgia-gop-senator-kelly-loeffler-again-refuses-trump-lost"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-07/georgia-gop-senator-kelly-loeffler-again-refuses-trump-lost?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-07/georgia-gop-senator-kelly-loeffler-again-refuses-trump-lost?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/33a62ac/2147483647/strip/true/crop/1938x1266+45+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff9%2F81%2Faff9d3454ce88a408f7bbac0eca1%2Fla-photos-1staff-656071-perdue-loeffler-rally-jja-01.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump campaign files election lawsuit in Georgia, suffers more legal defeats"
     excerpt: "Donald Trump's campaign said it filed a lawsuit in Georgia state court on Friday seeking to invalidate the presidential election results there, the latest in a series of legal challenges aimed at reversing his loss that have so far gone nowhere."
     publishedDateTime: 2020-12-05T09:48:00Z
@@ -682,6 +698,20 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/581fdba872020aee7bff332eeb9a68fceaf5dba0/c=0-187-1600-1087/local/-/media/2020/12/02/USATODAY/usatsports/B9342396546Z.1_20201202054812_000_GJ1RQO70N.2-0.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Georgia lieutenant governor on President Trump's attempts to overturn election results"
+    excerpt: "President Trump is pressuring Georgia's governor to persuade the state's legislature to overturn President-elect Joe Biden's victory. Georgia Lieutenant Governor Geoff Duncan joined \"CBS This Morning\" to discuss the pressure campaign and the upcoming runoff elections for the state's Senate seats."
+    publishedDateTime: 2020-12-07T16:25:00Z
+    webUrl: "https://www.cbsnews.com/video/georgia-lieutenant-governor-on-president-trumps-attempts-to-overturn-election-results/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/07/de8791be-ab03-43ed-8b42-7c145af54a74/thumbnail/1200x630/ec913cd82cda24b6d22ec8520b304f3c/cbsn-fusion-georgia-lieutenant-governor-on-president-trumps-attempts-to-overturn-election-results-thumbnail-602796-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump loyalist Loeffler's attacks on pastor Warnock risk suburban votes in Georgia's U.S. Senate race"
     excerpt: "Beau Davis, a 33-year-old security specialist from the Atlanta suburbs, is the kind of voter Republican Senators Kelly Loeffler and David Perdue may need to win runoff elections next month that will determine the balance of power in Washington."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-t
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-transition-live-updates/?outputType=amp"
 type: article
 quality: 135
-heat: 715
+heat: 735
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "The Latest: Biden names prominent allies as inaugural chairs"
+    excerpt: "President-elect Joe Biden is naming some of his most prominent allies to be co-chairs for his upcoming Inauguration"
+    publishedDateTime: 2020-12-07T15:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_97ba35b36e2949f0acd2398caec14d70_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Here’s the problem Biden faces if he picks current lawmakers for his Cabinet."
     excerpt: "President-elect Joe Biden has begun to select candidates for crucial positions in the Cabinet and other senior administration spots. In the running are sitting elected officials. For example, various Democratic Party factions have urged Biden to select his former primary opponents ,"

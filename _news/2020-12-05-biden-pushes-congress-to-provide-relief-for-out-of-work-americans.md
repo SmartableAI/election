@@ -61,6 +61,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden picks Calif. AG Becerra to lead HHS, pandemic response"
+    excerpt: "President-elect Joe Biden has picked California Attorney General Xavier Becerra to be his health secretary, putting a defender of the Affordable Care Act in a leading role to oversee his administratio"
+    publishedDateTime: 2020-12-07T10:46:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-picks-calif-ag-latino-health-secretary-74574258"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_5f8654f6ab3748619e48c6a6f9e505a4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden says 'Let's be thankful for democracy' in message of unity – live"
     excerpt: "Biden will speak in Wilmington as US records highest daily Covid deaths since May and 172,935 new cases"
     publishedDateTime: 2020-11-25T20:19:00Z
@@ -124,6 +140,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543044431&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB02IH"
         width: 817
         height: 545
+        isCached: true
+  - title: "A Maryland immigrant hoped to delay his deportation until Biden took office. It didn’t work."
+    excerpt: "The arrest of a man who had been in the United States for 20 years has drawn anger from those who hope that the end of the Trump administration will keep ICE from acting unilaterally in sanctuary jurisdictions."
+    publishedDateTime: 2020-12-07T16:22:00Z
+    webUrl: "https://www.washingtonpost.com/local/public-safety/maryland-immigrant-deported/2020/12/07/0678c202-30d1-11eb-96c2-aac3f162215d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/maryland-immigrant-deported/2020/12/07/0678c202-30d1-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/maryland-immigrant-deported/2020/12/07/0678c202-30d1-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KZGOKWBUCII6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 1004
         isCached: true
   - title: "Joe Biden officially secures enough electors to become president after California certifies his victory in the state"
     excerpt: "California certified its presidential election Friday, officially handing Biden the Electoral College majority needed to win the White House."

@@ -143,6 +143,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Could Trump be indicted? And could he pardon himself?"
+    excerpt: "As the US justice department investigates an alleged ‘bribery for pardon’ scheme at the White House, Jonathan Freedland and David Smith delve into the many possible legal issues Donald Trump could fac"
+    publishedDateTime: 2020-12-07T16:30:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2020/dec/08/could-trump-be-indicted-and-could-he-pardon-himself"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/7af114aff4550d379aaf8ab6da501bc3dec175d4/0_181_1776_1066/master/1776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7fb617a980e3a208f0bcb7fc09e12836"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZT+8K/CqlL7QHzY4WLNI7ZX56Og7ACrpUANuz6OaP8brJR36L8FNQMM26m4NU8NXIGhUBFXKZEOug1FM7WeqlNaxhmUVDHvRWVO9t9DhAZQaV6FmDde4EiQKk1lTt6CFnSjsHNdBi/xpydGF8UEJTrzltmJM2ffh659iBsF7v0ufdSmVYGsEHOidLbwfUFosm84HKskobeKgVFeicY3oN7sGG6CUikFkb87a4sKyI/krhvpxFP8OBXfnR79dm3ZtldSoYLr8HE/Wo9yMqrktLe6Y0wBLnkv1VKF3P0IXqPclhCIdO2/mCVdkg6j8QDg58s2d7wdBYv3UNjZE9IMEJh0exz6JcjY29733ptvEv3Q=;uiBH8O6Z5QLAtGTXDFLhOg=="
 ---

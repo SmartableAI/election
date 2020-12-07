@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/lara-trump-senate-run-north-carolin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-senate-run-north-carolina.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Arizona legislature closes as Trump lawyers push for special session to pick electors"
+    excerpt: "Trump campaign senior legal adviser Jenna Ellis blasted Arizona's speaker of the House on Sunday night after the state legislature closed following news that her colleague Rudy Giuliani tested positive for coronavirus days after speaking to Arizona state lawmakers about allegations of election fraud."
+    publishedDateTime: 2020-12-07T14:57:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WgYLp0prOO4/trump-arizona-legislature-electors-rudy-giuliani-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-arizona-legislature-electors-rudy-giuliani-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-arizona-legislature-electors-rudy-giuliani-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20335611859534.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "mIwAgsRPNPVa2yRuACNkx7cXc+vnIvy2OwWwYW4ShD7ruIFhEkfakfWzwtzSDGniEx6rXewkJpX4sCdRc/bI2k8iVXP6YlpZaseK+9c6wEkh+OZsTsWViM2ESyuKSFujLni971wRzuKHwBmXB8pOVEkpKbzVCM6PGO4I24esNMdavh9Z6nSDuYZYVkPQPIRhU3sln96xRPa0yrucM1kitMfqWaopkdeDlnUoXyIb1LBGzSnn8moWJD/5bPXP+8xLhMYegxEWegYbuSoXCnDxoQ2WnpbGokLbtJc/iipfwo/51uXdj7nOhE3GemXecBSecf8zyRl8Zw0TwJ6/klDuLAKyV3fZOVPD+R2pWxj7tDo=;v5RqkRN84G//k3krgiCUBw=="

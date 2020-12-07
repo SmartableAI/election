@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Melania Trump cheers new White House tennis pavilion amid ongoing pandemic"
+    excerpt: "First lady Melania Trump's office announced Monday the finalization of the White House Tennis Pavilion -- a tone deaf accomplishment to trumpet amid the ongoing coronavirus pandemic and as the federal government remains locked on providing further economic relief to millions of suffering Americans.\n"
+    publishedDateTime: 2020-12-07T16:04:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LlnOWMu9Wkk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/melania-trump-tennis-pavilion/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/melania-trump-tennis-pavilion/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200305155803-03-melania-wh-tennis-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Courts across the country hand Trump and his allies more losses as attempts to upend election results collapse"
     excerpt: "The Trump campaign and its allies were dealt additional blows in Michigan, Nevada, Wisconsin and Arizona on Friday as courts rejected their attempts to challenge the presidential election results.\n    \n"
     publishedDateTime: 2020-12-05T02:23:08Z

@@ -3,8 +3,8 @@ category: news
 title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live"
 excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
 publishedDateTime: 2020-12-07T14:04:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce31f18f084f47a8a408d3"
-webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce31f18f084f47a8a408d3"
+originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce28e38f08a20e617d9492"
+webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce28e38f08a20e617d9492"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/2cc445bf737d81e49f29fc07384d0de8f756ea35/374_246_3446_2067/master/3446.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a4facaedb7e2082adf2fe269611b017e"
+  - url: "https://i.guim.co.uk/img/media/901396f3794c94dee56ca5859beeb1ed2552933d/0_409_6170_3704/master/6170.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8d11dbe6e09d1411a8248359860fe241"
     width: 600
     height: 360
     isCached: true
@@ -81,8 +81,8 @@ related:
         isCached: true
   - title: "Biden picks Becerra as health secretary as Covid numbers send California into lockdown – live updates"
     excerpt: "Xavier Becerra would be first Latino to lead the agency as it faces an unprecedented public health challenge"
-    publishedDateTime: 2020-12-07T12:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce17408f08a20e617d9354"
+    publishedDateTime: 2020-12-07T11:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fce01468f0861e6ffe1db50"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
     type: article
@@ -91,7 +91,7 @@ related:
       domain: theguardian.com
     quality: 110
     images:
-      - url: "https://i.guim.co.uk/img/media/2cc445bf737d81e49f29fc07384d0de8f756ea35/374_246_3446_2067/master/3446.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a4facaedb7e2082adf2fe269611b017e"
+      - url: "https://i.guim.co.uk/img/media/901396f3794c94dee56ca5859beeb1ed2552933d/0_409_6170_3704/master/6170.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8d11dbe6e09d1411a8248359860fe241"
         width: 600
         height: 360
         isCached: true
@@ -128,6 +128,6 @@ related:
         height: 677
         isCached: true
 
-secured: "wYlqkt1eHCsWCegXqDPXsILM3F5xkr2P0acI084A058VxfyqtJbEZlglAAYPYUFdtusXGhgdz8/n+UoY4UFuj9g5LIdDEjMr4zIxu+gtkenDadO+j0FITBMYe6pD+0uz0BQOMVAUuYfkqxWSjp3tKHknzjJ29WYmWBoWWAdleagA5c871JvXndZV0oIeep95d5ApU9d/Uw5AdoCHeN6pIMkK75uj1omIpVCTAcCRk/uIFw2NQ1ThBrNwDgK7ClnP0xu+BLeQoT0rjnPSorf9WkFIJ3ijqbq2ckxdlg0h3Eg3Q35XuzJ7kKhp3L5MSfQp3zdwJGgIGPaJjjco9bkOOD+56K/Ot/t2A3aGVFbKjKo=;JkrPItYORF8/hrQwT7Ahug=="
+secured: "dO3fDM915dn7l+1ixYQswZdQjg3CvzZwLtMWNBwOgff/g06iLohwXJClZTFXAvBYdY2RJAeCr15UCCZDGjIeVs7WMc8VMuzVlSuBpHcHPVH98Cce+HcZCb5gWkuJbUHLxYGzZ3/osa1q9CrLz2TFhQiUAn2gZOR2hyjOLItUUKd0WgQYG98OHb1e05tWQO50pDVk2RZKtVCzqr1bJ87P6bHzWfyWOTepKQ8gO4sfs0YhdlBGwu7vKvtKowNUiAgbhHYr7wicxBb/+XwZrPDgWrtDSuoDQWThNXCGZ896Y4xmGcqltoUtg0SeuIoAmoS2eQEMs5tGfWdga8fjiKMndMGR0Ms+Fjz6EA7Y1OSBTm8=;K+Cv8jO4r1Yhvs4+px4GZA=="
 ---
 

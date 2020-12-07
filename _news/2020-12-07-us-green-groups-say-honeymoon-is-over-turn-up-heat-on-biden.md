@@ -319,6 +319,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "U.S. judge rejects attempt to overturn Biden's Michigan victory"
+    excerpt: "A U.S. judge on Monday rejected a bid to decertify President-elect Joe Biden's election victory in Michigan because of alleged irregularities and to have President Donald Trump declared the winner, the latest failed legal attack on the vote."
+    publishedDateTime: 2020-12-07T16:49:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28H20U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H20U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H20U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543710642&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB616Z"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden transition advisers emerge as top contenders to run covid-19 response"
     excerpt: "As President-elect Joe Biden makes fighting the raging coronavirus his most urgent mission when he takes office next month, two figures already playing central roles in his transition are emerging as the most likely officials to preside over the new White House’s pandemic response."
     publishedDateTime: 2020-12-03T01:10:00Z
@@ -460,6 +476,6 @@ related:
         height: 308
         isCached: true
 
-secured: "LltouWr3k7i8TnOFa1M5W1McZsAXkTAQ6VqYVs43DNIT7jJTNh59+6t1uhJs3HYe9RTrKyQENQJJCWo7ZlLom4Utsmc/Re+qPQH8f3e8O8g0N8BC8IDI2JRnJ5OGZVT9TerrpHDUh7Xo5UMh0kpFa1xAAIKYgPwStKM3MVpgxaYTDXlMiIN2L6j2mXNn0TDRWqoB8C/sFZfajqV1rXVrvIsWuk9gUsKBRQCiNfIxbSL3ER2Tka+hl4KfOpR3q6HZnrkrFtEIaaVPi/A24rur8CofTjPyKucM766+NIVPzKBlJQCg5srAi7fQbARBGLBQaEZG8OBLbzsGhrW7+jSTV4MJtrcuE4dSGxG0dhqfi8k=;Qx6mHrMcex5NjcEUyN5e/g=="
+secured: "TNQF/pvXkYneAciNC9a1RxwsX4lAcHaV9xvDLU2MKWv9qqVZ0sXHRXTj31buxPWUtF/v7T6f3q8XyASz8NWyUYmSf7me3sV7Pr1A3plV1KLk2yaMkr0sscvxDhEmy0iR3F5Dm1W7pwfebbVNasiiVjeF4ZEhRKLrR2JnGgPT+GUqYXEsKPLigpFUZCGYNuB/KDIHqg4+nCSom+ZcL7MybH3Ur7hIxchDmQcOd+oKH3m30deY2CKpc4cHPkjGeV5IL9omE7IypdnOajiqx+eZY5ztg4Dq4NIf2H/SSoIMqACJf7M+PXRkRJEH3EQaBJLEM1P34yVa1qVGGrWVVMvRKXNuMezVjj6Kp6L3HDVBmsqKcMXupkXeRAAa7uSjV9j6+sLrXDXGOdENkaTRuwOS91mRz52V4QCPnpu0PSz0s5xKEmhKulz83U9Xh8x2VxpYcLhFwMvotunK9ludkpwRZzG9UFa/bzQXRUMcKk3y9wEW6NexUKhWlRGqZ8b7KAe07dEvObKvlU/PliDxVYBpWA==;YwV9rtnwy7k3MZdhQZQ8+w=="
 ---
 

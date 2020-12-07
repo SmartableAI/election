@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0FT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0FT"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/THDtZok_bGc0_mHKvExKL7EF7Gs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y4XJC3VIGROSLTRPTFWLUGCFMQ.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Could Trump be indicted? And could he pardon himself?"
+    excerpt: "As the US justice department investigates an alleged ‘bribery for pardon’ scheme at the White House, Jonathan Freedland and David Smith delve into the many possible legal issues Donald Trump could fac"
+    publishedDateTime: 2020-12-07T16:30:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2020/dec/08/could-trump-be-indicted-and-could-he-pardon-himself"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/7af114aff4550d379aaf8ab6da501bc3dec175d4/0_181_1776_1066/master/1776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7fb617a980e3a208f0bcb7fc09e12836"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "tOG0g1PHK0U6Pi4gxdszfcVQsz3O95vxeYx+3DdT2jnP+BU1BGXX9IRkD8kIE+yprKhsSXBxE/MFvjfyqvPuX3vZiJlo4Du79UlNZm3IW+yMJUw69mm2AJ5DMzHsIV3xIS+hh4KBwjIuR44Pk7WQli60ew0uqD1NtVfjXWqnpxXODyzbansSXiZanjnUaD42bLU7LuKeJuQQjf/5AjEwsLm85Bsv6Pio9ayIN6MAWZ0xcYjwtK2F116EMmirjEO9TsEAwcmmj/mTRsQ1kYwJ5IZHBGONt2eJz2xUJMNTmEhOwSudaBAUQ3pMm6dSafsKKgvTm41DFOQuX5Jtd7IAIsckuIdHN1ry6guozuhGBu6xs2mBUKjE5T+441TElI/Uz6VdDKOQp4GllDZLil0yOucNkxTQYwfUk7qZo7NyhfW8flZliT6baFzKvn2Yh2ekCp7W77Zc+9eeLoi5vUfuO38k+q4EZUBgVFDiLwO1xswawlj9GooPUMzgXSX3c2VybNygHDQy7Fc6acp5Rbiq0w==;Qq5O/A4jldpY7CMvP2V8aw=="

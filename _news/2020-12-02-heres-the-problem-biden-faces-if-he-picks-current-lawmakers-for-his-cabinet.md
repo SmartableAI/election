@@ -255,6 +255,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "The Latest: Biden names prominent allies as inaugural chairs"
+    excerpt: "President-elect Joe Biden is naming some of his most prominent allies to be co-chairs for his upcoming Inauguration"
+    publishedDateTime: 2020-12-07T15:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_97ba35b36e2949f0acd2398caec14d70_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden must decide on North Korea strategy early, says top Obama-era diplomat"
     excerpt: "Kurt Campbell says the delay in acting on Pyongyang in previous Democratic administration ‘headed off any possibility of engagement’"
     publishedDateTime: 2020-12-03T06:05:00Z

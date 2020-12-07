@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937"
 type: article
 quality: 135
-heat: 675
+heat: 695
 published: true
 
 provider:
@@ -316,6 +316,22 @@ related:
     quality: 125
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543683664&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB60PX"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "U.S. judge rejects attempt to overturn Biden's Michigan victory"
+    excerpt: "A U.S. judge on Monday rejected a bid to decertify President-elect Joe Biden's election victory in Michigan because of alleged irregularities and to have President Donald Trump declared the winner, the latest failed legal attack on the vote."
+    publishedDateTime: 2020-12-07T16:49:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28H20U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H20U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H20U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543710642&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB616Z"
         width: 817
         height: 545
         isCached: true
