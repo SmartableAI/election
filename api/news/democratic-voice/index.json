@@ -59,6 +59,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-08-every-day-was-like-a-veep-episode-the-veepiest-moments-of-the-trump-era.md",
+      "title": "‘Every Day Was Like a “Veep” Episode’: The Veepiest Moments of the Trump Era",
+      "excerpt": "They’re either taking from our show or doing their own version of it,” says the HBO show's executive producer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/magazine/2020/12/06/trump-veep-moments-435749",
+      "originalUrl": "https://www.politico.com/news/magazine/2020/12/06/trump-veep-moments-435749",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/ec/6f/237e902145f2a29daadcadc18d7c/veep-illo.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-biden-picks-retired-gen-lloyd-austin-to-be-his-secretary-of-defense.md",
       "title": "Biden picks retired Gen. Lloyd Austin to be his secretary of defense",
       "excerpt": "President-elect Joe Biden has selected retired Army Gen. Lloyd Austin, the former commander of US Central Command, to be his secretary of defense, a source familiar with the decision told CNN on Monday.\n    \n",
@@ -1636,62 +1693,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-william-barr-breaks-with-trumps-election-fantasy.md",
-      "title": "William Barr breaks with Trump's election fantasy",
-      "excerpt": "Attorney General William Barr just dealt the most credible blow to Donald Trump's lies about a stolen election, precisely because he previously often came across more as the President's personal lawyer than a neutral arbiter of justice.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3LaWOvHAMK4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3LaWOvHAMK4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 370,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200902162801-bill-barr-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/02/politics/william-barr-donald-trump-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/william-barr-donald-trump-election/index.html",
-      "publishedDateTime": "2020-12-01T23:27:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

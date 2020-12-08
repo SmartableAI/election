@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-suggests-biden-will-take-chris
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp"
 type: article
 quality: 143
-heat: 183
+heat: 203
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/06/PPHX/0c89899d-5747-45b1-a30d-0bfcc469be09-1_AP20218733705034.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Congress faces Christmas showdown with Trump over tech and defense bill"
+    excerpt: "The U.S. Congress will return to Washington during its Christmas holiday break if necessary to override President Donald Trump's threatened veto of a $740 billion defense bill, lawmakers said on Monday,"
+    publishedDateTime: 2020-12-08T02:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-congress/u-s-congress-heads-to-defense-bill-showdown-with-trump-over-big-tech-idUSKBN28H2DQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2DQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2DQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543739210&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61DA"
+        width: 816
+        height: 545
         isCached: true
   - title: "Trump teases 2024 run for president at White House Christmas party: ‘I’ll see you in four years’"
     excerpt: "President Donald Trump teased running again for president in 2024 as he hosted a holiday reception at the White House."

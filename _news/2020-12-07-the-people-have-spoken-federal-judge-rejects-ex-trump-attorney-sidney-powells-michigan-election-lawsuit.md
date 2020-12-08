@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3856164001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3856164001"
 type: article
 quality: 122
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.insider.com/5fc6705d037cbd00186131db?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Explosive thrown through Michigan man’s window, victim thinks he was targeted over Trump support"
+    excerpt: "A homeowner believes his personal politics led someone to throw an explosive through his window Saturday morning, causing extensive damage to his house. According to WDIV Detroit, the homeowner -- who has not been identified for safety reasons -- was upstairs in his home shortly after midnight when he and his girlfriend heard a pair of explosions."
+    publishedDateTime: 2020-12-08T04:59:00Z
+    webUrl: "https://www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html"
+    ampWebUrl: "https://www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 62
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7DEQV7NJM5CEVE6NFWCPVNPERI.jpg"
+        width: 665
+        height: 334
         isCached: true
 
 secured: "gUum1VE6J/5GTICqlbzUERshg1fQOWX/u1nuvKSLq4leoWeTFRa+wo/LsxH6Z19kIDttxkSKAMnT5J7ETFl0x28Je07F+Z8ykbhC2fPm8y9ND0XTiK38ww25sobwxrIw4wyaopJPI6lvHG8vK7bgK5Ctbq/LX4S3FtrsPPUpFWYdXJK/VZm7YBVJJA0PXRg7SMMZAVRzMBxk4C11tlSzPAKhPBGDqZSfDvH6UAmMjwUgREewGt/ZhCzfNcWUppfMsCZ7hWCPrFmLCIc9HL2uHHKupHyWrreG3TTa6BtP6cmGm0fkGaRSKq/bESFAvNUQGHYmIPMneptd8rhePSqA2WhIcsuAZaBMhQnTtUPSZsQ=;NFFmo2n5vqiwpngTNha0Ew=="

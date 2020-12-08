@@ -79,7 +79,23 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Explosive thrown through Michigan man’s window, victim thinks he was targeted over Trump support"
+    excerpt: "A homeowner believes his personal politics led someone to throw an explosive through his window Saturday morning, causing extensive damage to his house. According to WDIV Detroit, the homeowner -- who has not been identified for safety reasons -- was upstairs in his home shortly after midnight when he and his girlfriend heard a pair of explosions."
+    publishedDateTime: 2020-12-08T04:59:00Z
+    webUrl: "https://www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html"
+    ampWebUrl: "https://www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 62
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7DEQV7NJM5CEVE6NFWCPVNPERI.jpg"
+        width: 665
+        height: 334
+        isCached: true
 
-secured: "/My14Q5LbOKA+QzTRu6xUoOXRXAfJNR1a1k0mxc6peAiUDD6cxqWGGHoGl2RDiTUl7q8akY8/p7hFLa/2DyDs7WItmudJukn6ZyU0ikKy+LAt20aeMpzN7YtE6kbNWPnzN+AFM0H+NrYgCdUZDZKqFk32rp23DnNV/U9+5xs0fEieVZzXh12rdLkJW39DiRu0wK+dq/Gcqhn1aOxKCPksIQnBSU/RxCaa+1NcgegrXAXcZrQpPZBe5jlWP3fT75LSB4fm+BrueqXJsDWZjdCaFT2edCoAhxgtmLlRtNlPXVUDaFZpy4G2JoWXzDET3jPnbotfxzkV5A7izwNagP71pwCxU9v/yJbnq1uYXhF3mk=;SngLpSf0NHSFJKMCR9Mwew=="
+secured: "QmMu2MHwP9G9W9gdj6gpAInHzWdJDJJAIDZYmlqEjykRW29l4hCU73q0i/bfj7lXi+QPwQPe2i3pahx3WGQ7YTfSwOTH8oM5tTaX5c/7tg0HYhLWc7Fpg0EUfXpwtIMsmjP4c76xtIANVeLhn79Y9xWJ8aN2FY67Ht2Uc1Xpm9K1R/RW522g6uS3r61NbwG6bMbnGmvsMnDRvbmdaLOJKOYJLWF8wsNvwk0XWB5KRvUm0ZrvEAPxEQpBZnf7NiGJV5cXuiEZ3wX1MvqveJM5K4F0Rc3xqndPjpnSe5K+Fi0YRcIV0non4efXgKeY2hbmDoUJQCDoLLWV5XC4DhBwIPKbXyJQyKwKCfiY/FpJX2JCRVA1nA/nA1E+7LCSc8MWCBsKNmPbWt3oKIU/QxjwZpUNBqpGf6HLDIaT3feVvISAsE3zJOq0mft5bV1/3+YHQeDF/W776Zcwbk2Hqqt867W4kmQigToOM1QknD5coNeLZl4RPzS4SvpcsVDWgzF8Mc3xYctDPY+siRQezVFbMA==;Sh/SXhBxMxILLeOcHRUyaQ=="
 ---
 

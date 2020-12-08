@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Kamala Harris announces new staff picks, marking first time women will hold top 3 spots in VP's office"
-excerpt: "This will be the first time in history that women will hold the top three spots in the U.S. vice president's office."
-publishedDateTime: 2020-12-05T00:56:00Z
-originalUrl: "https://www.cnbc.com/2020/12/04/kamala-harris-appoints-all-women-to-top-3-spots-in-vp-office.html"
-webUrl: "https://www.cnbc.com/2020/12/04/kamala-harris-appoints-all-women-to-top-3-spots-in-vp-office.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/12/04/kamala-harris-appoints-all-women-to-top-3-spots-in-vp-office.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/04/kamala-harris-appoints-all-women-to-top-3-spots-in-vp-office.html"
+title: "Kamala Harris Announces New Staff Picks, Marking First Time Women Will Hold Top 3 Spots in VP's Office"
+excerpt: "This will be the first time in history that women will hold the top three spots in the U.S. vice president’s office."
+publishedDateTime: 2020-12-04T20:30:00Z
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/?amp"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/?amp"
+ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/?amp"
 type: article
-quality: 109
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106804517-16068492022020-12-01t185222z_353046037_rc2iek9vyz3q_rtrmadp_0_usa-biden.jpeg?v=1606849229"
-    width: 3500
-    height: 2389
+  - url: "https://media.nbcnewyork.com/2020/12/106804517-16068492022020-12-01t185222z_353046037_rc2iek9vyz3q_rtrmadp_0_usa-biden.jpeg?resize=1200%2C675"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -422,6 +418,6 @@ related:
       domain: omaha.com
     quality: 35
 
-secured: "OnkDPleL9YQNEl3rh3SBECg2FA50PKVhFlwQE48D3a9/b6hL3F5spyAaznodJOqmQlC/j91xdwqmt2V7QBWPfEEN3v0XglSjprfseJye+F2Nh0Kpqm46cOveT8Tl/y1FZyac0Y2P3l3N1bbmmZbJj7w5Axo6IaxUvpt5722g8H4/JztOZAeo3KFLDHwkg5swZVm+p41ySuzyuAmta9LzxVJmhkb0A/n56EzjrgiQHmSS9NPRW8dLcElIRK9+yA0CED75kKnA02CX+9NetqbduRvYzYjrWFdU9jSfb3kCe3RCFDUnZ78RLvAO3ekyW1xs9+2EORd15xX0DxxYRZoFBcYIvAxCp3Fcsxpde1WebWj3iG/e716JF9UhCYx4EIGLAB6MkokkuMDdIxGAv61nW+tjUZ8ovUWykPBPap45I4gnQ8g3gwUwAOW3cgy5oaezBb8UONelJCI5qL5NvHFQWy3kW16IoZd9COg2fWnPfYYCkHsDwzm8Xmpwzx6sSridDdXQBM6MbR8yyveYT2rI/g==;30fkPyVGXuGyCi36rcadew=="
+secured: "t/0iONjiyVtqSMMuyp/6U3+p7NCaEFSGUC/VtzDagZzYo0VDsnPXES3ianeQ888tXZyOG8cJPfhs/UCOHM7Kb8GTVRglWNdZB7tOwDcewr0d0ZFGVHjUv/8zaJEAE+bQWCtnvk/nyfn3O6HGZAdV342eotSLYCdK3BR86Dgpbic8ej0dScV4hk86a3FfUDy/qVl4dKTezWHRswaQ62HZ8kMa3hLE3YurHSdZAODQRBNP68qz8LUrWHwn8AygH0p5NkcD4cR3VG08Q6/Otl6cZVbO8rJec4BKMmaVK2hgdxRn1ifOtJJ69X3+aQIEPn4dAITN4OMwVqU/gbq4rnyqe7+RoQ7k5C1S1KXg7TU/2+I=;TpL73zQ+/QtVqXFC3KPtjQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/biden-economic-team-even
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/biden-economic-team-event/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden likely to announce defense secretary Tuesday and more Cabinet picks Friday"
+    excerpt: "President-elect Joe Biden will likely announce retired Army Gen. Lloyd Austin as his nominee for defense secretary on Tuesday, a source familiar with the matter told CNN, and is now expected to announce some domestic Cabinet picks on Friday.\n    \n"
+    publishedDateTime: 2020-12-08T03:12:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x7_ePzbNrAg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/biden-secretary-of-defense-attorney-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/biden-secretary-of-defense-attorney-general/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110163037-joe-biden-wilmington-1110-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

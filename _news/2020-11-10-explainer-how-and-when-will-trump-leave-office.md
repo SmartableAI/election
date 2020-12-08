@@ -95,6 +95,22 @@ related:
         width: 871
         height: 545
         isCached: true
+  - title: "Does Trump have power to pardon himself? It’s complicated"
+    excerpt: "President Donald Trump has declared that he has the “absolute right” to issue a pardon to himself. Yet the law is much murkier than his confidence suggests. No president has attempted to pardon himself while in office,"
+    publishedDateTime: 2020-12-08T01:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/does-trump-have-power-to-pardon-himself-its-complicated/2020/12/07/f0cea49a-38f4-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/does-trump-have-power-to-pardon-himself-its-complicated/2020/12/07/f0cea49a-38f4-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/does-trump-have-power-to-pardon-himself-its-complicated/2020/12/07/f0cea49a-38f4-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Explainer: Could Trump preemptively pardon his family — or even himself?"
     excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
     publishedDateTime: 2020-12-03T11:29:00Z

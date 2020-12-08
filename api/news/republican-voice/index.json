@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-08-gordon-chang-warns-china-is-going-to-push-a-president-biden-around-and-us-must-push-back.md",
+      "title": "Gordon Chang warns China is 'going to push a President Biden around' and US must 'push back'",
+      "excerpt": "President-elect Joe Biden will be little match for the \"incredible arrogance\" of the Chinese government, China expert Gordon Chang warned on \"Tucker Carlson Tonight.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous",
+      "originalUrl": "https://www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a52d8dc-304a-4ed1-8df0-2bc52a1f20c6/ed9014db-e768-4d7f-805d-1b28de78b272/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous.amp",
+      "publishedDateTime": "2020-12-07T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-bidens-hhs-pick-xavier-becerra-has-a-me-too-case-connection-to-kamala-harris.md",
       "title": "Biden's HHS pick Xavier Becerra has a 'Me Too' case connection to Kamala Harris",
       "excerpt": "Former top aide to Harris resigned after settling a sexual harassment case.",
@@ -1602,62 +1659,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-stern-warning-traveling-holidays.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-stern-warning-traveling-holidays.amp",
       "publishedDateTime": "2020-12-02T15:07:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-biden-dhs-pick-had-inappropriate-involvement-in-drug-traffickers-commutation-investigation.md",
-      "title": "Biden DHS pick had 'inappropriate' involvement in drug trafficker's commutation: Investigation",
-      "excerpt": "Alejandro Mayorkas has admitted to making a mistake in weighing in on the case.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/i01zTadlZjs/biden-dhs-pick-congressional-investigation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/i01zTadlZjs/biden-dhs-pick-congressional-investigation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49b0b770-d1a5-4b49-9a85-1c15f2b095e4/8bd1ef1e-2fd7-4e4e-943b-e043a0b90b63/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-dhs-pick-congressional-investigation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-pick-congressional-investigation.amp",
-      "publishedDateTime": "2020-12-02T14:21:02-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

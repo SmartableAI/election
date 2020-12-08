@@ -505,6 +505,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Failing to convince Gov. Kemp to flip election, Trump vows to 'win back the White House' at Georgia rally"
+    excerpt: "In a phone call, Gov. Kemp refused Trump's request for a legislative session to appoint a pro-Trump slate to the Electoral College, reports said."
+    publishedDateTime: 2020-12-07T23:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/05/trump-georgia-brian-kemp-rejects-changing-election/3839689001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3839689001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3839689001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/dcc9bd75-5c3a-46f6-a2d2-21dcf4f62331-GTY_1289641035.jpg?auto=webp&crop=3205,1803,x0,y219&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump campaign, GOP raised at least $170 million since Election Day pushing baseless election fraud claims"
     excerpt: "Since Election Day, President Donald Trump’s campaign has raised over $170 million -- much of that money has gone to retire campaign debt and to fund Trump's new PAC."
     publishedDateTime: 2020-12-01T23:49:00Z

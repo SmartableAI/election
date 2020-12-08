@@ -507,6 +507,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Failing to convince Gov. Kemp to flip election, Trump vows to 'win back the White House' at Georgia rally"
+    excerpt: "In a phone call, Gov. Kemp refused Trump's request for a legislative session to appoint a pro-Trump slate to the Electoral College, reports said."
+    publishedDateTime: 2020-12-07T23:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/05/trump-georgia-brian-kemp-rejects-changing-election/3839689001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3839689001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3839689001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/dcc9bd75-5c3a-46f6-a2d2-21dcf4f62331-GTY_1289641035.jpg?auto=webp&crop=3205,1803,x0,y219&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump campaign, GOP raised at least $170 million since Election Day pushing baseless election fraud claims"
     excerpt: "Since Election Day, President Donald Trump’s campaign has raised over $170 million -- much of that money has gone to retire campaign debt and to fund Trump's new PAC."
     publishedDateTime: 2020-12-01T23:49:00Z
@@ -1075,6 +1091,6 @@ related:
         height: 630
         isCached: true
 
-secured: "UZfv1gi/mX1Ldo1X9IcAMJA3+06MXZ1ZF2KupSDT3MBVotBpEOVopGkjsE+tl3tvgFvAXk0pC6AML+MdmPPo8J+vOpLQATQqbUyumXXQ1O7QuWjLqOHw3cPwiSgIL7D1/WIsmeH+eTjChOeyn8+VyxAvPgGVznTo/F0SvqBi/Ar+ZfFNnF4CzIYMvyjaz8X+kydmtnmV+EZMHiT1tBJJR4Xyrmr2ayf1JygpysOXPuZ/EI39anpFpK8RifsLL052gHtAyV6nbW08p355SM+0kuKkg65EtxCXarZ46vfqtV2RFBhRtx9h8smwmJIRwfF8grHfwIFHPmLQHmoPfe8FNwgWgtBHv5RRL8UvNSVPEDg=;QtboZXnBnhKaJh1OGxQe+w=="
+secured: "eZ66tEmBSxdB1yYxItk5AV59E9lJ6G/leHWl2pWrbqmZnsgKe5+VrgdWwDwwGjzZ8BZvbmQmvdmVMg/EyXvKgaNrxNT82ee3pQ3qWGrQsQUw83Ucv5oLI29bbdkS8ZJju7w6RVKmHmX0CU+odqiKNb6vBZVNW6PiYGTu4bNg0PITlVtsypUyPIvoHCTm7U/wwUzf0EYV6s3bdT24F80PvezHvHgj3Z7HuqI6uz+ehenY2nOGSDNVQl8Rqk/eIX108YrxD4HC2f2ZtqwPxX7eY9PdVFkDCKZWX4NgeF9wmCq+5TdHoMv3np0Dh1iHlCrnLl2eEhsERBe7GGc/duEbVX+Zs2rYBGMndQWPf8yHUD6WonE0JiMMZ4xv+cuAyx7vxtnUcHHzAldmevEPquzv40gdYfaP/JTzt6+i2d7J33dKQReRJgXnSLN9RYx3foRLRK2XWZXzr4QGFq/4fVD3/8J+vOU1ijPU2yGwtXaEAcUbI8z3DpijmbtLB0ILJNyj1WU9P5ZUuk1Q6DzhbGOSZw==;4SebXtCM+2ODrTle0aLQeg=="
 ---
 

@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Explosive thrown through Michigan man’s window, victim thinks he was targeted over Trump support"
+    excerpt: "A homeowner believes his personal politics led someone to throw an explosive through his window Saturday morning, causing extensive damage to his house. According to WDIV Detroit, the homeowner -- who has not been identified for safety reasons -- was upstairs in his home shortly after midnight when he and his girlfriend heard a pair of explosions."
+    publishedDateTime: 2020-12-08T04:59:00Z
+    webUrl: "https://www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html"
+    ampWebUrl: "https://www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 62
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7DEQV7NJM5CEVE6NFWCPVNPERI.jpg"
+        width: 665
+        height: 334
+        isCached: true
 
 secured: "4xGqOldSMe/bda6csTUSP2gXo+36+WKNyuFpC5fio9lIjBm095zzBmmvYUt48gqf3OawO+zqbIOUS2ykl2Faw8glBqWUJ7PF1LcV8mUyGVh1ER9ACIKp1iJc4IN9C/SwJetDdZxdncfcmXYmSGEfhzfIi5KncwKn8tFFM6I+4oEy/dSfAgb6RAm/tXOyhuGF2Cz8aVyHmRjeKnudJ6RiwUQ8Nrh+8iFpax8C5UQRTl8XAzrcX1gnRfYZcJF7Dv9v812HPMOuN3LhEDra7ToSZoHGPRK0YCmh5PI/wNjhclz7eYMtKLo9CRSpNbFFsN9Rb9tmP5IHXEyjB3bkhzdS87p44aK6D3cJOgQ4rtlESVw=;/VOMBKXIMcWiOtb8T0Aeug=="
 ---
