@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1GM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1GM"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -167,6 +167,17 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 105
+  - title: "Biden has chosen congresswoman Fudge for HUD secretary -Politico"
+    excerpt: "U.S. President-elect Joe Biden has selected Democratic Representative Marcia Fudge to be secretary of housing and urban development, Politico reported on Tuesday, citing two people with knowledge of the decision."
+    publishedDateTime: 2020-12-08T22:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge-idUSW1N2I903A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2I903A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2I903A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 105
   - title: "Joe Biden officially secures enough electors to become president after California certifies his victory in the state"
     excerpt: "California certified its presidential election Friday, officially handing Biden the Electoral College majority needed to win the White House."

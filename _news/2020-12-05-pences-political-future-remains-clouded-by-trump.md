@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html"
 type: article
 quality: 200
-heat: 2060
+heat: 2080
 published: true
 
 provider:
@@ -1471,6 +1471,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/71/3c/a5c47fc844b49d2cd97bbb83d2f9/ap20128637866819-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump amps up pandemic politics at ‘vaccine summit’"
+    excerpt: "Trump’s overly optimistic “I told you so” predictions versus Joe Biden’s “we’ll get there, but it will be tough” message."
+    publishedDateTime: 2020-12-08T22:02:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/12/08/trump-amps-up-pandemic-politics-at-vaccine-summit-1343728"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/c2/1d/4732b5ad4c8db2fa4531d553089e/201208-trump-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Supreme Court rejects Pennsylvania Republicans' attempt to block Biden victory"
+    excerpt: "The Supreme Court has denied a request from Pennsylvania Republicans to block certification of Pennsylvania's election results, delivering a near fatal blow to the GOP's long-shot bid to invalidate President-elect Joe Biden's victory.\n    \n"
+    publishedDateTime: 2020-12-08T22:23:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kr91OQD-Fc4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/supreme-court-pennsylvania-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/supreme-court-pennsylvania-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126010811-supreme-court-111020-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to nominate Dr. Vivek Murthy to reprise role as US surgeon general"
     excerpt: "As he builds out his health team, President-elect Joe Biden is expected to nominate Dr. Vivek Murthy as US Surgeon General, two sources familiar with the matter confirmed to CNN, returning to the role he served in during the Obama administration.\n    \n"
     publishedDateTime: 2020-12-07T02:54:38Z
@@ -351,6 +367,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Presidential Transition Live Updates: Biden Sets Ambitious Pandemic Response Goals for First 100 Days"
+    excerpt: "President-elect Joe Biden introduced his health team at an event in Wilmington, Del. Tuesday is the safe harbor deadline, when all state-level election challenges are supposed to be completed."
+    publishedDateTime: 2020-12-08T16:53:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/08/us/joe-biden-donald-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/08/us/joe-biden-donald-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/08/us/joe-biden-donald-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 120
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/08/us/politics/08dc-biden-hud/merlin_180259026_2bec246a-6d52-414e-8c87-424cbc560e38-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Will the Biden administration really look like America?"
     excerpt: "As candidates, Joe Biden and Kamala Harris promised an administration that “looks like America.” But they’re facing increasing pressure from interest groups that worry Biden and Harris won’t follow through and deliver a historically diverse Cabinet and staff."
     publishedDateTime: 2020-12-04T17:30:00Z
@@ -378,6 +410,20 @@ related:
       - url: "https://static.politico.com/1b/12/b3e1e2e043c1bf3e71ac53922be2/ap20008822339217-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden pledges to vaccinate tens of millions, reopen schools in first 100 days"
+    excerpt: "The new pledges came as Biden introduced his picks to lead key health agencies and coordinate the federal response to a pandemic that's infected almost 15 million people in the U.S."
+    publishedDateTime: 2020-12-08T21:16:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/08/biden-pledges-to-vaccinate-tens-of-millions-reopen-schools-in-first-100-days-1343688"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/35/f1/fb5a27c946b9b98ed967f5a49a3f/20201208-joe-biden-ap-773.jpg"
+        width: 4425
+        height: 2950
         isCached: true
 
 secured: "5Yl5ZRcXzZaFjA8x8Omv6AvWNRFRa0i0awzIB2WQE/CqPV2ZG0ChR5j4nRUREOhLZiSZ0FVKlK0HJMZRkuCS6OEdPMJRX4Gie/4SwN5LmQtg71sxFIkVgq5Vf7+75dLp+BtkfQ2XVhW8vGNB+bGAqwnbwkGA83lHxI+MFydJJNq9QMZU7wrQNwMIfRriwlNRHwjwmDqqoF3aTUEfB3HfNx0So7684zfZHdYct5nCRUz7IFMhBnfP2RLgUCxpySaVYiIZt8Fysz3Yv1lFviDVFTf9Umb6egs51X1rBpPp3W3uMW9UHI4cSOrQoia/CUkuCQaN4JPSzg5pUkq/fvrih86aeEfmyHJMHIvhXLcK7Ak=;r3Qi+btMOi+LTI51h5cuEA=="

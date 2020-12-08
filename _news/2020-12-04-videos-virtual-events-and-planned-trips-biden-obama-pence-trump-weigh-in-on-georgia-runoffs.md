@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-run
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp"
 type: article
 quality: 202
-heat: 1202
+heat: 1242
 published: true
 
 provider:
@@ -400,6 +400,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Jr. rips 'radical left' in Georgia Senate runoff TV campaign for super PAC"
+    excerpt: "Trump Jr. will appear in ads beginning Thursday on behalf of the Save the US Senate PAC, a group founded by his longtime aides Taylor Budowich and Andy Surabian."
+    publishedDateTime: 2020-12-08T21:52:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hEXPLIM7q_o/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5df23335-ac07-46ed-9efb-3e51cd2864e9/c872150b-28b4-470c-adf7-2872970f6b35/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Trump to campaign in Georgia for GOP senators ahead of January runoff"
     excerpt: "President Trump said Thursday that he plans to visit Georgia to campaign for incumbent Republican Sens. Kelly Loeffler and David Perdue ahead of their Jan. 5 runoff elections. "
     publishedDateTime: 2020-11-27T12:15:48Z
@@ -777,6 +793,22 @@ related:
     quality: 130
     images:
       - url: "http://m.wsj.net/video/20201127/112720trumpleavev9/112720trumpleavev9_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump Jr. rips 'radical left' in Georgia Senate runoff TV campaign for super PAC"
+    excerpt: "Trump Jr. will appear in ads beginning Thursday on behalf of the Save the US Senate PAC, a group founded by his longtime aides Taylor Budowich and Andy Surabian."
+    publishedDateTime: 2020-12-08T22:05:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5df23335-ac07-46ed-9efb-3e51cd2864e9/c872150b-28b4-470c-adf7-2872970f6b35/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

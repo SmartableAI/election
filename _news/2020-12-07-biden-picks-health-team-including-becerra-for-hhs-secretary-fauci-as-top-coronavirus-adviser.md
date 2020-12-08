@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Sen. Kennedy predicts 'tough time with confirmation' for Biden HHS pick Becerra"
+    excerpt: "President-elect Joe Biden's nomination of California Attorney General Xavier Becerra to be the next health and human services secretary doesn't make sense to Sen. John Kennedy, R-La."
+    publishedDateTime: 2020-12-08T21:19:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IqLu_C7SebQ/biden-hhs-xavier-becerra-cabinet-pick-louisiana-senator-kennedy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-xavier-becerra-cabinet-pick-louisiana-senator-kennedy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-xavier-becerra-cabinet-pick-louisiana-senator-kennedy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden's HHS pick Becerra sued the Trump admin more than 100 times as California AG: Here are some of his cases"
     excerpt: "California Attorney General Xavier Becerra, who President-elect Biden announced Monday will be his nominee for Health and Human Services secretary, has been one of the most litigious attorneys general against the president in recent years, actively pursuing progressive policies in the courts more than"
     publishedDateTime: 2020-12-07T18:50:04Z
@@ -108,6 +124,22 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21e1e348-1ec2-479b-b481-cdd70f49ab47/4c923316-a2af-45f8-a6c4-18f5b1cb409a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden botches HHS pick Becerra's name, calls nominee 'Secretary of Health and Education Services'"
+    excerpt: "President-elect Joe Biden did not make the smoothest introduction of Health and Human Services (HHS) Secretary nominee Xavier Becerra during a Tuesday event unveiling Biden's health and coronavirus team."
+    publishedDateTime: 2020-12-08T22:26:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BhJUjN8zHmw/biden-hhs-xavier-becerra-health-education-services"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-xavier-becerra-health-education-services.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-xavier-becerra-health-education-services.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

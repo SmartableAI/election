@@ -158,6 +158,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump signs executive order prioritizing Covid vaccine for Americans"
+    excerpt: "President Trump signs an executive order that prioritizes Americans' access to the Covid-19 vaccines before the U.S. potentially begins helping the country."
+    publishedDateTime: 2020-12-08T22:16:00Z
+    webUrl: "https://www.nbcnews.com/video/trump-signs-executive-order-prioritizing-covid-vaccine-for-americans-97358917758"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97358917758"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97358917758"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1290144909.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Federal watchdog finds 'substantial likelihood of wrongdoing' by Trump appointees overseeing Voice of America"
     excerpt: "The federal watchdog's findings mark the latest rebuke of the Trump-appointed CEO of the U.S. Agency for Global Media, Michael Pack."
     publishedDateTime: 2020-12-03T18:24:00Z

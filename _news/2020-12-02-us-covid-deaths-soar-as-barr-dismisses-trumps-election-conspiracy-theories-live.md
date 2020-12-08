@@ -399,6 +399,22 @@ related:
         width: 823
         height: 545
         isCached: true
+  - title: "Trump lawyer Giuliani, suffering from COVID-19, to attend virtual hearing -source"
+    excerpt: "President Donald Trump's lawyer Rudy Giuliani, who was recently hospitalized with COVID-19, will attend a virtual hearing this week with Georgia lawmakers over Trump's flagging effort to overturn his U."
+    publishedDateTime: 2020-12-08T22:44:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28I2I4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2I4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2I4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543875712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71F9"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump is said to be livid at Barr, with one official suggesting termination possible"
     excerpt: "President Trump remained livid Wednesday at Attorney General William P. Barr, with one senior administration official indicating there was a chance Barr could be fired — not just for his public comments undercutting Trump’s unfounded claims of election-shifting fraud,"
     publishedDateTime: 2020-12-03T00:22:00Z

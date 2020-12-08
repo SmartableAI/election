@@ -127,22 +127,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Texas asks U.S. Supreme Court to help Trump upend election"
-    excerpt: "The state of Texas, aiming to help President Donald Trump upend the results of the U.S. election, said on Tuesday it has filed suit against the states of Georgia, Michigan, Pennsylvania and Wisconsin at the Supreme Court,"
-    publishedDateTime: 2020-12-08T20:26:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-lawsuit-texas/texas-asks-u-s-supreme-court-to-help-trump-upend-election-idUSKBN28I27M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I27M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I27M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543839449&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB719B"
-        width: 855
-        height: 545
-        isCached: true
   - title: "At Georgia rally, Trump spouts election falsehoods, amplifies old grievances"
     excerpt: "Trump falsely proclaimed himself the victor of the presidential race at Saturday's rally, his first since losing the election to Joe Biden."
     publishedDateTime: 2020-12-06T02:34:00Z
@@ -494,6 +478,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543566578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB40L4"
         width: 817
         height: 545
+        isCached: true
+  - title: "GOP congressman wants to condemn colleagues who call on Trump to concede"
+    excerpt: "Rep. Alex Mooney (R-W.Va.) proposed the resolution during a House Republican Conference Tuesday, reflecting the GOP fealty to the lame-duck president."
+    publishedDateTime: 2020-12-08T22:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/republicans-trump-house-election/2020/12/08/bb792018-396c-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/republicans-trump-house-election/2020/12/08/bb792018-396c-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/republicans-trump-house-election/2020/12/08/bb792018-396c-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AC3JHLDZN4I6PCBZ5REOYTFOEU.jpg&w=1440"
+        width: 1440
+        height: 1122
         isCached: true
   - title: "Trump's false fraud claims could threaten GOP hopes in Georgia Senate races"
     excerpt: "The president has pledged to devote \"125%\" of his energy to the election he lost, despite the raging coronavirus pandemic."

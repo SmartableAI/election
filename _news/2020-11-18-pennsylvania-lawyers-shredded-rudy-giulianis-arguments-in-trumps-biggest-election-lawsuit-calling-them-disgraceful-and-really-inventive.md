@@ -63,6 +63,22 @@ related:
         width: 846
         height: 545
         isCached: true
+  - title: "U.S. Supreme Court rejects Republican challenge to Biden's Pennsylvania win"
+    excerpt: "The U.S. Supreme Court on Tuesday handed a defeat to Republicans seeking to throw out up to 2.5 million mail-in ballots in Pennsylvania as they try to undo President Donald Trump's election loss, with the justices refusing to block the state from formalizing"
+    publishedDateTime: 2020-12-08T22:24:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28I35L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I35L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I35L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543876782&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71T6"
+        width: 828
+        height: 545
+        isCached: true
   - title: "Computer repairman who claimed he gave Hunter Biden data to Giuliani closes shop as laptop saga gets stranger"
     excerpt: "Computer repairman John Paul Mac Isaac, who gave a copy of the laptop to Rudy Giuliani, shuttered his Delaware store and a neighbor said he left town."
     publishedDateTime: 2020-11-25T00:43:00Z

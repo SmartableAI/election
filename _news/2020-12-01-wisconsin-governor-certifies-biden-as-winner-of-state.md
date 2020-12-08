@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump keeps losing the 2020 election over and over and over"
+    excerpt: "Trump is, of course, saying that he twice won election as president of the United States. That total includes his victory in 2016, a win to which one could certainly append the as"
+    publishedDateTime: 2020-12-08T22:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/08/trump-keeps-losing-2020-election-over-over-over/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/08/trump-keeps-losing-2020-election-over-over-over/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/08/trump-keeps-losing-2020-election-over-over-over/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7A6ZKEBZFMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 926
+        isCached: true
   - title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
     excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
     publishedDateTime: 2020-12-04T06:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6484311002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002"
 type: article
 quality: 140
-heat: 920
+heat: 940
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Texas asks U.S. Supreme Court to help Trump upend election"
+    excerpt: "The state of Texas, aiming to help President Donald Trump upend the results of the U.S. election, said on Tuesday it has sued Georgia, Michigan, Pennsylvania and Wisconsin at the Supreme Court, calling changes those states made to election procedures amid the"
+    publishedDateTime: 2020-12-08T22:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-lawsuit-texas/texas-asks-u-s-supreme-court-to-help-trump-upend-election-in-long-shot-lawsuit-idUSKBN28I27I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I27I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I27I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543850858&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB7199"
+        width: 855
+        height: 545
+        isCached: true
   - title: "As lawyers keep pushing Trump election challenges, calls for sanctions mount"
     excerpt: "As President Donald Trump and his allies continue to bring legal challenges in an effort to overturn the election, some election officials are starting to cry foul."
     publishedDateTime: 2020-12-05T10:16:00Z

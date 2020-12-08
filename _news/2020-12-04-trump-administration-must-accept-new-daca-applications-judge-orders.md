@@ -141,6 +141,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump signs executive order prioritizing Covid vaccine for Americans"
+    excerpt: "President Trump signs an executive order that prioritizes Americans' access to the Covid-19 vaccines before the U.S. potentially begins helping the country."
+    publishedDateTime: 2020-12-08T22:16:00Z
+    webUrl: "https://www.nbcnews.com/video/trump-signs-executive-order-prioritizing-covid-vaccine-for-americans-97358917758"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97358917758"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97358917758"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1290144909.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump admin has yet to launch promised effort to get Americans to trust Covid-19 vaccines"
     excerpt: "At least 15 states told NBC News they are planning their own extensive communications campaigns to encourage the public to take the shot."
     publishedDateTime: 2020-12-08T14:03:00Z

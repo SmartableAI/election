@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Texas asks U.S. Supreme Court to help Trump upend election"
+    excerpt: "The state of Texas, aiming to help President Donald Trump upend the results of the U.S. election, said on Tuesday it has sued Georgia, Michigan, Pennsylvania and Wisconsin at the Supreme Court, calling changes those states made to election procedures amid the"
+    publishedDateTime: 2020-12-08T22:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-lawsuit-texas/texas-asks-u-s-supreme-court-to-help-trump-upend-election-in-long-shot-lawsuit-idUSKBN28I27I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I27I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I27I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543850858&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB7199"
+        width: 855
+        height: 545
+        isCached: true
   - title: "Election officials face threats, intimidation as Trump pushes false fraud claims"
     excerpt: "Jocelyn Benson, Michigan's top election official, had just finished hanging Christmas decorations with her young son on Saturday night when a crowd demanding November's presidential election result be reversed gathered outside her home to denounce her as a \"traitor\""
     publishedDateTime: 2020-12-08T11:35:00Z

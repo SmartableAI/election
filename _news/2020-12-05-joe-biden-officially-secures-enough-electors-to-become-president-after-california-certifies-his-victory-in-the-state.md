@@ -184,6 +184,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden has chosen congresswoman Fudge for HUD secretary -Politico"
+    excerpt: "U.S. President-elect Joe Biden has selected Democratic Representative Marcia Fudge to be secretary of housing and urban development, Politico reported on Tuesday, citing two people with knowledge of the decision."
+    publishedDateTime: 2020-12-08T22:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge-idUSW1N2I903A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2I903A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2I903A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Joe Biden to name Gen. Lloyd Austin as defense secretary, reports say"
     excerpt: "Austin, a retired four-star general from Alabama, would be the first Black secretary of defense should he be confirmed by the Senate."
     publishedDateTime: 2020-12-07T23:36:00Z

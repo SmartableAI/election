@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's delay in picking a defense secretary opens top contenders to uncomfortable scrutiny "
+    excerpt: "President-elect Joe Biden enters the month of December with a question still looming over one of the most critical decisions in his Cabinet: Who will he nominate to be Secretary of Defense?\n    \n"
+    publishedDateTime: 2020-11-30T22:09:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3n0UEFSHgpo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/30/politics/biden-secretary-of-defense-pick-scrutiny/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/30/politics/biden-secretary-of-defense-pick-scrutiny/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130145456-biden-1125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "KJZUhEIpJixUph9LZzWwVg/YoF8G9WdrRLW7UnUqLoQwiTi1INI+viqTf7SN7MmUa3LVbx7cDBNw60my1Aby9lWuOF+jnuj43J5lQulK/JgA1caophEWNrD/GKskdGnoa6TYo2NqHg21+z5JimPbSEPoW2qOZfzRe77pE0Aawix7Y+gUvzLBRlHf+XZxY58leINxZmcdU5X4px7ZyqhNO3cw2Ud7WK0d1FRyipWJ+xGZZ+GhZ5nLvXGXKXYQ8ff6MvlLQiTUxVsdLTOWgU8cgDcTfJiYZWGVZGDW7EZBOBdyjoVthTAR/QjoF41E8cOXW85jx3IyaX84fXsaZWLr4Z+e05oPlkh4Q/m1K3Y9Ex8GkGWNbC4I9F7zfLfpFKYNncvc8WrTewuXSnia8cR5LPOrHuQKQ7E81VGaVdQ3ju70nyRtQF3aKbJMc7lm6jzAVnw/w3X0lbkVXKJ8DY0Q/Z6hZo8yS4D47d0/vxMK+SIGKzY5Ve3jVx/GxrX39DzQUkO+7Vn9QcYNTKp1NWvy7Q==;Ta7rb3AoUQ/QZCmMjnMP+w=="
 ---

@@ -1488,6 +1488,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump amps up pandemic politics at ‘vaccine summit’"
+    excerpt: "Trump’s overly optimistic “I told you so” predictions versus Joe Biden’s “we’ll get there, but it will be tough” message."
+    publishedDateTime: 2020-12-08T22:02:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/12/08/trump-amps-up-pandemic-politics-at-vaccine-summit-1343728"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/c2/1d/4732b5ad4c8db2fa4531d553089e/201208-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "DeSantis tells Trump to 'fight on,' takes aim at science and has beef with John Roberts"
     excerpt: "Ron DeSantis on Thursday told a private gathering of political donors and corporate executives that he has urged President Donald Trump to “fight on\" to overturn November’s election results. In wide-ranging remarks made in person behind closed doors at a meeting of the Associated Industries of Florida,"
     publishedDateTime: 2020-12-03T23:16:00Z

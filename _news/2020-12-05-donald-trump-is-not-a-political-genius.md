@@ -234,6 +234,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Intensifies Threat to Veto Defense Authorization Bill"
+    excerpt: "Republicans and Democrats in Congress have indicated in recent days that they intend to pass the bipartisan $740.5 billion defense-policy bill over President Trump’s objections to its provisions."
+    publishedDateTime: 2020-12-08T22:46:00Z
+    webUrl: "https://www.wsj.com/articles/trump-intensifies-threat-to-veto-defense-authorization-bill-11607442143"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-intensifies-threat-to-veto-defense-authorization-bill-11607442143"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-intensifies-threat-to-veto-defense-authorization-bill-11607442143"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-269907/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Donald Trump Hates Democracy"
     excerpt: "President Trump was all frauded out Sunday morning on Fox News: This election was a total fraud. And: This is the greatest fraud in the history of our country, from an electoral standpoint. And: This is a fraud against the American people."
     publishedDateTime: 2020-12-02T11:41:00Z

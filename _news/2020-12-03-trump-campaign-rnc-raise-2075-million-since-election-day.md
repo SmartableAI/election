@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-mi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp"
 type: article
 quality: 190
-heat: 470
+heat: 490
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-267382/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Intensifies Threat to Veto Defense Authorization Bill"
+    excerpt: "Republicans and Democrats in Congress have indicated in recent days that they intend to pass the bipartisan $740.5 billion defense-policy bill over President Trump’s objections to its provisions."
+    publishedDateTime: 2020-12-08T22:46:00Z
+    webUrl: "https://www.wsj.com/articles/trump-intensifies-threat-to-veto-defense-authorization-bill-11607442143"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-intensifies-threat-to-veto-defense-authorization-bill-11607442143"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-intensifies-threat-to-veto-defense-authorization-bill-11607442143"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-269907/social"
         width: 1280
         height: 640
         isCached: true

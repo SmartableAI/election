@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250205"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250205"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why ‘safe harbor day’ is bad news for Trump"
+    excerpt: "Under federal law, states must certify their election results and resolve any leftover legal issues by December 8. If they do, Congress must recognize their electors. The attorney general of Texas said his state is asking the Supreme Court to delay the electoral college meeting,"
+    publishedDateTime: 2020-12-08T22:35:00Z
+    webUrl: "https://www.nbcnews.com/now/video/why-safe-harbor-day-is-bad-news-for-trump-97357381564"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97357381564"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97357381564"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_safeharbdead_201208_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Former Israeli space security chief says extraterrestrials exist, and Trump knows about it"
     excerpt: "\"The Unidentified Flying Objects have asked not to publish that they are here, humanity is not ready,\" Haim Eshed said."
     publishedDateTime: 2020-12-08T13:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B685"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B685"
 type: article
 quality: 139
-heat: 839
+heat: 859
 published: true
 
 provider:
@@ -397,6 +397,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543618615&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50IE"
         width: 823
+        height: 545
+        isCached: true
+  - title: "Trump lawyer Giuliani, suffering from COVID-19, to attend virtual hearing -source"
+    excerpt: "President Donald Trump's lawyer Rudy Giuliani, who was recently hospitalized with COVID-19, will attend a virtual hearing this week with Georgia lawmakers over Trump's flagging effort to overturn his U."
+    publishedDateTime: 2020-12-08T22:44:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28I2I4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2I4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2I4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543875712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71F9"
+        width: 817
         height: 545
         isCached: true
   - title: "Trump is said to be livid at Barr, with one official suggesting termination possible"

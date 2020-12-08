@@ -415,6 +415,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Jr. rips 'radical left' in Georgia Senate runoff TV campaign for super PAC"
+    excerpt: "Trump Jr. will appear in ads beginning Thursday on behalf of the Save the US Senate PAC, a group founded by his longtime aides Taylor Budowich and Andy Surabian."
+    publishedDateTime: 2020-12-08T21:52:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hEXPLIM7q_o/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5df23335-ac07-46ed-9efb-3e51cd2864e9/c872150b-28b4-470c-adf7-2872970f6b35/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Executive at nonprofit that helped in Georgia audit has history of anti-Trump tweets"
     excerpt: "The executive director of a San Francisco-based nonprofit that was tapped by Georgia’s secretary of state to assist in the state’s audit has a history of anti-Trump tweets, but has insisted that he does not “bring them to work.”"
     publishedDateTime: 2020-12-01T16:04:19Z
@@ -776,6 +792,22 @@ related:
     quality: 130
     images:
       - url: "http://m.wsj.net/video/20201127/112720trumpleavev9/112720trumpleavev9_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump Jr. rips 'radical left' in Georgia Senate runoff TV campaign for super PAC"
+    excerpt: "Trump Jr. will appear in ads beginning Thursday on behalf of the Save the US Senate PAC, a group founded by his longtime aides Taylor Budowich and Andy Surabian."
+    publishedDateTime: 2020-12-08T22:05:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-rips-radical-left-in-georgia-senate-runoff-tv-campaign-for-super-pac.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5df23335-ac07-46ed-9efb-3e51cd2864e9/c872150b-28b4-470c-adf7-2872970f6b35/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
