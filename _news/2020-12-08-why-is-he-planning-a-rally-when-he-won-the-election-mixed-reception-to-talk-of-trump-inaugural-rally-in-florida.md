@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6481693002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6481693002"
 type: article
 quality: 118
-heat: -1
-published: false
+heat: 118
+published: true
 
 provider:
   name: USA Today
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Loeffler dodges Warnock’s question: ‘Did Donald Trump lose the election?’"
-    excerpt: "Incumbent Sen. Kelly Loeffler (R) faced off against the Rev. Raphael Warnock (D) at a debate in Atlanta on Dec. 6."
-    publishedDateTime: 2020-12-07T01:35:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/loeffler-dodges-warnocks-question-did-donald-trump-lose-the-election/2020/12/06/a2533adf-3601-4a44-bf0f-2de198de53e2_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/resizer/z5BjkhatT6rV4BvuhVhnD2X36i4=/400x225/d1i4t8bqe7zgj6.cloudfront.net/12-07-2020/t_f790417729ee4886a5bc30d0dc8fb6cd_name_loeffler_scaled.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "1SUWqTf9N/OwapDPE7VMiBBg+hrCPKUrifuMr3wleCM+xZJYYx+HEngMMKlKxq8ThhIUHwnOCwc6SuBDjhWpBXAR+RQ5h0UYWP80M4i8vnYB/k2r4eIBHW/ne3qM8ORjm0tTCCWb79BBEnC0JxFBAlw0/inL5W/cH8cl9XOVzHExOsfjnoUQJ/OXbAMkBbPo4AW9jKue/UgYzjbyfn6ML3S+3x4POYyOyKar2gVujhvu8H14zzP403TRo/OhQNBf2BB8eOnhql9rO8Y2YLksb+e2jikooZJ2QKaICHlesa7oXFsvdh6xy7iotEGM0K7K++8jeGFx4Aylw4aZLmOWs8Zvrd3nKVN2iFq1SkcPmsI=;8I6eEkYMA0I/4ZTOvWN4iA=="
 ---

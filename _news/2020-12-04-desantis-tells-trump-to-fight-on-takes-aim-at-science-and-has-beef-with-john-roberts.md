@@ -174,6 +174,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump appeals to legislatures and Supreme Court in attempt to overturn the election he lost"
+    excerpt: "President Donald Trump made an explicit appeal to lawmakers and the US Supreme Court on Tuesday to help him overturn the results of an election he lost, his latest and most vocal attempt to cling to power even as his presidency comes to an end.\n    \n"
+    publishedDateTime: 2020-12-08T20:04:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/08Vr8NAEWwo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/trump-election-legislatures-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/trump-election-legislatures-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208144451-trump-warp-speed-1208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia election official pleads with Trump and Republicans to 'stop inciting acts of violence'"
     excerpt: "A Georgia election official on Tuesday condemned threats of physical violence and intimidation against election workers and officials, pleading with President Donald Trump to denounce the threats and urging both of the state's Republican senators to intervene.\n    \n"
     publishedDateTime: 2020-12-02T01:24:59Z
@@ -459,6 +475,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016115324-20201016-election-day-to-inauguration-illustration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House to vote on defense bill as Trump urges GOP to oppose it "
+    excerpt: "President Donald Trump's threat to veto a sweeping defense bill that is set for a vote in the House of Representatives on Tuesday is sharply dividing Republican lawmakers, forcing them to choose between loyalty to the President and legislation that sets defense policy for the country and creating uncertainty"
+    publishedDateTime: 2020-12-08T19:31:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rRpTINygfu0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/defense-bill-house-vote-trump-veto-threat/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/defense-bill-house-vote-trump-veto-threat/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1166,6 +1198,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump lawyer who attended White House party tests positive for Covid"
+    excerpt: "Jenna Ellis, who has worked alongside Rudy Giuliani on behalf of the Trump campaign to file lawsuits in battleground states, has tested positive for Covid-19."
+    publishedDateTime: 2020-12-08T19:53:00Z
+    webUrl: "https://www.politico.com/news/2020/12/08/trump-lawyer-jenna-ellis-covid-443688"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/08/trump-lawyer-jenna-ellis-covid-443688"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/08/trump-lawyer-jenna-ellis-covid-443688"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/cc/9a/baf2968c413c83bc394a7f0c7692/201208-ellis-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
     publishedDateTime: 2020-12-01T16:55:00Z
@@ -1423,6 +1471,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/b8/00/e7b0b9ce48ad989c714ef023d9c8/gettyimages-1289939114-1-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Judge tosses criminal charge against Flynn following Trump pardon"
+    excerpt: "A federal judge has closed the four-year-old criminal case against former national security adviser Michael Flynn, acknowledging the pardon that President Donald Trump issued last week to the only Trump administration official charged in special counsel Robert Mueller’s investigation of alleged ties between the Trump campaign and Russia."
+    publishedDateTime: 2020-12-08T19:48:00Z
+    webUrl: "https://www.politico.com/news/2020/12/08/flynn-criminal-charge-trump-pardon-443685"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/71/3c/a5c47fc844b49d2cd97bbb83d2f9/ap20128637866819-1.jpg"
         width: 1160
         height: 773
         isCached: true

@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fired election security official sues Trump lawyer over threats"
+    excerpt: "The U.S. election and cybersecurity official who was fired last month by President Donald Trump filed a lawsuit Tuesday over threatening remarks by a lawyer for the president that prompted a wave of death threats against him."
+    publishedDateTime: 2020-12-08T20:51:00Z
+    webUrl: "https://www.cbsnews.com/news/christopher-krebs-sues-trump-lawyer-joseph-digenova-over-threats/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/christopher-krebs-sues-trump-lawyer-joseph-digenova-over-threats/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/christopher-krebs-sues-trump-lawyer-joseph-digenova-over-threats/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/25/a6db776e-2061-4236-89c1-76f2988d0086/thumbnail/1200x630g2/4c0cf6a0a8ef15e64f29bac270bbb4d0/ap-19134574188496.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "For President Trump, defections and gaffes hamper 2020 election court challenges"
     excerpt: "Over the three weeks since the election, President Trump's legal bid to challenge the results has unfolded in unpredictable ways with a revolving cast of characters."
     publishedDateTime: 2020-11-24T15:11:00Z

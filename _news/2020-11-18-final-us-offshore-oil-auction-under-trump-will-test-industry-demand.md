@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fired election security official sues Trump lawyer over threats"
+    excerpt: "The U.S. election and cybersecurity official who was fired last month by President Donald Trump filed a lawsuit Tuesday over threatening remarks by a lawyer for the president that prompted a wave of death threats against him."
+    publishedDateTime: 2020-12-08T20:51:00Z
+    webUrl: "https://www.cbsnews.com/news/christopher-krebs-sues-trump-lawyer-joseph-digenova-over-threats/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/christopher-krebs-sues-trump-lawyer-joseph-digenova-over-threats/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/christopher-krebs-sues-trump-lawyer-joseph-digenova-over-threats/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/25/a6db776e-2061-4236-89c1-76f2988d0086/thumbnail/1200x630g2/4c0cf6a0a8ef15e64f29bac270bbb4d0/ap-19134574188496.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump lawyers withdraw on eve of key hearing in Pennsylvania election case"
     excerpt: "Three more lawyers representing President Donald Trump's campaign have asked to withdraw from his lawsuit challenging the U.S. election results in Pennsylvania, shaking up his legal team on the eve of a major court hearing."
     publishedDateTime: 2020-11-17T15:14:00Z

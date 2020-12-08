@@ -52,6 +52,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump's election challenges about commitment to free and fair elections: White House"
+    excerpt: "White House Deputy Press Secretary Brian Morgenstern said President Trump's continued election result challenges were part of his commitment to the Constitution and the concept of fair elections on Tuesday."
+    publishedDateTime: 2020-12-08T20:20:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4pkShZwRzvM/trumps-election-challenges-commitment-free-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-election-challenges-commitment-free-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-election-challenges-commitment-free-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/409efce1-a8af-4acf-85e9-aafda7d496b8/8e5cb760-5c18-487a-a1e4-1d048115f17b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
     excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
     publishedDateTime: 2020-12-03T19:59:24Z

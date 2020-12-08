@@ -123,6 +123,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Texas asks U.S. Supreme Court to help Trump upend election"
+    excerpt: "The state of Texas, aiming to help President Donald Trump upend the results of the U.S. election, said on Tuesday it has filed suit against the states of Georgia, Michigan, Pennsylvania and Wisconsin at the Supreme Court,"
+    publishedDateTime: 2020-12-08T20:26:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-lawsuit-texas/texas-asks-u-s-supreme-court-to-help-trump-upend-election-idUSKBN28I27M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I27M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I27M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543839449&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB719B"
+        width: 855
+        height: 545
+        isCached: true
   - title: "Trump campaign files election lawsuit in Georgia, suffers more legal defeats"
     excerpt: "Donald Trump's campaign said it filed a lawsuit in Georgia state court on Friday seeking to invalidate the presidential election results there, the latest in a series of legal challenges aimed at reversing his loss that have so far gone nowhere."
     publishedDateTime: 2020-12-05T09:48:00Z
@@ -186,6 +202,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/donald-trump-election-georgia-01-rt-llr-201204_1607128269526_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "The Arizona GOP asks supporters if they're willing to die to overturn Trump's election loss"
+    excerpt: "\"Live a life of service to a cause greater than yourself,\" the Arizona Republican Party tweeted on Tuesday."
+    publishedDateTime: 2020-12-08T19:44:00Z
+    webUrl: "https://www.businessinsider.com/arizona-gop-tweet-asks-if-supporters-would-die-overturn-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/arizona-gop-tweet-asks-if-supporters-would-die-overturn-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-gop-tweet-asks-if-supporters-would-die-overturn-election-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 130
+    images:
+      - url: "https://i.insider.com/5fcfc226cee0cf00114fa2d3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Vice President Pence remains silent on election outcome while campaigning for Georgia runoff"
     excerpt: "Pence will rally Republicans to vote for Georgia Sens. David Perdue and Kelly Loeffler in the Jan. 5 election."

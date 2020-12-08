@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggest
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years"
 type: article
 quality: 124
-heat: 144
+heat: 124
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "President Trump pardons ex-national security adviser Michael Flynn; ends three-year legal odyssey"
-    excerpt: "Michael Flynn pleaded guilty three years ago to lying about his conversations with Russian Ambassador Sergey Kislyak."
-    publishedDateTime: 2020-11-27T07:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/25/michael-flynn-trump-announces-pardon-former-national-security-advisor/6419985002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6419985002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6419985002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2018/12/05/USAT/4a1f6fa3-badd-463d-8f4e-af5c2580740a-615530474.jpg?auto=webp&crop=2826,1590,x343,y292&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "AF8IWVAQrxf7Lf1tfkqknYMiu5fEKpKVC6a/TlvvEGDW2lEYeBXGmq+IohI9WLVECRRrPud2sr9txXuEd3A6525zkoytohT55J2iqdOUB9hesCpgvsFaX6zKRZ23zwLOW1WIdOyuk+z57r+/8p+t9EgxmwNrybqMl8M+cCvmDDiarJS1LDH9qMaBO37dZLeXk6UJXSuA9SdXIf82y2zWHsFHYzX4LyV5dEOY7PisGYiJnSiHfdPIi7V/g5wcGUNGNbVai2A6QOTWaNO/hSWM0D9Qw32KbX6iBP17+OrF8IH2BAVhqVgbCbH0vvtnczgs1NjbT17P7IuPmiz+7ouJMTySoC0BkA/webUJbWhN1/mRdaE+wblkGoV7/Y4KP153YODXYtNfvxzV9LCf3t8jLqSfABoCBCwVNTQkp6n7nQcJHZ7DxlINDfCVMxHww13k8s1fb6rTZg84BnKDzVPhKes/LnYic60Lx8FGFIc3CUEQpwvnWULZwTFWpFRuHOEDh48kEOp9A5Ms1eOlgKZj7A==;zoDjyvwe8su0o/2Dfbod5g=="
 ---

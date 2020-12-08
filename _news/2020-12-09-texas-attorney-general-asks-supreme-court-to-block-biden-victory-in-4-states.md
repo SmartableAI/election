@@ -479,6 +479,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden pledges to distribute 100m vaccine shots in first 100 days of presidency – live"
+    excerpt: "President-elect vowed to implement an effective vaccine distribution plan during the first 100 days of his administration"
+    publishedDateTime: 2020-12-08T20:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fcfe5e58f08a20e617dac21"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/222afd159c5091a7b8811b469ad1b9c386648401/0_0_5522_3681/master/5522.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=88cd54e9803f1d2760468ee061ec5748"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Completed Wisconsin recount confirms Biden's win"
     excerpt: "Wisconsin finished its two-county presidential results recount on Sunday, confirming Democrat Joe Biden's victory over President Donald Trump. The Dane and Milwaukee County totals found Biden adding 87 to his 20,"
     publishedDateTime: 2020-11-30T07:58:00Z
@@ -524,6 +540,6 @@ related:
         height: 308
         isCached: true
 
-secured: "V6zYZLE+/IzEpS6xMS67mXM3oAsl8vbnZA7S6s/9rZf81EwJpcod3xVBPxeAT3CTrvuRWQBKXm9nh7kQogPOaxU0ysWTuhNcXqIEMokWwd/CzrtxSioc1ZaHV/jwraTl7Zcmxrm51FAqeuPyaqUkPg9hDZzR2Pd5C0Z2KiFO7Y5uWJiYe3owcni7qLdB2ZVAk2/1Z6JIXW+foOvsjkqoNz2d8Oc+dY8426MbfW8QCDJsw386Glk/GX7aB3cSOqwp1vREn67DYVCbhn0jy3g5kQQWUZq2kJzXFsC62/MdxdiiZVDrMYBDtgYLYNwGGxjFXXoH905057qPRF9vtg7Xd3Z6niQV7QuRyY3nDSsIaFs=;HByRfWH0A5qc+PR21QkzHw=="
+secured: "FCkE7GTc7QwT37j2LfsAX0cyfSokpGK9Qvt9paZgLuQ7hWmNSU5vK9hDdWnHzzHSH3K0XOHV+CUQeRRu02g3QEvnfKu1CweXGvBXU0AD0InK9NsMyRIN5vZZSWUo38Tzbsa76+M4KdVpwAoIW5pBp3fGn+/CyZSdQw+8HbKsCKgGjMPQohuTi/o7AnO/37zYZyq6HVo5kN2e1aJFie7CF51Xvob17EY1GB+oP8UpS7e+c+Q288m+NqNmNeG1EjCfkBYLkcVGnP/lsg5/RwDDQenLHrlQlp/fJIJY9JgcMeD1TWlKsvCX23W86tEcdkEfz2X++6TeukfQlMFc30StKPqQtA3cHrsO8og4hzReTy09SkHWOMHI6swcO1e9pv2KqbfmalKZpdEvcobfZuWeSaioeqfchHYNtwqo5o0CZKw9YovrF/N3sHGO6Uabt1muhJVyIaBRzfO2Hu/IC4uJQ8wE1h/uge1F0koieRCvnFMsb0eWGBYaZrAbKDxxS1In5wO/7o0Ep1Xg6NoTCHFH1A==;t1KfXaCL56YIg53wGYoVGQ=="
 ---
 

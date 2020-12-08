@@ -32,51 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Trump rants about his election grievances in Georgia, even though it may hurt the GOP"
-    excerpt: "President Donald Trump expanded his extraordinary efforts to overturn the election Saturday, attempting to pressure Georgia's governor to force a special session of the legislature to change the result, while using an evening rally for two GOP Senate candidates to rant about his own grievances and thrash"
-    publishedDateTime: 2020-12-06T14:38:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O4hvebnkQvk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/donald-trump-kelly-loeffler-david-perdue-coronavirus-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/donald-trump-kelly-loeffler-david-perdue-coronavirus-election/index.html"
+  - title: "Ex-cyber official Krebs sues Trump campaign over its attacks on election results"
+    excerpt: "Chris Krebs, the former top administration official for cybersecurity, whom President Donald Trump fired after the election, is suing the Trump campaign and a lawyer working with the campaign to overturn the results of the election, accusing them of defamation.\n    \n"
+    publishedDateTime: 2020-12-08T19:59:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZopmFt4DcPk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/chris-krebs-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/chris-krebs-lawsuit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 183
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201205212226-01-trump-rally-georgia-1205-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112172947-02-chris-krebs-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's legal defeats pile up while his attacks on Georgia's election system raise GOP concerns "
-    excerpt: "President Donald Trump found himself trapped in an election riddle of his own making Friday -- continuing to push false claims that the election was a \"total scam,\" even after another humiliating court rebuke in Pennsylvania, while insisting that his supporters should turn out in Georgia's January Senate"
-    publishedDateTime: 2020-11-28T05:15:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xAwCxnu1PRg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 177
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Republicans brace for Trump rally in Georgia ahead of January runoffs"
-    excerpt: "Georgia Republicans are increasingly worried about President Donald Trump's rally on Saturday for the two Senate runoff races, as some brace for a tirade to overturn his loss that could hurt the party's effort to keep control of the chamber.\n    \n"
-    publishedDateTime: 2020-12-03T12:21:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H7EM0rwGCYc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/republicans-trump-rally-georgia-senate-runoff/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/republicans-trump-rally-georgia-senate-runoff/index.html"
+  - title: "Trump campaign lawyer Jenna Ellis contracts coronavirus, source says"
+    excerpt: "Jenna Ellis, a lawyer who has been leading the Trump campaign's legal efforts to dispute the results of the 2020 presidential election, has contracted the coronavirus, a source familiar with the situation confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-08T18:18:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GUCW49pXqTc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/jenna-ellis-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/jenna-ellis-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180114192337-02-trump-perdue-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208121723-jenna-ellis-1202-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Trump raised massive amounts of money after the election and other takeaways from campaign filings"
+    excerpt: "President Donald Trump raised staggering amounts after losing the White House. Casino billionaire Sheldon Adelson kept donating in the election's waning days, and South Carolina Sen. Lindsey Graham set a new fundraising high water mark for Senate incumbents.\n    \n"
+    publishedDateTime: 2020-12-04T20:59:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2LY-rSs8bPM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/five-takeaways-from-trump-and-biden-fundraising/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/five-takeaways-from-trump-and-biden-fundraising/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -96,69 +96,69 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Some Trump supporters in this Georgia county say the election system is 'rigged.' That could hurt Republicans in January"
-    excerpt: "Sixty miles west of Atlanta, Haralson County sits a world away from Georgia's largest and booming metro area. Here, in the small towns that sit in the foothills of the Appalachian mountains, Republican roots run generations deep. In November, the county voted for Donald Trump over Joe Biden, 87% to 13%"
-    publishedDateTime: 2020-12-05T00:16:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OAAGX4WN7ys/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/georgia-county-trump-supporters/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/georgia-county-trump-supporters/index.html"
+  - title: "Trump purges Pentagon advisory board and gives seats to former campaign managers"
+    excerpt: "President Donald Trump has purged a Pentagon business advisory board and replaced its members with his former campaign manager and deputy campaign manager, neither of whom have served in the military or have any apparent experience with the defense industry.\n    \n"
+    publishedDateTime: 2020-12-04T20:42:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fUnccSYtHPw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190918092128-corey-lewandowski-newday-09182019-1-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Courts across the country hand Trump and his allies more losses as attempts to upend election results collapse"
+    excerpt: "The Trump campaign and its allies were dealt additional blows in Michigan, Nevada, Wisconsin and Arizona on Friday as courts rejected their attempts to challenge the presidential election results.\n    \n"
+    publishedDateTime: 2020-12-05T02:23:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aVc3S8TDq-g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-election-defeats-courts/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-election-defeats-courts/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204145824-01-trump-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Ousted cybersecurity chief Krebs to Trump: 'These constant attacks ... are very dangerous'"
+    excerpt: "Former top cybersecurity official Chris Krebs sent a clear message to President Donald Trump on Friday: Stop attacking the integrity of last month's election because American democracy is fragile.\n    \n"
+    publishedDateTime: 2020-12-05T00:26:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QXAae4AbhRg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/chris-krebs-trump-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/chris-krebs-trump-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204183258-trump-supporter-georgia-super-tease.jpeg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204170456-chris-krebs-on-the-lead-12-4-2020-vpx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia's lieutenant governor joins state GOP officials in rejecting Trump's 'misinformation'"
-    excerpt: "Georgia's Republican lieutenant governor on Tuesday joined a growing list of GOP officials in the state who are publicly rejecting President Donald Trump's baseless claims of voter fraud, saying the misinformation spread by the President and his allies is \"alarming\" and could jeopardize the party in"
-    publishedDateTime: 2020-12-01T16:21:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d22YeEYC3r0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/geoff-duncan-election-misinformation-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/geoff-duncan-election-misinformation-cnntv/index.html"
+  - title: "Trump Hints at Another Act in Four Years, Just Like Grover Cleveland"
+    excerpt: "The president is eying a comeback in 2024 aimed at making him the only person other than Cleveland to win another term after losing the White House."
+    publishedDateTime: 2020-12-03T00:44:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201081905-geoff-duncan-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's 'mountains of misinformation' at rally not helping Republican Senate chances, Georgia's GOP lieutenant governor says"
-    excerpt: "Georgia Republican Lt. Gov. Geoff Duncan said Sunday that the \"mountains of misinformation\" about the election that President Donald Trump is spreading, most recently in his remarks at a rally in the state Saturday night, could hurt GOP chances in upcoming Senate runoff races.\n    \n"
-    publishedDateTime: 2020-12-06T16:47:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HmiFDymoTZk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/geoff-duncan-trump-georgia-rally-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/geoff-duncan-trump-georgia-rally-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 148
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201206095615-lt-gov-geoff-duncan-sotu-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's legal defeats pile up while his attacks on Georgia's election system raise GOP concerns"
-    excerpt: "President Donald Trump is pushing contradictory messages about Georgia, calling the state's election system fraudulent at the same time he is urging his supporters to turn out for Republican Sens. Kelly Loeffler and David Perdue in twin runoff races that will determine control of the US Senate."
-    publishedDateTime: 2020-11-28T21:00:00Z
-    webUrl: "https://www.cnn.com/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/28/politics/donald-trump-election-georgia-runoffs/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 138
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050216-01-donald-trump-thanksgiving-1126-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02dc-trump-1/02dc-trump-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump looms over Georgia's high-stakes Senate races, worrying Republicans"
     excerpt: "The president is scheduled to hold a rally in the state Saturday after spending weeks attacking GOP elected officials."
@@ -176,51 +176,37 @@ related:
         width: 2500
         height: 1666
         isCached: true
-  - title: "Full Panel: Trump continues false voter fraud claims during Georgia rally"
-    excerpt: "Steve Kornacki, Kimberly Atkins, Jeff Mason and Danielle Pletka join the Meet the Press roundtable to discuss President Trump's campaign rally in Georgia."
-    publishedDateTime: 2020-12-06T14:53:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-trump-continues-false-voter-fraud-claims-during-georgia-rally-97212485768"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97212485768"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97212485768"
+  - title: "Trump administration hands over new data on families separated at border"
+    excerpt: "NBC News’ Jacob Soboroff reports on newly released details from the Trump administration on migrant families who were separated at the southern border and how this information may impact the unification efforts."
+    publishedDateTime: 2020-12-04T00:21:00Z
+    webUrl: "https://www.nbcnews.com/now/video/trump-administration-hands-over-new-data-on-families-separated-at-border-97081413807"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97081413807"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97081413807"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 134
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/1607265795480_mtp_full_panel_201206_1920x1080.jpg"
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_trump_separation_201203_1920x1080.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump tells supporters to vote in Georgia runoffs, refuses to accept reality of his loss"
-    excerpt: "\"I've probably worked harder in the last three weeks than I ever have in my life,\" Trump said of his efforts to overturn election results. \"Doing this.\""
-    publishedDateTime: 2020-12-06T03:04:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-tells-supporters-vote-georgia-runoffs-refuses-accept-reality-his-n1250128"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250128"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250128"
+  - title: "New Trump administration rules make it easier for lenders to charge small businesses super-high interest rates"
+    excerpt: "\"This is my life,\" says Carlos Swepson, owner of a New York bistro with his wife. He's trying to pay off loans with an effective interest rate of 268 percent."
+    publishedDateTime: 2020-12-08T10:04:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/new-trump-administration-rules-make-it-easier-lenders-charge-small-n1250023"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250023"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250023"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_49/3433631/201205-donald-trump-rally-cs-749p_246d6139e50fc8dc90585101a6d0abd3.jpg"
-        width: 2500
-        height: 1554
-        isCached: true
-  - title: "Donald Trump Jr. aides launch super PAC as Georgia worries mount"
-    excerpt: "The president's son stars in a new ad campaign as Republicans worry Trump's voter fraud accusations will depress GOP turnout in the Senate runoffs."
-    publishedDateTime: 2020-11-30T09:44:00Z
-    webUrl: "https://www.politico.com/news/2020/11/30/donald-trump-jr-super-pac-georgia-worries-mount-441205"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/d1/90/320a62d547098438aa9ed817e738/gettyimages-1268372750-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3433737/201206-carlos-markisha-swepson-blvd-harlem-2x1-se-530p_43d2f696fe4dac84a7205d86a0382d51.jpg"
+        width: 2500
+        height: 1664
         isCached: true
 
 secured: "piWNoPlVCtuERFiovbQlwYEgQ43EpSjJQtdGxZMGPlY4S6QJwO9yg+82qvidmB69hnisaWKBT1R5lN3yn+0pt9Tdk/CvPr8B8byZsucoi7UWMMvg9hnBMjX4/WrfhPg8zt2KnvnY6Tu106XeiOJqz0Qr4ctDTcq412a9LQSyBSCplqw0kkoIxHzJ425avKXSNbLz8rlMQcX/1IxmzbRlZ5fm87WHo2/qXBhmB/bFBRgfcQzV9KdfF6Dk8FtG8YsJFdp2YYyXTfOqI/9sDnM5xaFt143HZaQoNNz+bZdPb/8lEh2qC7K9iqPIyb09GcNIBziPycNVtcMikRmJPf0wSARhtE/ES0hqFAaq0zlUqRk=;vmtPz9ryzPUxKebUtbJMPg=="

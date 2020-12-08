@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-03/harris-announ
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
 type: article
 quality: 125
-heat: 765
+heat: 785
 published: true
 
 provider:
@@ -290,6 +290,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/65/d65390d1-17ef-51a6-bf87-71b4ce3c5b4d/5fb53bc58afee.preview.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Berkeley proposes Kamala Harris Elementary, but will school district agree?"
+    excerpt: "The Berkeley City Council passed a resolution asking the school district to rename an elementary school as Kamala Harris Elementary School."
+    publishedDateTime: 2020-12-08T19:40:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/08/berkeley-proposes-kamala-harris-elementary-but-will-school-district-agree/"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/08/berkeley-proposes-kamala-harris-elementary-but-will-school-district-agree/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/08/berkeley-proposes-kamala-harris-elementary-but-will-school-district-agree/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 73
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-PRESREACT-1108-3-1.jpg?w=1024&h=758"
+        width: 1024
+        height: 758
         isCached: true
   - title: "Democratic fight emerges ahead of appointment to fill Kamala Harris’ Senate seat"
     excerpt: "A cross-country lobbying campaign for Vice President-elect Kamala Harris’ Senate seat has pitted factions divided by race, gender and geography against one another and heightened internal"

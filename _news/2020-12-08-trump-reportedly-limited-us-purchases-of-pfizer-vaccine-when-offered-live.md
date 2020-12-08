@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-cov
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-gty-jt-201208_1607443175602_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump touts COVID-19 vaccines at 'summit' amid growing questions over timeline, number of doses"
+    excerpt: "Trump signed an executive order at the COVID-19 vaccine event asserting the government must ensure Americans have access to the vaccine first."
+    publishedDateTime: 2020-12-08T19:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/trump-touts-covid-19-vaccine-despite-questions-timeline-doses/6488136002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6488136002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6488136002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/4be9a102-6ccc-439e-a0f5-84a67dc2fbaf-AFP_AFP_8WQ49E.jpg?auto=webp&crop=4497,2530,x0,y132&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "T5mRyDKOCc4gkPZw8KHR9hNy78G9u2fFsK6CAZuIl1g3ExNkNqNfjH248kNgPBlchSlD2ebQx0NOjy4sbA2wxB95ZtMfVDzAKKbhHNboYDkENX0P7GhHch+9U9OmTR/B5CDPm6BiqYfh7t4dAQdXhpS7hq3mbwcPL7p/bQCOFnPTWtn/8rDlQCXx+7Xq5Fh5K1mPyUhhTUdcLU7Z8MllS4hoU1oaS6QNCtm17eczcf5KHOUOVH6SyK5R3b8SWkoYb/JoEW2fZeG77hAPRLj10TBuGoJTDLEUb0/ewx0fX6EuWfFSupoD1rH3/jCTAPmBdrAR37B1St7wBp/MNV/AIgH/3NhyNAGIw9BcMip29SQ=;foJMBEnkmZ4gDKqN2ONv/g=="

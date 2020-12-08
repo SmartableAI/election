@@ -144,6 +144,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kellyanne Conway: ‘It Looks like Joe Biden and Kamala Harris will prevail’"
+    excerpt: "Kellyanne Conway says the party is probably over for her former boss and that Joe Biden and Kamala Harris will likely be moving into the White House in January. “The president wants to exhaust all"
+    publishedDateTime: 2020-12-05T13:44:00Z
+    webUrl: "https://nypost.com/2020/12/05/kellyanne-conway-says-it-looks-like-joe-biden-won-election/"
+    ampWebUrl: "https://nypost.com/2020/12/05/kellyanne-conway-says-it-looks-like-joe-biden-won-election/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/kellyanne-conway-says-it-looks-like-joe-biden-won-election/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 148
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201205-kellyanne-conway-biden-wins.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Republicans slam Biden's HHS pick Becerra as 'disaster for California'"
     excerpt: "Republicans slammed President-elect Joe Biden after he announced his choice of California Attorney General Xavier Becerra for secretary of Health and Human Services on Monday, and they criticized Becerra's record on abortion and other issues."
     publishedDateTime: 2020-12-07T16:29:00Z

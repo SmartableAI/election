@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden’s 3-part plan to tackle the coronavirus: Masks, vaccinations, opening schools"
+    excerpt: "President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington, Delaware as he formally unveiled his team of top health officials, emphasized “masking, vaccinations, opening"
+    publishedDateTime: 2020-12-08T20:45:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hFWSWUVnHL0/bidens-3-part-plan-to-tackle-the-coronavirus-masks-vaccinations-opening-schools"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-3-part-plan-to-tackle-the-coronavirus-masks-vaccinations-opening-schools.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-3-part-plan-to-tackle-the-coronavirus-masks-vaccinations-opening-schools.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden urges taking coronavirus vaccine, wearing masks but says they shouldn’t be mandatory"
     excerpt: "Biden urges taking coronavirus vaccine and wearing masks but says they shouldn’t be mandatory"
     publishedDateTime: 2020-12-04T22:30:56Z

@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Hints at Another Act in Four Years, Just Like Grover Cleveland"
-    excerpt: "The president is eying a comeback in 2024 aimed at making him the only person other than Cleveland to win another term after losing the White House."
-    publishedDateTime: 2020-12-03T00:44:00Z
-    webUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/trump-2024.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02dc-trump-1/02dc-trump-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "eiG7bCYcj8f935YtuOFtVzMv8lC768rom2abpNAjKgrKTZAbcFb1pWeBPILW/zJ56XVeLuANPRjzWhp2LHYfM8pdN77ROt5reBINnbI5oerSModwSu5Z3gKEu9rUVgv8BusCQjHduIyaJlQmTlC4BVPY0RBWElJ7dIU5bZ0sTf/lu6L7Ti4sI48hHjlfqN1KNQp11D+4VNnbkbDODUSnu6TUcAlAbEOLcWpOggwH3ioi65RFWmY2kYBjcvbYJDMKIGLoM0uNoAd7Nw+m5FluPLZFRmrdwp3HEXCD6W8ONabHhETC+ci+Wv0Z3/u5dxRNNCad/B4/cdwmWpfFwzovx/5/YWcNuf66gRbRn0rWk3Q=;EDKrzHneOlsnIWXEtQdSew=="
 ---
