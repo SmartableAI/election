@@ -493,6 +493,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "President Donald Trump’s personal lawyer Rudy Giuliani in the hospital after positive coronavirus test"
+    excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for the coronavirus, making him the latest in Trump’s inner circle to contract the disease that is now surging across the U."
+    publishedDateTime: 2020-12-08T03:00:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-rudy-giuliani-coronavirus-20201206-eehkihbdw5hhjihayvt7vbceve-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-rudy-giuliani-coronavirus-20201206-eehkihbdw5hhjihayvt7vbceve-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-rudy-giuliani-coronavirus-20201206-eehkihbdw5hhjihayvt7vbceve-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/LlzBH-hBfshFlq7B1JJx1CRUxOE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/S4TSHQ3SQRE4VIWHJKBXHPDH74.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump suggests Rudy Giuliani's crusade to overturn the election results is 'more important' than when he led New York's 9/11 response"
     excerpt: "Giuliani was lauded for his 9/11 response, but his public image has cratered in recent years as he spins a web of increasingly incoherent conspiracies."
     publishedDateTime: 2020-12-07T19:48:00Z

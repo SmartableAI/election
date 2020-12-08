@@ -1072,6 +1072,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Administration Passed on Chance to Secure More of Pfizer Vaccine"
+    excerpt: "The pharmaceutical company offered the government a chance to lock in additional supplies before its vaccine was proved effective in clinical trials."
+    publishedDateTime: 2020-12-08T02:36:00Z
+    webUrl: "https://www.nytimes.com/2020/12/07/us/politics/trump-pfizer-coronavirus-vaccine.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/07/us/politics/trump-pfizer-coronavirus-vaccine.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/07/us/politics/trump-pfizer-coronavirus-vaccine.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/07/us/politics/07DC-virus-pfizer1/07DC-virus-pfizer1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
     publishedDateTime: 2020-12-01T16:55:00Z

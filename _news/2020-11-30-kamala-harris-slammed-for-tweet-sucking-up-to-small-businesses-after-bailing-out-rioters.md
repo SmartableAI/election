@@ -32,101 +32,101 @@ images:
     isCached: true
 
 related:
-  - title: "Frontrunners for Kamala Harris Senate seat praised Fidel Castro"
-    excerpt: "Two frontrunners for Vice President-elect Kamala Harris' Senate seat have praised former Cuban dictator Fidel Castro."
-    publishedDateTime: 2020-12-01T20:06:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zw0vpbP4QwY/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro"
-    ampWebUrl: "https://www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp"
+  - title: "Biden's HHS pick Xavier Becerra has a 'Me Too' case connection to Kamala Harris"
+    excerpt: "Former top aide to Harris resigned after settling a sexual harassment case."
+    publishedDateTime: 2020-12-08T02:26:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o2m2V3SkiFM/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 196
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de47a4eb-0b8d-43c2-ba35-cc931180a7d2/602f172e-409f-4f04-8430-39e2e6b7a327/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d11618b-8c19-40ee-b3af-cf78a4e1c780/d0cab256-d59f-48da-9bed-3dcd5aaee961/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "VP-elect Kamala Harris' sister pushing for husband to be named attorney general: report"
-    excerpt: "Vice President-elect Kamala Harris’ sister participated in discussions with Democratic allies about getting her husband nominated for attorney general in the incoming Biden White House."
-    publishedDateTime: 2020-12-08T00:38:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6xY969z16Ds/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report"
-    ampWebUrl: "https://www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Kamala Harris slammed for tweet sucking up to small businesses after bailing out rioters"
-    excerpt: "Vice President-elect Kamala Harris was widely slammed on Twitter this weekend for committing to helping small businesses affected by the pandemic despite having openly supported protesters at the height of social unrest over the summer."
-    publishedDateTime: 2020-11-29T21:59:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OPhxh2LL8zU/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333665999101-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden's HHS frontrunners say gun control is a health issue"
-    excerpt: "President-elect Joe Biden's top picks for the Department of Health & Human Services (HHS) have both declared gun violence a public health issue in the past, much to the ire of gun rights activists and the National Rifle Association (NRA). "
-    publishedDateTime: 2020-12-03T01:02:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PlRaO2HTi10/bidens-hhs-frontrunners-say-gun-control-is-a-health-issue"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-hhs-frontrunners-say-gun-control-is-a-health-issue.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-hhs-frontrunners-say-gun-control-is-a-health-issue.amp"
+  - title: "Biden HHS pick sued nuns over contraception mandate"
+    excerpt: "President-elect Biden has chosen a secretary of Health and Human Services who sued to block a policy that would have exempted nuns from Obamacare's contraception mandate, provoking even more scrutiny over how Biden's Catholic faith influences his political agenda."
+    publishedDateTime: 2020-12-07T21:06:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fohoO2PHXFc/biden-hhs-pick-nuns-contraception-mandate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-pick-nuns-contraception-mandate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-pick-nuns-contraception-mandate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/baca0106-fa11-4958-9df4-8d5684ec8d7e/7b374ffc-1fed-489a-a9d0-35e01149fa7a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21e1e348-1ec2-479b-b481-cdd70f49ab47/4c923316-a2af-45f8-a6c4-18f5b1cb409a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Frontrunners for Kamala Harris Senate seat praised Fidel Castro"
-    excerpt: "Two frontrunners for Vice President-elect Kamala Harris' Senate seat have praised former Cuban dictator Fidel Castro."
-    publishedDateTime: 2020-12-01T20:23:00Z
-    webUrl: "https://www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro"
-    ampWebUrl: "https://www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.amp"
+  - title: "Republicans slam Biden's HHS pick Becerra as 'disaster for California'"
+    excerpt: "Republicans slammed President-elect Joe Biden after he announced his choice of California Attorney General Xavier Becerra for secretary of Health and Human Services on Monday, and they criticized Becerra's record on abortion and other issues."
+    publishedDateTime: 2020-12-07T16:14:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JjHymMUN7Oo/republicans-biden-hhs-xavier-becerra-abortion-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de47a4eb-0b8d-43c2-ba35-cc931180a7d2/602f172e-409f-4f04-8430-39e2e6b7a327/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1181949866.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Kamala Harris' brother-in-law floated for attorney general"
-    excerpt: "Vice President-elect Kamala Harris’ brother-in-law has been brought up as a potential nominee for U.S. attorney general in the forthcoming Biden administration, according to reports."
-    publishedDateTime: 2020-12-03T11:06:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-brother-in-law-floated-for-attorney-general.amp"
+  - title: "Biden's HHS pick Becerra sued the Trump admin more than 100 times as California AG: Here are some of his cases"
+    excerpt: "California Attorney General Xavier Becerra, who President-elect Biden announced Monday will be his nominee for Health and Human Services secretary, has been one of the most litigious attorneys general against the president in recent years, actively pursuing progressive policies in the courts more than"
+    publishedDateTime: 2020-12-07T18:50:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/31TXyMW0NuY/xavier-becerra-lawsuits-california-attorney-general-biden-hhs-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/xavier-becerra-lawsuits-california-attorney-general-biden-hhs-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/xavier-becerra-lawsuits-california-attorney-general-biden-hhs-pick.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c997284-a2ad-47fe-8a05-dd9d47ff0bf6/bed80447-4fdb-48ff-a8f2-52976986e621/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Pro-lifers, religious liberty advocates sound alarm over Biden HHS pick Xavier Becerra"
+    excerpt: "A number of Catholics and conservative activists are sounding the alarm Monday over Health and Human Services Secretary nominee Xavier Becerra, pointing to his record of attacking conservative policies as California's attorney general. "
+    publishedDateTime: 2020-12-07T20:19:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NDbnaXr1Gq0/pro-lifers-religious-liberty-advocates-becerra-hhs"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-lifers-religious-liberty-advocates-becerra-hhs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-lifers-religious-liberty-advocates-becerra-hhs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21e1e348-1ec2-479b-b481-cdd70f49ab47/4c923316-a2af-45f8-a6c4-18f5b1cb409a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden picks health team, including Becerra for HHS secretary, Fauci as top coronavirus adviser"
+    excerpt: "President-elect Joe Biden announced Monday that he intends to nominate California Attorney General Xavier Becerra for secretary of Health and Human Services. "
+    publishedDateTime: 2020-12-07T11:07:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TKt-48-CoV4/biden-health-team-becerra-hhs-secretary-fauci-coronavirus-adviser"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-health-team-becerra-hhs-secretary-fauci-coronavirus-adviser.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-health-team-becerra-hhs-secretary-fauci-coronavirus-adviser.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20316781729713.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Kamala Harris Names Senior White House Staff"
     excerpt: "The vice president-elect selected three women to serve in top roles on her team."
@@ -144,21 +144,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Kamala Harris scoops up gifts, promotes small businesses at holiday market"
-    excerpt: "Vice President-elect Kamala Harris hit up a Washington, DC outdoor holiday market Saturday — and found herself the perfect stocking stuffer. With husband Doug Emhoff at her side, a laughing"
-    publishedDateTime: 2020-11-28T22:27:00Z
-    webUrl: "https://nypost.com/2020/11/28/kamala-harris-shops-promotes-small-businesses-at-holiday-market/"
-    ampWebUrl: "https://nypost.com/2020/11/28/kamala-harris-shops-promotes-small-businesses-at-holiday-market/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/28/kamala-harris-shops-promotes-small-businesses-at-holiday-market/amp/"
+  - title: "Republicans slam Biden's HHS pick Becerra as 'disaster for California'"
+    excerpt: "Republicans slammed President-elect Joe Biden after he announced his choice of California Attorney General Xavier Becerra for secretary of Health and Human Services on Monday, and they criticized Becerra's record on abortion and other issues."
+    publishedDateTime: 2020-12-07T16:29:00Z
+    webUrl: "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 133
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/kamala-harris-doug-emhoff-holiday-shopping-MAIN.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1181949866.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "peeHTxgF0fi5wOj9707NS2VXbPcMjE36ey56m4yfDwbtb14PKmK/wlUkR+ZZ2/jSR6Q46ymkzjBqL9L4EIvS2QGj/D3DmsVhcOE6fDseGgs5PHfZWapPwOyM/4oGveZpd/hxLw0cS+CrxmKU+qxkLeoji0h/1D7buWC59o/xwaXuA83KXP7Gm86KonDYO+82D9DzvwMgF+9v+9algIGBGjBkxYUzdQzOmiN286R0xWepmoyrjB7qT/n0KoqkOzp8kkm/RI59J7AoVhPrZo4JHZkPa5ylJDa4OnD88sYp2bvBn9Za7UFwnn+x8k02a69SAlzBe/l/8UNTQkP4kvob5m19DJUjj3wL0EqJWJic+WmBgJhXs/O9m6mey9UiMdIfWjL8IO3EUYu2IopfeAOmsA5gv+IKApVEzLVlqd5XIkzU0DQDzkeXdAyo50fLBXHC2bU5+H3aTSV7SusQt74xeywHI5aZoakwndb4OwIFLlvmArwne8giOVCz8Tg5f+csPiNZPbIch7ahN7fIg02aZg==;XRhgBJk6mn19YWEE58ZsUg=="

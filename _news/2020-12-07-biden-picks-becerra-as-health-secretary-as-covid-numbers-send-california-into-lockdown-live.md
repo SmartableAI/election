@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Retired Army Gen. Lloyd Austin is Biden's pick for defense secretary: Sources"
+    excerpt: "President-elect Joe Biden is expected to name retired Army Gen. Lloyd Austin to lead the Defense Department, four sources familiar with Biden's plans told ABC News."
+    publishedDateTime: 2020-12-08T01:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/retired-army-gen-lloyd-austin-bidens-pick-defense/story?id=74595163"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/retired-army-gen-lloyd-austin-bidens-pick-defense/story?id=74595163"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/retired-army-gen-lloyd-austin-bidens-pick-defense/story?id=74595163"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/Politics/general-lloyd-austin-03-gty-jt-201207_1607386547864_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Republicans raise red flags over Becerra’s nomination to lead Biden health department"
     excerpt: "Some Senate Republicans have signaled concern with Becerra's nomination, but it is unclear if it is enough to block his appointment."
     publishedDateTime: 2020-12-07T22:37:00Z

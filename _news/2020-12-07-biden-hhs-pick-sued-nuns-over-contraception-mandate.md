@@ -31,101 +31,133 @@ images:
     isCached: true
 
 related:
-  - title: "Biden inaugural committee accepting donations from 'corporate entities'"
-    excerpt: "The committee will not accept contributions from lobbyists, political action committees, fossil fuel companies or their executives."
-    publishedDateTime: 2020-11-30T22:58:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3s-hKuko31g/biden-inaugural-committee-accepting-donations-from-corporate-entities"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-inaugural-committee-accepting-donations-from-corporate-entities.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inaugural-committee-accepting-donations-from-corporate-entities.amp"
+  - title: "Biden's HHS pick Xavier Becerra has a 'Me Too' case connection to Kamala Harris"
+    excerpt: "Former top aide to Harris resigned after settling a sexual harassment case."
+    publishedDateTime: 2020-12-08T02:26:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o2m2V3SkiFM/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 196
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54d15292-fc7e-4ce1-bd16-2a480887a89b/fa468610-f38b-44b4-b6b3-22a37e1f168c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d11618b-8c19-40ee-b3af-cf78a4e1c780/d0cab256-d59f-48da-9bed-3dcd5aaee961/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden to call for 100 days of masks after inauguration"
-    excerpt: "President-elect Joe Biden said during an interview on Thursday that he plans to ask the American public to wear masks for 100 days, starting on the day he is inaugurated."
-    publishedDateTime: 2020-12-03T22:41:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tGBCLmZaqnk/biden-call-100-days-masks-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-call-100-days-masks-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-call-100-days-masks-inauguration.amp"
+  - title: "Republicans slam Biden's HHS pick Becerra as 'disaster for California'"
+    excerpt: "Republicans slammed President-elect Joe Biden after he announced his choice of California Attorney General Xavier Becerra for secretary of Health and Human Services on Monday, and they criticized Becerra's record on abortion and other issues."
+    publishedDateTime: 2020-12-07T16:14:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JjHymMUN7Oo/republicans-biden-hhs-xavier-becerra-abortion-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1181949866.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden's HHS pick Becerra sued the Trump admin more than 100 times as California AG: Here are some of his cases"
+    excerpt: "California Attorney General Xavier Becerra, who President-elect Biden announced Monday will be his nominee for Health and Human Services secretary, has been one of the most litigious attorneys general against the president in recent years, actively pursuing progressive policies in the courts more than"
+    publishedDateTime: 2020-12-07T18:50:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/31TXyMW0NuY/xavier-becerra-lawsuits-california-attorney-general-biden-hhs-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/xavier-becerra-lawsuits-california-attorney-general-biden-hhs-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/xavier-becerra-lawsuits-california-attorney-general-biden-hhs-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Consulting firm linked to Biden's cabinet scrubs China work from website"
-    excerpt: "WestExec, a Washington, D.C. consulting firm, has reportedly scrubbed its work with China from its website as its history receives more scrutiny in the lead-up to Joe Biden’s presidency."
-    publishedDateTime: 2020-12-03T02:23:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PWghQ6qtETM/consulting-firm-biden-cabinet-scrubs-china-website"
-    ampWebUrl: "https://www.foxnews.com/politics/consulting-firm-biden-cabinet-scrubs-china-website.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consulting-firm-biden-cabinet-scrubs-china-website.amp"
+  - title: "Pro-lifers, religious liberty advocates sound alarm over Biden HHS pick Xavier Becerra"
+    excerpt: "A number of Catholics and conservative activists are sounding the alarm Monday over Health and Human Services Secretary nominee Xavier Becerra, pointing to his record of attacking conservative policies as California's attorney general. "
+    publishedDateTime: 2020-12-07T20:19:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NDbnaXr1Gq0/pro-lifers-religious-liberty-advocates-becerra-hhs"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-lifers-religious-liberty-advocates-becerra-hhs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-lifers-religious-liberty-advocates-becerra-hhs.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20336659224888-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Gaetz accuses Biden of wanting to be 'valet for the establishment in both parties'"
-    excerpt: "An unusual and seemingly unlikely coalition of progressive Democrats and populist Republicans could form an alliance to be reckoned with in the new Congress next year, Rep. Matt Gaetz, R-Fla. told \"The Ingraham Angle\" Wednesday."
-    publishedDateTime: 2020-12-03T05:20:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hRDCiDJzEA4/matt-gaetz-joe-biden-valet-establishment-both-parties"
-    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-joe-biden-valet-establishment-both-parties.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-joe-biden-valet-establishment-both-parties.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7945671-5140-4bb7-b9ce-6d57364eea10/56b6ff60-bb87-497c-96a6-207a4ac8958b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21e1e348-1ec2-479b-b481-cdd70f49ab47/4c923316-a2af-45f8-a6c4-18f5b1cb409a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Democratic Gov. Gretchen Whitmer to serve as co-chair of President-elect Joe Biden's inauguration"
-    excerpt: "Michigan Gov. Gretchen Whitmer will serve as co-chair for President-elect Joe Biden’s inauguration next month. "
-    publishedDateTime: 2020-12-07T20:35:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/roZTFUpA4wU/democratic-gretchen-whitmer-co-chair-joe-biden-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/democratic-gretchen-whitmer-co-chair-joe-biden-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-gretchen-whitmer-co-chair-joe-biden-inauguration.amp"
+  - title: "Biden picks health team, including Becerra for HHS secretary, Fauci as top coronavirus adviser"
+    excerpt: "President-elect Joe Biden announced Monday that he intends to nominate California Attorney General Xavier Becerra for secretary of Health and Human Services. "
+    publishedDateTime: 2020-12-07T11:07:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TKt-48-CoV4/biden-health-team-becerra-hhs-secretary-fauci-coronavirus-adviser"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-health-team-becerra-hhs-secretary-fauci-coronavirus-adviser.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-health-team-becerra-hhs-secretary-fauci-coronavirus-adviser.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20338756509391.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20316781729713.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Josh Hawley criticizes Biden Cabinet picks as 'corporatists,' 'war enthusiasts' and Big Tech 'sellouts'"
-    excerpt: "Sen. Josh Hawley on Tuesday criticized President-elect Joe Biden's cabinet picks."
-    publishedDateTime: 2020-11-24T19:27:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/36KXPicr0aE/hawley-biden-cabinet-picks"
-    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-cabinet-picks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-cabinet-picks.amp"
+  - title: "Kamala Harris Names Senior White House Staff"
+    excerpt: "The vice president-elect selected three women to serve in top roles on her team."
+    publishedDateTime: 2020-12-03T20:40:00Z
+    webUrl: "https://www.wsj.com/articles/harris-names-senior-white-house-staff-11607008158"
+    ampWebUrl: "https://www.wsj.com/amp/articles/harris-names-senior-white-house-staff-11607008158"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/harris-names-senior-white-house-staff-11607008158"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-267711/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Republicans slam Biden's HHS pick Becerra as 'disaster for California'"
+    excerpt: "Republicans slammed President-elect Joe Biden after he announced his choice of California Attorney General Xavier Becerra for secretary of Health and Human Services on Monday, and they criticized Becerra's record on abortion and other issues."
+    publishedDateTime: 2020-12-07T16:29:00Z
+    webUrl: "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c99b2eab-fccd-4bca-bd8a-6c50dcb0b717/753df433-c345-48e6-b3a0-496c55d655a5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1181949866.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Kamala Harris slammed for tweet sucking up to small businesses after bailing out rioters"
+    excerpt: "Vice President-elect Kamala Harris was widely slammed on Twitter this weekend for committing to helping small businesses affected by the pandemic despite having openly supported protesters at the height of social unrest over the summer."
+    publishedDateTime: 2020-11-30T11:55:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333665999101-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "komJswIKgVzzqyxzuxFHKCEo25gfbp4L6U0ZXVO9HnI7Ghq9580T4ozVG12eiSho+E5t9PfyosKGuSr302wqnOuNcIVoJ/2Q2SoStebeZtJHYzTmFwr0equUw4yjevR4p7nSFhoKSe0OG/YRNmdeB+zCWqvyR3pRkzMDmTO+0MJp+uwGl0qzfuGyKOKiG3vbUuAb3skAXG9a4hoscNGT1hRtPiyp3/Z6BjqGBwL/8xL0r7NaKH3q7pdL3mrfCA8jfGZ1oI2O5uBp0ODpo1uB2ZkFunAcNj8lMi9aTaGYTzOBSY4kixuUTeSApIkD4u3AxMFofgMxfZGK7mHWwMqVn9A7OA9W1OlL1P3ENL/2gFA=;sxL7A8i65DqkCwco/H0B6w=="

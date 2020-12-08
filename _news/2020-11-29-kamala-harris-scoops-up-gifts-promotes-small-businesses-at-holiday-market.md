@@ -124,38 +124,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris Names Senior White House Staff"
-    excerpt: "The vice president-elect selected three women to serve in top roles on her team."
-    publishedDateTime: 2020-12-03T20:40:00Z
-    webUrl: "https://www.wsj.com/articles/harris-names-senior-white-house-staff-11607008158"
-    ampWebUrl: "https://www.wsj.com/amp/articles/harris-names-senior-white-house-staff-11607008158"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/harris-names-senior-white-house-staff-11607008158"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-267711/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Kamala Harris slammed for tweet sucking up to small businesses after bailing out rioters"
-    excerpt: "Vice President-elect Kamala Harris was widely slammed on Twitter this weekend for committing to helping small businesses affected by the pandemic despite having openly supported protesters at the height of social unrest over the summer."
-    publishedDateTime: 2020-11-30T11:55:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333665999101-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "oiM6fsL2CkwZNuDvDvgKn4GHsXbqT4nbsk/YeuEYdBsiL9vt1bmb+30VNifMlhy8LdYmsLK9/4fl/+adRsfG/kzZTzERdXb7XhwK03bwAfv80mmw+v/BqB1H60VsnmVDGnX48TIauVXxiRTXbjwoZnMMAAVN7KVsGjWl0wep0TPXBqmUtacAN45kuvQXmDUa9pbpiLEiaPGskGGhx0TCsECwY7/79W0jaONJkAtx9Vvr963eL/4sQu0S4bVNTCWtQ7mWypnVGGzn1gETLYtWNwO9txlqwzNjRsyhewFPMHomORXcGNvRF8QYCxmiYN7Az9VYF9zSdgaj0UuDVA3rN7eylX0+wU4Bm6N2ohQ8yE+WOmqqQ31swIuydQv3TZsDYy3CazGbvSJIkAjBs780qsO3jqD2V0pV+rpWqI/hyfOM6SI2EhCJHTs1ERpZxlDEBoH7jWMfjvolbFtpuwtdR2ArmshKS8hknuQ2PB7Qo8nAIyLoXTW8qDvyGXGFYQGvoDSshtUwEAq/fXjc++Edww==;PFbBHNK209XOZLwfpKWk2w=="
 ---

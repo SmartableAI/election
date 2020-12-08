@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-11-17-trump-seizes-on-local-nevada-race-to-raise-suspicions-of-wider-problem.md",
+      "title": "Trump seizes on local Nevada race to raise suspicions of wider problem",
+      "excerpt": "President Trump called Nevada’s Clark County's decision to decline certifying one of its local races due to a number of discrepancies “a big victory,” and suggested that the issue could be evidence of a wider problem in the state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AbxyA80riSg/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AbxyA80riSg/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem.amp",
+      "publishedDateTime": "2020-11-16T23:35:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-this-isnt-a-game-michelle-obama-rips-into-trump-for-refusing-to-concede-and-says-he-put-her-family-in-danger-with-racist-lies.md",
       "title": "'This isn't a game': Michelle Obama rips into Trump for refusing to concede and says he put her family in danger with 'racist lies'",
       "excerpt": "The former first lady emphasized the need for a peaceful transfer of power, writing \"our democracy is so much bigger than anybody's ego.\"",
@@ -1271,58 +1327,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-elation-frustration-for-women-kamala-harris-win-is-a-big-step-but-long-overdue.md",
-      "title": "Elation, Frustration: For Women, Kamala Harris' Win Is A Big Step, But Long Overdue",
-      "excerpt": "Some women tell NPR the historic election of the nation's first female, and first woman of color is a move the right direction. Others say it's a reminder of how much more of the road lies ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/11/15/934161849/elation-frustration-for-women-kamala-harris-win-is-a-big-step-but-long-overdue",
-      "originalUrl": "https://www.npr.org/2020/11/15/934161849/elation-frustration-for-women-kamala-harris-win-is-a-big-step-but-long-overdue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/11/12/harris-for-tovia-story_wide-2a395a43aebcf7c8f950a7f1ef900b585b530d5c.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-15T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

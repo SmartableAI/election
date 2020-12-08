@@ -509,6 +509,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "President Donald Trump’s personal lawyer Rudy Giuliani in the hospital after positive coronavirus test"
+    excerpt: "President Donald Trump says his personal attorney Rudy Giuliani has tested positive for the coronavirus, making him the latest in Trump’s inner circle to contract the disease that is now surging across the U."
+    publishedDateTime: 2020-12-08T03:00:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-rudy-giuliani-coronavirus-20201206-eehkihbdw5hhjihayvt7vbceve-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-rudy-giuliani-coronavirus-20201206-eehkihbdw5hhjihayvt7vbceve-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-rudy-giuliani-coronavirus-20201206-eehkihbdw5hhjihayvt7vbceve-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/LlzBH-hBfshFlq7B1JJx1CRUxOE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/S4TSHQ3SQRE4VIWHJKBXHPDH74.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'Get better soon Rudy, we will carry on!!!': Trump tweets that Rudy Giuliani tested positive for coronavirus"
     excerpt: "Giuliani, who spent the week traveling the country challenging the election results, is the latest close associate of the president to test positive."
     publishedDateTime: 2020-12-06T21:43:00Z

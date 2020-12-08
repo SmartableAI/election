@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump Adviser Broke Law With Biden Criticism, Watchdog Says"
-excerpt: "A federal watchdog agency has found that President Donald Trump’s economic adviser Peter Navarro repeatedly violated the law during the presidential campaign season with his criticisms of now-President-elect Joe Biden."
-publishedDateTime: 2020-12-07T21:28:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-12-07/trump-adviser-broke-law-with-biden-criticism-watchdog-says"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-12-07/trump-adviser-broke-law-with-biden-criticism-watchdog-says"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-07/trump-adviser-broke-law-with-biden-criticism-watchdog-says?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-07/trump-adviser-broke-law-with-biden-criticism-watchdog-says?context=amp"
+title: "Trump adviser broke law with Biden criticism, watchdog says"
+excerpt: "A federal watchdog agency on Monday reported that one of President Donald Trump’s economic advisers repeatedly violated the law during the campaign season with his criticisms of Joe Biden, now the president-elect."
+publishedDateTime: 2020-12-08T02:35:00Z
+originalUrl: "https://www.businessinsider.com/trump-adviser-broke-law-with-biden-criticism-watchdog-says-2020-12"
+webUrl: "https://www.businessinsider.com/trump-adviser-broke-law-with-biden-criticism-watchdog-says-2020-12"
+ampWebUrl: "https://www.businessinsider.com/trump-adviser-broke-law-with-biden-criticism-watchdog-says-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-adviser-broke-law-with-biden-criticism-watchdog-says-2020-12?amp"
 type: article
-quality: 70
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -951,6 +951,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "EPH0SJ/onM/c22ZtNDmqqeOf+5VsE2GTMf/AXKkd3gHhU/Pwp0cAsWefKLJxzPfr4ujDqKthP2im8a0V1sUAcN05dG6iWI9dPdS1vatlv9UvgOdCNI3QEZlWJ8W1RwO/nTim219LeAOGskoRhZvF61885mElEZUaJ6D6aE6K0FTCf/cFfbV18doZNFrwR4z2ljhJ2JHBcgpuQkevdtHcGK02Wd/CdMn7/snvfyOGuy/JQDh1ATY6SY7Hiumi5FqPUu1VB1iYMmHKr1uLx6hl/FTOMu9a+BckPngLXKVv4y9QjXGkhHDIrml9DnOZTKS/w+CCordxmQcGGuHE6fduIgUYf8DCLPvni96oxKM2TF5IaNR9g9zZBZJeKjcMdeJ53CFPpE5d1GSg8+7vTyvZt2rAxBGTIVCtTQtIgevnsmFG02ddk7OwlxRgw0x1qQkcJUlmHvoC7TRmoCOFsYWAaUGGKYN8VAEItU6jRyIWfpHE/1WSypFSnR7W2CyNs9cWbAPPMx6l0lMfQsIOXZwARg==;2iRnL+ulTC9rMULlxo8+bg=="
+secured: "5ubE+oMxVmX7ksTxiG99d0Uw20nvtMLW6U5ku+0pSQJydhJGew7HYTmT6zAtE+xsK71x1pre6LnLt2PYQGR+6+gNGoV3kUgRX23MDO7Ib0xGLYo2axXRE93Zrbsv0wQG/jEsJToAJXBa4p7QW5zvfXH6OE0de3yfnEdv9H9qdkw9MlNgZ1sKa4lJ1Zi1f+tBWcvZduzvNW8Y/w1zAj4xAuNZrowDh2Fw7uW7NArQkzURSGWE2/+UNGMCgdAfEBjSdWeiawmghqOA3jKSElV2s56TNpQi0fEugt4VuuQ/gFqVVwD3dEW0OZ7z2j8cvDM3NMkg3T9wg+IRt+RRzbrmqiyfhpQSddrGEyxWatzD4SA=;x6+bqM2atxREHeHyghzyzA=="
 ---
 

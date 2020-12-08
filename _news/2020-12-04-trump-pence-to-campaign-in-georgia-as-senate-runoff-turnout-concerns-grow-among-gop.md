@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-sen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
 type: article
 quality: 143
-heat: 1443
+heat: 1503
 published: true
 
 provider:
@@ -945,6 +945,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Republicans may have shot themselves in the foot by hitching their wagon to Trump ahead of the Georgia Senate runoffs"
+    excerpt: "Republicans have spent weeks backing Trump's conspiracy theories about voter fraud and election rigging. Now it's coming back to bite them."
+    publishedDateTime: 2020-12-04T17:01:00Z
+    webUrl: "https://www.businessinsider.com/republicans-messaging-crisis-trump-lin-wood-georgia-runoffs-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/republicans-messaging-crisis-trump-lin-wood-georgia-runoffs-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-messaging-crisis-trump-lin-wood-georgia-runoffs-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5fc98aa8b6a3a800199b682b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How Trump's unverified voter fraud claims are impacting Georgia's Senate runoff"
     excerpt: "Senate runoff in Georgia could determine which party controls the Senate in the Biden administration. As President Trump continues to launch baseless claims against the integrity of the 2020 election,"
     publishedDateTime: 2020-11-29T09:33:00Z
@@ -956,6 +972,20 @@ related:
     quality: 101
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/fd2cd95e-564f-447c-adb8-9b69b714dec7/thumbnail/1200x630/b7ca1f84f36f2bcfe83b5a597d6062bb/cbsn-fusion-how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff-thumbnail-597494-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Local Matters: Georgia's Republican governor rejects Trump's request to call special session to overturn election results"
+    excerpt: "Georgia's Republican Governor Brian Kemp has rejected a request from President Trump to call a special session to overturn the results of the November election. In a statement Sunday, Kemp said Mr. Trump asked him to choose a new slate of presidential electors for when the electoral college casts its official vote next week,"
+    publishedDateTime: 2020-12-08T02:02:00Z
+    webUrl: "https://www.cbsnews.com/video/georgia-republican-governor-rejects-trump-request-to-call-special-session-to-overturn-election-results/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/70f26f6c-bb5c-47b7-9bce-f8fe5fd26310/thumbnail/1200x630/c0929f2f330b4ce91f553b4858c6a84e/cbsn-fusion-georgias-republican-governor-rejects-presidents-request-to-call-special-session-to-overturn-election-results-thumbnail-603557-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -974,6 +1004,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/69048a54-e77d-429d-836c-afec33df2488/ff026654-c418-41ed-867b-48de28509fd9/1280x720/match/image.jpg"
         width: 1279
         height: 720
+        isCached: true
+  - title: "Mike Pence returning to Georgia this week"
+    excerpt: "The White House announced on Monday evening that Mike Pence will make two major stops in Georgia on Thursday - the first in Greenville, South Carolina and the next in Augusta, Georgia. The first stop will allow Pence to participate in a roundtable regarding Operation Warp Speed and South Carolina's vaccination plans."
+    publishedDateTime: 2020-12-08T01:52:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/georgia-pence-visit-augusta/85-cf56f1c2-4d5a-4732-b8f7-b5c0ba0173af"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/georgia-pence-visit-augusta/85-cf56f1c2-4d5a-4732-b8f7-b5c0ba0173af"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/georgia-pence-visit-augusta/85-cf56f1c2-4d5a-4732-b8f7-b5c0ba0173af"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 75
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/f35f42d2-ad5f-43ad-ac33-bffd4a4f4fbc/f35f42d2-ad5f-43ad-ac33-bffd4a4f4fbc_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Mike Pence comes to Georgia as calm before potential Trump storm"
     excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatile visit to the state that will determine which party controls the Senate in January."

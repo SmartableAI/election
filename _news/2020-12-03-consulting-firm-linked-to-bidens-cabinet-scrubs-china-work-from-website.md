@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden HHS pick sued nuns over contraception mandate"
-    excerpt: "President-elect Biden has chosen a secretary of Health and Human Services who sued to block a policy that would have exempted nuns from Obamacare's contraception mandate, provoking even more scrutiny over how Biden's Catholic faith influences his political agenda."
-    publishedDateTime: 2020-12-07T21:06:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fohoO2PHXFc/biden-hhs-pick-nuns-contraception-mandate"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-pick-nuns-contraception-mandate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-pick-nuns-contraception-mandate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21e1e348-1ec2-479b-b481-cdd70f49ab47/4c923316-a2af-45f8-a6c4-18f5b1cb409a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Gaetz accuses Biden of wanting to be 'valet for the establishment in both parties'"
     excerpt: "An unusual and seemingly unlikely coalition of progressive Democrats and populist Republicans could form an alliance to be reckoned with in the new Congress next year, Rep. Matt Gaetz, R-Fla. told \"The Ingraham Angle\" Wednesday."
     publishedDateTime: 2020-12-03T05:20:51Z

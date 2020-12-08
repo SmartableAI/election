@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-secretary-state-certifie
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
 type: article
 quality: 140
-heat: 1440
+heat: 1460
 published: true
 
 provider:
@@ -526,6 +526,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543550384&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB40EU"
         width: 811
         height: 545
+        isCached: true
+  - title: "Georgia governor recertifies presidential electors after recount requested by Trump affirms Biden win"
+    excerpt: "Georgia governor recertifies presidential electors after recount requested by Trump affirms Biden win. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-12-08T02:28:00Z
+    webUrl: "https://www.washingtonpost.com/national/georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win/2020/12/07/0b921d0e-38fd-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win/2020/12/07/0b921d0e-38fd-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win/2020/12/07/0b921d0e-38fd-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Progressives worry about lobbying, corporate ties in Biden administration"
     excerpt: "When President-elect Joe Biden unveiled his national security team on Tuesday, there were several noticeable absences, including a nominee to lead the Department of Defense. Michele Flournoy, a leading candidate for the role who served in senior posts at the Pentagon during the Clinton and Obama administrations,"

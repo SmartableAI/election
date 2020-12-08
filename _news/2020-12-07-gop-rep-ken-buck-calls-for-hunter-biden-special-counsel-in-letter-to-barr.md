@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-speci
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
 type: article
 quality: 173
-heat: -1
-published: false
+heat: 213
+published: true
 
 provider:
   name: Fox News
@@ -31,69 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Republicans slam Biden's HHS pick Becerra as 'disaster for California'"
-    excerpt: "Republicans slammed President-elect Joe Biden after he announced his choice of California Attorney General Xavier Becerra for secretary of Health and Human Services on Monday, and they criticized Becerra's record on abortion and other issues."
-    publishedDateTime: 2020-12-07T16:14:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JjHymMUN7Oo/republicans-biden-hhs-xavier-becerra-abortion-senate"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
+  - title: "Top pro-GOP PAC launching new initiative to counter Biden's 'far-left policies'"
+    excerpt: "A leading outside group that supports Republican causes is firing up a new initiative to counter what it says will be the \"far-left policies\" of President-elect Joe Biden's incoming administration."
+    publishedDateTime: 2020-12-02T19:22:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1181949866.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden's HHS pick Becerra sued the Trump admin more than 100 times as California AG: Here are some of his cases"
-    excerpt: "California Attorney General Xavier Becerra, who President-elect Biden announced Monday will be his nominee for Health and Human Services secretary, has been one of the most litigious attorneys general against the president in recent years, actively pursuing progressive policies in the courts more than"
-    publishedDateTime: 2020-12-07T18:50:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/31TXyMW0NuY/xavier-becerra-lawsuits-california-attorney-general-biden-hhs-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/xavier-becerra-lawsuits-california-attorney-general-biden-hhs-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/xavier-becerra-lawsuits-california-attorney-general-biden-hhs-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Pro-lifers, religious liberty advocates sound alarm over Biden HHS pick Xavier Becerra"
-    excerpt: "A number of Catholics and conservative activists are sounding the alarm Monday over Health and Human Services Secretary nominee Xavier Becerra, pointing to his record of attacking conservative policies as California's attorney general. "
-    publishedDateTime: 2020-12-07T20:19:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NDbnaXr1Gq0/pro-lifers-religious-liberty-advocates-becerra-hhs"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-lifers-religious-liberty-advocates-becerra-hhs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-lifers-religious-liberty-advocates-becerra-hhs.amp"
+  - title: "President of Soros’ Open Society Foundations resigns, clearing way for potential Biden Cabinet position"
+    excerpt: "The president of George Soros’ Open Society Foundations, Patrick Gaspard, will resign, opening the way for him to take a possible position in the Biden administration."
+    publishedDateTime: 2020-12-05T22:30:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4czFeuEP1wo/president-of-soros-open-society-foundations-biden-cabinet"
+    ampWebUrl: "https://www.foxnews.com/politics/president-of-soros-open-society-foundations-biden-cabinet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-of-soros-open-society-foundations-biden-cabinet.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 159
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21e1e348-1ec2-479b-b481-cdd70f49ab47/4c923316-a2af-45f8-a6c4-18f5b1cb409a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57210d5f-358a-4ff8-acbe-abaf067e07f8/a94f5a55-e631-4532-af94-215a01db6a60/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Republicans slam Biden's HHS pick Becerra as 'disaster for California'"
-    excerpt: "Republicans slammed President-elect Joe Biden after he announced his choice of California Attorney General Xavier Becerra for secretary of Health and Human Services on Monday, and they criticized Becerra's record on abortion and other issues."
-    publishedDateTime: 2020-12-07T16:29:00Z
-    webUrl: "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1181949866.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "ad2Xz2onjQ2d5YUodEmqMN7ABcLHHOyw6FitArFs5hOE/JGR90pedq93OmftnaVmlfk+gwX5nUtNn4usi935dHoAl83NBuwHDe65O9SQADmekPp7TzAqTy9WlSfo0XuzDX58QGk1byFlGlIdhZ7K4eFe0EdnAfjgtSkEQFcIRs+hjEZoplTgJTiIwLrMFtIhnGH9945IUk4O4jKwcq4rNzBbrT9M/CZRM/ztipslLmLW+L2T3t0F2BZS4Vs6dGzsZarQw033K8OQSCZL43RrVoy0DL3TOaTMKZpkX6+tw7p01AFkdXF+8tFkFmjNBI+V3dJ/Uw16CaElnw19TGRsqKZyvVyKMUqIH3S4FYM6gbY=;A4htX+wwMnap/CMIuCDOaQ=="

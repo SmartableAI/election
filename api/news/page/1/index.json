@@ -2,6 +2,120 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-08-bidens-hhs-pick-xavier-becerra-has-a-me-too-case-connection-to-kamala-harris.md",
+      "title": "Biden's HHS pick Xavier Becerra has a 'Me Too' case connection to Kamala Harris",
+      "excerpt": "Former top aide to Harris resigned after settling a sexual harassment case.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o2m2V3SkiFM/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o2m2V3SkiFM/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 356,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d11618b-8c19-40ee-b3af-cf78a4e1c780/d0cab256-d59f-48da-9bed-3dcd5aaee961/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp",
+      "publishedDateTime": "2020-12-07T18:26:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-what-safe-harbor-day-is-and-why-its-bad-news-for-trump.md",
+      "title": "What 'safe harbor day' is and why it's bad news for Trump",
+      "excerpt": "Of course, if a state fails to meet the safe harbor deadline but chooses its electors by Dec. 14, Congress can still count the votes. President-elect Joe Biden has 306 electoral votes to President Donald Trump's 232,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/what-safe-harbor-day-why-it-s-bad-news-trump-n1250205",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/what-safe-harbor-day-why-it-s-bad-news-trump-n1250205",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_50/3433975/201207-donald-trump-se-333p_55a362a8abac96df2b837ebbdfbe983b.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250205",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250205",
+      "publishedDateTime": "2020-12-07T17:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-biden-picks-retired-gen-lloyd-austin-to-be-his-secretary-of-defense.md",
       "title": "Biden picks retired Gen. Lloyd Austin to be his secretary of defense",
       "excerpt": "President-elect Joe Biden has selected retired Army Gen. Lloyd Austin, the former commander of US Central Command, to be his secretary of defense, a source familiar with the decision told CNN on Monday.\n    \n",
@@ -226,7 +340,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 176,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -243,6 +357,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp",
       "publishedDateTime": "2020-12-07T14:30:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-gop-rep-ken-buck-calls-for-hunter-biden-special-counsel-in-letter-to-barr.md",
+      "title": "GOP Rep. Ken Buck calls for Hunter Biden special counsel in letter to Barr",
+      "excerpt": "EXCLUSIVE: Republican Rep. Ken Buck on Monday urged Attorney General William Barr to appoint a special counsel to investigate Hunter Biden's business dealings and a laptop purportedly belonging to him in order to ensure an investigation “free from political interference.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPN7bxKFtu0/gop-rep-ken-buck-hunter-biden-special-counsel",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPN7bxKFtu0/gop-rep-ken-buck-hunter-biden-special-counsel",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp",
+      "publishedDateTime": "2020-12-07T11:36:08-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -299,62 +469,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-executive-order-coronavirus-vaccine-america-first.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-executive-order-coronavirus-vaccine-america-first.amp",
       "publishedDateTime": "2020-12-07T10:58:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-republicans-slam-bidens-hhs-pick-becerra-as-disaster-for-california.md",
-      "title": "Republicans slam Biden's HHS pick Becerra as 'disaster for California'",
-      "excerpt": "Republicans slammed President-elect Joe Biden after he announced his choice of California Attorney General Xavier Becerra for secretary of Health and Human Services on Monday, and they criticized Becerra's record on abortion and other issues.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JjHymMUN7Oo/republicans-biden-hhs-xavier-becerra-abortion-senate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JjHymMUN7Oo/republicans-biden-hhs-xavier-becerra-abortion-senate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1181949866.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp",
-      "publishedDateTime": "2020-12-07T08:14:08-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -872,7 +986,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-becerra-idUSKBN28G0YM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1239,119 +1353,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-patrick-basham-explains-why-biden-victory-not-statistically-impossible-but-statistically-implausible.md",
-      "title": "Patrick Basham explains why Biden victory 'not statistically impossible, but ... statistically implausible'",
-      "excerpt": "President-elect Joe Biden defied key \"non-polling metrics\" to defeat President Trump in a way that is \"not statistically impossible, but it's statistically implausible,\" pollster Patrick Basham told Fox News' \"Life, Liberty & Levin\" in an interview airing Sunday night.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zBlRDCVKiZY/2020-presidential-election-joe-biden-donald-trump-patrick-basham-mark-levin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zBlRDCVKiZY/2020-presidential-election-joe-biden-donald-trump-patrick-basham-mark-levin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b48d50c3-ace8-4c6b-b129-3b661b55fa7a/e249a213-52e6-4085-8808-f8e743c39797/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/2020-presidential-election-joe-biden-donald-trump-patrick-basham-mark-levin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/2020-presidential-election-joe-biden-donald-trump-patrick-basham-mark-levin.amp",
-      "publishedDateTime": "2020-12-06T04:30:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report.md",
-      "title": "Trump backers in Sacramento say counter-protesters damaged their vehicles: report",
-      "excerpt": "Some supporters of President Trump who gathered for a rally outside the  Statehouse on Saturday say they found their vehicles damaged when they tried to leave the event, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report",
-      "originalUrl": "https://www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/AP20113664367822.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report.amp",
-      "publishedDateTime": "2020-12-06T01:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

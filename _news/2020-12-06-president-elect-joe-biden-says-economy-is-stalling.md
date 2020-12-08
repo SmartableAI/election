@@ -651,6 +651,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump adviser broke law with Biden criticism, watchdog says"
+    excerpt: "A federal watchdog agency on Monday reported that one of President Donald Trump’s economic advisers repeatedly violated the law during the campaign season with his criticisms of Joe Biden, now the president-elect."
+    publishedDateTime: 2020-12-08T02:35:00Z
+    webUrl: "https://www.businessinsider.com/trump-adviser-broke-law-with-biden-criticism-watchdog-says-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-adviser-broke-law-with-biden-criticism-watchdog-says-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-adviser-broke-law-with-biden-criticism-watchdog-says-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Biden gains 87 votes in Trump's $3 million Wisconsin recount as Dane County wraps up review. President plans lawsuit."
     excerpt: "Dane County wrapped up its recount Sunday, affirming Democrat Joe Biden’s victory in Wisconsin. President Donald Trump is preparing a lawsuit."
     publishedDateTime: 2020-11-29T21:14:00Z
@@ -915,17 +926,6 @@ related:
         width: 570
         height: 320
         isCached: true
-  - title: "Trump Adviser Broke Law With Biden Criticism, Watchdog Says"
-    excerpt: "A federal watchdog agency has found that President Donald Trump’s economic adviser Peter Navarro repeatedly violated the law during the presidential campaign season with his criticisms of now-President-elect Joe Biden."
-    publishedDateTime: 2020-12-07T21:28:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-07/trump-adviser-broke-law-with-biden-criticism-watchdog-says"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-07/trump-adviser-broke-law-with-biden-criticism-watchdog-says?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-07/trump-adviser-broke-law-with-biden-criticism-watchdog-says?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
     excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."
     publishedDateTime: 2020-11-30T23:16:00Z

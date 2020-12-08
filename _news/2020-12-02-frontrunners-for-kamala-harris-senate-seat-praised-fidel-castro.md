@@ -112,22 +112,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris Names Senior White House Staff"
-    excerpt: "The vice president-elect selected three women to serve in top roles on her team."
-    publishedDateTime: 2020-12-03T20:40:00Z
-    webUrl: "https://www.wsj.com/articles/harris-names-senior-white-house-staff-11607008158"
-    ampWebUrl: "https://www.wsj.com/amp/articles/harris-names-senior-white-house-staff-11607008158"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/harris-names-senior-white-house-staff-11607008158"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-267711/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Kamala Harris scoops up gifts, promotes small businesses at holiday market"
     excerpt: "Vice President-elect Kamala Harris hit up a Washington, DC outdoor holiday market Saturday — and found herself the perfect stocking stuffer. With husband Doug Emhoff at her side, a laughing"
     publishedDateTime: 2020-11-28T22:27:00Z
@@ -143,22 +127,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/kamala-harris-doug-emhoff-holiday-shopping-MAIN.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Kamala Harris slammed for tweet sucking up to small businesses after bailing out rioters"
-    excerpt: "Vice President-elect Kamala Harris was widely slammed on Twitter this weekend for committing to helping small businesses affected by the pandemic despite having openly supported protesters at the height of social unrest over the summer."
-    publishedDateTime: 2020-11-30T11:55:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-slammed-tweet-small-businesses-bailing-out-rioters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333665999101-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "rUVry9C+H/zFOWMu8Mvmw4DoQFss8IwQJuhei8d5nwPMXUDyWYmFS/h7shhJkVzvsZFBumQu8WoeZA19gUzQyBbBYgTaMyc9yNfmInOhOGz3/9SxZyOGL1GIIgN1aZ4DeIxOT5E2bfKrLs9W1oJDBkFP8CV7o/ZNdXEBUSpNbChaXICvm+gHx2n9qb3/EEO6VKpJ5rXxae9tgXC6Nvdo5svDd4PpANSbTCIF1SsLbVijm3jKFUXhhJHsW/Ul6pIAqplkJGusTB8aM2PBh9DabTrN42P5Q+xH8KITtjHcbCJHTZqA6wJj/VrsHZA/0snzTEYcAxj5+3F3yB4f6BEHLhMb561o5bBq1dfvafxdedg=;M1NMJaxg3vCuNuRTEWHiKA=="

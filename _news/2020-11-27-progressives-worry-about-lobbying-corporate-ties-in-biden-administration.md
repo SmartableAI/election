@@ -543,6 +543,22 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "Georgia governor recertifies presidential electors after recount requested by Trump affirms Biden win"
+    excerpt: "Georgia governor recertifies presidential electors after recount requested by Trump affirms Biden win. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-12-08T02:28:00Z
+    webUrl: "https://www.washingtonpost.com/national/georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win/2020/12/07/0b921d0e-38fd-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win/2020/12/07/0b921d0e-38fd-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win/2020/12/07/0b921d0e-38fd-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "In Georgia, get-out-the-vote operations that helped Biden win haven’t stopped"
     excerpt: "The get-out-the-vote efforts of civic engagement groups like hers, which helped Joe Biden become the first Democratic presidential candidate to win the state in nearly three decades, have been ongoing since Nov."
     publishedDateTime: 2020-11-20T00:49:00Z

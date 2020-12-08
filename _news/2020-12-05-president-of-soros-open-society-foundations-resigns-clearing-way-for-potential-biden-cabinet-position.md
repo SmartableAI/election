@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/president-of-soros-open-society-fou
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-of-soros-open-society-foundations-biden-cabinet.amp"
 type: article
 quality: 159
-heat: 179
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Watters riffs on Biden choosing critics for Cabinet: 'They call him a buffoon, and he says \"you get me'''"
-    excerpt: "\"The Five\" co-host Jesse Watters remarked Thursday that President-elect Joe Biden appears to have stocked his would-be Cabinet and administration with notable recent or former critics -- including Vice President-elect Sen."
-    publishedDateTime: 2020-12-04T10:15:00Z
-    webUrl: "https://www.foxnews.com/media/jesse-watters-biden-critics-cabinet-tucker-carlson-tonight"
-    ampWebUrl: "https://www.foxnews.com/media/jesse-watters-biden-critics-cabinet-tucker-carlson-tonight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jesse-watters-biden-critics-cabinet-tucker-carlson-tonight.amp"
+  - title: "GOP Rep. Ken Buck calls for Hunter Biden special counsel in letter to Barr"
+    excerpt: "EXCLUSIVE: Republican Rep. Ken Buck on Monday urged Attorney General William Barr to appoint a special counsel to investigate Hunter Biden's business dealings and a laptop purportedly belonging to him in order to ensure an investigation “free from political interference.”"
+    publishedDateTime: 2020-12-07T19:36:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPN7bxKFtu0/gop-rep-ken-buck-hunter-biden-special-counsel"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 118
+    quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e9a6113-5b29-49e5-8bd0-708cb62b0ed2/a52f250f-66c5-42e6-82c4-378ac35dcaad/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Top pro-GOP PAC launching new initiative to counter Biden's 'far-left policies'"
+    excerpt: "A leading outside group that supports Republican causes is firing up a new initiative to counter what it says will be the \"far-left policies\" of President-elect Joe Biden's incoming administration."
+    publishedDateTime: 2020-12-02T19:22:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "x4LB1sOMgXzOMUuQdnjwLbCzfvC/phAwCJLKaWDF2v8JraTbqZhP0CfoDO8FmmoC9nP2MSqyykcNF1cw5Yf13Lz+OUFeSytN7zz5N0XMBaQpWE5VvBaFfLbmoQDaCBHimiKvS1tHssfHrJHSx5yD8e/YVb8T6Nulk9IaPrGC2rc2w1+RFnj7P7iN+nqoDC34IIw1vI3DYltVmEu9k6GNLY2grdxsQ33gEHb+O458rCgLMEJ+1bOO8wYOZHsho2eIMJDwnzd6mesX1c1sMa82EiPjRJPvGWKKs9+wS0mtW/n6LeljP7MU146DOKz86Oq2XQZJu6DnJwQ4MIzV6m65/FxJvqEV2WK3h5J+M5kCWOc=;GvgdHVIsuFaX++qIX3Z6Sg=="

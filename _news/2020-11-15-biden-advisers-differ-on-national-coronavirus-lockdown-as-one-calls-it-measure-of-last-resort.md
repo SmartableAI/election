@@ -143,22 +143,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden picks health team, including Becerra for HHS secretary, Fauci as top coronavirus adviser"
-    excerpt: "President-elect Joe Biden announced Monday that he intends to nominate California Attorney General Xavier Becerra for secretary of Health and Human Services. "
-    publishedDateTime: 2020-12-07T11:07:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TKt-48-CoV4/biden-health-team-becerra-hhs-secretary-fauci-coronavirus-adviser"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-health-team-becerra-hhs-secretary-fauci-coronavirus-adviser.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-health-team-becerra-hhs-secretary-fauci-coronavirus-adviser.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20316781729713.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden unveils Transition COVID-19 Advisory Board to 'help shape' approach to coronavirus pandemic"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Monday announced the formation of the Transition COVID-19 Advisory Board which will “help shape” the incoming administration’s approach to managing the coronavirus pandemic."
     publishedDateTime: 2020-11-09T10:00:11Z
