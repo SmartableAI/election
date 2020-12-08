@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Tom Cotton says senators 'across the spectrum' have reservations about Biden's defense secretary pick"
+    excerpt: "Army combat veteran Sen. Tom Cotton on Tuesday explained his “reservations” with President-elect Joe Biden’s expected choice to serve as secretary of defense in his administration."
+    publishedDateTime: 2020-12-08T14:20:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M3DvMfAxxJw/tom-cotton-reservations-biden-secretary-defense-lloyd-austin"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-reservations-biden-secretary-defense-lloyd-austin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-reservations-biden-secretary-defense-lloyd-austin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "JU3r4mCm3cjplLHNysE/zREtbw2qlujgVhF5Vvgv7tDi17ULX5ho9JtbBEPZt/kjSLD8zNs8btuaifUb8WEPgIwK0LumUNKNibMhVZbd0njS+Q9hYDP0H6+8RRhneipsK+WNvFfpzWvlZBu/vksSrPKkzoNpM+VMLEbIxpNxb7gHtDElyejZ8dv+UokiGjRlM6jbwWM4NX2k43qzsTimSlIA6YzgUfWwmwM/P07XwES0EvHkFpSQQh4K8dkYCUyNdpsYuuYID6X+CFPQ58iQzGKWsz19W6YrDkmBVYTreVM7Sdj1dxI2WsxvMw1QEWSjrGP82dFaRouYQFT+F5V1km6SGc49bMZoq3579gAH4+s=;Z1+f00ItAjb3/hSLvU6poA=="
 ---

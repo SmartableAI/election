@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-name-his-defense-secretary
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp"
 type: article
 quality: 175
-heat: 196
+heat: 216
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/85337bb5-204b-463b-9f43-f1f0206fb7ef/77ef1044-1d52-4fd1-9090-96ae52c81ed9/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Tom Cotton says senators 'across the spectrum' have reservations about Biden's defense secretary pick"
+    excerpt: "Army combat veteran Sen. Tom Cotton on Tuesday explained his “reservations” with President-elect Joe Biden’s expected choice to serve as secretary of defense in his administration."
+    publishedDateTime: 2020-12-08T14:20:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M3DvMfAxxJw/tom-cotton-reservations-biden-secretary-defense-lloyd-austin"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-reservations-biden-secretary-defense-lloyd-austin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-reservations-biden-secretary-defense-lloyd-austin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "606SvOuwqHzEpoBAi+FR3hnPWxWr3xCcwOJ4IhSF43WJGZ4wUi3ocBO/bePb6wafoNFsaWa+bqwNfw/89ADzWQrF8bi33AP+6t60L0oW9nVATbkDFjzxHXu1orUuBvsEbCsFWrpXWvoZPqZ8QxyJNWY5gFgGFbiJLRCachIDtFceSb6Tz8/jKxXGsduPlTIAvchum/2JsujhtYl4X4/LwymRXahg+yN7MMt5pjJIuG255aUTGEPrHD7u117R+uO0nwby3FlHzGh1pLCMun/47T/4R0mQGhjhwR9tkh8E1UB8+eO4oJTvN2HVxQzOxgjf14HWR3B8mtlrB04Sw4EOs9F71AhArEb22U40rpPjTZE=;q1H8SLDoKULLdJ4NF7qWig=="

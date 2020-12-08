@@ -2,6 +2,149 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-08-vp-pence-mike-pompeo-will-go-to-georgia-ahead-of-senate-run-off-elections.md",
+      "title": "VP Pence, Mike Pompeo will go to Georgia ahead of Senate run-off elections",
+      "excerpt": "Vice President Pence and Secretary of State Mike Pompeo will both head to Georgia this week ahead of the two Senate run-offs that will decide which party controls the body. Pompeo will appear",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/",
+      "originalUrl": "https://nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/pompeo-pence-georgia-senate.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/amp/",
+      "publishedDateTime": "2020-12-08T06:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-vice-president-mike-pence-schedules-stop-in-south-carolina.md",
+      "title": "Vice President Mike Pence schedules stop in South Carolina",
+      "excerpt": "Pence is scheduled to hold a round table discussion on Operation Warp Speed, the administrations effort to promote the development of the coronavirus vaccine as quickly as possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestate.com/news/politics-government/article247690655.html",
+      "originalUrl": "https://www.thestate.com/news/politics-government/article247690655.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998035001/5717e438-c9d2-43cc-9edc-de8c4bd3f94b/main/1280x720/23s861ms/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.thestate.com/news/politics-government/article247690655.html",
+      "cdnAmpWebUrl": "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/politics-government/article247690655.html",
+      "publishedDateTime": "2020-12-08T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The State",
+        "domain": "thestate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-politics-updates-trump-reached-out-to-pa-house-speaker-over-election.md",
+      "title": "Politics updates: Trump reached out to PA House speaker over election",
+      "excerpt": "The Trump campaign has pressed Republicans to find ways to overturn election results in certain states the president lost.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 820,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/07/USAT/3c1f8107-9a3f-41e3-ab0b-4e49861b8e47-AP_Trump_1.jpg?auto=webp&crop=2391,1345,x0,y358&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6484311002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002",
+      "publishedDateTime": "2020-12-08T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-biden-picks-retired-us-army-gen-lloyd-austin-to-head-the-pentagon-if-confirmed-hed-be-the-first-black-man-to-lead-the-defense-department.md",
       "title": "Biden picks retired US Army Gen. Lloyd Austin to head the Pentagon. If confirmed, he'd be the first Black man to lead the Defense Department.",
       "excerpt": "Retired US Army Gen. Lloyd Austin would be America's first Black defense secretary, if confirmed by Congress.",
@@ -62,7 +205,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/safe-harbor-deadline-arrives-hurting-trumps-bid-overturn-election/6478954002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -341,7 +484,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -551,58 +694,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-08-melania-trump-unveils-new-white-house-tennis-pavilion.md",
-      "title": "Melania Trump unveils new White House tennis pavilion",
-      "excerpt": "The first lady was criticized earlier this year when she revealed plans for the pavilion at the start of the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/melania-trump-unveils-new-white-house-tennis-pavilion/",
-      "originalUrl": "https://www.cbsnews.com/news/melania-trump-unveils-new-white-house-tennis-pavilion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/07/28469bef-4ff1-482d-98f7-f06dc84a1287/thumbnail/1200x630/650c7134dd7eced043b5539fab8ea6e5/ap-20342573995693.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/melania-trump-unveils-new-white-house-tennis-pavilion/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/melania-trump-unveils-new-white-house-tennis-pavilion/",
-      "publishedDateTime": "2020-12-07T15:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-08-republican-lawmaker-says-the-gop-under-trump-is-advocating-for-crap-he-never-couldve-predicted.md",
       "title": "Republican lawmaker says the GOP under Trump is 'advocating for crap' he never could've predicted",
       "excerpt": "Illinois Rep. Adam Kinzinger said he'd like to see the GOP take a less divisive tone moving forward.",
@@ -667,7 +758,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 196,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -1157,7 +1248,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 404,
+      "heat": 424,
       "tags": null,
       "images": [
         {
@@ -1233,110 +1324,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-despite-mounting-legal-losses-braun-refuses-to-acknowledge-bidens-election-win.md",
-      "title": "Despite mounting legal losses, Braun refuses to acknowledge Biden's election win",
-      "excerpt": "The majority of the nearly 50 court cases brought by the Trump campaign have been tossed out by judges across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937",
-      "originalUrl": "https://abcnews.go.com/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 715,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/this-week-dick-durbin-mike-braun-01-gty-201205.jph_1607200841208_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937",
-      "publishedDateTime": "2020-12-06T18:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-loeffler-dodges-warnocks-question-did-donald-trump-lose-the-election.md",
-      "title": "Loeffler dodges Warnock’s question: ‘Did Donald Trump lose the election?’",
-      "excerpt": "Incumbent Sen. Kelly Loeffler (R) faced off against the Rev. Raphael Warnock (D) at a debate in Atlanta on Dec. 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/politics/loeffler-dodges-warnocks-question-did-donald-trump-lose-the-election/2020/12/06/a2533adf-3601-4a44-bf0f-2de198de53e2_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/politics/loeffler-dodges-warnocks-question-did-donald-trump-lose-the-election/2020/12/06/a2533adf-3601-4a44-bf0f-2de198de53e2_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/z5BjkhatT6rV4BvuhVhnD2X36i4=/400x225/d1i4t8bqe7zgj6.cloudfront.net/12-07-2020/t_f790417729ee4886a5bc30d0dc8fb6cd_name_loeffler_scaled.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-06T17:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

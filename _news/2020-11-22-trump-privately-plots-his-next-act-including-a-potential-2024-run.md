@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-2024-rematch/2020/11/2
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-2024-rematch/2020/11/21/58ce87ac-2a8d-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 245
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Live political updates: President Trump expected to spend Thanksgiving at the White House"
-    excerpt: "President Donald Trump and the first lady will be spending Thanksgiving at the White House for the first time since he began his tenure as president instead of at his Mar-a-Lago club in Florida. It is uncertain whether the change in scenery is attributable to the rising number of coronavirus cases,"
-    publishedDateTime: 2020-11-26T15:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/26/trump-thanksgiving-political-updates/6430438002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6430438002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6430438002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "'This is extremely powerful data': Trump's 2020 campaign app manufacturer in financial trouble"
     excerpt: "The \"Official Trump 2020 App\" allowed President Trump's reelection campaign to monitor the movements of his supporters."

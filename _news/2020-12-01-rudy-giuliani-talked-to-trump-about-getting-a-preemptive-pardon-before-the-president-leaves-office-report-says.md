@@ -47,38 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "As lawyers keep pushing Trump election challenges, calls for sanctions mount"
-    excerpt: "As President Donald Trump and his allies continue to bring legal challenges in an effort to overturn the election, some election officials are starting to cry foul."
-    publishedDateTime: 2020-12-05T10:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/lawyers-pushing-trump-election-challenges-calls-sanctions-mount/story?id=74544823"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/lawyers-pushing-trump-election-challenges-calls-sanctions-mount/story?id=74544823"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lawyers-pushing-trump-election-challenges-calls-sanctions-mount/story?id=74544823"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 137
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-lawyer-sanctions-rudy-giuliani-sidney-powell-01-rt-llr-201204_1607119234055_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Election officials face threats, intimidation as Trump pushes false fraud claims"
-    excerpt: "Jocelyn Benson, Michigan's top election official, had just finished hanging Christmas decorations with her young son on Saturday night when a crowd demanding November's presidential election result be reversed gathered outside her home to denounce her as a \"traitor\""
-    publishedDateTime: 2020-12-08T11:35:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-threats-idUSKBN28I1D9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I1D9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I1D9"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 135
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543806436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB70R9"
-        width: 763
-        height: 545
-        isCached: true
   - title: "Former head of U.S. election security calls Trump team fraud allegations 'farcical'"
     excerpt: "The top U.S. cybersecurity official fired by Republican President Donald Trump for saying the Nov. 3 election was the most secure in American history said on Friday voter fraud allegations made by Trump and his allies are \"farcical\"."
     publishedDateTime: 2020-11-28T01:36:00Z
@@ -143,22 +111,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live updates"
-    excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
-    publishedDateTime: 2020-12-02T14:24:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates?page=with:block-5fc77f578f08c1b9f1358496"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/02/us-election-donald-trump-joe-biden-william-barr-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 130
-    images:
-      - url: "https://i.guim.co.uk/img/media/be52e726131e6fc701bed4467ec98eeae8bcf0f1/533_0_5467_3280/master/5467.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43aeecc3f1120f55f6e477d2f29152ed"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Julian Assange's partner appeals to Trump to pardon him"
     excerpt: "Julian Assange’s partner, Stella Moris, has tweeted President Donald Trump on Thanksgiving, appealing to him to pardon the WikiLeaks founder"
     publishedDateTime: 2020-11-26T16:50:00Z
@@ -206,22 +158,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/c11052f35fb1f65fe7c377c654ef0658772a6589/0_27_4860_2916/master/4860.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=da753df18c72d2a40197acf879c33f5f"
         width: 600
         height: 360
-        isCached: true
-  - title: "In video, Trump recycles unsubstantiated voter fraud claims"
-    excerpt: "President Donald Trump has delivered a 46-minute diatribe against the election results that produced a win for Democrat Joe Biden, unspooling one misstatement after another to back his baseless claim"
-    publishedDateTime: 2020-12-03T00:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-video-trump-recycles-unsubstantiated-voter-fraud-claims/2020/12/02/39c7b832-34fc-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Giuliani tests positive for COVID-19, latest in Trump's inner circle"
     excerpt: "President Donald Trump's lawyer Rudy Giuliani has tested positive for COVID-19, Trump said on Sunday, prompting one state legislature to close for a week after Giuliani visited to try to persuade lawmakers to help reverse Trump's election defeat."
@@ -572,34 +508,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/ad9469e2-a3e6-419c-b96f-c6b66aa56f6a-AP_Election_2020_Pennsylvania.jpg?auto=webp&crop=2960,1665,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump rehashes unsubstantiated voter fraud charges"
-    excerpt: "In a video released Wednesday, President Donald Trump delivered a 46-minute diatribe against the election that produced a win for Democrat Joe Biden, unspooling one misstatement after another to back his baseless claim that he really won."
-    publishedDateTime: 2020-12-03T00:55:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/trump-rehashes-unsubstantiated-voter-fraud-charges/3803536001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5e369c17-2563-4818-b065-d33127d7a479_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump won't say whether he has confidence in Barr"
-    excerpt: "President Donald Trump refused to say whether he still has confidence in his Attorney General Bill Barr after Barr told The Associated Press this week he has not seen any evidence of voter fraud that would have overturned the election results."
-    publishedDateTime: 2020-12-03T19:25:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/trump-wont-say-whether-he-has-confidence-barr/3812418001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0855d35a-7ddd-4bba-8f00-253c0e15a27d_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Pentagon installs 2 Trump allies on defense advisory board"
     excerpt: "The Pentagon has appointed two close allies of President Donald Trump to a defense advisory board, continuing a post-election purge in the final weeks of the administration."

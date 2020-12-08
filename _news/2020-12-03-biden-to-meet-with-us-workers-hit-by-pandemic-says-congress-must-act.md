@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1GM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1GM"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -183,6 +183,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/xvHs5DmNU-TWtuQsIVRcbg-B8P0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F7CW27NKDBAWFFLEC2ZWZKZBJ4.aspx"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden to name Gen. Lloyd Austin as defense secretary, reports say"
+    excerpt: "Austin, a retired four-star general from Alabama, would be the first Black secretary of defense should he be confirmed by the Senate."
+    publishedDateTime: 2020-12-07T23:36:00Z
+    webUrl: "https://www.nj.com/politics/2020/12/joe-biden-to-name-gen-lloyd-austin-as-defense-secretary-reports-say.html"
+    ampWebUrl: "https://www.nj.com/politics/2020/12/joe-biden-to-name-gen-lloyd-austin-as-defense-secretary-reports-say.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/12/joe-biden-to-name-gen-lloyd-austin-as-defense-secretary-reports-say.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OTIKEDVUXBEYNEQC4QTIU6FNJA.jpg"
+        width: 720
+        height: 413
         isCached: true
 
 secured: "dH/NGGQAoKIecBK+uL72+X4OdLVD5U5QLNQxFrpNQ7oEKoGlcgDSfu+TwnWRiVKsgYMAcFboxckVBRki7BEf0gMGHhZxJImDn8MzeRl4zkFMgNvOulkOvqEzi+IKjaTj9Suso4A762H3bsr6xXobPeCJplOPUUG3Cq3IipllklWD0tnGwZAu/gytlX2WCJQ7TEmuNbqBHbN8RdvBEu1qapGyCSYNW00OZuhJenQT4w4p/pp/CEw5o4myfLSsRSXp2/zTwux/fgF4n+4WUdJEbcwBfh7DPGVZYIfWmE2YaQDh+0p897w5BOESZ/vhIF6TY7kibHznGeQbaVHdmgiOIiQnR7O2uUBXeIvKereoUkn2yVuC5GkcpFTpAHMgpOLkH/o7bDR9tWteu4zlDhrYN4xnxrYfI0IHB3juyo/fSQY2NrSTZclnrqhOpxZSZGfcQQ/IxlUiiKqq05/0yq9fIMWfFN0eFViXifCSttW+JUxcCiyllCHL7OLSrOFLOvOQAxwHWiUkpe0yzhQMNoeCkQ==;oRqePtuyiR2idpOwBfAWPA=="

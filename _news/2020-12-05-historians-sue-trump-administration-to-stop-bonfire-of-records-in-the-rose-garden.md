@@ -63,22 +63,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Could Trump pardon family members and other close associates? His prior pardons may set the stage for more"
-    excerpt: "As President Trump weighs granting more pardons during his final days in office, experts say the politicization of his broad clemency powers is a fait accompli."
-    publishedDateTime: 2020-12-04T10:07:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/04/trumps-flynn-pardon-prompts-fears-politicization-sweeping-power/3803847001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3803847001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3803847001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/03/USAT/5331e166-9612-4ec8-9820-957905b145ec-Trump_video.jpg?auto=webp&crop=5597,3149,x0,y284&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "MFjOtWtPC0qh8pGu4QcE8t5gB3svwBVAp03rqw5oITlXvlNwkWiBZOuNpgdr/rUdKGRTYAkYUDVU9rBGw7PaNuvZHIVbrC2bIMKkoGTmAReGZPcYykoisf4hMZvP0dro8y39ThaSH8KWsfONsYGfYSWXDHuuKL1oZlkKdJAx/taca47tdHWpLQLg1Dd1UzXqu5SNlZerUEyyo5G0YrGc0SfpHuX3pMdrwynTtAWNIH2eqthOChDTo9T5zrCKyG6H3cmqeOVJDk8LTLcckz9QuIF+n1qRM1bemZSE2TcAn9OS0AeI72vrQdNov7tMA22siEb7NXe375dtyqaCZJHeU2a6Q7sgT9vL9jELfHefIMdz+c12GdWpyejcZQ9jUr+yqO50p9GEm0ddbB7T/aAx9V/dpqRFyHYqNL615JlI3k4QpyPAO6eWdXLLQyPlJLU+aQkeRYjZeW/OAlWRBYgndGX5vAcYJFM/U3rl34SfK3ZvYCcRP+PXEw79MuDqEjrGhhbBxooHo7Kd++u60FAW/w==;aHTrVS+OyizCi9Ce+Vsc9w=="
 ---

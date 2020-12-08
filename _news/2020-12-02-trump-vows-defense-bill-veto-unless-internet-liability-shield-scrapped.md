@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C0B1"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C0B1"
 type: article
 quality: 125
-heat: 245
+heat: 205
 published: true
 
 provider:
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Drug industry trade groups sue Trump admin over drug pricing rule"
-    excerpt: "Drug industry trade groups filed two lawsuits against the Trump administration on Friday challenging new U.S. rules to lower drug prices, potentially undermining one of President Donald Trump's flagship efforts to take on high drug costs."
-    publishedDateTime: 2020-12-05T05:43:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-drug-pricing-idUSKBN28E2KI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E2KI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E2KI"
+  - title: "Trump thought courts were key to winning. Judges disagreed."
+    excerpt: "President Donald Trump and his allies say their lawsuits aimed at subverting the 2020 election and reversing his loss to Joe Biden would be substantiated if only judges were allowed to hear the cases"
+    publishedDateTime: 2020-12-08T14:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543504641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31RG"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "Trump thought courts were key to winning. Judges disagreed"
-    excerpt: "President Donald Trump and allies say their lawsuits aimed at subverting the 2020 election and reversing his loss to Joe Biden would be substantiated, if only judges were allowed to hear the cases"
-    publishedDateTime: 2020-12-08T10:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fa8c79d0bfc646c78d5aa07119651a40_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "U.S. Congress defense bill defies Trump on Germany withdrawal, base names"
     excerpt: "U.S. lawmakers unveiled the final version of a massive annual defense policy bill on Thursday that defies President Donald Trump's plans to withdraw troops from Germany and keep the names of Confederate generals on military bases,"
@@ -110,22 +94,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/90f61df1-be20-45c5-9bd8-9690433193d5-AP_Mary_Trump_Interview.jpg?auto=webp&crop=1499,844,x0,y76&format=pjpg&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Republicans are abandoning Trump over his threat to hold defense bill hostage to get back at tech companies"
-    excerpt: "Lawmakers take pride in passing the annual defense spending bill, and they're not happy about Trump interfering with that."
-    publishedDateTime: 2020-12-03T15:46:00Z
-    webUrl: "https://www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-republicans-balk-as-trump-uses-defense-bill-for-leverage-on-big-tech-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5fc8fcfe50e71a0011558a89?width=1200&format=jpeg"
-        width: 799
-        height: 399
         isCached: true
 
 secured: "DVZzwVDDT8vxZFmqphWmKUnmxYYmkTlhvtfJJ2IEJJlm4VMZhjQxushFrFWZt7J69XJj4IhwxL4qPTYO/j1SlWHjU4ki3Leq89BHEJWVLaDEpEJpX2wt5EgXoucB7JXdYRqNn5UvK8mu4TFosPllqb3QtwvhB4vT0ikV1fL1ro18dNAXn9pOZ2XszGzKJ/VTjPaiZ1FT9ZeL7qAgO8fdeXzFU0seqRWqCHzexBD04PoVlfTksGpBKroAaC9I2PNou25hleg46+JQVF/59Rx4bx2n21KDIgzY/xKt4e+MvYrXSXIZJ38rHHHW2DWBX/fDWnd0cBIOIFzKAdlYarWBN7wqSx1q7GQ7rF5rkkWJkPY=;DY8tome0g6tVpcxtHlCMlw=="

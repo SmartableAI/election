@@ -184,6 +184,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden to name Gen. Lloyd Austin as defense secretary, reports say"
+    excerpt: "Austin, a retired four-star general from Alabama, would be the first Black secretary of defense should he be confirmed by the Senate."
+    publishedDateTime: 2020-12-07T23:36:00Z
+    webUrl: "https://www.nj.com/politics/2020/12/joe-biden-to-name-gen-lloyd-austin-as-defense-secretary-reports-say.html"
+    ampWebUrl: "https://www.nj.com/politics/2020/12/joe-biden-to-name-gen-lloyd-austin-as-defense-secretary-reports-say.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/12/joe-biden-to-name-gen-lloyd-austin-as-defense-secretary-reports-say.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OTIKEDVUXBEYNEQC4QTIU6FNJA.jpg"
+        width: 720
+        height: 413
+        isCached: true
 
 secured: "tkB7OHFi/1em6kinPVn94z5lCUOd9dKS3Q/FoHsxmCsNnPxfc3p1jCHpuPAWCa+vLmgo7IUbO2AkYncINWr5yVKOjYuLMbyOVqwJ8Le5hHJFa5n2n7gSzs3pZ7PoUxAgpbGjmPLd7yZCvJMJl0WSBFBCMhtaiJ0NArNg5AQxPvr3f5Pyvc+Ku3X1XGzaLTEdrrHdI92txf3SIZ/oosswrKJS55Ep/nNOriu/kxsK/g6PfQmjnDbYThvRu89oNHr5HTUJw67BSFZPKLoWROtB/+BlJ/dsKUV+mr9V+CtmdMB3yOCJi60/IoEXUYRGHl6LRdaFCO3MrBApw3PmSUzPnezw9huOULyNgbm1L1n2SZ4cK+Xl3tn61yH2+ryuKJr3i1nfp1OJlH38UUja36unB2D2ekmxHH8cpqM5S9jIg3NZFYHhj8gZt+zt8vk2nTihmCbzu5ZEJoVT/XHhDhMl7NwW5VQi9Qgw+MfE0nN6VS2eX7S23JN3AEDN9ubbqKn9gNXGDCs9wzCDuJcztLC6ew==;goGxI9Q/3vZWJnX7u1E2uA=="
 ---

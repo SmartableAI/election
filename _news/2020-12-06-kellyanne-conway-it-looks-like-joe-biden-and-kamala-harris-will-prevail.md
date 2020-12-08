@@ -252,6 +252,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Biden picks defense secretary as Trump hosts vaccine summit – live"
+    excerpt: "The US is on course to record its 15 millionth coronavirus case today"
+    publishedDateTime: 2020-12-08T14:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fcf5f238f0861e6ffe1ecdb"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/a354366001ea3c24f1c9af734ebafff1fc0e17e4/257_168_3421_2053/master/3421.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6eb59eca6489fba5753b63947d2eb074"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump ratchets up pace of executions before Biden inaugural"
     excerpt: "As Donald Trump’s presidency winds down, his administration is ratcheting up the pace of federal executions despite a surge of coronavirus cases in prisons"
     publishedDateTime: 2020-12-07T18:51:00Z
@@ -831,6 +847,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Safe harbor law locks Congress into accepting Biden's win"
+    excerpt: "Happy Safe Harbor Day, America."
+    publishedDateTime: 2020-12-08T14:37:00Z
+    webUrl: "https://www.businessinsider.com/safe-harbor-law-locks-congress-into-accepting-bidens-win-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/safe-harbor-law-locks-congress-into-accepting-bidens-win-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/safe-harbor-law-locks-congress-into-accepting-bidens-win-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Former CIA director says intelligence community will recover under President-elect Biden"
     excerpt: "Former CIA Director Michael Hayden told CBSN's \"Red & Blue\" that he believes that the intelligence community will recover under President-elect Joe Biden after it faced repeated attacks from President Trump over the past four years."
     publishedDateTime: 2020-12-07T23:33:00Z

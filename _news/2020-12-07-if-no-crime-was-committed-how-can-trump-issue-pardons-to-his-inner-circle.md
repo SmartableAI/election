@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 123
-heat: 183
+heat: 163
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543441769&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB3063"
         width: 817
         height: 545
-        isCached: true
-  - title: "Could Trump pardon family members and other close associates? His prior pardons may set the stage for more"
-    excerpt: "As President Trump weighs granting more pardons during his final days in office, experts say the politicization of his broad clemency powers is a fait accompli."
-    publishedDateTime: 2020-12-04T10:07:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/04/trumps-flynn-pardon-prompts-fears-politicization-sweeping-power/3803847001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3803847001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3803847001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/03/USAT/5331e166-9612-4ec8-9820-957905b145ec-Trump_video.jpg?auto=webp&crop=5597,3149,x0,y284&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "nENJER+FT8A5lPWcX12/jcBVgy1Ap9vufRnYzTV70+l26M/cUNDrCILMGY+UIdDtlwlgtxuxHsC9EZjI13L/lPm7IUZD5AnkwjmRVoTSyfi7JiDFWcCJSEsWmoE0o9KKcSt0q7X5HT2/ffcTrHkA/r08W0o30E0gmQXWtGH5nwPLx1boGVrbAgUjEgmatMfFAJUUvn8fD0kpshKR5Kip20P86rW52GV32xqhRMEzmY/FMcI61DXBwng2nLP5ICrQ/Twr6MyU7WYrPYwdEzMSGSfBTA0T0sF+0pR2CYrdBxnEBwo8MX6L1UGDH48BfvY10QacmKtvJqnopsKUgMyaARW2X0BDy6H98LoQJAQ3X78=;7aFCb40DSpDxfCj4b1DrMA=="

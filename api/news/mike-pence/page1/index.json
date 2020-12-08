@@ -2,6 +2,97 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-08-vp-pence-mike-pompeo-will-go-to-georgia-ahead-of-senate-run-off-elections.md",
+      "title": "VP Pence, Mike Pompeo will go to Georgia ahead of Senate run-off elections",
+      "excerpt": "Vice President Pence and Secretary of State Mike Pompeo will both head to Georgia this week ahead of the two Senate run-offs that will decide which party controls the body. Pompeo will appear",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/",
+      "originalUrl": "https://nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/pompeo-pence-georgia-senate.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/08/pence-pompeo-heading-to-georgia-ahead-of-senate-run-offs/amp/",
+      "publishedDateTime": "2020-12-08T06:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-vice-president-mike-pence-schedules-stop-in-south-carolina.md",
+      "title": "Vice President Mike Pence schedules stop in South Carolina",
+      "excerpt": "Pence is scheduled to hold a round table discussion on Operation Warp Speed, the administrations effort to promote the development of the coronavirus vaccine as quickly as possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestate.com/news/politics-government/article247690655.html",
+      "originalUrl": "https://www.thestate.com/news/politics-government/article247690655.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998035001/5717e438-c9d2-43cc-9edc-de8c4bd3f94b/main/1280x720/23s861ms/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.thestate.com/news/politics-government/article247690655.html",
+      "cdnAmpWebUrl": "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/politics-government/article247690655.html",
+      "publishedDateTime": "2020-12-08T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The State",
+        "domain": "thestate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-pences-political-future-remains-clouded-by-trump.md",
       "title": "Pence's political future remains clouded by Trump",
       "excerpt": "Days after the election, Mike Pence called a close friend for a 30-minute conversation to analyze what had just happened and what it all might mean for the future of the Republican Party. According to this person, the vice president was upbeat about the success of GOP candidates lower down the ballot,",
@@ -1425,101 +1516,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-vice-president-mike-pence-expected-in-sanibel-on-tuesday.md",
-      "title": "Vice President Mike Pence expected in Sanibel on Tuesday",
-      "excerpt": "An FAA alert suggests that Pence's visit will span Tuesday through Saturday. Pence has a long history of vacationing on the island.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/local/2020/11/10/mike-pence-visiting-lee-county-florida/6226614002/",
-      "originalUrl": "https://www.usatoday.com/story/news/local/2020/11/10/mike-pence-visiting-lee-county-florida/6226614002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/06/02/PFTM/b0ded584-03ed-4b97-b26a-18363eead202-pence.jpg?auto=webp&crop=599,337,x1,y268&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6226614002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6226614002",
-      "publishedDateTime": "2020-11-10T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-can-american-virtues-and-maybe-mike-pence-save-us.md",
-      "title": "Can American virtues (and maybe Mike Pence) save us?",
-      "excerpt": "Over the weekend, the 2020 presidential election abruptly shifted from slow motion to real-time. In rapid succession, former Vice President Joe Biden secured victory in the battleground state of Penns",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html",
-      "originalUrl": "https://www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/jBNysd9-CgGQwjQVVjXYpLnRjTA=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/6I4BVFCVEFF2NG5LPBS6YT2YNE.JPG",
-          "width": 1200,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html?outputType=amp",
-      "publishedDateTime": "2020-11-10T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

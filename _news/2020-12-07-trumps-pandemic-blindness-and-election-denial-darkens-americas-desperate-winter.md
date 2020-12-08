@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/donald-trump-pandemic-el
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/donald-trump-pandemic-election-results-joe-biden/index.html"
 type: article
 quality: 184
-heat: 404
+heat: 424
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_trump_separation_201203_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump admin has yet to launch promised effort to get Americans to trust Covid-19 vaccines"
+    excerpt: "At least 15 states told NBC News they are planning their own extensive communications campaigns to encourage the public to take the shot."
+    publishedDateTime: 2020-12-08T14:03:00Z
+    webUrl: "https://www.nbcnews.com/health/health-news/trump-admin-has-yet-launch-promised-effort-get-americans-trust-n1250194"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250194"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250194"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_50/3433805/201207-coronavirus-vaccine-sign-jm-0743_9e0230244e32c51e85c713c9030bb33b.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Federal watchdog finds 'substantial likelihood of wrongdoing' by Trump appointees overseeing Voice of America"
     excerpt: "The federal watchdog's findings mark the latest rebuke of the Trump-appointed CEO of the U.S. Agency for Global Media, Michael Pack."

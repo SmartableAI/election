@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-08-politics-updates-trump-reached-out-to-pa-house-speaker-over-election.md",
+      "title": "Politics updates: Trump reached out to PA House speaker over election",
+      "excerpt": "The Trump campaign has pressed Republicans to find ways to overturn election results in certain states the president lost.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 820,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/07/USAT/3c1f8107-9a3f-41e3-ab0b-4e49861b8e47-AP_Trump_1.jpg?auto=webp&crop=2391,1345,x0,y358&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6484311002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002",
+      "publishedDateTime": "2020-12-08T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-today-marks-an-important-electoral-college-deadline-heres-why-thats-bad-news-for-trump.md",
       "title": "Today marks an important Electoral College deadline. Here's why that's bad news for Trump",
       "excerpt": "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/safe-harbor-deadline-arrives-hurting-trumps-bid-overturn-election/6478954002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -118,7 +170,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -252,58 +304,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-melania-trump-unveils-new-white-house-tennis-pavilion.md",
-      "title": "Melania Trump unveils new White House tennis pavilion",
-      "excerpt": "The first lady was criticized earlier this year when she revealed plans for the pavilion at the start of the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/melania-trump-unveils-new-white-house-tennis-pavilion/",
-      "originalUrl": "https://www.cbsnews.com/news/melania-trump-unveils-new-white-house-tennis-pavilion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/07/28469bef-4ff1-482d-98f7-f06dc84a1287/thumbnail/1200x630/650c7134dd7eced043b5539fab8ea6e5/ap-20342573995693.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/melania-trump-unveils-new-white-house-tennis-pavilion/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/melania-trump-unveils-new-white-house-tennis-pavilion/",
-      "publishedDateTime": "2020-12-07T15:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -697,7 +697,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -911,7 +911,7 @@
       "originalUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1407,
+      "heat": 1447,
       "tags": null,
       "images": [
         {

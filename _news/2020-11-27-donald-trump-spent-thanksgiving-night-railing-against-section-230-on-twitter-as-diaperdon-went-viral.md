@@ -79,22 +79,6 @@ related:
         width: 1440
         height: 972
         isCached: true
-  - title: "Judge throws out Trump rules limiting skilled-worker visas"
-    excerpt: "A U.S. judge in California has struck down two Trump administration rules designed to drastically curtail the number of visas issued each year to skilled foreign workers"
-    publishedDateTime: 2020-12-02T14:12:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/judge-throws-trump-rules-limiting-skilled-worker-visas-74493314"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/judge-throws-trump-rules-limiting-skilled-worker-visas-74493314"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/judge-throws-trump-rules-limiting-skilled-worker-visas-74493314"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_116ebf0bcf7d4a8ab707549e3f5a4652_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "The only experts Trump wants his supporters to rely on are themselves"
     excerpt: "Trump is trying, unsuccessfully, to use it in the latter sense. He's unsuccessful because the idea that Republicans lower on the ticket might do better than Republicans higher on"
     publishedDateTime: 2020-12-03T20:00:00Z
@@ -126,22 +110,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYTSGZXMSAI6VPIIDMIBGK2FR4.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Twitter keeps flagging Trump for disinformation because Trump keeps tweeting disinformation"
-    excerpt: "This is a nonsense turducken, a false claim from a disreputable source stuck into a Trump tweet that layers on its own falsehood. The claims about Dominion voting machines are fal"
-    publishedDateTime: 2020-12-02T16:30:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/02/twitter-keeps-flagging-trump-disinformation-because-trump-keeps-tweeting-disinformation/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/02/twitter-keeps-flagging-trump-disinformation-because-trump-keeps-tweeting-disinformation/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/02/twitter-keeps-flagging-trump-disinformation-because-trump-keeps-tweeting-disinformation/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H2KWBWRFJAI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 978
         isCached: true
 
 secured: "qFvqRGPEqs9JaMJN4Eg0KzDNeKHYReRvVZLqFIo2uNSagPxV+DvkA3u4bq7QmGvleWC9imC6M9Cl12empSSwdBd2sWSpOoII49WDrf/1ytGtx9j0ALy0Ury+UN9sSB+7xX1EvRxnGg+AprHUAKT48AhG+CWmI2zxYfDYbrqh4u9QB+rwgNM0PVKYMDHJCkRbJu5LMRFBlS760LlQyuwVIP2NYJusNlRg8HnGYv0m7gO7VuVmVqnc2TKFxcMNkMBFIG5tdaK8Y+HlThE7+3pUOTv8E3K4CUzYnTvZRkXZNEP4bNAgT/jjvgcQ4el0CVJbG26aDk1CGtY2OSGVKv3bW+aLqvziM6MKUJD0zozZfdiMYTe0k5lqJFu7hhTiernwbu5M284xYCaWdr36Ftgo8yIQW65eXfk4WD7J6XF8ltDzZElJzc4EY1Jsqi9YxQcGXiTtzxxgs8ofK/EyJTfZZehC+aGmMG2/BzuE4gqorH6hvMmfHG0qtQHwzgew/9R5tTXaq7EuhOtpn8A2VlMGMw==;SRsqUGnVW/TfAg7kuzs0kw=="

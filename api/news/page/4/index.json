@@ -2,6 +2,118 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-03-romney-calls-trumps-leadership-on-covid-19-a-great-human-tragedy.md",
+      "title": "Romney calls Trump's leadership on Covid-19 'a great human tragedy'",
+      "excerpt": "Republican Sen. Mitt Romney on Thursday blasted President Donald Trump's leadership -- or lack thereof -- during the deadly coronavirus pandemic as \"a great human tragedy.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K3U2LsdyrRM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K3U2LsdyrRM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200205144611-02-romney-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/mitt-romney-trump-coronavirus-leadership/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/mitt-romney-trump-coronavirus-leadership/index.html",
+      "publishedDateTime": "2020-12-03T15:44:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.md",
+      "title": "Republicans demand probe into Padilla's $35M grant to Biden-linked firm, claim 'misuse' of taxpayer funds",
+      "excerpt": "EXCLUSIVE: Republicans on the House Oversight and House Administration Committees are demanding answers from California Secretary of State Alex Padilla, who has emerged the frontrunner to be appointed to Vice President-elect Kamala Harris’ Senate seat, about a “highly questionable” $35 million contract",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAqL3PyjFNE/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAqL3PyjFNE/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.amp",
+      "publishedDateTime": "2020-12-03T15:30:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-kamala-harris-makes-more-history-with-all-female-senior-staff-picks.md",
       "title": "Kamala Harris Makes More History With All-Female Senior Staff Picks",
       "excerpt": "For the first time, the top three positions in the office of the vice president will be held by women -- and all serving under the first woman to hold the office.",
@@ -287,7 +399,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28D2XS",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -709,49 +821,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-in-video-trump-unspools-unsubstantiated-voter-fraud-charges.md",
-      "title": "In video, Trump unspools unsubstantiated voter fraud charges",
-      "excerpt": "Increasingly detached from reality, President Donald Trump stood before a White House lectern and delivered a 46-minute diatribe against the election results that produced a win for Democrat Joe Biden,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/in-video-trump-unspools-unsubstantiated-voter-fraud-charges-2020-12",
-      "originalUrl": "https://www.businessinsider.com/in-video-trump-unspools-unsubstantiated-voter-fraud-charges-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/in-video-trump-unspools-unsubstantiated-voter-fraud-charges-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-video-trump-unspools-unsubstantiated-voter-fraud-charges-2020-12?amp",
-      "publishedDateTime": "2020-12-02T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1208,7 +1277,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-workers-idINKBN28C1GM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1304,63 +1373,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-john-mulaney-says-he-was-investigated-by-the-secret-service-over-joke-that-was-not-about-donald-trump.md",
-      "title": "John Mulaney says he was investigated by the Secret Service over joke 'that was not about Donald Trump'",
-      "excerpt": "John Mulaney says he was investigated by the Secret Service after making a joke that many believed was a threat against President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
-      "originalUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/John-Mulaney-Getty.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-mulaney-investigated-secret-service-joke-donald-trump.amp",
-      "publishedDateTime": "2020-12-02T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

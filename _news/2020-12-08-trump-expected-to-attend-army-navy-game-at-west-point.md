@@ -63,22 +63,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "U.S. Congress heads to defense bill showdown with Trump over Big Tech"
-    excerpt: "A senior U.S. Republican lawmaker said on Monday he hoped Congress would pass a $740 billion defense bill this week by a margin large enough to ward off President Donald Trump's veto threat, which he said risked \"punishing\" the troops."
-    publishedDateTime: 2020-12-07T23:10:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-defense-congress/congress-faces-christmas-showdown-with-trump-over-tech-and-defense-bill-idUSKBN28H2DQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2DQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2DQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543739210&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61DA"
-        width: 816
-        height: 545
-        isCached: true
   - title: "White House coronavirus adviser Fauci to meet with Biden transition team: CNN"
     excerpt: "White House coronavirus task force member Anthony Fauci will meet with members of President-elect Joe Biden's team on Thursday after President Donald Trump's administration delayed the transition process for weeks amid a coronavirus surge."
     publishedDateTime: 2020-12-03T15:24:00Z
@@ -111,22 +95,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump on track to preside over most federal executions in more than a century"
-    excerpt: "In its waning days, the Trump administration is on track to log the highest number of federal executions of any presidency in more than a century."
-    publishedDateTime: 2020-12-07T12:19:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-07/trump-cementing-death-penalty-legacy-most-executions"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-07/trump-cementing-death-penalty-legacy-most-executions?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-07/trump-cementing-death-penalty-legacy-most-executions?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 122
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/33550ce/2147483647/strip/true/crop/5002x3267+0+34/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fad%2Fa8%2F4834156d906fefae57c274574495%2F109a97301dce44fa93e5cff8a598f22d"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Trump adviser Navarro violated law against political activity -federal watchdog"
     excerpt: "President Donald Trump's trade adviser Peter Navarro knowingly and willfully violated federal law by attacking then-Democratic presidential candidate Joe Biden while serving in his official capacity,"
     publishedDateTime: 2020-12-07T23:43:00Z
@@ -142,22 +110,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543750485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61I4"
         width: 817
         height: 545
-        isCached: true
-  - title: "Trump fixated on his own political fate as virus kills record number of Americans"
-    excerpt: "President Donald Trump has remained largely absent on a pandemic of historic proportions, fixated on his political career."
-    publishedDateTime: 2020-12-04T23:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-fixated-political-fate-virus-kills-record-number/story?id=74536821"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-fixated-political-fate-virus-kills-record-number/story?id=74536821"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-fixated-political-fate-virus-kills-record-number/story?id=74536821"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/International/houston-icu-gty-rc-201130_1606744730935_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Which Trump official has coronavirus now? This reporter always seems to know first."
     excerpt: "If you want to find out who in the Trump administration has tested positive for coronavirus, you should probably just set an alert for Jennifer Jacobs’s tweets. The Bloomberg reporter has emerged as the preeminent source for intel on covid-19 cases in and around the White House."
@@ -206,22 +158,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LIOFX4RVUAI6XDJYNLVBVWZYHE.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "US Covid response in chaos as controversial Trump pandemic adviser Atlas resigns – live updates"
-    excerpt: "Country sees 28th consecutive day with over 100,000 new coronavirus cases recorded – follow all the latest news live"
-    publishedDateTime: 2020-12-01T14:45:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc655ad8f08ca673e8551c2"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 113
-    images:
-      - url: "https://i.guim.co.uk/img/media/6fb3812a919f54bcc052e8e0a9d077e79c2117cf/0_353_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2bdffa1eb06c9220edf46de05f129f37"
-        width: 600
-        height: 360
         isCached: true
   - title: "Trump has been distorting the military's role in work on a coronavirus vaccine from the very start"
     excerpt: "The military has contributed mightily to the project, but it won't produce, store, distribute, or administer the vaccines."
