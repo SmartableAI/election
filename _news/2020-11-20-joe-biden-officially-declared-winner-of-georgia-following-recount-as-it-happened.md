@@ -685,6 +685,17 @@ related:
         width: 3429
         height: 2472
         isCached: true
+  - title: "Georgia recertifies election results, confirming Biden's victory"
+    excerpt: "The results remain unchanged’ after third count of votes refutes Trump’s false claim to have won"
+    publishedDateTime: 2020-12-07T23:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/07/georgia-recertifies-election-results-confirming-bidens-victory"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/07/georgia-recertifies-election-results-confirming-bidens-victory"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/07/georgia-recertifies-election-results-confirming-bidens-victory"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
   - title: "Cannabis industry has 30-40% more upside, pot ETF issuer says after Joe Biden victory"
     excerpt: "Cannabis companies have an eventful four years ahead of them. Pot stocks have been hot following Election Day, with big names in the space including Canopy Growth, Aurora Cannabis, Cronos Group and Tilray all lighting up on the prospects of a Joe Biden presidency."
     publishedDateTime: 2020-11-21T21:37:00Z

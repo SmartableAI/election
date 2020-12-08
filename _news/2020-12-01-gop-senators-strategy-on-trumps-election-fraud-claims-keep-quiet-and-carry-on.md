@@ -141,6 +141,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump to sign order aimed at prioritizing Covid-19 vaccine shipment to Americans"
+    excerpt: "President Donald Trump is expected to sign an executive order on Tuesday aimed at prioritizing the shipment of the coronavirus vaccine to Americans before other nations, according to senior administration officials.\n    \n"
+    publishedDateTime: 2020-12-08T00:07:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Huv687f8YEM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/operation-warp-speed-vaccine-distribution-executive-order/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/operation-warp-speed-vaccine-distribution-executive-order/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118051338-01-donald-trump-rose-garden-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How to Protect America From the Next Donald Trump"
     excerpt: "The Constitution is supposed to protect us from demagogues. Can we make it work again? Voting Donald Trump out of office was crucial, but it will not be enough to save the American experiment. Many critics have used the words “authoritarian” or “fascist” to describe the president’s mode of politics,"
     publishedDateTime: 2020-11-09T14:00:00Z

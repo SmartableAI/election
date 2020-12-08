@@ -619,6 +619,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump election lawsuits in Georgia and Michigan rejected"
+    excerpt: "The Trump campaign is running out of time and legal avenues in their attempt to fight the results of the 2020 election in court. CBS News correspondent Nikole Killion, CBSN political reporter Caitlin Huey-Burns,"
+    publishedDateTime: 2020-12-08T00:33:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-election-lawsuits-in-georgia-and-michigan-rejected/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/2ee70264-b490-4add-af40-c2de2395f65f/thumbnail/1200x630/275a195f0e349e6b4c0460d5625be110/1207-rb-kdn-kdp-603523-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump heads to Georgia for two Republican candidates while pressing vote fraud claims"
     excerpt: "U.S. President Donald Trump headed to Georgia on Saturday for a rally aimed at boosting two Republican senators facing January runoffs, but some in his party worried he could end up hurting them by focusing on efforts to overturn his own loss on Nov."
     publishedDateTime: 2020-12-06T04:44:00Z

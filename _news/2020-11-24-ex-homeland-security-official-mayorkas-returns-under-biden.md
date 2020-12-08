@@ -679,6 +679,17 @@ related:
         width: 3429
         height: 2472
         isCached: true
+  - title: "Georgia recertifies election results, confirming Biden's victory"
+    excerpt: "The results remain unchanged’ after third count of votes refutes Trump’s false claim to have won"
+    publishedDateTime: 2020-12-07T23:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/07/georgia-recertifies-election-results-confirming-bidens-victory"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/07/georgia-recertifies-election-results-confirming-bidens-victory"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/07/georgia-recertifies-election-results-confirming-bidens-victory"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
   - title: "Joe Biden officially declared winner of Georgia following recount – as it happened"
     excerpt: "Audit upheld the original tally, Georgia secretary of state’s office said"
     publishedDateTime: 2020-11-20T02:13:00Z

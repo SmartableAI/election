@@ -1,34 +1,28 @@
 ---
 category: news
 title: "The Latest: Biden names prominent allies as inaugural chairs"
-excerpt: "President-elect Joe Biden is naming some of his most prominent allies to be co-chairs for his upcoming Inauguration"
-publishedDateTime: 2020-12-07T15:24:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
-webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
+excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+publishedDateTime: 2020-12-07T15:27:00Z
+originalUrl: "https://www.businessinsider.com/the-latest-biden-names-prominent-allies-as-inaugural-chairs-2020-12"
+webUrl: "https://www.businessinsider.com/the-latest-biden-names-prominent-allies-as-inaugural-chairs-2020-12"
+ampWebUrl: "https://www.businessinsider.com/the-latest-biden-names-prominent-allies-as-inaugural-chairs-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-names-prominent-allies-as-inaugural-chairs-2020-12?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_97ba35b36e2949f0acd2398caec14d70_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden talks inauguration plans; Obama, Pence seek to boost Ga. Senate candidates"
@@ -254,6 +248,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "The Latest: Biden plans to announce defense secretary Friday"
+    excerpt: "President-elect Joe Biden says he’ll announce his choice for defense secretary on Friday. Biden made the comment as he climbed into his motorcade in Wilmington, Delaware, on Mon"
+    publishedDateTime: 2020-12-08T00:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_97ba35b36e2949f0acd2398caec14d70_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Former CIA director says intelligence community will recover under Biden"
     excerpt: "Former CIA Director Michael Hayden said Monday that he believes that the intelligence community will recover under President-elect Biden, after it faced repeated attacks from President Trump over the past four years."
@@ -514,6 +524,6 @@ related:
         height: 576
         isCached: true
 
-secured: "fswLFHF+eaGwMehKcJPFs7HEeUB3MYzKgFsOBvnrdi534FB59S1yy57LiF8VuiR3P5shZeeXaudUcovMYR9BoaUoJmpwgEgjazGpCUREbra7MS9p6G2iNYX32n9h69MNFSBtvXVeV2P78X7xnMnhb4RuYVfsA3c47Y8mj8CNbh2F7HolwEHynRgXSGqfz0uT8C57MVAXP/qezvSgy6YbYYfYg0Lr35Lxon2pAkHRecpC1MlTzv9ppWHL/SRaIKsoBuCkfl1y9ZAdXplnBcWYcSIlRqN78/CChjg+2XvFqJGWlndkM0ymVb/ILfsH3vLzcKgSKGDKUEI5154upiqNHdi0tcpNy++mde9fLE8P2NQ=;fDQIQye0ycsVJmTURhLGYA=="
+secured: "++SvsjnyNhU3sBFROnSuiBoSrC6tFiIcA/tjhF6t3XJqPoeSRWCcj8PED3mSb2yqJ1gTZ6dADIO4poYQ7EYbc2416H9HjcMqvshI1qOtmD7D9c3d/hmZOAlgQUrEWENDE3KU+wVXfTsPXMaNEpyD9FJtHOsaO3a6WmuJLhp/rHdw++9u244GVSTP5SpBtYFzLhHoFzYd5TrA+ylzuov0NExPkYrROA7hsVwVVPOHYfbunbewi6PekP7SdSfjxlL3XJFO4GTqfpbUHUEsCY/yNUjN3YyrJYlSRa7aPbQ58s2i/CoQ6n5be1z0oWdppl2+UiJzp3dC3ZvvZt2e/1FLHgg+dXLwTHgf+UqimQZYtnc=;b5kVzz2gjC055LG4y+wRuw=="
 ---
 

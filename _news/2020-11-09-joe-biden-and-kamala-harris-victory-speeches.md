@@ -779,6 +779,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Former CIA director says intelligence community will recover under President-elect Biden"
+    excerpt: "Former CIA Director Michael Hayden told CBSN's \"Red & Blue\" that he believes that the intelligence community will recover under President-elect Joe Biden after it faced repeated attacks from President Trump over the past four years."
+    publishedDateTime: 2020-12-07T23:33:00Z
+    webUrl: "https://www.cbsnews.com/video/former-cia-director-michael-hayden-intelligence-community-will-recover-under-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 96
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/07/1eacfb4d-460e-4567-8a59-bf624273e749/thumbnail/1200x630/58b543705b72534410432b3b518be4f5/cbsn-fusion-former-cia-director-says-intelligence-community-will-recover-under-biden-thumbnail-603368-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden, Harris to receive first presidential intelligence briefings"
     excerpt: "U.S. President-elect Joe Biden is scheduled to receive his first presidential intelligence briefing on national security threats Monday as he prepares for his transition into office."
     publishedDateTime: 2020-11-30T12:05:00Z

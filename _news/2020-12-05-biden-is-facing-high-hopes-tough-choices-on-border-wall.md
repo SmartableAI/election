@@ -239,9 +239,9 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "The Latest: Biden names prominent allies as inaugural chairs"
-    excerpt: "President-elect Joe Biden is naming some of his most prominent allies to be co-chairs for his upcoming Inauguration"
-    publishedDateTime: 2020-12-07T15:24:00Z
+  - title: "The Latest: Biden plans to announce defense secretary Friday"
+    excerpt: "President-elect Joe Biden says he’ll announce his choice for defense secretary on Friday. Biden made the comment as he climbed into his motorcade in Wilmington, Delaware, on Mon"
+    publishedDateTime: 2020-12-08T00:41:00Z
     webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
     ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-names-prominent-allies-inaugural-chairs-74582506"
@@ -409,6 +409,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "The Latest: Biden names prominent allies as inaugural chairs"
+    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+    publishedDateTime: 2020-12-07T15:27:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-biden-names-prominent-allies-as-inaugural-chairs-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-names-prominent-allies-as-inaugural-chairs-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-names-prominent-allies-as-inaugural-chairs-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "We’ve entered into a new era of globalization — no matter what Joe Biden does"
     excerpt: "Supporters of an open international economy see new hope in Joe Biden’s election that perhaps globalization is not on its death bed after all. But the assumption that Biden will restore robust growth in international trade and investment is misplaced."
     publishedDateTime: 2020-12-04T11:06:00Z

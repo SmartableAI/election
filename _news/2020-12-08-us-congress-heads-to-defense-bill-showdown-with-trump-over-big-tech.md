@@ -2,9 +2,9 @@
 category: news
 title: "U.S. Congress heads to defense bill showdown with Trump over Big Tech"
 excerpt: "A senior U.S. Republican lawmaker said on Monday he hoped Congress would pass a $740 billion defense bill this week by a margin large enough to ward off President Donald Trump's veto threat, which he said risked \"punishing\" the troops."
-publishedDateTime: 2020-12-07T18:36:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-defense-congress/u-s-congress-heads-to-defense-bill-showdown-with-trump-over-big-tech-idUSKBN28H2DQ"
-webUrl: "https://www.reuters.com/article/us-usa-defense-congress/u-s-congress-heads-to-defense-bill-showdown-with-trump-over-big-tech-idUSKBN28H2DQ"
+publishedDateTime: 2020-12-07T23:10:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-defense-congress/congress-faces-christmas-showdown-with-trump-over-tech-and-defense-bill-idUSKBN28H2DQ"
+webUrl: "https://www.reuters.com/article/us-usa-defense-congress/congress-faces-christmas-showdown-with-trump-over-tech-and-defense-bill-idUSKBN28H2DQ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2DQ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2DQ"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543724407&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61DA"
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543739210&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61DA"
     width: 816
     height: 545
     isCached: true
@@ -46,6 +46,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542984625&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01U3"
         width: 817
         height: 545
+        isCached: true
+  - title: "Official: Trump to attend the Army-Navy game at West Point"
+    excerpt: "President Donald Trump is scheduled to attend this weekend’s Army-Navy football game at the U.S. Military Academy’s home field"
+    publishedDateTime: 2020-12-07T23:21:00Z
+    webUrl: "https://www.washingtonpost.com/health/official-trump-to-attend-the-army-navy-game-at-west-point/2020/12/07/e6016776-38e2-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/official-trump-to-attend-the-army-navy-game-at-west-point/2020/12/07/e6016776-38e2-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/official-trump-to-attend-the-army-navy-game-at-west-point/2020/12/07/e6016776-38e2-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "White House coronavirus adviser Fauci to meet with Biden transition team: CNN"
     excerpt: "White House coronavirus task force member Anthony Fauci will meet with members of President-elect Joe Biden's team on Thursday after President Donald Trump's administration delayed the transition process for weeks amid a coronavirus surge."
@@ -94,6 +110,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/33550ce/2147483647/strip/true/crop/5002x3267+0+34/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fad%2Fa8%2F4834156d906fefae57c274574495%2F109a97301dce44fa93e5cff8a598f22d"
         width: 320
         height: 209
+        isCached: true
+  - title: "Trump adviser Navarro violated law against political activity -federal watchdog"
+    excerpt: "President Donald Trump's trade adviser Peter Navarro knowingly and willfully violated federal law by attacking then-Democratic presidential candidate Joe Biden while serving in his official capacity,"
+    publishedDateTime: 2020-12-07T23:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-navarro-idUSKBN28H2OU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2OU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2OU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543750485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61I4"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump fixated on his own political fate as virus kills record number of Americans"
     excerpt: "President Donald Trump has remained largely absent on a pandemic of historic proportions, fixated on his political career."
@@ -233,6 +265,6 @@ related:
         height: 682
         isCached: true
 
-secured: "0W7ayWra43V+XbfuTFob7/eZCpoD10WFkzqDFSGctCTnOul0A5NHuTIeDF9Vr7AyXBZixrxx+DIWOlIW7FxMNm7GRKIdQTcBmP2D0lMMo3hJgkzVwez0B7kvNnqtw+ARG3Nkcy56IZ9UJJGqZu5x0jQMq28kFAlVG3mvWyE8AzSY0HmxqcUV8Ix8qcqs0vTPvxsW+Mt4iCC6lzWCzGBAMYQ4Y4DNaureLYN9b+4AYbR12FLzf7c0GyqZVb1/kIfUxSR972gM95P3jPy7lmlJAjYSQzxkDu9IKCJkafBZlDFLTKNjgBu/tnCOsUqzKJevng+jbepkOTgUKly5hL2loFtdI5lRn+XttzRhbPWkvy8=;rkPU40jVws64MPYAHF7WTA=="
+secured: "K4rELVvzUyehRucWNMEW+oHf9EseTJOgv61XzdhOXVZzRYz40p31Bz22mouhGxEqo4bMNn+N4ChlNAgyLUxWDK+2D7C+KAh3+fq1K4L3iNLBMLbgtXhK33Dm6DYWJCP6jnPvgYTSyNqcTV8k9oDsM7batRqKdCQIMQi4RJp4tI3pK1M7ClGN8GnDUNVHhhNTPXKbz7E8JZnXxEqbUgKzghpwJXR1tMe6p0EgiVkhS4y9K+jyIzTc/CMY84I6ky+kWPC7K3WRKRqzZA+JARdcvL4hPH/KUfKF+Mjv7mZrYtmQtJ3hrnuRxR4NbVnoo3Krr6fWphenp7ll6MZxSfdhXvTtqBBkU17+5G7cqxI2bIg=;yvA1M7cnqOROibaCa5wx+g=="
 ---
 

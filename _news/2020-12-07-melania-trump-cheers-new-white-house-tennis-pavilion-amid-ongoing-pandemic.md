@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump to sign order aimed at prioritizing Covid-19 vaccine shipment to Americans"
+    excerpt: "President Donald Trump is expected to sign an executive order on Tuesday aimed at prioritizing the shipment of the coronavirus vaccine to Americans before other nations, according to senior administration officials.\n    \n"
+    publishedDateTime: 2020-12-08T00:07:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Huv687f8YEM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/operation-warp-speed-vaccine-distribution-executive-order/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/operation-warp-speed-vaccine-distribution-executive-order/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118051338-01-donald-trump-rose-garden-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP senators' strategy on Trump's election fraud claims: Keep quiet and carry on "
     excerpt: "A wide range of Republican senators are shrugging off President Donald Trump's evidence-free claims that mass voter fraud cost him the election, ignoring their party leader's relentless attacks against a foundation of American democracy amid their growing expectation that the matter will be resolved"
     publishedDateTime: 2020-12-01T02:44:51Z

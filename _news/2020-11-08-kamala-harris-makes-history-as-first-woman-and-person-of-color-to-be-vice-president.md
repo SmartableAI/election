@@ -231,6 +231,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Bookies list Kamala Harris as early favorite for 2024"
+    excerpt: "Elect Kamala Harris is favored by odds makers to win the 2024 presidential election, according to wagering website Odds Shark. Harris currently has +400 odds to win the next race. Harris is trailed by her running mate President-elect Joe Biden (+650) to secure the next term in the Oval Office,"
+    publishedDateTime: 2020-12-08T00:27:00Z
+    webUrl: "https://www.foxbusiness.com/politics/bookies-kamala-harris-early-favorite-2024"
+    ampWebUrl: "https://www.foxbusiness.com/politics/bookies-kamala-harris-early-favorite-2024.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/bookies-kamala-harris-early-favorite-2024.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c6d4136-3be9-4ac5-ba4d-f657c9446bb8/bf001b16-f05c-4ae7-a555-6fecd2967b93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Omaha's Symone Sanders will be chief spokeswoman for VP-elect Kamala Harris"
     excerpt: "Symone Sanders is a graduate of Mercy High and Creighton University; her mother is publisher of the Omaha Star."
     publishedDateTime: 2020-11-29T23:29:00Z
