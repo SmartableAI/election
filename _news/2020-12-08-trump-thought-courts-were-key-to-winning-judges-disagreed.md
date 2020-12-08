@@ -3,20 +3,20 @@ category: news
 title: "Trump thought courts were key to winning. Judges disagreed"
 excerpt: "President Donald Trump and allies say their lawsuits aimed at subverting the 2020 election and reversing his loss to Joe Biden would be substantiated, if only judges were allowed to hear the cases"
 publishedDateTime: 2020-12-08T05:19:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html?outputType=amp"
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_fa8c79d0bfc646c78d5aa07119651a40_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -128,6 +128,6 @@ related:
         height: 399
         isCached: true
 
-secured: "bcED/6XU/kunIBc5eXm3cfV4wF3EwELLWMpxvF1gKW9CZeNV+hoCTKv4cDvrK0IhSKzqUshKpTr4D8z434I2Cx4LPnuqWwifnUQmORFtQtvH2zx8tehGx/qtQ6WEe0NyUhiw+n0F3OZ9OEuD8hESV8LddYshDXwp+BH9gf5+2bZforemgj3gd8uUAhsFnaaO2cPfWSm6eiCpj/A3BmX9euMhzdv8sXNVgf1G2VJDGIEhI+YPdRLYprfKk0OiBHpa2ohU5GvBUrkDMSSQujqEWUhtD3NeYivu4NhdcK0fsds1O/IdMl+Rj0/YzpY78kfELMri2lGGbQaS2xaeKCC33xK2p41nVVR46qijXLuxISA=;AimAgBPp1dKyyiwSxCVvBg=="
+secured: "Lbo+Aul9vAhyrtLxIxhmXj3vCJnjEGx4E+GjQeObgZKB5GI4D4JuiAe+jpmjfnhss/egNxAS3vw+aKvdTGQ1fB70k78pPsrEeW8Sx56bxwHhtSf1vRujjy59dc/DoWB+yzcxruyGVhgpp2PNwQUWYVSb7lgAbJkdTEj0ILRhpjMz2uPePO9DFAQaG3f/Axh21j44afci3HYrBjl2mf8K9mNnxDYVc3rcZ2dS1M2KTQPJOmHtBXqn5IYc3ai3Dls9ZtNEYVXriwLw3dI/kw/ZfGy3wpZV+RX2VnKQxWJjspRk9LVrd6HDnl8YFPBouH3AEbFXb9dY5Jk2bpld0Mkwz//U8qs+qwm2j0EURO6btcQ=;vTXeESC/fWJee1ZIVY+L5g=="
 ---
 

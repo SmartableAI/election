@@ -736,6 +736,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Pro-democracy activists angered by Trump's election fraud claims"
+    excerpt: "It’s scary, because we consider the U.S. a first-class democracy where there are checks and balances and high-quality media,” a former Hungarian diplomat said."
+    publishedDateTime: 2020-12-08T09:40:00Z
+    webUrl: "https://www.nbcnews.com/news/world/pro-democracy-activists-angered-trump-s-election-fraud-claims-n1250201"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250201"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250201"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_50/3433816/201207-trump-democracy-mc-13152_6dc350927069893c99060aa9c2ffe8c4.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "The King of Trump TV Thinks You’re Dumb Enough to Buy It"
     excerpt: "Chris Ruddy, the C.E.O. of Newsmax, has found a business opportunity in feeding Trump supporters the fantasy that the president could still win the election."
     publishedDateTime: 2020-11-30T01:07:00Z
@@ -1319,6 +1335,20 @@ related:
       - url: "https://static.politico.com/c4/9d/0fd706de40b0806372574b469c58/ap20288642422941.jpg"
         width: 5156
         height: 3435
+        isCached: true
+  - title: "Trump's options dwindle as safe harbor deadline looms"
+    excerpt: "Trump’s failure to gain traction in litigation, with his lawyers and allies failing to block crucial states from declaring Joe Biden the winner, means the safe harbor deadline stands as another potentially insurmountable reason for the courts to decline to intervene."
+    publishedDateTime: 2020-12-08T09:37:00Z
+    webUrl: "https://www.politico.com/news/2020/12/08/trumps-deadline-looms-443561"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b8/00/e7b0b9ce48ad989c714ef023d9c8/gettyimages-1289939114-1-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "The Trump Administration Just Made the Citizenship Test Harder. How Would You Do?"
     excerpt: "Test your knowledge on some of the topics from American history and government that prospective new citizens have to answer."

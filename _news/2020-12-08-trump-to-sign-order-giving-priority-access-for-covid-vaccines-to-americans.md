@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Trump to order priority access to U.S. COVID-19 vaccines for Americans"
+    excerpt: "President Donald Trump will sign an executive order on Tuesday to ensure that priority access for COVID-19 vaccines procured by the U.S. government is given to the American people before assisting other nations,"
+    publishedDateTime: 2020-12-08T07:43:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-vaccines-trump-idUSKBN28H2O2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2O2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2O2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543759573&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61HL"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump to meet next week with industry, government officials on COVID vaccine"
     excerpt: "President Donald Trump will gather leaders from industry and government next week for a summit on the coronavirus vaccine, the White House said on Tuesday, as the outgoing president seeks to emphasize his role in the speedy development of a vaccine."
     publishedDateTime: 2020-12-01T21:07:00Z
