@@ -128,6 +128,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden pick Becerra asked Clinton to pardon cocaine trafficker after donations from his father: House probe"
+    excerpt: "President-elect Joe Biden's pick for health and human services secretary, Xavier Becerra, played a key role in events that led to the pardon of a convicted drug trafficker after the defendant's father contributed thousands of dollars toward his campaigns."
+    publishedDateTime: 2020-12-08T16:50:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JLbsuuPU8H0/biden-pick-becerra-sought-cocaine-trafficker-pardon-after-donations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pick-becerra-sought-cocaine-trafficker-pardon-after-donations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-becerra-sought-cocaine-trafficker-pardon-after-donations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Republicans slam Biden's HHS pick Becerra as 'disaster for California'"
     excerpt: "Republicans slammed President-elect Joe Biden after he announced his choice of California Attorney General Xavier Becerra for secretary of Health and Human Services on Monday, and they criticized Becerra's record on abortion and other issues."
     publishedDateTime: 2020-12-07T16:29:00Z
@@ -173,6 +189,20 @@ related:
       - url: "https://assets.realclear.com/images/52/528934_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Zero good options to replace Kamala Harris"
+    excerpt: "With Kamala Harris set to become vice president come January, Gov. Gavin Newsom must decide with whom to fill California's Senate vacancy — only the second in nearly three decades. In the bluest state in the union,"
+    publishedDateTime: 2020-12-08T13:59:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/zero-good-options-to-replace-kamala-harris"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/55fa6e1/2147483647/strip/true/crop/2290x1202+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F8d%2F2b%2F08b10149421da82926aba0c29760%2Fgavin-newsom-gop.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "GzRAD6rS1tRsIgR+U6Fewp3/cXVrytE8rQIGeXWTOGO9mLXjQLFAJTshIndmgVV2cB90G4qVj0lJsDTTyd+LxAWlzuW7M7TKeaub49cZoM5dFl7rG7f/Gcf/bOPo8kOwE/l/q7nQaStheQf8b8DyIlvkd6KNnFaX1X9j3yLOk8aImeA3qdcGwq0PcmkOb9K5o4vkDmsfsNsZrHjqLYawpG4Ihi0Kq709gvlySZeNy8qs9UIrPtcjKNjK2aRNKR1YYqpPtYvKAZvnUFxubgvzVfj18eaABwkFC34VLQlZOwkTHy9Uy/LqJkZrkbIFlPC6mAlIG9zgPzUFUM3hlTA/OXOu1aubk/rZirkrh/NJ666HU+AZa6J3qumOrc3WZD5zD+BUBVHl4xma4nsyq3y1zkdnV8ynUGPu4dGKCZNCjxASgX/VewcAGnlCagKP78FdusUoxS6FYZZZIULrTstUkEQHzIoIt1LAWunSN26reBrT72ElxJ4tcg8+p37pG1NyUEGHrUPyE3MRpaUn5aDmkQ==;diwTGNEbMQWZpDZkAzNuDg=="

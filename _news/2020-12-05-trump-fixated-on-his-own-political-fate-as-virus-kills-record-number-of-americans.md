@@ -545,6 +545,31 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Renewed attention on Trump family business"
+    excerpt: "Watch \"Renewed attention on Trump family business; expenditures during presidency receiving scrutiny, raising profit in office questions\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-08T16:14:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201208120828-renewed-attention-on-trump-family-business-expenditures-during-presidency-receiving-scrutiny-raising-profit-in-office-questions/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/08/story_08021044_1607429464.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Former top U.S. cyber official sues Trump campaign, lawyer over threats - NYT"
+    excerpt: "The former head of the U.S. Cybersecurity and Critical Infrastructure Agency, which was tasked with helping guard the 2020 U.S. Presidential election from hackers, has filed a lawsuit against President Donald Trump's campaign and one of his lawyers after he made"
+    publishedDateTime: 2020-12-08T16:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-legal-idUSKBN28I2BC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2BC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2BC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
 
 secured: "wWgUltOrLaEVpfnSUicPf7KaoGFq9CZ0E0YNvFaxNIzag1y94qcDaFeSOyfjJ5IPRzBs9sebT6UiahMXYA3t3joU7eDZpTb/MQXtSGFXNJfUOvMtJ2Z5C66TdfydhlstesM52AN/l0h9krhFsMI+DJpTzZAcr27Z9XniqzrkGpZ59pSnfY8XzPAhJ2cuWu/Se1s/dPQCylD0+qiL87yNlN4gawBijHrUvHyM+2TzN5w20Y2bPgyHCFWKWfgANhcLIMXar3jry+Vzw3tIti924keeNX+v7Fo+ZbanfDcxHIJhj7StOrElDKtqOg1mIwwgkMMlMCa64sc8dbreIpk11zUWg+IA4k5Z6DViPkoaaxhz4XUa/16dGeq3aHPOP75wVQ91dbhvNy5QRkrHXPF5vBZcTj0ehyTKvoBzILHoQMvBZyszLo5LdUK9GT2CqBEy0WOXCtLPUGKTqPv4CPWfE1OqLpQAulwoJ+0h9TcnAFjC6iUqIEDSAV77R9wnBWjFkEepNc6xCcmCSe39QcgPuQ==;R098dVmtZ0iyZbiJHBvApw=="
 ---

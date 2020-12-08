@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "House tees up Trump veto override fight on defense spending bill"
+    excerpt: "The House of Representatives will debate and vote on the final version of the defense policy bill Tuesday."
+    publishedDateTime: 2020-12-08T16:03:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IndEufEVR7Q/house-trump-veto-override-fight-defense-spending-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/house-trump-veto-override-fight-defense-spending-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-trump-veto-override-fight-defense-spending-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Can President Trump Pardon Himself and His Family?"
     excerpt: "Legal experts say the president’s pardon powers are wide-ranging, but do have limits."
     publishedDateTime: 2020-12-02T22:40:00Z

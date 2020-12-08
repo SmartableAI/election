@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-30-bidens-win-means-some-guantanamo-prisoners-may-be-released.md",
+      "title": "Biden's win means some Guantanamo prisoners may be released",
+      "excerpt": "The oldest prisoner at the Guantanamo Bay detention center went to his latest review board hearing with a degree of hope, something that has been scarce during his 16 years locked up without charges at the U.S. base in Cuba.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UymplZGk0zA/biden-presidency-guantanamo-prisoners-released",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UymplZGk0zA/biden-presidency-guantanamo-prisoners-released",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20330676665625-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-presidency-guantanamo-prisoners-released.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidency-guantanamo-prisoners-released.amp",
+      "publishedDateTime": "2020-11-29T16:41:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-29-trump-slams-judges-election-decisions-what-kind-of-a-court-system-is-this.md",
       "title": "Trump slams judges' election decisions: 'What kind of a court system is this?'",
       "excerpt": "President Trump blasted judges' rejections of his legal challenges to 2020 election results and said he couldn't be certain any of his cases would make it to the Supreme Court in his first interview since Election Day on Sunday.",
@@ -1586,62 +1642,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp",
       "publishedDateTime": "2020-11-22T13:18:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-biden-had-been-getting-intelligence-briefings-contrary-to-what-transition-team-says-nunes.md",
-      "title": "Biden 'had been getting' intelligence briefings, contrary to what transition team says: Nunes",
-      "excerpt": "President-elect Joe Biden “had been getting” intelligence briefings contrary to what his transition team claims, House Intelligence Committee ranking member Devin Nunes, R-Calif., told “Sunday Morning Futures” in an exclusive interview.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TuT50yYk2bo/biden-transition-intelligence-briefings-devin-nunes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TuT50yYk2bo/biden-transition-intelligence-briefings-devin-nunes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-transition-intelligence-briefings-devin-nunes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-intelligence-briefings-devin-nunes.amp",
-      "publishedDateTime": "2020-11-22T12:19:29-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,6 +2,114 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-01-former-top-admiral-alarmed-by-pentagon-purge-says-trump-still-has-time-to-do-something-really-destructive.md",
+      "title": "Former top admiral alarmed by Pentagon purge says Trump still has time to do something 'really destructive'",
+      "excerpt": "\"There are some real Trump loyalists there now in charge,\" former Chairman of the Joint Chiefs of Staff Adm. Mike Mullen said Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11",
+      "originalUrl": "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc54a4550e71a0011558043?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp",
+      "publishedDateTime": "2020-11-30T12:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-trump-presses-hapless-georgia-governor-to-overrule-secretary-of-state-on-signature-matching.md",
+      "title": "Trump presses 'hapless' Georgia governor to overrule secretary of state on signature matching",
+      "excerpt": "President Trump called on Republican Georgia Gov. Brian Kemp to override Secretary of State Brad Raffensperger on matching signatures during the state's recount, in a tweet Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gJVoONUUgn4/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gJVoONUUgn4/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98f88203-24d7-48e9-933e-73bf757b5e5a/9f7d0c25-3767-460e-9963-bfa3a70ae474/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-governor-brian-kemp-overrule-secretary-of-state-signature-matching-recount.amp",
+      "publishedDateTime": "2020-11-30T06:34:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-trump-rips-60-minutes-for-not-contacting-him-after-chris-krebs-interview.md",
       "title": "Trump rips ‘60 Minutes’ for not contacting him after Chris Krebs interview",
       "excerpt": "President Trump blasted CBS’ “60 Minutes” for not contacting him for comment after interviewing the administration’s former cybersecurity chief, whom Trump fired earlier",
@@ -1216,118 +1324,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-federal-appeals-court-denies-trump-campaign-effort-to-revive-pennsylvania-lawsuit-saying-claims-have-no-merit.md",
-      "title": "Federal appeals court denies Trump campaign effort to revive Pennsylvania lawsuit saying 'claims have no merit'",
-      "excerpt": "A federal appeals court denied the Trump campaign's effort to revive a federal lawsuit challenging the election results in Pennsylvania, ruling \"the claims have no merit.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h9kQVfOphD0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h9kQVfOphD0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201121185207-01-pennsylvania-mail-in-ballot-counting-1112-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/27/politics/trump-pennsylvania-lawsuit-appeal/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/27/politics/trump-pennsylvania-lawsuit-appeal/index.html",
-      "publishedDateTime": "2020-11-27T11:57:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-donor-sues-pro-trump-group-for-25m-over-empty-promises-on-voter-fraud.md",
-      "title": "Donor sues pro-Trump group for $2.5M over 'empty promises' on voter fraud",
-      "excerpt": "A pro-Trump group is being sued by a donor for not delivering on promises to overturn the election results in President Trump's favor. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NpXyfpMVFtc/donor-sues-pro-trump-group-inability-to-prove-voter-fraud",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NpXyfpMVFtc/donor-sues-pro-trump-group-inability-to-prove-voter-fraud",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd7fefb9-d30f-4b07-b566-01eaa53e3755/8d5fa08e-5e27-4a9c-a15b-c6985dcf9a95/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/donor-sues-pro-trump-group-inability-to-prove-voter-fraud.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donor-sues-pro-trump-group-inability-to-prove-voter-fraud.amp",
-      "publishedDateTime": "2020-11-27T11:27:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

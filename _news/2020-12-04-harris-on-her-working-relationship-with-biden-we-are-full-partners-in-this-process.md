@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-pa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-partnership/index.html"
 type: article
 quality: 192
-heat: 472
+heat: 492
 published: true
 
 provider:
@@ -223,6 +223,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/01/business/01distortion-harris1/01distortion-harris1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Expect big things from Kamala Harris"
+    excerpt: "Vice President-elect Kamala Harris is going to be a major voice in the White House during the next four years, writes Julian Zelizer. As an experienced senator, Harris will be able to help Biden solid"
+    publishedDateTime: 2020-12-05T15:53:00Z
+    webUrl: "https://www.cnn.com/2020/12/05/opinions/kamala-harris-vice-president-expect-big-things-zelizer/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/opinions/kamala-harris-vice-president-expect-big-things-zelizer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/opinions/kamala-harris-vice-president-expect-big-things-zelizer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203142911-01-kamala-harris-acceptance-speech-1107-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Vice President-elect Kamala Harris picks Tina Flournoy as her chief of staff"
     excerpt: "Tina Flournoy, who is currently serving as chief of staff to former President Bill Clinton, has been chosen to be Vice President-elect Kamala Harris' chief of staff, according to a source with knowledge of the decision."

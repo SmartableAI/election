@@ -143,6 +143,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump campaign lawyer Jenna Ellis has reportedly told associates she has coronavirus"
+    excerpt: "The news comes days after Trump announced that Rudy Giuliani, who is leading the campaign's legal team, had tested positive for COVID-19."
+    publishedDateTime: 2020-12-08T16:54:00Z
+    webUrl: "https://www.businessinsider.com/jenna-ellis-told-associates-she-has-covid-19-report-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/jenna-ellis-told-associates-she-has-covid-19-report-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jenna-ellis-told-associates-she-has-covid-19-report-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5fcfadfe240ebd00126bdafa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Rep. Matt Gaetz, a close Trump ally, says he's tested positive for coronavirus antibodies"
     excerpt: "The Republican Florida lawmaker is one of Trump's staunchest defenders on Capitol Hill and is a fixture in conservative media."
     publishedDateTime: 2020-11-08T00:16:00Z

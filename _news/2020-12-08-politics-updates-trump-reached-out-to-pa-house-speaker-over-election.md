@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6484311002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002"
 type: article
 quality: 140
-heat: 820
+heat: 860
 published: true
 
 provider:
@@ -545,7 +545,32 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Renewed attention on Trump family business"
+    excerpt: "Watch \"Renewed attention on Trump family business; expenditures during presidency receiving scrutiny, raising profit in office questions\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-08T16:14:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201208120828-renewed-attention-on-trump-family-business-expenditures-during-presidency-receiving-scrutiny-raising-profit-in-office-questions/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/08/story_08021044_1607429464.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Former top U.S. cyber official sues Trump campaign, lawyer over threats - NYT"
+    excerpt: "The former head of the U.S. Cybersecurity and Critical Infrastructure Agency, which was tasked with helping guard the 2020 U.S. Presidential election from hackers, has filed a lawsuit against President Donald Trump's campaign and one of his lawyers after he made"
+    publishedDateTime: 2020-12-08T16:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-legal-idUSKBN28I2BC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2BC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2BC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
 
-secured: "H0qErm9Aa8Ik+djWfI4Qr3Uwjmentb6wTa5vrqZUo1b1oO+Z/ZN9qh9Y9LTYylzYEW1Jr7DiPn2k5FNuRaU+dh9RSG13hb8tC2OvooerHaHLEpVnIcPuRJUWzpqXNvuBQfbFI4WdpVoLOTVpnPjdKP9MMJpoFptct8CUOExiN1SYMzvKhlTr4hDzEnoJI7fclZNsX5b+dMlmdWqOXA2y8FW87KngE0ToFvBh8uzjoKqRNQVaH8O7zaNVeXNuYvtFwpFTR+CiT3QDnwAnIwkHAm+1PEjbMuwUJq/bP8chTVatZVMjudYwTOaztw1w3w4ys8gfeyBFeK2+CjV1c6gfyjwdSkzOdx/vdFWm5Lg/34Q=;AFc1eeBQIu4wa5/4Jdr4dg=="
+secured: "+yXpc4VsetA2RePDC5VhqcLIpImpVg5uaIY7eqIYgzpDpGgtj+mMlRI9flu9RBqDkcTxWloBhx47/00m6pZG82rGuctskSquQwpBM3cit+dO7cwpj7dI73loR93gOVUl9KIpi3TzND3J/Xi3+y9kBLJu14oJWrLoewy9Dptc7aLeJdlhIBMPOXJ9KGBI2v3YWnp4rgN0lCXfvXIEOYztLW5RyR3QSic3UmCqD8chi1v6+kmZ5N+7jOoZLbkqu0vwWP+9736iQnAP80Gngr2iYh+dtVi52dVSF6h+bFowECfzQoQDoU95ZjqlRHtio1H72iewBSAKpK8U6q2RS13zi3yNtt4touuGCgcEJTMRiIXLZFBB55yQYRjtX75zocZyDbHhXL994lF3v399CUFgsM0vBKakPopPI0MfJfjEgJ0KEocQbimrynywOz6MtDq+V2v+NvM5tjAd4kRMPg/bspGRRj9ukaB0h2rlJc5NRPPzJpZqrSfai19WJ1qeZGR42gs31JyW8Vjhk9rLPWKjFQ==;tCY4m3IrOXf45olVEX2SRg=="
 ---
 

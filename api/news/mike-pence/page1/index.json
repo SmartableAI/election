@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-08-vice-president-mike-pence-rallying-in-augusta-ahead-of-senate-runoffs.md",
+      "title": "Vice President Mike Pence rallying in Augusta ahead of Senate runoffs",
+      "excerpt": "Vice President Mike Pence will headline a rally in Augusta on Thursday afternoon, as the balance of the U.S. Senate rests in the hands of Georgia voters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.postandcourier.com/aikenstandard/news/vice-president-mike-pence-rallying-in-augusta-ahead-of-senate-runoffs/article_1a5e0e1c-3969-11eb-8931-9334ebebb1f1.html",
+      "originalUrl": "https://www.postandcourier.com/aikenstandard/news/vice-president-mike-pence-rallying-in-augusta-ahead-of-senate-runoffs/article_1a5e0e1c-3969-11eb-8931-9334ebebb1f1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/93/393f2522-396a-11eb-9af8-0f9ce89e98db/5f3faefe0f231.image.jpg?resize=945%2C630",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Post and Courier Charleston",
+        "domain": "postandcourier.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-vp-pence-mike-pompeo-will-go-to-georgia-ahead-of-senate-run-off-elections.md",
       "title": "VP Pence, Mike Pompeo will go to Georgia ahead of Senate run-off elections",
       "excerpt": "Vice President Pence and Secretary of State Mike Pompeo will both head to Georgia this week ahead of the two Senate run-offs that will decide which party controls the body. Pompeo will appear",
@@ -105,7 +148,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1960,
+      "heat": 1980,
       "tags": null,
       "images": [
         {
@@ -158,7 +201,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-transition-live-updates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 775,
+      "heat": 815,
       "tags": null,
       "images": [
         {
@@ -1468,54 +1511,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-pence-dumps-florida-vacation-to-stay-in-washington-amid-election-challenge.md",
-      "title": "Pence dumps Florida vacation to stay in Washington amid election challenge",
-      "excerpt": "Vice President Mike Pence canceled plans for a Florida getaway this week to stay in Washington as President Trump continues to challenge election results, according to a report. Pence, who",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/",
-      "originalUrl": "https://nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/201111-pence-cancels-florida-vacation.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/amp/",
-      "publishedDateTime": "2020-11-11T06:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

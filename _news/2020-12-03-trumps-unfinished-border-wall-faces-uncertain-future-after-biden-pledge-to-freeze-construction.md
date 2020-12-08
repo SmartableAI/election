@@ -525,6 +525,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump appointee who oversees Voice of America refuses to cooperate with Biden transition team"
+    excerpt: "A Trump appointee with a short but controversial record of overseeing Voice of America and other federally funded news agencies has declined to cooperate with president-elect Joe Biden’s representatives as they seek access to records and personnel."
+    publishedDateTime: 2020-12-08T16:21:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/media/michael-pack-voice-america-biden-transition/2020/12/08/8212f630-38e7-11eb-9276-ae0ca72729be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/michael-pack-voice-america-biden-transition/2020/12/08/8212f630-38e7-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/michael-pack-voice-america-biden-transition/2020/12/08/8212f630-38e7-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 129
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJHRDARZNII6XETWVYGKOJZJXY.jpg&w=1440"
+        width: 1440
+        height: 1018
+        isCached: true
   - title: "Georgia upholds Biden's win as Trump turns down offer of more coronavirus vaccine doses - live"
     excerpt: "New York Times reports Trump passed on Pfizer’s offer in late summer and the company may not be able to provide more doses until next June"
     publishedDateTime: 2020-12-07T22:44:00Z
@@ -891,6 +907,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Donald Trump's Grand Exit: A Biden Inauguration Snub and An Air Force One Ride"
+    excerpt: "The 45th president is still planning his White House departure, but he wants to announce his 2024 presidential bid at a massive rally in Florida"
+    publishedDateTime: 2020-12-07T18:44:00Z
+    webUrl: "https://www.ibtimes.com/donald-trumps-grand-exit-biden-inauguration-snub-air-force-one-ride-3096501"
+    ampWebUrl: "https://www.ibtimes.com/donald-trumps-grand-exit-biden-inauguration-snub-air-force-one-ride-3096501?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trumps-grand-exit-biden-inauguration-snub-air-force-one-ride-3096501?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 86
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/president-donald-trump-is-using-air-force-one.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Biden, Harris get first access to Trump's top-secret President's Daily Brief"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris got their first look Monday at the top-secret President's Daily Brief since winning the 2020 election. President Trump had delayed Biden's access to the PDB,"
     publishedDateTime: 2020-12-01T06:24:00Z
@@ -1016,6 +1048,20 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Kamala Harris Will Play Major Role As Vice President, Historian Says"
+    excerpt: "Historian Julian Zelizer writes that the vice president will be a major voice in the White House during the next four years."
+    publishedDateTime: 2020-12-08T16:50:00Z
+    webUrl: "https://www.wbur.org/hereandnow/2020/12/08/kamala-harris-voice-white-house"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 55
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/HereandNow-3000b.jpg"
+        width: 3000
+        height: 3000
         isCached: true
   - title: "Joe Biden and Kamala Harris Victory Speeches"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris addressed the nation from Wilmington, Delaware, after being declared the winners of the 2020 presidential election. President-elect Biden said the American people have \"delivered us a clear victory,"

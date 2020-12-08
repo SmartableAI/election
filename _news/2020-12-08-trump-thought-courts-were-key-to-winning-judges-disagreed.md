@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump boasts of vaccines, but will he coax people to get shots?"
+    excerpt: "President Trump takes credit for new coronavirus vaccines, yet they'll do little good if many people remain opposed to vaccinations."
+    publishedDateTime: 2020-12-08T16:49:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/72d8926/2147483647/strip/true/crop/4592x2999+0+224/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9b%2Fd9%2F94374aa24f578e18c9842f2775df%2Fla-fi-lazarus-healthcare-three-hundred-dollar-band-aid.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "U.S. Congress defense bill defies Trump on Germany withdrawal, base names"
     excerpt: "U.S. lawmakers unveiled the final version of a massive annual defense policy bill on Thursday that defies President Donald Trump's plans to withdraw troops from Germany and keep the names of Confederate generals on military bases,"
     publishedDateTime: 2020-12-04T08:59:00Z
@@ -96,6 +112,6 @@ related:
         height: 676
         isCached: true
 
-secured: "bZ7vNrEUY9OACcsdFRioh13NvsN9x9To8uO1DIGVR7t+4vkkqOUCTgPnYqz3hiDlIbibl1jwYQLQNbdbYkwjmTNgbax8w3BWQt9C4UHdLHBV2I//wUudTr+3BC0TFQOIjA65yyt1gdaUX11Bp4oryjjNbn9TdDlP7sgEU4BIcsn7Mmjs99/Ddo0GOpnK7JaNxuBf7JcdtnBwFe8btJNOmZxaicHEJqY3fTTJ6AYclufKTdbZGEeu0FFOu9LCPpoNxfXcsbCg7Hl6GMrKjLwhfgMps23VZleVkRxivoOdoFCehyAIB3FhqwlAWHAqBI1VqeRu3PiedXkiiMH0cg7QhZ9X+9SUqZwRrCWIporlhIM=;4NFF2+/OfIeW0whSFE3Ckg=="
+secured: "jmSjaxzYcWimtcK8AirIJCX5KRVMN4LEb2OTa3EpcSrEQ8HDbl7GV6j7h8Dk7q1jsvfEdjoQRnsxzAWKQ3BkdBX37LynoSKQhcENjZvfFydSBb3lvwH6lyJzOtfoJqU4iZjxSTjqLkImTMmaZ2ZvcJv7mTYEGIv0rdsuIcuHdYC4JCHH6JcL8tdMbcHuZHQ57ImI0fYNcL21my7Fl6e3t/6TDjEECJUItXLpwpnXguCtJku3RAtqAr0EhO1RDj8iujvkAS7aGaYnSWELqo9JRtVJFe2LfiaxztUO64mxGl+/FMzYHN4n6xwi4Z4RCIdgNRk9izg98dcsXYBfd2G5+XuNjWg6ZTyrctP6fCe+sJ/Pcan5x4kB1xLyCIk+qszTaKMFWA2v8Hq8U2jCTX8CX+UkLr1qb3pvJOZzS4j//PD4prE8pI84GdqOpi5/NLr/u/yKwAMuTIVyMBMjr6quIdQhZeobWG7XexT3Z886GU2tFKTzyec4LHwbmtOmrHMncUC5l++gMUH0x+p/Hk0KBQ==;FU293XHeyASC84XKv/5+wQ=="
 ---
 

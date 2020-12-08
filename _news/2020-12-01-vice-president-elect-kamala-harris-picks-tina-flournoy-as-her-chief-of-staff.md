@@ -240,6 +240,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Expect big things from Kamala Harris"
+    excerpt: "Vice President-elect Kamala Harris is going to be a major voice in the White House during the next four years, writes Julian Zelizer. As an experienced senator, Harris will be able to help Biden solid"
+    publishedDateTime: 2020-12-05T15:53:00Z
+    webUrl: "https://www.cnn.com/2020/12/05/opinions/kamala-harris-vice-president-expect-big-things-zelizer/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/opinions/kamala-harris-vice-president-expect-big-things-zelizer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/opinions/kamala-harris-vice-president-expect-big-things-zelizer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203142911-01-kamala-harris-acceptance-speech-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Gavin Newsom has to pick someone to fill Kamala Harris’s Senate seat, and the pressure is mounting."
     excerpt: "Alex Padilla, California’s secretary of state, has emerged as the front-runner to succeed Vice President-elect Kamala Harris. But Gov. Gavin Newsom appears to be in no rush to make his choice. Though many names have been floated to succeed Ms."
     publishedDateTime: 2020-11-30T23:48:00Z

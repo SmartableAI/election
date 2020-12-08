@@ -1104,6 +1104,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Prosecute Trump? It’s Complicated"
+    excerpt: "Andrew Weissman makes a compelling case that the next attorney general should prosecute Donald Trump for crimes he may have committed as president. He is right to say that nobody, and especially not the president,"
+    publishedDateTime: 2020-12-08T14:59:00Z
+    webUrl: "https://www.nytimes.com/2020/12/08/opinion/letters/prosecuting-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/08/opinion/letters/prosecuting-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/opinion/letters/prosecuting-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/24/opinion/24weissman1/24weissman1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Special Counsel to Trump: Punish Navarro for Hatch Act violations"
     excerpt: "White House trade adviser Peter Navarro also made frequent use of his Twitter account to attack both Biden and Harris."
     publishedDateTime: 2020-12-07T21:17:00Z

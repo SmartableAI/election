@@ -545,6 +545,31 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Renewed attention on Trump family business"
+    excerpt: "Watch \"Renewed attention on Trump family business; expenditures during presidency receiving scrutiny, raising profit in office questions\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-08T16:14:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201208120828-renewed-attention-on-trump-family-business-expenditures-during-presidency-receiving-scrutiny-raising-profit-in-office-questions/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/08/story_08021044_1607429464.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Former top U.S. cyber official sues Trump campaign, lawyer over threats - NYT"
+    excerpt: "The former head of the U.S. Cybersecurity and Critical Infrastructure Agency, which was tasked with helping guard the 2020 U.S. Presidential election from hackers, has filed a lawsuit against President Donald Trump's campaign and one of his lawyers after he made"
+    publishedDateTime: 2020-12-08T16:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-legal-idUSKBN28I2BC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2BC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2BC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
 
 secured: "ZglT3zyWfWYQ8Q0dTVJbZ2wiKqWtbeAzl8983vwWAVgvcFuXi0mF/tiJ8y44KHNOD130RIOE1LLp51sKN2jCCmEEXPaIX+UW+ADaQMNG6S7YmxSWSEqTA19Lx9N1a/1t8YkK/UlhaHSaRrIWSpLSr13kuDMC57ITm2GDRcmdlclQyx9hoLpknJGG1jCJcULkoJ4Hb7dx9KFbn4kP/Oo6PJFrgXLlLb3e2xnPk54LYLSNbdSizsglYHCvrsS/3f+ACMcS2IQ1dGaLwvjnvY967SGWmtYcPxlzRdVqSoKwCM9cm77qqabHGuObAb7uJW2tlWktbYcXgOjmSUwZ+jeZS68JHWAaDcRBrtGIoYQYNQ+aFlsa7+n6RbudITUxrF3vmcirU3wToozTa/Ooub+ry4Z4PfuMVLJx0NGGOcsu95MZMD5kmFRpihrpJqsHIb/CZTZ2BWnIudXioGXWQYE4ICvPGiOpjuBQR2fqa6UzclONZ95zXSnzskMEMdHB+dg78qm7n73NEpW4UV9z0RqNIg==;sCsj6PMKY2Esrz6xVOzW9g=="
 ---

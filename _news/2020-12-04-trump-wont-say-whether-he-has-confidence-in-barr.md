@@ -545,6 +545,31 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Renewed attention on Trump family business"
+    excerpt: "Watch \"Renewed attention on Trump family business; expenditures during presidency receiving scrutiny, raising profit in office questions\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-08T16:14:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201208120828-renewed-attention-on-trump-family-business-expenditures-during-presidency-receiving-scrutiny-raising-profit-in-office-questions/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/08/story_08021044_1607429464.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Former top U.S. cyber official sues Trump campaign, lawyer over threats - NYT"
+    excerpt: "The former head of the U.S. Cybersecurity and Critical Infrastructure Agency, which was tasked with helping guard the 2020 U.S. Presidential election from hackers, has filed a lawsuit against President Donald Trump's campaign and one of his lawyers after he made"
+    publishedDateTime: 2020-12-08T16:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-legal-idUSKBN28I2BC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2BC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2BC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
 
 secured: "Fw6vMH3ysf7E83opKXqIPnaPSWULioIU4NzOKqHWPntc8zoKFCyQsu8pDn2SaoOA3k804wA+I5yg72gy3hvVatPyyRVt5W+B2OscrVctAgC/VYIJA3jhgkF7VGSG2qrhdGZiu7Dh/t6lADu5WyWaeVjvNEvcRfLPznUgzs87AVqCXmoODnwuYnp4lRgeXHn4cLk8+oScQBOMBoU4kJuuTobfbaCDs7E2XsF94MI2GcsI/rz4KUizxdxQIdK39WZZmywBlwK5BQeWnShQjaHd3VxNRsVfpl13V9OjeuMCce0cQwG/+p4phzoPtRrUyJoWFePLqZBHmCH4v2gmN9dW+ysCol8/LFKqIwG4MEzvZUY=;H+WsxWTVuu1pK5m8SPGdlw=="
 ---

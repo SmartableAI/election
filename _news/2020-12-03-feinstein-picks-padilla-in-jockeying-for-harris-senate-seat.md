@@ -121,6 +121,22 @@ related:
         width: 909
         height: 630
         isCached: true
+  - title: "From Kamala Harris To Jacinda Ardern: The World’s Most Powerful Women In Politics In 2020"
+    excerpt: "With more uncertainty on the horizon, the female leaders on the 2020 Forbes list of the World’s Most Powerful Women are holding onto their hard-won political gains and working to reverse alarming trends around the pandemic’s disproportionate effects on women."
+    publishedDateTime: 2020-12-08T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/nicolettejones/2020/12/08/from-kamala-harris-to-jacinda-ardern-the-worlds-most-powerful-women-in-politics-in-2020/"
+    ampWebUrl: "https://www.forbes.com/sites/nicolettejones/2020/12/08/from-kamala-harris-to-jacinda-ardern-the-worlds-most-powerful-women-in-politics-in-2020/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolettejones/2020/12/08/from-kamala-harris-to-jacinda-ardern-the-worlds-most-powerful-women-in-politics-in-2020/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 116
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcf4dd6a4f249eadce952fb%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Latest: Kamala Harris names Tina Flournoy chief of staff"
     excerpt: "WASHINGTON (AP) — The Latest on President-elect Joe Biden (all times local): 8:35 a.m. Vice President-elect Kamala Harris is hiring veteran Democratic strategist Tina Flournoy as"
     publishedDateTime: 2020-12-03T13:56:00Z
@@ -162,6 +178,34 @@ related:
       - url: "https://foreignpolicy.com/wp-content/uploads/2020/12/Harris-National-Security-Team-Biden-Transition.jpg?w=1000"
         width: 1000
         height: 723
+        isCached: true
+  - title: "Angela Merkel, Christine Lagarde And Kamala Harris Top Forbes’ 100 Most Powerful Women List"
+    excerpt: "Forbes today announced its 17th annual ranking of The World’s Most Powerful Women which recognizes the trailblazers who are deftly steering countries, constituents and communities through one of the most tumultuous times in modern history."
+    publishedDateTime: 2020-12-08T13:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbespr/2020/12/08/angela-merkel-christine-lagarde-and-kamala-harris-top-forbes-100-most-powerful-women-list/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 95
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcf7d6981a743083e8780df%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Crank & Boom Craft Ice Cream Now Shipping New Flavor, \"KAMALA PECAN,\" Nationwide In Honor Of Kamala Harris' Historic Election"
+    excerpt: "Crank & Boom Craft Ice Cream is launching an exciting new flavor for NATIONWIDE SHIPPING. KAMALA PECAN, created in honor of Vice President-Elect Kamala Harris' historic election as the first woman and person of color to be elected Vice President of the United States,"
+    publishedDateTime: 2020-12-08T16:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/crank-boom-craft-ice-cream-now-shipping-new-flavor-kamala-pecan-nationwide-in-honor-of-kamala-harris-historic-election-1029874116"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://mma.prnewswire.com/media/1360687/C_and_B_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Tina Flournoy, longtime Democratic strategist, named Vice President-elect Kamala Harris chief of staff"
     excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
@@ -397,6 +441,31 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Meet the First Second Gentleman-Elect, Kamala Harris' Husband Douglas Emhoff"
+    excerpt: "Kamala Harris’ husband Douglas Emhoff, is one of the most adoring political spouses ever—and he will be a first in two major ways: Emhoff is the first second gentleman-elect, as well as the first Jewish spouse to a vice president."
+    publishedDateTime: 2020-12-07T16:01:00Z
+    webUrl: "https://parade.com/1117387/jessicasager/kamala-harris-husband/"
+    ampWebUrl: "https://parade.com/1117387/jessicasager/kamala-harris-husband/amp/"
+    cdnAmpWebUrl: "https://parade-com.cdn.ampproject.org/c/s/parade.com/1117387/jessicasager/kamala-harris-husband/amp/"
+    type: article
+    provider:
+      name: Parade
+      domain: parade.com
+    quality: 52
+  - title: "This Little-Known Indian Village Has Made Headlines Because of Kamala Harris"
+    excerpt: "As CNN host John King spent days tirelessly facing the magic wall to explain what was happening, miles away in Tamil Nadu, India, a small village was rooting for vice president nominee Kamala Harris—in a very Indian way."
+    publishedDateTime: 2020-12-07T18:37:00Z
+    webUrl: "https://www.fodors.com/world/asia/india/experiences/news/this-little-known-indian-village-has-made-headlines-because-of-kamala-harris"
+    type: article
+    provider:
+      name: Fodor's
+      domain: fodors.com
+    quality: 52
+    images:
+      - url: "https://www.fodors.com/wp-content/uploads/2020/12/kamala-harris-hero.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "The Latest: Kamala Harris names Tina Flournoy chief of staff | Charlotte Observer"
     excerpt: "Vice President-elect Kamala Harris is hiring veteran Democratic strategist Tina Flournoy as her chief of staff."
     publishedDateTime: 2020-12-03T14:29:00Z
@@ -417,6 +486,20 @@ related:
       name: Omaha.com
       domain: omaha.com
     quality: 35
+  - title: "BIPOC Women-Led Coalition Urges Kamala Harris To Promote Plant-Based Nutrition and Take 31-Day Vegan Challenge"
+    excerpt: "A group of female leaders, most of whom are women of color, have penned an open letter to the incoming US administration detailing"
+    publishedDateTime: 2020-12-08T12:33:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/bipoc-women-led-coalition-urges-kamala-harris-to-promote-plant-based-nutrition-and-take-31-day-vegan-challenge-301187937.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "u+zwICMUpllxqK00b45i05S9BBPqlZExqRq2eGktaPOF6NuLEO0NIhQ6Iv1K/ZIIIKuAfFahovXgRtDmVVSC/j1gBPo/d6nWXPX4QrsUADg5sOi83NHxJMESekoKSq7MnVhUU6RC0+2Rvr3v2TZTHO2y801ZMExEAuHVOm9rx0OSFAIPHVs4JN401B8U3Hq7/WoaLgw6PjtQh8jSNpxQP/zjlUlIcs5+/xLaORmdvZYv7xSO5hxMO3xRqQt6oEz6WRrIArmZqcin79QpsG1EKxII32ybZ6vDTmFMv5j7wpaj9HukmIbkHYFr3ZPlR7F86TgTyI/GmJqcc6ZCyECI6zY+jVu/m32RLJvgEKGBJNk=;L2SN6/WZT9fWsygc4omszw=="
 ---

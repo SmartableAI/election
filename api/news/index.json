@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-08-trump-administration-adds-china-nigeria-iran-to-list-of-countries-lacking-religious-freedom.md",
+      "title": "Trump administration adds China, Nigeria, Iran to list of countries lacking religious freedom",
+      "excerpt": "The Trump administration on Monday added China, Nigeria and Iran to the list of countries that engage in violating or allowing violations of religious freedom within their borders — part of U.S. efforts to end religious persecution around the world. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4fSEvVXMVc/trump-china-nigeria-iran-religious-freedom-violations",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4fSEvVXMVc/trump-china-nigeria-iran-religious-freedom-violations",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbf6a5de-4c6e-402d-ad75-1713dbc7e628/f49d8ca1-c005-47ec-8e0b-075fcd435fc5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp",
+      "publishedDateTime": "2020-12-08T08:28:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-trump-team-continues-legal-fight-as-electoral-college-safe-harbor-deadline-arrives.md",
+      "title": "Trump team continues legal fight as Electoral College 'safe harbor' deadline arrives",
+      "excerpt": "Tuesday may be the \"safe harbor\" deadline that requires Congress to accept states' certified election results, but the Trump campaign legal team says they're going to keep fighting.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B5U6uVUnBbY/trump-safe-harbor-electoral-college-legal-fight",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B5U6uVUnBbY/trump-safe-harbor-electoral-college-legal-fight",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20330650216357.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-safe-harbor-electoral-college-legal-fight.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-safe-harbor-electoral-college-legal-fight.amp",
+      "publishedDateTime": "2020-12-08T07:01:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-vice-president-mike-pence-rallying-in-augusta-ahead-of-senate-runoffs.md",
+      "title": "Vice President Mike Pence rallying in Augusta ahead of Senate runoffs",
+      "excerpt": "Vice President Mike Pence will headline a rally in Augusta on Thursday afternoon, as the balance of the U.S. Senate rests in the hands of Georgia voters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.postandcourier.com/aikenstandard/news/vice-president-mike-pence-rallying-in-augusta-ahead-of-senate-runoffs/article_1a5e0e1c-3969-11eb-8931-9334ebebb1f1.html",
+      "originalUrl": "https://www.postandcourier.com/aikenstandard/news/vice-president-mike-pence-rallying-in-augusta-ahead-of-senate-runoffs/article_1a5e0e1c-3969-11eb-8931-9334ebebb1f1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/93/393f2522-396a-11eb-9af8-0f9ce89e98db/5f3faefe0f231.image.jpg?resize=945%2C630",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Post and Courier Charleston",
+        "domain": "postandcourier.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-vp-pence-mike-pompeo-will-go-to-georgia-ahead-of-senate-run-off-elections.md",
       "title": "VP Pence, Mike Pompeo will go to Georgia ahead of Senate run-off elections",
       "excerpt": "Vice President Pence and Secretary of State Mike Pompeo will both head to Georgia this week ahead of the two Senate run-offs that will decide which party controls the body. Pompeo will appear",
@@ -101,7 +256,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/politics-presidential-transition-news-joe-biden-donald-trump/6484311002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 820,
+      "heat": 860,
       "tags": null,
       "images": [
         {
@@ -427,7 +582,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 376,
+      "heat": 416,
       "tags": null,
       "images": [
         {
@@ -758,7 +913,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 216,
+      "heat": 256,
       "tags": null,
       "images": [
         {
@@ -1180,167 +1335,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-trump-suggests-joe-biden-will-try-to-take-the-word-christmas-out-of-the-vocabulary.md",
-      "title": "Trump suggests Joe Biden will try to take the word Christmas 'out of the vocabulary'",
-      "excerpt": "Trump claimed credit for re-introducing the Americans' right to say 'Merry Christmas' during his time in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fce1adbeadd8400183df6be?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp",
-      "publishedDateTime": "2020-12-07T04:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-trumps-pandemic-blindness-and-election-denial-darkens-americas-desperate-winter.md",
-      "title": "Trump's pandemic blindness and election denial darkens America's desperate winter ",
-      "excerpt": "Donald Trump's final-days denial is darkening America's winter of sickness and death, damaging democracy, hampering Joe Biden's nascent presidency and jeopardizing Republican hopes of clinging to the Senate.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hSuo6xOBNS0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hSuo6xOBNS0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 424,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201205212226-01-trump-rally-georgia-1205-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/07/politics/donald-trump-pandemic-election-results-joe-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/donald-trump-pandemic-election-results-joe-biden/index.html",
-      "publishedDateTime": "2020-12-06T21:41:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-unambiguous-loud-and-threatening-trump-supporters-protest-at-home-of-michigan-secretary-of-state-jocelyn-benson.md",
-      "title": "'Unambiguous, loud and threatening': Trump supporters protest at home of Michigan Secretary of State Jocelyn Benson",
-      "excerpt": "Secretary of State Jocelyn Benson said she and her son were preparing to watch a Christmas movie when the protesters showed up outside her home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/06/michigan-secretary-state-jocelyn-benson-protest-home/3853743001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/06/michigan-secretary-state-jocelyn-benson-protest-home/3853743001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/10/03/PDTF/4d1cb9cc-996c-41ed-827d-f28cb68e9c8b-Jocelyn_Benson2.jpg?auto=webp&crop=3959,2227,x0,y183&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3853743001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3853743001",
-      "publishedDateTime": "2020-12-06T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -333,6 +333,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "U.S. green groups say honeymoon is over, turn up heat on Biden"
+    excerpt: "U.S. environmental groups that poured money and effort behind Democrat Joe Biden's successful run for president are shifting to a new more adversarial role now that he has been elected, launching a pressure campaign to make sure he delivers on his promises to fight"
+    publishedDateTime: 2020-12-07T21:39:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-green-idUKKBN28H1CE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28H1CE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28H1CE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543721308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB60PV"
+        width: 817
+        height: 545
+        isCached: true
   - title: "U.S. judge rejects attempt to overturn Biden's Michigan victory"
     excerpt: "A U.S. judge on Monday rejected a bid to decertify President-elect Joe Biden's election victory in Michigan because of alleged irregularities and to have President Donald Trump declared the winner, the latest failed legal attack on the vote."
     publishedDateTime: 2020-12-07T16:49:00Z

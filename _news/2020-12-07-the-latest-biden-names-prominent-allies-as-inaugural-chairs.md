@@ -419,6 +419,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Civil rights groups pressure Biden to diversify senior Cabinet posts"
+    excerpt: "The Post’s Annie Linskey explains why President-elect Joe Biden’s early top Cabinet picks worry Black, Hispanic and Asian supporters."
+    publishedDateTime: 2020-12-08T16:32:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/civil-rights-groups-pressure-biden-to-diversify-senior-cabinet-posts/2020/12/08/de1c6414-07fb-4f2b-a501-37d4e7e4c71a_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-08-2020/t_49ccbf9e6f93490ea6e5fa5ee48bad12_name_39575c08_2f5d_11eb_9dd6_2d0179981719_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
   - title: "We’ve entered into a new era of globalization — no matter what Joe Biden does"
     excerpt: "Supporters of an open international economy see new hope in Joe Biden’s election that perhaps globalization is not on its death bed after all. But the assumption that Biden will restore robust growth in international trade and investment is misplaced."
     publishedDateTime: 2020-12-04T11:06:00Z
@@ -476,6 +490,20 @@ related:
       - url: "https://i.insider.com/5faaed3bf7d1cb0019e3aee2?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President-elect Biden to nominate Lloyd Austin as defense secretary in historic move"
+    excerpt: "President-elect Joe Biden is expected to nominate retired four-star Army general Lloyd Austin as defense secretary. If the Senate confirms him, Austin will become the first African American to lead the Pentagon."
+    publishedDateTime: 2020-12-08T15:58:00Z
+    webUrl: "https://www.cbsnews.com/video/president-elect-biden-to-nominate-retired-general-lloyd-austin-as-defense-secretary-in-historic-move/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 98
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/08/8728bbf0-ac74-4d9f-a563-1d0a75e71f86/thumbnail/1200x630/d3aacc2eeca19eb02848a1427ef8c017/cbsn-fusion-president-elect-biden-to-nominate-retired-general-lloyd-austin-as-defense-secretary-in-historic-move-thumbnail-603787-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "President-elect Biden calls on Americans to wear masks for his first 100 days in office"
     excerpt: "President-elect Joe Biden says he wants the American public to wear masks for his first 100 days in office to help slow the spread of COVID-19. Mr. Biden continues to build out his coronavirus pandemic response team,"
