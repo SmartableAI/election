@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-cov
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates"
 type: article
 quality: 123
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Trump vaccine executive order raises questions after Pfizer offer declined"
+    excerpt: "The White House pushed back on reports the United States declined to buy more doses of a COVID-19 vaccine produced by Pfizer and its German partner BioNTech."
+    publishedDateTime: 2020-12-08T17:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-gty-jt-201208_1607443175602_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "T5mRyDKOCc4gkPZw8KHR9hNy78G9u2fFsK6CAZuIl1g3ExNkNqNfjH248kNgPBlchSlD2ebQx0NOjy4sbA2wxB95ZtMfVDzAKKbhHNboYDkENX0P7GhHch+9U9OmTR/B5CDPm6BiqYfh7t4dAQdXhpS7hq3mbwcPL7p/bQCOFnPTWtn/8rDlQCXx+7Xq5Fh5K1mPyUhhTUdcLU7Z8MllS4hoU1oaS6QNCtm17eczcf5KHOUOVH6SyK5R3b8SWkoYb/JoEW2fZeG77hAPRLj10TBuGoJTDLEUb0/ewx0fX6EuWfFSupoD1rH3/jCTAPmBdrAR37B1St7wBp/MNV/AIgH/3NhyNAGIw9BcMip29SQ=;foJMBEnkmZ4gDKqN2ONv/g=="
 ---

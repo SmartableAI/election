@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump campaign lawyer Jenna Ellis contracts coronavirus, source says"
+    excerpt: "Jenna Ellis, a lawyer who has been leading the Trump campaign's legal efforts to dispute the results of the 2020 presidential election, has contracted the coronavirus, a source familiar with the situation confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-08T18:18:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GUCW49pXqTc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/jenna-ellis-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/jenna-ellis-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208121723-jenna-ellis-1202-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Coronavirus Deaths, Joe Biden, Holiday Windows: Your Weekend Briefing"
     excerpt: "Here are the week’s top stories, and a look ahead. 1. The numbers of coronavirus-related deaths are at their highest levels since the spring. On April 15, 2,752 people in the U.S. died from Covid-19,"
     publishedDateTime: 2020-11-29T11:20:00Z

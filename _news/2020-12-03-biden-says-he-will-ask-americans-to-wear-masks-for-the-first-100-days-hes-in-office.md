@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP leadership rejects resolution acknowledging Biden as President-elect"
+    excerpt: "Congressional Republican leaders on Tuesday rejected a resolution that asserted that Joe Biden is President-elect, the latest refusal by the GOP on Capitol Hill to accept the election results even though it's been clear for weeks that President Donald Trump lost.\n    \n"
+    publishedDateTime: 2020-12-08T18:31:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rKn8-wolMHc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/gop-leadership-congress-biden-president-elect/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/gop-leadership-congress-biden-president-elect/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207162605-mitch-mcconnell-nancy-pelosi-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to nominate Dr. Vivek Murthy to reprise role as US surgeon general"
     excerpt: "As he builds out his health team, President-elect Joe Biden is expected to nominate Dr. Vivek Murthy as US Surgeon General, two sources familiar with the matter confirmed to CNN, returning to the role he served in during the Obama administration.\n    \n"
     publishedDateTime: 2020-12-07T02:54:38Z

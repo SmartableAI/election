@@ -399,6 +399,22 @@ related:
         width: 808
         height: 545
         isCached: true
+  - title: "Texas attorney general asks Supreme Court to block Biden victory in 4 states"
+    excerpt: "President Trump, his campaign and his allies have engaged in aggressive but fruitless legal challenges designed to overturn Joe Biden's victory."
+    publishedDateTime: 2020-12-08T17:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/08/texas-ag-ken-paxton-asks-supreme-court-block-biden-wins-4-states/6491137002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6491137002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6491137002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "UPDATE 1-Biden urges Congress to pass coronavirus package, promises more action"
     excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
     publishedDateTime: 2020-12-02T00:27:00Z

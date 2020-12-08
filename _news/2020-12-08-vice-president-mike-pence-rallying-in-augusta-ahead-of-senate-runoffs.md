@@ -7,8 +7,8 @@ originalUrl: "https://www.postandcourier.com/aikenstandard/news/vice-president-m
 webUrl: "https://www.postandcourier.com/aikenstandard/news/vice-president-mike-pence-rallying-in-augusta-ahead-of-senate-runoffs/article_1a5e0e1c-3969-11eb-8931-9334ebebb1f1.html"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Post and Courier Charleston
@@ -25,18 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Pence Urges Republican Voters to Check Registration, Request Absentee Ballots"
-    excerpt: "Vice President Mike Pence urges supporters of Republican Senators David Perdue and Kelly Loeffler to check their voter registration and request their absentee ballots ahead of the January 5 runoff elections,"
-    publishedDateTime: 2020-12-04T22:56:00Z
-    webUrl: "https://www.c-span.org/video/?c4927843/vice-president-pence-urges-republican-voters-check-registration-request-absentee-ballots"
-    ampWebUrl: "https://www.c-span.org/amp/video/?c4927843"
-    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4927843"
+  - title: "Vice President Mike Pence to visit Greenville for coronavirus-response discussion"
+    excerpt: "Vice President Mike Pence will visit Greenville on Thursday to talk about response to COVID-19 before traveling to a campaign rally in Augusta, Georgia. According to his office, Pence is visiting Greenville to take part in a roundtable discussion highlighting the public-private partnership to combat the coronavirus,"
+    publishedDateTime: 2020-12-08T10:22:00Z
+    webUrl: "https://www.greenvilleonline.com/story/news/local/2020/12/07/vice-president-mike-pence-visit-greenville-sc-talk-covid/6484240002/"
+    ampWebUrl: "https://amp.greenvilleonline.com/amp/6484240002"
+    cdnAmpWebUrl: "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/6484240002"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 44
+      name: Greenville News
+      domain: greenvilleonline.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/03/30/PGRE/26d93d2a-50d7-4a29-a0ad-83b758897d6c-SS_pence_03_30_2019_1539.JPG?auto=webp&crop=2999,1671,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 669
+        isCached: true
+  - title: "Pence to visit Tennessee, talk virus vaccines"
+    excerpt: "Vice President Mike Pence is scheduled to visit Memphis on Thursday to discuss the development and distribution of the COVID-19 vaccines, according to his office."
+    publishedDateTime: 2020-12-03T15:30:00Z
+    webUrl: "https://www.timesnews.net/living/health-care/pence-to-visit-tennessee-talk-virus-vaccines/article_0001c35c-3580-11eb-ab1e-134818ed0d1f.html"
+    type: article
+    provider:
+      name: Times News
+      domain: timesnews.net
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/3/23/323f7f7c-da0d-11ea-8e7a-6796a476e0b5/5f2f9df19a75b.image.jpg?crop=800%2C450%2C0%2C16&resize=800%2C450&order=crop%2Cresize"
+        width: 800
+        height: 450
+        isCached: true
 
-secured: "HbHBOXqt8QlGVr9Hgw0EIPEfZMEWxAbWHsA4NNTds3yqLoVQAjhvO/2VpXqOr6itFQ+lnmAy1MzIxT1F8Mir8qgNdw4uBsaw2hcz46IVE4Nf9R69kdPthyx29f5eEh2w6mVKxTADwpFCE381DpmaetLN+JwhcKqZJSjYrJeHYUgwA1QVStonuE6Dybbso9oebzW1U/cfjZGs6Z9EOjOu5JQl4MInkyA/AqpnmghTLGuj/wDLodrb1snkapg+KI7fQ7x8q/9+u1txJHGvsCzx/2FmtDRal2flABmRco8TSNQKVn3j2ZNK3cLRfvt/GhvkG/mG0dQZe6vq7TA1urecpa/niQvdLIwNsG3OkAEnQmE=;zoDV2um+NmK6qvZLHdSBGg=="
+secured: "LkOaYQlQKNq9t/VDicUIVK70fDheLEpEPpGd64of75QuAIA6w5//Y3ZYnNKMoq179qqKeaNp7agkE4JCCqJsD9SOHIpldDEAN800D8qybGKR9jBS3skbMrQ/1x9kMzFF8y5Q/9FnlSJ6U3pfXZdV59kI2LKYdcS/JTbZb5ohxXs0j/RNkLFPMJ/R8UfVVtiettSTrqjMMjGIdcRB3C/aW/DewygnvMpWr9lvGroJTO8vfIIyEC8beGDYN4DjMCMqxQ+LyU12welZOB9NGJ7sqKNl3ceknJuIqQQw2Kp/6uPBpp9sJ2AXj+qWx0DcIGh9/Swyf0JzSwzOC1aC0T2gpgd3SUYc3ZgA5QrCDWcm8jTLRxKABjWgHtVHSUPMJDtyoY/cUCTMoNnIm39/CXRXXn0TaR9NL/QxEbutlFnGitVRRK3jZbtTyj0fbAbYB7/YXUYjGKsQAkYX6JFuKq/o+E1u2n7rgQit0nG8QyX8f00ckJq1RMRQk5RxOnuRZ9sfHlyiUqqiTTyFZ25L813+Bg==;nMP1SH+BN7co+YcTGJhjAQ=="
 ---
 

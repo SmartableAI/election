@@ -191,6 +191,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump campaign official reportedly tests positive for coronavirus days after staff party – live"
+    excerpt: "White House staffers were reportedly very angry when they learned of Jenna Ellis’ coronavirus diagnosis days after she attended a staff party"
+    publishedDateTime: 2020-12-08T18:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fcfc3bd8f0861e6ffe1f375"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/439c9a17119ace248554e84ec6803be665b6d29b/0_192_5742_3445/master/5742.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=39e79992a0c953fc073b64d11283037a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Scott Atlas resigns as special adviser to Trump on coronavirus -Fox News"
     excerpt: "Dr. Scott Atlas has resigned as special adviser to President Donald Trump on the coronavirus, Fox News reported on Monday, after a controversial four months at the White House in which he clashed repeatedly with other members of the task force responding to the deadly"
     publishedDateTime: 2020-12-01T01:45:00Z

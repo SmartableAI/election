@@ -415,6 +415,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Texas attorney general asks Supreme Court to block Biden victory in 4 states"
+    excerpt: "President Trump, his campaign and his allies have engaged in aggressive but fruitless legal challenges designed to overturn Joe Biden's victory."
+    publishedDateTime: 2020-12-08T17:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/08/texas-ag-ken-paxton-asks-supreme-court-block-biden-wins-4-states/6491137002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6491137002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6491137002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden’s drive for diversity in top political jobs is only an illusion of change"
     excerpt: "He may have selected a cabinet that looks like America, but the president-elect’s picks are just business as usual, says Guardian columnist Nesrine Malik"
     publishedDateTime: 2020-12-07T06:00:00Z

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Republican U.S. Senate leader urges support for Trump's massive UAE arms sale"
+    excerpt: "The U.S. Senate's Republican leader on Tuesday urged lawmakers to vote against a resolution, expected as soon as this week, to block President Donald Trump's $23 billion arms sale to the United Arab Emirates,"
+    publishedDateTime: 2020-12-08T18:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28I2JU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2JU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2JU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543852852&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71GV"
+        width: 819
+        height: 545
+        isCached: true
 
 secured: "FSBN7ReI9T9ulOagLJMnB969yGjyLNhaw0DO28f5aX0VOCDbTTcdGnufCoaVLI8XV8LxSXKuGqWEZRu4y/f1lLl81orI4Vg0lLDBsVvT4cYk4c6YUq4du3IkhfS8s+x+eA3dgoXR4AjaYOVoOOalCLLAdIE1v+yquWfTacD7oYYiG9YClXRG4iGcNjGTY+7a7taNReewGnTbOQ4VvjKwmu6FGscX4Vh/ImMHgrcVVUX6A8jnjTM1eh9O+xnp2LcpdCnDpe+TKADWTs5ShDXivUY7tuzD/t5jNLtiEOTkRQGQ2xr/cl0jZjlg6X7TqioKFRDfSjZkfe5eCKY8LceUcQ9nshLF+ZRb3VC7JJ+DGdAIPVLNd0oIvFTjwvXscmNusr7kVXSF8PaBew8TM07egea5DFWnQ1pKwiv3MI9oF+DEd5yNdP1N6KZ5LfwwJMHejiz/2LevlUUc+bc5dOUr+tDsxJP3McRdeKjTUnUONfuRjlS0N8bbW4LW6zy2G37gQNtgThbp5AeDhFv5Pe+ytw==;ncsAbKpJW5WWAes7Vmz1Ow=="
 ---

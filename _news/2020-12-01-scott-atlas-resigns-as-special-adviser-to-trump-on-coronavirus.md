@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LIOFX4RVUAI6XDJYNLVBVWZYHE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump campaign official reportedly tests positive for coronavirus days after staff party – live"
+    excerpt: "White House staffers were reportedly very angry when they learned of Jenna Ellis’ coronavirus diagnosis days after she attended a staff party"
+    publishedDateTime: 2020-12-08T18:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fcfc3bd8f0861e6ffe1f375"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/439c9a17119ace248554e84ec6803be665b6d29b/0_192_5742_3445/master/5742.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=39e79992a0c953fc073b64d11283037a"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump has been distorting the military's role in work on a coronavirus vaccine from the very start"
     excerpt: "The military has contributed mightily to the project, but it won't produce, store, distribute, or administer the vaccines."

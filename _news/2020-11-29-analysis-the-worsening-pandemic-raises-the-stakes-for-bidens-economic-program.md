@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden will meet with leaders of civil rights groups amid pressure to choose diverse Cabinet"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are set to hold a virtual meeting with leaders of civil rights organizations Tuesday in Wilmington, Delaware, as Biden faces pressure to appoint a diverse slate of nominees to Cabinet positions and top administration posts.\n    \n"
+    publishedDateTime: 2020-12-08T17:13:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/76FsIoHMFFM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/biden-civil-rights-leaders-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/biden-civil-rights-leaders-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203235613-biden-presidete-crisis-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How Joe Biden’s Digital Team Tamed the MAGA Internet"
     excerpt: "The campaign’s empathetic digital strategy held up surprisingly well against President Trump’s passionate digital following."
     publishedDateTime: 2020-12-06T10:00:00Z

@@ -47,6 +47,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Trump campaign lawyer Jenna Ellis contracts coronavirus, source says"
+    excerpt: "Jenna Ellis, a lawyer who has been leading the Trump campaign's legal efforts to dispute the results of the 2020 presidential election, has contracted the coronavirus, a source familiar with the situation confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-08T18:18:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GUCW49pXqTc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/jenna-ellis-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/jenna-ellis-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208121723-jenna-ellis-1202-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden urges Congress to pass coronavirus package with state and local government funding"
     excerpt: "President-elect Joe Biden urged Congress to pass a coronavirus relief package that includes funding to help state and local governments with payrolls for public workers like teachers and first responders.\n    \n"
     publishedDateTime: 2020-11-16T22:31:43Z

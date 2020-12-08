@@ -239,6 +239,54 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "House moves to approve defense bill amid Trump veto threat"
+    excerpt: "The Democratic-controlled House is moving toward approval of a wide-ranging defense policy bill, even as President Donald Trump renews his threat to veto the bill unless lawmakers clamp down on social media companies he claims were biased against him during the election."
+    publishedDateTime: 2020-12-08T18:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-moves-approve-defense-bill-amid-trump-veto-74607240"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-moves-approve-defense-bill-amid-trump-veto-74607240"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-moves-approve-defense-bill-amid-trump-veto-74607240"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ed4ed4eae2284904bdf84ec0c9b1eabd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "House poised to pass defense bill as Trump expands veto threat"
+    excerpt: "Republicans hope that a strong show of support in the House and Senate will dissuade Trump from attempting to scuttle the bill in the waning weeks of his presidency."
+    publishedDateTime: 2020-12-08T18:38:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/house-votes-defense-bill-ndaa-trump-veto/2020/12/07/b872dd72-38c3-11eb-9276-ae0ca72729be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/house-votes-defense-bill-ndaa-trump-veto/2020/12/07/b872dd72-38c3-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/house-votes-defense-bill-ndaa-trump-veto/2020/12/07/b872dd72-38c3-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SOVW4ABY3QI6XGGEEXOJ6SMH5A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump campaign attorney Ellis has contracted coronavirus - source"
+    excerpt: "Jenna Ellis, an attorney helping lead President Donald Trump's legal challenges to the results of the U.S. presidential election, has contracted the coronavirus, a source familiar with the situation told Reuters."
+    publishedDateTime: 2020-12-08T17:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-attorney/trump-campaign-attorney-ellis-has-contracted-coronavirus-source-idUSW1N2HQ0KP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2H8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2H8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543852420&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71EC"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Chinese firms on U.S. exchanges threatened by bill headed to Trump's desk"
     excerpt: "The U.S. House of Representatives passed a law to kick Chinese companies off U.S. stock exchanges if they do not fully comply with the country's auditing rules, giving President Donald Trump one more tool to threaten Beijing with before leaving office."
     publishedDateTime: 2020-12-03T00:45:00Z
