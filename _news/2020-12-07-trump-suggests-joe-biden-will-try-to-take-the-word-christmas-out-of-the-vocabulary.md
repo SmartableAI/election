@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-suggests-biden-will-take-chris
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp"
 type: article
 quality: 143
-heat: 203
+heat: 223
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/eWz6YaZpjv13UyZnuMN9_9d0L3U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MR5JQFF7QVAAZGFBXYO4BDLZII.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump is offering pardons 'like Christmas gifts' to people who don't even want them, according to a report"
+    excerpt: "The president and his closest associates face multiple civil and criminal probes once he leaves office."
+    publishedDateTime: 2020-12-08T12:20:00Z
+    webUrl: "https://www.businessinsider.com/trump-offering-pardons-people-who-dont-even-want-them-report-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-offering-pardons-people-who-dont-even-want-them-report-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-offering-pardons-people-who-dont-even-want-them-report-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5fcf6c47037cbd00186146f4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "2aZtY1s2Rb+WgT0Gl2wKJf1nHFoj2S1VytR/juy8atWX/YSLBXsgwD2QUSmDxk/udhyjdFE10UhBM3yc/3O7LnNPpFT0PzHakcycT7FY/i4mp+10jw3z+Cg4zcFd92QbWSSA3cQzqiw5x04BHd+TfkhqRHYfOo0bfuXHM/FjW0MqeIpaT//IJoZWxlbQqmrt7r7ryx6mjuUJ6KVu2hHkU+Ke5+BjLToces+5vcIrYNyaO8XfdtpnYuuuU4UclSG+65cYZewCEjNiQ/1M46F/YxCWrpNfEfsmH8Wm6Ii4rKNZ3FVzCWw2oqFv811kcmeJrVL8cyW/rT4CIm2LsFCSt8jL168BpHfgOb5EbfENg3nrTDpklbPDKtp/qJuq0+tXraSz/QAqDGDHYxavvF1UU60185VkAVqZ3BNQ0eUdcaPlVCsbRnqENWigZOWjZzZB8GUrWUPA1vmnGiT++eJUJ2G71DUs0dl8gp7+zy2jPWcEuHaIi26dTYiwb6nvRa8vdQd1Zk2FghN1pfEZDQTmUQ==;PvHzr8hZpjMC9Ov2VFlFkQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp"
 type: article
 quality: 196
-heat: 356
+heat: 376
 published: true
 
 provider:
@@ -159,6 +159,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333665999101-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Expect Big Things From Harris as Vice President"
+    excerpt: "Vice President-elect Kamala Harris is going to be a major voice in the White House during the next four years, writes Julian Zelizer. As an experienced senator, Harris will be able to help Biden solid"
+    publishedDateTime: 2020-12-08T12:27:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/08/expect_big_things_from_harris_as_vice_president_530775.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/528934_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "cPbgeqTOMbnBFoXcLOzOhEVizeU5OXtJcNeOkQTOkjpQhceJsrXrmzieTD+8WrNmgTceuMu3zGquvIq9uFljo4nP30yoGPcebCaHr4z8pkxmntZR+g4xUfGV6iTcEDsVo4CUQG9KfAhaYnBPOw0AIrJTXRpY7CwvfKrSMbuaQtGrJqmt1Qzz71hAPvICLUKQbSRAqarfA3eqmZPos6FczU4u1PPIXOWI02QTN36DpFnrWvHVqTa5yNoMXTHiiZc/xyhrFPfUA6Yxz5Gsny7154VoBuuswZhWZSIAJzP2rGnv6KftxZEApxFnz3REEbq1XSYneAXXnXJnWAZyzyYAXrcmyDkyjfkgL+Y736ZFggQ=;BpRFs4zXti9PQ/1Fvs8tmQ=="

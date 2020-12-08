@@ -688,6 +688,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump keeps denouncing election as Biden transition grinds on"
+    excerpt: "If Trump is even mulling an inaugural counter-event, it means he recognizes that all of his efforts are likely to fail."
+    publishedDateTime: 2020-12-08T12:56:00Z
+    webUrl: "https://www.foxnews.com/media/trump-keeps-denouncing-election-as-biden-transition-grinds-on"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20338663126539-e1607365004301.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump hints at 2024 presidential run in remarks at White House party"
     excerpt: "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden."
     publishedDateTime: 2020-12-02T16:06:00Z

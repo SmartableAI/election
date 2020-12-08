@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "More than 1,000 Black women urge Biden to choose more Black women for his Cabinet"
+    excerpt: "More than 1,000 influential Black women on Monday signed an open letter to President-elect Joe Biden and Vice President-elect Kamala Harris, urging their transition team to consider -- and appoint -- more Black women to hold positions in Biden's Cabinet.\n    \n"
+    publishedDateTime: 2020-12-08T04:38:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r1mh7XlbHa0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/black-women-joe-biden-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/black-women-joe-biden-cabinet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201206234438-joe-biden-1204-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Hispanic caucus expresses frustration to Biden team with how Michelle Lujan Grisham has been treated"
     excerpt: "Members of the Congressional Hispanic Caucus expressed frustration in a meeting with leaders of President-elect Joe Biden's transition team on Thursday with how they believe New Mexico Gov. Michelle Lujan Grisham has been treated in the Cabinet selection process.\n    \n"
     publishedDateTime: 2020-12-04T02:28:38Z

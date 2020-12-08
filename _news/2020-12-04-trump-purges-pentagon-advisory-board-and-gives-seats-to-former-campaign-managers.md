@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lew
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/trump-pentagon-board-lewandowski-bossie/index.html"
 type: article
 quality: 170
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/02/nyregion/02trump-wiley1/02trump-wiley1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "New Trump administration rules make it easier for lenders to charge small businesses super-high interest rates"
+    excerpt: "\"This is my life,\" says Carlos Swepson, owner of a New York bistro with his wife. He's trying to pay off loans with an effective interest rate of 268 percent."
+    publishedDateTime: 2020-12-08T10:04:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/new-trump-administration-rules-make-it-easier-lenders-charge-small-n1250023"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250023"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250023"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3433737/201206-carlos-markisha-swepson-blvd-harlem-2x1-se-530p_43d2f696fe4dac84a7205d86a0382d51.jpg"
+        width: 2500
+        height: 1664
         isCached: true
 
 secured: "UcN47vbrtanARy4Bw3pU2+HdNeEtoBMuCo/ruddBGusAK3uh8t4y6s7TebO2GeSl0lfbkwyiF4kGroO3xyhRQ/76jyzXLtJC/CSnWHeg2GvDNQGoigLb5J0gpmdbuWZir2zcKcgjrlG41c5zUAdXulwe7wQZyMxGisBrvI16MVZdBnOW0XPmL4bH/U/KEEwCLjwpxbfdRSREKkC1tlBE9dx87m/i8sQZsI/3uWl+oMzb6LGE+WywJxjAo0GSuZOYfNlLLdD8YU+207Uw0vT/CBMutiUuGhnEZU2Q833cSqnKLBZDUyDCygFPiC7HtOFrD1F1ZzgP5EWHTNjLu+IUloJgv/MmCtKafNK9IpYF1So=;/lxERJqCyrLwAn1fjCdL7w=="

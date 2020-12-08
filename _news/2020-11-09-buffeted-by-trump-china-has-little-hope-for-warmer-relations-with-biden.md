@@ -2014,6 +2014,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden introducing health team as Trump holds Covid vaccine summit"
+    excerpt: "WASHINGTON — President-elect Joe Biden and President Donald Trump will hold dueling health care-related events Tuesday as the coronavirus pandemic continues to intensify nationwide. Biden and Vice President-elect Kamala Harris will formally introduce their nominees and appointees for their health team in the afternoon in Wilmington,"
+    publishedDateTime: 2020-12-08T12:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-introducing-health-team-trump-holds-covid-vaccine-summit-n1250338"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250338"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250338"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/n_maddow_kessler1_201207_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden Faces Early Test With Immigration and Homeland Security After Trump"
     excerpt: "The Department of Homeland Security was molded in President Trump’s image, and not just on immigration policy. President-elect Joseph R. Biden Jr. will have work to do to remake it."
     publishedDateTime: 2020-11-15T10:05:00Z

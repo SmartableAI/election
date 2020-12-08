@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn"
 type: article
 quality: 188
-heat: 508
+heat: 528
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Duel events will starkly contrast Biden's and Trump's approaches to pandemic"
+    excerpt: "President-elect Joe Biden on Tuesday will introduce the scientists and doctors he says will finally defeat the pandemic -- but for now his team can only watch as a wave of infection and death deepens the crisis he will face after January 20.\n    \n"
+    publishedDateTime: 2020-12-08T11:22:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tMvMpHu27Tw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/trump-biden-vaccine-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/trump-biden-vaccine-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump pressured Georgia governor in call to help overturn Biden's win in state"
     excerpt: "President Donald Trump on Saturday called Georgia Gov. Brian Kemp, pushing him to convince state legislators to overturn President-elect Joe Biden's win in the state.\n    \n"
     publishedDateTime: 2020-12-05T20:02:44Z

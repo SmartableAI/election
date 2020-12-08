@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-01-cuomo-warns-that-trump-vaccination-plans-fail-minorities-undocumented-immigrants.md",
+      "title": "Cuomo warns that Trump vaccination plans fail minorities, undocumented immigrants",
+      "excerpt": "New York Democratic Gov. Andrew Cuomo penned a letter Tuesday calling for U.S. Health and Human Services Secretary Alex Azar to alter the upcoming vaccination program he says is inadequately serving \"Black, Brown, Asian and low-income communities.\" ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-yq6Ug62Rcg/cuomo-pens-letter-to-hhs-sec-over-virus-distribution-for-undocumented-immigrants-minorities",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-yq6Ug62Rcg/cuomo-pens-letter-to-hhs-sec-over-virus-distribution-for-undocumented-immigrants-minorities",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/andrewcuomo-cropped-1155p.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-pens-letter-to-hhs-sec-over-virus-distribution-for-undocumented-immigrants-minorities.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-pens-letter-to-hhs-sec-over-virus-distribution-for-undocumented-immigrants-minorities.amp",
+      "publishedDateTime": "2020-12-01T12:30:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-frontrunners-for-kamala-harris-senate-seat-praised-fidel-castro.md",
       "title": "Frontrunners for Kamala Harris Senate seat praised Fidel Castro",
       "excerpt": "Two frontrunners for Vice President-elect Kamala Harris' Senate seat have praised former Cuban dictator Fidel Castro.",
@@ -447,7 +503,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1278,62 +1334,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-jonathan-turley-says-trumps-attacks-on-judges-over-election-rulings-unfair.md",
-      "title": "Jonathan Turley says Trump's attacks on judges over election rulings 'unfair'",
-      "excerpt": "G.W. University Law Professor Jonathan Turley said on Monday that President Trump's \"attacks\" against judges over their decisions on the 2020 election dispute are \"unfair.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Q-mzylnTHc/jonathan-turley-president-trump-attacks-judges-rejecting-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Q-mzylnTHc/jonathan-turley-president-trump-attacks-judges-rejecting-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jonathan-turley-president-trump-attacks-judges-rejecting-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jonathan-turley-president-trump-attacks-judges-rejecting-election.amp",
-      "publishedDateTime": "2020-11-30T05:47:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

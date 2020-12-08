@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's window for election subversion is closing"
+    excerpt: "President Donald Trump's legal team for weeks has worked to delay the certification of Joe Biden's election win in a long-shot effort to create an opening for Trump stay in power.\n    \n"
+    publishedDateTime: 2020-12-08T05:02:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EAp-AIPpeu8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/what-matters-december-7/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/what-matters-december-7/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016115324-20201016-election-day-to-inauguration-illustration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: GOP silence on Trump's false election claims recalls McCarthy era"
     excerpt: "The silence of congressional Republican leaders as President Donald Trump's unfounded claims of election fraud grow wilder and more venomous increasingly resembles the party's deference to Sen. Joe McCarthy during the worst excesses of his anti-Communist crusade in the early 1950s.\n    \n"
     publishedDateTime: 2020-12-01T12:09:18Z
@@ -699,6 +715,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/151211153020-scott-ogrady-closeup-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump administration awarded millions to companies with checkered records to care for migrant children"
+    excerpt: "The Trump administration awarded grants totaling $58 million to two companies with checkered records to care for unaccompanied migrant children, according to a newly-released Senate report, which concluded that the department's failures could have endangered children.\n    \n"
+    publishedDateTime: 2020-12-08T10:10:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NK-BBUHuwzE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/migrant-children-contracts/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/migrant-children-contracts/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204144457-hhs-seal-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1350,6 +1382,20 @@ related:
         width: 5156
         height: 3435
         isCached: true
+  - title: "Trump blows a hole in the GOP on his way out"
+    excerpt: "As his presidency comes to a close, Trump has not only imprinted his smash-mouth style on the GOP, he has wrenched open the schism between the activist class and the elected class, according to interviews with more than a dozen Republican Party officials and strategists in the states."
+    publishedDateTime: 2020-12-08T09:30:00Z
+    webUrl: "https://www.politico.com/news/2020/12/08/trump-gop-blow-up-443461"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/01/99/4ac9e94f4ad893171ef8e9af62d6/trump-773-ap-3.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "The Trump Administration Just Made the Citizenship Test Harder. How Would You Do?"
     excerpt: "Test your knowledge on some of the topics from American history and government that prospective new citizens have to answer."
     publishedDateTime: 2020-12-03T08:04:00Z
@@ -1379,6 +1425,6 @@ related:
         height: 773
         isCached: true
 
-secured: "b7IQGzip4GeTOfWi5coz2O8gPqgXcm7696RdLc7FqAg6xKNzZYAIEDr0QUX3FuJBU5kdVTLDHfiCca7cZXPvX86C3vVlrjV7xQLU10E/mPSoA6rgrxKNaFYar551yT6l3rnDp9hfq5FVLCWV8Rv5ZzqLfG8O49uzqzufPbN0SLRvmZ9N2XUgOu/IrXEuVGI8LBCn28Y9dJPLdK+csersp1vCrnt3dg+kJ6Bec9twumZTK/I1is8ZWO7L7QZG4qRPGrh2a+zro7Z5K4KhRQRGdPmn5tVb/l0ScKCopS9uW55VrLh4z6TNqpWXeFxWl1fur+UwYntj0Y4GHM4KuxP5wq2rk5o5Jl9tSwd7rA3Wo4A=;0DA6g46ViDmr8tlvl96V0A=="
+secured: "cZ/MovsHI0+45ay9FHxum7nC7Uempkz8dWMKEuk5n/OprpcB4QsdRXzOQZNnreNf4rYJXdr/e3md6WgMOUqJjSPUUnruniN+9w+XI+8nHMLRaoVVQuzQmwUj9b5lVmzYC8hEtMoli6/IkN04rlaAVaiGTVxzVyhpE/Jrz6gY5p2PUUQNnspUt25LDTHRWUWz9pmc8wdQMWs8ho795tjKb3DfIz3lZ4/Jm57TLW53qHeGe3wuHX9UO0Gb65sFJ2vkofPRYiLiREWwc0hBDBej7XG/7Z71UfB1dJHfAH2QwYW6ZBz0BatE0Q/mPpOEAEg0X8qcvs5vd7a2waoAMvppetZr1ooJvl5w5UnyafVO1TRnn0ZCGz2fUeNSLxOJGh9GieBhAS+x0DSkqTqftpjl/EkEVoPate/1AuN8Vbla1tlXnXdxAf2wjBJURg7GWQz1fHwWVmEuKHknHH5adJ2i75Qz+/ur+axCiJEqH3JtCODdzOF1xzGUJm0cJDXj+rt1zQk9GD15NTwlPjWKwK4phQ==;fI/auVY6SbNtL3/OikVGWA=="
 ---
 

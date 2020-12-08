@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 3665
+heat: 3685
 published: true
 
 provider:
@@ -1996,6 +1996,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109160916-joe-biden-obamacare-1028-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden introducing health team as Trump holds Covid vaccine summit"
+    excerpt: "WASHINGTON — President-elect Joe Biden and President Donald Trump will hold dueling health care-related events Tuesday as the coronavirus pandemic continues to intensify nationwide. Biden and Vice President-elect Kamala Harris will formally introduce their nominees and appointees for their health team in the afternoon in Wilmington,"
+    publishedDateTime: 2020-12-08T12:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-introducing-health-team-trump-holds-covid-vaccine-summit-n1250338"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250338"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250338"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/n_maddow_kessler1_201207_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
     excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."

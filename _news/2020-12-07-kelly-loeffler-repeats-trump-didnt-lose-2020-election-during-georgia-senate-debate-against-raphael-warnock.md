@@ -543,6 +543,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Neil Young ends lawsuit against Donald Trump's campaign over use of his songs"
+    excerpt: "Neil Young on Monday ended his lawsuit against U.S. President Donald Trump's campaign for playing of two of his songs at campaign rallies without permission."
+    publishedDateTime: 2020-12-08T05:32:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-neil-young-idUSKBN28I02K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I02K"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I02K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543753150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB701N"
+        width: 663
+        height: 545
+        isCached: true
   - title: "Live politics updates: Biden plans to campaign in Georgia for Senate candidates"
     excerpt: "President-elect Joe Biden said he would campaign in Georgia, where two Senate runoff races could determine if Republicans retain control of the Senate"
     publishedDateTime: 2020-12-04T23:58:00Z

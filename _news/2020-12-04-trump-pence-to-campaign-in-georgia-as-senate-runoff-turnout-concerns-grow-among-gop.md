@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-sen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
 type: article
 quality: 143
-heat: 1523
+heat: 1543
 published: true
 
 provider:
@@ -543,6 +543,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/07/9dc2e7e5-4bec-4b6f-878c-94d8cb08fd8c/thumbnail/1200x630/8e8a2641c4459beee3fea8112064b486/georgia-senate-runoff-debate-2020-12-06.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Neil Young ends lawsuit against Donald Trump's campaign over use of his songs"
+    excerpt: "Neil Young on Monday ended his lawsuit against U.S. President Donald Trump's campaign for playing of two of his songs at campaign rallies without permission."
+    publishedDateTime: 2020-12-08T05:32:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-neil-young-idUSKBN28I02K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I02K"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I02K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543753150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB701N"
+        width: 663
+        height: 545
         isCached: true
   - title: "Live politics updates: Biden plans to campaign in Georgia for Senate candidates"
     excerpt: "President-elect Joe Biden said he would campaign in Georgia, where two Senate runoff races could determine if Republicans retain control of the Senate"

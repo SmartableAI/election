@@ -2,6 +2,63 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-11-16-trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative.md",
+      "title": "Trump Allies Explored Buyout of Newsmax TV as Fox News Alternative",
+      "excerpt": "Hicks Equity Partners, a private-equity firm with ties to a co-chair of the Republican National Committee, has held talks in recent months about acquiring and investing in Newsmax, a fledgling pro-Trump cable channel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
+      "originalUrl": "https://www.wsj.com/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-260269/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
+      "publishedDateTime": "2020-11-15T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-15-jordan-argues-ironing-out-voting-irregularities-is-important-72m-trump-voters-have-concerns.md",
       "title": "Jordan argues ironing out voting irregularities is 'important,' 72M Trump voters have concerns",
       "excerpt": "Even after House Republicans flipped 10 seats in the 2020 election, Rep. Jim Jordan, R-Ohio, told “Sunday Morning Futures” that investigating potential voting irregularities is crucial.",
@@ -1249,62 +1306,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-federal-election-official-blasts-trumps-false-election-claims-as-laughable-baffling-and-insulting.md",
-      "title": "Federal election official blasts Trump's false election claims as 'laughable,' 'baffling' and 'insulting'",
-      "excerpt": "A senior federal election security official who was appointed by President Donald Trump has blasted the President's false post-election claims, calling them \"baffling\", \"laughable\" and \"insulting\".\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6V-YMu-4iNw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6V-YMu-4iNw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201113145715-ben-hovland-october-2019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/13/politics/hovland-trump-election-claims/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/hovland-trump-election-claims/index.html",
-      "publishedDateTime": "2020-11-13T12:20:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

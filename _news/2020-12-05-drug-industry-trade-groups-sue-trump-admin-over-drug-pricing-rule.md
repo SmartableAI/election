@@ -49,19 +49,19 @@ related:
         isCached: true
   - title: "Trump thought courts were key to winning. Judges disagreed"
     excerpt: "President Donald Trump and allies say their lawsuits aimed at subverting the 2020 election and reversing his loss to Joe Biden would be substantiated, if only judges were allowed to hear the cases"
-    publishedDateTime: 2020-12-08T05:19:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
+    publishedDateTime: 2020-12-08T10:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fa8c79d0bfc646c78d5aa07119651a40_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "U.S. Congress defense bill defies Trump on Germany withdrawal, base names"
     excerpt: "U.S. lawmakers unveiled the final version of a massive annual defense policy bill on Thursday that defies President Donald Trump's plans to withdraw troops from Germany and keep the names of Confederate generals on military bases,"

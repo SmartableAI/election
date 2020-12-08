@@ -257,6 +257,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump held multiple calls with Pennsylvania House speaker on state's electoral process "
+    excerpt: "President Donald Trump spoke on multiple occasions over the past week with the speaker of the House in Pennsylvania about the Keystone State's election results, inquiring about their electoral process, a spokesman for the lawmaker said.\n    \n"
+    publishedDateTime: 2020-12-08T04:55:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T5zEZkfe_5E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/2020-election-trump-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/2020-election-trump-pennsylvania/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207131736-03-trump-1205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump campaign fundraises off of Giuliani news conference and uses photo of Trump in hospital"
     excerpt: "The Trump campaign sent out another fundraising email to supporters on Friday, signed by President Donald Trump, praising his attorney Rudy Giuliani's widely panned news conference this week and featuring a photo of Trump taken when he was a coronavirus patient in the hospital.\n    \n"
     publishedDateTime: 2020-11-20T21:49:39Z

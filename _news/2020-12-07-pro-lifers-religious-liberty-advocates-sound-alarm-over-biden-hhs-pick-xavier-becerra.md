@@ -159,6 +159,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Expect Big Things From Harris as Vice President"
+    excerpt: "Vice President-elect Kamala Harris is going to be a major voice in the White House during the next four years, writes Julian Zelizer. As an experienced senator, Harris will be able to help Biden solid"
+    publishedDateTime: 2020-12-08T12:27:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/08/expect_big_things_from_harris_as_vice_president_530775.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/528934_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "D//HNolMrvXCHN/owwu08hQXODwk4uqXPUFTri8836zF5lWTTV3JBUHocn0HOZRkxZo5bq7Tv9QaUPtUrSu4qwebSydbx6fX2p3PyVnTMoJ/MrlnaFbMoi/bpoMSHmT3Sjlu4ipzgcKzyz8s2AJhYUN1T/TEcRnD4dWEupU+Mjju5LLhhQ1rI62mFKfFV6qkYhpNELWA0El4NXEhd+l2F90iueC85Lv31t+8qLE2VUnVRvXCLQYbYc9NwTKEeojwKLJQb/Mpb3CkLjEqHN/oYk7uJSl1bKWRaSuism0143hoziplDvetGZpGeMOA/qjvbWEVxohVRsWoJjyWREPIHX+S1H2Ey8G0BkIkkOPxjZk=;Hpad4xGsGLy5mRBwqKG4VA=="
 ---

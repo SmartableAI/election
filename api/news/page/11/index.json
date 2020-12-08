@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-21-call-his-bluff-edward-norton-lays-out-poker-style-trump-analysis-we-never-expected.md",
+      "title": "‘Call his bluff’: Edward Norton lays out poker-style Trump analysis we never expected",
+      "excerpt": "Actor Edward Norton spelled out Donald Trump's lame-duck actions in poker terms on Friday, laying out the president's \"desperate endgame.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/movies/story/2020-11-20/edward-norton-donald-trump-poker",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/movies/story/2020-11-20/edward-norton-donald-trump-poker",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/9a49969/2147483647/strip/true/crop/5606x3661+0+38/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2a%2Fc0%2Fa44b6d7448beb7ccb29c4145503d%2Fap20173019976707.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/entertainment-arts/movies/story/2020-11-20/edward-norton-donald-trump-poker?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/movies/story/2020-11-20/edward-norton-donald-trump-poker?_amp=true",
+      "publishedDateTime": "2020-11-20T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-tucker-carlson-calls-out-trumps-election-lawyer-for-refusing-to-show-evidence-supporting-the-presidents-baseless-voter-fraud-claims.md",
       "title": "Tucker Carlson calls out Trump's election lawyer for refusing to show evidence supporting the president's baseless voter fraud claims",
       "excerpt": "Some of President Donald Trump's false election fraud claims are apparently a bridge too far for one of Trump's biggest Fox News boosters.",
@@ -1285,49 +1337,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-the-latest-pence-offers-positive-covid-19-assessment-in-us.md",
-      "title": "The Latest: Pence offers positive COVID-19 assessment in US",
-      "excerpt": "Vice President Mike Pence is offering an upbeat assessment of the status of the coronavirus in the U.S., despite a surge in cases, hospitalizations and more than a quarter of a million deaths. Pence says President Donald Trump directed that Thursday’s briefing be held.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
-      "originalUrl": "https://www.chron.com/news/article/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
-      "publishedDateTime": "2020-11-19T14:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

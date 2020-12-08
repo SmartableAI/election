@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump is offering pardons 'like Christmas gifts' to people who don't even want them, according to a report"
+    excerpt: "The president and his closest associates face multiple civil and criminal probes once he leaves office."
+    publishedDateTime: 2020-12-08T12:20:00Z
+    webUrl: "https://www.businessinsider.com/trump-offering-pardons-people-who-dont-even-want-them-report-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-offering-pardons-people-who-dont-even-want-them-report-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-offering-pardons-people-who-dont-even-want-them-report-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5fcf6c47037cbd00186146f4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "/YZchF0oOtVfFZ6+WrBjTelcidw9x6Wi6jf7g31V9It0EW+6MpiuWYifr4SuERPOK/B1fDxiCiOyiHzeF3sf8cZ+PyME07CSgHVm3oSk5VwAQQnEvCU9727bYgahgEd9HMczo5qweeeOg2oqcWnFrFpl14alb3QmbVWAl3hod97vMYpzwqmEPGSyJhUz3E4HhFLSDpeVBb6f2v9nrP8M9hzHMDsbUHkVHtkpvQdqMXAfSriFkkLK8ys6URT2OYr3D6MM6+5/8l2IavGbwXbau/N53m0YlbMQf8SRtaL/oOsztBjm6+ZcgwovObu8uVbN50wxKWQQ8womUNNoRhwxe/ZfuqcVGQBoIYqpQC9EHQ0=;uJooiN+lUFnSGrw2LXmVhA=="
 ---

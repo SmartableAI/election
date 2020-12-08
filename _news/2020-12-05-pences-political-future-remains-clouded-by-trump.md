@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html"
 type: article
 quality: 200
-heat: 1900
+heat: 1960
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's window for election subversion is closing"
+    excerpt: "President Donald Trump's legal team for weeks has worked to delay the certification of Joe Biden's election win in a long-shot effort to create an opening for Trump stay in power.\n    \n"
+    publishedDateTime: 2020-12-08T05:02:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EAp-AIPpeu8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/what-matters-december-7/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/what-matters-december-7/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016115324-20201016-election-day-to-inauguration-illustration-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -685,6 +701,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/151211153020-scott-ogrady-closeup-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump administration awarded millions to companies with checkered records to care for migrant children"
+    excerpt: "The Trump administration awarded grants totaling $58 million to two companies with checkered records to care for unaccompanied migrant children, according to a newly-released Senate report, which concluded that the department's failures could have endangered children.\n    \n"
+    publishedDateTime: 2020-12-08T10:10:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NK-BBUHuwzE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/migrant-children-contracts/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/migrant-children-contracts/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204144457-hhs-seal-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1335,6 +1367,20 @@ related:
       - url: "https://static.politico.com/c4/9d/0fd706de40b0806372574b469c58/ap20288642422941.jpg"
         width: 5156
         height: 3435
+        isCached: true
+  - title: "Trump blows a hole in the GOP on his way out"
+    excerpt: "As his presidency comes to a close, Trump has not only imprinted his smash-mouth style on the GOP, he has wrenched open the schism between the activist class and the elected class, according to interviews with more than a dozen Republican Party officials and strategists in the states."
+    publishedDateTime: 2020-12-08T09:30:00Z
+    webUrl: "https://www.politico.com/news/2020/12/08/trump-gop-blow-up-443461"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/01/99/4ac9e94f4ad893171ef8e9af62d6/trump-773-ap-3.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump's options dwindle as safe harbor deadline looms"
     excerpt: "Trump’s failure to gain traction in litigation, with his lawyers and allies failing to block crucial states from declaring Joe Biden the winner, means the safe harbor deadline stands as another potentially insurmountable reason for the courts to decline to intervene."

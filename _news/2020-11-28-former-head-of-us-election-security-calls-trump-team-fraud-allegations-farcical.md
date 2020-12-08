@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Election officials face threats, intimidation as Trump pushes false fraud claims"
+    excerpt: "Jocelyn Benson, Michigan's top election official, had just finished hanging Christmas decorations with her young son on Saturday night when a crowd demanding November's presidential election result be reversed gathered outside her home to denounce her as a \"traitor\""
+    publishedDateTime: 2020-12-08T11:35:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-threats-idUSKBN28I1D9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I1D9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I1D9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543806436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB70R9"
+        width: 763
+        height: 545
+        isCached: true
   - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live"
     excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
     publishedDateTime: 2020-12-02T14:32:00Z

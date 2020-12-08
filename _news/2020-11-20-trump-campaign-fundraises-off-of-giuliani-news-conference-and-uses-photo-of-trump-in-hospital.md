@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump held multiple calls with Pennsylvania House speaker on state's electoral process "
+    excerpt: "President Donald Trump spoke on multiple occasions over the past week with the speaker of the House in Pennsylvania about the Keystone State's election results, inquiring about their electoral process, a spokesman for the lawmaker said.\n    \n"
+    publishedDateTime: 2020-12-08T04:55:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T5zEZkfe_5E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/2020-election-trump-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/2020-election-trump-pennsylvania/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207131736-03-trump-1205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pennsylvania Supreme Court rejects Trump campaign's effort to block counting certain absentee ballots"
     excerpt: "Pennsylvania's Supreme Court on Monday rejected the Trump campaign's effort to block the counting of absentee ballots with missing dates or names, clearing the way for 10,000 votes to be counted in Philadelphia and Allegheny counties, in another defeat for President Donald Trump's desperate legal battle.\n"
     publishedDateTime: 2020-11-23T23:50:28Z
