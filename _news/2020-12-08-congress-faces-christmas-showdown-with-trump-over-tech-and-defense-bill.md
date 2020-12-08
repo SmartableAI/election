@@ -3,8 +3,8 @@ category: news
 title: "Congress faces Christmas showdown with Trump over tech and defense bill"
 excerpt: "The U.S. Congress will return to Washington during its Christmas holiday break if necessary to override President Donald Trump's threatened veto of a $740 billion defense bill, lawmakers said on Monday,"
 publishedDateTime: 2020-12-08T02:11:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-defense-congress/u-s-congress-heads-to-defense-bill-showdown-with-trump-over-big-tech-idUSKBN28H2DQ"
-webUrl: "https://www.reuters.com/article/us-usa-defense-congress/u-s-congress-heads-to-defense-bill-showdown-with-trump-over-big-tech-idUSKBN28H2DQ"
+originalUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28H2DQ"
+webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28H2DQ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2DQ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2DQ"
 type: article
@@ -80,6 +80,6 @@ related:
         height: 800
         isCached: true
 
-secured: "P260+Wfkcs0VS7B0C6UFABR8f2hYEXsFSGHtZEilbdKEHLEvrq3WOESHjVc/W1Ll3uJfSaidZDVt0JIcGMgn4wEvZmLDVwldRrz9gktIN77FoTg+nriDglHGeTo0ZuE8uO6cxlzAgqhqr9W00ohlvDJhXNd0OFPnpb1oFh1Kdhv0nNqZ1upohhultFb+9Sq5ZOz6lr4oARpu3CHg49P9bjfw8EP0QuE2vPA040AjjzklGtDJqDbKls9j/a54FHOvbo0O5837ZxjDpTeA9r2SP3xv7Sa7vaHz05v7p1LUp1n3ChQKPZArIYwJUBvKEGtPPARw8Fe01h4CGEKfpzYTbsdjjCkH3C0tyhD0k9/zJKE=;sHIdyGgbAx1fL86ye5VCgQ=="
+secured: "ungjDH4yxvu9aLS9WOSmmg6o0RsDYRDX070vG3nD2SbyuwOmTN1OHdWPDIKvt2w+fOwxO2ZWijwSKNPHnesH4IsZvUCr0RdMT5wvh5FTeWbe5xGm5HwuzN0zoBQmllCUyW6jEPg3un3fOFXKMtmHlRYOmTt70MXYYtIlfiAw7LSW/x4tS2p+gAEtL7k7qp9vQQ4t+k2fGmn9ZkjmSJVMxVu1mNnbSWmhhQ9XLzltvBcY2zFQpn3GXkCM0rTT8dqPWGIA9Vm1+MEAt92w/TXY9B4SrbSpKCwPaJNrOVpKBai4eJgHQcye5v6Qp8xaq7cQYZPqACM1VxlKyvGVAo8SNcZ7zjX2AtEfwJCFVKApEkY=;HfTnCYhn5HO4cn3l6M/zYg=="
 ---
 

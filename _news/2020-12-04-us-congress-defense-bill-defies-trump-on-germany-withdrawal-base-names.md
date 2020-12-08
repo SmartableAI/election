@@ -63,6 +63,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Trump thought courts were key to winning. Judges disagreed"
+    excerpt: "President Donald Trump and allies say their lawsuits aimed at subverting the 2020 election and reversing his loss to Joe Biden would be substantiated, if only judges were allowed to hear the cases"
+    publishedDateTime: 2020-12-08T05:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump aide banned from Justice Dept. after pressuring staffers for case information"
     excerpt: "A Trump aide at the Justice Department has been banned from the building after trying to pressure staff members for sensitive case information."
     publishedDateTime: 2020-12-04T10:23:00Z

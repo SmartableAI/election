@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-08-who-is-behind-the-fake-trump-presidential-library-website-we-talk-to-the-anonymous-architect.md",
+      "title": "Who is behind the fake Trump Presidential Library website? We talk to the anonymous architect",
+      "excerpt": "Not quite as mysteriously as a monolith, a website has appeared for a fictional Donald J. Trump Presidential Library. The anonymous architect tells us why they did it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/7e11cfb/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6e%2F76%2F70d6e3b8436db2301d3382e733f0%2Fa-christmas-for-mary.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview?_amp=true",
+      "publishedDateTime": "2020-12-07T22:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-what-safe-harbor-day-is-and-why-its-bad-news-for-trump.md",
       "title": "What 'safe harbor day' is and why it's bad news for Trump",
       "excerpt": "Of course, if a state fails to meet the safe harbor deadline but chooses its electors by Dec. 14, Congress can still count the votes. President-elect Joe Biden has 306 electoral votes to President Donald Trump's 232,",
@@ -744,58 +796,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-essential-arts-anonymous-architect-of-fake-trump-presidential-library-speaks.md",
-      "title": "Essential Arts: Anonymous architect of fake Trump presidential library speaks",
-      "excerpt": "An interview with an architect who imagined Trump's library. Cuba's artist crackdown. Plus, your thoughts on virtual arts and Lou Harrison's generosity, in our weekly arts newsletter",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/newsletter/2020-12-05/essential-arts-designing-trumps-library-essential-arts",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/newsletter/2020-12-05/essential-arts-designing-trumps-library-essential-arts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/ff9e163/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbb%2F1b%2F5c8564484e099d494170f63573a0%2Fext-shot-x-overheadgen-1920.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-05T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

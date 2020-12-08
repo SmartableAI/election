@@ -1,22 +1,22 @@
 ---
 category: news
-title: "President Trump’s niece, Mary Trump, says her ‘cruel and traitorous’ uncle belongs in prison"
-excerpt: "Mary Trump rejects the notion that putting a former president on trial would deepen the nation’s political divisions."
-publishedDateTime: 2020-12-04T23:04:00Z
-originalUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/12/04/trumps-niece-says-her-cruel-and-traitorous-uncle-belongs-prison/3832014001/"
-webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/12/04/trumps-niece-says-her-cruel-and-traitorous-uncle-belongs-prison/3832014001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3832014001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3832014001"
+title: "Trump thought courts were key to winning. Judges disagreed"
+excerpt: "President Donald Trump and allies say their lawsuits aimed at subverting the 2020 election and reversing his loss to Joe Biden would be substantiated, if only judges were allowed to hear the cases"
+publishedDateTime: 2020-12-08T05:19:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html?outputType=amp"
 type: article
-quality: 114
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/90f61df1-be20-45c5-9bd8-9690433193d5-AP_Mary_Trump_Interview.jpg?auto=webp&crop=1499,844,x0,y76&format=pjpg&width=1200"
-    width: 1200
-    height: 676
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -63,22 +63,6 @@ related:
         width: 819
         height: 545
         isCached: true
-  - title: "Trump thought courts were key to winning. Judges disagreed"
-    excerpt: "President Donald Trump and allies say their lawsuits aimed at subverting the 2020 election and reversing his loss to Joe Biden would be substantiated, if only judges were allowed to hear the cases"
-    publishedDateTime: 2020-12-08T05:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-thought-courts-were-key-to-winning-judges-disagreed/2020/12/08/20f153f2-3913-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "U.S. Congress defense bill defies Trump on Germany withdrawal, base names"
     excerpt: "U.S. lawmakers unveiled the final version of a massive annual defense policy bill on Thursday that defies President Donald Trump's plans to withdraw troops from Germany and keep the names of Confederate generals on military bases,"
     publishedDateTime: 2020-12-04T08:59:00Z
@@ -111,6 +95,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "President Trump’s niece, Mary Trump, says her ‘cruel and traitorous’ uncle belongs in prison"
+    excerpt: "Mary Trump rejects the notion that putting a former president on trial would deepen the nation’s political divisions."
+    publishedDateTime: 2020-12-04T23:04:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/12/04/trumps-niece-says-her-cruel-and-traitorous-uncle-belongs-prison/3832014001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3832014001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3832014001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/90f61df1-be20-45c5-9bd8-9690433193d5-AP_Mary_Trump_Interview.jpg?auto=webp&crop=1499,844,x0,y76&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Republicans are abandoning Trump over his threat to hold defense bill hostage to get back at tech companies"
     excerpt: "Lawmakers take pride in passing the annual defense spending bill, and they're not happy about Trump interfering with that."
     publishedDateTime: 2020-12-03T15:46:00Z
@@ -128,6 +128,6 @@ related:
         height: 399
         isCached: true
 
-secured: "ER4a1W7s1u9s7VJViIl3iLwhLWZl+zoEiipo9sRzDtz71TCot+VQZRi29HsMFYo9MqSXbS8LoxcXopMTO2h80NbwYzeE8CXZ8LIyNbDhf3tVM5xrtntvdIDynnLir+fesT54nZK0w/4q9laQyr5sb0dkeej6YqU6+TRItBCZ0axHsyiiD1s2mQDvAmKig7f/LbE15PG2WPZs4P80bl6PgQDroBve2sJrDTSlNZY74Ox5i2IFlXqOCNib7wjrmer8gen5wTI8aYaceMeDSTPZ0rahDnWjdBLAhARZOVkmU4sy62vmG0MK5rLxswSrJ5/d6n95tn6O9iXXooWNeS45zzes03+xz09210/+CBphuhU=;Eg0Yab3Q1qLA4Ta9zhQtlg=="
+secured: "bcED/6XU/kunIBc5eXm3cfV4wF3EwELLWMpxvF1gKW9CZeNV+hoCTKv4cDvrK0IhSKzqUshKpTr4D8z434I2Cx4LPnuqWwifnUQmORFtQtvH2zx8tehGx/qtQ6WEe0NyUhiw+n0F3OZ9OEuD8hESV8LddYshDXwp+BH9gf5+2bZforemgj3gd8uUAhsFnaaO2cPfWSm6eiCpj/A3BmX9euMhzdv8sXNVgf1G2VJDGIEhI+YPdRLYprfKk0OiBHpa2ohU5GvBUrkDMSSQujqEWUhtD3NeYivu4NhdcK0fsds1O/IdMl+Rj0/YzpY78kfELMri2lGGbQaS2xaeKCC33xK2p41nVVR46qijXLuxISA=;AimAgBPp1dKyyiwSxCVvBg=="
 ---
 

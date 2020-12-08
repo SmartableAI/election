@@ -2,6 +2,119 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-06-white-house-vaccine-chief-praises-bidens-plan-to-ask-americans-to-wear-masks-for-first-100-days.md",
+      "title": "White House vaccine chief praises Biden's plan to ask Americans to wear masks for first 100 days",
+      "excerpt": "Moncef Slaoui, the head of the US government's effort to develop a vaccine against Covid-19, on Sunday praised President-elect Joe Biden's plan to ask all Americans to wear masks to curb the spread of the coronavirus, saying the practice is key as the country awaits widespread distribution of the vaccine.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NIpK41eop9Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NIpK41eop9Y/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201130203553-dr-moncef-slaoui-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/06/politics/moncef-slaoui-biden-mask-mandate-coronavirus-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/moncef-slaoui-biden-mask-mandate-coronavirus-cnntv/index.html",
+      "publishedDateTime": "2020-12-06T08:33:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-full-gabriel-sterling-interview-trump-has-a-higher-responsibility.md",
+      "title": "Full Gabriel Sterling Interview: Trump has a 'higher' responsibility",
+      "excerpt": "Gabriel Sterling, Voting System Implementation Manager for the State of Georgia, talks to Meet the Press about why he spoke out against President Trump's push to reverse the vote in Georgia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/full-gabriel-sterling-interview-trump-has-a-higher-responsibility-97212485745",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/full-gabriel-sterling-interview-trump-has-a-higher-responsibility-97212485745",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/1607265264056_mtp_full_sterling_201206_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo97212485745",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97212485745",
+      "publishedDateTime": "2020-12-06T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-06-trump-rants-about-his-election-grievances-in-georgia-even-though-it-may-hurt-the-gop.md",
       "title": "Trump rants about his election grievances in Georgia, even though it may hurt the GOP",
       "excerpt": "President Donald Trump expanded his extraordinary efforts to overturn the election Saturday, attempting to pressure Georgia's governor to force a special session of the legislature to change the result, while using an evening rally for two GOP Senate candidates to rant about his own grievances and thrash",
@@ -448,58 +561,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-essential-arts-anonymous-architect-of-fake-trump-presidential-library-speaks.md",
-      "title": "Essential Arts: Anonymous architect of fake Trump presidential library speaks",
-      "excerpt": "An interview with an architect who imagined Trump's library. Cuba's artist crackdown. Plus, your thoughts on virtual arts and Lou Harrison's generosity, in our weekly arts newsletter",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/newsletter/2020-12-05/essential-arts-designing-trumps-library-essential-arts",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/newsletter/2020-12-05/essential-arts-designing-trumps-library-essential-arts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/ff9e163/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbb%2F1b%2F5c8564484e099d494170f63573a0%2Fext-shot-x-overheadgen-1920.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-05T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1316,58 +1377,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-supreme-court-will-hear-trump-administration-defend-controversial-medicaid-work-requirements.md",
-      "title": "Supreme Court will hear Trump administration defend controversial Medicaid work requirements",
-      "excerpt": "Forcing low-income people to work or prepare for employment in exchange for health coverage is an experiment that's been tried in only three states.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/04/donald-trumps-medicaid-work-requirements-get-supreme-court-review/6341457002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/04/donald-trumps-medicaid-work-requirements-get-supreme-court-review/6341457002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/09/USAT/3dbe008c-2f39-4c44-8dfe-841a5dc08ac6-XXX_Supreme_Court_Upholds_Obama_s_Affordable_Care_Act_70385449_.JPG?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6341457002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6341457002",
-      "publishedDateTime": "2020-12-04T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,13 +2,13 @@
 category: news
 title: "VP-elect Kamala Harris' sister pushing for husband to be named attorney general: report"
 excerpt: "Vice President-elect Kamala Harris’ sister participated in discussions with Democratic allies about getting her husband nominated for attorney general in the incoming Biden White House."
-publishedDateTime: 2020-12-08T00:38:49Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6xY969z16Ds/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6xY969z16Ds/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report"
+publishedDateTime: 2020-12-08T00:57:00Z
+originalUrl: "https://www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report"
+webUrl: "https://www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report"
 ampWebUrl: "https://www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report.amp"
 type: article
-quality: 177
+quality: 127
 heat: -1
 published: false
 
@@ -22,13 +22,13 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d11618b-8c19-40ee-b3af-cf78a4e1c780/d0cab256-d59f-48da-9bed-3dcd5aaee961/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -129,6 +129,6 @@ related:
         height: 800
         isCached: true
 
-secured: "oUA79k6eu+uE+luEzgHxZxYuATP2/BY2tBQHXnjOINcvvPweT0/P4QXHxHy71HMtrH/GduyBw6lMh7t+984rpikPqNiF4EgYE3O0vsf24zfR2HqJMTxHKLux4P+Ssclsz+jMwnmpHbTt01WC5F6LcCIUySLJZqUz9nsp9UsBfw8+vFHVhP/ZXrIE3sahuciybmL4Lnzbof1tRAZBAv8+XNopF8F7Y6vU6Rnr4wI/K0LgzL28uIeTYAxHiOSJRL3rEm+dZD01FSnpmonyI3nhopf40DjKatFkPD/wPq4aeVAt6Bvmni/IqkF/j/78vHKBEFi3EPMqOoAOkd5dUiAKVEK3fejzjt7VB53h4iT8fCA=;LgUlSMTl4ks3/IdgVniXdQ=="
+secured: "2yURMVs+qzH5EfDrQXYderZLGjagRIxSnqbYEvr2EXB4u5mqNt0jgPRmYKVg56WUJBaxHU4ZES/zkCr6R64CkY2nyRqyFkPjdAkpoptLxTmg1KOhKS2NTg4Ydmwa7012F+swpGUZYeZSvrAr5/5F8xAiyaVbRmA2//SIDkccPKoX0ztx9/32HQbEBdRksKmPtOlg7Bp1SZ17Fd2NDyo0og83sfMT6Hl5yRtNxpajaiJbk2oo6529gkVRzw09jus0qqojwclIea2ZhqlvB5N3Wij4Mwm+GvV1zTXCmH/zXFi3HSx5p+FScaU/kys9WMFysMzekuaFAR27zZ3Wk7FLGnVHs7gS7a/xIKssFeuoWqk=;A6Dzx2O3d3EfX3nfszDk1w=="
 ---
 

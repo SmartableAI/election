@@ -44,22 +44,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "VP-elect Kamala Harris' sister pushing for husband to be named attorney general: report"
-    excerpt: "Vice President-elect Kamala Harris’ sister participated in discussions with Democratic allies about getting her husband nominated for attorney general in the incoming Biden White House."
-    publishedDateTime: 2020-12-08T00:38:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6xY969z16Ds/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report"
-    ampWebUrl: "https://www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Kamala Harris slammed for tweet sucking up to small businesses after bailing out rioters"
     excerpt: "Vice President-elect Kamala Harris was widely slammed on Twitter this weekend for committing to helping small businesses affected by the pandemic despite having openly supported protesters at the height of social unrest over the summer."
     publishedDateTime: 2020-11-29T21:59:24Z
@@ -121,6 +105,22 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c997284-a2ad-47fe-8a05-dd9d47ff0bf6/bed80447-4fdb-48ff-a8f2-52976986e621/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "VP-elect Kamala Harris' sister pushing for husband to be named attorney general: report"
+    excerpt: "Vice President-elect Kamala Harris’ sister participated in discussions with Democratic allies about getting her husband nominated for attorney general in the incoming Biden White House."
+    publishedDateTime: 2020-12-08T00:57:00Z
+    webUrl: "https://www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d11618b-8c19-40ee-b3af-cf78a4e1c780/d0cab256-d59f-48da-9bed-3dcd5aaee961/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-30-live-updates-trump-says-doj-missing-in-action-during-election-challenge.md",
+      "title": "Live Updates: Trump says DOJ 'missing in action' during election challenge",
+      "excerpt": "Follow for the latest updates on the 2020 election legal fight.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QGxQx6bPQ3I/live-updates-trump-says-doj-missing-in-action-during-election-challenge",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QGxQx6bPQ3I/live-updates-trump-says-doj-missing-in-action-during-election-challenge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 468,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd00b8cb-3654-49f6-a8db-b0fe6e3fb865/6aa8c157-f99d-4b17-8c8c-2f2e6f3af5d7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-says-doj-missing-in-action-during-election-challenge.amp",
+      "publishedDateTime": "2020-11-29T20:20:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-this-is-propaganda-fox-news-maria-bartiromo-slammed-for-softball-trump-interview.md",
       "title": "'This is propaganda': Fox News' Maria Bartiromo slammed for 'softball' Trump interview",
       "excerpt": "Fox News anchor Maria Bartiromo faced criticism Sunday for failing to challenge President Trump on his claims of widespread election fraud.",
@@ -1280,62 +1336,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-tulsi-gabbard-urges-trump-to-grant-clemency-to-assange-snowden.md",
-      "title": "Tulsi Gabbard urges Trump to grant clemency to Assange, Snowden",
-      "excerpt": "U.S. Rep. Tulsi Gabbard has called on President Trump to pardon National Security Agency (NSA) whistleblower Edward Snowden and WikiLeaks founder Julian Assange before the president leaves office on Jan. 20, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L-EdHt74eO0/tulsi-gabbard-urges-trump-to-grant-clemency-to-assange-snowden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L-EdHt74eO0/tulsi-gabbard-urges-trump-to-grant-clemency-to-assange-snowden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/AP20221566698304.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tulsi-gabbard-urges-trump-to-grant-clemency-to-assange-snowden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tulsi-gabbard-urges-trump-to-grant-clemency-to-assange-snowden.amp",
-      "publishedDateTime": "2020-11-27T02:16:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

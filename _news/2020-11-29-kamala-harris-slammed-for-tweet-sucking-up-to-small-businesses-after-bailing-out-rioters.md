@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "VP-elect Kamala Harris' sister pushing for husband to be named attorney general: report"
-    excerpt: "Vice President-elect Kamala Harris’ sister participated in discussions with Democratic allies about getting her husband nominated for attorney general in the incoming Biden White House."
-    publishedDateTime: 2020-12-08T00:38:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6xY969z16Ds/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report"
-    ampWebUrl: "https://www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden's HHS frontrunners say gun control is a health issue"
     excerpt: "President-elect Joe Biden's top picks for the Department of Health & Human Services (HHS) have both declared gun violence a public health issue in the past, much to the ire of gun rights activists and the National Rifle Association (NRA). "
     publishedDateTime: 2020-12-03T01:02:55Z
@@ -127,6 +111,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/kamala-harris-doug-emhoff-holiday-shopping-MAIN.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "VP-elect Kamala Harris' sister pushing for husband to be named attorney general: report"
+    excerpt: "Vice President-elect Kamala Harris’ sister participated in discussions with Democratic allies about getting her husband nominated for attorney general in the incoming Biden White House."
+    publishedDateTime: 2020-12-08T00:57:00Z
+    webUrl: "https://www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-elect-kamala-harris-sister-pushing-for-husband-to-be-named-attorney-general-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d11618b-8c19-40ee-b3af-cf78a4e1c780/d0cab256-d59f-48da-9bed-3dcd5aaee961/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "gStClBFyRfpE5r1F1Nn2zx9VSGnxGeZS3CMAM/f93myyI2PsxtO2lsZ4igNCCgAGD8YFIYDtN4ygukWBXhlrBwKx5tZ6o/fjAfYrAD0iPPNbQuUJYXSj6FO4s21BYqwZYxdrnZMPNN43lN8u/861UJeJoK4Em4qjRrewaDW3zsrN6DxkZMItKU46ZKhUSV0eFXifk9BZJks5iQBPyXIZ5BZloR5AVWJI1Xk60kiOByH6fjlrLfy3OSdCQbE/FWkJhI4k5BOLJr3uQPzy1KwDrGSab0GeowAkxUzP3n8bfy9YojSzMLz7fRFeU0talPQ8SO/wrbwOgO1xI3w6nibZktiGEwPmocTfwvhyns7HigA=;1eUmK0Q2CRY5cpxxD16dpA=="
