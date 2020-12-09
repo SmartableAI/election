@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NY AG predicts President Trump will step down so VP Pence can pardon him"
+    excerpt: "New York Attorney General Letitia James is predicting President Donald Trump will step down from office so Vice President Mike Pence can pardon him. “He can preemptively pardon individuals, and the ,” James said on ABC’s “The View” Tuesday."
+    publishedDateTime: 2020-12-09T14:58:00Z
+    webUrl: "https://www.syracuse.com/us-news/2020/12/ny-ag-predicts-president-trump-will-step-down-so-vp-pence-can-pardon-him.html"
+    ampWebUrl: "https://www.syracuse.com/us-news/2020/12/ny-ag-predicts-president-trump-will-step-down-so-vp-pence-can-pardon-him.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2020/12/ny-ag-predicts-president-trump-will-step-down-so-vp-pence-can-pardon-him.html?outputType=amp"
+    type: article
+    provider:
+      name: syracuse.com
+      domain: syracuse.com
+    quality: 89
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OY6RNKUKINHUPPC7TCV4CNBDBI.jpg"
+        width: 3549
+        height: 2366
+        isCached: true
 
 secured: "FzMoofLrOf3SWGLWdulX++SJIbCZIoCgOlOQelbc5tooPDV5u+tr/sQKioDq3xnVXqIpw7YAeZg52I05LnNBdhOx/cje8JukuysgfKEnLqrcFxZ/sNsap2s9dSo1fu7txO2YvP9/CTmKBZPhVi+CNBZ+gKtto5P3AM1pCv2j1XQsWpwvSEVMKC7Nod1FwyNLG2pAdU8qAkxw6mNE4IS8DM+YdtKrPxoBoAq/Vxf9aREclQJWcyHYYf31WZmgr0gEZOz2+qo75jWwrQsawHWGq+xpGt0n5RI8CaBWPFpg96LoerK1jvQuBYJlHOIOyHxqjIyYxe42PxYSFCoEMRw46JWvpSmydwX+zvbVyKOU5mg=;xyHycgNH886DNOlyCPwg0Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-08/judge-dismisse
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump?_amp=true"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2018/12/05/USAT/4a1f6fa3-badd-463d-8f4e-af5c2580740a-615530474.jpg?auto=webp&crop=2826,1590,x343,y292&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "NY AG predicts President Trump will step down so VP Pence can pardon him"
+    excerpt: "New York Attorney General Letitia James is predicting President Donald Trump will step down from office so Vice President Mike Pence can pardon him. “He can preemptively pardon individuals, and the ,” James said on ABC’s “The View” Tuesday."
+    publishedDateTime: 2020-12-09T14:58:00Z
+    webUrl: "https://www.syracuse.com/us-news/2020/12/ny-ag-predicts-president-trump-will-step-down-so-vp-pence-can-pardon-him.html"
+    ampWebUrl: "https://www.syracuse.com/us-news/2020/12/ny-ag-predicts-president-trump-will-step-down-so-vp-pence-can-pardon-him.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2020/12/ny-ag-predicts-president-trump-will-step-down-so-vp-pence-can-pardon-him.html?outputType=amp"
+    type: article
+    provider:
+      name: syracuse.com
+      domain: syracuse.com
+    quality: 89
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OY6RNKUKINHUPPC7TCV4CNBDBI.jpg"
+        width: 3549
+        height: 2366
         isCached: true
 
 secured: "Ls58FzDcn0XHvUxcG2qcbdggNb9Em7etW/cZtbK37AyztB/RT0++GOEJxjp44U17tF4zuHHBeFaYrnn/P5krKxpXnJdCdmO9U152/Ccn7Dw1NXSH8a+Pr43kmhmF4ngMYYW7FMSCQDypdM7JXCO0T7AHQiP3xW56owelRRn0PX7DGNWVrzCvFjEQYlxeaYcRC7nO/n3tpRpFrr2DxyEPddfO8h0rXOBzvG+MuFqvul0f7+zXgWdWZpoK+ayeWZALBpQypy61Tom48vYuAGZwOx03indgt5t/rCmWq+ZieX9MN23iGmYHyy7vWUxMCQ0zIVOYJsTk33OE3kL5/R0gQWzzRF+6BzlRjYMYg67wsI95Yf2n0gRO1fx2h0Iq33Sz1/u/HsPSqCCYoxGt6d8Rl40g2/9G5SiE0FhGZPonTiidT+pftXwdhKq9inHNDFrau2hq6RTAS6rTOHuiExaJe7Bom0fSFuGcmNLVQbiy5jVk6wBZUyJvOpWLJz0iNap5m0ivTBRh2AB4QzcZdC/v+w==;83tP2MFUvkgjbdfLFqUfdA=="

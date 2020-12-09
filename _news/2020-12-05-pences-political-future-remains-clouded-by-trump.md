@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html"
 type: article
 quality: 200
-heat: 2200
+heat: 2220
 published: true
 
 provider:
@@ -1311,6 +1311,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/03/lens/03dc-pardon-justice/merlin_180727236_7067670e-968d-44e7-b237-21f48bffbe6e-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "New Trump Rule Would Downgrade Health Benefits in Air Pollution Decisions"
+    excerpt: "By lowering the value of pollution controls in health and safety calculations, the Trump administration appears to be moving to safeguard its deregulation efforts in court."
+    publishedDateTime: 2020-12-09T14:44:00Z
+    webUrl: "https://www.nytimes.com/2020/12/09/climate/trump-pollution-regulations.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/09/climate/trump-pollution-regulations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/09/climate/trump-pollution-regulations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/09/climate/09CLI-COST1/09CLI-COST1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Can Trump Pre-emptively Pardon Allies or Himself? Clemency Power, Explained"
     excerpt: "The president has discussed potential pardons that could test the boundaries of his constitutional power to nullify criminal liability."

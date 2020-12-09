@@ -1328,6 +1328,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "New Trump Rule Would Downgrade Health Benefits in Air Pollution Decisions"
+    excerpt: "By lowering the value of pollution controls in health and safety calculations, the Trump administration appears to be moving to safeguard its deregulation efforts in court."
+    publishedDateTime: 2020-12-09T14:44:00Z
+    webUrl: "https://www.nytimes.com/2020/12/09/climate/trump-pollution-regulations.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/09/climate/trump-pollution-regulations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/09/climate/trump-pollution-regulations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/09/climate/09CLI-COST1/09CLI-COST1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Could Trump pardon family members if they haven't been charged with crimes?"
     excerpt: "Could Trump pardon family members if they haven't been charged with a crime? WASHINGTON — Speculation that President Donald Trump might issue pardons before he leaves office for members of his family or other supporters raises a question about whether pardons can be issued pre-emptively — that is,"
     publishedDateTime: 2020-12-03T02:14:00Z

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Attorney general remains key spot to fill in Biden Cabinet, with Doug Jones seen as a leading contender"
+    excerpt: "As President-elect Joe Biden formally introduces his defense secretary nominee Wednesday, the role of attorney general remains the biggest outstanding position in the Cabinet yet to be named.\n    \n"
+    publishedDateTime: 2020-12-09T14:27:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YKPspZxOpMg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/biden-attorney-general-pick/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/biden-attorney-general-pick/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119232738-doug-jones-september-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "8N2/niVOiiSGg6pGQD5l5RFOFKICNcZxkyB2xhUIWJaEK1qzP/6Z9Yk6uOihM9XeycIjoGh518uaVaroo42pqybJ1n5R9JG0XX0U4N7OX3ROUsrxB2nN0o9yxf97n9g2PghbiJB51bO3+6ZpxKa2FoKsPbLXphTZDCjKciQ2WhYc/u6L0Pj3sAdh3Vx0ve9UK8PstGvT6BTvENTIgPZmG684rPzWDAUwCt+3F98nJT/3AjSI4Z+QHyfpQEqU/E+YRj7KOSxc/lfXhQWLIY1Xsls+J9wNAaTEhI89ePh2D0oBBZWHzyoLMKhTMVwuRN0DjNODzriX/kg0kSetA0NHjGJ0+ypsGXHqM0ahKclBd9I=;Y2mTfCg2lP1hh7Shs86ZZQ=="
 ---

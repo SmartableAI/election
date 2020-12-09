@@ -367,22 +367,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "High court rejects GOP bid to halt Biden's Pennsylvania win"
-    excerpt: "The Supreme Court has rejected Republicans' last-gasp bid to reverse Pennsylvania’s certification of President-elect Joe Biden’s victory in the electoral battleground"
-    publishedDateTime: 2020-12-09T02:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/high-court-rejects-gop-bid-halt-bidens-pennsylvania-74613527"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/high-court-rejects-gop-bid-halt-bidens-pennsylvania-74613527"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/high-court-rejects-gop-bid-halt-bidens-pennsylvania-74613527"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_5d0a8c5778b7468297f3e690673dd4c1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden transition advisers emerge as top contenders to run covid-19 response"
     excerpt: "As President-elect Joe Biden makes fighting the raging coronavirus his most urgent mission when he takes office next month, two figures already playing central roles in his transition are emerging as the most likely officials to preside over the new White House’s pandemic response."
     publishedDateTime: 2020-12-03T01:10:00Z
@@ -539,6 +523,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "High court rejects GOP bid to halt Biden's Pennsylvania win"
+    excerpt: "The Supreme Court has rejected Republicans' last-gasp bid to reverse Pennsylvania's certification of President-elect Joe Biden's victory in the electoral battleground."
+    publishedDateTime: 2020-12-09T03:23:00Z
+    webUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Texas attorney general sues to block Biden's victory in four other states"
     excerpt: "Texas Attorney General Ken Paxton is suing over the election results in Pennsylvania, Michigan, Wisconsin and Georgia, four battleground states that helped swing the race for President-elect Joe Biden."
     publishedDateTime: 2020-12-08T23:40:00Z

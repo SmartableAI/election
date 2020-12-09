@@ -61,6 +61,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden picks Fudge for housing head, Vilsack for USDA"
+    excerpt: "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration."
+    publishedDateTime: 2020-12-09T14:58:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-09/biden-fudge-housing-vilsack-usda"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-09/biden-fudge-housing-vilsack-usda?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-09/biden-fudge-housing-vilsack-usda?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/617461d/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2F8b%2Feaeb399388efa447df0174e9947d%2Fc8491d06726742889c7dc900e4ce52f5"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Biden picks California Atty. Gen. Becerra for Health and Human Services secretary"
     excerpt: "President-elect Joe Biden has selected California Atty. Gen. Xavier Becerra to be his Health and Human Services secretary."
     publishedDateTime: 2020-12-06T23:54:00Z

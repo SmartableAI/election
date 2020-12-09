@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump administration rushes sale of California oil leases despite certain legal battle"
+    excerpt: "The Bureau of Land Management is continuing with plans to sell oil leases in California despite opposition from the incoming Biden administration."
+    publishedDateTime: 2020-12-09T14:14:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-09/trump-california-oil-leases-sale"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-09/trump-california-oil-leases-sale?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-09/trump-california-oil-leases-sale?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 117
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5810645/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2F88%2F91bd10ea6d51ae816b1f388ec194%2Fa247689e42154871b07009bde790748f"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump moves to strip job protections from White House budget analysts as he races to transform civil service"
     excerpt: "The outgoing Trump administration is racing to enact the biggest change to the federal civil service in generations, reclassifying career employees at key agencies to strip their job protections and leave them open to being fired before Joe Biden takes office."
     publishedDateTime: 2020-11-28T00:30:00Z

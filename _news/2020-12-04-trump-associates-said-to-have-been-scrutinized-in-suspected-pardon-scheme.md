@@ -1312,6 +1312,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "New Trump Rule Would Downgrade Health Benefits in Air Pollution Decisions"
+    excerpt: "By lowering the value of pollution controls in health and safety calculations, the Trump administration appears to be moving to safeguard its deregulation efforts in court."
+    publishedDateTime: 2020-12-09T14:44:00Z
+    webUrl: "https://www.nytimes.com/2020/12/09/climate/trump-pollution-regulations.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/09/climate/trump-pollution-regulations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/09/climate/trump-pollution-regulations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/09/climate/09CLI-COST1/09CLI-COST1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Can Trump Pre-emptively Pardon Allies or Himself? Clemency Power, Explained"
     excerpt: "The president has discussed potential pardons that could test the boundaries of his constitutional power to nullify criminal liability."
     publishedDateTime: 2020-12-02T18:54:00Z

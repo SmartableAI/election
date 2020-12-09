@@ -542,6 +542,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Loeffler and Perdue back Texas suit aiming to overturn elector slates in Georgia, other states Biden won"
+    excerpt: "Sens. David Perdue and Kelly Loeffler Tuesday announced their support of a Texas lawsuit at the Supreme Court which seeks to have the justices declare that Pennsylvania, Michigan, Wisconsin and Georgia are \"in violation of the Electors Clause of and the Fourteenth Amendment\" and bar those states' current"
+    publishedDateTime: 2020-12-09T14:09:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TqJXuCgM8k/loeffler-and-perdue-back-texas-lawsuit-aiming-to-overturn-elector-slates-in-georgia-other-states-biden-won"
+    ampWebUrl: "https://www.foxnews.com/politics/loeffler-and-perdue-back-texas-lawsuit-aiming-to-overturn-elector-slates-in-georgia-other-states-biden-won.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/loeffler-and-perdue-back-texas-lawsuit-aiming-to-overturn-elector-slates-in-georgia-other-states-biden-won.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Obama joining Georgia Dems in virtual rally Friday before Trump heads to state Saturday in critical runoffs"
     excerpt: "Former President Barack Obama will join Georgia Democratic Senate candidates Jon Ossoff and Raphael Warnock for a virtual rally Friday as the two U.S. Senate runoffs are little more than one month away and the control of the upper chamber hangs in the balance."
     publishedDateTime: 2020-12-03T15:07:02Z
