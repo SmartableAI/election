@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-mi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp"
 type: article
 quality: 190
-heat: 490
+heat: 510
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 183
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/409efce1-a8af-4acf-85e9-aafda7d496b8/8e5cb760-5c18-487a-a1e4-1d048115f17b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "In letter to Trump, House Republicans call for special counsel to investigate election"
+    excerpt: "More than two dozen House Republicans are calling on President Trump to direct Attorney General William Barr to appoint a special counsel to investigate November's presidential election, according to a letter obtained by Fox News."
+    publishedDateTime: 2020-12-09T15:07:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QkVTI84l2tg/house-republicans-election-special-counsel-letter"
+    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-election-special-counsel-letter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-election-special-counsel-letter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9fac570b-0017-4ea5-aaab-f25d2e3c0fde/9fdb7cc1-daf5-4543-bd30-c99fde884fc6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

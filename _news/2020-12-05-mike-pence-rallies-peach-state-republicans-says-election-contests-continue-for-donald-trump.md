@@ -329,6 +329,38 @@ related:
         width: 1440
         height: 926
         isCached: true
+  - title: "Trump vows to intervene in Texas election case before Supreme Court"
+    excerpt: "President Donald Trump on Wednesday vowed to intervene in a long-shot lawsuit by the state of Texas filed at the U.S. Supreme Court trying to throw out the voting results in four states he lost to President-elect Joe Biden as he seeks to undo the outcome of the election."
+    publishedDateTime: 2020-12-09T14:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump/trump-vows-to-intervene-in-texas-election-case-before-supreme-court-idUSKBN28J1VJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1VJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1VJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543979089&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB8111"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump tries to revive stalled election-eve drug discounts"
+    excerpt: "The Trump administration is trying to revive the president’s stalled election-eve plan to send millions of Medicare recipients a $200 prescription discount card"
+    publishedDateTime: 2020-12-09T16:32:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-revive-stalled-election-eve-drug-discounts-74625958"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-revive-stalled-election-eve-drug-discounts-74625958"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-revive-stalled-election-eve-drug-discounts-74625958"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_62187347b7524ff094589a0517a2d56e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Armed pro-Trump protesters gather outside Michigan elections chief's home"
     excerpt: "Jocelyn Benson says gathering in which bogus claims were made about electoral fraud was ‘unambiguous, loud and threatening’"
     publishedDateTime: 2020-12-07T14:45:00Z
@@ -1081,6 +1113,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US speeds up pace of federal executions as Trump nears final days of presidency"
+    excerpt: "Trump will leave office having executed about a quarter of death-row prisoners, despite waning US support for capital punishment"
+    publishedDateTime: 2020-12-09T16:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/09/us-executions-speed-up-under-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/09/us-executions-speed-up-under-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/09/us-executions-speed-up-under-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/d4e2a3c34fb893df1a33bc05178227c267f0e20a/0_180_5455_3273/master/5455.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=db13d4904cf43cb50a37b126aed3e644"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump escalates baseless attacks on election with 46-minute video rant"
     excerpt: "He claimed without evidence that the nation’s election system was “under coordinated assault and siege” and that it was “statistically impossible” for him to have lost to President-elect Joe Biden."
     publishedDateTime: 2020-12-03T01:15:00Z
@@ -1656,6 +1704,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Looks Past Supreme Court Loss to New Election Lawsuit"
+    excerpt: "President Donald Trump says his campaign will join an improbable case before the Supreme Court challenging election results in Pennsylvania and other states that he lost."
+    publishedDateTime: 2020-12-09T15:14:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/trump-looks-past-supreme-court-loss-to-new-election-lawsuit"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/trump-looks-past-supreme-court-loss-to-new-election-lawsuit?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/trump-looks-past-supreme-court-loss-to-new-election-lawsuit?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Trump Challenges Vote Results While Urging Turnout in Ga."
     excerpt: "President Donald Trump is pressing his grievances over losing the presidential election, using a weekend rally to spread baseless allegations of misconduct in last month’s voting in Georgia and beyond even as he pushed supporters to turn out for a pair of Republican Senate candidates in a runoff election in January."
     publishedDateTime: 2020-12-06T05:20:00Z

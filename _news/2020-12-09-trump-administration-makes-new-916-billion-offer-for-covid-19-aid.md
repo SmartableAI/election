@@ -2,9 +2,9 @@
 category: news
 title: "Trump administration makes new $916 billion offer for COVID-19 aid"
 excerpt: "The Trump administration proposed a $916 billion coronavirus relief package on Tuesday, after congressional Democrats shot down a suggestion for a pared-down plan from the Senate's leading Republican,"
-publishedDateTime: 2020-12-09T06:31:00Z
-originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-5-trump-administration-makes-new-916-billion-offer-for-covid-19-aid-idUSL1N2IO2AX"
-webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-5-trump-administration-makes-new-916-billion-offer-for-covid-19-aid-idUSL1N2IO2AX"
+publishedDateTime: 2020-12-09T07:37:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-pelos-idUSKBN28I2LA"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-pelos-idUSKBN28I2LA"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2LA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2LA"
 type: article
@@ -64,6 +64,6 @@ related:
         height: 779
         isCached: true
 
-secured: "TmLh9l7zaul8Po7RHS9T/IZuVwgU8C226j6PiXjcW5exCVOasFIP1wwoYa6a2osQ2la+vM+HObZHEUdlfUFUVWkGO0y6ZXWKcKuXvwIkS+QBNigIfw1esTfuIIC3XpKL8Zuu/g3FlR/osWQ9tmCl9W2hzBIsY7goXwVrLPcKsPB8MsLaO0RjMrcFRl5B+DY+5AzpXrEed4NEMcLoSoo9Lnzb2lmk5k74Y8/e5VgjoruLweVTY45hOQknewdFisfYHH/polE1ciFbCVeVJujY4YItA+q6wIcn6E1Y94vAsqUvNMZ1XryU+hWEnPQOFYzp+CxwJojt7fUzk3WmRlKHO93eh72iwu9+PjK8WJVVP0R8h1QRPsqK5cO0dkz7aWFCIDjBRc0ogGh8u055GmCPvwFOFL34iF1YWWjdkcpQyX2GwEw2cug1EssvmN6x7qJSZ2SU6bSEHNotmciIz9FsYHmj5cB9yOlbsbxO+KpZQDzcDjEhQDV5PsOrhbTCUiglneWMTjX7vRHBQDXR9jb1rQ==;b7gRW62CVfr9QkZZw7u2Og=="
+secured: "QEm8Wyr0k3jOeUkXRgmPZNfvH2hECnte0l+zqiuhAMX5CTP2bEWBz0uV7XY4TQYo6P5JQ/8Qrq5JfDaw4ArwKyyqMuGCDTtJhLmbjxaobO3ukKV/Yumj6gnYrumCj9u0lH72j/9bGhpMpabozVrqKUH4eLdmcoPMQgrdslzq4PC4lsQzCT8KVwy/pVLI/tXgztNP4FRDTDzyar4BI0xsO3TmGcauTlRUmY5dFbRp1Y+Fk3ZTFHis0vNIneugwCCBVomdZ31XTuB9wK4EPueQVvu9q8aH1DVG6HpxHvXXgIJxxAc7taVlO9Ew3XFiyrXhd2vwLnhVyntts7iRs9rqPaPT4w7N63UdwmTRQAql3Hs=;tRTV90cO3NovUyktLbTqIg=="
 ---
 

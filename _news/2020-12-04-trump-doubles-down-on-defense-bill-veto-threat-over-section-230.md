@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "In letter to Trump, House Republicans call for special counsel to investigate election"
+    excerpt: "More than two dozen House Republicans are calling on President Trump to direct Attorney General William Barr to appoint a special counsel to investigate November's presidential election, according to a letter obtained by Fox News."
+    publishedDateTime: 2020-12-09T15:07:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QkVTI84l2tg/house-republicans-election-special-counsel-letter"
+    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-election-special-counsel-letter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-election-special-counsel-letter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9fac570b-0017-4ea5-aaab-f25d2e3c0fde/9fdb7cc1-daf5-4543-bd30-c99fde884fc6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
     excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
     publishedDateTime: 2020-12-03T19:59:24Z

@@ -63,6 +63,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Transition Live Updates: Biden to Formally Name Austin as Defense Secretary"
+    excerpt: "President-elect Joe Biden is set to introduce Lloyd J. Austin III, a retired Army general, as his choice to lead the Pentagon. On Tuesday, Mr. Biden and President Trump offered the American people very divergent messages on the state of the virus."
+    publishedDateTime: 2020-12-09T10:55:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/10/world/09transition-briefing-austin/09transition-briefing-austin-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "3VcpfrCD3ZU6hruCQr2rUtFdiKBMuSgYddSBL6EOj7CEW2QueJnwUGSGkZcFrxkhx8TcAW8NwAxw48d3BHqSGIQXJobM+9+QiZUuAcc/NwfMQlUCbr0vE7tNsbySzdoIc48jlJ+yaZa7tcqmyNLyfpspjC7CapM7HZGrzFmA4zAdYJK0xIx3UtEOrq1gr7ymS52qyBiEA6zRoKFZBW2AmjzpyJ5hdU3EPojks2RVnA/RYJeN5payE8+GGN2fpU9yKjnbAh9GSGyNPp/rdPVetDEMle6Ajx6JU7zs60uQa8Jh9/dq/f1M860n1Xjx8uNoq0WfPER8mMiry0TJwJpYLOTQGI2WCcqNLyV4+8hUsS8=;aQmKHu692dXdTGZkFWUbNQ=="
 ---

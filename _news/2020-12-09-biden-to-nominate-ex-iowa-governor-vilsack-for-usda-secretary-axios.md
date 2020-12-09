@@ -2,11 +2,11 @@
 category: news
 title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary: Axios"
 excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, Axios reported on Tuesday, citing people familiar with the matter."
-publishedDateTime: 2020-12-09T13:23:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUSKBN28J0UL"
-webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUSKBN28J0UL"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J0UL"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J0UL"
+publishedDateTime: 2020-12-09T13:25:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUKKBN28J0UL"
+webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUKKBN28J0UL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28J0UL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28J0UL"
 type: article
 quality: 105
 heat: -1
@@ -39,6 +39,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543627983&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50MF"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary"
+    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, according to two sources familiar with the decision."
+    publishedDateTime: 2020-12-09T15:37:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28J1YM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1YM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1YM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543966451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB813D"
+        width: 802
         height: 545
         isCached: true
   - title: "Retired Army Gen. Lloyd Austin is Biden's pick for defense secretary: Sources"
@@ -170,6 +186,6 @@ related:
         height: 677
         isCached: true
 
-secured: "uX0Rh5UJxPHN/2wMTjnivquXyZfW4qZb1+b4GJ1nqJLI8B6hq6Z0KciK3stl1Y/QgXmntNIwKFoisdF+EFCAmOVItT8ZU767rKGRaQR1WiUNhsaDI2KpTAWHq9swVAoe2h5KXPGyOr3puqPIzk7Pq3gLuJrTKzM9swbpozxmcx4lmhHU6ak0HoZcY7mRS5x/uHX+/i10MYLIDQkyGJqSAOlP9rjvOMNG06pLwL1e0owNp64NZxmzMPGUvJS0NW1hBidlNqEVUDsI+9T9JRSKPp1MQwAs0RtTVMRB59slu3x8bSVNnU/+HC+WPE6Qoo7ZAROYxzfTArHy03RstJJi9zIA8Xcxx+ewIsY0XNkF5SI=;jKx277lGTFRTRitMalFBww=="
+secured: "avFVNFvH7O+TJ0BIFgc8lH12mfm/74viXFLs7AdCPrtqtX1nyuEOZ38Dx4ahMYr9jQgC7ophH75lrexs6iTTR7IZq384F1sZst2A2e/klU4LE8t0offNavNMtSMIlPS34ehrnsoltyzoD8lTMX2vDCGE/kHtBVDqt1KlpDzbWy7v9OGxlVpJTtqQSTmNJJOKFBKrHq+QZrSZcEbjAIDSVI1o5CLszWYjHkE3uHtSePl+nufwYnWJgsjJCbrQ80aHWpr2eol7GpF5mbwVYfM8oF0x0Wi+No+s4dugfUcu7XRr7uSnlUEW5wE9lWbH4UdH+V5EDsBo2+Gbv2s6nvpitfkkFe4jBsNtDTf+BtrFMSg=;e/APdmke+LlEmAGFShKl0Q=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary"
+    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, according to two sources familiar with the decision."
+    publishedDateTime: 2020-12-09T15:37:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28J1YM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1YM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1YM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543966451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB813D"
+        width: 802
+        height: 545
+        isCached: true
   - title: "Republicans raise red flags over Becerra’s nomination to lead Biden health department"
     excerpt: "Some Senate Republicans have signaled concern with Becerra's nomination, but it is unclear if it is enough to block his appointment."
     publishedDateTime: 2020-12-07T22:37:00Z
@@ -129,10 +145,10 @@ related:
         isCached: true
   - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary: Axios"
     excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, Axios reported on Tuesday, citing people familiar with the matter."
-    publishedDateTime: 2020-12-09T13:23:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUSKBN28J0UL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J0UL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J0UL"
+    publishedDateTime: 2020-12-09T13:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUKKBN28J0UL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28J0UL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28J0UL"
     type: article
     provider:
       name: Reuters

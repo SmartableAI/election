@@ -527,6 +527,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Who has tested positive for coronavirus in Trump's orbit"
+    excerpt: "More than 35 people in the White House and other Trump associates have contracted Covid-19 since the beginning of the pandemic, including President Donald Trump and several of his family members.\n    \n"
+    publishedDateTime: 2020-12-09T16:48:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vJ0FAn6JSPk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/white-house-trump-covid-cases/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/white-house-trump-covid-cases/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209103541-hponly-20201209-trump-covid-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President Donald Trump raises more than $170 million since Election Day as he pushes baseless fraud claims"
     excerpt: "President Donald Trump and his political operation have raised more than $170 million since Election Day, a person familiar with the matter said -- a massive fundraising haul fueled by Trump's baseless allegations that the election was rigged.\n    \n"
     publishedDateTime: 2020-12-01T14:23:47Z
@@ -1278,6 +1294,22 @@ related:
       - url: "https://static.politico.com/cc/9a/baf2968c413c83bc394a7f0c7692/201208-ellis-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "U.S. Takes Tougher Tone With Turkey as Trump Exits"
+    excerpt: "Officials said President-elect Joseph R. Biden Jr. must keep from alienating the government in Ankara even as the U.S. and European allies try to curb Turkey’s military ambitions with sanctions."
+    publishedDateTime: 2020-12-09T16:33:00Z
+    webUrl: "https://www.nytimes.com/2020/12/09/us/politics/us-turkey-trump-erdogan.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/09/us/politics/us-turkey-trump-erdogan.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/09/us/politics/us-turkey-trump-erdogan.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/09/us/politics/09dc-diplo-turkey1/09dc-diplo-turkey1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."

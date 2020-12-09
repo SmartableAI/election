@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-o
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Transition Live Updates: Biden to Formally Name Austin as Defense Secretary"
+    excerpt: "President-elect Joe Biden is set to introduce Lloyd J. Austin III, a retired Army general, as his choice to lead the Pentagon. On Tuesday, Mr. Biden and President Trump offered the American people very divergent messages on the state of the virus."
+    publishedDateTime: 2020-12-09T10:55:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/10/world/09transition-briefing-austin/09transition-briefing-austin-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "Mmi0nQGaVsytKfHwucs2DYChER34D+bAu/df7ZTU+Yc4kToSAmqpVxd6jCYjOlVg+qnPfvCVq7pLyKquLHvjFuTzPSSRRwsHAsQalKu3XPwoRw+Sw+jtjPmYYN8yz0cwFXRAUHoZJyeh+75kun1TGhu0GUVOIeqe84m8k/YEhBlw02UMILarDnKYdJlc33lbG5W+7LyHFBd/AJQVDbb0PQc/2ZJLwoD8EESCgRiO2C8VvENNVWMzEjzAteevAfDZk/7XNCBmmJtUAt8eBgPaHYmELnzx8usfO0YV0RUjoHQktp+n9tt25vt4h+wtjn7gpt8f1DpwmIcuE6CrHm6e3ZwxZgp0xpgCN9H/Fxn8kAo=;+syM4oNYOOOVVL0K9iTUEQ=="
