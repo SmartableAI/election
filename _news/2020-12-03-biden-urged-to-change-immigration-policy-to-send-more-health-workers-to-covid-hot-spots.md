@@ -414,22 +414,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden pledges to vaccinate tens of millions, reopen schools in first 100 days"
-    excerpt: "The new pledges came as Biden introduced his picks to lead key health agencies and coordinate the federal response to a pandemic that's infected almost 15 million people in the U.S."
-    publishedDateTime: 2020-12-08T21:18:00Z
-    webUrl: "https://www.politico.com/news/2020/12/08/biden-pledges-vaccinations-reopen-schools-443733"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/08/biden-pledges-vaccinations-reopen-schools-443733"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/08/biden-pledges-vaccinations-reopen-schools-443733"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 132
-    images:
-      - url: "https://static.politico.com/35/f1/fb5a27c946b9b98ed967f5a49a3f/20201208-joe-biden-ap-773.jpg"
-        width: 4425
-        height: 2950
-        isCached: true
   - title: "President-elect Joe Biden's cabinet picks draw criticism for lack of diversity"
     excerpt: "Steve Kornacki tells Chuck Todd that Democrats are betting on \"growing non-white population and an assumption that they're going to continue to rack up gigantic margins\" in the vote."
     publishedDateTime: 2020-12-06T16:17:00Z
@@ -489,6 +473,20 @@ related:
       - url: "https://static.politico.com/1b/12/b3e1e2e043c1bf3e71ac53922be2/ap20008822339217-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden pledges to vaccinate tens of millions, reopen schools in first 100 days"
+    excerpt: "The new pledges came as Biden introduced his picks to lead key health agencies and coordinate the federal response to a pandemic that's infected almost 15 million people in the U.S."
+    publishedDateTime: 2020-12-08T21:16:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/12/08/biden-pledges-to-vaccinate-tens-of-millions-reopen-schools-in-first-100-days-1343688"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/35/f1/fb5a27c946b9b98ed967f5a49a3f/20201208-joe-biden-ap-773.jpg"
+        width: 4425
+        height: 2950
         isCached: true
 
 secured: "k0zj+haBO6lRnUHnQZorLIQNMnSLHnx8eY5aH/VC2OXmMF/9hW1tN2lrjdtRagSxCmRbq42W1DhUT+67ZLLApN+4Svj1QHv3AitX7kV1FVtNQNyZ+i/K0/tWgEdXF9c9JltkYx382dMCo3Ac9Q+LiFy1Q9zD5gc7ArHxYAAKqmtSob968z3lJ9B3RqBVlaUY3qFEHMQvyCaqVlf0P5deplMy7QsQZIBUfd9+zAesF62oZGQSJT4mdd1HPMFVNhvuKB8AWGChTY2a980Q71PiDfSTjMwOZ+YcF2puNeud00tQSBGFrw0uSXAILGhF+KrnMx+jZpWSL0LddXyhixoysbuUblJ+6gTbGjythkDCAMZfdtUfjJEUN1Nz/FLnKa/5qCpX4ochXWYmxqxz+Z5VdSObp07Jo1lB7ZzmjcATacb8QZL+fE2PqnL9TfBAG+UI3KI8I65t4c3kY6yYjPKcYmMRRjpf9m5Cg7ZNcrdZCqp8SvukyaNzXXYKrBu8wFb86dky3Ir5sVHpp981Mu0EEQ==;5h90P5ODA5buFT0R/IdWVw=="

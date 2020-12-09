@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Iran pressures Biden with plan to increase underground enrichment machines"
-excerpt: "Iran is raising pressure on U.S. President-elect Joe Biden with plans to install more advanced uranium-enriching centrifuges at an underground plant in breach of its deal with major powers, a U.N. nuclear watchdog report showed on Friday."
-publishedDateTime: 2020-12-04T15:42:00Z
-originalUrl: "https://www.reuters.com/article/us-iran-nuclear-iaea/iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines-idUSKBN28E1XM"
-webUrl: "https://www.reuters.com/article/us-iran-nuclear-iaea/iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines-idUSKBN28E1XM"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E1VR"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E1VR"
+title: "High court rejects GOP bid to halt Biden's Pennsylvania win"
+excerpt: "The Supreme Court has rejected Republicans' last-gasp bid to reverse Pennsylvania's certification of President-elect Joe Biden's victory in the electoral battleground."
+publishedDateTime: 2020-12-09T03:23:00Z
+originalUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12"
+webUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12"
+ampWebUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
 type: article
-quality: 123
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543482313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31BL"
-    width: 808
-    height: 545
-    isCached: true
 
 related:
   - title: "Despite mounting legal losses, Braun refuses to acknowledge Biden's election win"
@@ -383,6 +377,22 @@ related:
         width: 1440
         height: 1011
         isCached: true
+  - title: "Iran pressures Biden with plan to increase underground enrichment machines"
+    excerpt: "Iran is raising pressure on U.S. President-elect Joe Biden with plans to install more advanced uranium-enriching centrifuges at an underground plant in breach of its deal with major powers, a U.N. nuclear watchdog report showed on Friday."
+    publishedDateTime: 2020-12-04T15:42:00Z
+    webUrl: "https://www.reuters.com/article/us-iran-nuclear-iaea/iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines-idUSKBN28E1XM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E1VR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E1VR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543482313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31BL"
+        width: 808
+        height: 545
+        isCached: true
   - title: "Black Lives Matter movement at a crossroads as Biden prepares to take office"
     excerpt: "Sloan’s hesitant support for Biden reflects a divide among racial justice activists about the movement’s strategy under the soon-to-be presidency. Some factions of the Black L"
     publishedDateTime: 2020-12-02T05:54:00Z
@@ -523,17 +533,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "High court rejects GOP bid to halt Biden's Pennsylvania win"
-    excerpt: "The Supreme Court has rejected Republicans' last-gasp bid to reverse Pennsylvania's certification of President-elect Joe Biden's victory in the electoral battleground."
-    publishedDateTime: 2020-12-09T03:23:00Z
-    webUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Texas attorney general sues to block Biden's victory in four other states"
     excerpt: "Texas Attorney General Ken Paxton is suing over the election results in Pennsylvania, Michigan, Wisconsin and Georgia, four battleground states that helped swing the race for President-elect Joe Biden."
     publishedDateTime: 2020-12-08T23:40:00Z
@@ -565,6 +564,6 @@ related:
         height: 308
         isCached: true
 
-secured: "KTYt35RGVrB6dQdCmjyi8UixvTmo/26fPEwAEw+rkFlDaR2vaC1M7dH4+aSJifJQrzXhryvqTAsqFYkXqNo81AXuWqyj5HpnQBceYHXVSujPRIRcSUTg7AthUTMPZ5eJ4XqpgUPcZYsD0aHCju5iEoP/1rQV2+QW6+t9q+aDnD54bopk2Tb3mAf4cXXoemghNePUhBEFMOXShz35T2R6K70hQppQGZlMXIUbN1HUKCqOivN2gKaqb8RKvTndTLBLwK1ufnPwnhB0cBvx8FhocJjGh7zMdTIkhhndL/3yOEkXQ5DRLQazAwKuMz+y4SS2d0limt3jFxaXN/nmFGabQUaLVuXv82lN/eI3aRAS0pI=;/PD/TFBYBixgygbY3+ezSQ=="
+secured: "4gO9zOv7eNP9OW6gruGRxSnY3KF0cWbtegklW3xM2hijURcr98EE4pCUklm7ZKAjmSAe/1tsGhZk2YEIosz8Kxeo1wT8Tqb8tQpWwoSes+klj307OTX6bTQdnRPCPrifh6bCLv+c1d7KvdKXlkX2b4DApe1PUp84AzRDTvqeLn2vm1pbJaEgV84Ostw5/KI4VUOaiJPHiW5BP7WaouaQAAjLQs2jTBej778DknUvzMflJmNMG2bh19RX/qeszTutsZVcHaSo2Rg2tB+Nb7A79jUM7URqNvTVqB69jKDGutXg304CY4HJ8lsCE53lz9EWh9Ypz2r2PBt7Z9A+VT+st5J9546vDYlWo9MiUSpLyJ0=;l9yDJoDtNl9O3tEsoyB3jA=="
 ---
 

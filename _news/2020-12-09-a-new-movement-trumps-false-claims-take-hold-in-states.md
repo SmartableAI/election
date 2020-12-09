@@ -1,28 +1,34 @@
 ---
 category: news
-title: "U.S. Senate panel votes to approve Trump FCC nominee"
-excerpt: "The U.S. Senate Commerce Committee voted on Wednesday to approve the nomination of a senior Trump administration official involved in an effort to seek new social media regulations to a seat on the Federal Communications Commission."
-publishedDateTime: 2020-12-02T15:46:00Z
-originalUrl: "https://www.reuters.com/article/usa-tech-idUSL1N2II1LY"
-webUrl: "https://www.reuters.com/article/usa-tech-idUSL1N2II1LY"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2II1LY"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1LY"
+title: "'A new movement': Trump's false claims take hold in states"
+excerpt: "President Donald Trump’s campaign to overturn the will of voters and reverse his reelection loss to Democrat Joe Biden is taking hold among state and local Republicans even as it marches toward immine"
+publishedDateTime: 2020-12-09T02:59:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
+webUrl: "https://abcnews.go.com/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_e6dbfda07faa4bbab67bd8ea15e86ac8_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Politics updates: Trump reached out to PA House speaker over election"
@@ -809,22 +815,6 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "'A new movement': Trump's false claims take hold in states"
-    excerpt: "President Donald Trump’s campaign to overturn the will of voters and reverse his reelection loss to Democrat Joe Biden is taking hold among state and local Republicans even as it marches toward immine"
-    publishedDateTime: 2020-12-09T02:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e6dbfda07faa4bbab67bd8ea15e86ac8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "House poised to pass defense bill as Trump expands veto threat"
     excerpt: "Republicans hope that a strong show of support in the House and Senate will dissuade Trump from attempting to scuttle the bill in the waning weeks of his presidency."
     publishedDateTime: 2020-12-08T18:38:00Z
@@ -1416,6 +1406,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "U.S. Senate panel votes to approve Trump FCC nominee"
+    excerpt: "The U.S. Senate Commerce Committee voted on Wednesday to approve the nomination of a senior Trump administration official involved in an effort to seek new social media regulations to a seat on the Federal Communications Commission."
+    publishedDateTime: 2020-12-02T15:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-tech-idUSL1N2II1LY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2II1LY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1LY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Fox News Is Holding More Cards Than Trump Realizes"
     excerpt: "Even if there’s a MAGA exodus from Fox, the cable network’s profits are protected by lucrative cable contracts."
     publishedDateTime: 2020-12-02T18:27:00Z
@@ -1623,6 +1624,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "Bs84fip3kPp3+u0O8doD7eDB2fS2qHmvdTNUBbII0teWXI5uMmiB25a2X8Vg6+54vc3uKnm9Gu0XSEEgs5+iNrYe4UgeA4M9JpzZ6I7nY86+sdc2F+mFNfC5yF5Gm/PBxsfSuk7bPVsbHXl5ExwjgXlnmrIcNm6FzSX7e43kyG5OlW1mmScfANIhQ13cwg4ZlvioEvrB+O+83ShJaoFG3CWE7UrjeTn8l53S+9xEqWwVvg1CEVeRmiDYPpvtNO7TSoJk+aowj6rhBT8Uqeuk+ArOc5DQ2oX8krVnXvnjdq+ocFGIU1I0vuAko6zS8lvwVCC1pO6njUvGqFFUFUVojhdiPV+/hKj5qwOqkvv8cg8=;sDllcEDkXC95l/Ion1y5dg=="
+secured: "JG5PKyFKlpWfwfR8GPiTn3Y79Q34k8xsYDkUn+Mdi1F630UsKscvqpKyWs0KvgkL+Ts8+G7eXsLZ53c8vRLhbCOOD4GxlpdCnC80oHRMgbTHWGgIAgWcy7vfZ2rnHXev0BfIF7tK9O7sdaOP1BbpEKBU90atXDPcLmB971F7kuDNtHKRI24IbOSCyAFO3y/iu7F15BXzRRHb1TzvDKhYWwQxZ0VzOhOd3r2P17fhPoukyOrsVmT56IAF8hPU7zC4lWIRHtYTU0Irg1xfDG6+xs0tn6MAkq59cKU0jOIjUEC5d40WAJA5smMN4iSjnaE+L0xNlnh0BRqPMTHqUuhH6ZhKSMJuuH8tMDgKwXFqNlE=;0Enf1/DUQa0FBBkR++JU1g=="
 ---
 

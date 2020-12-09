@@ -202,8 +202,8 @@ related:
     quality: 105
   - title: "Biden has chosen congresswoman Fudge for HUD secretary -Politico"
     excerpt: "U.S. President-elect Joe Biden has selected Democratic Representative Marcia Fudge to be secretary of housing and urban development, Politico reported on Tuesday, citing two people with knowledge of the decision."
-    publishedDateTime: 2020-12-08T22:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge-idUSW1N2I903A"
+    publishedDateTime: 2020-12-09T03:23:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge/biden-has-chosen-congresswoman-fudge-for-hud-secretary-politico-idUSW1N2I903A"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2I903A"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2I903A"
     type: article
@@ -244,6 +244,6 @@ related:
         height: 413
         isCached: true
 
-secured: "VlIgdHWMlNKO88x6PHd+taB4fNSShi7J0P5ZzLNb1tr3PCUoSGPQ/DailNFnedPubKe2Cc9/tD0X88AXW88/EellOBuYe+nNGZp2ksYhzk+X5iTBZUzNjMb9Pk9Y3/5uY1y1fKm1ZGcl5QSktOfoXbJxJKdDbHIlSXB5FFp+40rqlKr0KmJZ2xemh6rC6t2QP+LyBPe2W2uCxR4kV2rJdLkZ9M2It4Q3c2QRIx+heEknhFOaP2o3tD5vrXdmj0qnTyWHol1X/5QXELTUcQb3YSgUxF+teJ+joNFndDApeWA2P2mu0jvFY3ods3HtY5xLTOHMww4NoFOZvbrCxyaGTjtYxM7eCaZfg1iJlNKWej8=;/5J5WhX8vGdzQgzgem7PSg=="
+secured: "2OqTAgEGGwKQ8CZ7cee3I1R9Q0jtVjDwn8CnfmbclMn1lnPCnjHe0hcpz8oG9EZkzWPYrsNS3qY6P2X+BBwHPPHfIg1rUGaxRwwcrbgrYMyuAJps+sASaRGac8tIIa/LgsS3Q+IijyqlOIXSN+CqYDtLJMm0GVvcZUrxklmqLV5tV6Hpb4bFb9u7LUeA3xy5o4NEXu5oZ1THQC5McLtpskqjyGhTV3Gd4a64al77arMjD4MZ3ZDWQxpTEAbHUKmQRikS7CCFCu98AsTpiSw0nNf14Wx72IbrrQSXVMBYia9glphz8DA3pE5qt25jzXPm3UnKQTbGwt0u38YXIBOMmx2Jr3hw796iPPDeiVk16zt2Snv2LD2fo+2QH1VS07EW69vMT3058ssgPefTrEFtnlBKJevpE32ZvVlE9zJcelDCXLrenQSfWBBpXeLkbg1eEfEsZLhkV7BwCra2lKgF+U+G7UBCcJA0u1gaVhYRbILIhhWBzEsAYZLp6vL7bw9R1Dm7UX3ErCLQg/PIIGQYUA==;0nqlQtEEZjfN/fXW0Vptkg=="
 ---
 

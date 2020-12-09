@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Judge dismisses Flynn case following pardon from Trump"
-excerpt: "A federal judge on Tuesday dismissed the criminal case against former Trump administration national security adviser Michael Flynn, two weeks after a pardon from the president effectively ended the case."
-publishedDateTime: 2020-12-09T03:49:00Z
-originalUrl: "https://www.businessinsider.com/judge-dismisses-flynn-case-following-pardon-from-trump-2020-12"
-webUrl: "https://www.businessinsider.com/judge-dismisses-flynn-case-following-pardon-from-trump-2020-12"
-ampWebUrl: "https://www.businessinsider.com/judge-dismisses-flynn-case-following-pardon-from-trump-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-dismisses-flynn-case-following-pardon-from-trump-2020-12?amp"
+title: "Letter from 1,500 attorneys says Trump campaign lawyers don’t have ‘license to lie’"
+excerpt: "The letter escalates the concerns of Rep. Bill Pascrell Jr. (D-N.J.), who filed complaints with ethics boards in five states calling for Rudolph W. Giuliani and other members of the team to be investigated and disbarred."
+publishedDateTime: 2020-12-09T04:32:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2020/12/08/trump-lawyer-letter/"
+webUrl: "https://www.washingtonpost.com/politics/2020/12/08/trump-lawyer-letter/"
+ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/08/trump-lawyer-letter/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/08/trump-lawyer-letter/?outputType=amp"
 type: article
-quality: 105
+quality: 119
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4L25SRLJMI6XHBBHTCQDUEYD4.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
 
 related:
   - title: "Trump vows defense bill veto unless internet liability shield scrapped"
@@ -105,22 +111,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Letter from 1,500 attorneys says Trump campaign lawyers don’t have ‘license to lie’"
-    excerpt: "The letter escalates the concerns of Rep. Bill Pascrell Jr. (D-N.J.), who filed complaints with ethics boards in five states calling for Rudolph W. Giuliani and other members of the team to be investigated and disbarred."
-    publishedDateTime: 2020-12-09T04:32:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/08/trump-lawyer-letter/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/08/trump-lawyer-letter/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/08/trump-lawyer-letter/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4L25SRLJMI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "President Trump’s niece, Mary Trump, says her ‘cruel and traitorous’ uncle belongs in prison"
     excerpt: "Mary Trump rejects the notion that putting a former president on trial would deepen the nation’s political divisions."
     publishedDateTime: 2020-12-04T23:04:00Z
@@ -137,7 +127,18 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Judge dismisses Flynn case following pardon from Trump"
+    excerpt: "A federal judge on Tuesday dismissed the criminal case against former Trump administration national security adviser Michael Flynn, two weeks after a pardon from the president effectively ended the case."
+    publishedDateTime: 2020-12-09T03:49:00Z
+    webUrl: "https://www.businessinsider.com/judge-dismisses-flynn-case-following-pardon-from-trump-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/judge-dismisses-flynn-case-following-pardon-from-trump-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-dismisses-flynn-case-following-pardon-from-trump-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
-secured: "ExwFJVjwL9hADHsweAW4swoXytbHeBPjMS6NSKNd8+bmUmn/frGytnHXtS7ZXGi21zT60pEugA5yVWzIsLHqNJJsKId275FXJS+fx14EUUszPSLS+rvNfseovyhuMtvk6BxnAudASuqamVbStyJSFqMnUatoqHAVVNKRRGwxP0GFKcB19eRTa2ZUX5GFUmGeDTZaRzh14x7AuTbzjvuLyQdomnGn5cToz4uMC5+yI0qMGgEUsfunzd3E2pvrXjanDcQ8AVfcpe85BRfVDWkXp4QgPa1uM1jolYPkanr7R/7ckhBV4K61AA/moJXllj2UvgKBpKvW1vWrlZN2kbakdreX58SbJUd0cGwBJSnjsI8=;n3OShAHmE24eOZgiNPqclg=="
+secured: "YnuzDQqbaKGNZ2x1Remb83V49bqAZ26TklnGh8ma0qXFU/GK5sPiUcHcbx0fOsbLt47PdQmnRcXM8ohWhoK65+7qj6IEtl3lMJ4YPyngmxKZpALx7Rk6Zb6u+sioWhWDjdlhSdulK6Y/ky/9F03Z43KyegsGUaBgQB0iihWlkcWJDO9fIpfiAVxsGx2+CBafFKEKMelYkje+MzWv64BLDleP+5/not97gmz3AwEbQEytDizPb/WzDbzpQUBZapdTJSLZZNbO3vaBbCDNn+F/Sd7CmGBTjNUjXDKTbwOmNoQf3ltbh9VtkI92+OVEqgRb2iwTwgqtB19xx6HCKzNdwvj6MAjihr5LUVqzHNyAeXg=;WOhCT9GEB8UIGCBdbKWnzQ=="
 ---
 

@@ -49,8 +49,8 @@ related:
         isCached: true
   - title: "Trump administration makes new $916 billion offer for COVID-19 aid"
     excerpt: "The Trump administration proposed a $916 billion coronavirus relief package on Tuesday, after congressional Democrats shot down a suggestion for a pared-down plan from the Senate's leading Republican,"
-    publishedDateTime: 2020-12-09T02:16:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-5-trump-administration-makes-new-916-billion-offer-for-covid-19-aid-idUSL1N2IO2AX"
+    publishedDateTime: 2020-12-09T03:10:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-pelos-idUSKBN28I2LA"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2LA"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2LA"
     type: article

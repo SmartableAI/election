@@ -1,34 +1,28 @@
 ---
 category: news
 title: "House moves to approve defense bill amid Trump veto threat"
-excerpt: "The Democratic-controlled House is moving toward approval of a wide-ranging defense policy bill, even as President Donald Trump renews his threat to veto the bill unless lawmakers clamp down on social media companies he claims were biased against him during the election."
-publishedDateTime: 2020-12-08T18:43:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/house-moves-approve-defense-bill-amid-trump-veto-74607240"
-webUrl: "https://abcnews.go.com/Politics/wireStory/house-moves-approve-defense-bill-amid-trump-veto-74607240"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-moves-approve-defense-bill-amid-trump-veto-74607240"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-moves-approve-defense-bill-amid-trump-veto-74607240"
+excerpt: "The Democratic-controlled House is moving toward approval of a wide-ranging defense policy bill, even as President Donald Trump renews his the bill unless lawmakers clamp down on social media companies he claims were biased against him during the election."
+publishedDateTime: 2020-12-09T03:48:00Z
+originalUrl: "https://www.businessinsider.com/house-moves-to-approve-defense-bill-amid-trump-veto-threat-2020-12"
+webUrl: "https://www.businessinsider.com/house-moves-to-approve-defense-bill-amid-trump-veto-threat-2020-12"
+ampWebUrl: "https://www.businessinsider.com/house-moves-to-approve-defense-bill-amid-trump-veto-threat-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-moves-to-approve-defense-bill-amid-trump-veto-threat-2020-12?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_ed4ed4eae2284904bdf84ec0c9b1eabd_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Politics updates: Trump reached out to PA House speaker over election"
@@ -814,6 +808,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543739210&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61DA"
         width: 816
         height: 545
+        isCached: true
+  - title: "'A new movement': Trump's false claims take hold in states"
+    excerpt: "President Donald Trump’s campaign to overturn the will of voters and reverse his reelection loss to Democrat Joe Biden is taking hold among state and local Republicans even as it marches toward immine"
+    publishedDateTime: 2020-12-09T02:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e6dbfda07faa4bbab67bd8ea15e86ac8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "House poised to pass defense bill as Trump expands veto threat"
     excerpt: "Republicans hope that a strong show of support in the House and Senate will dissuade Trump from attempting to scuttle the bill in the waning weeks of his presidency."
@@ -1613,6 +1623,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "fWV+0rTptlos0KG6iom6iXTVu0oqdwrrdPNXeglpwfStsRx5Yse7ziJvWEQltK4d9+bvq2FDWT/O5U9M9dad7XGbWOcbM0EXyOuaLVInH/UR4Tst947q6J8kOfl4ExWrzhPLC1tfyAHeR1RjfRHa5pEk3BfjugYSxLpFa654bQTsVe5HgePJZUetoyzCrFHP69ek9XYSj3xM0Q8xlAtHmNLFTQ9oB4FIRvJelP367m6iqF992MjUCVWjOchFA9Fd62g0fDfPrB7ZjhCXDLCFRWoIYzcp4fnGCZKmc4bZA50gpvHkAFisEff5NhdPLdiZKY6bdQYVON05zy0PGk78qP6IauASRgFO2pAjV594zqI=;QCx9X94d/nhtyV+/jdWN+Q=="
+secured: "tfNqGqtTgnm81iQr/8okBtB5Ki4gen70FQsrhdX48Z1xAJXG5m6YKJgRIIIVYwcP9Uk0kU8yUzAA0H4SmyTobYxBLUfF9mN054tIQ2H+mhj4VCPZlCLO/1pnXfEH7qSatFrzO2LmwIZcn8Kd0pgYMAm813U+5wEeRL1+51mPjpdMOGf6MktCBez4IHU2kgWwMRiUKQWCs3l1Ys4B1BXvVPf8DOMh3teCIewVjGaSR/J6D/wdxt56C4MWI141Q8C4B9Do3uXdvQ6NBqQ6mOztHWpphzp69c46eKZ9qEcJsp1bWP2VDqAFpEaympbB65ySbbdRhJXBrraKh/I/jef47gr9f9d1onGDfmw9LoSJR0Q=;l66goPrqebRsQbvGkYYjRw=="
 ---
 

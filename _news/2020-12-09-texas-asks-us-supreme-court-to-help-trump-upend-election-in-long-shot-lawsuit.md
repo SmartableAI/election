@@ -799,19 +799,19 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "House moves to approve defense bill amid Trump veto threat"
-    excerpt: "The Democratic-controlled House is moving toward approval of a wide-ranging defense policy bill, even as President Donald Trump renews his threat to veto the bill unless lawmakers clamp down on social media companies he claims were biased against him during the election."
-    publishedDateTime: 2020-12-08T18:43:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/house-moves-approve-defense-bill-amid-trump-veto-74607240"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-moves-approve-defense-bill-amid-trump-veto-74607240"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-moves-approve-defense-bill-amid-trump-veto-74607240"
+  - title: "'A new movement': Trump's false claims take hold in states"
+    excerpt: "President Donald Trump’s campaign to overturn the will of voters and reverse his reelection loss to Democrat Joe Biden is taking hold among state and local Republicans even as it marches toward immine"
+    publishedDateTime: 2020-12-09T02:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ed4ed4eae2284904bdf84ec0c9b1eabd_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e6dbfda07faa4bbab67bd8ea15e86ac8_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -1548,6 +1548,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "House moves to approve defense bill amid Trump veto threat"
+    excerpt: "The Democratic-controlled House is moving toward approval of a wide-ranging defense policy bill, even as President Donald Trump renews his the bill unless lawmakers clamp down on social media companies he claims were biased against him during the election."
+    publishedDateTime: 2020-12-09T03:48:00Z
+    webUrl: "https://www.businessinsider.com/house-moves-to-approve-defense-bill-amid-trump-veto-threat-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/house-moves-to-approve-defense-bill-amid-trump-veto-threat-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-moves-to-approve-defense-bill-amid-trump-veto-threat-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Renewed attention on Trump family business"
     excerpt: "Watch \"Renewed attention on Trump family business; expenditures during presidency receiving scrutiny, raising profit in office questions\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
     publishedDateTime: 2020-12-08T16:14:00Z
@@ -1613,6 +1624,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "w3LH4RZhJiNLLXuOX0FmysBAwZ3oyPHAMRzQEoTTU3UDkenB6cOvc1Tsf2219pnJGWZGdBY2ZGZCnFwpTv18STnUAezcTc3SaBE10d6LveS7WI54bkt+d3tXYPmuK4XTFr53kNzSSUQDzq3O1c+t9+vNBSbtpno5pnfuTAEKrlq1vkSGPKRvzdyaUzdpBvJSLqKY1dKtwRSDlyF2IygXf2avP6Zhg6PDEj6KiyxtHda6Rg61licN8hkwYoLdLLWyfxt0esqb6UbbEgPM+ogOq/eK/qVUg+IoIX0JxkHc7hSkyDmaySbYpn1W3L8/+kBofm9EDPhDsdgqLjhrjp56fiBxP8jC3uuCYGofNI9QNK0=;tybpDu0EiWfrh1TRqq3J4g=="
+secured: "ETYfgZQR3cWYoyyrmoyoPbkFoWyjxDSlctHXhcJhRz+UwoHpsacv8uivFmBP61fUi9yJqGZbet4EuecYuusRaYVbcfMOD7jRar85wOG7J+PjsJ5hTtLTBDeNxe81GD3J6OjAs1UNcf17lop3+7Fryby7Vgr1AUlCNVV7ufJmFuYR8B0dyt4iqpJnYICC+HGJ8s3EJwDDflxD1CvDxlY51cDnr6jl+L17rOQSQO5562SCN2KS9XYSQ+l8ps7s8ZFnXrZ14TR6Ilh9x9ekHPzI8GUm89h8hSmvv9/x+4ZysedH3Z6I2QF8hY1uMJGFzKpxYnjWbZICnpN/TzohtacGtdaYYGE8EgYOXBG22rk7S8wu+SRwyo76uqNJEBtqw3UY8c2E/TuQ17C8G7GwiHYtreXi9WjauNhPlLj7h5tpyfdyyW0++fpcsuy9HqAC0zAO2aEpEtlpqnbFXrbyW/Ja7Ay9KUily0dPwYDsSo5+ozPApG0PaR174CmApSNybsZN5CCXFaoIqKqKil0UeQldRw==;rcyMOhoJsRMvdcPUmXnf1Q=="
 ---
 

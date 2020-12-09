@@ -813,19 +813,19 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "House moves to approve defense bill amid Trump veto threat"
-    excerpt: "The Democratic-controlled House is moving toward approval of a wide-ranging defense policy bill, even as President Donald Trump renews his threat to veto the bill unless lawmakers clamp down on social media companies he claims were biased against him during the election."
-    publishedDateTime: 2020-12-08T18:43:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/house-moves-approve-defense-bill-amid-trump-veto-74607240"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-moves-approve-defense-bill-amid-trump-veto-74607240"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-moves-approve-defense-bill-amid-trump-veto-74607240"
+  - title: "'A new movement': Trump's false claims take hold in states"
+    excerpt: "President Donald Trump’s campaign to overturn the will of voters and reverse his reelection loss to Democrat Joe Biden is taking hold among state and local Republicans even as it marches toward immine"
+    publishedDateTime: 2020-12-09T02:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/movement-trumps-false-claims-hold-states-74615365"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ed4ed4eae2284904bdf84ec0c9b1eabd_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e6dbfda07faa4bbab67bd8ea15e86ac8_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -1562,6 +1562,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "House moves to approve defense bill amid Trump veto threat"
+    excerpt: "The Democratic-controlled House is moving toward approval of a wide-ranging defense policy bill, even as President Donald Trump renews his the bill unless lawmakers clamp down on social media companies he claims were biased against him during the election."
+    publishedDateTime: 2020-12-09T03:48:00Z
+    webUrl: "https://www.businessinsider.com/house-moves-to-approve-defense-bill-amid-trump-veto-threat-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/house-moves-to-approve-defense-bill-amid-trump-veto-threat-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-moves-to-approve-defense-bill-amid-trump-veto-threat-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Former top U.S. cyber official sues Trump campaign, lawyer over threats - NYT"
     excerpt: "The former head of the U.S. Cybersecurity and Critical Infrastructure Agency, which was tasked with helping guard the 2020 U.S. Presidential election from hackers, has filed a lawsuit against President Donald Trump's campaign and one of his lawyers after he made"
     publishedDateTime: 2020-12-08T16:16:00Z

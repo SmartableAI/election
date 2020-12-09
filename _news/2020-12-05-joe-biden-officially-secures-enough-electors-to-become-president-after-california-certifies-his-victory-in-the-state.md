@@ -218,8 +218,8 @@ related:
     quality: 105
   - title: "Biden has chosen congresswoman Fudge for HUD secretary -Politico"
     excerpt: "U.S. President-elect Joe Biden has selected Democratic Representative Marcia Fudge to be secretary of housing and urban development, Politico reported on Tuesday, citing two people with knowledge of the decision."
-    publishedDateTime: 2020-12-08T22:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge-idUSW1N2I903A"
+    publishedDateTime: 2020-12-09T03:23:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge/biden-has-chosen-congresswoman-fudge-for-hud-secretary-politico-idUSW1N2I903A"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2I903A"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2I903A"
     type: article

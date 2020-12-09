@@ -111,6 +111,33 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Letter from 1,500 attorneys says Trump campaign lawyers don’t have ‘license to lie’"
+    excerpt: "The letter escalates the concerns of Rep. Bill Pascrell Jr. (D-N.J.), who filed complaints with ethics boards in five states calling for Rudolph W. Giuliani and other members of the team to be investigated and disbarred."
+    publishedDateTime: 2020-12-09T04:32:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/08/trump-lawyer-letter/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/08/trump-lawyer-letter/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/08/trump-lawyer-letter/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4L25SRLJMI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Judge dismisses Flynn case following pardon from Trump"
+    excerpt: "A federal judge on Tuesday dismissed the criminal case against former Trump administration national security adviser Michael Flynn, two weeks after a pardon from the president effectively ended the case."
+    publishedDateTime: 2020-12-09T03:49:00Z
+    webUrl: "https://www.businessinsider.com/judge-dismisses-flynn-case-following-pardon-from-trump-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/judge-dismisses-flynn-case-following-pardon-from-trump-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-dismisses-flynn-case-following-pardon-from-trump-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "ER4a1W7s1u9s7VJViIl3iLwhLWZl+zoEiipo9sRzDtz71TCot+VQZRi29HsMFYo9MqSXbS8LoxcXopMTO2h80NbwYzeE8CXZ8LIyNbDhf3tVM5xrtntvdIDynnLir+fesT54nZK0w/4q9laQyr5sb0dkeej6YqU6+TRItBCZ0axHsyiiD1s2mQDvAmKig7f/LbE15PG2WPZs4P80bl6PgQDroBve2sJrDTSlNZY74Ox5i2IFlXqOCNib7wjrmer8gen5wTI8aYaceMeDSTPZ0rahDnWjdBLAhARZOVkmU4sy62vmG0MK5rLxswSrJ5/d6n95tn6O9iXXooWNeS45zzes03+xz09210/+CBphuhU=;Eg0Yab3Q1qLA4Ta9zhQtlg=="
 ---

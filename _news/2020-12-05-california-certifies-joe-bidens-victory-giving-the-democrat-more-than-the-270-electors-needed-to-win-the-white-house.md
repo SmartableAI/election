@@ -539,6 +539,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "High court rejects GOP bid to halt Biden's Pennsylvania win"
+    excerpt: "The Supreme Court has rejected Republicans' last-gasp bid to reverse Pennsylvania's certification of President-elect Joe Biden's victory in the electoral battleground."
+    publishedDateTime: 2020-12-09T03:23:00Z
+    webUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Texas attorney general sues to block Biden's victory in four other states"
     excerpt: "Texas Attorney General Ken Paxton is suing over the election results in Pennsylvania, Michigan, Wisconsin and Georgia, four battleground states that helped swing the race for President-elect Joe Biden."
     publishedDateTime: 2020-12-08T23:40:00Z

@@ -414,22 +414,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden pledges to vaccinate tens of millions, reopen schools in first 100 days"
-    excerpt: "The new pledges came as Biden introduced his picks to lead key health agencies and coordinate the federal response to a pandemic that's infected almost 15 million people in the U.S."
-    publishedDateTime: 2020-12-08T21:18:00Z
-    webUrl: "https://www.politico.com/news/2020/12/08/biden-pledges-vaccinations-reopen-schools-443733"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/08/biden-pledges-vaccinations-reopen-schools-443733"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/08/biden-pledges-vaccinations-reopen-schools-443733"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 132
-    images:
-      - url: "https://static.politico.com/35/f1/fb5a27c946b9b98ed967f5a49a3f/20201208-joe-biden-ap-773.jpg"
-        width: 4425
-        height: 2950
-        isCached: true
   - title: "Biden urged to change immigration policy to send more health workers to Covid hot spots"
     excerpt: "Backers of the legislation think linking health worker shortages with immigration policy will resonate with the incoming administration."
     publishedDateTime: 2020-12-03T09:49:00Z
@@ -489,6 +473,20 @@ related:
       - url: "https://static.politico.com/1b/12/b3e1e2e043c1bf3e71ac53922be2/ap20008822339217-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden pledges to vaccinate tens of millions, reopen schools in first 100 days"
+    excerpt: "The new pledges came as Biden introduced his picks to lead key health agencies and coordinate the federal response to a pandemic that's infected almost 15 million people in the U.S."
+    publishedDateTime: 2020-12-08T21:16:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/12/08/biden-pledges-to-vaccinate-tens-of-millions-reopen-schools-in-first-100-days-1343688"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/35/f1/fb5a27c946b9b98ed967f5a49a3f/20201208-joe-biden-ap-773.jpg"
+        width: 4425
+        height: 2950
         isCached: true
 
 secured: "RMtmTi2m8bzswgyjr7VQLskLXpeU0R/6ilwWH2qNQxu9aHXvolXOb+G6ke/yHLdcqAO4OBlqLJJ0kW8T2uGNVim9uLOvhsT8Pf3NWHvGDT15ZoXzYodJnT61FRjh15sb1rGIyrKbYLjRNcawrltW8EAZdgtnPkioQKRKTeMvcaj0lnzhQNbh9UBnpQ3YC9A9rHU6nmX4eaWzxHfD6Teo/fE7BRU1bXN1e5z0tNpeOQumcb5pziExOY2qzdlbhPpQzmcMMDYOeXZb0A7TLCiuzwNlHCyUetyfj7wga4hIVZpcAVyoc8fZY11CAxVfVbZx/d6Q72LtKBbwEA9J0A/f+bmcZ2zmMapHhbd8Ks+nZmGpiJRWRHDeEBB82FvwwzLOToiELDQjh8FFvlG+DrESu/kuLetfnisaHgxZppDtSnMcGcEeRCBHAwKE8+tAKaeHlgWz+/gmrdAYIXdrdyB3IRo3hcDMWpsFXzYU65s6Xy8YAAging1OFAFq1cAw+6GJNsaAqiCNx5KxZqoy8RoC+w==;qR05a6k+nxYd+jleZydfAA=="
