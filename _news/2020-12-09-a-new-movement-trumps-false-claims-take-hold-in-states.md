@@ -1289,8 +1289,8 @@ related:
         isCached: true
   - title: "Texas AG asks Supreme Court to overturn Trump's losses in key states. Don't hold your breath."
     excerpt: "Five weeks after Election Day and with states locking down electoral votes, Texas attorney general Ken Paxton has asked the high court to step in."
-    publishedDateTime: 2020-12-09T00:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/supreme-court-unlikely-help-donald-trumps-allies-overturn-election/6492261002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    publishedDateTime: 2020-12-09T06:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/supreme-court-unlikely-help-donald-trumps-allies-overturn-election/6492261002/"
     ampWebUrl: "https://amp.usatoday.com/amp/6492261002"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6492261002"
     type: article
@@ -1624,6 +1624,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "JG5PKyFKlpWfwfR8GPiTn3Y79Q34k8xsYDkUn+Mdi1F630UsKscvqpKyWs0KvgkL+Ts8+G7eXsLZ53c8vRLhbCOOD4GxlpdCnC80oHRMgbTHWGgIAgWcy7vfZ2rnHXev0BfIF7tK9O7sdaOP1BbpEKBU90atXDPcLmB971F7kuDNtHKRI24IbOSCyAFO3y/iu7F15BXzRRHb1TzvDKhYWwQxZ0VzOhOd3r2P17fhPoukyOrsVmT56IAF8hPU7zC4lWIRHtYTU0Irg1xfDG6+xs0tn6MAkq59cKU0jOIjUEC5d40WAJA5smMN4iSjnaE+L0xNlnh0BRqPMTHqUuhH6ZhKSMJuuH8tMDgKwXFqNlE=;0Enf1/DUQa0FBBkR++JU1g=="
+secured: "H2u1uCIz8eqM/lhOu6c0/bSnx+cqFsJBlvBHwpd/hbSyj1bttquL7OdNNwrKS+9pFmqIeBfPzzWqZgfw++RT2Gf5Vhn946HjggnGcH30fHA4na9AIjGJyl2EGs4wGfx+IUrRvauG7EsHrlvOHBEJOy24hLQEBT9zu5tyQ52orXGyp+EF6Sk2/hQdGV18nvESPVjhdqh0zVohrXHHe+ZSYoZevXKCsdr3UgRfYjbgShokwcgBkExx+kPj2WnqzMhVsmgAEbk8+h0DWwcCz+bmHuzQDHTWlS54lXzsFPmMzpb2Ql69H/Ds0CiV+b0gD3FjZGIjZ4Dl2hcm4CXVJaV17zOD9rLIaGatZAzC93NRx3px5hgcJ9qRlM3Pt9dr/zVAnfhW3F/V15QCUNPOdnDzZFFFafag1RTlsa74vAZwfPFYcBphlRCdrE27X1jnhZLe34vR6u5bl/X7nfqW7e4gJ9WOULpxPhCitFe6cjefjwqRYj2HFME7hmK6ETPQj/9bIX2Ug6XqNAYvoOy76gzYNA==;vtU5YFi7a18eHp4U+s249g=="
 ---
 

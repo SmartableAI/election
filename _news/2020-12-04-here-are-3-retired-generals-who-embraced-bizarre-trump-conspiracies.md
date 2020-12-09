@@ -79,6 +79,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "An important Electoral College deadline has passed. Here's why that's bad news for Trump"
+    excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."
+    publishedDateTime: 2020-12-09T05:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/safe-harbor-deadline-arrives-hurting-trumps-bid-overturn-election/6478954002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6478954002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6478954002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/d8313eb8-441c-4b59-84f5-a27ff5a1aac8-AFP_AFP_8WK484.jpg?auto=webp&crop=2351,1322,x0,y53&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "GNXtEMONnMalPxQF+gJXrOHzts+umiFsDqPw27Wl/wAJErmlUcHhiGsjIaAGn5iQnRD2Dge6G/PyRLQuqzOk/MQD1UpoPcI+UE09u7s9cYSbywTTSlVu2s8uuPtbrbCgIrFrUD3NbpyUIxNNAMRRatWLuqEbQg3Q0nTjUIFKElaoYtW/4A+J5sRvz+N8sGKDrcWzXLECkdSMxqTzt8572OkIuiEmx7BmxXKB+ttn2OqnI9o9sBVRkyZNJE6iMlZNOZAYK/dZ1zKQLnhJUTvCsAelxl4isTAtxw6Av3iC6e8sOV76Y47cxWrUyTLD9/Y/+oxvgGHO6ofOBKmMMbdC+VdVCAyVURiBR3L5JeYpjTzMviEhYU4KyL76uLT0DllsG2b2VpkLMpmKq9gvqVm1M8rctvA1BK0q0xDTXtp9+R/WZQZGTFcKKSamh7JRiFdyD5cNRY1UM9CCCpn60r2vjoiiq0FVLbrYFBYv/oU/LQCgyrzR+UnlemEaPnIr2Rq/MJ8/7W8zkYKKL/gXwRARBQ==;Psxjt962xNP/7vs7lpM9yQ=="
 ---

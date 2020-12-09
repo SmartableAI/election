@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.greenvilleonline.com/amp/6484240002"
 cdnAmpWebUrl: "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/6484240002"
 type: article
 quality: 70
-heat: 110
+heat: 130
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/93/393f2522-396a-11eb-9af8-0f9ce89e98db/5f3faefe0f231.image.jpg?resize=945%2C630"
         width: 945
         height: 630
+        isCached: true
+  - title: "Vice President Mike Pence to Visit the Space Coast Today to Chair the White House National Space Council"
+    excerpt: "Vice President Mike Pence will visit the Space Coast on Dec. 9 to chair the White House National Space Council on December 9 at Kennedy Space Center."
+    publishedDateTime: 2020-12-09T05:26:00Z
+    webUrl: "https://spacecoastdaily.com/2020/12/vice-president-mike-pence-to-visit-the-space-coast-today-to-chair-the-white-house-national-space-council/"
+    type: article
+    provider:
+      name: Space Coast Daily
+      domain: spacecoastdaily.com
+    quality: 38
+    images:
+      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/03/Mike-Pence-Vice-President-600-2.jpg"
+        width: 600
+        height: 331
         isCached: true
 
 secured: "8NBxhCuD47yQfxqaYtQWb9KVZoFTNSFYcbGEE7/xDVc02M/kAmEcnT1S5vf2pifkYX/MZTmcxijNbxpA2wPD+XeoWpNPvkHFdyEOVtRRp0sEH27fvzaqL5STo7RcdCaXRZOO3oETFrMdHTyYNw6C1fZIbs9ezhx5uWLw7S+NmVoRS2wiHrXgYbWsP9JMyZL5x3DhqARyeY9/aHpECvyaU2uI4sveVl2QrBLIaoe4ENHKtGUKAxD1p3prVJTlnG/I/xGy/uAGvT0Fp9ff6nFsppstfOuM5hy5r60zhlBYMxxeFWNMfUOtGmoIvlfS2WFZn9U8xH+1YA2IyxvoMUFGrLP80MHjp4bfDEy7AZR045KtVFZC0lq3hzkiCDpSYldpN0C6kBa1N+NAmalAGShNvy2uyfb/PAlKlLSC9SUCFiBl+xGL5LzgUFqbNvhW7k5a0vfOosMi2lKKahaFBxnyHG4zGkS6GoLuM30UhgG8lNQ0yY7Gc8NSfaPS13HDdF2N3YVvxqLVjsV4iaDDKfI2hA==;S1E2G4kfGWpChgMtG70dkA=="

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Republican U.S. Senate leader urges support for Trump's massive UAE arms sale"
-excerpt: "The U.S. Senate's Republican leader on Tuesday urged lawmakers to vote against a resolution, expected as soon as this week, to block President Donald Trump's $23 billion arms sale to the United Arab Emirates,"
-publishedDateTime: 2020-12-08T18:34:00Z
-originalUrl: "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28I2JU"
-webUrl: "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28I2JU"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2JU"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2JU"
+title: "An important Electoral College deadline has passed. Here's why that's bad news for Trump"
+excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."
+publishedDateTime: 2020-12-09T05:49:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/safe-harbor-deadline-arrives-hurting-trumps-bid-overturn-election/6478954002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/safe-harbor-deadline-arrives-hurting-trumps-bid-overturn-election/6478954002/"
+ampWebUrl: "https://amp.usatoday.com/amp/6478954002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6478954002"
 type: article
-quality: 122
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543852852&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71GV"
-    width: 819
-    height: 545
+  - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/d8313eb8-441c-4b59-84f5-a27ff5a1aac8-AFP_AFP_8WK484.jpg?auto=webp&crop=2351,1322,x0,y53&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -79,23 +79,23 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "An important Electoral College deadline has passed. Here's why that's bad news for Trump"
-    excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."
-    publishedDateTime: 2020-12-09T05:49:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/safe-harbor-deadline-arrives-hurting-trumps-bid-overturn-election/6478954002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6478954002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6478954002"
+  - title: "Republican U.S. Senate leader urges support for Trump's massive UAE arms sale"
+    excerpt: "The U.S. Senate's Republican leader on Tuesday urged lawmakers to vote against a resolution, expected as soon as this week, to block President Donald Trump's $23 billion arms sale to the United Arab Emirates,"
+    publishedDateTime: 2020-12-08T18:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-emirates-arms-idUSKBN28I2JU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2JU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2JU"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
+      name: Reuters
+      domain: reuters.com
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/d8313eb8-441c-4b59-84f5-a27ff5a1aac8-AFP_AFP_8WK484.jpg?auto=webp&crop=2351,1322,x0,y53&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543852852&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71GV"
+        width: 819
+        height: 545
         isCached: true
 
-secured: "BUoYWy4szaGWVRt2JENa0roC4caiSs1uPlNbYX8H4f/XL+j+VJShWH8TBm/NgXp48k3hNTQBsNwz7NbUHjQt4j5iwvtUsUtFcca3sJMtdGkE4BsbfGB9g6wNXjwtYOSpdm9w3qfHNIDxP0+Mm+Cu53X10FYxvjcmHtzR7BuTYiwK0Ho+FFBqvJ4/RrEypPYhYPHxNw/pO0XaLTkdAQdUS4auahk2pM2yIhvA4ZAidL1moqE97WXJbpFDH1VTYM8O7mq01r0VfHCWU+rtVb3ICxjF8C9scRunieE7wcbK0VxSg4goTvPyHfl0QMghbAoSL5o6i/ChTn5kqR+aH56Y/s62WRKPwT0YHEuNBe0lDnc=;HusTNrlphrFQLi28hRjdlg=="
+secured: "iGtgZdfhThoAKdO06QKyGBdTj6AIhkb5fgSSXNHuXj9bofeUXQOL/cTCq9AJEVRIoXfCpNIRnBiKIYEZLUjMEa+nJrbMwpp1PnXkFUyI0RZCCsTkYyqxSuUfU0w3B1X2coLuXkdOT/ACl5mH0hTswXC3lOfhu3JNzcK6in/GGD2+zoR9YzMYLN6uat4qJBzuVEhLjVcMOLG7YGtA1A0BMuwotSztGDkKPT28U88f2TrZ1+Tce41XEYe4E0nJP4PXOkjCrBYb8gk5XqI3IVT5T5XR33Yv3PU34wxlqGDMICKoWSTGmsJYEbD9toCQz8roSy2iH1oREZ/vbOfK2J7Wkim+X2SodncWjRq+QNDSWL8=;HrDhCMl4uf77klU7C6KPzA=="
 ---
 

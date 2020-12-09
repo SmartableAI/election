@@ -55,6 +55,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Vice President Mike Pence to Visit the Space Coast Today to Chair the White House National Space Council"
+    excerpt: "Vice President Mike Pence will visit the Space Coast on Dec. 9 to chair the White House National Space Council on December 9 at Kennedy Space Center."
+    publishedDateTime: 2020-12-09T05:26:00Z
+    webUrl: "https://spacecoastdaily.com/2020/12/vice-president-mike-pence-to-visit-the-space-coast-today-to-chair-the-white-house-national-space-council/"
+    type: article
+    provider:
+      name: Space Coast Daily
+      domain: spacecoastdaily.com
+    quality: 38
+    images:
+      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/03/Mike-Pence-Vice-President-600-2.jpg"
+        width: 600
+        height: 331
+        isCached: true
 
 secured: "LkOaYQlQKNq9t/VDicUIVK70fDheLEpEPpGd64of75QuAIA6w5//Y3ZYnNKMoq179qqKeaNp7agkE4JCCqJsD9SOHIpldDEAN800D8qybGKR9jBS3skbMrQ/1x9kMzFF8y5Q/9FnlSJ6U3pfXZdV59kI2LKYdcS/JTbZb5ohxXs0j/RNkLFPMJ/R8UfVVtiettSTrqjMMjGIdcRB3C/aW/DewygnvMpWr9lvGroJTO8vfIIyEC8beGDYN4DjMCMqxQ+LyU12welZOB9NGJ7sqKNl3ceknJuIqQQw2Kp/6uPBpp9sJ2AXj+qWx0DcIGh9/Swyf0JzSwzOC1aC0T2gpgd3SUYc3ZgA5QrCDWcm8jTLRxKABjWgHtVHSUPMJDtyoY/cUCTMoNnIm39/CXRXXn0TaR9NL/QxEbutlFnGitVRRK3jZbtTyj0fbAbYB7/YXUYjGKsQAkYX6JFuKq/o+E1u2n7rgQit0nG8QyX8f00ckJq1RMRQk5RxOnuRZ9sfHlyiUqqiTTyFZ25L813+Bg==;nMP1SH+BN7co+YcTGJhjAQ=="
 ---

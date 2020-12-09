@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Pence to visit Tennessee, talk virus vaccines"
-excerpt: "Vice President Mike Pence is scheduled to visit Memphis on Thursday to discuss the development and distribution of the COVID-19 vaccines, according to his office."
-publishedDateTime: 2020-12-03T15:30:00Z
-originalUrl: "https://www.timesnews.net/living/health-care/pence-to-visit-tennessee-talk-virus-vaccines/article_0001c35c-3580-11eb-ab1e-134818ed0d1f.html"
-webUrl: "https://www.timesnews.net/living/health-care/pence-to-visit-tennessee-talk-virus-vaccines/article_0001c35c-3580-11eb-ab1e-134818ed0d1f.html"
+title: "Vice President Mike Pence to Visit the Space Coast Today to Chair the White House National Space Council"
+excerpt: "Vice President Mike Pence will visit the Space Coast on Dec. 9 to chair the White House National Space Council on December 9 at Kennedy Space Center."
+publishedDateTime: 2020-12-09T05:26:00Z
+originalUrl: "https://spacecoastdaily.com/2020/12/vice-president-mike-pence-to-visit-the-space-coast-today-to-chair-the-white-house-national-space-council/"
+webUrl: "https://spacecoastdaily.com/2020/12/vice-president-mike-pence-to-visit-the-space-coast-today-to-chair-the-white-house-national-space-council/"
 type: article
-quality: 55
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Times News
-  domain: timesnews.net
+  name: Space Coast Daily
+  domain: spacecoastdaily.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/3/23/323f7f7c-da0d-11ea-8e7a-6796a476e0b5/5f2f9df19a75b.image.jpg?crop=800%2C450%2C0%2C16&resize=800%2C450&order=crop%2Cresize"
-    width: 800
-    height: 450
+  - url: "https://spacecoastdaily.com/wp-content/uploads/2020/03/Mike-Pence-Vice-President-600-2.jpg"
+    width: 600
+    height: 331
     isCached: true
 
 related:
@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 669
         isCached: true
+  - title: "Pence to visit Tennessee, talk virus vaccines"
+    excerpt: "Vice President Mike Pence is scheduled to visit Memphis on Thursday to discuss the development and distribution of the COVID-19 vaccines, according to his office."
+    publishedDateTime: 2020-12-03T15:30:00Z
+    webUrl: "https://www.timesnews.net/living/health-care/pence-to-visit-tennessee-talk-virus-vaccines/article_0001c35c-3580-11eb-ab1e-134818ed0d1f.html"
+    type: article
+    provider:
+      name: Times News
+      domain: timesnews.net
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/3/23/323f7f7c-da0d-11ea-8e7a-6796a476e0b5/5f2f9df19a75b.image.jpg?crop=800%2C450%2C0%2C16&resize=800%2C450&order=crop%2Cresize"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Vice President Mike Pence rallying in Augusta ahead of Senate runoffs"
     excerpt: "Vice President Mike Pence will headline a rally in Augusta on Thursday afternoon, as the balance of the U.S. Senate rests in the hands of Georgia voters."
     publishedDateTime: 2020-12-08T14:45:00Z
@@ -55,21 +69,7 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Vice President Mike Pence to Visit the Space Coast Today to Chair the White House National Space Council"
-    excerpt: "Vice President Mike Pence will visit the Space Coast on Dec. 9 to chair the White House National Space Council on December 9 at Kennedy Space Center."
-    publishedDateTime: 2020-12-09T05:26:00Z
-    webUrl: "https://spacecoastdaily.com/2020/12/vice-president-mike-pence-to-visit-the-space-coast-today-to-chair-the-white-house-national-space-council/"
-    type: article
-    provider:
-      name: Space Coast Daily
-      domain: spacecoastdaily.com
-    quality: 38
-    images:
-      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/03/Mike-Pence-Vice-President-600-2.jpg"
-        width: 600
-        height: 331
-        isCached: true
 
-secured: "ho06jwWa2uX47FeoTPIEGxYzHssDCD68Kmb60CMefTRUDnWXcMLKBC3tFIDoxNG0Na0o835ApnfKbROk4t2eTbAp9Soxmcq0hj4OInjKt/ugmKvwpVY2Co3dX1Hpgvd6N4TSGTFoSw8EPmacAZXM+QNdnrt13zJIuUj7XBV4QBkF1lLQKAaJM16XjFaDOnVYueUdEmq2TRVDTbtUbVhQxSX3dYsPzagOXrtk46OaeVSP/+3Pgw5huB18Ju+PmtWg1MIpNp5t9z1qFZOwPcPObheUfQOO6EY+9ovYvvlll66l1qK9tKn2NyYT6YN7TEBPd0kc66mKUzJuIkpRbLjpxfy3gAcs3EXaCXuqAvcCyAs=;BGfXsGmfE0SoToOM4FNtUQ=="
+secured: "JQvrTHa8NkCqgpnCkIyVO5jkZn/2+o9NmKUQril9uMSUzwssOAq9MBIIC0+yzf0BYOjuAdcZyxf6+eTLIRdUqPH25f2OKItryvmXE5K6Scclr0FsxI0KA9JIrUuVr5OzuJQi7f/qc2rTum8mwbYAy7Jqr12CH2y1Udc8XH0OrpzLrihBm/DfMAmR6KCl4cU6+jR8mZFiwcheVn4YCa5SD9f+MMEUWI4XKNRPfytBRtXarqjs2mDAelROpxpRbUb44V266cxvoC7e7+EDee2qQ2MJuYijly9xfxRvyuRzqYYxPDjaYVh4yT4+5zYA5INGid8vlGauXZz8fe+WC3foysPg/cWAXu7rlBduqlABDyE=;4rac4bMybQRyGRnuF7hYFg=="
 ---
 

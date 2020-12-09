@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trum
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543852852&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71GV"
         width: 819
         height: 545
+        isCached: true
+  - title: "An important Electoral College deadline has passed. Here's why that's bad news for Trump"
+    excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."
+    publishedDateTime: 2020-12-09T05:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/safe-harbor-deadline-arrives-hurting-trumps-bid-overturn-election/6478954002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6478954002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6478954002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/d8313eb8-441c-4b59-84f5-a27ff5a1aac8-AFP_AFP_8WK484.jpg?auto=webp&crop=2351,1322,x0,y53&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "pXaw2fWmUMWV2pvIqMryQkZqnYxGq9EvIKJ3XWPOe51sRp8pF0rY/6FazXu4o0kesm6YMvx+pJUB7w8Scki0JqQgeovZ8v3ykvcmsMpRa9PWjg24iGihMzZISf4bt2hvz7zcOaYpHD3/gd4YImZxryD/X5I6gBYR0BCZVqtWlozi9nsWQgBEeSNCWAi3iJwUMWrB7/OkukixYpJMErM7uc6XK90BUz2o4MSyz/dwzIMnoQo5se4ry89TZ3+/J1qVUQ/EuW35o+2PXfI55d8Rs4dMXb+noSzxdqi/YQQsUf4NeZlqOxNZ/NVzIwuLR1WCzHdqWXqwHTH/hkN+PVF8JCZJpVm/XFH09mSyHc2SaTTZ9np4JrgQntEzYxoVA1ZcGXVz2/qtFWHr02m1XMPiGav5yCDvK51d1mMrXzg9D1/JdjmBu7Z/+z2mUyDh21Clgdm0Rv0UE7uoklC5SwzNMQFyLvj2BVdMI7thi8xCvWbazAmDcjAM4QtyzDl0M8+Oxy5yJf+sawlz3mX+9wPkXw==;Eljep1SlNI119ovvVAXfHQ=="

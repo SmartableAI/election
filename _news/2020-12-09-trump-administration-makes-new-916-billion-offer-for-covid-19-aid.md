@@ -2,9 +2,9 @@
 category: news
 title: "Trump administration makes new $916 billion offer for COVID-19 aid"
 excerpt: "The Trump administration proposed a $916 billion coronavirus relief package on Tuesday, after congressional Democrats shot down a suggestion for a pared-down plan from the Senate's leading Republican,"
-publishedDateTime: 2020-12-09T03:10:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-pelos-idUSKBN28I2LA"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-pelos-idUSKBN28I2LA"
+publishedDateTime: 2020-12-09T06:31:00Z
+originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-5-trump-administration-makes-new-916-billion-offer-for-covid-19-aid-idUSL1N2IO2AX"
+webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-5-trump-administration-makes-new-916-billion-offer-for-covid-19-aid-idUSL1N2IO2AX"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2LA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2LA"
 type: article
@@ -64,6 +64,6 @@ related:
         height: 779
         isCached: true
 
-secured: "++cA8bc0XZW9cO49xqkcO6a1DCjR+soeGtfzZ4PL3+Hm7aftRKRgxJnqugVauyJvhEN4YopwFttMURYtOeneJ2CF/cEtcqnRA4y0G3MLN9pVL++GQBO8F9RtWXSYzGxaaPOHvVfFEKA1s9kEXwYYUreZLO7IcS7+YqP8axHs554NhrIICjPHrbtawRFI5wVXmUx6Ju4qZEEUUMaEAynuxb+JjXHov3JojvzY9nAIVdAn6Y4B7U3AvpkBYzOYmkQsCW1oNIYAzi3bJ85+oWz+3eTdIp5Q4RXpOgCQaNgNjPa8E4umtP4LGyCre456ouYkmGm3cu5BCDeEWhnss1C49I3y9+Jvc3hFyaLBDSnuXDY=;AQUd+G2C0oyrYelQTCpN9w=="
+secured: "ggJfi3LrMRCmmJaJodwsOru51crOmJBMazVtATJpRW3uemtM86BRt/4AxaTCyDVawOLaTx6zcrFyqDg+y2l81mUIV3QjFku+fw0nCPBAYd2wp6de6F+iaQIVwTvaPsNBT+0x8adHmea3dPI0S0M23l98OHjcfCzkgJdZ/gMuFhcGfYZtV7ZEEQw76BnVMNO16Hm7GUZ4oOmk3L5TZ19KyLP5S/xuGi9MaodgCqe9l7exU++nuGSHU/UQ2zUeSQf8lWsW5f4xx/EvdXbXWty9H+CTMDVchjU4Ih+Yl6C1Np7Nm8NjlsL/H3QCG+g9TH6YnBUuJ+5cihVfvxD9whCCreDPImEVPv5Cb18/XSe9vGA=;WgmCOYyZinERK3E7PyPzfg=="
 ---
 

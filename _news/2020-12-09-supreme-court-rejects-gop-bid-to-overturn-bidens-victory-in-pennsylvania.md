@@ -1,22 +1,22 @@
 ---
 category: news
-title: "The Supreme Court has rejected Republicans' request to overturn Biden's Pennsylvania win"
-excerpt: "The case was brought by a group of Republican state legislators in Pennsylvania and is another stinging defeat for the Trump campaign."
-publishedDateTime: 2020-12-08T21:55:00Z
-originalUrl: "https://www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12"
-webUrl: "https://www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12"
-ampWebUrl: "https://www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12?amp"
+title: "Supreme Court rejects GOP bid to overturn Biden's victory in Pennsylvania"
+excerpt: "The high court spurned a request from Republican allies of President Trump to decertify Pennsylvania's election results."
+publishedDateTime: 2020-12-09T01:44:00Z
+originalUrl: "https://www.cbsnews.com/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
+webUrl: "https://www.cbsnews.com/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
 type: article
-quality: 116
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg"
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/01/80c61613-2c50-466e-8bc0-c94e04340f94/thumbnail/1200x630/599c98122454d59cc8ef7b92437607ff/gettyimages-1223641796.jpg"
     width: 1200
-    height: 600
+    height: 630
     isCached: true
 
 related:
@@ -63,22 +63,6 @@ related:
         width: 846
         height: 545
         isCached: true
-  - title: "Supreme Court rejects GOP bid to overturn Biden's victory in Pennsylvania"
-    excerpt: "The high court spurned a request from Republican allies of President Trump to decertify Pennsylvania's election results."
-    publishedDateTime: 2020-12-09T01:44:00Z
-    webUrl: "https://www.cbsnews.com/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/01/80c61613-2c50-466e-8bc0-c94e04340f94/thumbnail/1200x630/599c98122454d59cc8ef7b92437607ff/gettyimages-1223641796.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "U.S. Supreme Court rejects Republican challenge to Biden's Pennsylvania win"
     excerpt: "The U.S. Supreme Court on Tuesday handed a defeat to Republicans seeking to throw out up to 2.5 million mail-in ballots in Pennsylvania as they try to undo President Donald Trump's election loss, with the justices refusing to block the state from formalizing"
     publishedDateTime: 2020-12-09T02:56:00Z
@@ -94,6 +78,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543886187&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71T6"
         width: 828
         height: 545
+        isCached: true
+  - title: "The Supreme Court has rejected Republicans' request to overturn Biden's Pennsylvania win"
+    excerpt: "The case was brought by a group of Republican state legislators in Pennsylvania and is another stinging defeat for the Trump campaign."
+    publishedDateTime: 2020-12-08T21:55:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Computer repairman who claimed he gave Hunter Biden data to Giuliani closes shop as laptop saga gets stranger"
     excerpt: "Computer repairman John Paul Mac Isaac, who gave a copy of the laptop to Rudy Giuliani, shuttered his Delaware store and a neighbor said he left town."
@@ -184,6 +184,6 @@ related:
         height: 600
         isCached: true
 
-secured: "CkGguNC4qDwJKwiCPuZWOWSSnG+vkdVFvObGGqJO+Dcz9kGbXSoAWRQ8jUcbnuMwRobPccGn9mL0f2FDuiI4ypHlaqLWwX/Z119efgoerFhcBByJweBQwv3NF4wIIQGZNu1wij6WmmRWcUfu+Wlul6dWGB91tGYzEbl/Uo/feqlS6Q1NONoC/1/M9KtmXpA8bt/HDqmGJXLmuaTXampvOY4uoba7CoqxsRbFAM/PsWstaxa2JsZsZFV5DZKENa3K3juSs4CQyu/DO+piEZ20aHLtqT1YioJUWiOonq8dcSWVescKBQtuzVZT+RKDcIHhH5I6JiV+lZ/JclRUpPaH17Oi3f2nvLqY8RsPA561TBs=;om99eAKi8KIMHK1RmelD5g=="
+secured: "LTS0sR3emmNF8SRAsrkZmjc8j9JjqfBiROLvAb9Ege4bZHJ6vDSlm4cbM1VEY2NQFXezpCLangol/qzyYGT1lVjNE7hOPWTj9L29eWUt02E27DZs+cQU691MvlXZ+GUvogSgAJjsHabm4+QyIzLW1NfDZZ3LJTkQfS44JTRNFKVjJohUACTtQLkUjG3KJGqW2ZE6mVHyx3UdOyoezVKJa76hxfAopTYeU5Y9ra63Kfno3UDjUv1fGTUiw1DpWWQTXDgIhIkWaezjZ9q8eFZ7kPp/g8cvjB7/QTHmWf3X3whIZlGTFJC+qJ3k7LGAafhcUwD+nKaqV9ENb3P0lsFnuLUiaAxXZBKP08AhFO7BTnU=;omxANBcOs8H9sBM1oPLPFA=="
 ---
 

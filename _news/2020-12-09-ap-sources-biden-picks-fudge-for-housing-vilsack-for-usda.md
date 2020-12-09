@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden picks California Atty. Gen. Becerra for Health and Human Services secretary"
-excerpt: "President-elect Joe Biden has selected California Atty. Gen. Xavier Becerra to be his Health and Human Services secretary."
-publishedDateTime: 2020-12-06T23:54:00Z
-originalUrl: "https://www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary"
-webUrl: "https://www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary"
-ampWebUrl: "https://www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary?_amp=true"
+title: "AP sources: Biden picks Fudge for housing, Vilsack for USDA"
+excerpt: "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration"
+publishedDateTime: 2020-12-09T05:56:00Z
+originalUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda/2020/12/08/57c1cfc8-39b9-11eb-aad9-8959227280c4_story.html"
+webUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda/2020/12/08/57c1cfc8-39b9-11eb-aad9-8959227280c4_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda/2020/12/08/57c1cfc8-39b9-11eb-aad9-8959227280c4_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda/2020/12/08/57c1cfc8-39b9-11eb-aad9-8959227280c4_story.html?outputType=amp"
 type: article
-quality: 120
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/44efb7f/2147483647/strip/true/crop/6271x4096+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2Ff5%2F3007e50448f8b7e5ae317a32c9ed%2Fla-photos-1staff-642253-me-1030-pol-ca-newsom-17-cmc.jpg"
-    width: 320
-    height: 209
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "AP sources: Biden picks Fudge for housing, Vilsack for USDA"
-    excerpt: "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration"
-    publishedDateTime: 2020-12-09T05:56:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda/2020/12/08/57c1cfc8-39b9-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda/2020/12/08/57c1cfc8-39b9-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda/2020/12/08/57c1cfc8-39b9-11eb-aad9-8959227280c4_story.html?outputType=amp"
+  - title: "Biden picks California Atty. Gen. Becerra for Health and Human Services secretary"
+    excerpt: "President-elect Joe Biden has selected California Atty. Gen. Xavier Becerra to be his Health and Human Services secretary."
+    publishedDateTime: 2020-12-06T23:54:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-06/joe-biden-xavier-becerra-health-and-human-services-secretary?_amp=true"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/44efb7f/2147483647/strip/true/crop/6271x4096+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2Ff5%2F3007e50448f8b7e5ae317a32c9ed%2Fla-photos-1staff-642253-me-1030-pol-ca-newsom-17-cmc.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Biden: Latest jobs report 'dire'"
     excerpt: "President-elect Joe Biden says that the most recent jobs report is \"dire\" and that there is no time to lose in crafting a rescue package as millions of people have lost their jobs or have seen their incomes slashed during the pandemic."
@@ -89,6 +89,6 @@ related:
       domain: businessinsider.com
     quality: 105
 
-secured: "Fsy95DcjtOAl7ZQsth3DVGCp78p82VEQWlM73vi+uFJ51rQohakb+5SD4qF6NhDkjkB0nyYXNiA0yo4K8LmWX3SrBDRN6KhE2wfXVFJuFq68XCxj1KDBgOjv2oDo9dFwiP9N7VyPBWZ2brjm0TiMZ5Y3HvryNe4flcKVRfN18uPWy/GEwUnABr8HC0NXch7BG5Jy79cM9xCQH8lqU/XF0R3CK28JN919SA6+uE2m/L+irA5d6+DzHLx3QjL+MUqiSeTp/QqSYNMuuv9rxSwnN9RLyzliD1qLIW28rUXd9yhHFsKtQlWhjWiqWnik7Wn9s1bB49Phgxfvkih61lVIyKO7ifJfw3d8N/yszHokZUXlVB07ejyENqAEKNh6WnrUXd4tPFxWaAnPtXErjwo1NOwn2v6Jq3Qh8H9haRbuqiFfPCRbtuqbemQhFgau4r7UyNxq0NSUEzzwo07/w6IB1EagwEEFCglwdS02HjyQwREkETgzz3G4Hwhx39tgrpH2yQriWJsYEb+8gpeg6/MW4w==;UDrfhUnBYxHPyb4mJaaqQQ=="
+secured: "i8MgSgxLRrVRhLVFkmIJPSldro1aVev+JN5wMIKdFWP+mZG4NXczo+39C5H8pDmAf4tQVhNZ8hXFAul6qot+jVua3evWp2sR+SY5kMc14na1v3lrf7dHDPer2ndfT1mMpifI9QJfs6GE3UHApo2dtN+2mrjHOJ41I9q9yN0PmLhUnf+CfrS/QnFg+3Kvhi0rAk08xeTId7+lgELU4v9u57BENeUGk9EM7sv4OWKNVkY589AjjdS8dybzywU8YnS9UgNPdH1ZCBvMQFM8pcEA0F62/c1IzAGe2nGhwfkJmXEWek338MXI1IDkCQI0DVwtLCVKPej2SRZHnpzzzKcPKaVOfSNyHhlakCmjr6UY5yg=;4rCuZ3H6tq+z7SNw2Rm7cA=="
 ---
 

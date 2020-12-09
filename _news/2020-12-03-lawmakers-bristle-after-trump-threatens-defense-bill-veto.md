@@ -1299,8 +1299,8 @@ related:
         isCached: true
   - title: "Texas AG asks Supreme Court to overturn Trump's losses in key states. Don't hold your breath."
     excerpt: "Five weeks after Election Day and with states locking down electoral votes, Texas attorney general Ken Paxton has asked the high court to step in."
-    publishedDateTime: 2020-12-09T00:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/supreme-court-unlikely-help-donald-trumps-allies-overturn-election/6492261002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    publishedDateTime: 2020-12-09T06:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/supreme-court-unlikely-help-donald-trumps-allies-overturn-election/6492261002/"
     ampWebUrl: "https://amp.usatoday.com/amp/6492261002"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6492261002"
     type: article

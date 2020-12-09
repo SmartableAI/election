@@ -2,9 +2,9 @@
 category: news
 title: "Texas AG asks Supreme Court to overturn Trump's losses in key states. Don't hold your breath."
 excerpt: "Five weeks after Election Day and with states locking down electoral votes, Texas attorney general Ken Paxton has asked the high court to step in."
-publishedDateTime: 2020-12-09T00:09:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/supreme-court-unlikely-help-donald-trumps-allies-overturn-election/6492261002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/supreme-court-unlikely-help-donald-trumps-allies-overturn-election/6492261002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+publishedDateTime: 2020-12-09T06:17:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/supreme-court-unlikely-help-donald-trumps-allies-overturn-election/6492261002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/supreme-court-unlikely-help-donald-trumps-allies-overturn-election/6492261002/"
 ampWebUrl: "https://amp.usatoday.com/amp/6492261002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6492261002"
 type: article
@@ -1624,6 +1624,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "40KV7E27p5sdEIV8A+riRPjf07XkpWuIAaH6pc3rgj5wrLk5MncTsJK0UMoFjPxgk2nX38zk38mPRX24w7xxtVaoV0nFDGWaKzHaMYIO65C7x/I9dM0o9MKkYD+RKT6M04eUdjgXiq4geqvH0wyH1W+UsqgWTcimKj2k7upIeuC3S9HT3d2uERTAMXaiuDOJ40OBU4VuPb1o6Di6mQrGrZR/XvcOICBiXYwmj1unQ3//vT9fx4QotG19uDb9KhNfoBcXQFgRLlZ2qOt2eKB2RmVw6QPxTk+K6XLyOo4dHAH7mEwpW/UvC5jgdEwFzeMkWTFixz3g1xKyIdvGv9KYwr1h3ky4Xac7Q0wiAKEBd7V4ZAGsriB5Bfxf7nefyJy023h21zAn1ldk0yDpWr6SEjrCF+rI8f/zu32lmJ7+wxaeBSL2VFqifx2iWdLl19yO+DSkbYC/imLhw0WiS7zMUDE0193M5ettTiL2M3Xhp0Ni8ESFcFMtBn08qKoezmzRPi9ydr3PhSHC3KyZ0sGLYw==;A5JRN0Qu3tVfBQcg55+O8Q=="
+secured: "+VOMbk0tro9q5VTH9+zNTRKV+KylQsg9/X/iyd4W+RHEQ6dEDuK5OyIhrUp/uKISo4+4657pscpJ1WmWBapDqFHeqfY92Doy0rA+fk3DOa2Qsik3GcpHXlTOPhUWSexmw7+XBeOSbB3I95xqS1jay6mQ7Hvt4evkMuNstdscpkx+2ipYpqlzmRSmQi0yYMm5MS4I4H1nfMIGaL0AegJpu/EEYpeW+pAvxPGqy9T64Zus73OCR90t74Xn8VzCnkKjCmGXifFBZvYuDKL13FKBhM0dMvgDc0CmRaB6nMxBc9leePRmCg63Pkne52KIf8OSZpNzAdc+cbhruBwPqQUWBSKhT/uP6rMXVS3T04au8kk=;N/nYWe2dx4ZaJEXyb/oMIA=="
 ---
 

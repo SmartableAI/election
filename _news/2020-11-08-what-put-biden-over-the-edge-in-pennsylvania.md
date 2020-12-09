@@ -61,10 +61,26 @@ related:
         width: 846
         height: 545
         isCached: true
+  - title: "Supreme Court rejects GOP bid to overturn Biden's victory in Pennsylvania"
+    excerpt: "The high court spurned a request from Republican allies of President Trump to decertify Pennsylvania's election results."
+    publishedDateTime: 2020-12-09T01:44:00Z
+    webUrl: "https://www.cbsnews.com/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/01/80c61613-2c50-466e-8bc0-c94e04340f94/thumbnail/1200x630/599c98122454d59cc8ef7b92437607ff/gettyimages-1223641796.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. Supreme Court rejects Republican challenge to Biden's Pennsylvania win"
     excerpt: "The U.S. Supreme Court on Tuesday handed a defeat to Republicans seeking to throw out up to 2.5 million mail-in ballots in Pennsylvania as they try to undo President Donald Trump's election loss, with the justices refusing to block the state from formalizing"
     publishedDateTime: 2020-12-09T02:56:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28I35L"
+    webUrl: "https://www.reuters.com/article/usa-election-court-pennsylvania/u-s-supreme-court-rejects-republican-challenge-to-bidens-pennsylvania-win-idUSKBN28I35L"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I35L"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I35L"
     type: article

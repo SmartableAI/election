@@ -3,8 +3,8 @@ category: news
 title: "U.S. Supreme Court rejects Republican challenge to Biden's Pennsylvania win"
 excerpt: "The U.S. Supreme Court on Tuesday handed a defeat to Republicans seeking to throw out up to 2.5 million mail-in ballots in Pennsylvania as they try to undo President Donald Trump's election loss, with the justices refusing to block the state from formalizing"
 publishedDateTime: 2020-12-09T02:56:00Z
-originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28I35L"
-webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28I35L"
+originalUrl: "https://www.reuters.com/article/usa-election-court-pennsylvania/u-s-supreme-court-rejects-republican-challenge-to-bidens-pennsylvania-win-idUSKBN28I35L"
+webUrl: "https://www.reuters.com/article/usa-election-court-pennsylvania/u-s-supreme-court-rejects-republican-challenge-to-bidens-pennsylvania-win-idUSKBN28I35L"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I35L"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I35L"
 type: article
@@ -62,6 +62,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540229634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50K9"
         width: 846
         height: 545
+        isCached: true
+  - title: "Supreme Court rejects GOP bid to overturn Biden's victory in Pennsylvania"
+    excerpt: "The high court spurned a request from Republican allies of President Trump to decertify Pennsylvania's election results."
+    publishedDateTime: 2020-12-09T01:44:00Z
+    webUrl: "https://www.cbsnews.com/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/01/80c61613-2c50-466e-8bc0-c94e04340f94/thumbnail/1200x630/599c98122454d59cc8ef7b92437607ff/gettyimages-1223641796.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The Supreme Court has rejected Republicans' request to overturn Biden's Pennsylvania win"
     excerpt: "The case was brought by a group of Republican state legislators in Pennsylvania and is another stinging defeat for the Trump campaign."
@@ -168,6 +184,6 @@ related:
         height: 600
         isCached: true
 
-secured: "+fooNxUQSXd4kIjoF4rP5CABvAn+OtkHRfouBbU6YCLb+mHMcrY/H3rWa6HD7X6PVEKVKDRnzpeyhUMc5k3oCSDRf/W9lP3fWaLcsCDRAYjxZDRYHPKivjePZ8hXpC7pviFGIWrvwVwfOc/JFLxjoliko8PMfe1+PQ0oI/Kw/vKLn3og+rHUgTEaFsSqNGpU7eCROqHBs8D9A6zTdI44X9nPOgyp77Cf62S3zENjoibOqZHf1fOJ71uh/JHQE0cILFMwQ6TG8eqTiGLUMApuxiQ7RX272gSU1F/BApdW0NMLfBKQDemQNCuHcpyNnG8Xhx3UIe7lTUAyttFoGsuHKDFIEkju6vQbrRtqTMNeZ04=;H80iPw2jOK5GwgpWawCKbw=="
+secured: "Hil+fPLCTs2uFph6H2SXB7DGy2dv19vZXgF6OHVDA0Us6kBTdoMX6FhbycaPstQX/Cp05KVlAqcakq8UlO+xsyyfTdqYDW3z5p4gXnBzNnwIEy634Ha1YI687K2PaesN1Jj47AAaYLsUbR08mAccc0YsQIG9VGxGyUQoGCuL+6HC7FMSn9IWU8As77/KO2JJcyGPO5eADBG6/5ppXvj+JaQGYbO9p8QICH6Ia21TayZZFX33mkF7fbheSadvM8xMiV7o4f1dHnhdNGZTtynaUisGKuv83ZmAJlCgV9zuH1PLybVKTYlWpbIxiVVk0Ec2CKpuvGLobblo1klOuF/xOI3fRNB7zCJjaLS71orHDDM=;fnFDvkRC53ZfPhtsVAgvJg=="
 ---
 
