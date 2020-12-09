@@ -3,8 +3,8 @@ category: news
 title: "U.S. Supreme Court rejects Republican challenge to Biden's Pennsylvania win"
 excerpt: "The U.S. Supreme Court on Tuesday handed a defeat to Republicans seeking to throw out up to 2.5 million mail-in ballots in Pennsylvania as they try to undo President Donald Trump's election loss, with the justices refusing to block the state from formalizing"
 publishedDateTime: 2020-12-08T22:24:00Z
-originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28I35L"
-webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28I35L"
+originalUrl: "https://www.reuters.com/article/usa-election-court-pennsylvania/u-s-supreme-court-rejects-republican-challenge-to-bidens-pennsylvania-win-idUSKBN28I35L"
+webUrl: "https://www.reuters.com/article/usa-election-court-pennsylvania/u-s-supreme-court-rejects-republican-challenge-to-bidens-pennsylvania-win-idUSKBN28I35L"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I35L"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I35L"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543876782&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71T6"
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543886187&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71T6"
     width: 828
     height: 545
     isCached: true
@@ -62,6 +62,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540229634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50K9"
         width: 846
         height: 545
+        isCached: true
+  - title: "The Supreme Court has rejected Republicans' request to overturn Biden's Pennsylvania win"
+    excerpt: "The case was brought by a group of Republican state legislators in Pennsylvania and is another stinging defeat for the Trump campaign."
+    publishedDateTime: 2020-12-08T21:55:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Computer repairman who claimed he gave Hunter Biden data to Giuliani closes shop as laptop saga gets stranger"
     excerpt: "Computer repairman John Paul Mac Isaac, who gave a copy of the laptop to Rudy Giuliani, shuttered his Delaware store and a neighbor said he left town."
@@ -152,6 +168,6 @@ related:
         height: 600
         isCached: true
 
-secured: "/2xTrmojboezTew7x/o5NpO+dHKtUPt2ifs/oD0JnsREh0pNoGKDP5NrDdlih28f2SD9U9vVSSysk5XVYNUkbdDRiADM6dqS7QG2fY4FqL6lGopL45xWRa9OOxs+hFEvrt3nkQVWfv0X3SiaK6+aIZepA5SlJ2EC1auEOIOhIKurkpB3fkwnosMF684kjVVal7PohB6jmTJBnayqW3Sl6ckHp/D9o7DUo/W5/+bJbGi1G+Shc57R1vhRNfxcrZdodiAJ3zrZS/n10LhmozSqZysnHQKPtKXOp8m2cC9ynplWTSMEFA0DNNRc/TX4yDJhHAFceDrmk+BD+og6W0kLjfqCcE40ijj2CgV7R5b4cpE=;krTfSzLIXmHdrs3W0Xl75w=="
+secured: "X7TPQZINnHUbmZeGCtxEhfHRqGDZxpH5Mgxt7nHasAJQltue086/gzJHwrzz6d4hpEJ8UKEDSkuGER7am5jemUPAaVinpZOoM8UFr4qncaCuPh1KcIV4DvEXzEgpvNhD3LydaX734HZuxVVhsKD0ECiiD2+Cohcs32/JgxvBqb/XUvwg+ZGLb/XYZbYCvodOcuNJjfYAsGkg4BwArM7d4vMjVztDMMFgs5+ckiZuX4lltDNY5U5xxl0iDo6vX7SBRQzeFN1VsjN9AKsZ+KDY3POPEMZLNeyJoZtHvoLLxZ3NK8oo4qLCOgIs/rZ0NvvzMMg6QjQpuwEai93e0bsp+pqNz5QE7BHyJQEzpOof0r8=;60TGSyQRcIjWDH/aYsGurQ=="
 ---
 

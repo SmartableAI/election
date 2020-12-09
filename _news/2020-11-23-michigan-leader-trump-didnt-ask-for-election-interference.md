@@ -79,22 +79,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Armed pro-Trump protesters gather outside Michigan elections chief's home"
-    excerpt: "Jocelyn Benson says gathering in which bogus claims were made about electoral fraud was ‘unambiguous, loud and threatening’"
-    publishedDateTime: 2020-12-07T14:45:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/dec/07/michigan-elections-chief-trump-protesters"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/07/michigan-elections-chief-trump-protesters"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/07/michigan-elections-chief-trump-protesters"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 139
-    images:
-      - url: "https://i.guim.co.uk/img/media/dfb8f654743b4f3dfad7866c4af5eb49173d3fb9/166_0_4392_2636/master/4392.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=adc0a20bd9d2e89caf8d4e5ad6b320fe"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Donor to pro-Trump group sues to get his money back after dropped election lawsuits"
     excerpt: "Fred Eshelman, who gave $2.5 million to the group True the Vote to back President Trump's challenges to the election, is suing for his money back."
     publishedDateTime: 2020-11-27T22:50:00Z

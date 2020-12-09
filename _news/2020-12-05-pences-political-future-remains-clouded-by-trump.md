@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html"
 type: article
 quality: 200
-heat: 2080
+heat: 2100
 published: true
 
 provider:
@@ -1183,6 +1183,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/07/us/politics/07DC-virus-pfizer1/07DC-virus-pfizer1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "As Trump Rails Against Loss, His Supporters Become More Threatening"
+    excerpt: "The president’s baseless claims of voting fraud have prompted outrage among his loyalists and led to behavior that Democrats and even some Republicans say has become dangerous."
+    publishedDateTime: 2020-12-09T00:09:00Z
+    webUrl: "https://www.nytimes.com/2020/12/08/us/politics/trump-election-challenges.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/08/us/politics/trump-election-challenges.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/us/politics/trump-election-challenges.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/08/us/politics/08elections1/08elections1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump lawyer who attended White House party tests positive for Covid"
     excerpt: "Jenna Ellis, who has worked alongside Rudy Giuliani on behalf of the Trump campaign to file lawsuits in battleground states, has tested positive for Covid-19."

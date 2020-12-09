@@ -66,7 +66,7 @@ related:
   - title: "U.S. Supreme Court rejects Republican challenge to Biden's Pennsylvania win"
     excerpt: "The U.S. Supreme Court on Tuesday handed a defeat to Republicans seeking to throw out up to 2.5 million mail-in ballots in Pennsylvania as they try to undo President Donald Trump's election loss, with the justices refusing to block the state from formalizing"
     publishedDateTime: 2020-12-08T22:24:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28I35L"
+    webUrl: "https://www.reuters.com/article/usa-election-court-pennsylvania/u-s-supreme-court-rejects-republican-challenge-to-bidens-pennsylvania-win-idUSKBN28I35L"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I35L"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I35L"
     type: article
@@ -75,9 +75,25 @@ related:
       domain: reuters.com
     quality: 123
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543876782&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71T6"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543886187&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71T6"
         width: 828
         height: 545
+        isCached: true
+  - title: "The Supreme Court has rejected Republicans' request to overturn Biden's Pennsylvania win"
+    excerpt: "The case was brought by a group of Republican state legislators in Pennsylvania and is another stinging defeat for the Trump campaign."
+    publishedDateTime: 2020-12-08T21:55:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-rejects-gops-request-to-overturn-biden-pennsylvania-win-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Computer repairman who claimed he gave Hunter Biden data to Giuliani closes shop as laptop saga gets stranger"
     excerpt: "Computer repairman John Paul Mac Isaac, who gave a copy of the laptop to Rudy Giuliani, shuttered his Delaware store and a neighbor said he left town."

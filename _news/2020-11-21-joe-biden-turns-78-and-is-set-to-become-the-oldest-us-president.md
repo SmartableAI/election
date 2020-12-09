@@ -141,22 +141,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Georgia recertifies presidential election results after recount requested by Trump affirms Biden’s win in the state"
-    excerpt: "Georgia’s top elections official on Monday recertified the state’s election results after a recount requested by President Donald Trump confirmed once again that Democrat Joe Biden won the state, his office said."
-    publishedDateTime: 2020-12-07T19:40:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-georgia-election-results-20201207-pieowvgv7rhr3o4egu2htcll6u-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-georgia-election-results-20201207-pieowvgv7rhr3o4egu2htcll6u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-georgia-election-results-20201207-pieowvgv7rhr3o4egu2htcll6u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 133
-    images:
-      - url: "https://www.chicagotribune.com/resizer/modDM5yZFO4SAyqKhpBEiQpzdhQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/M4ATQO5KE3KZ5LEK2KRYAKWIW4.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Is Joe Biden's win a turning point in a hard year of bad news?"
     excerpt: "I usually expect the worst, but this US election feels like a light at the end of the tunnel"
     publishedDateTime: 2020-11-14T08:00:00Z

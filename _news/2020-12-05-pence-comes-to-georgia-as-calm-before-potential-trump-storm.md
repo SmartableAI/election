@@ -47,70 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Georgia elections official urges Trump to rein in supporters"
-    excerpt: "A top Georgia elections official has lashed out angrily at the rhetoric surrounding the election and the threats of violence that have resulted"
-    publishedDateTime: 2020-12-02T05:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-elections-official-urges-trump-rein-supporters-74491718"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_6e0a5a420e1b4c56b67c628a7422ff94_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Power Up: Trump, Pence head to Georgia as election fraud claims risk depressing Senate runoff turnout"
-    excerpt: "They'll rally voters in the Peach State ahead of two Senate runoff races that will decide which party controls the chamber for the next two years. Their approach will be especially critical after pro-Trump attorneys Lin Wood and Sidney Powell urged Georgians not to cast ballots unless state leaders fight to overturn the results of the November presidential election results that clinched the state for Joe Biden."
-    publishedDateTime: 2020-12-04T11:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/power-up-trump-pence-head-georgia-election-fraud-claims-risk-depressing-senate-runoff-turnout/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/power-up-trump-pence-head-georgia-election-fraud-claims-risk-depressing-senate-runoff-turnout/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/power-up-trump-pence-head-georgia-election-fraud-claims-risk-depressing-senate-runoff-turnout/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GKLNBBBPMYI6XHOWFUAXTGAXDE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump inciting violence, warns Georgia election official"
-    excerpt: "An election official in the US state of Georgia has said President Trump will bear responsibility for any violence that results from unsubstantiated election fraud claims he has stoked. \"It's all gone too far,"
-    publishedDateTime: 2020-12-05T04:58:00Z
-    webUrl: "https://www.bbc.com/news/election-us-2020-55153918?fbclid=IwAR2fD8Zl3UORWlMMq0z0jVZX5VnHJsb-X6-yQLe0fWco9gZb48qtRF2_0dM"
-    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55153918"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55153918"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 140
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/53A8/production/_115761412_gettyimages-1229491924.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Georgia GOP Sen. Loeffler again refuses to say Trump lost the election"
-    excerpt: "Republican Sen. Kelly Loeffler blasts Democratic challenger Raphael Warnock as a radical while continuing to deny President Trump lost the election."
-    publishedDateTime: 2020-12-07T16:59:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-07/georgia-gop-senator-kelly-loeffler-again-refuses-trump-lost"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-07/georgia-gop-senator-kelly-loeffler-again-refuses-trump-lost?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-07/georgia-gop-senator-kelly-loeffler-again-refuses-trump-lost?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 140
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/33a62ac/2147483647/strip/true/crop/1938x1266+45+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff9%2F81%2Faff9d3454ce88a408f7bbac0eca1%2Fla-photos-1staff-656071-perdue-loeffler-rally-jja-01.jpg"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Trump campaign files election lawsuit in Georgia, suffers more legal defeats"
     excerpt: "Donald Trump's campaign said it filed a lawsuit in Georgia state court on Friday seeking to invalidate the presidential election results there, the latest in a series of legal challenges aimed at reversing his loss that have so far gone nowhere."
     publishedDateTime: 2020-12-05T09:48:00Z
@@ -158,38 +94,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543537204&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB407O"
         width: 817
         height: 545
-        isCached: true
-  - title: "Trump mounts another legal challenge to election, asking Georgia for a do-over"
-    excerpt: "President Donald Trump filed a new lawsuit in Georgia Friday afternoon contesting the results of the election and requesting a do-over in his latest long-shot legal bid."
-    publishedDateTime: 2020-12-05T05:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 136
-    images:
-      - url: "https://s.abcnews.com/images/Politics/donald-trump-election-georgia-01-rt-llr-201204_1607128269526_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "The Arizona GOP asks supporters if they're willing to die to overturn Trump's election loss"
-    excerpt: "\"Live a life of service to a cause greater than yourself,\" the Arizona Republican Party tweeted on Tuesday."
-    publishedDateTime: 2020-12-08T19:44:00Z
-    webUrl: "https://www.businessinsider.com/arizona-gop-tweet-asks-if-supporters-would-die-overturn-election-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/arizona-gop-tweet-asks-if-supporters-would-die-overturn-election-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-gop-tweet-asks-if-supporters-would-die-overturn-election-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 130
-    images:
-      - url: "https://i.insider.com/5fcfc226cee0cf00114fa2d3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Vice President Pence remains silent on election outcome while campaigning for Georgia runoff"
     excerpt: "Pence will rally Republicans to vote for Georgia Sens. David Perdue and Kelly Loeffler in the Jan. 5 election."
@@ -351,22 +255,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "GOP White House hopefuls wait to see what Trump does next"
-    excerpt: "Donald Trump's increasingly direct flirtations with running for president four years from now are putting a freeze on the rest of the potential 2024 Republican field"
-    publishedDateTime: 2020-12-06T14:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-white-house-hopefuls-wait-trump-74568214"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_128395a5a3fa4f5fa8955dd591bc5d74_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "The Latest: Trump falsely claims he won Georgia"
     excerpt: "President Donald Trump kicked off his Saturday night rally in Georgia for Republican Sens. Kelly Loeffler and David Perdue by recycling the falsehood that he won the state"
     publishedDateTime: 2020-12-06T00:41:00Z
@@ -382,22 +270,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Trump presses Georgia governor to overturn presidential vote result"
-    excerpt: "President Trump has fruitlessly pressed Georgia’s governor to call a special legislative session aimed at overturning presidential election results."
-    publishedDateTime: 2020-12-06T00:09:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-05/the-latest-trump-presses-ga-gov-to-overturn-vote-result"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-05/the-latest-trump-presses-ga-gov-to-overturn-vote-result?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-05/the-latest-trump-presses-ga-gov-to-overturn-vote-result?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/08815ee/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5d%2F77%2F9490d32745948290aad90a77213d%2Fbiden-95025.jpg"
-        width: 320
-        height: 209
         isCached: true
   - title: "In Georgia, Loeffler again refuses to say Trump lost"
     excerpt: "Republican Sen. Kelly Loeffler's is blasting her Democratic challenger Raphael Warnock as a radical while she also continues to deny that President Donald Trump lost his re-election attempt"
@@ -462,22 +334,6 @@ related:
       - url: "https://i.insider.com/5fc364fd50e71a0011557d50?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump urges Georgia governor to call special session of state legislature"
-    excerpt: "U.S. President Donald Trump on Saturday called on Georgia Governor Brian Kemp to hold a special session of the state legislature over election results there."
-    publishedDateTime: 2020-12-05T22:26:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-trump-idAFKBN28F0V7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN28F0V7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN28F0V7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543566578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB40L4"
-        width: 817
-        height: 545
         isCached: true
   - title: "GOP congressman wants to condemn colleagues who call on Trump to concede"
     excerpt: "Rep. Alex Mooney (R-W.Va.) proposed the resolution during a House Republican Conference Tuesday, reflecting the GOP fealty to the lame-duck president."
@@ -591,38 +447,6 @@ related:
         width: 663
         height: 545
         isCached: true
-  - title: "Live politics updates: Biden plans to campaign in Georgia for Senate candidates"
-    excerpt: "President-elect Joe Biden said he would campaign in Georgia, where two Senate runoff races could determine if Republicans retain control of the Senate"
-    publishedDateTime: 2020-12-04T23:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/04/presidential-transition-politics-updates-joe-biden-donald-trump/3818578001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3818578001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3818578001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/9fac5866-b3ae-48b6-a692-862b958b0386-AP20339752338738.jpg?auto=webp&crop=5626,3165,x0,y318&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Live politics updates: Court rejects pro-Trump attorney Wood's appeal to stop Georgia election certification"
-    excerpt: "Federal appeals court rejects lawsuit seeking to stop Georgia certification; staffer to Sen. Loeffler dies in car crash – politics updates."
-    publishedDateTime: 2020-12-06T14:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/06/politics-updates-donald-trump-joe-biden-election-transition-georgia/3847789001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3847789001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3847789001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/47a7fd47-bb7a-4ae2-8aaa-c870c2399cc5-AP_Election_2020_Georgia_1.jpg?auto=webp&crop=5471,3077,x0,y82&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Mike Pence campaigns in Georgia for Senate runoff elections"
     excerpt: "Vice President Mike Pence is campaigning in Georgia ahead of the two Senate runoff elections there in January. CBS News campaign reporter LaCrai Mitchell joined CBSN with details on that and the outcome of the recount in Georgia."
     publishedDateTime: 2020-11-21T01:15:00Z
@@ -652,34 +476,6 @@ related:
       - url: "https://i.insider.com/5fccf3b9037cbd00186141f7?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump makes false claims about election results at Georgia rally"
-    excerpt: "President Trump visited Georgia to campaign for two Republican Senate candidates, but used the rally to complain and repeat false claims about the presidential election. Chip Reid reports."
-    publishedDateTime: 2020-12-07T00:05:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-makes-false-claims-about-election-results-at-georgia-rally/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/06/48ff8c01-9b6e-402e-82be-f23532f545ad/thumbnail/1200x630/ae25ba5520ef4e579278b166a5617af3/1206-wn-reid-602626-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump election lawsuits in Georgia and Michigan rejected"
-    excerpt: "The Trump campaign is running out of time and legal avenues in their attempt to fight the results of the 2020 election in court. CBS News correspondent Nikole Killion, CBSN political reporter Caitlin Huey-Burns,"
-    publishedDateTime: 2020-12-08T00:33:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-election-lawsuits-in-georgia-and-michigan-rejected/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/2ee70264-b490-4add-af40-c2de2395f65f/thumbnail/1200x630/275a195f0e349e6b4c0460d5625be110/1207-rb-kdn-kdp-603523-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Trump keeps up false claims of widespread fraud at Georgia rally for U.S. senators"
     excerpt: "U.S. President Donald Trump campaigned in Georgia on Saturday for two Republican senators at a rally that some in his party feared could end up hurting, not helping, their chances by focusing on his efforts to reverse his own election defeat."
@@ -776,20 +572,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/581fdba872020aee7bff332eeb9a68fceaf5dba0/c=0-187-1600-1087/local/-/media/2020/12/02/USATODAY/usatsports/B9342396546Z.1_20201202054812_000_GJ1RQO70N.2-0.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Georgia lieutenant governor on President Trump's attempts to overturn election results"
-    excerpt: "President Trump is pressuring Georgia's governor to persuade the state's legislature to overturn President-elect Joe Biden's victory. Georgia Lieutenant Governor Geoff Duncan joined \"CBS This Morning\" to discuss the pressure campaign and the upcoming runoff elections for the state's Senate seats."
-    publishedDateTime: 2020-12-07T16:25:00Z
-    webUrl: "https://www.cbsnews.com/video/georgia-lieutenant-governor-on-president-trumps-attempts-to-overturn-election-results/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/07/de8791be-ab03-43ed-8b42-7c145af54a74/thumbnail/1200x630/ec913cd82cda24b6d22ec8520b304f3c/cbsn-fusion-georgia-lieutenant-governor-on-president-trumps-attempts-to-overturn-election-results-thumbnail-602796-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Trump loyalist Loeffler's attacks on pastor Warnock risk suburban votes in Georgia's U.S. Senate race"
     excerpt: "Beau Davis, a 33-year-old security specialist from the Atlanta suburbs, is the kind of voter Republican Senators Kelly Loeffler and David Perdue may need to win runoff elections next month that will determine the balance of power in Washington."
@@ -897,20 +679,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Trump refuses to fade away"
-    excerpt: "In terms of law or conventional politics, Trump's post-election gambits make little sense. But judging them that way misses the point."
-    publishedDateTime: 2020-12-04T16:04:00Z
-    webUrl: "https://www.latimes.com/politics/newsletter/2020-12-04/trump-refuses-to-fade-away-essential-politics"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 105
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/df03110/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2Fe1%2Fd62ca55b476e916665f439fbff41%2Ftrump-26539.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump voter fraud claims impact Georgia run-offs"
     excerpt: "President Donald Trump's baseless claims of voter fraud will either help or hurt Republicans effort to retain the U.S. Senate, as the president visits Georgia to drum up support for two GOP re-election campaigns."
     publishedDateTime: 2020-12-04T19:38:00Z
@@ -952,31 +720,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201206&i=OVD7VJL5R&r=OVD7VJL5R&t=2"
         width: 960
         height: 540
-        isCached: true
-  - title: "GOP White House hopefuls wait to see what Trump does next"
-    excerpt: "When a party loses the White House, a new crop of presidential hopefuls typically begin moving quickly to lay the groundwork for a run in the next campaign."
-    publishedDateTime: 2020-12-07T03:03:00Z
-    webUrl: "https://www.businessinsider.com/gop-white-house-hopefuls-wait-to-see-what-trump-does-next-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/gop-white-house-hopefuls-wait-to-see-what-trump-does-next-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-white-house-hopefuls-wait-to-see-what-trump-does-next-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump travels to Georgia to campaign ahead of Senate runoff"
-    excerpt: "President Trump will host a rally Saturday in Georgia for the two Republican Senate candidates in the state's January runoff. His involvement on the campaign trail comes after the Washington Post reports Mr."
-    publishedDateTime: 2020-12-06T20:06:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-visits-georgia-to-rally-support-for-gop-ahead-of-senate-runoff/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/05/83d9f131-87b6-46d6-99fa-55fdb6be3d0d/thumbnail/1200x630/ed8ed65f64f18ed2b0f30f75dfcec66c/cbsn-fusion-pres-trump-visits-georgia-to-rally-support-for-gop-ahead-of-senate-runoff-thumbnail-602167-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Trump roils Georgia GOP as party waits to see if presidential visit helps — or hurts — in crucial Senate runoffs"
     excerpt: "The president’s baseless claims of fraud in the November elections have sparked a Republican civil war in the state, where voters will return to the polls on Jan. 5 in a pair of races that will determine control of the U."
@@ -1035,20 +778,6 @@ related:
     quality: 101
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/28/fd2cd95e-564f-447c-adb8-9b69b714dec7/thumbnail/1200x630/b7ca1f84f36f2bcfe83b5a597d6062bb/cbsn-fusion-how-president-trumps-unverified-voter-fraud-claims-is-impacting-georgia-runoff-thumbnail-597494-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Local Matters: Georgia's Republican governor rejects Trump's request to call special session to overturn election results"
-    excerpt: "Georgia's Republican Governor Brian Kemp has rejected a request from President Trump to call a special session to overturn the results of the November election. In a statement Sunday, Kemp said Mr. Trump asked him to choose a new slate of presidential electors for when the electoral college casts its official vote next week,"
-    publishedDateTime: 2020-12-08T02:02:00Z
-    webUrl: "https://www.cbsnews.com/video/georgia-republican-governor-rejects-trump-request-to-call-special-session-to-overturn-election-results/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 95
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/70f26f6c-bb5c-47b7-9bce-f8fe5fd26310/thumbnail/1200x630/c0929f2f330b4ce91f553b4858c6a84e/cbsn-fusion-georgias-republican-governor-rejects-presidents-request-to-call-special-session-to-overturn-election-results-thumbnail-603557-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

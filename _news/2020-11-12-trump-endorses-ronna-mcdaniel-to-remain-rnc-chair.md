@@ -79,70 +79,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Trump files lawsuit challenging Wisconsin election results"
-    excerpt: "President Donald Trump has filed a lawsuit in Wisconsin seeking to disqualify more than 221,000 ballots in a longshot attempt to overturn Democrat Joe Biden’s win in the battleground state he lost by nearly 20,"
-    publishedDateTime: 2020-12-03T03:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-files-lawsuit-challenging-wisconsin-election-results-74482066"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-files-lawsuit-challenging-wisconsin-election-results-74482066"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-files-lawsuit-challenging-wisconsin-election-results-74482066"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ecb141ae0fee4d9cb0135cedf36c24f9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Wisconsin high court declines to hear Trump election lawsuit"
-    excerpt: "A divided Wisconsin Supreme Court has refused to hear President Donald Trump’s attempt to overturn his election loss to Democrat Joe Biden in the battleground state"
-    publishedDateTime: 2020-12-04T02:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/wisconsin-high-court-declines-to-hear-trump-election-lawsuit/2020/12/03/ff896c72-35d4-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-high-court-declines-to-hear-trump-election-lawsuit/2020/12/03/ff896c72-35d4-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-high-court-declines-to-hear-trump-election-lawsuit/2020/12/03/ff896c72-35d4-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Wisconsin Supreme Court rebuffs Trump challenge to election results"
-    excerpt: "The Wisconsin Supreme Court on Thursday declined to take up a case by U.S. President Donald Trump's campaign challenging the Nov. 3 presidential election results in the state, the latest in a string of losses the campaign has suffered."
-    publishedDateTime: 2020-12-04T00:40:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-wisconsin-idUKKBN28D33B"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28D33B"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28D33B"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543373293&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21Q6"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Wisconsin Supreme Court rejects Trump's election lawsuit"
-    excerpt: "The action comes two days after Trump asked the justices to revoke the certification of a contest he lost by nearly 21,000 votes."
-    publishedDateTime: 2020-12-03T18:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/03/wisconsin-supreme-court-rejects-president-trumps-election-lawsuit/3811754001/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/3811754001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3811754001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/27/PMJS/f9ab9df3-3150-4d37-97fc-d3f88f643340-trump_10.jpg?auto=webp&crop=4876,2743,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump election campaign asks judge to declare him winner in Pennsylvania"
     excerpt: "President Donald Trump's election campaign on Wednesday asked a judge to declare him the winner in Pennsylvania, saying the state's Republican-controlled legislature should select the electors that will cast votes in the U."
     publishedDateTime: 2020-11-19T09:54:00Z
@@ -158,22 +94,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541708491&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI04B"
         width: 817
         height: 545
-        isCached: true
-  - title: "Trump sues Wisconsin governor, officials to try to reverse election results"
-    excerpt: "President Donald Trump sued Wisconsin officials Tuesday in a last-ditch effort to reclaim a state he lost by about 20,700 votes."
-    publishedDateTime: 2020-12-01T16:47:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/01/donald-trump-sues-try-reverse-bidens-election-win-wisconsin/6477315002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6477315002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6477315002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 138
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/PMJS/a22167b5-40a6-449c-b7d2-471b660b7260-MJS-recount_dirr_1.jpg?auto=webp&crop=1919,1079,x1,y197&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Trump team and Pennsylvania election officials clash in federal court filings"
     excerpt: "Lawyers for President Donald Trump and those representing Pennsylvania election officials clash in federal court filings."
@@ -238,38 +158,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/25/USAT/a4f30290-dae6-438d-bac6-9a31bad382f3-AFP_AFP_8UN26Z.jpg?auto=webp&crop=1023,575,x0,y77&format=pjpg&width=1200"
         width: 1200
         height: 674
-        isCached: true
-  - title: "Trump sues in federal court to put Wisconsin lawmakers in charge of election outcome"
-    excerpt: "President Donald Trump and his allies are bombarding state and federal judges across the country with lawsuits seeking to change the outcome of the presidential election — the latest in a Wisconsin federal court."
-    publishedDateTime: 2020-12-03T18:51:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/03/trump-files-federal-court-challenge-wisconsin-election-outcome/3807794001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3807794001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3807794001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 133
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/099247f3-4412-4f6c-a3f6-0a7a0157d337-TRUMP_KENOSHA_0350.JPG?auto=webp&crop=3899,2194,x0,y139&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Wisconsin Supreme Court denies Trump campaign's attempt to bypass lower court in election challenge"
-    excerpt: "The Trump campaign argued that the state's high court should hear its case directly because presidential electors will soon be casting their votes."
-    publishedDateTime: 2020-12-04T12:44:00Z
-    webUrl: "https://www.cbsnews.com/news/wisconsin-election-supreme-court-denies-trump-campaigns-attempt-to-bypass-lower-court/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/wisconsin-election-supreme-court-denies-trump-campaigns-attempt-to-bypass-lower-court/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/wisconsin-election-supreme-court-denies-trump-campaigns-attempt-to-bypass-lower-court/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 126
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/18/3cd1626f-b991-4594-b14d-1b4021d69ac4/thumbnail/1200x630/fbe26932714625cbed35d0311b8d9f0c/gettyimages-1229523100.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Trump campaign retreats from key claim in Pennsylvania suit"
     excerpt: "President Donald Trump’s campaign is withdrawing a central part of its lawsuit seeking to stop the certification of the election results in Pennsylvania"
@@ -746,22 +634,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ed262a37-92af-4224-a0d3-88b36a331cec-TRUMP_KENOSHA_1048.JPG?auto=webp&crop=3899,2194,x0,y289&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Wisconsin Supreme Court won’t hear Trump election lawsuit, likely dooming state court case seeking to overturn loss"
-    excerpt: "The Wisconsin Supreme Court on Thursday refused to hear President Trump’s lawsuit attempting to overturn his loss to Democrat Joe Biden."
-    publishedDateTime: 2020-12-03T18:42:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-wisconsin-election-lawsuit-20201203-m52xly6g4vhcjjrd7q4qjjyd7e-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-wisconsin-election-lawsuit-20201203-m52xly6g4vhcjjrd7q4qjjyd7e-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-wisconsin-election-lawsuit-20201203-m52xly6g4vhcjjrd7q4qjjyd7e-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 118
-    images:
-      - url: "https://www.chicagotribune.com/resizer/z0S2GxhiyDbWO8LXFjyjwYfJ8uI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YP7M3CIN6QKM3KU4DWPGBXFKIM.jpg"
-        width: 1200
-        height: 801
         isCached: true
   - title: "Trump campaign calls for another Georgia recount as more election lawsuits fail"
     excerpt: "Trump campaign is now asking for a second recount in Georgia after the state certified President-elect Joe Biden as the winner on Friday. The campaign continues to lose election lawsuit challenges in court."

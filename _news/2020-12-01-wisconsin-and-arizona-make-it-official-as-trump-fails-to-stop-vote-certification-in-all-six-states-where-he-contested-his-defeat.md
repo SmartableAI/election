@@ -47,38 +47,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump keeps losing the 2020 election over and over and over"
-    excerpt: "Trump is, of course, saying that he twice won election as president of the United States. That total includes his victory in 2016, a win to which one could certainly append the as"
-    publishedDateTime: 2020-12-08T22:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/08/trump-keeps-losing-2020-election-over-over-over/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/08/trump-keeps-losing-2020-election-over-over-over/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/08/trump-keeps-losing-2020-election-over-over-over/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7A6ZKEBZFMI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 926
-        isCached: true
-  - title: "Trump unveils $207 million fundraising haul since election as he tries to overturn results"
-    excerpt: "President Donald Trump's campaign and the Republican National Committee have raised a combined $207.5 million since Election Day, according to a statement on Thursday, as Trump has sought donations to fund his efforts to overturn Democrat Joe Biden's win in the Nov."
-    publishedDateTime: 2020-12-04T06:39:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-idUSKBN28E012"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E012"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E012"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 130
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543403980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB300L"
-        width: 815
-        height: 545
-        isCached: true
   - title: "Wisconsin governor certifies Biden as winner of state"
     excerpt: "Wisconsin Governor Tony Evers on Monday certified Democrat Joe Biden as the winner of the state's presidential election."
     publishedDateTime: 2020-12-01T06:03:00Z
@@ -127,17 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump tactics to overturn election could have staying power"
-    excerpt: "Even after he exits the White House, President Donald Trump's efforts to challenge the legitimacy of the election and seeking to overturn the will of voters could have staying power."
-    publishedDateTime: 2020-12-07T09:05:00Z
-    webUrl: "https://www.businessinsider.com/trump-tactics-to-overturn-election-could-have-staying-power-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-tactics-to-overturn-election-could-have-staying-power-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tactics-to-overturn-election-could-have-staying-power-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Trump files new case in lawsuit barrage, looking to Wisconsin's legislature to flip outcome"
     excerpt: "President Donald Trump late Wednesday filed a new federal lawsuit contesting the vote in Wisconsin, the latest in a blizzard of suits around the country."
     publishedDateTime: 2020-12-03T07:17:00Z

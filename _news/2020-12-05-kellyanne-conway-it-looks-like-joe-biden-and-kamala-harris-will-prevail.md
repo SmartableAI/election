@@ -76,6 +76,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Gun rights group blast Biden’s HHS pick"
+    excerpt: "Group claims Biden pick signals incoming White House will push firearm ownership as a public health crisis."
+    publishedDateTime: 2020-12-08T23:57:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGl2pM9YapI/gun-rights-group-biden-hhs-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/gun-rights-group-biden-hhs-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gun-rights-group-biden-hhs-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Kennedy predicts 'tough time with confirmation' for Biden HHS pick Becerra"
     excerpt: "President-elect Joe Biden's nomination of California Attorney General Xavier Becerra to be the next health and human services secretary doesn't make sense to Sen. John Kennedy, R-La."
     publishedDateTime: 2020-12-08T21:19:07Z

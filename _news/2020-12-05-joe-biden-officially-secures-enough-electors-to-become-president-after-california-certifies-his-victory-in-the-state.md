@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "AP sources: Biden picks Marcia Fudge for HUD secretary"
+    excerpt: "WASHINGTON — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision. Fudge was first elected to Congress in 2008 to represent a district that includes Cleveland,"
+    publishedDateTime: 2020-12-08T23:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-marcia-fudge-for-hud-secretary/2020/12/08/d4f4a89a-39a9-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-marcia-fudge-for-hud-secretary/2020/12/08/d4f4a89a-39a9-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-picks-marcia-fudge-for-hud-secretary/2020/12/08/d4f4a89a-39a9-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Joe Biden says 'Let's be thankful for democracy' in message of unity – live"
     excerpt: "Biden will speak in Wilmington as US records highest daily Covid deaths since May and 172,935 new cases"
     publishedDateTime: 2020-11-25T20:19:00Z
@@ -187,7 +203,7 @@ related:
   - title: "Biden has chosen congresswoman Fudge for HUD secretary -Politico"
     excerpt: "U.S. President-elect Joe Biden has selected Democratic Representative Marcia Fudge to be secretary of housing and urban development, Politico reported on Tuesday, citing two people with knowledge of the decision."
     publishedDateTime: 2020-12-08T22:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge-idUSW1N2I903A"
+    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge/biden-has-chosen-congresswoman-fudge-for-hud-secretary-politico-idUSW1N2I903A"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2I903A"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2I903A"
     type: article

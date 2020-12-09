@@ -143,22 +143,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Georgia recertifies presidential election results after recount requested by Trump affirms Biden’s win in the state"
-    excerpt: "Georgia’s top elections official on Monday recertified the state’s election results after a recount requested by President Donald Trump confirmed once again that Democrat Joe Biden won the state, his office said."
-    publishedDateTime: 2020-12-07T19:40:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-georgia-election-results-20201207-pieowvgv7rhr3o4egu2htcll6u-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-georgia-election-results-20201207-pieowvgv7rhr3o4egu2htcll6u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-georgia-election-results-20201207-pieowvgv7rhr3o4egu2htcll6u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 133
-    images:
-      - url: "https://www.chicagotribune.com/resizer/modDM5yZFO4SAyqKhpBEiQpzdhQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/M4ATQO5KE3KZ5LEK2KRYAKWIW4.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Biden's beach hideaway has political sun shining on Rehoboth"
     excerpt: "Rehoboth Beach, Delaware, is a resort town that's known known for Atlantic waves that are sometimes surfable, as well as fresh-cut French fries and a mile wooden boardwalk that dates to the 1870s"
     publishedDateTime: 2020-11-15T16:46:00Z

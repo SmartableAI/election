@@ -287,6 +287,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Senate OKs Trump pick for FCC, adding hurdle to Biden plans"
+    excerpt: "The Senate has narrowly approved President Donald Trump’s lame-duck nominee to become a member of the Federal Communications Commission, setting up the agency for a stretch of partisan gridlock likely"
+    publishedDateTime: 2020-12-08T23:30:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/senate-oks-trump-pick-fcc-adding-hurdle-biden-74615368"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-oks-trump-pick-fcc-adding-hurdle-biden-74615368"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-oks-trump-pick-fcc-adding-hurdle-biden-74615368"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
     excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."
     publishedDateTime: 2020-12-01T16:56:00Z
@@ -462,6 +478,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZAI342BSOEI6XFUZADJRD4J5FU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden, Harris to meet with civil rights leaders amid pressure to diversify Cabinet"
+    excerpt: "Elect Joe Biden and Vice President Elect Kamala Harris are set to meet with civil rights leaders today amid a push to diversity their cabinet."
+    publishedDateTime: 2020-12-08T23:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-harris-meet-civil-rights-leaders-amid-pressure/story?id=74605076"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-harris-meet-civil-rights-leaders-amid-pressure/story?id=74605076"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-harris-meet-civil-rights-leaders-amid-pressure/story?id=74605076"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-ap-jt-201208_1607451998079_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump campaign files last-ditch lawsuit in attempt to overturn Biden win in Wisconsin"
     excerpt: "The suit, which legal experts said has little chance of prevailing, argues that elections officials improperly accepted more than 200,000 votes, but does not allege fraud."

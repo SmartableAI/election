@@ -1200,6 +1200,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "As Trump Rails Against Loss, His Supporters Become More Threatening"
+    excerpt: "The president’s baseless claims of voting fraud have prompted outrage among his loyalists and led to behavior that Democrats and even some Republicans say has become dangerous."
+    publishedDateTime: 2020-12-09T00:09:00Z
+    webUrl: "https://www.nytimes.com/2020/12/08/us/politics/trump-election-challenges.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/08/us/politics/trump-election-challenges.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/us/politics/trump-election-challenges.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/08/us/politics/08elections1/08elections1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
     publishedDateTime: 2020-12-01T16:55:00Z

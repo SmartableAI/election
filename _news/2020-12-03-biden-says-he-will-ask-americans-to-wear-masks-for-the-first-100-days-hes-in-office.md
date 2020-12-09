@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's extremely ambitious first 100 days"
+    excerpt: "President-elect Joe Biden faces a wildly daunting first 100 days in office.\n    \n"
+    publishedDateTime: 2020-12-08T23:30:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hgWnrQ5DU8Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/biden-100-days-coronavirus-vaccines/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/biden-100-days-coronavirus-vaccines/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208140911-01-biden-health-team-announcement-1208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP leadership rejects resolution acknowledging Biden as President-elect"
     excerpt: "Congressional Republican leaders on Tuesday rejected a resolution that asserted that Joe Biden is President-elect, the latest refusal by the GOP on Capitol Hill to accept the election results even though it's been clear for weeks that President Donald Trump lost.\n    \n"
     publishedDateTime: 2020-12-08T18:31:22Z
@@ -206,6 +222,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126010811-supreme-court-111020-restricted-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden's trailblazing Pentagon pick set to make history unless Democrats resist"
+    excerpt: "Gen. Lloyd Austin, President-elect Joe Biden's choice to lead the Pentagon, is poised to make history as the first Black secretary of defense and is \"the person we need in this moment,\" Biden says -- but first, he will have to overcome resistance from the President-elect's own party.\n    \n"
+    publishedDateTime: 2020-12-09T00:36:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qvg3NxYfL4g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-challenge-journey-profile/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-challenge-journey-profile/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/111129080221-biden-and-general-story-top.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Biden expected to nominate Dr. Vivek Murthy to reprise role as US surgeon general"
     excerpt: "As he builds out his health team, President-elect Joe Biden is expected to nominate Dr. Vivek Murthy as US Surgeon General, two sources familiar with the matter confirmed to CNN, returning to the role he served in during the Obama administration.\n    \n"
@@ -239,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden expected to nominate Rep. Marcia Fudge as secretary of Housing and Urban Development"
+    excerpt: "President-elect Joe Biden is expected to nominate Ohio Rep. Marcia Fudge as secretary of Housing and Urban Development, two people familiar with the transition said, a decision that would add another African American woman to the ranks of his Cabinet.\n    \n"
+    publishedDateTime: 2020-12-09T00:18:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jUHJfkpbhXU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/marcia-fudge-hud-secretary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/marcia-fudge-hud-secretary/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208175659-marcia-fudge-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: 88% of House and Senate Republicans refuse to publicly acknowledge the obvious: Joe Biden won"
     excerpt: "The silence isn't just deafening. It's dangerous.\n    \n"
     publishedDateTime: 2020-12-07T16:03:41Z
@@ -252,6 +300,20 @@ related:
     quality: 158
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023120254-35d-mitch-mcconnell-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden expected to nominate Tom Vilsack as Agriculture secretary later this week"
+    excerpt: "President-elect Joe Biden is expected to nominate Tom Vilsack to lead the Department of Agriculture, two sources familiar with the matter said.\n    \n"
+    publishedDateTime: 2020-12-09T00:43:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IHph6EYcEAo/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160720165245-vilsack-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -414,7 +476,7 @@ related:
   - title: "Biden pledges to vaccinate tens of millions, reopen schools in first 100 days"
     excerpt: "The new pledges came as Biden introduced his picks to lead key health agencies and coordinate the federal response to a pandemic that's infected almost 15 million people in the U.S."
     publishedDateTime: 2020-12-08T21:16:00Z
-    webUrl: "https://www.politico.com/states/california/story/2020/12/08/biden-pledges-to-vaccinate-tens-of-millions-reopen-schools-in-first-100-days-1343688"
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/12/08/biden-pledges-to-vaccinate-tens-of-millions-reopen-schools-in-first-100-days-1343688"
     type: article
     provider:
       name: Politico
