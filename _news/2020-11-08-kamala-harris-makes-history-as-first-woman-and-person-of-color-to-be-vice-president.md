@@ -95,6 +95,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Kamala Harris named world's third most powerful woman on Forbes list"
+    excerpt: "After being elected vice-president, the Democratic senator from California is now listed below Christine Lagarde and Angela Merkel"
+    publishedDateTime: 2020-12-09T19:49:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/09/kamala-harris-named-worlds-third-most-powerful-woman-on-forbes-list"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/09/kamala-harris-named-worlds-third-most-powerful-woman-on-forbes-list"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/09/kamala-harris-named-worlds-third-most-powerful-woman-on-forbes-list"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7f44f7a8561b04eaf264f41e9bb4131ada23450/0_320_4939_2965/master/4939.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=70c580230b2cb1b45fcb759d274976f0"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Kamala Harris calls teen who went viral for painting portrait of vice president-elect"
     excerpt: "\"You really have a gift, my goodness. I was so touched to see it,\" Vice President-elect Kamala Harris told the 14-year-old artist."
     publishedDateTime: 2020-11-26T21:46:00Z

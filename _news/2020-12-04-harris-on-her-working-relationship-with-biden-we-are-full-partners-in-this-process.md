@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-pa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-partnership/index.html"
 type: article
 quality: 192
-heat: 492
+heat: 512
 published: true
 
 provider:
@@ -239,6 +239,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203142911-01-kamala-harris-acceptance-speech-1107-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Hunter Biden, president-elect's son, says Delaware AG is probing his taxes"
+    excerpt: "The probe comes weeks after an election in which President Donald Trump and his allies made unfounded and baseless claims of corruption regarding Hunter Biden and his father."
+    publishedDateTime: 2020-12-09T21:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/hunter-biden-president-elect-s-son-says-delaware-ag-probing-n1250607"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250607"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250607"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3145896/191212-hunter-biden-al-1256_235d0d2971da9e34e3889de320c2bc3f.jpg"
+        width: 2500
+        height: 1496
         isCached: true
   - title: "Vice President-elect Kamala Harris picks Tina Flournoy as her chief of staff"
     excerpt: "Tina Flournoy, who is currently serving as chief of staff to former President Bill Clinton, has been chosen to be Vice President-elect Kamala Harris' chief of staff, according to a source with knowledge of the decision."

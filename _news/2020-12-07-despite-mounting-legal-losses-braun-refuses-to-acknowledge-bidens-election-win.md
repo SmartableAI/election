@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937"
 type: article
 quality: 135
-heat: 815
+heat: 835
 published: true
 
 provider:
@@ -350,6 +350,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543710642&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB616Z"
         width: 817
         height: 545
+        isCached: true
+  - title: "Hunter Biden says federal prosecutors are investigating his taxes"
+    excerpt: "CNN reported that the investigation dates as far back as 2018 and was put on pause during the election because of its politically sensitive nature."
+    publishedDateTime: 2020-12-09T21:55:00Z
+    webUrl: "https://www.businessinsider.com/hunter-biden-delaware-federal-prosecutors-investigating-taxes-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/hunter-biden-delaware-federal-prosecutors-investigating-taxes-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hunter-biden-delaware-federal-prosecutors-investigating-taxes-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fd140d1240ebd00126be0fc?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Biden transition advisers emerge as top contenders to run covid-19 response"
     excerpt: "As President-elect Joe Biden makes fighting the raging coronavirus his most urgent mission when he takes office next month, two figures already playing central roles in his transition are emerging as the most likely officials to preside over the new White House’s pandemic response."

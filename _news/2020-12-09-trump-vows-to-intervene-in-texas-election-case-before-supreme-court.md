@@ -335,6 +335,22 @@ related:
         width: 1440
         height: 926
         isCached: true
+  - title: "Michigan’s top court spikes election lawsuit by Trump allies"
+    excerpt: "The Michigan Supreme Court has rejected an unprecedented request to take control of ballots and ballot boxes from the Nov. 3 election and appoint someone to investigate claims of vote-counting fraud i"
+    publishedDateTime: 2020-12-09T21:39:00Z
+    webUrl: "https://www.washingtonpost.com/national/michigans-top-court-spikes-election-lawsuit-by-trump-allies/2020/12/09/29487b4e-3a66-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/michigans-top-court-spikes-election-lawsuit-by-trump-allies/2020/12/09/29487b4e-3a66-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/michigans-top-court-spikes-election-lawsuit-by-trump-allies/2020/12/09/29487b4e-3a66-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump tries to revive stalled election-eve drug discounts"
     excerpt: "The Trump administration is trying to revive the president’s stalled election-eve plan to send millions of Medicare recipients a $200 prescription discount card"
     publishedDateTime: 2020-12-09T16:32:00Z
@@ -366,6 +382,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/dfb8f654743b4f3dfad7866c4af5eb49173d3fb9/166_0_4392_2636/master/4392.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=adc0a20bd9d2e89caf8d4e5ad6b320fe"
         width: 600
         height: 360
+        isCached: true
+  - title: "Texas gets support from 17 states in bid to help Trump undo election loss"
+    excerpt: "Texas drew support on Wednesday from 17 other U.S. states in its long-shot bid to have the Supreme Court overturn President Donald Trump's election loss by throwing out the voting results from Georgia,"
+    publishedDateTime: 2020-12-09T21:30:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump/texas-gets-support-from-17-states-in-bid-to-help-trump-undo-election-loss-idUSKBN28J1VJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1VJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1VJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543979089&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB8111"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump sues Wisconsin governor, officials to try to reverse election results"
     excerpt: "President Donald Trump sued Wisconsin officials Tuesday in a last-ditch effort to reclaim a state he lost by about 20,700 votes."
@@ -638,6 +670,22 @@ related:
       - url: "https://i.insider.com/5fcfc226cee0cf00114fa2d3?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President Trump seeks to join Supreme Court lawsuit challenging election results in 4 key states"
+    excerpt: "The president did not present evidence of fraud. To back up his request, he cited partisan polls purporting to show Americans distrust the election."
+    publishedDateTime: 2020-12-09T22:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/09/donald-trump-seeks-join-supreme-court-lawsuit-challenging-election/3870238001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3870238001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3870238001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/d8313eb8-441c-4b59-84f5-a27ff5a1aac8-AFP_AFP_8WK484.jpg?auto=webp&crop=2351,1322,x0,y53&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Wisconsin Supreme Court denies Trump campaign's attempt to bypass lower court in election challenge"
     excerpt: "The Trump campaign argued that the state's high court should hear its case directly because presidential electors will soon be casting their votes."
@@ -1444,6 +1492,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/07/de8791be-ab03-43ed-8b42-7c145af54a74/thumbnail/1200x630/ec913cd82cda24b6d22ec8520b304f3c/cbsn-fusion-georgia-lieutenant-governor-on-president-trumps-attempts-to-overturn-election-results-thumbnail-602796-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "'I'd get my house bombed tonight': Pennsylvania Republican leaders details pressure to support Trump's efforts to overturn the election"
+    excerpt: "Trump has run out of options to take Biden's win away, with the Supreme Court also refusing to hear a challenge to overturn Pennsylvania's results."
+    publishedDateTime: 2020-12-09T22:37:00Z
+    webUrl: "https://www.businessinsider.com/pennsylvania-gop-leader-worries-house-would-be-bombed-trump-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/pennsylvania-gop-leader-worries-house-would-be-bombed-trump-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-gop-leader-worries-house-would-be-bombed-trump-election-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5fd1370048a2590018262889?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Republicans are abandoning Trump over his threat to hold defense bill hostage to get back at tech companies"
     excerpt: "Lawmakers take pride in passing the annual defense spending bill, and they're not happy about Trump interfering with that."

@@ -430,6 +430,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden tests Congress' desire for norms versus history-making with Pentagon pick"
+    excerpt: "Four-star general Lloyd Austin retired in 2016. The law says a defense secretary must wait seven years after relief from active duty."
+    publishedDateTime: 2020-12-09T19:50:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/biden-tests-congress-desire-norms-versus-history-making-pentagon-pick-n1250452"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250452"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250452"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434289/201208-llyod-austin-2016-ac-532p_ce2d18012447ed1cba44c8ffb2005a7f.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden urged to change immigration policy to send more health workers to Covid hot spots"
     excerpt: "Backers of the legislation think linking health worker shortages with immigration policy will resonate with the incoming administration."
     publishedDateTime: 2020-12-03T09:49:00Z

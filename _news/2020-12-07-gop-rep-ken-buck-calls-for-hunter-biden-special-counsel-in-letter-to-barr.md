@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-speci
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
 type: article
 quality: 173
-heat: 193
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Top pro-GOP PAC launching new initiative to counter Biden's 'far-left policies'"
-    excerpt: "A leading outside group that supports Republican causes is firing up a new initiative to counter what it says will be the \"far-left policies\" of President-elect Joe Biden's incoming administration."
-    publishedDateTime: 2020-12-02T19:22:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
+  - title: "Hunter Biden 'tax affairs' under federal investigation"
+    excerpt: "The U.S. Attorney’s Office in Delaware is investigating Hunter Biden’s “tax affairs,” President-elect Joe Biden’s son confirmed on Wednesday, saying he is taking the matter “very seriously” and is “confident” he handled his affairs “legally and appropriately.” \u2028"
+    publishedDateTime: 2020-12-09T21:05:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqduG92XE-M/hunter-biden-tax-affairs-under-federal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-tax-affairs-under-federal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-tax-affairs-under-federal-investigation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Ron Johnson pushes back on calls for Hunter Biden special counsel"
+    excerpt: "EXCLUSIVE: Senate Homeland Security Committee Chairman Ron Johnson, who has been looking into Hunter Biden’s foreign business dealings for over a year, told Fox News on Wednesday he opposes the appointment of a special counsel to investigate President-elect Joe Biden’s son, while vowing to continue looking"
+    publishedDateTime: 2020-12-09T22:34:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GchTH4Gp6z0/ron-johnson-hunter-biden-special-counsel-calls-pushback"
+    ampWebUrl: "https://www.foxnews.com/politics/ron-johnson-hunter-biden-special-counsel-calls-pushback.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-johnson-hunter-biden-special-counsel-calls-pushback.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden DHS pick had 'inappropriate' involvement in drug trafficker's commutation: Investigation"
+    excerpt: "Alejandro Mayorkas has admitted to making a mistake in weighing in on the case."
+    publishedDateTime: 2020-12-02T22:21:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i01zTadlZjs/biden-dhs-pick-congressional-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-pick-congressional-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-pick-congressional-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49b0b770-d1a5-4b49-9a85-1c15f2b095e4/8bd1ef1e-2fd7-4e4e-943b-e043a0b90b63/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden administration pick Neera Tanden outed sexual harassment victim at liberal think tank: report"
+    excerpt: "President-elect Joe Biden's pick to lead the White House Office of Management and Budget, Neera Tanden — like his other expected nominees — is likely to see a contentious confirmation hearing, but she is no stranger to controversy after reportedly revealing the name of an alleged sexual harassment victim"
+    publishedDateTime: 2020-12-02T14:40:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ygo2Nksy784/biden-pick-neera-tanden-outed-sexual-harassment-victim-liberal-think-tank"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pick-neera-tanden-outed-sexual-harassment-victim-liberal-think-tank.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-neera-tanden-outed-sexual-harassment-victim-liberal-think-tank.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0bef5df3-b1ad-4063-9945-74d7c18dcd09/d317839e-7140-4e34-b763-0f08bbdeea34/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden DHS pick had 'inappropriate' involvement in drug trafficker's commutation: Investigation"
+    excerpt: "Alejandro Mayorkas, who was nominated by President-elect Joe Biden to serve in his administration as the head of the Department of Homeland Security, was previously accused of having “inappropriate” involvement in the commutation of a major drug trafficker’s sentence."
+    publishedDateTime: 2020-12-02T22:36:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-dhs-pick-congressional-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-pick-congressional-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-pick-congressional-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49b0b770-d1a5-4b49-9a85-1c15f2b095e4/8bd1ef1e-2fd7-4e4e-943b-e043a0b90b63/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "ad2Xz2onjQ2d5YUodEmqMN7ABcLHHOyw6FitArFs5hOE/JGR90pedq93OmftnaVmlfk+gwX5nUtNn4usi935dHoAl83NBuwHDe65O9SQADmekPp7TzAqTy9WlSfo0XuzDX58QGk1byFlGlIdhZ7K4eFe0EdnAfjgtSkEQFcIRs+hjEZoplTgJTiIwLrMFtIhnGH9945IUk4O4jKwcq4rNzBbrT9M/CZRM/ztipslLmLW+L2T3t0F2BZS4Vs6dGzsZarQw033K8OQSCZL43RrVoy0DL3TOaTMKZpkX6+tw7p01AFkdXF+8tFkFmjNBI+V3dJ/Uw16CaElnw19TGRsqKZyvVyKMUqIH3S4FYM6gbY=;A4htX+wwMnap/CMIuCDOaQ=="

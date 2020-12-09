@@ -1146,6 +1146,17 @@ related:
         width: 570
         height: 320
         isCached: true
+  - title: "Despite Trump's Venting and Threats, Biden's Win Is Sealed"
+    excerpt: "There’s plenty of noise but no cause for confusion as President Donald Trump vents about how the election turned out and vows to subvert it even still. This truth is self-evident: Joe Biden is on track to become president Jan."
+    publishedDateTime: 2020-12-09T22:29:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/despite-trumps-venting-and-threats-bidens-win-is-sealed"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/despite-trumps-venting-and-threats-bidens-win-is-sealed?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/despite-trumps-venting-and-threats-bidens-win-is-sealed?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Kamala Harris Will Play Major Role As Vice President, Historian Says"
     excerpt: "Historian Julian Zelizer writes that the vice president will be a major voice in the White House during the next four years."
     publishedDateTime: 2020-12-08T16:50:00Z

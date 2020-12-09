@@ -27,49 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Pence announces official name change of Patrick Space Force Base"
-    excerpt: "One year after the U.S. Space Force was created by President Trump and Patrick Air Force Base was designated a space force base, Vice President Mike Pence made the name change to Patrick Space Force Base official."
-    publishedDateTime: 2020-12-09T18:18:00Z
-    webUrl: "https://www.floridatoday.com/story/tech/science/space/2020/12/09/vice-president-pence-announces-official-name-change-patrick-space-force-base/6506564002/"
-    ampWebUrl: "https://amp.floridatoday.com/amp/6506564002"
-    cdnAmpWebUrl: "https://amp-floridatoday-com.cdn.ampproject.org/c/s/amp.floridatoday.com/amp/6506564002"
+  - title: "Mike Pence introduces astronauts for future NASA moon mission"
+    excerpt: "The vice president is at the Kennedy Space Center to discuss the mission to get astronauts back to the moon by 2024 under NASA's Artemis program."
+    publishedDateTime: 2020-12-09T20:34:00Z
+    webUrl: "https://www.cbsnews.com/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/"
     type: article
     provider:
-      name: Florida Today
-      domain: floridatoday.com
-    quality: 71
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PBRE/b361ae31-26de-47bf-adcd-6538f9e1acc9-SpaceForce2.jpg?auto=webp&crop=4031,2268,x0,y604&format=pjpg&width=1200"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/454dd4c9-216f-4188-a8e0-59d4ec6dbac5/thumbnail/1200x630/c79b8bc48e0e82cc0506366e67034711/artemis-astronauts.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence rallying in Augusta ahead of Senate runoffs"
-    excerpt: "Vice President Mike Pence will headline a rally in Augusta on Thursday afternoon, as the balance of the U.S. Senate rests in the hands of Georgia voters."
-    publishedDateTime: 2020-12-08T14:45:00Z
-    webUrl: "https://www.postandcourier.com/aikenstandard/news/vice-president-mike-pence-rallying-in-augusta-ahead-of-senate-runoffs/article_1a5e0e1c-3969-11eb-8931-9334ebebb1f1.html"
-    type: article
-    provider:
-      name: Post and Courier Charleston
-      domain: postandcourier.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/93/393f2522-396a-11eb-9af8-0f9ce89e98db/5f3faefe0f231.image.jpg?resize=945%2C630"
-        width: 945
         height: 630
         isCached: true
-  - title: "Vice President Mike Pence to Visit the Space Coast Today to Chair the White House National Space Council"
-    excerpt: "Vice President Mike Pence will visit the Space Coast on Dec. 9 to chair the White House National Space Council on December 9 at Kennedy Space Center."
-    publishedDateTime: 2020-12-09T05:26:00Z
-    webUrl: "https://spacecoastdaily.com/2020/12/vice-president-mike-pence-to-visit-the-space-coast-today-to-chair-the-white-house-national-space-council/"
+  - title: "Watch live: Pence visits Cape Canaveral to discuss NASA's moon plans"
+    excerpt: "Vice President Mike Pence will visit Cape Canaveral Wednesday, where he will meet with NASA officials and discuss the agency's plans for returning to the moon."
+    publishedDateTime: 2020-12-09T15:58:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/12/09/Watch-live-Pence-visits-Cape-Canaveral-to-discuss-NASAs-moon-plans/4781607523925/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/09/Watch-live-Pence-visits-Cape-Canaveral-to-discuss-NASAs-moon-plans/4781607523925/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/09/Watch-live-Pence-visits-Cape-Canaveral-to-discuss-NASAs-moon-plans/4781607523925/"
     type: article
     provider:
-      name: Space Coast Daily
-      domain: spacecoastdaily.com
-    quality: 38
+      name: UPI.com
+      domain: upi.com
+    quality: 75
     images:
-      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/03/Mike-Pence-Vice-President-600-2.jpg"
-        width: 600
-        height: 331
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4781607523925/2020/1/891016175af066d2ce4265759fafc453/v1.5/Watch-live-Pence-visits-Cape-Canaveral-to-discuss-NASAs-moon-plans.jpg"
+        width: 800
+        height: 531
         isCached: true
 
 secured: "cxeoucsENwXtJB382EtKcI90XahHKpzIYjqrKMflnOgWnJDdBmzREznpzSDU+gDDyuolqRq8QWOYkjYTyfhaLkAckgyjGbASqxqRRJv86jy9U1detHCyUB+Y9uykjxeqad4RkFV9yC4wGonlAP/hgZ4Cle0IVR1KBk4G5ZLlA46gk2Dm9WK3FUe2pcjakmuVLbpqf3FpXQuYsMiX6gRX+52HkvJ5X9gthxCeUjNCvjLnipEflrn/5dgEQVA5K+QMKE0LBZZVauSuO2ZUBhc/0hqmdmI7YrMj4feh+5vszH4v8Mt4peZ8/em+3d9iDmi7ebKNPY5bnwGjrkgZ0tQjXgm32tnRDAkIlFuhBV37oXE=;BlXBsLkxH2gtI/w0DfqbEg=="

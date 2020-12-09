@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-03/harris-announ
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
 type: article
 quality: 125
-heat: 805
+heat: 825
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/1da91ae/2147483647/strip/true/crop/3749x2449+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2F22%2F9c0dee354cbba4f0c7e05e08af94%2Fap20185052720753.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Kamala Harris named world's third most powerful woman on Forbes list"
+    excerpt: "After being elected vice-president, the Democratic senator from California is now listed below Christine Lagarde and Angela Merkel"
+    publishedDateTime: 2020-12-09T19:49:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/09/kamala-harris-named-worlds-third-most-powerful-woman-on-forbes-list"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/09/kamala-harris-named-worlds-third-most-powerful-woman-on-forbes-list"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/09/kamala-harris-named-worlds-third-most-powerful-woman-on-forbes-list"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7f44f7a8561b04eaf264f41e9bb4131ada23450/0_320_4939_2965/master/4939.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=70c580230b2cb1b45fcb759d274976f0"
+        width: 600
+        height: 360
         isCached: true
   - title: "Kamala Harris makes history as first woman and person of color to be vice president"
     excerpt: "Kamala Harris, the groundbreaking senator from California, has made history again -- set to become the first female vice president and woman of color in the White House. Harris, 56, the daughter of immigrants,"

@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden considering Buttigieg for China ambassador: report"
+    excerpt: "President-elect Biden reportedly might choose his former opponent, Mayor Pete Buttigieg, to serve as ambassador to China. "
+    publishedDateTime: 2020-12-09T21:44:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TJZvOVp_uIU/biden-considering-buttigieg-china-ambassador-report"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-considering-buttigieg-china-ambassador-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-considering-buttigieg-china-ambassador-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Buttigieg-DNC-AP-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden remains silent on string of Democrats caught flouting their own COVID guidelines"
     excerpt: "As more Democratic officials have come under fire for flouting their own coronavirus advocacy, the nation's top Democrat, President-Elect Biden, appeared to refrain from criticizing them."
     publishedDateTime: 2020-12-02T23:29:57Z

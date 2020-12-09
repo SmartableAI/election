@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-10-mike-pence-introduces-astronauts-for-future-nasa-moon-mission.md",
+      "title": "Mike Pence introduces astronauts for future NASA moon mission",
+      "excerpt": "The vice president is at the Kennedy Space Center to discuss the mission to get astronauts back to the moon by 2024 under NASA's Artemis program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
+      "originalUrl": "https://www.cbsnews.com/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/454dd4c9-216f-4188-a8e0-59d4ec6dbac5/thumbnail/1200x630/c79b8bc48e0e82cc0506366e67034711/artemis-astronauts.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
+      "publishedDateTime": "2020-12-09T12:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-china-is-serious-competitor-to-us-in-space-says-pence.md",
       "title": "China is serious competitor to US in space, says Pence",
       "excerpt": "China, which recently landed a probe on the moon, is a serious competitor to the United States in space, according to Vice President Mike Pence.",
@@ -67,7 +119,7 @@
       "originalUrl": "https://www.floridatoday.com/story/tech/science/space/2020/12/09/vice-president-pence-announces-official-name-change-patrick-space-force-base/6506564002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -88,49 +140,6 @@
       "provider": {
         "name": "Florida Today",
         "domain": "floridatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-watch-live-pence-visits-cape-canaveral-to-discuss-nasas-moon-plans.md",
-      "title": "Watch live: Pence visits Cape Canaveral to discuss NASA's moon plans",
-      "excerpt": "Vice President Mike Pence will visit Cape Canaveral Wednesday, where he will meet with NASA officials and discuss the agency's plans for returning to the moon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2020/12/09/Watch-live-Pence-visits-Cape-Canaveral-to-discuss-NASAs-moon-plans/4781607523925/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2020/12/09/Watch-live-Pence-visits-Cape-Canaveral-to-discuss-NASAs-moon-plans/4781607523925/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/4781607523925/2020/1/891016175af066d2ce4265759fafc453/v1.5/Watch-live-Pence-visits-Cape-Canaveral-to-discuss-NASAs-moon-plans.jpg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2020/12/09/Watch-live-Pence-visits-Cape-Canaveral-to-discuss-NASAs-moon-plans/4781607523925/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/09/Watch-live-Pence-visits-Cape-Canaveral-to-discuss-NASAs-moon-plans/4781607523925/",
-      "publishedDateTime": "2020-12-09T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -244,7 +253,7 @@
       "originalUrl": "https://www.greenvilleonline.com/story/news/local/2020/12/07/vice-president-mike-pence-visit-greenville-sc-talk-covid/6484240002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -344,7 +353,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-transition-live-updates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 835,
+      "heat": 855,
       "tags": null,
       "images": [
         {
@@ -566,7 +575,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1262,
+      "heat": 1282,
       "tags": null,
       "images": [
         {

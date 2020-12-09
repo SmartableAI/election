@@ -127,6 +127,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden has picked a retired general for defense secretary. Here’s why it matters."
+    excerpt: "President-elect Joe Biden announced his nominee for defense secretary would be retired Army. The move would make the former U.S. Central Command leader the first Black secretary of defense. Biden would also be the second consecutive president to begin his tenure with the nomination of a retired military officer for the post."
+    publishedDateTime: 2020-12-09T22:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y2ZROABZFII6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 946
+        isCached: true
   - title: "President-elect Joe Biden predicts ‘bleak future’ if Congress doesn’t act on COVID-19 aid"
     excerpt: "Biden has said that while he doesn't support a nationwide lockdown, he plans to ask Americans to commit to 100 days of mask-wearing to help combat the virus as one of his first acts as president."
     publishedDateTime: 2020-12-04T22:24:00Z

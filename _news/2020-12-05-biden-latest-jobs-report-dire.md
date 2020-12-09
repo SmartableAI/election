@@ -47,19 +47,19 @@ related:
         isCached: true
   - title: "AP sources: Biden picks Fudge for housing, Vilsack for USDA"
     excerpt: "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration"
-    publishedDateTime: 2020-12-09T05:56:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda/2020/12/08/57c1cfc8-39b9-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda/2020/12/08/57c1cfc8-39b9-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda/2020/12/08/57c1cfc8-39b9-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    publishedDateTime: 2020-12-09T12:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a247689e42154871b07009bde790748f_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden picks Fudge for housing head, Vilsack for USDA"
     excerpt: "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration."
@@ -99,6 +99,17 @@ related:
     webUrl: "https://www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12"
     ampWebUrl: "https://www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-calif-ag-to-be-first-latino-health-secretary-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "The Latest: Biden: Moment calls for waiver for defense pick"
+    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+    publishedDateTime: 2020-12-09T21:19:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-biden-moment-calls-for-waiver-for-defense-pick-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-moment-calls-for-waiver-for-defense-pick-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-moment-calls-for-waiver-for-defense-pick-2020-12?amp"
     type: article
     provider:
       name: Business Insider

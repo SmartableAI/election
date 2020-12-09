@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html"
 type: article
 quality: 182
-heat: 782
+heat: 802
 published: true
 
 provider:
@@ -428,6 +428,22 @@ related:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1607266802197_mtp_clip_kornackidemos_201206_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden tests Congress' desire for norms versus history-making with Pentagon pick"
+    excerpt: "Four-star general Lloyd Austin retired in 2016. The law says a defense secretary must wait seven years after relief from active duty."
+    publishedDateTime: 2020-12-09T19:50:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/biden-tests-congress-desire-norms-versus-history-making-pentagon-pick-n1250452"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250452"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250452"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434289/201208-llyod-austin-2016-ac-532p_ce2d18012447ed1cba44c8ffb2005a7f.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden urged to change immigration policy to send more health workers to Covid hot spots"
     excerpt: "Backers of the legislation think linking health worker shortages with immigration policy will resonate with the incoming administration."

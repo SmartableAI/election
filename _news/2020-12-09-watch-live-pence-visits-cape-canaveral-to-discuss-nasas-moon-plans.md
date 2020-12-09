@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/09/Watch-live-Pence-visi
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/09/Watch-live-Pence-visits-Cape-Canaveral-to-discuss-NASAs-moon-plans/4781607523925/"
 type: article
 quality: 75
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: UPI.com
@@ -25,6 +25,40 @@ images:
     width: 800
     height: 531
     isCached: true
+
+related:
+  - title: "Mike Pence introduces astronauts for future NASA moon mission"
+    excerpt: "The vice president is at the Kennedy Space Center to discuss the mission to get astronauts back to the moon by 2024 under NASA's Artemis program."
+    publishedDateTime: 2020-12-09T20:34:00Z
+    webUrl: "https://www.cbsnews.com/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/454dd4c9-216f-4188-a8e0-59d4ec6dbac5/thumbnail/1200x630/c79b8bc48e0e82cc0506366e67034711/artemis-astronauts.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "VP Pence, NASA to give updates on Artemis moon program at Kennedy Space Center"
+    excerpt: "Vice President Mike Pence also announced the renaming of two Florida bases to Cape Canaveral Space Force Station and Patrick Space Force Base."
+    publishedDateTime: 2020-12-09T18:32:00Z
+    webUrl: "https://www.khou.com/article/tech/science/space/mike-pence-cape-canaveral-space-council-meeting/67-6a24671e-24f8-446e-a865-0cbc5fdfe6ad"
+    ampWebUrl: "https://www.khou.com/amp/article/tech/science/space/mike-pence-cape-canaveral-space-council-meeting/67-6a24671e-24f8-446e-a865-0cbc5fdfe6ad"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/tech/science/space/mike-pence-cape-canaveral-space-council-meeting/67-6a24671e-24f8-446e-a865-0cbc5fdfe6ad"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 71
+    images:
+      - url: "https://media.khou.com/assets/WTSP/images/a35665a0-6fbd-4bb5-8470-5d26ca7f5bf7/a35665a0-6fbd-4bb5-8470-5d26ca7f5bf7_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "DLEYshEpV5hDMQwqG785GWnVedFFjB6g4F5qy5ck8Uk2JPJXz9BoJeiJYCzYVQl4pu2G6idLMObYFMi77F7v6E5nPF6fnptNGX50sE9DKUXhQSQST37UjeYccThMF9UvF+UHgG0rbfiPgVR9qxzRzmed8u93p1bBlWRpBIf+cXiy6Q4ETHO1fb+VN0BVBcEgLY5OQzdR+F1ZJCuFTQRkDEHlu8InEi5sP6bWRUDBz3spZGi39k5Lx8ToL6sm22fH17LuZdtcc1q9v3CFbTvP8kmIDP9HLplAmozvRxT4MqErxcUhZJHKXYe5Edq9mPD1OFCHDkmxF3bx0CTjsI/JHGvzFrucviCXJ8AWcbVMTxw=;2RDaHHdmJ4nm3zGKtaEjLw=="
 ---

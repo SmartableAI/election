@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250205"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250205"
 type: article
 quality: 135
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -32,37 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Why ‘safe harbor day’ is bad news for Trump"
-    excerpt: "Under federal law, states must certify their election results and resolve any leftover legal issues by December 8. If they do, Congress must recognize their electors. The attorney general of Texas said his state is asking the Supreme Court to delay the electoral college meeting,"
-    publishedDateTime: 2020-12-08T22:35:00Z
-    webUrl: "https://www.nbcnews.com/now/video/why-safe-harbor-day-is-bad-news-for-trump-97357381564"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97357381564"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97357381564"
+  - title: "Trump asks Supreme Court to invalidate millions of votes in battleground states"
+    excerpt: "President Donald Trump asked the Supreme Court on Wednesday to block millions of votes from four battleground states that voted for President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2020-12-09T22:36:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mh_Ek74Hwd0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208210108-trump-file-1113-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "As Trump Rages, Voters in a Key County Move On: ‘I’m Not Sweating It’"
+    excerpt: "Pre-election tensions ran high in Bucks County, Pa. But Biden supporters there are increasingly comfortable tuning President Trump out and moving on, with an eye toward January."
+    publishedDateTime: 2020-12-02T10:05:00Z
+    webUrl: "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/us/politics/02biden-doylestown1/02biden-doylestown1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump ignores facts with claim of improper 'vote dumps'"
+    excerpt: "In lawsuits, tweets and a 46-minute taped diatribe, the president has promoted a false narrative about vote counting in several states."
+    publishedDateTime: 2020-12-04T14:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-ignores-facts-claim-improper-vote-dumps-n1249987"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249987"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249987"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_safeharbdead_201208_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Former Israeli space security chief says extraterrestrials exist, and Trump knows about it"
-    excerpt: "\"The Unidentified Flying Objects have asked not to publish that they are here, humanity is not ready,\" Haim Eshed said."
-    publishedDateTime: 2020-12-08T13:56:00Z
-    webUrl: "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250333"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250333"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 125
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434098/201208-space-contact-mc-1000_2ccd3fbfb3e3d974e910d1abd9b81c1a.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3433213/201204-donald-trump-mn-0840_3ff08bf71b3ccb940cbf49b781f12604.jpg"
         width: 2500
-        height: 1584
+        height: 1458
         isCached: true
 
 secured: "fYy/9nWQUqBCOYYLQB5YwpMlgMomFEMI1+6zN7k/5WO6bjuvZTGFULnvI/SJZ17v4r6ute2KnwQmd2MgB2r4EnYrvhdlKWwEiOfL7eIixt5FlHq+FJIL2LakXX0b7TTZucggho950ZIp1CQCuR/qsE8fdufp3zRxcQ/y0zczt3H4f+MsVhR382VNILNFNqcxF6ZyCJ/qxIjw5zZpwqJ45Ivj+Rv2Pv+EMi9pmqDiZrZWTAahS7Up+qcHRZEWNIKU3MOIFIGZhcyqEFsDUOK+MawemWEe07HDR2yseu2yJf6JEnVWF1Qd5Kq8pjV7lNsRefJj9IuMnMef6H8keJhbWCbFbdHZ3qC0M53P+ZZZnlI+VSaD7pmk1WjGgxwK6FthxP3jFwyRqV0bnEGM45sq51GlW5da04w8VrXFV5p31h+8VK4K4lu0ifUVPvWNrrVEf7WnjfMFL9zn7qnfm4bCyL75O7WW5Shq73yOveb28jj4H4lD0sGzE3V1CjyFNrCZaEHWOIxHoV0THIswDUEnow==;j437413+L0W7lYz1wDfGow=="

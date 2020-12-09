@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1GM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1GM"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/ca519be7e2232ba11e4ac5d8dfae38be29db558d/0_84_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad7e7a3e5456b291902a6b3d9d880c9e"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden has picked a retired general for defense secretary. Here’s why it matters."
+    excerpt: "President-elect Joe Biden announced his nominee for defense secretary would be retired Army. The move would make the former U.S. Central Command leader the first Black secretary of defense. Biden would also be the second consecutive president to begin his tenure with the nomination of a retired military officer for the post."
+    publishedDateTime: 2020-12-09T22:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y2ZROABZFII6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 946
         isCached: true
   - title: "Biden defense nominee’s need for a congressional waiver sows discomfort among Democrats"
     excerpt: "Democrats who voted never to bend the rules governing civilian leadership at the Pentagon were left looking for loopholes to justify their support for retired Gen. Lloyd J. Austin III."

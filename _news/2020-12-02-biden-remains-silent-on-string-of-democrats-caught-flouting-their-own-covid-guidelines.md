@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden considering Buttigieg for China ambassador: report"
+    excerpt: "President-elect Biden reportedly might choose his former opponent, Mayor Pete Buttigieg, to serve as ambassador to China. "
+    publishedDateTime: 2020-12-09T21:44:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TJZvOVp_uIU/biden-considering-buttigieg-china-ambassador-report"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-considering-buttigieg-china-ambassador-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-considering-buttigieg-china-ambassador-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Buttigieg-DNC-AP-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Georgia secretary of state to recertify results confirming Biden win after third count"
     excerpt: "Georgia Secretary of State Brad Raffensperger says his office will recertify the presidential election results on Monday, following a second recount that once again upheld President-elect Joe Biden's victory in the state."
     publishedDateTime: 2020-12-07T17:11:59Z

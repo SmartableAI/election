@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians.amp"
 type: article
 quality: 156
-heat: 156
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Flashback: Eric Swalwell accused Don Trump Jr. of meeting ‘Russian spy’"
+    excerpt: "Rep. Eric Swalwell, D-Calif., who Axios reported Wednesday was a main target of a Chinese spy between 2011 and 2015, accused Donald Trump Jr. last year of meeting \"with a Russian spy.\""
+    publishedDateTime: 2020-12-09T22:38:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GP9J7w6yoc8/eric-swalwell-donald-trump-jr-spy"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-swalwell-donald-trump-jr-spy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-donald-trump-jr-spy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5110eb86-e53d-4155-bddd-274bb8738742/df0cbd95-9d65-4dda-8adf-8d93b0c68fba/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "IGfLDbyQzE5syhZ/WMP/KK3zbtWYk5Xor9EaToyT7Y+erVQOnw65Yxa2lEaV+BGaf+m5zpRTHSdENlM82835Il9U5RafZ20dykqZXyDVjGrLn5iJKWmk8CQnjpRlf1QWOGe5JVcbad3TMxXdb/2jWzDvh9NVxoHOGHBP48LZgMaE4sRzVHxo8VIcqStmpqP9KjuE45qORQ/4LJOb6wI/EBZthgfJSvwzC/5ljP/BqcUSvc2kOYPGpBYTPCAkBHHmaSW2sG4bA+lkbf3oynlQhmL/nwH5EiUeY6bJmjHLTt6khgjGmRkdF1grMfEIpvrorU8f5kR21fSctB0RFap2euXq84T+MxBgDjO75bmyYC0=;oL/jjikyRZHBc5dlQZy0zw=="
 ---

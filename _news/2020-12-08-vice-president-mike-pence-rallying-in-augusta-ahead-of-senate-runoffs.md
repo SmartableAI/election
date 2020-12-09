@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "VP Pence, NASA to give updates on Artemis moon program at Kennedy Space Center"
-    excerpt: "Vice President Mike Pence also announced the renaming of two Florida bases to Cape Canaveral Space Force Station and Patrick Space Force Base."
-    publishedDateTime: 2020-12-09T18:32:00Z
-    webUrl: "https://www.khou.com/article/tech/science/space/mike-pence-cape-canaveral-space-council-meeting/67-6a24671e-24f8-446e-a865-0cbc5fdfe6ad"
-    ampWebUrl: "https://www.khou.com/amp/article/tech/science/space/mike-pence-cape-canaveral-space-council-meeting/67-6a24671e-24f8-446e-a865-0cbc5fdfe6ad"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/tech/science/space/mike-pence-cape-canaveral-space-council-meeting/67-6a24671e-24f8-446e-a865-0cbc5fdfe6ad"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 71
-    images:
-      - url: "https://media.khou.com/assets/WTSP/images/a35665a0-6fbd-4bb5-8470-5d26ca7f5bf7/a35665a0-6fbd-4bb5-8470-5d26ca7f5bf7_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Vice President Mike Pence to Visit the Space Coast Today to Chair the White House National Space Council"
     excerpt: "Vice President Mike Pence will visit the Space Coast on Dec. 9 to chair the White House National Space Council on December 9 at Kennedy Space Center."
     publishedDateTime: 2020-12-09T05:26:00Z

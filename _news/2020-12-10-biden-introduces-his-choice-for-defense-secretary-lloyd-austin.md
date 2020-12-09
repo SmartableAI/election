@@ -125,6 +125,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden has picked a retired general for defense secretary. Here’s why it matters."
+    excerpt: "President-elect Joe Biden announced his nominee for defense secretary would be retired Army. The move would make the former U.S. Central Command leader the first Black secretary of defense. Biden would also be the second consecutive president to begin his tenure with the nomination of a retired military officer for the post."
+    publishedDateTime: 2020-12-09T22:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/09/biden-has-picked-retired-general-defense-secretary-heres-why-it-matters/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y2ZROABZFII6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 946
+        isCached: true
   - title: "Biden defense nominee’s need for a congressional waiver sows discomfort among Democrats"
     excerpt: "Democrats who voted never to bend the rules governing civilian leadership at the Pentagon were left looking for loopholes to justify their support for retired Gen. Lloyd J. Austin III."
     publishedDateTime: 2020-12-09T01:01:00Z
@@ -288,6 +304,6 @@ related:
         height: 413
         isCached: true
 
-secured: "Pzd1tO2mcl74dtI44Dt7NE3e6bSjzspYv7Q7575aYGS+j+/9EWuQquxPWWHRA1k2573iCNs21gr5wOfc6ekiI5ZJgX8pBALqQU3Q3YWdbe0Hwq/txsBd6z+yaH0T8wuTfnU/7b2Rs4q3nWF5rsevs4fLPBcr4Ht20r9JTwl3QZP/S37RYzu68hOnfEBcXuPPclpXAbAJP7gfJdVw30kuvx3L41r1VhnBl+Ka/cK7oeWohlc7MKcjtoXM5qlXfqI7pX/980wdbUP5Zb4IqMsWZrBeMv926ZeX3A59OsWN6EuKB2IhW0KH96KnRbmA1FmAYzCf+K3CBxjklEIi9eIRAlyZ08pmH1bs1zP/z3Omhvo=;PsYT1sKBBuzI25+3iMTElg=="
+secured: "owMvBwNuGDpXyZ4kEj7qBE65s533tf5z2UGDkmKuI8HYIRIWVPZUIuUtuxGnIejlVmS9BaP+KcMDVV2RpTOQoIf05QInpXcL3VxTmciZ2dCuK17VqJQBRxUdwZS8fTESVSeHHEf5o44ch68xcsbyaj8Rt8Bbj1Mjxuey2/hnbAouCSyE5YCr8qmg8J9G6pPlkBHXX1AnTLSDayuefNXNAo5ea64f+hRduCujaaW70I4BS4h24jhYa4+13oCzdUb5h15fIgbwl29RMC8AaSwVcb9H/DaZdthf+CY4uJcH50sidE5T+Q555wIV19SmOXb49t0BMbDWNBXYpWjfZ2sllN+RGM2fxJCFlRWFlhHPLAcRYwHwWQdRnugqVLH3rsnrXJZ7T02Sz/AqKtNd2x5lz22Xmn2c2pzPf4eA5LsgHWBbhG8FCxkCZJ/0k5KLggbGTFIxCVres52WD8UbDtUBet/gT32JizF/V7Rf377kk6NeZPsw2XytVUbug9EitT09DJXUcXoxzwWyVTK4FrEgmA==;Yfi8PraJXGtnTyMRA794og=="
 ---
 

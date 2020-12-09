@@ -2,11 +2,11 @@
 category: news
 title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary: Axios"
 excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, Axios reported on Tuesday, citing people familiar with the matter."
-publishedDateTime: 2020-12-09T13:23:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack/biden-to-nominate-ex-iowa-governor-vilsack-for-usda-secretary-axios-idUSKBN28J0UL"
-webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack/biden-to-nominate-ex-iowa-governor-vilsack-for-usda-secretary-axios-idUSKBN28J0UL"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J0UL"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J0UL"
+publishedDateTime: 2020-12-09T13:25:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUKKBN28J0UL"
+webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUKKBN28J0UL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28J0UL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28J0UL"
 type: article
 quality: 105
 heat: -1
@@ -153,6 +153,17 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary"
+    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, according to two sources familiar with the decision."
+    publishedDateTime: 2020-12-09T19:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUSKBN28J0UL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J0UL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J0UL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Coronavirus updates: US sees deadliest day — again; Biden asks for 100 days of masks; California has a new regional stay-at-home order"
     excerpt: "California has a new regional stay-at-home order. US sees its deadliest day. And President-elect Biden says he'll ask Americans to wear masks for 100 days."
     publishedDateTime: 2020-12-04T14:38:00Z
@@ -186,6 +197,6 @@ related:
         height: 677
         isCached: true
 
-secured: "2w6FE8R5usiC3ftMcmOJ99Sb8zF/tVCtSXmEUqF8d3vquMkrbuoUt0lKoX+CwLWqRRPXHYW3Tlm6dB2GzrYVklOGeOHyEIJaby5MzwcQ3+5nEWZdXTu4rGGrpH9s+7jsaw4V+LxF6N+LlTvsa0owK1YCWnVeI/kdqo+7k9mR3xx42mMLly6JpWQiDK79UOXe530914XZmLnybGpNqLZmqbAi0cUsQlY93VHRjeTuSQgQPhkFvG2zy2OJTUvUiaSovMQXu9JX9QbuMkBui/8EXjHZY8WHfInNbdUxy5qfP8WJkpAYAWfdU03VfOPqvPj2XCBIeosMuul0thkI/MM8PqGs8DW8Knalyz4MMBm8N/c=;7hd9TejAfWDdNuvGLUmYiA=="
+secured: "ciBzbYSy0QlQeIbDSGIhValcKbV7jrEvkv44X+6XbPf2GEIQzDnAP+tR4fTguYOrxYuQZ0/aT0aiz960otHHTFpbCCtrXz3/QEM6AHmayynf2STjMSuaCBFmxGp57+TOB8RrjVM5tE5G5gHBcu0zlWAhInqyboanvyOuooPWHBIaxlkEkb1Ke7WbqeHP3MGH0KbzStEls0mVTSFCSNh3HTaMJT5wWY7NhENJkpq7kdmR27JLFm13rbtOFIDn3n+mhR+bXmqWnV708c5n7+/8fZy2TZNHu9UjXvYLB1j/rrZ+QLaPtlAmH89T61JGSrgf5CA0PyEwDno9EV/GZT2fFiigztuBv5MFpD787C5EHaU=;rAK/HXuNlvogMlZ/xHWU+Q=="
 ---
 

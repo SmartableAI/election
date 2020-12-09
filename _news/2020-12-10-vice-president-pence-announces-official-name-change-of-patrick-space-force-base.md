@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.floridatoday.com/amp/6506564002"
 cdnAmpWebUrl: "https://amp-floridatoday-com.cdn.ampproject.org/c/s/amp.floridatoday.com/amp/6506564002"
 type: article
 quality: 71
-heat: 131
+heat: 111
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "VP Pence, NASA to give updates on Artemis moon program at Kennedy Space Center"
-    excerpt: "Vice President Mike Pence also announced the renaming of two Florida bases to Cape Canaveral Space Force Station and Patrick Space Force Base."
-    publishedDateTime: 2020-12-09T18:32:00Z
-    webUrl: "https://www.khou.com/article/tech/science/space/mike-pence-cape-canaveral-space-council-meeting/67-6a24671e-24f8-446e-a865-0cbc5fdfe6ad"
-    ampWebUrl: "https://www.khou.com/amp/article/tech/science/space/mike-pence-cape-canaveral-space-council-meeting/67-6a24671e-24f8-446e-a865-0cbc5fdfe6ad"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/tech/science/space/mike-pence-cape-canaveral-space-council-meeting/67-6a24671e-24f8-446e-a865-0cbc5fdfe6ad"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 71
-    images:
-      - url: "https://media.khou.com/assets/WTSP/images/a35665a0-6fbd-4bb5-8470-5d26ca7f5bf7/a35665a0-6fbd-4bb5-8470-5d26ca7f5bf7_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Vice President Mike Pence rallying in Augusta ahead of Senate runoffs"
     excerpt: "Vice President Mike Pence will headline a rally in Augusta on Thursday afternoon, as the balance of the U.S. Senate rests in the hands of Georgia voters."
     publishedDateTime: 2020-12-08T14:45:00Z

@@ -31,51 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Cabinet pick hyped dossier, promoted conspiracy about Russian hackers changing votes"
-    excerpt: "Neera Tandem, one of President-elect Joe Biden’s Cabinet picks, has vigorously upheld the results of the November Election, yet past tweets show her promoting the anti-Trump Steele Dossier as well as conspiracies about Russian hackers influencing the outcome of the 2016 presidential election."
-    publishedDateTime: 2020-11-30T22:03:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SB6VssnK354/biden-cabinet-pick-hyped-dossier-promoted-conspiracy-russian"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-pick-hyped-dossier-promoted-conspiracy-russian.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-pick-hyped-dossier-promoted-conspiracy-russian.amp"
+  - title: "Hunter Biden 'tax affairs' under federal investigation"
+    excerpt: "The U.S. Attorney’s Office in Delaware is investigating Hunter Biden’s “tax affairs,” President-elect Joe Biden’s son confirmed on Wednesday, saying he is taking the matter “very seriously” and is “confident” he handled his affairs “legally and appropriately.” \u2028"
+    publishedDateTime: 2020-12-09T21:05:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqduG92XE-M/hunter-biden-tax-affairs-under-federal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-tax-affairs-under-federal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-tax-affairs-under-federal-investigation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20334841054377.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "AOC 'Squad' member says hearing of these two possible Biden Cabinet picks 'makes my skin crawl'"
-    excerpt: "Congressman-elect Jamaal Bowman, D-N.Y., on Thursday said he was satisfied with some of President-elect Joe Biden’s Cabinet picks, but others made his “skin crawl.”  "
-    publishedDateTime: 2020-12-03T20:21:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yw0TqvxuaD0/aoc-squad-member-says-hearing-these-two-possible-biden-cabinet-picks-makes-my-skin-crawl"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-squad-member-says-hearing-these-two-possible-biden-cabinet-picks-makes-my-skin-crawl.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-squad-member-says-hearing-these-two-possible-biden-cabinet-picks-makes-my-skin-crawl.amp"
+  - title: "Ron Johnson pushes back on calls for Hunter Biden special counsel"
+    excerpt: "EXCLUSIVE: Senate Homeland Security Committee Chairman Ron Johnson, who has been looking into Hunter Biden’s foreign business dealings for over a year, told Fox News on Wednesday he opposes the appointment of a special counsel to investigate President-elect Joe Biden’s son, while vowing to continue looking"
+    publishedDateTime: 2020-12-09T22:34:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GchTH4Gp6z0/ron-johnson-hunter-biden-special-counsel-calls-pushback"
+    ampWebUrl: "https://www.foxnews.com/politics/ron-johnson-hunter-biden-special-counsel-calls-pushback.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-johnson-hunter-biden-special-counsel-calls-pushback.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "GOP Rep. Ken Buck calls for Hunter Biden special counsel in letter to Barr"
+    excerpt: "EXCLUSIVE: Republican Rep. Ken Buck on Monday urged Attorney General William Barr to appoint a special counsel to investigate Hunter Biden's business dealings and a laptop purportedly belonging to him in order to ensure an investigation “free from political interference.”"
+    publishedDateTime: 2020-12-07T19:36:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPN7bxKFtu0/gop-rep-ken-buck-hunter-biden-special-counsel"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden DHS pick had 'inappropriate' involvement in drug trafficker's commutation: Investigation"
+    excerpt: "Alejandro Mayorkas has admitted to making a mistake in weighing in on the case."
+    publishedDateTime: 2020-12-02T22:21:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i01zTadlZjs/biden-dhs-pick-congressional-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-pick-congressional-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-pick-congressional-investigation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 163
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/476505cb-4144-4900-9013-5dafd7429c20/6aac77d4-37a1-453b-8d1f-88f467a26d48/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49b0b770-d1a5-4b49-9a85-1c15f2b095e4/8bd1ef1e-2fd7-4e4e-943b-e043a0b90b63/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Resurfaced photo shows Biden press sec Jen Psaki wearing hammer and sickle hat with Russian official"
-    excerpt: "Jen Psaki, who was named to serve as President-elect Biden's White House press secretary, is facing fresh scrutiny over a photo that shows her wearing a Russian hat that bears the communist hammer-and-sickle logo."
-    publishedDateTime: 2020-11-30T23:54:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HpsC35CNkCM/resurfaced-photo-psaki-biden-soviet-union"
-    ampWebUrl: "https://www.foxnews.com/politics/resurfaced-photo-psaki-biden-soviet-union.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/resurfaced-photo-psaki-biden-soviet-union.amp"
+  - title: "Biden DHS pick had 'inappropriate' involvement in drug trafficker's commutation: Investigation"
+    excerpt: "Alejandro Mayorkas, who was nominated by President-elect Joe Biden to serve in his administration as the head of the Department of Homeland Security, was previously accused of having “inappropriate” involvement in the commutation of a major drug trafficker’s sentence."
+    publishedDateTime: 2020-12-02T22:36:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-dhs-pick-congressional-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-pick-congressional-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-pick-congressional-investigation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 123
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4410172-6700-4184-a454-56a6f60cdcfa/66573f91-c971-4e86-8706-b38cab20ac48/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49b0b770-d1a5-4b49-9a85-1c15f2b095e4/8bd1ef1e-2fd7-4e4e-943b-e043a0b90b63/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -367,6 +367,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Hunter Biden says federal prosecutors are investigating his taxes"
+    excerpt: "CNN reported that the investigation dates as far back as 2018 and was put on pause during the election because of its politically sensitive nature."
+    publishedDateTime: 2020-12-09T21:55:00Z
+    webUrl: "https://www.businessinsider.com/hunter-biden-delaware-federal-prosecutors-investigating-taxes-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/hunter-biden-delaware-federal-prosecutors-investigating-taxes-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hunter-biden-delaware-federal-prosecutors-investigating-taxes-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fd140d1240ebd00126be0fc?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Iran pressures Biden with plan to increase underground enrichment machines"
     excerpt: "Iran is raising pressure on U.S. President-elect Joe Biden with plans to install more advanced uranium-enriching centrifuges at an underground plant in breach of its deal with major powers, a U.N. nuclear watchdog report showed on Friday."
     publishedDateTime: 2020-12-04T15:42:00Z

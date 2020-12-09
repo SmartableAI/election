@@ -2,21 +2,21 @@
 category: news
 title: "AP sources: Biden picks Fudge for housing, Vilsack for USDA"
 excerpt: "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration"
-publishedDateTime: 2020-12-09T05:56:00Z
-originalUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda/2020/12/08/57c1cfc8-39b9-11eb-aad9-8959227280c4_story.html"
-webUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda/2020/12/08/57c1cfc8-39b9-11eb-aad9-8959227280c4_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda/2020/12/08/57c1cfc8-39b9-11eb-aad9-8959227280c4_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda/2020/12/08/57c1cfc8-39b9-11eb-aad9-8959227280c4_story.html?outputType=amp"
+publishedDateTime: 2020-12-09T12:52:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_a247689e42154871b07009bde790748f_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -104,7 +104,18 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "The Latest: Biden: Moment calls for waiver for defense pick"
+    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+    publishedDateTime: 2020-12-09T21:19:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-biden-moment-calls-for-waiver-for-defense-pick-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-moment-calls-for-waiver-for-defense-pick-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-moment-calls-for-waiver-for-defense-pick-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
-secured: "i8MgSgxLRrVRhLVFkmIJPSldro1aVev+JN5wMIKdFWP+mZG4NXczo+39C5H8pDmAf4tQVhNZ8hXFAul6qot+jVua3evWp2sR+SY5kMc14na1v3lrf7dHDPer2ndfT1mMpifI9QJfs6GE3UHApo2dtN+2mrjHOJ41I9q9yN0PmLhUnf+CfrS/QnFg+3Kvhi0rAk08xeTId7+lgELU4v9u57BENeUGk9EM7sv4OWKNVkY589AjjdS8dybzywU8YnS9UgNPdH1ZCBvMQFM8pcEA0F62/c1IzAGe2nGhwfkJmXEWek338MXI1IDkCQI0DVwtLCVKPej2SRZHnpzzzKcPKaVOfSNyHhlakCmjr6UY5yg=;4rCuZ3H6tq+z7SNw2Rm7cA=="
+secured: "DuHWSRB4AQ7yTIHZA4FB20lolsVhXKVfwrSCsHUy/sxFmmtKfxPmBoIaxrDEgpuQFm/yCT/TkP9uXdNaHrT7I5eJuhTAbP4CHNafzfz3hnFRs1ll8DU2eY3I/aXkzYbzGRm5xuftJ8fcH5uS6AxGokUWKcJ9W1pHoOxEePS6sSwih9mFpAtmj+VXSODxF237EuhBaNn4d8bFm1IJt1cZq6VssrSuqxjRgXApA6jj6/c2ftDtd5yrWOyXLssAVC5Mk0MrFtR89CJIqDe+ke3EfYYf6ji04p1jVlpTn/L3CKkmIMIjH90cJxxukxHh01IH2gEXrdzY4yg9cIK1FLcpwLtcKytLNHO58Gdp/iw2HMA=;qhZ/Pb+4KY5Kw6DrIduDSw=="
 ---
 

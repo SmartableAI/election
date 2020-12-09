@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-t
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-transition-live-updates/?outputType=amp"
 type: article
 quality: 135
-heat: 835
+heat: 855
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/07/04dfc8e0-5817-4c99-8312-3be7a4b1230b/thumbnail/1200x630/5f84e8e5b635e038d429583d2243481a/ap-080205068440.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "President-elect Biden to push for the majority of schools to reopen by May"
+    excerpt: "Joe Biden pledged Tuesday to bring the coronavirus pandemic under enough control to open the “majority” of schools during his first 100 days as president, even while warning that the U.S. is facing a “dark winter."
+    publishedDateTime: 2020-12-09T22:54:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/kidspost/president-elect-biden-to-push-for-schools-to-reopen-by-may/2020/12/09/ef80229c-2ad2-11eb-92b7-6ef17b3fe3b4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/kidspost/president-elect-biden-to-push-for-schools-to-reopen-by-may/2020/12/09/ef80229c-2ad2-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/kidspost/president-elect-biden-to-push-for-schools-to-reopen-by-may/2020/12/09/ef80229c-2ad2-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D5R5OAB2HUI6XGGEEXOJ6SMH5A.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Here’s the problem Biden faces if he picks current lawmakers for his Cabinet."
     excerpt: "President-elect Joe Biden has begun to select candidates for crucial positions in the Cabinet and other senior administration spots. In the running are sitting elected officials. For example, various Democratic Party factions have urged Biden to select his former primary opponents ,"
