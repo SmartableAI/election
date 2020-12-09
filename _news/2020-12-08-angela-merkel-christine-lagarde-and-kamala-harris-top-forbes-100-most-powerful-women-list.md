@@ -183,6 +183,20 @@ related:
         width: 1000
         height: 723
         isCached: true
+  - title: "As A Stepparent, Kamala Harris Puts 'Families You Choose' In The Spotlight"
+    excerpt: "When Vice President-elect Kamala Harris takes office, she brings with her what stepdaughter Ella Emhoff describes as a \"big blended family.\" Other blended families are celebrating that visibility."
+    publishedDateTime: 2020-12-09T09:00:00Z
+    webUrl: "https://www.npr.org/2020/12/09/943651383/as-a-stepparent-kamala-harris-puts-families-you-choose-in-the-spotlight"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 103
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/08/mcdonoughfamily_wide-337a4b207afeeb62a5c8b7e71f627ed9b889d17a.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Crank & Boom Craft Ice Cream Now Shipping New Flavor, \"KAMALA PECAN,\" Nationwide In Honor Of Kamala Harris' Historic Election"
     excerpt: "Crank & Boom Craft Ice Cream is launching an exciting new flavor for NATIONWIDE SHIPPING. KAMALA PECAN, created in honor of Vice President-Elect Kamala Harris' historic election as the first woman and person of color to be elected Vice President of the United States,"
     publishedDateTime: 2020-12-08T16:01:00Z

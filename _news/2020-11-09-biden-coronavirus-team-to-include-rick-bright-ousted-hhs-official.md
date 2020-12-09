@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-task-force-rick-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden announces 3-pronged plan to combat coronavirus when he takes office"
+    excerpt: "Masks, vaccinations, opening schools President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington,"
+    publishedDateTime: 2020-12-09T10:42:00Z
+    webUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office"
+    ampWebUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20342805312726.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "sDOzJxR3y/KRsIxWmCSk3roWgTDt68u9keqHgx9mlv6QMzRgfmRDSTzNY+7paN9Mb6vkat/O2Iz49ICVtvw+IMOamGlvapcReH6MS5bJrWNG3nJPYEau1AFyUgDITYVmJgnqk9FuvyNt6wVvBGJLdszdwtzW88Xwyhe29JWyIJvCKPJsKlGvY8t7gN1mCQMSB7sw+vwJajlyrc7G6jkr9sNiszqtTGswT4Mq6Z6rHFGm9FI0Qhekn8THmEs+iUR/pVOVFChsPRnD9j0R9ocXYgdbLB7NV41wnzmI44imP1uxzArPXlMruZC71h0lVyJff0Is4E1LyNj47qXklO8MPfM9gWeo8UfI+GmYc0RX0Rc=;ZS7Ohdiii9idK4XAlr3hTQ=="

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden coronavirus adviser makes grim prediction after Thanksgiving holiday"
-excerpt: "A member of President-elect Joe Biden's COVID-19 advisory board on Saturday made a grim prediction about U.S. coronavirus cases in the coming weeks after millions of Americans traveled for Thanksgiving, despite warnings from public health officials."
-publishedDateTime: 2020-11-29T20:25:42Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SygX3JrEKqc/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SygX3JrEKqc/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday"
-ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday.amp"
+title: "Biden announces 3-pronged plan to combat coronavirus when he takes office"
+excerpt: "Masks, vaccinations, opening schools President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington,"
+publishedDateTime: 2020-12-09T10:42:00Z
+originalUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office"
+webUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office"
+ampWebUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
 type: article
-quality: 173
+quality: 134
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333787581360.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20342805312726.jpg?ve=1&tl=1"
     width: 640
     height: 320
     isCached: true
@@ -62,6 +63,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden coronavirus adviser makes grim prediction after Thanksgiving holiday"
+    excerpt: "A member of President-elect Joe Biden's COVID-19 advisory board on Saturday made a grim prediction about U.S. coronavirus cases in the coming weeks after millions of Americans traveled for Thanksgiving, despite warnings from public health officials."
+    publishedDateTime: 2020-11-29T20:25:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SygX3JrEKqc/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-adviser-grim-prediction-after-thanksgiving-holiday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333787581360.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Ingraham: Biden 'ordering' Americans around with COVID mandates could 'backfire'"
     excerpt: "In her \"Ingraham Angle\" monologue on Monday, host Laura Ingraham responded to President-elect Joe Biden's call to unite the country by way of a potential national mask mandate -- as well as his announcement of a coronavirus response task force similar to the one President Trump has utilized."
@@ -191,23 +208,7 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden announces 3-pronged plan to combat coronavirus when he takes office"
-    excerpt: "Masks, vaccinations, opening schools President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington,"
-    publishedDateTime: 2020-12-09T10:42:00Z
-    webUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office"
-    ampWebUrl: "https://www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-announces-3-pronged-plan-to-combat-coronavirus-when-he-takes-office.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20342805312726.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
-secured: "qQGDkTyUcvc3+e4CCiaysYZwv21JYhD3V0jdddNm+4jFzZXKlT2Zx9xE8Zlo0/KpYmMCucLv8lUcwGe5r8thKyxLPsa79tolYcCINXMd6gs6W6J/bwq2soJbxyCYSx2Xkwg0+ZG0iAFdAYPTdaZHKb0EJX4j0zuj2+vQDDjl9T9mBy/fufJl9U1TCTp/C9hsaPx4KUue6yfkC6B9d3GkBEL5G6PQxiIE+M6Kw27iCOM1Hw9uQTg88whcFSPGg1SN0WO7r0qyZdGBR0parmVlSKU0R9JPhNxgJzLjg7yxZhR2itcve5S+diFfIvjD6UlJg15RGYbsFwkGA30duMKCcCDOFz2Ghn0l1z4kNBi4vks=;DaigpOs13bwYir/kSD5nOQ=="
+secured: "PogHIyNlx9WGvYSQrfbagA5MPqK9sxNU0jU+nxRlTIcoZptINFfP1mW3vAYV0TIWfrLv2wU7f2w6qqWTCm2EoHX/F6tcVVDQKHwywzU9lXqJN8NYZfWWXyY+q/zti9VhV1WLaJlTooBky1qmu/dkZMB/UGnD2zNJ2XcK+q8bUKBzrlT/FDxQniZ3B3m8WVMAH/HmvD+actAjwN+Cx6AOsRdGH5kRN4f/bSe5xFfYBSfNopXZYn4n4iw1Y4zFE9IJTnq+hXYsKne1PV7L+sko/optob5HWJVti0UThL95iJ9mRD0VTZ3LQ5nomITh0dc1hzuHc14ImQw8K+1dbDLduN+Cq5y4XcH3mlxLZ+1mkOU=;MsDjLxVRums18sy7rk7+jQ=="
 ---
 

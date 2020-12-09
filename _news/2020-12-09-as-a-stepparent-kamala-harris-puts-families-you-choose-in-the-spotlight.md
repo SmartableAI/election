@@ -1,27 +1,31 @@
 ---
 category: news
-title: "The Latest: Kamala Harris names Tina Flournoy chief of staff"
-excerpt: "WASHINGTON (AP) — The Latest on President-elect Joe Biden (all times local): 8:35 a.m. Vice President-elect Kamala Harris is hiring veteran Democratic strategist Tina Flournoy as"
-publishedDateTime: 2020-12-03T13:56:00Z
-originalUrl: "https://apnews.com/article/joe-biden-al-gore-hillary-clinton-coronavirus-pandemic-bill-clinton-e2469384b1f146d798edebcbad989c36/gallery/7e31b78677014cb48d6c6c481bc05d55"
-webUrl: "https://apnews.com/article/joe-biden-al-gore-hillary-clinton-coronavirus-pandemic-bill-clinton-e2469384b1f146d798edebcbad989c36/gallery/7e31b78677014cb48d6c6c481bc05d55"
+title: "As A Stepparent, Kamala Harris Puts 'Families You Choose' In The Spotlight"
+excerpt: "When Vice President-elect Kamala Harris takes office, she brings with her what stepdaughter Ella Emhoff describes as a \"big blended family.\" Other blended families are celebrating that visibility."
+publishedDateTime: 2020-12-09T09:00:00Z
+originalUrl: "https://www.npr.org/2020/12/09/943651383/as-a-stepparent-kamala-harris-puts-families-you-choose-in-the-spotlight"
+webUrl: "https://www.npr.org/2020/12/09/943651383/as-a-stepparent-kamala-harris-puts-families-you-choose-in-the-spotlight"
 type: article
-quality: 105
+quality: 103
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: NPR
+  domain: npr.org
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/26f6da94effd4303ba958dd7e0b88fb8/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://media.npr.org/assets/img/2020/12/08/mcdonoughfamily_wide-337a4b207afeeb62a5c8b7e71f627ed9b889d17a.jpg?s=1400"
+    width: 1400
+    height: 787
     isCached: true
 
 related:
@@ -137,6 +141,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Latest: Kamala Harris names Tina Flournoy chief of staff"
+    excerpt: "WASHINGTON (AP) — The Latest on President-elect Joe Biden (all times local): 8:35 a.m. Vice President-elect Kamala Harris is hiring veteran Democratic strategist Tina Flournoy as"
+    publishedDateTime: 2020-12-03T13:56:00Z
+    webUrl: "https://apnews.com/article/joe-biden-al-gore-hillary-clinton-coronavirus-pandemic-bill-clinton-e2469384b1f146d798edebcbad989c36/gallery/7e31b78677014cb48d6c6c481bc05d55"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/26f6da94effd4303ba958dd7e0b88fb8/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Dianne Feinstein backs Alex Padilla for Kamala Harris’ Senate seat"
     excerpt: "Sen. Dianne Feinstein endorsed Alex Padilla to join her in the Senate, saying she has shared her support of the California secretary of state with Gov. Gavin Newsom. The governor must pick someone to fill out the remaining two years of Vice President-elect Kamala Harris’ term."
     publishedDateTime: 2020-12-03T19:41:00Z
@@ -164,20 +182,6 @@ related:
       - url: "https://foreignpolicy.com/wp-content/uploads/2020/12/Harris-National-Security-Team-Biden-Transition.jpg?w=1000"
         width: 1000
         height: 723
-        isCached: true
-  - title: "As A Stepparent, Kamala Harris Puts 'Families You Choose' In The Spotlight"
-    excerpt: "When Vice President-elect Kamala Harris takes office, she brings with her what stepdaughter Ella Emhoff describes as a \"big blended family.\" Other blended families are celebrating that visibility."
-    publishedDateTime: 2020-12-09T09:00:00Z
-    webUrl: "https://www.npr.org/2020/12/09/943651383/as-a-stepparent-kamala-harris-puts-families-you-choose-in-the-spotlight"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 103
-    images:
-      - url: "https://media.npr.org/assets/img/2020/12/08/mcdonoughfamily_wide-337a4b207afeeb62a5c8b7e71f627ed9b889d17a.jpg?s=1400"
-        width: 1400
-        height: 787
         isCached: true
   - title: "Angela Merkel, Christine Lagarde And Kamala Harris Top Forbes’ 100 Most Powerful Women List"
     excerpt: "Forbes today announced its 17th annual ranking of The World’s Most Powerful Women which recognizes the trailblazers who are deftly steering countries, constituents and communities through one of the most tumultuous times in modern history."
@@ -531,6 +535,6 @@ related:
         height: 315
         isCached: true
 
-secured: "ZfZ8bJd0tvMtO7IMADFB3V05N1BfVJPUI25z9nF9uXiY6QUH8AjJaLrUFDp5lUMnkeOhTV2Y7UI1BnsoF3HbQFJJ4dfm4SxzGgP+lsI5Fzp4Tlb0ktpgVyGexNkxTkCLxthXpwGhv+CfYyZm+P5sUefn0hXYCsTCeLXOpmfERTvfM9ehuF8QcKiJnLEk9HVNCoNujplcHo4JsgHz1UcTBnY9aDnSMaGoT9SqvdEEMX66fzCuHzA9o53sfeKrvB849EVQCg/DDbh8BmY+yueXb31RXHT0ymFrnwuKtrrd0Fln7wL1F2w+5mDO7rFhl2RsbSP9sa+8HiLv6UQrX6djbNg02fOQ0O7rcS8iL3KClKXLbyEH5dzHLrW4dSXB3JVX/S9wC8urSr3kYd0F+jnEXkhydT4alwZmyolQY6ScNIOMQ99vgi1vtPvBEIF7OZL2Kmu2bH7jefFATXp1u3LM+tXESon0MziqlLe26Ds273igcRhJHd0P/WlDl9NpPJ6fk6EsBSmf/9EUHIcz0Iozsg==;Rf6scdZYH2OqsLazMQl9oQ=="
+secured: "4DNV5n1VJG+RQ7UzBN/e8U8sjXLwYq1Y1uYLRFTPPtWKczrljxjiZ+PKbwLJbrJfWNnlQWGZez0jMwVmiJeRXGtOtfUietJgpV0yImr+Hq7dyzLbHWL2Hc2cEK+EVDNZ3XhVMqiQgmbxzxWzWOBniNrQYKQWPcowQ13LQynY1KmJoNMdC27HIeC95MObL41wb9kw7vusZbjXwWF2YWHj+KFy98gEXqoSVLOykPtGN32tBMvTEpaX4k/ix8T/YQs7kLMoKHf3f/IQHKMTs5kRGW9MJIRPzTd7PnjxeKHbiGm+6kIFF/P8pdkWSBGwUB2ffKzrNp7lmcrrOxABjjkmGUbPDvh1IgDYy6Yrb5KgAEk=;C4DD/FZcmrjiHDbnS3o7rw=="
 ---
 
