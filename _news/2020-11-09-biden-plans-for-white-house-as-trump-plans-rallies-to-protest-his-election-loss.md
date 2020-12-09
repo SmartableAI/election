@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 10601
+heat: 10621
 published: true
 
 provider:
@@ -3686,6 +3686,22 @@ related:
       - url: "https://i.insider.com/5fbc461350e71a0011556fa8?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Politics live updates: Fudge and Vilsack to be tapped for Biden White House posts, Trump election challenges rejected by courts"
+    excerpt: "Rep. Marcia Fudge would be the second Black woman to lead HUD. Former Agriculture Secretary Tom Vilsack would return to his Obama administration role."
+    publishedDateTime: 2020-12-09T13:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/09/presidential-transition-news-joe-biden-donald-trump/6500841002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6500841002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6500841002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/09/USAT/8231a1a9-2a55-48d2-8df5-aff4fef1d9b7-AP20344695708231.jpg?auto=webp&crop=5999,3374,x1,y597&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "In First Public Appearance After Election Loss, Trump Poses For Photos With Bride At His Golf Club"
     excerpt: "The President has been playing golf at the Trump National Golf Course in Sterling, Virginia since Saturday morning."

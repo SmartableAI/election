@@ -323,7 +323,7 @@ related:
   - title: "Trump vows to intervene in Texas election case before Supreme Court"
     excerpt: "President Donald Trump on Wednesday vowed to intervene in a long-shot lawsuit by the state of Texas filed at the U.S. Supreme Court trying to throw out the voting results in four states he lost to President-elect Joe Biden as he seeks to undo the outcome of the election."
     publishedDateTime: 2020-12-09T14:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump/trump-vows-to-intervene-in-texas-election-case-before-supreme-court-idUSKBN28J1VJ"
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28J1VJ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1VJ"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1VJ"
     type: article

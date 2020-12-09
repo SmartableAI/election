@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-wo
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp"
 type: article
 quality: 167
-heat: 1627
+heat: 1647
 published: true
 
 provider:
@@ -272,6 +272,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_70d69aee84e240af90bef411cacb6ad6_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden presents new defense chief as Trump clings to failed effort to overturn election result – live"
+    excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect introduces Lloyd Austin to lead US defense"
+    publishedDateTime: 2020-12-09T20:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd11fb48f08afb1724b725b"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/f7ba39c24018431da90dcd390298d9b2db1cf98f/0_133_5362_3217/master/5362.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=349d4f0eafbb9cc43bb024d43556602a"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
     excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."

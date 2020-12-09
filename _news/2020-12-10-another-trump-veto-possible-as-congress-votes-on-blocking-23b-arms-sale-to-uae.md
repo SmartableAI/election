@@ -79,6 +79,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Dunes at Trump's Scottish golf course lose protected status"
+    excerpt: "Conservation officials in Scotland say the coastal sand dunes at President Donald Trump’s Aberdeenshire golf resort have lost their special status as a protected environmental site"
+    publishedDateTime: 2020-12-09T19:56:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/dunes-trumps-scottish-golf-lose-protected-status-74624436"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/dunes-trumps-scottish-golf-lose-protected-status-74624436"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/dunes-trumps-scottish-golf-lose-protected-status-74624436"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "U.S. Congress defense bill defies Trump on Germany withdrawal, base names"
     excerpt: "U.S. lawmakers unveiled the final version of a massive annual defense policy bill on Thursday that defies President Donald Trump's plans to withdraw troops from Germany and keep the names of Confederate generals on military bases,"
     publishedDateTime: 2020-12-04T08:59:00Z

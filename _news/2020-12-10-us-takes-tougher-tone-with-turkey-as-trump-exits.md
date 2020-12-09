@@ -1328,6 +1328,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "On eve of U.S. vaccine approval, Trump cranks up the politics"
+    excerpt: "Trump’s overly optimistic “I told you so” predictions versus Joe Biden’s “we’ll get there, but it will be tough” message."
+    publishedDateTime: 2020-12-09T20:45:00Z
+    webUrl: "https://www.politico.com/news/2020/12/08/trump-covid-vaccine-summit-443710"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/08/trump-covid-vaccine-summit-443710"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/08/trump-covid-vaccine-summit-443710"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/72/4c/c88ad5eb489daf77bc26c1bc0130/201208-trump-summit-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
     publishedDateTime: 2020-12-01T16:55:00Z

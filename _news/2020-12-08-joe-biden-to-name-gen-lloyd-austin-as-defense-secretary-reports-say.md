@@ -253,6 +253,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden introduces his choice for defense secretary, Lloyd Austin"
+    excerpt: "President-elect Joe Biden introduced retired Army General Lloyd Austin, his nominee to lead the Department of Defense, at a press event in Wilmington, Delaware. Austin spoke about the challenges ahead as he prepares to return to the Pentagon,"
+    publishedDateTime: 2020-12-09T19:42:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-defense-secretary-nominee-lloyd-austin/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/276ddea1-d77e-4b4f-bc24-55a4d8341c66/thumbnail/1200x630/ef3d2c40b804be3b7636071c505ee62b/cbsn-fusion-biden-defense-secretary-nominee-lloyd-austin-thumbnail-604795-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden officially secures enough electors to become president after California certifies his victory in the state"
     excerpt: "California certified its presidential election Friday, officially handing Biden the Electoral College majority needed to win the White House."
     publishedDateTime: 2020-12-05T02:52:00Z

@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "GOP Rep. Ken Buck calls for Hunter Biden special counsel in letter to Barr"
-    excerpt: "EXCLUSIVE: Republican Rep. Ken Buck on Monday urged Attorney General William Barr to appoint a special counsel to investigate Hunter Biden's business dealings and a laptop purportedly belonging to him in order to ensure an investigation “free from political interference.”"
-    publishedDateTime: 2020-12-07T19:36:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPN7bxKFtu0/gop-rep-ken-buck-hunter-biden-special-counsel"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-ken-buck-hunter-biden-special-counsel.amp"
+  - title: "Joe Biden's gaffe-filled 2020: President-elect botches HHS announcement"
+    excerpt: "President-elect Joe Biden had his latest misadventure with a teleprompter on Wednesday, botching the name of Xavier Becerra, his nominee for Health and Human Services Secretary."
+    publishedDateTime: 2020-12-09T20:35:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXylyVV42QA/joe-bidens-best-teleprompter-gaffes-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-bidens-best-teleprompter-gaffes-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-bidens-best-teleprompter-gaffes-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Top pro-GOP PAC launching new initiative to counter Biden's 'far-left policies'"
-    excerpt: "A leading outside group that supports Republican causes is firing up a new initiative to counter what it says will be the \"far-left policies\" of President-elect Joe Biden's incoming administration."
-    publishedDateTime: 2020-12-02T19:22:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACq-NCrn00Q/pro-gop-pac-new-initiative-counter-biden-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-gop-pac-new-initiative-counter-biden-policies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f1b25b6-51f5-4710-a2e8-de6c3dff8d45/1a5a5d5d-281e-4651-96b8-b5982d9f0e7c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "x4LB1sOMgXzOMUuQdnjwLbCzfvC/phAwCJLKaWDF2v8JraTbqZhP0CfoDO8FmmoC9nP2MSqyykcNF1cw5Yf13Lz+OUFeSytN7zz5N0XMBaQpWE5VvBaFfLbmoQDaCBHimiKvS1tHssfHrJHSx5yD8e/YVb8T6Nulk9IaPrGC2rc2w1+RFnj7P7iN+nqoDC34IIw1vI3DYltVmEu9k6GNLY2grdxsQ33gEHb+O458rCgLMEJ+1bOO8wYOZHsho2eIMJDwnzd6mesX1c1sMa82EiPjRJPvGWKKs9+wS0mtW/n6LeljP7MU146DOKz86Oq2XQZJu6DnJwQ4MIzV6m65/FxJvqEV2WK3h5J+M5kCWOc=;GvgdHVIsuFaX++qIX3Z6Sg=="

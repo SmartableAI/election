@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/consulting-firm-scrubs-wiki-page-of
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consulting-firm-scrubs-wiki-page-of-bidens-covid-czar-report.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20337006173537.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Azar says he's already met with Biden transition team"
+    excerpt: "Health and Human Services Secretary Alex Azar said Wednesday that he’s already met with the Biden transition team, looking to ensure a smooth transition of power. "
+    publishedDateTime: 2020-12-09T20:24:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9nB69YUg78E/azar-met-with-biden-transition-team"
+    ampWebUrl: "https://www.foxnews.com/politics/azar-met-with-biden-transition-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/azar-met-with-biden-transition-team.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8c9545a-a072-4743-a566-6e5a86b358a3/fa34f2bf-f746-417f-a5ef-403bbde4e836/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden remains silent on string of Democrats caught flouting their own COVID guidelines"
     excerpt: "As more Democratic officials have come under fire for flouting their own coronavirus advocacy, the nation's top Democrat, President-Elect Biden, appeared to refrain from criticizing them."

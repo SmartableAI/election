@@ -3702,6 +3702,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Politics live updates: Fudge and Vilsack to be tapped for Biden White House posts, Trump election challenges rejected by courts"
+    excerpt: "Rep. Marcia Fudge would be the second Black woman to lead HUD. Former Agriculture Secretary Tom Vilsack would return to his Obama administration role."
+    publishedDateTime: 2020-12-09T13:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/09/presidential-transition-news-joe-biden-donald-trump/6500841002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6500841002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6500841002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/09/USAT/8231a1a9-2a55-48d2-8df5-aff4fef1d9b7-AP20344695708231.jpg?auto=webp&crop=5999,3374,x1,y597&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump says he 'terminated' Defense Secretary Mark Esper days after losing the presidential election"
     excerpt: "Trump's relationship with Defense Secretary Mark Esper soured in recent months. Esper is the first top official fired since Trump lost reelection."
     publishedDateTime: 2020-11-09T18:11:00Z

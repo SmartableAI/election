@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html"
 type: article
 quality: 200
-heat: 2280
+heat: 2300
 published: true
 
 provider:
@@ -1309,6 +1309,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/cc/9a/baf2968c413c83bc394a7f0c7692/201208-ellis-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "On eve of U.S. vaccine approval, Trump cranks up the politics"
+    excerpt: "Trump’s overly optimistic “I told you so” predictions versus Joe Biden’s “we’ll get there, but it will be tough” message."
+    publishedDateTime: 2020-12-09T20:45:00Z
+    webUrl: "https://www.politico.com/news/2020/12/08/trump-covid-vaccine-summit-443710"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/08/trump-covid-vaccine-summit-443710"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/08/trump-covid-vaccine-summit-443710"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/72/4c/c88ad5eb489daf77bc26c1bc0130/201208-trump-summit-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

@@ -3,8 +3,8 @@ category: news
 title: "Trump vows to intervene in Texas election case before Supreme Court"
 excerpt: "President Donald Trump on Wednesday vowed to intervene in a long-shot lawsuit by the state of Texas filed at the U.S. Supreme Court trying to throw out the voting results in four states he lost to President-elect Joe Biden as he seeks to undo the outcome of the election."
 publishedDateTime: 2020-12-09T14:44:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-trump/trump-vows-to-intervene-in-texas-election-case-before-supreme-court-idUSKBN28J1VJ"
-webUrl: "https://www.reuters.com/article/usa-election-trump/trump-vows-to-intervene-in-texas-election-case-before-supreme-court-idUSKBN28J1VJ"
+originalUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28J1VJ"
+webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28J1VJ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1VJ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1VJ"
 type: article
@@ -1731,6 +1731,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "xk1ABLVjhxMlSjJM1r0RXnTyCIrdIfhAr+Fotyxcz1bwOTMyCc1+J1Vo0iQlwBvCMHOYu7+Ni/XgUvWgYA5KHcxIdjMclbacGULboU3WKA+QF/ruXMHhC0hWig8CfOnhNIbNT3vFAM8vki7FKJoadX0UbdPwYUG3MmhAl/rSaZsu1uXiC4Z5JI/YhTf7kWTDXI+HdNFc0TMIqLJpNdFOWkaUlW9K6MA2clALj5I13J6vf5P9ap6iSlrWYv2g5lKmn+eU5BFKXuezu/YuuSBGaFF2IGL9FaCMvLjIAb/BK+Z4LDdu4fcZpbeprP1411A069viHzCVMOG55QQ7DY6ecZTJGktlz/9MKtsMr3szQzU8VkEx15N9r0boxInrHmNuZ9IzcJeAyn64nBUF1vtUQvqJdAH3VLkvqAbJ0lyyuMQxRDtcxaWirjpRoYejAE+aXfdcgXB+n0iCeY0gssTI6Tbg2Xc1CPSguIfqiHyWiodSF6ahtuTkptTZ/c7sVagEONvxgbfetjTNQhaydFFbPw==;uo6fawIjo0RGxEvpnabvtQ=="
+secured: "cC/WvF4onVXf7w6sxECiB8BkcbgRwvRFFjdqIiU8lQr/KWuoP2XNAnV9d1zQgSd1oefeRiMVrjg3546KXtKfKSdoqNIg6OkvhaCUicxQraLN46oL+rvz7bHnqapfzewoPZ1I1Xy9nw6jKeP/AUTo6FJT9qTq1DvaGvdHk4GbCyR2sRN4ekaSy+7GhzaJCZyjrD3/ihdcxcnXMnIlMRGJTjCe5iD00TI7ILBibhJatnmv4mXajebTBiZ0+uCdc6/zXKqAaYneELDXnYKK9rVyAIAtgUcDRQgP385c8947dxwCJWRfI9V299Z62oty3qjNkYjSAotQrOChdmrjBG9FQQbxmjKO2Tn5zHtMMm81vA0=;FEJu9p/w63Idm3r1qdKfFQ=="
 ---
 
