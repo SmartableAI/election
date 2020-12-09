@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump honors legendary Iowa wrestler Gable at White House"
+    excerpt: "President Donald Trump presented the nation’s highest civilian honor to Dan Gable, a renowned wrestler and coach from Iowa who won a gold medal at the 1972 Summer Olympics"
+    publishedDateTime: 2020-12-09T08:13:00Z
+    webUrl: "https://abcnews.go.com/Sports/wireStory/trump-honor-legendary-iowa-wrestler-gable-white-house-74583978"
+    ampWebUrl: "https://abcnews.go.com/amp/Sports/wireStory/trump-honor-legendary-iowa-wrestler-gable-white-house-74583978"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/wireStory/trump-honor-legendary-iowa-wrestler-gable-white-house-74583978"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Sports/WireAP_53571c3599d04628996c811d60337ec1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Former soldier who pleaded guilty to killing 16 Afghans and 7 other former troops and contractors are asking Trump for pardons"
     excerpt: "At least eight former service members and Blackwater guards convicted of war crimes have filed petitions seeking pardons or clemency from Trump."
     publishedDateTime: 2020-12-07T08:36:00Z

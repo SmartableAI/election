@@ -1,28 +1,34 @@
 ---
 category: news
 title: "High court rejects GOP bid to halt Biden's Pennsylvania win"
-excerpt: "The Supreme Court has rejected Republicans' last-gasp bid to reverse Pennsylvania's certification of President-elect Joe Biden's victory in the electoral battleground."
-publishedDateTime: 2020-12-09T03:23:00Z
-originalUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12"
-webUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12"
-ampWebUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
+excerpt: "The Supreme Court has rejected Republicans' last-gasp bid to reverse Pennsylvania’s certification of President-elect Joe Biden’s victory in the electoral battleground"
+publishedDateTime: 2020-12-09T02:59:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/high-court-rejects-gop-bid-halt-bidens-pennsylvania-74613527"
+webUrl: "https://abcnews.go.com/Politics/wireStory/high-court-rejects-gop-bid-halt-bidens-pennsylvania-74613527"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/high-court-rejects-gop-bid-halt-bidens-pennsylvania-74613527"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/high-court-rejects-gop-bid-halt-bidens-pennsylvania-74613527"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_5d0a8c5778b7468297f3e690673dd4c1_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Despite mounting legal losses, Braun refuses to acknowledge Biden's election win"
@@ -564,6 +570,6 @@ related:
         height: 308
         isCached: true
 
-secured: "4gO9zOv7eNP9OW6gruGRxSnY3KF0cWbtegklW3xM2hijURcr98EE4pCUklm7ZKAjmSAe/1tsGhZk2YEIosz8Kxeo1wT8Tqb8tQpWwoSes+klj307OTX6bTQdnRPCPrifh6bCLv+c1d7KvdKXlkX2b4DApe1PUp84AzRDTvqeLn2vm1pbJaEgV84Ostw5/KI4VUOaiJPHiW5BP7WaouaQAAjLQs2jTBej778DknUvzMflJmNMG2bh19RX/qeszTutsZVcHaSo2Rg2tB+Nb7A79jUM7URqNvTVqB69jKDGutXg304CY4HJ8lsCE53lz9EWh9Ypz2r2PBt7Z9A+VT+st5J9546vDYlWo9MiUSpLyJ0=;l9yDJoDtNl9O3tEsoyB3jA=="
+secured: "/nRfNNtUBOMECSKNaLOURoCrwhXVhrXER0BZxKMXf5ZRPlzHOZxmYLG37MIwAAODi8vYlvZjxAyhlJ4Bqgd9ykXZugHd35k0QJbwgBiptIOdC/xLbdAB5VDzR+CqYtyn1qSgiQMJaFdApKDa/mC5xXOg1PsROPqNPsL5DlbwkcL/3UpItXI1oM17NoGt4OQZ+icSfQh+X+4z5HUmE9Ipc6nKxvwap+jk9tvLh9ktMV+gE0fyfaHhsf/TawGSKEmYTwhtMOenANAWHlpzN85frVfsYA4dY0VgEJ7DZM9hui5CT0FqG6N4N9NZUWeyQkwGHutbqG/aC6GLMNqX0s1vNM6hPf0a+NvHLjATbdZ9O8I=;SMT+vgCfYuknmoNGDyZYdw=="
 ---
 

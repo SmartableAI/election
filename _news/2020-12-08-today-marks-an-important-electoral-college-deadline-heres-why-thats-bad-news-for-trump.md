@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6478954002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6478954002"
 type: article
 quality: 116
-heat: 136
+heat: 116
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "President Trump to hold White House COVID-19 summit as pressure mounts for FDA vaccine approval"
-    excerpt: "The White House will host drug manufacturers, distributors and governors to discuss its $12-billion plan to vaccinate Americans against COVID-19."
-    publishedDateTime: 2020-12-08T00:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/07/trump-white-house-covid-summit-fda-vaccine-approval/3861768001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3861768001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3861768001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/07/USAT/2603d7e0-5273-478c-854f-3e83fd666dd0-AFP_AFP_8VR2DQ.jpg?auto=webp&crop=3200,1800,x400,y433&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "8Wz1LwDOZmc4WkxskDjgkiFKXd7RQupGkplHpFO901WqdyWCsakOzIY34BQV5D0dOY8lXKCrRYD12/lLwJL0qYSuI4WtHIJ6UDXfvvXZckUw4EI2yydVKpnLiQrtmq7b3of9vOReHP/GmACfPS4PbMTpU7ojbRHXUv0cKh7jDK+K39FIOBM1WAG33/rE/JuDrN1qoVGU16I+VMM+eSaQgGM2U1d/Bj+X3uZQ6y5bijdCvR3Wk9PkuWLfT1K9sMfE5jj+/R0aBFpShevefhFN8m73sA7R7kPR6Vgr+J2KAPoCbQ9TObjUdvLRutKJRGKZQKnJ3MWcOLCLemHWSscJtvk+2wytqfJJZ1CL0pDqjhZ5Y7u5KnDElB9VbS+zUNgKQ5qyaXgqsnGDG5UwmPbFM1qT/InzL5MwO6uy1Y2D/QfHFnw7GMbnUlSqJGFvRkLTG4XH+QH8oZm+VvYv8LyuMuVh+54tIwgrievCN/t1My7cJAVh5XiFdXfKvpMihA1pHpSLFuQVVh99Y/KvkA21kQ==;Mz8LED9WvJ+L7GB/hFIIXg=="
 ---

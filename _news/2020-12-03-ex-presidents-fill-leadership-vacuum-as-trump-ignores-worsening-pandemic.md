@@ -495,6 +495,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's false crusade rolls on despite devastating Supreme Court rebuke"
+    excerpt: "The only questions now are how many more times President Donald Trump wants to lose the election to President-elect Joe Biden and whether his Republican acolytes on Capitol Hill will wake up and recognize reality.\n    \n"
+    publishedDateTime: 2020-12-09T12:52:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OsRXOdeulsw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-election-fraud-claims-supreme-court-rebuke/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-election-fraud-claims-supreme-court-rebuke/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208160639-03-trump-operation-warp-speed-1208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's threats to democracy are going nowhere in court"
     excerpt: "The repetitive and meritless legal challenges to the November 3 election results from President Donald Trump and his allies have sent one fundamental message: Millions of votes cast by their fellow Americans are worthless.\n    \n"
     publishedDateTime: 2020-12-09T02:07:23Z

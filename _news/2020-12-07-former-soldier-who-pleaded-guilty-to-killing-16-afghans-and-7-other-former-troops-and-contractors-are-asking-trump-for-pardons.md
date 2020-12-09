@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump honors legendary Iowa wrestler Gable at White House"
+    excerpt: "President Donald Trump presented the nation’s highest civilian honor to Dan Gable, a renowned wrestler and coach from Iowa who won a gold medal at the 1972 Summer Olympics"
+    publishedDateTime: 2020-12-09T08:13:00Z
+    webUrl: "https://abcnews.go.com/Sports/wireStory/trump-honor-legendary-iowa-wrestler-gable-white-house-74583978"
+    ampWebUrl: "https://abcnews.go.com/amp/Sports/wireStory/trump-honor-legendary-iowa-wrestler-gable-white-house-74583978"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/wireStory/trump-honor-legendary-iowa-wrestler-gable-white-house-74583978"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Sports/WireAP_53571c3599d04628996c811d60337ec1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "JY+vYpozGpkuimvkGpSJIpYP1RIQummWiqdLab85jiloZR1w6q06Z9jOaJ4Aq3maE9dNFLmJGxvaLbsS5yD6uyYKc2NBm5JlatkGX40Pl77hf4UR/OcCowHkEovB8FLyNpgrz4gLHTjHsps+B26fZUME8nTM5YJZpwmXau576tQyGWiQ7YcxWd91vFo3A4uLUl5AKojj34RGuCFE+ae6rXdExSfYkNnpGvACGSptdn4RWqEMVnookShnOKXRByIlY2/t7gga3cT1kJ3C0A9G2ivkdC0eE4wcX4GsbYJZCluNTAYOdwabC0xHqWAbPxAK1wd5phQcyjhrp/wGUrTt6WMr3kxN8lYQLwLqd815wT4=;JVXiJABlFCZiOTQFbO9+/A=="
 ---

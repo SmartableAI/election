@@ -2,11 +2,11 @@
 category: news
 title: "Supreme Court rejects GOP bid to overturn Biden's victory in Pennsylvania"
 excerpt: "The high court spurned a request from Republican allies of President Trump to decertify Pennsylvania's election results."
-publishedDateTime: 2020-12-09T01:44:00Z
-originalUrl: "https://www.cbsnews.com/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
-webUrl: "https://www.cbsnews.com/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-rejects-gop-pennsylvania-suit-overturn-election-results/"
+publishedDateTime: 2020-12-09T12:36:00Z
+originalUrl: "https://www.cbsnews.com/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
+webUrl: "https://www.cbsnews.com/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-rejects-pennsylvania-gop-suit-overturn-presidential-election-results/"
 type: article
 quality: 124
 heat: -1
@@ -184,6 +184,6 @@ related:
         height: 600
         isCached: true
 
-secured: "LTS0sR3emmNF8SRAsrkZmjc8j9JjqfBiROLvAb9Ege4bZHJ6vDSlm4cbM1VEY2NQFXezpCLangol/qzyYGT1lVjNE7hOPWTj9L29eWUt02E27DZs+cQU691MvlXZ+GUvogSgAJjsHabm4+QyIzLW1NfDZZ3LJTkQfS44JTRNFKVjJohUACTtQLkUjG3KJGqW2ZE6mVHyx3UdOyoezVKJa76hxfAopTYeU5Y9ra63Kfno3UDjUv1fGTUiw1DpWWQTXDgIhIkWaezjZ9q8eFZ7kPp/g8cvjB7/QTHmWf3X3whIZlGTFJC+qJ3k7LGAafhcUwD+nKaqV9ENb3P0lsFnuLUiaAxXZBKP08AhFO7BTnU=;omxANBcOs8H9sBM1oPLPFA=="
+secured: "f8hu5ZaGz0I6cYq9f0CnRTQrzExiP7MtrHBnh3Q0X0o35NOy8bILDIrjegPFy2eNDoZ/zJ1KxI5P46snSCIBamzgWic7/mqJeu/rz+oqdDtI62q4s3+OYev6o3le6HHCYNCyDypKInj+t1t5b0cUkLT7SnVfZ6fuQde8+iHAuOWyeAFvFnI7eNgdCoJiyIy0NOG6KGytnLOo68Y+9865XaWiTXRDI6l8sgk0ptTQY4vjuF2PkE99XKCqNdM9a4/DZoqCEkd/wElhAw/7Ht5R4EJFVcWRtFbsPBOwDosUfSOkGtQV6weBHTmYcmGKJHqRGvdbnxzZI06edpMVkYSgiO8/FQXZrabtSWdez2Aa9Yc=;xUjuOCSiaA4nlMESILG3vw=="
 ---
 

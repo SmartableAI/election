@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump touts COVID-19 vaccines at 'summit' amid growing questions over timeline, number of doses"
-    excerpt: "Trump signed an executive order at the COVID-19 vaccine event asserting the government must ensure Americans have access to the vaccine first."
-    publishedDateTime: 2020-12-08T19:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/trump-touts-covid-19-vaccine-despite-questions-timeline-doses/6488136002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6488136002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6488136002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/4be9a102-6ccc-439e-a0f5-84a67dc2fbaf-AFP_AFP_8WQ49E.jpg?auto=webp&crop=4497,2530,x0,y132&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "m6PGlWb3tHgrlSASjhMQJxNR8J/cE0Vvw9VHDN1uaQFv+GIWaeilZq1WeMgBDRn7K90y6xjkvIlPR5q5WBM6qvbFX/E/fY/h/U5SVCpT/t/93Z+e4dTavkyhodUeBWtbRXcYMiL7qZVLq0DmpGSrKYlzLShaqWd4UGTt68uhklHEOTMSzoHc5E3RYTZ2SncMLakVcOCiJWLJrxSNwCNuq6ANP0RBPdd6Ty000jEjDm2l9e8ljC9lgxMXvKabuOgkX6TUDgm51kaoZtqgXFsQaGOzH2Xh4ZLLAiqaTHXrFfjPbC8SP/itWGTk8OdN0F4mSWc6OHtA+5GNFgZ6BD/BxN/kqGgnW25O33VBTCY9YOgv+0/ljsnwwOPUisVwbW34zHjG0m1TFVvQM7aOC8yuaMYZwKqhCCZJ2mOmWihEbEEhq/PUKGBzsTLtDISbnbWhv1Xhgz49t7d51jnOkUAD9A4vVK6Uc3JQRybtlf9LENi7FDazUha+xp3TaAF/rDJxo0xfzKIv+Az8hsTlqv6VFA==;BQA25r3O3psuFLcnBAx4kQ=="
 ---

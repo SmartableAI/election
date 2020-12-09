@@ -559,6 +559,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Donald Trump's Re-Election Hopes Rest With Unprecedented 2024 Run After Failed Lawsuits"
+    excerpt: "President Donald Trump's path back to the White House will now almost certainly depend on an unprecedented run in the 2024 election, as a bevy of lawsuits challenging the 2020 results have failed to deliver."
+    publishedDateTime: 2020-12-09T10:26:00Z
+    webUrl: "https://www.newsweek.com/donald-trumps-re-election-hopes-rest-unprecedented-2024-run-after-failed-lawsuits-1553446"
+    ampWebUrl: "https://www.newsweek.com/donald-trumps-re-election-hopes-rest-unprecedented-2024-run-after-failed-lawsuits-1553446?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-re-election-hopes-rest-unprecedented-2024-run-after-failed-lawsuits-1553446?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1683144/trump-operation-warp-speed-vaccine-summit.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "US Covid deaths soar as Barr dismisses Trump's election conspiracy theories – live updates"
     excerpt: "US sees highest level of daily Covid deaths since April as over 180,000 new cases are recorded"
     publishedDateTime: 2020-12-02T14:24:00Z
@@ -1057,17 +1073,17 @@ related:
         isCached: true
   - title: "House passes defense legislation with veto-proof margin as Trump threatens veto"
     excerpt: "President Trump has threatened to veto the legislation due to his frustrations over social media company protections."
-    publishedDateTime: 2020-12-09T00:47:00Z
-    webUrl: "https://www.cbsnews.com/news/ndaa-2021-house-passes-defense-legislation-with-veto-proof-margin-as-white-house-threatens-veto/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/ndaa-2021-house-passes-defense-legislation-with-veto-proof-margin-as-white-house-threatens-veto/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ndaa-2021-house-passes-defense-legislation-with-veto-proof-margin-as-white-house-threatens-veto/"
+    publishedDateTime: 2020-12-09T12:39:00Z
+    webUrl: "https://www.cbsnews.com/news/defense-bill-passes-house-veto-proof-margin-trump-threat-section-230/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/defense-bill-passes-house-veto-proof-margin-trump-threat-section-230/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/defense-bill-passes-house-veto-proof-margin-trump-threat-section-230/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 121
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/05/aea0448e-df51-46f3-b69a-6aa025fa4a68/thumbnail/1200x630/011c5de4ff8a7c2fa9044cf8a1464c72/2020-10-03t232508z-1757869472-rc2bbj9tpe38-rtrmadp-3-health-coronavirus-trump.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/22d29beb-171c-44f2-b45b-116746ad9948/thumbnail/1200x630g2/a2f76a465e94fff640d335f1343e3d74/gettyimages-1229999067.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -1210,6 +1226,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/02/1b2aff86-0030-4f6e-ad59-386903796529/thumbnail/1200x630g2/ae00e73e1d028b5549c484a69354be04/gettyimages-1229807681.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "U.S. House overwhelmingly passes $740 billion defense bill, defying Trump veto threat"
+    excerpt: "The U.S. House of Representatives on Tuesday overwhelmingly backed a $740 billion defense policy bill that President Donald Trump has pledged to veto, heading toward a confrontation with the Republican president weeks before he is to leave office."
+    publishedDateTime: 2020-12-09T09:28:00Z
+    webUrl: "https://www.reuters.com/article/usa-defense-congress/u-s-house-overwhelmingly-passes-740-billion-defense-bill-defying-trump-veto-threat-idUSKBN28I38M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I38M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I38M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543880703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB71V8"
+        width: 816
+        height: 545
         isCached: true
   - title: "Nevada judge dismisses Trump effort to overturn the state’s election results, finding campaign failed to prove fraud"
     excerpt: "The decision represented the latest blow to the Trump campaign’s hopes of using the courts to change the result of the presidential election in the last month."

@@ -31,21 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Today marks an important Electoral College deadline. Here's why that's bad news for Trump"
-    excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."
-    publishedDateTime: 2020-12-08T09:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/safe-harbor-deadline-arrives-hurting-trumps-bid-overturn-election/6478954002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6478954002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6478954002"
+  - title: "Trump lawyer Rudy Giuliani receiving same Covid drugs as president"
+    excerpt: "President Donald Trump's personal lawyer, Rudy Giuliani, has revealed in a call to his own radio show that he is being treated for coronavirus with the same drug cocktail his boss received when he was ill with Covid-19. He was admitted to hospital on ..."
+    publishedDateTime: 2020-12-09T12:07:00Z
+    webUrl: "https://www.bbc.com/news/world-55243581"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-55243581"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-55243581"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13426/production/_115968887_tv064232199.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Promising more lawsuits, Trump attorney Rudy Giuliani recycles litany of debunked claims"
+    excerpt: "Rudy Giuliani on Thursday staged a bizarre 90-minute press conference where they outlined plans to resurrect a crumbling legal strategy."
+    publishedDateTime: 2020-11-20T04:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/Politics/election-trump-challenges-rudy-giuliani-02-ap-llr-201118_1605822297710_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump touts COVID-19 vaccines at 'summit' amid growing questions over timeline, number of doses"
+    excerpt: "Trump signed an executive order at the COVID-19 vaccine event asserting the government must ensure Americans have access to the vaccine first."
+    publishedDateTime: 2020-12-08T19:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/08/trump-touts-covid-19-vaccine-despite-questions-timeline-doses/6488136002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6488136002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6488136002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 116
+    quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/d8313eb8-441c-4b59-84f5-a27ff5a1aac8-AFP_AFP_8WK484.jpg?auto=webp&crop=2351,1322,x0,y53&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/4be9a102-6ccc-439e-a0f5-84a67dc2fbaf-AFP_AFP_8WQ49E.jpg?auto=webp&crop=4497,2530,x0,y132&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump is holding out on supporting the $908 billion COVID-19 stimulus bill despite more lawmakers rallying round it"
+    excerpt: "After a press conference, the White House clarified that Trump does not support the $908 billion compromise bill, and instead wants a smaller one."
+    publishedDateTime: 2020-12-04T12:17:00Z
+    webUrl: "https://www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/covid-19-stimulus-trump-holds-back-908-billion-compromise-deal-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5fca1f38b6a3a800199b688e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Rudy Giuliani releases politics video pausing for a sponsored cigar commercial and blaming Fox News for Trump's defeat"
+    excerpt: "In the YouTube series, entitled 'Rudy Giuliani's Common Sense,' Donald Trump's personal attorney discusses political issues and current affairs weekly."
+    publishedDateTime: 2020-11-07T18:32:00Z
+    webUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency"
+    ampWebUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5fa6c6f21df1d50018219713?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "YYqvawgiWShEqV3WkXX6Z9eSi9Zq9zaWvrHiqSwCxjd8sEzd4mnvAGPh6BQVe/tSWI6l4wjjhl/ZvbqEsu5JXXpNKZXIitphVlj0JKajYe0uYvNP1+Sl1piJG+oGZ+ws3akHv5vGQFjDUlW58BBux1EpSaaFc+cG3DLqjJrY+SFABresAO42keXVZFGuUs5ZJpobv53lWXhHtDglZLQ2xP91MYAMhUgVVld3iVhu01r3umu/oXjvoMFTPL/mY0Xpt0QtBD2Mw+LH66xDxoq0VopCYEwHP8moPVuvb58bahiwynytGRrDyP19iQBZlIm2JqKzjZkZKWr6fabTGdnoIKen535nCEZC633P3swKRs7pdgR8Bk6ilm9gduZMQXFjG9e+BJztEv8Dtii+eCE4ZqsHSuBWv0ww0YyLtLPmvRrwAhquix8XtHHcELClSMJF06QllXhicjkFIZGlVk0G4hw7unaDEFqoHd6aFttavX2RC8E4gWUK55Q3w2fHr6gx7hUat5tldioxJvRZBVQhgQ==;lyGhVV78n2/0P/SoxNQD3g=="
