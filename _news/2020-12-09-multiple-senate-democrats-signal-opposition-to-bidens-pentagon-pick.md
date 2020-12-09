@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden mum on Rep. Swalwell's links to suspected Chinese spy"
+    excerpt: "President-elect Joe Biden has remained silent on a report that linked Democratic Rep. Eric Swalwell to an alleged Chinese spy who targeted up-and-coming politicians both locally and nationally during the Obama administration. "
+    publishedDateTime: 2020-12-09T17:51:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-Ytu-zVj6k/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/205ccf99-784a-4268-b9b2-2a6afc8f8d5a/d6d9c0f6-398a-4bff-9fd4-cdcfd6541d4e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Key House Democrat pushes back on Biden picking general for defense secretary"
     excerpt: "A prominent House Democrat who sits on the Armed Services Committee is raising concerns about President-elect Joe Biden’s expected pick for defense secretary."
     publishedDateTime: 2020-12-08T16:02:25Z
@@ -156,6 +172,22 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee035aba-07fe-4e96-ba76-3578de5ac693/750518e9-5a78-4b26-a746-28ba07fc263f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden mum on Rep. Swalwell's links to suspected Chinese spy"
+    excerpt: "President-elect Joe Biden has remained silent on a report that linked Democratic Rep. Eric Swalwell to an alleged Chinese spy who targeted up-and-coming politicians both locally and nationally during the Obama administration."
+    publishedDateTime: 2020-12-09T18:03:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mum-on-rep-swalwells-links-to-suspected-chinese-spy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/205ccf99-784a-4268-b9b2-2a6afc8f8d5a/d6d9c0f6-398a-4bff-9fd4-cdcfd6541d4e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

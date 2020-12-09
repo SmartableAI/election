@@ -434,6 +434,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden makes two more cabinet picks"
+    excerpt: "Watch \"Biden makes two more cabinet picks; to nominate Rep. Marcia Fudge to lead housing and urban development and Tom Vilsack as agriculture secretary\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-09T12:16:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201209120516-biden-makes-two-more-cabinet-picks-to-nominate-rep-marcia-fudge-to-lead-housing-and-urban-development-and-tom-vilsack-as-agriculture-se/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/09/story_08040588_1607515624.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "We’ve entered into a new era of globalization — no matter what Joe Biden does"
     excerpt: "Supporters of an open international economy see new hope in Joe Biden’s election that perhaps globalization is not on its death bed after all. But the assumption that Biden will restore robust growth in international trade and investment is misplaced."
     publishedDateTime: 2020-12-04T11:06:00Z

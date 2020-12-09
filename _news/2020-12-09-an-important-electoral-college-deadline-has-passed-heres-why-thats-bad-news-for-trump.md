@@ -95,6 +95,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Trump supporters plan DC rally to 'demand transparency' before Electoral College vote"
+    excerpt: "As many as 5,000 Trump supporters are expected to gather in Washington, D.C. just days before electors from each state arrive to cast their votes."
+    publishedDateTime: 2020-12-09T11:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/09/march-trump-dc-rally-planned-ahead-electoral-college-meeting/6394642002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6394642002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6394642002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/15/USAT/7e23b1a8-101d-4682-a643-44e6001b919c-2proud_boys.JPG?auto=webp&crop=5567,3131,x1,y78&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Bff4twgxVvFa/xbXO8uLPidYhRbsucPj/YOpld4Yol4sQEbZMeK8qIBukWZs15QI+PNrsyBw+8SYYCpd7c0GEO4nnOvq9WZrUUzmPgutmfmIKSiddlTH/ZHFQ1tQApmfdMIVa2pJ14ZSkR+Bk1QQ72WiBvHrvyoopHJ9QCIWUKaIr1wt7jjjGAcrI8oxmZR7mOTXiZwsbJKzlb1nwC2j0fyTpVZQoyl6Jvi/+FJMo58RBTNN9/MgcZl6UWcMPa2rvHzazRylNIiBKubZld9qY8CJEJLJzwvazz4q9ER7b6u79/+wGIrPmn2GfMrftyMkDKX1kzc1zW9x8yADfpH1LyMmKsRoG/mELiQp6SuigJZ1UtWwH47HZDVSXd7nQiX8uZlg+p/Lor+itKD/7T+YQMzqNwNDAA4AJBrSRHeemk6a+Witti8uNuxvg5ARPBc9fYjiGEJVw36B+YdljZq0aeT17xACToUz2EnMLZvNwe6+yrDGj6j4tKlaZMr9b67LtWzuKAWRQbMm0FuKtOVa6Q==;lvHw4FP9R27g7EnUPvwFxg=="
 ---

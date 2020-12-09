@@ -319,6 +319,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
+    excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
+    publishedDateTime: 2020-12-09T18:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd1064f8f08afb1724b7052"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/83d3a6973b1b0461d21d94b04ea963179d3815b0/0_182_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7b2c24a3156eb87c5324163757cbf17b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden picks defense secretary as Trump hosts vaccine summit – live updates"
     excerpt: "In September, California Attorney General Xavier Becerra – recently tapped up to be president-elect Joe Biden’s new health secretary – filed a lawsuit asking a federal judge to order ATF to change its policy,"
     publishedDateTime: 2020-12-08T10:41:00Z

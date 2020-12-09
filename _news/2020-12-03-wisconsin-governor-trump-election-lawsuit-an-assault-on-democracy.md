@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/state-watch/528400-wisconsin-governor-t
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/528400-wisconsin-governor-trump-election-lawsuit-an-assault-on-democracy?amp"
 type: article
 quality: 140
-heat: 240
+heat: 260
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-s_hpMain_20201202-212705_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Colbert on Trump phoning GOP officials: 'Much more personal than destroying democracy by text'"
+    excerpt: "Late-night hosts discuss Trump’s pressuring of GOP state officials to overturn the election results and his administration’s bungling of a Pfizer vaccine deal"
+    publishedDateTime: 2020-12-09T18:17:00Z
+    webUrl: "https://www.theguardian.com/culture/2020/dec/09/stephen-colbert-donald-trump-jimmy-kimmel-trevor-noah"
+    ampWebUrl: "https://amp.theguardian.com/culture/2020/dec/09/stephen-colbert-donald-trump-jimmy-kimmel-trevor-noah"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/dec/09/stephen-colbert-donald-trump-jimmy-kimmel-trevor-noah"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/35179d2161584dcb3c3dc696c5aa3b4becbdd366/75_133_2544_1527/master/2544.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3c992fb8d7052bc64c3f55ff4ce9f9cf"
+        width: 600
+        height: 360
         isCached: true
   - title: "Wisconsin and Arizona make it official as Trump fails to stop vote certification in all six states where he contested his defeat"
     excerpt: "The president and his allies vowed to continue pressing legal claims challenging the election results in several states — but such efforts have met with resounding failures in the courts."

@@ -128,6 +128,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden Defense pick could make for strange Capitol Hill bedfellows in looming confirmation battle"
+    excerpt: "Retired four-star Gen. Lloyd Austin, President-elect Biden's choice for secretary of defense, is forcing members of both parties in Congress to weigh how comfortable they are with placing a recently-retired general in what is meant to be a civilian position leading the American armed forces."
+    publishedDateTime: 2020-12-09T17:21:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mDfh0-w--g0/biden-defense-secretary-pick-congress-waiver"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defense-secretary-pick-congress-waiver.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defense-secretary-pick-congress-waiver.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "GKabaJ/duaS2KChGf9tgOWPZhTDttZ/QTKz2G1rOijDkbUTJfckfTKc54qIYsjzshfv8YF+W3Q6HEJS1Ts8XJZi4cSDS/+N17HVl8ArBWOxEBnYaaWYS84kLRq78hxch3OunerEWU6v0km9G/Fe3lkhXQNHM1hXimC+31JumEteqSnhwh8aNxsg5D2PhGVshbF4cOh4TkKgG3GGDnrzadcjfnGkIkyltY+3hMh/VJQHdboe8k17+phVAOXomMPtHNcyrU6PoI+K1vOjQL6H3j+qhc3PXnsZUWE7QCe7diLfi2r6Jit+N9A4nsD/SXXy0qLpSlgFKUckYjL/foCpWhMM5v+p+pmIzIvoeECa4B+cwp0oXaGPAt1w3HINsAwoLs9DDG5ZSUtnhey5zi/Aj1nwVSwjIbVJrWMCgxo4yvNU2MbghyaD5MFXDAokrsSTQ874paadjN9rl/dejjfhN5FvkMgeQJj+5O/aiN5TWbe5dxGKcRoM4/nrQuTVN8I5q5Je3NMp0nK+9Xaghvgoidw==;NDVkjs8UiQImvP0Fpxx0QA=="
 ---

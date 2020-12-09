@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-sen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-campaign-georgia-senate-runoff-turnout-concerns/story?id=74524408"
 type: article
 quality: 143
-heat: 1223
+heat: 1243
 published: true
 
 provider:
@@ -621,6 +621,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/_ezZ-C7LaTkE2cMNaCG08IIpOD0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VWJMRQS2OTX7JQWEOM5DUR3RFA.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "'It's time for us to move on': Georgia Lt. Gov. Geoff Duncan fears that Trump's election legal battles are hurting the GOP's image"
+    excerpt: "\"I'm very, very worried that this affects our brand of conservatism,\" Geoff Duncan told CNN. He was criticized by the president as \"a RINO Never Trumper.\""
+    publishedDateTime: 2020-12-09T17:49:00Z
+    webUrl: "https://www.businessinsider.com/geoff-duncan-republican-georgia-trump-end-election-legal-battles-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/geoff-duncan-republican-georgia-trump-end-election-legal-battles-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/geoff-duncan-republican-georgia-trump-end-election-legal-battles-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fd0efa6cee0cf00114fa61e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "GOP Sen. Bill Cassidy says that Trump 'in effect has conceded' by authorizing the presidential transition"
     excerpt: "While the senator has acknowledged Joe Biden as the president-elect, he said Trump's legal challenges should be allowed to play out in court."

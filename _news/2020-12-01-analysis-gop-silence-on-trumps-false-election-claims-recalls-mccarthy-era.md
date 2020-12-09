@@ -543,6 +543,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump ally lobbying fellow House Republicans to support Texas lawsuit seeking to overturn the election"
+    excerpt: "Rep. Mike Johnson of Louisiana, a close ally of President Donald Trump, sent an email from a personal email account to every House Republican soliciting signatures for an amicus brief in the longshot Texas lawsuit seeking to invalidate electoral college votes from Georgia, Michigan, Pennsylvania and"
+    publishedDateTime: 2020-12-09T18:41:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OZLqWXI9TJE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/mike-johnson-letter-house-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/mike-johnson-letter-house-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209130720-rep-mike-johnson-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President Donald Trump raises more than $170 million since Election Day as he pushes baseless fraud claims"
     excerpt: "President Donald Trump and his political operation have raised more than $170 million since Election Day, a person familiar with the matter said -- a massive fundraising haul fueled by Trump's baseless allegations that the election was rigged.\n    \n"
     publishedDateTime: 2020-12-01T14:23:47Z

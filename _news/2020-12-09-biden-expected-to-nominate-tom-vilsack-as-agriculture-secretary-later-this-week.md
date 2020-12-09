@@ -189,6 +189,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "What you need to know about Biden's nominees"
+    excerpt: "President-elect Joe Biden has moved swiftly to build out his administration since his election last month, and has named several people to top roles in his Cabinet and other key posts.\n    \n"
+    publishedDateTime: 2020-12-09T18:03:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pdB85qBLaj0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/what-to-know-about-biden-cabinet-picks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/what-to-know-about-biden-cabinet-picks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209105126-biden-cabinet-announcement-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP leadership rejects resolution acknowledging Biden as President-elect"
     excerpt: "Congressional Republican leaders on Tuesday rejected a resolution that asserted that Joe Biden is President-elect, the latest refusal by the GOP on Capitol Hill to accept the election results even though it's been clear for weeks that President Donald Trump lost.\n    \n"
     publishedDateTime: 2020-12-08T18:31:22Z

@@ -41,34 +41,6 @@ related:
         width: 1200
         height: 669
         isCached: true
-  - title: "Vice President Mike Pence rallying in Augusta ahead of Senate runoffs"
-    excerpt: "Vice President Mike Pence will headline a rally in Augusta on Thursday afternoon, as the balance of the U.S. Senate rests in the hands of Georgia voters."
-    publishedDateTime: 2020-12-08T14:45:00Z
-    webUrl: "https://www.postandcourier.com/aikenstandard/news/vice-president-mike-pence-rallying-in-augusta-ahead-of-senate-runoffs/article_1a5e0e1c-3969-11eb-8931-9334ebebb1f1.html"
-    type: article
-    provider:
-      name: Post and Courier Charleston
-      domain: postandcourier.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/93/393f2522-396a-11eb-9af8-0f9ce89e98db/5f3faefe0f231.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "Vice President Mike Pence to Visit the Space Coast Today to Chair the White House National Space Council"
-    excerpt: "Vice President Mike Pence will visit the Space Coast on Dec. 9 to chair the White House National Space Council on December 9 at Kennedy Space Center."
-    publishedDateTime: 2020-12-09T05:26:00Z
-    webUrl: "https://spacecoastdaily.com/2020/12/vice-president-mike-pence-to-visit-the-space-coast-today-to-chair-the-white-house-national-space-council/"
-    type: article
-    provider:
-      name: Space Coast Daily
-      domain: spacecoastdaily.com
-    quality: 38
-    images:
-      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/03/Mike-Pence-Vice-President-600-2.jpg"
-        width: 600
-        height: 331
-        isCached: true
 
 secured: "ho06jwWa2uX47FeoTPIEGxYzHssDCD68Kmb60CMefTRUDnWXcMLKBC3tFIDoxNG0Na0o835ApnfKbROk4t2eTbAp9Soxmcq0hj4OInjKt/ugmKvwpVY2Co3dX1Hpgvd6N4TSGTFoSw8EPmacAZXM+QNdnrt13zJIuUj7XBV4QBkF1lLQKAaJM16XjFaDOnVYueUdEmq2TRVDTbtUbVhQxSX3dYsPzagOXrtk46OaeVSP/+3Pgw5huB18Ju+PmtWg1MIpNp5t9z1qFZOwPcPObheUfQOO6EY+9ovYvvlll66l1qK9tKn2NyYT6YN7TEBPd0kc66mKUzJuIkpRbLjpxfy3gAcs3EXaCXuqAvcCyAs=;BGfXsGmfE0SoToOM4FNtUQ=="
 ---

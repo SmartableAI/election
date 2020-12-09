@@ -2,11 +2,11 @@
 category: news
 title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary: Axios"
 excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, Axios reported on Tuesday, citing people familiar with the matter."
-publishedDateTime: 2020-12-09T13:25:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUKKBN28J0UL"
-webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUKKBN28J0UL"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28J0UL"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28J0UL"
+publishedDateTime: 2020-12-09T13:23:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUSKBN28J0UL"
+webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack-idUSKBN28J0UL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J0UL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J0UL"
 type: article
 quality: 105
 heat: -1
@@ -186,6 +186,6 @@ related:
         height: 677
         isCached: true
 
-secured: "avFVNFvH7O+TJ0BIFgc8lH12mfm/74viXFLs7AdCPrtqtX1nyuEOZ38Dx4ahMYr9jQgC7ophH75lrexs6iTTR7IZq384F1sZst2A2e/klU4LE8t0offNavNMtSMIlPS34ehrnsoltyzoD8lTMX2vDCGE/kHtBVDqt1KlpDzbWy7v9OGxlVpJTtqQSTmNJJOKFBKrHq+QZrSZcEbjAIDSVI1o5CLszWYjHkE3uHtSePl+nufwYnWJgsjJCbrQ80aHWpr2eol7GpF5mbwVYfM8oF0x0Wi+No+s4dugfUcu7XRr7uSnlUEW5wE9lWbH4UdH+V5EDsBo2+Gbv2s6nvpitfkkFe4jBsNtDTf+BtrFMSg=;e/APdmke+LlEmAGFShKl0Q=="
+secured: "gOOC8z4wxsrcR8SZD6eYCWDPRRtLf2GEWysoVC00Kgll+TkX4w4k/fDuxydYC3J+5RFShtXFS4Dl9+aXlFokSwjBALk67xz43nrgBGUcIhIWcFI4PYIIrBLKczXn0mjxTU+FgUspFPxvqmoafikNT0cBhg7MvLaefSameYSj6D5/3DyNPear90L7NDwoxpoZY+4dg601kUozSNofM3JU8EgvTJXeCtYF2wNts2QoTjv34mTsmIjHI689F519ynhQspVtkz1TXOUAGtac+tPMfIMuCAiKjXDmTaKTzMZcVIjGedRzkXQO5FaN4PHvv4j2oUGnNqP+4086irW5hAY9Gc7j1R3RXBE8FksNFvcGK9s=;G1T/zbNnjjCKIHZW4WsDuQ=="
 ---
 

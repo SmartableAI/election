@@ -1,0 +1,101 @@
+---
+category: news
+title: "Biden set to appear with Gen. Lloyd Austin as he lobbies Democrats to back waiver for defense secretary nominee"
+excerpt: "President-elect Joe Biden will begin trying to sell his choice for defense secretary, retired Army Gen. Lloyd Austin, to congressional Democrats who are balking at the prospect of waiving the requirement that the position be filled by someone who has been out of active-duty military service for at least"
+publishedDateTime: 2020-12-09T17:50:02Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE1N_GYyXrk/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE1N_GYyXrk/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
+type: article
+quality: 155
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192520-01-gen-lloyd-austin-file-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Biden names retired Gen. Lloyd Austin as secretary of defense nominee"
+    excerpt: "President-elect Joe Biden has named retired Army Gen. Lloyd Austin as his nominee for secretary of defense, the Biden transition team announced Tuesday.\n    \n"
+    publishedDateTime: 2020-12-08T22:14:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pk3iAnwqGjc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden picks retired Gen. Lloyd Austin to be his secretary of defense"
+    excerpt: "President-elect Joe Biden has selected retired Army Gen. Lloyd Austin, the former commander of US Central Command, to be his secretary of defense, a source familiar with the decision told CNN on Monday.\n    \n"
+    publishedDateTime: 2020-12-08T00:33:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9EqU31lITSQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/07/politics/biden-picks-lloyd-austin-as-secretary-of-defense/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/biden-picks-lloyd-austin-as-secretary-of-defense/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/111129080221-biden-and-general-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Biden faces Democratic pushback over waiver to allow retired general to lead Pentagon "
+    excerpt: "Senate Democrats are uneasy about granting a rarely invoked waiver that would allow President-elect Joe Biden's pick of retired Gen. Lloyd Austin to head the Defense Department, the first nominee to encounter resistance from senators in the incoming President's own party.\n    \n"
+    publishedDateTime: 2020-12-08T19:57:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OUaJV1l4cV8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/democratic-pushback-biden-cabinet-pick/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/democratic-pushback-biden-cabinet-pick/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Transition Live Updates: Biden to Formally Name Austin as Defense Secretary"
+    excerpt: "President-elect Joe Biden is set to introduce Lloyd J. Austin III, a retired Army general, as his choice to lead the Pentagon. On Tuesday, Mr. Biden and President Trump offered the American people very divergent messages on the state of the virus."
+    publishedDateTime: 2020-12-09T10:55:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/09/us/joe-biden-donald-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/10/world/09transition-briefing-austin/09transition-briefing-austin-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+
+secured: "g0NwFTZeLR2dLs9tkftflPbLxrcGz1EmjYFOOzKehh2XZJav8duL34fKyBv88KVTnuJI1L/ARJwgyOyYSS842ZYQWKvKA19tYv1fN+VrC+CLFqDvA861ReSgNeinXPDhD1QSiB7TMnuQHgvJUCZhbT9frur/Nh9dEMo3Xz92ed1/LyIJGIxkDws5GRt54dR1YYHJP422Olz+VdyGD5JhRrfpyZo3euyRxTpvTYDCsdO+0Vf85YuRzWjWCo78cjwEJuiCPsKDtwL613lG0y3KGV0c2omcYFD0Zjzwh34KvYo82yMajTlOWNbsHYf9LJWCgA85SiEryOoP8Fd1+mY+AH/rfh2+gRrGAkEfZXet5UU=;pfCFoO+sJYnRcswjOC+NJg=="
+---
+

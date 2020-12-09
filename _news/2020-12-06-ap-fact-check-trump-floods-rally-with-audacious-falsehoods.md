@@ -79,6 +79,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Trump supporters plan DC rally to 'demand transparency' before Electoral College vote"
+    excerpt: "As many as 5,000 Trump supporters are expected to gather in Washington, D.C. just days before electors from each state arrive to cast their votes."
+    publishedDateTime: 2020-12-09T11:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/09/march-trump-dc-rally-planned-ahead-electoral-college-meeting/6394642002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6394642002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6394642002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/15/USAT/7e23b1a8-101d-4682-a643-44e6001b919c-2proud_boys.JPG?auto=webp&crop=5567,3131,x1,y78&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "An important Electoral College deadline has passed. Here's why that's bad news for Trump"
     excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."
     publishedDateTime: 2020-12-09T05:49:00Z

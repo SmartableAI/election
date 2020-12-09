@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to appear with Gen. Lloyd Austin as he lobbies Democrats to back waiver for defense secretary nominee"
+    excerpt: "President-elect Joe Biden will begin trying to sell his choice for defense secretary, retired Army Gen. Lloyd Austin, to congressional Democrats who are balking at the prospect of waiving the requirement that the position be filled by someone who has been out of active-duty military service for at least"
+    publishedDateTime: 2020-12-09T17:50:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE1N_GYyXrk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192520-01-gen-lloyd-austin-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "6K7GQj5YONIqwKWXVrV5cPSM/WkfUpnI8z0YJawtp1YFr4h/R3bGL7VH8qikwW03GZgU+ss/fPqIucHDKs44KSTQNyCd+Y87JL9nGywohawrq3UJbg41a1rsAxw2E6+EOnniEqVDDAzaJ9tF5FOC+0/wQcigX2DODa3T8dMYEs4NXBSvxiUs49lFVRr9hAIQ7o0tFAQ7WPNXmbhXHOtO1bM2b4uHVa0cGsbBZ4cJ8NXsj/WWq72XIK+DEiQM6G51pvyAelfFIC4q6KIcQMEOZeexbn4NqpyjReDVHZSnyjgV25I+N3lj5YgtI49wfq3FR6z9faWXCRR+lOVEAZU2ifivx4obVjCmIUtwTI/9zZo=;yfvPNiP5tnQQyKz/L19zNw=="
 ---

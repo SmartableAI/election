@@ -420,6 +420,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden makes two more cabinet picks"
+    excerpt: "Watch \"Biden makes two more cabinet picks; to nominate Rep. Marcia Fudge to lead housing and urban development and Tom Vilsack as agriculture secretary\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-12-09T12:16:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201209120516-biden-makes-two-more-cabinet-picks-to-nominate-rep-marcia-fudge-to-lead-housing-and-urban-development-and-tom-vilsack-as-agriculture-se/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/09/story_08040588_1607515624.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Civil rights groups pressure Biden to diversify senior Cabinet posts"
     excerpt: "The Post’s Annie Linskey explains why President-elect Joe Biden’s early top Cabinet picks worry Black, Hispanic and Asian supporters."
     publishedDateTime: 2020-12-08T16:32:00Z

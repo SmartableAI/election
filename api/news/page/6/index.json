@@ -2,6 +2,115 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-02-trump-vows-defense-bill-veto-unless-internet-liability-shield-scrapped.md",
+      "title": "Trump vows defense bill veto unless internet liability shield scrapped",
+      "excerpt": "U.S. President Donald Trump said on Tuesday he would veto the $740 billion National Defense Authorization Act unless it includes a measure eliminating a federal law protecting tech companies such as Facebook and Twitter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-trump-tech/trump-vows-defense-bill-veto-unless-internet-liability-shield-scrapped-idINKBN28C0B1",
+      "originalUrl": "https://www.reuters.com/article/usa-trump-tech/trump-vows-defense-bill-veto-unless-internet-liability-shield-scrapped-idINKBN28C0B1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543139133&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB1045",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28C0B1",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C0B1",
+      "publishedDateTime": "2020-12-02T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-trump-is-leaving-washington-as-he-governed-chaotically.md",
+      "title": "Trump is leaving Washington as he governed — chaotically",
+      "excerpt": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
+      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_49/3432524/201202-donald-trump-mc-1314_76baad09f4ea18edab7aa6aafee2438b.JPG",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249684",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249684",
+      "publishedDateTime": "2020-12-02T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-biden-admits-dems-forgot-rural-america-says-he-did-something-good-for-the-country-by-beating-trump.md",
       "title": "Biden admits Dems 'forgot' rural America, says he did 'something good for the country' by beating Trump",
       "excerpt": "President-elect Joe Biden said Democrats \"forgot\" rural America in an interview with New York Times opinion columnist Thomas L. Friedman published Wednesday.",
@@ -1261,114 +1370,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-coronavirus-updates-pence-says-vaccine-could-be-shipped-in-2-weeks-gov-ron-desantis-says-florida-schools-to-stay-open-in-2021.md",
-      "title": "Coronavirus updates: Pence says vaccine could be shipped in 2 weeks; Gov. Ron DeSantis says Florida schools to stay open in 2021",
-      "excerpt": "California Gov. Gavin Newsom warns of tougher stay-at-home order. Michigan Rep. John Chirkun tests positive. U.S. deaths top 268K. Latest COVID news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2020/12/01/covid-news-cdc-vaccine-anchorage-california-florida-schools/6470606002/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2020/12/01/covid-news-cdc-vaccine-anchorage-california-florida-schools/6470606002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/01/USAT/d930d904-53f3-4af1-bda4-4c595d09cb37-AP20335715496723.jpg?auto=webp&crop=5692,3202,x0,y289&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6470606002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6470606002",
-      "publishedDateTime": "2020-12-01T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-meadows-to-meet-with-fda-chief-as-trump-asks-about-status-of-vaccine-emergency-approval.md",
-      "title": "Meadows to meet with FDA chief as Trump asks about status of vaccine emergency approval",
-      "excerpt": "White House chief of staff Mark Meadows is scheduled to meet with Food and Drug Administration Commissioner Stephen Hahn in the West Wing Tuesday, as President Donald Trump has privately demanded to know why the agency hasn't granted emergency use for Pfizer's coronavirus vaccine yet, according to two",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1xct-Eqv0mA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1xct-Eqv0mA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201106231354-mark-meadows-1013-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/mark-meadows-fda-vaccine-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/mark-meadows-fda-vaccine-trump/index.html",
-      "publishedDateTime": "2020-12-01T04:35:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

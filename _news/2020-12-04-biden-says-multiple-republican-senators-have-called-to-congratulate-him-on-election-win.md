@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html"
 type: article
 quality: 182
-heat: 762
+heat: 782
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208140911-01-biden-health-team-announcement-1208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "What you need to know about Biden's nominees"
+    excerpt: "President-elect Joe Biden has moved swiftly to build out his administration since his election last month, and has named several people to top roles in his Cabinet and other key posts.\n    \n"
+    publishedDateTime: 2020-12-09T18:03:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pdB85qBLaj0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/what-to-know-about-biden-cabinet-picks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/what-to-know-about-biden-cabinet-picks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209105126-biden-cabinet-announcement-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

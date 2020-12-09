@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C0B1"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C0B1"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543432218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB30GH"
         width: 817
         height: 545
+        isCached: true
+  - title: "Another Trump veto possible as Congress votes on blocking $23B arms sale to UAE"
+    excerpt: "President Donald Trump is nearing one last battle with Congress over his push for massive arms sales to the Middle East -- threatening to veto lawmakers' effort to halt a $23 billion sale to the United Arab Emirates."
+    publishedDateTime: 2020-12-09T17:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-veto-congress-votes-blocking-23b-arms-sale/story?id=74615890"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-veto-congress-votes-blocking-23b-arms-sale/story?id=74615890"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-veto-congress-votes-blocking-23b-arms-sale/story?id=74615890"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/leaders-abraham-accords-gty-ps-201209_1607527065488_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump aide banned from Justice Dept. after pressuring staffers for case information"
     excerpt: "A Trump aide at the Justice Department has been banned from the building after trying to pressure staff members for sensitive case information."

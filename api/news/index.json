@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-10-the-big-lie-that-wont-die-how-trump-and-his-allies-favorite-bogus-fraud-claim-keeps-surviving.md",
+      "title": "The big lie that won’t die: How Trump and his allies’ favorite bogus fraud claim keeps surviving",
+      "excerpt": "When the history of President Trump’s failing effort to overturn the 2020 election results is written, there will be many bogus claims to chew on. But more than any other, one is emerging is the epitome of bad faith,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NF22EOQBDII6XOJOAKLHN6PL5Q.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/?outputType=amp",
+      "publishedDateTime": "2020-12-09T10:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-vice-president-pence-announces-official-name-change-of-patrick-space-force-base.md",
+      "title": "Vice President Pence announces official name change of Patrick Space Force Base",
+      "excerpt": "One year after the U.S. Space Force was created by President Trump and Patrick Air Force Base was designated a space force base, Vice President Mike Pence made the name change to Patrick Space Force Base official.",
+      "sourceUrl": null,
+      "webUrl": "https://www.floridatoday.com/story/tech/science/space/2020/12/09/vice-president-pence-announces-official-name-change-patrick-space-force-base/6506564002/",
+      "originalUrl": "https://www.floridatoday.com/story/tech/science/space/2020/12/09/vice-president-pence-announces-official-name-change-patrick-space-force-base/6506564002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/09/PBRE/b361ae31-26de-47bf-adcd-6538f9e1acc9-SpaceForce2.jpg?auto=webp&crop=4031,2268,x0,y604&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.floridatoday.com/amp/6506564002",
+      "cdnAmpWebUrl": "https://amp-floridatoday-com.cdn.ampproject.org/c/s/amp.floridatoday.com/amp/6506564002",
+      "publishedDateTime": "2020-12-09T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Florida Today",
+        "domain": "floridatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-melania-trump-just-wants-to-go-home.md",
       "title": "Melania Trump 'just wants to go home'",
       "excerpt": "In mid-November, as President Donald Trump railed against the election results, his wife, first lady Melania Trump publicly agreed with his sentiments. But privately, a handful of days after the final state tally, the first lady tasked an emissary with discreetly finding out what was available to her",
@@ -499,7 +594,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1194,7 +1289,7 @@
       "originalUrl": "https://www.greenvilleonline.com/story/news/local/2020/12/07/vice-president-mike-pence-visit-greenville-sc-talk-covid/6484240002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1226,110 +1321,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-today-marks-an-important-electoral-college-deadline-heres-why-thats-bad-news-for-trump.md",
-      "title": "Today marks an important Electoral College deadline. Here's why that's bad news for Trump",
-      "excerpt": "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/safe-harbor-deadline-arrives-hurting-trumps-bid-overturn-election/6478954002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/08/safe-harbor-deadline-arrives-hurting-trumps-bid-overturn-election/6478954002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/06/USAT/d8313eb8-441c-4b59-84f5-a27ff5a1aac8-AFP_AFP_8WK484.jpg?auto=webp&crop=2351,1322,x0,y53&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6478954002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6478954002",
-      "publishedDateTime": "2020-12-08T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-who-is-behind-the-fake-trump-presidential-library-website-we-talk-to-the-anonymous-architect.md",
-      "title": "Who is behind the fake Trump Presidential Library website? We talk to the anonymous architect",
-      "excerpt": "Not quite as mysteriously as a monolith, a website has appeared for a fictional Donald J. Trump Presidential Library. The anonymous architect tells us why they did it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/7e11cfb/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6e%2F76%2F70d6e3b8436db2301d3382e733f0%2Fa-christmas-for-mary.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview?_amp=true",
-      "publishedDateTime": "2020-12-07T22:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

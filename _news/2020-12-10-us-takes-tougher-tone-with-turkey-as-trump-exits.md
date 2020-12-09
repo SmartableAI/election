@@ -560,6 +560,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump ally lobbying fellow House Republicans to support Texas lawsuit seeking to overturn the election"
+    excerpt: "Rep. Mike Johnson of Louisiana, a close ally of President Donald Trump, sent an email from a personal email account to every House Republican soliciting signatures for an amicus brief in the longshot Texas lawsuit seeking to invalidate electoral college votes from Georgia, Michigan, Pennsylvania and"
+    publishedDateTime: 2020-12-09T18:41:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OZLqWXI9TJE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/mike-johnson-letter-house-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/mike-johnson-letter-house-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209130720-rep-mike-johnson-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President Donald Trump raises more than $170 million since Election Day as he pushes baseless fraud claims"
     excerpt: "President Donald Trump and his political operation have raised more than $170 million since Election Day, a person familiar with the matter said -- a massive fundraising haul fueled by Trump's baseless allegations that the election was rigged.\n    \n"
     publishedDateTime: 2020-12-01T14:23:47Z
@@ -1659,6 +1675,6 @@ related:
         height: 773
         isCached: true
 
-secured: "jx+EUFoZqRhSXDf4vQf1xqeS8tFzjhanrM2NTRjQnwdj/40IvxWJryIexr8PYLxeLR34o6tkGvp5SeBIOAtmNkH1iOidbfj/epZj2AOwDDhYnAvJUvmbRL6/HWSx4xxBjk2I7YBTjTo5pAoGleQhJf8QqMg2vLr5bDxIwBPJBFAnkWad+tWMOyR/GAF6yVXjBMD8Whng11uJK1GP4OzyMB/EFy3/5Q+aCEq7qJRufbhpUODdZbUCqf+T+jR55vuB/ib59sMyt7FILWja9JQwj3+/vn6v1/EflchZ27uOvbV4B/Vdxdab6s2/yOLSvZwBdk8L9tFjXU/xdnhqEduBwcKqORJncANCDYoRN/lUyDE=;4S/1lymh/BeWCkSVX2dOWQ=="
+secured: "Ox8diyPod84xRgsw7mSpgk1vD60yQdkjCyr5cm704mobslyVzEhcd4/HhPw5xxHK9cNCPpKkd351F80r3/qORnLMR2pRvfQG1VqcwveiCaC/13/YKgGUgT/fIkWaeRfPQWG3YaQAzzDHOzShxBFBF6dqaMWajepifVgIv6/V2z79LLs2tb5a7M0tIx1Xip27HbzPuoOqjFgYjapjJBUvHci1otoEQ7pX/qUbQVSGkjlFmJzOBVV+d4iegpN95MipxZzKW5RsqD68x2LpAhoz5w6eB8KtnYjutH/nq3TAW3iUNIqFS8CToP3Jz62VZ7lSRt1KREZcFYA2F5Yd4osAUziyhxhh2yATZOLWoMwXOaoBCt51++f7wX/yFZeBKROHM9ssHGv5Ij5UxHh8eKbNHHGjNgS/qYwi5YVGDKSxrKv+H8cxh4fG/LNzPsnkKGn6q/TLt77jaQ0aRSjz+ewMsclLdyE9IFC7D3Asxsto8S0RbgOM9BRcOneHu01I3tnpUD9ThPNhy4RuKEnOtQQpzQ==;2X59QgJQvsN8H+Yt+B1p+w=="
 ---
 

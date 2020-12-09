@@ -25,35 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence to visit Greenville for coronavirus-response discussion"
-    excerpt: "Vice President Mike Pence will visit Greenville on Thursday to talk about response to COVID-19 before traveling to a campaign rally in Augusta, Georgia. According to his office, Pence is visiting Greenville to take part in a roundtable discussion highlighting the public-private partnership to combat the coronavirus,"
-    publishedDateTime: 2020-12-08T10:22:00Z
-    webUrl: "https://www.greenvilleonline.com/story/news/local/2020/12/07/vice-president-mike-pence-visit-greenville-sc-talk-covid/6484240002/"
-    ampWebUrl: "https://amp.greenvilleonline.com/amp/6484240002"
-    cdnAmpWebUrl: "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/6484240002"
+  - title: "Vice President Pence announces official name change of Patrick Space Force Base"
+    excerpt: "One year after the U.S. Space Force was created by President Trump and Patrick Air Force Base was designated a space force base, Vice President Mike Pence made the name change to Patrick Space Force Base official."
+    publishedDateTime: 2020-12-09T18:18:00Z
+    webUrl: "https://www.floridatoday.com/story/tech/science/space/2020/12/09/vice-president-pence-announces-official-name-change-patrick-space-force-base/6506564002/"
+    ampWebUrl: "https://amp.floridatoday.com/amp/6506564002"
+    cdnAmpWebUrl: "https://amp-floridatoday-com.cdn.ampproject.org/c/s/amp.floridatoday.com/amp/6506564002"
     type: article
     provider:
-      name: Greenville News
-      domain: greenvilleonline.com
-    quality: 70
+      name: Florida Today
+      domain: floridatoday.com
+    quality: 71
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/03/30/PGRE/26d93d2a-50d7-4a29-a0ad-83b758897d6c-SS_pence_03_30_2019_1539.JPG?auto=webp&crop=2999,1671,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PBRE/b361ae31-26de-47bf-adcd-6538f9e1acc9-SpaceForce2.jpg?auto=webp&crop=4031,2268,x0,y604&format=pjpg&width=1200"
         width: 1200
-        height: 669
+        height: 675
         isCached: true
-  - title: "Pence to visit Tennessee, talk virus vaccines"
-    excerpt: "Vice President Mike Pence is scheduled to visit Memphis on Thursday to discuss the development and distribution of the COVID-19 vaccines, according to his office."
-    publishedDateTime: 2020-12-03T15:30:00Z
-    webUrl: "https://www.timesnews.net/living/health-care/pence-to-visit-tennessee-talk-virus-vaccines/article_0001c35c-3580-11eb-ab1e-134818ed0d1f.html"
+  - title: "VP Pence, NASA to give updates on Artemis moon program at Kennedy Space Center"
+    excerpt: "Vice President Mike Pence also announced the renaming of two Florida bases to Cape Canaveral Space Force Station and Patrick Space Force Base."
+    publishedDateTime: 2020-12-09T18:32:00Z
+    webUrl: "https://www.khou.com/article/tech/science/space/mike-pence-cape-canaveral-space-council-meeting/67-6a24671e-24f8-446e-a865-0cbc5fdfe6ad"
+    ampWebUrl: "https://www.khou.com/amp/article/tech/science/space/mike-pence-cape-canaveral-space-council-meeting/67-6a24671e-24f8-446e-a865-0cbc5fdfe6ad"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/tech/science/space/mike-pence-cape-canaveral-space-council-meeting/67-6a24671e-24f8-446e-a865-0cbc5fdfe6ad"
     type: article
     provider:
-      name: Times News
-      domain: timesnews.net
-    quality: 55
+      name: KHOU 11
+      domain: khou.com
+    quality: 71
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/3/23/323f7f7c-da0d-11ea-8e7a-6796a476e0b5/5f2f9df19a75b.image.jpg?crop=800%2C450%2C0%2C16&resize=800%2C450&order=crop%2Cresize"
-        width: 800
-        height: 450
+      - url: "https://media.khou.com/assets/WTSP/images/a35665a0-6fbd-4bb5-8470-5d26ca7f5bf7/a35665a0-6fbd-4bb5-8470-5d26ca7f5bf7_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Vice President Mike Pence to Visit the Space Coast Today to Chair the White House National Space Council"
     excerpt: "Vice President Mike Pence will visit the Space Coast on Dec. 9 to chair the White House National Space Council on December 9 at Kennedy Space Center."

@@ -2,6 +2,114 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-01-coronavirus-updates-pence-says-vaccine-could-be-shipped-in-2-weeks-gov-ron-desantis-says-florida-schools-to-stay-open-in-2021.md",
+      "title": "Coronavirus updates: Pence says vaccine could be shipped in 2 weeks; Gov. Ron DeSantis says Florida schools to stay open in 2021",
+      "excerpt": "California Gov. Gavin Newsom warns of tougher stay-at-home order. Michigan Rep. John Chirkun tests positive. U.S. deaths top 268K. Latest COVID news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2020/12/01/covid-news-cdc-vaccine-anchorage-california-florida-schools/6470606002/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2020/12/01/covid-news-cdc-vaccine-anchorage-california-florida-schools/6470606002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/01/USAT/d930d904-53f3-4af1-bda4-4c595d09cb37-AP20335715496723.jpg?auto=webp&crop=5692,3202,x0,y289&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6470606002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6470606002",
+      "publishedDateTime": "2020-12-01T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-meadows-to-meet-with-fda-chief-as-trump-asks-about-status-of-vaccine-emergency-approval.md",
+      "title": "Meadows to meet with FDA chief as Trump asks about status of vaccine emergency approval",
+      "excerpt": "White House chief of staff Mark Meadows is scheduled to meet with Food and Drug Administration Commissioner Stephen Hahn in the West Wing Tuesday, as President Donald Trump has privately demanded to know why the agency hasn't granted emergency use for Pfizer's coronavirus vaccine yet, according to two",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1xct-Eqv0mA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1xct-Eqv0mA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201106231354-mark-meadows-1013-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/mark-meadows-fda-vaccine-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/mark-meadows-fda-vaccine-trump/index.html",
+      "publishedDateTime": "2020-12-01T04:35:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-analysis-how-joe-biden-and-mark-kelly-show-arizona-is-now-a-purple-state.md",
       "title": "Analysis: How Joe Biden and Mark Kelly show Arizona is now a purple state",
       "excerpt": "Democrat Mark Kelly will be sworn in on Wednesday as Arizona's junior US senator, finishing the final two years of the term won by the late Sen. John McCain in 2016. Both President-elect Joe Biden and Kelly were certified as the winners of their respective Arizona races on Monday.\n    \n",
@@ -1226,114 +1334,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-trump-slams-judges-election-decisions-what-kind-of-a-court-system-is-this.md",
-      "title": "Trump slams judges' election decisions: 'What kind of a court system is this?'",
-      "excerpt": "President Trump blasted judges' rejections of his legal challenges to 2020 election results and said he couldn't be certain any of his cases would make it to the Supreme Court in his first interview since Election Day on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xzgLOWINPHI/trump-sunday-morning-futures-judges-election-lawsuits",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xzgLOWINPHI/trump-sunday-morning-futures-judges-election-lawsuits",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/2trump-newsletter-xxx-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-sunday-morning-futures-judges-election-lawsuits.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-sunday-morning-futures-judges-election-lawsuits.amp",
-      "publishedDateTime": "2020-11-29T07:46:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-former-overstockcom-ceo-says-hes-funding-a-team-of-hackers-and-cybersleuths-in-an-attempt-to-prove-that-trump-won-the-presidential-election.md",
-      "title": "Former Overstock.com CEO says he's funding 'a team of hackers and cybersleuths' in an attempt to prove that Trump won the presidential election",
-      "excerpt": "Patrick Byrne, known for his eccentric behavior, has endeared himself to conservative media outlets for his far-fetched claims of voter fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/patrick-byrne-overstock-biden-trump-voting-conspiracy-theories-election-2020-11",
-      "originalUrl": "https://www.businessinsider.com/patrick-byrne-overstock-biden-trump-voting-conspiracy-theories-election-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc2e35050e71a0011557d31?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/patrick-byrne-overstock-biden-trump-voting-conspiracy-theories-election-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/patrick-byrne-overstock-biden-trump-voting-conspiracy-theories-election-2020-11?amp",
-      "publishedDateTime": "2020-11-29T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Colbert on Trump phoning GOP officials: 'Much more personal than destroying democracy by text'"
+    excerpt: "Late-night hosts discuss Trump’s pressuring of GOP state officials to overturn the election results and his administration’s bungling of a Pfizer vaccine deal"
+    publishedDateTime: 2020-12-09T18:17:00Z
+    webUrl: "https://www.theguardian.com/culture/2020/dec/09/stephen-colbert-donald-trump-jimmy-kimmel-trevor-noah"
+    ampWebUrl: "https://amp.theguardian.com/culture/2020/dec/09/stephen-colbert-donald-trump-jimmy-kimmel-trevor-noah"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/dec/09/stephen-colbert-donald-trump-jimmy-kimmel-trevor-noah"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/35179d2161584dcb3c3dc696c5aa3b4becbdd366/75_133_2544_1527/master/2544.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3c992fb8d7052bc64c3f55ff4ce9f9cf"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "CLhZ+fxexyJijepq3vsSC/BUIKRKE1Lv6XBdhzIri4E362DU3Bg/nQkafpJiAciexGxyiy96+MhwJTd+DknbLPE6aR68CFHSbjynfRsQ4oqrNi7TWEBzzc2ZSK1N7qwHNI7AQuzRt9s5kLNzYbHTHSEcInBO0kzYhF19hmYthxt7LzgvsYjfh/N7iCdmgvOzD0OopGZ0vp7FFf7n0UEaJAzmCIu4lyZx0OuKTPhtRPXjYyo3J3vxZv/0NHlslMYA7yT4Xa4SdoNgAd9OY4chHIk46OsByNhMve533aRBS5LC5+usV9yo0pyJbLCOgxbPgpDSnTpEd/R6AXAdHdoYdjmBMqVyok22nEIeZZRAkFA=;1Il0ZhK/BCwS+/6PqPC/1A=="
 ---

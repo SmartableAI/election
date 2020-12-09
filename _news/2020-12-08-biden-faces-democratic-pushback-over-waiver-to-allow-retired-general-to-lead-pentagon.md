@@ -63,6 +63,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Biden set to appear with Gen. Lloyd Austin as he lobbies Democrats to back waiver for defense secretary nominee"
+    excerpt: "President-elect Joe Biden will begin trying to sell his choice for defense secretary, retired Army Gen. Lloyd Austin, to congressional Democrats who are balking at the prospect of waiving the requirement that the position be filled by someone who has been out of active-duty military service for at least"
+    publishedDateTime: 2020-12-09T17:50:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dE1N_GYyXrk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/biden-nominates-lloyd-austin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207192520-01-gen-lloyd-austin-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Transition Live Updates: Biden to Formally Name Austin as Defense Secretary"
     excerpt: "President-elect Joe Biden is set to introduce Lloyd J. Austin III, a retired Army general, as his choice to lead the Pentagon. On Tuesday, Mr. Biden and President Trump offered the American people very divergent messages on the state of the virus."
     publishedDateTime: 2020-12-09T10:55:00Z

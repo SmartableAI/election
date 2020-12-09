@@ -637,6 +637,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "'It's time for us to move on': Georgia Lt. Gov. Geoff Duncan fears that Trump's election legal battles are hurting the GOP's image"
+    excerpt: "\"I'm very, very worried that this affects our brand of conservatism,\" Geoff Duncan told CNN. He was criticized by the president as \"a RINO Never Trumper.\""
+    publishedDateTime: 2020-12-09T17:49:00Z
+    webUrl: "https://www.businessinsider.com/geoff-duncan-republican-georgia-trump-end-election-legal-battles-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/geoff-duncan-republican-georgia-trump-end-election-legal-battles-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/geoff-duncan-republican-georgia-trump-end-election-legal-battles-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fd0efa6cee0cf00114fa61e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump heading to Georgia ahead of Senate runoffs"
     excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
     publishedDateTime: 2020-12-02T02:26:00Z
