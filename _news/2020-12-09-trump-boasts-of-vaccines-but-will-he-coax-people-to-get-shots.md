@@ -127,17 +127,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Judge dismisses Flynn case following pardon from Trump"
-    excerpt: "A federal judge on Tuesday dismissed the criminal case against former Trump administration national security adviser Michael Flynn, two weeks after a pardon from the president effectively ended the case."
-    publishedDateTime: 2020-12-09T03:49:00Z
-    webUrl: "https://www.businessinsider.com/judge-dismisses-flynn-case-following-pardon-from-trump-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/judge-dismisses-flynn-case-following-pardon-from-trump-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-dismisses-flynn-case-following-pardon-from-trump-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "AYbZnUt1QnHvfPkz0IT9g2DedLo6IH0GPZn9btNj8MAM9QqDnoY0lTwSRoB/99QaO2EsgC4C1KXWZEZdWRFZR4iecdNPTuW64Uqg3CdALJgNbW6ENU3EE9weoX8AeIYAg81DTJ5xjz0EjIIbhuOq8H7VUMjCIHb8tAu3RK05cTpedr9bQ6nuw1aMZUHNRu1pK3oz7cQIK+w+rVnhScOrA1OXOv5ZvW0Xf+XtzMQrJX8X6w/1vwXIcoaT723Np/CEkbA+F4sQQU0a6+R+952u2ZepT2KMoVnxFFOEbOmKgDthF77HCz92Yv7z2nQlt+ZAn5TYdYWDxbPxB1OWZZmPgEVcfCKEL5NyoNJbVcj52wRivITwbrYMfMQ13FapQ39n3mMxMWZf99A5b0XvunNZvU5szlI9LSuJH+MHzvT32TPfY6BWF0BzdT/l9stGBFXVYagCw7DYd3QvSoeRbaLnsdxrjfnp8/7YoG7q5smRe5n8cANNH8dhmEGxjoKnWJKl1LwCx7NyN46WQbwlfDOCbg==;A/f4RvlrytJHJXA98Hr/6Q=="
 ---

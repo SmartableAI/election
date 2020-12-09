@@ -479,6 +479,22 @@ related:
         width: 763
         height: 545
         isCached: true
+  - title: "Trump-Biden transition live updates: SCOTUS denies GOP effort to block Pa. results"
+    excerpt: "Trump filed the lawsuit in Georgia Friday afternoon officially contesting the results of the election and requesting a do-over -- another in a series of long-shot legal bids that have so far met with stiff resistance from the state's Republican election officials."
+    publishedDateTime: 2020-12-09T06:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/US/supreme-court-building-rtr-jc-200625_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump sues in federal court to put Wisconsin lawmakers in charge of election outcome"
     excerpt: "President Donald Trump and his allies are bombarding state and federal judges across the country with lawsuits seeking to change the outcome of the presidential election — the latest in a Wisconsin federal court."
     publishedDateTime: 2020-12-03T18:51:00Z
@@ -1624,6 +1640,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "+VOMbk0tro9q5VTH9+zNTRKV+KylQsg9/X/iyd4W+RHEQ6dEDuK5OyIhrUp/uKISo4+4657pscpJ1WmWBapDqFHeqfY92Doy0rA+fk3DOa2Qsik3GcpHXlTOPhUWSexmw7+XBeOSbB3I95xqS1jay6mQ7Hvt4evkMuNstdscpkx+2ipYpqlzmRSmQi0yYMm5MS4I4H1nfMIGaL0AegJpu/EEYpeW+pAvxPGqy9T64Zus73OCR90t74Xn8VzCnkKjCmGXifFBZvYuDKL13FKBhM0dMvgDc0CmRaB6nMxBc9leePRmCg63Pkne52KIf8OSZpNzAdc+cbhruBwPqQUWBSKhT/uP6rMXVS3T04au8kk=;N/nYWe2dx4ZaJEXyb/oMIA=="
+secured: "uRndma8SSA08z34cW1Byvpr92f2G28jBShMZPnek+wDu3MvKtP0ixKVZ9mm4myQPuMvEXIn+YQAvVAfqtk/G4koZ+Q+FFJ7mQKNu1W46vqx1yNodJuTOPjDNPiavuTEvKixB6ONqB0U8Xyh3vbkPRFLsatI+VRZiVJCNF8sFLwX+seDbaW5nkpoefltnsxSMye73RsvhhC+tUKW+FH2+a0I3jprVLbV3EjWsnAY3zZZexGMeoncsKDKliz61xoJ1daJsFxGI0kMOfVjAydAWWyFpgDPPXWJSWOqLL+XaktCuq0WfqYaBcyhO9tLwkdsGSNXP+SmEMl7AzVUel2HocSi1QUcGBe7GbFXLOBypD578lT+43fZ2M9ljjxCJGpe2u/ypS2h2Qc6qqOtpsCicsHttUHQwjfvAkKenJ8K5igJkOhzIOjwzK2drLxO8s3UY+qTgl1O1Fb22qywTV9YNY6eNE5glGvm5V19L7TlVQ9/un5hVBWWvZPRs4Pmyg/QFoxPhHyPCNr95w3zTr/ad5Q==;UEdHyg09ZgDvpttddqfWQw=="
 ---
 

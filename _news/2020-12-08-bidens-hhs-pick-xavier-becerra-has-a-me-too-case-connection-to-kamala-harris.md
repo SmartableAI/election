@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp"
 type: article
 quality: 196
-heat: 516
+heat: 536
 published: true
 
 provider:
@@ -253,6 +253,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20333665999101-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Media praise Xavier Becerra, a partisan warrior who constantly sued Trump"
+    excerpt: "Joe Biden’s pick to run the federal health department is getting a whole lot of good press, coupled with harsh criticism from media conservatives."
+    publishedDateTime: 2020-12-09T08:24:00Z
+    webUrl: "https://www.foxnews.com/media/media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 114
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Expect Big Things From Harris as Vice President"
     excerpt: "Vice President-elect Kamala Harris is going to be a major voice in the White House during the next four years, writes Julian Zelizer. As an experienced senator, Harris will be able to help Biden solid"

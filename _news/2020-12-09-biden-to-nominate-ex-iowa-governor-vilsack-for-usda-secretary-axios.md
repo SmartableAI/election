@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden to nominate California AG Xavier Becerra for health secretary"
-excerpt: "U.S. President-elect Joe Biden plans to nominate California Attorney General Xavier Becerra to serve as secretary of health and human services, a person familiar with the decision said on Sunday."
-publishedDateTime: 2020-12-07T00:19:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-becerra-idUSKBN28G0YM"
-webUrl: "https://www.reuters.com/article/us-usa-biden-becerra-idUSKBN28G0YM"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0YM"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0YM"
+title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary: Axios"
+excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, Axios reported on Tuesday, citing people familiar with the matter."
+publishedDateTime: 2020-12-09T08:37:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack/biden-to-nominate-ex-iowa-governor-vilsack-for-usda-secretary-axios-idUSKBN28J0UL"
+webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack/biden-to-nominate-ex-iowa-governor-vilsack-for-usda-secretary-axios-idUSKBN28J0UL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J0UL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J0UL"
 type: article
-quality: 125
-heat: 305
-published: true
+quality: 105
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -24,13 +24,23 @@ topics:
   - Election
   - Joe Biden
 
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543627983&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50MF"
-    width: 817
-    height: 545
-    isCached: true
-
 related:
+  - title: "Biden to nominate California AG Xavier Becerra for health secretary"
+    excerpt: "U.S. President-elect Joe Biden plans to nominate California Attorney General Xavier Becerra to serve as secretary of health and human services, a person familiar with the decision said on Sunday."
+    publishedDateTime: 2020-12-07T00:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-becerra-idUSKBN28G0YM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28G0YM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28G0YM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201206&t=2&i=1543627983&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB50MF"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Retired Army Gen. Lloyd Austin is Biden's pick for defense secretary: Sources"
     excerpt: "President-elect Joe Biden is expected to name retired Army Gen. Lloyd Austin to lead the Defense Department, four sources familiar with Biden's plans told ABC News."
     publishedDateTime: 2020-12-08T01:33:00Z
@@ -127,17 +137,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary: Axios"
-    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, Axios reported on Tuesday, citing people familiar with the matter."
-    publishedDateTime: 2020-12-09T08:37:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack/biden-to-nominate-ex-iowa-governor-vilsack-for-usda-secretary-axios-idUSKBN28J0UL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J0UL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J0UL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Coronavirus updates: US sees deadliest day — again; Biden asks for 100 days of masks; California has a new regional stay-at-home order"
     excerpt: "California has a new regional stay-at-home order. US sees its deadliest day. And President-elect Biden says he'll ask Americans to wear masks for 100 days."
     publishedDateTime: 2020-12-04T14:38:00Z
@@ -171,6 +170,6 @@ related:
         height: 677
         isCached: true
 
-secured: "hzESPO+7P1LX8jn7UG26o/cTPMck+AbfZDYz9kCOLqmspE5/aOOpV2YPGP47fhQqxDcsOOyANR1JyibhejGlN22GZIAyba7X6lSHAoGbNVzZThAe1edhTvkpgiN8KxYq9jFi8Xiyb3gA0kiebPk6sfPqPrc8FlBQwBUBGXtC6Ik8KB2FOmsoNLhUynNbIRTs569Qo3sHPyU6YFk8Zwfs5Z/me1m4xB2oM71fXOqpo9z0D9oVv/IADVWez4kzO7OGvGNSXqorQu98POH7VwHXn67nxtyCYgmBfwvGYegyD66KGLUYwtHr7jetrFkWSpQinFnneOfWDcgy4RlvIysFO65F9q3LX8F16v01rZOTTWBWr+9jAt7Sa/ayk8VSWk1pqeRpCPfVti5iQMhi4wgACke2t6Vb4ZpcGQQdLJO8CYzFOwqn0ufZEMhzT12kjdC5ghDP3hezp10d6bFOEOp3gk3BT345ITf2GBEs402yQ7wp+X5CTxGOBO6SwSYY1+aIEuqzAXlhS0gVnDEkEDGnjw==;nAF2Ef1mdjeyvoM9IW0DAw=="
+secured: "305qAqmM04usrKeI3hGuJRrKP7ftGSuEs/8iXamSx7d2XjC2aahGNXasx682bmRSysZ0YNEIrFPbqb/Udnm/+AeuDLkN71BpY/bzVLfIQcKfpGud/PuL6TLkDFNlxzfY0Uxq2wJ3Pb838uMvGeTehCZv04febFmuie8uwrFeBtRvBLCF/iROgbvw2M78aJoIRHOavMAEbivlf1UEBSGIRODTvegH7DlM1ylEP9KrvKQ5Z2wQHZX5H6yFQNeEqJtozRu4R0FK5WdjZX9hsnXDbvzStZB7Ray7ys7aAnWM6gGCZ/vG5Bha+a2dah9x9i2xMs7kBQhOGUMdkUrn5eENDiFrNyFqsKL2ZLswcBeu1dg=;wCU/djoxNl1wpD58jza9/w=="
 ---
 

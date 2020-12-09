@@ -1,12 +1,12 @@
 ---
 category: news
-title: "NAACP meets with Biden, Harris, pushes for 'civil rights envoy' to spearhead racial justice reforms"
-excerpt: "The National Association for the Advancement of Colored People (NAACP), met with President-elect Joe Biden and Vice President-elect Kamala Harris Tuesday and pushed him to create a new \"civil rights envoy\" position in the White House to carry out a racial justice agenda. "
-publishedDateTime: 2020-12-09T01:16:08Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3GSZnjrApf0/naacp-biden-harris-racial-justice-reform"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3GSZnjrApf0/naacp-biden-harris-racial-justice-reform"
+title: "Media praise Xavier Becerra, a partisan warrior who constantly sued Trump"
+excerpt: "Joe Biden’s pick to run the federal health department is getting a whole lot of good press, coupled with harsh criticism from media conservatives."
+publishedDateTime: 2020-12-09T08:24:00Z
+originalUrl: "https://www.foxnews.com/media/media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump"
+webUrl: "https://www.foxnews.com/media/media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump"
 type: article
-quality: 166
+quality: 114
 heat: -1
 published: false
 
@@ -20,13 +20,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
-  - Kamala Harris
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20343756001816.jpg"
-    width: 1024
-    height: 683
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -142,6 +142,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "NAACP meets with Biden, Harris, pushes for 'civil rights envoy' to spearhead racial justice reforms"
+    excerpt: "The National Association for the Advancement of Colored People (NAACP), met with President-elect Joe Biden and Vice President-elect Kamala Harris Tuesday and pushed him to create a new \"civil rights envoy\" position in the White House to carry out a racial justice agenda. "
+    publishedDateTime: 2020-12-09T01:16:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3GSZnjrApf0/naacp-biden-harris-racial-justice-reform"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20343756001816.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden picks health team, including Becerra for HHS secretary, Fauci as top coronavirus adviser"
     excerpt: "President-elect Joe Biden announced Monday that he intends to nominate California Attorney General Xavier Becerra for secretary of Health and Human Services. "
     publishedDateTime: 2020-12-07T11:07:56Z
@@ -254,20 +268,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Media praise Xavier Becerra, a partisan warrior who constantly sued Trump"
-    excerpt: "Joe Biden’s pick to run the federal health department is getting a whole lot of good press, coupled with harsh criticism from media conservatives."
-    publishedDateTime: 2020-12-09T08:24:00Z
-    webUrl: "https://www.foxnews.com/media/media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 114
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Expect Big Things From Harris as Vice President"
     excerpt: "Vice President-elect Kamala Harris is going to be a major voice in the White House during the next four years, writes Julian Zelizer. As an experienced senator, Harris will be able to help Biden solid"
     publishedDateTime: 2020-12-08T12:27:00Z
@@ -297,6 +297,6 @@ related:
         height: 630
         isCached: true
 
-secured: "hyklb9TopD8aeVS2q9IEjh9PuYUOPaB0mwMKGP0Fuyh/AqPPC8/wwb9S73UPZ9Wdhjyp6hHZXvUgjWPjiW/sFaIcl/QLJ9IrGQ9xFgOO92I4qLhNZDy62bYJvrRfEpy9WTtG/i7yt3MT9VkiOchl2d/gZQeO0NK1XEi+7pzNppITI41nIFpp/GWfCfdBi3qLDlypMxWYOtJrJLVjaY66q5NT0efUbPxwf6A6SIaByw9oxcdNoFC2qd2fhsMdYebs14jWJ5FPs7miQCekHxWQNp5ub4ClY6lssAVxob5FrDOgmpgQMHpjfh6glGLq6LC3PRebh1cvIj1S+Y/m6IKyHYfPKcJxBZ80k1kc9l2nQ3s=;oA1PiXdbcJUoJomaQ96KLw=="
+secured: "OnT22fQGh95KtNr1Xn5UwDg9SwColIAvrf7UZu8bM7Vh0sXfj4BuLlZiwLwZho1WqBhqPMEskmT3HgrQdYhFcRjINIYrScKL4aIJBGPrUVxeFzgBmqWHAeg3jKFDz9o3NmqvrAcNmk/+bF0ISkNNsvPLy2tFMO7Uju48YVINCd3ej7obylLdvizP1OMMSV5v5zrP70V8QbSGDy3qaicnOe3sGOovPT4TDpgBFSPoiXEKJM0biyPte14x0ICJjU9QPnHvFzIqCbKBTVAvyAYTG56elwSTzA4Tq1whJnrIOjA+lEsHL9x12Dc47NycsKxN+UWUFEoWKI2zZxA3SoOfdYdXgnVvfRaPrYwqBbaXJek=;oXQb6rHTH8Y5T9LKIAxihQ=="
 ---
 

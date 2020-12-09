@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump travels to Georgia to campaign ahead of Senate runoff"
-excerpt: "President Trump will host a rally Saturday in Georgia for the two Republican Senate candidates in the state's January runoff. His involvement on the campaign trail comes after the Washington Post reports Mr."
-publishedDateTime: 2020-12-06T20:06:00Z
-originalUrl: "https://www.cbsnews.com/video/trump-visits-georgia-to-rally-support-for-gop-ahead-of-senate-runoff/"
-webUrl: "https://www.cbsnews.com/video/trump-visits-georgia-to-rally-support-for-gop-ahead-of-senate-runoff/"
+title: "Trump-Biden transition live updates: SCOTUS denies GOP effort to block Pa. results"
+excerpt: "Trump filed the lawsuit in Georgia Friday afternoon officially contesting the results of the election and requesting a do-over -- another in a series of long-shot legal bids that have so far met with stiff resistance from the state's Republican election officials."
+publishedDateTime: 2020-12-09T06:26:00Z
+originalUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74573672"
+webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74573672"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
 type: article
-quality: 105
+quality: 134
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/05/83d9f131-87b6-46d6-99fa-55fdb6be3d0d/thumbnail/1200x630/ed8ed65f64f18ed2b0f30f75dfcec66c/cbsn-fusion-pres-trump-visits-georgia-to-rally-support-for-gop-ahead-of-senate-runoff-thumbnail-602167-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/US/supreme-court-building-rtr-jc-200625_hpMain_16x9_1600.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -476,22 +478,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201208&t=2&i=1543806436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB70R9"
         width: 763
         height: 545
-        isCached: true
-  - title: "Trump-Biden transition live updates: SCOTUS denies GOP effort to block Pa. results"
-    excerpt: "Trump filed the lawsuit in Georgia Friday afternoon officially contesting the results of the election and requesting a do-over -- another in a series of long-shot legal bids that have so far met with stiff resistance from the state's Republican election officials."
-    publishedDateTime: 2020-12-09T06:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74573672"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 134
-    images:
-      - url: "https://s.abcnews.com/images/US/supreme-court-building-rtr-jc-200625_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Trump sues in federal court to put Wisconsin lawmakers in charge of election outcome"
     excerpt: "President Donald Trump and his allies are bombarding state and federal judges across the country with lawsuits seeking to change the outcome of the presidential election — the latest in a Wisconsin federal court."
@@ -1564,6 +1550,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump travels to Georgia to campaign ahead of Senate runoff"
+    excerpt: "President Trump will host a rally Saturday in Georgia for the two Republican Senate candidates in the state's January runoff. His involvement on the campaign trail comes after the Washington Post reports Mr."
+    publishedDateTime: 2020-12-06T20:06:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-visits-georgia-to-rally-support-for-gop-ahead-of-senate-runoff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/05/83d9f131-87b6-46d6-99fa-55fdb6be3d0d/thumbnail/1200x630/ed8ed65f64f18ed2b0f30f75dfcec66c/cbsn-fusion-pres-trump-visits-georgia-to-rally-support-for-gop-ahead-of-senate-runoff-thumbnail-602167-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "House moves to approve defense bill amid Trump veto threat"
     excerpt: "The Democratic-controlled House is moving toward approval of a wide-ranging defense policy bill, even as President Donald Trump renews his the bill unless lawmakers clamp down on social media companies he claims were biased against him during the election."
     publishedDateTime: 2020-12-09T03:48:00Z
@@ -1640,6 +1640,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "FuT4dVPALB1FhrnzZuczpOW7vNh8vIniWnFiEDNoSqapAl7fZrGhhHDS+t/54dM9FGfJ0LqPphM4t9U2wDowTsyXyMrgr9xelkmW6UAAoIDV8UQuThngQq5w5xXnOIZvH+ukI5vZHfjDGuNYdAcomIGIn6ccww1U9quTscSnXSwCNc+vSDqKz3llsqpSVtnZyZjhpuZEdZeRpi7CtiythAW0kC8h0jdfo/lZu2Hiq57iUVLYF8ZM29ti+ELVdfUwdyxOFsT6MbnszeK5zE0nBYxZ57s5Xrb8F7fwabVXImlINywV/to81MhrOlLcAGTMkmlXV0mOft3un0piB/Dm6Zv0SwwDx+jmYef7wxtr94o=;gHn80HKEyYsdVqhamF3Qrw=="
+secured: "6nQ/TRygdz3X3dKR170bJGPskNDfNDnNkHT3pqjKLq6lCQCV1kp/Amb81mKkjReHt2FaMPQ7Eo4aAAA4bKmoTkCh5MV54bwa7VgvlcU9qg1j8cv8X9IBQFQ+EPFdUcqQ3dY22PAgImPH1V834gPqNHv03Em0gYlVdj96tKJeP7ej/OL+amTWyQYpkAcAxpJmTQ339I+InNUFhxUlwzx6K/GEIjG5eztacRrPVcB80ceteTEeai8ZWUQkX/v6oRo5Y6aIqLgukTKXHZXiQOdmBkhwpcQmKDSPxI+7/ZABxMB5HYrkVj/1azpR8lS2LkFR9QTJRT09Dx6Fgmhutpl7U7DXZhmvWWv4nTQxnN80FYI=;AuBiEWNqPQYp0l9Te1drFQ=="
 ---
 

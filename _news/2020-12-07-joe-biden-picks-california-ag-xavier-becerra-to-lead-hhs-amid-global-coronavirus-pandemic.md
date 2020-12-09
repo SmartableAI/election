@@ -139,6 +139,17 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary: Axios"
+    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, Axios reported on Tuesday, citing people familiar with the matter."
+    publishedDateTime: 2020-12-09T08:37:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack/biden-to-nominate-ex-iowa-governor-vilsack-for-usda-secretary-axios-idUSKBN28J0UL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J0UL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J0UL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Coronavirus updates: US sees deadliest day — again; Biden asks for 100 days of masks; California has a new regional stay-at-home order"
     excerpt: "California has a new regional stay-at-home order. US sees its deadliest day. And President-elect Biden says he'll ask Americans to wear masks for 100 days."
     publishedDateTime: 2020-12-04T14:38:00Z

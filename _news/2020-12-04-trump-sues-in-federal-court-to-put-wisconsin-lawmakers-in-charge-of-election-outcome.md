@@ -479,6 +479,22 @@ related:
         width: 763
         height: 545
         isCached: true
+  - title: "Trump-Biden transition live updates: SCOTUS denies GOP effort to block Pa. results"
+    excerpt: "Trump filed the lawsuit in Georgia Friday afternoon officially contesting the results of the election and requesting a do-over -- another in a series of long-shot legal bids that have so far met with stiff resistance from the state's Republican election officials."
+    publishedDateTime: 2020-12-09T06:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/US/supreme-court-building-rtr-jc-200625_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump campaign spent more than $2 million on election lawyers, including Jenna Ellis"
     excerpt: "U.S. President Donald Trump’s campaign paid nearly $9 million in its so-far unsuccessful bid to overturn the results of the presidential election, including nearly $2.3 million to lawyers and consultants who helped bring a series of longshot court cases."
     publishedDateTime: 2020-12-04T21:53:00Z

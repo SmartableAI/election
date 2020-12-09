@@ -143,6 +143,17 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden to nominate ex-Iowa Governor Vilsack for USDA secretary: Axios"
+    excerpt: "U.S. President-elect Joe Biden plans to nominate former Iowa Governor Tom Vilsack for agriculture secretary, Axios reported on Tuesday, citing people familiar with the matter."
+    publishedDateTime: 2020-12-09T08:37:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-usda-vilsack/biden-to-nominate-ex-iowa-governor-vilsack-for-usda-secretary-axios-idUSKBN28J0UL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J0UL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J0UL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Joe Biden picks California AG Xavier Becerra to lead HHS amid global coronavirus pandemic"
     excerpt: "Becerra, if confirmed, would take on a crucial role in the Biden administration, leading its response to the coronavirus pandemic."
     publishedDateTime: 2020-12-07T01:53:00Z
