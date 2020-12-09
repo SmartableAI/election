@@ -2,11 +2,13 @@
 category: news
 title: "Biden pledges to vaccinate tens of millions, reopen schools in first 100 days"
 excerpt: "The new pledges came as Biden introduced his picks to lead key health agencies and coordinate the federal response to a pandemic that's infected almost 15 million people in the U.S."
-publishedDateTime: 2020-12-08T21:16:00Z
-originalUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/12/08/biden-pledges-to-vaccinate-tens-of-millions-reopen-schools-in-first-100-days-1343688"
-webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/12/08/biden-pledges-to-vaccinate-tens-of-millions-reopen-schools-in-first-100-days-1343688"
+publishedDateTime: 2020-12-08T21:18:00Z
+originalUrl: "https://www.politico.com/news/2020/12/08/biden-pledges-vaccinations-reopen-schools-443733"
+webUrl: "https://www.politico.com/news/2020/12/08/biden-pledges-vaccinations-reopen-schools-443733"
+ampWebUrl: "https://www.politico.com/amp/news/2020/12/08/biden-pledges-vaccinations-reopen-schools-443733"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/08/biden-pledges-vaccinations-reopen-schools-443733"
 type: article
-quality: 112
+quality: 132
 heat: -1
 published: false
 
@@ -489,6 +491,6 @@ related:
         height: 773
         isCached: true
 
-secured: "8tAQKDrCn0UlnYdbOujlPoJr4iPV4xv2kOCl5xS95a2OE+pgaU9pyRL2pESEzTh3KXhZzyNHyi/enpQd8EKzTpIbHdJU9C56hnb2fTNT39I35EUrPAx8EBA13WFssQvsm1UU8mObW/x1hWNUPTthUOA/zbAo7tspxDEidowqfJU7hyYEmsn/qYSOEshKqDDYvgZHRjk4GMDl0TNcI0Iw1Hzt9gB8RFeKe80qRcirUVxQ4CE/00WAuqlPePYHFDA/L3GeSk3E3FEujM9c1XCg6U26YJHWw5fYnG5H7BMHCInN0ig1TGb7Inbg5NCVsIb94Fii5/haF0nQmEupD5GfhcUd87U4/wnDB/yfvSqm4BE=;HtiAyQjbrbOZmxGwFN+MFA=="
+secured: "DD2UgnrAdtnnWFsa/1En/GmCbIoiU8y1THu22uaZ736A6AbZ25DP03WV9JySY3Ohk+YJGRTHIhOBYs7ek/xYeQsr8N1yPKgrmCrBrxng42BvAqQ7WEMcQ4mwujG3OzOP9S/gpWxrWRmLRWyFbhXpCoTs1Gh2gdM+Tt1t+qmStsHQCcsn/hJQBtmBkqcbrGp39LuKfnESnO2NeSbn/k/NzBtp4LyS6y6NkGnYPLEllQYp4j9XtBPVMQ9npTyaAyN1IzEZ5f2hDewP5Qu4OZOxCeahse3nfe8uCaxuvML6i8FSDLRk0QcYaWCvdQxzhaNps3NJdl0DEUC9ldLhCk6QzXOqrZ+8rT5p3cFesipxusc=;GYPKaqr8YQzKCvxUbhWWJA=="
 ---
 

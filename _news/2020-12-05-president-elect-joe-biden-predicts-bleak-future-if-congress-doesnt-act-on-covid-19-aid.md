@@ -111,6 +111,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden defense nominee’s need for a congressional waiver sows discomfort among Democrats"
+    excerpt: "Democrats who voted never to bend the rules governing civilian leadership at the Pentagon were left looking for loopholes to justify their support for retired Gen. Lloyd J. Austin III."
+    publishedDateTime: 2020-12-09T01:01:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-defense-nominees-need-for-a-congressional-waiver-sows-discomfort-among-democrats/2020/12/08/cab06670-398c-11eb-98c4-25dc9f4987e8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-defense-nominees-need-for-a-congressional-waiver-sows-discomfort-among-democrats/2020/12/08/cab06670-398c-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-defense-nominees-need-for-a-congressional-waiver-sows-discomfort-among-democrats/2020/12/08/cab06670-398c-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SI6QUTBZWMI6XPDIS2XQ3KXHFA.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "Despite Biden pledge, coronavirus bill in Congress now may be all Americans get: analysts"
     excerpt: "President-elect Joe Biden has called the $908 billion coronavirus aid bill taking shape in Congress a \"downpayment\" toward a bigger stimulus next year, but if it passes, that is all U.S. businesses and workers should count on,"
     publishedDateTime: 2020-12-07T22:45:00Z
@@ -187,7 +203,7 @@ related:
   - title: "Biden has chosen congresswoman Fudge for HUD secretary -Politico"
     excerpt: "U.S. President-elect Joe Biden has selected Democratic Representative Marcia Fudge to be secretary of housing and urban development, Politico reported on Tuesday, citing two people with knowledge of the decision."
     publishedDateTime: 2020-12-08T22:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge/biden-has-chosen-congresswoman-fudge-for-hud-secretary-politico-idUSW1N2I903A"
+    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge-idUSW1N2I903A"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2I903A"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2I903A"
     type: article

@@ -2,9 +2,9 @@
 category: news
 title: "U.S. Supreme Court rejects Republican challenge to Biden's Pennsylvania win"
 excerpt: "The U.S. Supreme Court on Tuesday handed a defeat to Republicans seeking to throw out up to 2.5 million mail-in ballots in Pennsylvania as they try to undo President Donald Trump's election loss, with the justices refusing to block the state from formalizing"
-publishedDateTime: 2020-12-08T22:24:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-court-pennsylvania/u-s-supreme-court-rejects-republican-challenge-to-bidens-pennsylvania-win-idUSKBN28I35L"
-webUrl: "https://www.reuters.com/article/usa-election-court-pennsylvania/u-s-supreme-court-rejects-republican-challenge-to-bidens-pennsylvania-win-idUSKBN28I35L"
+publishedDateTime: 2020-12-09T02:56:00Z
+originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28I35L"
+webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28I35L"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I35L"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I35L"
 type: article
@@ -168,6 +168,6 @@ related:
         height: 600
         isCached: true
 
-secured: "X7TPQZINnHUbmZeGCtxEhfHRqGDZxpH5Mgxt7nHasAJQltue086/gzJHwrzz6d4hpEJ8UKEDSkuGER7am5jemUPAaVinpZOoM8UFr4qncaCuPh1KcIV4DvEXzEgpvNhD3LydaX734HZuxVVhsKD0ECiiD2+Cohcs32/JgxvBqb/XUvwg+ZGLb/XYZbYCvodOcuNJjfYAsGkg4BwArM7d4vMjVztDMMFgs5+ckiZuX4lltDNY5U5xxl0iDo6vX7SBRQzeFN1VsjN9AKsZ+KDY3POPEMZLNeyJoZtHvoLLxZ3NK8oo4qLCOgIs/rZ0NvvzMMg6QjQpuwEai93e0bsp+pqNz5QE7BHyJQEzpOof0r8=;60TGSyQRcIjWDH/aYsGurQ=="
+secured: "+fooNxUQSXd4kIjoF4rP5CABvAn+OtkHRfouBbU6YCLb+mHMcrY/H3rWa6HD7X6PVEKVKDRnzpeyhUMc5k3oCSDRf/W9lP3fWaLcsCDRAYjxZDRYHPKivjePZ8hXpC7pviFGIWrvwVwfOc/JFLxjoliko8PMfe1+PQ0oI/Kw/vKLn3og+rHUgTEaFsSqNGpU7eCROqHBs8D9A6zTdI44X9nPOgyp77Cf62S3zENjoibOqZHf1fOJ71uh/JHQE0cILFMwQ6TG8eqTiGLUMApuxiQ7RX272gSU1F/BApdW0NMLfBKQDemQNCuHcpyNnG8Xhx3UIe7lTUAyttFoGsuHKDFIEkju6vQbrRtqTMNeZ04=;H80iPw2jOK5GwgpWawCKbw=="
 ---
 

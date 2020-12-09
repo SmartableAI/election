@@ -2,6 +2,118 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-11-16-trump-supporters-march-past-new-york-homes-of-cuomo-clintons.md",
+      "title": "Trump supporters march past New York homes of Cuomo, Clintons",
+      "excerpt": "Carrying signs that read \"Cuomo sucks,\" \"Expose the corruption,\" and \"Dead people don't vote!\", the supporters of President Trump made a scene in New York state protesting by the homes of his chief liberal rivals: New York Gov. Andrew Cuomo and former Secretary of State Hillary Clinton.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q2oRGYLFmos/trump-supporters-march-past-new-york-homes-of-cuomo-clintons",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q2oRGYLFmos/trump-supporters-march-past-new-york-homes-of-cuomo-clintons",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-supporters-march-past-new-york-homes-of-cuomo-clintons.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-march-past-new-york-homes-of-cuomo-clintons.amp",
+      "publishedDateTime": "2020-11-16T14:19:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-squad-member-ilhan-omar-compares-trump-events-to-klan-rallies.md",
+      "title": "'Squad' member Ilhan Omar compares Trump events to 'Klan rallies'",
+      "excerpt": "Rep. Ilhan Omar, D-Minn., blasted President Trump and his supporters on Monday when she likened his political rallies to those held by the Ku Klux Klan. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EgL0R4OC5Qk/ilhan-omar-trump-klan-rallies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EgL0R4OC5Qk/ilhan-omar-trump-klan-rallies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe317574-1e0f-43c1-a413-32249f7ed940/70d82e25-4342-4ec2-8083-84d7bbc4c355/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-trump-klan-rallies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-klan-rallies.amp",
+      "publishedDateTime": "2020-11-16T12:21:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-joe-bidens-irish-supporters-are-celebrating-the-victory-of-their-favorite-uncle-as-he-faces-boris-johnson-over-brexit.md",
       "title": "Joe Biden's Irish supporters are celebrating the victory of their 'favorite uncle' as he faces Boris Johnson over Brexit",
       "excerpt": "A Biden campaign source said they expected Ireland to be Joe Biden's first state visit once in the White House.",
@@ -1197,101 +1309,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-philadelphia-suburbs-return-with-a-vengeance-to-oust-trump.md",
-      "title": "Philadelphia suburbs return with a vengeance to oust Trump",
-      "excerpt": "Voters in Philadelphia’s suburbs hurled perhaps their biggest rebuke yet this month to President Donald Trump and the Republican Party overall",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-14T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-let-mike-pence-handle-the-transition.md",
-      "title": "Let Mike Pence handle the transition",
-      "excerpt": "The period between an incumbent's defeat and the new president's inauguration is always awkward. At the end of this lame duck-ship, the outgoing president",
-      "sourceUrl": null,
-      "webUrl": "https://www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition",
-      "originalUrl": "https://www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.monroenews.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201114&Category=OPINION&ArtNo=201119553&Ref=AR",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition?template=ampart",
-      "cdnAmpWebUrl": "https://www-monroenews-com.cdn.ampproject.org/c/s/www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition?template=ampart",
-      "publishedDateTime": "2020-11-14T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Monroe News",
-        "domain": "monroenews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

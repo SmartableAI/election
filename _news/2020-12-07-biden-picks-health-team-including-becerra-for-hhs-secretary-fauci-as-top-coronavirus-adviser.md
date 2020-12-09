@@ -143,6 +143,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "NAACP meets with Biden, Harris, pushes for 'civil rights envoy' to spearhead racial justice reforms"
+    excerpt: "The National Association for the Advancement of Colored People (NAACP), met with President-elect Joe Biden and Vice President-elect Kamala Harris Tuesday and pushed him to create a new \"civil rights envoy\" position in the White House to carry out a racial justice agenda. "
+    publishedDateTime: 2020-12-09T01:16:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3GSZnjrApf0/naacp-biden-harris-racial-justice-reform"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20343756001816.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden botches HHS pick Becerra's name, calls nominee 'Secretary of Health and Education Services'"
     excerpt: "President-elect Joe Biden did not make the smoothest introduction of Health and Human Services (HHS) Secretary nominee Xavier Becerra during a Tuesday event unveiling Biden's health and coronavirus team."
     publishedDateTime: 2020-12-08T22:26:20Z

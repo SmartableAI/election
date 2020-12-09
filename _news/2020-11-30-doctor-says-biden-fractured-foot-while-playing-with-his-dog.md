@@ -523,6 +523,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Texas attorney general sues to block Biden's victory in four other states"
+    excerpt: "Texas Attorney General Ken Paxton is suing over the election results in Pennsylvania, Michigan, Wisconsin and Georgia, four battleground states that helped swing the race for President-elect Joe Biden."
+    publishedDateTime: 2020-12-08T23:40:00Z
+    webUrl: "https://www.cbsnews.com/video/texas-attorney-general-lawsuit-georgia-wisconsin-pennsylvania-michigan/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/85fff2ad-4248-40d9-83cb-b4456bb8a942/thumbnail/1200x630/6f43ea027be4327c917d24dba92e60f2/cbsn-fusion-texas-attorney-general-lawsuit-georgia-wisconsin-pennsylvania-michigan-thumbnail-604234-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
     excerpt: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
     publishedDateTime: 2020-12-05T05:36:00Z

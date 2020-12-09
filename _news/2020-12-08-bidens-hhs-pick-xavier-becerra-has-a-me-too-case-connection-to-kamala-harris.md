@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp"
 type: article
 quality: 196
-heat: 496
+heat: 516
 published: true
 
 provider:
@@ -127,6 +127,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21e1e348-1ec2-479b-b481-cdd70f49ab47/4c923316-a2af-45f8-a6c4-18f5b1cb409a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "NAACP meets with Biden, Harris, pushes for 'civil rights envoy' to spearhead racial justice reforms"
+    excerpt: "The National Association for the Advancement of Colored People (NAACP), met with President-elect Joe Biden and Vice President-elect Kamala Harris Tuesday and pushed him to create a new \"civil rights envoy\" position in the White House to carry out a racial justice agenda. "
+    publishedDateTime: 2020-12-09T01:16:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3GSZnjrApf0/naacp-biden-harris-racial-justice-reform"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20343756001816.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Biden picks health team, including Becerra for HHS secretary, Fauci as top coronavirus adviser"
     excerpt: "President-elect Joe Biden announced Monday that he intends to nominate California Attorney General Xavier Becerra for secretary of Health and Human Services. "

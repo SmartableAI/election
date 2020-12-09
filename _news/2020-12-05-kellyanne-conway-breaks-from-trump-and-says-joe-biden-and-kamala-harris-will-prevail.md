@@ -273,22 +273,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Senate OKs Trump pick for FCC, adding hurdle to Biden plans"
-    excerpt: "The Senate has narrowly approved President Donald Trump’s lame-duck nominee to become a member of the Federal Communications Commission, setting up the agency for a stretch of partisan gridlock likely"
-    publishedDateTime: 2020-12-08T23:30:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/senate-oks-trump-pick-fcc-adding-hurdle-biden-74615368"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-oks-trump-pick-fcc-adding-hurdle-biden-74615368"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-oks-trump-pick-fcc-adding-hurdle-biden-74615368"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
     excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."
     publishedDateTime: 2020-12-01T16:56:00Z
@@ -757,6 +741,17 @@ related:
     webUrl: "https://www.businessinsider.com/trump-adviser-broke-law-with-biden-criticism-watchdog-says-2020-12"
     ampWebUrl: "https://www.businessinsider.com/trump-adviser-broke-law-with-biden-criticism-watchdog-says-2020-12?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-adviser-broke-law-with-biden-criticism-watchdog-says-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "Senate OKs Trump pick for FCC, adding hurdle to Biden plans"
+    excerpt: "The Senate has narrowly approved President Donald Trump’s lame-duck nominee to become a member of the Federal Communications Commission, setting up the agency for a stretch of partisan gridlock likely to stymie President-elect Joe Biden’s policies."
+    publishedDateTime: 2020-12-09T02:29:00Z
+    webUrl: "https://www.businessinsider.com/senate-oks-trump-pick-for-fcc-adding-hurdle-to-biden-plans-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/senate-oks-trump-pick-for-fcc-adding-hurdle-to-biden-plans-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-oks-trump-pick-for-fcc-adding-hurdle-to-biden-plans-2020-12?amp"
     type: article
     provider:
       name: Business Insider

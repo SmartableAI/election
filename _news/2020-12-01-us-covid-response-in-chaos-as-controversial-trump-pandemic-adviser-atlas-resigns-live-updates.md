@@ -287,22 +287,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Election security official fired by Trump sues over threats"
-    excerpt: "The U.S. election and cybersecurity official who was fired by President Donald Trump has filed a lawsuit over threatening remarks by a lawyer for the president"
-    publishedDateTime: 2020-12-09T00:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/election-security-official-fired-by-trump-sues-over-threats/2020/12/08/be68c2ee-398d-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/election-security-official-fired-by-trump-sues-over-threats/2020/12/08/be68c2ee-398d-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/election-security-official-fired-by-trump-sues-over-threats/2020/12/08/be68c2ee-398d-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Fired election security official sues Trump lawyer over threats"
     excerpt: "The U.S. election and cybersecurity official who was fired last month by President Donald Trump filed a lawsuit Tuesday over threatening remarks by a lawyer for the president that prompted a wave of death threats against him."
     publishedDateTime: 2020-12-08T20:51:00Z
@@ -450,9 +434,9 @@ related:
   - title: "Texas asks U.S. Supreme Court to help Trump upend election in long-shot lawsuit"
     excerpt: "The state of Texas on Tuesday asked the U.S. Supreme Court to throw out the voting results in four other states in a long-shot legal gambit intended to help President Donald Trump upend his election loss to President-elect Joe Biden."
     publishedDateTime: 2020-12-09T00:36:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-lawsuit-texas/texas-asks-u-s-supreme-court-to-help-trump-upend-election-idUSKBN28I27M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I27M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I27M"
+    webUrl: "https://www.reuters.com/article/SOMNIA-idUSKBN28I27M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I27I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I27I"
     type: article
     provider:
       name: Reuters
@@ -1154,6 +1138,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Election security official fired by Trump sues over threats"
+    excerpt: "The U.S. election and cybersecurity official who was fired last month by President Donald Trump filed a lawsuit Tuesday over threatening remarks by a lawyer for the president that prompted a wave of death threats against him."
+    publishedDateTime: 2020-12-09T01:37:00Z
+    webUrl: "https://www.businessinsider.com/election-security-official-fired-by-trump-sues-over-threats-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/election-security-official-fired-by-trump-sues-over-threats-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/election-security-official-fired-by-trump-sues-over-threats-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "UPDATE 2-U.S. Republicans balk as Trump uses defense bill for leverage on Big Tech"
     excerpt: "President Donald Trump's threat to veto a defense bill if it does not repeal legal protections for social media companies faced stiff bipartisan opposition on Wednesday, setting the stage for a confrontation with lawmakers scrambling to pass the massive bill by year-end."
     publishedDateTime: 2020-12-03T02:35:00Z
@@ -1323,6 +1318,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/9934042c-4b60-4f57-8f4d-73c34d7cdf59-AFP_AFP_8WQ4GQ.jpg?auto=webp&crop=3420,1924,x0,y131&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The Trump administration has failed to lead during the pandemic. The rest of us must stand up."
+    excerpt: "However, I think the true crime committed by Mr. Trump throughout this period has been his failure to learn from earlier mistakes. Even now, as the task force discourages holiday parties, the White House and State Department are reported to have scheduled a month full of events."
+    publishedDateTime: 2020-12-09T02:49:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/the-trump-administration-has-failed-to-lead-during-the-pandemic-the-rest-of-us-must-stand-up/2020/12/08/855df9ec-38bb-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/the-trump-administration-has-failed-to-lead-during-the-pandemic-the-rest-of-us-must-stand-up/2020/12/08/855df9ec-38bb-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/the-trump-administration-has-failed-to-lead-during-the-pandemic-the-rest-of-us-must-stand-up/2020/12/08/855df9ec-38bb-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RDO3DRRY3UI6XPDIS2XQ3KXHFA.jpg&w=1440"
+        width: 1440
+        height: 1156
         isCached: true
   - title: "Georgia lieutenant governor on President Trump's attempts to overturn election results"
     excerpt: "President Trump is pressuring Georgia's governor to persuade the state's legislature to overturn President-elect Joe Biden's victory. Georgia Lieutenant Governor Geoff Duncan joined \"CBS This Morning\" to discuss the pressure campaign and the upcoming runoff elections for the state's Senate seats."

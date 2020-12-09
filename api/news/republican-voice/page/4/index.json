@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-23-rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.md",
+      "title": "Rudy Giuliani: Sidney Powell not part of Trump’s legal team",
+      "excerpt": "President Donald Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGqgSrgNypg/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGqgSrgNypg/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20324809203443.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.amp",
+      "publishedDateTime": "2020-11-22T17:25:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-saudi-un-ambassador-nobody-naive-enough-to-rejoin-iran-nuclear-deal-including-biden-administration.md",
       "title": "Saudi UN ambassador: Nobody ‘naive enough’ to rejoin Iran nuclear deal – including Biden administration",
       "excerpt": "Saudi Arabia’s U.N. envoy on Sunday dismissed the idea that the United States would re-enter the Iran nuclear deal under a Joe Biden administration, saying nobody would be “naive enough” to go back to a deal that has “proven its failure to the entire world.”",
@@ -1594,62 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-andrew-cuomo-trump-ego.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-andrew-cuomo-trump-ego.amp",
       "publishedDateTime": "2020-11-18T15:03:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-ny-dem-gov-cuomos-office-blames-religious-gatherings-as-super-spreaders-not-biden-celebrations.md",
-      "title": "NY Dem Gov Cuomo's office blames religious gatherings as 'super-spreaders,' not Biden celebrations",
-      "excerpt": "Cuomo's office responded to the Roman Catholic Diocese of Brooklyn's petition for emergency relief.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFeC7FaRG18/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFeC7FaRG18/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb79142-e591-4f8d-b94b-537cfef2a225/01381103-38da-4c6a-bb08-4d9d41678d54/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
-      "publishedDateTime": "2020-11-18T13:31:13-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-30-jonathan-turley-says-trumps-attacks-on-judges-over-election-rulings-unfair.md",
+      "title": "Jonathan Turley says Trump's attacks on judges over election rulings 'unfair'",
+      "excerpt": "G.W. University Law Professor Jonathan Turley said on Monday that President Trump's \"attacks\" against judges over their decisions on the 2020 election dispute are \"unfair.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Q-mzylnTHc/jonathan-turley-president-trump-attacks-judges-rejecting-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Q-mzylnTHc/jonathan-turley-president-trump-attacks-judges-rejecting-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jonathan-turley-president-trump-attacks-judges-rejecting-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jonathan-turley-president-trump-attacks-judges-rejecting-election.amp",
+      "publishedDateTime": "2020-11-30T05:47:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-live-updates-trump-says-doj-missing-in-action-during-election-challenge.md",
       "title": "Live Updates: Trump says DOJ 'missing in action' during election challenge",
       "excerpt": "Follow for the latest updates on the 2020 election legal fight.",
@@ -1586,62 +1642,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp",
       "publishedDateTime": "2020-11-23T04:57:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.md",
-      "title": "Rudy Giuliani: Sidney Powell not part of Trump’s legal team",
-      "excerpt": "President Donald Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGqgSrgNypg/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGqgSrgNypg/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20324809203443.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.amp",
-      "publishedDateTime": "2020-11-22T17:25:58-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

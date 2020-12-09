@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C2ES"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C2ES"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Trump administration makes new $916 billion offer for COVID-19 aid"
+    excerpt: "The Trump administration proposed a $916 billion coronavirus relief package on Tuesday, after congressional Democrats shot down a suggestion for a pared-down plan from the Senate's leading Republican,"
+    publishedDateTime: 2020-12-09T02:16:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-5-trump-administration-makes-new-916-billion-offer-for-covid-19-aid-idUSL1N2IO2AX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28I2LA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28I2LA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543898187&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB803W"
+        width: 817
+        height: 545
         isCached: true
 
 secured: "g276o+tmNcLZXY5Fl5jsZhKyJ2SHwojgXk0O5TQQVKVppm6Kv1iEYenOkPY/o4FkB6UAZxEf7Xwch04nsd+FjkQt5trAYHGINfaJrX34NBP13j0hUaMSgJQEFjDrmXaI5R3xmIs5aY7jIRrX35s34qiYtOVsD1JbMAxuxMqdk4spWAaaeAlkXqNP4EkLawPMvbETB1IE6J8bbM/ZHTf4MTaL+7bVRpFqJi73UVEt2zvhwKuLaKEk2hwv/Xh9PgACfXLia22bYNyQ8LFuIk4CrHTgNTK1kEmxn+bTMhSzC63RbOIkYzfNVfmuSLwI19DLEOYItZaE05IBVjShXQn9W3hTipyt8knBVVCU68Qyg9A=;W9WqSOY28bvSdNzttOou7g=="

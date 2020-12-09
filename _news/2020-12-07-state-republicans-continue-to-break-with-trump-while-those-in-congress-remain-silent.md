@@ -495,6 +495,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's threats to democracy are going nowhere in court"
+    excerpt: "The repetitive and meritless legal challenges to the November 3 election results from President Donald Trump and his allies have sent one fundamental message: Millions of votes cast by their fellow Americans are worthless.\n    \n"
+    publishedDateTime: 2020-12-09T02:07:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L0061yXOiRA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/trump-biden-democracy-election-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/trump-biden-democracy-election-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208194735-trump-democratic-values-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ex-Presidents fill leadership vacuum as Trump ignores worsening pandemic"
     excerpt: "This is what presidential leadership looks like.\n    \n"
     publishedDateTime: 2020-12-03T09:11:11Z
@@ -636,6 +652,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050331-02-donald-trump-thanksgiving-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House approves defense bill with veto-proof majority after Trump urges GOP opposition"
+    excerpt: "President Donald Trump's threat to veto a sweeping defense bill that is set for a vote in the House of Representatives on Tuesday is sharply dividing Republican lawmakers, forcing them to choose between loyalty to the President and legislation that sets defense policy for the country and creating uncertainty"
+    publishedDateTime: 2020-12-09T01:46:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rRpTINygfu0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/defense-bill-house-vote-trump-veto-threat/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/defense-bill-house-vote-trump-veto-threat/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1199,6 +1231,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Judge takes final shots at Trump, Flynn as he agrees to dismiss case"
+    excerpt: "And he said DOJ's walking away from the prosecution seemed to be a pretext, give the president's interest in the affair."
+    publishedDateTime: 2020-12-09T01:49:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/judge-take-final-shots-trump-flynn-he-agrees-dismiss-case-n1250415"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250415"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250415"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_36/3332356/200430-michael-flynn-ew-742p_ff48285ed53a51728d282bee3f3762c5.jpg"
+        width: 2500
+        height: 1512
+        isCached: true
   - title: "Trump lawyer who attended White House party tests positive for Covid"
     excerpt: "Jenna Ellis, who has worked alongside Rudy Giuliani on behalf of the Trump campaign to file lawsuits in battleground states, has tested positive for Covid-19."
     publishedDateTime: 2020-12-08T19:53:00Z
@@ -1486,6 +1534,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/71/3c/a5c47fc844b49d2cd97bbb83d2f9/ap20128637866819-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Rep. Swalwell says Trump criticism behind spy story"
+    excerpt: "Following a report that linked him to an alleged Chinese spy, Democratic Rep. Eric Swalwell suggested the information was leaked to hurt him because of his frequent and loud criticism of President Donald Trump."
+    publishedDateTime: 2020-12-09T02:18:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/08/rep-swalwell-says-trump-criticism-behind-spy-story-1344040"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/2e/31/4274604c41d199c7623cde0df6a0/190408-swalwell-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

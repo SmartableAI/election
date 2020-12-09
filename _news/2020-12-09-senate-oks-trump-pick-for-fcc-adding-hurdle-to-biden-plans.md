@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Senate OKs Trump pick for FCC, adding hurdle to Biden plans"
-excerpt: "The Senate has narrowly approved President Donald Trump’s lame-duck nominee to become a member of the Federal Communications Commission, setting up the agency for a stretch of partisan gridlock likely"
-publishedDateTime: 2020-12-08T23:30:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/senate-oks-trump-pick-fcc-adding-hurdle-biden-74615368"
-webUrl: "https://abcnews.go.com/Business/wireStory/senate-oks-trump-pick-fcc-adding-hurdle-biden-74615368"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-oks-trump-pick-fcc-adding-hurdle-biden-74615368"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-oks-trump-pick-fcc-adding-hurdle-biden-74615368"
+excerpt: "The Senate has narrowly approved President Donald Trump’s lame-duck nominee to become a member of the Federal Communications Commission, setting up the agency for a stretch of partisan gridlock likely to stymie President-elect Joe Biden’s policies."
+publishedDateTime: 2020-12-09T02:29:00Z
+originalUrl: "https://www.businessinsider.com/senate-oks-trump-pick-for-fcc-adding-hurdle-to-biden-plans-2020-12"
+webUrl: "https://www.businessinsider.com/senate-oks-trump-pick-for-fcc-adding-hurdle-to-biden-plans-2020-12"
+ampWebUrl: "https://www.businessinsider.com/senate-oks-trump-pick-for-fcc-adding-hurdle-to-biden-plans-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-oks-trump-pick-for-fcc-adding-hurdle-to-biden-plans-2020-12?amp"
 type: article
-quality: 140
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
-    isCached: true
 
 related:
   - title: "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'"
@@ -1105,6 +1099,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "Xu1qlICzRU6vXGFcXRI3oSeeAxrAp3gxjE01v2UK437ZkcRSD7D2CuvmO3sc4my3/XDwCQcdK1FHi3H82Cl+LWvYHCyz+44zeNK7IScuBP4+DXSvQEqiIBAvIgwb7zaXjZ2cRc68LYyLTVxjt+4IQe/xD4zaHyZI/2q5Hz1tWeeAOJ/hNhcp7n1LcGfD95GjjXvgO2fj5gNcIAhH589fdNIRTllHsAqjiLvDVPYtMO2p5TibB10OQars6dt0JQ8bXH0gWSr1uD3GUDXar6+QMKgz2o10UL4ebtqIo7hNV6jin/he8Pplf9lntVfzru+X4Pc+Df39fj4engWFnAyV91Fz+VNEpH0Pgx+ahiA9090=;G13Fj+Y5iU2aimld3vePyQ=="
+secured: "VrDVldwiewf2S/qt2t47NOBtUsd0Dqb/VNt6bE2rJLpqamADAktgwTTidcFxTWj+u6bkyIyS+AVYb/c11xJDpizfrw8hbKNMPFn+yXa656UGV5qFWPosdl8ZjWD0IW7DVHQ386aDA+EQVTxlhHefiwGjJdyrLfWrX2bBaKhtDFJew12EAyzMMuYfT7QY5NxcMUwsaocEvxwIfMRSjRL7JLIf/2B65KDD9pOT4tOIgReWXLWUfFM37665qK7Fi5jNadkWuouMbbvga51X+p7fOc2ltiah9UyPx+n28alQ7h9n+CDMVTpMDGfzX+E702HB5DY0Y+iT6DFoIZDro9nxoDObFriM2q13yMHbh+khEnc=;R21xDalU8klVy8cU6iu6hQ=="
 ---
 

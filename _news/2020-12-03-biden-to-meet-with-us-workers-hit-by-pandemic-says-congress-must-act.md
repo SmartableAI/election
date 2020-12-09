@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1GM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1GM"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/ca519be7e2232ba11e4ac5d8dfae38be29db558d/0_84_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad7e7a3e5456b291902a6b3d9d880c9e"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden defense nominee’s need for a congressional waiver sows discomfort among Democrats"
+    excerpt: "Democrats who voted never to bend the rules governing civilian leadership at the Pentagon were left looking for loopholes to justify their support for retired Gen. Lloyd J. Austin III."
+    publishedDateTime: 2020-12-09T01:01:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-defense-nominees-need-for-a-congressional-waiver-sows-discomfort-among-democrats/2020/12/08/cab06670-398c-11eb-98c4-25dc9f4987e8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-defense-nominees-need-for-a-congressional-waiver-sows-discomfort-among-democrats/2020/12/08/cab06670-398c-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-defense-nominees-need-for-a-congressional-waiver-sows-discomfort-among-democrats/2020/12/08/cab06670-398c-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SI6QUTBZWMI6XPDIS2XQ3KXHFA.jpg&w=1440"
+        width: 1440
+        height: 958
         isCached: true
   - title: "President-elect Joe Biden predicts ‘bleak future’ if Congress doesn’t act on COVID-19 aid"
     excerpt: "Biden has said that while he doesn't support a nationwide lockdown, he plans to ask Americans to commit to 100 days of mask-wearing to help combat the virus as one of his first acts as president."
@@ -187,7 +203,7 @@ related:
   - title: "Biden has chosen congresswoman Fudge for HUD secretary -Politico"
     excerpt: "U.S. President-elect Joe Biden has selected Democratic Representative Marcia Fudge to be secretary of housing and urban development, Politico reported on Tuesday, citing two people with knowledge of the decision."
     publishedDateTime: 2020-12-08T22:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge/biden-has-chosen-congresswoman-fudge-for-hud-secretary-politico-idUSW1N2I903A"
+    webUrl: "https://www.reuters.com/article/usa-biden-hud-fudge-idUSW1N2I903A"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2I903A"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2I903A"
     type: article

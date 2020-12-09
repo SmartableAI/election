@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Multiple Senate Democrats signal opposition to Biden's Pentagon pick"
+    excerpt: "President-elect Joe Biden will officially tap retired four-star General Lloyd J. Austin III to be his Defense Secretary Wednesday, but some Senate Democrats are already expressing opposition to the pick because of a law that mandates the Pentagon chief must be retired from the military for at least seven"
+    publishedDateTime: 2020-12-09T01:38:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hrqRGYeL7GE/two-top-senate-democrats-signal-opposition-to-bidens-pick-for-pentagon-chief"
+    ampWebUrl: "https://www.foxnews.com/politics/two-top-senate-democrats-signal-opposition-to-bidens-pick-for-pentagon-chief.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/two-top-senate-democrats-signal-opposition-to-bidens-pick-for-pentagon-chief.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec68a32e-4817-41ce-a05e-09b225696e18/37ad2bac-a654-4987-91e7-4b3680fbb613/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Key House Democrat pushes back on Biden picking general for defense secretary"
     excerpt: "A prominent House Democrat who sits on the Armed Services Committee is raising concerns about President-elect Joe Biden’s expected pick for defense secretary."
     publishedDateTime: 2020-12-08T16:02:25Z
@@ -76,6 +92,22 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/85337bb5-204b-463b-9f43-f1f0206fb7ef/77ef1044-1d52-4fd1-9090-96ae52c81ed9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden defense secretary pick puts Democrats who opposed Mattis' waiver in a tough spot"
+    excerpt: "Lawmakers would need to approve a waiver allowing him to serve."
+    publishedDateTime: 2020-12-09T01:53:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wnIRbzCu1SM/biden-defense-secretary-pick-dems-opposed-mattis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defense-secretary-pick-dems-opposed-mattis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defense-secretary-pick-dems-opposed-mattis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b82c52d-6baf-4dd2-90b8-e403898a75c6/9eea1eab-e62b-406b-912d-b8b272393d47/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -110,6 +142,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden to name Marcia Fudge as HUD secretary"
+    excerpt: "Fudge has served as representative for Ohio’s 11th congressional district since 2008. Prior to her selection as HUD Secretary, Fudge had campaigned for a Cabinet appointment and lobbied the Biden-Harris transition team to be secretary of agriculture."
+    publishedDateTime: 2020-12-08T23:47:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-marcia-fudge-hud-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-marcia-fudge-hud-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marcia-fudge-hud-secretary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee035aba-07fe-4e96-ba76-3578de5ac693/750518e9-5a78-4b26-a746-28ba07fc263f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "yEWAhqgN+eDfvH6s0bXaI0SWIk/Mzn+6gCqzvEWNKIUHlHYZlEgEOHgKz5MV9PiVLr4dNs9EvLVNaqpttNNBLgewxslJByYtcqpwFdpNOLk+ghYbOsDVLat6FeHjfGRmBj5Cn6F1XDXxQb/thlRens++IPaOjMDieepM2oPnJM6cuxLTcbBsMwBPYEGFzohKQmcE/y4I4yNGcsZ5PRDHrZY/3wdeWtZzI/Uu8X6Io+Xl81D1r1Upho4VZcDlcO4xi5r28PkgYmB65fCX1WoFwLnwQJLrUWlC5qyauL7O+hcwXRfSmXBMw+AafFjJHZDosKBylQpIUg+6NNDwMeipkO9vP5/aaUYU5h6+UDJNfcQ=;aTVMcsWilslBgSTphNPTAQ=="

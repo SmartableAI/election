@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cabinet-fudge-vilsack/2020/12/08/e54b7ca8-3979-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
 type: article
 quality: 114
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "AP sources: Biden picks Rep. Marcia Fudge as housing chief"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary, according to three people familiar with the decision."
+    publishedDateTime: 2020-12-09T02:23:00Z
+    webUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-sources-biden-picks-rep-marcia-fudge-as-housing-chief-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden picks retired US Army Gen. Lloyd Austin to head the Pentagon. If confirmed, he'd be the first Black man to lead the Defense Department."
     excerpt: "Retired US Army Gen. Lloyd Austin would be America's first Black defense secretary, if confirmed by Congress."
     publishedDateTime: 2020-12-08T12:10:00Z
@@ -48,6 +59,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ql9IIKz0Aj3Et4Vv15jBQ98uhohkw87oB+7e1yqnsv6NF8cwICAAhmZWZITqWTgugcWe6xXOlnVjSCmtLeP65anwinJm6CV4xCNqU7B/YobqdlBfr/AbYvganacmKF74L6CXr+4QQwtmR70Q/8K91fwjzHkOp0JUMZUesZDp98862ETTvGxbRJsArYKFOlxByB6F/VlCPCHIp+HCaudZowB7Aq/PAnWmSWDKtXRr5fLDN0jBt74oh72xEnqQQBvZzsIDNMq/jKyJZZbnovJcHgn9EW+WvFX9GpTeVSMYQRizZltSaFX3M/ixEIENbQIFyYVtvZRXo9YxRX158rciDRh3LpuUPWi+7bHvvXGMEq4=;Xl9TRBYqqIoVcpqY7+fFSg=="
+secured: "wlhvR5gPph8kvzp1j9EGk2K20lF85om3HvqlNKOP3HnciR8peEhxQqQtpmLE0++6GHgXXiAIMIsfx8TmCZcjnMMwJBWpL6Pb2C8OW0yTnwSKwhT739ccisaySbKKd1koYgDBhLjBk6cZ6/rxdOPNpYBLLxb+6DGxCLdxa5/0lQ+vNPOB7t9UbVbuxjGxScboouFhO420Q934m3fOlXvDUQ7Cr/xq5J78aflWuQ0v3ost8v26ptcmJS8P9G01q7VuYoakFHEg/zFP7RdmQxsS1bA1cNRV6xLug2wUEPu20pag3zF5pkSlbIYfRnxnZI6TQD9m4qeTP0KE3e1K4qkjzmog1BCnudMkoQShOX+pFeLpw3+frfT9fbzZj603Y1dx+3/pu7+fKyzr+jjzxjrKUgOgu1e/aFooqu6ewnxmD1lbwgSClbkIdpYjU+D17soAiBGI9MM/NIpWR60gP1PS4TY3B1L9R7cpVkL4E4Y78MqJmm3x/ZEYqq++n1YMKKrLTv7gBlrzLj6Ju9tDFyg6Kw==;2ourHLKB4j/Wg7vjNGaJ2g=="
 ---
 
