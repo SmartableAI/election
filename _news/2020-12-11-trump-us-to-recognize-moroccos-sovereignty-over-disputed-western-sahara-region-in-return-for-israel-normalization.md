@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-us-recognize-mor
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-us-recognize-moroccos-sovereignty-disputed-western-sahara-74650444"
 type: article
 quality: 103
-heat: 103
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -29,6 +29,24 @@ images:
     width: 834
     height: 308
     isCached: true
+
+related:
+  - title: "Trump announces that Israel and Morocco will normalize relations"
+    excerpt: "Morocco, with centuries of Jewish history, has long been rumored to be ready to establish ties with Israel after years of informal relations."
+    publishedDateTime: 2020-12-10T18:10:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/dd3c953/2147483647/strip/true/crop/5915x3863+0+40/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9d%2F58%2Fea95e0cf45a680c7a05fea261530%2Fgettyimages-1229950087.jpg"
+        width: 320
+        height: 209
+        isCached: true
 
 secured: "8pmVfUd8bTNX3AgcC8hbHe8j502xNoX5KsOK7F4z4UzvXhimDqk1xQwx8gAi2UgsLa7gvKvkwNGWXBLKdaoNmVJfuswrOYr/+8jAzfPqfdf5+NnclO9jryYfR43Gj8MPlaGY7Lgkz/AFKBVzsJJoTqLZBw4RuxTRueA2CmYvecJz+JzRqxuMEQ4NdhC6+5v5toXkCzURZbGCllvGDF+xOtpqjs8vbRRZJreQOp8asmcsyCzqag1rk/MzJORBv9/SqAFbFdW0Fp9mP7Dt9OHQGU5ocGAwA9VwEFeLF/xLGNswsuNsISRQDGudNTtShPkVuT6+vxy8lrZDtyLDbrpvT8qPGenC6GC7YFmjGglTiew=;ANO5cNo8zMwT5jUb028rNQ=="
 ---

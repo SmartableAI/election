@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-10-douglas-emhoff-harris-husband-to-join-georgetown-law-faculty-in-january.md",
+      "title": "Douglas Emhoff, Harris' husband, to join Georgetown Law faculty in January",
+      "excerpt": "Douglas Emhoff, Vice President-elect Kamala Harris' husband, will become a member of Georgetown Law Faculty in January, the law school announced Thursday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TnLND9ybWzw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TnLND9ybWzw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200812181532-14-biden-harris-event-0812-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/10/politics/douglas-emhoff-georgetown-law-school/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/douglas-emhoff-georgetown-law-school/index.html",
+      "publishedDateTime": "2020-12-10T10:36:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-biden-nominates-denis-mcdonough-to-lead-va-turning-to-another-longtime-obama-adviser.md",
       "title": "Biden nominates Denis McDonough to lead VA, turning to another longtime Obama adviser",
       "excerpt": "President-elect Joe Biden is poised to tap Denis McDonough to lead the Department of Veterans Affairs, a person familiar with the decision says, adding the longtime chief of staff to former President Barack Obama to his new Cabinet.\n    \n",
@@ -1143,7 +1200,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2420,
+      "heat": 2460,
       "tags": null,
       "images": [
         {
@@ -1597,7 +1654,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 922,
+      "heat": 962,
       "tags": null,
       "images": [
         {
@@ -1614,62 +1671,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html",
       "publishedDateTime": "2020-12-03T19:21:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-does-biden-think-its-important-trump-attend-inauguration-hear-his-answer.md",
-      "title": "Does Biden think it's important Trump attend inauguration? Hear his answer",
-      "excerpt": "In an interview with CNN's Jake Tapper, President-elect Joe Biden explains the importance of a demonstration of a peaceful transfer of power at his inauguration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OKxfE8n0UJk/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OKxfE8n0UJk/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 648,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203220123-joe-biden-tapper-intv-inauguration-12032020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn",
-      "publishedDateTime": "2020-12-03T19:14:34-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

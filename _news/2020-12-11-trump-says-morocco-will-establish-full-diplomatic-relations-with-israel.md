@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-morocco-will-establish-f
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
 type: article
 quality: 134
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -31,6 +31,40 @@ images:
     height: 640
     isCached: true
 
-secured: "1yfctO8I8iIla96iZR3hHgDQNKIBoyHyJaVhcVwcrS7I6O5Rf24P97VgJ+TbcNlBaIMAG8GyLmn9MYz9ZS4/ozEdNC49TrZM8EVMn/yjcTPhREoRMqJXuv/YiqaRkl+tc6seO5hJ0k0ydoGstsIuzEkpbjsynjUXzw2QEWQ+8l8WO1AjzmP65Sv57P6a1WHIckbvSbdWlICT9m7QwRzbriiOVrL2WSMDHzE1OfmmFhmPY5l+TXPwgNCe/hhXuYDaZnSn1FKhCQv+8D8lW+wrdHk7UjT1/JOI3pZvBxIKy1XNI88EoMKSmnW+OhH56+/+GjDvUjgA/eeVQKJtpHnNXCxPvRSYEX+0k3rUMB9eFpM=;RzFuqMmj/sIgLz54R3gOKw=="
+related:
+  - title: "Morocco normalizing ties with Israel, 4th country to do so under Trump's Arab peace plan"
+    excerpt: "Morocco will normalize relations with Israel, making it the fourth country to do so in recent days under a U.S.-brokered deal."
+    publishedDateTime: 2020-12-10T18:25:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bDWuH5w9-Qc/trump-morocco-israel-arab-peace-plan"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-morocco-israel-arab-peace-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-morocco-israel-arab-peace-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20328304171650.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Israel and Morocco Agree to Normalize Relations, Trump Says"
+    excerpt: "The deal, which required a U.S. shift on Morocco policy, marks another advance in U.S. efforts to strengthen ties between once-hostile nations in the Middle East"
+    publishedDateTime: 2020-12-10T18:31:00Z
+    webUrl: "https://www.wsj.com/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-271478/social"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "wUn64y7aGnRTeMPwkIIWuXyws6RrclaEkK+7DDwJbv+BRkardKUkuo/4DpSSL814n2dAOXDpWBJ/GCRqfqalrqCx1XJSuZt/Xh9po15jSha6CIP2KvSmFciJfYLpqgXvrwIUI9NGrK9PGDo2sUz52r4vW9iTGE/zzBXTgoNkh4uwlMXqEueT51a2sc2osnNDcw/Wnba3ur3iTlQdjfXzU+mA7nCkkdcdi8KaZGAZTwqtd2b5Nmb4i34pTv87DGFZpTVTi4/TvZb34SWmCQTYsaQlbjG5x7arIViMmb9wqa27IiXpBCJjki6kACFu90fNzH4mS4sIh7FSMA34OakjGLIuwYM8exssn2TLfY621wc=;Y6PLXpA5yz9LNWRujtoLAw=="
 ---
 

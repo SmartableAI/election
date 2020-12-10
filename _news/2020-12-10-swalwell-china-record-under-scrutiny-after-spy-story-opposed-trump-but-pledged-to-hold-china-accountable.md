@@ -2,13 +2,13 @@
 category: news
 title: "Swalwell China record under scrutiny after spy story: Opposed Trump, but pledged to 'hold China accountable'"
 excerpt: "In the days since a bombshell report linked Rep. Eric Swalwell, D-Calif., with a suspected Chinese spy, the congressman’s record on China has come under scrutiny."
-publishedDateTime: 2020-12-10T15:17:49Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBbEFxw-jAM/swalwell-china-record-under-scrutiny-spy-story-trump-trade-war"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBbEFxw-jAM/swalwell-china-record-under-scrutiny-spy-story-trump-trade-war"
+publishedDateTime: 2020-12-10T15:34:00Z
+originalUrl: "https://www.foxnews.com/politics/swalwell-china-record-under-scrutiny-spy-story-trump-trade-war"
+webUrl: "https://www.foxnews.com/politics/swalwell-china-record-under-scrutiny-spy-story-trump-trade-war"
 ampWebUrl: "https://www.foxnews.com/politics/swalwell-china-record-under-scrutiny-spy-story-trump-trade-war.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-china-record-under-scrutiny-spy-story-trump-trade-war.amp"
 type: article
-quality: 156
+quality: 116
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -80,6 +81,6 @@ related:
         height: 320
         isCached: true
 
-secured: "jslykdbvc5uhit8iw0mjWJj3SX7gI7EpLIkBKi6HTIWTGL0NEr53ItXjeQeEz2abIOK1zlMKBwTP4Fl8KmnUM0U5gulSnq4eYfc05yGs10inITpYFypYMHWrInsd1ig93XJSyW0Njygi2e1Z3zX93naHoivBwznJAxaBGsNOUC1TI0gNR+Lh5SLtXfVp6tbPvpYoO6vVlU3dW2rScHqtOBf+vCpyZIS+bxSlqiTr0y9I2o7CdJ5eABBjFv00lO75E9A8CtFHoxnyKbs0EHop+A3T8fEBJVCwnKKIlvkSWIqKuqT+L+jJA8km7+x9JwlH7bHZSE6v1ZIWrWk76F1qg6Yxm9Hb54Rfx+KJ5ERWTdE=;VUHb+3q0bGoWo31Mz8xeXA=="
+secured: "fHZeLR1D9OJA48kvv2hGzaKIICREJb3FUOewngico0InyPy86bq9sNejc277RPjju71UBQjn4lcTlUrXnv9skDil3kmit5snj7Tnu3f/EjBFLMRglibPhx5BAqGPR2R7xrN2v37pkydmbXn25OgP28lJ4lwZbNWodR0w4fgt5OHOc5q1urrS7QECIVygko1QXdihChTbPr4qZePhD9QxxAOMqPAOxlBkxagyDRjUk4gTM7xgYUJFsI0+KR1uHnf826nhcYmPfqEcB97v+7ieRmlS9i/44elWjHmytwzxrNcegSrsZFRDTa3xL/NF9DF6EXLyU+jST7f29H6eNK4Su+eQMhrtJ5LohexcfgMHpkg=;I6hLvGNrXrBDao8q0ktWAA=="
 ---
 

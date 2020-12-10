@@ -543,6 +543,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration finalizes sweeping asylum limits"
+    excerpt: "The Trump administration has finalized a regulation that would place more limits on migrants seeking refuge in the United States, the latest in a series of rules that make it exceedingly difficult to claim asylum in the US and serving as yet another example of the challenges an incoming Biden administration"
+    publishedDateTime: 2020-12-10T17:41:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kbvMwinw-5Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/immigration-asylum/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/immigration-asylum/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409183810-coronavirus-nueva-york-estados-unidos-migrantes-latinos-virus-salud-perspectivas-mexico-cnne-ong-mixteca-00003704-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump announces Israel and Morocco to normalize relations"
+    excerpt: "Morocco has become the fourth country in the Middle East and North African region to agree to establish full diplomatic relations with Israel, an 11th-hour foreign policy achievement for the lame duck Trump administration as it seeks to shore up regional support for Israel as a countermeasure to Iranian"
+    publishedDateTime: 2020-12-10T18:28:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lijKtmZndS0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/trump-israel-morocco/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/trump-israel-morocco/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207131736-03-trump-1205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump won't move on even as those around him are"
     excerpt: "Standing alone at the base of the garland-wrapped Grand Staircase on Tuesday, President Donald Trump seemed miffed that people around him have given up on overturning the election.\n    \n"
     publishedDateTime: 2020-12-10T12:01:01Z

@@ -1350,6 +1350,31 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Kamala Harris Struck the Almost Impossible Balance Between Masculinity and Femininity"
+    excerpt: "A presentation that wouldn’t have hurt a man probably ended up hurting her. But in 2020, Kamala Harris succeeded where Clinton did not. Potential voters view Harris as masculine, 74 on a 100 ..."
+    publishedDateTime: 2020-11-25T20:06:00Z
+    webUrl: "https://slate.com/news-and-politics/2020/11/kamala-harris-struck-impossible-balance-masculinity-femininity.html"
+    ampWebUrl: "https://slate.com/news-and-politics/2020/11/kamala-harris-struck-impossible-balance-masculinity-femininity.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/news-and-politics/2020/11/kamala-harris-struck-impossible-balance-masculinity-femininity.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 78
+    images:
+      - url: "https://compote.slate.com/images/9d949543-8317-42a8-a01a-a69f8dfb6b8a.jpeg?width=780&height=520&rect=1700x1133&offset=0x112"
+        width: 780
+        height: 520
+        isCached: true
+  - title: "Donald Trump’s Newest Lawyer Is a Kamala Harris Birther"
+    excerpt: "John Eastman is listed as the attorney repping the president on the latest suit seeking to overturn the results of the 2020 elections."
+    publishedDateTime: 2020-12-10T02:39:00Z
+    webUrl: "https://www.thedailybeast.com/donald-trumps-newest-lawyer-is-john-eastman-a-kamala-harris-birther"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "/TbzaHxDnabwyw4Siz6kt3+AEiPsAASS4vi+FsvuNexKpbisChYCGsccHz/8DTx5aaERWe7petWSJczle7BclJCtpCxyez0C6HOJ+YnF+eGema7wvff3I9RUWS8IPhld36iCc8C1VsUOT32RCF696TYvrFdstag0u4UG9JKJkIl52ORxDf1doaVhMnq/+zNenOLQb66CpSOJDTLCgYXhAdkptLSabKAyUA+m42qdO3LJ1av7aAqbu5Lj8WE8nwubDE2+WlPhaPbc4ZyFHUx57JsFyRKzKSpgBFa5JMGJNcptlF2kspyhfQRSPChSa/xzMJ8VmuemXMJEbmOfiOvI4J+AbjSk46lh8O1rb+rhCQQPDpLZB5xnBL9qhqR703USVYhgWzouRLy+yBeXHX639gnIWncLY8soBQGHBIRR/+ghCQWD03xQIWcwG/Vzr/joky+S+8DCan9/aFsiCqFZcW6cLrvIPX0ocR1c2xBne57f5yPvp0/7dZVrjVFU3dB6UIOYtCOPU/lH9Nhp8JbIIw==;x/37Bp056pmbhF3g+TueiA=="
 ---

@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden announces slate of new Cabinet and top administration picks"
+    excerpt: "President-elect Joe Biden on Thursday announced a slate of new Cabinet nominees and picks for top roles in his administration, including Denis McDonough for secretary of Veterans Affairs, Tom Vilsack for Agriculture secretary and Marcia Fudge for secretary of Housing and Urban Development.\n    \n"
+    publishedDateTime: 2020-12-10T17:58:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m_L4ak3Jg-Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/biden-new-cabinet-picks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/biden-new-cabinet-picks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Narrow House majority will test Democratic unity in Biden administration "
     excerpt: "Democrats' shrinking House majority will test Speaker Nancy Pelosi's resolve to keep her caucus united and could limit the party's ability to push through President-elect Joe Biden's legislative agenda in their own chamber if they can't stick together.\n    \n"
     publishedDateTime: 2020-12-10T01:43:43Z

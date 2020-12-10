@@ -304,6 +304,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Kamala Harris can offer what Joe Biden is missing: Fresh perspective"
+    excerpt: "Harris is now a familiar presence at the rollout events for President-elect Joe Biden’s appointees. She is in a supporting role, as one would expect, but one can already discern that she is bringing a needed element to the Biden-Harris team: fresh blood and forward-looking thinking."
+    publishedDateTime: 2020-12-10T12:51:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/12/10/how-harris-can-help/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/12/10/how-harris-can-help/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/12/10/how-harris-can-help/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L667CFR2MMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
     excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."
     publishedDateTime: 2020-12-01T16:56:00Z
@@ -1047,6 +1063,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Joe Biden and Kamala Harris's Inauguration: What You Need to Know About the Event"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are quickly approaching the moment when they'll be able to drop \"elect\" from their titles. Both Biden and Harris are set to be sworn into their posts at an inauguration ceremony unlike any other this January."
+    publishedDateTime: 2020-12-10T17:22:00Z
+    webUrl: "https://www.townandcountrymag.com/society/tradition/a34930463/joe-biden-kamala-harris-inauguration-2021-details/"
+    ampWebUrl: "https://www.townandcountrymag.com/society/tradition/amp34930463/joe-biden-kamala-harris-inauguration-2021-details/"
+    cdnAmpWebUrl: "https://www-townandcountrymag-com.cdn.ampproject.org/c/s/www.townandcountrymag.com/society/tradition/amp34930463/joe-biden-kamala-harris-inauguration-2021-details/"
+    type: article
+    provider:
+      name: Town & Country
+      domain: townandcountrymag.com
+    quality: 85
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/former-vice-president-and-democratic-presidential-nominee-news-photo-1607617104.?crop=1.00xw:0.731xh;0,0.121xh&resize=1200:*"
+        width: 1200
+        height: 601
+        isCached: true
   - title: "Biden, Harris get first access to Trump's top-secret President's Daily Brief"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris got their first look Monday at the top-secret President's Daily Brief since winning the 2020 election. President Trump had delayed Biden's access to the PDB,"
     publishedDateTime: 2020-12-01T06:24:00Z
@@ -1157,6 +1189,22 @@ related:
         width: 570
         height: 320
         isCached: true
+  - title: "How Kamala Harris's Vice Presidency Impacts Your Finances"
+    excerpt: "The future VP has proposals that could affect your housing costs, your income, and the minimum wage you can earn. Here's what you need to know."
+    publishedDateTime: 2020-12-10T15:03:00Z
+    webUrl: "https://www.fool.com/personal-finance/2020/12/10/how-kamala-harriss-vice-presidency-impacts-your-fi/"
+    ampWebUrl: "https://www.fool.com/amp/personal-finance/2020/12/10/how-kamala-harriss-vice-presidency-impacts-your-fi/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/personal-finance/2020/12/10/how-kamala-harriss-vice-presidency-impacts-your-fi/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 75
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604216%2Fthe_white_house_and_treesoriginal.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
     excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."
     publishedDateTime: 2020-11-30T23:16:00Z
@@ -1172,6 +1220,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Fox’s Kilmeade Goes OFF on Hunter Biden Tax Investigation, Suggests It Could Cost Joe the Presidency: ‘Good News for Kamala Harris’"
+    excerpt: "Fox News' Brian Kilmeade suggested that Joe Biden's presidency might be brought to an early end over the investigation into his son, Hunter."
+    publishedDateTime: 2020-12-10T14:02:00Z
+    webUrl: "https://www.mediaite.com/tv/foxs-kilmeade-goes-off-on-hunter-biden-tax-investigation-suggests-it-could-cost-joe-the-presidency-good-news-for-kamala-harris/"
+    ampWebUrl: "https://www.mediaite.com/tv/foxs-kilmeade-goes-off-on-hunter-biden-tax-investigation-suggests-it-could-cost-joe-the-presidency-good-news-for-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/foxs-kilmeade-goes-off-on-hunter-biden-tax-investigation-suggests-it-could-cost-joe-the-presidency-good-news-for-kamala-harris/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 60
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-10-at-8.36.42-AM-1200x674.jpg"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Kamala Harris Will Play Major Role As Vice President, Historian Says"
     excerpt: "Historian Julian Zelizer writes that the vice president will be a major voice in the White House during the next four years."

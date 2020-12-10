@@ -1349,6 +1349,31 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Kamala Harris Struck the Almost Impossible Balance Between Masculinity and Femininity"
+    excerpt: "A presentation that wouldn’t have hurt a man probably ended up hurting her. But in 2020, Kamala Harris succeeded where Clinton did not. Potential voters view Harris as masculine, 74 on a 100 ..."
+    publishedDateTime: 2020-11-25T20:06:00Z
+    webUrl: "https://slate.com/news-and-politics/2020/11/kamala-harris-struck-impossible-balance-masculinity-femininity.html"
+    ampWebUrl: "https://slate.com/news-and-politics/2020/11/kamala-harris-struck-impossible-balance-masculinity-femininity.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/news-and-politics/2020/11/kamala-harris-struck-impossible-balance-masculinity-femininity.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 78
+    images:
+      - url: "https://compote.slate.com/images/9d949543-8317-42a8-a01a-a69f8dfb6b8a.jpeg?width=780&height=520&rect=1700x1133&offset=0x112"
+        width: 780
+        height: 520
+        isCached: true
+  - title: "Donald Trump’s Newest Lawyer Is a Kamala Harris Birther"
+    excerpt: "John Eastman is listed as the attorney repping the president on the latest suit seeking to overturn the results of the 2020 elections."
+    publishedDateTime: 2020-12-10T02:39:00Z
+    webUrl: "https://www.thedailybeast.com/donald-trumps-newest-lawyer-is-john-eastman-a-kamala-harris-birther"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "mkHE6uy/ab2yWl/voSK/b2OCgWyONiCWFmwGKxEEPrma4ptdW0m9sUFDXthUC9Yky4ys1TqrT1EW7nDoC/xU+FTvEqoxbohIQxbW9uPSLphazkfHzdzpl29Q/OP4MzjWBtrGgklzZalVho3wEMhqJ2zwk9Xz8BIvXfdfJEftU80R+3XzpkIIcm6Kmw1GlEkOuSiVrvpL3NQEeb3TXKn3VrnHU3eXGMieZxnEB4BTynY65hnN70EnZDp2tiDnYfRApUco9LI70Qs73yBCgteyjnKy4Bw9FmGMDvTVjkAsOyW3REzkPgSd+ucN/ZXEISGk4GsdAxQ1NZrvdMmDfx7symfrB9lMcasIs0TP4rW9/sU=;2qUSfZi57w/H0EbwwB2w+A=="
 ---

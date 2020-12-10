@@ -61,6 +61,17 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Trump Finalizes Sweeping Asylum Restrictions in Last-Minute Immigration Push"
+    excerpt: "The Trump administration finalized a regulation on Thursday that greatly restricts access to asylum in the United States, part of a last-minute immigration crackdown that incoming President-elect Joe Biden will likely try to reverse."
+    publishedDateTime: 2020-12-10T16:34:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-finalizes-sweeping-asylum-restrictions-in-last-minute-immigration-push"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-finalizes-sweeping-asylum-restrictions-in-last-minute-immigration-push?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-10/trump-finalizes-sweeping-asylum-restrictions-in-last-minute-immigration-push?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 52
 
 secured: "O4b7wN43g/y3evjMEXnMEFd365uP0+5s0CraoORO76uS3MYV6IHv6MYUwrvwBz9NYYdaIZ4LTpoUt5dEWrjI38Q7ZUK9Qf0sXKrDCorlb7d8MStkvIA0MrMoS6myvKubVStK6ucbHr18EBqdKk4leo2oh+gmI3rS4/FubuUP2J8w52/6xNoq9auTbeRGBSfBc1bxu9FJj5JVp4nujhFbTN+ghV7ythCzp3r9HPFswUqOVHbG6kFzV25PjKem9M9tt6Pm2pcEfTkI0Pqm5tYUj2knZ64su2nEI7KUYue2Zastw8VGv5FjqTEcG2I0K+eUMMSabk2P/DyvtBmD37H9ja0Bwy6uaaNEpPQgvPjJ7Hk=;dix4Q0OJWAnLF2RSYUFkFw=="
 ---

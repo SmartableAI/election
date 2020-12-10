@@ -77,6 +77,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Kamala Harris' Thanksgiving Cornbread Recipe Is Not the First Time She's Showed Off Her Cooking Skills"
+    excerpt: "Kamala Harris has shared one of her family's favorite Thanksgiving recipes for cornbread dressing. This is not the first time she has shown off her cooking skills. The vice president-elect ..."
+    publishedDateTime: 2020-11-25T15:33:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-cooking-thanksgiving-recipe-cornbread-1550180"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-cooking-thanksgiving-recipe-cornbread-1550180?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-cooking-thanksgiving-recipe-cornbread-1550180?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 109
+    images:
+      - url: "https://d.newsweek.com/en/full/1676235/kamala-harris-cooking.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "GOP Congressman Steve King Faces Backlash for Asking Kamala Harris if She Is Descended From 'Slaves or Slave Owners'"
     excerpt: "\"Who's going to tell him how Black people got to Jamaica and how some of their descendants wound up with European blood?\" said Joy Reid."
     publishedDateTime: 2020-11-22T21:47:00Z

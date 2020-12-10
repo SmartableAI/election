@@ -1349,6 +1349,31 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Kamala Harris Struck the Almost Impossible Balance Between Masculinity and Femininity"
+    excerpt: "A presentation that wouldn’t have hurt a man probably ended up hurting her. But in 2020, Kamala Harris succeeded where Clinton did not. Potential voters view Harris as masculine, 74 on a 100 ..."
+    publishedDateTime: 2020-11-25T20:06:00Z
+    webUrl: "https://slate.com/news-and-politics/2020/11/kamala-harris-struck-impossible-balance-masculinity-femininity.html"
+    ampWebUrl: "https://slate.com/news-and-politics/2020/11/kamala-harris-struck-impossible-balance-masculinity-femininity.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/news-and-politics/2020/11/kamala-harris-struck-impossible-balance-masculinity-femininity.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 78
+    images:
+      - url: "https://compote.slate.com/images/9d949543-8317-42a8-a01a-a69f8dfb6b8a.jpeg?width=780&height=520&rect=1700x1133&offset=0x112"
+        width: 780
+        height: 520
+        isCached: true
+  - title: "Donald Trump’s Newest Lawyer Is a Kamala Harris Birther"
+    excerpt: "John Eastman is listed as the attorney repping the president on the latest suit seeking to overturn the results of the 2020 elections."
+    publishedDateTime: 2020-12-10T02:39:00Z
+    webUrl: "https://www.thedailybeast.com/donald-trumps-newest-lawyer-is-john-eastman-a-kamala-harris-birther"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "DrubbNuNEmqxEfdGtEvFSyux3aKgyVMxWc2KBnmDlQ3BLAJoXXWjfrTGOZv+xwHXLebZn1q74FtG9tv1Q3qvdtQlCJ+sPZTfgWaHDrMlD5V5zPwQg/fNXi6kTPi+XDUEYx1efN5rMwRmzgiwES5lAk191Sr/vv1PbaT3cTUYMhatK9bP3kPs28jfJDV74qpWnhN3eOqLj43tNtodnrZJJHS82PtdL8DNqbELMMcWRo4Sc1S5Bw9NoUFV8mlWgP3EBHfKL6DVPST/+qj9pvhakYwblFZoUCQGB4/c0xoTB/fF1o4VVYdGV+m6FCFlEO+ts9Jap5vr6KRi8og00bA/v6bXUAAeEWFSAZYfLA+JWYI=;cI7EnbBe4gBEpndhkgmy0A=="
 ---

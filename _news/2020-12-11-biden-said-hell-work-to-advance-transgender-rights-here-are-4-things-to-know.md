@@ -575,6 +575,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "President-elect Joe Biden selects Susan Rice as director of White House Domestic Policy Council"
+    excerpt: "Rice, 55, served as national security adviser to former President Barack Obama and is a former U.S. ambassador to the United Nations."
+    publishedDateTime: 2020-12-10T16:01:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/10/joe-biden-picks-susan-rice-as-head-of-domestic-policy-council/3216544001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3216544001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3216544001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/27/USAT/7ac0ad44-c3a1-475a-9e53-4e15c6065890-SusanRice019.JPG?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Fact check: Biden won the most total votes — and the fewest total counties — of any president-elect"
     excerpt: "Opponents have cited the small number of counties Joe Biden won to question if he truly won the most votes of any presidential candidate in history."
     publishedDateTime: 2020-12-10T01:44:00Z
@@ -661,6 +677,6 @@ related:
         height: 308
         isCached: true
 
-secured: "7AYuMEPIXsch39A6Yl+EG+VDPIud6W0Z7Efap/mUchMdvneIwtrMFy8W6v8wFw6E8xonPop26SVuSYHnkfFkvKZUHIRyipNMuhTxkFHRdDoZdDzPgdBgIJALWWxWDVzhtfOsVkFFKOhOXcuK5m2SxOCmUSPjuHdDDfLZe8zUlbtT6Heq5L98rktzJMoX6eGJhbosQGjj5RWS8UbE7Uqp8G1/wgmMvUPNFM42kDuz1lcZCS6AoixSW8qaFwdcAREiVed51A1bA5EqWLIBCzV25w4caZAheNJ4DX35EwAXSbiY2zOGBZCF0rsKkBumRRe8FotBTsmXSL20NUUEDZhhEge517IBFuDPLbMMLIGQjrU=;1TuH4z3jlmGru69MsznBSw=="
+secured: "6c9bH3g/44XBkkXYA2V+DFf/sPu/e1CG2RvUw+zCJWzWP4xD8Zzselxd/O6LqLmXSYPk/uCJI4DBUcpgFKzECPRoeisSe0bAJg2kVK8YiBfR447nxUvpdqVe4a7fPu+YiVJ+yeEniqsxZFH21XgbLofzbu8/BOvs2Mn37F9wAUv+tA+SPvtuz8wYiXKcl6ch81gozKh6Ek2HxYhu97tL4AkRHBWkcu1yaXKg7WF64aumkgI1I3JG2U5jV0jaBOhT1g6hbIMeeVxPvlbvJNml5sOuSNCZWKYGBbTvkzm/5qLrAZG598qgqSI8LExrznHP3DoHQpCtUDmfmmQ15aBN5mmjbJrb1P/PZibZ9sBYxyZV1hNgowxzy3w7z5J7ab2A8LV1zJLMOiyW2jD5AIFXl3Fe5uef/pnh8J0lNvivp4tuZtOAebi5gbvQljOuEdi2XCxiEUARbwElKWHB2ZN3N8UinYOSOepZE/5g3Xno4gg+2UwZ+AXcG7yTb9dIWYfRqgsaI+aPWdXaRuuKp4G73A==;yJbtZnv8qb35krOUrZDIsw=="
 ---
 

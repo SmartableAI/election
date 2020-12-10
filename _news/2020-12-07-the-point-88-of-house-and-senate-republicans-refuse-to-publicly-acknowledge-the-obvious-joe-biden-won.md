@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Expect a White House deep clean when Biden moves in "
+    excerpt: "When the White House welcomes a new first family it gets a thorough cleaning in the five hours allotted for the turnover. But with a global pandemic raging -- and an outgoing President whose orbit is rife with people shunning public health guidelines and coming down with Covid-19, this January 20 is"
+    publishedDateTime: 2020-12-10T18:17:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qpeAGoO10hU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/white-house-clean-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/white-house-clean-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210125211-restricted-white-house-cleaning-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP leadership rejects resolution acknowledging Biden as President-elect"
     excerpt: "Congressional Republican leaders on Tuesday rejected a resolution that asserted that Joe Biden is President-elect, the latest refusal by the GOP on Capitol Hill to accept the election results even though it's been clear for weeks that President Donald Trump lost.\n    \n"
     publishedDateTime: 2020-12-08T18:31:22Z
@@ -332,6 +348,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203164514-tapper-biden-harris-1203-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden set to stump for Georgia Runoff candidates, kicking off a big push for early voting"
+    excerpt: "President-elect Joe Biden will travel to Georgia next Tuesday to headline a rally in support of the Democratic candidates in the state's US Senate runoff election, the Biden campaign announced Thursday.\n    \n"
+    publishedDateTime: 2020-12-10T17:49:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Xc_NLsboTE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/joe-biden-georgia-runoff-plans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/joe-biden-georgia-runoff-plans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209092240-01-joe-biden-health-team-1208-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

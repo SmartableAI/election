@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden announces slate of new Cabinet and top administration picks"
+    excerpt: "President-elect Joe Biden on Thursday announced a slate of new Cabinet nominees and picks for top roles in his administration, including Denis McDonough for secretary of Veterans Affairs, Tom Vilsack for Agriculture secretary and Marcia Fudge for secretary of Housing and Urban Development.\n    \n"
+    publishedDateTime: 2020-12-10T17:58:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m_L4ak3Jg-Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/biden-new-cabinet-picks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/biden-new-cabinet-picks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Why Joe Biden's broken foot reveals how different his White House will be from Donald Trump's"
     excerpt: "Days before Thanksgiving last year, President Donald Trump made an unannounced and previously unscheduled trip to Walter Reed medical center. The White House said the trip was for a \"quick exam and labs.\" We still don't know why he actually went -- or what the outcome of his visit was.\n    \n"
     publishedDateTime: 2020-11-30T18:11:49Z

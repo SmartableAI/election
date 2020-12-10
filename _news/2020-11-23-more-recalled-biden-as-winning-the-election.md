@@ -1349,6 +1349,31 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Kamala Harris Struck the Almost Impossible Balance Between Masculinity and Femininity"
+    excerpt: "A presentation that wouldn’t have hurt a man probably ended up hurting her. But in 2020, Kamala Harris succeeded where Clinton did not. Potential voters view Harris as masculine, 74 on a 100 ..."
+    publishedDateTime: 2020-11-25T20:06:00Z
+    webUrl: "https://slate.com/news-and-politics/2020/11/kamala-harris-struck-impossible-balance-masculinity-femininity.html"
+    ampWebUrl: "https://slate.com/news-and-politics/2020/11/kamala-harris-struck-impossible-balance-masculinity-femininity.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/news-and-politics/2020/11/kamala-harris-struck-impossible-balance-masculinity-femininity.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 78
+    images:
+      - url: "https://compote.slate.com/images/9d949543-8317-42a8-a01a-a69f8dfb6b8a.jpeg?width=780&height=520&rect=1700x1133&offset=0x112"
+        width: 780
+        height: 520
+        isCached: true
+  - title: "Donald Trump’s Newest Lawyer Is a Kamala Harris Birther"
+    excerpt: "John Eastman is listed as the attorney repping the president on the latest suit seeking to overturn the results of the 2020 elections."
+    publishedDateTime: 2020-12-10T02:39:00Z
+    webUrl: "https://www.thedailybeast.com/donald-trumps-newest-lawyer-is-john-eastman-a-kamala-harris-birther"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "ZSbLP2ThPhrTdFO2/abSVPldzc1VLAnAilZ2ADQXQijrQwdLNMQ37JHi+fQm1oSWnY9MLLkB8P342VR0WeUDWCGJN7we4xPuEs7ksA0Vc8qqkN6LIvdViCVGWu2GR0XkKkx4BlqmOlM2PJ0teUkBoqyIhO5Wv2ri5Kht1HYZJr29DLtV2vGgn1aLoEs8PFC7/FTTRwv1n8e8ROFiHwvSISsFyvAiYcGcG1D9TDnbD600iB3Y3z49odYgHLUQOuzS7sZX+ns1aNE4VcP4DQefyKOH1tfBdaUQWT6Iv7MDyUpC311849NkljsWn3OGLB7sPP2Q0SrRyUipGCGuPL0JZySlLLzJ6GFv9bvoR7d2BPo=;dajyOESxL4xpyh2Mc+gVtw=="
 ---

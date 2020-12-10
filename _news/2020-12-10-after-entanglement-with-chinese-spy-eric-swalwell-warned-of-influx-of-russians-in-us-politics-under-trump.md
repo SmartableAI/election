@@ -66,15 +66,15 @@ related:
         isCached: true
   - title: "Swalwell China record under scrutiny after spy story: Opposed Trump, but pledged to 'hold China accountable'"
     excerpt: "In the days since a bombshell report linked Rep. Eric Swalwell, D-Calif., with a suspected Chinese spy, the congressman’s record on China has come under scrutiny."
-    publishedDateTime: 2020-12-10T15:17:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBbEFxw-jAM/swalwell-china-record-under-scrutiny-spy-story-trump-trade-war"
+    publishedDateTime: 2020-12-10T15:34:00Z
+    webUrl: "https://www.foxnews.com/politics/swalwell-china-record-under-scrutiny-spy-story-trump-trade-war"
     ampWebUrl: "https://www.foxnews.com/politics/swalwell-china-record-under-scrutiny-spy-story-trump-trade-war.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-china-record-under-scrutiny-spy-story-trump-trade-war.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 116
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/AP19347606405768.jpg?ve=1&tl=1"
         width: 640

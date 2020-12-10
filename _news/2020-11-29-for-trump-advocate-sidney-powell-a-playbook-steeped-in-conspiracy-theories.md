@@ -155,6 +155,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Sidney Powell Unrelenting in Legal Battle on Trump's Behalf"
+    excerpt: "Conservative attorney Sidney Powell has been unrelenting in her battle on behalf of President Donald Trump and the Americans who have pledged their faith in him."
+    publishedDateTime: 2020-12-10T17:27:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-10/sidney-powell-unrelenting-in-legal-battle-on-trumps-behalf"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-10/sidney-powell-unrelenting-in-legal-battle-on-trumps-behalf?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-10/sidney-powell-unrelenting-in-legal-battle-on-trumps-behalf?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "qdPoZI4lEj5thYw+saCgd+xknapwPj8/08BBTD1srdt3Ms2kWo3BxqvD/0M4XgHvMcMLQesP1JNiCB96bfvklApVH1XkJfXSRv+ZoeQ/oyCL9Pynk3nE/FHAdJdr48yQSGpjWs57uUKB5x3rK5yRCQz63ld2r/0rYzzsgp8ja0TEit1eac5KtvglooR8bBhBwyXukJ2W0eQNXrHqpJgvwxHLQHXjJRbrQ/E4lUoyduS8rvhYDjfPfTAYEtvM4TecSDO+Nf6jTZWs+B5soaE6SKb1eD3bEHVy4Gk4B8z8SF+cfoRJByeB8DLnn7qd5f0X7tW8if4SklaF3Jyh785M9cZLwKyJaUoBgNTKQ5ALxg7xSO1dSIMUDNd5PTexN5PlKXrsbrwrMGCKMPhiADGTzjogihZPLr+MiH8wX2mhLrRayCsxdhRJq629qLC933Ni8vJ/EBNWaag/QB8jdWuZfPYm60tdLGFQ/surNmbRVcp/ErK8gB7TlzSlCOz+OUF1BS0WCX7MN6v7R+MYtuPyWw==;v2LeIcDry7Fih3CN/GlizA=="
 ---

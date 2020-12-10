@@ -589,6 +589,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "President-elect Joe Biden selects Susan Rice as director of White House Domestic Policy Council"
+    excerpt: "Rice, 55, served as national security adviser to former President Barack Obama and is a former U.S. ambassador to the United Nations."
+    publishedDateTime: 2020-12-10T16:01:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/10/joe-biden-picks-susan-rice-as-head-of-domestic-policy-council/3216544001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3216544001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3216544001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/27/USAT/7ac0ad44-c3a1-475a-9e53-4e15c6065890-SusanRice019.JPG?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Fact check: Biden won the most total votes — and the fewest total counties — of any president-elect"
     excerpt: "Opponents have cited the small number of counties Joe Biden won to question if he truly won the most votes of any presidential candidate in history."
     publishedDateTime: 2020-12-10T01:44:00Z

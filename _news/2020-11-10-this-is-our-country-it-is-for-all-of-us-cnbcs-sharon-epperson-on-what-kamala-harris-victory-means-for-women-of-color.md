@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Douglas Emhoff, Harris' husband, to sever ties with law firm by Inauguration Day"
-    excerpt: "Douglas Emhoff, the husband of Vice President-elect Kamala Harris, will sever all ties with his law firm DLA Piper by Inauguration Day, according to a campaign spokesperson.\n    \n"
-    publishedDateTime: 2020-11-10T20:49:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W4aqWbhPVHw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/douglas-emhoff-law-firm/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/douglas-emhoff-law-firm/index.html"
+  - title: "'Her story is our story:' Alpha Kappa Alpha sorority sisters bask in Kamala Harris' victory"
+    excerpt: "Michelle Arrington was on a plane headed to a beach reunion with her Alpha Kappa Alpha Sorority sisters Saturday when American history happened.\n    \n"
+    publishedDateTime: 2020-11-08T22:19:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sej38i-hN54/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 180
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110145840-harris-emhoff-0812-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190124204506-kamala-harris-aka-sorority-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "‘It’s a Big Deal’: TV Coverage Notes Magnitude of Kamala Harris Victory"
+    excerpt: "On Fox News, Donna Brazile recalled that her mother and grandmother could not vote. “Just scoot over and let women also share in the leadership of this country,” she said."
+    publishedDateTime: 2020-11-07T21:52:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/08/business/07harris-media/merlin_179349762_a42eb950-e5f1-4108-a117-004f508f1657-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Kamala Harris’ ancestral village in India celebrates her success"
     excerpt: "Kamala Harris’ ancestral village in India lit fireworks and played music to celebrate the California politician’s success in the U.S. elections. Harris, who will become Vice President, has Indian and Jamaican heritage,"
     publishedDateTime: 2020-11-10T10:49:00Z
@@ -80,6 +96,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "'Her story is our story:' Alpha Kappa Alpha sorority sisters bask in Kamala Harris' victory"
+    excerpt: "A group of Howard University alums and Alpha Kappa Alpha sorority sisters explain what electing the nation's first black woman vice president means to them and the generations ahead."
+    publishedDateTime: 2020-11-08T21:45:00Z
+    webUrl: "https://www.cnn.com/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 105
 
 secured: "VLxHxtsFcGPK83mT0390VQ8xiImEQLGUrbRmUR6+Y+naNJz51bk8BpJmGAsVJrRFhsE3Gw+8cAtsKg8yykDjNJ1nCjYlWlsIQwebp9IPS2dAWuWq7DegFo8lG8Hagz0wogEOIGHmxzfauGVsJjxolkethVCiHAZnlEpXFCsFvmAqzmslkNJYRvXI/5N1ehBtritI4bAuzYPdeiRzdrArkd3280sEDDjSQPV7Cm5J47LcCy4DgwQl0kldzIxPDY5vvsIij2cHQLSowERtCCJBkmiUafqQ/7E6AKGoIcO3OS086anZMAQ2H9b4gn91dna0WziHdi/qhp1/RjxlXGnXEN8k6qyoHSf9PsrzZOqeocaQwOtRW4/+imL2N0UAJz1pCJOym715qfN/9O6rQumvSwLikXnGUZrOA+9BYtuysxXNsq7b99JTYjcrp1ZM489LOz252PPBTWuvcS6wZkCcd36yVnC3xamb+qy4RweP+KZPM3EWiSS9SaKcZqEt7UCy8rApipH6CFav3O6V4aGvVQ==;G3OJ60Rd5dP15oeuMzjUAw=="
 ---

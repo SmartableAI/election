@@ -2,6 +2,114 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-11-15-kamala-harris-set-to-first-south-asian-american-vp-sends-out-wishes-for-happy-diwali.md",
+      "title": "Kamala Harris, set to first South Asian American VP, sends out wishes for happy Diwali",
+      "excerpt": "Diwali, one of the most important holidays in India, symbolizes new beginnings and the triumph of good over evil, and light over darkness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/kamala-harris-diwali-sal-mubarak-twitter/",
+      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-diwali-sal-mubarak-twitter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/08/2ae37ba1-b020-440a-a699-8f8450de0535/thumbnail/1200x630g2/8212c093415d0ff56d89a07be0bde9d2/2020-11-08t014600z-1312344614-rc2pyj9y91ci-rtrmadp-3-usa-election-biden.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/",
+      "publishedDateTime": "2020-11-14T15:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-darrell-issa-trump-on-par-with-lincoln-reagan-with-value-added-to-the-republican-party.md",
+      "title": "Darrell Issa: Trump on par with Lincoln, Reagan with value added to the Republican Party",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ABnE3NXhjUk/darrell-issa-trump-lincoln-reagan-value-to-republican-party",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ABnE3NXhjUk/darrell-issa-trump-lincoln-reagan-value-to-republican-party",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee0c5fb7-89f6-497f-bb85-9e7c233cdde5/b552cba5-dad2-42a4-97d2-09d5b9d5b151/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/darrell-issa-trump-lincoln-reagan-value-to-republican-party.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/darrell-issa-trump-lincoln-reagan-value-to-republican-party.amp",
+      "publishedDateTime": "2020-11-14T14:26:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-15-trump-election-lawsuit-in-arizonas-maricopa-county-dismissed-outcome-wouldnt-have-affected-races.md",
       "title": "Trump election lawsuit in Arizona's Maricopa County dismissed, outcome wouldn't have affected races",
       "excerpt": "By Friday morning, the Trump team had filed a motion acknowledging the outcome of the lawsuit would have no impact on Arizona’s presidential results",
@@ -1214,114 +1322,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-lindsey-graham-challenger-jaime-harrison-eyed-to-be-next-dnc-chair.md",
-      "title": "Lindsey Graham challenger Jaime Harrison eyed to be next DNC chair",
-      "excerpt": "Jaime Harrison, who lost a costly race to Sen. Lindsey Graham, R-S.C., is reportedly the favorite to be the next Democratic National Committee chair, after Tom Perez announced he won’t seek reelection. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uVu3BBhjUl0/lindsey-graham-challenger-jaime-harrison-dnc-chair",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uVu3BBhjUl0/lindsey-graham-challenger-jaime-harrison-dnc-chair",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/c30b26d4-jaime-harrison-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-challenger-jaime-harrison-dnc-chair.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-challenger-jaime-harrison-dnc-chair.amp",
-      "publishedDateTime": "2020-11-12T16:35:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-john-mccains-widow-says-its-time-for-trump-to-accept-the-results-and-get-on-with-the-healing.md",
-      "title": "John McCain's widow says it's time for Trump to 'accept the results and get on with the healing'",
-      "excerpt": "Cindy McCain described Joe Biden as \"a man of honor\" who would \"heal the wounds caused by the outgoing administration.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11",
-      "originalUrl": "https://www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fad9cdf1e8d500019813396?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11?amp",
-      "publishedDateTime": "2020-11-12T14:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

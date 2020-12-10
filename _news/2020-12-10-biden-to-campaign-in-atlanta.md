@@ -174,6 +174,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden announces slate of new Cabinet and top administration picks"
+    excerpt: "President-elect Joe Biden on Thursday announced a slate of new Cabinet nominees and picks for top roles in his administration, including Denis McDonough for secretary of Veterans Affairs, Tom Vilsack for Agriculture secretary and Marcia Fudge for secretary of Housing and Urban Development.\n    \n"
+    publishedDateTime: 2020-12-10T17:58:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m_L4ak3Jg-Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/biden-new-cabinet-picks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/biden-new-cabinet-picks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Narrow House majority will test Democratic unity in Biden administration "
     excerpt: "Democrats' shrinking House majority will test Speaker Nancy Pelosi's resolve to keep her caucus united and could limit the party's ability to push through President-elect Joe Biden's legislative agenda in their own chamber if they can't stick together.\n    \n"
     publishedDateTime: 2020-12-10T01:43:43Z
@@ -397,6 +413,6 @@ related:
         height: 629
         isCached: true
 
-secured: "WMgc6YDNqFJ72tCjbJeKLPPDTocd8viaqktfdd7Inh2Q42igxxMj8YC9L4bngWa7Wu/Yoao08WJiCnfa9GjFilctTSGi//Dx+Ow7VJY+xsP1nXf64CuP2YOqWWCT2+LHAX3sXnYxl2JwI52GvAsyHDD3CpKCImCHZKscQ/547n3GDY8IKF3uArfm/RfCNLL4FURZpt2qQSPZ9IeGjNVD4UuEgU8MlHasT7LGDcpOWL+rVmCVkWyS7gpcPmE+LdcooL+TGkBhXpBoNEtZQy6DdxPyD3bypWKwjCFnM/4roD0KBA08xRgp7IRIICXAwhsQkIvp754rbD02eyrnylx0sN22e/2ZPXSdjOZ73RrMxqI=;7JyqqDB6H3f2uuvmHky9oQ=="
+secured: "efOXbgts1/UnE/3nAYjulvvgt5V3NKJfG4gv4NP88Zx+Pe1lAZ9rq8XWBqZBIaN3ebMU9HYhKQFQCQ3x+Y6R5YIzvLxf4Ry6K5E0IYvTNFwelow8gjA4zvuMerZluTQ5IOnN6rnNNpX6/8uU5WaxNEaWDnM46x2Fs4kVx4esg+Xa7waQD9GJd/N6/y3ykzFjZSDYJvwJZ8nojCXYvj0QSKuwwm4acjv/5jYF3Bd9/At0LUhGxv/oP15F3YtzrTgHpiuDVvP2Md7ANrI8UOFXyVHJN4JFSo79rr8C95L7v/ge97NhJ4MDNsju7oRcxHM+5dWkI9Vv7tyH8j1mOd83ACqA+v6WPZ1XeD4USoFJIYHCbPx0yI+f69Ptq6W6vnh4qHXvA0e2FIvLziGWXO1g1jBoAPmwtJufIkCLsTSx0LgQwQK0tiXTzhZCDd1uX8iwuhkXx8Gk1oHkJHJp2/yE7WLIDNOOLukemrneSG+Nm3nwFUBCCC6+P0alCrm1Y+aca41Mumxr6YMVgg7s7lFLTA==;u9NlaNxftZB7swDIDto4Qg=="
 ---
 

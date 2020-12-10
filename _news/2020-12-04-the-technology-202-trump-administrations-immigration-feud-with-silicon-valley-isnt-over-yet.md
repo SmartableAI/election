@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Supreme Court will hear Trump administration defend controversial Medicaid work requirements"
-    excerpt: "Forcing low-income people to work or prepare for employment in exchange for health coverage is an experiment that's been tried in only three states."
-    publishedDateTime: 2020-12-04T20:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/04/donald-trumps-medicaid-work-requirements-get-supreme-court-review/6341457002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6341457002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6341457002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/3dbe008c-2f39-4c44-8dfe-841a5dc08ac6-XXX_Supreme_Court_Upholds_Obama_s_Affordable_Care_Act_70385449_.JPG?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump administration pushes out more leading defense advisors as the Pentagon purge continues"
     excerpt: "The removal of members of the Defense Business Board follows the purge of the Defense Policy Board just last week"
     publishedDateTime: 2020-12-05T04:23:00Z
@@ -111,6 +95,33 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Former top admiral alarmed by Pentagon purge says Trump still has time to do something 'really destructive'"
+    excerpt: "\"There are some real Trump loyalists there now in charge,\" former Chairman of the Joint Chiefs of Staff Adm. Mike Mullen said Sunday."
+    publishedDateTime: 2020-11-30T20:09:00Z
+    webUrl: "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5fc54a4550e71a0011558043?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Trump Admin Revives Oil Leasing in California Despite Opposition"
+    excerpt: "The Trump administration on Thursday will hold a sale of oil and gas leases on federal land in California for the first time in eight years despite widespread opposition to the auction in the Democratic state,"
+    publishedDateTime: 2020-12-10T12:24:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "s6wAmvuPqMAV5MjvRQqsVXI4b6X1HjTyaUCb3yQHoiAj8rLsp35XLOVm8gRYJ8sXr9ANoBP+5NKvUjYECbno1PnKpwcpB4utqLQqAVoZgkVUushlojKtaPAuX3YUI5wbLrFa1NQfHsqf218SaGROro40kYA8uN1ycosP7f4xelyzbtM7dSYCH0QnVTXkU7KJtV62KRSWCbFJMIr1AK0tD16pnPbqvE2K8gfEbYrYx/EFaobf2dqUd40K35+s5e2Ad4VRJ54PJ/2AThGB5dkAs997RwkQl0YFYB45GW3AjhF3NUU8nYoefMKP1cZtFC3748SIdUayWRGtheETW33A9sYqlWhJtxfYlQtLd11zYgQ=;tK4paqkKIBy2NPqQJCIZVg=="
 ---

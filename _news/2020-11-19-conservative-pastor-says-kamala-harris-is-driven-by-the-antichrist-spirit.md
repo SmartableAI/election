@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/conservative-pastor-says-kamala-harris-driv
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/conservative-pastor-says-kamala-harris-driven-antichrist-spirit-1548407?amp=1"
 type: article
 quality: 123
-heat: 343
+heat: 363
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4TOR7ABBLAI6XLKTJQP5USMQPU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Kamala Harris' Thanksgiving Cornbread Recipe Is Not the First Time She's Showed Off Her Cooking Skills"
+    excerpt: "Kamala Harris has shared one of her family's favorite Thanksgiving recipes for cornbread dressing. This is not the first time she has shown off her cooking skills. The vice president-elect ..."
+    publishedDateTime: 2020-11-25T15:33:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-cooking-thanksgiving-recipe-cornbread-1550180"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-cooking-thanksgiving-recipe-cornbread-1550180?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-cooking-thanksgiving-recipe-cornbread-1550180?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 109
+    images:
+      - url: "https://d.newsweek.com/en/full/1676235/kamala-harris-cooking.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Kamala Harris on ‘the difference between charity and duty’"
     excerpt: "Vice President-elect Kamala Harris spoke about Americans “duty\" to their communities during a Thanksgiving address at D.C. Central Kitchen on Nov. 25."

@@ -2,6 +2,170 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-04-ivanka-trump-confirms-she-was-questioned-by-the-dc-attorney-generals-office-over-inaugural-committee-spending.md",
+      "title": "Ivanka Trump confirms she was questioned by the D.C. attorney general’s office over Inaugural Committee spending",
+      "excerpt": "The president’s daughter released an email showing that she told Trump hotel executives to charge “market price.” The hotel is accused of overcharging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ivanka-trump-deposed/2020/12/03/195df272-3589-11eb-a997-1f4c53d2a747_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-03T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-jeffrey-zients-expected-to-be-named-bidens-coronavirus-coordinator.md",
+      "title": "Jeffrey Zients expected to be named Biden's coronavirus coordinator",
+      "excerpt": "Jeffrey Zients is President-elect Joe Biden's choice to be the White House coronavirus coordinator, or \"czar,\" a source familiar tells CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P_9Q_uuX_Ao/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P_9Q_uuX_Ao/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/130410120120-obama-budget-speech-story-top.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/jeffrey-zients-coronavirus-czar/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/jeffrey-zients-coronavirus-czar/index.html",
+      "publishedDateTime": "2020-12-03T10:30:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-trump-awards-football-coach-lou-holtz-the-medal-of-freedom.md",
+      "title": "Trump awards football coach Lou Holtz the Medal of Freedom",
+      "excerpt": "President Donald Trump awarded the Medal of Freedom to former football coach Lou Holtz on Thursday in an Oval Office ceremony.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTVejM6MY1o/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTVejM6MY1o/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/160502185550-lou-holtz-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/donald-trump-lou-holtz-medal-of-freedom/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/donald-trump-lou-holtz-medal-of-freedom/index.html",
+      "publishedDateTime": "2020-12-03T09:59:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-kennedy-democrats-some-republicans-have-their-bowels-in-an-uproar-over-trump-not-conceding.md",
       "title": "Kennedy: Democrats, some Republicans 'have their bowels in an uproar' over Trump not conceding",
       "excerpt": "Sen. John Kennedy, R-La., said President Trump had every right to contest the results of the 2020 election in an appearance on \"America's Newsroom.\"",
@@ -118,7 +282,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1182,172 +1346,6 @@
       "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249714",
       "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249714",
       "publishedDateTime": "2020-12-02T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-a-trump-fund-raiser-for-maya-wiley-yes-but-its-mary-trump.md",
-      "title": "A Trump Fund-Raiser for Maya Wiley? Yes, but It’s Mary Trump",
-      "excerpt": "Ms. Trump, the president’s niece, has written a tell-all book and opposed his re-election. Now she’s holding an online event for Ms. Wiley, who’s running for mayor of New York.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/02/nyregion/02trump-wiley1/02trump-wiley1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/nyregion/mary-trump-maya-wiley.amp.html",
-      "publishedDateTime": "2020-12-02T08:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-trump-vows-defense-bill-veto-unless-internet-liability-shield-scrapped.md",
-      "title": "Trump vows defense bill veto unless internet liability shield scrapped",
-      "excerpt": "U.S. President Donald Trump said on Tuesday he would veto the $740 billion National Defense Authorization Act unless it includes a measure eliminating a federal law protecting tech companies such as Facebook and Twitter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-trump-tech/trump-vows-defense-bill-veto-unless-internet-liability-shield-scrapped-idINKBN28C0B1",
-      "originalUrl": "https://www.reuters.com/article/usa-trump-tech/trump-vows-defense-bill-veto-unless-internet-liability-shield-scrapped-idINKBN28C0B1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543139133&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB1045",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28C0B1",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C0B1",
-      "publishedDateTime": "2020-12-02T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-trump-is-leaving-washington-as-he-governed-chaotically.md",
-      "title": "Trump is leaving Washington as he governed — chaotically",
-      "excerpt": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
-      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_49/3432524/201202-donald-trump-mc-1314_76baad09f4ea18edab7aa6aafee2438b.JPG",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249684",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249684",
-      "publishedDateTime": "2020-12-02T06:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",

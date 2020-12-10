@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-di
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -155,6 +155,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Sidney Powell Unrelenting in Legal Battle on Trump's Behalf"
+    excerpt: "Conservative attorney Sidney Powell has been unrelenting in her battle on behalf of President Donald Trump and the Americans who have pledged their faith in him."
+    publishedDateTime: 2020-12-10T17:27:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-10/sidney-powell-unrelenting-in-legal-battle-on-trumps-behalf"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-10/sidney-powell-unrelenting-in-legal-battle-on-trumps-behalf?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-10/sidney-powell-unrelenting-in-legal-battle-on-trumps-behalf?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "osuYXw7sjeGSAR6vO6IYAVoeYjvUg+ixe/eiTNVgJDMB+7cts1CGTZv0X4yScTbeXvMVXEnmm801hkOos8u6nz1Jhr322IOIyXVZnHNt1ca7ImfEtM00Kan0fBQ3IWsGizeTeFewa0P4mw1p/h6yKxWMpdWTLndmvkaXl/Fb/acL1a2DfS/lHbTG27lqq0Hl1vSGetWy11Bnn+qt5PFoaAkDruywhNtRM6197IXnZsEZJOoDlMF8I7zsv5E+Xpcn1hEEB1wI6zsnwpkAk9/IkLOUj12PyJLwvKri+mVHi5S3BE0qAlwgvcahu/trtTBdjehwUnlzuyqyVDeN5RCFK0cXZav08FZQvrW96m+2mVA=;9SB+1taENC83vpGFZg92vw=="
 ---
