@@ -580,7 +580,21 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Hamilton County Sheriff's Civil Service Board chairman resigns after sexually explicit comments about Kamala Harris circulate on social media"
+    excerpt: "The chairman of the Hamilton County Sheriff's Office Civil Service Board and member of the county's Health and Safety Board resigned after sexually explicit comments he allegedly made about Vice President-elect Kamala Harris circulated on social media Wednesday."
+    publishedDateTime: 2020-12-10T22:30:00Z
+    webUrl: "https://www.timesfreepress.com/news/local/story/2020/dec/10/board-chair-resigns/537635/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 20
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2020/12/10/1607637652_0208_WEB_b1_renovations_r_t800_ha498fc944d4c98d69f129562ba34ad44d5491794_gs_t1070_hb988c5c0c819b9876da53647cff404d44626ec1c.jpg"
+        width: 1070
+        height: 714
+        isCached: true
 
-secured: "2B6iuh94f2MfgUadH4nBL+u9wloGuvgqVXJbQut3k5Yfu3tokNSFqSfXduEME6IOvszSdT50WEbJm8ye8czK37ifI8UWk0OX49t2UT4Q4Gcp8gvS0o9LDa2rYtxkBvwNMe8v9M89+1lPJZRpqBrXdj/OHby50sw7tcv5plcuh5+ZIvelqpA5xjfU2rSkAj2T5e8FClJGjmMMbVMHbbNtsx+ZvvSDkRTmxR8PG+KWbNwmYhwB8JCXMiIykhAVb5N8Ljjp4DDbtybqO4s0X3m3nMTrSziG2NqZAA2WTqaLfQMiPMKuexiJKW249BBh/kKDH9W2Xjj6Dvu2Uxfmbv6lGcjVJ5yvIPqi6RaOWW72U/4=;hoKQXtHt5iY7g9UAO0y6TA=="
+secured: "B/qk/ECzC37ft2Z0eY6GH7pqgsE+vIpXBZCTkP9ndBEkRwfmSKK/sLS3OuxU889pVJVTSE/K74hDAzuc6oic1Z84e2LYgs/uRnQ39W7CQi92ToKqCgbV8YvMcJWdOWa1oJka+Xdn4OZEkkFBFqYBkPgIoI1hyMA3/Cji317NvNrYOL65PjZIStpVBG8+JadgUvVkFTN5qSCohUAC0qYjE3/7NJRPNyze7PuClZjw/pLM1LKMk3LsH+gZ2gi51IBmdAuCs5XI8o2XAxJ8f6F+kSDYcOmyxlsJHJ5SgAVpwxAWITZV7ZKIzkN8b/XjpXveAfTdVKeVikOwTeUolLbytIhMDSrdjh5PYqy5aVDVLtzmzWvFZ2GSvBJ//gD7/Ltbcq7gFMfwRvhG3/o5G5ociYUCkSuAQNUMgEcNMnRfi80zjSqA6bxpo4fT20jFTsWxQDwBZYOGyyRt20hlhO+sv3KHCFUH4w1slidbDh7TJtzlcDragaZB3OmHD4S76gtfzqKkDmMegOCpXYlrUsLZ6g==;I+gOu9mJ3cdlt0NLGl0LTA=="
 ---
 

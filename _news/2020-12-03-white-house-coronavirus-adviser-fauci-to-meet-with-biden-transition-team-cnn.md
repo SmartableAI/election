@@ -63,22 +63,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump expected to attend Army-Navy game at West Point"
-    excerpt: "The game, which Trump has attended the past two years and in 2016, will be played at Army's campus instead of a neutral-site stadium because of the coronavirus pandemic."
-    publishedDateTime: 2020-12-08T04:45:00Z
-    webUrl: "https://www.washingtonpost.com/sports/2020/12/07/trump-expected-attend-army-navy-game-west-point/"
-    ampWebUrl: "https://www.washingtonpost.com/sports/2020/12/07/trump-expected-attend-army-navy-game-west-point/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2020/12/07/trump-expected-attend-army-navy-game-west-point/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MNBQM2YB35E5RBSETSEBGZZZKA.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Donald Trump stays silent as US sees record 2,804 coronavirus deaths in a day"
     excerpt: "President fails to address national crisis, instead remaining focused on false voter fraud claims"
     publishedDateTime: 2020-12-03T23:14:00Z

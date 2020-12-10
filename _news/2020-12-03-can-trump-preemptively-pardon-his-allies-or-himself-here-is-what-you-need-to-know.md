@@ -31,131 +31,181 @@ images:
     isCached: true
 
 related:
-  - title: "Explainer: Can Trump pardon his associates — or himself?"
-    excerpt: "U.S. President Donald Trump could issue a flurry of pardons during his final days in power. Trump has granted clemency to supporters before, most notably earlier this year when he commuted the criminal sentence of Roger Stone,"
-    publishedDateTime: 2020-11-08T11:42:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN27O0FT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0FT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0FT"
+  - title: "Trump and his allies have won zero out of at least 38 lawsuits they've filed since Election Day"
+    excerpt: "Republicans have filed more than two dozen lawsuits since the election challenging the results. They've won zero."
+    publishedDateTime: 2020-12-10T21:33:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540424251&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70D3"
-        width: 818
-        height: 545
+      - url: "https://i.insider.com/5fd0dc06240ebd00126bde01?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Explainer: How and when will Trump leave office?"
-    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
-    publishedDateTime: 2020-11-09T16:22:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27P19X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P19X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P19X"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540519544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OU"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "EXPLAINER: Why AP called North Carolina for Trump"
-    excerpt: "The Associated Press declared Donald Trump the winner in North Carolina after concluding there were not enough ballots left to be counted that would allow Joe Biden to overtake his lead"
-    publishedDateTime: 2020-11-13T21:40:00Z
-    webUrl: "https://www.washingtonpost.com/national/explainer-why-ap-called-north-carolina-for-trump/2020/11/13/d9cf81ec-25f8-11eb-9c4a-0dc6242c4814_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/explainer-why-ap-called-north-carolina-for-trump/2020/11/13/d9cf81ec-25f8-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/explainer-why-ap-called-north-carolina-for-trump/2020/11/13/d9cf81ec-25f8-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+  - title: "Trump expected to attend Army-Navy game at West Point"
+    excerpt: "The game, which Trump has attended the past two years and in 2016, will be played at Army's campus instead of a neutral-site stadium because of the coronavirus pandemic."
+    publishedDateTime: 2020-12-08T04:45:00Z
+    webUrl: "https://www.washingtonpost.com/sports/2020/12/07/trump-expected-attend-army-navy-game-west-point/"
+    ampWebUrl: "https://www.washingtonpost.com/sports/2020/12/07/trump-expected-attend-army-navy-game-west-point/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2020/12/07/trump-expected-attend-army-navy-game-west-point/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MNBQM2YB35E5RBSETSEBGZZZKA.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Could Trump preemptively pardon his family — or even himself?"
-    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
-    publishedDateTime: 2020-12-04T00:49:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28D1FN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D1FN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D1FN"
+  - title: "Trump thought courts were key to winning. Judges disagreed."
+    excerpt: "President Donald Trump and his allies say their lawsuits aimed at subverting the 2020 election and reversing his loss to Joe Biden would be substantiated if only judges were allowed to hear the cases"
+    publishedDateTime: 2020-12-08T14:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-thought-courts-key-winning-judges-disagreed-74597738"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543344545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fa8c79d0bfc646c78d5aa07119651a40_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Could Trump preemptively pardon his family — or even himself?"
-    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
-    publishedDateTime: 2020-12-05T16:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN28D1FN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D1FN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D1FN"
+  - title: "'The people have spoken': Federal judge rejects ex-Trump attorney Sidney Powell's Michigan election lawsuit"
+    excerpt: "The judge said the court was being asked \"to ignore the will of millions of voters. This the Court cannot, and will not, do. The people have spoken.\""
+    publishedDateTime: 2020-12-07T15:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/07/michigan-judge-rejects-lawsuit-from-disavowed-trump-attorney/3856164001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3856164001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3856164001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543537212&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB407M"
-        width: 871
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/12/07/USAT/72557c05-b263-4f9a-9e57-cb4d7cfb6e73-AP_Election_2020_Georgia_2.jpg?auto=webp&crop=4324,2432,x1,y419&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Explainer: Could Trump preemptively pardon his family — or even himself?"
-    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
-    publishedDateTime: 2020-12-03T11:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-pardon-idINKBN28D1IC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28D1IC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28D1IC"
+  - title: "'Why is he planning a rally when he won the election?': Mixed reception to talk of Trump inaugural rally in Florida"
+    excerpt: "Reports that President Trump is mulling a rival rally in Florida to split screen Joe Biden’s inauguration on Jan. 20 drew a mixed reaction."
+    publishedDateTime: 2020-12-07T23:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/07/mixed-reception-florida-talk-rival-trump-inauguration-rally/6481693002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6481693002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6481693002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543317980&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NPPP/52e86767-e0ff-47b2-97c0-f6525b66a7bc-Election_2020_Trump_6.jpg?auto=webp&crop=5576,3137,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Explainer: Could Trump preemptively pardon his family — or even himself?"
-    excerpt: "U.S. President Donald Trump's pardoning of his former adviser Michael Flynn has fueled speculation over whether the president could pardon other associates, and even members of his family, during his final weeks in office."
-    publishedDateTime: 2020-12-03T16:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-pardon/explainer-could-trump-preemptively-pardon-his-family-or-even-himself-idINKBN28D1IC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28D1IC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28D1IC"
+  - title: "Trump administration pushes out more leading defense advisors as the Pentagon purge continues"
+    excerpt: "The removal of members of the Defense Business Board follows the purge of the Defense Policy Board just last week"
+    publishedDateTime: 2020-12-05T04:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543344545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20RG"
-        width: 817
-        height: 545
+      - url: "https://i.insider.com/5fca82f3037cbd0018613f11?width=1200&format=jpeg"
+        width: 1200
+        height: 599
         isCached: true
-  - title: "Could Trump be indicted? And could he pardon himself?"
-    excerpt: "As the US justice department investigates an alleged ‘bribery for pardon’ scheme at the White House, Jonathan Freedland and David Smith delve into the many possible legal issues Donald Trump could fac"
-    publishedDateTime: 2020-12-07T16:30:00Z
-    webUrl: "https://www.theguardian.com/australia-news/audio/2020/dec/08/could-trump-be-indicted-and-could-he-pardon-himself"
+  - title: "The Trump administration is delivering on a 2020 vaccine, but not at the levels he suggested"
+    excerpt: "Many of the promises and projections that the Trump administration made on coronavirus vaccines have since been revised or contradicted by Trump officials or by President Trump himself."
+    publishedDateTime: 2020-12-10T16:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-10-2020/t_86660cef3e8b4d0e8383f3bbc5bc196b_name_20201209_TRUMP_VACCINE_V3.png&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "The big lie that won’t die: How Trump and his allies’ favorite bogus fraud claim keeps surviving"
+    excerpt: "When the history of President Trump’s failing effort to overturn the 2020 election results is written, there will be many bogus claims to chew on. But more than any other, one is emerging is the epitome of bad faith,"
+    publishedDateTime: 2020-12-09T18:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NF22EOQBDII6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump campaign committees spent $1.1 million at Trump properties in the last days of his losing campaign"
+    excerpt: "President Trump’s campaign and its affiliated committees spent more than $1.1 million at Trump’s own properties in the last weeks of the 2020 campaign, continuing a pattern during his presidency."
+    publishedDateTime: 2020-12-04T22:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/trump-spending-properties/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CTEF6BVZMI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 956
+        isCached: true
+  - title: "The Finance 202: Trump failed to remake the Fed in his image. His legacy may be polarizing its confirmations."
+    excerpt: "President Trump’s four-year struggle to reshape the Federal Reserve in his image likely met its failed end Thursday. The Senate confirmed one of his last nominees to the central bank’s board: Christopher Waller,"
+    publishedDateTime: 2020-12-04T13:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SCHDUVRUIMI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "The US's former top election-security official has filed a lawsuit against a Trump lawyer who said he should be 'taken out at dawn and shot'"
+    excerpt: "Chris Krebs' lawsuit said he had faced a \"barrage of threats\" from people who decided to act on Joseph diGenova's \"call to action.\""
+    publishedDateTime: 2020-12-09T00:07:00Z
+    webUrl: "https://www.businessinsider.com/chris-krebs-sues-trump-lawyer-joe-digenova-lawsuit-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/chris-krebs-sues-trump-lawyer-joe-digenova-lawsuit-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chris-krebs-sues-trump-lawyer-joe-digenova-lawsuit-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
     images:
-      - url: "https://i.guim.co.uk/img/media/7af114aff4550d379aaf8ab6da501bc3dec175d4/0_181_1776_1066/master/1776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7fb617a980e3a208f0bcb7fc09e12836"
+      - url: "https://i.insider.com/5fb479fae74fa70018b830f8?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
 
 secured: "ub213suBtwR3LaUv4W50j6NojAmIQR5punmcXm6diI+XTCBuzuX/3OxSMDCEsPAvm4pEb0gawa0H+4r9ITlQCIutZZDGnQ6cPt1g+m4Pozpr7PiIv+33c5dgoh5jnKpGC8JEbTSlE7UrKwBqVMGXFPOuZBo2iewcnHKv6TW+ut1B+bNy4XBDM4x903L5xbcMt8oC99tOgGN0VFt3wOuama7XhX1jlb2TIU/BI9tBeMFyKG5d25lD90wJcaJ56XOl1qbX9L4jCZ73sxEPjGY0YX6tSCEYZlVWBNPxOBf1XMKKfJp5l1yOpX3smbNaTFYxq43zt/Kj2DHZxaqVmLmzNmOjGr6Azc75UC6K/lDK630=;ImGVBOIYIJqw8yRac4afzg=="

@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trevor Noah on Trump's supreme court dismissal: his 'bar fight with reality' may be over"
-    excerpt: "Late-night hosts recap the supreme court’s rebuke of a Hail Mary lawsuit to overturn the election in Pennsylvania, and discuss Trump’s pardon-palooza"
-    publishedDateTime: 2020-12-10T18:02:00Z
-    webUrl: "https://www.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv"
-    ampWebUrl: "https://amp.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv"
+  - title: "In break with Trump, McConnell urges passage of defense bill"
+    excerpt: "In a rare break with President Donald Trump, Senate Majority Leader Mitch McConnell is urging passage of a wide-ranging defense policy bill that Trump has threatened to veto"
+    publishedDateTime: 2020-12-10T22:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-break-with-trump-mcconnell-urges-passage-of-defense-bill/2020/12/10/13930b5e-3b0e-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-break-with-trump-mcconnell-urges-passage-of-defense-bill/2020/12/10/13930b5e-3b0e-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-break-with-trump-mcconnell-urges-passage-of-defense-bill/2020/12/10/13930b5e-3b0e-11eb-aad9-8959227280c4_story.html?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/3a427f87e530696c1c244d8a4793ec558e73402a/144_110_2529_1518/master/2529.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e0c95c972eb9fee625310a1b5219b6ef"
-        width: 600
-        height: 360
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
 
 secured: "Qvk8QU/ZzolNGEU8yN2N6xEEIhR1Vu3INPs5lm4wKPtuESaQqwObSGdmz5uPKKnUjxxhLN9zyb+obdOijRhWGq7yp9nay07WXH8Hcl94C8jMI031UJdggY+Ru0bIbMKCrJRgmPX1bR7niw3K3pbsv+ircD/PeODcvITT8UjYv7zkMGNp1lsbPXuNGy05hIpQG9eecrMSHaNUV5gX7BoOPu+AgHER+uZymRFFKrbqcrS4sRUjUfPxtTrOy+xWsyCZUMGRM3Xb4DD4ygS+eE731ZMcWAGRvJIYVY6Jni+CnDq+NznjKVOJpY2do41DJaf2jYOrsI+zGxdMpCVg0wpa5j/TtvGb8rmMOU/Gw0wuVnY=;fNvsdhHc15ZSWlzGLi2aYA=="

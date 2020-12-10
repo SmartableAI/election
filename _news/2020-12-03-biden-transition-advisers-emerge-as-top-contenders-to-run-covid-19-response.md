@@ -415,6 +415,38 @@ related:
         width: 968
         height: 545
         isCached: true
+  - title: "Susan Rice tapped for top domestic policy role in Biden administration"
+    excerpt: "Former UN ambassador would not need Senate approval; Denis McDonough nominated to run veterans affairs"
+    publishedDateTime: 2020-12-10T12:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/10/susan-rice-domestic-policy-council-denis-mcdonough-biden-administration"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/10/susan-rice-domestic-policy-council-denis-mcdonough-biden-administration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/10/susan-rice-domestic-policy-council-denis-mcdonough-biden-administration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/6b8bb87ac0f9956fe8198835fd788c176c9fea20/0_151_4518_2711/master/4518.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=715d55d7d4e1ede25866fed0c6bed6ba"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Probe of Biden's son places new scrutiny on U.S. attorney general pick"
+    excerpt: "A newly revealed federal criminal probe into the business dealings of Joe Biden's son Hunter will complicate the president-elect's selection of a new U.S. attorney general, former Justice Department officials and legal experts said."
+    publishedDateTime: 2020-12-10T21:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-hunter-idUSKBN28K37Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K37Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K37Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544160434&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB91RK"
+        width: 802
+        height: 545
+        isCached: true
   - title: "Iran pressures Biden with plan to increase underground enrichment machines"
     excerpt: "Iran is raising pressure on U.S. President-elect Joe Biden with plans to install more advanced uranium-enriching centrifuges at an underground plant in breach of its deal with major powers, a U.N. nuclear watchdog report showed on Friday."
     publishedDateTime: 2020-12-04T15:42:00Z

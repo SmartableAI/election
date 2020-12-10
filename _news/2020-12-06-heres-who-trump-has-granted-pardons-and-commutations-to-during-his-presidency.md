@@ -544,6 +544,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact checking Trump's falsehood-filled Supreme Court brief "
+    excerpt: "President Donald Trump filed a brief at the Supreme Court on Wednesday that featured some of the same false and misleading claims Trump has been making on Twitter.\n    \n"
+    publishedDateTime: 2020-12-10T21:41:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMtOciWiTv8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/fact-check-trump-supreme-court-brief-texas-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/fact-check-trump-supreme-court-brief-texas-lawsuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210140000-01-trump-1102-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration finalizes sweeping asylum limits"
     excerpt: "The Trump administration has finalized a regulation that would place more limits on migrants seeking refuge in the United States, the latest in a series of rules that make it exceedingly difficult to claim asylum in the US and serving as yet another example of the challenges an incoming Biden administration"
     publishedDateTime: 2020-12-10T17:41:54Z

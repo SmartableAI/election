@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In leaked recording, Biden says GOP used defund the police to 'beat the living hell' out of Democrats"
+    excerpt: "President-elect Joe Biden appeared to blame the \"Defund the Police\" movement for contributing to surprising Democratic downballot losses in the November election, telling civil rights leaders this week that they should proceed carefully on criminal justice issues."
+    publishedDateTime: 2020-12-10T19:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/leaked-recording-biden-says-gop-used-defund-police-beat-living-n1250757"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250757"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250757"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434875/201210-joe-biden-ew-323p_fa242b6345a3492961d3c49904198d21.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "KJZUhEIpJixUph9LZzWwVg/YoF8G9WdrRLW7UnUqLoQwiTi1INI+viqTf7SN7MmUa3LVbx7cDBNw60my1Aby9lWuOF+jnuj43J5lQulK/JgA1caophEWNrD/GKskdGnoa6TYo2NqHg21+z5JimPbSEPoW2qOZfzRe77pE0Aawix7Y+gUvzLBRlHf+XZxY58leINxZmcdU5X4px7ZyqhNO3cw2Ud7WK0d1FRyipWJ+xGZZ+GhZ5nLvXGXKXYQ8ff6MvlLQiTUxVsdLTOWgU8cgDcTfJiYZWGVZGDW7EZBOBdyjoVthTAR/QjoF41E8cOXW85jx3IyaX84fXsaZWLr4Z+e05oPlkh4Q/m1K3Y9Ex8GkGWNbC4I9F7zfLfpFKYNncvc8WrTewuXSnia8cR5LPOrHuQKQ7E81VGaVdQ3ju70nyRtQF3aKbJMc7lm6jzAVnw/w3X0lbkVXKJ8DY0Q/Z6hZo8yS4D47d0/vxMK+SIGKzY5Ve3jVx/GxrX39DzQUkO+7Vn9QcYNTKp1NWvy7Q==;Ta7rb3AoUQ/QZCmMjnMP+w=="
 ---

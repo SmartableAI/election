@@ -125,22 +125,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "The Finance 202: Trump failed to remake the Fed in his image. His legacy may be polarizing its confirmations."
-    excerpt: "President Trump’s four-year struggle to reshape the Federal Reserve in his image likely met its failed end Thursday. The Senate confirmed one of his last nominees to the central bank’s board: Christopher Waller,"
-    publishedDateTime: 2020-12-04T13:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 106
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SCHDUVRUIMI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "9rmjdZ11jn36ATpbfFjkTXkMIyO7s4T2C5x4lucsSorewPd2enu1rKfuzqUlR8xdGsLO5suBeMksTJ0Zr2EfhK/+difhJ6yAME5/xOn89JpqPqNPjkZWsyObS6h/V81fX2E2HqPuCm/VmPPE4Cu877MBH4S/CbeyGYcLpJErZvWioQAcCpdG0jJSor+tPZH16MYlGLsrgU5G+OXL8OwWzWlHMTcAgmud4iKVfci/1RQ5DkVtVXYU7my5fbwWVy09qU3RZECGBCD7BQEhvxLqzh3s8jAhSF/HbsdBdhdFj+yAHxGLv+5PU6snSDp8HOBw1bhe3ImjBCk81zDy6N/RXwqfbpAfMwoyW4b3Jm4FsjWwwS/4/xY9nGUVVVU+8+K/fTVhZ+Apdq4JUt9/mvmRa912GDauV2n36zSeJXVKgzZpV0aYK3ZqtQMoZAAV2GWQsonC1+8TWPmsUd6B+ic9TCLHl8SuvQIc289OZSeycI9RTQmSnUIye/ViLyiUxTdEph7RHZEnzMlLvrxTNUZWqQ==;ILB4AmEqpVIWJuTecp2xRA=="
 ---

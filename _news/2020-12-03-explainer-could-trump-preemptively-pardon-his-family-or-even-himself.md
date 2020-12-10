@@ -127,22 +127,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Can Trump preemptively pardon his allies or himself? Here is what you need to know."
-    excerpt: "Trump has also claimed that he has “the absolute right to pardon myself,” raising the possibility that he may try to impose roadblocks against any future federal prosecution of himself. And a federal judge this week unsealed heavily redacted documents revealing that the FBI has been investigating an unidentified person for a potential pardon-for-bribe scheme."
-    publishedDateTime: 2020-12-03T08:11:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pardons-himself-20201202-b2f5k5xtbbhsbghzcrlavscjwi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pardons-himself-20201202-b2f5k5xtbbhsbghzcrlavscjwi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pardons-himself-20201202-b2f5k5xtbbhsbghzcrlavscjwi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 119
-    images:
-      - url: "https://www.chicagotribune.com/resizer/THDtZok_bGc0_mHKvExKL7EF7Gs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y4XJC3VIGROSLTRPTFWLUGCFMQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Could Trump be indicted? And could he pardon himself?"
     excerpt: "As the US justice department investigates an alleged ‘bribery for pardon’ scheme at the White House, Jonathan Freedland and David Smith delve into the many possible legal issues Donald Trump could fac"
     publishedDateTime: 2020-12-07T16:30:00Z

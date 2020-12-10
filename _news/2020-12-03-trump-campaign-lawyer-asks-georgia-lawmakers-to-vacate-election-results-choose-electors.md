@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Kemp, Trump clash over election results"
-    excerpt: "Georgia Gov. Brian Kemp, a Republican, pushed back on President Trump’s demands for a “signature verification” in an attempt to overturn the state’s elections results, saying he has called for such an audit three times."
-    publishedDateTime: 2020-12-05T21:39:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxzkPal54wM/kemp-trump-clash-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/kemp-trump-clash-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kemp-trump-clash-election-results.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a4a9ebc-4f78-424b-9148-fc3b34ea96cf/b84819e6-bcfb-4af7-bf95-1351ac8d2195/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump's election challenges about commitment to free and fair elections: White House"
     excerpt: "White House Deputy Press Secretary Brian Morgenstern said President Trump's continued election result challenges were part of his commitment to the Constitution and the concept of fair elections on Tuesday."
     publishedDateTime: 2020-12-08T20:20:46Z
@@ -76,22 +60,6 @@ related:
     quality: 183
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/409efce1-a8af-4acf-85e9-aafda7d496b8/8e5cb760-5c18-487a-a1e4-1d048115f17b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "In letter to Trump, House Republicans call for special counsel to investigate election"
-    excerpt: "More than two dozen House Republicans are calling on President Trump to direct Attorney General William Barr to appoint a special counsel to investigate November's presidential election, according to a letter obtained by Fox News."
-    publishedDateTime: 2020-12-09T15:07:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QkVTI84l2tg/house-republicans-election-special-counsel-letter"
-    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-election-special-counsel-letter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-election-special-counsel-letter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9fac570b-0017-4ea5-aaab-f25d2e3c0fde/9fdb7cc1-daf5-4543-bd30-c99fde884fc6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -191,22 +159,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Wisconsin’s Highest Court Turns Away Trump Lawsuit Challenging Election Defeat"
-    excerpt: "Wisconsin’s high court dealt another setback to President Trump’s efforts to overturn his defeat to President-elect Biden, turning away a lawsuit challenging the validity of hundreds of thousands of mail-in ballots."
-    publishedDateTime: 2020-12-04T02:03:00Z
-    webUrl: "https://www.wsj.com/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
-    ampWebUrl: "https://www.wsj.com/amp/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wisconsins-highest-court-turns-away-trump-lawsuit-challenging-election-defeat-11607029393"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 146
-    images:
-      - url: "https://images.wsj.net/im-267926/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
     excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
     publishedDateTime: 2020-12-03T20:13:00Z
@@ -254,20 +206,6 @@ related:
       - url: "https://images.wsj.net/im-269907/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Donald Trump Is Not a Political Genius"
-    excerpt: "As far as I can figure out, no Presidential margin reported at 1AM even half as large as Trump had at 3:41 AM 11/4 did not hold up in the state's history. So we are supposed to believe that there was double the natural volatility 2:42 hours later in the count than ever in history?"
-    publishedDateTime: 2020-12-05T13:23:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/05/donald_trump_is_not_a_political_genius_530753.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/528925_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "Donald Trump Hates Democracy"
     excerpt: "President Trump was all frauded out Sunday morning on Fox News: This election was a total fraud. And: This is the greatest fraud in the history of our country, from an electoral standpoint. And: This is a fraud against the American people."

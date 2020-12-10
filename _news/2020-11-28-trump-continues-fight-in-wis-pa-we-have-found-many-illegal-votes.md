@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-fight-wis-pa-illegal-votes.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fight-wis-pa-illegal-votes.amp"
 type: article
 quality: 175
-heat: 275
+heat: 215
 published: true
 
 provider:
@@ -44,50 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a64e195d-613f-497c-b982-8620beaf69d9/40a4df0d-ffca-4a63-85ac-0b89771d50a9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump thanks Alabama congressman who says he will challenge Electoral College votes"
-    excerpt: "President Trump on Thursday thanked Alabama Republican Rep. Mo Brooks, who said he plans to challenge the Electoral College votes next month when Congress meets Jan. 6 to certify the 2020 presidential election."
-    publishedDateTime: 2020-12-03T16:51:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OOVRsnDxKKg/trump-alabama-congressman-challenge-electoral-college-votes"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-alabama-congressman-challenge-electoral-college-votes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-alabama-congressman-challenge-electoral-college-votes.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump on trusting Barr: Ask me again 'in a number of weeks'"
-    excerpt: "President Trump on Thursday refused to say whether he has confidence in Attorney General William Barr after the head of the Justice Department said earlier this week he has not found evidence of widespread voter fraud in the presidential elections. "
-    publishedDateTime: 2020-12-03T21:44:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T-fm-vF1wiM/trump-on-trusting-barr-ask-me-again-in-a-number-of-weeks"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Trump-Barr-AP.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Ga. Sec of State says he'll vote for GOP senators who backed Trump's calls for his resignation"
-    excerpt: "Brad Raffensperger touted his support for both his state's Republican candidates for Senate -- incumbents Kelly Loeffler and David Perdue -- despite them joining President Trump in calling for his resignation after he certified President-elect Joe Biden's victory in the longtime GOP stronghold. "
-    publishedDateTime: 2020-12-05T19:27:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ow4w0v8ng1w/ga-sec-of-state-says-hell-vote-for-republican-senators-despite-candidates-trump-calling-for-him-to-resign"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 143
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20335602465466-e1606850021803.jpg"
         width: 1280
         height: 720
         isCached: true

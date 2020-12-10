@@ -576,6 +576,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Hamilton County Sheriff's Civil Service Board chairman resigns after sexually explicit comments about Kamala Harris circulate on social media"
+    excerpt: "The chairman of the Hamilton County Sheriff's Office Civil Service Board and member of the county's Health and Safety Board resigned after sexually explicit comments he allegedly made about Vice President-elect Kamala Harris circulated on social media Wednesday."
+    publishedDateTime: 2020-12-10T22:30:00Z
+    webUrl: "https://www.timesfreepress.com/news/local/story/2020/dec/10/board-chair-resigns/537635/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 20
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2020/12/10/1607637652_0208_WEB_b1_renovations_r_t800_ha498fc944d4c98d69f129562ba34ad44d5491794_gs_t1070_hb988c5c0c819b9876da53647cff404d44626ec1c.jpg"
+        width: 1070
+        height: 714
+        isCached: true
 
 secured: "//LMP1ZK1oGHI3qiIGfTb6Wgq8NX20qIWi5l3Q9DQuvVbb3t/OmxKd5+75bkOrKOIK6PlGwlT9YJBkwHgDeEPR5D5syGm3COEOJPH5uyl8QfoaNJmW1snwOQOyq9vgMD1WOWSHRRyF8zVRQFmsY7F9nedIVHuxupjv3vWtjRr2P8mOEQI5Kqb8xawJT+SaQxiamZJzG/5vChAxbwiC/Qstx+NjH4k2JXGquNRnfqU0i17NZhi+10J7Xn/l5pD4HSehfMn/pC2W9d1WB0cga1G6fz5aydaN61J+/RuXJ2Bj7y9unaPoUlWyZbN+UeUnjcXLUC8WmDMwvrlLgippkrDvogN53EHdyuAREv6kI6XJ3WI7UN2TFk7PkO99okbWlN+atYH3KaE3h9JplCMXr33ixudmXbQEFs+V4DJVD3AOHuctGRKZkus7jxoC6WPtS54yoJRiY8at66NvzpBgoEmbn5DbsTkRPQx2Q07ywPjuQ3FN5px3e9yp6FYSim3se2G340hgpQvGgHytWMCSTzGw==;SZVwZGabnw87qquOM6dtCA=="
 ---

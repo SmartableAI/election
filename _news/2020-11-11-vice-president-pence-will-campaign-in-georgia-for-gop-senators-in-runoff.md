@@ -871,6 +871,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "In Georgia, Pence calls Senate GOP's 'last line of defense'"
+    excerpt: "Back in Georgia to rally electoral support for the state's two Republican senators, Vice President Mike Pence told voters in Augusta on Thursday that returning the"
+    publishedDateTime: 2020-12-10T22:45:00Z
+    webUrl: "https://www.stltoday.com/news/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/article_2edfa06f-ab66-57cd-a406-1199db9c4b13.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/article_2edfa06f-ab66-57cd-a406-1199db9c4b13.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/article_2edfa06f-ab66-57cd-a406-1199db9c4b13.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/2a/82a3339d-4611-53a0-8224-ef23f0e5e856/5fd297152c3b0.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Mike Pence comes to Georgia as calm before potential Trump storm"
     excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatile visit to the state that will determine which party controls the Senate in January."
     publishedDateTime: 2020-12-05T11:00:00Z
@@ -914,6 +930,20 @@ related:
       - url: "https://www.daytondailynews.com/resizer/Q7xcE4p6hMoQHtsThkvtafgdskM=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/W4NGYYYTSBCG5L7OBQPLKWXAJU.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Vice President Mike Pence holds rally in August, Georgia"
+    excerpt: "The Vice President was back in Georgia again Thursday to drum up support for Sens. Kelly Loeffler and David Perdue ahead of a high-stakes January runoff."
+    publishedDateTime: 2020-12-10T21:29:00Z
+    webUrl: "https://www.11alive.com/video/news/politics/elections/vice-president-mike-pence-holds-rally-in-august-georgia/85-c15842c2-b278-4310-859d-bace95d87211"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 55
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/013872d5-ce10-4967-ba3e-9b3577082656/013872d5-ce10-4967-ba3e-9b3577082656_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "rdspt9KvnyJrbVrdrK2WpqKAgXsNiBf5qoyg6uIMjjN+iJcGDCRMIAJnWpyxdSAJK2PQHujq0464eCOIf3V5EgecXjUKypgknYq9/K5tylJI3UeUjQrdVR+cuHFtu36znyVm2QNUcJ+tvToCUyXNKD3PcdjsY7nn12OVaereaWwKp3bIfIyzEcnN/cyxz1Y8EbvJaeFZ1dotzmqqAE8XQuGUi9W4Ck8XoFYufZSdZhdZAtkrEx2UrRsubuactjg9aJqFKUOpd6nJkZzvKqyKjstps5d+uQ2SKTDYYbz6KR41V4FPhD5tGJoKvSDw4qIc8OyIkz0rqrB7LGJ4LuQDG6lukzROrV/8ac4+pDRW75o=;owvQWeTiiVc4E+WytVBQmw=="

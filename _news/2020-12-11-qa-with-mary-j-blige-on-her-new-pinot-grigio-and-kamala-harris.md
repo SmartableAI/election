@@ -580,7 +580,21 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Hamilton County Sheriff's Civil Service Board chairman resigns after sexually explicit comments about Kamala Harris circulate on social media"
+    excerpt: "The chairman of the Hamilton County Sheriff's Office Civil Service Board and member of the county's Health and Safety Board resigned after sexually explicit comments he allegedly made about Vice President-elect Kamala Harris circulated on social media Wednesday."
+    publishedDateTime: 2020-12-10T22:30:00Z
+    webUrl: "https://www.timesfreepress.com/news/local/story/2020/dec/10/board-chair-resigns/537635/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 20
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2020/12/10/1607637652_0208_WEB_b1_renovations_r_t800_ha498fc944d4c98d69f129562ba34ad44d5491794_gs_t1070_hb988c5c0c819b9876da53647cff404d44626ec1c.jpg"
+        width: 1070
+        height: 714
+        isCached: true
 
-secured: "o9Ot1ns7mM10zLAQUmne129HmvldfaMKI36OHBbgpfOiPkK9EJ/1wSaJFklBdaYYPUww1XlwI5zgXXltpnkGoLGVlUtweLM3+W0+9n4aYKlpKYxuJjBHBk3sgeYfpmd4hPH9zvcoOyy0zVsxKYlj+IAzAYXxINDG+oHxXUn7U8+1UXFfXVlZ+qXHi7jhMRZPYf8qGu8Zuui0cyjWIkmGmGmxqSZOjhE5qBIclCZMbeZuBdZLK/AxQi5c+etc4FmtFeBYGALBlNzxG7veHtKGVlhUM4tK4jnR8fsnyW5WctfgfjJNOOP9Iyl1xr1oyhmcO/zmXovIHiBO/2jcV/r6tSt3wb0ML6HDwIGKgLgAK+U=;yLZN0+CjMfQP4PpDvcmqvA=="
+secured: "BwEu7DH4fX2oaGlEjtDXDeg3rLZjAJYi6qsB1PGLcwgXgTBW9Xo2ceOMfdK3U5Iz6VvgVYtPB6/tHKs5cjDEbpKwSXarPvCRRlgWbKJ1Fi5ZseZQbjGKmur07kEhV8+BMhgMfxRus+XZvnwOldILehZYjlGHnJPMYtMxMZoBDMiNoTpLwZ9c+OlbPbZJwcu07ewjNNzXOKW8En87Ivf01xQ5C0ZBKc0jRDXhQhsIUDf9R82ocSAbGsCPyZi1O9GEnl3n/cYVCZ7ZyCg4qw0L1ygkb53KLfAhz50eZ61a5R4y6zBqaYecS1a2Q/Lj2tdj17BmntKR56f/3dZSYswXUy1yFQodI7tNYgks4Ug5YmTzE7/DRNok3lubfWd5BguNdDCjRHpk0aq8baakodawsI+UxQEhCqw4dR9VHKl7LaZccHXwQOqwb4wW2SKk7gFD6Kocrlqq42dvY2IJ76rP9YIJybSG8Yye03aELUEOQe0oPmkXKsSSqwt2ohKiYAzjUvzZck7Nj10dorZx5FEa+w==;miJptERkxAK0LS8hSQokYA=="
 ---
 

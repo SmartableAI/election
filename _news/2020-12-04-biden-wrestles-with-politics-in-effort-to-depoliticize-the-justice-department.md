@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-s
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html"
 type: article
 quality: 171
-heat: 211
+heat: 231
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://static.politico.com/2f/86/c701e1f14b4b8695d6566e23a04f/ap120767208216.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "In leaked recording, Biden says GOP used defund the police to 'beat the living hell' out of Democrats"
+    excerpt: "President-elect Joe Biden appeared to blame the \"Defund the Police\" movement for contributing to surprising Democratic downballot losses in the November election, telling civil rights leaders this week that they should proceed carefully on criminal justice issues."
+    publishedDateTime: 2020-12-10T19:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/leaked-recording-biden-says-gop-used-defund-police-beat-living-n1250757"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250757"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250757"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434875/201210-joe-biden-ew-323p_fa242b6345a3492961d3c49904198d21.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "9OkQmVQ9j0JSCytkznY3pYzPT5ynZdM7y2EJql1/vbawgxw1TIWKxrsJSoa0kV0yYGSoIXuuFldspJwctP78t7I60vRoUjXOIOZLTrSA1dxo6zbj2/gNrSsX0iqigQJ65pXAHSz/ZO6gmm4vwp7lozoSpRlzBFZywqbiwR7oJe9cvK7bzQY1cUGt0+qfVeyrJ+eRB9DBwhjGYnm+vHpRMdWKXPXWui6B6BLmoW85x4c7DsVYEbqxgFzxn37aQHV494vTU2PFdeIWhMeZ/v+HWHBMpA2+j8K68k5OMfpCnIUQcXp9ig2S8Z0aDuBeOZ/Do5HwzdpxvDEVwkrV8zBUKsNGSvMy1EQ/ItuF7cU8x6Q=;Iffdhs3x0RS4j7kNbWY5rQ=="

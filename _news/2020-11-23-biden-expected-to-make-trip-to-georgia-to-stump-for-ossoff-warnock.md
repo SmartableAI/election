@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden debuts 'Flip Georgia Fund' to fundraise for Warnock, Ossoff ahead of key runoff vote"
+    excerpt: "“The Georgia Senate runoffs are crucial – it’s why I’ll be traveling there next Tuesday,” Biden wrote on Twitter."
+    publishedDateTime: 2020-12-10T22:03:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4CGA9yADG-c/biden-flip-georgia-fund-fundraise-warnock-ossoff-ahead-of-key-runoff-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-flip-georgia-fund-fundraise-warnock-ossoff-ahead-of-key-runoff-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-flip-georgia-fund-fundraise-warnock-ossoff-ahead-of-key-runoff-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6add624-18f2-464f-a0ca-315c5ac368e6/7fd6e35d-ab29-42cb-aae6-ddc2c2754fa9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "aFhXjwWYFPAdDmJ66aMK7vRUKx+VrhP7TU7bE0TD7oOFH0pnj5XBEbik7WkgxOuRE+ivmgVlSyF3E+HqpRSICLrYgX3HxLHULF16dUkUivVmP0NRZ6ccrQY2gRPDp8DDjeM8yy69eHldrM8dpCoYL5KSVqJhLA+OY9ko85X2UOMZUSCDaNTipG8g4WM2uNokXwtH+LnBusYFUyBFYvJ4Myc73ZUqsOClzofCreZhaBZan/8w86bwBxTMSzE97AaBdJ4CmHN2Uw+np4wIE9rJPFxB9Avc//Cq+mbXG+6fESv2hQrlHAwt/eACWOGu1MVzvetpwkgbO7iRzaWHRcnxauexUXNEN8x0tY4ALh5M8ik=;+nyy803SKnPiwLqpgma1Cg=="
 ---

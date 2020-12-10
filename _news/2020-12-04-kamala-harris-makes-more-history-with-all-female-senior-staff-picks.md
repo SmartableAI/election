@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-03/harris-announ
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
 type: article
 quality: 125
-heat: 865
+heat: 885
 published: true
 
 provider:
@@ -579,6 +579,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Hamilton County Sheriff's Civil Service Board chairman resigns after sexually explicit comments about Kamala Harris circulate on social media"
+    excerpt: "The chairman of the Hamilton County Sheriff's Office Civil Service Board and member of the county's Health and Safety Board resigned after sexually explicit comments he allegedly made about Vice President-elect Kamala Harris circulated on social media Wednesday."
+    publishedDateTime: 2020-12-10T22:30:00Z
+    webUrl: "https://www.timesfreepress.com/news/local/story/2020/dec/10/board-chair-resigns/537635/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 20
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2020/12/10/1607637652_0208_WEB_b1_renovations_r_t800_ha498fc944d4c98d69f129562ba34ad44d5491794_gs_t1070_hb988c5c0c819b9876da53647cff404d44626ec1c.jpg"
+        width: 1070
+        height: 714
         isCached: true
 
 secured: "inrfIhcp6S564HncTmxidwPoBlTBibmxPBxDJ9rM5SiT6f/kO/N7OxT12bXlp0dTeFsmb0mC66Cyscf+6QDymzZAFGU/wIGgK5MSmCySfE9wBE6h4oAIHFxIxvygqwBtlJe8Y9Cuvq6Wk2rBBQR3QpTEqGYvIGoaMCUMnkv71wdP4vGrMZuouFsMOWZUct1T5PaBV9ZKrCuTzKi9lTdk0Bp3y289h7+GFFf0uWIcK6wJrboZb1HH0amFEYPkldIvc9DxdYUFOOIdMxgj3ZIMHlF8xrMuBvLRuGOo2bC9flNhpNC6J35bEj1g04k0CS/Ce9COCQX8ofvVCIH2+n1LdiK/ncFjPqHtee1fIxiSelgOH+SJQB7fyDsh//o+mpT170Y7hTzhTbTNFxuFaVKCLuveacjOLg456OIAGDKS0d9GlRfBsANluDbOin32clGuw161vAv5hiYflOLaQ8tiE2wqDO9ncfPcx1n3wjW5c6EkI9eHRgDHgjewnQWL/X/07lE+v8lpk1jcPdNVuo6R+w==;zAQffQ+Ttn1GdCnfzQXFDg=="

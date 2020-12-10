@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden debuts 'Flip Georgia Fund' to fundraise for Warnock, Ossoff ahead of key runoff vote"
+    excerpt: "“The Georgia Senate runoffs are crucial – it’s why I’ll be traveling there next Tuesday,” Biden wrote on Twitter."
+    publishedDateTime: 2020-12-10T22:03:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4CGA9yADG-c/biden-flip-georgia-fund-fundraise-warnock-ossoff-ahead-of-key-runoff-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-flip-georgia-fund-fundraise-warnock-ossoff-ahead-of-key-runoff-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-flip-georgia-fund-fundraise-warnock-ossoff-ahead-of-key-runoff-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6add624-18f2-464f-a0ca-315c5ac368e6/7fd6e35d-ab29-42cb-aae6-ddc2c2754fa9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden expected to make trip to Georgia to stump for Ossoff, Warnock"
     excerpt: "The push to win both races could see the Democrats pull a divided Senate, which would force both parties to work on passing any legislation."
     publishedDateTime: 2020-11-22T21:26:00Z

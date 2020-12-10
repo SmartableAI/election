@@ -141,22 +141,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Can Trump preemptively pardon his allies or himself? Here is what you need to know."
-    excerpt: "Trump has also claimed that he has “the absolute right to pardon myself,” raising the possibility that he may try to impose roadblocks against any future federal prosecution of himself. And a federal judge this week unsealed heavily redacted documents revealing that the FBI has been investigating an unidentified person for a potential pardon-for-bribe scheme."
-    publishedDateTime: 2020-12-03T08:11:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pardons-himself-20201202-b2f5k5xtbbhsbghzcrlavscjwi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pardons-himself-20201202-b2f5k5xtbbhsbghzcrlavscjwi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pardons-himself-20201202-b2f5k5xtbbhsbghzcrlavscjwi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 119
-    images:
-      - url: "https://www.chicagotribune.com/resizer/THDtZok_bGc0_mHKvExKL7EF7Gs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y4XJC3VIGROSLTRPTFWLUGCFMQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "ybECci4KCktHzxfd4JW1dtQafuwqDZQ86S6reyhD6IKXJu8hdXw6OJUShH/tiSkLpkh56psIL7bqv5jspvWPR8sPhEdKcAjiZyHJ/AzWzFia06PMg8f01nzvkc12eTpXQr5ZCbQhVmRzaOipMtRQfVT+bJJ6xSU5Q7yJ5WjQTpZBsCQRZcxdu6zQkuqV5VSf4y7qTGw3mpShMHdPMihKjVdp+H3OuA2thW2P90vLjhZ6EJ8oEK9xFHqRxub+IlSdTO3k9liWImZiiR3nRRNz2SaFnDTz9JM9KatbTGv/4hbzecHZCpUbsESY0NrMNVkl/zOmcDTJ0M84uTdoUofx1k2W85uF8b2z4TdjOcPOehc=;y4Ilxhngr0CpZo7wqPOIkg=="
 ---

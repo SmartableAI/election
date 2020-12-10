@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump's chief virus aid negotiator sees 'a lot of progress'"
-excerpt: "President Donald Trump's top negotiator on COVID-19 relief said Thursday there was headway on a $900 billion-plus plan and he cited similarities between the latest administration offer and an emerging measure from a bipartisan group of senators."
-publishedDateTime: 2020-12-10T16:42:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/lawmakers-act-avert-shutdown-buying-time-covid-talks-74642517"
-webUrl: "https://abcnews.go.com/Politics/wireStory/lawmakers-act-avert-shutdown-buying-time-covid-talks-74642517"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawmakers-act-avert-shutdown-buying-time-covid-talks-74642517"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawmakers-act-avert-shutdown-buying-time-covid-talks-74642517"
+title: "Trump's Chief Virus Aid Negotiator Sees 'A Lot of Progress'"
+excerpt: "President Donald Trump's top negotiator on COVID-19 financial aid reported headway Thursday on a $900 billion-plus plan, citing similarities between the latest administration offer and an emerging measure from a bipartisan group of senators."
+publishedDateTime: 2020-12-10T20:33:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2020-12-10/lawmakers-act-to-avert-shutdown-buying-time-for-covid-talks"
+webUrl: "https://www.usnews.com/news/business/articles/2020-12-10/lawmakers-act-to-avert-shutdown-buying-time-for-covid-talks"
+ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-10/lawmakers-act-to-avert-shutdown-buying-time-for-covid-talks?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-10/lawmakers-act-to-avert-shutdown-buying-time-for-covid-talks?context=amp"
 type: article
-quality: 125
-heat: 125
-published: true
+quality: 55
+heat: 55
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,12 +24,6 @@ topics:
   - Election
   - Donald Trump
 
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_b22fe85b38154abb8fc051e184643e06_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-secured: "sPfFQ5GqSfZbcksSTXKeZvsZySJElPTOpIO7IsDp5sIj2xIYzv0Vo92oWdK7/0pzTV6beN+fiur+ZnXE3W9Zr7/CvPMhiO4cm2+Mso14naesNsJBpvDy3HdRIJ6Xu1b2AaihSfXks4KnaU15iTi410VVGJhucZOVMN3FOgpm/SRwxn1dsRq6qE7M4iocW7w7niBfb7xQU4S6g2ybhaK4ehc2ici7cIw70001FikJSpuSjNdwgSPYhdAsbJSBNuTYyfxuA712BgO9sdIWIrmq9oZufL9pU31bzkZAimkc4BJgYMR6xdtMQrhQUT0NmJDsIm1DE34hryTBYViWr2EzTMMjv6bt0Gy1YKSO2HNv8MNYVPEvug8UBsBew5xQfxg4lJ4lBrEdCHzVMQIQHz66ufSixMVC4vGuytyqI7dKEmTikt4wIJmxgX3HhGTosGTXowhB2G5g5Uyo2HvgQgQVOXJpdau5whCmJTrOUle7SK6P0xDC7sZ2vyr94vGrMhv3r6DVNVcD+kvQ3jfg0qTi/A==;3VdrD8d5jc4oX+Us7KwWsg=="
+secured: "TxKeluWpkzgH+Fw2cUG2y4YMJGyQS8zwI2vmF3kYlC+OuYwlKG89NweV0slOh4kfksNuNG8u+3YimiqcpwyKCSx1WO4jSP0I07k2exJ82drboJqaGtWjjoRkcYZbDellCT9aEhqJ1hYJXRMYzQPKSDZjtVFmIZSk2n0Pyr5/lA0FakS467JYY8zT5XpBwGz0mQiH85K6Lb8rnCzA5/0pKuwkF3vCWx4KKMRZaIWA1ppLeozNTt+4RmbPwF6Gcu6fjI21BefSX6/ShrOe7DBIDu0f7T3EGIhzk8CXcC7q07QHAgCuSR7eSmCGz3xirlAh3cGftjpVDngj4up6duT1DQHkiDD/FDjwHo9/mrOW7Iu4osr/HSFcha50fnH3NN+Hw7OoHLBc1Ffa6YsFHeXbK7Y31/QLYsn5r2qnmT84E6K3s4hPYxXj+qtW6wd6P/kJAXkXnAZiJXQUd4YjSps/7om3XB6Tl9fkEwL90OEMBGderBtLYKsDhGC1zJ0u91Gusfol5IkEbWsga3kccQJ4Sg==;hkTbTgFpRCKeLR3w0l/vbw=="
 ---
 

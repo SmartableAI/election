@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-fraud-claims-arizona-gop-vote
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fraud-claims-arizona-gop-voters-willing-to-die-results.amp"
 type: article
 quality: 175
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Turley: Trump 'running out of runway' after Supreme Court rejects bid to toss Pa. mail-in ballots"
-    excerpt: "George Washington University Law Professor Jonathan Turley said Tuesday that President Trump and his Republican allies are \"running out of runway\" after the Supreme Court denied their request to overturn Pennsylvania's election results."
-    publishedDateTime: 2020-12-09T00:15:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/75i4K1vklLc/jonathan-turley-trump-supreme-court-pennsylvania-ruling"
-    ampWebUrl: "https://www.foxnews.com/politics/jonathan-turley-trump-supreme-court-pennsylvania-ruling.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jonathan-turley-trump-supreme-court-pennsylvania-ruling.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29b8481f-5502-4817-92e0-7c5ea1a1bdb7/5b069de0-c4c6-425c-934a-4d9b09911643/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "ZATkiDCuc37fL2kmcv5axM7UmrzLA0dhmOWiF0tN6UFFhsSWfMH5mqUr815Q0DGIWemvS7TrvMW4fzwyTrlqzLYjS2MVBjoOIUiQdctHGqbRHb03wIu+5z/IMPNzJ3EpiGMUX1t6fiIqtAUo7A+BJpBoNbTjmNWjbHihEIGwp7sN4cL89FKVwYgPIGD4K3vHNdzkNpVCIdCW0WVomPx2SIa/ImKL6zlJ6Jsdoh9bNGpJkNrdfKFD+Tkq8HVM/qAstDiaomVaLAHixpmoyRgNUblLYfd/yzVNcFShw5n64dJxy44tVvi/J+Ox9lAQXbRoghakxXsp3t/axpmFME9lts+Fv6rX8pCEwq5cNJ8gWc0=;ZZbqI3rtDFO9ztK2uQcwFA=="
 ---

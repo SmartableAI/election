@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign, RNC raise $207.5 million since Election Day"
-    excerpt: "EXCLUSIVE: The Trump campaign, the Republican National Committee, their joint-fundraising committees and President Trump’s new PAC Save America raised a whopping $207.5 million since Election Day, Fox News has learned."
-    publishedDateTime: 2020-12-03T22:28:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MT9GdvRJa5M/trump-campaign-rnc-rake-in-207-5-million-since-election-day"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rnc-rake-in-207-5-million-since-election-day.amp"
+  - title: "Pence says Trump ‘deserves his day’ in Supreme Court"
+    excerpt: "Saying “God bless Texas,” Vice President Mike Pence on Thursday gave a rousing endorsement of a lawsuit filed by the Texas attorney general and backed by President Trump that aims to throw out the election results in four key battleground states won last month by President-elect Donald Trump."
+    publishedDateTime: 2020-12-10T22:38:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tqzw8poCUJw/pence-says-trump-deserves-his-day-in-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 190
+    quality: 200
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -64,22 +64,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump's election challenges about commitment to free and fair elections: White House"
-    excerpt: "White House Deputy Press Secretary Brian Morgenstern said President Trump's continued election result challenges were part of his commitment to the Constitution and the concept of fair elections on Tuesday."
-    publishedDateTime: 2020-12-08T20:20:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4pkShZwRzvM/trumps-election-challenges-commitment-free-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-election-challenges-commitment-free-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-election-challenges-commitment-free-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/409efce1-a8af-4acf-85e9-aafda7d496b8/8e5cb760-5c18-487a-a1e4-1d048115f17b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "In letter to Trump, House Republicans call for special counsel to investigate election"
     excerpt: "More than two dozen House Republicans are calling on President Trump to direct Attorney General William Barr to appoint a special counsel to investigate November's presidential election, according to a letter obtained by Fox News."
     publishedDateTime: 2020-12-09T15:07:43Z
@@ -96,165 +80,161 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
-    excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
-    publishedDateTime: 2020-12-03T19:59:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FUSf91Adn2U/trump-campaign-georgia-lawsuit-vacate-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/35333bfd-ffdf-4a5c-bdd7-a56ccc453d9b/e8e632a2-e2f0-4099-b7b3-e9ebedad09f6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump says he’ll veto defense bill unless Section 230 is terminated"
-    excerpt: ""
-    publishedDateTime: 2020-12-02T04:33:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxDiRQdWroI/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-hell-veto-defense-bill-unless-section-230-is-terminated.amp"
+  - title: "Trump's legacy on courts still building in waning days of presidency"
+    excerpt: "The Senate Judiciary Committee will vote Thursday on the nominee to fill the appeals court seat vacated by new Supreme Court Justice Amy Coney Barrett as well as voting on whether to send three other lower trial court nominees to the Senate floor — which could further cement President Trump’s reshaping"
+    publishedDateTime: 2020-12-03T11:52:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/unGBxgteOwg/trump-legacy-on-courts-still-building"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-legacy-on-courts-still-building.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-legacy-on-courts-still-building.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13932a6d-b1f4-4256-b340-5c4d61f03425/d35c9969-b14d-4f46-8554-8f29dc18efb7/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Coney-Barrett-AP-e1606994039819.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Joey Jones blasts the politicization of the American flag during Trump presidency"
+    excerpt: "Fox News contributor Joey Jones on Thursday blasted the politicization of the American flag during President Trump’s term in office."
+    publishedDateTime: 2020-12-03T16:45:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3N4_V-Ux3Ro/joey-jones-blasts-politicization-american-flag"
+    ampWebUrl: "https://www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump thanks Alabama congressman who says he will challenge Electoral College votes"
+    excerpt: "President Trump on Thursday thanked Alabama Republican Rep. Mo Brooks, who said he plans to challenge the Electoral College votes next month when Congress meets Jan. 6 to certify the 2020 presidential election."
+    publishedDateTime: 2020-12-03T16:51:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OOVRsnDxKKg/trump-alabama-congressman-challenge-electoral-college-votes"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-alabama-congressman-challenge-electoral-college-votes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-alabama-congressman-challenge-electoral-college-votes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump touts Texas Supreme Court case as 'the big one,' says 'we will be intervening'"
+    excerpt: "President Trump on Wednesday touted Texas' suit demanding the U.S. Supreme Court block the Electoral College votes of Georgia, Michigan, Pennsylvania and Wisconsin, calling it the \"big one.\""
+    publishedDateTime: 2020-12-09T14:22:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hBD8idgWVbA/trump-texas-supreme-court-election-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-texas-supreme-court-election-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-texas-supreme-court-election-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Ken-Paxton.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Turley: Trump 'running out of runway' after Supreme Court rejects bid to toss Pa. mail-in ballots"
+    excerpt: "George Washington University Law Professor Jonathan Turley said Tuesday that President Trump and his Republican allies are \"running out of runway\" after the Supreme Court denied their request to overturn Pennsylvania's election results."
+    publishedDateTime: 2020-12-09T00:15:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/75i4K1vklLc/jonathan-turley-trump-supreme-court-pennsylvania-ruling"
+    ampWebUrl: "https://www.foxnews.com/politics/jonathan-turley-trump-supreme-court-pennsylvania-ruling.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jonathan-turley-trump-supreme-court-pennsylvania-ruling.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29b8481f-5502-4817-92e0-7c5ea1a1bdb7/5b069de0-c4c6-425c-934a-4d9b09911643/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump doubles down on defense bill veto threat over Section 230"
-    excerpt: ""
-    publishedDateTime: 2020-12-04T05:10:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZU0GJmkEXoM/trump-doubles-down-on-defense-bill-veto-threat-over-section-230"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-defense-bill-veto-threat-over-section-230.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doubles-down-on-defense-bill-veto-threat-over-section-230.amp"
+  - title: "Trump on trusting Barr: Ask me again 'in a number of weeks'"
+    excerpt: "President Trump on Thursday refused to say whether he has confidence in Attorney General William Barr after the head of the Justice Department said earlier this week he has not found evidence of widespread voter fraud in the presidential elections. "
+    publishedDateTime: 2020-12-03T21:44:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T-fm-vF1wiM/trump-on-trusting-barr-ask-me-again-in-a-number-of-weeks"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "RNC's McDaniel, closely allied with Trump, spotlights party's neutrality"
-    excerpt: "RNC Chair Ronna McDaniel appears to be spotlighting the party's neutrality going forward after President Trump leaves the White House on Jan. 20."
-    publishedDateTime: 2020-12-03T18:36:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tgloscIWrkk/rnc-mcdaniel-trump-ally-party-neutrality"
-    ampWebUrl: "https://www.foxnews.com/politics/rnc-mcdaniel-trump-ally-party-neutrality.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-mcdaniel-trump-ally-party-neutrality.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump Calls Justice, FBI ‘Missing in Action’ on Election Allegations"
-    excerpt: "President Trump accused federal law-enforcement agencies run by his own appointees of ignoring his unproven claims of mass election fraud, as his legal setbacks continued to mount."
-    publishedDateTime: 2020-11-29T20:34:00Z
-    webUrl: "https://www.wsj.com/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-calls-justice-fbi-missing-in-action-on-election-allegations-11606680518"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-265730?width=620&size=1.5"
-        width: 620
-        height: 413
-        isCached: true
-  - title: "Trump Campaign Files More Election Challenges in Wisconsin, Michigan"
-    excerpt: "The Wisconsin Supreme Court is being asked to disqualify more than 200,000 mail-in ballots; a Michigan judge’s decision dismissing claims is appealed."
-    publishedDateTime: 2020-12-01T20:17:00Z
-    webUrl: "https://www.wsj.com/articles/trump-campaign-files-more-election-challenges-in-wisconsin-michigan-11606849219?mod=business_minor_pos5"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-files-more-election-challenges-in-wisconsin-michigan-11606849219"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-files-more-election-challenges-in-wisconsin-michigan-11606849219"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-266615/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Pro-Trump news sites saw decline in weeks leading up to 2020 election"
-    excerpt: "In the weeks leading up to the 2020 election, six of the top 20 conservative news sites were slammed by surprise declines in traffic compared to a year ago, according to data made public this"
-    publishedDateTime: 2020-12-04T03:30:00Z
-    webUrl: "https://nypost.com/2020/12/03/pro-trump-news-sites-saw-decline-leading-up-to-election/"
-    ampWebUrl: "https://nypost.com/2020/12/03/pro-trump-news-sites-saw-decline-leading-up-to-election/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/03/pro-trump-news-sites-saw-decline-leading-up-to-election/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/pro-trump-sites.jpg?quality=90&strip=all&w=1024"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Trump-Barr-AP.jpg"
         width: 1024
-        height: 682
+        height: 576
         isCached: true
-  - title: "Trump campaign lawyer asks Georgia lawmakers to vacate election results, choose electors"
-    excerpt: "Ray Smith, lead attorney for the Trump campaign in Georgia, announced Thursday before the Georgia State Senate Judiciary Subcommittee that the campaign will be filing a petition to contest the results of the 2020 presidential election."
-    publishedDateTime: 2020-12-03T20:13:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-lawsuit-vacate-election-results.amp"
+  - title: "Trump lays out election-fraud case in online video: 'Bad things happened'"
+    excerpt: "Trump says if he's right about election fraud, 'Biden can't be president' President Trump is once again charging that last month’s presidential election was rigged and rife with fraud. In an address posted on his Twitter and Facebook pages that the president described as possibly “the most important speech,"
+    publishedDateTime: 2020-12-03T10:07:00Z
+    webUrl: "https://www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened"
+    ampWebUrl: "https://www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 141
+    quality: 149
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/35333bfd-ffdf-4a5c-bdd7-a56ccc453d9b/e8e632a2-e2f0-4099-b7b3-e9ebedad09f6/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/2trump-newsletter-xxx-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Ga. Sec of State says he'll vote for GOP senators who backed Trump's calls for his resignation"
+    excerpt: "Brad Raffensperger touted his support for both his state's Republican candidates for Senate -- incumbents Kelly Loeffler and David Perdue -- despite them joining President Trump in calling for his resignation after he certified President-elect Joe Biden's victory in the longtime GOP stronghold. "
+    publishedDateTime: 2020-12-05T19:27:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ow4w0v8ng1w/ga-sec-of-state-says-hell-vote-for-republican-senators-despite-candidates-trump-calling-for-him-to-resign"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20335602465466-e1606850021803.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Census Delays Would Prevent Trump Immigrant Exclusion Plan"
-    excerpt: "Census Bureau schedules indicate the agency needs until Jan. 23 to complete the 2020 count and transmit apportionment figures to the president, a House committee said."
-    publishedDateTime: 2020-12-03T02:29:00Z
-    webUrl: "https://www.wsj.com/articles/census-delays-would-prevent-trump-immigrant-exclusion-plan-11606951208"
-    ampWebUrl: "https://www.wsj.com/amp/articles/census-delays-would-prevent-trump-immigrant-exclusion-plan-11606951208"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/census-delays-would-prevent-trump-immigrant-exclusion-plan-11606951208"
+  - title: "Joey Jones blasts the politicization of the American flag during Trump presidency"
+    excerpt: "Fox News contributor Joey Jones on Thursday blasted the politicization of the American flag during President Trump’s term in office."
+    publishedDateTime: 2020-12-03T16:59:00Z
+    webUrl: "https://www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag"
+    ampWebUrl: "https://www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joey-jones-blasts-politicization-american-flag.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
     images:
-      - url: "https://images.wsj.net/im-267382/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump Intensifies Threat to Veto Defense Authorization Bill"
-    excerpt: "Republicans and Democrats in Congress have indicated in recent days that they intend to pass the bipartisan $740.5 billion defense-policy bill over President Trump’s objections to its provisions."
-    publishedDateTime: 2020-12-08T22:46:00Z
-    webUrl: "https://www.wsj.com/articles/trump-intensifies-threat-to-veto-defense-authorization-bill-11607442143"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-intensifies-threat-to-veto-defense-authorization-bill-11607442143"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-intensifies-threat-to-veto-defense-authorization-bill-11607442143"
+  - title: "Trump backers in Sacramento say counter-protesters damaged their vehicles: report"
+    excerpt: "Some supporters of President Trump who gathered for a rally outside the  Statehouse on Saturday say they found their vehicles damaged when they tried to leave the event, according to a report."
+    publishedDateTime: 2020-12-06T09:52:00Z
+    webUrl: "https://www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report"
+    ampWebUrl: "https://www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
     images:
-      - url: "https://images.wsj.net/im-269907/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/AP20113664367822.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Donald Trump Is Not a Political Genius"
     excerpt: "As far as I can figure out, no Presidential margin reported at 1AM even half as large as Trump had at 3:41 AM 11/4 did not hold up in the state's history. So we are supposed to believe that there was double the natural volatility 2:42 hours later in the count than ever in history?"
@@ -270,15 +250,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Donald Trump Hates Democracy"
-    excerpt: "President Trump was all frauded out Sunday morning on Fox News: This election was a total fraud. And: This is the greatest fraud in the history of our country, from an electoral standpoint. And: This is a fraud against the American people."
-    publishedDateTime: 2020-12-02T11:41:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/02/donald_trump_hates_democracy_530479.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "VecNgOEp4uidC3PHezA4pp22CjQwcCf1tASVOTPsvkEHvfkMSZYb1qSCzk4p0w1ns/l2/VGriwwCEoe+R46pp6Jpr2nFeZJ+wZJcDJxRjfz7kfOTgaRftugPJ5NmJLvx57+xndcONkJrxMmGNZAL1vx1+AGm+Fta62qqfC1f+y0U/54QVLN14Wi/DzRLZRHVXRo914OPN9t/stDccoNW1tz5Y3Rq77QU611cIur4wmequtdqQaTi4jPNlSyWltdxKhrioo/roAVKKu7a+IsHGfkbrYQEJwHvBTx7bOssL634zlPGL8GFC+6aQ+gxdVoAalmYB3UBlFjYsN/YYON92pSzANfBJ2xYsybztxk/iZI=;s2EtWOqURYX0G8ofyfzcpQ=="
 ---

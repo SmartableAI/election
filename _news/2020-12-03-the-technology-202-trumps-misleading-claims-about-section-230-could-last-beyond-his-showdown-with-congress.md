@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump finalizes sweeping asylum restrictions in last-minute immigration push"
+    excerpt: "The Trump administration finalized a regulation on Thursday that greatly restricts access to asylum in the United States, part of a last-minute immigration crackdown that incoming President-elect Joe Biden will likely try to reverse."
+    publishedDateTime: 2020-12-10T21:19:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-immigration-idUSKBN28K2D3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K2D3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K2D3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544124113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB91D8"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Loeffler dodges Warnock’s question: ‘Did Donald Trump lose the election?’"
     excerpt: "Incumbent Sen. Kelly Loeffler (R) faced off against the Rev. Raphael Warnock (D) at a debate in Atlanta on Dec. 6."
     publishedDateTime: 2020-12-07T01:35:00Z
@@ -61,17 +77,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Trump Finalizes Sweeping Asylum Restrictions in Last-Minute Immigration Push"
-    excerpt: "The Trump administration finalized a regulation on Thursday that greatly restricts access to asylum in the United States, part of a last-minute immigration crackdown that incoming President-elect Joe Biden will likely try to reverse."
-    publishedDateTime: 2020-12-10T16:34:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-finalizes-sweeping-asylum-restrictions-in-last-minute-immigration-push"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-finalizes-sweeping-asylum-restrictions-in-last-minute-immigration-push?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-10/trump-finalizes-sweeping-asylum-restrictions-in-last-minute-immigration-push?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 52
 
 secured: "O4b7wN43g/y3evjMEXnMEFd365uP0+5s0CraoORO76uS3MYV6IHv6MYUwrvwBz9NYYdaIZ4LTpoUt5dEWrjI38Q7ZUK9Qf0sXKrDCorlb7d8MStkvIA0MrMoS6myvKubVStK6ucbHr18EBqdKk4leo2oh+gmI3rS4/FubuUP2J8w52/6xNoq9auTbeRGBSfBc1bxu9FJj5JVp4nujhFbTN+ghV7ythCzp3r9HPFswUqOVHbG6kFzV25PjKem9M9tt6Pm2pcEfTkI0Pqm5tYUj2knZ64su2nEI7KUYue2Zastw8VGv5FjqTEcG2I0K+eUMMSabk2P/DyvtBmD37H9ja0Bwy6uaaNEpPQgvPjJ7Hk=;dix4Q0OJWAnLF2RSYUFkFw=="
 ---

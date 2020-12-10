@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/technology-202-tr
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/technology-202-trump-administrations-immigration-feud-with-silicon-valley-isnt-over-yet/?outputType=amp"
 type: article
 quality: 113
-heat: -1
-published: false
+heat: 173
+published: true
 
 provider:
   name: Washington Post
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration pushes out more leading defense advisors as the Pentagon purge continues"
-    excerpt: "The removal of members of the Defense Business Board follows the purge of the Defense Policy Board just last week"
-    publishedDateTime: 2020-12-05T04:23:00Z
-    webUrl: "https://www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5fca82f3037cbd0018613f11?width=1200&format=jpeg"
-        width: 1200
-        height: 599
-        isCached: true
-  - title: "Trump administration appoints loyalists Corey Lewandowski and David Bossie to Defense Business Board"
-    excerpt: "The Trump administration installed loyalists on a Pentagon advisory panel on Friday, naming Corey Lewandowski and David Bossie among the new appointees to the Defense Business Board. The appointments were announced along with the removal of other members,"
-    publishedDateTime: 2020-12-04T20:31:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JVMGHMQ7S4I6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "‘Betrayed’ Black asylum seekers say Trump administration is ramping up deportations by force and fraud"
     excerpt: "ICE uses physical abuse, solitary confinement and false documents to force Black and African asylum seekers onto 'death planes,' The Times has found through interviews and legal documents."
     publishedDateTime: 2020-11-27T12:13:00Z
@@ -95,44 +63,20 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Former top admiral alarmed by Pentagon purge says Trump still has time to do something 'really destructive'"
-    excerpt: "\"There are some real Trump loyalists there now in charge,\" former Chairman of the Joint Chiefs of Staff Adm. Mike Mullen said Sunday."
-    publishedDateTime: 2020-11-30T20:09:00Z
-    webUrl: "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp"
+  - title: "Trump's arguments on undocumented immigrants?..."
+    excerpt: "Watch \"What are Trump's legal arguments on removing undocumented immigrants from the census\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-12-01T04:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201201043811-what-are-trumps-legal-arguments-on-removing-undocumented-immigrants-from-the-census/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5fc54a4550e71a0011558043?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/01/story_07914228_1606797964.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump Admin Revives Oil Leasing in California Despite Opposition"
-    excerpt: "The Trump administration on Thursday will hold a sale of oil and gas leases on federal land in California for the first time in eight years despite widespread opposition to the auction in the Democratic state,"
-    publishedDateTime: 2020-12-10T12:24:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-10/trump-admin-revives-oil-leasing-in-california-despite-opposition?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "In Break With Trump, McConnell Urges Passage of Defense Bill"
-    excerpt: "In a rare break with President Donald Trump, Senate Majority Leader Mitch McConnell is urging passage of a wide-ranging defense policy bill that Trump has threatened to veto."
-    publishedDateTime: 2020-12-10T17:36:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2020-12-10/in-break-with-trump-mcconnell-urges-passage-of-defense-bill"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-10/in-break-with-trump-mcconnell-urges-passage-of-defense-bill?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-10/in-break-with-trump-mcconnell-urges-passage-of-defense-bill?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "s6wAmvuPqMAV5MjvRQqsVXI4b6X1HjTyaUCb3yQHoiAj8rLsp35XLOVm8gRYJ8sXr9ANoBP+5NKvUjYECbno1PnKpwcpB4utqLQqAVoZgkVUushlojKtaPAuX3YUI5wbLrFa1NQfHsqf218SaGROro40kYA8uN1ycosP7f4xelyzbtM7dSYCH0QnVTXkU7KJtV62KRSWCbFJMIr1AK0tD16pnPbqvE2K8gfEbYrYx/EFaobf2dqUd40K35+s5e2Ad4VRJ54PJ/2AThGB5dkAs997RwkQl0YFYB45GW3AjhF3NUU8nYoefMKP1cZtFC3748SIdUayWRGtheETW33A9sYqlWhJtxfYlQtLd11zYgQ=;tK4paqkKIBy2NPqQJCIZVg=="
 ---

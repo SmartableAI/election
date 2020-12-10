@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trump Finalizes Sweeping Asylum Restrictions in Last-Minute Immigration Push"
+title: "Trump finalizes sweeping asylum restrictions in last-minute immigration push"
 excerpt: "The Trump administration finalized a regulation on Thursday that greatly restricts access to asylum in the United States, part of a last-minute immigration crackdown that incoming President-elect Joe Biden will likely try to reverse."
-publishedDateTime: 2020-12-10T16:34:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-finalizes-sweeping-asylum-restrictions-in-last-minute-immigration-push"
-webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-finalizes-sweeping-asylum-restrictions-in-last-minute-immigration-push"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/trump-finalizes-sweeping-asylum-restrictions-in-last-minute-immigration-push?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-10/trump-finalizes-sweeping-asylum-restrictions-in-last-minute-immigration-push?context=amp"
+publishedDateTime: 2020-12-10T21:19:00Z
+originalUrl: "https://www.reuters.com/article/usa-trump-immigration-idUSKBN28K2D3"
+webUrl: "https://www.reuters.com/article/usa-trump-immigration-idUSKBN28K2D3"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K2D3"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K2D3"
 type: article
-quality: 52
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544124113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB91D8"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Chris Cuomo blasts GOP congressman for skipping his show over Trump election-claim questions"
@@ -72,6 +78,6 @@ related:
         height: 960
         isCached: true
 
-secured: "HYHXykzdTo0FLt0Se45eJHVq7urEHYA69hCGbSs//YPf1qzIYLNEYFr5l/bI9ve+vO7i++j8V/jovc4j6/Hrtf7tMmeKVfeXktYiejGz3a5KmIcor5Dt6MvEEqLR+rAVuKjyWD3Ll3Xl59KDJQAQ30OoY4F/f7axLJtEOhCTyiJifXqs8n/0QF0TmJavgeZYAuLggkWkl7NfT+KXhCZZma96Rp2zp2IUCar6R8ONnvCVg6086OGwotqPqzck68PO/fT3wXDrpM/bjMvhMhMqIAXZ0rLldnXs4qbZoOR8+6vx/S1D0H0MGQxu0T/F0LSGKZ/nrtK4bIPe1WpqgGL5kHWK5BWLBZICDknZnWRRtVXJIGF59jlrsvYRvMmyujMKwReefOZ3XNC26cnZnhGBEj45Cu8noLOEGMDyEWIox9+TIMUwXNiBbUOPrMOtXhQnLD3gsLXEH6JxrAmjuoaKFRA3/68HxUrIdeae1lJsshfkeQEmeUpuKOTa1lYagL2O+uUWy/BBq2w5UwKe0EPAwQ==;Lw1GeqawZoSoeDo8qtIE/w=="
+secured: "2eVWfoHNRbgo6uaA3Dv3A8C1E5wGMdCLfI4jA3I5BHC0VFUyJp7DRbZiUCn9IJxGH6qbwOdv7FA9x2ermNeVA8pMZsKCOBsRKkACH3Ul1iwFmRf4il4FrF8CfoljLWYxk9BnkRe0ghOlsZxDnvgso3w/MZhyyrO34aELaoAYqH9dt1Jy+6ZBEqHsFV4W4Ptv4AoeUFyUx9J5jKQ9KfIgA0vcV0ThsEC+0LNUotWlsnozOfl5QAxewWgiaLcsSkpSQfhbBnnem3dnvvInqA6OpobDHl4+ThRK4VBlsscasnJkg08S5Ne85uk5JwxO9DsHYKGSsD5kB1NN4lCb755+BLxLWD8TFbOoxCWgoQWPyFU=;ruHZY6PhaY/ocsKX9BmOsQ=="
 ---
 

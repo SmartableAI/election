@@ -108,22 +108,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump's legacy on courts still building in waning days of presidency"
-    excerpt: "The Senate Judiciary Committee will vote Thursday on the nominee to fill the appeals court seat vacated by new Supreme Court Justice Amy Coney Barrett as well as voting on whether to send three other lower trial court nominees to the Senate floor — which could further cement President Trump’s reshaping"
-    publishedDateTime: 2020-12-03T11:52:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/unGBxgteOwg/trump-legacy-on-courts-still-building"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-legacy-on-courts-still-building.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-legacy-on-courts-still-building.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Coney-Barrett-AP-e1606994039819.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "LIVE UPDATES: Trump urges Georgia Republicans to reelect Perdue, Loeffler"
     excerpt: "Follow for the latest updates on the Georgia Senate runoffs"
     publishedDateTime: 2020-12-06T08:36:48Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/culture/2020/dec/10/trump-supreme-court-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/dec/10/trump-supreme-court-dismissal-trevor-noah-late-night-tv"
 type: article
 quality: 116
-heat: 136
+heat: 116
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "Supreme Court will hear Trump administration defend controversial Medicaid work requirements"
-    excerpt: "Forcing low-income people to work or prepare for employment in exchange for health coverage is an experiment that's been tried in only three states."
-    publishedDateTime: 2020-12-04T20:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/04/donald-trumps-medicaid-work-requirements-get-supreme-court-review/6341457002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6341457002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6341457002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/3dbe008c-2f39-4c44-8dfe-841a5dc08ac6-XXX_Supreme_Court_Upholds_Obama_s_Affordable_Care_Act_70385449_.JPG?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "x0mA3rBymLdidItDPC04hgL/714+Hoj9+MYsbJAFCpQv2CJ8VzoC5rEj/iTuH3V9QgwGFjbnGGR0U+rzDPbpG+pvwzYVIhWcf7uaxe7Nx7lam6TMw33Vy1/1sOw98riq+MaxHjzPOD9J6nzxTRoF7yxdBs6bgheK0ZVCJY90quglBD9IpHmH5BvxIYXW84nSICSIuzVyl1O9bSXyKfFkaXef2flr2E/CZel8qHyaCz4Tp0HrFYZp3PRiOFr7KNrBEaoYqsvzmX2L8hw31J8nfccjjpBtN/CNalobua3BjZHLXy2N0EvpAWQRZX8hF+aDQiGRNaEM8A7SxXyB3faKDzB3+EQOeYJTy/HmIXxa0r0=;2gGdjlV/LL04wo6KKLnqFw=="
 ---
