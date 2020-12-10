@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump announces Israel-Morocco to normalize relations"
+    excerpt: "President Donald Trump has announced that Israel and Morocco will normalize relations in the latest achievement of his administration’s press to push Arab-Israeli peace"
+    publishedDateTime: 2020-12-10T16:25:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/trump-announces-israel-morocco-to-normalize-relations/2020/12/10/715c4b02-3b03-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/trump-announces-israel-morocco-to-normalize-relations/2020/12/10/715c4b02-3b03-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/trump-announces-israel-morocco-to-normalize-relations/2020/12/10/715c4b02-3b03-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump administration rushes sale of California oil leases despite certain legal battle"
     excerpt: "The Bureau of Land Management is continuing with plans to sell oil leases in California despite opposition from the incoming Biden administration."
     publishedDateTime: 2020-12-09T14:14:00Z

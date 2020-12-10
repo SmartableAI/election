@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/the-latest-ka
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 120
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/44efb7f/2147483647/strip/true/crop/6271x4096+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2Ff5%2F3007e50448f8b7e5ae317a32c9ed%2Fla-photos-1staff-642253-me-1030-pol-ca-newsom-17-cmc.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Biden taps Susan Rice as domestic policy advisor, picks former Obama Chief of Staff Denis McDonough for VA"
+    excerpt: "McDonough is nominated to lead the sprawling Department of Veterans Affairs, and Susan Rice is Biden's choice for the White House Domestic Policy Council."
+    publishedDateTime: 2020-12-10T16:08:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-10/biden-transition-cabinet-denis-mcdonough-veteran-affairs"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-10/biden-transition-cabinet-denis-mcdonough-veteran-affairs?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-10/biden-transition-cabinet-denis-mcdonough-veteran-affairs?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 107
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/34497f7/2147483647/strip/true/crop/4326x2825+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb0%2F79%2Fbc1b65a1c230a462027455a557be%2F892a3d9d993a40aa8d59a93cf3f584e1"
         width: 320
         height: 209
         isCached: true

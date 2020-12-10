@@ -511,6 +511,22 @@ related:
         width: 1022
         height: 545
         isCached: true
+  - title: "Biden said he’ll work to advance transgender rights. Here are 4 things to know."
+    excerpt: "Transgender Day of Remembrance, President-elect Joe Biden said that “ transgender rights are human rights” and committed to advancing transgender rights as part of his administration’s platform. According to the UCLA Williams Institute,"
+    publishedDateTime: 2020-12-10T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/biden-said-hell-work-advance-transgender-rights-here-are-4-things-know/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/biden-said-hell-work-advance-transgender-rights-here-are-4-things-know/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/biden-said-hell-work-advance-transgender-rights-here-are-4-things-know/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5ZLNZJXJ5YI6TIZJON4PX6Q3MM.jpg&w=1440"
+        width: 1440
+        height: 897
+        isCached: true
   - title: "Biden is now seriously considering a Black US Army general to lead the US military"
     excerpt: "If nominated by Biden and confirmed by the Senate, the retired US Army general would be America's first Black defense secretary."
     publishedDateTime: 2020-12-07T22:51:00Z

@@ -128,6 +128,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sarah Sanders says liberal media covered up for Hunter Biden during father's presidential campaign"
+    excerpt: "Reacting on \"Fox & Friends\" to news that Hunter Biden's tax affairs are the subject of a federal investigation on Thursday, Fox News contributor Sarah Sanders said Thursday that liberal media outlets \"covered it up\" for him during his father's presidential campaign."
+    publishedDateTime: 2020-12-10T15:05:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XiCezx9AAy0/liberal-media-hunter-biden-fathers-campaign-sanders"
+    ampWebUrl: "https://www.foxnews.com/politics/liberal-media-hunter-biden-fathers-campaign-sanders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liberal-media-hunter-biden-fathers-campaign-sanders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c44c1849-3309-4d8c-ab1c-2d0a3e07c29c/383584ff-f5d9-493b-bc0a-3a0b9a1b1667/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hunter Biden’s foreign transactions repeatedly flagged as potential criminal activity, Senate probe found"
     excerpt: "A Republican-led Senate investigation noted “potential criminal activity” among his transactions."
     publishedDateTime: 2020-12-10T02:24:31Z
@@ -141,6 +157,20 @@ related:
     quality: 158
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c6b162e-be50-4a77-a376-4c526d5ece40/312aac65-1e1b-4147-8427-2f66b8964cf2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Tom Cotton: Hunter Biden's taxes are 'least damaging' part of probe into China dealings"
+    excerpt: "A grand jury investigation into Hunter Biden's taxes is the \"least damaging\" allegation against President-elect Joe Biden's son, Sen. Tom Cotton said Thursday."
+    publishedDateTime: 2020-12-10T16:41:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBlMuqDYz5o/hunter-biden-taxes-china-allegations-tom-cotton"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 147
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Tom-cotton-12-08.jpg"
         width: 1280
         height: 720
         isCached: true

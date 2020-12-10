@@ -2,6 +2,332 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-11-trump-says-morocco-will-establish-full-diplomatic-relations-with-israel.md",
+      "title": "Trump Says Morocco Will Establish ‘Full Diplomatic Relations’ With Israel",
+      "excerpt": "President Trump said Morocco has agreed to establish full diplomatic relations with Israel, calling it a “massive breakthrough for peace” in the Middle East.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872",
+      "originalUrl": "https://www.wsj.com/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-271352/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872",
+      "publishedDateTime": "2020-12-10T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-trump-us-to-recognize-moroccos-sovereignty-over-disputed-western-sahara-region-in-return-for-israel-normalization.md",
+      "title": "Trump: US to recognize Morocco's sovereignty over disputed Western Sahara region in return for Israel normalization",
+      "excerpt": "US to recognize Morocco's sovereignty over disputed Western Sahara region in return for Israel normalization.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-us-recognize-moroccos-sovereignty-disputed-western-sahara-74650444",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-us-recognize-moroccos-sovereignty-disputed-western-sahara-74650444",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-us-recognize-moroccos-sovereignty-disputed-western-sahara-74650444",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-us-recognize-moroccos-sovereignty-disputed-western-sahara-74650444",
+      "publishedDateTime": "2020-12-10T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-trumps-chief-virus-aid-negotiator-sees-a-lot-of-progress.md",
+      "title": "Trump's chief virus aid negotiator sees 'a lot of progress'",
+      "excerpt": "President Donald Trump's top negotiator on COVID-19 relief said Thursday there was headway on a $900 billion-plus plan and he cited similarities between the latest administration offer and an emerging measure from a bipartisan group of senators.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/lawmakers-act-avert-shutdown-buying-time-covid-talks-74642517",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/lawmakers-act-avert-shutdown-buying-time-covid-talks-74642517",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_b22fe85b38154abb8fc051e184643e06_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/lawmakers-act-avert-shutdown-buying-time-covid-talks-74642517",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawmakers-act-avert-shutdown-buying-time-covid-talks-74642517",
+      "publishedDateTime": "2020-12-10T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-watch-live-pence-participates-in-covid-19-vaccine-roundtable.md",
+      "title": "WATCH LIVE: Pence participates in COVID-19 vaccine roundtable",
+      "excerpt": "Vice President Mike Pence will participate in a roundtable Dec. 10 about COVID-19 vaccines in Greenville, South Carolina.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable",
+      "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-07-08T154528Z_1976070878_RC23PH9SQGLE_RTRMADP_3_HEALTH-CORONAVIRUS-USA-1024x618.jpg",
+          "width": 1024,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable",
+      "publishedDateTime": "2020-12-10T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-biden-nominates-denis-mcdonough-to-lead-va-turning-to-another-longtime-obama-adviser.md",
+      "title": "Biden nominates Denis McDonough to lead VA, turning to another longtime Obama adviser",
+      "excerpt": "President-elect Joe Biden is poised to tap Denis McDonough to lead the Department of Veterans Affairs, a person familiar with the decision says, adding the longtime chief of staff to former President Barack Obama to his new Cabinet.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2F6ed0RIlY0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2F6ed0RIlY0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201210095900-denis-mcdonough-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/10/politics/denis-mcdonough-va-secretary/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/denis-mcdonough-va-secretary/index.html",
+      "publishedDateTime": "2020-12-10T08:03:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-pence-announces-first-two-space-force-bases-in-us.md",
+      "title": "Pence announces first two Space Force bases in US",
+      "excerpt": "The renaming is ahead of a mission realignment, which should happen following a congressional briefing.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ccN52umR_lM/pence-announces-first-two-space-force-bases",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ccN52umR_lM/pence-announces-first-two-space-force-bases",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17930680-4317-4294-a17c-f95e64f44ab7/8128d7bd-3184-47fe-9cc7-59d4045e5537/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-announces-first-two-space-force-bases.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-announces-first-two-space-force-bases.amp",
+      "publishedDateTime": "2020-12-10T07:34:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-hunter-biden-reveals-he-is-under-federal-investigation-for-tax-affairs.md",
       "title": "Hunter Biden reveals he is under federal investigation for \"tax affairs\"",
       "excerpt": "Hunter Biden, the son of President-elect Joe Biden, says he is under investigation over his tax affairs by the U.S. Attorney's Office in Delaware in a probe that dates back to 2018. CBS News political correspondent Ed O'Keefe joins \"CBSN AM\" to discuss the latest.",
@@ -176,7 +502,7 @@
       "originalUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -896,7 +1222,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1008,7 +1334,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 335,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -1049,322 +1375,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-joe-bidens-gaffe-filled-2020-president-elect-botches-hhs-announcement.md",
-      "title": "Joe Biden's gaffe-filled 2020: President-elect botches HHS announcement",
-      "excerpt": "President-elect Joe Biden had his latest misadventure with a teleprompter on Wednesday, botching the name of Xavier Becerra, his nominee for Health and Human Services Secretary.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXylyVV42QA/joe-bidens-best-teleprompter-gaffes-2020",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXylyVV42QA/joe-bidens-best-teleprompter-gaffes-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f1b25b6-51f5-4710-a2e8-de6c3dff8d45/1a5a5d5d-281e-4651-96b8-b5982d9f0e7c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/joe-bidens-best-teleprompter-gaffes-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-bidens-best-teleprompter-gaffes-2020.amp",
-      "publishedDateTime": "2020-12-09T12:35:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-mike-pence-introduces-astronauts-for-future-nasa-moon-mission.md",
-      "title": "Mike Pence introduces astronauts for future NASA moon mission",
-      "excerpt": "The vice president is at the Kennedy Space Center to discuss the mission to get astronauts back to the moon by 2024 under NASA's Artemis program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
-      "originalUrl": "https://www.cbsnews.com/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/454dd4c9-216f-4188-a8e0-59d4ec6dbac5/thumbnail/1200x630/c79b8bc48e0e82cc0506366e67034711/artemis-astronauts.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
-      "publishedDateTime": "2020-12-09T12:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-china-is-serious-competitor-to-us-in-space-says-pence.md",
-      "title": "China is serious competitor to US in space, says Pence",
-      "excerpt": "China, which recently landed a probe on the moon, is a serious competitor to the United States in space, according to Vice President Mike Pence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/science/china-serious-competitor-to-the-us-in-space-pence",
-      "originalUrl": "https://www.foxnews.com/science/china-serious-competitor-to-the-us-in-space-pence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/China-MoonMission-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/science/china-serious-competitor-to-the-us-in-space-pence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/china-serious-competitor-to-the-us-in-space-pence.amp",
-      "publishedDateTime": "2020-12-09T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-the-big-lie-that-wont-die-how-trump-and-his-allies-favorite-bogus-fraud-claim-keeps-surviving.md",
-      "title": "The big lie that won’t die: How Trump and his allies’ favorite bogus fraud claim keeps surviving",
-      "excerpt": "When the history of President Trump’s failing effort to overturn the 2020 election results is written, there will be many bogus claims to chew on. But more than any other, one is emerging is the epitome of bad faith,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NF22EOQBDII6XOJOAKLHN6PL5Q.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/?outputType=amp",
-      "publishedDateTime": "2020-12-09T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-vice-president-pence-announces-official-name-change-of-patrick-space-force-base.md",
-      "title": "Vice President Pence announces official name change of Patrick Space Force Base",
-      "excerpt": "One year after the U.S. Space Force was created by President Trump and Patrick Air Force Base was designated a space force base, Vice President Mike Pence made the name change to Patrick Space Force Base official.",
-      "sourceUrl": null,
-      "webUrl": "https://www.floridatoday.com/story/tech/science/space/2020/12/09/vice-president-pence-announces-official-name-change-patrick-space-force-base/6506564002/",
-      "originalUrl": "https://www.floridatoday.com/story/tech/science/space/2020/12/09/vice-president-pence-announces-official-name-change-patrick-space-force-base/6506564002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/09/PBRE/b361ae31-26de-47bf-adcd-6538f9e1acc9-SpaceForce2.jpg?auto=webp&crop=4031,2268,x0,y604&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.floridatoday.com/amp/6506564002",
-      "cdnAmpWebUrl": "https://amp-floridatoday-com.cdn.ampproject.org/c/s/amp.floridatoday.com/amp/6506564002",
-      "publishedDateTime": "2020-12-09T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Florida Today",
-        "domain": "floridatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-melania-trump-just-wants-to-go-home.md",
-      "title": "Melania Trump 'just wants to go home'",
-      "excerpt": "In mid-November, as President Donald Trump railed against the election results, his wife, first lady Melania Trump publicly agreed with his sentiments. But privately, a handful of days after the final state tally, the first lady tasked an emissary with discreetly finding out what was available to her",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VsprdbHDco/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VsprdbHDco/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201209104411-02-melania-trump-2017-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/politics/melania-trump-future/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/melania-trump-future/index.html",
-      "publishedDateTime": "2020-12-09T08:18:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

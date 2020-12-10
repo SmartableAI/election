@@ -95,6 +95,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Biden taps Susan Rice as domestic policy advisor, picks former Obama Chief of Staff Denis McDonough for VA"
+    excerpt: "McDonough is nominated to lead the sprawling Department of Veterans Affairs, and Susan Rice is Biden's choice for the White House Domestic Policy Council."
+    publishedDateTime: 2020-12-10T16:08:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-12-10/biden-transition-cabinet-denis-mcdonough-veteran-affairs"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-10/biden-transition-cabinet-denis-mcdonough-veteran-affairs?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-10/biden-transition-cabinet-denis-mcdonough-veteran-affairs?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 107
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/34497f7/2147483647/strip/true/crop/4326x2825+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb0%2F79%2Fbc1b65a1c230a462027455a557be%2F892a3d9d993a40aa8d59a93cf3f584e1"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Biden: Latest jobs report 'dire'"
     excerpt: "President-elect Joe Biden says that the most recent jobs report is \"dire\" and that there is no time to lose in crafting a rescue package as millions of people have lost their jobs or have seen their incomes slashed during the pandemic."
     publishedDateTime: 2020-12-04T22:49:00Z

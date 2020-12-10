@@ -2,6 +2,280 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-04-videos-virtual-events-and-planned-trips-biden-obama-pence-trump-weigh-in-on-georgia-runoffs.md",
+      "title": "Videos, virtual events and planned trips: Biden, Obama, Pence, Trump weigh in on Georgia runoffs",
+      "excerpt": "President Trump, his predecessor and soon-to-be successor in the White House, as well as Vice President Mike Pence, are all weighing in on Georgia’s two Jan. 5 Senate runoff elections, where the Republican majority in the chamber is up for grabs.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1hnCHg0AieM/biden-obama-pence-trump-georgia-runoffs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1hnCHg0AieM/biden-obama-pence-trump-georgia-runoffs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1402,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp",
+      "publishedDateTime": "2020-12-04T10:05:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-iowas-contact-tracing-firm-helped-trump-reynolds-campaigns.md",
+      "title": "Iowa's contact-tracing firm helped Trump, Reynolds campaigns",
+      "excerpt": "After facing a workforce shortage for months, Iowa has awarded an emergency $2.3 million contact-tracing contract to a company owned by a Republican Party insider",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/iowas-contact-tracing-firm-helped-trump-reynolds-campaigns-74540682",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/iowas-contact-tracing-firm-helped-trump-reynolds-campaigns-74540682",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/WireAP_770cc5422fa54239b22226f62130282c_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/iowas-contact-tracing-firm-helped-trump-reynolds-campaigns-74540682",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/iowas-contact-tracing-firm-helped-trump-reynolds-campaigns-74540682",
+      "publishedDateTime": "2020-12-04T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-trump-ignores-facts-with-claim-of-improper-vote-dumps.md",
+      "title": "Trump ignores facts with claim of improper 'vote dumps'",
+      "excerpt": "In lawsuits, tweets and a 46-minute taped diatribe, the president has promoted a false narrative about vote counting in several states.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/trump-ignores-facts-claim-improper-vote-dumps-n1249987",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/trump-ignores-facts-claim-improper-vote-dumps-n1249987",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_49/3433213/201204-donald-trump-mn-0840_3ff08bf71b3ccb940cbf49b781f12604.jpg",
+          "width": 2500,
+          "height": 1458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249987",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249987",
+      "publishedDateTime": "2020-12-04T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-biden-wrestles-with-politics-in-effort-to-depoliticize-the-justice-department.md",
+      "title": "Biden wrestles with politics in effort to depoliticize the Justice Department ",
+      "excerpt": "Political questions from Democrats and a new Republican litmus test have suddenly become complicating factors in one of President-elect Joe Biden's most critical choices: picking a new Attorney General to lead the Justice Department out of its highly politicized era.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JrsNL3KCkDA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JrsNL3KCkDA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201129183807-biden-file-1125-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html",
+      "publishedDateTime": "2020-12-04T03:03:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-in-race-to-cement-legacy-trump-pushes-dozens-of-midnight-regulations.md",
+      "title": "In race to cement legacy, Trump pushes dozens of 'midnight regulations'",
+      "excerpt": "The Trump administration is quietly racing to solidify its legacy, fulfill campaign promises and overhaul federal regulations that could take Joe Biden years to undo.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "originalUrl": "https://abcnews.go.com/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-ap-er-201203_1607026156831_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
+      "publishedDateTime": "2020-12-04T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-republican-congressman-tells-trump-to-delete-your-account-after-he-tweeted-a-45-minute-speech-repeating-baseless-voter-fraud-claims.md",
       "title": "Republican congressman tells Trump to 'delete your account' after he tweeted a 45-minute speech repeating baseless voter-fraud claims",
       "excerpt": "Republican Rep. Adam Kinzinger, who represents Illinois' 16th District, quote-tweeted Trump on Thursday.",
@@ -115,7 +389,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -285,7 +559,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 862,
+      "heat": 922,
       "tags": null,
       "images": [
         {
@@ -1094,279 +1368,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-kennedy-democrats-some-republicans-have-their-bowels-in-an-uproar-over-trump-not-conceding.md",
-      "title": "Kennedy: Democrats, some Republicans 'have their bowels in an uproar' over Trump not conceding",
-      "excerpt": "Sen. John Kennedy, R-La., said President Trump had every right to contest the results of the 2020 election in an appearance on \"America's Newsroom.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yaRhk-AF1gY/kennedy-democrats-republicans-bowels-uproar-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yaRhk-AF1gY/kennedy-democrats-republicans-bowels-uproar-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b3666d9-d0ce-4a8a-ac95-d2970fd93791/468e9eed-4dd8-4fcf-a499-59cddc9b2507/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kennedy-democrats-republicans-bowels-uproar-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kennedy-democrats-republicans-bowels-uproar-election.amp",
-      "publishedDateTime": "2020-12-03T08:22:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-simply-unthinkable-law-officers-call-for-halt-to-executions-in-trumps-final-weeks.md",
-      "title": "'Simply unthinkable': Law officers call for halt to executions in Trump's final weeks",
-      "excerpt": "Five executions are scheduled before Biden, who opposes capital punishment, takes office. Ninety current and former law officials want them to stop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/03/law-officers-call-halt-executions-trumps-final-weeks/3806399001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/03/law-officers-call-halt-executions-trumps-final-weeks/3806399001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/24/USAT/02a629ee-2141-493b-a18e-db31b05b3c81-iA01_NLINE_MUG_21.JPG?auto=webp&crop=1882,1059,x0,y100&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3806399001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3806399001",
-      "publishedDateTime": "2020-12-03T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-the-latest-biden-picks-deese-for-national-economic-council.md",
-      "title": "The Latest: Biden picks Deese for National Economic Council",
-      "excerpt": "President-elect Joe Biden has tapped former Obama administration senior economic adviser Brian Deese to be director of the National Economic Council",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-03T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-trump-lays-out-election-fraud-case-in-online-video-bad-things-happened.md",
-      "title": "Trump lays out election-fraud case in online video: 'Bad things happened'",
-      "excerpt": "Trump says if he's right about election fraud, 'Biden can't be president' President Trump is once again charging that last month’s presidential election was rigged and rife with fraud. In an address posted on his Twitter and Facebook pages that the president described as possibly “the most important speech,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened",
-      "originalUrl": "https://www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/2trump-newsletter-xxx-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-lays-out-election-fraud-case-in-online-video-bad-things-happened.amp",
-      "publishedDateTime": "2020-12-03T02:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-comey-to-teach-at-columbia-law-school-alongside-professor-who-leaked-trump-memo.md",
-      "title": "Comey to teach at Columbia Law School alongside professor who leaked Trump memo",
-      "excerpt": "Ex-FBI chief to teach a seminar called “Lawyers and Leaders.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qX6dge0i47g/comey-columbia-law-school-professor-leaked-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qX6dge0i47g/comey-columbia-law-school-professor-leaked-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a9640e1-b124-4884-981d-3231a1bcb7e3/ddd90e79-5e88-4cba-b1c1-498dbe63c867/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/comey-columbia-law-school-professor-leaked-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-columbia-law-school-professor-leaked-trump.amp",
-      "publishedDateTime": "2020-12-02T16:52:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

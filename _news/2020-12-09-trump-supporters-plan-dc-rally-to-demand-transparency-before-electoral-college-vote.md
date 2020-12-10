@@ -95,6 +95,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Fox News' Judge Says Donald Trump Should Pardon Drug Offenders Before Himself"
+    excerpt: "In an op-ed published on the Fox News website on Thursday titled \"Can President Trump pardon himself?\" the former New Jersey Superior Court judge argued that the president should pardon those who were convicted for use and possession of drugs under federal law before pardoning himself or members of his family."
+    publishedDateTime: 2020-12-10T15:57:00Z
+    webUrl: "https://www.newsweek.com/fox-news-judge-donald-trump-pardon-drug-offenders-1553831"
+    ampWebUrl: "https://www.newsweek.com/fox-news-judge-donald-trump-pardon-drug-offenders-1553831?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fox-news-judge-donald-trump-pardon-drug-offenders-1553831?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1683725/judge-andrew-napolitano-testifying-before-congress.jpg"
+        width: 3500
+        height: 2334
+        isCached: true
   - title: "An important Electoral College deadline has passed. Here's why that's bad news for Trump"
     excerpt: "The safe harbor deadline falls six days before the Electoral College meets to formally cast votes for president based on the popular votes in states."
     publishedDateTime: 2020-12-09T05:49:00Z

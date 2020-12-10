@@ -206,6 +206,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to tap Susan Rice to lead White House Domestic Policy Council"
+    excerpt: "President-elect Joe Biden is expected to tap Susan Rice, the former national security adviser during the Obama administration, to lead the White House Domestic Policy Council, two sources familiar told CNN.\n    \n"
+    publishedDateTime: 2020-12-10T16:00:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sSexxaFkpFg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/susan-rice-white-house-domestic-policy-council/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/susan-rice-white-house-domestic-policy-council/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730003015-02-susan-rice-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP leadership rejects resolution acknowledging Biden as President-elect"
     excerpt: "Congressional Republican leaders on Tuesday rejected a resolution that asserted that Joe Biden is President-elect, the latest refusal by the GOP on Capitol Hill to accept the election results even though it's been clear for weeks that President Donald Trump lost.\n    \n"
     publishedDateTime: 2020-12-08T18:31:22Z
@@ -551,6 +567,34 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/1b/12/b3e1e2e043c1bf3e71ac53922be2/ap20008822339217-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden, Austin vow to safeguard civilian control"
+    excerpt: "Joe Biden defends his choice of Lloyd Austin for defense secretary and says he will get civil-military relations “back on track.” — A new blueprint outlines how Congress can get back in the business of fulfilling its war powers responsibilities."
+    publishedDateTime: 2020-12-10T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2020/12/10/biden-austin-vow-to-safeguard-civilian-control-792196"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Biden taps Susan Rice for top White House domestic policy job"
+    excerpt: "President-elect Joe Biden has tapped Obama’s former national security adviser Susan Rice to run the White House Domestic Policy Council, according to people familiar with the decision. Rice, who also served as the U."
+    publishedDateTime: 2020-12-10T15:20:00Z
+    webUrl: "https://www.politico.com/news/2020/12/10/biden-taps-susan-rice-for-top-white-house-domestic-policy-job-444231"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/56/16/b146704b4ab68f168a8bfcbefdd6/susan-rice-773-ap.jpg"
         width: 1160
         height: 773
         isCached: true

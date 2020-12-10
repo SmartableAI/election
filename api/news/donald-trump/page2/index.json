@@ -2,6 +2,174 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-06-full-gabriel-sterling-interview-trump-has-a-higher-responsibility.md",
+      "title": "Full Gabriel Sterling Interview: Trump has a 'higher' responsibility",
+      "excerpt": "Gabriel Sterling, Voting System Implementation Manager for the State of Georgia, talks to Meet the Press about why he spoke out against President Trump's push to reverse the vote in Georgia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/full-gabriel-sterling-interview-trump-has-a-higher-responsibility-97212485745",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/full-gabriel-sterling-interview-trump-has-a-higher-responsibility-97212485745",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/1607265264056_mtp_full_sterling_201206_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo97212485745",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97212485745",
+      "publishedDateTime": "2020-12-06T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report.md",
+      "title": "Trump backers in Sacramento say counter-protesters damaged their vehicles: report",
+      "excerpt": "Some supporters of President Trump who gathered for a rally outside the  Statehouse on Saturday say they found their vehicles damaged when they tried to leave the event, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report",
+      "originalUrl": "https://www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/AP20113664367822.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report.amp",
+      "publishedDateTime": "2020-12-06T01:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-kellyanne-conway-breaks-from-trump-and-says-joe-biden-and-kamala-harris-will-prevail.md",
+      "title": "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'",
+      "excerpt": "Former White House advisor Kellyanne Conway's comments in an interview with The 19th go directly against Trump's claims undermining the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
+      "originalUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1687,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fcb8c9db6a3a800199b6db2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp",
+      "publishedDateTime": "2020-12-05T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-trump-to-withdraw-most-troops-from-somalia-as-part-of-global-pullback.md",
       "title": "Trump to withdraw most troops from Somalia as part of global pullback",
       "excerpt": "President Donald Trump has ordered nearly all American troops to withdraw from Somalia, U.S. officials said on Friday, part of a global pullback by the Republican president before he leaves office next month that will also see him drawdown forces in Afghanistan and Iraq.",
@@ -380,7 +548,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/race-cement-legacy-trump-pushes-dozens-midnight-regulations/story?id=74507203",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -537,7 +705,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1423,162 +1591,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years.md",
-      "title": "Donald Trump suggests 2024 presidential bid: 'I'll see you in four years'",
-      "excerpt": "President makes comments to Republicans at a White House reception, where video shows dozens of people crammed together without masks",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/54100791a8b7b74981f48fa11e0f564cee5eaa9a/0_279_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=12fbd88d874e58a3ea82feb28d17ca57",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
-      "publishedDateTime": "2020-12-01T22:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-trump-lawyer-joe-digenova-says-election-security-chief-fired-by-the-president-should-be-taken-out-at-dawn-and-shot.md",
-      "title": "Trump lawyer Joe diGenova says election security chief fired by the president should be 'taken out at dawn and shot'",
-      "excerpt": "Chris Krebs has become a target for the Trump campaign after saying that the November 3 election was \"the most secure in American history.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12",
-      "originalUrl": "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc62c86037cbd00186130a8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp",
-      "publishedDateTime": "2020-12-01T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-trumps-arguments-on-undocumented-immigrants.md",
-      "title": "Trump's arguments on undocumented immigrants?...",
-      "excerpt": "Watch \"What are Trump's legal arguments on removing undocumented immigrants from the census\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/live/video/20201201043811-what-are-trumps-legal-arguments-on-removing-undocumented-immigrants-from-the-census/",
-      "originalUrl": "https://www.cbsnews.com/live/video/20201201043811-what-are-trumps-legal-arguments-on-removing-undocumented-immigrants-from-the-census/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images-cbsn.cbsnews.com/prod/2020/12/01/story_07914228_1606797964.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T20:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

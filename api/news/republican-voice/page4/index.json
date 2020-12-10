@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-25-matt-schlapp-nevada-allowing-trump-team-to-present-election-fraud-case-a-great-step.md",
+      "title": "Matt Schlapp: Nevada allowing Trump team to present election fraud case 'a great step'",
+      "excerpt": "Nevada is ready to hear the Trump campaign's case regarding illegal balloting allegations in Clark County, American Conservative Union chairman Matt Schlapp told “Hannity” Tuesday night.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T2IVhhohVNA/matt-schlapp-nevada-trump-2020-campaign-voter-fraud-evidence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T2IVhhohVNA/matt-schlapp-nevada-trump-2020-campaign-voter-fraud-evidence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a39d9ca-7e33-421e-862b-e0365bb7572a/56154299-b3ae-4b7d-8280-f85802fb865c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/matt-schlapp-nevada-trump-2020-campaign-voter-fraud-evidence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-schlapp-nevada-trump-2020-campaign-voter-fraud-evidence.amp",
+      "publishedDateTime": "2020-11-24T20:44:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-aoc-ilhan-omar-try-to-block-deficit-hawk-from-biden-administration.md",
       "title": "AOC, Ilhan Omar try to block 'deficit hawk' from Biden administration",
       "excerpt": "Squad members Reps. Alexandria Ocasio-Cortez, D-N.Y. and Ilhan Omar, D-Minn., are mounting a petition against Biden nominating his former chief of staff Bruce Reed, who they say is a “deficit hawk,” to a role within the incoming administration. ",
@@ -1585,62 +1641,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/nj-dem-congressman-has-called-for-trump-to-be-tried-for-crimes-against-the-united-states.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-dem-congressman-has-called-for-trump-to-be-tried-for-crimes-against-the-united-states.amp",
       "publishedDateTime": "2020-11-19T18:28:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-new-squad-member-suggests-biden-needs-to-pay-minority-communities-back-after-election-support.md",
-      "title": "New 'squad' member suggests Biden needs to pay minority communities back after election support",
-      "excerpt": "Congressman-elect Jamaal Bowman, D-N.Y., indicated on Thursday that President-elect Joe Biden owed Black and Brown people after they helped elect him.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FF6nLI8xEpE/bowman-biden-payback-black-communities",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FF6nLI8xEpE/bowman-biden-payback-black-communities",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 378,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9649eda-3c54-4b54-843e-66c817d257a1/8c70831b-bb19-4800-91d5-ed29bb44f6b2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bowman-biden-payback-black-communities.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bowman-biden-payback-black-communities.amp",
-      "publishedDateTime": "2020-11-19T18:22:07-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

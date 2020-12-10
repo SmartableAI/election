@@ -161,6 +161,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump coronavirus official Birx seeks to join Fauci in Biden administration"
+    excerpt: "White House coronavirus task force official Dr. Deborah Birx is reportedly looking to join National Institute of Allergy and Infectious Diseases Director Dr. Anthony Fauci in President-elect Joe Biden's administration."
+    publishedDateTime: 2020-12-10T16:11:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GojdMbZs3UE/trump-coronavirus-birx-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Deborah-Birx-2-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
     excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
     publishedDateTime: 2020-12-06T23:23:43Z
@@ -720,6 +736,38 @@ related:
       - url: "https://images.wsj.net/im-266968/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Liberal media ‘snuffed out' Hunter Biden coverage until after election to help defeat Trump, critics say"
+    excerpt: "The liberal mainstream media largely ignored the ongoing Hunter Biden scandal until after his father won the presidential election and media watchdogs feel it was a strategic move by the liberal media to help Joe Biden defeat President Trump."
+    publishedDateTime: 2020-12-10T16:27:00Z
+    webUrl: "https://www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump"
+    ampWebUrl: "https://www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-media-ignored-hunter-biden-scandal-election-defeat-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/tapper-cnn.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump coronavirus official Birx seeks to join Fauci in Biden administration"
+    excerpt: "White House coronavirus task force official Dr. Deborah Birx is reportedly looking to join National Institute of Allergy and Infectious Diseases Director Dr. Anthony Fauci in President-elect Joe Biden's administration."
+    publishedDateTime: 2020-12-10T16:21:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-birx-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Deborah-Birx-2-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump-Era Tax Rule Benefiting Some Multinationals May Get Revised Under Biden"
     excerpt: "A regulation that cut the tax bills of companies such as Philip Morris and Sealed Air could be poised for reversal in 2021 as the Biden administration tries to deliver on its campaign promise to raise taxes on corporations."

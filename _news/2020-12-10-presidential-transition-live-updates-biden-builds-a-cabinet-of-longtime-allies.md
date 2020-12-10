@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to tap Susan Rice to lead White House Domestic Policy Council"
+    excerpt: "President-elect Joe Biden is expected to tap Susan Rice, the former national security adviser during the Obama administration, to lead the White House Domestic Policy Council, two sources familiar told CNN.\n    \n"
+    publishedDateTime: 2020-12-10T16:00:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sSexxaFkpFg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/susan-rice-white-house-domestic-policy-council/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/susan-rice-white-house-domestic-policy-council/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730003015-02-susan-rice-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP leadership rejects resolution acknowledging Biden as President-elect"
     excerpt: "Congressional Republican leaders on Tuesday rejected a resolution that asserted that Joe Biden is President-elect, the latest refusal by the GOP on Capitol Hill to accept the election results even though it's been clear for weeks that President Donald Trump lost.\n    \n"
     publishedDateTime: 2020-12-08T18:31:22Z
@@ -554,6 +570,34 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden, Austin vow to safeguard civilian control"
+    excerpt: "Joe Biden defends his choice of Lloyd Austin for defense secretary and says he will get civil-military relations “back on track.” — A new blueprint outlines how Congress can get back in the business of fulfilling its war powers responsibilities."
+    publishedDateTime: 2020-12-10T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2020/12/10/biden-austin-vow-to-safeguard-civilian-control-792196"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Biden taps Susan Rice for top White House domestic policy job"
+    excerpt: "President-elect Joe Biden has tapped Obama’s former national security adviser Susan Rice to run the White House Domestic Policy Council, according to people familiar with the decision. Rice, who also served as the U."
+    publishedDateTime: 2020-12-10T15:20:00Z
+    webUrl: "https://www.politico.com/news/2020/12/10/biden-taps-susan-rice-for-top-white-house-domestic-policy-job-444231"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/56/16/b146704b4ab68f168a8bfcbefdd6/susan-rice-773-ap.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden pledges to vaccinate tens of millions, reopen schools in first 100 days"
     excerpt: "The new pledges came as Biden introduced his picks to lead key health agencies and coordinate the federal response to a pandemic that's infected almost 15 million people in the U.S."
     publishedDateTime: 2020-12-08T21:16:00Z
@@ -569,6 +613,6 @@ related:
         height: 2950
         isCached: true
 
-secured: "4DC8knGVIST7iQ5w9sC+Q+EVAptKNMYVHrHB8ZF6/K87VoIPQ1Ione+krjJhJhvzTWfuZZYYADIwoHnRIWIoHPcIuU78cTBK3goVgK0tJRmBybWwfV2stMZvO94Ug+5ZGy9mxL/gcM8ofc90Qv6v0pOPCil6gc2eMWO2CM1E4BOIyQuUzpiwgjRd/GMtUf1JSEmy9Wgq8dshBWWTdN64dlwd7jTIWC9gsLuycDlfVInFGvRrMK6CS9weLCI5gEfHc8GyKK3ICD9F9LCw63bSqrUvqvWMD/HisALzoelksHxG62bWHhiTP27NZPwwk2e5XPOV0npw6CxSRl/183GxFfNLmYhuz7uZj9bXMcaYsME=;vavWdgbfMcdTO4wY8+Uaag=="
+secured: "8czeJeqq0XQ+MnfHZbUI4Sywi87bKFYG6NbvlWhSWyfhYZH7MqRAIfdxlne8dEf4u70l5EjNfjxz+TrqtsmfqIKTkou7XglrLUEozCcGKnDvdjV23Va8g2pyGYddCqgGZj3OMgcq0wHWIo3+LJMbsVoynbWuTsK2LwzMO4Xym81igr85/w1Lq9pFvZwz+fLpUNvRjW0zfZWtbLndSWM3fSodxI4H3zwvuBk3JEa/oE1c7pBdqZTBfRXi0Zoghm4J713IUppxoOjB2PbXaZPPZXhTxQ+dNFaYg8sioqVK2HrZ20m2Pc8zsJjUsz6jeGKght9ix2HwIcRO3/JQHWgL13oPUa/G8SF6BpEm+shWHFQJ86EC+C6BvTcR90wXz7NMetAqJWHnSA6DMbrwEzN5ia9dFJhEN1+UWJs6J1LLES7zdDMDqMDgbnYeyDRsIlU1QuL7jF7O4tRIrzsWMZaYgaxRFsVc0Sr8VchTcIrcW/FGb04o8rHk2/kRzdCfEZmAuDchP7wefd3RR1hIsDi6Kg==;fpe9Q+rnFCvlqCRR5VK84A=="
 ---
 

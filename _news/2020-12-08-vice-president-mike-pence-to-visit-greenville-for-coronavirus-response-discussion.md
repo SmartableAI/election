@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.greenvilleonline.com/amp/6484240002"
 cdnAmpWebUrl: "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/6484240002"
 type: article
 quality: 70
-heat: 130
+heat: 110
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence to visit Greenville for coronavirus vaccines roundtable"
-    excerpt: "Vice President Mike Pence will visit Greenville on Thursday to talk about COVID-19 vaccinations before traveling to a campaign rally in Augusta, Georgia. According to his office, Pence is visiting Greenville to take part in a roundtable discussion highlighting the public-private partnership to combat the coronavirus,"
-    publishedDateTime: 2020-12-09T21:06:00Z
-    webUrl: "https://www.greenvilleonline.com/story/news/local/2020/12/07/vice-president-mike-pence-visit-greenville-sc-talk-covid/6484240002/"
-    ampWebUrl: "https://amp.greenvilleonline.com/amp/6484240002"
-    cdnAmpWebUrl: "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/6484240002"
-    type: article
-    provider:
-      name: Greenville News
-      domain: greenvilleonline.com
-    quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/03/30/PGRE/26d93d2a-50d7-4a29-a0ad-83b758897d6c-SS_pence_03_30_2019_1539.JPG?auto=webp&crop=2999,1671,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 669
-        isCached: true
   - title: "Mike Pence's return to Greenville fuels speculation about a 2024 run for the White House"
     excerpt: "There is speculation that Vice President Mike Pence's second visit to Greenville since late October may be a precursor to a 2024 presidential run."
     publishedDateTime: 2020-12-09T21:57:00Z

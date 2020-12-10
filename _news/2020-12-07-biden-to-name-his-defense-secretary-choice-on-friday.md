@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-name-his-defense-secretary
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-his-defense-secretary-choice-on-friday.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee035aba-07fe-4e96-ba76-3578de5ac693/750518e9-5a78-4b26-a746-28ba07fc263f/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Susan Rice tapped to lead Biden's Domestic Policy Council, Denis McDonough picked for VA secretary"
+    excerpt: "President-elect Joe Biden announced Thursday that he has selected former Obama adviser and envoy Susan Rice to lead the White House Domestic Policy Council."
+    publishedDateTime: 2020-12-10T15:47:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LszaglA27Dg/susan-rice-biden-domestic-policy-council-denis-mcdonough-va-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/susan-rice-biden-domestic-policy-council-denis-mcdonough-va-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-rice-biden-domestic-policy-council-denis-mcdonough-va-secretary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Tom Cotton says senators 'across the spectrum' have reservations about Biden's defense secretary pick"
     excerpt: "Army combat veteran Sen. Tom Cotton on Tuesday explained his “reservations” with President-elect Joe Biden’s expected choice to serve as secretary of defense in his administration."

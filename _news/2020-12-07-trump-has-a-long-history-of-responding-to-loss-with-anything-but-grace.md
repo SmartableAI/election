@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-hi
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/27/PDEM/c3395239-b93c-47ff-9c0e-1e00867e5431-Prescription_pills_with_money.jpg?auto=webp&crop=4155,2338,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The Trump administration is delivering on a 2020 vaccine, but not at the levels he suggested"
+    excerpt: "Many of the promises and projections that the Trump administration made on coronavirus vaccines have since been revised or contradicted by Trump officials or by President Trump himself."
+    publishedDateTime: 2020-12-10T16:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-10-2020/t_86660cef3e8b4d0e8383f3bbc5bc196b_name_20201209_TRUMP_VACCINE_V3.png&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Republican presidential candidates for 2024 left waiting as Trump freezes the field of hopefuls"
     excerpt: "GOP White House hopefuls are essentially left to watch what Trump does next instead of courting fundraisers, building networks and visiting early-voting states."

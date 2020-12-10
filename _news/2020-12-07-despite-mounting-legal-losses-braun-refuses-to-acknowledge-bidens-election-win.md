@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937"
 type: article
 quality: 135
-heat: 915
+heat: 935
 published: true
 
 provider:
@@ -494,6 +494,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
         width: 1022
         height: 545
+        isCached: true
+  - title: "Biden said he’ll work to advance transgender rights. Here are 4 things to know."
+    excerpt: "Transgender Day of Remembrance, President-elect Joe Biden said that “ transgender rights are human rights” and committed to advancing transgender rights as part of his administration’s platform. According to the UCLA Williams Institute,"
+    publishedDateTime: 2020-12-10T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/biden-said-hell-work-advance-transgender-rights-here-are-4-things-know/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/biden-said-hell-work-advance-transgender-rights-here-are-4-things-know/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/biden-said-hell-work-advance-transgender-rights-here-are-4-things-know/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5ZLNZJXJ5YI6TIZJON4PX6Q3MM.jpg&w=1440"
+        width: 1440
+        height: 897
         isCached: true
   - title: "Joe Biden’s drive for diversity in top political jobs is only an illusion of change"
     excerpt: "He may have selected a cabinet that looks like America, but the president-elect’s picks are just business as usual, says Guardian columnist Nesrine Malik"

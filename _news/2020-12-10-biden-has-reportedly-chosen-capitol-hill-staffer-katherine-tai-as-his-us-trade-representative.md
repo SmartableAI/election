@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp"
 type: article
 quality: 114
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to tap Katherine Tai for U.S. trade representative and Denis McDonough to head veterans affairs"
+    excerpt: "Tai would be the first Asian American woman to be USTR. McDonough was President Obama's White House chief of staff."
+    publishedDateTime: 2020-12-10T15:52:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 110
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/10/5dfa7453-737b-4d9a-9b23-b0401be1d262/thumbnail/1200x630/ad20fd9161a0dce85803688f7f56049e/screen-shot-2020-12-10-at-10-47-18-am.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – as it happened"
     excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
     publishedDateTime: 2020-12-10T01:11:00Z

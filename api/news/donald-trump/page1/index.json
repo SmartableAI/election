@@ -2,6 +2,167 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-11-trump-says-morocco-will-establish-full-diplomatic-relations-with-israel.md",
+      "title": "Trump Says Morocco Will Establish ‘Full Diplomatic Relations’ With Israel",
+      "excerpt": "President Trump said Morocco has agreed to establish full diplomatic relations with Israel, calling it a “massive breakthrough for peace” in the Middle East.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872",
+      "originalUrl": "https://www.wsj.com/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-271352/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872",
+      "publishedDateTime": "2020-12-10T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-trump-us-to-recognize-moroccos-sovereignty-over-disputed-western-sahara-region-in-return-for-israel-normalization.md",
+      "title": "Trump: US to recognize Morocco's sovereignty over disputed Western Sahara region in return for Israel normalization",
+      "excerpt": "US to recognize Morocco's sovereignty over disputed Western Sahara region in return for Israel normalization.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-us-recognize-moroccos-sovereignty-disputed-western-sahara-74650444",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-us-recognize-moroccos-sovereignty-disputed-western-sahara-74650444",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-us-recognize-moroccos-sovereignty-disputed-western-sahara-74650444",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-us-recognize-moroccos-sovereignty-disputed-western-sahara-74650444",
+      "publishedDateTime": "2020-12-10T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-trumps-chief-virus-aid-negotiator-sees-a-lot-of-progress.md",
+      "title": "Trump's chief virus aid negotiator sees 'a lot of progress'",
+      "excerpt": "President Donald Trump's top negotiator on COVID-19 relief said Thursday there was headway on a $900 billion-plus plan and he cited similarities between the latest administration offer and an emerging measure from a bipartisan group of senators.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/lawmakers-act-avert-shutdown-buying-time-covid-talks-74642517",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/lawmakers-act-avert-shutdown-buying-time-covid-talks-74642517",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_b22fe85b38154abb8fc051e184643e06_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/lawmakers-act-avert-shutdown-buying-time-covid-talks-74642517",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawmakers-act-avert-shutdown-buying-time-covid-talks-74642517",
+      "publishedDateTime": "2020-12-10T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-donald-trumps-2024-campaign-theme-we-wuz-robbed-and-we-wont-be-robbed-again-aides-say.md",
       "title": "Donald Trump's 2024 Campaign Theme: 'We Wuz Robbed and We Won't Be Robbed Again,' Aides Say",
       "excerpt": "The president's rage at the media and Democrats, and criticism that he is \"delegitimizing\" Biden's win, have hardened his resolve to get revenge four years from now.",
@@ -1195,7 +1356,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1441,174 +1602,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-full-gabriel-sterling-interview-trump-has-a-higher-responsibility.md",
-      "title": "Full Gabriel Sterling Interview: Trump has a 'higher' responsibility",
-      "excerpt": "Gabriel Sterling, Voting System Implementation Manager for the State of Georgia, talks to Meet the Press about why he spoke out against President Trump's push to reverse the vote in Georgia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/full-gabriel-sterling-interview-trump-has-a-higher-responsibility-97212485745",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/full-gabriel-sterling-interview-trump-has-a-higher-responsibility-97212485745",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/1607265264056_mtp_full_sterling_201206_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo97212485745",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97212485745",
-      "publishedDateTime": "2020-12-06T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report.md",
-      "title": "Trump backers in Sacramento say counter-protesters damaged their vehicles: report",
-      "excerpt": "Some supporters of President Trump who gathered for a rally outside the  Statehouse on Saturday say they found their vehicles damaged when they tried to leave the event, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report",
-      "originalUrl": "https://www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/AP20113664367822.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-backers-in-sacramento-say-counter-protesters-damaged-their-vehicles-report.amp",
-      "publishedDateTime": "2020-12-06T01:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-kellyanne-conway-breaks-from-trump-and-says-joe-biden-and-kamala-harris-will-prevail.md",
-      "title": "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'",
-      "excerpt": "Former White House advisor Kellyanne Conway's comments in an interview with The 19th go directly against Trump's claims undermining the 2020 election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
-      "originalUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1687,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fcb8c9db6a3a800199b6db2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp",
-      "publishedDateTime": "2020-12-05T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Joe Biden",
-        "Donald Trump"
       ]
     }
   ],

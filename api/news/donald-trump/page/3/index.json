@@ -2,6 +2,162 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-02-donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years.md",
+      "title": "Donald Trump suggests 2024 presidential bid: 'I'll see you in four years'",
+      "excerpt": "President makes comments to Republicans at a White House reception, where video shows dozens of people crammed together without masks",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/54100791a8b7b74981f48fa11e0f564cee5eaa9a/0_279_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=12fbd88d874e58a3ea82feb28d17ca57",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years",
+      "publishedDateTime": "2020-12-01T22:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-trump-lawyer-joe-digenova-says-election-security-chief-fired-by-the-president-should-be-taken-out-at-dawn-and-shot.md",
+      "title": "Trump lawyer Joe diGenova says election security chief fired by the president should be 'taken out at dawn and shot'",
+      "excerpt": "Chris Krebs has become a target for the Trump campaign after saying that the November 3 election was \"the most secure in American history.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc62c86037cbd00186130a8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyer-joe-digenova-chris-krebs-shot-drawn-and-quartered-2020-12?amp",
+      "publishedDateTime": "2020-12-01T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-trumps-arguments-on-undocumented-immigrants.md",
+      "title": "Trump's arguments on undocumented immigrants?...",
+      "excerpt": "Watch \"What are Trump's legal arguments on removing undocumented immigrants from the census\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20201201043811-what-are-trumps-legal-arguments-on-removing-undocumented-immigrants-from-the-census/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20201201043811-what-are-trumps-legal-arguments-on-removing-undocumented-immigrants-from-the-census/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2020/12/01/story_07914228_1606797964.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T20:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-scott-atlas-resigns-as-special-adviser-to-trump-on-coronavirus.md",
       "title": "Scott Atlas resigns as special adviser to Trump on coronavirus",
       "excerpt": "Dr. Scott Atlas has resigned as special adviser to President Donald Trump, a White House official said on Monday, after a controversial four months during which he clashed repeatedly with other members of the coronavirus task force.",
@@ -1398,167 +1554,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-carl-bernstein-says-21-gop-senators-contemptuous-of-trump.md",
-      "title": "Carl Bernstein says 21 GOP senators contemptuous of Trump",
-      "excerpt": "Veteran Watergate sleuth Carl Bernstein took to Twitter to specifically “out” 21 Republican senators who he says have privately expressed contempt for President Donald Trump",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-23T18:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-trump-is-reportedly-worried-that-his-legal-team-is-made-up-of-fools-that-are-making-him-look-bad.md",
-      "title": "Trump is reportedly worried that his legal team is made up of 'fools that are making him look bad'",
-      "excerpt": "The president did not like seeing Rudy Giuliani's hair dye dripping down the side of the attorney's face at a news conference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11",
-      "originalUrl": "https://www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fbc2bcd32f2170011f70c55?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11?amp",
-      "publishedDateTime": "2020-11-23T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-befriended-by-trump-populists-in-europes-east-brace-for-change.md",
-      "title": "Befriended by Trump, Populists in Europe’s East Brace for Change",
-      "excerpt": "Populist and authoritarian politicians in Central Europe, who viewed President Trump as a valuable ally, are bracing for the incoming Biden administration’s new stress on promoting democracy and the rule of law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
-      "originalUrl": "https://www.wsj.com/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-263590/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
-      "publishedDateTime": "2020-11-23T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

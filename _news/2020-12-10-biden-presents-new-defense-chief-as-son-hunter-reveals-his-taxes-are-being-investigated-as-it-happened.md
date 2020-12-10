@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden to tap Katherine Tai for U.S. trade representative and Denis McDonough to head veterans affairs"
+    excerpt: "Tai would be the first Asian American woman to be USTR. McDonough was President Obama's White House chief of staff."
+    publishedDateTime: 2020-12-10T15:52:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 110
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/10/5dfa7453-737b-4d9a-9b23-b0401be1d262/thumbnail/1200x630/ad20fd9161a0dce85803688f7f56049e/screen-shot-2020-12-10-at-10-47-18-am.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Bl7ygkhoTtja/ZCReXb2st6lG4g9ejSR9gMhBwUeVd5DR8FK8+gKL859gHAOoLd9/md5WzmyAI7x2rq2hUCcNPNm7Nb/0Y/ZF83dnwwYCKt6awwEDxeL2O7yJmOt2caUh+jLCvqxjHcbqB1FioPFsQhol2M0QGs7hWhaLdce15p5GoD+XiSrW/rc2F3JbynueQlbBQUUPO9yoQyMjNpNeTdm/ZOUmPQ6QFiwpoxEqpYIuXHPI0OGuqN4C04ceckWNYEHO0PMFfMgFC6qf3qckeq649FkNMmXKHtqULc5mZMsGMoLvZnqeVnnn9Hh02wf/7QzlYfH6fyXIxy3OiUrnWnYKAPy5DT8oaTCTTH+kUQyb0hR+zBcMo9Ffm/M2ezkBQEW+uLgy9F8c72gv/YfZMhgu+iHBKcucaIFHBbehP+emzw6uC+MQgovRU2XQkVzpvo+fx4IeftVHE9IRPqV3B+p/5DGbTdi6JXfxrNTMbwFlcRFZ/jKC5lKa3N+Zui8o09tJzQt/5DPozOeY8uDXw==;vqWEInAYU8xF1a6W0K2Cfg=="
 ---

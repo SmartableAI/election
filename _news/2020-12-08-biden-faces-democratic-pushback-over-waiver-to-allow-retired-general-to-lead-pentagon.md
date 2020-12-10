@@ -95,6 +95,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden taps Susan Rice for domestic policy adviser, Denis McDonough for VA secretary"
+    excerpt: "WASHINGTON — President-elect Joe Biden has tapped two veterans of the Obama White House to serve in his administration, naming Susan Rice as his domestic policy adviser and Denis McDonough to serve as secretary of the Department of Veterans Affairs."
+    publishedDateTime: 2020-12-10T16:24:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-taps-susan-rice-domestic-policy-adviser-denis-mcdonough-va-n1250712"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250712"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250712"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/n_hallie_brk_rice_biden_201210_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "3VcpfrCD3ZU6hruCQr2rUtFdiKBMuSgYddSBL6EOj7CEW2QueJnwUGSGkZcFrxkhx8TcAW8NwAxw48d3BHqSGIQXJobM+9+QiZUuAcc/NwfMQlUCbr0vE7tNsbySzdoIc48jlJ+yaZa7tcqmyNLyfpspjC7CapM7HZGrzFmA4zAdYJK0xIx3UtEOrq1gr7ymS52qyBiEA6zRoKFZBW2AmjzpyJ5hdU3EPojks2RVnA/RYJeN5payE8+GGN2fpU9yKjnbAh9GSGyNPp/rdPVetDEMle6Ajx6JU7zs60uQa8Jh9/dq/f1M860n1Xjx8uNoq0WfPER8mMiry0TJwJpYLOTQGI2WCcqNLyV4+8hUsS8=;aQmKHu692dXdTGZkFWUbNQ=="
 ---
