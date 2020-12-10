@@ -256,6 +256,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden told civil rights leaders in private meeting that progressives' hopes for executive actions are 'way beyond the bounds' of his presidential authority"
+    excerpt: "President-elect Joe Biden expressed skepticism about his powers to implement his agenda by executive action Tuesday in a private virtual meeting with civil rights leaders, according to a recording reported Thursday by The Intercept.\n    \n"
+    publishedDateTime: 2020-12-10T20:17:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lT9noMhZaDE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/joe-biden-audio-civil-rights-leaders/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/joe-biden-audio-civil-rights-leaders/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 133
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209092240-01-joe-biden-health-team-1208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Hunter Biden, president-elect's son, says Delaware AG is probing his taxes"
     excerpt: "The probe comes weeks after an election in which President Donald Trump and his allies made unfounded and baseless claims of corruption regarding Hunter Biden and his father."
     publishedDateTime: 2020-12-09T21:55:00Z

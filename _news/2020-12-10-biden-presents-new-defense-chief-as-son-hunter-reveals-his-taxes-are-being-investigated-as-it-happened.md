@@ -25,37 +25,21 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden has reportedly chosen Capitol Hill staffer Katherine Tai as his US trade representative"
-    excerpt: "If she is picked, the House Ways and Means chief trade lawyer would be the first woman of color to hold the position."
-    publishedDateTime: 2020-12-10T12:22:00Z
-    webUrl: "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp"
+  - title: "GOP Sen. Cotton: Biden Will Fire Prosecutors Investigating Son 'If' He Becomes President"
+    excerpt: "\"Should Joe Biden become president, all of the prosecutors investigating Hunter Biden will be fired. There's a clear conflict of interest here– one that demands a special counsel,\" the Arkansas senator tweeted Thursday."
+    publishedDateTime: 2020-12-10T20:35:00Z
+    webUrl: "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940"
+    ampWebUrl: "https://www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-sen-cotton-biden-will-fire-prosecutors-investigating-son-if-he-becomes-president-1553940?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
     images:
-      - url: "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden to tap Katherine Tai for U.S. trade representative and Denis McDonough to head veterans affairs"
-    excerpt: "Tai would be the first Asian American woman to be USTR. McDonough was President Obama's White House chief of staff."
-    publishedDateTime: 2020-12-10T15:52:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-katherine-tai-trade-representative-denis-mcdonough-department-veteran-affairs/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 110
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/10/5dfa7453-737b-4d9a-9b23-b0401be1d262/thumbnail/1200x630/ad20fd9161a0dce85803688f7f56049e/screen-shot-2020-12-10-at-10-47-18-am.png"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1683898/mnuchin-powell-testify-cares-act.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "Bl7ygkhoTtja/ZCReXb2st6lG4g9ejSR9gMhBwUeVd5DR8FK8+gKL859gHAOoLd9/md5WzmyAI7x2rq2hUCcNPNm7Nb/0Y/ZF83dnwwYCKt6awwEDxeL2O7yJmOt2caUh+jLCvqxjHcbqB1FioPFsQhol2M0QGs7hWhaLdce15p5GoD+XiSrW/rc2F3JbynueQlbBQUUPO9yoQyMjNpNeTdm/ZOUmPQ6QFiwpoxEqpYIuXHPI0OGuqN4C04ceckWNYEHO0PMFfMgFC6qf3qckeq649FkNMmXKHtqULc5mZMsGMoLvZnqeVnnn9Hh02wf/7QzlYfH6fyXIxy3OiUrnWnYKAPy5DT8oaTCTTH+kUQyb0hR+zBcMo9Ffm/M2ezkBQEW+uLgy9F8c72gv/YfZMhgu+iHBKcucaIFHBbehP+emzw6uC+MQgovRU2XQkVzpvo+fx4IeftVHE9IRPqV3B+p/5DGbTdi6JXfxrNTMbwFlcRFZ/jKC5lKa3N+Zui8o09tJzQt/5DPozOeY8uDXw==;vqWEInAYU8xF1a6W0K2Cfg=="

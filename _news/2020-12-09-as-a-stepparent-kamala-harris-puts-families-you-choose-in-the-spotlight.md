@@ -109,6 +109,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Q&A with Mary J. Blige on her new pinot grigio and Kamala Harris"
+    excerpt: "For Mary J. Blige, wine has been a ray of sunshine during the pandemic. In fact, she recently launched own wine company, Sun Goddess."
+    publishedDateTime: 2020-12-10T20:10:00Z
+    webUrl: "https://www.houstonchronicle.com/food-culture/article/Mary-J-Blige-on-her-new-pinot-grigio-Kamala-15791526.php"
+    ampWebUrl: "https://www.houstonchronicle.com/food-culture/amp/Mary-J-Blige-on-her-new-pinot-grigio-Kamala-15791526.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/food-culture/amp/Mary-J-Blige-on-her-new-pinot-grigio-Kamala-15791526.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/54/71/20368962/7/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Kamala Harris makes history as first woman and person of color to be vice president"
     excerpt: "Kamala Harris, the groundbreaking senator from California, has made history again -- set to become the first female vice president and woman of color in the White House. Harris, 56, the daughter of immigrants,"
     publishedDateTime: 2020-11-07T16:47:00Z
@@ -198,6 +214,20 @@ related:
       - url: "https://foreignpolicy.com/wp-content/uploads/2020/12/Harris-National-Security-Team-Biden-Transition.jpg?w=1000"
         width: 1000
         height: 723
+        isCached: true
+  - title: "Kamala Harris' Husband, Doug Emhoff, To Teach Law At Georgetown"
+    excerpt: "Emhoff, who resigned from DLA Piper, where he was a partner, will serve as a distinguished visitor from practice and teach a course in the spring semester on entertainment law disputes."
+    publishedDateTime: 2020-12-10T18:41:00Z
+    webUrl: "https://www.npr.org/sections/biden-transition-updates/2020/12/10/945039524/kamala-harris-husband-doug-emhoff-to-teach-law-at-georgetown"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/10/gettyimages-1288294765_wide-685c440e80788e0484c30cccd5f446059a3b42ca.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Angela Merkel, Christine Lagarde And Kamala Harris Top Forbes’ 100 Most Powerful Women List"
     excerpt: "Forbes today announced its 17th annual ranking of The World’s Most Powerful Women which recognizes the trailblazers who are deftly steering countries, constituents and communities through one of the most tumultuous times in modern history."

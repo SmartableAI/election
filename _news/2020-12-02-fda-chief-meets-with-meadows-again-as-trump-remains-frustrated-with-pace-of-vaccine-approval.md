@@ -831,6 +831,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Covid-recovering Trump promised top drugs for all, he's mainly just helped his friends"
+    excerpt: "When President Donald Trump emerged from a three-night hospital stay following his coronavirus infection, he made a vow in a videotaped on the White House South Lawn.\n    \n"
+    publishedDateTime: 2020-12-10T20:09:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W0GdeZDYGfU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/trump-allies-treatment-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/trump-allies-treatment-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160904135029-rudy-giuliani-donald-trump-aug-9-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House lawmakers say they will cut holiday short to override possible Trump veto of defense bill"
     excerpt: "Multiple House lawmakers, including the top Democrat and Republican on the House Armed Services Committee, have said they will cut their holiday short if necessary to override a veto by President Donald Trump of the National Defense Authorization Act.\n    \n"
     publishedDateTime: 2020-12-07T22:15:39Z

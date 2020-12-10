@@ -122,6 +122,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "In Break With Trump, McConnell Urges Passage of Defense Bill"
+    excerpt: "In a rare break with President Donald Trump, Senate Majority Leader Mitch McConnell is urging passage of a wide-ranging defense policy bill that Trump has threatened to veto."
+    publishedDateTime: 2020-12-10T17:36:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2020-12-10/in-break-with-trump-mcconnell-urges-passage-of-defense-bill"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-10/in-break-with-trump-mcconnell-urges-passage-of-defense-bill?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-10/in-break-with-trump-mcconnell-urges-passage-of-defense-bill?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "uFs3/oROeh/8xWhaAV0vE74Aqe/I3Rn65UdXX4eIfGz+8GB3e9Ad60UcE4m8duJeB+FjxxHg043IVdOvNinUYrX1k+1rBKgQxPCOTCkSyLIi6rkZQ4EnTqIQhlQMIaHoyDfthTwZsw4FPk+B2egN9pjTrDrqpi12iRZtlDpejihXu6ecxoGqevXnJ/PE3NtbKhV7fk4xVE364tGC4fNOp8bWdRcO1LFPqNotxDSEt0fUd0F+EJerg6VZJnp350is/VOUglS+ed3By4Mptxute+ZzyppctXIsR9C7tNOFw5r+Tzthcqo5VX4TJAafOSw7qdSIoQE6NYwDomFpvVWhM8deZDt7DBg5uSKIntYAx1SN3spuMrTXxNlzKW/yqArnqC0q8Zned1//yaXeL+WfGU+AyPaRO48nnlE/U1xStfaCnyPlkJ+Q2ISmB9UkyMM3G2O5mQKgUlusB0bWIYLOzggLU7cEh1NM+XhoBi404Fj04Zx6ek0XM5f3utqmAd4FhF6mZwCbUKAW5UeaaW6zHQ==;AI/WSDNr2oXDR0VyXi+Hdw=="
 ---

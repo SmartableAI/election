@@ -413,6 +413,22 @@ related:
         width: 859
         height: 545
         isCached: true
+  - title: "Hunter Biden inquiry now weighs on president-elect's looming attorney general nomination"
+    excerpt: "The investigation into Hunter Biden's taxes represents first test of Joe Biden's pledge to guard the Justice Department from White House influence."
+    publishedDateTime: 2020-12-10T19:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/10/hunter-biden-tax-investigation-weighs-joe-biden-attorney-general-pick/3878150001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3878150001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3878150001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/10/03/USAT/2ae97134-1746-46ac-9866-3308dae0288b-008_EPA_-FILE-_USA_UKRAINE_WHISTLEBLOWER_COMPLAINT_TRUMP_BIDEN.2.JPG?auto=webp&crop=3499,1968,x1,y14&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Joe Biden's housing policy threatens real-estate investing"
     excerpt: "President-elect Joe Biden has plans to prioritize affordable housing and ditch the 1031 transfer, a tax strategy popular among real-estate investors."
     publishedDateTime: 2020-12-01T13:41:00Z

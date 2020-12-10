@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "House Panel Accuses Trump Administration of Concealing Evidence in CDC Coronavirus Probe"
+    excerpt: "A senior CDC official told House oversight subcommittee staff that she was instructed to delete an Aug. 8 email that showed a political appointee tried to meddle in a key report, according to a letter from Rep."
+    publishedDateTime: 2020-12-10T20:30:00Z
+    webUrl: "https://www.wsj.com/articles/house-panel-accuses-trump-administration-of-concealing-evidence-in-cdc-coronavirus-probe-11607614200"
+    ampWebUrl: "https://www.wsj.com/amp/articles/house-panel-accuses-trump-administration-of-concealing-evidence-in-cdc-coronavirus-probe-11607614200"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/house-panel-accuses-trump-administration-of-concealing-evidence-in-cdc-coronavirus-probe-11607614200"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 126
+    images:
+      - url: "https://images.wsj.net/im-271252/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "X4vHgzsk+yya9Gc+VpbL+mCfDlmmaNEUjGZ26+tX6CcVsaZbalfE+m6ULzTlc+ygOCUE9rWbCUKjPdjVlHlXyX7Z3B0i+Cle0yqG1MrmJpH4+p8V2JCP73wQx1yubL0VjNQHl7zLWuuxUofifMSrR92oAiJtYuhMdZxcbtKaFyvzhFZYiryajVXuXINuq0tvBbODfeO6KRdXpGOt59ClaszV/ygIa1kJLBTwz56fwDaBU0ThclZGkEvvGM1Fte8+pf/4oHYlh+iP9H8WLLR+/PPCt18Ds1RhD3RJmF82WP9M3ZjF0js9Z6qS3p9Eu6M0uu85ULX7ilRs+z0URrGqT2zXz7vc+MM3gf9cg0QhjaY=;2ZjW9q9gEby926xynuSMPA=="
 ---

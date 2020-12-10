@@ -830,6 +830,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Covid-recovering Trump promised top drugs for all, he's mainly just helped his friends"
+    excerpt: "When President Donald Trump emerged from a three-night hospital stay following his coronavirus infection, he made a vow in a videotaped on the White House South Lawn.\n    \n"
+    publishedDateTime: 2020-12-10T20:09:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W0GdeZDYGfU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/trump-allies-treatment-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/trump-allies-treatment-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160904135029-rudy-giuliani-donald-trump-aug-9-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "FDA chief meets with Meadows again as Trump remains frustrated with pace of vaccine approval"
     excerpt: "Embattled Food and Drug Administration Commissioner Stephen Hahn met with White House chief of staff Mark Meadows for second day in a row on Wednesday as President Donald Trump remains frustrated no Covid-19 vaccine has been granted US emergency approval yet.\n    \n"
     publishedDateTime: 2020-12-02T18:28:56Z
