@@ -367,6 +367,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Hunter Biden confirms he is under federal investigation"
+    excerpt: "The president-elect’s son said in a statement that the U.S. attorney’s office in Delaware was investigating his tax affairs."
+    publishedDateTime: 2020-12-10T04:58:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/hunter-biden-under-federal-investigation/2020/12/09/3b7361be-3a64-11eb-9276-ae0ca72729be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/hunter-biden-under-federal-investigation/2020/12/09/3b7361be-3a64-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/hunter-biden-under-federal-investigation/2020/12/09/3b7361be-3a64-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6RZ5Y6R2NEI6XETWVYGKOJZJXY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Hunter Biden says U.S. prosecutor investigating his taxes"
     excerpt: "President-elect Joe Biden's son Hunter Biden said on Wednesday the U.S. Attorney's Office in Delaware is investigating his tax affairs."
     publishedDateTime: 2020-12-10T00:10:00Z

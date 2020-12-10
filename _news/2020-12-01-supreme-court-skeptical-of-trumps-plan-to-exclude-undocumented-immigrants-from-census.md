@@ -1376,6 +1376,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Relax, A Trump Comeback In 2024 Is Not Going To Happen"
+    excerpt: "Donald Trump lost the presidency, but his opponents so far have not achieved the victory they want most: A fatal puncturing of the Trump movement, a repudiation so complete that it severs his astonishing grip on supporters and leaves him with no choice but to slink offstage and into the blurry past."
+    publishedDateTime: 2020-12-10T09:36:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/12/10/trump-comeback-2024-not-happening-444135"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/12/10/trump-comeback-2024-not-happening-444135"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/10/trump-comeback-2024-not-happening-444135"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/24/b2/bc524fcb467a962d82ee6c716324/gettyimages-1290144647-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "U.S. Takes Tougher Tone With Turkey as Trump Exits"
     excerpt: "Officials said President-elect Joseph R. Biden Jr. must keep from alienating the government in Ankara even as the U.S. and European allies try to curb Turkey’s military ambitions with sanctions."
     publishedDateTime: 2020-12-09T16:33:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – live"
 excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
-publishedDateTime: 2020-12-10T00:03:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd13ce78f0892e7c1ad2b37"
-webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd13ce78f0892e7c1ad2b37"
+publishedDateTime: 2020-12-09T23:25:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd144108f08afb1724b7464"
+webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd144108f08afb1724b7464"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
 type: article
@@ -142,6 +142,6 @@ related:
       domain: businessinsider.com
     quality: 105
 
-secured: "47OIgq+Lp2fFxnNFWkkzWNSBvvz+6Kwehn5Cl5ActEi/5sHNj3EdRON2HvmOTM2EKPVKtc/+jdwSN1a5iQ5PoQj8UhbHx7dy2cjGbzU0ihtnw4R6A9ROlX/5P1nIN1oHvW160g27QyKIKP1E+F+i9guohAKXVdOWWodfp9MKj3d70y7N8E8Bbf34/tgQRyUHME5v0iRgFTuoeUfEVTOraKKky+QFZH+ZjdL6P/ejImckDibF91v73hjlCMhZ2Ay7YdEftCrdtw1KnFcEan5df9n/B2poHn59m0JT5exWCIwAEbxTiakAi4QdAXJGn0TRGrOwUVA3Be2XzAcXF4rBedRkXBYE8LnyP/dO8+Tftbz2lWoPytfJXvA1/iXXwvolvFML6Ao4hV5qu+0kDCNMGkO3E2MhDuYw0aqPVAtMeWe7MQKO/8Zj1Su40DuKYhNmvKxCtqGvKDQJavBX2qNYyf6nemhyCLAsaP1HLOsn9Ue2DfyOo5T26j81wD7Bewz5T8vBmb0Ua3wKgImj8kgJZw==;ue8afY31ZYFlW6VaLVXI4A=="
+secured: "QGorRo6AUopUWnSYHq4VM2ByLFudcVpyhq942bHsn15kbdhoWSJH8C2YLXSYTLPpIr+eEVwaOLWad9DVUINASnv3Z4IIjYsQ1t7cCsXMRwmWJ/yqCjFPhfJua4N+bSAFkxHkOFZj27zEHFS6eb9i2u2hCKIGEuNdIjBNc/qMO3kQ5CQIVvXHtOJsyNpbCZ5pVfAK2OYLYGxjEk2oaTKpAJJ+fnhwc0XMwQRm2k6m7lAYjtXdmMSOU2ssXs4kibFJsYIxE2LL9JW8/Jea9kd/NfP0y3No0qCkvK0X38P0TM1m8cBbTJxx6eMeOyuuE1lpdEwH0hXs+S5v7bNwoJziY0BV9MDSWqq7/UFLcPNU1FreNZMkr4ePc0D7C2VsL67JcVw6GDQsLg2CjiFrQpnot1QZAweKslg7zv/8a0AFscXHBm4cqjt2uq98uza8u97UEuDtFJU38UWR35wwspLswLXB395MrA50Ci/DVpQTUgVbVDPK7D1LuHe8Bm7QGIqsAy+vIKMAR1TkKi/+mlCOgw==;5v2kJ4QD245kRNN+pEEwCg=="
 ---
 

@@ -377,6 +377,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Trump looks past Supreme Court loss to new election lawsuit"
+    excerpt: "President Donald Trump says his campaign will join an improbable case before the Supreme Court challenging election results in Pennsylvania and other states that he lost"
+    publishedDateTime: 2020-12-10T10:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-past-supreme-court-loss-election-lawsuit-74624527"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-past-supreme-court-loss-election-lawsuit-74624527"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-past-supreme-court-loss-election-lawsuit-74624527"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_03b66442def44970a3cbd37ffc2e4338_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump tries to revive stalled election-eve drug discounts"
     excerpt: "The Trump administration is trying to revive the president’s stalled election-eve plan to send millions of Medicare recipients a $200 prescription discount card"
     publishedDateTime: 2020-12-09T16:32:00Z
@@ -1830,6 +1846,17 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Wisconsin Courts to Consider Trump's Election Lawsuits"
+    excerpt: "President Donald Trump’s extraordinary effort to overturn Joe Biden’s win in Wisconsin is returning to the courtroom."
+    publishedDateTime: 2020-12-10T05:01:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/wisconsin-courts-to-consider-trumps-election-lawsuits"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/wisconsin-courts-to-consider-trumps-election-lawsuits?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/wisconsin-courts-to-consider-trumps-election-lawsuits?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Trump Challenges Vote Results While Urging Turnout in Ga."
     excerpt: "President Donald Trump is pressing his grievances over losing the presidential election, using a weekend rally to spread baseless allegations of misconduct in last month’s voting in Georgia and beyond even as he pushed supporters to turn out for a pair of Republican Senate candidates in a runoff election in January."
     publishedDateTime: 2020-12-06T05:20:00Z
