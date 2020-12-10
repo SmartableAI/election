@@ -1,22 +1,22 @@
 ---
 category: news
-title: "AP sources: Biden picks Fudge for housing, Vilsack for USDA"
-excerpt: "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration"
-publishedDateTime: 2020-12-09T12:52:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+title: "Hunter Biden tax inquiry examining Chinese business dealings"
+excerpt: "The investigation began in 2018 but it is unclear which entities might be tied up in the inquiry, which was only disclosed to Hunter Biden on Tuesday."
+publishedDateTime: 2020-12-10T05:45:00Z
+originalUrl: "https://www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs"
+webUrl: "https://www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs"
+ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs?_amp=true"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_a247689e42154871b07009bde790748f_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/b6e425d/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2F6c%2F76b5e1da72da92eb06284a2a8fa7%2Fla-joe-biden-hunter-biden-20141016"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "AP sources: Biden picks Fudge for housing, Vilsack for USDA"
+    excerpt: "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration"
+    publishedDateTime: 2020-12-09T12:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a247689e42154871b07009bde790748f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden picks Fudge for housing head, Vilsack for USDA"
     excerpt: "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration."
     publishedDateTime: 2020-12-09T14:58:00Z
@@ -60,22 +76,6 @@ related:
     quality: 125
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/617461d/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2F8b%2Feaeb399388efa447df0174e9947d%2Fc8491d06726742889c7dc900e4ce52f5"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Hunter Biden tax inquiry examining Chinese business dealings"
-    excerpt: "The investigation began in 2018 but it is unclear which entities might be tied up in the inquiry, which was only disclosed to Hunter Biden on Tuesday."
-    publishedDateTime: 2020-12-10T05:45:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/b6e425d/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2F6c%2F76b5e1da72da92eb06284a2a8fa7%2Fla-joe-biden-hunter-biden-20141016"
         width: 320
         height: 209
         isCached: true
@@ -143,6 +143,6 @@ related:
       domain: theguardian.com
     quality: 93
 
-secured: "DuHWSRB4AQ7yTIHZA4FB20lolsVhXKVfwrSCsHUy/sxFmmtKfxPmBoIaxrDEgpuQFm/yCT/TkP9uXdNaHrT7I5eJuhTAbP4CHNafzfz3hnFRs1ll8DU2eY3I/aXkzYbzGRm5xuftJ8fcH5uS6AxGokUWKcJ9W1pHoOxEePS6sSwih9mFpAtmj+VXSODxF237EuhBaNn4d8bFm1IJt1cZq6VssrSuqxjRgXApA6jj6/c2ftDtd5yrWOyXLssAVC5Mk0MrFtR89CJIqDe+ke3EfYYf6ji04p1jVlpTn/L3CKkmIMIjH90cJxxukxHh01IH2gEXrdzY4yg9cIK1FLcpwLtcKytLNHO58Gdp/iw2HMA=;qhZ/Pb+4KY5Kw6DrIduDSw=="
+secured: "WENWsyjzcmRJXBs6dJYK+/LtivjECB16RCFYKMdqHyIAPjFJOAW3VGM8I4CKrARmYjmunAXMuhlQeXCsJWx4ha+O6OroavfgImJLl0nxD2mPwLd59J4rqZ8v9IfHOBwqnwpjZPHJXwATkpbDRxS09KSkEtpz8nydZqazg0nGzI7aFuzSjUdIsS7ZY6YuXNGYitCo7hC1Gvp1nZDwX6Beky7978/Q13C+Rr1w/S6iSVdUWfiaucpNaisVlwzMY9bhe3JOIACNy/59p2jK5i2W76RbVVEKY51uZJ7UbVU5yD86h6/RllpRl//f5Bg+tgscap6kEF1wY/vemaKSpXGuOnva+Ezd+smhOmKIdahlefE=;Qa48DpiFsTgd3hjz1QG+ew=="
 ---
 

@@ -1,36 +1,53 @@
 ---
 category: news
-title: "Biden on nominating diverse Cabinet: 'I'm going to keep my commitment'"
-excerpt: "Joe Biden said Thursday he would keep his commitment to nominate a Cabinet that reflects America's diversity, as the President-elect faces increasing pressure to appoint Black and Latino nominees to remaining high-level Cabinet positions.\n    \n"
-publishedDateTime: 2020-12-04T02:37:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vsb3q7crI98/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vsb3q7crI98/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html"
+title: "Biden goes to bat for Defense secretary nominee Austin"
+excerpt: "President-elect Joe Biden speaks during an event to announce his choice of retired Army Gen. Lloyd Austin, right, to be secretary of defense, at The Queen theater in Wilmington, Del. | AP Photo/Susan Walsh President-elect Joe Biden addressed concerns Wednesday about nominating a recently retired four-star general to lead the Department of Defense,"
+publishedDateTime: 2020-12-09T20:16:00Z
+originalUrl: "https://www.politico.com/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
+webUrl: "https://www.politico.com/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
+ampWebUrl: "https://www.politico.com/amp/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
 type: article
-quality: 175
-heat: 255
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/a1/d6/b207abad45c7a9c51fac9e3a3fc4/200826-kellyanne-conway-2-ap-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
+  - title: "Biden on nominating diverse Cabinet: 'I'm going to keep my commitment'"
+    excerpt: "Joe Biden said Thursday he would keep his commitment to nominate a Cabinet that reflects America's diversity, as the President-elect faces increasing pressure to appoint Black and Latino nominees to remaining high-level Cabinet positions.\n    \n"
+    publishedDateTime: 2020-12-04T02:37:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vsb3q7crI98/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/biden-diverse-cabinet-commitment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's Cabinet conundrum deepens amid criticism over diversity"
     excerpt: "Joe Biden renewed his promise this week to build an administration that will \"look like the country.\" But that task is proving to be a major challenge for the President-elect as he tries to achieve the right ideological balance and avoid alienating key allies -- while some Black and Latino leaders voice"
     publishedDateTime: 2020-12-05T14:23:02Z
@@ -79,23 +96,7 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden goes to bat for Defense secretary nominee Austin"
-    excerpt: "President-elect Joe Biden speaks during an event to announce his choice of retired Army Gen. Lloyd Austin, right, to be secretary of defense, at The Queen theater in Wilmington, Del. | AP Photo/Susan Walsh President-elect Joe Biden addressed concerns Wednesday about nominating a recently retired four-star general to lead the Department of Defense,"
-    publishedDateTime: 2020-12-09T20:16:00Z
-    webUrl: "https://www.politico.com/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/09/biden-defense-nominee-lloyd-austin-443959"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/a1/d6/b207abad45c7a9c51fac9e3a3fc4/200826-kellyanne-conway-2-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "kjbdy9FdEDhBnn7oI7BEkFvL7UxsEQ1T0yqQyYU8fmq9KYoTIG7qWmRU6Or+Zm0R7EzgL/zyaj4yWTFZXIZmw47uN1mkjQzcLmTeH3DU/q50B/W0a9pEFbjVhyjSNHO5ARZ2GCiCHnIodMNsqStyCVEmpuUWK8tPAm7xJrJ6EbgCHcsJnskmMErJHQbX2RG9EyBFMv5vanI7Rfu0hWgmvpGdc6xxduoBk54nIsmeyU7X5mIZN1sxxujNbsjg+cV+SiqvBPBURwpiFcyEa+D19xPU28isa68T+HXzZCVFHY8S3OSXWjnMw/emYhuG2isS0ifjptS1simrx6JbGq62EwIoi4X9G7Fa6NJ60JWQ+Tc=;62m/TcMs+ybBjlcg4PwSeA=="
+secured: "GAezwYrzo308+h8Ga9H4nERNOUYhky+8dGCKGavunakEx9rrImso4TzmiVo7K+bBPFcraNOO7UOwS+sbP917UWWs2v/BXlOkV7RDcw/HzYTu6gW9BZbwcHf4XGBV7Aj/w20UgwAD/YO1vvIJIivq8vFpJCEC9h9ezRq5aF0qZ9lnOKrwSXdI5pbq/MgwVlnRY2uiC8t0ELryGw32UHSPiJ48DRU2Txwfaqt6Mx44HStWtoT8fvw/Na3xiFwT1eXTMRKvc2pOAjHPCB9m5Jg/LAuE8LAzfBLoB82F+DJV7XVCNGsS6RuhHM0/FreB5iLfLRBSdV3YI3ZBZV/hTcabsV2Tl74wGuLTJI85bbzoXM8=;nllKeQ09bOXmv6WGLPOG8Q=="
 ---
 

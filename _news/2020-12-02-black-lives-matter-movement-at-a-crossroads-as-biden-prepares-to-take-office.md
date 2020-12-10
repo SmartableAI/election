@@ -431,6 +431,22 @@ related:
         width: 808
         height: 545
         isCached: true
+  - title: "Biden picks leave Democrats with slimmest House majority in modern history"
+    excerpt: "President-elect Joe Biden 's decision to tap Reps. Cedric Richmond (D-La.) and Marcia Fudge (D-Ohio) for his new administration will mean Speaker Nancy Pelosi 's fragile House majority — already decimated in the November election — will temporarily shrink by a couple more seats next month."
+    publishedDateTime: 2020-12-09T20:38:00Z
+    webUrl: "https://thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history"
+    ampWebUrl: "https://thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/fudgemarcia_052219gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Texas attorney general asks Supreme Court to block Biden victory in 4 states"
     excerpt: "President Trump, his campaign and his allies have engaged in aggressive but fruitless legal challenges designed to overturn Joe Biden's victory."
     publishedDateTime: 2020-12-08T17:05:00Z

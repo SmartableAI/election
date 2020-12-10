@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden, leading Democrats on board with the new $908 billion bipartisan stimulus proposal"
-excerpt: "The proposal includes enhanced federal unemployment benefits of $300 per week and $25 billion in rental assistance."
-publishedDateTime: 2020-12-04T11:07:00Z
-originalUrl: "https://www.usatoday.com/story/money/economy/2020/12/04/biden-democrats-back-908-billion-stimulus-bill-with-no-second-check/115094770/"
-webUrl: "https://www.usatoday.com/story/money/economy/2020/12/04/biden-democrats-back-908-billion-stimulus-bill-with-no-second-check/115094770/"
-ampWebUrl: "https://amp.usatoday.com/amp/115094770"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/115094770"
+title: "Biden picks leave Democrats with slimmest House majority in modern history"
+excerpt: "President-elect Joe Biden 's decision to tap Reps. Cedric Richmond (D-La.) and Marcia Fudge (D-Ohio) for his new administration will mean Speaker Nancy Pelosi 's fragile House majority — already decimated in the November election — will temporarily shrink by a couple more seats next month."
+publishedDateTime: 2020-12-09T20:38:00Z
+originalUrl: "https://thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history"
+webUrl: "https://thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history"
+ampWebUrl: "https://thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history?amp"
 type: article
-quality: 116
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/fba88f6b-d2ac-4acf-8bcc-232bf11bcdc2-biden_pelosi.jpg?auto=webp&crop=5507,3098,x0,y300&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://thehill.com/sites/default/files/fudgemarcia_052219gn_lead.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -431,22 +431,6 @@ related:
         width: 808
         height: 545
         isCached: true
-  - title: "Biden picks leave Democrats with slimmest House majority in modern history"
-    excerpt: "President-elect Joe Biden 's decision to tap Reps. Cedric Richmond (D-La.) and Marcia Fudge (D-Ohio) for his new administration will mean Speaker Nancy Pelosi 's fragile House majority — already decimated in the November election — will temporarily shrink by a couple more seats next month."
-    publishedDateTime: 2020-12-09T20:38:00Z
-    webUrl: "https://thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history"
-    ampWebUrl: "https://thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
-    images:
-      - url: "https://thehill.com/sites/default/files/fudgemarcia_052219gn_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Black Lives Matter movement at a crossroads as Biden prepares to take office"
     excerpt: "Sloan’s hesitant support for Biden reflects a divide among racial justice activists about the movement’s strategy under the soon-to-be presidency. Some factions of the Black L"
     publishedDateTime: 2020-12-02T05:54:00Z
@@ -526,6 +510,22 @@ related:
       - url: "https://i.insider.com/5fcea2d6037cbd001861460f?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden, leading Democrats on board with the new $908 billion bipartisan stimulus proposal"
+    excerpt: "The proposal includes enhanced federal unemployment benefits of $300 per week and $25 billion in rental assistance."
+    publishedDateTime: 2020-12-04T11:07:00Z
+    webUrl: "https://www.usatoday.com/story/money/economy/2020/12/04/biden-democrats-back-908-billion-stimulus-bill-with-no-second-check/115094770/"
+    ampWebUrl: "https://amp.usatoday.com/amp/115094770"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/115094770"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/fba88f6b-d2ac-4acf-8bcc-232bf11bcdc2-biden_pelosi.jpg?auto=webp&crop=5507,3098,x0,y300&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden pledges to distribute 100m vaccine shots in first 100 days of presidency – live"
     excerpt: "President-elect vowed to implement an effective vaccine distribution plan during the first 100 days of his administration"
@@ -629,6 +629,6 @@ related:
         height: 308
         isCached: true
 
-secured: "DlojHMy9ePUiPHvf48mrlmUaoNkV18AfpMayPD7MlEb6ELNimC2bv58BA7uZPYljMfSCfq4S9SJ2vVtGPiSQ1bMn8C92SHMOOHsGpbsyyI29uGn6Khz9QakmmMzHQjTuJX2joZgT3qsYcgSGGF2XZ4hprbn/+DinVaHtH3dq+C9O9cEfo3Kj3P4coaZ6gqxJsOnoDP7d4WkutrVzC+KojYYx8NohYIUaUp7KacqwQTurziF3KcGlD8PhwaiA856nzidTxYgLMzfFy5XHwRDtotAZdR1Rd28J8VuqRdh7eBcLVYcSdUBP5X5+kzzyq8iFzq9jhaIhxm8XvHYenY+E9o7m273eBXKyQP/wnIwn2qr9nRQZP5pmDwoz1VaIXsaS+VYzSzSyyO4RdMlNg1MLilEr4azBOd5IISQkAH9Zrpz4qM2ApiiNnH8lUOGlYu7qCaacAH/vNoa612RvK58FQbzO9CcO6zQp3XZMf+nZGdB75Hq6xA/W0d2Aw/yIddeAIZVZoc0L4q4aYQZn34loEw==;tUCVDFafKl1N8ILPn2o7oQ=="
+secured: "HfFAilkaax5wtYUdM8CA/yL2L8CnOO/REaWafGZwGLtxlWguMQASomEoy3/sKI2onRGGBbDoqWzPQUp2XJQMhlloTXSYTZDjNstd79bSQG3wrtLi42wUnDGdkW9x17hHTr/zNyaOlfMENOJ5GSzoQWa6qTFPW7/hJMXsvI//dyRj/FMxhG4FEkIL1enXrnM+6GCHKhXLDpgBf0xXDtATiMvm8mg9IJFTxoXcV11ic557fkKT+It8sOgL2vFcLQWJNmhRQ9KR+zTvJt2ipB+z/Uki7/YJE1LRO4yreu7xWCiw7h5aSaPiTRkpPoRn00/kF6MTa2EZ+2O2GmHN8JzzFC3L7Qof8QcGo9Y8juyRVc8=;h7Stg/vqfulWsWhGUsCGaw=="
 ---
 

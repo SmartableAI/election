@@ -127,6 +127,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Hunter Biden’s China business deals leading up to 2018 probe detailed in Senate report"
+    excerpt: "Hunter Biden’s past dealings with Chinese nationals – including some flagged for “potential financial criminal activity” – are outlined in a Senate committee report reviewed by Fox News."
+    publishedDateTime: 2020-12-10T06:43:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KpERGRK55rg/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c6b162e-be50-4a77-a376-4c526d5ece40/312aac65-1e1b-4147-8427-2f66b8964cf2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden campaign coordinated with left-wing Facebook pages to channel Democratic 'anger': report"
     excerpt: "The Biden campaign may have largely relied on positive messaging on its official social media, but it also coordinated with \"aggressive anti-Trump\" Facebook pages that acted as a \"rapid-response brain trust for the campaign,\" The New York Times tech columnist Kevin Roose wrote Sunday."
     publishedDateTime: 2020-12-06T18:54:14Z

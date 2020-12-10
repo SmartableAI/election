@@ -77,6 +77,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Hunter Biden tax inquiry examining Chinese business dealings"
+    excerpt: "The investigation began in 2018 but it is unclear which entities might be tied up in the inquiry, which was only disclosed to Hunter Biden on Tuesday."
+    publishedDateTime: 2020-12-10T05:45:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/b6e425d/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2F6c%2F76b5e1da72da92eb06284a2a8fa7%2Fla-joe-biden-hunter-biden-20141016"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Biden picks California Atty. Gen. Becerra for Health and Human Services secretary"
     excerpt: "President-elect Joe Biden has selected California Atty. Gen. Xavier Becerra to be his Health and Human Services secretary."
     publishedDateTime: 2020-12-06T23:54:00Z

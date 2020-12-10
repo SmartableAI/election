@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-25-janet-yellen-and-kamala-harris-keep-shattering-glass-ceilings-but-global-elite-boys-club-remains.md",
+      "title": "Janet Yellen and Kamala Harris keep shattering glass ceilings – but global elite boys club remains",
+      "excerpt": "Young, University of Massachusetts Amherst and Tuugi Chuluun, Loyola University Maryland (THE CONVERSATION) Janet Yellen may soon become the first woman to lead the Treasury Department, about six years after shattering another glass ceiling at the top of the Federal Reserve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php",
+      "publishedDateTime": "2020-11-25T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-matt-schlapp-nevada-allowing-trump-team-to-present-election-fraud-case-a-great-step.md",
       "title": "Matt Schlapp: Nevada allowing Trump team to present election fraud case 'a great step'",
       "excerpt": "Nevada is ready to hear the Trump campaign's case regarding illegal balloting allegations in Clark County, American Conservative Union chairman Matt Schlapp told “Hannity” Tuesday night.",
@@ -1301,54 +1344,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-melania-trump-celebrates-arrival-of-annual-white-house-christmas-tree.md",
-      "title": "Melania Trump celebrates arrival of annual White House Christmas tree",
-      "excerpt": "First lady Melania Trump on Monday celebrated the arrival of the annual White House Christmas tree — without President Trump or their son Barron Trump, who have attended the event in past",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/",
-      "originalUrl": "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/Trump.1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/amp/",
-      "publishedDateTime": "2020-11-23T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

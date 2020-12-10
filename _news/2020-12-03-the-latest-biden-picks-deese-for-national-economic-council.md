@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/the-latest-ka
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 125
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/617461d/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2F8b%2Feaeb399388efa447df0174e9947d%2Fc8491d06726742889c7dc900e4ce52f5"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Hunter Biden tax inquiry examining Chinese business dealings"
+    excerpt: "The investigation began in 2018 but it is unclear which entities might be tied up in the inquiry, which was only disclosed to Hunter Biden on Tuesday."
+    publishedDateTime: 2020-12-10T05:45:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-09/hunter-biden-facing-federal-investigation-over-tax-affairs?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/b6e425d/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2F6c%2F76b5e1da72da92eb06284a2a8fa7%2Fla-joe-biden-hunter-biden-20141016"
         width: 320
         height: 209
         isCached: true

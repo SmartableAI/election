@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937"
 type: article
 quality: 135
-heat: 875
+heat: 895
 published: true
 
 provider:
@@ -414,6 +414,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543482313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31BL"
         width: 808
         height: 545
+        isCached: true
+  - title: "Biden picks leave Democrats with slimmest House majority in modern history"
+    excerpt: "President-elect Joe Biden 's decision to tap Reps. Cedric Richmond (D-La.) and Marcia Fudge (D-Ohio) for his new administration will mean Speaker Nancy Pelosi 's fragile House majority — already decimated in the November election — will temporarily shrink by a couple more seats next month."
+    publishedDateTime: 2020-12-09T20:38:00Z
+    webUrl: "https://thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history"
+    ampWebUrl: "https://thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/fudgemarcia_052219gn_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Black Lives Matter movement at a crossroads as Biden prepares to take office"
     excerpt: "Sloan’s hesitant support for Biden reflects a divide among racial justice activists about the movement’s strategy under the soon-to-be presidency. Some factions of the Black L"

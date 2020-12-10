@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Top Biden COVID adviser cheered George Floyd protests despite pandemic"
-excerpt: "President-elect Joe Biden’s pick to lead a task force that will address racial disparities in the coronavirus response, suggested earlier this year that advising protesters to stay home in the wake of George Floyd’s police custody death would undermine the fight against police brutality – even though"
-publishedDateTime: 2020-12-07T21:52:27Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fuDq0uVIHGM/top-biden-covid-adviser-george-floyd-protests-pandemic"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fuDq0uVIHGM/top-biden-covid-adviser-george-floyd-protests-pandemic"
-ampWebUrl: "https://www.foxnews.com/politics/top-biden-covid-adviser-george-floyd-protests-pandemic.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-biden-covid-adviser-george-floyd-protests-pandemic.amp"
+title: "Hunter Biden’s China business deals leading up to 2018 probe detailed in Senate report"
+excerpt: "Hunter Biden’s past dealings with Chinese nationals – including some flagged for “potential financial criminal activity” – are outlined in a Senate committee report reviewed by Fox News."
+publishedDateTime: 2020-12-10T06:43:24Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KpERGRK55rg/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KpERGRK55rg/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report"
+ampWebUrl: "https://www.foxnews.com/politics/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report.amp"
 type: article
-quality: 175
+quality: 167
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20337006173537.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c6b162e-be50-4a77-a376-4c526d5ece40/312aac65-1e1b-4147-8427-2f66b8964cf2/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Jeff-Zients-REUTERS.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Top Biden COVID adviser cheered George Floyd protests despite pandemic"
+    excerpt: "President-elect Joe Biden’s pick to lead a task force that will address racial disparities in the coronavirus response, suggested earlier this year that advising protesters to stay home in the wake of George Floyd’s police custody death would undermine the fight against police brutality – even though"
+    publishedDateTime: 2020-12-07T21:52:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fuDq0uVIHGM/top-biden-covid-adviser-george-floyd-protests-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/top-biden-covid-adviser-george-floyd-protests-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-biden-covid-adviser-george-floyd-protests-pandemic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20337006173537.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Azar says he's already met with Biden transition team"
     excerpt: "Health and Human Services Secretary Alex Azar said Wednesday that he’s already met with the Biden transition team, looking to ensure a smooth transition of power. "
@@ -110,22 +126,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Hunter Biden’s China business deals leading up to 2018 probe detailed in Senate report"
-    excerpt: "Hunter Biden’s past dealings with Chinese nationals – including some flagged for “potential financial criminal activity” – are outlined in a Senate committee report reviewed by Fox News."
-    publishedDateTime: 2020-12-10T06:43:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KpERGRK55rg/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-bidens-china-business-deals-leading-up-to-2018-probe-detailed-in-senate-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c6b162e-be50-4a77-a376-4c526d5ece40/312aac65-1e1b-4147-8427-2f66b8964cf2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "BLM supporters continue to protest Biden's consideration of LA Mayor Garcetti for cabinet"
     excerpt: "Black Lives Matter activists protested outside the home of Los Angeles Mayor Eric Garcetti to protest the mayor’s potential nomination to President-elect Joe Biden’s cabinet. "
@@ -192,6 +192,6 @@ related:
         height: 720
         isCached: true
 
-secured: "SSPW+XUlhbNAkSBY/MlAPKB1UcK9+pRZ7fjKLEgGRYIeMsEH/rGDYgqRqfKzU2TMCOn+QVNsre0c36HFOBfD3K4ZFbnWwlnzNoZsJ0S6TZPYyQmK5SwNehW+QDLjMXgAv3wjxr2BnzJamWMu7sF0ciIuyM18oMFII/uMtGgd2Gq7gZlDrkISKuQ5vFJWXkqGRoQ1Q3tJncNp8h8aT3cH59WjixZSU0AIYUmajUpPNCpM8ZyeOjbISV3D+GN/UJ5QZz3YhY1x8Tyu3IAdpSkg3u32dI6f0v3D4VFvyGpOAfxN7fVb4xxmTIPogQiPJERLZBb0jZHBK5on6mO9RaValQbBNSEla9q7tF730pXMR34=;Twum2Dg9VJwGyweohQmVwA=="
+secured: "RSgU0K+tizsqWwKfp1oHpG0N3ayr2kLAMt+cVDdXKQ/3zepm4wSXpqzct/IEJOhHcerzA8Qs8MEFAozKvQiozmBW0TdZeUNxqU06sT08vkXIJf7u08rKywsLm71Y4X3n2kY8l1/5lLMqGcJcHyRgjXUnEK5DKwIjYz7AFwoyrkmMxz7inozexhcrBSVeGtTqCDy6ZH6cxiKmo8b132/icZsT+1WozZwSA8glpZhupf+dYLF2QywMOQqgab3h/vA3VIqiytlSy6Yx+/V8k+8CnM6hSAqJh1vEoOfYU34CcE/7XyxG2J7GAD5sIXcNhAoeUF/RahLb+Bz/nJzHKKkwz6mCsxKT8lpfmxtWsB/1IXw=;vcV/MUuzVWGUvDKb2Y5GmQ=="
 ---
 
