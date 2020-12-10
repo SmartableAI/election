@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence announces pool of U.S. astronauts for planned moon mission"
+    excerpt: "Vice President Mike Pence on Wednesday announced 18 astronauts chosen for possible participation in planned NASA missions to return to the moon's surface during the final U.S. space policy meeting before he and President Donald Trump leave office next month."
+    publishedDateTime: 2020-12-10T04:35:00Z
+    webUrl: "https://www.reuters.com/article/us-space-exploration-usa-moon/pence-announces-pool-of-u-s-astronauts-for-planned-moon-mission-idUSKBN28J39X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J39X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J39X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1544025068&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB81TD"
+        width: 716
+        height: 545
+        isCached: true
   - title: "Watch live: Pence visits Cape Canaveral to discuss NASA's moon plans"
     excerpt: "Vice President Mike Pence will visit Cape Canaveral Wednesday, where he will meet with NASA officials and discuss the agency's plans for returning to the moon."
     publishedDateTime: 2020-12-09T15:58:00Z
@@ -63,17 +79,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Pence Announces Pool of U.S. Astronauts for Planned Moon Mission"
-    excerpt: "Vice President Mike Pence on Wednesday announced 18 astronauts chosen for possible participation in planned NASA missions to return to the moon's surface during the final U.S. space policy meeting before he and President Donald Trump leave office next month."
-    publishedDateTime: 2020-12-10T00:19:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2020-12-09/pence-announces-pool-of-us-astronauts-for-planned-moon-mission"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-12-09/pence-announces-pool-of-us-astronauts-for-planned-moon-mission?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-12-09/pence-announces-pool-of-us-astronauts-for-planned-moon-mission?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "deuiJ5av/iOAeW/kArWmJk1S/mnn4ZhSS/CiqCA6k7DJ6y6142YiIVFl0HET7DimS/boM78Qjm1/6lSZufXFGB3SPM+KMx7xmAom9KH2eeTSBKG46FbkLjdqYoX/EwFWVeayv7R2b+tMa6PBTfUQ1qAudjUQ02L/SrLVB4Y6Hki1ESn0XPo2GR384HsDNu277b740Tctq1qzE0uOzhZEGUBYN9tYH8D3vEJvKes8G/SffU1GIRvB5XCuGggMKgvcHzzuUsCrqtPVsbJv78TuZT2g5Wb9WSy04Zl5OH/RM8HEiO6iVmTLvzTJ8sDAt0FkPQTPi70iiqqBJrWDNyzl9RddO6V7onh3oxA+xu+0mPK/ZpRIjSkAnDRJ6IWzgG98SiMZRgjkSrnpErZcZY7oRlwiGnMmAfJwuxGURGlwgfdXzTWsKcOxpvRGqgklGJA3fVUcjdeOYT6whupNJp8aMoRAZiR82Q5/kiYkRXK2nUQuGdpbmyH739QwtB9qWcrjFSAg/y1A+m5xn/PfcPjuzA==;LzKdlQzcqFKOgdRnThxJBA=="
 ---

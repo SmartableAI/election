@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Senate fails attempt to block Trump administration’s $23-billion arms deal with United Arab Emirates"
+    excerpt: "The Senate fell short Wednesday in trying to halt the Trump administration’s proposed $23-billion arms sales to the United Arab Emirates, despite bipartisan objections to the package of F-35 fighter jets and drones stemming from a broader Middle East peace agreement."
+    publishedDateTime: 2020-12-10T04:21:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 110
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/17d0ac5/2147483647/strip/true/crop/4192x2738+5+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd5%2F95%2Fd75a8b98a5a0d3f2f2532520eec2%2F92d2ddb98a88412186f7bce3bd18cd80"
+        width: 320
+        height: 209
+        isCached: true
 
 secured: "jFq86jenWPcq3/bELVox4vPZpcvjV7cfjeudBAW5HPrwNASnhYJiOzmDZ72Kz6S8YaqdwvqzUs6+7XSROf6E5gzJapvOU0mAL2qGvo7TA5J+ZE0+A2prbRbtQU6IBpMwT5I4GPLHBlcn8cEmwDndtV1af4U/gvsKvf8tq/9K0k3oR3COBHFCdWlpotTG5bz+LfVjqA6MBCSNsZq5hYC74EK0O+eZG6dkGcyMh1idVznWG/e6lKWkkPvDgKWsgI3TgWaefEeuMa9PcfgJn/nGMj+zl2YTm9hHhPSQeKd9EK6JpAlGuYZEeVnHPpxFMN+3xTUZbUDx9MtrvftBqIxizFj1PAuPXAjKb5++naunfCU=;axrjP2mTKbcU97WvP5Mz3A=="
 ---

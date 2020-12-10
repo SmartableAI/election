@@ -1,22 +1,22 @@
 ---
 category: news
-title: "U.S. Senate backs massive arms sales to UAE after Trump veto threat"
-excerpt: "An effort to stop President Donald Trump's high-tech weapons deals with the United Arab Emirates fell short on Wednesday in the U.S. Senate as Trump's fellow Republicans opposed resolutions of disapproval seeking to block the sale of drones and advanced F-35 fighter jets."
-publishedDateTime: 2020-12-10T00:16:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-emirates-arms-idUSKBN28J2BZ"
-webUrl: "https://www.reuters.com/article/us-usa-emirates-arms-idUSKBN28J2BZ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2BZ"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2BZ"
+title: "Senate fails attempt to block Trump administration’s $23-billion arms deal with United Arab Emirates"
+excerpt: "The Senate fell short Wednesday in trying to halt the Trump administration’s proposed $23-billion arms sales to the United Arab Emirates, despite bipartisan objections to the package of F-35 fighter jets and drones stemming from a broader Middle East peace agreement."
+publishedDateTime: 2020-12-10T04:21:00Z
+originalUrl: "https://www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
+webUrl: "https://www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
+ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?_amp=true"
 type: article
-quality: 125
+quality: 110
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543980005&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB81AM"
-    width: 747
-    height: 545
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/17d0ac5/2147483647/strip/true/crop/4192x2738+5+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd5%2F95%2Fd75a8b98a5a0d3f2f2532520eec2%2F92d2ddb98a88412186f7bce3bd18cd80"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -94,6 +94,22 @@ related:
       - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "U.S. Senate backs massive arms sales to UAE after Trump veto threat"
+    excerpt: "An effort to stop President Donald Trump's high-tech weapons deals with the United Arab Emirates fell short on Wednesday in the U.S. Senate as Trump's fellow Republicans opposed resolutions of disapproval seeking to block the sale of drones and advanced F-35 fighter jets."
+    publishedDateTime: 2020-12-10T00:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-emirates-arms-idUSKBN28J2BZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2BZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2BZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543980005&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB81AM"
+        width: 747
+        height: 545
         isCached: true
   - title: "U.S. Congress defense bill defies Trump on Germany withdrawal, base names"
     excerpt: "U.S. lawmakers unveiled the final version of a massive annual defense policy bill on Thursday that defies President Donald Trump's plans to withdraw troops from Germany and keep the names of Confederate generals on military bases,"
@@ -175,23 +191,7 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Senate fails attempt to block Trump administration’s $23-billion arms deal with United Arab Emirates"
-    excerpt: "The Senate fell short Wednesday in trying to halt the Trump administration’s proposed $23-billion arms sales to the United Arab Emirates, despite bipartisan objections to the package of F-35 fighter jets and drones stemming from a broader Middle East peace agreement."
-    publishedDateTime: 2020-12-10T04:21:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 110
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/17d0ac5/2147483647/strip/true/crop/4192x2738+5+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd5%2F95%2Fd75a8b98a5a0d3f2f2532520eec2%2F92d2ddb98a88412186f7bce3bd18cd80"
-        width: 320
-        height: 209
-        isCached: true
 
-secured: "v1PjN5mxHjBvhdshCsTBsDKZqCDPyLl8lZzdT5l5NEUPq3DImLgETe45RE77A7i9e9/z5jdAORhefyxc6fWpKbLGKGK1D/dRK4VCsGAokqSOvx/JhEQRcoWU417QaKoLZkSGr3ZoHwoqoaao9qWWjvs8WpCknCdUkC/oDyYQUiv2Wkzs2USorpD9m/BIbgCu1ynBbngX7AL+otlx6LpUXEQYzYYbD+Jl3aYV6nqqRouf/wDlvqLOSuG7pLXX15dL4ap4btLi3lXf19/M1SYl5yC3RfyNrd0pvYlyhK1ZMOUG00ndlmqjsjBM88Rk7M/k0k9/q8kGLXwFznSqAg8XWLMr+qZftg6ViOE/jLrBVGo=;4ZfaXlj8SuWNWKFxo0Ptog=="
+secured: "hQtqIXWhv7TpGM+0OeetSMkOrMXSvs6ZCeR3w31tVQuzeRIyiLjWKDo9wuYcrZ5gXEY7BSnNjxnAsrJRt5zsH/NfRVEqwmRq3T4v7NAsjuGB0M32h2iJfHMvIKLm4qvLYWKP1YZbtO5wRRDVapGJZD/fz4ly1V2UZ7S8OGOia3mXku9+fcj4j58huR4aq2uk44N2aoJ5eJvsrX0ehtm/MLV4+0DeaaWjCrfkINM/7kFwcXQLwSEQSAjKjtHMTCZvt7iBw3t3ZhCRhuI1epcD00d7Qx1WU3GI140HG67lMwShCEabJyFhYN5iv6VwO9KT5MOdQRrvUBvArMsqhC7MRuMJPkLrA8XJDeDHZEaJr5E=;apQZwlhPBIEd69ZbJ/EruQ=="
 ---
 

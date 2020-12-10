@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Pence Announces Pool of U.S. Astronauts for Planned Moon Mission"
+title: "Pence announces pool of U.S. astronauts for planned moon mission"
 excerpt: "Vice President Mike Pence on Wednesday announced 18 astronauts chosen for possible participation in planned NASA missions to return to the moon's surface during the final U.S. space policy meeting before he and President Donald Trump leave office next month."
-publishedDateTime: 2020-12-10T00:19:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2020-12-09/pence-announces-pool-of-us-astronauts-for-planned-moon-mission"
-webUrl: "https://www.usnews.com/news/us/articles/2020-12-09/pence-announces-pool-of-us-astronauts-for-planned-moon-mission"
-ampWebUrl: "https://www.usnews.com/news/us/articles/2020-12-09/pence-announces-pool-of-us-astronauts-for-planned-moon-mission?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-12-09/pence-announces-pool-of-us-astronauts-for-planned-moon-mission?context=amp"
+publishedDateTime: 2020-12-10T04:35:00Z
+originalUrl: "https://www.reuters.com/article/us-space-exploration-usa-moon/pence-announces-pool-of-u-s-astronauts-for-planned-moon-mission-idUSKBN28J39X"
+webUrl: "https://www.reuters.com/article/us-space-exploration-usa-moon/pence-announces-pool-of-u-s-astronauts-for-planned-moon-mission-idUSKBN28J39X"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J39X"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J39X"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1544025068&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB81TD"
+    width: 716
+    height: 545
+    isCached: true
 
 related:
   - title: "Mike Pence introduces astronauts for future NASA moon mission"
@@ -74,6 +80,6 @@ related:
         height: 641
         isCached: true
 
-secured: "idqKPljclSPO0tVBnUU+2j5e7YWpewRjJf0H2W6SuDGOcKmed0SOuKlSpH8iIuWHkOYbRnM2VfCuzCSm5d8ulnsUJqJ9P8TiFKUeZCqk9Rz4q2JanEvPC4qOKkg7uQd7lv8x6k5N3OQOiAUzmkn6ez56V9rdAVp7HO672+f9w9qX/1O+TU2Kwo/4njD5ZBslPoz/DmvgC8g2MqkfEIU3vs//K4ebDy3NyiI3X1L5JNtpGFAQ3dfDB3tTNznYCGtCAbYfDqj9FCJ2drqIynrUtXKJ1cLzeWIqmsoGvZDD+9agLMAhL/H091ehC2ORupJwm+3OxMg5JncvP+rhp272PPQDPp0+zxNe/GS16YFyJ/x7jGSq36xpoHmm//0+42/3X/KZ4nrs6GyKNyU3w0/HqWsLKLQ4kvla7XMXCRIZeDmDanQl65RqLA1BVZWUNnHCYZ26Nioput1K+aY6yAGr6JOPBP3x+KXrFh4fvuUDAXKMmP8yLeJZpipDLJRTpAkgZEPMsx4iTcSRGZjDj4+/7A==;bnHeTbZ1g8wL2vRKl09C2Q=="
+secured: "mA6tN463NbbsYHRGlGihf4wnPO13+iZiU8pQ3tGcIRTiwy0VMNLz6e1dCPZ+5U0xNtxGYpGJLVjLQ7h5blfEG8Aiu3CG84kUJ+SQMG1DFY/f88qUGv+cLlF+My0Zd7lSxmCDSg9oJnhifv/93/6pLPjliLIigf6sh2PHKjUB6Q1fGizva+GCnKXqM9EMlteBf+9SabrFnynBYjpwGoXW214alZQTGp6NZCYZkLYrcZuJ7RHqpemqmFs5OTqu+jHVZiCoSj5zHvhkQhXAlG2TPQJC5oBJSvjHD5If5Go3UPHAg3S8RlldHTMVBzj6oEAH/Dge7N+OCZLknJv8fzrCf742woBZhcnd5PSWqxWUzdw=;kWfdRT8XW4JeM5pyc39pTg=="
 ---
 

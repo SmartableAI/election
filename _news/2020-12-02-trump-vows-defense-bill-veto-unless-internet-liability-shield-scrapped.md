@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C0B1"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C0B1"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/90f61df1-be20-45c5-9bd8-9690433193d5-AP_Mary_Trump_Interview.jpg?auto=webp&crop=1499,844,x0,y76&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Senate fails attempt to block Trump administration’s $23-billion arms deal with United Arab Emirates"
+    excerpt: "The Senate fell short Wednesday in trying to halt the Trump administration’s proposed $23-billion arms sales to the United Arab Emirates, despite bipartisan objections to the package of F-35 fighter jets and drones stemming from a broader Middle East peace agreement."
+    publishedDateTime: 2020-12-10T04:21:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 110
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/17d0ac5/2147483647/strip/true/crop/4192x2738+5+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd5%2F95%2Fd75a8b98a5a0d3f2f2532520eec2%2F92d2ddb98a88412186f7bce3bd18cd80"
+        width: 320
+        height: 209
         isCached: true
 
 secured: "DVZzwVDDT8vxZFmqphWmKUnmxYYmkTlhvtfJJ2IEJJlm4VMZhjQxushFrFWZt7J69XJj4IhwxL4qPTYO/j1SlWHjU4ki3Leq89BHEJWVLaDEpEJpX2wt5EgXoucB7JXdYRqNn5UvK8mu4TFosPllqb3QtwvhB4vT0ikV1fL1ro18dNAXn9pOZ2XszGzKJ/VTjPaiZ1FT9ZeL7qAgO8fdeXzFU0seqRWqCHzexBD04PoVlfTksGpBKroAaC9I2PNou25hleg46+JQVF/59Rx4bx2n21KDIgzY/xKt4e+MvYrXSXIZJ38rHHHW2DWBX/fDWnd0cBIOIFzKAdlYarWBN7wqSx1q7GQ7rF5rkkWJkPY=;DY8tome0g6tVpcxtHlCMlw=="
