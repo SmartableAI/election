@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
-excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
-publishedDateTime: 2020-12-09T18:13:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd1064f8f08afb1724b7052"
-webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd1064f8f08afb1724b7052"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+title: "Trump virus coordinator Birx seeks role in Biden government"
+excerpt: "When Dr. Deborah Birx was brought into President Donald Trump’s orbit to help fight the coronavirus, she had a sterling reputation as a globally recognized AIDS researcher and a rare Obama administrat"
+publishedDateTime: 2020-12-10T08:23:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
+webUrl: "https://abcnews.go.com/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
 type: article
-quality: 139
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/83d3a6973b1b0461d21d94b04ea963179d3815b0/0_182_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7b2c24a3156eb87c5324163757cbf17b"
-    width: 600
-    height: 360
+  - url: "https://s.abcnews.com/images/Health/WireAP_892a3d9d993a40aa8d59a93cf3f584e1_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -303,22 +303,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump virus coordinator Birx seeks role in Biden government"
-    excerpt: "When Dr. Deborah Birx was brought into President Donald Trump’s orbit to help fight the coronavirus, she had a sterling reputation as a globally recognized AIDS researcher and a rare Obama administrat"
-    publishedDateTime: 2020-12-10T08:23:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_892a3d9d993a40aa8d59a93cf3f584e1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
     excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."
     publishedDateTime: 2020-12-01T16:56:00Z
@@ -350,6 +334,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
+    excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
+    publishedDateTime: 2020-12-09T18:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd1064f8f08afb1724b7052"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/83d3a6973b1b0461d21d94b04ea963179d3815b0/0_182_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7b2c24a3156eb87c5324163757cbf17b"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump-Biden transition live updates: Biden rolls out economic team leaders"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 51 days. Georgia Secretary of State Brad Raffensperger spoke before reporters Monday morning at the state capitol building in Atlanta and announced that his office has opened investigations into four third-party groups that he claimed are \"working to register people in other states to vote here in Georgia."
@@ -1201,6 +1201,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "gkt/ujsK6ajEUlbteThlaEIyUDZsffjzo2sX/2KfeMLUvCbSOUu1thATq8axVAIOJTuY4ar+JEknxXhjt7iaG80bF7G8Kh5OQOGa1rnsNZfsvpkIUd6Y4MN09J+vMh5WvLd20SVGZMYbT529rRw5/H1XQVtYfM0wSyeL7/D26ztIxbNGFLa06viTrsQLkb98K+ognQY1OI7gf32vOz6K4i3Ud+aiRoj5OFI833aIttm/USi9PWRj3oCD3utUk5p5opQ70CIhBeZRNb7bJu/LlZimBJkX9PK6QkhmxJ2LEst/lqXG+A/lFZiezxtUBgp1txNiOg/DK7jdctTU0bb0LIi9D87LWAByID42JnAVqOs=;/0oDwdXuNr7jPpMozo387w=="
+secured: "Q8lBeh5JTFxUijs4w9ZY/i18JQ+QrPMhTqrS8HA5AuPYc5tM0Fo8aOmU67AJSIwfOFL26D9KUcAuG+tbOg3FdCGbxdXfRYKzN/y64U7gbw+8/AmbzPfcJb6AHqpIhCnhGhs1ayuiU6TlvrdAxSo77egFPSsC7nBowERJkNyoc07lRQ/8mMJaq98VF9zD2JSpOIHWKgWHz2epf9EmacuSntMs1WXhKimqqZNHWUN+tGj/awid/mNTuWsr9kxhajd7C2Xnz7vzkx2G/59RDY4vdTjfuLoro9wZVRC1NylVzoG7fC874S+YC+fOrLeijQOSaSy4ueZvQluEZFwUC/3/nLSOtoMM3v4q+M7mfKtNr2k=;8qRd/XBGFjz06RWBAy5r5w=="
 ---
 

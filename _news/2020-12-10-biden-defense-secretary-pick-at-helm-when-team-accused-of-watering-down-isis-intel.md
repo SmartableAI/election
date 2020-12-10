@@ -2,13 +2,13 @@
 category: news
 title: "Biden Defense Secretary pick at helm when team accused of ‘watering down’ ISIS intel"
 excerpt: "President-elect Joe Biden’s choice for secretary of defense, retired Gen. Lloyd Austin, could make history as the first Black man to serve in the position, but getting his appointment through Congress could be an uphill battle."
-publishedDateTime: 2020-12-10T01:45:13Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qUfNQVHGNF0/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qUfNQVHGNF0/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick"
+publishedDateTime: 2020-12-10T01:58:00Z
+originalUrl: "https://www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick"
+webUrl: "https://www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick"
 ampWebUrl: "https://www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick.amp"
 type: article
-quality: 168
+quality: 128
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -240,6 +241,6 @@ related:
         height: 720
         isCached: true
 
-secured: "wxJAW5NzHx2QhEOw0no/iQu3H4B9lsOFatUZiCuBu265oOOvNG8ILpRbrHfLabgO/k8KKByxUwZgRwdAqwWp70Qs2vHfYOzWF10F+J/wyAKTPS2gPlxU/YAEcYsySoOnFJwFPfMnb4vIpr8dggNZg5KvNq/4eNkeYdOdzkVV8yKolPdZ9x2rb8QIWseik+nrKjpPvOy/zqrZS2czdBXWEjn/WhReNoJlgkU89Vj8tfz82kOKr6BwqyweFXu4sil8hMbwAq4UNeu9zkiFrKFQwNsbrQDsjLdJDxg0p7QEQdtby4VXddr57SS4fXA50Pfhw0mFUkmDdmD6FwplboJY/Lpw3PlhFzYd3kzqBh/gpCE=;I7euYuJx067q6d+DGNmHxw=="
+secured: "ZouiO2NLV7a+BPbUBzxNHWq18fhyJ6Hmo5oFhmCw3lHUaQBPWzQeppi3IEiuMUxCEneOZPpOtaP2UwLgUSILoEYa66DzwwbGnrv9qf2grvl/UFe2y0/qucRxpnwiLRy1Y1ieGODB0z/F+qiqEc78WcrehGSFjATZdVi7WHftK3oVwfyvPXK+grsoKoUEkA2vmMvJuZSAYUkDUzj59DetrcYu5r0tj/hZltBwMbNpOZXyHUkrfVbioQqdUh6fFGy7gIjAuq0lojU9BRHCfJqIDsz3hPEmbXAQ8r66roo+9Cd1Zv6x5TdNPkY49TduOYUe/exBrdl9jUfMJhcgBQh0hLIpKxtMMvkVCpwQ3X/FTj4=;KBJh9tFgMp/4yzBNlxHYsg=="
 ---
 

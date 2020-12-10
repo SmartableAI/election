@@ -303,6 +303,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump virus coordinator Birx seeks role in Biden government"
+    excerpt: "When Dr. Deborah Birx was brought into President Donald Trump’s orbit to help fight the coronavirus, she had a sterling reputation as a globally recognized AIDS researcher and a rare Obama administrat"
+    publishedDateTime: 2020-12-10T08:23:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_892a3d9d993a40aa8d59a93cf3f584e1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump hints at 2024 run, Biden to meet with U.S. workers hit by pandemic"
     excerpt: "Donald Trump hinted he may be ready to move on to planning another run for the U.S. presidency in 2024 as President-elect Joe Biden prepared on Wednesday to confront the raging pandemic that will likely be his first major challenge in office."
     publishedDateTime: 2020-12-02T23:44:00Z

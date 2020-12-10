@@ -1800,6 +1800,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Hurries Execution Of 5 Death Row Inmates Weeks Before Leaving White House"
+    excerpt: "The Trump administration ordered the execution 40-year-old Brandon Bernard and 56-year-old Alfred Bourgeois this week."
+    publishedDateTime: 2020-12-10T03:41:00Z
+    webUrl: "https://www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984"
+    ampWebUrl: "https://www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/09/five-weeks-after-the-presidential-election-president-donald.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Trump Looks Past Supreme Court Loss to New Election Lawsuit"
     excerpt: "President Donald Trump says his campaign will join an improbable case before the Supreme Court challenging election results in Pennsylvania and other states that he lost."
     publishedDateTime: 2020-12-09T15:14:00Z

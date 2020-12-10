@@ -1804,6 +1804,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump Hurries Execution Of 5 Death Row Inmates Weeks Before Leaving White House"
+    excerpt: "The Trump administration ordered the execution 40-year-old Brandon Bernard and 56-year-old Alfred Bourgeois this week."
+    publishedDateTime: 2020-12-10T03:41:00Z
+    webUrl: "https://www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984"
+    ampWebUrl: "https://www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/09/five-weeks-after-the-presidential-election-president-donald.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Trump Looks Past Supreme Court Loss to New Election Lawsuit"
     excerpt: "President Donald Trump says his campaign will join an improbable case before the Supreme Court challenging election results in Pennsylvania and other states that he lost."
     publishedDateTime: 2020-12-09T15:14:00Z
@@ -1838,6 +1854,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "TKcntLOi2TckCTpEgK3Febf7USS2DDc8cNP8IG9OLvhJ80NBX/Y/zea1+5i9F+Ns/T67dTvGY1ZPJk+OMBHS2J1UP22hCbCesAvfEFyD0mSYeb/NS5kZGbfnNyoXj/rfZDWTLfbPcvAh3l2B4oZfuCzTCALzwUEcYyogSj8BN+oQh63NXaL+A4cER5qOS7UhK6cC+ldOvpMXbXTbjrCIbnp5ni9ZTA0XjrlcjvNlB5jUKiqqnQFW6uGL1YFRo9+IQ0Lgl2yZSARuq7y3Jw5E2BlTL7JyH6Dj1ftFX7M/zxHIrmXEe1bqDRzABuBshKCH7DhFRRSryT9yqr3zhQLuo4BfuEiS30CRX5+UyEyJYb0=;1GJGQN+o74abKYpskSFwpg=="
+secured: "QVLoaZhvjwUVUo22c8tKV99EgBRFX2sZUqrjiAw4VxsFr8nET3fCZ5qqcPMJhZjYWy9fEgPHYGNAPQoxKvwth9lbFb9P0M9jhe6Jt6lcsrtlhg/7UWxgQ+0bTvHZ5RHIMEqUPZ078KaDjCEOKq8IzjbWQPDDNOL3bGdUFKWuLMBYOTcpuwPN4bpB+vDxbRctMyfXAPc3XtNi82lBPAcxVyYWBU5TpOjirLrnY2ZM6dM2/t0p2KleNuEYKaeiy5knfHZSKmm9PBS/25NCQMs0LFjAPu56M5iKXYoJXuluU0G6PJCSI/Wz1G7OVbTXOml8maU8+RfCjrlz9Ob7oi1O5GMncQ6srNS3f7NO3xoMKQHsl4ybE2QTFxBI4CreFVq3UFRz/+bY7hwtmncVMli26KlrPizwr5sKTISsJAoPsXkrGfEuuUDjIlunQtQu02fc1/gp5lI5ZeIMpz2lRqDjmVeY+NWrU4RPENOfeUKquwZ8AypvLGDuyNqzDmgXt0BKUdPg4nYW4sfstTVNK8ww4Q==;aDnl9vjx5UIjb4ZNF+pdLA=="
 ---
 

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump mounts another legal challenge to election, asking Georgia for a do-over"
-excerpt: "President Donald Trump filed a new lawsuit in Georgia Friday afternoon contesting the results of the election and requesting a do-over in his latest long-shot legal bid."
-publishedDateTime: 2020-12-05T05:49:00Z
-originalUrl: "https://abcnews.go.com/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
-webUrl: "https://abcnews.go.com/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
+title: "Trump Hurries Execution Of 5 Death Row Inmates Weeks Before Leaving White House"
+excerpt: "The Trump administration ordered the execution 40-year-old Brandon Bernard and 56-year-old Alfred Bourgeois this week."
+publishedDateTime: 2020-12-10T03:41:00Z
+originalUrl: "https://www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984"
+webUrl: "https://www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984"
+ampWebUrl: "https://www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984?amp=1"
 type: article
-quality: 136
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/donald-trump-election-georgia-01-rt-llr-201204_1607128269526_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/09/five-weeks-after-the-presidential-election-president-donald.jpg"
+    width: 1024
+    height: 681
     isCached: true
 
 related:
@@ -510,6 +510,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/03/USAT/5331e166-9612-4ec8-9820-957905b145ec-Trump_video.jpg?auto=webp&crop=5597,3149,x0,y284&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump mounts another legal challenge to election, asking Georgia for a do-over"
+    excerpt: "President Donald Trump filed a new lawsuit in Georgia Friday afternoon contesting the results of the election and requesting a do-over in his latest long-shot legal bid."
+    publishedDateTime: 2020-12-05T05:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-mounts-legal-challenge-election-georgia/story?id=74548886"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 136
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-election-georgia-01-rt-llr-201204_1607128269526_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Texas asks U.S. Supreme Court to help Trump upend election in long-shot lawsuit"
     excerpt: "The state of Texas on Tuesday asked the U.S. Supreme Court to throw out the voting results in four other states in a long-shot legal gambit intended to help President Donald Trump upend his election loss to President-elect Joe Biden."
@@ -1804,22 +1820,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Trump Hurries Execution Of 5 Death Row Inmates Weeks Before Leaving White House"
-    excerpt: "The Trump administration ordered the execution 40-year-old Brandon Bernard and 56-year-old Alfred Bourgeois this week."
-    publishedDateTime: 2020-12-10T03:41:00Z
-    webUrl: "https://www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984"
-    ampWebUrl: "https://www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-hurries-execution-5-death-row-inmates-weeks-leaving-white-house-3098984?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/09/five-weeks-after-the-presidential-election-president-donald.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "Trump Looks Past Supreme Court Loss to New Election Lawsuit"
     excerpt: "President Donald Trump says his campaign will join an improbable case before the Supreme Court challenging election results in Pennsylvania and other states that he lost."
     publishedDateTime: 2020-12-09T15:14:00Z
@@ -1854,6 +1854,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "BxDC6oYCmlqd8/4Rcpv+CjUrOeedpABTODe4jDmZpdtdXD1kBo6KnRQdc9VtGP+HcoG9vpASxRgdkOMQBU87YxTlI1JQv1oeW7oeEDKC1hv7seGn3uhVES3/cvaldm+lD5q5dBLwj7Lu7lGrQ2UbiQfpbREhtAhrtF5cfyrSH6oYe/q60fN3GS9gKtlSbBu72LT7Fq4wC05GY7/1bdQLRzg8RkYxLjR8GnQHM1EyGynWrcvESBdc9FT3F0WWL1kipaGW6LNNthMK9SjiKEycvPOYovvz0vxarYPvq3dGYbl+HuXqTt7qY/OU3wXD0yU9Vn5TEt29NcdgnLmNfCZuhJn5bvF4FLwahqhzpl5IHJQU3cVOTLmVvQEgkYQziZ5CNTKo4IpWwXxVFH2WYpaVQBOZ8QVY67rx8PERz8ydvIcvJCkgvwzr1ZGMxpeMLhu/c16zH6LhO3UmpX3bYBP/od64DKn7Kpr4xI+PFZhEX6XNz8IZBdQBOIaRJ2mV49HvYVLAGeCoyET+j5LddloOHw==;mHTALch8IkyHyrnL0WIikw=="
+secured: "Il53R0OxM5ec3ch4+XIDCiSAiVJMjx/2dP1jrll5G3x1Jjdr2SXqQn5Jvsd+aiOP8zhGZAM2EtPCe+rP4cmL2a2Cn7dQBaV4py1iWdQphXlbrrTsv2ivQzXEtw7NZw6x1VEZc/XVh2bYpJNOUTDJUhN+A9eOX1nR1vN8lhATRcCdkALjwj0ZnOBHeknNto6b7Bwr6L8J2yxbKihnaqUYW9PdgTS2iSXwsuHTqReP/adCQomlrzDwkpp4Btr5UNKSRHr2GrMe4httww2pQsPT3Pt5c3mHS85vJjiFRDfJVD1v3bqNCaXbmdPdrxo3T5J4cSDMpVx+bQ0Xxs4+ctC5NWjy0+XZ4TMx5u/uUBiZ4n4=;mttM4I4hbhHuNHKFDK6uBg=="
 ---
 

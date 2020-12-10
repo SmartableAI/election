@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-wo
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp"
 type: article
 quality: 167
-heat: 1667
+heat: 1687
 published: true
 
 provider:
@@ -288,6 +288,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f7ba39c24018431da90dcd390298d9b2db1cf98f/0_133_5362_3217/master/5362.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=349d4f0eafbb9cc43bb024d43556602a"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump virus coordinator Birx seeks role in Biden government"
+    excerpt: "When Dr. Deborah Birx was brought into President Donald Trump’s orbit to help fight the coronavirus, she had a sterling reputation as a globally recognized AIDS researcher and a rare Obama administrat"
+    publishedDateTime: 2020-12-10T08:23:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_892a3d9d993a40aa8d59a93cf3f584e1_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
     excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."
