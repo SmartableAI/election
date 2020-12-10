@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trum
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dangerously-viral-trump-supporters-spread-false-claims-74533348"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -111,6 +111,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Senate Falls Short of Halting Trump's $23B Arms Sales to UAE"
+    excerpt: "The Senate has fallen short of disapproving the Trump administration’s proposed $23 billion arms sales to the United Arab Emirates."
+    publishedDateTime: 2020-12-10T00:06:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "pXaw2fWmUMWV2pvIqMryQkZqnYxGq9EvIKJ3XWPOe51sRp8pF0rY/6FazXu4o0kesm6YMvx+pJUB7w8Scki0JqQgeovZ8v3ykvcmsMpRa9PWjg24iGihMzZISf4bt2hvz7zcOaYpHD3/gd4YImZxryD/X5I6gBYR0BCZVqtWlozi9nsWQgBEeSNCWAi3iJwUMWrB7/OkukixYpJMErM7uc6XK90BUz2o4MSyz/dwzIMnoQo5se4ry89TZ3+/J1qVUQ/EuW35o+2PXfI55d8Rs4dMXb+noSzxdqi/YQQsUf4NeZlqOxNZ/NVzIwuLR1WCzHdqWXqwHTH/hkN+PVF8JCZJpVm/XFH09mSyHc2SaTTZ9np4JrgQntEzYxoVA1ZcGXVz2/qtFWHr02m1XMPiGav5yCDvK51d1mMrXzg9D1/JdjmBu7Z/+z2mUyDh21Clgdm0Rv0UE7uoklC5SwzNMQFyLvj2BVdMI7thi8xCvWbazAmDcjAM4QtyzDl0M8+Oxy5yJf+sawlz3mX+9wPkXw==;Eljep1SlNI119ovvVAXfHQ=="
 ---

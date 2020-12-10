@@ -111,6 +111,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Senate Falls Short of Halting Trump's $23B Arms Sales to UAE"
+    excerpt: "The Senate has fallen short of disapproving the Trump administration’s proposed $23 billion arms sales to the United Arab Emirates."
+    publishedDateTime: 2020-12-10T00:06:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "FSBN7ReI9T9ulOagLJMnB969yGjyLNhaw0DO28f5aX0VOCDbTTcdGnufCoaVLI8XV8LxSXKuGqWEZRu4y/f1lLl81orI4Vg0lLDBsVvT4cYk4c6YUq4du3IkhfS8s+x+eA3dgoXR4AjaYOVoOOalCLLAdIE1v+yquWfTacD7oYYiG9YClXRG4iGcNjGTY+7a7taNReewGnTbOQ4VvjKwmu6FGscX4Vh/ImMHgrcVVUX6A8jnjTM1eh9O+xnp2LcpdCnDpe+TKADWTs5ShDXivUY7tuzD/t5jNLtiEOTkRQGQ2xr/cl0jZjlg6X7TqioKFRDfSjZkfe5eCKY8LceUcQ9nshLF+ZRb3VC7JJ+DGdAIPVLNd0oIvFTjwvXscmNusr7kVXSF8PaBew8TM07egea5DFWnQ1pKwiv3MI9oF+DEd5yNdP1N6KZ5LfwwJMHejiz/2LevlUUc+bc5dOUr+tDsxJP3McRdeKjTUnUONfuRjlS0N8bbW4LW6zy2G37gQNtgThbp5AeDhFv5Pe+ytw==;ncsAbKpJW5WWAes7Vmz1Ow=="
 ---

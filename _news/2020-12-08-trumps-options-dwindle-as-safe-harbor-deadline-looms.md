@@ -894,6 +894,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump pins hopes on Texas election lawsuit as experts say it has no chance"
+    excerpt: "President Trump called the Texas Supreme Court case, which seeks to sue battleground states claiming mistakes and election fraud, “the big one.” Conservative and liberal legal experts say it has zero chance of success."
+    publishedDateTime: 2020-12-10T00:03:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-pins-hopes-on-texas-election-lawsuit-as-experts-say-it-has-no-chance-97433157807"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97433157807"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97433157807"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 148
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_pwi_trump_lawsuits_scotus_201209_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Full Panel: President Trump still falsely claiming voter fraud"
     excerpt: "Kasie Hunt, Michael Eric Dyson, O. Kay Henderson and Hugh Hewitt join the Meet the Press roundtable to talk about the president's attempts to find voter fraud and the president-elect's transition challenges."
     publishedDateTime: 2020-11-29T15:03:00Z

@@ -208,6 +208,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden defends nomination of retired general to lead Defense Department"
+    excerpt: "Responding to criticism from fellow Democrats over Joe Biden's decision to name a recently retired general to lead the Defense Department, the president-elect is defending his choice of retired four-star Gen."
+    publishedDateTime: 2020-12-09T20:40:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defends-nomination-of-retired-general-to-lead-defense-department.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20344680556597.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "K9MLnKXvoKRhzl9K2Vh5Lxmfc/zBsIzexmZtx2jgvR2/ioYqvmND5QI8uM5DE8up0msmHj65DszoHDJgPnPkyVJB1q4vpr9rYkjZ382O+b1BlxNV4Aad1t+N1F7muwlaKIMNHdFMSsHyyJnQPDs3Jg+2Fn7864dsQ0P3KuOZVNYwZd7jfyqmXRdi02bZ4BE9eL69NiG+uEXcUuma8X+TRwdehbMLuucFYnAMnEim2Q5ZlLfQJy7Nemk+cvHIBwCme6TiWrLu51h7kNuubH8QOUr8X/RvsxKR1u5P9cGOMQalwKL8WDHQ+stgw6r2ytAhvl17O9aTqWkJYvFHuAxm48/VGDDbny3z//DJn4+dN74=;RNaS1CHbsLmFSPA+fW1sPw=="
 ---

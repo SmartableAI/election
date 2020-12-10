@@ -114,6 +114,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – live"
+    excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
+    publishedDateTime: 2020-12-10T00:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd13ce78f0892e7c1ad2b37"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 93
 
 secured: "RNlHuiHGLzrBw3Rgz0YdXKOWKWq3k0HBGPzCO3LFYhd/RquVuCZDZoXeGrtKKzLbF+VrUCiPCPzfCNj2Lz2JS2uScSZVgnh+wm8m95pGP36MDP8/chrMzIwvRATfSkoxXBnEm4Kc4SENERicDolTY/UXjSUi3aJkTy7BmJ8o8vR463pYswob4HVd4h1YNJgXlJobGzf97XAZLGJPLdUpJzTZolhjYgGSD0w1WS0SirlRJICdb6pYJ6TfB8xDwz+A03una8n0vGBVVmeJwPS2d9PayOT7D7CR+2lCjLfZW9p3xqbBG0cmT4sCRF4Ev96dIxAtKmzFmmFWEu9pLimEb9B0e3PMApQOUToKjDmUMBM=;P4Cc6QsxMeFGNoWbrb87NQ=="
 ---

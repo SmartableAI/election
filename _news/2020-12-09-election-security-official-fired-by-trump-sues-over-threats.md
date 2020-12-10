@@ -361,6 +361,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "'The big one': Trump intervenes in Paxton election challenge"
+    excerpt: "President Donald Trump called Texas Attorney General Ken Paxton's lawsuit seeking to overturn the results of four battleground states \"the big one.\""
+    publishedDateTime: 2020-12-09T23:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/state/2020/12/09/trump-says-he-intervene-ken-paxton-election-challenge/3863232001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3863232001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3863232001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/10/16/PNJM/ab735998-58db-4bb3-a4ee-d45b37fde15d-AP18289755961109.jpg?auto=webp&crop=5403,3025,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Trump tries to revive stalled election-eve drug discounts"
     excerpt: "The Trump administration is trying to revive the president’s stalled election-eve plan to send millions of Medicare recipients a $200 prescription discount card"
     publishedDateTime: 2020-12-09T16:32:00Z
@@ -456,6 +472,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/724b62c7c2c143d8832f184f55f71ba8fd2b1a8d/0_300_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bb0f281b6b8a31ce67aabb7ef9962b99"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump and 17 states back Texas bid to undo his election loss at Supreme Court"
+    excerpt: "President Donald Trump and 17 U.S. states on Wednesday threw their support behind a long-shot lawsuit by Texas seeking to overturn his election loss by asking the U.S. Supreme Court to throw out the voting results in four states."
+    publishedDateTime: 2020-12-09T23:30:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump/trump-vows-to-intervene-in-texas-election-case-before-supreme-court-idUSKBN28J1VJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1VJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1VJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543979089&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB8111"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump rehashes baseless election claims in 46-minute video from the White House"
     excerpt: "Trump's video had the look of an official address, but his words had the feel of a series of tweets strung together to lash out at perceived enemies."

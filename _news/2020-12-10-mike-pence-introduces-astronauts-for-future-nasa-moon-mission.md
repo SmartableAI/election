@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-missio
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,7 +63,18 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Pence Announces Pool of U.S. Astronauts for Planned Moon Mission"
+    excerpt: "Vice President Mike Pence on Wednesday announced 18 astronauts chosen for possible participation in planned NASA missions to return to the moon's surface during the final U.S. space policy meeting before he and President Donald Trump leave office next month."
+    publishedDateTime: 2020-12-10T00:19:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-12-09/pence-announces-pool-of-us-astronauts-for-planned-moon-mission"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-12-09/pence-announces-pool-of-us-astronauts-for-planned-moon-mission?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-12-09/pence-announces-pool-of-us-astronauts-for-planned-moon-mission?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
-secured: "QKDIx4Y3QrbgRQw7OC6Os55oJGApQ+zYE80Lsc12UrNIwPAm1fakzJ3wUSPAQuOLE5C9cXskv7zVgB1P1Mjjv95VClIDpzjKcl2ObXOBtV7SAciod7KWcnzVHwnu8HYuwSLEpJHS7UUF35HPBDUStuXbnoYkzhoil0Lcv/Jt96DpGqngC58vD6dDzEdbMf2QtQZBsLvZ0UOQAp3iCD7ABlfjBiOyFHAVtjH3ySVOrknKTAurKLZPIHK7efotPqwdMaznk9DY9+5crOh2MQAZMnPL/yjDKXONShCL+AbJi3FWOpeFdnzWJALgxS07A3fhPmvlxePTdc3PgohmqmwqyZZN+wm9tWnyJUkcb0c01gw=;IK4LMIrI2yiNr6p6BbHTUw=="
+secured: "deuiJ5av/iOAeW/kArWmJk1S/mnn4ZhSS/CiqCA6k7DJ6y6142YiIVFl0HET7DimS/boM78Qjm1/6lSZufXFGB3SPM+KMx7xmAom9KH2eeTSBKG46FbkLjdqYoX/EwFWVeayv7R2b+tMa6PBTfUQ1qAudjUQ02L/SrLVB4Y6Hki1ESn0XPo2GR384HsDNu277b740Tctq1qzE0uOzhZEGUBYN9tYH8D3vEJvKes8G/SffU1GIRvB5XCuGggMKgvcHzzuUsCrqtPVsbJv78TuZT2g5Wb9WSy04Zl5OH/RM8HEiO6iVmTLvzTJ8sDAt0FkPQTPi70iiqqBJrWDNyzl9RddO6V7onh3oxA+xu+0mPK/ZpRIjSkAnDRJ6IWzgG98SiMZRgjkSrnpErZcZY7oRlwiGnMmAfJwuxGURGlwgfdXzTWsKcOxpvRGqgklGJA3fVUcjdeOYT6whupNJp8aMoRAZiR82Q5/kiYkRXK2nUQuGdpbmyH739QwtB9qWcrjFSAg/y1A+m5xn/PfcPjuzA==;LzKdlQzcqFKOgdRnThxJBA=="
 ---
 

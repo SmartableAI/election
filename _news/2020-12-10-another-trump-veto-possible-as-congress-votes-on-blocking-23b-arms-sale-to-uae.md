@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "U.S. Senate backs massive arms sales to UAE after Trump veto threat"
+    excerpt: "An effort to stop President Donald Trump's high-tech weapons deals with the United Arab Emirates fell short on Wednesday in the U.S. Senate as Trump's fellow Republicans opposed resolutions of disapproval seeking to block the sale of drones and advanced F-35 fighter jets."
+    publishedDateTime: 2020-12-10T00:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-emirates-arms-idUSKBN28J2BZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2BZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2BZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543980005&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB81AM"
+        width: 747
+        height: 545
+        isCached: true
   - title: "U.S. Congress defense bill defies Trump on Germany withdrawal, base names"
     excerpt: "U.S. lawmakers unveiled the final version of a massive annual defense policy bill on Thursday that defies President Donald Trump's plans to withdraw troops from Germany and keep the names of Confederate generals on military bases,"
     publishedDateTime: 2020-12-04T08:59:00Z

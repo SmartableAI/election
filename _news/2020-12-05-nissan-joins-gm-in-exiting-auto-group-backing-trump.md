@@ -47,6 +47,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Senate fails to block Trump administration's controversial arms deal with the UAE"
+    excerpt: "Critics say the weapons deal could spark an arms race in the Middle East and rewards a country with a checkered record on human rights."
+    publishedDateTime: 2020-12-09T23:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/09/senate-fails-to-block-controversial-trump-weapons-deal-with-the-uae/6504758002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6504758002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6504758002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/cac6ef7a-91db-46a2-a286-1c894ab7e3be-AP_Trump_Emirates_Israel.jpg?auto=webp&crop=5885,3311,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "J0c/JkqZrfx6ansB3dKsk7Kk3s/dnHb3Paci9NW5uSER0I7cpAjrv9LWz8gWzg1VO8fdhQT5gGilqcOoIEz6SZxqjd+ZKILsWM6tTuO+rKTL9YLtV9nVFU215LYrY7IGClsB4Kjht/E9DCcu2d17raOlkkQuCfulfzdwwi7zmDCETjavKVI14KSsM2F7Nxvb3VigI+jtA5rRPqFh7X6PrRmzaUASQhNjbyKxvkc/vAFXddRLOJS5vBMA3PWzOB9Ng57LAELuKKs9E2tEq7YsOW0a0Hdj1x2x0CcP0XVVcQI7doOFsoEZkG3WnNsTMS3AMvfrrpSfGjomYjwxiw9NTU69d79de+1ri4ZcvdFSpqQ=;O4mJNL/tanRpAIa56getAg=="
 ---

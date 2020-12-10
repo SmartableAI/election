@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D2XS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2XS"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543501229&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31PO"
         width: 747
         height: 545
+        isCached: true
+  - title: "Senate fails to block Trump administration's controversial arms deal with the UAE"
+    excerpt: "Critics say the weapons deal could spark an arms race in the Middle East and rewards a country with a checkered record on human rights."
+    publishedDateTime: 2020-12-09T23:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/09/senate-fails-to-block-controversial-trump-weapons-deal-with-the-uae/6504758002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6504758002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6504758002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/cac6ef7a-91db-46a2-a286-1c894ab7e3be-AP_Trump_Emirates_Israel.jpg?auto=webp&crop=5885,3311,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "WU/PpXCJFxg55QLlFQuDueckWGoIsqKkzj2aql8mCGR2i0ELT0xkPzRezMwozPLn/5QtzTDG3IPR9UG8s7IcH0ciXepEg5DhLCUAdC0kG0WEKuwpqO9jptiSr60BDxB7E1fxG926irAkutRtGvewAH1wxX/ED238uN9IpWfwR9yzkteGX09L/96NjZV4+UDs+pUYDeHhHslcYBZwXilH4gC9CayqFzwnw4orJb4cgiS2Um3jgCcgxdx5WZeoIiwKQg+ddmzq8KAGlcLg+IAdkon9H7zH2T9VhsPAEzBl4f2cHo7wR5Htmnlrc7L5RjRTxITsw06Lbg1pV4GBE5+UvXhD2hEXYhSTrlBgub0g9/Q=;GDXVPn0Fr8dt1IHxDOaAaQ=="

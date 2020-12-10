@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-safe-harbor-electoral-college
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-safe-harbor-electoral-college-legal-fight.amp"
 type: article
 quality: 168
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Live Updates: Trump legal team dismisses 'safe harbor deadline,' pledge to continue fight"
+    excerpt: "The Trump campaign legal team on Tuesday dismissed the importance of the \"safe harbor deadline\" and indicated they intend to keep going with their legal fight of the election results."
+    publishedDateTime: 2020-12-10T00:32:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-legal-12-8-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-8-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-8-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/855b0975-a82d-44dd-9ee9-e16eee6933da/80778d32-d6f8-43fa-917e-4bfbf73968d2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "sVI3T3hVsm5uBJ7K13TpCgAqSvInbRV3EeekEx0dNVYznwk7Od0C2eAzW7NmQUQhHYQ4EaIiGJomBLdJXghDGk/VpBBQEvIgxGcAjYOj/pY41YKFrFp9VuiLxikn3+nHJ4rQOXaIzGi0WDBfvnH9ydcCNQV9iEi1EnDV+BbAE+TZfOnDwzV3a7jWpQqR9q5GO4z1z+J1+LttknI3ZigRLMdsb08Uuf2fGMUGvR3FqsmgAPMqNZe46VrMHYu7cKJCoP7i4xG9Ms/OG6R7ZOn+hCaLaP9ixrvDk+CJzNgFieY4367go35+0fhB/iSbFbGYdhlm+o+BCELXpCw+2rW9DrNqCnpQs8rfyxBTLE0SFV0=;3hB1pAJqtg8qDSoalOmaMA=="
 ---

@@ -59,6 +59,17 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Pence Announces Pool of U.S. Astronauts for Planned Moon Mission"
+    excerpt: "Vice President Mike Pence on Wednesday announced 18 astronauts chosen for possible participation in planned NASA missions to return to the moon's surface during the final U.S. space policy meeting before he and President Donald Trump leave office next month."
+    publishedDateTime: 2020-12-10T00:19:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-12-09/pence-announces-pool-of-us-astronauts-for-planned-moon-mission"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-12-09/pence-announces-pool-of-us-astronauts-for-planned-moon-mission?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-12-09/pence-announces-pool-of-us-astronauts-for-planned-moon-mission?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "DLEYshEpV5hDMQwqG785GWnVedFFjB6g4F5qy5ck8Uk2JPJXz9BoJeiJYCzYVQl4pu2G6idLMObYFMi77F7v6E5nPF6fnptNGX50sE9DKUXhQSQST37UjeYccThMF9UvF+UHgG0rbfiPgVR9qxzRzmed8u93p1bBlWRpBIf+cXiy6Q4ETHO1fb+VN0BVBcEgLY5OQzdR+F1ZJCuFTQRkDEHlu8InEi5sP6bWRUDBz3spZGi39k5Lx8ToL6sm22fH17LuZdtcc1q9v3CFbTvP8kmIDP9HLplAmozvRxT4MqErxcUhZJHKXYe5Edq9mPD1OFCHDkmxF3bx0CTjsI/JHGvzFrucviCXJ8AWcbVMTxw=;2RDaHHdmJ4nm3zGKtaEjLw=="
 ---

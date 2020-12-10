@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden selects Katherine Tai as U.S. trade representative"
+    excerpt: "President-elect Joe Biden plans to nominate Katherine Tai to be U.S. trade representative, according to three people familiar with the decision. Tai, who has been the chief trade counsel on the House Ways and Means Committee since 2017,"
+    publishedDateTime: 2020-12-09T23:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-selects-katherine-tai-us-trade-representative/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/09/biden-selects-katherine-tai-us-trade-representative/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/09/biden-selects-katherine-tai-us-trade-representative/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PMK24QB2MMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Joe Biden says 'Let's be thankful for democracy' in message of unity – live"
     excerpt: "Biden will speak in Wilmington as US records highest daily Covid deaths since May and 172,935 new cases"
     publishedDateTime: 2020-11-25T20:19:00Z
@@ -142,6 +158,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y2ZROABZFII6XKWZRFMSE4UAYQ.jpg&w=1440"
         width: 1440
         height: 946
+        isCached: true
+  - title: "Hunter Biden, long a GOP political target, reveals he is subject of federal tax probe"
+    excerpt: "Hunter Biden, the president-elect's embattled son, announced Wednesday that federal prosecutors in Delaware are investigating his \"tax affairs.\""
+    publishedDateTime: 2020-12-10T00:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/hunter-biden-long-gop-political-target-reveals-subject/story?id=74634682"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/hunter-biden-long-gop-political-target-reveals-subject/story?id=74634682"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/hunter-biden-long-gop-political-target-reveals-subject/story?id=74634682"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/hunter-biden-01-gty-llr-201209_1607550823079_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden defense nominee’s need for a congressional waiver sows discomfort among Democrats"
     excerpt: "Democrats who voted never to bend the rules governing civilian leadership at the Pentagon were left looking for loopholes to justify their support for retired Gen. Lloyd J. Austin III."
@@ -206,6 +238,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543044431&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB02IH"
         width: 817
         height: 545
+        isCached: true
+  - title: "President-elect Joe Biden's son Hunter says he is under federal investigation for 'tax affairs'"
+    excerpt: "WASHINGTON -- President-elect Joe Biden's son Hunter says he is under federal investigation for 'tax affairs.' Facebook hit with antitrust lawsuit from FTC and 48 state attorneys general 24/7 coverage"
+    publishedDateTime: 2020-12-09T22:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/president-elect-joe-bidens-son-hunter-federal-investigation-74633213"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-elect-joe-bidens-son-hunter-federal-investigation-74633213"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-elect-joe-bidens-son-hunter-federal-investigation-74633213"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 113
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Biden pushes Congress to provide relief for out-of-work Americans"
     excerpt: "With nearly 11 million people unemployed and more than 400,000 COVID-19 deaths projected by the time he takes office, President-elect Joe Biden said Congress must provide relief for Americans set to lose federal aid in a matter of weeks."

@@ -896,6 +896,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump pins hopes on Texas election lawsuit as experts say it has no chance"
+    excerpt: "President Trump called the Texas Supreme Court case, which seeks to sue battleground states claiming mistakes and election fraud, “the big one.” Conservative and liberal legal experts say it has zero chance of success."
+    publishedDateTime: 2020-12-10T00:03:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-pins-hopes-on-texas-election-lawsuit-as-experts-say-it-has-no-chance-97433157807"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97433157807"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97433157807"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 148
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/nn_pwi_trump_lawsuits_scotus_201209_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The King of Trump TV Thinks You’re Dumb Enough to Buy It"
     excerpt: "Chris Ruddy, the C.E.O. of Newsmax, has found a business opportunity in feeding Trump supporters the fantasy that the president could still win the election."
     publishedDateTime: 2020-11-30T01:07:00Z

@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden expected to nominate Katherine Tai to serve as US Trade Representative"
+    excerpt: "President-elect Joe Biden is expected to nominate Katherine Tai as US Trade Representative, three sources familiar with the decision confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-09T23:55:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-sN5aLSwiX8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/katherine-tai-us-trade-representative/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/katherine-tai-us-trade-representative/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209175851-katherine-tai-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's trailblazing Pentagon pick set to make history unless Democrats resist"
     excerpt: "Gen. Lloyd Austin, President-elect Joe Biden's choice to lead the Pentagon, is poised to make history as the first Black secretary of defense and is \"the person we need in this moment,\" Biden says -- but first, he will have to overcome resistance from the President-elect's own party.\n    \n"
     publishedDateTime: 2020-12-09T00:36:14Z
@@ -412,6 +428,22 @@ related:
       - url: "https://static.politico.com/b1/2b/3476dcae409ba52571a59cbcbc64/201205-coons-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "5 big problems with Texas' bid to overturn Biden's win at the Supreme Court"
+    excerpt: "Texas' bid to overturn Biden's win at the Supreme Court \"This case is hopeless,\" said SCOTUSblog publisher Tom Goldstein, who argues frequently before the court. President Donald Trump calls it \"the big one,"
+    publishedDateTime: 2020-12-10T00:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/5-glaring-problems-texas-bid-overturn-biden-s-win-u-n1250606"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250606"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250606"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434566/201209-donald-trump-jm-1603_f57dd82fbced153aa6bcd2fbae9f2b3a.jpg"
+        width: 2500
+        height: 1607
         isCached: true
   - title: "President-elect Joe Biden's cabinet picks draw criticism for lack of diversity"
     excerpt: "Steve Kornacki tells Chuck Todd that Democrats are betting on \"growing non-white population and an assumption that they're going to continue to rack up gigantic margins\" in the vote."

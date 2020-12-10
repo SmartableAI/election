@@ -383,6 +383,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Hunter Biden says U.S. prosecutor investigating his taxes"
+    excerpt: "President-elect Joe Biden's son Hunter Biden said on Wednesday the U.S. Attorney's Office in Delaware is investigating his tax affairs."
+    publishedDateTime: 2020-12-10T00:10:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28J2Z8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2Z8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2Z8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1544021936&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB81SU"
+        width: 968
+        height: 545
+        isCached: true
   - title: "Iran pressures Biden with plan to increase underground enrichment machines"
     excerpt: "Iran is raising pressure on U.S. President-elect Joe Biden with plans to install more advanced uranium-enriching centrifuges at an underground plant in breach of its deal with major powers, a U.N. nuclear watchdog report showed on Friday."
     publishedDateTime: 2020-12-04T15:42:00Z

@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Hunter Biden's taxes under investigation by U.S. attorney's office in Delaware"
+    excerpt: "I am confident that a professional and objective review of these matters will demonstrate that I handled my affairs legally and appropriately, Hunter Biden said in a statement."
+    publishedDateTime: 2020-12-09T21:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/09/hunter-bidens-taxes-under-investigation-u-s-attorneys-office/3869793001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3869793001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3869793001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/73b6c0045212e85fd4374b8915310d4275855360/c=125-179-1999-1238/local/-/media/USATODAY/None/2014/10/17/635491377604550006-AP-Biden-Son-Navy-Discharge.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Australian politics live: Scott Morrison officially congratulates US president-elect Joe Biden"
     excerpt: "Energy Minister Angus Taylor declared #watergate over, after the Australian National Audit Office reported earlier this year on the government’s $80m purchase of water entitlements from Eastern Australian Agriculture in 2017."
     publishedDateTime: 2020-11-12T00:41:00Z
@@ -76,6 +92,20 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-10-2020/t_c918236f66924754ab90a269d27a0255_name_biden_1109.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
+        isCached: true
+  - title: "Hunter Biden's taxes are under investigation by the US attorney's office in Delaware"
+    excerpt: "President-elect Joe Biden's son was in the spotlight during the presidential campaign for his business dealings with Ukraine and China."
+    publishedDateTime: 2020-12-10T00:35:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/12/10/hunter-bidens-taxes-under-investigation-us-attorneys-office/3873160001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/dd7975a8-d63a-4e8b-b306-739763b38569-VPC_HUNTER_BIDEN_TAXES_DESK.00_00_32_05.Still001.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "e74NE0Co9IGQJQnOevFEKVyrUqT/e2BUcCA5bwJ6FmWP0AZZM10tddjWW7dHim5An0UP5iBsEfeQbwBd4OGDsrYN2wk9IiK/sIc4qrusBUk7I/JJunFLI4Tcb/SgP3iZhup0jfC8B/R1Qg6TuoQ0c/H25cenOWrNO5lJ1hV1E+v15MqOBTpWyBJ++ZtoCh5ntzUJwpXoNqvBcCLXGDzkyVTLQ5Rsqu0g8ERiwTy7Nk8CkI1lbVg/IO/LzZ1SK/o1GZekbdeFfpjnH6RX2lkvY3GAVTvMZWqAnErmaZWrzfr8D9wK4AGbZAecXh2GHwavLN/mcp/WqDu2mOhbkXarY4yL9WoR+UJiF4xSIkAn9l0=;gO4xtbcrNsXKQZooY9FEcQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/the-latest-ka
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-kamala-harris-names-tina-flournoy-chief-of-staff/2020/12/03/d4d2aa3c-356d-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -115,6 +115,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden presents new defense chief as son Hunter reveals his taxes are being investigated – live"
+    excerpt: "President-elect introduces Lloyd Austin to lead US defense as news that Hunter Biden’s tax affairs are under review surfaces"
+    publishedDateTime: 2020-12-10T00:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates?page=with:block-5fd13ce78f0892e7c1ad2b37"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/09/joe-biden-doanld-trump-coronavirus-covid-19-vaccine-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 93
 
 secured: "RowwirLo7IUKorgxfty9IqMgE5PQ0Kla+IPihoWMWB2ruAo/tgd6EmyAyVO44n8cjHCf//xNYpV4VXzIIE9nTvRC/p6vKEZRM85nJETpNIgnfc5cpgdLVu5RSHxfF2LohW7cBe4N4qBuR/OmxgWGTmLbcJD02c0OevDfg8A38mMq6eBeXeWg7NQWoZI6rC2/Gd5++4xD0a96oqB1DhH9uE1LiDr4hY5ZEklIpbrvN3je2r4z6XtX3bBWB65TDiA6kXzPWGKgsgRzQdDFNCGEweDYjWzwXCxdBTabIq8DoKpFN5Se6Z1/MBIfG5tbgCw66IsQiOQ4z8ctkCYhkAfMUoPn1aOGhKj82F6f0NmUflM=;bwvWVpduLlBiLGh0N/qs7w=="
 ---
