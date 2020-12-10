@@ -1,34 +1,28 @@
 ---
 category: news
-title: "U.S. election year shaped by pandemic and Trump's defiance"
+title: "U.S. Election Year Shaped by Pandemic and Trump's Defiance"
 excerpt: "The U.S. presidential election was defined at first by a paralyzing coronavirus pandemic that upended traditional campaigning and then by President Donald Trump's frenzied but failing efforts to reverse his loss to Democrat Joe Biden."
-publishedDateTime: 2020-12-10T12:52:00Z
-originalUrl: "https://www.reuters.com/article/global-poy-usa-election-idUSKBN28K1FU"
-webUrl: "https://www.reuters.com/article/global-poy-usa-election-idUSKBN28K1FU"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K1FU"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K1FU"
+publishedDateTime: 2020-12-10T12:36:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/us-election-year-shaped-by-pandemic-and-trumps-defiance"
+webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/us-election-year-shaped-by-pandemic-and-trumps-defiance"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/us-election-year-shaped-by-pandemic-and-trumps-defiance?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-10/us-election-year-shaped-by-pandemic-and-trumps-defiance?context=amp"
 type: article
-quality: 140
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544090992&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB90PO"
-    width: 745
-    height: 545
-    isCached: true
 
 related:
   - title: "Politics updates: Trump reached out to PA House speaker over election"
@@ -1087,6 +1081,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "North Korea wasted chance to improve relations under Trump, U.S. envoy says"
+    excerpt: "Pyongyang squandered an opportunity to fundamentally reinvent its relationship with the United States during Donald Trump's presidency, Washington's top North Korea envoy said on Thursday, adding he will urge his successors to continue engagement."
+    publishedDateTime: 2020-12-10T10:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-southkorea-biegun-idUSKBN28K0FN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K0FN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K0FN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544057147&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB90AK"
+        width: 806
+        height: 545
+        isCached: true
   - title: "How much protection can Trump offer his family with his pardon power? A lot."
     excerpt: "The prospective pardons, first reported by the New York Times, raise immediate questions about the president’s power to grant pardons, a power that Trump has embraced. It is, after all, precisely the sort of power that he hoped the presidency would bring: authoritative,"
     publishedDateTime: 2020-12-02T18:23:00Z
@@ -1897,6 +1907,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "vEYIAxeeV4JjsntIZzX4X8jJu2HnTAhDzgdeA/LyfSPuP+9X9hRjVaiQM3ZUZ84DXwMycZ91uU23BeEimmHd1astO2vjZu66+onTTWGdt/c6YYbDpkjvzKiIXze5nM8gbnx8rv85nkRQuc4m+H9MBBojkAfgqcIgilyL9FCA/cdfij6DwXjrnIcdPnlGwjK8azm7U1+4mkPIJToqfkjj+Jy6zcomRRIN+i11GcMytVC+jjRaatHRmlBmZj8teUEAl74udRcTFjKBT+18dr5Zi/VMIReijlsiiTLHehBAED3U8TXmD/RLIqLvk1CKXCqHYNSa6uKhq2OfFfIliWw+NxeRj9pq9UbXe7sKVPh/vM8=;jEflStW0N3042PGArwCUvA=="
+secured: "NNeQRQPFu2z8XaGX8bRiKkUtb6EDRDMToHav0KMr0k8yCa0Rg2hThu1fEtKpPWBk2BY8TNFgXVmA2Bg9B7tHu6b6nCGr5s6q79SDnO/88FsPxLHdb1nSBSd8OwsgAOuOwJxeXS0emzq3IOBVplFEApQeDnye/mdgKVhKf+8H+uAFyqMjTP6zDHOnawJZ4SurVptShUh/KrJ1AZnlYbkcCzOO88/Q5x9G584pmoY5iNh6Bea3wEi6CN/71902eKNZVGhYVnn+S76IfLC1ywaSaUaJqbUEjbDtZmp/HJwAC+2SXALM8hAxxwzO7Ex3Gr8TjR1kuyImMQmEJc1CLs//HEwI8vA1jVOXXpSiUmfLXG2myXSK9wv1HZQaDyee6svcAu/q4tXwSHRmnbNzwctaNzsAyseV7DO2xyIE5FTbiTOnseS4OMSLvaftW2Veqx410ctcHR96phqL1lYM0Icwb+4+YlW1XyENJC0s3yFysOpwCUEEoztwRZnatmD0m2+4ebpzZh2a07ql6z/F50D8DA==;FY/1Dl/MEP4TaPPzT26HoA=="
 ---
 

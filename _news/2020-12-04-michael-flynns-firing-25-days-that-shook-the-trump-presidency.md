@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New Trump admin rules make it easier for lenders to charge small businesses super-high interest rates"
+    excerpt: "\"This is my life,\" says Carlos Swepson, owner of a New York bistro with his wife. He's trying to pay off loans with an effective interest rate of 268 percent."
+    publishedDateTime: 2020-12-10T14:08:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/new-trump-administration-rules-make-it-easier-lenders-charge-small-n1250023"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250023"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250023"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3433737/201206-carlos-markisha-swepson-blvd-harlem-2x1-se-530p_43d2f696fe4dac84a7205d86a0382d51.jpg"
+        width: 2500
+        height: 1664
+        isCached: true
 
 secured: "5c5dkxkCFe3nwz8tDpx+28cSI9KjwDBjiN5YGZDFx6MdW0OOQ3OI4b0yyJR5AX6JFV9SN9EwJek2pLJ3O98HsF3coQSZkDDWIa9CU0i8nDTe0MvsTeGCspCtteMYKSYwpbgLqnqH9Hzp1SaTs3cBVitJlcvSyG4dxNP5j/cGe1MMAnRiAcDxd4sot5NepLknowpdFwa7KLK0IdonjrVg5l/2ffdPZLXER+7AUAiuU03WUA7vQjwEKRzX7xOVzNvXGN1Z90LjCmSkMr4AVGuN42nvkjT5XmGcZSJiS8JL1wzkafi+luBB5C0xh3Vv/2UUMYDAl5jw05gZ1ODYjhg0F/raIZ2HgveahHqDEq9d5Yk=;azHI+iNqXj3JBTMGWqaqHg=="
 ---

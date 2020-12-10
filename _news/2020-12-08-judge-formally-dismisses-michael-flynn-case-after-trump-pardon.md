@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/michael-flynn/index.html
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/michael-flynn/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_flynn_201203_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "New Trump admin rules make it easier for lenders to charge small businesses super-high interest rates"
+    excerpt: "\"This is my life,\" says Carlos Swepson, owner of a New York bistro with his wife. He's trying to pay off loans with an effective interest rate of 268 percent."
+    publishedDateTime: 2020-12-10T14:08:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/new-trump-administration-rules-make-it-easier-lenders-charge-small-n1250023"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250023"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250023"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3433737/201206-carlos-markisha-swepson-blvd-harlem-2x1-se-530p_43d2f696fe4dac84a7205d86a0382d51.jpg"
+        width: 2500
+        height: 1664
         isCached: true
 
 secured: "B2sgLX5lf4kK6bXQHr4BFlDrdT6BaYGDF6A7WTP+IBUSkmxJtNEMGRfH2euK/PyYW9yNb6TTEaeFCYc3q2Z7iGluhUMzS0TsYlPSay4HpnPeDg2TupdoPIDB0TvDLZj5Jt4F48LujHOCo4mt51N8YGN3AZHxEAc3wyaFV4/yXr9fJhmV9+ONHZzNEwdOcaQWmZyU1+ElIEny3GBuPLeJzq3m3bk5twol0x8UrfxiN9TK6JmUMXU2OtQRKSOdt0crNyIILRR3DdtPWJh9P7Hw8LvFHhxUfS8KlyQxJYLv+XQoAnzcJ2GNDo9O/M50io51oAPn3Rk2ZeAf6/EgfhwhRIRf/iq7Ylfm1tXf/UE17KU=;weR8s/ZkR0hrI+/dPoFAPw=="

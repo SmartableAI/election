@@ -478,6 +478,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Presidential Transition Live Updates: Biden Builds a Cabinet of Longtime Allies"
+    excerpt: "The president-elect is putting a premium on personal relationships as he selects his team. The biggest gun control advocacy group, run by former Mayor Michael Bloomberg, wants the Biden administration to act immediately with executive orders."
+    publishedDateTime: 2020-12-10T08:29:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/10/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/10/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/10/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/10/us/politics/10transition-brief-cabinet/10transition-brief-cabinet-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden urged to change immigration policy to send more health workers to Covid hot spots"
     excerpt: "Backers of the legislation think linking health worker shortages with immigration policy will resonate with the incoming administration."
     publishedDateTime: 2020-12-03T09:49:00Z

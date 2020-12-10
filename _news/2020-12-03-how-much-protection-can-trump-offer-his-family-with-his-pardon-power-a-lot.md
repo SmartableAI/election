@@ -415,22 +415,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "U.S. election year shaped by pandemic and Trump's defiance"
-    excerpt: "The U.S. presidential election was defined at first by a paralyzing coronavirus pandemic that upended traditional campaigning and then by President Donald Trump's frenzied but failing efforts to reverse his loss to Democrat Joe Biden."
-    publishedDateTime: 2020-12-10T12:52:00Z
-    webUrl: "https://www.reuters.com/article/global-poy-usa-election-idUSKBN28K1FU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K1FU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K1FU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544090992&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB90PO"
-        width: 745
-        height: 545
-        isCached: true
   - title: "Armed pro-Trump protesters gather outside Michigan elections chief's home"
     excerpt: "Jocelyn Benson says gathering in which bogus claims were made about electoral fraud was ‘unambiguous, loud and threatening’"
     publishedDateTime: 2020-12-07T14:45:00Z
@@ -1102,6 +1086,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/29/USAT/00288076-ff0d-47d5-b774-babb23ac3b4a-GTY_1229788118.jpg?auto=webp&crop=4499,2531,x0,y175&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "North Korea wasted chance to improve relations under Trump, U.S. envoy says"
+    excerpt: "Pyongyang squandered an opportunity to fundamentally reinvent its relationship with the United States during Donald Trump's presidency, Washington's top North Korea envoy said on Thursday, adding he will urge his successors to continue engagement."
+    publishedDateTime: 2020-12-10T10:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-southkorea-biegun-idUSKBN28K0FN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K0FN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K0FN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544057147&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB90AK"
+        width: 806
+        height: 545
         isCached: true
   - title: "Ivanka Trump questioned under oath in lawsuit over use of inauguration funds"
     excerpt: "Ivanka Trump, the president's daughter and adviser, was questioned under oath this week as part of a civil lawsuit alleging misuse of nonprofit funds for Donald Trump's inauguration four years ago."
@@ -1858,6 +1858,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/trump-looks-past-supreme-court-loss-to-new-election-lawsuit"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/trump-looks-past-supreme-court-loss-to-new-election-lawsuit?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/trump-looks-past-supreme-court-loss-to-new-election-lawsuit?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "U.S. Election Year Shaped by Pandemic and Trump's Defiance"
+    excerpt: "The U.S. presidential election was defined at first by a paralyzing coronavirus pandemic that upended traditional campaigning and then by President Donald Trump's frenzied but failing efforts to reverse his loss to Democrat Joe Biden."
+    publishedDateTime: 2020-12-10T12:36:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/us-election-year-shaped-by-pandemic-and-trumps-defiance"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-10/us-election-year-shaped-by-pandemic-and-trumps-defiance?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-10/us-election-year-shaped-by-pandemic-and-trumps-defiance?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

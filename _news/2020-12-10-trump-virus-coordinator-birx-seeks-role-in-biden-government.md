@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Trump virus coordinator Birx seeks role in Biden government"
-excerpt: "When Dr. Deborah Birx was brought into President Donald Trump’s orbit to help fight the coronavirus, she had a sterling reputation as a globally recognized AIDS researcher and a rare Obama administrat"
-publishedDateTime: 2020-12-10T08:23:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
-webUrl: "https://abcnews.go.com/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-virus-coordinator-birx-seeks-role-biden-government-74642705"
+excerpt: "When Dr. Deborah Birx was brought into President Donald Trump’s orbit to help fight the coronavirus pandemic, she as a former U.S. Army physician, a globally recognized AIDS researcher and a rare Obama administration holdover."
+publishedDateTime: 2020-12-10T13:51:00Z
+originalUrl: "https://www.businessinsider.com/trump-virus-coordinator-birx-seeks-role-in-biden-government-2020-12"
+webUrl: "https://www.businessinsider.com/trump-virus-coordinator-birx-seeks-role-in-biden-government-2020-12"
+ampWebUrl: "https://www.businessinsider.com/trump-virus-coordinator-birx-seeks-role-in-biden-government-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-virus-coordinator-birx-seeks-role-in-biden-government-2020-12?amp"
 type: article
-quality: 140
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_892a3d9d993a40aa8d59a93cf3f584e1_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'"
@@ -1201,6 +1195,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "Q8lBeh5JTFxUijs4w9ZY/i18JQ+QrPMhTqrS8HA5AuPYc5tM0Fo8aOmU67AJSIwfOFL26D9KUcAuG+tbOg3FdCGbxdXfRYKzN/y64U7gbw+8/AmbzPfcJb6AHqpIhCnhGhs1ayuiU6TlvrdAxSo77egFPSsC7nBowERJkNyoc07lRQ/8mMJaq98VF9zD2JSpOIHWKgWHz2epf9EmacuSntMs1WXhKimqqZNHWUN+tGj/awid/mNTuWsr9kxhajd7C2Xnz7vzkx2G/59RDY4vdTjfuLoro9wZVRC1NylVzoG7fC874S+YC+fOrLeijQOSaSy4ueZvQluEZFwUC/3/nLSOtoMM3v4q+M7mfKtNr2k=;8qRd/XBGFjz06RWBAy5r5w=="
+secured: "ClQDj8F+sGToh/dJB/6ulaCi7Hbxp6k3xRRqQjvX5+BR6unKB7KJS7tbIFax1WOOYgt/zYib/M8Sh53VuSvhXvwPWAbQ7h9zxF2ul4sDx4ffeVggI1G3Jx7ZOHMDX0c5w4jmpbZIBZ8ovEtsOm2gyEPu1W7N7diKY8Mz0NF4GKZQU9elSjInXJA6KctojL7U334N8Zg8uu7HgaQmnj021Bm/RdTOYiB6giqmz9Ecf7dH69V5xDRLmYcAJN8+cphtFp1FXFpQlBnrq+Q7PSB195GIUGfa0CH4EUsDXj2zxa/YiDCe/U7jY+u24EeRRm1bumCzLtSm75eMQQJ1FXBpFdQ8Gqktbk2Ten91RN+DirQ=;BtY0ZUu7NOUGA485+pJe1Q=="
 ---
 

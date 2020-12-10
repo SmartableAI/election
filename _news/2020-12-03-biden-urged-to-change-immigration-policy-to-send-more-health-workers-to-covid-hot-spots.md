@@ -494,6 +494,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Presidential Transition Live Updates: Biden Builds a Cabinet of Longtime Allies"
+    excerpt: "The president-elect is putting a premium on personal relationships as he selects his team. The biggest gun control advocacy group, run by former Mayor Michael Bloomberg, wants the Biden administration to act immediately with executive orders."
+    publishedDateTime: 2020-12-10T08:29:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/10/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/10/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/10/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/10/us/politics/10transition-brief-cabinet/10transition-brief-cabinet-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Presidential Transition Live Updates: Biden Sets Ambitious Pandemic Response Goals for First 100 Days"
     excerpt: "President-elect Joe Biden introduced his health team at an event in Wilmington, Del. Tuesday is the safe harbor deadline, when all state-level election challenges are supposed to be completed."
     publishedDateTime: 2020-12-08T16:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html"
 type: article
 quality: 182
-heat: 842
+heat: 862
 published: true
 
 provider:
@@ -476,6 +476,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434289/201208-llyod-austin-2016-ac-532p_ce2d18012447ed1cba44c8ffb2005a7f.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Presidential Transition Live Updates: Biden Builds a Cabinet of Longtime Allies"
+    excerpt: "The president-elect is putting a premium on personal relationships as he selects his team. The biggest gun control advocacy group, run by former Mayor Michael Bloomberg, wants the Biden administration to act immediately with executive orders."
+    publishedDateTime: 2020-12-10T08:29:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/10/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/10/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/10/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/10/us/politics/10transition-brief-cabinet/10transition-brief-cabinet-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden urged to change immigration policy to send more health workers to Covid hot spots"
     excerpt: "Backers of the legislation think linking health worker shortages with immigration policy will resonate with the incoming administration."

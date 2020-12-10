@@ -2,6 +2,167 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-08-every-day-was-like-a-veep-episode-the-veepiest-moments-of-the-trump-era.md",
+      "title": "‘Every Day Was Like a “Veep” Episode’: The Veepiest Moments of the Trump Era",
+      "excerpt": "They’re either taking from our show or doing their own version of it,” says the HBO show's executive producer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/magazine/2020/12/06/trump-veep-moments-435749",
+      "originalUrl": "https://www.politico.com/news/magazine/2020/12/06/trump-veep-moments-435749",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/ec/6f/237e902145f2a29daadcadc18d7c/veep-illo.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-trump-reportedly-limited-us-purchases-of-pfizer-vaccine-when-offered-live.md",
+      "title": "Trump reportedly limited US purchases of Pfizer vaccine when offered - live",
+      "excerpt": "New York Times reports Trump passed on the offer in late summer and the company may not be able to provide more doses until next June",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fcec0e68f0861e6ffe1e6e4",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates?page=with:block-5fcec0e68f0861e6ffe1e6e4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/730b1899663f9fe8321baaaff43b7fe1efd95b53/0_210_6016_3610/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a89c32dae22553d9c97145e7fb9681bb",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/07/coronavirus-covid-19-joe-biden-donald-trump-us-election-live-updates",
+      "publishedDateTime": "2020-12-07T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-why-is-he-planning-a-rally-when-he-won-the-election-mixed-reception-to-talk-of-trump-inaugural-rally-in-florida.md",
+      "title": "'Why is he planning a rally when he won the election?': Mixed reception to talk of Trump inaugural rally in Florida",
+      "excerpt": "Reports that President Trump is mulling a rival rally in Florida to split screen Joe Biden’s inauguration on Jan. 20 drew a mixed reaction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/07/mixed-reception-florida-talk-rival-trump-inauguration-rally/6481693002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/07/mixed-reception-florida-talk-rival-trump-inauguration-rally/6481693002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/02/NPPP/52e86767-e0ff-47b2-97c0-f6525b66a7bc-Election_2020_Trump_6.jpg?auto=webp&crop=5576,3137,x0,y283&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6481693002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6481693002",
+      "publishedDateTime": "2020-12-07T15:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-republican-lawmaker-says-the-gop-under-trump-is-advocating-for-crap-he-never-couldve-predicted.md",
       "title": "Republican lawmaker says the GOP under Trump is 'advocating for crap' he never could've predicted",
       "excerpt": "Illinois Rep. Adam Kinzinger said he'd like to see the GOP take a less divisive tone moving forward.",
@@ -1193,172 +1354,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-joe-bidens-groundhog-day-moment.md",
-      "title": "Joe Biden’s ‘Groundhog Day’ moment",
-      "excerpt": "But Joe Biden is actually living that reality. It’s not simply that Biden was elected president after serving as vice president. It’s that the situation he will face when he enters the White House next month is eerily parallel to the one he faced with Barack Obama when they were elected in 2008.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OGOMWBWPUI6XFUZADJRD4J5FU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/12/05/joe-bidens-groundhog-day-moment/?outputType=amp",
-      "publishedDateTime": "2020-12-05T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-pences-political-future-remains-clouded-by-trump.md",
-      "title": "Pence's political future remains clouded by Trump",
-      "excerpt": "Days after the election, Mike Pence called a close friend for a 30-minute conversation to analyze what had just happened and what it all might mean for the future of the Republican Party. According to this person, the vice president was upbeat about the success of GOP candidates lower down the ballot,",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ftlqIK9dZS4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ftlqIK9dZS4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 2420,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120140130-trump-pence-1113-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html",
-      "publishedDateTime": "2020-12-05T10:11:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-transition-highlights-biden-discusses-stalling-economy-amid-new-hopes-on-stimulus.md",
-      "title": "Transition Highlights: Biden Discusses ‘Stalling’ Economy Amid New Hopes on Stimulus",
-      "excerpt": "President-elect Joe Biden is urging Congress to quickly pass another virus relief plan as leaders of both parties work toward a compromise. Vice President Mike Pence said the nation faced a ‘season of hope’ as vaccine efforts advance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/12/04/us/joe-biden-trump?name=styln-transition&block=storyline_menu_recirc&impression_id=67afa5a0-3783-11eb-88c4-0f428f2c6ac4&variant=undefined",
-      "originalUrl": "https://www.nytimes.com/live/2020/12/04/us/joe-biden-trump?name=styln-transition&block=storyline_menu_recirc&impression_id=67afa5a0-3783-11eb-88c4-0f428f2c6ac4&variant=undefined",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/04/us/politics/04transition-briefing-biden-jobs/merlin_180779328_573c5cc9-0524-4153-a319-93334f6b8c48-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/12/04/us/joe-biden-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/04/us/joe-biden-trump.amp.html",
-      "publishedDateTime": "2020-12-05T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],
