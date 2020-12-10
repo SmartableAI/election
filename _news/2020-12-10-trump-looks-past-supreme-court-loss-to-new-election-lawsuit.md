@@ -399,6 +399,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "U.S. election year shaped by pandemic and Trump's defiance"
+    excerpt: "The U.S. presidential election was defined at first by a paralyzing coronavirus pandemic that upended traditional campaigning and then by President Donald Trump's frenzied but failing efforts to reverse his loss to Democrat Joe Biden."
+    publishedDateTime: 2020-12-10T12:52:00Z
+    webUrl: "https://www.reuters.com/article/global-poy-usa-election-idUSKBN28K1FU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K1FU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K1FU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544090992&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB90PO"
+        width: 745
+        height: 545
+        isCached: true
   - title: "Armed pro-Trump protesters gather outside Michigan elections chief's home"
     excerpt: "Jocelyn Benson says gathering in which bogus claims were made about electoral fraud was ‘unambiguous, loud and threatening’"
     publishedDateTime: 2020-12-07T14:45:00Z
@@ -1881,6 +1897,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "yEXvpRAnMHewdPNVlBK2daMmA3YQavuUgcDBcZd7wD2MTr37H22iVxOLDGYhGN1539uJYJvxc71yR9+3VkmvncGJ6EfIkqdWNiLdcZg+URPO1jv1Z2+16eO+rkT7Nh0KD+QxOdY8DIelZIt1F1U59HBoUlH/iKWFc5b0SPPMeum9KNSnELrvY5HOHA1W2H4jW1PrnlZbjmt6XkC5ZU6+CxPelAaSD+oo1yGAF+S76JiviLIhvcvDc1KM0iVHD6LDNfsLQKPpJFi15gTn2iNtjjDYw49x2mhy5kbqUIimdemb4m1bXrXt2isrlm2F8icuk81fGQLXch6jnxfJ2+FmzaLELrXB6vkTQEG1EKV7+hE=;sGH61NJ2vjDtCMfZTEWpUg=="
+secured: "2nxadt3YqO7PrcGwIyGS5mKqpOOWNkKQ0whuzFylD1ATZyRFtK2H/IBAymnRSkXT6JU+bOPQTZ31do/0YZs5g85dgRgg18t3up4xJSPjw3p9KKuWMY/OEamRA7BtFvaIz6lEdWT/BPKBeW22ZOgZoOEZUcsda+C863YJygqdXlCpAqlRXcUbIz49es5Wsb7xexrkXLHTlC8vIPHPK06GaBHDvUE9+OzT0asukLOcAtN0+S3yNv9jdAlOOTPqBXRYLf5TB2Dmnjkya94nM4AD2T47UV37PVwPt8APDDlFDuZIeE0e+apbZVhmAn6u6mDto9SICvCSnbRhe3Frv1tI8rd0Uc7WHALfPsf2JHtjcVNNkh+siOZeJo00ev60D6I9oEjUWLeMPQOOnSZM1dhSwj0MiFTq7N9clEhxl2kUovPSgJy3LgrRAUJzRsyEaTEqI5SCRiyI63/EXC+1eXyepz/D3Cf6kFImdUmCwxSSKS9ZEoeVbfD5POe0Z73oR0yzne2aHx87qnEjt2S5qlD9qA==;Md432ONSM1cycQp7vB2WGg=="
 ---
 

@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Explaining the Supreme Court lawsuit from Texas and Trump challenging Biden's win"
+    excerpt: "Although all 50 states have certified their election results and the Supreme Court swiftly rejected an emergency request from Pennsylvania Republicans to block election results in the commonwealth, the justices are now grappling with a new controversial bid from Texas, supported by President Donald Trump"
+    publishedDateTime: 2020-12-10T12:07:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WL5vIx4arp0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209213654-ken-paxton-donald-trump-200611-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden picks up small number of votes in Milwaukee County after Trump-requested recount"
     excerpt: "President-elect Joe Biden saw a small net gain in votes as Milwaukee County, Wisconsin's largest, certified its presidential general election results Friday after a recount requested by the Trump campaign.\n    \n"
     publishedDateTime: 2020-11-28T01:46:41Z
@@ -364,6 +380,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Biden to campaign in Atlanta"
+    excerpt: "And, yeah, I just think that’s something that we’re looking to see is, it’s something that I hope will be pushed.” BIDEN will travel to Atlanta on Tuesday for JON OSSOFF and RAPHAEL WARNOCK. VP MIKE PENCE will be in Georgia for a rally today."
+    publishedDateTime: 2020-12-10T11:13:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2020/12/10/biden-to-campaign-in-atlanta-491110"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f5/13/5df7571442f1ae4d5fb0b76da76f/201210-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "MFezHRZJsaG4CikEOSATZRJU388xSdhopUpjryoHbm5TnWNg2xojH0rDUeQ1mq0dwGq2Il+mZoRx4rd1GGiqNoQGdqgeEdXKYVwFcpij73u5I/iPRrXfgycexXSot+VCNwBoB4gKJ1MZRkapIXjXmz874ZDmD1TIJUSToGMdA7UxDWWdYkf9pWTviqjs+wrkTxcutlO4AMiqyIY6uGxU/knkzUR7bVy4Xo70fgE2nHMDRzVfnbtUh9M2rpkZjGJx2kex0S+92i1fZjPsstckQ+LnDzdD7UeZKCJPTZo/ZS9xQBk05HQtFE3z/tWWHjqCE+riMLG0TNlLlamD25yukk6SMoeqMd2wQyZGQi0c3L0=;OXZvFfXDHNj32eQnccBJvg=="

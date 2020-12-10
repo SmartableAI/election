@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/eric-swalwell-donald-trump-jr-spy.a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-donald-trump-jr-spy.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/640/320/Eric-Swalwell-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "After entanglement with Chinese spy, Eric Swalwell warned of 'influx of Russians' in US politics under Trump"
+    excerpt: "Calif., was one of several politicians involved in an expansive Chinese spying operation and even after he was briefed on the foreign interference he experienced first-hand, he kept his focus publicly on Russia during the Trump presidency."
+    publishedDateTime: 2020-12-10T11:19:00Z
+    webUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-chinese-spy-influx-of-russians.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/640/320/Eric-Swalwell-AP.jpg?ve=1&tl=1"
         width: 640

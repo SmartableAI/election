@@ -543,6 +543,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump won't move on even as those around him are"
+    excerpt: "Standing alone at the base of the garland-wrapped Grand Staircase on Tuesday, President Donald Trump seemed miffed that people around him have given up on overturning the election.\n    \n"
+    publishedDateTime: 2020-12-10T12:01:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tPIj1eAb6Sw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/trump-alone-election-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/trump-alone-election-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130728-02-trump-1203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ex-Presidents fill leadership vacuum as Trump ignores worsening pandemic"
     excerpt: "This is what presidential leadership looks like.\n    \n"
     publishedDateTime: 2020-12-03T09:11:11Z
@@ -700,6 +716,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127050331-02-donald-trump-thanksgiving-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Vaccine meeting offers glimmer of hope for the future while Trump harps on the past"
+    excerpt: "Americans could get the first real glimmer of hope that there will be an end to the pandemic that has upended their lives Thursday, when a key advisory panel takes a vote that could clear the way for the US Food and Drug Administration to greenlight a Covid-19 vaccine within days.\n    \n"
+    publishedDateTime: 2020-12-10T12:17:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vcwEf9-46FE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/fda-vaccine-authorization-donald-trump-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/fda-vaccine-authorization-donald-trump-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209192032-trump-medal-of-freedom-dan-gable-oval-office-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -573,6 +573,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "GOP senator says he's 'unconvinced' by a Texas lawsuit — backed by Trump and 17 states — that aims to overturn the 2020 election"
+    excerpt: "US Sen. John Cornyn said states have a right to administer their own elections, pushing back against a Republican effort to overturn Trump's loss."
+    publishedDateTime: 2020-12-10T12:17:00Z
+    webUrl: "https://www.businessinsider.com/gop-sen-john-cornyn-criticizes-lawsuit-aimed-overturning-biden-win-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/gop-sen-john-cornyn-criticizes-lawsuit-aimed-overturning-biden-win-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-sen-john-cornyn-criticizes-lawsuit-aimed-overturning-biden-win-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5f92c547abcd0c0018d69485?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump loyalist Loeffler's attacks on pastor Warnock risk suburban votes in Georgia's U.S. Senate race"
     excerpt: "Beau Davis, a 33-year-old security specialist from the Atlanta suburbs, is the kind of voter Republican Senators Kelly Loeffler and David Perdue may need to win runoff elections next month that will determine the balance of power in Washington."
     publishedDateTime: 2020-12-04T12:12:00Z
@@ -826,6 +842,22 @@ related:
     quality: 75
     images:
       - url: "https://media.11alive.com/assets/WXIA/images/f35f42d2-ad5f-43ad-ac33-bffd4a4f4fbc/f35f42d2-ad5f-43ad-ac33-bffd4a4f4fbc_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Mike Pence in Georgia again today | Everything to know"
+    excerpt: "Vice President Mike Pence will again visit Georgia today, a frequent stop of his as the Trump administration looks to continue supporting Sens. Kelly Loeffler and David Perdue in their re-election bid."
+    publishedDateTime: 2020-12-10T12:33:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-georgia-visit-augusta/85-e15ee5b3-11bb-427e-9c96-1be0b84a40dd"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-augusta/85-e15ee5b3-11bb-427e-9c96-1be0b84a40dd"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-augusta/85-e15ee5b3-11bb-427e-9c96-1be0b84a40dd"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 75
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/82da2ba8-be52-41c2-828a-4abe03641f27/82da2ba8-be52-41c2-828a-4abe03641f27_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

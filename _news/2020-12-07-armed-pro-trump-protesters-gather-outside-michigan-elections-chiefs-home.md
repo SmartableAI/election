@@ -415,6 +415,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "U.S. election year shaped by pandemic and Trump's defiance"
+    excerpt: "The U.S. presidential election was defined at first by a paralyzing coronavirus pandemic that upended traditional campaigning and then by President Donald Trump's frenzied but failing efforts to reverse his loss to Democrat Joe Biden."
+    publishedDateTime: 2020-12-10T12:52:00Z
+    webUrl: "https://www.reuters.com/article/global-poy-usa-election-idUSKBN28K1FU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K1FU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K1FU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544090992&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB90PO"
+        width: 745
+        height: 545
+        isCached: true
   - title: "Texas gets support from 17 states in bid to help Trump undo election loss"
     excerpt: "Texas drew support on Wednesday from 17 other U.S. states in its long-shot bid to have the Supreme Court overturn President Donald Trump's election loss by throwing out the voting results from Georgia,"
     publishedDateTime: 2020-12-09T21:30:00Z

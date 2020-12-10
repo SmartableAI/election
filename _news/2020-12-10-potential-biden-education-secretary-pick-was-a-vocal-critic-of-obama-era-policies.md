@@ -431,6 +431,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Biden to campaign in Georgia for Senate candidates Ossoff, Warnock"
+    excerpt: "President-elect Joe Biden will be in Georgia next week to campaign for Democratic Senate candidates Jon Ossoff and Raphael Warnock."
+    publishedDateTime: 2020-12-10T04:40:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XRtnZJSz4xA/live-updates-senate-12-10-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-senate-12-10-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-senate-12-10-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e9e271f-ce01-4542-baeb-3dc605c526a6/6d9bc3da-2ec9-44b8-9e71-79c685935a6f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Trump to campaign in Georgia for GOP senators ahead of January runoff"
     excerpt: "President Trump said Thursday that he plans to visit Georgia to campaign for incumbent Republican Sens. Kelly Loeffler and David Perdue ahead of their Jan. 5 runoff elections. "
     publishedDateTime: 2020-11-27T12:15:48Z

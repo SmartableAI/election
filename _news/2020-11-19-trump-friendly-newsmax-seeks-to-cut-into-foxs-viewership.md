@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-friendly-ne
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-friendly-newsmax-sudden-competitor-fox-news-74279611"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/7830cfd/2147483647/strip/true/crop/7360x4807+0+53/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe9%2Fa8%2F02f0cf3f4c3c97513c9d4d7adcc1%2F463751-la-et-ct-fox-news-polls019.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "FOCUS-Newsmax plans expansion to capitalize on Trump support, anger at Fox News"
+    excerpt: "Newsmax, a conservative cable news channel promoted by President Donald Trump, plans to expand in the United States and Britain, Chief Executive Chris Ruddy told Reuters."
+    publishedDateTime: 2020-12-10T11:14:00Z
+    webUrl: "https://www.reuters.com/article/media-conservative/focus-newsmax-plans-expansion-to-capitalize-on-trump-support-anger-at-fox-news-idUSL1N2IK2B5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IK2B5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IK2B5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544083608&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB90M9"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump allies are reportedly considering buying out Newsmax to build a strong competitor to Fox News"
     excerpt: "Fox News viewers have been navigating over to Newsmax after the network declared Biden as the winner."
