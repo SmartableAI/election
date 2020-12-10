@@ -543,6 +543,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Fact check: Biden won the most total votes — and the fewest total counties — of any president-elect"
+    excerpt: "Opponents have cited the small number of counties Joe Biden won to question if he truly won the most votes of any presidential candidate in history."
+    publishedDateTime: 2020-12-10T01:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/09/fact-check-joe-biden-won-most-votes-ever-and-fewest-counties/3865097001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3865097001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3865097001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/9f70ffd8-a8b4-4497-b1de-018d10ca07fe-2020-elections-topper-02.png?auto=webp&crop=7967,4481,x16,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Completed Wisconsin recount confirms Biden's win"
     excerpt: "Wisconsin finished its two-county presidential results recount on Sunday, confirming Democrat Joe Biden's victory over President Donald Trump. The Dane and Milwaukee County totals found Biden adding 87 to his 20,"
     publishedDateTime: 2020-11-30T07:58:00Z

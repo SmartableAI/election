@@ -415,6 +415,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Potential Biden education secretary pick was a vocal critic of Obama-era policies"
+    excerpt: "Eskelsen Garcia criticized Obama for emphasizing the role of standardized testing."
+    publishedDateTime: 2020-12-10T00:54:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5I8R3e8XXPA/potential-biden-education-secretary-critic-obama"
+    ampWebUrl: "https://www.foxnews.com/politics/potential-biden-education-secretary-critic-obama.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/potential-biden-education-secretary-critic-obama.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bcb73ed2-d096-4c2f-8bbf-41e6cf993a64/374ed0ec-5351-4c8c-b62c-0eca14538fda/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Trump to campaign in Georgia for GOP senators ahead of January runoff"
     excerpt: "President Trump said Thursday that he plans to visit Georgia to campaign for incumbent Republican Sens. Kelly Loeffler and David Perdue ahead of their Jan. 5 runoff elections. "
     publishedDateTime: 2020-11-27T12:15:48Z
@@ -638,6 +654,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-2.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Following Trump, Biden Seeks Waiver for Defense-Chief Pick"
+    excerpt: "The nomination of the retired Army general renews a debate about civil-military relations and could put some congressional Democrats in the position of defending a move they had criticized four years ago."
+    publishedDateTime: 2020-12-10T02:10:00Z
+    webUrl: "https://www.wsj.com/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-270768/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Seventeen states, Trump join Texas SCOTUS suit to toss Biden electors"
     excerpt: "Seventeen states on Wednesday filed a brief with the Supreme Court siding with a Texas lawsuit against four battleground states Joe Biden won — charging that they acted"

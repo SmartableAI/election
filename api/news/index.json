@@ -2,6 +2,287 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-10-trump-asked-ted-cruz-to-argue-texas-election-lawsuit-if-it-reaches-supreme-court.md",
+      "title": "Trump asked Ted Cruz to argue Texas election lawsuit if it reaches Supreme Court",
+      "excerpt": "President Donald Trump personally asked Republican Sen. Ted Cruz of Texas if he would argue a long-shot election lawsuit seeking to overturrn the election results in four battleground states, should the Supreme Court agree to take it up, two sources told CNN on Wednesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HcIORmwVZHw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HcIORmwVZHw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201013140500-14-barrett-hearing-1013-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html",
+      "publishedDateTime": "2020-12-09T18:29:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-cnns-john-avlon-compares-trump-election-challenge-supporters-to-confederates.md",
+      "title": "CNN's John Avlon compares Trump election challenge supporters to 'Confederates'",
+      "excerpt": "CNN senior political analyst John Avlon compared President Trump and supporters of his ongoing efforts to challenge the results of the 2020 presidential election to \"Confederates\" in support of slavery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates",
+      "originalUrl": "https://www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0089e4b9-29c4-49b8-8005-562d83395371/4dee8747-4a34-412f-8c8e-6c396e994b06/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates.amp",
+      "publishedDateTime": "2020-12-09T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-michigan-state-rep-threatens-trumpers-calls-on-soldiers-to-make-them-pay.md",
+      "title": "Michigan state rep. threatens 'Trumpers,' calls on 'soldiers' to 'make them pay'",
+      "excerpt": "Democrat Michigan state Rep. Cynthia Johnson was stripped of her committee seats by senior GOP state officials after she released a video on Facebook Tuesday, as a warning to Trump supporters who had left her threatening messages.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X4u40vLXvUw/michigan-state-rep-threatens-trumpers-calls-on-soldiers-to-make-them-pay",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X4u40vLXvUw/michigan-state-rep-threatens-trumpers-calls-on-soldiers-to-make-them-pay",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d949b97e-0bd4-4ac9-a84a-f695a9768fe3/6ac99de3-ed39-49ea-93fa-03e61ba34473/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/michigan-state-rep-threatens-trumpers-calls-on-soldiers-to-make-them-pay.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-state-rep-threatens-trumpers-calls-on-soldiers-to-make-them-pay.amp",
+      "publishedDateTime": "2020-12-09T17:39:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-obama-says-trump-did-serious-damage-to-policy-accomplishments-but-aca-remains-robust.md",
+      "title": "Obama says Trump did 'serious damage' to policy accomplishments but ACA 'remains robust'",
+      "excerpt": "President Trump has sought to roll back several major Obama-era policies since 2016.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_RhCt2v2DU/obama-trump-damage-policy-aca-robust",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_RhCt2v2DU/obama-trump-damage-policy-aca-robust",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e612c89-ef37-4a64-a3f7-916b3397e4bc/9dbd64bc-d36d-47ae-9455-7173f4a16be7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/obama-trump-damage-policy-aca-robust.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-damage-policy-aca-robust.amp",
+      "publishedDateTime": "2020-12-09T17:30:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-senate-fails-to-block-trump-backed-arms-sale-to-united-arab-emirates.md",
+      "title": "Senate fails to block Trump-backed arms sale to United Arab Emirates",
+      "excerpt": "The Senate on Wednesday failed to pass two disapproval resolutions pushed by a bipartisan group of senators to block a $23 billion US arms sale to the United Arab Emirates that was approved by the Trump administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jVRB1oQWfZQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jVRB1oQWfZQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/121231065730-capitol-hill-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html",
+      "publishedDateTime": "2020-12-09T17:18:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit.md",
       "title": "Facebook encounters bipartisan backlash as AOC supports Trump administration's lawsuit",
       "excerpt": "Facebook is uniting both sides of the aisle with its alleged anti-competitive behavior.",
@@ -222,62 +503,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-09-trump-asks-supreme-court-to-invalidate-millions-of-votes-in-battleground-states.md",
-      "title": "Trump asks Supreme Court to invalidate millions of votes in battleground states",
-      "excerpt": "President Donald Trump asked the Supreme Court on Wednesday to block millions of votes from four battleground states that voted for President-elect Joe Biden.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mh_Ek74Hwd0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mh_Ek74Hwd0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201208210108-trump-file-1113-02-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html",
-      "publishedDateTime": "2020-12-09T14:36:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-09-hunter-biden-tax-affairs-under-federal-investigation.md",
       "title": "Hunter Biden 'tax affairs' under federal investigation",
       "excerpt": "The U.S. Attorney’s Office in Delaware is investigating Hunter Biden’s “tax affairs,” President-elect Joe Biden’s son confirmed on Wednesday, saying he is taking the matter “very seriously” and is “confident” he handled his affairs “legally and appropriately.” \u2028",
@@ -290,7 +515,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -559,7 +784,7 @@
       "originalUrl": "https://www.floridatoday.com/story/tech/science/space/2020/12/09/vice-president-pence-announces-official-name-change-patrick-space-force-base/6506564002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -980,63 +1205,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-09-why-safe-harbor-day-is-bad-news-for-trump.md",
-      "title": "Why ‘safe harbor day’ is bad news for Trump",
-      "excerpt": "Under federal law, states must certify their election results and resolve any leftover legal issues by December 8. If they do, Congress must recognize their electors. The attorney general of Texas said his state is asking the Supreme Court to delay the electoral college meeting,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/why-safe-harbor-day-is-bad-news-for-trump-97357381564",
-      "originalUrl": "https://www.nbcnews.com/now/video/why-safe-harbor-day-is-bad-news-for-trump-97357381564",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_safeharbdead_201208_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo97357381564",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97357381564",
-      "publishedDateTime": "2020-12-08T14:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-08-biden-names-retired-gen-lloyd-austin-as-secretary-of-defense-nominee.md",
       "title": "Biden names retired Gen. Lloyd Austin as secretary of defense nominee",
       "excerpt": "President-elect Joe Biden has named retired Army Gen. Lloyd Austin as his nominee for secretary of defense, the Biden transition team announced Tuesday.\n    \n",
@@ -1198,171 +1366,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-chris-cuomo-blasts-gop-congressman-for-skipping-his-show-over-trump-election-claim-questions.md",
-      "title": "Chris Cuomo blasts GOP congressman for skipping his show over Trump election-claim questions",
-      "excerpt": "Rep. Dusty Johnson (R-S.D.) replied that he was ready to discuss covid relief but not “hyper-partisan issues.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/",
-      "originalUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UGSSZGRVTUI6XFUZADJRD4J5FU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/?outputType=amp",
-      "publishedDateTime": "2020-12-08T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-ex-cyber-official-krebs-sues-trump-campaign-over-its-attacks-on-election-results.md",
-      "title": "Ex-cyber official Krebs sues Trump campaign over its attacks on election results",
-      "excerpt": "Chris Krebs, the former top administration official for cybersecurity, whom President Donald Trump fired after the election, is suing the Trump campaign and a lawyer working with the campaign to overturn the results of the election, accusing them of defamation.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZopmFt4DcPk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZopmFt4DcPk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201112172947-02-chris-krebs-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/08/politics/chris-krebs-lawsuit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/chris-krebs-lawsuit/index.html",
-      "publishedDateTime": "2020-12-08T11:59:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-trump-won-new-yorks-suffolk-county-why-that-signals-hope-for-democrats.md",
-      "title": "Trump Won New York’s Suffolk County. Why That Signals Hope for Democrats.",
-      "excerpt": "A razor-thin GOP margin in the most populous county carried by President Trump gives Democrats hope that an urban electoral coalition is putting down deeper roots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "originalUrl": "https://www.wsj.com/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-267145/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "publishedDateTime": "2020-12-08T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,106 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-01-former-top-admiral-alarmed-by-pentagon-purge-says-trump-still-has-time-to-do-something-really-destructive.md",
+      "title": "Former top admiral alarmed by Pentagon purge says Trump still has time to do something 'really destructive'",
+      "excerpt": "\"There are some real Trump loyalists there now in charge,\" former Chairman of the Joint Chiefs of Staff Adm. Mike Mullen said Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11",
+      "originalUrl": "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc54a4550e71a0011558043?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-joint-chiefs-chairman-alarmed-by-trump-administration-pentagon-purge-2020-11?amp",
+      "publishedDateTime": "2020-11-30T12:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-trump-rips-60-minutes-for-not-contacting-him-after-chris-krebs-interview.md",
+      "title": "Trump rips ‘60 Minutes’ for not contacting him after Chris Krebs interview",
+      "excerpt": "President Trump blasted CBS’ “60 Minutes” for not contacting him for comment after interviewing the administration’s former cybersecurity chief, whom Trump fired earlier",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/11/30/trump-blasts-60-minutes-for-not-contacting-him-to-comment-on-chris-krebs/",
+      "originalUrl": "https://nypost.com/2020/11/30/trump-blasts-60-minutes-for-not-contacting-him-to-comment-on-chris-krebs/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/chris-krebs-34.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/11/30/trump-blasts-60-minutes-for-not-contacting-him-to-comment-on-chris-krebs/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/30/trump-blasts-60-minutes-for-not-contacting-him-to-comment-on-chris-krebs/amp/",
+      "publishedDateTime": "2020-11-30T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-trump-lashes-out-on-twitter-as-former-top-dhs-official-reasserts-that-election-was-secure.md",
       "title": "Trump lashes out on Twitter as former top DHS official reasserts that election was ‘secure’",
       "excerpt": "Trump turned to his Twitter feed to excoriate Christopher Krebs and \"60 Minutes,\" calling it “fake news,” and reasserting his unproven claims that the election was rigged.",
@@ -1438,110 +1538,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-stephen-moore-says-that-trump-will-leave-office-triumphant-comparing-him-to-winston-churchill.md",
-      "title": "Stephen Moore says that Trump will leave office 'triumphant,' comparing him to Winston Churchill",
-      "excerpt": "\"Sometimes I think he's like Winston Churchill,\" Moore said of President Trump who took offense to similar comparisons made in the past.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11",
-      "originalUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fbab1dc50e71a0011556b3f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11?amp",
-      "publishedDateTime": "2020-11-22T11:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-michigan-leader-trump-didnt-ask-for-election-interference.md",
-      "title": "Michigan leader: Trump didn’t ask for election interference",
-      "excerpt": "Michigan House Speaker Lee Chatfield says President Donald Trump didn’t ask the state’s Republican lawmakers to “break the law” or “interfere” with the election during a meeting at the White House",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/michigan-leader-trump-didnt-ask-for-election-interference/2020/11/22/c8220a98-2cd6-11eb-9dd6-2d0179981719_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/michigan-leader-trump-didnt-ask-for-election-interference/2020/11/22/c8220a98-2cd6-11eb-9dd6-2d0179981719_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 580,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/michigan-leader-trump-didnt-ask-for-election-interference/2020/11/22/c8220a98-2cd6-11eb-9dd6-2d0179981719_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/michigan-leader-trump-didnt-ask-for-election-interference/2020/11/22/c8220a98-2cd6-11eb-9dd6-2d0179981719_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-22T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

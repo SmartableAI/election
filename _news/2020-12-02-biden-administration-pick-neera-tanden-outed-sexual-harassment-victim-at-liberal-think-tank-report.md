@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "FLASHBACK: President-elect Biden pledged not to interfere with DOJ investigations in 2019"
+    excerpt: "“I would not dictate who should be prosecuted or who should be exonerated,\" Biden said during a debate in Nov. 2019."
+    publishedDateTime: 2020-12-10T02:54:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u734thyHz58/flashback-president-elect-biden-pledged-not-to-interfere-with-doj-investigations-in-2019"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-president-elect-biden-pledged-not-to-interfere-with-doj-investigations-in-2019.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-president-elect-biden-pledged-not-to-interfere-with-doj-investigations-in-2019.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c6b162e-be50-4a77-a376-4c526d5ece40/312aac65-1e1b-4147-8427-2f66b8964cf2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden DHS pick had 'inappropriate' involvement in drug trafficker's commutation: Investigation"
     excerpt: "Alejandro Mayorkas has admitted to making a mistake in weighing in on the case."
     publishedDateTime: 2020-12-02T22:21:02Z
@@ -92,6 +108,22 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49b0b770-d1a5-4b49-9a85-1c15f2b095e4/8bd1ef1e-2fd7-4e4e-943b-e043a0b90b63/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hunter Biden’s foreign transactions repeatedly flagged as potential criminal activity, Senate probe found"
+    excerpt: "A Republican-led Senate investigation noted “potential criminal activity” among his transactions."
+    publishedDateTime: 2020-12-10T02:24:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X0N6doesa9k/hunter-biden-foreign-transactions-potential-criminal-activity-senate-probe"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-foreign-transactions-potential-criminal-activity-senate-probe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-foreign-transactions-potential-criminal-activity-senate-probe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c6b162e-be50-4a77-a376-4c526d5ece40/312aac65-1e1b-4147-8427-2f66b8964cf2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

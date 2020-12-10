@@ -2,6 +2,174 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-24-biden-dhs-pick-mayorkas-intervened-to-help-democrat-connected-foreign-investors-ig.md",
+      "title": "Biden DHS pick Mayorkas intervened to help Democrat-connected foreign investors: IG",
+      "excerpt": "President-elect Joe Biden's pick for Homeland Security secretary, Alejandro Mayorkas, faced criticism during the Obama administration after a scathing inspector general report found that he intervened to help foreign investors in the EB-5 visa program who were connected to top Democrats.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/789WRB_4Lf4/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/789WRB_4Lf4/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/alejandro-Mayorkas-2-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors.amp",
+      "publishedDateTime": "2020-11-24T08:13:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-joe-concha-media-coverage-of-biden-transition-has-been-just-like-the-campaign-no-scrutiny.md",
+      "title": "Joe Concha: Media coverage of Biden transition has been just like the campaign, 'no scrutiny'",
+      "excerpt": "President-elect Joe Biden’s transition period will be fawned over by the media compared with President Trump, Fox News contributor Joe Concha said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mYW08oLSRtA/joe-concha-coverage-biden-transition-just-like-campaign-no-questions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mYW08oLSRtA/joe-concha-coverage-biden-transition-just-like-campaign-no-questions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-concha-coverage-biden-transition-just-like-campaign-no-questions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-concha-coverage-biden-transition-just-like-campaign-no-questions.amp",
+      "publishedDateTime": "2020-11-24T07:43:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-us-should-encourage-chinas-rise-biden-national-security-pick-jake-sullivan-says.md",
+      "title": "US should encourage China's rise, Biden national security pick Jake Sullivan says",
+      "excerpt": "Sullivan served as an adviser to Biden during his vice presidency.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VSIeeNJYMJg/biden-national-security-pick-jake-sullivan-us-chinas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VSIeeNJYMJg/biden-national-security-pick-jake-sullivan-us-chinas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c99b2eab-fccd-4bca-bd8a-6c50dcb0b717/753df433-c345-48e6-b3a0-496c55d655a5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-national-security-pick-jake-sullivan-us-chinas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-pick-jake-sullivan-us-chinas.amp",
+      "publishedDateTime": "2020-11-23T19:06:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-rep-michael-waltz-biden-cabinet-picks-represent-headlong-push-back-to-obama-era-foreign-policy.md",
       "title": "Rep. Michael Waltz: Biden Cabinet picks represent 'headlong push' back to Obama-era foreign policy",
       "excerpt": "President-elect Joe Biden's Cabinet choices indicate he will reprise the Obama administration's \"disastrous\" foreign policy, especially in the Middle East, Rep. Michael Waltz, R-Fla., warned on Monday.",
@@ -1474,174 +1642,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-faces-economic-redline.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-faces-economic-redline.amp",
       "publishedDateTime": "2020-11-19T13:53:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-trump-campaign-drops-lawsuit-challenging-michigan-voting-results.md",
-      "title": "Trump campaign drops lawsuit challenging Michigan voting results",
-      "excerpt": "President Trump's reelection campaign said Thursday that it is dropping a lawsuit challenging voting results in Michigan, which show Democrat Joe Biden narrowly carrying the battleground state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a98bd85-8cb6-40db-a341-bed123126296/b14b578b-9eab-4265-bd71-466ccf3a8c4c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp",
-      "publishedDateTime": "2020-11-19T08:20:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-19-spike.md",
-      "title": "Biden hasn't said anything on Newsom dinner controversy amid COVID-19 spike",
-      "excerpt": "California Gov. Gavin Newsom is still facing backlash for dining at a restaurant with a large group while pushing new coronavirus restrictions on indoor dining during a spike in cases, and President-elect Joe Biden has yet to weigh in on the matter.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5_vEytGCGE/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5_vEytGCGE/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11af338c-b330-4a30-86d5-5183dcb461b1/72b511e0-3f69-4b8d-9e92-292161ee6f79/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike.amp",
-      "publishedDateTime": "2020-11-19T08:17:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up.md",
-      "title": "Reince Priebus reacts to Wis. Dems' rule-change try following Trump recount filing: ‘You can’t make this up!'",
-      "excerpt": "Former White House Chief of Staff Reince Priebus reacted on Twitter late Wednesday to the election situation in Wisconsin.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S35GgfTHxSQ/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S35GgfTHxSQ/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Reince-Preibus-Latino.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up.amp",
-      "publishedDateTime": "2020-11-19T00:00:52-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

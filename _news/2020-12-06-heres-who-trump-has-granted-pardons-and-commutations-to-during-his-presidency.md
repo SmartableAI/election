@@ -1344,6 +1344,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "How Trump’s Judges Got in the Way of Trump"
+    excerpt: "Nothing underlines the merits of Trump judicial selections quite like their willingness to deny him and his allies, as warranted."
+    publishedDateTime: 2020-12-10T00:20:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/12/09/how-trumps-judges-got-in-the-way-of-trump-444023"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/12/09/how-trumps-judges-got-in-the-way-of-trump-444023"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/09/how-trumps-judges-got-in-the-way-of-trump-444023"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/fd/23/e13cfe8f41a886cc36f8ddfee9c1/201209-gorsuch-kavanaugh-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "On eve of U.S. vaccine approval, Trump cranks up the politics"
     excerpt: "Trump’s overly optimistic “I told you so” predictions versus Joe Biden’s “we’ll get there, but it will be tough” message."
     publishedDateTime: 2020-12-09T20:45:00Z
@@ -1469,6 +1485,20 @@ related:
     quality: 133
     images:
       - url: "https://static.politico.com/3d/f8/d0e8b96e4de382170de73b63bd1e/201205-trump-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump looks to jump into Texas case to overturn election results"
+    excerpt: "The president’s Supreme Court filing is his latest — and potentially last — long-shot legal avenue to reverse a Biden victory."
+    publishedDateTime: 2020-12-09T23:40:00Z
+    webUrl: "https://www.politico.com/news/2020/12/09/trump-texas-election-results-444014"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/d1/d4/6a1d605542608bbd7114fa3ef79e/ap20311845109752-1.jpg"
         width: 1160
         height: 773
         isCached: true

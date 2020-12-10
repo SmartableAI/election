@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Despite Trump's Venting and Threats, Biden's Win Is Sealed"
-excerpt: "There’s plenty of noise but no cause for confusion as President Donald Trump vents about how the election turned out and vows to subvert it even still. This truth is self-evident: Joe Biden is on track to become president Jan."
-publishedDateTime: 2020-12-09T22:29:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/despite-trumps-venting-and-threats-bidens-win-is-sealed"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/despite-trumps-venting-and-threats-bidens-win-is-sealed"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/despite-trumps-venting-and-threats-bidens-win-is-sealed?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/despite-trumps-venting-and-threats-bidens-win-is-sealed?context=amp"
+title: "Despite Trump's venting and threats, Biden's win is sealed"
+excerpt: "There’s plenty of noise but no cause for confusion as President Donald Trump vents about how the election turned out and vows to subvert it even still."
+publishedDateTime: 2020-12-10T02:58:00Z
+originalUrl: "https://www.businessinsider.com/despite-trumps-venting-and-threats-bidens-win-is-sealed-2020-12"
+webUrl: "https://www.businessinsider.com/despite-trumps-venting-and-threats-bidens-win-is-sealed-2020-12"
+ampWebUrl: "https://www.businessinsider.com/despite-trumps-venting-and-threats-bidens-win-is-sealed-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/despite-trumps-venting-and-threats-bidens-win-is-sealed-2020-12?amp"
 type: article
-quality: 70
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -1184,6 +1184,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "Rksi8KsmTE+KCu/AMScFEYGQpA1XAkVjTiF0fQHGJ53Bp3bcmAFKrKKkKmvyCK6La1ujDKKcWBD5OvuCHX4a5E+ugLin1aAGubMXmkISPP5TY/fZCHnc2SUZ5/yItsh7xU2MhI49mge0ft/0Yj1iR+DP3RHeB/qP5IYS0tImx3usPjxWPpYCJi+M/FZZzvUOm+OmfDYv0M8VjHiI3OuNkPZTYHSxOZ1wBoYGhEYpIjvm3qWZsCfLTSIGYbp83Z+kAI5Dtk57YE0VZqnOsv0UVhG58eVU6xYmHUewwYTiioOWspgB0AJ9oLp/buu7IRiRj/aVRejX9fiKAZwwNlzTb+IIKCe6D0cAYPILGiBzK9s59qaZTWm5c/CN4MsXKxcOKb3rdCG7cVe5sIrO1bcuALwA6uZzQWabsmaKzy2UUxd4xvrrXd1PalvxydSVI/lK0ajrOGGJ5cUafXkihfjTV4N+9o+A3Tu9XAXa4+P8JPnkwgolTwSEdDHPhaeVD3pUW6IjEB37kDfDyo6DHbtnwA==;7dcZw0h4cb5608Miy1EeXw=="
+secured: "RJUdspNmsUGKqVzgxOmmoepNuKYvAoQ2Nj64coN0ro6TzbdGamyFiBzA1bYjkw3ABWsznmLc2F/xCZTtzw1qV53BegDMZypYc9nwvwaIJAYj+j+1BaKTb2dMbbfwqpSpAwnm9o/Ik7TCwwG6TeZkrvybP1JH0U3e94j1CFxJGHKTtYiWQMDxSuaX3cPOCD61DGwztqdKgb8rE5Z3spZmCfrRxMfswZDnAW7P6ZsdOUUL6NFXDsYkWrM9rqTXnXeqFrxyHgyTytUDT2uCbGNmvPnXLSrtjqhImcAp1ZTsZdX1KnPMMU7GyTlZOnvHza+FM0NdNKxcwjuFGKW0HmW8S33hCsSYBBte/KaF6fsCBY4=;+cj7y3tsUK5nzjPnnVsoIg=="
 ---
 

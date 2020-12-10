@@ -55,6 +55,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Mike Pence puts Space Force names on Patrick AFB, Cape Canaveral"
+    excerpt: "Vice President Mike Pence announced Wednesday that Cape Canaveral Air Force Station and Patrick Air Force Base have been renamed as part of the new military branch Space Force. To"
+    publishedDateTime: 2020-12-10T02:06:00Z
+    webUrl: "https://floridapolitics.com/archives/388010-mike-pence-puts-space-force-names-on-patrick-afb-cape-canaveral"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/10/pence-1000x563.jpeg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "TEmAzeE6oJK9YE7zTdUqOC8LXAgSLBaXIaufDk9FRBKelNNwevdPtKebjdIwaw231ieHblrG/Q90eoZHrjrFpKYZL6or5SewtbDBXpbSbAHWkHG+CBcCR4qbsHLUSfdXa71CRk9Gi7JrtLOr0hVydb2knX5b/kgP1nvjDxmDqXeoL4mK1jr7qNDdH59j9nvRn71LHAY3p1bCwJIQYatJg1fDbs9HoanNEodFciW1jocyv36I34+ek0DyMO7QEDIV/ATwSi0wIi95bww46MSMhBDZZ0QkJ3ilO99ewPR3HVGIyOxOk9lH42EWPU/Y/DfxBqr+FpvgLeiY1qTawKIEf5dNpK6MaShU9zuKAjgMLg6R51o+or5zZBEQ8650JfrmZGNk0N3s7pv5t/ofesLOwVJon9yNZHX5Ne5J5rzGcyDGuxVfdwnOSZeR1L1Sg6mSpYAOpDBkg+kT6EFeTwZY8B4ufhqdE1N6hBAHWkAF+o9PUp/HrqNNHQURN9NKV1J1bnNY20txlI1+UuG3mCgUtg==;iHh/rgJ8ac1NWeaqiF/Fow=="
 ---

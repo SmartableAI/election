@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.floridatoday.com/amp/6506564002"
 cdnAmpWebUrl: "https://amp-floridatoday-com.cdn.ampproject.org/c/s/amp.floridatoday.com/amp/6506564002"
 type: article
 quality: 71
-heat: 111
+heat: 131
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/93/393f2522-396a-11eb-9af8-0f9ce89e98db/5f3faefe0f231.image.jpg?resize=945%2C630"
         width: 945
         height: 630
+        isCached: true
+  - title: "Mike Pence puts Space Force names on Patrick AFB, Cape Canaveral"
+    excerpt: "Vice President Mike Pence announced Wednesday that Cape Canaveral Air Force Station and Patrick Air Force Base have been renamed as part of the new military branch Space Force. To"
+    publishedDateTime: 2020-12-10T02:06:00Z
+    webUrl: "https://floridapolitics.com/archives/388010-mike-pence-puts-space-force-names-on-patrick-afb-cape-canaveral"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/10/pence-1000x563.jpeg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Vice President Mike Pence to Visit the Space Coast Today to Chair the White House National Space Council"
     excerpt: "Vice President Mike Pence will visit the Space Coast on Dec. 9 to chair the White House National Space Council on December 9 at Kennedy Space Center."

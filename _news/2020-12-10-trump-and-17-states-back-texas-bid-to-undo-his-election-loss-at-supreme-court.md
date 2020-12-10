@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Trump and 17 states back Texas bid to undo his election loss at Supreme Court"
-excerpt: "President Donald Trump and 17 U.S. states on Wednesday threw their support behind a long-shot lawsuit by Texas seeking to overturn his election loss by asking the U.S. Supreme Court to throw out the voting results in four states."
-publishedDateTime: 2020-12-09T23:30:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-trump/trump-vows-to-intervene-in-texas-election-case-before-supreme-court-idUSKBN28J1VJ"
-webUrl: "https://www.reuters.com/article/usa-election-trump/trump-vows-to-intervene-in-texas-election-case-before-supreme-court-idUSKBN28J1VJ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1VJ"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1VJ"
+title: "Trump and 17 States Back Texas Bid to Undo His Election Loss at Supreme Court"
+excerpt: "President Donald Trump on Wednesday asked the U.S. Supreme Court to let him join a long-shot lawsuit by Texas seeking to overturn his election loss by throwing out the voting results in four states, litigation that also drew support from 17 other states."
+publishedDateTime: 2020-12-09T23:35:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2020-12-09/trump-vows-to-intervene-in-texas-election-case-before-supreme-court"
+webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-09/trump-vows-to-intervene-in-texas-election-case-before-supreme-court"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-09/trump-vows-to-intervene-in-texas-election-case-before-supreme-court?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-09/trump-vows-to-intervene-in-texas-election-case-before-supreme-court?context=amp"
 type: article
-quality: 137
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543979089&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB8111"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "Politics updates: Trump reached out to PA House speaker over election"
@@ -1826,7 +1820,18 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Don't Flip, Says Auctioneer Seeking $3 Million for Trump's Childhood Home"
+    excerpt: "U.S. President Donald Trump's childhood home is up for sale for the fourth time in four years, with a bloated $3 million target price that the auctioneer hopes his admirers will pay. Other Tudor-style houses on the street in Jamaica Estates,"
+    publishedDateTime: 2020-12-10T02:07:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-12-09/dont-flip-says-auctioneer-seeking-3-million-for-trumps-childhood-home"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-12-09/dont-flip-says-auctioneer-seeking-3-million-for-trumps-childhood-home?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-12-09/dont-flip-says-auctioneer-seeking-3-million-for-trumps-childhood-home?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
 
-secured: "asCFyvCyMdglm7Ny3FrO7lxX3a8r0ra7NrRv/kucFZay3XIroy+PrRwPs12Sg1EUcMJWvR/StQB/2j1/77qtXZtVdSbJA+mlK78sF6M7Qb/RuOK5FlN7fdqmm+l8bPKXwf+M3inVYq9hXhJta7ER3F5Ii/TPdvjfYObQpkt2QQi1Cu7e9wydhl2voq1bBFR3Ym2VHTWsCg5suniREVHvUV+0J4cgAEHAYZPpS94WFRzwHS4l9UAgKC0MHDwFJ6CdrmXblIORjQRQqfh1KhQDKGAbby+GgGLElslqGMcHVwgqFO8d/Rn9q2o5qMLMSjY1HXDdlaMG4ldQY3mJPF0MhnJXjxpDcRNIwyftlqomvUk=;bZFOwLzoV5YXfoRDxmBZig=="
+secured: "DWw6Gb7kqtlJMyqPBEgrSeNoEX069cybh6ocoXyO2dyqGlH2ph2E+PZKGwXW+u554o/gXtLONkcLd+GrIypBALQFvv1q8YHrTokTRUoO4sEavsZhhiN/RDUMAFm9qFlig1Q6XI5DnlXQN9XrByd7dVy33axXrOM+oGIMao5jTNUF7NBAcaGyOwPUaqwONMkow6ft8rZgkBCV62iU50WFqSj891j7vsWDtdS+aRie5LOeaULWLCCE14Xl7tgWAYNNQDbSxNRm+uY7V5GaodCXYn1aQqFRaLb8BSfjBa0QfH8K31Dxc6ulAuHNQtpZEY1SgRDVOBIKlBA8uu2E9pECK84gCrOmHFLd+zj1mGXFGvZovnnwJs34JekC+wt6a9Wa1HZbMpT0wGvmrJZTxTsmBcS2rzRT8bDoZ2N/2gBzXYnZIeDWCMSnHX0eCz4RWDzIrA7XvB/O4gPXvfv8qcub99xqtW+u9boRG+XxxXMhtk7a8mzBjgEP/HgfKnWGqeUpSwHda3BNE/R5NiPFPulzpQ==;wSUiwF9Q9d1OBZLUmB+Cew=="
 ---
 

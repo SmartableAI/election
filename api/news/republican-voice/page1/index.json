@@ -2,6 +2,175 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-10-cnns-john-avlon-compares-trump-election-challenge-supporters-to-confederates.md",
+      "title": "CNN's John Avlon compares Trump election challenge supporters to 'Confederates'",
+      "excerpt": "CNN senior political analyst John Avlon compared President Trump and supporters of his ongoing efforts to challenge the results of the 2020 presidential election to \"Confederates\" in support of slavery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates",
+      "originalUrl": "https://www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0089e4b9-29c4-49b8-8005-562d83395371/4dee8747-4a34-412f-8c8e-6c396e994b06/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-john-avlon-compares-trump-supporters-confederates.amp",
+      "publishedDateTime": "2020-12-09T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-michigan-state-rep-threatens-trumpers-calls-on-soldiers-to-make-them-pay.md",
+      "title": "Michigan state rep. threatens 'Trumpers,' calls on 'soldiers' to 'make them pay'",
+      "excerpt": "Democrat Michigan state Rep. Cynthia Johnson was stripped of her committee seats by senior GOP state officials after she released a video on Facebook Tuesday, as a warning to Trump supporters who had left her threatening messages.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X4u40vLXvUw/michigan-state-rep-threatens-trumpers-calls-on-soldiers-to-make-them-pay",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X4u40vLXvUw/michigan-state-rep-threatens-trumpers-calls-on-soldiers-to-make-them-pay",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d949b97e-0bd4-4ac9-a84a-f695a9768fe3/6ac99de3-ed39-49ea-93fa-03e61ba34473/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/michigan-state-rep-threatens-trumpers-calls-on-soldiers-to-make-them-pay.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-state-rep-threatens-trumpers-calls-on-soldiers-to-make-them-pay.amp",
+      "publishedDateTime": "2020-12-09T17:39:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-obama-says-trump-did-serious-damage-to-policy-accomplishments-but-aca-remains-robust.md",
+      "title": "Obama says Trump did 'serious damage' to policy accomplishments but ACA 'remains robust'",
+      "excerpt": "President Trump has sought to roll back several major Obama-era policies since 2016.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_RhCt2v2DU/obama-trump-damage-policy-aca-robust",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_RhCt2v2DU/obama-trump-damage-policy-aca-robust",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e612c89-ef37-4a64-a3f7-916b3397e4bc/9dbd64bc-d36d-47ae-9455-7173f4a16be7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/obama-trump-damage-policy-aca-robust.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-damage-policy-aca-robust.amp",
+      "publishedDateTime": "2020-12-09T17:30:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit.md",
       "title": "Facebook encounters bipartisan backlash as AOC supports Trump administration's lawsuit",
       "excerpt": "Facebook is uniting both sides of the aisle with its alleged anti-competitive behavior.",
@@ -182,7 +351,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -852,7 +1021,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 415,
+      "heat": 435,
       "tags": null,
       "images": [
         {
@@ -1505,177 +1674,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-trump-to-award-wrestling-legend-dan-gable-the-presidential-medal-of-freedom.md",
-      "title": "Trump to award wrestling legend Dan Gable the Presidential Medal of Freedom",
-      "excerpt": "President Trump will award Olympic gold medalist and college wrestling legend Dan Gable the Presidential Medal of Freedom on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom",
-      "originalUrl": "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Dan-Gable.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp",
-      "publishedDateTime": "2020-12-04T12:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-pence-says-us-a-week-and-a-half-away-from-likely-approval-of-first-coronavirus-vaccine.md",
-      "title": "Pence says US 'a week and a half away' from 'likely approval' of first coronavirus vaccine",
-      "excerpt": "Vice President Mike Pence said Friday that the U.S. is “maybe just a week and a half away” from the “likely approval” of the first vaccine to protect against the novel coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JXdkqXgON10/pence-week-and-a-half-away-likely-approval-first-coronavirus-vaccine",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JXdkqXgON10/pence-week-and-a-half-away-likely-approval-first-coronavirus-vaccine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-week-and-a-half-away-likely-approval-first-coronavirus-vaccine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-week-and-a-half-away-likely-approval-first-coronavirus-vaccine.amp",
-      "publishedDateTime": "2020-12-04T11:01:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-videos-virtual-events-and-planned-trips-biden-obama-pence-trump-weigh-in-on-georgia-runoffs.md",
-      "title": "Videos, virtual events and planned trips: Biden, Obama, Pence, Trump weigh in on Georgia runoffs",
-      "excerpt": "President Trump, his predecessor and soon-to-be successor in the White House, as well as Vice President Mike Pence, are all weighing in on Georgia’s two Jan. 5 Senate runoff elections, where the Republican majority in the chamber is up for grabs.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1hnCHg0AieM/biden-obama-pence-trump-georgia-runoffs",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1hnCHg0AieM/biden-obama-pence-trump-georgia-runoffs",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1282,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-pence-trump-georgia-runoffs.amp",
-      "publishedDateTime": "2020-12-04T10:05:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

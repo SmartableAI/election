@@ -479,22 +479,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump and 17 states back Texas bid to undo his election loss at Supreme Court"
-    excerpt: "President Donald Trump and 17 U.S. states on Wednesday threw their support behind a long-shot lawsuit by Texas seeking to overturn his election loss by asking the U.S. Supreme Court to throw out the voting results in four states."
-    publishedDateTime: 2020-12-09T23:30:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump/trump-vows-to-intervene-in-texas-election-case-before-supreme-court-idUSKBN28J1VJ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1VJ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1VJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 137
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543979089&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB8111"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump rehashes baseless election claims in 46-minute video from the White House"
     excerpt: "Trump's video had the look of an official address, but his words had the feel of a series of tweets strung together to lash out at perceived enemies."
     publishedDateTime: 2020-12-03T01:02:00Z
@@ -1815,6 +1799,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump and 17 States Back Texas Bid to Undo His Election Loss at Supreme Court"
+    excerpt: "President Donald Trump on Wednesday asked the U.S. Supreme Court to let him join a long-shot lawsuit by Texas seeking to overturn his election loss by throwing out the voting results in four states, litigation that also drew support from 17 other states."
+    publishedDateTime: 2020-12-09T23:35:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-12-09/trump-vows-to-intervene-in-texas-election-case-before-supreme-court"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-12-09/trump-vows-to-intervene-in-texas-election-case-before-supreme-court?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-12-09/trump-vows-to-intervene-in-texas-election-case-before-supreme-court?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
   - title: "Trump Challenges Vote Results While Urging Turnout in Ga."
     excerpt: "President Donald Trump is pressing his grievances over losing the presidential election, using a weekend rally to spread baseless allegations of misconduct in last month’s voting in Georgia and beyond even as he pushed supporters to turn out for a pair of Republican Senate candidates in a runoff election in January."
     publishedDateTime: 2020-12-06T05:20:00Z
@@ -1826,6 +1821,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Don't Flip, Says Auctioneer Seeking $3 Million for Trump's Childhood Home"
+    excerpt: "U.S. President Donald Trump's childhood home is up for sale for the fourth time in four years, with a bloated $3 million target price that the auctioneer hopes his admirers will pay. Other Tudor-style houses on the street in Jamaica Estates,"
+    publishedDateTime: 2020-12-10T02:07:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-12-09/dont-flip-says-auctioneer-seeking-3-million-for-trumps-childhood-home"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-12-09/dont-flip-says-auctioneer-seeking-3-million-for-trumps-childhood-home?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-12-09/dont-flip-says-auctioneer-seeking-3-million-for-trumps-childhood-home?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
 
 secured: "Zge/LkWdffHwtAArS1Zklf/lADDSVScj8FzX6q7Qy2wL6qKwnLgdCNduP1XFdcR70b/zdsA+ofc/pdM8/gIXX/GOpyRuunZVN2zH0X+YHTTPZINI2cICKRc+noqTYk3Dn6qeRdCGbVEKoNiM5/P0lTSlZMMspTkzwuluBGMN8WTS31QBVvBQIEayBbdcbysO9dZjDDzpkoXTQCuXqSxkdSnx92M63ZsNrwj1z1LCNFstwlj6Q82pUyDSTYTHj8kbb3m+CNld/3kn5BBV8FVAOyLDkBzsKAq9Y+9sj4T/CXrZICbKVCpXeasu92SbRhwzA082/BzO8e6kAsgcrD3ZpWHMgTapGJA5vlC19PT67qA=;PLy30DeQDztSj0sXJI8kUQ=="
 ---

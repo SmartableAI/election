@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence puts Space Force names on Patrick AFB, Cape Canaveral"
+    excerpt: "Vice President Mike Pence announced Wednesday that Cape Canaveral Air Force Station and Patrick Air Force Base have been renamed as part of the new military branch Space Force. To"
+    publishedDateTime: 2020-12-10T02:06:00Z
+    webUrl: "https://floridapolitics.com/archives/388010-mike-pence-puts-space-force-names-on-patrick-afb-cape-canaveral"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/10/pence-1000x563.jpeg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Vice President Mike Pence to Visit the Space Coast Today to Chair the White House National Space Council"
     excerpt: "Vice President Mike Pence will visit the Space Coast on Dec. 9 to chair the White House National Space Council on December 9 at Kennedy Space Center."
     publishedDateTime: 2020-12-09T05:26:00Z

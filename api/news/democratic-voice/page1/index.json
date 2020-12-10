@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-09-trump-asks-supreme-court-to-invalidate-millions-of-votes-in-battleground-states.md",
-      "title": "Trump asks Supreme Court to invalidate millions of votes in battleground states",
-      "excerpt": "President Donald Trump asked the Supreme Court on Wednesday to block millions of votes from four battleground states that voted for President-elect Joe Biden.\n    \n",
+      "path": "_news/2020-12-10-trump-asked-ted-cruz-to-argue-texas-election-lawsuit-if-it-reaches-supreme-court.md",
+      "title": "Trump asked Ted Cruz to argue Texas election lawsuit if it reaches Supreme Court",
+      "excerpt": "President Donald Trump personally asked Republican Sen. Ted Cruz of Texas if he would argue a long-shot election lawsuit seeking to overturrn the election results in four battleground states, should the Supreme Court agree to take it up, two sources told CNN on Wednesday.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mh_Ek74Hwd0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mh_Ek74Hwd0/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HcIORmwVZHw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HcIORmwVZHw/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 231,
+      "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201208210108-trump-file-1113-02-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201013140500-14-barrett-hearing-1013-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -28,9 +28,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html",
-      "publishedDateTime": "2020-12-09T14:36:05-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html",
+      "publishedDateTime": "2020-12-09T18:29:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-senate-fails-to-block-trump-backed-arms-sale-to-united-arab-emirates.md",
+      "title": "Senate fails to block Trump-backed arms sale to United Arab Emirates",
+      "excerpt": "The Senate on Wednesday failed to pass two disapproval resolutions pushed by a bipartisan group of senators to block a $23 billion US arms sale to the United Arab Emirates that was approved by the Trump administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jVRB1oQWfZQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jVRB1oQWfZQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/121231065730-capitol-hill-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html",
+      "publishedDateTime": "2020-12-09T17:18:39-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -167,63 +223,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-why-safe-harbor-day-is-bad-news-for-trump.md",
-      "title": "Why ‘safe harbor day’ is bad news for Trump",
-      "excerpt": "Under federal law, states must certify their election results and resolve any leftover legal issues by December 8. If they do, Congress must recognize their electors. The attorney general of Texas said his state is asking the Supreme Court to delay the electoral college meeting,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/why-safe-harbor-day-is-bad-news-for-trump-97357381564",
-      "originalUrl": "https://www.nbcnews.com/now/video/why-safe-harbor-day-is-bad-news-for-trump-97357381564",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_safeharbdead_201208_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo97357381564",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97357381564",
-      "publishedDateTime": "2020-12-08T14:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -510,25 +509,25 @@
       ]
     },
     {
-      "path": "_news/2020-12-08-former-israeli-space-security-chief-says-extraterrestrials-exist-and-trump-knows-about-it.md",
-      "title": "Former Israeli space security chief says extraterrestrials exist, and Trump knows about it",
-      "excerpt": "\"The Unidentified Flying Objects have asked not to publish that they are here, humanity is not ready,\" Haim Eshed said.",
+      "path": "_news/2020-12-08-what-safe-harbor-day-is-and-why-its-bad-news-for-trump.md",
+      "title": "What 'safe harbor day' is and why it's bad news for Trump",
+      "excerpt": "Of course, if a state fails to meet the safe harbor deadline but chooses its electors by Dec. 14, Congress can still count the votes. President-elect Joe Biden has 306 electoral votes to President Donald Trump's 232,",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333",
-      "originalUrl": "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333",
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/what-safe-harbor-day-why-it-s-bad-news-trump-n1250205",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/what-safe-harbor-day-why-it-s-bad-news-trump-n1250205",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 125,
+      "heat": 175,
       "tags": null,
       "images": [
         {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_50/3434098/201208-space-contact-mc-1000_2ccd3fbfb3e3d974e910d1abd9b81c1a.jpg",
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_50/3433975/201207-donald-trump-se-333p_55a362a8abac96df2b837ebbdfbe983b.jpg",
           "width": 2500,
-          "height": 1584,
+          "height": 1666,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -536,9 +535,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250333",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250333",
-      "publishedDateTime": "2020-12-08T05:56:00-08:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250205",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250205",
+      "publishedDateTime": "2020-12-07T17:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -974,7 +973,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2320,
+      "heat": 2360,
       "tags": null,
       "images": [
         {
@@ -1246,6 +1245,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-04-trump-ignores-facts-with-claim-of-improper-vote-dumps.md",
+      "title": "Trump ignores facts with claim of improper 'vote dumps'",
+      "excerpt": "In lawsuits, tweets and a 46-minute taped diatribe, the president has promoted a false narrative about vote counting in several states.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/trump-ignores-facts-claim-improper-vote-dumps-n1249987",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/trump-ignores-facts-claim-improper-vote-dumps-n1249987",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_49/3433213/201204-donald-trump-mn-0840_3ff08bf71b3ccb940cbf49b781f12604.jpg",
+          "width": 2500,
+          "height": 1458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249987",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249987",
+      "publishedDateTime": "2020-12-04T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-biden-wrestles-with-politics-in-effort-to-depoliticize-the-justice-department.md",
       "title": "Biden wrestles with politics in effort to depoliticize the Justice Department ",
       "excerpt": "Political questions from Democrats and a new Republican litmus test have suddenly become complicating factors in one of President-elect Joe Biden's most critical choices: picking a new Attorney General to lead the Justice Department out of its highly politicized era.\n    \n",
@@ -1427,7 +1483,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 568,
+      "heat": 608,
       "tags": null,
       "images": [
         {
@@ -1612,62 +1668,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/trump-potential-purge-job-protections-career-government-employees/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-potential-purge-job-protections-career-government-employees/index.html",
       "publishedDateTime": "2020-12-03T12:52:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-jeffrey-zients-expected-to-be-named-bidens-coronavirus-coordinator.md",
-      "title": "Jeffrey Zients expected to be named Biden's coronavirus coordinator",
-      "excerpt": "Jeffrey Zients is President-elect Joe Biden's choice to be the White House coronavirus coordinator, or \"czar,\" a source familiar tells CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P_9Q_uuX_Ao/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P_9Q_uuX_Ao/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/130410120120-obama-budget-speech-story-top.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/jeffrey-zients-coronavirus-czar/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/jeffrey-zients-coronavirus-czar/index.html",
-      "publishedDateTime": "2020-12-03T10:30:23-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
