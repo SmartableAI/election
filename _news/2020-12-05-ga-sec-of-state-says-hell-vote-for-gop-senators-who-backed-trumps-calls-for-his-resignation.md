@@ -173,6 +173,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pence says Trump ‘deserves his day’ in Supreme Court"
+    excerpt: "Saying “God bless Texas,” Vice President Mike Pence on Thursday gave a rousing endorsement of a lawsuit filed by the Texas attorney general and backed by President Trump that aims to throw out the election results in four key battleground states won last month by President-elect Donald Trump."
+    publishedDateTime: 2020-12-11T03:43:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c51beca7-3015-4ada-b810-3b3c87901146/d32db95e-9151-4cf6-8dfb-c840749f2648/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump on trusting Barr: Ask me again 'in a number of weeks'"
     excerpt: "President Trump on Thursday refused to say whether he has confidence in Attorney General William Barr after the head of the Justice Department said earlier this week he has not found evidence of widespread voter fraud in the presidential elections. "
     publishedDateTime: 2020-12-03T21:44:28Z
@@ -186,6 +202,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Trump-Barr-AP.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Trump Bets on Long-Shot Texas Election Lawsuit"
+    excerpt: "The president and his supporters have pinned their hopes of reversing President-elect Joe Biden’s victory on a lawsuit filed by the Republican Texas attorney general that election-law specialists say has almost no chance of success."
+    publishedDateTime: 2020-12-11T04:24:00Z
+    webUrl: "https://www.wsj.com/articles/trump-bets-on-longshot-texas-election-lawsuit-11607622925"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-bets-on-longshot-texas-election-lawsuit-11607622925"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-bets-on-longshot-texas-election-lawsuit-11607622925"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-271431/social"
+        width: 1279
+        height: 640
         isCached: true
   - title: "Trump lays out election-fraud case in online video: 'Bad things happened'"
     excerpt: "Trump says if he's right about election fraud, 'Biden can't be president' President Trump is once again charging that last month’s presidential election was rigged and rife with fraud. In an address posted on his Twitter and Facebook pages that the president described as possibly “the most important speech,"

@@ -2,9 +2,9 @@
 category: news
 title: "Biden facing pressure to pick Congresswoman Deb Haaland as Interior Secretary"
 excerpt: "Tribal leaders, progressives and prominent women have called for Biden to pick Haaland as his interior secretary."
-publishedDateTime: 2020-12-10T23:30:00Z
-originalUrl: "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/?ftag=CNM-00-10aab7e"
-webUrl: "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/?ftag=CNM-00-10aab7e"
+publishedDateTime: 2020-12-11T01:10:00Z
+originalUrl: "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/"
+webUrl: "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/"
 ampWebUrl: "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
 type: article
@@ -75,6 +75,6 @@ related:
       domain: theguardian.com
     quality: 88
 
-secured: "9Rxe/irYBC/BrZfaH+gaPF1MTRyTv+NIxEuz6xMOX3VaDABx37ED40SROY+kv2eSpepOIoCHKmxjcJW2RZVi/2aO2a3RTrIL/0nyxqyTHdx7s6WAFshNfxxvQFQWSSLYFeLkQT8CWvNPpPVH+HPcgv+Kv5LYlxN7odznNDvi1BnYtFnpvG1+3c2eHMTDUr8mf0KB4BzBIaM0W91zMCKPRvGHQVlEewTNh+YcK6AcLIZxQz04iAcm3hocQgHGjqnIZPmS3wiPVsqt4EKgTuijdIeIalveBXxwIi3LRYrvipa3qgQjZt9z9qOW10mZyn8GWvX3bqDXhRCrcOg/ewcYi4jP+o6DGZMn8gFLXOG+rf++AKejaknh0rdNkHUiBi6+5pFOb64Fz6S01eECert5JMAVr5YKjNM9XSj2qEjAv+3YkaT/e93em94fpPiPsQ2NCPGG1zS0Ga1+QioL8aH+tyEQhGbPlSNKYV6btwoHlU492TD/a29W7FKvJAfO89Oyxcqf5CkSrcU6PfxFE/NYMA==;j7bxTzRspA5GGk9LL0N5wA=="
+secured: "Ti78yoUC5wwlQXQl95Cik/M3EdlxQvBhm6nyzjgRjq+CyMG9G9qhAQ5N5iiS5Gryc7vx4CAf4QDfRLleERYIFIO7i0TD6JmTBmsxB5UnkwrIXuqZVGA8DeLZy9c9A5DdVuFH4K0DJVpxvTK08YgNKoJMoz4qo9zOZrzmKbCsYx/EN+X6xL+KOqlamWqj1OSnQzulFhldj6DCtXdGCJGiN54cGJF+NIwICdjEEPCt2Q9BDQv30H1eLp7ehKgs8YC1zndYZVPXdRPT/Z76C5eKLNJUOCGi/LNK+FOW7/jszKrbLoJM63PmjQFSIURQcF6cpdCkJUeGRVXlykNvS82UBkcKjls/2pb/0ZD+LEW2By4=;kXUSLdozhNj6Tt1gfk3aqg=="
 ---
 

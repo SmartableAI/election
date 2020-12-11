@@ -33,8 +33,8 @@ images:
 related:
   - title: "Biden facing pressure to pick Congresswoman Deb Haaland as Interior Secretary"
     excerpt: "Tribal leaders, progressives and prominent women have called for Biden to pick Haaland as his interior secretary."
-    publishedDateTime: 2020-12-10T23:30:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/?ftag=CNM-00-10aab7e"
+    publishedDateTime: 2020-12-11T01:10:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/"
     ampWebUrl: "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
     type: article

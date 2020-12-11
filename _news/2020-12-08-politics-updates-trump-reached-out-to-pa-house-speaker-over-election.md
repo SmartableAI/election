@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6484311002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002"
 type: article
 quality: 150
-heat: 2710
+heat: 2730
 published: true
 
 provider:
@@ -1417,6 +1417,20 @@ related:
     quality: 119
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/02/1b2aff86-0030-4f6e-ad59-386903796529/thumbnail/1200x630g2/ae00e73e1d028b5549c484a69354be04/gettyimages-1229807681.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Republican attorneys general back Trump legal fight to overturn election"
+    excerpt: "President Trump has met with Republican state attorneys general who are backing a lawsuit in the Supreme Court to invalidate presidential election votes in Georgia, Wisconsin, Michigan and Pennsylvania."
+    publishedDateTime: 2020-12-11T04:59:00Z
+    webUrl: "https://www.cbsnews.com/video/republican-attorneys-general-back-trump-legal-fight-to-overturn-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/10/b9135117-2baa-4258-ba1b-46879a23445a/thumbnail/1200x630/9bc6eaeeeb19836b327f76d023c96b20/1210-en-jiang-605917-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

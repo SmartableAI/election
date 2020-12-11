@@ -101,6 +101,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Kamala Harris’s Husband Named to Faculty at Georgetown Law"
+    excerpt: "The husband of Vice President-elect Kamala Harris, Douglas Emhoff, will join the faculty of the Georgetown University law school next year."
+    publishedDateTime: 2020-12-10T18:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-10/kamala-harris-s-husband-named-to-faculty-at-georgetown-law"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-10/kamala-harris-s-husband-named-to-faculty-at-georgetown-law"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-10/kamala-harris-s-husband-named-to-faculty-at-georgetown-law"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW0OeXOcSce0/v0/360x-1.jpg"
+        width: 360
+        height: 269
+        isCached: true
   - title: "Q&A with Mary J. Blige on her new pinot grigio and Kamala Harris"
     excerpt: "For Mary J. Blige, wine has been a ray of sunshine during the pandemic. In fact, she recently launched own wine company, Sun Goddess."
     publishedDateTime: 2020-12-10T20:10:00Z

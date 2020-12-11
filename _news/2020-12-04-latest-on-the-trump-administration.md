@@ -1433,6 +1433,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Republican attorneys general back Trump legal fight to overturn election"
+    excerpt: "President Trump has met with Republican state attorneys general who are backing a lawsuit in the Supreme Court to invalidate presidential election votes in Georgia, Wisconsin, Michigan and Pennsylvania."
+    publishedDateTime: 2020-12-11T04:59:00Z
+    webUrl: "https://www.cbsnews.com/video/republican-attorneys-general-back-trump-legal-fight-to-overturn-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/10/b9135117-2baa-4258-ba1b-46879a23445a/thumbnail/1200x630/9bc6eaeeeb19836b327f76d023c96b20/1210-en-jiang-605917-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Wisconsin Supreme Court won’t hear Trump election lawsuit, likely dooming state court case seeking to overturn loss"
     excerpt: "The Wisconsin Supreme Court on Thursday refused to hear President Trump’s lawsuit attempting to overturn his loss to Democrat Joe Biden."
     publishedDateTime: 2020-12-03T18:42:00Z

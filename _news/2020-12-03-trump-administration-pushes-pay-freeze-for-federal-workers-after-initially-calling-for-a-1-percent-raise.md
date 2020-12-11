@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 919
         isCached: true
+  - title: "Trump administration to impose long-awaited sanctions on Turkey over Russian missile defense system"
+    excerpt: "Ankara's purchase and testing of the S-400 system alarmed its NATO allies, and touched off demands in Washington to impose sanctions. The annoucement comes as Congress is poised to pass a defense bill that would have forced the administration's hand."
+    publishedDateTime: 2020-12-11T04:53:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-administration-to-impose-long-awaited-sanctions-on-turkey-over-russian-missile-defense-system/2020/12/10/c266682c-3b15-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-administration-to-impose-long-awaited-sanctions-on-turkey-over-russian-missile-defense-system/2020/12/10/c266682c-3b15-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-administration-to-impose-long-awaited-sanctions-on-turkey-over-russian-missile-defense-system/2020/12/10/c266682c-3b15-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4RWTV6R3DEI6XPDIS2XQ3KXHFA.jpg&w=1440"
+        width: 1440
+        height: 983
+        isCached: true
   - title: "‘Betrayed’ Black asylum seekers say Trump administration is ramping up deportations by force and fraud"
     excerpt: "ICE uses physical abuse, solitary confinement and false documents to force Black and African asylum seekers onto 'death planes,' The Times has found through interviews and legal documents."
     publishedDateTime: 2020-11-27T12:13:00Z

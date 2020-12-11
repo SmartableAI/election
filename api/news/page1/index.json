@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-11-aoc-knocks-joe-bidens-agenda-as-a-little-hazy.md",
+      "title": "AOC knocks Joe Biden’s agenda as ‘a little hazy’",
+      "excerpt": "President-elect Joe Biden has started to fill out key roles in his cabinet and staff before he takes office, but Congresswoman Alexandria Ocasio-Cortez, D-N.Y., said this week that she'd like to see a more unified unit. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y2o_wp2ku20/ocasio-cortez-wants-biden-administration-to-have-a-more-cohesive-vision",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y2o_wp2ku20/ocasio-cortez-wants-biden-administration-to-have-a-more-cohesive-vision",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94263045-eb33-4a8d-a418-079be75f1161/e3bf2dbe-1805-4073-8722-3e255f507b05/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ocasio-cortez-wants-biden-administration-to-have-a-more-cohesive-vision.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ocasio-cortez-wants-biden-administration-to-have-a-more-cohesive-vision.amp",
+      "publishedDateTime": "2020-12-10T19:27:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-ari-fleischer-mainstream-media-committed-dereliction-of-duty-by-not-reporting-on-hunter-biden.md",
       "title": "Ari Fleischer: Mainstream media committed 'dereliction of duty' by not reporting on Hunter Biden",
       "excerpt": "\"The press was derelict in its duty\" by not following up on the New York Post's reporting about Hunter Biden's overseas business dealings, former White House Press Secretary Ari Fleischer told “Outnumbered Overtime” on Thursday.",
@@ -110,6 +166,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-11-biden-facing-pressure-to-pick-congresswoman-deb-haaland-as-interior-secretary.md",
+      "title": "Biden facing pressure to pick Congresswoman Deb Haaland as Interior Secretary",
+      "excerpt": "Tribal leaders, progressives and prominent women have called for Biden to pick Haaland as his interior secretary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/",
+      "originalUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/b2eecec4-b9a3-4c93-86db-a3f95fb27228/thumbnail/1200x630/90609bf67298dd0107ed148f9f4142a1/gettyimages-1044568894.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
+      "publishedDateTime": "2020-12-10T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-bidens-pick-of-denis-mcdonough-for-va-sparks-pushback-from-veterans.md",
       "title": "Biden's pick of Denis McDonough for VA sparks pushback from veterans",
       "excerpt": "The aftermath of President-elect Joe Biden’s pick for secretary of Veteran Affairs has been met with responses of “surprise” after long-time Obama aide Denis McDonough was selected to be only the second non-veteran to take up the seat Thursday.",
@@ -163,58 +271,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-biden-facing-pressure-to-pick-congresswoman-deb-haaland-as-interior-secretary.md",
-      "title": "Biden facing pressure to pick Congresswoman Deb Haaland as Interior Secretary",
-      "excerpt": "Tribal leaders, progressives and prominent women have called for Biden to pick Haaland as his interior secretary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/?ftag=CNM-00-10aab7e",
-      "originalUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/?ftag=CNM-00-10aab7e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/b2eecec4-b9a3-4c93-86db-a3f95fb27228/thumbnail/1200x630/90609bf67298dd0107ed148f9f4142a1/gettyimages-1044568894.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "publishedDateTime": "2020-12-10T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -286,7 +342,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 500,
+      "heat": 540,
       "tags": null,
       "images": [
         {
@@ -1300,58 +1356,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-biden-has-reportedly-chosen-capitol-hill-staffer-katherine-tai-as-his-us-trade-representative.md",
-      "title": "Biden has reportedly chosen Capitol Hill staffer Katherine Tai as his US trade representative",
-      "excerpt": "If she is picked, the House Ways and Means chief trade lawyer would be the first woman of color to hold the position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
-      "originalUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp",
-      "publishedDateTime": "2020-12-10T04:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

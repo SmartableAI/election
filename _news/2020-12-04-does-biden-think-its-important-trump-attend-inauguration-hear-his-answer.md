@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/04/biden-harris-intv-tapper-trump-attend-inauguration-importance-sot-vpx.cnn"
 type: article
 quality: 188
-heat: 668
+heat: 688
 published: true
 
 provider:
@@ -382,6 +382,22 @@ related:
       - url: "https://static.politico.com/70/1d/911d803844eba8d3b4b91c1375ac/ap20322781084822-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Experts, advocates pressure Biden administration to reunite separated migrant families"
+    excerpt: "NBC News’ Julia Ainsley reports on how advocates and mental health experts are urging the Biden administration to commit to reuniting the migrant families separated at the border during the Trump administration."
+    publishedDateTime: 2020-12-11T00:51:00Z
+    webUrl: "https://www.nbcnews.com/now/video/experts-advocates-pressure-biden-administration-to-reunite-separated-migrant-families-97507909806"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97507909806"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97507909806"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_migrant_201210_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Industry privately urges Biden team to retain National Space Council"
     excerpt: "The Commercial Spaceflight Federation’s new leader outlines her priorities — Companies back new initiative to recruit minorities into space industry"

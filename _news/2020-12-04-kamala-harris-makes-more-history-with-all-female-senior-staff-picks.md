@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-03/harris-announ
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
 type: article
 quality: 125
-heat: 905
+heat: 925
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/e7f44f7a8561b04eaf264f41e9bb4131ada23450/0_320_4939_2965/master/4939.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=70c580230b2cb1b45fcb759d274976f0"
         width: 600
         height: 360
+        isCached: true
+  - title: "Kamala Harris’s Husband Named to Faculty at Georgetown Law"
+    excerpt: "The husband of Vice President-elect Kamala Harris, Douglas Emhoff, will join the faculty of the Georgetown University law school next year."
+    publishedDateTime: 2020-12-10T18:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-10/kamala-harris-s-husband-named-to-faculty-at-georgetown-law"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-10/kamala-harris-s-husband-named-to-faculty-at-georgetown-law"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-10/kamala-harris-s-husband-named-to-faculty-at-georgetown-law"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW0OeXOcSce0/v0/360x-1.jpg"
+        width: 360
+        height: 269
         isCached: true
   - title: "Q&A with Mary J. Blige on her new pinot grigio and Kamala Harris"
     excerpt: "For Mary J. Blige, wine has been a ray of sunshine during the pandemic. In fact, she recently launched own wine company, Sun Goddess."

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-07-trump-to-sign-coronavirus-vaccine-executive-order-prioritizing-americans-over-foreign-nations.md",
+      "title": "Trump to sign coronavirus vaccine executive order prioritizing Americans over foreign nations",
+      "excerpt": "EXCLUSIVE: President Trump is expected to sign an executive order Tuesday that will ensure all Americans have access to the coronavirus vaccine before the U.S. government begins aiding nations around the world, Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gY0UJnc0-Sg/trump-executive-order-coronavirus-vaccine-america-first",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gY0UJnc0-Sg/trump-executive-order-coronavirus-vaccine-america-first",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-executive-order-coronavirus-vaccine-america-first.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-executive-order-coronavirus-vaccine-america-first.amp",
+      "publishedDateTime": "2020-12-07T10:58:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-trump-tweets-rudy-giuliani-has-tested-positive-for-covid-19.md",
       "title": "Trump tweets Rudy Giuliani has tested positive for COVID-19",
       "excerpt": "President Trump’s lawyer and former New York City mayor Rudy Giuliani, who has been pressing the case that the 2020 election was rife with fraud, has the coronavirus, Trump tweeted on",
@@ -1599,62 +1655,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.amp",
       "publishedDateTime": "2020-12-02T10:21:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-biden-admits-dems-forgot-rural-america-says-he-did-something-good-for-the-country-by-beating-trump.md",
-      "title": "Biden admits Dems 'forgot' rural America, says he did 'something good for the country' by beating Trump",
-      "excerpt": "President-elect Joe Biden said Democrats \"forgot\" rural America in an interview with New York Times opinion columnist Thomas L. Friedman published Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R9EK1Jh2h3k/biden-democrats-forgot-rural-america",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R9EK1Jh2h3k/biden-democrats-forgot-rural-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20274669148826.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp",
-      "publishedDateTime": "2020-12-02T05:55:58-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

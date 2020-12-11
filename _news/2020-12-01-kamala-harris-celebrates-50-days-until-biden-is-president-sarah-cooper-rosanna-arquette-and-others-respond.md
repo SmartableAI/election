@@ -733,6 +733,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Time’s Person of the Year is Joe Biden and Kamala Harris, a ticket that ‘represents something historic’"
+    excerpt: "Joe Biden is the latest in a long line of presidents to be named Time's Person of the Year -- but Kamala Harris is the first vice-president to also receive the title."
+    publishedDateTime: 2020-12-11T04:58:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/12/10/time-person-year-biden-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/12/10/time-person-year-biden-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/10/time-person-year-biden-harris/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5CVPI3RBOMI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Van Jones: 'Joe Biden is a romantic idealist in the age of cynicism and snark'"
     excerpt: "The CNN commentator tells how, too tearful to read his notes, he spoke from the heart – and for millions of Americans – after Biden’s win"
     publishedDateTime: 2020-12-06T17:45:00Z
@@ -1048,6 +1064,38 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Joe Biden, Kamala Harris are Time’s Person of the Year 2020"
+    excerpt: "Joe Biden and Kamala Harris are Time’s 2020 Person of the Year, the magazine announced Thursday night. The President-elect and Vice President-elect beat out Donald Trump again, among other finalists."
+    publishedDateTime: 2020-12-11T04:21:00Z
+    webUrl: "https://www.cleveland.com/nation/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AY6P7DXUKNHJRI5LJGZPURHWEA.JPG"
+        width: 3295
+        height: 2197
+        isCached: true
+  - title: "Time Magazine Names Joe Biden and Kamala Harris Person of the Year"
+    excerpt: "Time magazine has named President-elect Joe Biden and Vice President-elect Kamala Harris its “Person of the Year.” Time’s editor-in-chief Edward Felsenthal says Biden and Harris won the honor for “changing the American story,"
+    publishedDateTime: 2020-12-11T04:11:00Z
+    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/"
+    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 90
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/Time-Person-of-the-Year-2020.gif?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "After years of indifference and denial under President Trump, experts expect Joe Biden to confront the dangers of domestic extremism"
     excerpt: "Former federal security officials are urging President-elect Joe Biden to more seriously acknowledge the growing danger of domestic terrorism."
     publishedDateTime: 2020-12-09T12:24:00Z
@@ -1219,6 +1267,22 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604216%2Fthe_white_house_and_treesoriginal.jpg&w=1200&op=resize"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Time magazine names President-elect Joe Biden, Vice President-elect Kamala Harris as Person of the Year"
+    excerpt: "Joe Biden and Kamala Harris, the president-elect and vice president-elect, were named Time magazine's Person of the Year."
+    publishedDateTime: 2020-12-11T04:52:00Z
+    webUrl: "https://www.freep.com/story/news/nation/2020/12/10/joe-biden-kamala-harris-time-magazine-person-year/3890559001/"
+    ampWebUrl: "https://amp.freep.com/amp/3890559001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3890559001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/381eddb6-c7e9-491a-b103-1ce0310e824f-TIM201221_MAIN.coverFINAL.jpg?auto=webp&crop=2362,1329,x1,y773&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
     excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."
