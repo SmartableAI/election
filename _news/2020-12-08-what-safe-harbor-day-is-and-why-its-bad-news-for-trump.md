@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250205"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250205"
 type: article
 quality: 135
-heat: 195
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -32,53 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Why ‘safe harbor day’ is bad news for Trump"
-    excerpt: "Under federal law, states must certify their election results and resolve any leftover legal issues by December 8. If they do, Congress must recognize their electors. The attorney general of Texas said his state is asking the Supreme Court to delay the electoral college meeting,"
-    publishedDateTime: 2020-12-08T22:35:00Z
-    webUrl: "https://www.nbcnews.com/now/video/why-safe-harbor-day-is-bad-news-for-trump-97357381564"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97357381564"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97357381564"
+  - title: "Manhattan DA interviewed employees at Trump's bank and insurer in criminal probe"
+    excerpt: "Investigators with the Manhattan district attorney's office have interviewed several employees at President Donald Trump's lender and insurer in recent weeks as part of a wide-ranging investigation into the Trump Organization, according to multiple people familiar with the investigation.\n    \n"
+    publishedDateTime: 2020-12-11T18:00:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X0KhKASnWvU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/manhattan-vance-trump-banks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/manhattan-vance-trump-banks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200803135804-trump-vance-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Full Gabriel Sterling Interview: Trump has a 'higher' responsibility"
+    excerpt: "Gabriel Sterling, Voting System Implementation Manager for the State of Georgia, talks to Meet the Press about why he spoke out against President Trump's push to reverse the vote in Georgia."
+    publishedDateTime: 2020-12-06T14:46:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-gabriel-sterling-interview-trump-has-a-higher-responsibility-97212485745"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97212485745"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97212485745"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_safeharbdead_201208_1920x1080.jpg"
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/1607265264056_mtp_full_sterling_201206_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Trump touts a false narrative — and forces allies to come along for the lie"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2020-12-10T14:11:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-touts-false-narrative-forces-allies-come-along-lie-n1250690"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250690"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250690"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434730/201210-donald-trump-al-0805_c044deb93d6188d8ad4a3663c1f7d599.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Former Israeli space security chief says extraterrestrials exist, and Trump knows about it"
-    excerpt: "\"The Unidentified Flying Objects have asked not to publish that they are here, humanity is not ready,\" Haim Eshed said."
-    publishedDateTime: 2020-12-08T13:56:00Z
-    webUrl: "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250333"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250333"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 125
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434098/201208-space-contact-mc-1000_2ccd3fbfb3e3d974e910d1abd9b81c1a.jpg"
-        width: 2500
-        height: 1584
         isCached: true
 
 secured: "fYy/9nWQUqBCOYYLQB5YwpMlgMomFEMI1+6zN7k/5WO6bjuvZTGFULnvI/SJZ17v4r6ute2KnwQmd2MgB2r4EnYrvhdlKWwEiOfL7eIixt5FlHq+FJIL2LakXX0b7TTZucggho950ZIp1CQCuR/qsE8fdufp3zRxcQ/y0zczt3H4f+MsVhR382VNILNFNqcxF6ZyCJ/qxIjw5zZpwqJ45Ivj+Rv2Pv+EMi9pmqDiZrZWTAahS7Up+qcHRZEWNIKU3MOIFIGZhcyqEFsDUOK+MawemWEe07HDR2yseu2yJf6JEnVWF1Qd5Kq8pjV7lNsRefJj9IuMnMef6H8keJhbWCbFbdHZ3qC0M53P+ZZZnlI+VSaD7pmk1WjGgxwK6FthxP3jFwyRqV0bnEGM45sq51GlW5da04w8VrXFV5p31h+8VK4K4lu0ifUVPvWNrrVEf7WnjfMFL9zn7qnfm4bCyL75O7WW5Shq73yOveb28jj4H4lD0sGzE3V1CjyFNrCZaEHWOIxHoV0THIswDUEnow==;j437413+L0W7lYz1wDfGow=="

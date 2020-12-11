@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/11/trump-injects-pol
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/11/trump-injects-politics-into-vaccine-again-most-inopportune-time/?outputType=amp"
 type: article
 quality: 122
-heat: 122
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -30,6 +30,24 @@ images:
     height: 960
     isCached: true
 
-secured: "wE72tNkuKL5vkKeD9reZLKCnA8Czu6XZgcbO7hI1978skRgsr/aKAVbjRk9lRKXICGKadpG+MIgdI/iYNYj8ilUukHuhNeX6F06KeKwXbINvkfPfUAVhk9od+APfO4UMtGAODMNA5SWBrge4/edeiwM0lUYCymc+ZUALULqaUgwdqHEpKlf95KY7HdJ5XstwCfcdv2ij0WQmTXmLRZPZgXSm1ZnDXoGCr28yDRvPC9o8LFigBE1cegI7O+dVXbeC6Ypb2dBalAeFTtImgJj9GJMb1Lw8Tv39qsG5/bNWPpml14P1nuZKTQCya50Db75WfI2wEpzxSY365iAvEekl4kMC4r3cwamBtxKG8rPcfpo=;hCWfNQUgZChy3hFgFeVEJg=="
+related:
+  - title: "Worst place, worst time: Trump faces virus spike in Midwest"
+    excerpt: "A college history professor who last cast a ballot for a Democratic candidate for president more than 20 years ago, Loiacono, who voted for American Solidarity Party presidential candidate Michael Maturen in 2016 is voting for Democrat Joe Biden because he thinks Trump has utterly failed in his handling of the coronavirus pandemic."
+    publishedDateTime: 2020-12-11T17:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7f24b0f1a2564a988de177c68975f9c8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+
+secured: "JgIbilz+fB7AHcGLS8I7tQZirdH/+haKSAe8MSyzfQ3cIX+UALWfxg5/CnpYaGmg/yxwoOtS/WkwzGyEy3tYYz+5UExtNLpaRsbW0HKTwJa47sZpYRSp1RYVYLYngdS9N7Ez1k23hWBGIsCPYlMMSCYuaSuvgOVp0Eo8QG3Ozu1lIZyueRxH0vUyVKFSKYjgjFi3+A6/NpH+PuPZqG2lWQviIxVOkmMd+7osv7jFftX8bPN5/ZM1odlFk1PfBYEBr2MStY+wkNJIeRG5g/dqgi1Ex3fCKR170bwzecLHwcImAEmERhLxUHyCqINqamqDQEpEt8TZSb/tX7XRYlKwG+LzJqdI90oMluZ0TQ6ZKHs=;jxCTRi6YlM/rKKKXXcUYXQ=="
 ---
 

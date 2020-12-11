@@ -44,18 +44,20 @@ related:
         height: 779
         isCached: true
   - title: "Pence sets Indiana trip to discuss coronavirus vaccine"
-    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss coronavirus vaccines as federal officials are expected to soon authorize the first such vaccine"
-    publishedDateTime: 2020-12-11T16:05:00Z
-    webUrl: "https://apnews.com/article/indiana-michael-pence-coronavirus-pandemic-bloomington-9c245a4f0447692cccd73017c822a6b1"
+    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss coronavirus vaccines as federal officials are expected to soon authorize the first such vaccine for widespread use. Pence’s office announced Friday that he would travel on Tuesday to Bloomington,"
+    publishedDateTime: 2020-12-11T18:07:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Pence-sets-Indiana-trip-to-discuss-coronavirus-15794470.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Pence-sets-Indiana-trip-to-discuss-coronavirus-15794470.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-sets-Indiana-trip-to-discuss-coronavirus-15794470.php"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/8b2edfe7afb64050b5cbb5db83302973/3000.jpeg"
-        width: 3000
-        height: 2000
+      - url: "https://s.hdnux.com/photos/01/15/55/21/20370531/9/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Pence to visit Tennessee, talk virus vaccines"
     excerpt: "Vice President Mike Pence is scheduled to visit Memphis on Thursday to discuss the development and distribution of the COVID-19 vaccines, according to his office."

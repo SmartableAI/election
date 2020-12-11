@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Pence sets Indiana trip to discuss coronavirus vaccine"
-excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss coronavirus vaccines as federal officials are expected to soon authorize the first such vaccine"
-publishedDateTime: 2020-12-11T16:05:00Z
-originalUrl: "https://apnews.com/article/indiana-michael-pence-coronavirus-pandemic-bloomington-9c245a4f0447692cccd73017c822a6b1"
-webUrl: "https://apnews.com/article/indiana-michael-pence-coronavirus-pandemic-bloomington-9c245a4f0447692cccd73017c822a6b1"
+excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss coronavirus vaccines as federal officials are expected to soon authorize the first such vaccine for widespread use. Pence’s office announced Friday that he would travel on Tuesday to Bloomington,"
+publishedDateTime: 2020-12-11T18:07:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Pence-sets-Indiana-trip-to-discuss-coronavirus-15794470.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Pence-sets-Indiana-trip-to-discuss-coronavirus-15794470.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Pence-sets-Indiana-trip-to-discuss-coronavirus-15794470.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-sets-Indiana-trip-to-discuss-coronavirus-15794470.php"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/8b2edfe7afb64050b5cbb5db83302973/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://s.hdnux.com/photos/01/15/55/21/20370531/9/rawImage.jpg"
+    width: 2048
+    height: 1365
     isCached: true
 
 related:
@@ -72,6 +78,6 @@ related:
         height: 450
         isCached: true
 
-secured: "ZQEGeaD05902K43ItOkh1VKP9EouKm7gMhnVuuZ7EN6o9xhW23Fct+tadXdZS5ZAkKpuH1CtO3jE/pSsbV2bhylA5GS4ovuf3rz6su6qBO/NHV/TrGJOZBYAQVgQsAQJsWhknLKNGsA8StaVdYs6p6Y4LMIlITWHb6XcNPU86oSdEC3AoJ9gOiFoHhFZ32dLeFgzd2wmtEcB9IPuB8mQz6yhhwmn7jHEfLX4g2bDcUrBDovFgCwMIEztKs81plc+lmTjhUPEmsLy4Rt4Pja1Xq0kaId4OGAHjkupX+ANZcNnxPGH0U3EA55mHt7OMYMMz/SkxOIBKKJGSFaIo8aaJaIOIakE7saE5L6nd+WIYEs=;ZxTXN+IXNA4bWb7EEegyGQ=="
+secured: "SmoBsbVYU22vkIOHsVKnqUiJlacEaojbyb2aPHTixKJswoAPst2cxf301MmP7h1qlH8DBrzgWFKKR0eauKHPJtXwMr4y0BC93IkWWTiXKablvMpTyT/vL+ljMj2MGlvFWuhzr9d0SCbkHvEFOtfhFFl1fJq0sXIcLkQXyQplCZvxeUQtI52dXhM6z1Wrw1QbRYLO+LzTNJbtiyAQdA9qKD/297IQ0yEUa/Xb6J2uYcVbgJKizaoswOlqMW1frEVSDtMlLIXfe1CTx8zirDdjRLSrmcGD/sqVyXsQpIeT7UbllB09GCCyEV8F/l6IVQrJwEZOUJWDfZtFtuhslszzD3dgqRmEAU1D7T7GjZmGzR8=;it5NdNAhmWUmaj0wPm9ZUQ=="
 ---
 

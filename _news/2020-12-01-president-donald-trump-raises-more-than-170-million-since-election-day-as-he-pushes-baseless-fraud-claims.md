@@ -639,6 +639,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate approves defense bill with veto-proof majority in rebuke to Trump"
+    excerpt: "The Senate voted overwhelmingly on Friday to approve a sweeping defense bill with a veto-proof majority, a major rebuke to President Donald Trump who has urged Republican opposition and threatened to veto the legislation.\n    \n"
+    publishedDateTime: 2020-12-11T18:34:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SJJwApA7D5c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/senate-defense-bill-trump-veto-proof-majority/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/senate-defense-bill-trump-veto-proof-majority/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ivanka Trump and Jared Kushner to head south as she explores political future"
     excerpt: "Ivanka Trump and Jared Kushner are currently in the final stages of purchasing a plot of land in an exclusive enclave nicknamed \"billionaire bunker,\" near Miami Beach, Florida, according to a source familiar with the transaction.\n    \n"
     publishedDateTime: 2020-12-11T16:40:16Z
@@ -1880,6 +1896,20 @@ related:
       - url: "https://static.politico.com/bb/c0/7df69140479286f7b9ca2feb7278/20201208-45.JPG"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Senate passes defense bill, setting up veto showdown with Trump"
+    excerpt: "The Senate on Friday overwhelmingly approved this year's defense policy legislation, setting up a confrontation with President Donald Trump after he threatened to veto the bill. Senators approved the National Defense Authorization Act by a wide 84-13 margin,"
+    publishedDateTime: 2020-12-11T18:46:00Z
+    webUrl: "https://www.politico.com/news/2020/12/11/senate-passes-defense-bill-444579"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b7/77/d8ff7dba47bd9fa664d899690b01/gettyimages-1214194601.jpg"
+        width: 4000
+        height: 2666
         isCached: true
   - title: "The Trump Administration Just Made the Citizenship Test Harder. How Would You Do?"
     excerpt: "Test your knowledge on some of the topics from American history and government that prospective new citizens have to answer."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250690"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250690"
 type: article
 quality: 133
-heat: -1
-published: false
+heat: 133
+published: true
 
 provider:
   name: NBC News
@@ -30,56 +30,6 @@ images:
     width: 2500
     height: 1667
     isCached: true
-
-related:
-  - title: "What 'safe harbor day' is and why it's bad news for Trump"
-    excerpt: "Of course, if a state fails to meet the safe harbor deadline but chooses its electors by Dec. 14, Congress can still count the votes. President-elect Joe Biden has 306 electoral votes to President Donald Trump's 232,"
-    publishedDateTime: 2020-12-08T01:30:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/what-safe-harbor-day-why-it-s-bad-news-trump-n1250205"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250205"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250205"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_50/3433975/201207-donald-trump-se-333p_55a362a8abac96df2b837ebbdfbe983b.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "Why ‘safe harbor day’ is bad news for Trump"
-    excerpt: "Under federal law, states must certify their election results and resolve any leftover legal issues by December 8. If they do, Congress must recognize their electors. The attorney general of Texas said his state is asking the Supreme Court to delay the electoral college meeting,"
-    publishedDateTime: 2020-12-08T22:35:00Z
-    webUrl: "https://www.nbcnews.com/now/video/why-safe-harbor-day-is-bad-news-for-trump-97357381564"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97357381564"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97357381564"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_safeharbdead_201208_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Former Israeli space security chief says extraterrestrials exist, and Trump knows about it"
-    excerpt: "\"The Unidentified Flying Objects have asked not to publish that they are here, humanity is not ready,\" Haim Eshed said."
-    publishedDateTime: 2020-12-08T13:56:00Z
-    webUrl: "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250333"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250333"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 125
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434098/201208-space-contact-mc-1000_2ccd3fbfb3e3d974e910d1abd9b81c1a.jpg"
-        width: 2500
-        height: 1584
-        isCached: true
 
 secured: "StsJgKaUg4sk5EliE1nlgcENTglOU9pToatn/uVUidX6I78OT4nIEnRq40A6rp/q5y5mgx0EhiG0088YOsD9LuHOG1KANcGZRlZaqiX0sC9mxk965M1LQ86RytiaECzWD4Bq0IZySNJKU1wmcy2ntWehUWhWydsdiKua3Bdw2YHjNuo/NAZKIi9bDVY2rwh9KU5RWg/r+htlQgmKfJXEMME9Hr2nLrre419YrNbN0wHWtQdxnhbSvdp8htl3MPuYOZRkXvysZ0n4jX0y+aHrGTeIZ08t36A8CgC7N7jkJ3KZ04iBRPKuR6bd4lrKZhj/X5BkHuZNLw93F0UtsoyQUNHH4wVLlYxPCEOqPoUIydY=;g5eO9b7rFF+eGAwR2F8Tkw=="
 ---

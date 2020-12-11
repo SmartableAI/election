@@ -945,6 +945,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Joe Biden, Kamala Harris Named Time Magazine’s ‘Person of the Year’"
+    excerpt: "Washington (AP) -- Time magazine has named President-elect Joe Biden and Vice President-elect Kamala Harris its “Person of the Year.”"
+    publishedDateTime: 2020-12-11T15:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-11/biden-harris-named-time-magazine-s-person-of-the-year"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 120
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io33.CAsO3A4/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden, Kamala Harris Named 'Time' Person Of The Year"
     excerpt: "The two made the cut after topping Time's shortlist that included President Trump, the movement for racial justice, Dr. Anthony Fauci and medical workers on the frontline of COVID-19."
     publishedDateTime: 2020-12-11T11:22:00Z
@@ -958,6 +972,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/12/11/ap_20313064617669_wide-5f65fc195ce9ef17757a67a76e383a39b532cfb8.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "President-elect Biden and Vice President-elect Harris named Time's 2020 Person of the Year"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris were collectively chosen as Time Magazine's Person of the Year for 2020."
+    publishedDateTime: 2020-12-11T14:42:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/11/joe-biden-and-kamala-harris-named-times-person-year-2020/3893626001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/fd9bbdc5-ff98-464f-8bd0-c8dc14851bf4-VPC_2020_TIME_PEOPLE_OF_THE_YEAR_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden gains 87 votes in Trump's $3 million Wisconsin recount as Dane County wraps up review. President plans lawsuit."
     excerpt: "Dane County wrapped up its recount Sunday, affirming Democrat Joe Biden’s victory in Wisconsin. President Donald Trump is preparing a lawsuit."
@@ -1167,6 +1195,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/6361606734101/2020/1/4ab660c5c81dfba3c4ff40c92454f373/v1.5/Biden-Harris-to-receive-first-presidential-intelligence-briefings.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Joe Biden and Kamala Harris named Time Person of the Year"
+    excerpt: "The two made history on November 7 when they beat Donald Trump in a bitter election that put him in a small club of presidents who served only one term. Harris on that day became the"
+    publishedDateTime: 2020-12-11T10:00:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/11/joe-biden-and-kamala-harris-named-time-person-of-the-year/"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/11/joe-biden-and-kamala-harris-named-time-person-of-the-year/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/11/joe-biden-and-kamala-harris-named-time-person-of-the-year/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 90
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/hypatia-h_8a9d9a05d2485c590cc4e2e8c3ce8904-h_8429915904bdff81983b59807763dd81.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Joe Biden, Kamala Harris are Time’s Person of the Year 2020"
     excerpt: "Joe Biden and Kamala Harris are Time’s 2020 Person of the Year, the magazine announced Thursday night. The President-elect and Vice President-elect beat out Donald Trump again, among other finalists."

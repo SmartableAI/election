@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6484311002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002"
 type: article
 quality: 150
-heat: 2770
+heat: 2810
 published: true
 
 provider:
@@ -1088,6 +1088,22 @@ related:
         width: 2454
         height: 1633
         isCached: true
+  - title: "Senate sends Trump defense bill he has vowed to veto"
+    excerpt: "The Senate has approved a wide-ranging defense policy bill, sending it to President Donald Trump, despite his threat to veto it because the bill does not clamp down on big tech companies he claims were biased during the election."
+    publishedDateTime: 2020-12-11T18:54:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-11/senate-sends-trump-defense-bill-he-has-vowed-to-veto"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-11/senate-sends-trump-defense-bill-he-has-vowed-to-veto?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-11/senate-sends-trump-defense-bill-he-has-vowed-to-veto?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/fffbe59/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F14%2F19%2Fd98df9665f3516670bebf60b6998%2F5ee558a856b645eca5eaa4ea55a5758c"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Chinese firms on U.S. exchanges threatened by bill headed to Trump's desk"
     excerpt: "The U.S. House of Representatives passed a law to kick Chinese companies off U.S. stock exchanges if they do not fully comply with the country's auditing rules, giving President Donald Trump one more tool to threaten Beijing with before leaving office."
     publishedDateTime: 2020-12-03T00:45:00Z
@@ -1875,6 +1891,22 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/12/08/story_08021044_1607429464.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Idaho's attorney general joins at least 4 other high-profile GOP lawmakers in opposing Trump's long-shot Texas lawsuit to overturn 2020 election"
+    excerpt: "More than 100 House Republicans and 18 states have thrown support behind President Donald Trump's final charade, but a vocal minority is dissenting."
+    publishedDateTime: 2020-12-11T17:52:00Z
+    webUrl: "https://www.businessinsider.com/idaho-ag-and-other-gop-legislators-disagree-with-texas-lawsuit-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/idaho-ag-and-other-gop-legislators-disagree-with-texas-lawsuit-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/idaho-ag-and-other-gop-legislators-disagree-with-texas-lawsuit-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5fc98aa8b6a3a800199b682b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Former top U.S. cyber official sues Trump campaign, lawyer over threats - NYT"
     excerpt: "The former head of the U.S. Cybersecurity and Critical Infrastructure Agency, which was tasked with helping guard the 2020 U.S. Presidential election from hackers, has filed a lawsuit against President Donald Trump's campaign and one of his lawyers after he made"

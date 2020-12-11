@@ -797,6 +797,28 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "In Arizona, Trump's false claims have torn open a GOP rift"
+    excerpt: "Arizona Gov. Doug Ducey spent much of Donald Trump's presidency trying not to provoke confrontation with the president or his fervent defenders. He almost made it through."
+    publishedDateTime: 2020-12-11T18:54:00Z
+    webUrl: "https://www.businessinsider.com/in-arizona-trumps-false-claims-have-torn-open-a-gop-rift-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/in-arizona-trumps-false-claims-have-torn-open-a-gop-rift-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-arizona-trumps-false-claims-have-torn-open-a-gop-rift-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "In Georgia, Pence calls Senate GOP's 'last line of defense'"
+    excerpt: "Back in Georgia to rally electoral support for the state's two Republican senators, Vice President Mike Pence told voters in Augusta on Thursday that returning the incumbents to Washington would secure a GOP Senate and help preserve what he characterized as the successes of the Trump administration."
+    publishedDateTime: 2020-12-11T18:54:00Z
+    webUrl: "https://www.businessinsider.com/in-georgia-pence-calls-senate-gops-last-line-of-defense-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/in-georgia-pence-calls-senate-gops-last-line-of-defense-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-georgia-pence-calls-senate-gops-last-line-of-defense-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump roils Georgia GOP as party waits to see if presidential visit helps — or hurts — in crucial Senate runoffs"
     excerpt: "The president’s baseless claims of fraud in the November elections have sparked a Republican civil war in the state, where voters will return to the polls on Jan. 5 in a pair of races that will determine control of the U."
     publishedDateTime: 2020-12-03T12:05:00Z
@@ -842,6 +864,20 @@ related:
       - url: "https://i.insider.com/5fc98aa8b6a3a800199b682b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Georgia lawmaker scrutinizes Trump campaign list of allegedly illegal voters"
+    excerpt: "Georgia state Rep. Bee Nguyen (D) fact-checked a list of voters who President Trump’s campaign claimed cast illegal ballots in the state during a hearing on election fraud on Dec. 10."
+    publishedDateTime: 2020-12-11T18:38:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/georgia-lawmaker-scrutinizes-trump-campaign-list-of-allegedly-illegal-voters/2020/12/11/053820d0-c6b9-42ba-adda-77e5ba00de6f_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-11-2020/t_a47926ecacc54ef5a02ff798cbf26fd8_name_nguyen_2.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
   - title: "How Trump's unverified voter fraud claims are impacting Georgia's Senate runoff"
     excerpt: "Senate runoff in Georgia could determine which party controls the Senate in the Biden administration. As President Trump continues to launch baseless claims against the integrity of the 2020 election,"
