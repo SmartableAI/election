@@ -559,6 +559,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Biden announces 'Flip Georgia Fund' to support Democratic runoff candidates"
+    excerpt: "Follow for the latest updates on the Georgia Senate runoff"
+    publishedDateTime: 2020-12-11T05:44:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ii5ii1f27kA/biden-announces-flip-georgia-fund-to-support-democratic-runoff-candidates"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-announces-flip-georgia-fund-to-support-democratic-runoff-candidates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-announces-flip-georgia-fund-to-support-democratic-runoff-candidates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62b705d1-9028-496b-afbe-ae155e9646d0/9d03800d-131b-436b-affd-7f72a9fd40f4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden’s Georgia Victory Over Trump Certified by Secretary of State"
     excerpt: "Georgia Secretary of State Brad Raffensperger certified the Nov. 3 election results, declaring President-elect Joe Biden the winner of the state. Mr. Biden’s victory in Georgia is the first for a Democratic presidential candidate since Bill Clinton narrowly defeated George H."
     publishedDateTime: 2020-11-20T22:50:00Z

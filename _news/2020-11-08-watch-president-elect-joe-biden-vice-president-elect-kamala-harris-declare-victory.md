@@ -58,6 +58,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Time magazine names Biden, Harris its Person of the Year in profile fiercely critical of Trump"
+    excerpt: ""
+    publishedDateTime: 2020-12-11T05:01:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AAhFnJT1EBA/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 203
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Michelle Obama congratulates Biden and Harris: 'I'm beyond thrilled'"
     excerpt: "Democrats have \"a lot of work to do\" to \"connect\" with Trump voters, Michelle Obama said."
     publishedDateTime: 2020-11-07T19:37:21Z

@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why did white evangelicals vote for Trump? Politics Weekly Extra podcast"
+    excerpt: "Jonathan Freedland is joined by Lerone Martin of Washington University, to discuss how America’s strictest Christians came to back Donald Trump. Now that Trump is on his way out, where does that leave his Christian backers?"
+    publishedDateTime: 2020-12-11T05:00:00Z
+    webUrl: "https://www.theguardian.com/politics/audio/2020/dec/11/why-did-white-evangelicals-vote-for-trump-politics-weekly-extra-podcast"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 104
+    images:
+      - url: "https://i.guim.co.uk/img/media/b3acaa21ef7bca29810f89eb31362d8160e34af1/0_42_3600_2160/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0411b4cb94ea273b805d86301eaf7054"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "kT/g1XONJGhCTVcNoUlPNeunblezwvywf6flfv6+kkQJSaljZqsQqC6l6rU5Q3M2Fc7Bf7q4Vds/8ENgxSWTpoUnSo93LD0QBBawWfcd1G6FCYYlTy3cjHUshcv22wLZDM/PwomJhYAFUVFe90UI11Cr7liakf5zsuT0gM76Q4Fp6uZ7lvCmlr/DvdJrn7073HnLKEPSI20zUuLQZIp0mPsAUYgdPOO95upNcA40MRHUFJGW60qNDyzgLUFnxIp++bUvCpbt2ozdNyXrw/thTfY5XeiMymcLRVP9PvF3s5dw3WhTnB058rl/aZT2X6gTyM+FAs7WJfX8Vqpii7bYKF7+dC8g7Go0DutOe5SgMvw=;c8gR6ZPNBhoPORRwFgBxYA=="
 ---

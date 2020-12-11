@@ -331,6 +331,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden and Kamala Harris are Time's 2020 'Person of the Year'"
+    excerpt: "NBC News reports other contenders were Dr. Anthony Fauci, front-line workers and racial justice movements that led protests over the death of George Floyd."
+    publishedDateTime: 2020-12-11T05:44:00Z
+    webUrl: "https://www.cnbc.com/2020/12/11/joe-biden-and-kamala-harris-are-times-2020-person-of-the-year.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/11/joe-biden-and-kamala-harris-are-times-2020-person-of-the-year.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/11/joe-biden-and-kamala-harris-are-times-2020-person-of-the-year.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 140
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106786006-16048020972020-11-08t021914z_1245788963_rc2qyj94vi4f_rtrmadp_0_usa-election-biden.jpeg?v=1604802126"
+        width: 3500
+        height: 2333
+        isCached: true
+  - title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
+    excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
+    publishedDateTime: 2020-12-11T06:12:00Z
+    webUrl: "https://www.reuters.com/article/us-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K33R?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K33R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K33R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544198413&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA090"
+        width: 798
+        height: 545
+        isCached: true
   - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
     excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."
     publishedDateTime: 2020-12-01T16:56:00Z
@@ -1092,6 +1124,38 @@ related:
         width: 3295
         height: 2197
         isCached: true
+  - title: "Joe Biden, Kamala Harris Named Time Magazine's 2020 Person Of The Year"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris were named Time magazine's Person of the Year for 2020, beating other finalists that included President Donald Trump, frontline health care workers with Dr."
+    publishedDateTime: 2020-12-11T06:18:00Z
+    webUrl: "https://www.ibtimes.com/joe-biden-kamala-harris-named-time-magazines-2020-person-year-3099965"
+    ampWebUrl: "https://www.ibtimes.com/joe-biden-kamala-harris-named-time-magazines-2020-person-year-3099965?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-kamala-harris-named-time-magazines-2020-person-year-3099965?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/10/gettyimages-1228008551.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Time Magazine Names Joe Biden, Kamala Harris Person of the Year"
+    excerpt: "Time magazine has named President-elect Joe Biden and Vice President-elect Kamala Harris its “Person of the Year.” Time’s editor-in-chief Edward Felsenthal says Biden and Harris won the honor for “changing the American story,"
+    publishedDateTime: 2020-12-11T05:42:00Z
+    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 90
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/Time-Person-of-the-Year-2020.gif?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "After years of indifference and denial under President Trump, experts expect Joe Biden to confront the dangers of domestic extremism"
     excerpt: "Former federal security officials are urging President-elect Joe Biden to more seriously acknowledge the growing danger of domestic terrorism."
     publishedDateTime: 2020-12-09T12:24:00Z
@@ -1336,6 +1400,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "TTQtQncQOgY7Q2PoZYromhNvMWCCaZu9yTnJn4FZdjmARccngfJhS5bYg8kHlRMeqXuQaARbiQE5N4vDAESmziFb50i6g+JdY1zvlMqxLASLFRdyPI68jYcv5geIOhV0CtbVyFgqIlD48BNT1BSzEHlrbL6EaXwXjEy4xL0QN3LusmxxKXcTPGOnC2uJvX9w48AjSWUufsj8pwqshMcouTb+nPeH1UtQ5kFM8WQmjGPUCN4FBUmDLRAgnAk/ZgYsaS6pNZKha7kayeuV0kJjvWT/2tW5eed9I+GMcfm+zRUsyDuS/QsILqrXIRcbJAY6nQfADqGExeIYtcPJ3C7/Xi6IxxfJMHWQOpgrtfgfjog=;3m8zogfG2qSKOjX9zH9cTA=="
+secured: "pK3Njd9R2xZnz2KtEcjceC2dJkQ/KeyPX95CVWduQpG3JJqwAhuEMwe5oBJ+k4kWoQGpPyG9L5systiQrsV5gI3DME70RleuK8KEIjPZgJj0I27CjAfhXuFVXPO6/6ZIrEDtAWWEkhYTlTMO+84GkWQbzrFtG8k8hFC9ncwiCzOkTpsqDzBN55kOm/uG9OJGNIcrQDUQ6sQW80I6vqZOsnZu7lP8i2tFypWlNpUgbinj/sJi6gsWca+xg1ToFKWIwprmArZmvLe+coCXER8EXcuTJAUGCjvtDJ3NZrFIdiQw6Z/2vdgN5rOt44jkTga9eJ0R3CFxBcCfgQTB7MI0Mo90aLFz92jKsMEez8UdsG5HhaGYCeM8DAcji1deLIbd16flzKn0cuelIWPhmhHoM2ckK2WQNDvltXTXa97ZHbY8a3ZA6YKB7mJy+4AHbjH6mnPHoGmnlRNerpzbLPGiO26LjDx1V0fWRTG6KVJVZWsXXYtLjzsHZmuQqNKv49Kay6hlXTQOv4TSdLSg3zLGcw==;k1YAlpLOivueAzkY36LuvA=="
 ---
 

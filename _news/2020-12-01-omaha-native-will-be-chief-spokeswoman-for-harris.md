@@ -541,6 +541,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mary J. Blige on her new pinot grigio, Kamala Harris and her holiday plans"
+    excerpt: "For Mary J. Blige, wine has been a ray of sunshine during the pandemic. In fact, she recently launched her own wine company, Sun Goddess."
+    publishedDateTime: 2020-12-11T06:15:00Z
+    webUrl: "https://www.sfchronicle.com/food-culture/article/Mary-J-Blige-on-her-new-pinot-grigio-Kamala-15791526.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 53
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/54/71/20368962/7/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Meet the First Second Gentleman-Elect, Kamala Harris' Husband Douglas Emhoff"
     excerpt: "Kamala Harris’ husband Douglas Emhoff, is one of the most adoring political spouses ever—and he will be a first in two major ways: Emhoff is the first second gentleman-elect, as well as the first Jewish spouse to a vice president."
     publishedDateTime: 2020-12-07T16:01:00Z

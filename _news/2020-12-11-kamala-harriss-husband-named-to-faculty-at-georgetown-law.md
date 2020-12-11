@@ -537,6 +537,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mary J. Blige on her new pinot grigio, Kamala Harris and her holiday plans"
+    excerpt: "For Mary J. Blige, wine has been a ray of sunshine during the pandemic. In fact, she recently launched her own wine company, Sun Goddess."
+    publishedDateTime: 2020-12-11T06:15:00Z
+    webUrl: "https://www.sfchronicle.com/food-culture/article/Mary-J-Blige-on-her-new-pinot-grigio-Kamala-15791526.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 53
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/54/71/20368962/7/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Meet the First Second Gentleman-Elect, Kamala Harris' Husband Douglas Emhoff"
     excerpt: "Kamala Harris’ husband Douglas Emhoff, is one of the most adoring political spouses ever—and he will be a first in two major ways: Emhoff is the first second gentleman-elect, as well as the first Jewish spouse to a vice president."
     publishedDateTime: 2020-12-07T16:01:00Z
@@ -625,6 +639,6 @@ related:
         height: 714
         isCached: true
 
-secured: "gq/Xsd6qYcgeFeDtfEmS9/k4Xw0OKQFUlL9SMp2XtCLlNCqYH5DR5bd6EAclnQehYGgDNV9p7gNwStyZusb5zop8gH7CJvV52CpYb+vfr3ANTcjMvSgU4lAJnM4ZtS+ZuLB7dIh1WWjR+UTfL3JATIiJ7pMv8GDBmbopPh2COQPbxMwOlr0I9T/qZ5nxalWNg4eALCezpFZ2UuTabYiPpKD8+FPjRtDgi2pIvQGyLuYaighoPhlHoNQwvHEbY27/V0UOV7qDOUyLtC+sYkAIvnqE5eINu5OADYZ9Q+HP7yu8CJ+yAXyb2cfW8eA6zefCtWYAo8m6G2QYMDIBRE2fXfxL6ioAGHqHvUPAcC9lqY8=;/8wR6/pMsj2314eom2ouIA=="
+secured: "LCcfWhcXW7IXUIx+o0rPVh4ygTnqRpPtLPaSOg9RyTf4shjIyO51OSzE+liZbISsoghk7tF543srFSBAEWZ6665eeRrDnRWoQMOV5313KwAD7WvyGwva/nz/28JWH11hBw8qIjbwdOujUCuaTyN2eaQb7itRHSZAsl4ItgjxpIamhWeidynt2UyZ6fuBTUfeQDkM8oMdyxgoNTSwLGs38/HYGp0aDWxKBBJjSGcofS4as49XAv4bikzBtUB/zAXqrckJ6n926Is3sTPD5J8BnjxorZKWLrhsDCO19Fxh+sShSCB+vdLr5QHGlFs3bgSIJPv7eZaf2zxTkZfSYBD2IN88YszPAPDfwjwN5Nx823OFw7y2LBfJUEguLO537JG9t4tOYK3582uvSt8GCsjhL9u9/TZGPp5mo9p8LWOTLBqR26CeCbIt9jLI7D5Ld9Dd8vpjwjxES7I6P6UYphjB9d/P1wzh+nMu1tn6v5kpp+KuJvCF6kWROZ6iN1ByZY9g82GFVtDgx1caEs3Qabo4ew==;y4gZXvsUdwA3a5+AzwV7JA=="
 ---
 

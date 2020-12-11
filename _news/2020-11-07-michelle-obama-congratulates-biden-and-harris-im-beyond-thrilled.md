@@ -64,6 +64,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Time magazine names Biden, Harris its Person of the Year in profile fiercely critical of Trump"
+    excerpt: ""
+    publishedDateTime: 2020-12-11T05:01:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AAhFnJT1EBA/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 203
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Obama congratulates Biden and Harris: 'Couldn't be prouder'"
     excerpt: "Barack Obama congratulated his former vice president, Joe Biden, and his running mate, Sen. Kamala Harris, after Biden was projected to win the presidency Saturday."
     publishedDateTime: 2020-11-07T18:43:08Z

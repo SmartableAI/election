@@ -543,6 +543,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mary J. Blige on her new pinot grigio, Kamala Harris and her holiday plans"
+    excerpt: "For Mary J. Blige, wine has been a ray of sunshine during the pandemic. In fact, she recently launched her own wine company, Sun Goddess."
+    publishedDateTime: 2020-12-11T06:15:00Z
+    webUrl: "https://www.sfchronicle.com/food-culture/article/Mary-J-Blige-on-her-new-pinot-grigio-Kamala-15791526.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 53
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/54/71/20368962/7/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "This Little-Known Indian Village Has Made Headlines Because of Kamala Harris"
     excerpt: "As CNN host John King spent days tirelessly facing the magic wall to explain what was happening, miles away in Tamil Nadu, India, a small village was rooting for vice president nominee Kamala Harris—in a very Indian way."
     publishedDateTime: 2020-12-07T18:37:00Z
