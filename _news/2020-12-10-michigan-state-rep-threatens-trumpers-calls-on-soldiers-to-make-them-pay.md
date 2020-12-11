@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/michigan-state-rep-threatens-trumpe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-state-rep-threatens-trumpers-calls-on-soldiers-to-make-them-pay.amp"
 type: article
 quality: 170
-heat: 170
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Whitmer says Michigan GOP went ‘too far’ against anti-Trump state Democrat"
+    excerpt: "Michigan state Republicans went “too far” in saying they would pull committee assignments from a state Democrat who threatened Trump supporters in a viral video, the state’s Democratic governor said Thursday."
+    publishedDateTime: 2020-12-11T11:33:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r3OnYTULLDE/whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat"
+    ampWebUrl: "https://www.foxnews.com/politics/whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-says-michigan-gop-went-too-far-against-anti-trump-state-democrat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/whitmer-johnson-.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "KnqkfzqFCAOlxOgZs+ewMN6m6Zq1sx8gdSfr+VvaiAiiMeez+8qKcXpAAKUo2Z3BL0aCOH/Nzh/lLDTat7w4TJKVamcUJ5duG0Fko1+gLTx+GHWshQKBjXGBhgwqhQ8I7yoIYJvh7Bo9ezxlzD+c2oAl2WfaP9wDtiWNrKpmEeolkSmJ4ohknP6GfLPtxupmaLvwPBhIyVtBphf1klfxawW4wYhq8VmPBIeUEm4Gtbmrs9/8WyxH/J/Ee+GQrhFfEuyxmFFukbjPLwHrqcPSeWsgZGNMOZQnQ2GwIbId+vuMIH7XHGKI/tVbe+D6U09+crRDE572AMYbpaMBelC43z+S9rAxoDNZkXBID29J4Z4=;nlIs2k2SzuYiAZaSBKiKmw=="
 ---

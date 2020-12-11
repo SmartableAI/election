@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-02-cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.md",
+      "title": "CNN has been ‘overwhelmingly biased’ against Trump: Joe Concha",
+      "excerpt": "You don't need behind-the-scenes tapes to know that CNN is anti-Trump because of how blatant the network coverage is, Fox News contributor Joe Concha told \"America's Newsroom\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cwjh8tUrxXc/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cwjh8tUrxXc/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.amp",
+      "publishedDateTime": "2020-12-02T10:21:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-biden-admits-dems-forgot-rural-america-says-he-did-something-good-for-the-country-by-beating-trump.md",
       "title": "Biden admits Dems 'forgot' rural America, says he did 'something good for the country' by beating Trump",
       "excerpt": "President-elect Joe Biden said Democrats \"forgot\" rural America in an interview with New York Times opinion columnist Thomas L. Friedman published Wednesday.",
@@ -1584,62 +1640,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/tulsi-gabbard-urges-trump-to-grant-clemency-to-assange-snowden.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tulsi-gabbard-urges-trump-to-grant-clemency-to-assange-snowden.amp",
       "publishedDateTime": "2020-11-27T02:16:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-defund-police-supporters-tell-biden-theyre-not-going-away.md",
-      "title": "Defund-police supporters tell Biden they're 'not going away'",
-      "excerpt": "Far-left advocates of defunding the police say they are \"not going away\" just because Joe Biden won the presidency.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GtVm9mSJUZ0/defund-police-supporters-biden-going-away",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GtVm9mSJUZ0/defund-police-supporters-biden-going-away",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a4ccc22-74ac-4b55-a7d7-044271b4aab8/7adcaf6a-fc3c-456c-95df-9c1af8f69f92/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/defund-police-supporters-biden-going-away.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/defund-police-supporters-biden-going-away.amp",
-      "publishedDateTime": "2020-11-26T14:14:51-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,6 +2,118 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-11-12-live-updates-bidens-lead-grows-in-pennsylvania.md",
+      "title": "Live Updates: Biden's lead grows in Pennsylvania",
+      "excerpt": "Presidential-elect Joe Biden is now leading President Trump by more than 50,000 votes in Pennsylvania.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bgRCnM7RYaQ/live-updates-bidens-lead-grows-in-pennslvania",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bgRCnM7RYaQ/live-updates-bidens-lead-grows-in-pennslvania",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp",
+      "publishedDateTime": "2020-11-11T21:20:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.md",
+      "title": "GOP senator says he’ll ‘step in’ if Biden doesn’t receive intel briefings by Friday",
+      "excerpt": "President-elect Joe Biden should be able to receive intelligence briefings by Friday, a Republican member of the U.S. Senate said in a radio interview that aired Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wr802TtyVrY/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wr802TtyVrY/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Lankford_Senate.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.amp",
+      "publishedDateTime": "2020-11-11T20:56:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-biden-chooses-longtime-adviser-ron-klain-as-chief-of-staff.md",
       "title": "Biden chooses longtime adviser Ron Klain as chief of staff",
       "excerpt": "WASHINGTON -- President-elect Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience in the top role in his White House.",
@@ -1250,110 +1362,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-my-faith-is-shaken-the-qanon-conspiracy-theory-faces-a-post-trump-identity-crisis.md",
-      "title": "‘My faith is shaken’: The QAnon conspiracy theory faces a post-Trump identity crisis",
-      "excerpt": "President Trump’s election loss and the week-long disappearance of their anonymous prophet have forced supporters of the baseless movement to rethink their beliefs: “Have we all been conned?”",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AVN4DKQ75II6XLKTJQP5USMQPU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp",
-      "publishedDateTime": "2020-11-10T12:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-vice-president-mike-pence-expected-in-sanibel-on-tuesday.md",
-      "title": "Vice President Mike Pence expected in Sanibel on Tuesday",
-      "excerpt": "An FAA alert suggests that Pence's visit will span Tuesday through Saturday. Pence has a long history of vacationing on the island.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/local/2020/11/10/mike-pence-visiting-lee-county-florida/6226614002/",
-      "originalUrl": "https://www.usatoday.com/story/news/local/2020/11/10/mike-pence-visiting-lee-county-florida/6226614002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/06/02/PFTM/b0ded584-03ed-4b97-b26a-18363eead202-pence.jpg?auto=webp&crop=599,337,x1,y268&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6226614002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6226614002",
-      "publishedDateTime": "2020-11-10T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

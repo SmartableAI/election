@@ -2,6 +2,64 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-11-biden-harris-to-introduce-susan-rice-others-for-key-administration-posts.md",
+      "title": "Biden, Harris to introduce Susan Rice, others for key administration posts",
+      "excerpt": "WASHINGTON — President-elect Joe Biden and Vice President-elect Kamala Harris will introduce more key members of their administration to the public on Friday, several of whom are veterans of the Obama White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/white-house/biden-harris-introduce-susan-rice-others-key-administration-posts-n1250850",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/biden-harris-introduce-susan-rice-others-key-administration-posts-n1250850",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_50/3434553/201209-joe-biden-jm-1532_df73573eb90fc46e0b55987134ab38b0.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250850",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250850",
+      "publishedDateTime": "2020-12-11T04:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-in-leaked-audio-joe-biden-says-defund-the-police-was-used-to-beat-the-living-hell-out-of-democrats.md",
       "title": "In leaked audio, Joe Biden says 'defund the police' was used to 'beat the living hell' out of Democrats",
       "excerpt": "WASHINGTON — President-elect Joe Biden told civil rights leaders in a meeting on Tuesday he thought Republicans used the \"defund the police\" movement to defeat Democrats in down",
@@ -1197,7 +1255,7 @@
       "originalUrl": "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2007,
+      "heat": 2047,
       "tags": null,
       "images": [
         {
@@ -1545,58 +1603,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-the-trailer-what-biden-and-the-left-are-demanding-of-each-other.md",
-      "title": "The Trailer: What Biden and the left are demanding of each other",
-      "excerpt": "The campaign to shape Biden's agenda, the next (and even stranger) stage of election contests, and Donald Trump Jr. goes on the air in Georgia",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IU43CRK7EI6XHBBHTCQDUEYD4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/trailer-what-biden-left-are-demanding-each-other/?outputType=amp",
-      "publishedDateTime": "2020-12-01T14:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

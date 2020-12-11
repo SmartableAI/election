@@ -41,6 +41,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Donald Trump Jr.'s Hunting Trip Expected to Start As Rumors Swirl in Alaska"
+    excerpt: "In February, a week-long $150,000 \"dream hunt\" was raffled off with the winner joining Trump Jr. and his son on a yacht traveling along the Tongass National Forest coastline in southeastern Alaska."
+    publishedDateTime: 2020-12-10T16:49:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-jr-hunting-trip-alaska-1553883"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-jr-hunting-trip-alaska-1553883?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-hunting-trip-alaska-1553883?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1683821/donald-trump-jr.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Fact check: Facebook post touting decreasing drug prices under Trump is misleading"
     excerpt: "A viral claim appears to take data out of context to tout decreasing drug prices under President Donald Trump."
     publishedDateTime: 2020-12-04T14:56:00Z

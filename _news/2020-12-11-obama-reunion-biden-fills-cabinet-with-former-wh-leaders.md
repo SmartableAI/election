@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Obama reunion? Biden fills Cabinet with former WH leaders"
-excerpt: "WASHINGTON (AP) — President-elect Joe Biden is getting the old gang back together."
-publishedDateTime: 2020-12-11T08:51:00Z
-originalUrl: "https://www.businessinsider.com/obama-reunion-biden-fills-cabinet-with-former-wh-leaders-2020-12"
-webUrl: "https://www.businessinsider.com/obama-reunion-biden-fills-cabinet-with-former-wh-leaders-2020-12"
-ampWebUrl: "https://www.businessinsider.com/obama-reunion-biden-fills-cabinet-with-former-wh-leaders-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-reunion-biden-fills-cabinet-with-former-wh-leaders-2020-12?amp"
+excerpt: "WASHINGTON — President-elect Joe Biden is getting the old gang back together. Increasingly deep into the process of selecting Cabinet members and other senior staff, the incoming Biden administration has a distinctly Obama feel."
+publishedDateTime: 2020-12-11T11:11:00Z
+originalUrl: "https://www.washingtonpost.com/world/national-security/obama-reunion-biden-fills-cabinet-with-former-wh-leaders/2020/12/11/b00fcc42-3b77-11eb-aad9-8959227280c4_story.html"
+webUrl: "https://www.washingtonpost.com/world/national-security/obama-reunion-biden-fills-cabinet-with-former-wh-leaders/2020/12/11/b00fcc42-3b77-11eb-aad9-8959227280c4_story.html"
+ampWebUrl: "https://www.washingtonpost.com/world/national-security/obama-reunion-biden-fills-cabinet-with-former-wh-leaders/2020/12/11/b00fcc42-3b77-11eb-aad9-8959227280c4_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/obama-reunion-biden-fills-cabinet-with-former-wh-leaders/2020/12/11/b00fcc42-3b77-11eb-aad9-8959227280c4_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Biden talks inauguration plans; Obama, Pence seek to boost Ga. Senate candidates"
@@ -657,6 +663,6 @@ related:
         height: 576
         isCached: true
 
-secured: "VNWa3lgRctFvAKDDWCH4GdLJFnZiXUnJSy135jHUTdiyZSMfrS0FGSuz+2w1n461nTPdbk6oSIuTuuyHKwfn6duH7hjEVPFNQAcsc+A7SL0pzrSuFq1KTVOjVnrK/sWsSKRHgUE97mvh3fYbagOgqlbv+1NKLYCMPKQ05rUQ/ZX53loIqbOaHs7jCzyLevT1qDwwTa2VpgahxMXCq3Y/63E4trj+ksGqcPysGKseqywVtRlvbi1WyHIs82xP0agIU4KJvkGRlenTe57bNl2U4KZ8YmBwiVMwnh9XwRtuCxJ+zRt64JOW3JzxWkjSJON08gqCkik4BE8bIIJGiW3PozRXZp2fl6JqNT3hEGodISk=;T3BDlSV0IrBPr0bv1TGiow=="
+secured: "mRJwv4o93EqDm8yIpEIk3nvS0PiD3t6T6SH3L7fCOPFZv9wL1z6QX0Q5qKzQnsFlVfnfFLFG9RuD+oscITSViMjhvY/4dwpjvYNAqcRbBlhSbIEaNs97ByRKTlctABg1eYGgRWX4WF5n6SF+OPSTvB3LYPF9QPteFFxMGkADql2Kn1wP1YRdAroyBCG8InHwAh4MRI2O4NaEWdO6mIMzyZuzN+TLnYVCS7hDD7MmZ6t6NpNIupnmZD7iJC53uITVEqw6ZB/i0NJjo/RpK7wwtRCtgPNoQijy/WKZflg4VveTiWRmWECfmUQ0VxOn762/p5e5VFFt6KUfd2BK30ojCZhOfrgKjrrLkrZFTa+oBHI=;uOIsVCcLL8NIGB/ZynBFUA=="
 ---
 

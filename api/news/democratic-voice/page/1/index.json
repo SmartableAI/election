@@ -2,6 +2,64 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-11-biden-harris-to-introduce-susan-rice-others-for-key-administration-posts.md",
+      "title": "Biden, Harris to introduce Susan Rice, others for key administration posts",
+      "excerpt": "WASHINGTON — President-elect Joe Biden and Vice President-elect Kamala Harris will introduce more key members of their administration to the public on Friday, several of whom are veterans of the Obama White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/white-house/biden-harris-introduce-susan-rice-others-key-administration-posts-n1250850",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/biden-harris-introduce-susan-rice-others-key-administration-posts-n1250850",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_50/3434553/201209-joe-biden-jm-1532_df73573eb90fc46e0b55987134ab38b0.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250850",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250850",
+      "publishedDateTime": "2020-12-11T04:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-bidens-electors-prepare-to-seal-his-victory-as-trump-and-coronavirus-rage.md",
       "title": "Biden’s electors prepare to seal his victory, as Trump and coronavirus rage",
       "excerpt": "In interviews, more than two dozen swing-state electors detailed plans for Monday’s vote — and a hint of anxiety about Trump.",
@@ -523,7 +581,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1639,63 +1697,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-harris-on-her-working-relationship-with-biden-we-are-full-partners-in-this-process.md",
-      "title": "Harris on her working relationship with Biden: 'We are full partners in this process' ",
-      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris may have been fierce rivals in the Democratic primary, but now, as they prepare to take control of the White House, they say they are full partners who agree on how to approach the country's most pressing issues.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2p_wb4vLws/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2p_wb4vLws/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 572,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203221338-harris-biden-cnn-interview-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-partnership/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/kamala-harris-working-partnership/index.html",
-      "publishedDateTime": "2020-12-03T19:33:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

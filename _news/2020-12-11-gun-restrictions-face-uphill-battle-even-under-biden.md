@@ -271,6 +271,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Obama reunion? Biden fills Cabinet with former WH leaders"
+    excerpt: "WASHINGTON — President-elect Joe Biden is getting the old gang back together. Increasingly deep into the process of selecting Cabinet members and other senior staff, the incoming Biden administration has a distinctly Obama feel."
+    publishedDateTime: 2020-12-11T11:11:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/obama-reunion-biden-fills-cabinet-with-former-wh-leaders/2020/12/11/b00fcc42-3b77-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/obama-reunion-biden-fills-cabinet-with-former-wh-leaders/2020/12/11/b00fcc42-3b77-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/obama-reunion-biden-fills-cabinet-with-former-wh-leaders/2020/12/11/b00fcc42-3b77-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Former CIA director says intelligence community will recover under Biden"
     excerpt: "Former CIA Director Michael Hayden said Monday that he believes that the intelligence community will recover under President-elect Biden, after it faced repeated attacks from President Trump over the past four years."
     publishedDateTime: 2020-12-07T22:41:00Z
@@ -512,17 +528,6 @@ related:
         width: 1484
         height: 834
         isCached: true
-  - title: "Obama reunion? Biden fills Cabinet with former WH leaders"
-    excerpt: "WASHINGTON (AP) — President-elect Joe Biden is getting the old gang back together."
-    publishedDateTime: 2020-12-11T08:51:00Z
-    webUrl: "https://www.businessinsider.com/obama-reunion-biden-fills-cabinet-with-former-wh-leaders-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/obama-reunion-biden-fills-cabinet-with-former-wh-leaders-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-reunion-biden-fills-cabinet-with-former-wh-leaders-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "We’ve entered into a new era of globalization — no matter what Joe Biden does"
     excerpt: "Supporters of an open international economy see new hope in Joe Biden’s election that perhaps globalization is not on its death bed after all. But the assumption that Biden will restore robust growth in international trade and investment is misplaced."
     publishedDateTime: 2020-12-04T11:06:00Z

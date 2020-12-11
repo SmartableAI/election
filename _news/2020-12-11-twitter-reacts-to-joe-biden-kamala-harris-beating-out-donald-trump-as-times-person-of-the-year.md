@@ -127,6 +127,22 @@ related:
         width: 798
         height: 545
         isCached: true
+  - title: "Joe Biden and Kamala Harris named Time's Person of the Year"
+    excerpt: "Joe Biden and Kamala Harris are TIME's 2020 Person of the Year #TIMEPOY  pic.twitter.com/KuoBoebBN4 This is the first time a vice president has been named as a Person of the Year, Time said. \"The Biden-Harris ticket represents something historic,"
+    publishedDateTime: 2020-12-11T12:38:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-kamala-harris-time-person-of-the-year/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-kamala-harris-time-person-of-the-year/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-kamala-harris-time-person-of-the-year/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 150
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/07/7736671b-071a-4222-96ad-bafe263891af/thumbnail/1200x630/26da47d6456273ab6082cad35d70385c/2020-11-07t163609z-1597063157-rc2gyj96wvm1-rtrmadp-3-usa-election-biden.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden identifies more administration officials, Trump vows continued election fight"
     excerpt: "President-elect Joe Biden chose more senior aides to lead his administration's efforts to defeat the coronavirus and rebuild the U.S. economy, and his office confirmed on Sunday he would begin receiving classified briefings that are an essential step toward taking"
     publishedDateTime: 2020-11-30T06:23:00Z
@@ -919,6 +935,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Joe Biden, Kamala Harris Named 'Time' Person Of The Year"
+    excerpt: "The two made the cut after topping Time's shortlist that included President Trump, the movement for racial justice, Dr. Anthony Fauci and medical workers on the frontline of COVID-19."
+    publishedDateTime: 2020-12-11T11:22:00Z
+    webUrl: "https://www.npr.org/2020/12/11/945335705/joe-biden-kamala-harris-named-time-person-of-the-year"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/11/ap_20313064617669_wide-5f65fc195ce9ef17757a67a76e383a39b532cfb8.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Biden gains 87 votes in Trump's $3 million Wisconsin recount as Dane County wraps up review. President plans lawsuit."
     excerpt: "Dane County wrapped up its recount Sunday, affirming Democrat Joe Biden’s victory in Wisconsin. President Donald Trump is preparing a lawsuit."
     publishedDateTime: 2020-11-29T21:14:00Z
@@ -1452,6 +1482,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "moFlVrWqXZxPjvsw6cn+c0W0COvZAhvHzH9VpxwLFfquIrjn2KludeLftHpxZxT+wugZK3yMgudIitPoaS/5PXfuQZ6tW7KClEUrX7YuOfpTrsidsU5k3AuVaxbYvew9npWIzjp62ML+5l+39EkSgtCwOsa0jEGSUabwNaUYl52OOBWyflsgTmehO4OWDKN/IQlrygPCYYGz+JHjEgD6jYJe7uUdf6tGbbjXon46M2TYa/tjtn3oUr70vCUrE3DNxbN2bWrAWLc+M2Lg8ZsNJM7VuqNXSFd++qO9jgkTgZsTNC1Mqj9bstlYdnAKFUVkJ5F6Uaa7OPfb8ZfFnZTKLj7FoJV2GDz8rAZZZFvgIWA=;iBFiTHnivU3qDjCMBvNqaA=="
+secured: "Os3d2MGvXuz+87kbBmV+gUarLHyrt2m27bX7mNJqjJIYTqv0ceRrEl7GubH2KEojpeDp0L4oZG6zNCpAp1s2RoxAKUY6zAJ3RHlsXqR2cqCSKd1APP6sMa81YtDfKiZ1/NEtb8YEJC5WSCjLjSGG7EJ9zSzO7tE7S4uyDf7Ty4f5RNSYzNfdNh2PW5DpDZTW96Yibsuz1Q3p503N9reN+fRlvrU7Bq5CcS6jI/rryGF6osVgx9Qid3asJUY29R5RR500jqsrAK+3zaUM4OA5nlCGVmCiQEidj7l8gn/xq74HYWEa57+XQtM6KxCLoggGSIQZ5rR+xuGBzjePyxXUlxuxn9/rgaHBk7hkRXJOkPvE6voPlA3Inmdtg53cSUtu3/q6Y9wYAGhG9VK8/Vlezn/Sx+RLVVcI6OGnlrfqWvotiCr8P4BZ/OXl22NCKG1eM64Z/A1t5HaVgd2uohc//2kxu47jBK3Rl/9A1mUzHrtFKYBq8arLOXsLu34gpR6/0EOud6IshZMdnCT1WZvUYw==;Cb2GHYI/blKucKU9k+ZDxQ=="
 ---
 

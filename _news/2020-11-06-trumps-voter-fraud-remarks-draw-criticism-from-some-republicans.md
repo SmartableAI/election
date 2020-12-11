@@ -2243,6 +2243,15 @@ related:
         width: 1126
         height: 844
         isCached: true
+  - title: "Joe Biden & Kamala Harris Are 2020 Person of the Year"
+    excerpt: "Together, Joe Biden and Kamala Harris offered restoration and renewal in a single ticket. And America bought what they were selling Frank is right when he talks about the myriad of voting irregularities that the public is totally unaware."
+    publishedDateTime: 2020-12-11T12:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/11/joe_biden_amp_kamala_harris_are_2020_person_of_the_year_531162.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
 
 secured: "EUcG0tzwOxQ8wNZqAylFM0dC7GtzhzJl6Nx2z8NaROwItdj9HQOO68opPHXKc5u1/BcZEj6D0LrQ2yOkmIEsl9TsOqO7MPw4i96SAZ9HEXLKGGgQdVYgwzBSeORCod4DREWb0jRayqWM75KGixCKLRhefN5VZVdOGHTmnXGGVgI0PxTLd46BmI4eHio1LI6sb5eH0mWnnsBe6vyqRvxALs+cETNNOA6bTsuJsk6LvENgLuSA0ZRg4ATVmP1EL66g+31s4J9XeJcjxySJ+D9RYBh7K3iqDe5D7SIdhYDfBlInEhNIIR9EC+se/7YBy4xi+51iegwBITJwuziV2pRdSst0oxS/68GjqiOBqsem4Lg=;FTJAziXlU4deGbM0tyS4FQ=="
 ---

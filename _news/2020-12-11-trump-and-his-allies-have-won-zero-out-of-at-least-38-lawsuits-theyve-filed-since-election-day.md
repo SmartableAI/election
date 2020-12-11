@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-campaign-lawsuits-election-res
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11?amp"
 type: article
 quality: 128
-heat: 368
+heat: 388
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://i.insider.com/5fca82f3037cbd0018613f11?width=1200&format=jpeg"
         width: 1200
         height: 599
+        isCached: true
+  - title: "Republicans have ‘concerns’ about Trump — but won’t let reporters quote them by name about it"
+    excerpt: "Many GOP lawmakers have long shied from going on-the-record with their thoughts. It’s created a dissonance in political journalism as Trump attempts to overturn the election."
+    publishedDateTime: 2020-12-11T11:18:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/media/republicans-anonymous-private-concerns-media/2020/12/10/301e98a6-2e75-11eb-bae0-50bb17126614_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/republicans-anonymous-private-concerns-media/2020/12/10/301e98a6-2e75-11eb-bae0-50bb17126614_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/republicans-anonymous-private-concerns-media/2020/12/10/301e98a6-2e75-11eb-bae0-50bb17126614_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RQNUZTB2NUI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 903
         isCached: true
   - title: "The Trump administration is delivering on a 2020 vaccine, but not at the levels he suggested"
     excerpt: "Many of the promises and projections that the Trump administration made on coronavirus vaccines have since been revised or contradicted by Trump officials or by President Trump himself."
