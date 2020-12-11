@@ -224,6 +224,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Calls grow for Trump administration to stop execution of Brandon Bernard"
+    excerpt: "NBC News’ Erik Ortiz reports on the growing calls from lawmakers and celebrities, including Kim Kardashian, for the Trump administration to stop the execution of Brandon Bernard who was 18 at the time of his crime."
+    publishedDateTime: 2020-12-11T02:09:00Z
+    webUrl: "https://www.nbcnews.com/now/video/calls-grow-for-trump-administration-to-stop-execution-of-brandon-bernard-97517637773"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo97517637773"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97517637773"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_execution_201210_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "ULsyM3/yKIEL/x6K+Cb/1Z5iKGnCsJ6XqlDk1T+TnWUxdhAycfNnQCkmNZ8jKH2QoReP9op39tT+8kySfRlFPfsyUsJO6j496irSV5VBnmvSUJzqJc0Y+xBVgABfSG5pQeEe2LRiPP6wJvUWdwGGR5FMbH54r8Vq3AzopurKMlrJlyRbC0tIC0PW93HCmrD5KhcPPd+Or564oOC7X/bO6dEh7FMpPQHd9r71KNbWomPLRb9YrghQ6590AxXhmmSvjnjcqNuR5MP+ut36bTSWBluIOxxFVU3M1xHLXhAQcSRJCk5Hp2ENJOLm6Sv1MJojg4IhBfkuYoNBVv7CIdZkKFCELhKKxj+ZuxyS7xo4PHQ=;Oc6I4DmRIqewQvUGMLnB2w=="
 ---

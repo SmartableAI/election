@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "With weeks left in office, the Trump administration is doing a 180-degree turn on a frustrating NATO ally"
+    excerpt: "Trump has avoided sanctioning Turkey for its purchase of Russia's S-400. With just weeks left in office, that appears to be changing."
+    publishedDateTime: 2020-12-10T23:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5fd29d01e00bce00188baa90?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Trump administration accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans"
     excerpt: "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers."
     publishedDateTime: 2020-12-03T20:40:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/iowas-contact-tracing-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/iowas-contact-tracing-firm-helped-trump-reynolds-campaigns-74540682"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Sports/WireAP_53571c3599d04628996c811d60337ec1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "With Texas AG facing federal probe, lawsuit to help Trump comes amid whispers of pardons"
+    excerpt: "The Texas politician challenging the 2020 election is the subject of an FBI investigation -- a thorny problem President Trump could eliminate with a presidential pardon."
+    publishedDateTime: 2020-12-11T02:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/texas-ag-facing-federal-probe-lawsuit-trump-amid/story?id=74654894"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/texas-ag-facing-federal-probe-lawsuit-trump-amid/story?id=74654894"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/texas-ag-facing-federal-probe-lawsuit-trump-amid/story?id=74654894"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/Politics/texas-ag-ken-paxton-rtr-jc-201210_1607642915058_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

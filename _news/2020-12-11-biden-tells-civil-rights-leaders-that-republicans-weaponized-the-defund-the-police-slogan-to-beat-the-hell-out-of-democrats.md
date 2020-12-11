@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/biden-told-civil-rights-leaders-avoi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-told-civil-rights-leaders-avoid-defund-the-police-slogan-2020-12?amp"
 type: article
 quality: 97
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "In leaked audio, Joe Biden says 'defund the police' was used to 'beat the living hell' out of Democrats"
+    excerpt: "WASHINGTON — President-elect Joe Biden told civil rights leaders in a meeting on Tuesday he thought Republicans used the \"defund the police\" movement to defeat Democrats in down"
+    publishedDateTime: 2020-12-11T01:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/10/biden-said-gop-used-defund-police-against-dems-leaked-audio/3887911001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3887911001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3887911001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/9fac5866-b3ae-48b6-a692-862b958b0386-AP20339752338738.jpg?auto=webp&crop=5626,3165,x0,y318&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "u7h/8NVSRy5AyOcVLqafF39oQqD5ZGQeTPuHYwSFTexYf+yE+v2hO2d62l0DpLt4VG8DmteoD0uyKsGVVBtXjFMxVw6fpeeTjdhFk95tZQvJ+++UYG83HfYgpIqAdkoytC3e7nHz8VFGCT4rZs9Cg2LwI/9jlKSsYn543UR6+7Z/cvOrlEivprTai9bgjB0sup78ajJC5CDKEcDU71LL2eZhu3zh6RdQG/F/Hjwfwjg1VbxVyqB+OmaQr/4hn7oxfw/sy/r9DWwBhFfnTCmhzZkW8qTV7mEdtAadLwDajp4N4AVKOMNvWSH30ZuEOGcSMTKUIX1HOqxAUMeDNJfB9EdIE1PdRb7PHvJWkjlWg63oUo2sdy8XabbI1eFDKkRvK6j5eeMtBVoaXTQ+cTHlX49EqLyw//ZB0Trfc1p5GL4Z8o3PtI/S+zPfzYialA09VGLYB5Piaxz6ar2X2EVsKJk9NhiSkePL3oWExBTEbaMzMlN8tGs9XVxVFfwxplQP2fx1oiDgy6KjMbFkbSuZuQ==;ygQQVxpAk3OFJmznp8xugQ=="
 ---

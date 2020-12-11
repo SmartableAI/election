@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/joe-bidens-best-teleprompter-gaffes
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-bidens-best-teleprompter-gaffes-2020.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "60% of voters view Biden's 2020 presidential victory as legitimate, poll finds"
+    excerpt: "The results skewed heavily based on party affiliation."
+    publishedDateTime: 2020-12-11T02:46:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wTFtjrDGLA8/60-of-voters-view-bidens-2020-presidential-victory-as-legitimate-poll-finds"
+    ampWebUrl: "https://www.foxnews.com/politics/60-of-voters-view-bidens-2020-presidential-victory-as-legitimate-poll-finds.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/60-of-voters-view-bidens-2020-presidential-victory-as-legitimate-poll-finds.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6add624-18f2-464f-a0ca-315c5ac368e6/7fd6e35d-ab29-42cb-aae6-ddc2c2754fa9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President of Soros’ Open Society Foundations resigns, clearing way for potential Biden Cabinet position"
     excerpt: "The president of George Soros’ Open Society Foundations, Patrick Gaspard, will resign, opening the way for him to take a possible position in the Biden administration."
     publishedDateTime: 2020-12-05T22:30:03Z

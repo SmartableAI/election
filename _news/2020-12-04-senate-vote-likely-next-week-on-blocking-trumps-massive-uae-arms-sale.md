@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D2XS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D2XS"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543501229&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31PO"
         width: 747
         height: 545
+        isCached: true
+  - title: "A month of Trump tweeting about keeping the job he isn’t doing"
+    excerpt: "President Trump wants to keep his job. Or he wants people to think he wants to keep his job so that he can keep fundraising off his effort to keep his job. Or he wants people to think he’s fighting to keep his job because he wants them to think that the 2020 presidential contest was stolen from him so that he can argue he didn’t actually lose the race."
+    publishedDateTime: 2020-12-11T02:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/month-trump-tweeting-about-keeping-job-he-isnt-doing/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/month-trump-tweeting-about-keeping-job-he-isnt-doing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/month-trump-tweeting-about-keeping-job-he-isnt-doing/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DGADXVRRWMI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Senate fails to block Trump administration's controversial arms deal with the UAE"
     excerpt: "Critics say the weapons deal could spark an arms race in the Middle East and rewards a country with a checkered record on human rights."

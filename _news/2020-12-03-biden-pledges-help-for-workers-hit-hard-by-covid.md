@@ -431,8 +431,8 @@ related:
         isCached: true
   - title: "Probe of Biden's son places new scrutiny on U.S. attorney general pick"
     excerpt: "A newly revealed federal criminal probe into the business dealings of Joe Biden's son Hunter will complicate the president-elect's selection of a new U.S. attorney general, former Justice Department officials and legal experts said."
-    publishedDateTime: 2020-12-10T21:55:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-hunter-idUSKBN28K37Q"
+    publishedDateTime: 2020-12-11T02:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-hunter-idUSKBN28K37Q"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K37Q"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K37Q"
     type: article

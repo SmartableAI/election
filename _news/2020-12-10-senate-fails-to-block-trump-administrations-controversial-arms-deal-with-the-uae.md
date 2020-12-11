@@ -63,6 +63,22 @@ related:
         width: 747
         height: 545
         isCached: true
+  - title: "A month of Trump tweeting about keeping the job he isn’t doing"
+    excerpt: "President Trump wants to keep his job. Or he wants people to think he wants to keep his job so that he can keep fundraising off his effort to keep his job. Or he wants people to think he’s fighting to keep his job because he wants them to think that the 2020 presidential contest was stolen from him so that he can argue he didn’t actually lose the race."
+    publishedDateTime: 2020-12-11T02:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/month-trump-tweeting-about-keeping-job-he-isnt-doing/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/month-trump-tweeting-about-keeping-job-he-isnt-doing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/month-trump-tweeting-about-keeping-job-he-isnt-doing/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DGADXVRRWMI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "wuG6mHpd+utP4iIC+VHX1TUcpzvk9C72fY1nsS1SrwRxLVElFLRR7pyB/WWeD/Wc8HVRGi7p7EMhHM+2jJ5xgKO/wEbL5PWPlpE2PIiVd81TkeVuCQC2ZQTTUOYGx8KjzsDJdIvYNR4pzhLzWNqLi6MjVnh2iNOlB832sdyU3LRCpfVShajYOGIaFW7VXtSPcKbN0lX9PS2XRx0Q2czijuMeaJWb6P5mA52scTRBdw1yzL7M2KEvb49Vlznycl2MV9o0T62q/9RTTky++tcQ7ErpN3kL4yNaeSJZfutaZxzeHFBo0TzavxljhjK1T7wUHutno/nKhw6GBT9X51C9VgQDfMBdPtJ09AJ+UO3Aj6A=;pwnvhltS8ER46M+OjKBC9w=="
 ---

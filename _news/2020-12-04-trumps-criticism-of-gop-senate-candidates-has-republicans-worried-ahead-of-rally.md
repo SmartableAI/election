@@ -1819,6 +1819,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "How Trump Won One of America’s Most Diverse Counties — By a Lot"
+    excerpt: "In North Carolina, a rainbow coalition of voters shifted sharply to the GOP this year. Can the party hold onto them for good?"
+    publishedDateTime: 2020-12-11T01:12:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/12/10/robeson-county-rural-rainbow-coalition-north-carolina-trump-republicans-443978"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/bb/c0/7df69140479286f7b9ca2feb7278/20201208-45.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Trump Administration Just Made the Citizenship Test Harder. How Would You Do?"
     excerpt: "Test your knowledge on some of the topics from American history and government that prospective new citizens have to answer."
     publishedDateTime: 2020-12-03T08:04:00Z

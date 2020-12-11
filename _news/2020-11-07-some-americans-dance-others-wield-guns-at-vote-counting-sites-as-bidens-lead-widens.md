@@ -5920,6 +5920,20 @@ related:
         width: 945
         height: 472
         isCached: true
+  - title: "Biden's son faces investigation over taxes as Trump joins Texas lawsuit that aims to overturn election"
+    excerpt: "President-elect Joe Biden's son Hunter Biden is facing a federal investigation into his tax records. Meanwhile, President Trump is focusing on overturning the election, joining a lawsuit brought to the Supreme Court by Texas' attorney general that seeks to invalidate ballots from four battleground states won by the president-elect."
+    publishedDateTime: 2020-12-11T02:19:00Z
+    webUrl: "https://www.cbsnews.com/video/bidens-son-faces-investigation-over-taxes-as-trump-joins-texas-lawsuit-that-aims-to-overturn-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/10/83201186-b73a-4c3f-b8f4-06fcd8a17a7a/thumbnail/1200x630/fd02cc31f7b19bfec0078067f01862d6/cbsn-fusion-bidens-son-faces-investigation-over-taxes-as-trump-joins-texas-lawsuit-that-aims-to-overturn-election-thumbnail-605835-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Factbox: Biden likely to rely on trusted inner circle as he staffs new administration"
     excerpt: "U.S. President-elect Joe Biden and his aides have spent months gearing up for his transition to the White House, assembling a team that will grow to include several hundred staff members as the Democrat steps into a role he's pursued for decades."
     publishedDateTime: 2020-11-08T21:49:00Z

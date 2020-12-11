@@ -1834,6 +1834,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "How Trump Won One of America’s Most Diverse Counties — By a Lot"
+    excerpt: "In North Carolina, a rainbow coalition of voters shifted sharply to the GOP this year. Can the party hold onto them for good?"
+    publishedDateTime: 2020-12-11T01:12:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/12/10/robeson-county-rural-rainbow-coalition-north-carolina-trump-republicans-443978"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/bb/c0/7df69140479286f7b9ca2feb7278/20201208-45.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "DeSantis tells Trump to 'fight on,' takes aim at science and has beef with John Roberts"
     excerpt: "Ron DeSantis on Thursday told a private gathering of political donors and corporate executives that he has urged President Donald Trump to “fight on\" to overturn November’s election results. In wide-ranging remarks made in person behind closed doors at a meeting of the Associated Industries of Florida,"
     publishedDateTime: 2020-12-03T23:16:00Z
