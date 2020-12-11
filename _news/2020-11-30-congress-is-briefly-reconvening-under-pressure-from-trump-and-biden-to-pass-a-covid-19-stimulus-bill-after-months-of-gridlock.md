@@ -623,6 +623,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "President-elect Joe Biden, Vice President-elect Kamala Harris named Time magazine’s persons of the year"
+    excerpt: "Time’s editor-in-chief Edward Felsenthal says Biden and Harris won for “changing the American story, for showing that the forces of empathy are greater than the furies of division, for sharing a vision of healing in a grieving world."
+    publishedDateTime: 2020-12-11T15:14:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 134
+    images:
+      - url: "https://www.chicagotribune.com/resizer/BSq3Ak_medhh77iDHliMazeaj9g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PQPYHWKY3V6EVJEUIRLJGAFQKA.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Wisconsin recount confirms Biden’s win over Trump, cementing the president’s failure to change the election results"
     excerpt: "The state’s two largest counties spent more than a week recounting ballots, but the final tally barely changed."
     publishedDateTime: 2020-11-29T16:47:00Z
@@ -1008,6 +1024,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/fd9bbdc5-ff98-464f-8bd0-c8dc14851bf4-VPC_2020_TIME_PEOPLE_OF_THE_YEAR_DESK_THUMB.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Why Time chose Joe Biden and Kamala Harris as its 2020 Person of the Year"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris have been named Time magazine's 2020 Person of the Year. The magazine also honored frontline health workers, the organizers of the racial justice movement,"
+    publishedDateTime: 2020-12-11T21:22:00Z
+    webUrl: "https://www.cbsnews.com/video/time-2020-person-of-the-year-joe-biden-kamala-harris/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/11/3f13c3fb-2b3c-4aac-9135-ecdd011688a9/thumbnail/1200x630/56cf491e9a2940cbcde9caa141d20be0/cbsn-fusion-time-2020-person-of-the-year-joe-biden-kamala-harris-thumbnail-606617-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden gains 87 votes in Trump's $3 million Wisconsin recount as Dane County wraps up review. President plans lawsuit."
     excerpt: "Dane County wrapped up its recount Sunday, affirming Democrat Joe Biden’s victory in Wisconsin. President Donald Trump is preparing a lawsuit."

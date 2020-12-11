@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/iowas-contact-tracing-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/iowas-contact-tracing-firm-helped-trump-reynolds-campaigns-74540682"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Michigan's Top Court Rejects Appeal by Trump Campaign"
+    excerpt: "President Donald Trump's campaign was handed a unanimous defeat Friday at the Michigan Supreme Court, which declined to hear an appeal about how absentee ballots were handled in Detroit as well as other issues."
+    publishedDateTime: 2020-12-11T22:05:00Z
+    webUrl: "https://www.usnews.com/news/best-states/michigan/articles/2020-12-11/michigans-top-court-rejects-appeal-by-trump-campaign"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "zyU6YPRfWOq0/oCsvLHmzvU+ZgqjLp+a5mOj70X99Nhl6M+edkvpa6J84G5guhMigWSCwHDI02euAzuLtxiTbfCB1fFzXX/2Ct18rWfaO0C9O5PrEBl4Wrsuj83zlawRgnVA4T+jq/rsdNefIVF55DkbzkyzYofrZwvJhmhIlycEdCvI4L5fROxg7sQTxcNxQ0thqoI5n+o66j5F0LZvGt7BaGpupW8X9zu2ge9BaHxS7NphtRQDobG7a4LwdF5RxQlhf3suUDoJgFSGpyBnUJoB0sKQdrG25LHl5e4YVgi+zMPaU826jfurtD2r9PSjuS/PqraCd3g1cyz/Zxh+K/kGDOPY1kSBFkSIH5oqadU=;dTYSXFM25M6QCweqz8Jgpw=="
 ---

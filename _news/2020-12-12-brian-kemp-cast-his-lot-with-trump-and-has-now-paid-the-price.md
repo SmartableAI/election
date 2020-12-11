@@ -896,6 +896,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says coronavirus vaccine 'free from political influence' as Trump administration pressures FDA for authorization"
+    excerpt: "President-elect Joe Biden sought to instill public confidence Friday in a coronavirus vaccine that could soon be available, insisting that its safety and effectiveness is being evaluated without political influence amid reports that President Donald Trump's administration was pressuring the Food and"
+    publishedDateTime: 2020-12-11T22:49:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3PNb0Z7YYiU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/joe-biden-coronavirus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/joe-biden-coronavirus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211150907-biden-admin-announcement-1211-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "FDA chief meets with Meadows again as Trump remains frustrated with pace of vaccine approval"
     excerpt: "Embattled Food and Drug Administration Commissioner Stephen Hahn met with White House chief of staff Mark Meadows for second day in a row on Wednesday as President Donald Trump remains frustrated no Covid-19 vaccine has been granted US emergency approval yet.\n    \n"
     publishedDateTime: 2020-12-02T18:28:56Z
@@ -1957,6 +1973,6 @@ related:
         height: 773
         isCached: true
 
-secured: "mExm+4Iqs3O99jYDIodu5qG495dWZuG9l5Iv3Hdo0QVrUiz6GW4mnPqqRsf6xxKQGjaK3liP6dNfVg4T1nzQp9bmO48NWNH/j3lt3wCoc69vB4aXl6LQBZk/7Ws9F7CK+vlGtcXF3byqpUBEiMSoX2ntY8TQEvYVYiZ/8w28dNpZ2Y1Nf6HXpMqxZJsgTXxbbPuPBsvALz1oRe14RD+ZbzFkgHFWly+dqnLuTbSmLagMemyMmzK+xvP7H/JchrjFlCppxdd5gSXZ9UtUph0nFS8YpffOwyYAWQ07e/CgBWPjwg4e6PgpXrefwAyV52kQCb5hHak9+qI4zpJU2YQK/19Low5uPpSuenS32grYVH8=;Cxn1cF6aIcqWrB+UjC2WMg=="
+secured: "UfYkdS3zZddsIVcgVKM6vAbVqnmivCLf9CxYC1enG8GMx2z2vpSpdpDplZJQfPGpl4oO4f8rmHMT7JQVOSz9ItVhegXbSgoo32zYbdOWpiFQI8jOOblDtTabZf5Hg2J6eE14cwXSEG85HYJJfULzBikRIiP92epvCATe9pePRdeu3zccKZlbFJkcmqUaVXLyjtoPGCDbMPMmb0rzFSZymY4mIV8xzXH4kJZBz5Y9YgsrROdYV4WGkn27Sa8bBgUC3iCO/foXSeAsi5AXNzL0GI6fUPMPp3Sv4h/s+M3sDk/qKbAyU2SI42SdDzY/dlsS7J3Aj1ILgOpHEvQD0T4SBhi7AXaSN3Ss41ll5Pdrnb+KzoOXnAanTn0Iu4eWO8dSNmwTZIBgYIV9E+gzGas0rvPT0CYCh66RLRxlk3HFYgR3ZjoPJZCFbFDg7ReUBjV7X6gqw9yrkSqvpVALTzRNwAchLYKy+xX2tFL5wV0Ra6Ebr/jkK6zUX98Vlus3OEyX01hAweGjZCmQCjno+vXLdQ==;YBGZWYywx5wN+/zdOiS0aQ=="
 ---
 

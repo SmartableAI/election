@@ -895,6 +895,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says coronavirus vaccine 'free from political influence' as Trump administration pressures FDA for authorization"
+    excerpt: "President-elect Joe Biden sought to instill public confidence Friday in a coronavirus vaccine that could soon be available, insisting that its safety and effectiveness is being evaluated without political influence amid reports that President Donald Trump's administration was pressuring the Food and"
+    publishedDateTime: 2020-12-11T22:49:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3PNb0Z7YYiU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/joe-biden-coronavirus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/joe-biden-coronavirus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211150907-biden-admin-announcement-1211-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House lawmakers say they will cut holiday short to override possible Trump veto of defense bill"
     excerpt: "Multiple House lawmakers, including the top Democrat and Republican on the House Armed Services Committee, have said they will cut their holiday short if necessary to override a veto by President Donald Trump of the National Defense Authorization Act.\n    \n"
     publishedDateTime: 2020-12-07T22:15:39Z

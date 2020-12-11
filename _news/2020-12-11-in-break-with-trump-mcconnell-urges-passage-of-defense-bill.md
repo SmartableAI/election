@@ -33,8 +33,8 @@ images:
 related:
   - title: "U.S. Senate advances massive defense bill, despite Trump veto threat"
     excerpt: "The U.S. Senate threw its weight behind the annual National Defense Authorization Act, or NDAA, a $740 billion bill setting policy for the Department of Defense, voting by a large margin to advance the bill on Friday despite President Donald Trump's veto threat."
-    publishedDateTime: 2020-12-11T16:36:00Z
-    webUrl: "https://www.reuters.com/article/usa-defense-congress/u-s-senate-advances-massive-defense-bill-despite-trump-veto-threat-idUSKBN28L24P?edition-redirect=ca"
+    publishedDateTime: 2020-12-11T21:12:00Z
+    webUrl: "https://www.reuters.com/article/usa-defense-congress/update-1-us-senate-advances-massive-defense-bill-despite-trump-veto-threat-idUSL1N2IR1MR"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L24P"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L24P"
     type: article
@@ -43,7 +43,7 @@ related:
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544262985&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544282616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T"
         width: 817
         height: 545
         isCached: true

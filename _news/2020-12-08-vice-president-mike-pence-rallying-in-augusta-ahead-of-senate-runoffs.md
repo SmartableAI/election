@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Pence announces official name change of Patrick Space Force Base"
-    excerpt: "One year after the U.S. Space Force was created by President Trump and Patrick Air Force Base was designated a space force base, Vice President Mike Pence made the name change to Patrick Space Force Base official."
-    publishedDateTime: 2020-12-09T18:18:00Z
-    webUrl: "https://www.floridatoday.com/story/tech/science/space/2020/12/09/vice-president-pence-announces-official-name-change-patrick-space-force-base/6506564002/"
-    ampWebUrl: "https://amp.floridatoday.com/amp/6506564002"
-    cdnAmpWebUrl: "https://amp-floridatoday-com.cdn.ampproject.org/c/s/amp.floridatoday.com/amp/6506564002"
+  - title: "VP Pence rallying in Columbus, Macon next week ahead of U.S. Senate runoffs"
+    excerpt: "Vice President Mike Pence will travel to Columbus and Macon Thursday, Dec. 17 ahead of the state’s two U.S. Senate runoffs. Pence will discuss the accomplishments of the Trump Administration and the Republican Senate majority at “Defend the Majority” rallies in both cities."
+    publishedDateTime: 2020-12-11T22:05:00Z
+    webUrl: "https://www.ledger-enquirer.com/news/politics-government/election/article247789210.html"
+    ampWebUrl: "https://amp.ledger-enquirer.com/news/politics-government/election/article247789210.html"
+    cdnAmpWebUrl: "https://amp-ledger--enquirer-com.cdn.ampproject.org/c/s/amp.ledger-enquirer.com/news/politics-government/election/article247789210.html"
     type: article
     provider:
-      name: Florida Today
-      domain: floridatoday.com
-    quality: 71
+      name: Ledger-Enquirer
+      domain: ledger-enquirer.com
+    quality: 73
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PBRE/b361ae31-26de-47bf-adcd-6538f9e1acc9-SpaceForce2.jpg?auto=webp&crop=4031,2268,x0,y604&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mike Pence puts Space Force names on Patrick AFB, Cape Canaveral"
-    excerpt: "Vice President Mike Pence announced Wednesday that Cape Canaveral Air Force Station and Patrick Air Force Base have been renamed as part of the new military branch Space Force. To"
-    publishedDateTime: 2020-12-10T02:06:00Z
-    webUrl: "https://floridapolitics.com/archives/388010-mike-pence-puts-space-force-names-on-patrick-afb-cape-canaveral"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2020/10/pence-1000x563.jpeg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Vice President Mike Pence to Visit the Space Coast Today to Chair the White House National Space Council"
-    excerpt: "Vice President Mike Pence will visit the Space Coast on Dec. 9 to chair the White House National Space Council on December 9 at Kennedy Space Center."
-    publishedDateTime: 2020-12-09T05:26:00Z
-    webUrl: "https://spacecoastdaily.com/2020/12/vice-president-mike-pence-to-visit-the-space-coast-today-to-chair-the-white-house-national-space-council/"
-    type: article
-    provider:
-      name: Space Coast Daily
-      domain: spacecoastdaily.com
-    quality: 38
-    images:
-      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/03/Mike-Pence-Vice-President-600-2.jpg"
-        width: 600
-        height: 331
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/38b01955-1778-454a-9b9c-f04994e4d5e3/e9249a62-d54d-4597-88a7-846d518a92f2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "LkOaYQlQKNq9t/VDicUIVK70fDheLEpEPpGd64of75QuAIA6w5//Y3ZYnNKMoq179qqKeaNp7agkE4JCCqJsD9SOHIpldDEAN800D8qybGKR9jBS3skbMrQ/1x9kMzFF8y5Q/9FnlSJ6U3pfXZdV59kI2LKYdcS/JTbZb5ohxXs0j/RNkLFPMJ/R8UfVVtiettSTrqjMMjGIdcRB3C/aW/DewygnvMpWr9lvGroJTO8vfIIyEC8beGDYN4DjMCMqxQ+LyU12welZOB9NGJ7sqKNl3ceknJuIqQQw2Kp/6uPBpp9sJ2AXj+qWx0DcIGh9/Swyf0JzSwzOC1aC0T2gpgd3SUYc3ZgA5QrCDWcm8jTLRxKABjWgHtVHSUPMJDtyoY/cUCTMoNnIm39/CXRXXn0TaR9NL/QxEbutlFnGitVRRK3jZbtTyj0fbAbYB7/YXUYjGKsQAkYX6JFuKq/o+E1u2n7rgQit0nG8QyX8f00ckJq1RMRQk5RxOnuRZ9sfHlyiUqqiTTyFZ25L813+Bg==;nMP1SH+BN7co+YcTGJhjAQ=="

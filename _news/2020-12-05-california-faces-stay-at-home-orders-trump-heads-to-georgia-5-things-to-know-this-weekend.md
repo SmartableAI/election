@@ -945,6 +945,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Mike Pence rallies in Georgia again"
+    excerpt: "Vice President Mike Pence again visited Georgia today, a frequent stop of his as the Trump administration looks to continue supporting Sens. Kelly Loeffler and David Perdue in their re-election bid. The vice president attended a \"Defend the Majority\" rally in Augusta this afternoon."
+    publishedDateTime: 2020-12-11T22:13:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-georgia-visit-augusta/85-e15ee5b3-11bb-427e-9c96-1be0b84a40dd"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-augusta/85-e15ee5b3-11bb-427e-9c96-1be0b84a40dd"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-georgia-visit-augusta/85-e15ee5b3-11bb-427e-9c96-1be0b84a40dd"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 75
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/82da2ba8-be52-41c2-828a-4abe03641f27/82da2ba8-be52-41c2-828a-4abe03641f27_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Mike Pence comes to Georgia as calm before potential Trump storm"
     excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatile visit to the state that will determine which party controls the Senate in January."
     publishedDateTime: 2020-12-05T11:00:00Z

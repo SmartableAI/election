@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-t
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-transition-live-updates/?outputType=amp"
 type: article
 quality: 135
-heat: 975
+heat: 995
 published: true
 
 provider:
@@ -277,6 +277,22 @@ related:
     webUrl: "https://www.washingtonpost.com/world/national-security/obama-reunion-biden-fills-cabinet-with-former-wh-leaders/2020/12/11/b00fcc42-3b77-11eb-aad9-8959227280c4_story.html"
     ampWebUrl: "https://www.washingtonpost.com/world/national-security/obama-reunion-biden-fills-cabinet-with-former-wh-leaders/2020/12/11/b00fcc42-3b77-11eb-aad9-8959227280c4_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/obama-reunion-biden-fills-cabinet-with-former-wh-leaders/2020/12/11/b00fcc42-3b77-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden: Cabinet picks from Obama era mean ‘bold new thinking’"
+    excerpt: "President-elect Joe Biden on Friday introduced a series of key picks for his new government that drew heavily from the Obama administration"
+    publishedDateTime: 2020-12-11T22:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-unveils-top-picks-with-deep-obama-administration-ties/2020/12/11/c3ffe20c-3bd9-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-unveils-top-picks-with-deep-obama-administration-ties/2020/12/11/c3ffe20c-3bd9-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-unveils-top-picks-with-deep-obama-administration-ties/2020/12/11/c3ffe20c-3bd9-11eb-aad9-8959227280c4_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

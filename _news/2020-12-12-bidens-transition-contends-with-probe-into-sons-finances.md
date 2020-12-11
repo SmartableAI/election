@@ -303,6 +303,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden: Cabinet picks from Obama era mean ‘bold new thinking’"
+    excerpt: "President-elect Joe Biden on Friday introduced a series of key picks for his new government that drew heavily from the Obama administration"
+    publishedDateTime: 2020-12-11T22:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-unveils-top-picks-with-deep-obama-administration-ties/2020/12/11/c3ffe20c-3bd9-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-unveils-top-picks-with-deep-obama-administration-ties/2020/12/11/c3ffe20c-3bd9-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-unveils-top-picks-with-deep-obama-administration-ties/2020/12/11/c3ffe20c-3bd9-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Former CIA director says intelligence community will recover under Biden"
     excerpt: "Former CIA Director Michael Hayden said Monday that he believes that the intelligence community will recover under President-elect Biden, after it faced repeated attacks from President Trump over the past four years."
     publishedDateTime: 2020-12-07T22:41:00Z
@@ -679,6 +695,6 @@ related:
         height: 576
         isCached: true
 
-secured: "gXMXx/iiIkC114pMR34ANKARcCbmo6UZJJ3Tr8r+gB6Ar84EW55H8c17gUTtlCn8ASJJFxm+/bm98amyv8hnvkCq4e8QdACbhSSAa9bORexTymAUitPpblPfnYV4jann/kSmgC5UPjh4+CVAQdkWLh4pBJFRqX3n++sk/l2anJ5se9y7wYV/Y/32FTNx4OW3O3EvKkuwrHkeemxe4tOOFRZhQTwpAqy9w7+haUncj5AqeHA7IwH4IdPXmOmSblaylEbU0g/Rgaikfrv+08IA5PqjYqUthfOfjhrhEGeZn6f7OqE2Mm0ktRWI88eYlG5iRga4uBXFZx8Q5fxFOqwYrKPVo7rYDMthbtY3XSkqdrQ=;cPKfc/72ma0AU4SAvNSk4A=="
+secured: "gMZ+6RGsbEDvQ9Y4Uj9uNUPjSP8BLP0zhbbgsZMQ5eMA74B+xTxpnCBuQAvHQfDY2ggAo5nPjUdf2whwjbt9tChhSuOwhjmxvc3bVD26HLWm2TPfvbc+TYt3Ti5nceN5XoLBgg40TPN/JSlGbtVsaH9/hs3TzpHpdju2fTb2XjJb/XblTd9xLJTK0R/jsn39JURlkCrWgtvlwJn1nFvNBr9D86GC5oFRLFefNS+zp+UolJYQBHchCLqiHs2VXlqAAysWrq8IpHuGpnkVsvswBU4C17iQ0WXz+O03gR1D7XRUOVg+NnWjbQzESeanLfJnQyI2nPp7J96f4YIE9K9/PkAhas8deU7rPzv9StLHvPEwxZX8UgqaQJM6Ez9VJaaM2vro8dQSVNj2P82s8M2uEFcQxLjy+qpnqYjc72xe2OEz2eO5iEvx3Tnyliw1lgS4o5JajfvviIn1FbVSa9WcECN23OZZ6vjaRUGJV28vYNVutMJ+NjZpq0/Xd2qQkoi3sk4/OqSC16FuCGUDhYMJoA==;Oj6RnEGUEbNbLB/Ri7anEQ=="
 ---
 

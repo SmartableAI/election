@@ -2,9 +2,9 @@
 category: news
 title: "U.S. Senate advances massive defense bill, despite Trump veto threat"
 excerpt: "The U.S. Senate threw its weight behind the annual National Defense Authorization Act, or NDAA, a $740 billion bill setting policy for the Department of Defense, voting by a large margin to advance the bill on Friday despite President Donald Trump's veto threat."
-publishedDateTime: 2020-12-11T16:36:00Z
-originalUrl: "https://www.reuters.com/article/usa-defense-congress/u-s-senate-advances-massive-defense-bill-despite-trump-veto-threat-idUSKBN28L24P?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/usa-defense-congress/u-s-senate-advances-massive-defense-bill-despite-trump-veto-threat-idUSKBN28L24P?edition-redirect=ca"
+publishedDateTime: 2020-12-11T21:12:00Z
+originalUrl: "https://www.reuters.com/article/usa-defense-congress/update-1-us-senate-advances-massive-defense-bill-despite-trump-veto-threat-idUSL1N2IR1MR"
+webUrl: "https://www.reuters.com/article/usa-defense-congress/update-1-us-senate-advances-massive-defense-bill-despite-trump-veto-threat-idUSL1N2IR1MR"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L24P"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L24P"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544262985&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544282616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T"
     width: 817
     height: 545
     isCached: true
@@ -96,6 +96,6 @@ related:
         height: 689
         isCached: true
 
-secured: "+YE78bOndVeKHRxuoCq6DvPIgRkUBqUGs0pacpyEgUIYif5pPAuoJMWfOVbL48sAjz4yKuzAhe6d8gNxvuXffVUlCxUOiZOK0GZYBSymb7YSyfgseZ4jZDWX6VK3oRm6vC/cexMhfvT1Bw3//wvjiMFAbpq40kikMrlLVno7PUU/vsF2rQ9CDYUnSz8NAthzRJnmCtT5JKOV6RaIyQYgmz8WSmDyv5fhO71hB2Tv5XMkwO3aVmdzB9EDlgjWi7gt7VeBT53iVqL6HZTjdte7Sl1hB2sx3K1TKSpAB9cxHKGzf+i9/msqXs8H+7vOBUbaIycpAuenOKKDg7tyDzngIhR3ieHX2UTaEIdSEmwKejQ=;W3sbKWl+EKL4apredOXt+Q=="
+secured: "pJ8J5TaK682Tn1o2TwE0FQVtBY1w7qzM7WWcn4MuwVKPD2vj3alg8zmX4ZDTfZLGTZ03gKw2x1gYj0EJ9OD+ZfImecKis5tvFT8DUBli1h//IhxzFwgItVOT9Ruz8pnKAsPr2ePi/5bgrt1J0TzDxrJIyQy3QvcFNHW9gJDcyWL8oVsgzBXdxVc49X5IvEMl/UpSB54NDKnurf6LHk6qTlffb018rdmEGTMc7cHup5+u74X54pX2AROBsizNH0ojtOz6rCU/Dt1clBorksR17X/hT5BmFrbcMAVvjmEBNhfWFS0oT21U1zb/BFcpKYG6XXIkc//JKYWvtxX9YxtPKxoMdz8w5YtjJInnER2IEqM=;Ex9K+tHzSxx9+8LdlvlUPQ=="
 ---
 

@@ -765,6 +765,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "More than 60% of House Republicans support of pro-Trump lawsuit overturning election results"
+    excerpt: "The additional members include the highest ranking Republican in the House, Minority Leader Kevin McCarthy, R-Calif."
+    publishedDateTime: 2020-12-11T21:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/11/more-house-republicans-sign-on-to-lawsuit-aimed-at-overturning-election/6510763002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6510763002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6510763002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/06/USAT/9f41e1be-1135-4a59-be93-ff0f5a76570a-GTY_1253867059.jpg?auto=webp&crop=3710,2087,x605,y23&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Trump seeks to join Supreme Court lawsuit challenging election results in 4 key states"
     excerpt: "The president did not present evidence of fraud. To back up his request, he cited partisan polls purporting to show Americans distrust the election."
     publishedDateTime: 2020-12-09T22:15:00Z
@@ -1100,6 +1116,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1684277/trump-raises-his-fist-rally.jpg"
         width: 2454
         height: 1633
+        isCached: true
+  - title: "Senate sends defense bill to Trump's desk with veto-proof majority"
+    excerpt: "The Senate sent a $740.5 billion defense bill to President Donald Trump's desk with a veto-proof majority Friday afternoon, but the fight over the bill may just be getting started. Both the House and the Senate have signed off on the proposal which,"
+    publishedDateTime: 2020-12-11T21:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/senate-sends-defense-bill-trumps-desk-veto-proof/story?id=74673934"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/senate-sends-defense-bill-trumps-desk-veto-proof/story?id=74673934"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/senate-sends-defense-bill-trumps-desk-veto-proof/story?id=74673934"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/us-capitol-building-washington-gty-jc-201211_1607713272646_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Senate sends Trump defense bill he has vowed to veto"
     excerpt: "The Senate has approved a wide-ranging defense policy bill, sending it to President Donald Trump, despite his threat to veto it because the bill does not clamp down on big tech companies he claims wer"

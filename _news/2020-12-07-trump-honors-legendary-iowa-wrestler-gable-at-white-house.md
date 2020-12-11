@@ -95,6 +95,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Michigan's Top Court Rejects Appeal by Trump Campaign"
+    excerpt: "President Donald Trump's campaign was handed a unanimous defeat Friday at the Michigan Supreme Court, which declined to hear an appeal about how absentee ballots were handled in Detroit as well as other issues."
+    publishedDateTime: 2020-12-11T22:05:00Z
+    webUrl: "https://www.usnews.com/news/best-states/michigan/articles/2020-12-11/michigans-top-court-rejects-appeal-by-trump-campaign"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "1HdqKqBu+b3VMACSbb2/YMRjsuxoBOHSLLJDtRwys743J3QvI9rMpxn9Xxvq1hrdDeW4XTyXadq2OBF2Mxay1iyrAwffjBhwOzfOjn8cK7eXb7hXnOp3nZiA9DKX16Jsfw/6Mmp8iPbMpvK+gJDVm3hoWRjys0D0jk0n0gMfHWx9YzalgboU5JJ4fY/bm+oXVHTv9m91kovFSE1y3Lnd+fIiGMfqpFVfeQLwnxV7YI9pL6DRYbdpf940cVOHHYd2f2noElXgFwwZEZogFliwH813OmQUYPJHOxbOAQln/h98xnudb2lyRUbV9g2hJV8gu9EsZ8l7NSC3JlfyWQIW4ChVYr/yqCRqmDaoqVbMklQ=;VHlFqh0VqJ7djecRVExgXA=="
 ---
