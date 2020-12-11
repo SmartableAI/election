@@ -3,10 +3,10 @@ category: news
 title: "LIVE UPDATES: Biden announces 'Flip Georgia Fund' to support Democratic runoff candidates"
 excerpt: "Follow for the latest updates on the Georgia Senate runoff"
 publishedDateTime: 2020-12-11T05:44:31Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ii5ii1f27kA/biden-announces-flip-georgia-fund-to-support-democratic-runoff-candidates"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ii5ii1f27kA/biden-announces-flip-georgia-fund-to-support-democratic-runoff-candidates"
-ampWebUrl: "https://www.foxnews.com/politics/biden-announces-flip-georgia-fund-to-support-democratic-runoff-candidates.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-announces-flip-georgia-fund-to-support-democratic-runoff-candidates.amp"
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rFqltlqQq9k/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rFqltlqQq9k/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020"
+ampWebUrl: "https://www.foxnews.com/politics/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020.amp"
 type: article
 quality: 166
 heat: -1
@@ -1013,6 +1013,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "SUjzNS4HjA/e1i7nODkMY5Nry5Fglg+I27RG3LTJBwO6O/G3bUjhBwadRuedZYXhZ28ZBXWtsixBw4oq9ecaSXdxvzj6/O+eaKSIwq0SCL7TC1JVpFJzMlknpgYZR/uU6XRLU8d5tlswXjToTWFn2I0hBdcj6P9XKa7d+TZbvYXwXT5cTCbGJpqTQ+ugzHCZSQrnfI128EQmS/Iso4+yMK/G1L8XVYm3PvIYb+OTt9m5/yhqvccTmBva4DJy1XbwvlE0WZN+I8oiu2j1VxaEx6BNWReBKCzVmJkeOdZQ5pGTmspKv/e9OVxxIRajdrYR0iLe1ggB3v9Y1/Wpu5MzF/VOgP9LviayYnfWdMBLqC0=;c9T9stqnEUiGWg5TjPxSew=="
+secured: "6zpwvdLquO/UQk3ZhQeg4WbDs/NuVHhqrq0xndSMyAeAKzFigr3TFoOEMnCIuiqdwo5ycgwrjO9RVHWTIQyw/PzhBvVmnKGjCFxr3/HM2mIkPjrA+iC8s4O14tql22pBqfAppR034Cd+fF96q4iLLfnf415Ol1/3e3uMLNLLPbze4HmdcwZEg7qXW76o6rGvYc/hGHllDKvV8D+9NSpI9OvU6oBwgmnuTWaIWvWgKmsvpT5QohHsIPwDQslOvfJ1ZGp19XbUVqleTTqiU8YoPGhC4QLWzPBgODgrKIIJ5pi+9IGojV90xcbJNSrVQBfnIA36oAMrxaOHGOMuifRZ64Lk/N1fqLnAWienjvc1FSY=;Ao++vg6YjT3zoZQpwI4UDg=="
 ---
 

@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Factbox: Trump reshaped U.S. immigration system, Biden wants to reverse course"
-excerpt: "President Donald Trump's push to crack down on illegal immigration and overhaul the legal immigration system was at the heart of the Republican's 2016 campaign and remained at the forefront of his White House agenda."
-publishedDateTime: 2020-12-03T11:32:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-immigration-trump-changes-factbox-idUSKBN28D1GK"
-webUrl: "https://www.reuters.com/article/us-usa-immigration-trump-changes-factbox-idUSKBN28D1GK"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D1GK"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D1GK"
+title: "Time Person of the Year: Joe Biden and Kamala Harris"
+excerpt: "US President-elect Joe Biden and Vice-President-elect Kamala Harris have been named Time magazine Person of The Year 2020."
+publishedDateTime: 2020-12-11T08:11:00Z
+originalUrl: "https://www.bbc.co.uk/newsround/55271127"
+webUrl: "https://www.bbc.co.uk/newsround/55271127"
+ampWebUrl: "https://www.bbc.co.uk/newsround/amp/55271127"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/amp/55271127"
 type: article
-quality: 136
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: BBC
+  domain: bbc.co.uk
 
 topics:
   - Election
-  - Donald Trump
+  - Kamala Harris
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543317674&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20S5"
-    width: 757
-    height: 545
+  - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/10EEF/production/_115995396_biden.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -494,6 +490,22 @@ related:
       - url: "https://i.insider.com/5fa19bd769331a0011bc703b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Factbox: Trump reshaped U.S. immigration system, Biden wants to reverse course"
+    excerpt: "President Donald Trump's push to crack down on illegal immigration and overhaul the legal immigration system was at the heart of the Republican's 2016 campaign and remained at the forefront of his White House agenda."
+    publishedDateTime: 2020-12-03T11:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-trump-changes-factbox-idUSKBN28D1GK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D1GK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D1GK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543317674&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB20S5"
+        width: 757
+        height: 545
         isCached: true
   - title: "Trump reportedly wants to hold a 2024 campaign event during Biden's inauguration"
     excerpt: "Donald Trump is strategizing ways to stay relevant amid incoming Biden administration, the Daily Beast reported, citing sources close to the president."
@@ -1160,22 +1172,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Time Person of the Year: Joe Biden and Kamala Harris"
-    excerpt: "US President-elect Joe Biden and Vice-President-elect Kamala Harris have been named Time magazine Person of The Year 2020."
-    publishedDateTime: 2020-12-11T08:11:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/55271127"
-    ampWebUrl: "https://www.bbc.co.uk/newsround/amp/55271127"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/amp/55271127"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 90
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/10EEF/production/_115995396_biden.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "After years of indifference and denial under President Trump, experts expect Joe Biden to confront the dangers of domestic extremism"
     excerpt: "Former federal security officials are urging President-elect Joe Biden to more seriously acknowledge the growing danger of domestic terrorism."
     publishedDateTime: 2020-12-09T12:24:00Z
@@ -1420,6 +1416,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "WHBpH4BOcPFcix6FLagpEI5h/4GPJH74M6La52P/4Tyq+XnfXEREwfR5hmooyFJo0NhE2kHR6ClWuh9p+KRLVmIwTLymz09isDEaXgJukrXDzlVAkeQlyE0te+L314f3Q5ehvNX1CWPNbZDxkfEV4uk4rAoKvSoJYEucAZhC2HuvHga29EzvEN+b1WXPGyeI+tHdptTf5E+YuohhsB9QHdvdYr3u46VJPwiOAAoVoGRelFmt3XOUAJ6sIc3TAdEzxE/I04GPhwDGe9p7SsnCFObnRyzFCWzhdOfuugtL81GkV6fVxWbUqZyFtefsZu5tia3Irz+NKLOaODAMtgkf6rlBf3dI2CvdOGTtGKLBkL0=;YdnvwZ6WnDLDgSgQQ08oEA=="
+secured: "hLGa4k5jqNluNbt1HK+MJQI6t0FuP/gFb4OaC0vxzNtK/lrzGQnThmPdVwLzPOHWek8EnuintTe4pnILJabZgOczPzwVbtJhK7IXT47XNH28hAbIjtMD5M+xcjKJlKXRBd8DbacWPBsUF1GHLRomVxAY7EElCVXtb1zOjPpHUS/uy8syBWU/S1fA8frcGWX9eaAYq56zVG3eB552JeCUinAB6qsg9pf+JCjZxBfPkVnhRmwWDYXCeGwG49BRVHc9fYaCCKciJhiqiu1gCkE16/MooHtdtRL1XGuJHqJiN9PwAkJA4FppHoBYMDRdmLpANUsiSX+O/AnaOM+/ReUSl0O1h+hSYejfbAKFwTLqDTA=;h1KxtQe5NYtsMB+fbMoBzw=="
 ---
 

@@ -547,9 +547,9 @@ related:
   - title: "LIVE UPDATES: Biden announces 'Flip Georgia Fund' to support Democratic runoff candidates"
     excerpt: "Follow for the latest updates on the Georgia Senate runoff"
     publishedDateTime: 2020-12-11T05:44:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ii5ii1f27kA/biden-announces-flip-georgia-fund-to-support-democratic-runoff-candidates"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-announces-flip-georgia-fund-to-support-democratic-runoff-candidates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-announces-flip-georgia-fund-to-support-democratic-runoff-candidates.amp"
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rFqltlqQq9k/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/politics-biden-flip-georgia-fund-to-democratic-runoff-candidates-12-11-2020.amp"
     type: article
     provider:
       name: Fox News
