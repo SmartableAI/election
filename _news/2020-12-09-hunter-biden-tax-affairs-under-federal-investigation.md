@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-tax-affairs-under-fede
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-tax-affairs-under-federal-investigation.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -234,6 +234,22 @@ related:
     quality: 123
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49b0b770-d1a5-4b49-9a85-1c15f2b095e4/8bd1ef1e-2fd7-4e4e-943b-e043a0b90b63/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "From 'smear campaign' to 'Russian disinformation,' liberal media teamed up to dismiss Hunter Biden story"
+    excerpt: "There has been plenty of criticism in recent days of the mainstream media's refusal to cover the New York Post's bombshell reporting on Hunter Biden, ever since the Biden transition issued a press release acknowledging that he was under investigation over his so-called \"tax affairs,"
+    publishedDateTime: 2020-12-11T12:40:00Z
+    webUrl: "https://www.foxnews.com/media/hunter-biden-coverage-liberal-media-smear-campaign-russian-disinformation"
+    ampWebUrl: "https://www.foxnews.com/media/hunter-biden-coverage-liberal-media-smear-campaign-russian-disinformation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hunter-biden-coverage-liberal-media-smear-campaign-russian-disinformation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/27754b17-4e72-417f-8260-7ed53197681d/60f1933b-0908-45bf-b35a-4831d232a461/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

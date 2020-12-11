@@ -237,6 +237,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "From 'smear campaign' to 'Russian disinformation,' liberal media teamed up to dismiss Hunter Biden story"
+    excerpt: "There has been plenty of criticism in recent days of the mainstream media's refusal to cover the New York Post's bombshell reporting on Hunter Biden, ever since the Biden transition issued a press release acknowledging that he was under investigation over his so-called \"tax affairs,"
+    publishedDateTime: 2020-12-11T12:40:00Z
+    webUrl: "https://www.foxnews.com/media/hunter-biden-coverage-liberal-media-smear-campaign-russian-disinformation"
+    ampWebUrl: "https://www.foxnews.com/media/hunter-biden-coverage-liberal-media-smear-campaign-russian-disinformation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hunter-biden-coverage-liberal-media-smear-campaign-russian-disinformation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/27754b17-4e72-417f-8260-7ed53197681d/60f1933b-0908-45bf-b35a-4831d232a461/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "dE9O53hW75knOarV0n3sYzTGSC/2SODmHsuX6TDnMICbYLjbWu/W7SoUVnYcyiswBE7Cy42YKnmPuz1tXECX9ZlFLj0PWEcOy4Eh9hg3E2RmYTOlfqp03DX4tmZFXuVhXZgd3YODD4YVC7iIRs/t8cAF4MBzgNx8nKNB5pZkfWZuaAa3Xu2f+Ckm2b2SKES9p0iRi65OyxNapPNZdo4PcKHHFmlRdVwtztSLdsDfdwIKRG/i44z2ArI3ArWKk5+Z6D0qWw6/lyM5BbOYKCzO3LcKmOzd0aYmXDDnKT5JtfdOuLPtdlpTneZozE8yVbcDd+6aZIxJYUEGXedJ4lktcgQ80ZaZ4zF9NLJtJzlZmRo=;ZhOP4j9e4xCqBjN8SeLPjw=="
 ---

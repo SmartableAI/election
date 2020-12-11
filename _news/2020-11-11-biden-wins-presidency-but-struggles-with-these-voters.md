@@ -2215,6 +2215,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Joe Biden & Kamala Harris Are 2020 Person of the Year"
+    excerpt: "Together, Joe Biden and Kamala Harris offered restoration and renewal in a single ticket. And America bought what they were selling Frank is right when he talks about the myriad of voting irregularities that the public is totally unaware."
+    publishedDateTime: 2020-12-11T12:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/11/joe_biden_amp_kamala_harris_are_2020_person_of_the_year_531162.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/52/526544_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Watch: President-Elect Joe Biden, Vice-President Elect Kamala Harris Declare Victory"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala D. Harris will speak on Nov. 7 from Wilmington after their victory over President Trump in the 2020 presidential election."
     publishedDateTime: 2020-11-08T11:18:00Z
@@ -2243,15 +2257,6 @@ related:
         width: 1126
         height: 844
         isCached: true
-  - title: "Joe Biden & Kamala Harris Are 2020 Person of the Year"
-    excerpt: "Together, Joe Biden and Kamala Harris offered restoration and renewal in a single ticket. And America bought what they were selling Frank is right when he talks about the myriad of voting irregularities that the public is totally unaware."
-    publishedDateTime: 2020-12-11T12:37:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/11/joe_biden_amp_kamala_harris_are_2020_person_of_the_year_531162.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 60
 
 secured: "XK+9vkuKXEaFsd5QuTfmRQMcZTyBQCp+OBDnhwZJDEOYx7NtcTvAWLS52vgCK/qwdkYWUlD/siLG9DKNOf7QS6oTxb7iUnJWgf3FWPkugppHs3X6UcWjfrubsy+mV2314/jXy6QoR7Jci8yKP9e//qHDa1pnhDsTLmms2RPrd/5wg3l7P7hnETAPO32+wGXKnpCpNjB2PcOBRpmxIgx3zZcDBG0R9gPSKLIjmVh7Me3K/GPWJ48O59GJ5P3gHtLi+GezUz1oAW4VAYXV83/tAWYY2E34iJdx85De7RwD0uFhkwOEjqFGogVRjgRmbKaA8wNJK18uCdTJR9O+WKabUwTyMyj3Ttxsko79ntKn/EE=;DXYRzYceO2ElcnXlW6SslQ=="
 ---

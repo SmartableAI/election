@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-sen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/joe-biden-republican-senators-congratulated-election-cnntv/index.html"
 type: article
 quality: 182
-heat: 982
+heat: 1002
 published: true
 
 provider:
@@ -642,6 +642,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/56/16/b146704b4ab68f168a8bfcbefdd6/susan-rice-773-ap.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "California labor secretary in serious contention for Biden cabinet"
+    excerpt: "California's labor secretary began her legal career fighting for Thai garment workers held captive in a Los Angeles sweatshop. Decades later, she's in serious contention to join the Biden administration as secretary of the U."
+    publishedDateTime: 2020-12-11T03:08:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/10/california-labor-secretary-in-serious-contention-for-biden-cabinet-1345100"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/e0/9c/faa336fa4794a0ea215d1e7510ce/201210-julie-su-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

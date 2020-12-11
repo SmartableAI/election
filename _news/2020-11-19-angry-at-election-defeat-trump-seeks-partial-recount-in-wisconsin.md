@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0G6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0G6"
 type: article
 quality: 140
-heat: 1300
+heat: 1320
 published: true
 
 provider:
@@ -849,6 +849,17 @@ related:
     webUrl: "https://www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11"
     ampWebUrl: "https://www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Federal judge casts doubt on Trump's Wisconsin lawsuit"
+    excerpt: "A federal judge Thursday cast doubt on President Donald Trump's lawsuit that seeks to overturn Joe Biden's win in Wisconsin, saying siding with Trump would be “the most remarkable ruling in the history of this court or the federal judiciary."
+    publishedDateTime: 2020-12-11T14:47:00Z
+    webUrl: "https://www.businessinsider.com/federal-judge-casts-doubt-on-trumps-wisconsin-lawsuit-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/federal-judge-casts-doubt-on-trumps-wisconsin-lawsuit-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/federal-judge-casts-doubt-on-trumps-wisconsin-lawsuit-2020-12?amp"
     type: article
     provider:
       name: Business Insider

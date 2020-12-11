@@ -660,6 +660,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "California labor secretary in serious contention for Biden cabinet"
+    excerpt: "California's labor secretary began her legal career fighting for Thai garment workers held captive in a Los Angeles sweatshop. Decades later, she's in serious contention to join the Biden administration as secretary of the U."
+    publishedDateTime: 2020-12-11T03:08:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/10/california-labor-secretary-in-serious-contention-for-biden-cabinet-1345100"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/e0/9c/faa336fa4794a0ea215d1e7510ce/201210-julie-su-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "v3LPyOm0lM26XWISl4m9gZDIaO7wL1BndwHLBs8vTVnHfM1AiAcZBAt2LKIktlx2OR80eXVCNFN3/1jNXQ1+YST+dOsIFj2wZie/SHKSjNJ1xpRdyoVzdMMKxuFaCMrYPPJ7/kUP/DjBtnbn9VI0n027aTygqms11fkRT9U8lFB7c+hBuSPFzpe8WfDoaZ5LWZmoMuYwsreBZwYcv6JKmQG0atImwWA5cJIa2LDCSKoX4lViTtqFRPXVdbUW7AJ7iGtx0lfTVutuYuHYPVT8hCzf6CoT6hN6YaBX7aP2Sf19iFexNxK7C45EM49rH6IKSQeROz11NTFX0KMB/Ek07wa7vGm5mUaWyNXGXm6EprQ=;AY/dXD1PzPzKmjUpCkt2lw=="
 ---

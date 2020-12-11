@@ -429,6 +429,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden and Kamala Harris named Time magazine's 2020 person of the year"
+    excerpt: "Incoming president and his vice-president earn recognition, and follow in footsteps of Barack Obama and Donald Trump"
+    publishedDateTime: 2020-12-11T05:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/11/joe-biden-and-kamala-harris-named-time-magazines-2020-person-of-the-year"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/11/joe-biden-and-kamala-harris-named-time-magazines-2020-person-of-the-year"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/11/joe-biden-and-kamala-harris-named-time-magazines-2020-person-of-the-year"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/3f5e1cc363cf72360d9f776ee1664b19f7e5facc/0_71_3049_1830/master/3049.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7ea6fb3c4e554c3032bffc98a1651b20"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump-Biden transition live updates: Biden rolls out economic team leaders"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 51 days. Georgia Secretary of State Brad Raffensperger spoke before reporters Monday morning at the state capitol building in Atlanta and announced that his office has opened investigations into four third-party groups that he claimed are \"working to register people in other states to vote here in Georgia."
     publishedDateTime: 2020-11-30T17:42:00Z
@@ -1482,6 +1498,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "PsZ5qh4XBeTfBx/Nt4uU8jWKqHwZPVuaZ3Rx8oM9EJS9XlaIs9FuB99E7sGGa2Z7h0tiCOhmqNJrbIA8XEugdYXoGziQt14Nm2BNlmm5izxqG4oguZsAAFVPoExXs0sQ96daamRv5oXvYzZsW1H+IDZnOY3yXpuHPhTDaAr2Odxki3iasmZirEIvDCrgpwd9y+UkscH7RhWEYDw7Sct5010Sdn7cZjta6YLp/n0RLORY5PvK54nBTV4Q+mIM799FWx01k07pS0/zXTeCooiL46STq3J4hlB3npKkqw5P6TyV1/EUGJzN1OZvAqQcL5noheawSs5QWOzHwoQlqXoFb/eiLo6RDJ2pEgH3eMRZju4=;w5k0zpmQTiE8reP3fbyk7Q=="
+secured: "j4PU33eNq3R8z4CUZSxY18Kegiypv85fNZ1dlnauoixeOCV5qXkVYY7Rldro7SKKabD5spZyuK29RDCmmYuIOojKlZ9m8gCM35R9eGArYrpZziiriVR0kARqS7ASwF9ti9X2L5ard56ZtoNMwrhpnoGjqkPlclZ8rBg7sW0TMWR4+lkdFz5YZg9/aLPM/Gfz/gtSaKUrgN0bVwFMLCiv6vQJ5uxEf8EnapDwNCoGAnyFZoaaUZOAlj4Eht6wsVPaK5So6aMJnkWX0fABK98CT2I5rVm9uo7nFVgnDGD1AVDhKMSOyo1Kl4GAZauuYa1ZYSGeNPI5RkFm8dUx5/r/T+/SslHQvVmMPjD/PPo2ZA8WofcB6bGCG80lYA++TW5HXMi8ybUMkymdYkJCeeWaeaAXRizsj7/1liOZqz9Zo7YbVPg2MJ8Q8QLgBeTXTK+w8jnUI1RRMYOPmq2ykmgKRkNL3GMNw3ConNA0/y+w2fgprFceSEsmzZBLNAyQJmd4hVO/Ns/11z+VaIBaegrkxA==;Zkd1cme/9N2ghh3SubIlrw=="
 ---
 

@@ -2215,6 +2215,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Joe Biden & Kamala Harris Are 2020 Person of the Year"
+    excerpt: "Together, Joe Biden and Kamala Harris offered restoration and renewal in a single ticket. And America bought what they were selling Frank is right when he talks about the myriad of voting irregularities that the public is totally unaware."
+    publishedDateTime: 2020-12-11T12:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/11/joe_biden_amp_kamala_harris_are_2020_person_of_the_year_531162.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/52/526544_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Watch: President-Elect Joe Biden, Vice-President Elect Kamala Harris Declare Victory"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala D. Harris will speak on Nov. 7 from Wilmington after their victory over President Trump in the 2020 presidential election."
     publishedDateTime: 2020-11-08T11:18:00Z
@@ -2243,15 +2257,6 @@ related:
         width: 1126
         height: 844
         isCached: true
-  - title: "Joe Biden & Kamala Harris Are 2020 Person of the Year"
-    excerpt: "Together, Joe Biden and Kamala Harris offered restoration and renewal in a single ticket. And America bought what they were selling Frank is right when he talks about the myriad of voting irregularities that the public is totally unaware."
-    publishedDateTime: 2020-12-11T12:37:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/11/joe_biden_amp_kamala_harris_are_2020_person_of_the_year_531162.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 60
 
 secured: "Qu3Q2zlE9kNdEmfnuNc6pRqZpzRDWnLQuOPrZL96Do6+5bYGJ/Fy9UOLvG/ROCHecbLTOWQagif2g0/mNEJ2wVqT1iHl3VTngEuoYF9VQvBYefPQxQZR0eC9ut7EAR3+at3lRElthxv6XtTlYt8xs8024rkOXZoyRP++7iiS1nWQ8SsSz5ss8VxdqKqQNqGU9CARbJoaqng4haFoi8Zsl01mAHjqVgFNuPVd5N1z4Ilf8Fd05kwQlyZ7jW9cYUGgnWITH8jNdubMb1LaugUA+8BZINhI/jpFygLH2iCZv/eZElQFT5+/dFIS1Ben80BvQrmhY6iOB4ksDUQMKg7AQ1gtBeMFGNj8nRBfp1YoERU=;k+1HQRHDcTiUN0+X/UGVzg=="
 ---

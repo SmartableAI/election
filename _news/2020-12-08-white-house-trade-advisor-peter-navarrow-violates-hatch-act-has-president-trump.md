@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump campaign lawyer Jenna Ellis has reportedly told associates she has the coronavirus"
+    excerpt: "Ellis crisscrossed the country in recent days and attended a White House Christmas party that featured few masks and little social distancing."
+    publishedDateTime: 2020-12-11T14:03:00Z
+    webUrl: "https://www.businessinsider.com/jenna-ellis-told-associates-she-has-covid-19-report-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/jenna-ellis-told-associates-she-has-covid-19-report-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jenna-ellis-told-associates-she-has-covid-19-report-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5fcfadfe240ebd00126bdafa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Bowser pushes Trump administration to send more coronavirus vaccines for health-care workers"
     excerpt: "In a letter, D.C.’s mayor says the city will be able to inoculate only a small number of its health-care workers because of a population-based distribution formula."
     publishedDateTime: 2020-12-03T22:53:00Z

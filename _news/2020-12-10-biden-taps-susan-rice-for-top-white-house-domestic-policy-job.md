@@ -646,6 +646,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "California labor secretary in serious contention for Biden cabinet"
+    excerpt: "California's labor secretary began her legal career fighting for Thai garment workers held captive in a Los Angeles sweatshop. Decades later, she's in serious contention to join the Biden administration as secretary of the U."
+    publishedDateTime: 2020-12-11T03:08:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/12/10/california-labor-secretary-in-serious-contention-for-biden-cabinet-1345100"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/e0/9c/faa336fa4794a0ea215d1e7510ce/201210-julie-su-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden pledges to vaccinate tens of millions, reopen schools in first 100 days"
     excerpt: "The new pledges came as Biden introduced his picks to lead key health agencies and coordinate the federal response to a pandemic that's infected almost 15 million people in the U.S."
     publishedDateTime: 2020-12-08T21:16:00Z

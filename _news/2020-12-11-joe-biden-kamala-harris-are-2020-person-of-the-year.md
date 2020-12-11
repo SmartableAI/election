@@ -3,10 +3,10 @@ category: news
 title: "Joe Biden & Kamala Harris Are 2020 Person of the Year"
 excerpt: "Together, Joe Biden and Kamala Harris offered restoration and renewal in a single ticket. And America bought what they were selling Frank is right when he talks about the myriad of voting irregularities that the public is totally unaware."
 publishedDateTime: 2020-12-11T12:37:00Z
-originalUrl: "https://www.realclearpolitics.com/2020/12/11/joe_biden_amp_kamala_harris_are_2020_person_of_the_year_531162.html#!"
-webUrl: "https://www.realclearpolitics.com/2020/12/11/joe_biden_amp_kamala_harris_are_2020_person_of_the_year_531162.html#!"
+originalUrl: "https://www.realclearpolitics.com/2020/12/11/joe_biden_amp_kamala_harris_are_2020_person_of_the_year_531162.html"
+webUrl: "https://www.realclearpolitics.com/2020/12/11/joe_biden_amp_kamala_harris_are_2020_person_of_the_year_531162.html"
 type: article
-quality: 60
+quality: 80
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Kamala Harris
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/52/526544_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Biden and Harris to address supporters after winning election, ousting Trump"
@@ -2249,6 +2255,6 @@ related:
         height: 844
         isCached: true
 
-secured: "YiOrTnO92S5flKq01SHV54EbFxeuFFLs9ya1aJQTr5Y9sOrMYA8dwLDWh62PQGrNGtXOKMBVf8TDfkIvha8Xe2WVG/oiNzZZLeWfHkftYbcfJerRbl2HHMddFWcQ2Pa6r8jcCBwTJ6Vbu/RpS0grb7VbJWqq76tOQLfXra68CEjM+1Z0PjWZSCG6yiU9M4Xany+mbs+W1H6RbNcyFhca5V6hCbNKBhpUtowO+Xo5D+449yHqi6zkeyIXqlu27XgJ7K85LmoEZNmc9iq4sduEW3qMXTggMdZc8icHRX5lcghW49EsldBV+VZhuuPJ4GbgErp+8zLL38ojVGxjPrevAaIn6+5emTqExq7c6u88qwM=;JFW+fgA9jrhCDYnlNyee2w=="
+secured: "0voxvlTXgMM6aAe8zfe2iKK3Z3WSauARHiX6GDl2nOl69JBWUe38jhZhBblW3eAmWgh9Iw3KtmYMhUuUJXJqxvRnrE/wwDXVzXNxLP86MkXhe32XvXT+Fs4qB4w17DNNBIjWqBAOdwMvpU55kf6084K53btpzFP0+/BY/CPg1uCn3TR4OHP4XZUhDMDPqkb9koTRq9FVsM9QervRN/kspZYQltcndgb5cpvY7o9DYOh5k8RHCrJkw3Wcu4gWxire2LEV/jGp4LQx+fBucr3CgW/y1xTkacXAyStA6hOm2FI/Np9/ZOeWzD+51Ymwsea8RO9LzqK5jfk0876e/94ddzAUeNvQH5HV5hpd0QcwkXw=;ciMe9jTmWp3jZXTX5ia7gQ=="
 ---
 

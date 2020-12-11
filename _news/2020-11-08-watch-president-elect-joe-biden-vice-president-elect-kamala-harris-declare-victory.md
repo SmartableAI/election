@@ -2226,6 +2226,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Joe Biden & Kamala Harris Are 2020 Person of the Year"
+    excerpt: "Together, Joe Biden and Kamala Harris offered restoration and renewal in a single ticket. And America bought what they were selling Frank is right when he talks about the myriad of voting irregularities that the public is totally unaware."
+    publishedDateTime: 2020-12-11T12:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/11/joe_biden_amp_kamala_harris_are_2020_person_of_the_year_531162.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/52/526544_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Ron Klain: Kamala Harris Will Be \"The Last Voice Biden Hears From Before He Makes Important Decisions\""
     excerpt: "Democratic operative Ron Klain joined MSNBC host Lawrence O'Donnell on Thursday for his first interview as Joe Biden's Chief of Staff to discuss progress in the presidential transition process, the relationship between the president-elect and vice president-elect Kamala Harris,"
     publishedDateTime: 2020-11-13T06:57:00Z
@@ -2240,15 +2254,6 @@ related:
         width: 1126
         height: 844
         isCached: true
-  - title: "Joe Biden & Kamala Harris Are 2020 Person of the Year"
-    excerpt: "Together, Joe Biden and Kamala Harris offered restoration and renewal in a single ticket. And America bought what they were selling Frank is right when he talks about the myriad of voting irregularities that the public is totally unaware."
-    publishedDateTime: 2020-12-11T12:37:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/11/joe_biden_amp_kamala_harris_are_2020_person_of_the_year_531162.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 60
 
 secured: "Y/9HB0dBmAR0FWJs0ha70Wsck6Gf5K6zlDLqwO2wnjkifl3mdLxWZJdXRnPrrheSqwyTebtKdXL6+qlf1rRWTX0p34E92B/tVflciF9BoMs5LRtP9ERVhwSxJV5GycW4XDjhmue8NNqkVZiCOwzb/+j8/Pg5UILb4P9IrcaozkVLAfRf9q5HFCiVt4vY7umF8U2k4CGCSkrxBfQgOS0yBTUfwXACka1uF5KMUhXdFQUI4VQjuf6eLo8yEHo5zldvC+0IwFuT9rQLFCi5YB4LcjPFq0Gi8sS6evmIlR4DtCQkBfTriEjG2jDy90dfx5Dkx5NoiU93XwG2ARknNhdOsHtQPbpnb5iIvdVvJ2ZzaY6VpzZHWRnTfcVIAP9KJxRxR0vIw7fvY9OJiD8RlTHp815Pjj4zEaSo8Ndi+O/n+Rrug7nDWFZjNcb+rpAz0JgULzH4htU04gxUeT35/kUOauz+Sm8/qGvc6H5pJox5OaSaTBLzO6LECUEG88yV7B/5T2R/Q9XN7gjuBcvF3flLFg==;BIyOYVTxlmQZfkMZ6KddRw=="
 ---

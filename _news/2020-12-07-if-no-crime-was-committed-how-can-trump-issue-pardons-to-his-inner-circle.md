@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/if-no-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/if-no-crime-was-committed-how-can-trump-issue-pardons-to-his-inner-circle/2020/12/04/4cc534b8-357f-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 123
-heat: 163
+heat: 183
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543441769&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB3063"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump has the power to issue pre-emptive pardons. Here’s how past presidents used it."
+    excerpt: "George Washington, Gerald Ford and Jimmy Carter have used the pre-emptive pardon to seek national unity, not to protect family members as Trump is reported to be considering."
+    publishedDateTime: 2020-12-11T14:10:00Z
+    webUrl: "https://www.washingtonpost.com/history/2020/12/11/preemptive-pardons-trump-george-washington-ford/"
+    ampWebUrl: "https://www.washingtonpost.com/history/2020/12/11/preemptive-pardons-trump-george-washington-ford/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/12/11/preemptive-pardons-trump-george-washington-ford/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3LNJ6UXI3UI6VP2EBUY4QWBYUU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "nENJER+FT8A5lPWcX12/jcBVgy1Ap9vufRnYzTV70+l26M/cUNDrCILMGY+UIdDtlwlgtxuxHsC9EZjI13L/lPm7IUZD5AnkwjmRVoTSyfi7JiDFWcCJSEsWmoE0o9KKcSt0q7X5HT2/ffcTrHkA/r08W0o30E0gmQXWtGH5nwPLx1boGVrbAgUjEgmatMfFAJUUvn8fD0kpshKR5Kip20P86rW52GV32xqhRMEzmY/FMcI61DXBwng2nLP5ICrQ/Twr6MyU7WYrPYwdEzMSGSfBTA0T0sF+0pR2CYrdBxnEBwo8MX6L1UGDH48BfvY10QacmKtvJqnopsKUgMyaARW2X0BDy6H98LoQJAQ3X78=;7aFCb40DSpDxfCj4b1DrMA=="

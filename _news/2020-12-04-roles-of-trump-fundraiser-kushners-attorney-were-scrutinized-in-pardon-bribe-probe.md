@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 959
         isCached: true
+  - title: "Trump has the power to issue pre-emptive pardons. Here’s how past presidents used it."
+    excerpt: "George Washington, Gerald Ford and Jimmy Carter have used the pre-emptive pardon to seek national unity, not to protect family members as Trump is reported to be considering."
+    publishedDateTime: 2020-12-11T14:10:00Z
+    webUrl: "https://www.washingtonpost.com/history/2020/12/11/preemptive-pardons-trump-george-washington-ford/"
+    ampWebUrl: "https://www.washingtonpost.com/history/2020/12/11/preemptive-pardons-trump-george-washington-ford/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/12/11/preemptive-pardons-trump-george-washington-ford/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3LNJ6UXI3UI6VP2EBUY4QWBYUU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "qiNIWje9yd76v/6XCubgzHdNg6+7pKwTbZQwYJv7/USRYP75yMn4OfoWHyEABtMAiBjPPTs5vP7h9w9u/saIsRH4XWVZGRsKnMQ72atVbQfwxUorACku592e7DzV6y9x17OhhOk4UkS25GkG2aIMKz9WaJWSG0fFVfl30peCR4U6FDRuGTo7rRtI00SfV385dFGZaJi6F5R+wix4dyvh3W2A3wnCqb4cYqZoYFIRJTREBH45J/O/Nzb6iCfS2PTv34xsadYGklHaCdppPMVch5ojPg8nuAzZ+3B8hfrmVpc3Qr+EhiDYHRq0Cif43S6UWPMq656DOtfkPVKXNqIMcX4F/olTi8eFCnkbV9z9J0Y=;MKZ+cI5F+m1KXCsb6TGhvw=="
 ---

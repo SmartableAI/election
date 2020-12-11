@@ -853,6 +853,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Federal judge casts doubt on Trump's Wisconsin lawsuit"
+    excerpt: "A federal judge Thursday cast doubt on President Donald Trump's lawsuit that seeks to overturn Joe Biden's win in Wisconsin, saying siding with Trump would be “the most remarkable ruling in the history of this court or the federal judiciary."
+    publishedDateTime: 2020-12-11T14:47:00Z
+    webUrl: "https://www.businessinsider.com/federal-judge-casts-doubt-on-trumps-wisconsin-lawsuit-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/federal-judge-casts-doubt-on-trumps-wisconsin-lawsuit-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/federal-judge-casts-doubt-on-trumps-wisconsin-lawsuit-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Republican leaders in Arizona, Michigan, Pennsylvania and Wisconsin throw cold water on ploy to flip electors to Trump"
     excerpt: "Republican leaders in Michigan and other key states won by Joe Biden say they won't participate in a scheme to flip electors to vote for Donald Trump."
     publishedDateTime: 2020-11-14T23:52:00Z
