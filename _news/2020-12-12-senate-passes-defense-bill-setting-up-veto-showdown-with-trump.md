@@ -1534,6 +1534,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Brian Kemp Cast His Lot With Trump, and Has Now Paid the Price"
+    excerpt: "Mr. Kemp rose to Georgia’s governorship with the help of President Trump, but his refusal to try to overturn the state’s election results has drawn Mr. Trump’s ire — and may affect his political future."
+    publishedDateTime: 2020-12-11T20:48:00Z
+    webUrl: "https://www.nytimes.com/2020/12/11/us/politics/brian-kemp-georgia-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/politics/brian-kemp-georgia-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/politics/brian-kemp-georgia-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/00kemp-trump1/00kemp-trump1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
     publishedDateTime: 2020-12-01T16:55:00Z
@@ -1941,6 +1957,6 @@ related:
         height: 773
         isCached: true
 
-secured: "hBpbbhfctl6nvVjx4m/ltXw2aix8+kTuxJ2yB/M/OXuTAWAHEW/M7Rtxvt6fSm6DJteIpNn4UTzz9JU87GDd8bKQiNXNLtTd4Pfv4TVNIqRihkAqAjZUmq6Rl6/1VnHf6kwlxdg1B56iBZpyrvDI8dPlHBPD5jwSEmQ1EkC3AYhqEuqfgtdXZtx6DA5Cd7X/IZewaMxW+Poh/odXj2InqQ5j4UaItx3CXE1Z2rmIMcqHQ7CcUtzmbxzsN1WBmsrQnYB5/4W3nbtNBPc+ypYLoAyvMLpx+gyzb34rd9h3utEo1ZCM7AL3E9rly76FBM6xOb6cuXzoCglnXsLJofZtXEEQg6JQQ4V3ciuyhyRCuvo=;dUfa4Bn/GFF4VKzj0HYjeQ=="
+secured: "Q37Z+fXfRJrdbtCUEzBjUW5qRaxzmt9PCffbO4XOT+xdtOcyic5NJ92VH/6X2ycJNPhVFinubBr6kW7L1kKY7sGqoUm/efXP+/jgsJpSkk8Evqqmg+g6y8Og9JfqvLLgHiXPbhzq77vjp832bTeRIPVhYsq5aUwA5E4uNPD9thpIoq2rIZNXfnt7EhlJCNiQ6omrPrOgeHo/M0CWZxxqTeVEekt0/ii6+9hG2+2NZOtEVoCA5NLffHso8Ywn6Etz0fYHm7TLDAShJHN6QU08mZIXOFpA9cq9rEiv2Ae+eScmzb0avVaC6a4B16MoFCbrnCLIokPtut7fUDLRVAK4CDZbnBngvleUgZUPbybTRUB4Jc6aibE6LUe2irU+oiJhhXojojbNmD+9PQlPLZipQV5RgoPa8FaeVSVNDH2ijNtZskqurb0wtvA4gguc13igzg/I9BDqKA0e7UyvSZvjDrKHzUxQR7bkDjtX8fB4L+LK+rOWsobdxFcMOGbehvNnEfXkSm1ODntCAiAx9g839g==;x19bh2p886NGy6dORsz3fQ=="
 ---
 

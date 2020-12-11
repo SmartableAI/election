@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Pence sets Indiana trip to discuss coronavirus vaccine"
-excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss coronavirus vaccines as federal officials are expected to soon authorize the first such vaccine for widespread use. Pence’s office announced Friday that he would travel on Tuesday to Bloomington,"
-publishedDateTime: 2020-12-11T18:07:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Pence-sets-Indiana-trip-to-discuss-coronavirus-15794470.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Pence-sets-Indiana-trip-to-discuss-coronavirus-15794470.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Pence-sets-Indiana-trip-to-discuss-coronavirus-15794470.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-sets-Indiana-trip-to-discuss-coronavirus-15794470.php"
+excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss coronavirus vaccines as federal officials are expected to soon authorize the first such vaccine for widespread use."
+publishedDateTime: 2020-12-11T19:40:00Z
+originalUrl: "https://www.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
+webUrl: "https://www.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
+ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://s.hdnux.com/photos/01/15/55/21/20370531/9/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/10/virus_outbreak_south_carolina_pence_38030_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
+    width: 1200
+    height: 700
     isCached: true
 
 related:
@@ -78,6 +74,6 @@ related:
         height: 450
         isCached: true
 
-secured: "SmoBsbVYU22vkIOHsVKnqUiJlacEaojbyb2aPHTixKJswoAPst2cxf301MmP7h1qlH8DBrzgWFKKR0eauKHPJtXwMr4y0BC93IkWWTiXKablvMpTyT/vL+ljMj2MGlvFWuhzr9d0SCbkHvEFOtfhFFl1fJq0sXIcLkQXyQplCZvxeUQtI52dXhM6z1Wrw1QbRYLO+LzTNJbtiyAQdA9qKD/297IQ0yEUa/Xb6J2uYcVbgJKizaoswOlqMW1frEVSDtMlLIXfe1CTx8zirDdjRLSrmcGD/sqVyXsQpIeT7UbllB09GCCyEV8F/l6IVQrJwEZOUJWDfZtFtuhslszzD3dgqRmEAU1D7T7GjZmGzR8=;it5NdNAhmWUmaj0wPm9ZUQ=="
+secured: "kaOuUVC92pfNDgFQEgZx2kQQy0x4qYAF/witroA1/0Fg/1QDG7wJ1+HizwLMps3T1P+JsJBEBmadufBhfiPXCJiMfS4naCU8/NYB+Yg7o5VfowGBdOvGJMTzizKq6ADMIackBOyq+Na3/ZRMU19dvdCDDwqWF+vvWXc1uFrnaiWjRnDsgELLf0W5lAiiIzLSacdHyLP1WqZsXqr0pLHI1nBklUWAiP38OcNhE6O8BDOUazGF0ZfOuM9SLW/oBMBWY8Pwg6D0zkmUiYSNwGzooC0Xw0ynm/Rwq5FYIkb0k4bOm5Lqku/0uFdKEFOEjbkkxhAWMwzFbp1AjsnKILDVKKfzA7XjQsJ/1+cHnVeYWWk=;l2hGWOHxBA1bZmFDyWcVjA=="
 ---
 

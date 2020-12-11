@@ -77,6 +77,17 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "EXPLAINER: Baseless Claims Fill Trump-Backed Election Case"
+    excerpt: "The latest lawsuit seeking to subvert President Donald Trump’s loss makes a barrage of claims that don’t hold up under basic scrutiny, no matter how relentlessly Trump promotes the case and pushes lawmakers to support it."
+    publishedDateTime: 2020-12-11T20:08:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/explainer-baseless-claims-fill-trump-backed-election-case"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/explainer-baseless-claims-fill-trump-backed-election-case?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-11/explainer-baseless-claims-fill-trump-backed-election-case?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
 
 secured: "O4b7wN43g/y3evjMEXnMEFd365uP0+5s0CraoORO76uS3MYV6IHv6MYUwrvwBz9NYYdaIZ4LTpoUt5dEWrjI38Q7ZUK9Qf0sXKrDCorlb7d8MStkvIA0MrMoS6myvKubVStK6ucbHr18EBqdKk4leo2oh+gmI3rS4/FubuUP2J8w52/6xNoq9auTbeRGBSfBc1bxu9FJj5JVp4nujhFbTN+ghV7ythCzp3r9HPFswUqOVHbG6kFzV25PjKem9M9tt6Pm2pcEfTkI0Pqm5tYUj2knZ64su2nEI7KUYue2Zastw8VGv5FjqTEcG2I0K+eUMMSabk2P/DyvtBmD37H9ja0Bwy6uaaNEpPQgvPjJ7Hk=;dix4Q0OJWAnLF2RSYUFkFw=="
 ---

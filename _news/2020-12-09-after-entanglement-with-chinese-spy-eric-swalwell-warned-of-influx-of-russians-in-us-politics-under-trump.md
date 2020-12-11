@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Swalwell rips Trump campaign adviser Jason Miller over child support amid China controversy"
+    excerpt: "Rep. Eric Swalwell, D-Calif., ripped Trump campaign adviser Jason Miller after he tweeted an article about Swalwell and an alleged Chinese spy. "
+    publishedDateTime: 2020-12-11T20:12:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uIDVQ_kDjWc/swalwell-rips-trump-campaign-adviser-jason-miller-child-support-china-controversy"
+    ampWebUrl: "https://www.foxnews.com/politics/swalwell-rips-trump-campaign-adviser-jason-miller-child-support-china-controversy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-rips-trump-campaign-adviser-jason-miller-child-support-china-controversy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Eric-Swalwell.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "After entanglement with Chinese spy, Eric Swalwell warned of 'influx of Russians' in US politics under Trump"
     excerpt: "Calif., was one of several politicians involved in an expansive Chinese spying operation and even after he was briefed on the foreign interference he experienced first-hand, he kept his focus publicly on Russia during the Trump presidency."
     publishedDateTime: 2020-12-10T11:19:00Z

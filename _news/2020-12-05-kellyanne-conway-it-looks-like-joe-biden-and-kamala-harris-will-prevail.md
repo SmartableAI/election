@@ -202,6 +202,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden HHS pick Becerra 'looks forward' to working 'in good faith' with Republicans, Democrats if confirmed"
+    excerpt: "President-elect Joe Biden’s pick for secretary of the Health and Human Services Xavier Becerra is looking forward to “working in good faith with members of both parties in Congress,” the Biden Transition Team said, despite criticisms that the California attorney general and former Democratic congressman"
+    publishedDateTime: 2020-12-11T20:47:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K9jQ_bMceiQ/biden-hhs-becerra-republicans-democrats-confirmed"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-becerra-republicans-democrats-confirmed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-becerra-republicans-democrats-confirmed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kamala Harris Names Senior White House Staff"
     excerpt: "The vice president-elect selected three women to serve in top roles on her team."
     publishedDateTime: 2020-12-03T20:40:00Z

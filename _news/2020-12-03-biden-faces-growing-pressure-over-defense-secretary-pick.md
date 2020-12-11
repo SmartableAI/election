@@ -607,6 +607,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Disability Rights Groups Send Letter Opposing Biden's Potential Education Secretary Pick"
+    excerpt: "\"As the leader of the NEA, Eskelsen García had the opportunity to steer the organization toward equity and access for students with disabilities but failed to do so,\" the letter read."
+    publishedDateTime: 2020-12-11T20:27:00Z
+    webUrl: "https://www.newsweek.com/disability-rights-groups-send-letter-opposing-bidens-potential-education-secretary-pick-1554189"
+    ampWebUrl: "https://www.newsweek.com/disability-rights-groups-send-letter-opposing-bidens-potential-education-secretary-pick-1554189?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/disability-rights-groups-send-letter-opposing-bidens-potential-education-secretary-pick-1554189?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1684808/lily-eskelsen-garcia-nea-conference-2018.jpg"
+        width: 3500
+        height: 2333
+        isCached: true
   - title: "President-elect Joe Biden selects Susan Rice as director of White House Domestic Policy Council"
     excerpt: "Rice, 55, served as national security adviser to former President Barack Obama and is a former U.S. ambassador to the United Nations."
     publishedDateTime: 2020-12-10T16:01:00Z

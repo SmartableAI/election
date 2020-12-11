@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden Transition Live Updates: Anticipation Growing for the Supreme Court to Act on Texas Election Suit"
+    excerpt: "The Electoral College votes for president will be cast Monday. The Justice Department’s inquiry into Hunter Biden may hang over Joe Biden as he assumes office."
+    publishedDateTime: 2020-12-11T14:30:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11transition-briefing-scotus/11transition-briefing-scotus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "3IP5QEHuO3Wj/4CzbxnSULwziHK08Rzfyc3mkn4zWJJ4gIlKp9xuYhW2MfYc8nuXaIJAfUwnYuB+BIgBIQfZ2E9C8jqEofqVfMwo0z4l7Z5Ha24fAwUWztaRUgGTZjzhz2yOoUNRHmNhKUax4073OFMvgNgrqDIH6X0aL/5OcJs+NstqsbtEj0pY9yRUOj142VRb+uYoTBTmXh1s2kCVdSwhyjXgANuxvKG2//Jp+1opsQpnat/jlpTpa4692KxfPFVasB4s2ChnGM0hB+3NyU/dJiRPh/C1G7I2JIIpfNkz6jlG+dPuUey3hWYsCAPIL8d6KpszT6p7o8gz5/h75Agyy4WO/rTB3OIRzW6ZKQw=;fNnI640VoZUo7WyozQZpIA=="
 ---

@@ -1536,6 +1536,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Brian Kemp Cast His Lot With Trump, and Has Now Paid the Price"
+    excerpt: "Mr. Kemp rose to Georgia’s governorship with the help of President Trump, but his refusal to try to overturn the state’s election results has drawn Mr. Trump’s ire — and may affect his political future."
+    publishedDateTime: 2020-12-11T20:48:00Z
+    webUrl: "https://www.nytimes.com/2020/12/11/us/politics/brian-kemp-georgia-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/politics/brian-kemp-georgia-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/politics/brian-kemp-georgia-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/00kemp-trump1/00kemp-trump1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
     publishedDateTime: 2020-12-01T16:55:00Z

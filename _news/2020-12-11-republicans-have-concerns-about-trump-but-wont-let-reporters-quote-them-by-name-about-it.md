@@ -239,6 +239,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump loses Wis. lawsuit in latest legal defeat"
+    excerpt: "President Donald Trump has lost a Wisconsin lawsuit seeking to disqualify more than 221,000 ballots and overturn his loss to Democrat Joe Biden in the battleground state. (Dec. 11)"
+    publishedDateTime: 2020-12-11T19:22:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/11/trump-loses-wis-lawsuit-latest-legal-defeat/6510166002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/42d63cf4-bb12-4b19-8e4d-8ed99c6dc512_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "'The moment of truth': The Electoral College prepares to hand Trump the loss he refuses to accept"
     excerpt: "Facing a loss in the Electoral College, Trump's allies have shifted their focus to Jan. 6, when Congress will count the electoral votes."
     publishedDateTime: 2020-12-11T10:15:00Z
@@ -270,6 +284,6 @@ related:
         height: 630
         isCached: true
 
-secured: "z23Txx5o9IuQBeo0b5YVTyCx6Cc0IZ+g6aje5hLx1yLIRoTzgE6syfrA8Fjpwl8vhuiZUKN3Qy3rfaB5HuNzJkvGRKT1HdFEz+ZJZigMY07E/pz8OLonnj+nMQ0fBRO/wxfowU0w8I0J0iotGgz/2uvcoIR27PUu5IwzCT0JbVfHawLWo87190aH9VKZxx5Z7Y4E2MAq1zprlXNe7YqD5ZBlFzZbf0oKw+SVOg9g3FXNQcl4pHID0G3d3P9QRrikW5GARBkef+MNfbplUeUvZax6+LrHW1GvJzFhSNzgv8Q7K0EcjBTYpHuEqJScRr/SiSTCCZSDla8KLncJCouDTvzQIi8powJV2DVJ/2xg3io=;8wremBQ7zVGu+6OCul/+Pw=="
+secured: "Ih572+o/SaxVXLXIJTQUIbkvvuQXLZx9LiCzzdIoJ1TK97e+1GFApTC9yskastrn/z8aoUqqolw0+NBN5IXeaijxE700AeeK+bDoNwulc8vKyrRiNybUkKVYE6e/L9V2UY40bf5PKNaulDWCUWgHC7lZN/ZCfuCLs1rYNaXdvM04MMP/UzgFYzoj1icHrIxcEQVpI8O55+1TTJ/dgUyf17VpCrQVGV2tUhRh9NRIVeah9qIKVSx6hD3JqRTJCTJZS/mqrckGYuW9+I46lAlnxtakXA6Q59Uvbj3UTulG/1/idgrHCL7LzU7nZqOOhIdRv0iCB7L2CSTNf7YVvyCzG+pMof/obl7vm4K0NocEQYuv7EXDI137/OEV+FnQIS5sczfgdRxacNzKHPthdwxlgCoKK9/TtypR9evNMHRECHXoJWK2Yj6QZgLmuAnGSNF/r7/g9YR4tMCZrlDwc4ziC3L8vDkyIj6/iHGC5e4OCaDCTyhFGryyJX376Y7DCl4PV0XQ3WGDPlS+9kKfBWa+dw==;nlMtufz3B9UhIAfW4C3BqA=="
 ---
 

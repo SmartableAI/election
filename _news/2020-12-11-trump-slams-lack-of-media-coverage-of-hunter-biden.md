@@ -255,6 +255,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biased media ignored Biden's 'potential criminal activity' for months: Trump campaign"
+    excerpt: "Trump 2020 national press secretary Hogan Gidley reacted Friday on \"Outnumbered Overtime\" to the latest revelations about the Hunter Biden investigation, including that Attorney General William Barr was aware of it in the spring."
+    publishedDateTime: 2020-12-11T19:44:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RmLPYMG6fzU/biased-media-bidens-potential-criminal-activity-trump-campaign"
+    ampWebUrl: "https://www.foxnews.com/politics/biased-media-bidens-potential-criminal-activity-trump-campaign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biased-media-bidens-potential-criminal-activity-trump-campaign.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/adb23140-e9cf-491e-8575-04fe15b0f561/74a2486d-979b-4865-bb21-ed4ce837046d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump ‘surprised’ 25 House Republicans say Biden is president-elect, demands to know who"
     excerpt: "President Trump said he is “surprised” that “so many” Congressional Republicans believe President-elect Joe Biden won the election, and demanded a list of all GOP members who thought so. "
     publishedDateTime: 2020-12-05T22:51:56Z
@@ -382,6 +398,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ebbffdc8-b293-431a-8469-af03d8321f1e/95999e35-9a82-4907-be13-19f63604e35a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden makes big investment in Georgia’s Senate runoffs"
+    excerpt: "Hoping to help the Democrats win back the majority in the Senate, President-elect Joe Biden’s making what’s being described as a mid-seven figure investment in Georgia’s twin Senate runoffs, where the GOP’s control of the chamber is at stake"
+    publishedDateTime: 2020-12-11T20:42:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bEyL8hQB2X0/biden-makes-big-investment-in-georgias-senate-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-makes-big-investment-in-georgias-senate-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-makes-big-investment-in-georgias-senate-runoffs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Concha on media coverage of Biden injury: If it was Trump, they would have 'screamed' about transparency"
     excerpt: "The mainstream media would not have covered President Trump the same as President-elect Joe Biden's foot injury, Fox News contributor Joe Concha argued Tuesday."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
 type: article
 quality: 185
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210093404-texas-ag-ken-paxton-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden Transition Live Updates: Anticipation Growing for the Supreme Court to Act on Texas Election Suit"
+    excerpt: "The Electoral College votes for president will be cast Monday. The Justice Department’s inquiry into Hunter Biden may hang over Joe Biden as he assumes office."
+    publishedDateTime: 2020-12-11T14:30:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11transition-briefing-scotus/11transition-briefing-scotus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "ivwzxHdjAiFwETu2W9CI1rmwiXOx2e/eTuLB84s9CYCKQNaObXCHRWEqs8nqOIspoZXz8nWETTEHS23MsUcC6ybMbLa3v/geUxBoJNv+TwgCaWFWZQ+YcTrACep5Dr1PM1BVaJH+9suxs4KSB78ky9QinqBspPqZ3lLfY8sFwPcNqfZwFBoHIwHvEg54y8tR3twIiwugelDO2OvBJsL2oAS6vT/81gzTD95zIY9D0z+MwD+6UbHlnzu7vfilwOs9fA2+otH8tfiln4SknEBA+6IUiA6ezXa7G8EV+GDM6/YhOPINNakwiJ+au1xheN8yjgPwNUIAR0iCpFxYksNAifQ1wxXwIgUb/CmraJnrzoc=;7vrLoi647FEthjaWhdHOMA=="

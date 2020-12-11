@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Biden's transition contends with probe into son's finances"
-excerpt: "Associated Press (AP) — President-elect Joe Biden's historically challenging transition to power is suddenly becoming even more complicated."
-publishedDateTime: 2020-12-11T16:36:00Z
-originalUrl: "https://www.businessinsider.com/bidens-transition-contends-with-probe-into-sons-finances-2020-12"
-webUrl: "https://www.businessinsider.com/bidens-transition-contends-with-probe-into-sons-finances-2020-12"
-ampWebUrl: "https://www.businessinsider.com/bidens-transition-contends-with-probe-into-sons-finances-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-transition-contends-with-probe-into-sons-finances-2020-12?amp"
+excerpt: "The revelation that federal prosecutors have launched a tax investigation into President-elect Joe Biden’s son Hunter is now looming over the incoming administration's transition efforts"
+publishedDateTime: 2020-12-11T19:44:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/bidens-transition-contends-probe-sons-finances-74661119"
+webUrl: "https://abcnews.go.com/US/wireStory/bidens-transition-contends-probe-sons-finances-74661119"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/bidens-transition-contends-probe-sons-finances-74661119"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/bidens-transition-contends-probe-sons-finances-74661119"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_eb6fdf9e9ae14882ab437470936ab848_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Biden talks inauguration plans; Obama, Pence seek to boost Ga. Senate candidates"
@@ -673,6 +679,6 @@ related:
         height: 576
         isCached: true
 
-secured: "D1txUG8XXydTuyHBoNkPhZAqu2+o80jfGU7XniMAcw7Se+wu6Wp08iDtWtBnlTKQo+lV4i74gpMXuhq8yD9lgwayWIhwIe2yMxjE/aYpcSwW2MWaqifOF08GQt1KD82KitGDZ4W47vjtTdb/ihU/B/eGYbO2Nm95OlFPLigb9Jzs9G9HjvN963sltMFCXFA3MoSjTnaKEwBuk2L8BaWT0/+SHkfDWcccb1FDRI3kTb74bU11cwrsgTYPwBZ3INj7MF+98lCA5yQtwCCwvxEr0N+6RHR/Q28i5lwXf3RjNykYSQfFcXf6cO7cunLhKowc6GwJ04HpOrjcL1hKvWoETeTD5X0GFEgJnXtONWQx/tk=;ZoQ534KmaSac1B9ixTtHCg=="
+secured: "gXMXx/iiIkC114pMR34ANKARcCbmo6UZJJ3Tr8r+gB6Ar84EW55H8c17gUTtlCn8ASJJFxm+/bm98amyv8hnvkCq4e8QdACbhSSAa9bORexTymAUitPpblPfnYV4jann/kSmgC5UPjh4+CVAQdkWLh4pBJFRqX3n++sk/l2anJ5se9y7wYV/Y/32FTNx4OW3O3EvKkuwrHkeemxe4tOOFRZhQTwpAqy9w7+haUncj5AqeHA7IwH4IdPXmOmSblaylEbU0g/Rgaikfrv+08IA5PqjYqUthfOfjhrhEGeZn6f7OqE2Mm0ktRWI88eYlG5iRga4uBXFZx8Q5fxFOqwYrKPVo7rYDMthbtY3XSkqdrQ=;cPKfc/72ma0AU4SAvNSk4A=="
 ---
 

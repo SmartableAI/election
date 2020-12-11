@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "U.S. Senate backs massive defense bill, despite Trump veto threat"
+    excerpt: "The U.S. Senate on Friday threw its weight behind the annual National Defense Authorization Act, or NDAA, a $740 billion bill setting policy for the Department of Defense, passing the bill with a margin large enough to overcome President Donald Trump's promised veto."
+    publishedDateTime: 2020-12-11T19:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28L24P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L24P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L24P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544282616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Supreme Court will hear Trump administration defend controversial Medicaid work requirements"
     excerpt: "Forcing low-income people to work or prepare for employment in exchange for health coverage is an experiment that's been tried in only three states."
     publishedDateTime: 2020-12-04T20:30:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/3dbe008c-2f39-4c44-8dfe-841a5dc08ac6-XXX_Supreme_Court_Upholds_Obama_s_Affordable_Care_Act_70385449_.JPG?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Senate sends Trump defense bill he has vowed to veto unless lawmakers impose limits on social media companies"
+    excerpt: "The Senate on Friday approved a wide-ranging defense policy bill, sending it to President Donald Trump, despite his threat to veto the bill because it does not clamp down on big tech companies he claims were biased during the election."
+    publishedDateTime: 2020-12-11T19:53:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-defense-bill-trump-veto-20201211-ckob34bohrasrgmuke7wx5ti5e-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-defense-bill-trump-veto-20201211-ckob34bohrasrgmuke7wx5ti5e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-congress-defense-bill-trump-veto-20201211-ckob34bohrasrgmuke7wx5ti5e-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 106
+    images:
+      - url: "https://www.chicagotribune.com/resizer/MPXAIRk7FxVI57C6w8529yvVNwM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TAIGUUJYLZAGZHJ6TR55AASCAU.jpg"
+        width: 1200
+        height: 689
         isCached: true
 
 secured: "+YE78bOndVeKHRxuoCq6DvPIgRkUBqUGs0pacpyEgUIYif5pPAuoJMWfOVbL48sAjz4yKuzAhe6d8gNxvuXffVUlCxUOiZOK0GZYBSymb7YSyfgseZ4jZDWX6VK3oRm6vC/cexMhfvT1Bw3//wvjiMFAbpq40kikMrlLVno7PUU/vsF2rQ9CDYUnSz8NAthzRJnmCtT5JKOV6RaIyQYgmz8WSmDyv5fhO71hB2Tv5XMkwO3aVmdzB9EDlgjWi7gt7VeBT53iVqL6HZTjdte7Sl1hB2sx3K1TKSpAB9cxHKGzf+i9/msqXs8H+7vOBUbaIycpAuenOKKDg7tyDzngIhR3ieHX2UTaEIdSEmwKejQ=;W3sbKWl+EKL4apredOXt+Q=="

@@ -539,6 +539,22 @@ related:
         width: 757
         height: 545
         isCached: true
+  - title: "Here's what it could take for Biden to undo Trump's big changes at the Pentagon"
+    excerpt: "The Trump administration has brought massive changes to the Pentagon in the weeks since Trump lost the election."
+    publishedDateTime: 2020-12-11T20:30:00Z
+    webUrl: "https://www.businessinsider.com/what-it-takes-for-biden-to-undo-trumps-pentagon-moves-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/what-it-takes-for-biden-to-undo-trumps-pentagon-moves-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-it-takes-for-biden-to-undo-trumps-pentagon-moves-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 136
+    images:
+      - url: "https://i.insider.com/5e81b05e2ff839113e6aac63?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump reportedly wants to hold a 2024 campaign event during Biden's inauguration"
     excerpt: "Donald Trump is strategizing ways to stay relevant amid incoming Biden administration, the Daily Beast reported, citing sources close to the president."
     publishedDateTime: 2020-11-28T16:48:00Z
@@ -1481,6 +1497,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/381eddb6-c7e9-491a-b103-1ce0310e824f-TIM201221_MAIN.coverFINAL.jpg?auto=webp&crop=2362,1329,x1,y773&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President-elect Joe Biden, Vice President-elect Kamala Harris named Time magazine’s persons of the year"
+    excerpt: "Time’s editor-in-chief Edward Felsenthal says Biden and Harris won for “changing the American story, for showing that the forces of empathy are greater than the furies of division, for sharing a vision of healing in a grieving world."
+    publishedDateTime: 2020-12-11T19:44:00Z
+    webUrl: "https://www.dailypress.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html"
+    ampWebUrl: "https://www.dailypress.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/ct-ent-time-magazine-biden-harris-20201211-iy7l2cw6nra3fbrzhz4a4gckuq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 74
+    images:
+      - url: "https://www.dailypress.com/resizer/BSq3Ak_medhh77iDHliMazeaj9g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PQPYHWKY3V6EVJEUIRLJGAFQKA.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
     excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."

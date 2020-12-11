@@ -79,6 +79,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "BAKER sends back POLICE REFORM bill — CLARK presses BIDEN on plastics — ROLLINS on U.S. ATTORNEY buzz"
+    excerpt: "He's not in office yet, but Rep. Katherine Clark is already calling on President-elect Joe Biden to address the world's \"indisputable plastic pollution crisis.\" Clark penned a letter with Oregon Sen."
+    publishedDateTime: 2020-12-11T12:30:00Z
+    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2020/12/11/where-baker-stands-on-police-reform-clark-biden-plastics-rollins-on-us-attorney-buzz-491119"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 100
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "pjUlzDhMofaeG6c0oxLZKv/nMxsFyAvBwW1a6xgP/JDbiwTC1bqhe9W+E70N13fkYtYf/Zu4lbC0uQOu2VMgzkMkZnSsClZUBsvBXjtZUy1TW3/k4NIu9smhWQWm+KzP/rH20/7s6tHEBF2IRXR0pUOT846AKnM/eFrGl0Ro7sDxMuBKW5xJyRhuXCW/LzctTUxj9EZmjwm5HYBEN+NIaRnDjZx2FqvflUfnm+sYvBq3kGZJF5jjIgrLDropdpQfON4/8eo5djJxFXzDkZgLl2UgDQ9Gt3HkCWVR0NjNjXBx54WTMqGVS03sdtReiEzGSbQJPFXoKTF02riXyZt81Hy91Yqy8vSdP9hRzJQSZrM=;7zMz7tZRi8QJ+uuluvm+jg=="
 ---

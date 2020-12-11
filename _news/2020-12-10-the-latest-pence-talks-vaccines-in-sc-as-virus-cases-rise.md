@@ -32,20 +32,20 @@ images:
 
 related:
   - title: "Pence sets Indiana trip to discuss coronavirus vaccine"
-    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss coronavirus vaccines as federal officials are expected to soon authorize the first such vaccine for widespread use. Pence’s office announced Friday that he would travel on Tuesday to Bloomington,"
-    publishedDateTime: 2020-12-11T18:07:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Pence-sets-Indiana-trip-to-discuss-coronavirus-15794470.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Pence-sets-Indiana-trip-to-discuss-coronavirus-15794470.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-sets-Indiana-trip-to-discuss-coronavirus-15794470.php"
+    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss coronavirus vaccines as federal officials are expected to soon authorize the first such vaccine for widespread use."
+    publishedDateTime: 2020-12-11T19:40:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/11/pence-sets-indiana-trip-to-discuss-coronavirus-vac/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/15/55/21/20370531/9/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/10/virus_outbreak_south_carolina_pence_38030_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Vice President Mike Pence to visit Greenville for coronavirus vaccines roundtable"
     excerpt: "Vice President Mike Pence will visit Greenville on Thursday to talk about COVID-19 vaccinations before traveling to a campaign rally in Augusta, Georgia. According to his office, Pence is visiting Greenville to take part in a roundtable discussion highlighting the public-private partnership to combat the coronavirus,"

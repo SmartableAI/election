@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-hhs-pick-xavier-becerra-me-too-kamala-harris.amp"
 type: article
 quality: 196
-heat: 536
+heat: 556
 published: true
 
 provider:
@@ -189,6 +189,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden HHS pick Becerra 'looks forward' to working 'in good faith' with Republicans, Democrats if confirmed"
+    excerpt: "President-elect Joe Biden’s pick for secretary of the Health and Human Services Xavier Becerra is looking forward to “working in good faith with members of both parties in Congress,” the Biden Transition Team said, despite criticisms that the California attorney general and former Democratic congressman"
+    publishedDateTime: 2020-12-11T20:47:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K9jQ_bMceiQ/biden-hhs-becerra-republicans-democrats-confirmed"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-becerra-republicans-democrats-confirmed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-becerra-republicans-democrats-confirmed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Kellyanne Conway: ‘It Looks like Joe Biden and Kamala Harris will prevail’"
     excerpt: "Kellyanne Conway says the party is probably over for her former boss and that Joe Biden and Kamala Harris will likely be moving into the White House in January. “The president wants to exhaust all"

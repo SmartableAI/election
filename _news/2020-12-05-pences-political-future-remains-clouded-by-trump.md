@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html"
 type: article
 quality: 200
-heat: 2620
+heat: 2640
 published: true
 
 provider:
@@ -1517,6 +1517,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/12/09/us/politics/09dc-diplo-turkey1/09dc-diplo-turkey1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Brian Kemp Cast His Lot With Trump, and Has Now Paid the Price"
+    excerpt: "Mr. Kemp rose to Georgia’s governorship with the help of President Trump, but his refusal to try to overturn the state’s election results has drawn Mr. Trump’s ire — and may affect his political future."
+    publishedDateTime: 2020-12-11T20:48:00Z
+    webUrl: "https://www.nytimes.com/2020/12/11/us/politics/brian-kemp-georgia-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/politics/brian-kemp-georgia-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/politics/brian-kemp-georgia-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/00kemp-trump1/00kemp-trump1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

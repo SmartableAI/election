@@ -685,6 +685,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Arizona Republican Party asking if followers are willing to die for Trump, openly beefing with GOP governor"
+    excerpt: "Arizona Gov. Doug Ducey spent much of Donald Trump’s presidency trying not to provoke a confrontation with the president or his fervent defenders. He almost made it through. But when state law required Ducey to certify Arizona’s presidential election results and sign off on Trump’s defeat last week,"
+    publishedDateTime: 2020-12-11T19:11:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-arizona-republican-party-rift-twitter-20201211-fxq7ys4shnapbgmbv27ucvtjqy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-arizona-republican-party-rift-twitter-20201211-fxq7ys4shnapbgmbv27ucvtjqy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-arizona-republican-party-rift-twitter-20201211-fxq7ys4shnapbgmbv27ucvtjqy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 107
+    images:
+      - url: "https://www.chicagotribune.com/resizer/dzoBgSlBrnKoQG5pLAnvO1Mcvxc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LRO2HPHMYBBNZJTFFC6TKIGPAU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Here’s what happened when a Georgia lawmaker scrutinized the Trump campaign’s list of allegedly illegal votes"
     excerpt: "Democratic state Rep. Bee Nguyen found that a list submitted as part of a Trump lawsuit in the state included two of her friends and a constituent."
     publishedDateTime: 2020-12-11T00:24:00Z

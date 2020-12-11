@@ -63,6 +63,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "U.S. Senate backs massive defense bill, despite Trump veto threat"
+    excerpt: "The U.S. Senate on Friday threw its weight behind the annual National Defense Authorization Act, or NDAA, a $740 billion bill setting policy for the Department of Defense, passing the bill with a margin large enough to overcome President Donald Trump's promised veto."
+    publishedDateTime: 2020-12-11T19:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28L24P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L24P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L24P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544282616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Senate sends Trump defense bill he has vowed to veto unless lawmakers impose limits on social media companies"
+    excerpt: "The Senate on Friday approved a wide-ranging defense policy bill, sending it to President Donald Trump, despite his threat to veto the bill because it does not clamp down on big tech companies he claims were biased during the election."
+    publishedDateTime: 2020-12-11T19:53:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-defense-bill-trump-veto-20201211-ckob34bohrasrgmuke7wx5ti5e-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-defense-bill-trump-veto-20201211-ckob34bohrasrgmuke7wx5ti5e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-congress-defense-bill-trump-veto-20201211-ckob34bohrasrgmuke7wx5ti5e-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 106
+    images:
+      - url: "https://www.chicagotribune.com/resizer/MPXAIRk7FxVI57C6w8529yvVNwM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TAIGUUJYLZAGZHJ6TR55AASCAU.jpg"
+        width: 1200
+        height: 689
+        isCached: true
 
 secured: "Qvk8QU/ZzolNGEU8yN2N6xEEIhR1Vu3INPs5lm4wKPtuESaQqwObSGdmz5uPKKnUjxxhLN9zyb+obdOijRhWGq7yp9nay07WXH8Hcl94C8jMI031UJdggY+Ru0bIbMKCrJRgmPX1bR7niw3K3pbsv+ircD/PeODcvITT8UjYv7zkMGNp1lsbPXuNGy05hIpQG9eecrMSHaNUV5gX7BoOPu+AgHER+uZymRFFKrbqcrS4sRUjUfPxtTrOy+xWsyCZUMGRM3Xb4DD4ygS+eE731ZMcWAGRvJIYVY6Jni+CnDq+NznjKVOJpY2do41DJaf2jYOrsI+zGxdMpCVg0wpa5j/TtvGb8rmMOU/Gw0wuVnY=;fNvsdhHc15ZSWlzGLi2aYA=="
 ---

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Senate sends Trump defense bill he has vowed to veto"
-excerpt: "The Senate has approved a wide-ranging defense policy bill, sending it to President Donald Trump, despite his threat to veto it because the bill does not clamp down on big tech companies he claims were biased during the election."
-publishedDateTime: 2020-12-11T18:54:00Z
-originalUrl: "https://www.latimes.com/world-nation/story/2020-12-11/senate-sends-trump-defense-bill-he-has-vowed-to-veto"
-webUrl: "https://www.latimes.com/world-nation/story/2020-12-11/senate-sends-trump-defense-bill-he-has-vowed-to-veto"
-ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-11/senate-sends-trump-defense-bill-he-has-vowed-to-veto?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-11/senate-sends-trump-defense-bill-he-has-vowed-to-veto?_amp=true"
+excerpt: "The Senate has approved a wide-ranging defense policy bill, sending it to President Donald Trump, despite his threat to veto it because the bill does not clamp down on big tech companies he claims wer"
+publishedDateTime: 2020-12-11T19:07:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/sen-rand-paul-delays-defense-bill-vote-troop-74666288"
+webUrl: "https://abcnews.go.com/Politics/wireStory/sen-rand-paul-delays-defense-bill-vote-troop-74666288"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/sen-rand-paul-delays-defense-bill-vote-troop-74666288"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/sen-rand-paul-delays-defense-bill-vote-troop-74666288"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/fffbe59/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F14%2F19%2Fd98df9665f3516670bebf60b6998%2F5ee558a856b645eca5eaa4ea55a5758c"
-    width: 320
-    height: 209
+  - url: "https://s.abcnews.com/images/Politics/WireAP_bbc3c4a1ff934f42af69979375eb3cc9_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -1103,6 +1103,22 @@ related:
         width: 2454
         height: 1633
         isCached: true
+  - title: "Trump returns to court in Wisconsin as time running out"
+    excerpt: "President Donald Trump’s campaign returns to a Wisconsin court to argue for the state’s election results to be overturned"
+    publishedDateTime: 2020-12-11T19:58:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-returns-to-court-in-wisconsin-as-time-running-out/2020/12/11/49bd3c00-3bc1-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-returns-to-court-in-wisconsin-as-time-running-out/2020/12/11/49bd3c00-3bc1-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-returns-to-court-in-wisconsin-as-time-running-out/2020/12/11/49bd3c00-3bc1-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Chinese firms on U.S. exchanges threatened by bill headed to Trump's desk"
     excerpt: "The U.S. House of Representatives passed a law to kick Chinese companies off U.S. stock exchanges if they do not fully comply with the country's auditing rules, giving President Donald Trump one more tool to threaten Beijing with before leaving office."
     publishedDateTime: 2020-12-03T00:45:00Z
@@ -2040,6 +2056,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "qxG4iWdScreXGPIc9m5eltt3FKbwDp45f2wBXlrVZhWeGj9uAwwadbyvfEn+k0QsrGyJO/dDIR4mi7xPJY39atO4dVoT2maX6rxu0Khqq6P7hTiD7fMP/q1RJNrpLO3EhWvXZvmmRBQMBVKGmHyjOA23inAP6O2+dssBkg9maWYWzcRe5VuioVx2mVNpjYG+OVKltrGpJNvnnf/OWtnGjRIpkDkWYXUtZ10g5o+D0vzDm8rDfUDNlgQxp1pIoY6csTYcH1AadZUMnD6Z0XlXdwF7W2fkVe3EXzzvIsOkrgZlRbienu8H/9/e7g2xlDaeW+UzuqaFjCaIxI7k78+x6EAK3s0BfI/6sq5TiEnCVXE=;56Dei8Pkj23mcnrCy7YmUg=="
+secured: "E1/FhDpB+zLXQrMd4P1vx0pIu9HEBK696z2t59k1DwGt0hPc8JW/VzXWGzUq1qmF0lZotBCX2Gywm1WQSuAMbSFX63s7reyOtvXZTZa66JLPxZ9q4ekzgnXvoKe6VwutwkYy+eQEWcZbyNo9qGn0gEUkJdQqw1J9bOXi4Um2QlWtWDIMwBJGN8NR4S8NIzBKDelwwq5vfJFmJV2IqMVGmmJ9rm9Q+hV+gfOiWD24QZ5fMlF6o+RM8XXIl0AvkhX3XHsoSwlA+E+ojeCDJkXKHS6/lbd4ZSC2796N4Fw8M5x8j6ptImxu28qadRMMhqqm3yZ75+AxuDpbsjj7fgWfL8zSaNb9ji8+w2X+U+iRSCU=;rEsoTbQh1K4KCJOp16kW6w=="
 ---
 
