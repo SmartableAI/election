@@ -207,6 +207,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "'The moment of truth': The Electoral College prepares to hand Trump the loss he refuses to accept"
+    excerpt: "Facing a loss in the Electoral College, Trump's allies have shifted their focus to Jan. 6, when Congress will count the electoral votes."
+    publishedDateTime: 2020-12-11T10:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/11/electoral-college-meeting-monday-hand-trump-loss-he-wont-accept/3807305001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 92
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/3aff1be8-cc45-4ab8-9b34-bcb8535b15bb-six_certificates_.JPG?crop=5075,2855,x0,y0&width=3200&height=1680&fit=bounds"
+        width: 2986
+        height: 1680
+        isCached: true
 
 secured: "RGCjwW+Hx4Vdg1ozLQ/kqJuAAegwd5tlR2ENYBTa44VEPMrkvX0FCnuWzszaIe8g7ENTKCEQuE79wEN94hVaLvRuUMSbP0VW604KIgQVHKcJlmDDmQ/n7dNx4mvILKMsOW+FmQLVcBeXDkF+X1wbxLTJfzBcl8KpLorSpXbF7jjL2/kjvZLKesKOYyj6Dve5yeCTo8poifkCilulIYh1VOnSaBKTT4vV8wIW7qtTs6aLBuPNY5jEpC+YpU3onhJJ+G/cQcdzC363Uf/GENNELw7F9qL1Jre/957RpOr8Lr0vBJaS5Op+VNIDYnWgEEHRN0FlLRrSeaI5UStVRAZ5+ifVbAHfYKhUUlfEw4v8yUI=;u1cdkUo5CnKzNgbGRG9qmw=="
 ---

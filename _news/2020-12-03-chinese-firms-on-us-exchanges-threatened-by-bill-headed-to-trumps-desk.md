@@ -1087,6 +1087,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump's Executions Will Be Most of Any President in Over a Century"
+    excerpt: "Federal executions are typically paused during a presidential transition period leaving the new president to decide."
+    publishedDateTime: 2020-12-11T10:30:00Z
+    webUrl: "https://www.newsweek.com/trump-execution-spree-highest-any-president-over-century-1554030"
+    ampWebUrl: "https://www.newsweek.com/trump-execution-spree-highest-any-president-over-century-1554030?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-execution-spree-highest-any-president-over-century-1554030?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1684277/trump-raises-his-fist-rally.jpg"
+        width: 2454
+        height: 1633
+        isCached: true
   - title: "Trump urges Georgia governor to call special session of state legislature"
     excerpt: "U.S. President Donald Trump on Saturday called on Georgia Governor Brian Kemp to hold a special session of the state legislature over election results there."
     publishedDateTime: 2020-12-05T22:26:00Z

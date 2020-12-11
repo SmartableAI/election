@@ -1584,6 +1584,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "America First super PAC fights for relevance as Trump takes fundraising reins"
+    excerpt: "Some Republicans were frustrated with America First’s 2020 performance, and now they’re skeptical it will remain viable as Trump launches his own fundraising venture."
+    publishedDateTime: 2020-12-11T09:34:00Z
+    webUrl: "https://www.politico.com/news/2020/12/11/america-first-trump-fundraising-444464"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/america-first-trump-fundraising-444464"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/america-first-trump-fundraising-444464"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 132
+    images:
+      - url: "https://static.politico.com/2b/5a/2e089fa248c2a5189232dbacb426/ap19088769239860-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Here's who Trump has granted pardons and commutations to during his presidency"
     excerpt: "The end of President Donald Trump's time in office has been marked by a renewed interest in granting clemency -- both from the President, and from members of his inner circle looking for protection before President-elect Joe Biden assumes office."
     publishedDateTime: 2020-12-05T19:10:00Z
@@ -1677,6 +1693,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-brieft-pardon/01transition-brieft-pardon-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Spree of federal executions during Trump's lame-duck period and pandemic is unprecedented"
+    excerpt: "Four of the five coming executions by the federal government involve Black men, while the first woman in 70 years will be executed in January."
+    publishedDateTime: 2020-12-11T10:30:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/spree-federal-executions-during-trump-s-lame-duck-period-pandemic-n1250565"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250565"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250565"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_50/3434441/201209-terre_haute-federal-prison-al-1018_042b99be99cc0512d424d485114606fc.jpg"
+        width: 2500
+        height: 1665
         isCached: true
   - title: "If Republicans lose either runoff race, Trump may be risking his long-term political clout"
     excerpt: "Dany Pletka, Senior Fellow, Foreign and Defense Policy Studies at the American Enterprise Institute, says that President Trump will be to blame if the GOP loses either senate runoff."

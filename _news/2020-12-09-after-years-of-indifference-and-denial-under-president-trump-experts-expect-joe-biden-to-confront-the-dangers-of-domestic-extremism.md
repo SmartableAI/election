@@ -109,6 +109,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
+    excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
+    publishedDateTime: 2020-12-11T06:12:00Z
+    webUrl: "https://www.reuters.com/article/us-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K33R?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K33R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K33R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 150
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544198413&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA090"
+        width: 798
+        height: 545
+        isCached: true
   - title: "Biden identifies more administration officials, Trump vows continued election fight"
     excerpt: "President-elect Joe Biden chose more senior aides to lead his administration's efforts to defeat the coronavirus and rebuild the U.S. economy, and his office confirmed on Sunday he would begin receiving classified briefings that are an essential step toward taking"
     publishedDateTime: 2020-11-30T06:23:00Z
@@ -348,22 +364,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106786006-16048020972020-11-08t021914z_1245788963_rc2qyj94vi4f_rtrmadp_0_usa-election-biden.jpeg?v=1604802126"
         width: 3500
         height: 2333
-        isCached: true
-  - title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
-    excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
-    publishedDateTime: 2020-12-11T06:12:00Z
-    webUrl: "https://www.reuters.com/article/us-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K33R?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K33R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K33R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544198413&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA090"
-        width: 798
-        height: 545
         isCached: true
   - title: "Biden says he hopes Supreme Court rejects Trump bid on 2020 census count"
     excerpt: "President-elect Joe Biden on Tuesday said he hopes the U.S. Supreme Court rejects a plan by President Donald Trump's administration to exclude immigrants living illegally in the United States from population counts used to allocate congressional districts to states."
@@ -1094,6 +1094,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Twitter Reacts To Joe Biden, Kamala Harris Beating Out Donald Trump As Time's Person Of The Year"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris were chosen as Time's 2020 Person of the Year from a shortlist that included President Donald Trump, Dr. Anthony Fauci, frontline COVID-19 workers and racial justice movements."
+    publishedDateTime: 2020-12-11T10:50:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-joe-biden-kamala-harris-beating-out-donald-trump-times-person-year-3099987"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-joe-biden-kamala-harris-beating-out-donald-trump-times-person-year-3099987?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-joe-biden-kamala-harris-beating-out-donald-trump-times-person-year-3099987?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 92
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/12/president-donald-trump-has-refused-to-concede-to.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Biden, Harris to receive first presidential intelligence briefings"
     excerpt: "U.S. President-elect Joe Biden is scheduled to receive his first presidential intelligence briefing on national security threats Monday as he prepares for his transition into office."
     publishedDateTime: 2020-11-30T12:05:00Z
@@ -1141,6 +1157,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/10/gettyimages-1228008551.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Joe Biden, Kamala Harris named Time's 2020 Person of the Year"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris have been named Time magazine's Person of the Year for 2020."
+    publishedDateTime: 2020-12-11T09:17:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/12/11/Joe-Biden-Kamala-Harris-named-Times-2020-Person-of-the-Year/5001607674411/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/11/Joe-Biden-Kamala-Harris-named-Times-2020-Person-of-the-Year/5001607674411/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/11/Joe-Biden-Kamala-Harris-named-Times-2020-Person-of-the-Year/5001607674411/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5001607674411/2020/1/cc09d184995f8411b4df7c1a297c83b5/v1.5/Joe-Biden-Kamala-Harris-named-Times-2020-Person-of-the-Year.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Time Magazine Names Joe Biden and Kamala Harris Person of the Year"
     excerpt: "Time magazine has named President-elect Joe Biden and Vice President-elect Kamala Harris its “Person of the Year.” Time’s editor-in-chief Edward Felsenthal says Biden and Harris won the honor for “changing the American story,"
