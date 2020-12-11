@@ -2,6 +2,110 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-11-09-former-president-george-w-bush-extends-warm-congratulations-to-president-elect-joe-biden.md",
+      "title": "Former President George W. Bush extends 'warm congratulations' to President-elect Joe Biden",
+      "excerpt": "\"I just talked to the President-elect of the United States, Joe Biden,\" former President Bush said, adding that he extended \"warm congratulations.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/07/USAT/bc96049b-8aec-468f-b955-e7b1af5bd757-AFP_1W10ON.jpg?auto=webp&crop=2956,1663,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6204399002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002",
+      "publishedDateTime": "2020-11-08T09:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-kamala-harris-indian-ancestral-village-celebrates-her-victory-as-she-becomes-vice-president-of-the-united-states.md",
+      "title": "Kamala Harris' Indian ancestral village celebrates her victory as she becomes Vice President of the United States",
+      "excerpt": "Thulasendrapuram, population 350, was the Indian home of Harris' maternal grandfather, P.V. Gopalan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11",
+      "originalUrl": "https://www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa821d11df1d500182197b6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11?amp",
+      "publishedDateTime": "2020-11-08T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-new-york-gov-cuomo-predicts-scientists-will-speak-unmuzzled-now-that-trump-is-out-of-office.md",
       "title": "New York Gov. Cuomo predicts scientists will speak 'unmuzzled' now that 'Trump is out of office'",
       "excerpt": "Cuomo said \"the political pressure of denying COVID is gone\" after Joe Biden's victory was called in the 2020 presidential election.",
@@ -1221,115 +1325,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-the-trump-team-is-planning-a-news-conference-in-philadelphia-this-morning.md",
-      "title": "The Trump team is planning a news conference in Philadelphia this morning.",
-      "excerpt": "Biden Jr. over the threshold for the presidency, President Trump said that his team would be holding a news conference in Philadelphia on Saturday morning. It was not immediately clear what the topic of the news conference would be,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/06/us/politics/the-trump-team-is-planning-a-news-conference-in-philadelphia-this-morning.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/06/us/politics/the-trump-team-is-planning-a-news-conference-in-philadelphia-this-morning.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/07/multimedia/07liveblogbidenwinsheader/07liveblogbidenwinsheader-articleLarge-v3.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/06/us/politics/the-trump-team-is-planning-a-news-conference-in-philadelphia-this-morning.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/us/politics/the-trump-team-is-planning-a-news-conference-in-philadelphia-this-morning.amp.html",
-      "publishedDateTime": "2020-11-07T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-joe-biden-urges-patience-unity-as-he-waits-with-the-rest-of-america.md",
-      "title": "Joe Biden urges patience, unity as he waits with the rest of America",
-      "excerpt": "Joe Biden — like the rest of America — is still waiting. Despite being on the cusp of the presidency, Biden did not give the victory speech he and his campaign hoped he would deliver on Friday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/07/joe-biden-urges-patience-unity-he-waits-rest-america/6201879002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/07/joe-biden-urges-patience-unity-he-waits-rest-america/6201879002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/07/PWIL/8fe8140d-f5ef-4032-bf35-6123ab4fbc90-AP20312142716387.jpg?auto=webp&crop=3983,2240,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6201879002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6201879002",
-      "publishedDateTime": "2020-11-07T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

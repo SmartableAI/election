@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ari-fleischer-on-coverage-of-hunter
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-on-coverage-of-hunter-biden-mainstream-media-committed-dereliction-of-duty.amp"
 type: article
 quality: 162
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "NY Post's Devine: Mainstream media suppressed Hunter Biden story until 'their man' won election"
+    excerpt: "New York Post columnist Miranda Devine ripped mainstream media outlets on Friday for \"actively suppressing\" the Hunter Biden story until \"their man\" Joe Biden was elected."
+    publishedDateTime: 2020-12-11T15:58:00Z
+    webUrl: "https://www.foxnews.com/media/ny-post-devine-mainstream-media-suppressed-hunter-biden-story"
+    ampWebUrl: "https://www.foxnews.com/media/ny-post-devine-mainstream-media-suppressed-hunter-biden-story.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ny-post-devine-mainstream-media-suppressed-hunter-biden-story.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb434ef2-fe30-41c5-9c87-687265fa6239/5d3b2f20-1e86-4f21-aa83-8df313917cbc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "1VHtC2YyXgEMIhbMtF6bX+FX3kweeS3VeiRpMuiaabOOLsl8DggyKgJ9Y+aFYnKT9Dwz5jYO46O5lGVGcPRo0x/40GXJpa4jYYXFjBwQKR1EZvtUpvwpvDid2nkJaAL1nwfGExU7YFqFMUddl4xAr4zvlDNI5ezdClxshPs1NC0gVlPqfdxz4AiB7w4fSGTwGCoPpunJtMPo05vCiekDU6SdhNGQ9fwKUpAM9e4v2XgLfzwa/3DKrbrOe4nlPhT61SW3QpbZUa8BfrQwy2IoZq4LraYV5T9MxR8j/V3QsDtEiZhTPvrhwzxqRVymSd2cXt12mWV/V0ZJMfMMSUp+WMXaQ0bNPAclWwrI6Erfukg=;pixVW3P5hXmJfm322BTEeg=="
 ---

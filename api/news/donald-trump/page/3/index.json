@@ -2,6 +2,120 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-02-trump-is-leaving-washington-as-he-governed-chaotically.md",
+      "title": "Trump is leaving Washington as he governed — chaotically",
+      "excerpt": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
+      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_49/3432524/201202-donald-trump-mc-1314_76baad09f4ea18edab7aa6aafee2438b.JPG",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249684",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249684",
+      "publishedDateTime": "2020-12-02T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-as-trump-rages-voters-in-a-key-county-move-on-im-not-sweating-it.md",
+      "title": "As Trump Rages, Voters in a Key County Move On: ‘I’m Not Sweating It’",
+      "excerpt": "Pre-election tensions ran high in Bucks County, Pa. But Biden supporters there are increasingly comfortable tuning President Trump out and moving on, with an eye toward January.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/02/us/politics/02biden-doylestown1/02biden-doylestown1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.amp.html",
+      "publishedDateTime": "2020-12-02T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-while-cuban-americans-in-florida-came-out-big-for-trump-cubans-stuck-in-mexico-pinned-their-hopes-on-biden.md",
       "title": "While Cuban-Americans in Florida came out big for Trump, Cubans stuck in Mexico pinned their hopes on Biden",
       "excerpt": "\"I will remain hoping for a change. I'm glad Trump is out for good, and no thanks to my family in Florida,\" a Cuban doctor in Mexico told Insider.",
@@ -1444,116 +1558,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-an-anonymous-senior-trump-campaign-advisor-said-trump-basically-just-conceded-by-recommending-that-the-gsa-start-the-biden-harris-transition.md",
-      "title": "An anonymous senior Trump campaign advisor said Trump 'basically just conceded' by 'recommending' that the GSA start the Biden-Harris transition",
-      "excerpt": "Emily Murphy, the head of the General Services Administration, has allowed President-elect Joe Biden to access resources to begin the transition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "originalUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fbc971050e71a0011556fe8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp",
-      "publishedDateTime": "2020-11-24T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-can-manny-diaz-resurrect-democrats-poll-majority-of-gop-would-support-trump-in-2024-florida-tops-18000-covid-19-deaths.md",
-      "title": "Can Manny Diaz resurrect Democrats? — Poll: Majority of GOP would support Trump in 2024 — Florida tops 18,000 Covid-19 deaths",
-      "excerpt": "Is this the answer that Florida Democrats have been hoping for? Jumping into the fray — Former Miami Mayor Manny Diaz, who earned a reputation as a turnaround artist in his home city, is campaigning for an even tougher job: leading the floundering Florida Democratic Party.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2020/11/24/can-manny-diaz-resurrect-democrats-490978",
-      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2020/11/24/can-manny-diaz-resurrect-democrats-490978",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
-          "width": 900,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

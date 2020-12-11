@@ -542,6 +542,17 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Biden's transition contends with probe into son's finances"
+    excerpt: "Associated Press (AP) — President-elect Joe Biden's historically challenging transition to power is suddenly becoming even more complicated."
+    publishedDateTime: 2020-12-11T16:36:00Z
+    webUrl: "https://www.businessinsider.com/bidens-transition-contends-with-probe-into-sons-finances-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/bidens-transition-contends-with-probe-into-sons-finances-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-transition-contends-with-probe-into-sons-finances-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "President-elect Joe Biden taps former Obama adviser and envoy Susan Rice to lead White House Domestic Policy Council"
     excerpt: "President-elect Joe Biden taps former Obama adviser and envoy Susan Rice to lead White House Domestic Policy Council"
     publishedDateTime: 2020-12-10T15:21:00Z

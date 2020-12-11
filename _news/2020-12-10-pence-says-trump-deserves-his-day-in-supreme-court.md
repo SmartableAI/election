@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-says-trump-deserves-his-day-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court.amp"
 type: article
 quality: 200
-heat: 540
+heat: 560
 published: true
 
 provider:
@@ -251,6 +251,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20335602465466-e1606850021803.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Senate Advances Defense-Policy Bill Despite Trump Veto Threat"
+    excerpt: "The annual bill sets pay rates for troops and authorizes funds for military construction projects and other national-security programs. The president opposes a provision that would lead to renaming military installations honoring Confederate commanders."
+    publishedDateTime: 2020-12-11T16:19:00Z
+    webUrl: "https://www.wsj.com/articles/senate-advances-defense-policy-bill-despite-trump-veto-threat-11607703243"
+    ampWebUrl: "https://www.wsj.com/amp/articles/senate-advances-defense-policy-bill-despite-trump-veto-threat-11607703243"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-advances-defense-policy-bill-despite-trump-veto-threat-11607703243"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-272094/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Joey Jones blasts the politicization of the American flag during Trump presidency"
     excerpt: "Fox News contributor Joey Jones on Thursday blasted the politicization of the American flag during President Trump’s term in office."

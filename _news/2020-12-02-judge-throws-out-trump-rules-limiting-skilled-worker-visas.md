@@ -1985,6 +1985,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Returns to Court in Wisconsin as Time Running Out"
+    excerpt: "President Donald Trump’s campaign returns to a Wisconsin court to argue for the state’s election results to be overturned."
+    publishedDateTime: 2020-12-11T15:02:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Don't Flip, Says Auctioneer Seeking $3 Million for Trump's Childhood Home"
     excerpt: "U.S. President Donald Trump's childhood home is up for sale for the fourth time in four years, with a bloated $3 million target price that the auctioneer hopes his admirers will pay. Other Tudor-style houses on the street in Jamaica Estates,"
     publishedDateTime: 2020-12-10T02:07:00Z

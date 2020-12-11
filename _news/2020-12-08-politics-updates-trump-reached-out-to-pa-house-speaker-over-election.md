@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6484311002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002"
 type: article
 quality: 150
-heat: 2750
+heat: 2770
 published: true
 
 provider:
@@ -1981,6 +1981,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-12-06/trump-challenges-vote-results-while-urging-turnout-in-ga"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-06/trump-challenges-vote-results-while-urging-turnout-in-ga?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-06/trump-challenges-vote-results-while-urging-turnout-in-ga?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Returns to Court in Wisconsin as Time Running Out"
+    excerpt: "President Donald Trump’s campaign returns to a Wisconsin court to argue for the state’s election results to be overturned."
+    publishedDateTime: 2020-12-11T15:02:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

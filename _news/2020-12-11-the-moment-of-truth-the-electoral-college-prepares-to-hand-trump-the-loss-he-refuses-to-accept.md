@@ -77,6 +77,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump administration plans 2nd execution in as many days"
+    excerpt: "One day after the death of Brandon Bernard, the Trump administration plans to execute Alfred Bourgeois, in an unprecedented post-election series."
+    publishedDateTime: 2020-12-11T16:35:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-11/trump-execution-alfred-bourgeois-brandon-bernard"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-11/trump-execution-alfred-bourgeois-brandon-bernard?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-11/trump-execution-alfred-bourgeois-brandon-bernard?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8ebe15d/2147483647/strip/true/crop/4533x2961+0+31/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc5%2F7b%2Fa38a8fa87b783482a2f068835cce%2F2cd0044021024a8c9b9315e006c2348a"
+        width: 320
+        height: 209
+        isCached: true
   - title: "'The people have spoken': Federal judge rejects ex-Trump attorney Sidney Powell's Michigan election lawsuit"
     excerpt: "The judge said the court was being asked \"to ignore the will of millions of voters. This the Court cannot, and will not, do. The people have spoken.\""
     publishedDateTime: 2020-12-07T15:00:00Z
@@ -236,6 +252,22 @@ related:
       - url: "https://i.insider.com/5fb479fae74fa70018b830f8?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "How Michael Anton’s ‘Flight 93 Election’ Essay Defined the Trump Era"
+    excerpt: "Michael Anton wrote an essay for the right-wing Claremont Institute, “The Flight 93 Election,” making the case for Donald Trump’s election as a necessary gamble to stave off the destruction of conservatism."
+    publishedDateTime: 2020-12-11T17:00:00Z
+    webUrl: "https://nymag.com/intelligencer/article/michael-antons-flight-93-election-trump-coup.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/michael-antons-flight-93-election-trump-coup.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/michael-antons-flight-93-election-trump-coup.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/3c6/501/df5878ea62a8f09750b4ca9449461be279-GettyImages-1229998656.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "B2cV8qxNy0lA7CEk6M1SSJFwqsbzS+nngv762M5Xpk7M0TNB0HWGGlw+V37ho3ZwneEUdGv4HOWWf2diFLZQXzRAm3vkhG41q+mB1DRom0+zFbBKaLOEDNzQM/77HXaZYeYUeytQREgZ/G6d6n2W4YzwJLikHGDT+asQu0pc16q/jG2Nz/ggC2J2Puwex1uNpKEQBbqFTO/RtQlVrNo8cRlTrCmZkdI9J2xE6kdKE6dVUDC1ZLwyncLrcYiRHcFF8/bnZMXPYOEC36IComf+tH3F641V7YCX95hdX6hGlowtL1F67wwadArrG7c1FdzWsPnDDX7wgfsS4wOgjTsQV74YLTxZpR1vWWQJ3GaoIjRTbDQ6oKQm17Qw7F8XmazAome7V2+EYV1HbkdO6gwQ404wFHZ1o3uKiwD1bGr5MTjc+8Bt3pqeyXa9MP9bW5cOgxIfcSPVQocXIO//kycpmY1KFciiekfuL9NB5ZxTNREMQzcSKRjA3vUSH8W2Vv064btpZ/iJ5C+uUVBCEla7vg==;KoZWkPsIE1DZ1Wtw8YmFaQ=="

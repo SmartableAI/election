@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-campaign-lawsuits-election-res
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11?amp"
 type: article
 quality: 128
-heat: 388
+heat: 428
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_fa8c79d0bfc646c78d5aa07119651a40_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump administration plans 2nd execution in as many days"
+    excerpt: "One day after the death of Brandon Bernard, the Trump administration plans to execute Alfred Bourgeois, in an unprecedented post-election series."
+    publishedDateTime: 2020-12-11T16:35:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-11/trump-execution-alfred-bourgeois-brandon-bernard"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-11/trump-execution-alfred-bourgeois-brandon-bernard?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-11/trump-execution-alfred-bourgeois-brandon-bernard?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8ebe15d/2147483647/strip/true/crop/4533x2961+0+31/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc5%2F7b%2Fa38a8fa87b783482a2f068835cce%2F2cd0044021024a8c9b9315e006c2348a"
+        width: 320
+        height: 209
         isCached: true
   - title: "'The people have spoken': Federal judge rejects ex-Trump attorney Sidney Powell's Michigan election lawsuit"
     excerpt: "The judge said the court was being asked \"to ignore the will of millions of voters. This the Court cannot, and will not, do. The people have spoken.\""
@@ -236,6 +252,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/3aff1be8-cc45-4ab8-9b34-bcb8535b15bb-six_certificates_.JPG?crop=5075,2855,x0,y0&width=3200&height=1680&fit=bounds"
         width: 2986
         height: 1680
+        isCached: true
+  - title: "How Michael Anton’s ‘Flight 93 Election’ Essay Defined the Trump Era"
+    excerpt: "Michael Anton wrote an essay for the right-wing Claremont Institute, “The Flight 93 Election,” making the case for Donald Trump’s election as a necessary gamble to stave off the destruction of conservatism."
+    publishedDateTime: 2020-12-11T17:00:00Z
+    webUrl: "https://nymag.com/intelligencer/article/michael-antons-flight-93-election-trump-coup.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/michael-antons-flight-93-election-trump-coup.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/michael-antons-flight-93-election-trump-coup.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/3c6/501/df5878ea62a8f09750b4ca9449461be279-GettyImages-1229998656.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "W5wRhbzqsK5VYvGKpEHwaGNqF7A9RnWiNYhYdt52Mi1uqG2eg6pAmsHFZceIhgvBYIrnfGo+TJ+ha2c+5GvzrKTftMZBPSRgM/5ME4TgC22Au/XuC8V/es4zqQC0DQ7c+a02NmiQTVKbDpUObNIcQNnCj/In7QKe6ukVhDeap74yzOWG0ZR/KSWS/9ThxemWP9jbQZlRjz09uDODvdl8WtAt+ST4xGfz1wvSSV7S/CkHSiHpyg5/8ymJ5hAAGJZUui1j3oHA7F+iaJLQCJailBQtq5C1kLXkgQYyIBOuOudZRgkLglve9hDMA02ozGaspqMCp59iaT5NxeXfYM6x8cU+5fzSgVS4hmgxZI8QBE8=;T/jkLbdu/IPIztJmdq1PBg=="

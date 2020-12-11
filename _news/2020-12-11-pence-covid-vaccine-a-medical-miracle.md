@@ -37,6 +37,22 @@ related:
         width: 1024
         height: 618
         isCached: true
+  - title: "Vice President Mike Pence to tour COVID vaccine facility in Bloomington next week"
+    excerpt: "Vice President Mike Pence will be in Bloomington Tuesday to tour a vaccine production facility and discuss efforts to combat COVID-19"
+    publishedDateTime: 2020-12-11T16:03:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/12/11/mike-pence-tour-covid-19-vaccine-facility-bloomington/3894170001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3894170001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3894170001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PIND/fb21da3d-bf78-41a9-a554-80a704625016-102220-Mike_Pence_in_Fort_Wayne_Ind-cb-74.JPG?auto=webp&crop=2597,1461,x0,y132&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "q3XzBWX+Mm18WjY+9YIC8L6PpT1w+pkkmLzAzNL/7P8gzjlyKHZxZHB7iFEA7/hWRiBnOezHJcpKg96ylqYjVMzqJCN6ry345s9617j7twGKOvpx3w3asTjN6o1bHbMMbADuuRFHQ3JoOjEvw3GStJhOeU19tPN/mIOWcPkUYGEUmQUs5604QV1YwLDInZyzHNJ4NT1YtfjWvPMnsJsM0RnnxZF4L9Qsce14oNWZ0rBgPzl2zLWBciLbqiRgHDBJXhR7xMDET29kkzsnbDvXZ2iBSNovjmRO6VNK13RaZ30MfcuSQYOeWrMQbw53GOu9KHOBbtx1ruo5HdJfEs03lywN3xy0538sxKK2MN4Mnf1oqPJpSAiEPnUVKqr5pCkU7Rl+j+ZiWjselmes4kOCZNB1MEC+54ZoQ3O2h4zdCZTGZ5mSThTOeyN2P1R9Dviq5eRMNHagb5fwGg1ljc8N6mA1qYyiuSe2ipq4NopPzc7UO/213oKrIARDynKxWzbngSJM7H0+rQF1t+oP+Z71aQ==;ZX5Kb2ds0BBf13M7PNBxRw=="
 ---

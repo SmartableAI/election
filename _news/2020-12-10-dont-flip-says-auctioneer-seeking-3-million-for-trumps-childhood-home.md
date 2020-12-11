@@ -1995,6 +1995,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Returns to Court in Wisconsin as Time Running Out"
+    excerpt: "President Donald Trump’s campaign returns to a Wisconsin court to argue for the state’s election results to be overturned."
+    publishedDateTime: 2020-12-11T15:02:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "es+oG0LIjlTzVQLHDSVslUos0cX5zrQYqxAR+Jx2qya4acgK8oZa4+CpF+EGftUBDTolUvr1gwUNPGfmiaX5cXyfLOL8BXdUqlGvKLFdFxBGRKKLUtK6tJdngrItLbiVDTUD4klK0L4UGxG4KeYzAkZuoGneRXFhL+nW90r3gZ+LaM4vzKuFhNcpTicdPcpizF13AkpUIO1y6FDno2VxeGfrl6ZchgohlcKIAG2WLOF/WlqmiYL37cplmydZCu38drRLITx8+BHoH/xt9uJiK1k1vfSayT4+Nf19eZaJhq0KAix0MHoGRMWJeO79jKxVygMKmdM3snrSvmMG6pndFR38UrFYc4oMe8sz+DBmY0Kjj5LDvQI1P2sAHu6pfAAFNPrHuXZD7rXcla/UXW+GaJKWiyNM4ZoV/3+KB7tMo3tPksBFIRnEI22lUEcWX4zQqrmvYGcX4oTwZ8SrkrICno+bWoTHPvmfcLWUDtk/VdkDijTPRw1O4OKRSgP5mJBCwgUvWXyW6OwzQNEuobs/Cw==;uavcU8O8SVeZ4AKZWNPNbA=="
 ---

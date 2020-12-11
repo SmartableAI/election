@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-07-trump-has-a-long-history-of-responding-to-loss-with-anything-but-grace.md",
+      "title": "Trump has a long history of responding to loss with anything but grace",
+      "excerpt": "From an award given to an opponent in Scotland to failing to cheat in a CNBC poll, Trump's response has been consistent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SKSDQ5BX5UI6XKWZRFMSE4UAYQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp",
+      "publishedDateTime": "2020-12-07T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-trump-suggests-joe-biden-will-try-to-take-the-word-christmas-out-of-the-vocabulary.md",
+      "title": "Trump suggests Joe Biden will try to take the word Christmas 'out of the vocabulary'",
+      "excerpt": "Trump claimed credit for re-introducing the Americans' right to say 'Merry Christmas' during his time in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 223,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fce1adbeadd8400183df6be?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-biden-will-take-christmas-out-of-the-vocabulary-2020-12?amp",
+      "publishedDateTime": "2020-12-07T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-unambiguous-loud-and-threatening-trump-supporters-protest-at-home-of-michigan-secretary-of-state-jocelyn-benson.md",
       "title": "'Unambiguous, loud and threatening': Trump supporters protest at home of Michigan Secretary of State Jocelyn Benson",
       "excerpt": "Secretary of State Jocelyn Benson said she and her son were preparing to watch a Christmas movie when the protesters showed up outside her home.",
@@ -1480,120 +1585,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-trump-is-leaving-washington-as-he-governed-chaotically.md",
-      "title": "Trump is leaving Washington as he governed — chaotically",
-      "excerpt": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
-      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_49/3432524/201202-donald-trump-mc-1314_76baad09f4ea18edab7aa6aafee2438b.JPG",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249684",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249684",
-      "publishedDateTime": "2020-12-02T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-as-trump-rages-voters-in-a-key-county-move-on-im-not-sweating-it.md",
-      "title": "As Trump Rages, Voters in a Key County Move On: ‘I’m Not Sweating It’",
-      "excerpt": "Pre-election tensions ran high in Bucks County, Pa. But Biden supporters there are increasingly comfortable tuning President Trump out and moving on, with an eye toward January.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/02/us/politics/02biden-doylestown1/02biden-doylestown1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.amp.html",
-      "publishedDateTime": "2020-12-02T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

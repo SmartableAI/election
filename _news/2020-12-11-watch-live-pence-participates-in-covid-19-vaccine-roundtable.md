@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-pence-participa
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Vice President Mike Pence to tour COVID vaccine facility in Bloomington next week"
+    excerpt: "Vice President Mike Pence will be in Bloomington Tuesday to tour a vaccine production facility and discuss efforts to combat COVID-19"
+    publishedDateTime: 2020-12-11T16:03:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/12/11/mike-pence-tour-covid-19-vaccine-facility-bloomington/3894170001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3894170001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3894170001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PIND/fb21da3d-bf78-41a9-a554-80a704625016-102220-Mike_Pence_in_Fort_Wayne_Ind-cb-74.JPG?auto=webp&crop=2597,1461,x0,y132&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pence: COVID vaccine 'a medical miracle'"
     excerpt: "As U.S. experts convene to decide whether to approve the Pfizer vaccine, Vice President Mike Pence is calling the development of a vaccine to combat the coronavirus pandemic as \"a"
     publishedDateTime: 2020-12-11T00:54:00Z

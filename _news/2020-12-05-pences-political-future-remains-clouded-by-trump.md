@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html"
 type: article
 quality: 200
-heat: 2560
+heat: 2580
 published: true
 
 provider:
@@ -637,6 +637,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130000216-donald-trump-1126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Ivanka Trump and Jared Kushner to head south as she explores political future"
+    excerpt: "Ivanka Trump and Jared Kushner are currently in the final stages of purchasing a plot of land in an exclusive enclave nicknamed \"billionaire bunker,\" near Miami Beach, Florida, according to a source familiar with the transaction.\n    \n"
+    publishedDateTime: 2020-12-11T16:40:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OYKht6hQ8qY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/ivanka-trump-jared-kushner-house-florida/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/ivanka-trump-jared-kushner-house-florida/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180319071937-01-ivanka-and-jared-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

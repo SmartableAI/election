@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/in-break-with-trump-mcconnel
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-break-with-trump-mcconnell-urges-passage-of-defense-bill/2020/12/10/13930b5e-3b0e-11eb-aad9-8959227280c4_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. Senate advances massive defense bill, despite Trump veto threat"
+    excerpt: "The U.S. Senate threw its weight behind the annual National Defense Authorization Act, or NDAA, a $740 billion bill setting policy for the Department of Defense, voting by a large margin to advance the bill on Friday despite President Donald Trump's veto threat."
+    publishedDateTime: 2020-12-11T16:36:00Z
+    webUrl: "https://www.reuters.com/article/usa-defense-congress/u-s-senate-advances-massive-defense-bill-despite-trump-veto-threat-idUSKBN28L24P?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L24P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L24P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544262985&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Supreme Court will hear Trump administration defend controversial Medicaid work requirements"
     excerpt: "Forcing low-income people to work or prepare for employment in exchange for health coverage is an experiment that's been tried in only three states."
     publishedDateTime: 2020-12-04T20:30:00Z

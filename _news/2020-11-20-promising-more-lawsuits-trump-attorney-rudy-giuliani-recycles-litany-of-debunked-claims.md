@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Paul Krugman column: Trump tries to kill COVID relief"
+    excerpt: "The next few months will be terrible. Several thousand Americans are now dying from COVID-19 every day; given the lag between cases and deaths, the daily toll will almost certainly rise through the end of this year,"
+    publishedDateTime: 2020-12-11T16:25:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-trump-coronavirus-relief-20201211-jcxmsholbzblhokh7adahtgpfq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-trump-coronavirus-relief-20201211-jcxmsholbzblhokh7adahtgpfq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-trump-coronavirus-relief-20201211-jcxmsholbzblhokh7adahtgpfq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/PKQdHEDXejajyy8YKGTSWZN1AyI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4Q3NLXF3MRCXXFIA5XJRJPW25Y.jpg"
+        width: 1200
+        height: 861
+        isCached: true
   - title: "President Trump to hold White House COVID-19 summit as pressure mounts for FDA vaccine approval"
     excerpt: "The White House will host drug manufacturers, distributors and governors to discuss its $12-billion plan to vaccinate Americans against COVID-19."
     publishedDateTime: 2020-12-08T00:30:00Z

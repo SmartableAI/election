@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/biden-economic-team-even
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/biden-economic-team-event/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201129183807-biden-file-1125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden expected to introduce Cabinet nominees and top admin roles Friday"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are expected to introduce several Cabinet nominees and other top administration roles on Friday at an event in Wilmington, Delaware.\n    \n"
+    publishedDateTime: 2020-12-11T16:19:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oIu8GnsWGcs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/joe-biden-cabinet-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/joe-biden-cabinet-nominees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211024402-02-time-poy-joe-biden-kamala-harris-1107-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
