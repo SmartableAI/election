@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-says-trump-deserves-his-day-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court.amp"
 type: article
 quality: 200
-heat: 480
+heat: 500
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     quality: 182
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9fac570b-0017-4ea5-aaab-f25d2e3c0fde/9fdb7cc1-daf5-4543-bd30-c99fde884fc6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hillary Clinton says Republicans who 'humor' Trump's election fraud claims 'have no spines'"
+    excerpt: "Elected Republicans lack courage for not standing up to President Trump as he challenges the 2020 election results, former Secretary of State Hillary Clinton argued Thursday."
+    publishedDateTime: 2020-12-11T00:32:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88ICU2iYbZ8/hillary-clinton-republicans-no-spine"
+    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-republicans-no-spine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-republicans-no-spine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81839776-e1fd-47d9-91d8-318294c42f29/d7104bb7-afa9-4049-bb71-d44016271f58/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

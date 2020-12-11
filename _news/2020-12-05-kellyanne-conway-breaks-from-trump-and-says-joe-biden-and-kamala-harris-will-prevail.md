@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-wo
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp"
 type: article
 quality: 167
-heat: 1767
+heat: 1787
 published: true
 
 provider:
@@ -64,6 +64,22 @@ related:
       - url: "https://interactive.guim.co.uk/atoms/2020/07/new-cases-world-map/summary/v/1602571436815/placeholder.png"
         width: 620
         height: 500
+        isCached: true
+  - title: "A lawyer who pushed a 'birther' conspiracy about Kamala Harris has joined Trump's election fight"
+    excerpt: "President Donald Trump praised John Eastman as a \"very highly qualified, very talented lawyer\" after he published an op-ed about Biden's VP pick."
+    publishedDateTime: 2020-12-10T21:09:00Z
+    webUrl: "https://www.businessinsider.com/lawyer-who-pushed-birther-theory-on-kamala-harris-represents-trump-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/lawyer-who-pushed-birther-theory-on-kamala-harris-represents-trump-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lawyer-who-pushed-birther-theory-on-kamala-harris-represents-trump-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 152
+    images:
+      - url: "https://i.insider.com/5fd277b27b7e050019107409?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The Latest: Graham: Trump should attend Biden’s inauguration"
     excerpt: "Lindsey Graham says he thinks President Donald Trump should attend President-elect Joe Biden’s inauguration because it would be “good for the country.”"

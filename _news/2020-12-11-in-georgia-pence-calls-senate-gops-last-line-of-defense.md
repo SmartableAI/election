@@ -1,29 +1,33 @@
 ---
 category: news
-title: "In Georgia, Pence calls Senate GOP's 'last line of defense'"
-excerpt: "Back in Georgia to rally electoral support for the state's two Republican senators, Vice President Mike Pence told voters in Augusta on Thursday that returning the"
-publishedDateTime: 2020-12-10T22:45:00Z
-originalUrl: "https://www.stltoday.com/news/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/article_2edfa06f-ab66-57cd-a406-1199db9c4b13.html"
-webUrl: "https://www.stltoday.com/news/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/article_2edfa06f-ab66-57cd-a406-1199db9c4b13.html"
-ampWebUrl: "https://www.stltoday.com/news/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/article_2edfa06f-ab66-57cd-a406-1199db9c4b13.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/article_2edfa06f-ab66-57cd-a406-1199db9c4b13.amp.html"
+title: "In Georgia, Pence calls Senate GOP’s ‘last line of defense’"
+excerpt: "Vice President Mike Pence has told voters in Georgia that returning their incumbents to Washington will helps secure a GOP Senate"
+publishedDateTime: 2020-12-10T21:38:00Z
+originalUrl: "https://www.washingtonpost.com/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/2020/12/10/1e3c8ee8-3b2e-11eb-aad9-8959227280c4_story.html"
+webUrl: "https://www.washingtonpost.com/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/2020/12/10/1e3c8ee8-3b2e-11eb-aad9-8959227280c4_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/2020/12/10/1e3c8ee8-3b2e-11eb-aad9-8959227280c4_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/2020/12/10/1e3c8ee8-3b2e-11eb-aad9-8959227280c4_story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/2a/82a3339d-4611-53a0-8224-ef23f0e5e856/5fd297152c3b0.image.jpg?resize=1024%2C683"
-    width: 1024
-    height: 683
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -681,6 +685,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Here’s what happened when a Georgia lawmaker scrutinized the Trump campaign’s list of allegedly illegal votes"
+    excerpt: "Democratic state Rep. Bee Nguyen found that a list submitted as part of a Trump lawsuit in the state included two of her friends and a constituent."
+    publishedDateTime: 2020-12-11T00:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/heres-what-happened-when-a-georgia-lawmaker-scrutinized-the-trump-campaigns-list-of-allegedly-illegal-votes/2020/12/10/1400d628-3b06-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/heres-what-happened-when-a-georgia-lawmaker-scrutinized-the-trump-campaigns-list-of-allegedly-illegal-votes/2020/12/10/1400d628-3b06-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/heres-what-happened-when-a-georgia-lawmaker-scrutinized-the-trump-campaigns-list-of-allegedly-illegal-votes/2020/12/10/1400d628-3b06-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BGTQ5URXMMI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump heading to Georgia ahead of Senate runoffs"
     excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
     publishedDateTime: 2020-12-02T02:26:00Z
@@ -946,6 +966,6 @@ related:
         height: 630
         isCached: true
 
-secured: "tMzR0BSSqccIYKn0WXwhyEV0fvSVpWg/vYmVcwNdOcVytxaRWh54IyQYqdKkMqSPa0UuaHlStZA3ayooxwyaOigZTpR6PHSmUZhd3zUO6IpHwZSvc2cy0BWVbzj5qKloXVQ9O21RPNn1NlOkkfdms2ZMbd70G5BZYUYfYQjNRM1vZ8TKUxfZJ+xg3+ub0viu++luhwuAyfICy9l8doGAC9FCtI9Tfb27se3zpSUAtzB0YQnYJMCJWNG9L4MjvP3WivBgV/pOMxxrt85heyctE3rjGMJi7Zv8lVXpPdK4bonjMdlNs6uYBxGRrRDS7ZZOpsV+AClv/lHLu6rxBgqOIRgfP/rpwO9HrdBz4loqD4w=;St2No5RZUq8OI3eXxSrQUg=="
+secured: "UYyq9gxJyyejoenCgwuhuDBqADPzOlGpmkMF6SK/hSrvKb9U2YUsseI9HSzrpZjmEitBQVpy83raGvWVHS78K7ZME32sd1bNkq5BTObas6vMlfWpIUFFPwW4CybJ+/62Yn6IuMx36pet3qhlqdw+JFCuK1L3BImoI7pZp/f1SXiqfkFZDCHXwpV3NHVWkmC6bW/NpvZtWld6SuBLxAFRs4sK8HtkzIQAByzUBLlgTgWeKsBRpIYwKU9fnkxLfMEQG+gHVJeUvFXn1fybLA2SGdGmtad2kLX4poq3wOD4yCodszcYbbXTMuSBaeaAJElAjET0jiqLzfNxLoyINbsYudjO7a74bH2WPqwXRV3XKks=;XoyxP2nwjN+v2EcSRdi0hw=="
 ---
 

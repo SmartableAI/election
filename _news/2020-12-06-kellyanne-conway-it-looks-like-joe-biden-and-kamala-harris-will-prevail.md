@@ -76,6 +76,22 @@ related:
         width: 620
         height: 500
         isCached: true
+  - title: "A lawyer who pushed a 'birther' conspiracy about Kamala Harris has joined Trump's election fight"
+    excerpt: "President Donald Trump praised John Eastman as a \"very highly qualified, very talented lawyer\" after he published an op-ed about Biden's VP pick."
+    publishedDateTime: 2020-12-10T21:09:00Z
+    webUrl: "https://www.businessinsider.com/lawyer-who-pushed-birther-theory-on-kamala-harris-represents-trump-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/lawyer-who-pushed-birther-theory-on-kamala-harris-represents-trump-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lawyer-who-pushed-birther-theory-on-kamala-harris-represents-trump-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 152
+    images:
+      - url: "https://i.insider.com/5fd277b27b7e050019107409?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Latest: Graham: Trump should attend Biden’s inauguration"
     excerpt: "Lindsey Graham says he thinks President Donald Trump should attend President-elect Joe Biden’s inauguration because it would be “good for the country.”"
     publishedDateTime: 2020-12-01T00:42:00Z

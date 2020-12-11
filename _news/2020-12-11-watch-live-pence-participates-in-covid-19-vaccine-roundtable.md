@@ -31,22 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence to visit Greenville for coronavirus vaccines roundtable"
-    excerpt: "Vice President Mike Pence will visit Greenville on Thursday to talk about COVID-19 vaccinations before traveling to a campaign rally in Augusta, Georgia. According to his office, Pence is visiting Greenville to take part in a roundtable discussion highlighting the public-private partnership to combat the coronavirus,"
-    publishedDateTime: 2020-12-09T21:06:00Z
-    webUrl: "https://www.greenvilleonline.com/story/news/local/2020/12/07/vice-president-mike-pence-visit-greenville-sc-talk-covid/6484240002/"
-    ampWebUrl: "https://amp.greenvilleonline.com/amp/6484240002"
-    cdnAmpWebUrl: "https://amp-greenvilleonline-com.cdn.ampproject.org/c/s/amp.greenvilleonline.com/amp/6484240002"
+  - title: "Pence: COVID vaccine 'a medical miracle'"
+    excerpt: "As U.S. experts convene to decide whether to approve the Pfizer vaccine, Vice President Mike Pence is calling the development of a vaccine to combat the coronavirus pandemic as \"a"
+    publishedDateTime: 2020-12-11T00:54:00Z
+    webUrl: "https://omaha.com/news/national/pence-covid-vaccine-a-medical-miracle/video_aafd968a-ea4e-53a8-8206-453e1906f7ef.html"
+    ampWebUrl: "https://omaha.com/news/national/pence-covid-vaccine-a-medical-miracle/video_aafd968a-ea4e-53a8-8206-453e1906f7ef.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/pence-covid-vaccine-a-medical-miracle/video_aafd968a-ea4e-53a8-8206-453e1906f7ef.amp.html"
     type: article
     provider:
-      name: Greenville News
-      domain: greenvilleonline.com
-    quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/03/30/PGRE/26d93d2a-50d7-4a29-a0ad-83b758897d6c-SS_pence_03_30_2019_1539.JPG?auto=webp&crop=2999,1671,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 669
-        isCached: true
+      name: Omaha.com
+      domain: omaha.com
+    quality: 55
 
 secured: "mUf1wPTUZ1qN4E5PL9Hnn2ovJkXpZMBsQ9f63wn/cyVcPn2/kcUb63frJ0FtipQd+W4tf0zVuYfPBEXc486FM8vIDDfo0t41QgQA9bfz09JgZ95wQh9Yw7osSC/fxRWPVm8MLuTK04SdFnY+lHmuym46t0dW+PQMy82Fn39qt+VVc6serb/wuYGB8Og4hQKyWiOVYVefWrg4f9vnH9cVmJR3rJOor4Xo4yThWuXIr3dE2kO12dvnQszoEmiNRYd5jMyqEh8ASEiBf79DgRbGIzNrKKF1GWJoV77d0/upyoMLSiaxOs+dHQ9JTltMPJeLd4EsrioRqbmOlTNQK1b2VLOiQZ8nAtxXWjUimTgtAyw=;easDUQfMSoZWOcql+8z+4A=="
 ---

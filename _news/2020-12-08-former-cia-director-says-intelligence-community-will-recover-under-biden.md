@@ -271,6 +271,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Gun restrictions face uphill battle even under Biden"
+    excerpt: "The gun debate in America will soon enter a new chapter with a Democrat in the White House after four years under President Donald Trump in which gun control advocates developed a long wish list for reform amid a spate of large-scale mass killings in places like Las Vegas,"
+    publishedDateTime: 2020-12-10T22:24:00Z
+    webUrl: "https://www.washingtonpost.com/health/gun-restrictions-face-uphill-battle-even-under-biden/2020/12/10/89868ad6-3b0c-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/gun-restrictions-face-uphill-battle-even-under-biden/2020/12/10/89868ad6-3b0c-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/gun-restrictions-face-uphill-battle-even-under-biden/2020/12/10/89868ad6-3b0c-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "President-elect Biden to push for the majority of schools to reopen by May"
     excerpt: "Joe Biden pledged Tuesday to bring the coronavirus pandemic under enough control to open the “majority” of schools during his first 100 days as president, even while warning that the U.S. is facing a “dark winter."
     publishedDateTime: 2020-12-09T22:54:00Z

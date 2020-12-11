@@ -329,6 +329,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "In Georgia, Pence calls Senate GOP’s ‘last line of defense’"
+    excerpt: "Vice President Mike Pence has told voters in Georgia that returning their incumbents to Washington will helps secure a GOP Senate"
+    publishedDateTime: 2020-12-10T21:38:00Z
+    webUrl: "https://www.washingtonpost.com/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/2020/12/10/1e3c8ee8-3b2e-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/2020/12/10/1e3c8ee8-3b2e-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/2020/12/10/1e3c8ee8-3b2e-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "The Republican Secretary of State for Georgia says Trump 'should leave quietly' after state's election recount confirmed Biden's win"
     excerpt: "Brad Raffensperger said he made sure \"we have fair and honest elections, follow the law, follow the process.\""
     publishedDateTime: 2020-11-29T22:12:00Z
@@ -679,6 +695,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Here’s what happened when a Georgia lawmaker scrutinized the Trump campaign’s list of allegedly illegal votes"
+    excerpt: "Democratic state Rep. Bee Nguyen found that a list submitted as part of a Trump lawsuit in the state included two of her friends and a constituent."
+    publishedDateTime: 2020-12-11T00:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/heres-what-happened-when-a-georgia-lawmaker-scrutinized-the-trump-campaigns-list-of-allegedly-illegal-votes/2020/12/10/1400d628-3b06-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/heres-what-happened-when-a-georgia-lawmaker-scrutinized-the-trump-campaigns-list-of-allegedly-illegal-votes/2020/12/10/1400d628-3b06-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/heres-what-happened-when-a-georgia-lawmaker-scrutinized-the-trump-campaigns-list-of-allegedly-illegal-votes/2020/12/10/1400d628-3b06-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BGTQ5URXMMI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump heading to Georgia ahead of Senate runoffs"
     excerpt: "President Trump is set to visit Georgia this weekend to rally for Republican Senators David Perdue and Kelly Loeffler, who are both facing strong Democratic challengers in the January 5 runoff races."
     publishedDateTime: 2020-12-02T02:26:00Z
@@ -871,22 +903,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "In Georgia, Pence calls Senate GOP's 'last line of defense'"
-    excerpt: "Back in Georgia to rally electoral support for the state's two Republican senators, Vice President Mike Pence told voters in Augusta on Thursday that returning the"
-    publishedDateTime: 2020-12-10T22:45:00Z
-    webUrl: "https://www.stltoday.com/news/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/article_2edfa06f-ab66-57cd-a406-1199db9c4b13.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/article_2edfa06f-ab66-57cd-a406-1199db9c4b13.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/in-georgia-pence-calls-senate-gops-last-line-of-defense/article_2edfa06f-ab66-57cd-a406-1199db9c4b13.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 75
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/2a/82a3339d-4611-53a0-8224-ef23f0e5e856/5fd297152c3b0.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Mike Pence comes to Georgia as calm before potential Trump storm"
     excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatile visit to the state that will determine which party controls the Senate in January."
     publishedDateTime: 2020-12-05T11:00:00Z
@@ -946,6 +962,6 @@ related:
         height: 630
         isCached: true
 
-secured: "j0XNjEZK4KIQBWoZjquPgYwuu9k3wBecGdmtGQ6/AkjQ/SVvQjPkrcuRvzxV6evqfRHzNYS1Lttg6FRpybiJn+rLnXgwE2xaNlAAsE6eykCVquDispVy7nmfz0FOTwcUsLSgpogFLKWRiVcptsTC7hHEZUbZ5rX8xmGJWogr/8GR6YfyN3QqNR+RAA8/YulnVlLm5XT0Hk8+kx14kFnnHwSNicSVyRkwCqykVpvLOomwGkkBdSU5h4Y2KsackzgZrnxkowb9S8JYRjKtSqArNgEQn3XL9Xb2IVI3p0Lmzjco7s2o/B725BPcRSjty7s221BVtUq9nCLNV+7LFt3VvErQQpLpa/ob1gtuTFwiHKM=;C1n/OeV71HsOqSwhEzu4/Q=="
+secured: "RxqTdxKnCUeIFVPZRHH5VoOx1VDP69KlL6IuO3CHFoINhlQ+rShuM+kC3NeAkjJ8jArJaIm99Wd9MpLYWV5o2bHA8qYtk6caDIjG9J2gEohQTTfhLGDXgb5e0YjKN7/yv0oPaEOIdByXeLa5O94uuhzxIubACml63K1k96gsfE9eKFiBP0vt4CXI7UdC775hrCv5d7QR0UGEmU/HTmI288NbsDyHcmkm0C5KTMTpd2BOYEO1iUxTAL58PrXpYTqmu9xJIJyU8T6/v20ohHbFt/+Gj62XopwHbS1cQu41zAaAcAc2iEEXEgUMQhJkoXYVCpHP4V7gHr1ZdDvEMzJPvxtJrOTTV9f+uRPRL46Aj4qre3yxi27TLw3iF/xgQFfISg3mZBrsDWlpCOpOm7T6qlLSUI5M3y0j8OXaq0XwucoSQFPXw+DiAaohOK3wKj4GWOowjNo4on/ZJ0GdRFz7RuaT9KAbGPB+R28jKg5BmSYOgx304SNyQKu+Giq4R1vR2HdKBvUR2ALuW6KxCtApyQ==;kA67eiEv3hMyclD/b6tJXw=="
 ---
 

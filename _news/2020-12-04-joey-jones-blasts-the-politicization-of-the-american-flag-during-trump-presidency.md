@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hillary Clinton says Republicans who 'humor' Trump's election fraud claims 'have no spines'"
+    excerpt: "Elected Republicans lack courage for not standing up to President Trump as he challenges the 2020 election results, former Secretary of State Hillary Clinton argued Thursday."
+    publishedDateTime: 2020-12-11T00:32:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88ICU2iYbZ8/hillary-clinton-republicans-no-spine"
+    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-republicans-no-spine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-republicans-no-spine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81839776-e1fd-47d9-91d8-318294c42f29/d7104bb7-afa9-4049-bb71-d44016271f58/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump's legacy on courts still building in waning days of presidency"
     excerpt: "The Senate Judiciary Committee will vote Thursday on the nominee to fill the appeals court seat vacated by new Supreme Court Justice Amy Coney Barrett as well as voting on whether to send three other lower trial court nominees to the Senate floor — which could further cement President Trump’s reshaping"
     publishedDateTime: 2020-12-03T11:52:01Z

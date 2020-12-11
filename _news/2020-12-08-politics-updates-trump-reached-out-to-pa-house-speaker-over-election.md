@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6484311002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002"
 type: article
 quality: 150
-heat: 2670
+heat: 2710
 published: true
 
 provider:
@@ -767,6 +767,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/06/USAT/d8313eb8-441c-4b59-84f5-a27ff5a1aac8-AFP_AFP_8WK484.jpg?auto=webp&crop=2351,1322,x0,y53&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "With time running out, Trump and GOP allies turn up pressure on Supreme Court in election assault"
+    excerpt: "More than 100 Republican House members signed on to a legal brief supporting a Texas-led motion that experts called a political exercise bound to fail in the high court."
+    publishedDateTime: 2020-12-11T00:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/with-time-running-out-trump-and-gop-allies-turn-up-pressure-on-supreme-court-in-election-assault/2020/12/10/4268511a-3b03-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/with-time-running-out-trump-and-gop-allies-turn-up-pressure-on-supreme-court-in-election-assault/2020/12/10/4268511a-3b03-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/with-time-running-out-trump-and-gop-allies-turn-up-pressure-on-supreme-court-in-election-assault/2020/12/10/4268511a-3b03-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 127
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SLQARRB3HUI6XGGEEXOJ6SMH5A.jpg&w=1440"
+        width: 1440
+        height: 1052
         isCached: true
   - title: "Wisconsin Supreme Court denies Trump campaign's attempt to bypass lower court in election challenge"
     excerpt: "The Trump campaign argued that the state's high court should hear its case directly because presidential electors will soon be casting their votes."
@@ -1913,6 +1929,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/wisconsin-courts-to-consider-trumps-election-lawsuits"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/wisconsin-courts-to-consider-trumps-election-lawsuits?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/wisconsin-courts-to-consider-trumps-election-lawsuits?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "GOP-Led Ohio Joins Trump Effort to Overturn Election Results"
+    excerpt: "Ohio on Thursday joined other Republican-led states in backing GOP President Donald Trump’s effort to overturn the outcome of the presidential election."
+    publishedDateTime: 2020-12-10T21:29:00Z
+    webUrl: "https://www.usnews.com/news/best-states/ohio/articles/2020-12-10/gop-led-ohio-joins-trump-effort-to-overturn-election-results"
+    ampWebUrl: "https://www.usnews.com/news/best-states/ohio/articles/2020-12-10/gop-led-ohio-joins-trump-effort-to-overturn-election-results?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/ohio/articles/2020-12-10/gop-led-ohio-joins-trump-effort-to-overturn-election-results?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

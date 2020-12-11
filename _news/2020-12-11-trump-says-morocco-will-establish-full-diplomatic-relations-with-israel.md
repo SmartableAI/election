@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "President Trump secures deal between Israel and Morocco in a Hanukkah miracle"
+    excerpt: "News of today’s historic announcement of normalization between Israel and Morocco brokered by the Trump administration was met with a lukewarm reaction by the United Nations and diplomats at the world body’s headquarters."
+    publishedDateTime: 2020-12-10T23:03:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcDaSs62nOE/president-trump-israel-and-morocco-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-israel-and-morocco-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-israel-and-morocco-deal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64eafaca-7ae0-45a9-80b4-9364c88d4519/10bb732c-1723-43e0-ba28-4865ffee598a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Morocco normalizing ties with Israel, 4th country to do so under Trump's Arab peace plan"
     excerpt: "Morocco will normalize relations with Israel, making it the fourth country to do so in recent days under a U.S.-brokered deal."
     publishedDateTime: 2020-12-10T18:25:17Z

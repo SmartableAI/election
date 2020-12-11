@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "WATCH LIVE: Pence participates in COVID-19 vaccine roundtable"
-    excerpt: "Vice President Mike Pence will participate in a roundtable Dec. 10 about COVID-19 vaccines in Greenville, South Carolina."
-    publishedDateTime: 2020-12-10T16:21:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-pence-participates-in-covid-19-vaccine-roundtable"
+  - title: "The Latest: Pence talks vaccines in SC as virus cases rise"
+    excerpt: "Vice President Mike Pence has traveled to South Carolina to talk about coronavirus vaccines, as cases are rising in the state"
+    publishedDateTime: 2020-12-10T05:25:00Z
+    webUrl: "https://www.washingtonpost.com/health/the-latest-doctor-has-concern-about-vaccine-availability/2020/12/09/291437fe-3a7e-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/the-latest-doctor-has-concern-about-vaccine-availability/2020/12/09/291437fe-3a7e-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/the-latest-doctor-has-concern-about-vaccine-availability/2020/12/09/291437fe-3a7e-11eb-aad9-8959227280c4_story.html?outputType=amp"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-07-08T154528Z_1976070878_RC23PH9SQGLE_RTRMADP_3_HEALTH-CORONAVIRUS-USA-1024x618.jpg"
-        width: 1024
-        height: 618
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Pence to visit Tennessee, talk virus vaccines"
+    excerpt: "Vice President Mike Pence is scheduled to visit Memphis on Thursday to discuss the development and distribution of the COVID-19 vaccines, according to his office."
+    publishedDateTime: 2020-12-03T15:30:00Z
+    webUrl: "https://www.timesnews.net/living/health-care/pence-to-visit-tennessee-talk-virus-vaccines/article_0001c35c-3580-11eb-ab1e-134818ed0d1f.html"
+    type: article
+    provider:
+      name: Times News
+      domain: timesnews.net
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/3/23/323f7f7c-da0d-11ea-8e7a-6796a476e0b5/5f2f9df19a75b.image.jpg?crop=800%2C450%2C0%2C16&resize=800%2C450&order=crop%2Cresize"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "CIVWNRzCfkbP3SmSBpEhk3ka6lcayykLv9+nwSbtXNdbvesKBCl4eAmzdlZUKchJ3DG5e4b6khtDnTDmJ8U9ECuw5lER3EBayZuZcUabzxvKntSxx2xetgb6r3RD/bzJcZR/fE83jBAyDW6CjIAc2aDsEFpKyaO3+eIs1ldulCSqLS/ONWsJ9rjAZBaVdAOOOGIgSmC+w80mVRXx+jIWrfQ698YJzoW2X7ti+Srh1iW/JTSCQn2cfs/RRSBio6BhuyzXcPxHQpwkcwtWMYSjJbltIxx7UgsrqBRzqbJiM3pCQDYtQLsrUj+hkr8DO9kV6dtxlr3A98esGwX/HtKRSuxoruDt+cCNwTunlEwNJMEQMyhJ0Pl1ccMY5bhaizSdCRyh0YJs8/9QJ6tjERTV5gXgn+ZrJj2lo1wzM56JSEeu8UjHze9PBIfEBFREr8k9GB+o0xm7Np9TP7BnD+NuqVYh1rYU16olm/P3GwYpUoBcuSOmVkh87qNOkMI69dXZX0wcwrFNaRewbI4Dyhudng==;GAqeD5vwvdRJDxa75pxQQA=="
