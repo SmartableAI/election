@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-president-trump-robbed-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/deb31fac-e5c1-42e8-9a09-7d27440b42f1/c69902d9-ac13-4eb5-8b7b-31c93af3ca0d/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump gets West Point ovation at last Army-Navy game of his presidency"
+    excerpt: "The storied match-up, normally held in Philadelphia’s cavernous Lincoln Financial Field, this year moved to the US Military Academy’s much cozier gridiron due to the coronavirus"
+    publishedDateTime: 2020-12-12T21:40:00Z
+    webUrl: "https://nypost.com/2020/12/12/trump-gets-ovation-at-last-army-navy-game-of-his-presidency/"
+    ampWebUrl: "https://nypost.com/2020/12/12/trump-gets-ovation-at-last-army-navy-game-of-his-presidency/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/12/trump-gets-ovation-at-last-army-navy-game-of-his-presidency/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-army-navy.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 794
         isCached: true
   - title: "Trump to award wrestling legend Dan Gable the Presidential Medal of Freedom"
     excerpt: "President Trump will award Olympic gold medalist and college wrestling legend Dan Gable the Presidential Medal of Freedom on Monday."

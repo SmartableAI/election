@@ -320,6 +320,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Federal Judge in Wisconsin Deals Trump Another Court Defeat"
+    excerpt: "A Trump appointee in Milwaukee, Judge Brett H. Ludwig, dismissed a suit contesting the election with a withering rebuke."
+    publishedDateTime: 2020-12-12T22:10:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/12/us/12trump-wisconsin/merlin_179552091_dbf4228e-570d-4d46-897e-ad283b8fb58c-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "hY2rVV+sAPnr40we3u+W6K48CCT+4ZHJ4+WtyV8xSgPZX9kJhfuy2zUh3u8R6wkyCjgPzU9w0YNAxTpNWuXVV06fW1GnhAb6pebspqFz3YqKyUm88ioOH3H/imFCMMjqnxalFFVx71YLFTEos9LeB5V/T1z1EdfD33O6vaj6sLX9Tj33PREZeAcixZ1h8WE6VGIMIJCiNS7vdKUbV0GhM4BSNBtX1ocLI0ngKsRHGL/RLQvb9nnUEMtVRUvdcRKjNdivK/Zj+HX7EIZT1kUQMD6MALLoq/7ms08QWASSdmcX0/ZJHFW9r/wP6wbIr8HLDOV0Najv2smq5Ad9dEgfuo3HmpzJ2DlxgSuNqcpP0B2fDe74BOd1KgYEbc7NGtJXE7qs/Q+2BizacrSo2tdgZupweygTRQNi+n+pdyTy1GitblGrXFL6RxBRkejCr3FlCKaldyz26Ufsvlh494SnC2Fvfa7kgAd8NoVE+bVVd3wi5qiZCW2noinAd0MYOwVcjUOM/b2wWeX5/hzX/94svA==;zxSEqXDRaRlCoiy8ORCpTQ=="
 ---

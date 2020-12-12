@@ -1751,6 +1751,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Politics updates: Trump-appointed judge tosses another election lawsuit; Der Spiegel dubs Trump 'Loser of the Year'"
+    excerpt: "A GOP election official tells Wisconsin legislators there's no evidence of widespread fraud; Palin campaigns for Georgia's GOP senators. – updates."
+    publishedDateTime: 2020-12-12T20:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/12/live-politics-updates-donald-trump-joe-biden/6520470002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6520470002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6520470002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/12/USAT/4914ae85-9d61-462e-833d-1dfeea401768-AP_Trump.jpg?auto=webp&crop=3558,2001,x303,y147&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nevada judge dismisses Trump effort to overturn the state’s election results, finding campaign failed to prove fraud"
     excerpt: "The decision represented the latest blow to the Trump campaign’s hopes of using the courts to change the result of the presidential election in the last month."
     publishedDateTime: 2020-12-05T04:41:00Z

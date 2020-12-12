@@ -271,6 +271,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Donald Trump attends Army-Navy game for third time in a row"
+    excerpt: "Navy game, marking the third straight year he has done so as sitting president. Trump also attended the 2016 Army-Navy game at M&T Bank Stadium in Baltimore as president-elect."
+    publishedDateTime: 2020-12-12T22:30:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ac-cn-president-trump-army-navy-20201212-fgc77cmiljfn3fibufsiiujlky-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ac-cn-president-trump-army-navy-20201212-fgc77cmiljfn3fibufsiiujlky-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ac-cn-president-trump-army-navy-20201212-fgc77cmiljfn3fibufsiiujlky-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/tflIxn06qtbAXTME1o3lymnQCb4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SA7BRVQNB6OV5RBI2VW3UXF3LE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Donald Trump Jr.'s Hunting Trip Expected to Start As Rumors Swirl in Alaska"
     excerpt: "In February, a week-long $150,000 \"dream hunt\" was raffled off with the winner joining Trump Jr. and his son on a yacht traveling along the Tongass National Forest coastline in southeastern Alaska."
     publishedDateTime: 2020-12-10T16:49:00Z
@@ -361,6 +377,22 @@ related:
       - url: "https://i.insider.com/5fd4c1859cf1420018d2f075?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump and his GOP allies vow to ‘fight on’ after Supreme Court rejects legal challenge to overturn election results"
+    excerpt: "The Supreme Court’s final blow to legal efforts to overturn the presidential election only amplified the rhetoric and false claims that the election was stolen from Trump."
+    publishedDateTime: 2020-12-12T22:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-and-his-gop-allies-vow-to-fight-on-after-supreme-court-rejects-legal-challenge-to-overturn-election-results/2020/12/12/904c719c-3c82-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-and-his-gop-allies-vow-to-fight-on-after-supreme-court-rejects-legal-challenge-to-overturn-election-results/2020/12/12/904c719c-3c82-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-and-his-gop-allies-vow-to-fight-on-after-supreme-court-rejects-legal-challenge-to-overturn-election-results/2020/12/12/904c719c-3c82-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TGQ34XB4TEI6XPDIS2XQ3KXHFA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Fact check: Statistical analysis supporting pro-Trump Supreme Court case is 'ludicrous'"
     excerpt: "The purported statistical analysis wrongly assumes votes in the November election were randomly distributed across each state."

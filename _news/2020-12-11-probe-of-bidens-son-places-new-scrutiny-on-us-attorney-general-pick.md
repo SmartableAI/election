@@ -768,6 +768,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Doctor says Biden's fractured foot is healing as expected"
+    excerpt: "PHILADELPHIA (AP) — President-elect Joe Biden’s fractured foot has been healing, his doctor said Saturday."
+    publishedDateTime: 2020-12-12T22:27:00Z
+    webUrl: "https://www.businessinsider.com/doctor-says-bidens-fractured-foot-is-healing-as-expected-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/doctor-says-bidens-fractured-foot-is-healing-as-expected-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/doctor-says-bidens-fractured-foot-is-healing-as-expected-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Texas attorney general sues to block Biden's victory in four other states"
     excerpt: "Texas Attorney General Ken Paxton is suing over the election results in Pennsylvania, Michigan, Wisconsin and Georgia, four battleground states that helped swing the race for President-elect Joe Biden."
     publishedDateTime: 2020-12-08T23:40:00Z

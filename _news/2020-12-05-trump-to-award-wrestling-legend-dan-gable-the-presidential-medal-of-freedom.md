@@ -142,6 +142,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump gets West Point ovation at last Army-Navy game of his presidency"
+    excerpt: "The storied match-up, normally held in Philadelphia’s cavernous Lincoln Financial Field, this year moved to the US Military Academy’s much cozier gridiron due to the coronavirus"
+    publishedDateTime: 2020-12-12T21:40:00Z
+    webUrl: "https://nypost.com/2020/12/12/trump-gets-ovation-at-last-army-navy-game-of-his-presidency/"
+    ampWebUrl: "https://nypost.com/2020/12/12/trump-gets-ovation-at-last-army-navy-game-of-his-presidency/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/12/trump-gets-ovation-at-last-army-navy-game-of-his-presidency/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-army-navy.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 794
+        isCached: true
 
 secured: "EOhgFajEhz5CZNoHsMGliDZw5ok2Azhqb8Mt4yC1FeOSjb/uImg7On8BJs6rAzRUbg/4i/QNKRUj2xguEMZRDMVG8fkC1bkgN1ZbZUuO9ybFr+VGug74FN28/z4nev/+4lU0J7sLCaC2Pw0xh/Q/VH0S1g77VthaynkwzskYLP8hfiC3afVPZ3U8atIZg6P4Euu2quGaObjud7SSZ7Poj/17YP8ijGsX5uhAjtURVp/1Tp3AoXv88wsWMJNyDl5t6Oxf5Zpmkw42h0mB2Mqh1/rIcHfXNtpzwV0vtR3Pcs8zVKNjoQR98tEvvzc7kG4rp7lSTqGxCPRG79NUnFC9qWuNzzE3dtXxAmlxuMqAVP4=;zYhnXKTHrdevq3bPfqXWUQ=="
 ---

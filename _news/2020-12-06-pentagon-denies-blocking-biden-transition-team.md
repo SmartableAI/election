@@ -304,6 +304,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Federal Judge in Wisconsin Deals Trump Another Court Defeat"
+    excerpt: "A Trump appointee in Milwaukee, Judge Brett H. Ludwig, dismissed a suit contesting the election with a withering rebuke."
+    publishedDateTime: 2020-12-12T22:10:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/trump-election-lawsuit-wisconsin.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/12/us/12trump-wisconsin/merlin_179552091_dbf4228e-570d-4d46-897e-ad283b8fb58c-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "In Trying for a Diverse Administration, Biden Finds One Group’s Gain is Another’s Loss"
     excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."
     publishedDateTime: 2020-12-12T16:31:00Z

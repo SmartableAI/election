@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-08-every-day-was-like-a-veep-episode-the-veepiest-moments-of-the-trump-era.md",
+      "title": "‘Every Day Was Like a “Veep” Episode’: The Veepiest Moments of the Trump Era",
+      "excerpt": "They’re either taking from our show or doing their own version of it,” says the HBO show's executive producer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/magazine/2020/12/06/trump-veep-moments-435749",
+      "originalUrl": "https://www.politico.com/news/magazine/2020/12/06/trump-veep-moments-435749",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/ec/6f/237e902145f2a29daadcadc18d7c/veep-illo.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-trump-reportedly-limited-us-purchases-of-pfizer-vaccine-when-offered-live.md",
       "title": "Trump reportedly limited US purchases of Pfizer vaccine when offered - live",
       "excerpt": "New York Times reports Trump passed on the offer in late summer and the company may not be able to provide more doses until next June",
@@ -656,7 +713,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1115,
+      "heat": 1135,
       "tags": null,
       "images": [
         {
@@ -1297,62 +1354,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-trump-administration-shuts-down-chinese-cultural-exchange-programs-calls-them-soft-power-propaganda-tools.md",
-      "title": "Trump administration shuts down Chinese cultural exchange programs, calls them 'soft power propaganda tools'",
-      "excerpt": "The Trump administration on Friday announced that it had ended five cultural exchange programs with China -- describing them as being used by the Chinese communist government as “soft power propaganda tools.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oT_Zp2JLmu4/trump-administration-chinese-cultural-exchange-propaganda",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oT_Zp2JLmu4/trump-administration-chinese-cultural-exchange-propaganda",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9babd3a7-b8e1-4f74-9a48-4bc4d9e1c08a/1c738c8c-66e1-4cad-85d4-cd7487d0995f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-administration-chinese-cultural-exchange-propaganda.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-chinese-cultural-exchange-propaganda.amp",
-      "publishedDateTime": "2020-12-05T08:00:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

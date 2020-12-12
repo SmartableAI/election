@@ -782,6 +782,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Doctor says Biden's fractured foot is healing as expected"
+    excerpt: "PHILADELPHIA (AP) — President-elect Joe Biden’s fractured foot has been healing, his doctor said Saturday."
+    publishedDateTime: 2020-12-12T22:27:00Z
+    webUrl: "https://www.businessinsider.com/doctor-says-bidens-fractured-foot-is-healing-as-expected-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/doctor-says-bidens-fractured-foot-is-healing-as-expected-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/doctor-says-bidens-fractured-foot-is-healing-as-expected-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
     excerpt: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
     publishedDateTime: 2020-12-05T05:36:00Z

@@ -1034,6 +1034,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Loses Wisconsin Case While Arguing Another One"
+    excerpt: "President Donald Trump has lost a federal lawsuit while his attorney argued his case before a skeptical Wisconsin Supreme Court in another lawsuit that liberal justices said “smacks of racism.”."
+    publishedDateTime: 2020-12-12T21:45:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/wisconsin-supreme-court-in-saturday-session-for-trump-case"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "tN+R2iLppzX3DQjiFf1GMLuoHpr5IoYw8YtaIvdvayJzdus2rc8II90ut2HbbSvpb87qyZseBd7q9qvVuCIhPvPryzwDMDb8u1ylsfo/Sns01mxWjJAw8Ty7mIRx1f5cy5DxQiTqXSbr/e1Uc1RM6/CKYzP5AWg0vR9WMnfKeUKU/IknPjzuOsywZa3EFDeZXRH52cHifgt9F/HLY7R//ySJ9j3RCUXc1p82clTAPmjHLz71wRic/uw18LcPBOjYzIP6L8VGCEHp8D+17lGpfgSiHoCkGVDoLmDpWPWKx0CC8ORSTBa2NomRIq8CgmzqN9gmRaeXPXoNj3X92n1/e175EaY33IjzgTIPG7dsCqIwSp3z7EYLWlzGHIPfnr80R4vLllnT8KETJAUSNnKB+Q7x8U3/qc079ICwWuwn7UrSkNBqGY5BsxlLOTo5SAB5SYZrbLKjgotDuIHkiWWSDuXE4BiZutcqB9cNlbteDNhKAutXkf4lcwrRTVl2Eu2s72T8IJL4nOLFRjNCmoSsBg==;Ubaz3FmzOr01EGh/935GTA=="
 ---

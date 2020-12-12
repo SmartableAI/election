@@ -126,6 +126,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump gets West Point ovation at last Army-Navy game of his presidency"
+    excerpt: "The storied match-up, normally held in Philadelphia’s cavernous Lincoln Financial Field, this year moved to the US Military Academy’s much cozier gridiron due to the coronavirus"
+    publishedDateTime: 2020-12-12T21:40:00Z
+    webUrl: "https://nypost.com/2020/12/12/trump-gets-ovation-at-last-army-navy-game-of-his-presidency/"
+    ampWebUrl: "https://nypost.com/2020/12/12/trump-gets-ovation-at-last-army-navy-game-of-his-presidency/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/12/trump-gets-ovation-at-last-army-navy-game-of-his-presidency/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-army-navy.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 794
+        isCached: true
   - title: "Trump to award wrestling legend Dan Gable the Presidential Medal of Freedom"
     excerpt: "President Trump will award Olympic gold medalist and college wrestling legend Dan Gable the Presidential Medal of Freedom on Monday."
     publishedDateTime: 2020-12-04T20:12:00Z

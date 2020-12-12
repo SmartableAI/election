@@ -108,6 +108,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump tells 'Fox & Friends' he's 'so disappointed' in Supreme Court for turning aside Texas election suit"
+    excerpt: "President Trump told Fox News Saturday that he is \"so disappointed\" in the Supreme Court for declining to hear a lawsuit brought by the state of Texas that sought to nullify the election results in four battleground states."
+    publishedDateTime: 2020-12-12T22:43:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1wbAAiNSbOk/trump-disappointed-supreme-court-texas-election-lawsuit-fox-friends"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-disappointed-supreme-court-texas-election-lawsuit-fox-friends.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-disappointed-supreme-court-texas-election-lawsuit-fox-friends.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Wisconsin Supreme Court takes up Trump case after circuit court judge dismissed"
     excerpt: "The Wisconsin Supreme Court has taken on a case by President Trump’s legal team, seeking to have hundreds of thousands of ballots in Democratic Dane and Milwaukee Counties thrown out, even after a circuit court judge dismissed the case Friday."
     publishedDateTime: 2020-12-11T23:11:39Z

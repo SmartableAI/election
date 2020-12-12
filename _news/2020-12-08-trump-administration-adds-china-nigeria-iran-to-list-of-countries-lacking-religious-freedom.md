@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump supporters, counterprotesters clash in Olympia, Wash."
+    excerpt: "Protests are raging on for another weekend in Olympia, Wash. Trump supporters and members of the Proud Boys gathered at Washington's state Capitol, along with leftist counterprotesters. There was at least one street brawl between the groups."
+    publishedDateTime: 2020-12-12T22:21:00Z
+    webUrl: "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa"
+    ampWebUrl: "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/protest-cropped-417a.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Administration Claims Facebook Improperly Reserved Jobs for H-1B Workers"
     excerpt: "A Justice Department lawsuit accuses the social-media company of illegally reserving high-paying jobs for immigrant workers it was sponsoring for permanent residence and failing to adequately search for U."
     publishedDateTime: 2020-12-03T20:21:00Z

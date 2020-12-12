@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-encounters-bipartisan-back
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-encounters-bipartisan-backlash-as-aoc-supports-trump-administrations-lawsuit.amp"
 type: article
 quality: 167
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 164
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbf6a5de-4c6e-402d-ad75-1713dbc7e628/f49d8ca1-c005-47ec-8e0b-075fcd435fc5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump supporters, counterprotesters clash in Olympia, Wash."
+    excerpt: "Protests are raging on for another weekend in Olympia, Wash. Trump supporters and members of the Proud Boys gathered at Washington's state Capitol, along with leftist counterprotesters. There was at least one street brawl between the groups."
+    publishedDateTime: 2020-12-12T22:21:00Z
+    webUrl: "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa"
+    ampWebUrl: "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/protest-cropped-417a.jpg"
         width: 1280
         height: 720
         isCached: true

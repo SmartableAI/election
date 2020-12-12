@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump supporters, counterprotesters clash in Olympia, Wash."
+    excerpt: "Protests are raging on for another weekend in Olympia, Wash. Trump supporters and members of the Proud Boys gathered at Washington's state Capitol, along with leftist counterprotesters. There was at least one street brawl between the groups."
+    publishedDateTime: 2020-12-12T22:21:00Z
+    webUrl: "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa"
+    ampWebUrl: "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/protest-cropped-417a.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "xvmyBqnl1K4uj7Fm4DWbH9kQf2+PxLNg3qlVKUZUROxrrAF7kmAO9yZxU/8o0E4DgFLvhk8VAeuEdhaArJkUv8Tf5ehid9cerwkz4g2mVT6JL4lnJ2rCuyk2qGYyShthlmn3rOf/DYCOIAwy71qCMAsCvMbkjerH+fAZn4ojs2m7PWq8/S9sm3akO6Kl+ROrYdF98SVEN05Mv6UpDVVo7NjgT4h+q8aptB4V2Fq0ksH6Y4S7vhdPA0B1Ko1Md8ebg4xsBDYz3vqDS8Fm/jnm7ebvVPrX38IbwEuO8pclwUDW1BZJ2uen/M30JJGYnL8XWHkiI2zlQ3iZdb74E5dRTHUleoKw0U/WKgOIVDeNz9F8GpTc6IDc3SyXSbm2XyJYDZUkhGsJjWJyGnO/GPt/hEs8yxDxx+3kW1pg8R8Q9gVHnCCOYMWu5RT6FU+xUf0HiQKw4OX8H3TcMxndMa6Xwf0pcS5ZGbhm8wGk8KTGHH6qfV8ZxWpsEi6yIJ1gEVI4567zwACwLFnQmcAygY7PCw==;kkY1TYqPiJ9lZrnN+CyI/w=="
 ---

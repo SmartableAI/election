@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
 excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
 publishedDateTime: 2020-12-11T18:34:00Z
-originalUrl: "https://www.reuters.com/article/time-person/update-3-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
-webUrl: "https://www.reuters.com/article/time-person/update-3-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
+originalUrl: "https://www.reuters.com/article/us-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K33R"
+webUrl: "https://www.reuters.com/article/us-time-person/joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSKBN28K33R"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K33R"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K33R"
 type: article
@@ -748,6 +748,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/28/cc5d8a2d-af7b-440e-8aba-bfb3960569ab/thumbnail/1200x630/f3ca4b9a685890b224979d92b49ec67e/cbsn-fusion-trump-demands-biden-prove-he-won-election-continues-to-lob-fraud-accusations-thumbnail-597367-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris' Husband Slams WSJ Op-Ed Urging Jill Biden to Stop Calling Herself a Doctor"
+    excerpt: "Doug Emhoff, Vice President-elect Kamala Harris' husband, on Saturday criticized the Wall Street Journal for publishing an op-ed urging Jill Biden to \"drop the doc\" in her name. In the op-ed, essayist Joseph Epstein calls President-elect Joe Biden's wife as \"Madame First Lady—Mrs."
+    publishedDateTime: 2020-12-12T22:40:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-husband-slams-wsj-op-ed-urging-jill-biden-stop-calling-herself-doctor-1554368"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-husband-slams-wsj-op-ed-urging-jill-biden-stop-calling-herself-doctor-1554368?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-husband-slams-wsj-op-ed-urging-jill-biden-stop-calling-herself-doctor-1554368?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 131
+    images:
+      - url: "https://d.newsweek.com/en/full/1685455/kamala-harris-husband-doug-emhoff.jpg"
+        width: 3617
+        height: 2411
         isCached: true
   - title: "Arizona and Wisconsin certify Joe Biden's win as Trump continues to challenge results – live"
     excerpt: "State officials effectively put to rest any doubt that Biden won as Trump campaign made its fifth request for Georgia officials to audit signatures"
@@ -1748,6 +1764,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "lwLXLQhsVeEOCCNzq245r7KmABqjRweVx5KIy2fJUMUirYtr7BxWt8SsL5YOevlFs7UKanLP39H6utGLSIgmRCoTGK5KFhMmmX4wZOQGC6goFySaqEYrBgYEELkJstgrn4gB6/DjBU0g8rBBc9xjD8MP54WZa5lqqUhqKB3egxwFYTPIAp5FmPo/flsvJKw7leUch7m0o3R2bdSNngFU9T5YombCO6ZzGmhtbZlGsWGhfPS5zeP5sQCtbc7M5BOGuD9mpojoNujzhIcaCItwtTJ5HnchqD2TA/U+xmukndQYzWk8zGR++qBujHauGmqomiVoh7REKi9sC2DHY0D37LmMZCgCG01ctvBqdk5hxiJDJ6BEUax3TqgjOBpGM4UnwLHtq6sfX74L46WxsI3FLCmakV0Ne2RItCdE4/oLOM+wpSXvI5XG+5ejeA9V4fUWtRuTQimnyIguYIUuc2T+sgObrTOmT6QCqP+Rw6UTVOREZR996YRGyYGc3+xyl7bj5Pii6eIV08Jtxo/xV4mp0Q==;pv8NlA7CK5hVzmpGQNRnpg=="
+secured: "r2mgKE8xgPYO38HhPqOZFKBHZYNiEngr7mzyeES1DMnS7Z9f2xZOQsHEe3+4idnbY4uGHrTsJW89YcXjQxgv2cuK9/ZLwGjEl0M7hC7fVbhtXEoYUE/d/cTemtevHHPzG7KCCcc4uKwPigGIilC5yIBPgNydW629s88lSZ3k8x0+C1z321Nzg4ahHUSuApgR3r0ChgD3t/grmWr9KOI1j/+1pRJ1B/58N1WTiYxmY5MFrb48+LpDGbvgTONGBGMmbhKa7uALiw88aP7Xj+fMOtJ3NLrzpvWM6rjoH9u8yh6rwHgTmAuSrvdytCx1yNWKrB5gLWzGsIS3PHiiovpnBb7RVhS10zF4gpc6TGBalqU=;bhRnJ8U450vBLt3i6NaEDw=="
 ---
 
