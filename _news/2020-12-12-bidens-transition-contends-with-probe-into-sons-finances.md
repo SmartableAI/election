@@ -319,6 +319,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Focus on union leader as Biden searches for education secretary"
+    excerpt: "No matter whom Biden chooses, the person is sure to represent an about-face from current Secretary Betsy DeVos, who has made school choice her signature issue. The depar"
+    publishedDateTime: 2020-12-12T00:01:00Z
+    webUrl: "https://www.washingtonpost.com/education/education-secretary-search-union-leader/2020/12/11/5787e77a-3bc8-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/education/education-secretary-search-union-leader/2020/12/11/5787e77a-3bc8-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/education-secretary-search-union-leader/2020/12/11/5787e77a-3bc8-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2EEY6EB4AII6XPDIS2XQ3KXHFA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Former CIA director says intelligence community will recover under Biden"
     excerpt: "Former CIA Director Michael Hayden said Monday that he believes that the intelligence community will recover under President-elect Biden, after it faced repeated attacks from President Trump over the past four years."
     publishedDateTime: 2020-12-07T22:41:00Z

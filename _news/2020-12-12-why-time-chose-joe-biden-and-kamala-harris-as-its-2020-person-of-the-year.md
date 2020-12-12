@@ -811,6 +811,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Wisconsin state court judge rules against Trump campaign lawsuit seeking to overturn Joe Biden’s win"
+    excerpt: "Wisconsin state court judge rules against Trump campaign lawsuit seeking to overturn Joe Biden’s win."
+    publishedDateTime: 2020-12-12T00:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/wisconsin-state-court-judge-rules-trump-campaign-lawsuit-74673107"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsin-state-court-judge-rules-trump-campaign-lawsuit-74673107"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsin-state-court-judge-rules-trump-campaign-lawsuit-74673107"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
     publishedDateTime: 2020-12-02T13:35:00Z
@@ -1344,6 +1360,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Joe Biden, Kamala Harris are Time’s Person of the Year 2020"
+    excerpt: "Joe Biden and Kamala Harris are Time’s 2020 Person of the Year, the magazine announced Thursday night. The President-elect and Vice President-elect beat out Donald Trump again, among other finalists."
+    publishedDateTime: 2020-12-11T18:18:00Z
+    webUrl: "https://www.al.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
+    ampWebUrl: "https://www.al.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AY6P7DXUKNHJRI5LJGZPURHWEA.JPG"
+        width: 3295
+        height: 2197
+        isCached: true
   - title: "After years of indifference and denial under President Trump, experts expect Joe Biden to confront the dangers of domestic extremism"
     excerpt: "Former federal security officials are urging President-elect Joe Biden to more seriously acknowledge the growing danger of domestic terrorism."
     publishedDateTime: 2020-12-09T12:24:00Z
@@ -1604,6 +1636,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "Ir1sVziDmXWSuVte1zxf3zGIz2mV65dLbgyiJqad5gE6gGI8KlkQbw1UeBoc0FVsGNfrCF2/mPhXaRYTpDHA3qq+mtj9YonikKIFz2vD2e56MXNMk4ltedPYEbD36twl89FtFPcv1DEDKpIZb/YM2Vw4PlbmAyqbxj/0gSwM7YFmf3u0K4MyLbvWs8f2/AfHw7dnMT12sIq5hXSYkGkFQQpoEDeUaw/CJeSJrundsgNah3FT91u3KHUecgm6MV2564z+qGW0RUq6UtgJXDhg8lXhqXdIsrCQ+vQBmWVPZhpyc1ParyOUqsdIPaGWx8XrIoq0tj0/XZtpVlMa3+ToszjWXopLMchzVDLs/Qop0k4=;gpHuH+Xv8WkyTi9F9NxXcg=="
+secured: "rt16pMKYEbBNAAe87lv2KzT7Q8GdaoD+QtFTYQlMqms9NFYhh2cQ38TaWzRMnTn/hIYzNRWugFLc4d2JvupeiXHdWuG3spRPrmEGT6TYVXjoeU25krL4btwApWxlhyNlvmArH3k52oSF7/oQKURiwl4As+9PTz5cjJlYiEhfK+Dh/X9mjhPZtNJX/nytIFb6Tcaan9EalUI5VAg6FdXMPK3bAKZhYVvfVZmPTfharf0ZAOtjnN/Gx/vLy7hnPdsAidktWMG4+hTe9gfBUbL8J5ddA0QMli/Pn0IaHML/vxX1Cvjiv3njXE6u5LaodbYlo90mOXpS/ew+WA35bV7JqvLetfpsMNHaVO6+5nzZQqAw/h3eEWHdWFZsmorLK2jinJvXsr5Sf7sSplTmvFnV4GdkL/8e9MEmfIm7PlqnU34x2i5FWKfM+fDzqNFc5wQlB6tLIXYdNLM5t0RgZxCKEmau0aTrt/dUZKISAUOz6y7YbWkg+rh/U2pBNphprnoKVK7LBTFswfYBeCMmReUtQw==;YYZmri3RO6WLCWVx0ewPHg=="
 ---
 

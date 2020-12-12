@@ -28,37 +28,99 @@ images:
     isCached: true
 
 related:
-  - title: "Biden admits Dems 'forgot' rural America, says he did 'something good for the country' by beating Trump"
-    excerpt: "President-elect Joe Biden said Democrats \"forgot\" rural America in an interview with New York Times opinion columnist Thomas L. Friedman published Wednesday."
-    publishedDateTime: 2020-12-02T13:55:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R9EK1Jh2h3k/biden-democrats-forgot-rural-america"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp"
+  - title: "Fox News Poll: Most Republicans say President Trump was robbed"
+    excerpt: "Sixty-eight percent of Republicans believe the election was stolen from President Trump, according to the latest Fox News national survey of registered voters."
+    publishedDateTime: 2020-12-11T23:01:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5C767sT7RQ8/republicans-president-trump-robbed-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20274669148826.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Mattis did not disclose consultant role in column denouncing Trump's 'America First' policy"
-    excerpt: "The column did not reference the retired four-star general’s work with the Cohen Group, an international business advisory firm active in China."
-    publishedDateTime: 2020-11-27T22:00:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SBR9hH_Zlc/mattis-did-not-disclose-consultant-role-column-denouncing-trumps-america-first-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/mattis-did-not-disclose-consultant-role-column-denouncing-trumps-america-first-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mattis-did-not-disclose-consultant-role-column-denouncing-trumps-america-first-policy.amp"
+  - title: "Fox News Poll: Voters give President Trump mixed reviews after 4 years"
+    excerpt: "Trump ends 2020 with positive ratings for his handling of the economy, but mixed reviews from voters on other issues -- and for his performance overall."
+    publishedDateTime: 2020-12-11T23:01:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wHASXdWkvhk/president-trump-voters-mixed-reviews-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-voters-mixed-reviews-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-voters-mixed-reviews-poll.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28aff647-2720-4821-9c6e-c0b23d95d9db/d60abd38-b851-4bb5-b68b-ae6b01fb5c1c/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "President Trump secures deal between Israel and Morocco in a Hanukkah miracle"
+    excerpt: "News of today’s historic announcement of normalization between Israel and Morocco brokered by the Trump administration was met with a lukewarm reaction by the United Nations and diplomats at the world body’s headquarters."
+    publishedDateTime: 2020-12-10T23:03:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcDaSs62nOE/president-trump-israel-and-morocco-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-israel-and-morocco-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-israel-and-morocco-deal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64eafaca-7ae0-45a9-80b4-9364c88d4519/10bb732c-1723-43e0-ba28-4865ffee598a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Cheney, Buck lead House resolution backing Trump legal efforts: 'Must protect the integrity of our elections'"
+    excerpt: "House Republican Conference Chair Rep. Liz Cheney and Rep. Ken Buck on Friday are leading a group of 18 lawmakers in sponsoring a resolution in the House that backs the legal action by President Trump on the presidential election, which most recently includes a request to join the Texas lawsuit aiming"
+    publishedDateTime: 2020-12-11T11:47:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-SwkO2WYy4/liz-cheney-ken-buck-lead-house-resolution-backing-trump-legal-efforts-on-election"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 151
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Rep-Liz-Cheney.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Israel and Morocco Agree to Normalize Relations, Trump Says"
+    excerpt: "The deal, which required a U.S. shift on Morocco policy, marks another advance in U.S. efforts to strengthen ties between once-hostile nations in the Middle East"
+    publishedDateTime: 2020-12-10T18:31:00Z
+    webUrl: "https://www.wsj.com/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-271478/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump to award wrestling legend Dan Gable the Presidential Medal of Freedom"
+    excerpt: "President Trump will award Olympic gold medalist and college wrestling legend Dan Gable the Presidential Medal of Freedom on Monday."
+    publishedDateTime: 2020-12-04T20:12:00Z
+    webUrl: "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom"
+    ampWebUrl: "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Dan-Gable.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "xKl+Q6q2oQgkcLpH4YJwEcoMXC2jGHzoGW6VvO7pa01KSjbD1neIVdE/ctZqxJH1TjmtN+cuF3xvnU5RRbWY1wM3U91E5DRV0LPgwLP/M6GsgcVd8VO4YsF2+AoYB4JIYquRty2u1VsOI/+MO6EPsBLgO0du8YOZNAPMonF+cDA06M9RJF6gyaUyjMKItDq4fcvnRAEyws/L6/WPn9XiIBBly4CV3aZDsZq1R4VSGgla5hzA8fFo8A+1b9UNNj8cVZc/ZYvBkINS5m1flFCq3mDPt6N0NdFnYK3bEZtRZ5GY6dQ0nEwmEFfb7yx/wDlk7w0y3OeiWjNkKZRVpufgcR/ISKjiKT1GLg11uNuRFMc=;aRZpM+HaISaGqDQtSNag5A=="

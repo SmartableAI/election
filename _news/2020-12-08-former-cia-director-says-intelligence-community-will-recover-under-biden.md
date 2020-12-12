@@ -335,6 +335,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Focus on union leader as Biden searches for education secretary"
+    excerpt: "No matter whom Biden chooses, the person is sure to represent an about-face from current Secretary Betsy DeVos, who has made school choice her signature issue. The depar"
+    publishedDateTime: 2020-12-12T00:01:00Z
+    webUrl: "https://www.washingtonpost.com/education/education-secretary-search-union-leader/2020/12/11/5787e77a-3bc8-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/education/education-secretary-search-union-leader/2020/12/11/5787e77a-3bc8-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/education-secretary-search-union-leader/2020/12/11/5787e77a-3bc8-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2EEY6EB4AII6XPDIS2XQ3KXHFA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "President-elect Biden to push for the majority of schools to reopen by May"
     excerpt: "Joe Biden pledged Tuesday to bring the coronavirus pandemic under enough control to open the “majority” of schools during his first 100 days as president, even while warning that the U.S. is facing a “dark winter."
     publishedDateTime: 2020-12-09T22:54:00Z

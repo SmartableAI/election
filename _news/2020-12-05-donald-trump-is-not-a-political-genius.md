@@ -106,6 +106,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Wisconsin Supreme Court takes up Trump case after circuit court judge dismissed"
+    excerpt: "The Wisconsin Supreme Court has taken on a case by President Trump’s legal team, seeking to have hundreds of thousands of ballots in Democratic Dane and Milwaukee Counties thrown out, even after a circuit court judge dismissed the case Friday."
+    publishedDateTime: 2020-12-11T23:11:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wwcSDKCoe5Q/wisconsin-supreme-court-takes-up-trump-case-after-circuit-court-judge-dismissed"
+    ampWebUrl: "https://www.foxnews.com/politics/wisconsin-supreme-court-takes-up-trump-case-after-circuit-court-judge-dismissed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-supreme-court-takes-up-trump-case-after-circuit-court-judge-dismissed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a7c63ef-15e6-4f06-a916-cd19381e51fa/67cd9b27-0df9-4d26-be2c-4a8fc09c475f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joey Jones blasts the politicization of the American flag during Trump presidency"
     excerpt: "Fox News contributor Joey Jones on Thursday blasted the politicization of the American flag during President Trump’s term in office."
     publishedDateTime: 2020-12-03T16:45:54Z
@@ -247,6 +263,22 @@ related:
       - url: "https://images.wsj.net/im-267926/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Supreme Court denies Texas, Trump appeal over election results in four other states"
+    excerpt: "The Supreme Court has denied a Texas effort Friday that would have essentially nullified the presidential elections in Pennsylvania, Michigan, Georgia and Wisconsin."
+    publishedDateTime: 2020-12-12T00:21:00Z
+    webUrl: "https://www.foxnews.com/politics/scotus-denied-election-texas-election-suit"
+    ampWebUrl: "https://www.foxnews.com/politics/scotus-denied-election-texas-election-suit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scotus-denied-election-texas-election-suit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301051552370.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Ga. Sec of State says he'll vote for GOP senators who backed Trump's calls for his resignation"
     excerpt: "Brad Raffensperger touted his support for both his state's Republican candidates for Senate -- incumbents Kelly Loeffler and David Perdue -- despite them joining President Trump in calling for his resignation after he certified President-elect Joe Biden's victory in the longtime GOP stronghold. "

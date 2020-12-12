@@ -166,7 +166,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 560,
+      "heat": 600,
       "tags": null,
       "images": [
         {
@@ -613,7 +613,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2660,
+      "heat": 2680,
       "tags": null,
       "images": [
         {
@@ -666,7 +666,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/12/04/joe-biden-trump-transition-live-updates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 995,
+      "heat": 1015,
       "tags": null,
       "images": [
         {

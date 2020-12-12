@@ -64,20 +64,20 @@ related:
         height: 558
         isCached: true
   - title: "Trump administration plans 2nd execution in as many days"
-    excerpt: "One day after the death of Brandon Bernard, the Trump administration plans to execute Alfred Bourgeois, in an unprecedented post-election series."
-    publishedDateTime: 2020-12-11T16:35:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-11/trump-execution-alfred-bourgeois-brandon-bernard"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-11/trump-execution-alfred-bourgeois-brandon-bernard?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-11/trump-execution-alfred-bourgeois-brandon-bernard?_amp=true"
+    excerpt: "The Trump administration plans to continue its unprecedented series of post-election federal executions by putting to death a truck driver who abused his 2-year-old daughter for weeks, then killed her by slamming her head against a truck’s windows and dashboard."
+    publishedDateTime: 2020-12-11T23:48:00Z
+    webUrl: "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/8ebe15d/2147483647/strip/true/crop/4533x2961+0+31/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc5%2F7b%2Fa38a8fa87b783482a2f068835cce%2F2cd0044021024a8c9b9315e006c2348a"
-        width: 320
-        height: 209
+      - url: "https://www.chicagotribune.com/resizer/84bt1DCWY4_ZuoPZGQVv0NyTcj0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YBKBEATKVQC45Z3WDABQXS4BAE.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "'The people have spoken': Federal judge rejects ex-Trump attorney Sidney Powell's Michigan election lawsuit"
     excerpt: "The judge said the court was being asked \"to ignore the will of millions of voters. This the Court cannot, and will not, do. The people have spoken.\""

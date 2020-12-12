@@ -493,6 +493,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Wisconsin state court judge rules against Trump lawsuit"
+    excerpt: "President Trump was expected to quickly appeal the Wisconsin ruling against his lawsuit seeking to overturn Democrat Joe Biden’s win in the state."
+    publishedDateTime: 2020-12-12T00:58:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-11/wisconsin-state-court-judge-rules-against-trump-lawsuit"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-11/wisconsin-state-court-judge-rules-against-trump-lawsuit?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-11/wisconsin-state-court-judge-rules-against-trump-lawsuit?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1df2cf4/2147483647/strip/true/crop/3931x2567+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F16%2F76%2F5528bf91477eb439a532d4d450b1%2F644315-sd-elex2020-registar-at018.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
     excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."
     publishedDateTime: 2020-11-15T07:46:00Z
@@ -756,6 +772,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BZHR6JA6FQI6XLKTJQP5USMQPU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump lawsuit in Wisconsin is thrown out in a fifth adverse ruling for the president in a little over a week"
+    excerpt: "A state judge concluded Wisconsin's election was conducted properly Friday, dealing President Donald Trump and his allies their fifth legal defeat in a little over a week."
+    publishedDateTime: 2020-12-11T23:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/11/wisconsin-judge-hears-trump-election-case/6514932002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6514932002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6514932002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/11/PMJS/1e595890-d4a4-4b12-b37d-c33e3a825f67-MJS-ElectionWisconsin_1.jpg?auto=webp&crop=3224,1814,x46,y170&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump calls on a partial recount in Wisconsin..."
     excerpt: "Watch \"Trump campaign calls on a partial recount in Wisconsin\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

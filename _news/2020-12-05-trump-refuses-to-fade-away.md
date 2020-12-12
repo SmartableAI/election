@@ -445,6 +445,22 @@ related:
         width: 745
         height: 545
         isCached: true
+  - title: "As he rails on election, Trump largely mum on toll of virus"
+    excerpt: "President Donald Trump has been highlighting lots of really big numbers this week: New highs for the stock market. The 100-plus House members backing a lawsuit challenging his election loss. The nearly 75 million people who voted for him."
+    publishedDateTime: 2020-12-11T23:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/as-he-rails-on-election-trump-largely-mum-on-toll-of-virus/2020/12/11/df3fb77c-3c01-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/as-he-rails-on-election-trump-largely-mum-on-toll-of-virus/2020/12/11/df3fb77c-3c01-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/as-he-rails-on-election-trump-largely-mum-on-toll-of-virus/2020/12/11/df3fb77c-3c01-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Armed pro-Trump protesters gather outside Michigan elections chief's home"
     excerpt: "Jocelyn Benson says gathering in which bogus claims were made about electoral fraud was ‘unambiguous, loud and threatening’"
     publishedDateTime: 2020-12-07T14:45:00Z
@@ -1197,6 +1213,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Judge demands Trump administration hand over documents about 2020 Census"
+    excerpt: "A federal judge has given the Trump administration until Monday to produce documents related to the timing and processing of the 2020 Census. U.S. District Judge Lucy H. Koh of the Northern District of California said in her ruling late Thursday night that what the Justice Department has so far produced in a lawsuit about the timing of the survey has been “inadequate” and rife with duplications."
+    publishedDateTime: 2020-12-12T00:34:00Z
+    webUrl: "https://www.washingtonpost.com/national/judge-demands-trump-administration-documents-about-2020-census/2020/12/11/36fa672e-36ac-11eb-a997-1f4c53d2a747_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/judge-demands-trump-administration-documents-about-2020-census/2020/12/11/36fa672e-36ac-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/judge-demands-trump-administration-documents-about-2020-census/2020/12/11/36fa672e-36ac-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MHXAEAR4AUI6XETWVYGKOJZJXY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Politics updates: Biden fractures foot playing with dog; Trump mocked for 'I came up with vaccines' claim"
     excerpt: "Trump mocked for his latest attempt to take credit for a COVID vaccine; GOP Sen. Blunt refuses to call Biden the president-elect – politics updates."
     publishedDateTime: 2020-12-01T14:35:00Z
@@ -1467,6 +1499,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Supreme Court Shuts Door On Trump Election Prospects"
+    excerpt: "Texas Attorney General Ken Paxton sued four states that Joe Biden won, claiming their changes to election procedures during the pandemic violated federal law."
+    publishedDateTime: 2020-12-11T23:38:00Z
+    webUrl: "https://www.npr.org/2020/12/11/945617913/supreme-court-shuts-door-on-trump-election-prospects"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/11/gettyimages-1219321528_wide-71667206678449b71ee3b4e9637e3163df10ddf5.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "UPDATE 2-U.S. Republicans balk as Trump uses defense bill for leverage on Big Tech"
     excerpt: "President Donald Trump's threat to veto a defense bill if it does not repeal legal protections for social media companies faced stiff bipartisan opposition on Wednesday, setting the stage for a confrontation with lawmakers scrambling to pass the massive bill by year-end."
     publishedDateTime: 2020-12-03T02:35:00Z

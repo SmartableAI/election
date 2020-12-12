@@ -693,6 +693,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden: US needs presidential leadership on virus"
+    excerpt: "President-elect Joe Biden says that the American public should have confidence in a coronavirus vaccine that may soon begin to become available. Biden said combating the pandemic is \"serious business\" that requires \"presidential leadership."
+    publishedDateTime: 2020-12-11T23:32:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/11/biden-us-needs-presidential-leadership-virus/6514314002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2048cb74-f8c1-4830-9fa9-efdd790a344c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Texas attorney general sues to block Biden's victory in four other states"
     excerpt: "Texas Attorney General Ken Paxton is suing over the election results in Pennsylvania, Michigan, Wisconsin and Georgia, four battleground states that helped swing the race for President-elect Joe Biden."
     publishedDateTime: 2020-12-08T23:40:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/president-trump-israel-and-morocco-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-israel-and-morocco-deal.amp"
 type: article
 quality: 172
-heat: 232
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Morocco normalizing ties with Israel, 4th country to do so under Trump's Arab peace plan"
-    excerpt: "Morocco will normalize relations with Israel, making it the fourth country to do so in recent days under a U.S.-brokered deal."
-    publishedDateTime: 2020-12-10T18:25:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bDWuH5w9-Qc/trump-morocco-israel-arab-peace-plan"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-morocco-israel-arab-peace-plan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-morocco-israel-arab-peace-plan.amp"
+  - title: "Fox News Poll: Most Republicans say President Trump was robbed"
+    excerpt: "Sixty-eight percent of Republicans believe the election was stolen from President Trump, according to the latest Fox News national survey of registered voters."
+    publishedDateTime: 2020-12-11T23:01:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5C767sT7RQ8/republicans-president-trump-robbed-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20328304171650.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Fox News Poll: Voters give President Trump mixed reviews after 4 years"
+    excerpt: "Trump ends 2020 with positive ratings for his handling of the economy, but mixed reviews from voters on other issues -- and for his performance overall."
+    publishedDateTime: 2020-12-11T23:01:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wHASXdWkvhk/president-trump-voters-mixed-reviews-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-voters-mixed-reviews-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-voters-mixed-reviews-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Cheney, Buck lead House resolution backing Trump legal efforts: 'Must protect the integrity of our elections'"
+    excerpt: "House Republican Conference Chair Rep. Liz Cheney and Rep. Ken Buck on Friday are leading a group of 18 lawmakers in sponsoring a resolution in the House that backs the legal action by President Trump on the presidential election, which most recently includes a request to join the Texas lawsuit aiming"
+    publishedDateTime: 2020-12-11T11:47:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-SwkO2WYy4/liz-cheney-ken-buck-lead-house-resolution-backing-trump-legal-efforts-on-election"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 151
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Rep-Liz-Cheney.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Trump lost the 2020 election, but he proved America can win again"
+    excerpt: "Whatever happened in the 2020 election, the first draft of history should be clear: President Donald Trump proved that American decline can be resisted and reversed. He showed that our nation can"
+    publishedDateTime: 2020-12-05T15:21:00Z
+    webUrl: "https://nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/"
+    ampWebUrl: "https://nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/05/trump-lost-the-2020-election-but-he-proved-america-can-win-again/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/donald-trump-rally.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Israel and Morocco Agree to Normalize Relations, Trump Says"
     excerpt: "The deal, which required a U.S. shift on Morocco policy, marks another advance in U.S. efforts to strengthen ties between once-hostile nations in the Middle East"
@@ -63,21 +109,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump Says Morocco Will Establish ‘Full Diplomatic Relations’ With Israel"
-    excerpt: "President Trump said Morocco has agreed to establish full diplomatic relations with Israel, calling it a “massive breakthrough for peace” in the Middle East."
-    publishedDateTime: 2020-12-10T16:45:00Z
-    webUrl: "https://www.wsj.com/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-morocco-will-establish-full-diplomatic-relations-with-israel-11607617872"
+  - title: "Trump to award wrestling legend Dan Gable the Presidential Medal of Freedom"
+    excerpt: "President Trump will award Olympic gold medalist and college wrestling legend Dan Gable the Presidential Medal of Freedom on Monday."
+    publishedDateTime: 2020-12-04T20:12:00Z
+    webUrl: "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom"
+    ampWebUrl: "https://www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-award-dan-gable-presidential-medal-of-freedom.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 134
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
     images:
-      - url: "https://images.wsj.net/im-271352/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Dan-Gable.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "lOoHe4umGIcgnC4LvV62maVv4AFcS0wPbe4CRRdS4S5uVhzOYb1Gx7G3vX4tuK/QUnFGZVi2o3kSqpltIJhNpiT08yaUVY6kyqPbRFkaGBVGx13U8NBEwyTB5zaQv2WQ+lIDz9JoBF7egN2lGVJgqkDMNXzPibQZHWhjJvqt2iNEGTlcyfsop6hHfoehH58IhCrLnNigE7TCzY/dbijtCL5od7FdtPbLCVju/OPbuYMbDGZKHDphNuwS3YK+CUSD/j3qljHwl3LjZ9paY34QPhvAl5VWRNG4gzwPFyMMZ2Ob0M9wxnGtO++ehKRzOFwrnrqK20dZfF0G3TcdKskhsWQpmOo2KF24CE/kt1TvBDU=;/3QbfRJDqyWWftIoTsHHzg=="

@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Supreme Court rejects Texas' and Trump's bid to overturn election"
+    excerpt: "The Supreme Court rejected a bid from Texas' attorney general -- supported by President Donald Trump -- to block the ballots of millions of voters in battleground states that went in favor of President Elect Joe Biden.\n    \n"
+    publishedDateTime: 2020-12-12T00:36:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7oSFHecyeJM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/supreme-court-texas-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/supreme-court-texas-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211113802-restricted-trump-1207-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: GOP silence on Trump's false election claims recalls McCarthy era"
     excerpt: "The silence of congressional Republican leaders as President Donald Trump's unfounded claims of election fraud grow wilder and more venomous increasingly resembles the party's deference to Sen. Joe McCarthy during the worst excesses of his anti-Communist crusade in the early 1950s.\n    \n"
     publishedDateTime: 2020-12-01T12:09:18Z

@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's Health and Human Services pick has no public health experience"
+    excerpt: "President-elect Joe Biden surprised the health community when he announced his pick for Health and Human Services Secretary earlier this week, Xavier Becerra, the attorney general of California."
+    publishedDateTime: 2020-12-11T23:22:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ODX7-larJ7M/bidens-health-and-human-services-pick-has-no-public-health-experience"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a7c63ef-15e6-4f06-a916-cd19381e51fa/67cd9b27-0df9-4d26-be2c-4a8fc09c475f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Comer says investigation into Hunter Biden must go on unimpeded"
     excerpt: ""
     publishedDateTime: 2020-12-11T08:58:46Z
@@ -285,6 +301,22 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/205ccf99-784a-4268-b9b2-2a6afc8f8d5a/d6d9c0f6-398a-4bff-9fd4-cdcfd6541d4e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden's Health and Human Services pick has no public health experience"
+    excerpt: "President-elect Joe Biden surprised the health community when he announced his pick for Health and Human Services Secretary earlier this week, Xavier Becerra, the attorney general of California."
+    publishedDateTime: 2020-12-11T23:36:00Z
+    webUrl: "https://www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-health-and-human-services-pick-has-no-public-health-experience.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a7c63ef-15e6-4f06-a916-cd19381e51fa/67cd9b27-0df9-4d26-be2c-4a8fc09c475f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

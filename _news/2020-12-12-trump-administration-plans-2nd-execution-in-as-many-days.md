@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Trump administration plans 2nd execution in as many days"
-excerpt: "One day after the death of Brandon Bernard, the Trump administration plans to execute Alfred Bourgeois, in an unprecedented post-election series."
-publishedDateTime: 2020-12-11T16:35:00Z
-originalUrl: "https://www.latimes.com/world-nation/story/2020-12-11/trump-execution-alfred-bourgeois-brandon-bernard"
-webUrl: "https://www.latimes.com/world-nation/story/2020-12-11/trump-execution-alfred-bourgeois-brandon-bernard"
-ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-11/trump-execution-alfred-bourgeois-brandon-bernard?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-11/trump-execution-alfred-bourgeois-brandon-bernard?_amp=true"
+excerpt: "The Trump administration plans to continue its unprecedented series of post-election federal executions by putting to death a truck driver who abused his 2-year-old daughter for weeks, then killed her by slamming her head against a truck’s windows and dashboard."
+publishedDateTime: 2020-12-11T23:48:00Z
+originalUrl: "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html"
+webUrl: "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html"
+ampWebUrl: "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/post-tribune/ct-ptb-st-us-federal-executions-st-1212-20201211-4wkvnl2le5htzm5padpjhj7rga-story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/8ebe15d/2147483647/strip/true/crop/4533x2961+0+31/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc5%2F7b%2Fa38a8fa87b783482a2f068835cce%2F2cd0044021024a8c9b9315e006c2348a"
-    width: 320
-    height: 209
+  - url: "https://www.chicagotribune.com/resizer/84bt1DCWY4_ZuoPZGQVv0NyTcj0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YBKBEATKVQC45Z3WDABQXS4BAE.jpg"
+    width: 1200
+    height: 799
     isCached: true
 
 related:
@@ -284,6 +284,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ZieWZCb9TOeEKLlUN/qO4iuyM40FB9makcBJsF8QcPlYhR31QnLwxpMTQ6EE0h+6wcauYtD7SPCDQE5uNWyRlDA/QrnuSJ5KWMlesP7MZgfO6Hqd4gsj7rDgzW3XlWo4NB+boIaLuNK7LUMtBtZs6DFMK9jOYQZk/H4J2LH6S7OiYCkB/vThvtLalnigqvgPdAu1nGg8YvP6cpPcY5m3D9WCF6qGNppOfGFewi2mg9rBTUODnsSIybIcEcT5Ozzb0Mnd1OrLZOtbh/Oe79Ok8svqziLOEHrTDJxjzn+Ow40ONXBfVDBIgtP15b2P7kSlLotNwPwEy0SO/IxrP8iYw7VsIUVJrWDDIuCE43N07rmixHOkE8TSckdB0zkAp3855/iQ3YW8XZzReh7EHD0qOELHVbS1fBtk9ms1H78CxZQN020Yk3IBo0S0zJUFvJanLYBHc8iS9Fffmx/sS/E0eb9FqJNgYPm/mjp3zTX/QN0vTTKbdRzEORl187a7lgb8bmuMwIFWLBM/EfgCCbVBcA==;yqpm3UexGgWoVYXS+W4NEA=="
+secured: "rm1M0bLrtgq2LJd6GCP59tQ4eTX2mWFHdEBN8xiySOSbuOM5L07Ss0fltMHAbwB/AD+6u7oCGtOZViK1DNNTUqEKoCXbIaE9l/YVivQzNwsI6Dm1swSJ0MOKBblejm7euTBoO8X9FS4wpVq36IuylCUpiyM2vGbiDxeZjh1UZttYj+brOtfPya5eC9Zf35CE2SCE3t2NIpdTnGJkApkNaL1JJflzbGZ6k2BEqDW4mm6OVpFgSxdM+xkzJgiEF56QHKSzz/85wfdEitt0oVjVzUQLrGUjJf7SYcv76xa7Q7j7ngYlPZkSh7qj/rMtQNEQW3wd5XM71PyYa4RdkzJiJXfouT1SZ9WghVwzS6CPqI4=;NLXcPLdUK5L9dYMhrldaXA=="
 ---
 
