@@ -655,6 +655,22 @@ related:
         width: 763
         height: 545
         isCached: true
+  - title: "U.S. Supreme Court swiftly ends Trump-backed Texas bid to upend election results"
+    excerpt: "The U.S. Supreme Court on Friday rejected a long-shot lawsuit by Texas and backed by President Donald Trump seeking to throw out voting results in four states, dealing him a likely fatal blow in his quest to undo his election loss to President-elect Joe Biden."
+    publishedDateTime: 2020-12-12T07:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump/us-supreme-court-rejects-texas-lawsuit-and-trump-bid-to-undo-election-loss-idUSKBN28L2YY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L2YY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2YY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544304373&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB000"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump-Biden transition live updates: SCOTUS denies GOP effort to block Pa. results"
     excerpt: "Trump filed the lawsuit in Georgia Friday afternoon officially contesting the results of the election and requesting a do-over -- another in a series of long-shot legal bids that have so far met with stiff resistance from the state's Republican election officials."
     publishedDateTime: 2020-12-09T06:26:00Z
@@ -2198,6 +2214,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "3S0YRh2ZLyFhLgIj206jXKywcB4WZWBtM7YZcux5GghO1GrDvlL1h/zISmWlTsltslpbdwa6kSkTgi55TqnRQ7BDj9AvpOe9iWE3PoKTy+Fcx056arPIy3p3ntt5TwrczcDUN6zpVmJfvcGtApoWibyNmq/r/7vyYmsz+bMzTdPNzxI6CVE8wvxO2/J4Uj8o+IkkEZOCJnsGiZ7P6TnTa29uKsInaYbq0mD4rxjjbnAb4xF2/EY++5AcL8KXLDM/Xkabz1Q7fRscbgx8fbSXOMmGet/JJt4Tn+RmNPCNfvCVm21D7lHn9rL6M6c5cUOdtxqjqgG4rChP/qN+fMjkIzMn/rAMpqpX8Kmhe5biJec=;EBf9dJEZLjyMPCVnRw+H6A=="
+secured: "opc1jUL0dCRVcCZv+CpJVj3GRwJec76taChhxtrNYajVtNIi0dnkhRe71N8rBNwn7pxjbcakXx3gIHkVecX4IwihaNDMqP8sKwEqTpNV+/6NFhYNNarX98YexC38vWuy7TUq7pPFPjBIYUdZ/fZBHn+noqgtRi0xJpdTShZTdXyNBewhgBUh3PlHHWlblDHPWxParPZKfJv9ckHI9v7yiy7WK1aVSWJvbsl+Dz8kFer/+TvTgQ3ADIo0VHMReQKxKDufuN8R4gk2lXQio7Kjfx1SV2FrBKGgKXGNNbIeXeP3LgHjpG63groR11igpB8bnhZc3FGMLX2XTmSZV8yV7Ic4Am1pBKSdJ/Xb1KuM/BkzQ6mQJNVjAljVu7K5NfKBUp/kgJ46Gh3aw9eN2oRQvih2ebAjUXon678S2D41Nf7IdiDvlKq4Lwg+MnsuY7SCYs5v7k2eagznOQkWBZ+K5v6PSKdlcm0YB1hbWnNnHnAyFFssVfbRxE+aYWYhdPvy2rJ64WNXTXQre36vOw5bFQ==;QIgAuJ67YKR8mMVlI5mtQQ=="
 ---
 

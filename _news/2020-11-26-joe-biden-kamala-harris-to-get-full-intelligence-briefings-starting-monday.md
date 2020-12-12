@@ -1535,6 +1535,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump Pursues Appointing Special Counsel to Probe Election, Hunter Biden"
+    excerpt: "The president has expressed frustration with Attorney General William Barr as efforts to overturn the election have repeatedly failed."
+    publishedDateTime: 2020-12-12T08:46:00Z
+    webUrl: "https://www.wsj.com/articles/trump-pursues-appointing-special-counsel-to-probe-election-hunter-biden-11607744814"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pursues-appointing-special-counsel-to-probe-election-hunter-biden-11607744814"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pursues-appointing-special-counsel-to-probe-election-hunter-biden-11607744814"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 164
+    images:
+      - url: "https://images.wsj.net/im-271974/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden’s Team Pressures Trump Administration to Declare Him Election Winner"
     excerpt: "A standoff between Joe Biden and President Trump over the results of the election is complicating the president-elect’s ability to prepare for the White House."
     publishedDateTime: 2020-11-10T20:20:00Z

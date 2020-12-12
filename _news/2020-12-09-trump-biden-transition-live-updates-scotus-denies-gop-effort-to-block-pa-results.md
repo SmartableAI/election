@@ -655,6 +655,22 @@ related:
         width: 763
         height: 545
         isCached: true
+  - title: "U.S. Supreme Court swiftly ends Trump-backed Texas bid to upend election results"
+    excerpt: "The U.S. Supreme Court on Friday rejected a long-shot lawsuit by Texas and backed by President Donald Trump seeking to throw out voting results in four states, dealing him a likely fatal blow in his quest to undo his election loss to President-elect Joe Biden."
+    publishedDateTime: 2020-12-12T07:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump/us-supreme-court-rejects-texas-lawsuit-and-trump-bid-to-undo-election-loss-idUSKBN28L2YY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L2YY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2YY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544304373&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB000"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump sues in federal court to put Wisconsin lawmakers in charge of election outcome"
     excerpt: "President Donald Trump and his allies are bombarding state and federal judges across the country with lawsuits seeking to change the outcome of the presidential election — the latest in a Wisconsin federal court."
     publishedDateTime: 2020-12-03T18:51:00Z

@@ -671,6 +671,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump-Biden transition live updates: Biden vows 'no political influence' on vaccine"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 40 days. The U.S. Supreme Court late Friday officially put to rest a brazen eleventh-hour attempt by the state of Texas and Republican allies of President Donald Trump to throw out millions of votes in four states and overturn Democrat Joe Biden’s victory in the 2020 presidential election."
+    publishedDateTime: 2020-12-12T07:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-nominees-01-rtr-jc-201211_1607717218375_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump campaign files last-ditch lawsuit in attempt to overturn Biden win in Wisconsin"
     excerpt: "The suit, which legal experts said has little chance of prevailing, argues that elections officials improperly accepted more than 200,000 votes, but does not allege fraud."
     publishedDateTime: 2020-12-02T04:36:00Z

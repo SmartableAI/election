@@ -667,6 +667,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump-Biden transition live updates: Biden vows 'no political influence' on vaccine"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 40 days. The U.S. Supreme Court late Friday officially put to rest a brazen eleventh-hour attempt by the state of Texas and Republican allies of President Donald Trump to throw out millions of votes in four states and overturn Democrat Joe Biden’s victory in the 2020 presidential election."
+    publishedDateTime: 2020-12-12T07:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=74573672"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-nominees-01-rtr-jc-201211_1607717218375_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Wisconsin recount confirms Biden’s win over Trump, cementing the president’s failure to change the election results"
     excerpt: "The state’s two largest counties spent more than a week recounting ballots, but the final tally barely changed."
     publishedDateTime: 2020-11-29T16:47:00Z
@@ -1691,6 +1707,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "/lNEw5qfrfeDjLcFrIi1ToF8dirMNfvbSdVaGGBMg4+z7U3VyyXRU+2uSd5b7igkA+jQYLmWx4JFfHysgaaCEk9E5WVVu3SPH8YWKe7c7pKugHeY/RhxJNcmHgcUgSVDJni8S4rge28EUznWRVBOaI8hDIT/ediEkzcOuM8ay8pJeazYZQ1iq+vaoIE1m734/PHePCZZcSLEyf5rwGPZTOFSlHE8bycuILwqAL2f+JkyH/BUOjltYEkPUHU+3vrHVdOPP7j676af2W2Ypb8/5+G96V+0gCMBqrC20YMtPPnqXJafdWVo37IffXuM0rqhsY8iDkYi2vk3fswo60j3S1GaUH8aC5MaasIgD83Q2Ak=;oeTQXTahqvKGcoOgSlG4Pg=="
+secured: "119hU1CWTuh0MLEWzkN4CodBIPi2mgyG8txRu+u6QwTeiCi7RgJdE/wPiMo0D4Q7qS3AstXCOTwVuYghRN0PY+bHbBEGg5wCN63pwendZFobCT0tj38BCvXP4BQH4zQ1MssU21WioAN8Nm6G1YG+/wCqIZjTdKtCllPIDC7pSobtGeB84OTzgbEIgFd3by41RNozjj6OewReOKTZjv0C/nYURPD6mb75Dc34i46S6o4Rkuks5g0NQ5NRqZRtF5WUDBWsMdSQWQhVcT7YhL5WgFAh6IiqZsincVEmih6fXO2CBqHPkb6nhktZgqnBtdLt80uayVLFyepssso6WgS9NtaXwTSLxR9xVEG/LzoJtjYO6EjKxonkaa9dr9dqacMjlTza01xwmi2gqcwnV/62rXiZPdI5UV1N/dXPpsxj28q0QP0K6ISKDYm3Zo0dZFpvsDD15fXCnzPvJKEU/QyV0Ile4T9RXgHCHPUIkn9mE3OzLluJGdDNQv3JMnqPY0Qs96AqZICH323ZMvW8odeMxQ==;jlAFaqbvfWOsLP7k7RbHeg=="
 ---
 
