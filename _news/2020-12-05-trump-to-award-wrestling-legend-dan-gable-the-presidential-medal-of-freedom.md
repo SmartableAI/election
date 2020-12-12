@@ -126,6 +126,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Rep. Kevin Brady calls for probe into leak of President Trump's taxes"
+    excerpt: "We know, for the president, Rudy Giuliani and Chris Christie have been prepping the president and alternating playing roles acting as Joe Biden. As for the former vice president, he has been relying on his former chief of staff Ron Klain,"
+    publishedDateTime: 2020-12-12T14:39:00Z
+    webUrl: "https://www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes"
+    ampWebUrl: "https://www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/deb31fac-e5c1-42e8-9a09-7d27440b42f1/c69902d9-ac13-4eb5-8b7b-31c93af3ca0d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "EOhgFajEhz5CZNoHsMGliDZw5ok2Azhqb8Mt4yC1FeOSjb/uImg7On8BJs6rAzRUbg/4i/QNKRUj2xguEMZRDMVG8fkC1bkgN1ZbZUuO9ybFr+VGug74FN28/z4nev/+4lU0J7sLCaC2Pw0xh/Q/VH0S1g77VthaynkwzskYLP8hfiC3afVPZ3U8atIZg6P4Euu2quGaObjud7SSZ7Poj/17YP8ijGsX5uhAjtURVp/1Tp3AoXv88wsWMJNyDl5t6Oxf5Zpmkw42h0mB2Mqh1/rIcHfXNtpzwV0vtR3Pcs8zVKNjoQR98tEvvzc7kG4rp7lSTqGxCPRG79NUnFC9qWuNzzE3dtXxAmlxuMqAVP4=;zYhnXKTHrdevq3bPfqXWUQ=="
 ---

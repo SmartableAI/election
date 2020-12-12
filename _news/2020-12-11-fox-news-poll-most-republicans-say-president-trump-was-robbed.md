@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-president-trump-robbed-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-president-trump-robbed-poll.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://images.wsj.net/im-271478/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Rep. Kevin Brady calls for probe into leak of President Trump's taxes"
+    excerpt: "We know, for the president, Rudy Giuliani and Chris Christie have been prepping the president and alternating playing roles acting as Joe Biden. As for the former vice president, he has been relying on his former chief of staff Ron Klain,"
+    publishedDateTime: 2020-12-12T14:39:00Z
+    webUrl: "https://www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes"
+    ampWebUrl: "https://www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/rep-kevin-brady-calls-probe-into-leak-of-president-trumps-taxes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/deb31fac-e5c1-42e8-9a09-7d27440b42f1/c69902d9-ac13-4eb5-8b7b-31c93af3ca0d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump to award wrestling legend Dan Gable the Presidential Medal of Freedom"
     excerpt: "President Trump will award Olympic gold medalist and college wrestling legend Dan Gable the Presidential Medal of Freedom on Monday."

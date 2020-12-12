@@ -322,6 +322,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New Jersey representative asks Pelosi to 'refuse to seat' any House members who supported Trump's election lawsuits"
+    excerpt: "Rep. Bill Pascrell slammed lawmakers who backed lawsuits that sought to \"overturn the election and make Donald Trump an unelected dictator.\""
+    publishedDateTime: 2020-12-12T14:18:00Z
+    webUrl: "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5fd4c1859cf1420018d2f075?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fact check: Statistical analysis supporting pro-Trump Supreme Court case is 'ludicrous'"
     excerpt: "The purported statistical analysis wrongly assumes votes in the November election were randomly distributed across each state."
     publishedDateTime: 2020-12-10T21:48:00Z

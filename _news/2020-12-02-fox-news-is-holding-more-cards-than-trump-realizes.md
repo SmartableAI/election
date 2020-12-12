@@ -2138,6 +2138,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Will Texas And Other States Secede Over Donald Trump?"
+    excerpt: "After the Supreme Court threw out a lawsuit against the swing states which voted for Joe Biden in the 2020 Election, the Texas GOP threatened to secede from the United States."
+    publishedDateTime: 2020-12-12T14:41:00Z
+    webUrl: "https://www.ibtimes.com/will-texas-other-states-secede-over-donald-trump-3100731"
+    ampWebUrl: "https://www.ibtimes.com/will-texas-other-states-secede-over-donald-trump-3100731?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/will-texas-other-states-secede-over-donald-trump-3100731?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/06/24/texas-flag-stadium-41.JPG"
+        width: 810
+        height: 540
+        isCached: true
   - title: "Mike Pence rallies Peach State Republicans, says ‘election contests continue’ for Donald Trump"
     excerpt: "As our election contests continue here in Georgia and in courts across the country,” Pence vowed that the administration will “keep fighting until every legal vote is counted and every illegal vote is thrown out,"
     publishedDateTime: 2020-12-04T23:57:00Z

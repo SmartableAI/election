@@ -314,6 +314,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "New Jersey representative asks Pelosi to 'refuse to seat' any House members who supported Trump's election lawsuits"
+    excerpt: "Rep. Bill Pascrell slammed lawmakers who backed lawsuits that sought to \"overturn the election and make Donald Trump an unelected dictator.\""
+    publishedDateTime: 2020-12-12T14:18:00Z
+    webUrl: "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5fd4c1859cf1420018d2f075?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fact check: Statistical analysis supporting pro-Trump Supreme Court case is 'ludicrous'"
     excerpt: "The purported statistical analysis wrongly assumes votes in the November election were randomly distributed across each state."
     publishedDateTime: 2020-12-10T21:48:00Z
@@ -443,6 +459,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "lRxGVuhCEuOogJ8nB0Ev0TxVHUp/B8fVj6scM+TtXdFVdtY/jIZXBV+jIZoKGtAEK/+HxkX7TPgwgnsM0GapoDejrjXvm2amTs7XPdZHCXFHd+3KBsKp3zXfiZJSsnbVJG51Og31EfCbZ82EQt+9VIo0Bja+YP3PqVuQTeWNLlk6kbQlOgmmXRsnl4SXg1izOT5+shgjQbE814VEv8e3VA1HUjOzgyxVhsXC6E2UpiHEwWaX9uc8LJwzhe83z1WGZf4AFTPLXyuBwrjItUYNTK0ryHcmNhsTQ7W2YVp+npjjWkMPHpKIv9Xyvl4AYdtHpbu2QwdIiC952I1+CGo2CqYClZbpNN23r90B4fZPWdo=;EN1oF5JHFL/SWl/BVLDHEg=="
+secured: "OPaSBt5jWsAyegtyfoSX4KDtX9AWQnwQ8JYZlMru70RXLshqN0QrkiNwBdp08xPKGmmN1M6qgAm0U89QO+Tw839gUAW7QQZyFGEii8VpNKdNz2Ufrj43+JUFnCaSKbBatodv8yJ7NWKMvZGDZXhmw5N+pDnR2CpRiKN1pY/fxVkc+MUXT6uOSW8MAp7mkAXz+OeWoCEYmGckvYmnytJMNU23Nna+2HGDHm7mhrIMlMXxAozGJEJ2vpztC6eEVKau8gG23QE6HT1IQIx+Qs8R2zEeKAHo585qXlQ4Qp//whGgvbr+wpjEA+nbERLZ13tgK/Hd7Z3qh8CUpicGbVYhGIbvyi8rwhX5MogKi2c/s36pJ6xTJxa9Xnt97Z+LrACQqhaGSGQPfCOzrJXr+8N+PX8EnJW2tGa+8x2zEWCPt5qH4ep18ttz7y1L2xbq8PkNpnuLcMDa/fXjgh0qeoB2R4wnVXU47zzTX6gYpXbrWsuXtSNxBm+hEfv5wGDP97TgcDE/DJLbivKbeHQVssm+9g==;eFjPxc1HLDTorR5WM6yf0Q=="
 ---
 

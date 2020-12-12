@@ -710,6 +710,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden eyes Obama administration veterans for White House Cabinet"
+    excerpt: "President-elect Joe Biden is turning to three more Obama White House veterans to serve in his administration. If Mr. Biden's 14 Cabinet picks thus far are confirmed, they would represent the most diverse collection of men and women to ever advise the president."
+    publishedDateTime: 2020-12-12T14:09:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-eyes-obama-administration-veterans-for-white-house-cabinet/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/575b9bef-a8a2-4c40-abfc-ba1ab686b3c1/thumbnail/1200x630/57a1bf83906f0207a66f1f216cde191f/cbsn-fusion-biden-eyes-obama-administration-veterans-for-white-house-cabinet-thumbnail-607512-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden: US needs presidential leadership on virus"
     excerpt: "President-elect Joe Biden says that the American public should have confidence in a coronavirus vaccine that may soon begin to become available. Biden said combating the pandemic is \"serious business\" that requires \"presidential leadership."
     publishedDateTime: 2020-12-11T23:32:00Z

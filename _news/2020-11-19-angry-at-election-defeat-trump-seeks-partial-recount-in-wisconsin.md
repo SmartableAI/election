@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0G6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0G6"
 type: article
 quality: 140
-heat: 1420
+heat: 1440
 published: true
 
 provider:
@@ -526,6 +526,22 @@ related:
       - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Wisconsin Supreme Court meeting in rare Saturday session for Trump case"
+    excerpt: "The Wisconsin Supreme Court is set to meet in a rare weekend session Saturday to consider President Donald Trump's lawsuit seeking to overturn his loss to President-elect Joe Biden in the battleground state."
+    publishedDateTime: 2020-12-12T13:00:00Z
+    webUrl: "https://www.cbsnews.com/news/wisconsin-supreme-court-rare-saturday-session-trump-case-lawsuit-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/wisconsin-supreme-court-rare-saturday-session-trump-case-lawsuit-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/wisconsin-supreme-court-rare-saturday-session-trump-case-lawsuit-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/2b56e0bf-f9e0-4690-a72c-d97c32660076/thumbnail/1200x630/b327ca3c1837f36590efa25d7cf46877/gettyimages-1229697810.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
     excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."
