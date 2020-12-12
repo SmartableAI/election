@@ -527,6 +527,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Wisconsin Supreme Court in rare Saturday session for Trump election case"
+    excerpt: "The Wisconsin Supreme Court is set to meet in a rare weekend session Saturday to consider President Donald Trump’s lawsuit seeking to overturn his loss."
+    publishedDateTime: 2020-12-12T15:50:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-wisconsin-trump-election-lawsuit-20201212-6bfzlkpt7vamnkrwjagiovkflu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-wisconsin-trump-election-lawsuit-20201212-6bfzlkpt7vamnkrwjagiovkflu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-wisconsin-trump-election-lawsuit-20201212-6bfzlkpt7vamnkrwjagiovkflu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 139
+    images:
+      - url: "https://www.chicagotribune.com/resizer/BewfMCXLKrziB3j4fYM87l2PZtA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IEXZTJSZSXBN2B2QQJWSC3ZQKI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump sues Wisconsin governor, officials to try to reverse election results"
     excerpt: "President Donald Trump sued Wisconsin officials Tuesday in a last-ditch effort to reclaim a state he lost by about 20,700 votes."
     publishedDateTime: 2020-12-01T16:47:00Z
@@ -1702,6 +1718,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FCHA7NRXNEI6XFUZADJRD4J5FU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Live politics updates: Republican Wis. election official in says no evidence of fraud; Trump supporters protest in DC"
+    excerpt: "A Republican election official told Wisconsin legislators there is no credible evidence of widespread fraud; Trump backers rally in D.C. – updates."
+    publishedDateTime: 2020-12-12T16:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/12/live-politics-updates-donald-trump-joe-biden/6520470002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6520470002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6520470002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/2590db33eb99f305084c29985422bc6d845d2c97/c=430-0-3373-1663/local/-/media/2017/09/26/WIGroup/Milwaukee/636420419021309996-MJS-elections-4-hoffman.jpg-HACK.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
         isCached: true
   - title: "Live political updates: President Trump expected to spend Thanksgiving at the White House"
     excerpt: "President Donald Trump and the first lady will be spending Thanksgiving at the White House for the first time since he began his tenure as president instead of at his Mar-a-Lago club in Florida. It is uncertain whether the change in scenery is attributable to the rising number of coronavirus cases,"

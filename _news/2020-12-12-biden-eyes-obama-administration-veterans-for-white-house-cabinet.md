@@ -461,6 +461,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "As leaders fete Paris climate pact, Biden pledges to rejoin"
+    excerpt: "U.S. President-elect Joe Biden has pledged to rejoin the Paris climate accord on the first day of his presidency as world leaders staged a virtual gathering to celebrate the fifth anniversary of the i"
+    publishedDateTime: 2020-12-12T16:24:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689717"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689717"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689717"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_cb7149b326f24981be1ddc55e415ca3d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden transition advisers emerge as top contenders to run covid-19 response"
     excerpt: "As President-elect Joe Biden makes fighting the raging coronavirus his most urgent mission when he takes office next month, two figures already playing central roles in his transition are emerging as the most likely officials to preside over the new White House’s pandemic response."
     publishedDateTime: 2020-12-03T01:10:00Z
@@ -783,6 +799,6 @@ related:
         height: 308
         isCached: true
 
-secured: "Hh4JpHUVF5ET54Ay3xYEZgoj/SsBJ7iR/JAFuii3WIcTorWIqhL7t4sJoHDqCrhVatEKe2A5BBGn6W413JTM9tE7MUxlAEcJds+GkY1M4FK8eYNxCtqvtUPrX78ppZOCYFpMPdMWylyH3HBA/pcLHIknhCDW7jv9enDi72NWsGxKceNA1K4qLc3IOapC7EAn/AL1DtLSk1CcUYDsB6vkLDxSkh8HCfpmp7K4aQvhnz78YNeF/CaMY4GNLvBXJ/kmWokcoYUQOXBGI55DRcqrbW44DHJtpx+HeyGdY/tuod8abr9kqFaJG6wm1B8I5SDshXpTsEeI/QWngFc3GijHrKksff9KyU9PvUjMow6y+gU=;E2qxVWRdmFC9X9LTTYEtbA=="
+secured: "Z6iYRTIvMcn2c9bhySKUOJql5LaqUa0l3JpfvR0dMSgXeiXO234rp96r4ugge53NQ6lcU09KIZSY1rltuRutlo+o5c5esuDEjCe9N5VcK+ZaXuv/xmUsVB5d3FBgeyazDAynvWt6UCxDGiYu0EPK5isfzGGjo1nq9zIYzyOhP9zAWjXK9VC7HOAfxwsFgCwCjFOcE7nYCjwUXr1caLuy5JM6XICWS2HUcAhHKiWx/htQ7xy/+rSTe1XgCQRnAE0Lmzwk9Ka2IcDAUbr49UjejRHRNQF6/YyJrCgg8aPTpcjgBdaxfdEBYp9659Ay+znowZron2E1/pZ2bRE/cQm4zB2iRSvLOBFMuNKwOxV2pdLBi67hQjoci1Yq0Kb3V9dg1g7QX60nndwfeLf80xy6aaBkcRJN4kKNNJw5WVwp5CCyTGXhVTJh76BxsZQF4/tSLf3v4AMbW/lDw+WQvE3r/ASpTaqEg7LHgu5DHsieYCWxsSrvqgmGrNbyd9HQnmadeo5R7ni1bi7kbEf2FGQD7w==;MYK6wmkt0TbS53rqSro3RQ=="
 ---
 

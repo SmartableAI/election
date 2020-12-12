@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937"
 type: article
 quality: 135
-heat: 1095
+heat: 1115
 published: true
 
 provider:
@@ -444,6 +444,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_03b66442def44970a3cbd37ffc2e4338_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "As leaders fete Paris climate pact, Biden pledges to rejoin"
+    excerpt: "U.S. President-elect Joe Biden has pledged to rejoin the Paris climate accord on the first day of his presidency as world leaders staged a virtual gathering to celebrate the fifth anniversary of the i"
+    publishedDateTime: 2020-12-12T16:24:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689717"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689717"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/leaders-fete-paris-climate-pact-biden-pledges-rejoin-74689717"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_cb7149b326f24981be1ddc55e415ca3d_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

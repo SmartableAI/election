@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "31 iconic photos of Trump that will go down in history"
+    excerpt: "Take a trip down memory lane with some of the most wildly memorable images that define Trump's presidency."
+    publishedDateTime: 2020-12-12T13:06:00Z
+    webUrl: "https://www.businessinsider.com/best-donald-trump-pictures-presidency-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/best-donald-trump-pictures-presidency-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/best-donald-trump-pictures-presidency-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fce91eb037cbd0018614586?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Major Architects Group Will Stop Designing Death Chambers Amid Trump's Record-Breaking Executions"
     excerpt: "Convicted murderer Alfred Bourgeois was put to death on Friday, becoming the second man to be executed in two days."
     publishedDateTime: 2020-12-12T10:21:00Z
