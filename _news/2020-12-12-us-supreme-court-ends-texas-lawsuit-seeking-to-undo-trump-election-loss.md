@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L2YY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2YY"
 type: article
 quality: 139
-heat: 699
+heat: 739
 published: true
 
 provider:
@@ -378,6 +378,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Marine One buzzes Trump supporters rallying for president’s bid to stay in office in Washington"
+    excerpt: "Thousands of supporters of President Donald Trump returned to Washington on Saturday for rallies to back his desperate efforts to subvert the election."
+    publishedDateTime: 2020-12-12T18:41:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-election-20201212-z4zwtovupzhsppphzrlfhj3i3a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-election-20201212-z4zwtovupzhsppphzrlfhj3i3a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-election-20201212-z4zwtovupzhsppphzrlfhj3i3a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 113
+    images:
+      - url: "https://www.chicagotribune.com/resizer/y7ga4i1CsVpCfPlHb19ov71JEHo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3Y2N2TSGSHH6UQCPWLC5SSZHSY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump campaign committees spent $1.1 million at Trump properties in the last days of his losing campaign"
     excerpt: "President Trump’s campaign and its affiliated committees spent more than $1.1 million at Trump’s own properties in the last weeks of the 2020 campaign, continuing a pattern during his presidency."
     publishedDateTime: 2020-12-04T22:50:00Z
@@ -444,6 +460,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Analysis: Short Work by High Court of Trump's `Big One'"
+    excerpt: "The Supreme Court has turned aside a Texas-based lawsuit that sought to overturn the presidential election results, and not even Donald Trump’s three high court appointees were willing to rise to his defense."
+    publishedDateTime: 2020-12-12T18:31:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/analysis-short-work-by-high-court-of-trumps-big-one"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/analysis-short-work-by-high-court-of-trumps-big-one?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-12/analysis-short-work-by-high-court-of-trumps-big-one?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

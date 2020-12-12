@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kellyanne-conway-biden-and-harris-wo
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kellyanne-conway-biden-and-harris-won-2020-12?amp"
 type: article
 quality: 167
-heat: 2347
+heat: 2367
 published: true
 
 provider:
@@ -766,6 +766,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJHRDARZNII6XETWVYGKOJZJXY.jpg&w=1440"
         width: 1440
         height: 1018
+        isCached: true
+  - title: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin"
+    excerpt: "Federal judge rejects Trump campaign lawsuit seeking to overturn Joe Biden’s win in Wisconsin."
+    publishedDateTime: 2020-12-12T18:57:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/federal-judge-rejects-trump-campaign-lawsuit-seeking-overturn-74691256"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 129
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Trump’s unfinished border wall faces uncertain future after Biden pledge to freeze construction"
     excerpt: "President-elect Joe Biden has pledged to halt construction once in office, leaving Trump’s signature project in the lurch."

@@ -47,6 +47,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Twitter disables, then reactivates the like, share and reply buttons on some Trump tweets"
+    excerpt: "Twitter barred anyone from interacting with some tweets from President Trump on Saturday, disabling the like, reply and retweet features before later reactivating them. "
+    publishedDateTime: 2020-12-12T18:25:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7cZ1sL15UVI/twitter-disables-like-share-reply-button-some-trump-tweets"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-disables-like-share-reply-button-some-trump-tweets.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-disables-like-share-reply-button-some-trump-tweets.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20233560983367.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Twitter disables, then reactivates the like, share and reply buttons on some Trump tweets"
+    excerpt: "Twitter barred anyone from interacting with some tweets from President Trump on Saturday, disabling the like, reply and retweet features before later reactivating them."
+    publishedDateTime: 2020-12-12T18:38:00Z
+    webUrl: "https://www.foxnews.com/politics/twitter-disables-like-share-reply-button-some-trump-tweets"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-disables-like-share-reply-button-some-trump-tweets.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-disables-like-share-reply-button-some-trump-tweets.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20233560983367.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "H1EMHp0nHPPyYAYe62YEv5DDHdTzdz2bPWZ16zRwoIL0TRMG7xLanG7IknPxX3bz+I95TdO/PvxKffnlgpLOVuj6Mzj2heP1Zsymdjahrt1OYlo2gDyJcjdCCg3uL5xyVECGeofVekgFwmXQWxnuAnuu9mz2CxjMcIQAUndPEPTJaZ7tUuJ1v+IRJ/c9ysv+fDHJWi21WwjHlmLin562CMs5z/uOrXYEBQFI27ttFDGjwrHvWLCUo63n/9Xkm+vxqYE3W9VQqpG348uEins7Wrunt0LpMCH7N5Yb0xYOwXVNhJZ4ixgOpMcv+O5l5tv4ApelGsswsOR2uHSzdqwpfVulrkSmYKgLeizpLgrHdjI=;IdfdMycvQbgYBQzqlJQmCA=="
 ---

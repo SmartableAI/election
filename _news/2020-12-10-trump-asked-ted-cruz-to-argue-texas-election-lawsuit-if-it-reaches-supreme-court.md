@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
 type: article
 quality: 185
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210093404-texas-ag-ken-paxton-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Explaining the Supreme Court's ruling denying Trump and how Alito and Thomas didn't dissent"
+    excerpt: "The Supreme Court's order Friday tossing out Texas' attempt to void millions of votes in four states and help President Donald Trump capture a second term was clear and concise.\n    \n"
+    publishedDateTime: 2020-12-12T18:36:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nrF91q4SeJ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103134906-20201103-scotus-gfx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

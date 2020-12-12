@@ -207,6 +207,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "NY Gov. Cuomo among contenders for Biden attorney general"
+    excerpt: "New York Gov. Andrew Cuomo is one of several contenders under consideration by President-elect Joe Biden for the role of attorney general, a person with knowledge of the search process said Friday."
+    publishedDateTime: 2020-12-12T17:20:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0w1crn2Bhg8/cuomo-among-contenders-for-biden-attorney-general-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-among-contenders-for-biden-attorney-general-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-among-contenders-for-biden-attorney-general-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Cuomo-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "GOP Rep. Ken Buck calls for Hunter Biden special counsel in letter to Barr"
     excerpt: "EXCLUSIVE: Republican Rep. Ken Buck on Monday urged Attorney General William Barr to appoint a special counsel to investigate Hunter Biden's business dealings and a laptop purportedly belonging to him in order to ensure an investigation “free from political interference.”"
     publishedDateTime: 2020-12-07T19:36:08Z

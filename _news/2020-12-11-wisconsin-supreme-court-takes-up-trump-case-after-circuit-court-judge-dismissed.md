@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump supporters rally in DC after Supreme Court delivers president another defeat"
+    excerpt: "Backers of President Trump descended on Washington, D.C., Saturday in another sign of support for the president, who has come up short in his efforts to overturn the results of the 2020 presidential election. "
+    publishedDateTime: 2020-12-12T17:12:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhEwObghB88/trump-supporters-rally-dc-after-supreme-court-delivers-defeat-president"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-rally-dc-after-supreme-court-delivers-defeat-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-rally-dc-after-supreme-court-delivers-defeat-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Washington-Rally-Trump-REUTERS.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump touts Texas Supreme Court case as 'the big one,' says 'we will be intervening'"
     excerpt: "President Trump on Wednesday touted Texas' suit demanding the U.S. Supreme Court block the Electoral College votes of Georgia, Michigan, Pennsylvania and Wisconsin, calling it the \"big one.\""
     publishedDateTime: 2020-12-09T14:22:03Z

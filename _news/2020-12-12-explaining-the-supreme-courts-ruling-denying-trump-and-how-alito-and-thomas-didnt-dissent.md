@@ -1,0 +1,117 @@
+---
+category: news
+title: "Explaining the Supreme Court's ruling denying Trump and how Alito and Thomas didn't dissent"
+excerpt: "The Supreme Court's order Friday tossing out Texas' attempt to void millions of votes in four states and help President Donald Trump capture a second term was clear and concise.\n    \n"
+publishedDateTime: 2020-12-12T18:36:48Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nrF91q4SeJ8/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nrF91q4SeJ8/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
+type: article
+quality: 165
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103134906-20201103-scotus-gfx-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Trump asked Ted Cruz to argue Texas election lawsuit if it reaches Supreme Court"
+    excerpt: "President Donald Trump personally asked Republican Sen. Ted Cruz of Texas if he would argue a long-shot election lawsuit seeking to overturrn the election results in four battleground states, should the Supreme Court agree to take it up, two sources told CNN on Wednesday.\n    \n"
+    publishedDateTime: 2020-12-10T02:29:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HcIORmwVZHw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013140500-14-barrett-hearing-1013-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump asks Supreme Court to invalidate millions of votes in battleground states"
+    excerpt: "President Donald Trump asked the Supreme Court on Wednesday to block millions of votes from four battleground states that voted for President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2020-12-09T22:36:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mh_Ek74Hwd0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201208210108-trump-file-1113-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Texas attorney general taking Trump's voter fraud conspiracies to the Supreme Court"
+    excerpt: "Texas Attorney General Ken Paxton, who has fought in the courts for President Donald Trump's causes before, has emerged as one of the final defenders of the President's baseless claims of voter fraud in hopes of overturning the election.\n    \n"
+    publishedDateTime: 2020-12-10T19:20:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5R8RCnECLqM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210093404-texas-ag-ken-paxton-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's effort to overthrow democracy dead ends at Supreme Court but the damage is lasting"
+    excerpt: "President Donald Trump's effort to unravel democracy hit a dead end at the Supreme Court Friday night, capping five weeks in which he dragged the country along on his narcissistic quest to stay in power after President-elect Joe Biden overwhelmingly won the election.\n    \n"
+    publishedDateTime: 2020-12-12T05:30:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nx3U1r1h1AY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211133213-trump-axelrod-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden Transition Live Updates: Anticipation Growing for the Supreme Court to Act on Texas Election Suit"
+    excerpt: "The Electoral College votes for president will be cast Monday. The Justice Department’s inquiry into Hunter Biden may hang over Joe Biden as he assumes office."
+    publishedDateTime: 2020-12-11T14:30:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11transition-briefing-scotus/11transition-briefing-scotus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+
+secured: "G/O13gIfWRy0M+atU8XLufYCLvs4ExQwZrdYYvdzlFFU3DKd2kzGI6AJgLXZ9azs7yYOSC3oZsAIMHY8/F/GIzOzvmr0pwA6oqVbdMHSqj8RIlbG9tGVhJRnAw/AlMFySGsOrqZv7KZEG8SyVvbYTpfIx8M0OcdrxE+aQ0n1CCyinFyA9qCPUuedHghfxLL7PcEonhYySyvfsi0fPX48d9W7LzHFEKmM3F07G+tUjakgc/ounIKuyINMOexPMhSLvzkjbNIdYoTHF3GoYqkJSKBPEhV87iO4wgzK+M5b8Q+Dim1FgBVx9LzlQfh6cu/4MqgHIf11OxZsMRWRsbX9yP1oh76OgB3z2T5D3m6hxgI=;PeLvq7hrUlI7ywMWZl0Dhg=="
+---
+

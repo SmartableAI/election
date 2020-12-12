@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-hunter-biden-investigati
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-hunter-biden-investigation-voters-media.amp"
 type: article
 quality: 179
-heat: 619
+heat: 639
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a6837db-74e7-4137-9fec-d45f0b35bdab/64b1d66c-f5d4-4ec0-96ec-4e475773dedc/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "NY Gov. Cuomo among contenders for Biden attorney general"
+    excerpt: "New York Gov. Andrew Cuomo is one of several contenders under consideration by President-elect Joe Biden for the role of attorney general, a person with knowledge of the search process said Friday."
+    publishedDateTime: 2020-12-12T17:20:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0w1crn2Bhg8/cuomo-among-contenders-for-biden-attorney-general-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-among-contenders-for-biden-attorney-general-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-among-contenders-for-biden-attorney-general-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Cuomo-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Hawley: Joe Biden has questions to answer about federal probe into Hunter"
     excerpt: "In an interview on \"America's Newsroom,\" Sen. Josh Hawley, R-Mo., said President-elect Joe Biden had questions to answer about the federal investigation into his son Hunter's tax dealings and any U.S. Attorneys working on the case had to remain in their positions once Biden was inaugurated."

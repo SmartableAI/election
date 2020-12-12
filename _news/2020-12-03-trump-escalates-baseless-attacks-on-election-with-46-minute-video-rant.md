@@ -493,6 +493,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Pro-Trump groups march and pray to protest president's election loss"
+    excerpt: "Conservative groups alleging without evidence that President-elect Joe Biden stole the U.S. election gathered for protests on Saturday, including one in Washington featuring President Donald Trump's recently pardoned former national security adviser."
+    publishedDateTime: 2020-12-12T18:10:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-protests/pro-trump-groups-march-and-pray-to-protest-presidents-election-loss-idUSKBN28M0E5?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544344535&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB0B0"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Armed pro-Trump protesters gather outside Michigan elections chief's home"
     excerpt: "Jocelyn Benson says gathering in which bogus claims were made about electoral fraud was ‘unambiguous, loud and threatening’"
     publishedDateTime: 2020-12-07T14:45:00Z

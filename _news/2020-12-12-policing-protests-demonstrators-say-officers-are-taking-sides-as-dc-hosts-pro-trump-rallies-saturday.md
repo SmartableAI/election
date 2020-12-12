@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pro-Trump demonstrators gather Saturday in Washington"
+    excerpt: "Protesters who refuse to accept that President-elect Joe Biden won the election have begun arriving in Washington for what organizers have called a “March for Trump.” They are expected to fan out across the city Saturday,"
+    publishedDateTime: 2020-12-12T18:00:00Z
+    webUrl: "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZH6EKZR4SEI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Street closures planned Saturday in downtown Washington for pro-Trump rallies"
     excerpt: "The street closures will go into effect about 6 a.m. Saturday and will be enforced through the end of the day."
     publishedDateTime: 2020-12-09T22:46:00Z
@@ -62,6 +78,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/c9445b3e-4891-4b6d-8858-278174f9fa31-XXX_ILSPR_110720_PHOTO_Rally_03.jpg?auto=webp&crop=4533,2550,x0,y389&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Far-right protesters, counterdemonstrators plan to gather Saturday in D.C. amid pro-Trump rallies"
+    excerpt: "The events have been promoted by far-right media personalities, white nationalists and conspiracists — several of whom announced plans to attend. Counterdemonstrations organized by anti-fascist and anti-racism groups are being planned nearby."
+    publishedDateTime: 2020-11-13T04:48:00Z
+    webUrl: "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6HLV6YAYPMI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "With weeks left in office, the Trump administration is doing a 180-degree turn on a frustrating NATO ally"
+    excerpt: "Trump has avoided sanctioning Turkey for its purchase of Russia's S-400. With just weeks left in office, that appears to be changing."
+    publishedDateTime: 2020-12-10T23:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5fd29d01e00bce00188baa90?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "A/51H8s+tnBWMh/LUkDpU6k4zlq3YhoD5sXnwQCnVZkHv07wxbhoirVn1u1v8qkKgqEMHGO5WK+AanIp6G3Qz/8NHi9Q2AWuKUCqkcu7Qo67GI95ruR9RA3eITZfhykTGiF3+sw+lenaPxcm8fP7yWYKbMBCyx/0kh33fXL03eMvsMPV1fkthSPsk3LJ1N3tiFWsy6jxB2ZrOAVNZpSwcmQavbcyZbvCWlMcgzfvIxgX9dSCheLb5SHTsqj807Mj5KNztUhQUuVgs/auoLY261tVD/sXSS9sHP+8592RqON6QsybimSE9T0G+T8jNIIdBzGQkvKeB5+0szchDO9JnnAcMjYLs+E4dIujvUofcJE=;NVhpasYYODp6kUpM/r7TDA=="

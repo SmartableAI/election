@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/transportation/2020/12/09/street-clos
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/transportation/2020/12/09/street-closures-dc-protests/?outputType=amp"
 type: article
 quality: 122
-heat: 162
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pro-Trump demonstrators gather Saturday in Washington"
+    excerpt: "Protesters who refuse to accept that President-elect Joe Biden won the election have begun arriving in Washington for what organizers have called a “March for Trump.” They are expected to fan out across the city Saturday,"
+    publishedDateTime: 2020-12-12T18:00:00Z
+    webUrl: "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trump-dc-rally-maga/2020/12/11/8b5af818-3bdb-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZH6EKZR4SEI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump supporters plan rallies in Washington DC, experts warn extremists may attend"
     excerpt: "It's unclear how many people will go to rallies in support of President Trump in Washington, D.C., but experts warn right-wing extremists may attend."
     publishedDateTime: 2020-11-14T04:35:00Z
@@ -47,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Far-right protesters, counterdemonstrators plan to gather Saturday in D.C. amid pro-Trump rallies"
+    excerpt: "The events have been promoted by far-right media personalities, white nationalists and conspiracists — several of whom announced plans to attend. Counterdemonstrations organized by anti-fascist and anti-racism groups are being planned nearby."
+    publishedDateTime: 2020-11-13T04:48:00Z
+    webUrl: "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6HLV6YAYPMI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
   - title: "Policing protests: Demonstrators say officers are taking sides as D.C. hosts pro-Trump rallies Saturday"
     excerpt: "D.C. protesters who have spent months calling for criminal justice reform say they were outnumbered and violently attacked by Proud Boys and other far-right agitators while police stood by on Nov. 14."
     publishedDateTime: 2020-12-12T04:47:00Z
@@ -62,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R4M2OKRGY4I6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 950
+        isCached: true
+  - title: "With weeks left in office, the Trump administration is doing a 180-degree turn on a frustrating NATO ally"
+    excerpt: "Trump has avoided sanctioning Turkey for its purchase of Russia's S-400. With just weeks left in office, that appears to be changing."
+    publishedDateTime: 2020-12-10T23:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5fd29d01e00bce00188baa90?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "ezAAiRJJ/7+Jpi3CPu7FGs1GXZSq96JTXbtXn0fdozp/FmvHmc5e4H4iHpNe9M9k4L5CjRH3pp7YyBD7l2MQiwfvKaRMEdw8jQlvhs6GlFXDqsoQVUsZFXZgF2k7NX9AoQHBuwPB0Nq9K4RVn1RM/xhmR9CHeM9Czmy7xGfHUllldu0JMGxqUgx/NsDGCkKGpdHfhtzjnRjjbFAMC/+/Rb8U4uIrgNURqZMI4nb7FCcolWHRXNjJJOYdrW+lrMweSdwUtY8nS47xM2uc4vBqaJdJgq+jP+lqpAhN++guWKAX6nF0YOx5z3n3am5XS7LK+ENOUHLv8Y045PJ6C1qVgx9hbM05eQOhCNk5FolpzaM=;lNB0PrUixhkKjQKF5Ehd2Q=="

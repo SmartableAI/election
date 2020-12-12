@@ -495,6 +495,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Pro-Trump groups march and pray to protest president's election loss"
+    excerpt: "Conservative groups alleging without evidence that President-elect Joe Biden stole the U.S. election gathered for protests on Saturday, including one in Washington featuring President Donald Trump's recently pardoned former national security adviser."
+    publishedDateTime: 2020-12-12T18:10:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-protests/pro-trump-groups-march-and-pray-to-protest-presidents-election-loss-idUSKBN28M0E5?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544344535&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB0B0"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Armed pro-Trump protesters gather outside Michigan elections chief's home"
     excerpt: "Jocelyn Benson says gathering in which bogus claims were made about electoral fraud was ‘unambiguous, loud and threatening’"
     publishedDateTime: 2020-12-07T14:45:00Z
@@ -2305,6 +2321,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "GJ/3ah15qiX9U/pxZ8PAYdgLNwHeJBdXHRQ+n4PGKAyXlTFH4vIak6dsPl9KGGqU90a2M07kJpGZX+R2xJx6ZlOtyrk6O743op9Lu/DnMpH2UjvonlIgRN4Vv0vBD8zoCaB8CioYMrDdJySe0yj2O0ufKo0kG4m+HiMjQmMv3iKXaYUK/redo2rM94tuuxiB74r+gej4/6aXkmHp19tmP136GGSF4xRAEkYTZFzstWzls/eIUDl5WjesWt1QHXEcThWP6t1pmDPpGmL3J/y4vydHB1FALTP/UWvTL8t5E5x1ghE+yHAL+el1+6M3yPcQWYHG1Ev5OiZ72D7lb0ttNcDzz1MJFlpbQyVHPWj8sfI=;jsFohNnHFKQYhPGn8YAT7g=="
+secured: "n8D8qbKBmOvGJkgVfMPgaX8CA/UjYXAVRBnGoHUXhUeDmhaJP1f7Jm9rydwFGESgik3c1wyH4ENgiz56tvmh3l1RJODmhbyzPFS6BxVognxmxb+bp0htRo1ouR3gfbSQn+sxkrQqnrqPy9CfkDM8HohKT/adoKjxiFCG9n0uD56nMQL+UXGAAD1d3Wy769NoVwJ2GSWW5HPL6N0W5CgqO8qaYdNbmSKrJDnFSRzOd5NJeoyNZCAqrq6FIOGLu5op0hzsL3FQ+ywwySLXvaWYLyZwWaJL2EEJTXUptKNlJGuXiWxyvQo4XWTphVREXjGRPDpaHVLZznocbhvYXtAOE9XDMVNtsWTofNnjJ2d3KujMJ5V3s8gXsAsGCP5h7JHJL+2N7BJdF8N8hYtmU5WrEUvRpc+GFiGfG4qDAC5QNXCOT1R3ONBPSZQV0AgrE8BBkRLg5TEMVmzk1va8Hv3q/fdAHWO+p+/q7c9jUAh5Ya1lOORbZb4mGN/+VuluOr+mJ8QalpuG91y0r5LYyRf6Hg==;IANj0dYGtd684UPGpH5IDg=="
 ---
 

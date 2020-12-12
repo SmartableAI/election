@@ -46,22 +46,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "In Trying for a Diverse Administration, Biden Finds One Group’s Gain is Another’s Loss"
-    excerpt: "The pressure on the Democratic president-elect is intense, even as his efforts to ensure ethnic and gender diversity already go far beyond those of President Trump. And it’s coming from all sides."
-    publishedDateTime: 2020-12-12T16:31:00Z
-    webUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/politics/biden-administration-cabinet-advisers-diversity.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 127
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/12dc-cabinet1/11dc-cabinet1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "RzwG3ZdG9in2MdYspkAd22FWeuB5HxIBvBnNK+HfiUOPUTKc8F63VeriP4KIKG3FQI0KUC8oiMJIQp6jLhkYv0bBAAH/i+AyhDxj2YzINrS+RcCq6Zco9gO994j5zZ2JgbYmBJFA6olLTHlMxGEOaxk5yCsAKTGOWe3KLml+QaLw/LAvFX/RHm3iNW82XIHB/Y8UaMfaPR91YZMPDDI+bu4on0twAQvX8QGzygl1GWumEFx7yOOdmUsWWH1yery5ShbBvTYWbvoxdz0rFnSvv2uV9+3fenL8vXQZuThNIcgHsLuVcCaOdHZ9qnoHh5cccAQJCzlb4IxsqKtwTLilq4jYmyuvqFGAEQqLSjjfranEjPjcqm7m84PPmKeJXi5uKWt8vqNk2LZrMYtKETsyuusSbhddW0hGN73tcLynCWQNR0tIJx7YfG1eAbnUsZYy+r9ygjCiTIuHRGvbeDbdNR3WQWU5cuUj5RYeFLLb8gkhy14mzxiPs91OvybLh8AE2AhBe3PY/5O8BT0FzXELTw==;4iZ0XR0g5JyBrOiqrs2Xiw=="
 ---
