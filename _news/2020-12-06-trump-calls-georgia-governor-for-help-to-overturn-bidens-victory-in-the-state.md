@@ -224,6 +224,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump Castigates Barr for Not Publicly Disclosing Hunter Biden Investigation"
+    excerpt: "President Trump on Saturday excoriated Attorney General William P. Barr, castigating him on Twitter for not violating Justice Department policy to publicly reveal an investigation into President-Elect Joseph R."
+    publishedDateTime: 2020-12-12T20:40:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/us/politics/trump-barr-biden-investigation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/us/politics/trump-barr-biden-investigation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/politics/trump-barr-biden-investigation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 147
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/12/us/politics/12dc-trump/merlin_181147668_6fd8fd9b-f17f-4be1-9ffb-8d29242e5ac6-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "How Joe Biden’s Digital Team Tamed the MAGA Internet"
     excerpt: "The campaign’s empathetic digital strategy held up surprisingly well against President Trump’s passionate digital following."
     publishedDateTime: 2020-12-06T10:00:00Z

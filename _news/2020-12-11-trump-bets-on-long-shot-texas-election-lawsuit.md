@@ -192,6 +192,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump legal team loses federal case in Wisconsin, argues another in state's Supreme Court"
+    excerpt: "With the Trump legal team arguing a case before the Wisconsin Supreme Court Saturday seeking to have hundreds of thousands of ballots in two blue counties tossed, the president’s reelection effort saw a separate legal loss in federal district court."
+    publishedDateTime: 2020-12-12T20:20:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/75QnfdHY2Io/trump-legal-team-wisconsin-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-legal-team-wisconsin-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-legal-team-wisconsin-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347639088808.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Turley: Trump 'running out of runway' after Supreme Court rejects bid to toss Pa. mail-in ballots"
     excerpt: "George Washington University Law Professor Jonathan Turley said Tuesday that President Trump and his Republican allies are \"running out of runway\" after the Supreme Court denied their request to overturn Pennsylvania's election results."
     publishedDateTime: 2020-12-09T00:15:41Z
@@ -237,6 +253,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Trump-Barr-AP.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Violence erupts at Trump rally as thousands protest election in DC"
+    excerpt: "Violence erupted on the streets of Washington, DC, Saturday as thousands of President Trump’s most die-hard supporters swelled the nation’s capital for a second round of protests"
+    publishedDateTime: 2020-12-12T20:06:00Z
+    webUrl: "https://nypost.com/2020/12/12/violence-erupts-at-trump-rally-as-thousands-protest-election/"
+    ampWebUrl: "https://nypost.com/2020/12/12/violence-erupts-at-trump-rally-as-thousands-protest-election/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/12/violence-erupts-at-trump-rally-as-thousands-protest-election/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201212-trump-rally-dc5.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump lays out election-fraud case in online video: 'Bad things happened'"
     excerpt: "Trump says if he's right about election fraud, 'Biden can't be president' President Trump is once again charging that last month’s presidential election was rigged and rife with fraud. In an address posted on his Twitter and Facebook pages that the president described as possibly “the most important speech,"
@@ -345,6 +377,22 @@ related:
     quality: 130
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/AP20113664367822.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump legal team loses federal case in Wisconsin, argues another in state's Supreme Court"
+    excerpt: "With the Trump legal team arguing a case before the Wisconsin Supreme Court Saturday seeking to have hundreds of thousands of ballots in two blue counties tossed, the president’s reelection effort saw a separate legal loss in federal district court."
+    publishedDateTime: 2020-12-12T20:24:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-legal-team-wisconsin-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-legal-team-wisconsin-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-legal-team-wisconsin-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20347639088808.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

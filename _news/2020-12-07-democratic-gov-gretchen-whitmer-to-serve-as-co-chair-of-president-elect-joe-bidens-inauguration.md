@@ -319,6 +319,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hawley: Biden must pledge not to remove Hunter Biden investigators, to go under oath if needed"
+    excerpt: "Sen. Josh Hawley, R-Mo., is calling for President-elect Joe Biden to promise not ro remove investigators from the Hunter Biden case, and to answer questions under oath if needed, amid growing pressure from Republicans on Biden over his son’s financial and business dealings."
+    publishedDateTime: 2020-12-12T19:22:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3DbN5onkhFg/hawley-biden-hunter-biden-investigators"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-hunter-biden-investigators.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f6c2c04-9adb-4a48-9e69-b8d1fedfe5aa/8bfd9c7b-c905-49aa-ab42-e3a6d00a48a2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sarah Sanders says liberal media covered up for Hunter Biden during father's presidential campaign"
     excerpt: "Reacting on \"Fox & Friends\" to news that Hunter Biden's tax affairs are the subject of a federal investigation on Thursday, Fox News contributor Sarah Sanders said Thursday that liberal media outlets \"covered it up\" for him during his father's presidential campaign."
     publishedDateTime: 2020-12-10T15:05:27Z

@@ -687,6 +687,22 @@ related:
         width: 855
         height: 545
         isCached: true
+  - title: "Trump lashes out at Supreme Court, Barr as efforts to overturn election fizzle"
+    excerpt: "President Donald Trump lambasted the Supreme Court on Saturday for declining to take a case he hoped would overturn President-elect Joe Biden's election victory and called Attorney General William Barr a \"disappointment."
+    publishedDateTime: 2020-12-12T18:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN28M0T7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0T7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0T7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544354970&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB0F1"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump running out of time to solidify immigration agenda after U.S. election loss"
     excerpt: "President Donald Trump's administration is pushing to finalize new immigration restrictions before his term ends in January, according to three senior homeland security officials, a last-gasp effort in a policy area that was a central focus during his four years in office."
     publishedDateTime: 2020-12-03T20:14:00Z
@@ -750,6 +766,22 @@ related:
       - url: "https://s.abcnews.com/images/US/supreme-court-building-rtr-jc-200625_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "In challenging election defeat, Trump cements his control over the Republican Party"
+    excerpt: "From libertarians to moderates to far-right conservatives, Republican officials across the country are bending to the president’s will and displaying their loyalty as he undermines the peaceful transfer of power with baseless election challenges."
+    publishedDateTime: 2020-12-12T20:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-republicans-election/2020/12/12/9665976e-3bcb-11eb-9276-ae0ca72729be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-republicans-election/2020/12/12/9665976e-3bcb-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-republicans-election/2020/12/12/9665976e-3bcb-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TXMFKRB4TEI6XPDIS2XQ3KXHFA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump sues in federal court to put Wisconsin lawmakers in charge of election outcome"
     excerpt: "President Donald Trump and his allies are bombarding state and federal judges across the country with lawsuits seeking to change the outcome of the presidential election — the latest in a Wisconsin federal court."
@@ -1626,6 +1658,22 @@ related:
       - url: "https://media.npr.org/assets/img/2020/12/11/gettyimages-1219321528_wide-71667206678449b71ee3b4e9637e3163df10ddf5.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Republican officials have followed Trump along his dangerous and destructive path"
+    excerpt: "More than 100 House members wanted the Supreme Court to overturn the election results. Did they really believe the election was corrupted, or was it simply fear and blind loyalty?"
+    publishedDateTime: 2020-12-12T20:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/republican-officials-have-followed-trump-along-his-dangerous-and-destructive-path/2020/12/12/99d5c802-3bde-11eb-bc68-96af0daae728_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/republican-officials-have-followed-trump-along-his-dangerous-and-destructive-path/2020/12/12/99d5c802-3bde-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/republican-officials-have-followed-trump-along-his-dangerous-and-destructive-path/2020/12/12/99d5c802-3bde-11eb-bc68-96af0daae728_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TN7D5FR4RUI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 1080
         isCached: true
   - title: "UPDATE 2-U.S. Republicans balk as Trump uses defense bill for leverage on Big Tech"
     excerpt: "President Donald Trump's threat to veto a defense bill if it does not repeal legal protections for social media companies faced stiff bipartisan opposition on Wednesday, setting the stage for a confrontation with lawmakers scrambling to pass the massive bill by year-end."

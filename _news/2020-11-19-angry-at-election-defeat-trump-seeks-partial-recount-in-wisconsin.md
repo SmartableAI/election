@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0G6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0G6"
 type: article
 quality: 140
-heat: 1440
+heat: 1460
 published: true
 
 provider:
@@ -542,6 +542,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/2b56e0bf-f9e0-4690-a72c-d97c32660076/thumbnail/1200x630/b327ca3c1837f36590efa25d7cf46877/gettyimages-1229697810.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump loses one Wisconsin case while arguing another one"
+    excerpt: "As Trump loses an election lawsuit in federal court in Wisconsin, the state's high court hears another that one justice says “smacks of racism.”"
+    publishedDateTime: 2020-12-12T20:16:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/2257466/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2Fa7%2F70c4aa8f40cdb15585b4f9f9570a%2Fww1thumb.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
     excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."

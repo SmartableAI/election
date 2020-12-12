@@ -591,6 +591,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Thousands of Trump supporters rally in DC to protest election before Electoral College formalizes Biden's win"
+    excerpt: "As many as 15,000 Trump supporters are expected to gather Saturday to protest \"voter fraud\" and demand \"election integrity\" in the 2020 presidential election."
+    publishedDateTime: 2020-12-12T20:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/12/trump-march-brings-thousands-dc-ahead-electoral-college-vote/3882935001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3882935001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3882935001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/12/USAT/98fde875-f323-48b1-956e-5deb594da45d-XXX_USATODAY_444201_jmg_22534_1.JPG?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump-Biden transition live updates: Biden pitches 100 day mask-wearing campaign"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
     publishedDateTime: 2020-12-04T20:50:00Z
@@ -1393,11 +1409,11 @@ related:
         height: 532
         isCached: true
   - title: "Time Magazine Names Joe Biden and Kamala Harris Person of the Year"
-    excerpt: "Time magazine has named President-elect Joe Biden and Vice President-elect Kamala Harris its “Person of the Year.” Time’s editor-in-chief Edward Felsenthal says Biden and Harris won the honor for “changing the American story,"
+    excerpt: "Time Magazine on Thursday named President-elect Joe Biden and Vice President-elect Kamala Harris its Person of the Year. Earlier in the day, the magazine named the South Korean group BTS its 2020 Entertainer of the Year."
     publishedDateTime: 2020-12-11T04:11:00Z
-    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/"
-    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
+    webUrl: "https://www.nbcnewyork.com/news/local/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/local/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
     type: article
     provider:
       name: NBC New York

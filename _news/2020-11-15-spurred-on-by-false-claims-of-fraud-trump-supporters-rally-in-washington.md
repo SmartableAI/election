@@ -559,6 +559,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump loses one Wisconsin case while arguing another one"
+    excerpt: "As Trump loses an election lawsuit in federal court in Wisconsin, the state's high court hears another that one justice says “smacks of racism.”"
+    publishedDateTime: 2020-12-12T20:16:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-12/trump-loses-wisconsin-case-while-arguing-another-one?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/2257466/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2Fa7%2F70c4aa8f40cdb15585b4f9f9570a%2Fww1thumb.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump campaign would have to pay nearly $8 million for Wisconsin recount"
     excerpt: "President Donald Trump's campaign would have to pay nearly $8 million to start a recount in Wisconsin, a state he narrowly lost two weeks ago."
     publishedDateTime: 2020-11-17T11:57:00Z

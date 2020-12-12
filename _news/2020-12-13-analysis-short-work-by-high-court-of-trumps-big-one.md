@@ -249,6 +249,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Donald Trump handles coin-toss duty at Army-Navy game at West Point"
+    excerpt: "President Donald Trump made the trip to West Point, New York, for 121st Army-Navy football game and performed the coin toss in the pregame ceremony."
+    publishedDateTime: 2020-12-12T20:58:00Z
+    webUrl: "https://www.usatoday.com/story/sports/ncaaf/2020/12/12/donald-trump-handles-coin-toss-duty-army-navy-football/6522209002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6522209002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6522209002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/12/USAT/b6f579ec-014c-4265-b6dc-6f332ddc6823-armynavytrump.jpg?auto=webp&crop=2611,1469,x1477,y2053&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Watch Live: Trump does coin toss at Army-Navy Game"
+    excerpt: "Navy coin toss before the game on Saturday afternoon. The event begins at 3:00 p.m. EST. Watch the live video above."
+    publishedDateTime: 2020-12-12T20:06:00Z
+    webUrl: "https://thehill.com/video/in-the-news/529963-watch-live-trump-attends-army-navy-game-participates-in-coin-toss"
+    ampWebUrl: "https://thehill.com/video/in-the-news/529963-watch-live-trump-attends-army-navy-game-participates-in-coin-toss?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/529963-watch-live-trump-attends-army-navy-game-participates-in-coin-toss?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald1_12052020_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Donald Trump Jr.'s Hunting Trip Expected to Start As Rumors Swirl in Alaska"
     excerpt: "In February, a week-long $150,000 \"dream hunt\" was raffled off with the winner joining Trump Jr. and his son on a yacht traveling along the Tongass National Forest coastline in southeastern Alaska."
     publishedDateTime: 2020-12-10T16:49:00Z
@@ -470,6 +502,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Helicopter Buzzes Supporters Rallying in Washington"
+    excerpt: "Thousands of supporters of President Donald Trump have returned to Washington on Saturday for rallies to back his desperate efforts to subvert the election that he lost to Joe Biden."
+    publishedDateTime: 2020-12-12T19:25:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/trump-loyalists-converging-again-on-washington-over-election"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/trump-loyalists-converging-again-on-washington-over-election?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-12/trump-loyalists-converging-again-on-washington-over-election?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

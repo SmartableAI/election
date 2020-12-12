@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Time Magazine Names Joe Biden and Kamala Harris Person of the Year"
-excerpt: "Time magazine has named President-elect Joe Biden and Vice President-elect Kamala Harris its “Person of the Year.” Time’s editor-in-chief Edward Felsenthal says Biden and Harris won the honor for “changing the American story,"
+excerpt: "Time Magazine on Thursday named President-elect Joe Biden and Vice President-elect Kamala Harris its Person of the Year. Earlier in the day, the magazine named the South Korean group BTS its 2020 Entertainer of the Year."
 publishedDateTime: 2020-12-11T04:11:00Z
-originalUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/"
-webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/"
-ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
+originalUrl: "https://www.nbcnewyork.com/news/local/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/"
+webUrl: "https://www.nbcnewyork.com/news/local/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/"
+ampWebUrl: "https://www.nbcnewyork.com/news/local/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
 type: article
 quality: 90
 heat: -1
@@ -586,6 +586,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZD2DN3BZSQI6XKWZRFMSE4UAYQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Thousands of Trump supporters rally in DC to protest election before Electoral College formalizes Biden's win"
+    excerpt: "As many as 15,000 Trump supporters are expected to gather Saturday to protest \"voter fraud\" and demand \"election integrity\" in the 2020 presidential election."
+    publishedDateTime: 2020-12-12T20:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/12/trump-march-brings-thousands-dc-ahead-electoral-college-vote/3882935001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3882935001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3882935001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/12/USAT/98fde875-f323-48b1-956e-5deb594da45d-XXX_USATODAY_444201_jmg_22534_1.JPG?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump reportedly wants to hold a 2024 campaign event during Biden's inauguration"
     excerpt: "Donald Trump is strategizing ways to stay relevant amid incoming Biden administration, the Daily Beast reported, citing sources close to the president."
@@ -1728,6 +1744,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "pK3Njd9R2xZnz2KtEcjceC2dJkQ/KeyPX95CVWduQpG3JJqwAhuEMwe5oBJ+k4kWoQGpPyG9L5systiQrsV5gI3DME70RleuK8KEIjPZgJj0I27CjAfhXuFVXPO6/6ZIrEDtAWWEkhYTlTMO+84GkWQbzrFtG8k8hFC9ncwiCzOkTpsqDzBN55kOm/uG9OJGNIcrQDUQ6sQW80I6vqZOsnZu7lP8i2tFypWlNpUgbinj/sJi6gsWca+xg1ToFKWIwprmArZmvLe+coCXER8EXcuTJAUGCjvtDJ3NZrFIdiQw6Z/2vdgN5rOt44jkTga9eJ0R3CFxBcCfgQTB7MI0Mo90aLFz92jKsMEez8UdsG5HhaGYCeM8DAcji1deLIbd16flzKn0cuelIWPhmhHoM2ckK2WQNDvltXTXa97ZHbY8a3ZA6YKB7mJy+4AHbjH6mnPHoGmnlRNerpzbLPGiO26LjDx1V0fWRTG6KVJVZWsXXYtLjzsHZmuQqNKv49Kay6hlXTQOv4TSdLSg3zLGcw==;k1YAlpLOivueAzkY36LuvA=="
+secured: "ritx74KSEKPOmzqkKr1J+dTgzijyWa7jNqpRK51ngOfoy7ernH440zZgy/Rk3YHk+OBDxH+AtgCzs7rsaysR5PLh8aLKiRittBymASydccUzIkLgL7xUJZzb090hTzJ/SCmW0lIxdpQbbveuT6QJWvqkHOEamF93uIEXLEAKqhyNwHO/hCG+YX4yTQ3clhlnhcs7URiXN4gP/5vDkvI7omz3jW0mrKx45daPzJ/je6bxUSEWWEcO0qc8JgbcBQ69tNIELl/mk2/9vRr9y01ZFFhhzfuZyYfIoXI9C6MobhgK3QYcg9+E6+U4Cpjc+s77ltl6ziAQCPTJBM7cJYIabr0qRvB0kBUqOE8BrJLb88k=;FdBab8/w46Sb+gMnDzp+XQ=="
 ---
 
