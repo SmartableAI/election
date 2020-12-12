@@ -47,6 +47,15 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Exclusive-Trump Administration Moves Forward With $1 Billion Moroccan Arms Deal"
+    excerpt: "President Donald Trump's administration moved forward with $1 billion in sales of drones and precision-guided weapons to Morocco on Friday, sending a notice to Congress about the potential deals, according to sources familiar with the notification."
+    publishedDateTime: 2020-12-12T01:17:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-12-11/exclusive-trump-administration-moves-forward-on-weapons-sale-to-morocco"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 31
 
 secured: "8pmVfUd8bTNX3AgcC8hbHe8j502xNoX5KsOK7F4z4UzvXhimDqk1xQwx8gAi2UgsLa7gvKvkwNGWXBLKdaoNmVJfuswrOYr/+8jAzfPqfdf5+NnclO9jryYfR43Gj8MPlaGY7Lgkz/AFKBVzsJJoTqLZBw4RuxTRueA2CmYvecJz+JzRqxuMEQ4NdhC6+5v5toXkCzURZbGCllvGDF+xOtpqjs8vbRRZJreQOp8asmcsyCzqag1rk/MzJORBv9/SqAFbFdW0Fp9mP7Dt9OHQGU5ocGAwA9VwEFeLF/xLGNswsuNsISRQDGudNTtShPkVuT6+vxy8lrZDtyLDbrpvT8qPGenC6GC7YFmjGglTiew=;ANO5cNo8zMwT5jUb028rNQ=="
 ---

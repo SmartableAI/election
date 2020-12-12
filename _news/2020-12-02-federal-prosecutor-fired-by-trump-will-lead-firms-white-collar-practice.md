@@ -624,6 +624,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Supreme Court's clear message to President Trump: Stop"
+    excerpt: "During the past four years, President Donald Trump has challenged the integrity of the Supreme Court and tried to drag the justices into the legal muck with him.\n    \n"
+    publishedDateTime: 2020-12-12T02:00:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hj5c1ocQci4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/trump-turmoil-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/trump-turmoil-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104111205-20201104-scotus-split-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ex-Presidents fill leadership vacuum as Trump ignores worsening pandemic"
     excerpt: "This is what presidential leadership looks like.\n    \n"
     publishedDateTime: 2020-12-03T09:11:11Z
@@ -1583,6 +1599,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/11/us/politics/00kemp-trump1/00kemp-trump1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Democrats, and Even Some Republicans, Cheer as Justices Spurn Trump"
+    excerpt: "While a top legal expert exhaled that “Our institutions held,” the Texas Republican Party chairman suggested secession."
+    publishedDateTime: 2020-12-12T02:48:00Z
+    webUrl: "https://www.nytimes.com/2020/12/11/us/politics/trump-supreme-court-texas.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/politics/trump-supreme-court-texas.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/politics/trump-supreme-court-texas.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11dc-scotus-texas1-print/11dc-scotus-texas1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump Associates Said to Have Been Scrutinized in Suspected Pardon Scheme"
     excerpt: "A billionaire from San Francisco sought clemency for a psychologist convicted of monetary crimes. The Republican donor Elliott Broidy and a lawyer for Jared Kushner were enlisted."

@@ -971,6 +971,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Vice President Mike Pence will visit Georgia for a third time this month"
+    excerpt: "One of the nation's top Republicans will be back in Georgia for a third time this month. Vice President Mike Pence's weekly December appearances have included stops to rally support for Georgia's Republican U."
+    publishedDateTime: 2020-12-12T02:37:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/vice-president-mike-pence-georgia-third-time/85-e2510a6e-bb69-4ea6-92b5-8b238a106c78"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vice-president-mike-pence-georgia-third-time/85-e2510a6e-bb69-4ea6-92b5-8b238a106c78"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vice-president-mike-pence-georgia-third-time/85-e2510a6e-bb69-4ea6-92b5-8b238a106c78"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 74
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/ef695f65-dca2-48da-819f-fded464d7f91/ef695f65-dca2-48da-819f-fded464d7f91_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "VP Mike Pence stopping in Georgia to visit CDC, drum up GOP support ahead of runoffs"
     excerpt: "According to the White House, Pence is expected to visit the CDC in Atlanta before heading to Savannah for a campaign event."
     publishedDateTime: 2020-12-01T04:36:00Z

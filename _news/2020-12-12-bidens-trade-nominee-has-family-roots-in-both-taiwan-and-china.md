@@ -3,8 +3,8 @@ category: news
 title: "Biden's trade nominee has family roots in both Taiwan and China"
 excerpt: "Katherine Tai, nominated to become President-elect Joe Biden's top trade negotiator, has family roots in both China and Taiwan, she told reporters on Friday, answering questions bubbling in Asia since her nomination first surfaced earlier this week."
 publishedDateTime: 2020-12-12T00:08:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-tai/bidens-trade-nominee-has-family-roots-in-both-taiwan-and-china-idUSL1N2IR2OY"
-webUrl: "https://www.reuters.com/article/usa-biden-tai/bidens-trade-nominee-has-family-roots-in-both-taiwan-and-china-idUSL1N2IR2OY"
+originalUrl: "https://www.reuters.com/article/usa-biden-tai-idUSL1N2IR2OY"
+webUrl: "https://www.reuters.com/article/usa-biden-tai-idUSL1N2IR2OY"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IR2OY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IR2OY"
 type: article
@@ -85,6 +85,6 @@ related:
       domain: theguardian.com
     quality: 88
 
-secured: "fSmwXlbqqH17stwCa+5qX6C11V0UE9460QbrbnShDa3TG891KT3ClwcJh3He/8adOXf+Ex6xE+7WGvRVkrgZ7Ad7EgbAOKyNo/ks0MSUoye+/wZ/Ja3V2INO3t14i7PCsBSbOLEK6D2yMfjfjc/TLvhxh+nw78JpRYLtuSnFM5W2v2Z8Nx6Q2Ne5NhSLbfzUFAdl25IwTLP+S8+1BOsCO4AQIx9+yRDQYUcBRe8zFRFtGumu7WdDjbtHezVQBbFEzXmrll020mmd/RucE3mEO8W3nNvbApynKpHSMk103lbdAKchhL9Rrv89rHoRDqHq87goyok1MkT/DRechqg8TJDeevO+7kDcr89AVg8StDo=;dUdBLsSlnPXeoZi3haUHiw=="
+secured: "ui5Vawni4GtceNLjor3SWW3TdrsCgorgcW4UJB35N6RVzhQxRi26XJp64Vf5XZoDye7rwsQWaPisc/J0HLk4Kpdkv+UetX6rZu4K2LupgOM5PlxBzNkJzq4dy6YF0lszBPjLOr0WoRlnvpX7H829I3+QrS9dH+lN3z+Bv3gv0cPdkU5Ah2v03sMeooCcOhFMpLVxrLKp2T8EZ61l+no+4uAcbPd/19mrzZeoBFsKuFZag/83K4jkwenAmot0uLRC7ST70aC5LLGrXSdFu6wY6FqNIgDg4LD4oyUPkzEqPrN6lTZNt+g6CTJigf8qE+/BJ4dUimn9bQiha4esuIrGRJ2OyEqCYuS9UIQYaatWwwU=;UplUcLy4BCP82BVhOHSfPw=="
 ---
 

@@ -623,6 +623,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Supreme Court's clear message to President Trump: Stop"
+    excerpt: "During the past four years, President Donald Trump has challenged the integrity of the Supreme Court and tried to drag the justices into the legal muck with him.\n    \n"
+    publishedDateTime: 2020-12-12T02:00:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hj5c1ocQci4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/trump-turmoil-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/trump-turmoil-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104111205-20201104-scotus-split-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump ally lobbying fellow House Republicans to support Texas lawsuit seeking to overturn the election"
     excerpt: "Rep. Mike Johnson of Louisiana, a close ally of President Donald Trump, sent an email from a personal email account to every House Republican soliciting signatures for an amicus brief in the longshot Texas lawsuit seeking to invalidate electoral college votes from Georgia, Michigan, Pennsylvania and"
     publishedDateTime: 2020-12-09T18:41:13Z
@@ -1566,6 +1582,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/11/us/politics/00kemp-trump1/00kemp-trump1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Democrats, and Even Some Republicans, Cheer as Justices Spurn Trump"
+    excerpt: "While a top legal expert exhaled that “Our institutions held,” the Texas Republican Party chairman suggested secession."
+    publishedDateTime: 2020-12-12T02:48:00Z
+    webUrl: "https://www.nytimes.com/2020/12/11/us/politics/trump-supreme-court-texas.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/11/us/politics/trump-supreme-court-texas.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/11/us/politics/trump-supreme-court-texas.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11dc-scotus-texas1-print/11dc-scotus-texas1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."

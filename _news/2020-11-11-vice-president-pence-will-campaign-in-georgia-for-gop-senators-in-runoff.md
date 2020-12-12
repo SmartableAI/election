@@ -971,6 +971,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Vice President Mike Pence will visit Georgia for a third time this month"
+    excerpt: "One of the nation's top Republicans will be back in Georgia for a third time this month. Vice President Mike Pence's weekly December appearances have included stops to rally support for Georgia's Republican U."
+    publishedDateTime: 2020-12-12T02:37:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/vice-president-mike-pence-georgia-third-time/85-e2510a6e-bb69-4ea6-92b5-8b238a106c78"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vice-president-mike-pence-georgia-third-time/85-e2510a6e-bb69-4ea6-92b5-8b238a106c78"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vice-president-mike-pence-georgia-third-time/85-e2510a6e-bb69-4ea6-92b5-8b238a106c78"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 74
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/ef695f65-dca2-48da-819f-fded464d7f91/ef695f65-dca2-48da-819f-fded464d7f91_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Mike Pence comes to Georgia as calm before potential Trump storm"
     excerpt: "Vice President Mike Pence is trying to help Republicans project a unified front in two high-stakes Senate runoffs as he campaigns in Georgia a day ahead of President Donald Trump’s potentially volatile visit to the state that will determine which party controls the Senate in January."
     publishedDateTime: 2020-12-05T11:00:00Z

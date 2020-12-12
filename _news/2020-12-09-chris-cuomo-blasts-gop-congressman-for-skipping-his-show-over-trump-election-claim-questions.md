@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-jo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/12/08/chris-cuomo-dusty-johnson-trump-cnn/?outputType=amp"
 type: article
 quality: 129
-heat: 209
+heat: 189
 published: true
 
 provider:
@@ -77,17 +77,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "EXPLAINER: Baseless Claims Fill Trump-Backed Election Case"
-    excerpt: "The latest lawsuit seeking to subvert President Donald Trump’s loss makes a barrage of claims that don’t hold up under basic scrutiny, no matter how relentlessly Trump promotes the case and pushes lawmakers to support it."
-    publishedDateTime: 2020-12-11T20:08:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/explainer-baseless-claims-fill-trump-backed-election-case"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/explainer-baseless-claims-fill-trump-backed-election-case?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-11/explainer-baseless-claims-fill-trump-backed-election-case?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
 
 secured: "vZhCtgmGuvFCKip8qZ2IR3D8/07ynuMfwETWPnq7Bm5JST0CT9gRRAb4f6uTvamwX8Gdd5+xZeIJgIapFazQTjA+m6Pkc+gZOpavAJyBMYB1+YF4893BQ3aPj0vchqpi9bfKnDZzkuNkSjSwWsNbBe9rfzXq3dJgw2YGS36/UZdtsP4v903kvZPJs09gWaU9INKfAZGJMdRrevRZfsRmPU8JUdQ8b3oCCZc3KxdBx4ffAasnRftmhziOF0DRdQY1j0sYxZGxoRj3tE7bCEOpwWMI9w4axziOMkVz4mi6DI2PJMnInQzeEejvOonuwLYuQJs2Y06VojOLCJfUdORj4sTFfNohF4SQMitLtAe0jRo=;nPWbFZW7Fcm/wpdj6ql/Bg=="
 ---

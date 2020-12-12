@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-10/trump-announce
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-10/trump-announces-israel-morocco-to-normalize-relations?_amp=true"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Exclusive-Trump Administration Moves Forward With $1 Billion Moroccan Arms Deal"
+    excerpt: "President Donald Trump's administration moved forward with $1 billion in sales of drones and precision-guided weapons to Morocco on Friday, sending a notice to Congress about the potential deals, according to sources familiar with the notification."
+    publishedDateTime: 2020-12-12T01:17:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-12-11/exclusive-trump-administration-moves-forward-on-weapons-sale-to-morocco"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 31
 
 secured: "Rl5FozYTUxxVi9fCt48OJvdbD+Dsgaz9QtLlPkRhoA4aZe2YO5eCZhPvgmgEgvoKdFugCWRoKG8B63+GdSYAvu+BZdJ4/BVaP8rjB2NE6dNtCOKRJRwXlmjnBn/wn2eE0Mfaa7HUGv/wKhTeSmHTjrcssAhx/oOT+VnW45753NNJ2xZpKZKmQSe44k6yEhygIxQNkTQ94icrgNSAeDgsczD/9zSMnps2sjk7aURnwLVDnHmetFrjrG0haeo7RI3bXbQhtLJ4r0htrlSzvTeSRhrAjKWscCuUUXjAp+A9mYqCQepChUcx4wClSn6opNyX3OXF9NVSWl4mPEl7CpDUke5dyKKriXDHZ4lKeyJXh3We4pJIRUH8cP21wOEhTC444z+gxJ+9wnnnRjCNka6LsZ/ikluWdOZWL3cTYSWvw0iPGUDtt0vr67IISnX2eL2Kzu0Il1VX2pa5cZz0Lyv43SOG/cvvl20+3M3dQfnEd6+mTvqy/ZFykbWDz4s2SDAEqrOHwJglGVME5O0a2scjHA==;qfHLi5CC+z2LE7ogfdiNYw=="
 ---

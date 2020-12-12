@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Senate sends Trump defense bill he has vowed to veto"
-excerpt: "The Senate has approved a wide-ranging defense policy bill, sending it to President Donald Trump, despite his threat to veto it because the bill does not clamp down on big tech companies he claims wer"
-publishedDateTime: 2020-12-11T19:07:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/sen-rand-paul-delays-defense-bill-vote-troop-74666288"
-webUrl: "https://abcnews.go.com/Politics/wireStory/sen-rand-paul-delays-defense-bill-vote-troop-74666288"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/sen-rand-paul-delays-defense-bill-vote-troop-74666288"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/sen-rand-paul-delays-defense-bill-vote-troop-74666288"
+excerpt: "The Senate has approved a wide-ranging defense policy bill, sending it to President Donald Trump, despite his threat to veto it because the bill does not clamp down on big tech companies he claims were biased during the election."
+publishedDateTime: 2020-12-12T02:32:00Z
+originalUrl: "https://www.latimes.com/world-nation/story/2020-12-11/senate-sends-trump-defense-bill-he-has-vowed-to-veto"
+webUrl: "https://www.latimes.com/world-nation/story/2020-12-11/senate-sends-trump-defense-bill-he-has-vowed-to-veto"
+ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-11/senate-sends-trump-defense-bill-he-has-vowed-to-veto?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-11/senate-sends-trump-defense-bill-he-has-vowed-to-veto?_amp=true"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_bbc3c4a1ff934f42af69979375eb3cc9_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/1df2cf4/2147483647/strip/true/crop/3931x2567+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F16%2F76%2F5528bf91477eb439a532d4d450b1%2F644315-sd-elex2020-registar-at018.JPG"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -453,6 +453,22 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/as-he-rails-on-election-trump-largely-mum-on-toll-of-virus/2020/12/11/df3fb77c-3c01-11eb-aad9-8959227280c4_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/as-he-rails-on-election-trump-largely-mum-on-toll-of-virus/2020/12/11/df3fb77c-3c01-11eb-aad9-8959227280c4_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/as-he-rails-on-election-trump-largely-mum-on-toll-of-virus/2020/12/11/df3fb77c-3c01-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "EXPLAINER: Baseless claims fill Trump-backed election case"
+    excerpt: "The latest lawsuit seeking to subvert President Donald Trump’s loss makes a barrage of claims that don’t hold up under basic scrutiny, no matter how relentlessly Trump promotes the case and pushes law"
+    publishedDateTime: 2020-12-12T01:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/explainer-baseless-claims-fill-trump-backed-election-case/2020/12/11/0b1ffc14-3bec-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/explainer-baseless-claims-fill-trump-backed-election-case/2020/12/11/0b1ffc14-3bec-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/explainer-baseless-claims-fill-trump-backed-election-case/2020/12/11/0b1ffc14-3bec-11eb-aad9-8959227280c4_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -1134,6 +1150,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1684277/trump-raises-his-fist-rally.jpg"
         width: 2454
         height: 1633
+        isCached: true
+  - title: "Facing Electoral College vote, Trump continues election attack, but without risks to him, experts say"
+    excerpt: "Donald Trump's relentless assault on the presidential election stirs rage and ridicule but is unlikely to carry any real consequences for him."
+    publishedDateTime: 2020-12-12T01:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/11/electoral-college-vote-trump-legal-attacks-little-risk/3896519001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3896519001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3896519001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/12a3f01d-8a50-4f75-9feb-46d8d3735f10-AP_US_Israel_Morocco.jpg?auto=webp&crop=4165,2343,x0,y211&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Senate sends defense bill to Trump's desk with veto-proof majority"
     excerpt: "The Senate sent a $740.5 billion defense bill to President Donald Trump's desk with a veto-proof majority Friday afternoon, but the fight over the bill may just be getting started. Both the House and the Senate have signed off on the proposal which,"
@@ -2134,6 +2166,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "E1/FhDpB+zLXQrMd4P1vx0pIu9HEBK696z2t59k1DwGt0hPc8JW/VzXWGzUq1qmF0lZotBCX2Gywm1WQSuAMbSFX63s7reyOtvXZTZa66JLPxZ9q4ekzgnXvoKe6VwutwkYy+eQEWcZbyNo9qGn0gEUkJdQqw1J9bOXi4Um2QlWtWDIMwBJGN8NR4S8NIzBKDelwwq5vfJFmJV2IqMVGmmJ9rm9Q+hV+gfOiWD24QZ5fMlF6o+RM8XXIl0AvkhX3XHsoSwlA+E+ojeCDJkXKHS6/lbd4ZSC2796N4Fw8M5x8j6ptImxu28qadRMMhqqm3yZ75+AxuDpbsjj7fgWfL8zSaNb9ji8+w2X+U+iRSCU=;rEsoTbQh1K4KCJOp16kW6w=="
+secured: "j3P5NZ8hNNHefaWx1HxSmp7F/jzegRIdkO5XpBxUIDmqQ9ACKFLhQTLwl9v1p+R7HBJtC9UWu918hPImOkmOXA/FUcmPe0BQKa4juqa5SjH17cLyeLXDnX1IizuJdd6kYPziZuXTio8y8QYFXLP9qttWmEi69qFux07R0tByGPbSBOO1/QgUEourYbgGebRLtb/kuS43zumjO6c+uy0VCh1UUeuNE1ifL9xydBijy90WckFwYyhjwI26RXeygNadCX0qJwQr4bquSiJtrpk3DrGrazUZmxEzi5BV8t5QVPl4wzun9qMZMwaqlO9RYqshHAgwZTMTSPxDHfT4DR3erXBDLh05MJYbGG+3javQZE0=;k9GnYR5GndFWvhX1iuzSrA=="
 ---
 

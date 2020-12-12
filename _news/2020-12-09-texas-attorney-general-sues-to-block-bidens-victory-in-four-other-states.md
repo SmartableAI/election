@@ -445,6 +445,22 @@ related:
         width: 802
         height: 545
         isCached: true
+  - title: "Supreme Court rejects Republican attack on Biden victory"
+    excerpt: "The Supreme Court has rejected a lawsuit backed by President Donald Trump to overturn Joe Biden’s election victory, ending a desperate attempt to get legal issues rejected by state and federal judges"
+    publishedDateTime: 2020-12-12T02:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/hundreds-gop-members-sign-texas-led-election-lawsuit-74666427"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/hundreds-gop-members-sign-texas-led-election-lawsuit-74666427"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/hundreds-gop-members-sign-texas-led-election-lawsuit-74666427"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_03b66442def44970a3cbd37ffc2e4338_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden transition advisers emerge as top contenders to run covid-19 response"
     excerpt: "As President-elect Joe Biden makes fighting the raging coronavirus his most urgent mission when he takes office next month, two figures already playing central roles in his transition are emerging as the most likely officials to preside over the new White House’s pandemic response."
     publishedDateTime: 2020-12-03T01:10:00Z
@@ -719,6 +735,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2048cb74-f8c1-4830-9fa9-efdd790a344c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Supreme Court rejects GOP attack on Biden victory"
+    excerpt: "The U.S. Supreme Court has rejected a lawsuit backed by President Donald Trump to overturn Joe Biden's election victory, ending Trump's attempt to get legal issues rejected by other judges before the high court."
+    publishedDateTime: 2020-12-12T02:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/12/supreme-court-rejects-gop-attack-biden-victory/6516795002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f116925e-7480-48f3-a2fa-029f1b76a88c_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

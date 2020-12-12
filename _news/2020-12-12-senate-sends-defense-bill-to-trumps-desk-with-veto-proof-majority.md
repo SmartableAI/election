@@ -463,6 +463,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "EXPLAINER: Baseless claims fill Trump-backed election case"
+    excerpt: "The latest lawsuit seeking to subvert President Donald Trump’s loss makes a barrage of claims that don’t hold up under basic scrutiny, no matter how relentlessly Trump promotes the case and pushes law"
+    publishedDateTime: 2020-12-12T01:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/explainer-baseless-claims-fill-trump-backed-election-case/2020/12/11/0b1ffc14-3bec-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/explainer-baseless-claims-fill-trump-backed-election-case/2020/12/11/0b1ffc14-3bec-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/explainer-baseless-claims-fill-trump-backed-election-case/2020/12/11/0b1ffc14-3bec-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Armed pro-Trump protesters gather outside Michigan elections chief's home"
     excerpt: "Jocelyn Benson says gathering in which bogus claims were made about electoral fraud was ‘unambiguous, loud and threatening’"
     publishedDateTime: 2020-12-07T14:45:00Z
@@ -1135,21 +1151,37 @@ related:
         width: 2454
         height: 1633
         isCached: true
-  - title: "Senate sends Trump defense bill he has vowed to veto"
-    excerpt: "The Senate has approved a wide-ranging defense policy bill, sending it to President Donald Trump, despite his threat to veto it because the bill does not clamp down on big tech companies he claims wer"
-    publishedDateTime: 2020-12-11T19:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/sen-rand-paul-delays-defense-bill-vote-troop-74666288"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/sen-rand-paul-delays-defense-bill-vote-troop-74666288"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/sen-rand-paul-delays-defense-bill-vote-troop-74666288"
+  - title: "Facing Electoral College vote, Trump continues election attack, but without risks to him, experts say"
+    excerpt: "Donald Trump's relentless assault on the presidential election stirs rage and ridicule but is unlikely to carry any real consequences for him."
+    publishedDateTime: 2020-12-12T01:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/11/electoral-college-vote-trump-legal-attacks-little-risk/3896519001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3896519001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3896519001"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: USA Today
+      domain: usatoday.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_bbc3c4a1ff934f42af69979375eb3cc9_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/12a3f01d-8a50-4f75-9feb-46d8d3735f10-AP_US_Israel_Morocco.jpg?auto=webp&crop=4165,2343,x0,y211&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Senate sends Trump defense bill he has vowed to veto"
+    excerpt: "The Senate has approved a wide-ranging defense policy bill, sending it to President Donald Trump, despite his threat to veto it because the bill does not clamp down on big tech companies he claims were biased during the election."
+    publishedDateTime: 2020-12-12T02:32:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-11/senate-sends-trump-defense-bill-he-has-vowed-to-veto"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-11/senate-sends-trump-defense-bill-he-has-vowed-to-veto?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-11/senate-sends-trump-defense-bill-he-has-vowed-to-veto?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1df2cf4/2147483647/strip/true/crop/3931x2567+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F16%2F76%2F5528bf91477eb439a532d4d450b1%2F644315-sd-elex2020-registar-at018.JPG"
+        width: 320
+        height: 209
         isCached: true
   - title: "Trump returns to court in Wisconsin as time running out"
     excerpt: "President Donald Trump’s campaign returns to a Wisconsin court to argue for the state’s election results to be overturned"
@@ -2134,6 +2166,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "n5awnZ1cFplxPVcR1qs5YlL11kgiVC15SEfAi5ypBvfIXt3a0XlYY8QHfVqZ3xv2j4vA0jP7+ly8x8wEbMCOyyu3MnjQU0n1fbSHya7HYvBx0dXzYeomi+t6s8DcTuRyEMZ7f6S3/4vH2L6rJV+mzBXLHjimr1as6YiBC+o/bIXyumkmlfwaupVxzXySffx6GGZrlouHYeR2k+cAfZg6IWsejwxNz0Wx3CoC0cAZs/l69WuQWhapVrPc1wSanCmVClD8/q7nffs717uh56Qd3bTq3+vl6CHFmvnEefLAbVqtXVWdf+auzgeAhqqJfYHK9UU03qBmnxhmLgZj2HdWr6yzdW95J8qOP6e0/Da6SoI=;4GG3dJyhPjraFA9cWEYrZw=="
+secured: "xZHoijaBpHz1VoW8L8VkFeYeTco7KIVZMbX7urvHpFL3CDIHCu6Nz+hRcFUAX8OAd5G/WWGCM+v4HcK0kEM3w/mA1XpyB487AozLkvFsfF7KCygUm6zgv1Uyth2gUInmNI5GXAyDlrGlini6chv2ZAsVYeL/unzk5boie0hG69dL/63jS+3bEtrLSgwS+CHynabFpfqT+RMDaoopP56vObv8+nQu1QvO/zaVEOBS+f6oC73WUp8ewoOhJOACdx4pf8ZrPvfkH1DLPK6AjhsaWjjses7gqXn423NWmeVeait1vOQunpb/xqJw6Ilr0HCaG7M+hhNbtV/PvEy9V4rPM3FQT1ZFcjAwkRWlmBfOAD24JcR8QA33paxXUWbhOASuqUNqnpWafP7415IBJOEvmC2yxjvpDXEwqC/KFS8P6MOOYwpb7g4ozmBOPm8yjm/WIvEnZHbv/7wH8k/XzB+LzvmRtYK+2AMgVj/nWPbNC9vRrj/noh3NMueqSi0RdDJ9gAlHCOqRcXM/Wl/m4ez20g==;vJZkQYJZgDWW0/4sifZK1Q=="
 ---
 

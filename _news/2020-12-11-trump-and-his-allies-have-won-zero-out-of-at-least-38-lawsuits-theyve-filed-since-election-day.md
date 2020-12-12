@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-campaign-lawsuits-election-res
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11?amp"
 type: article
 quality: 128
-heat: 448
+heat: 468
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/84bt1DCWY4_ZuoPZGQVv0NyTcj0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YBKBEATKVQC45Z3WDABQXS4BAE.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Trump administration puts second man to death in two days"
+    excerpt: "Alfred Bourgeois’s IQ put him in the intellectually disabled category, which should have barred execution, lawyers say"
+    publishedDateTime: 2020-12-12T02:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/11/federal-execution-alfred-bourgeois-trump-administration"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/11/federal-execution-alfred-bourgeois-trump-administration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/11/federal-execution-alfred-bourgeois-trump-administration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/954061e895d3e4fa4f8a2e62a21313c7ef5180a6/0_321_3505_2103/master/3505.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84ea5536d356d62e70ab576b1f6c6ec5"
+        width: 600
+        height: 360
         isCached: true
   - title: "'The people have spoken': Federal judge rejects ex-Trump attorney Sidney Powell's Michigan election lawsuit"
     excerpt: "The judge said the court was being asked \"to ignore the will of millions of voters. This the Court cannot, and will not, do. The people have spoken.\""

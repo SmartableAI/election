@@ -544,6 +544,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Mr. Biden should reverse the Trump administration’s harmful immigration changes"
+    excerpt: "President Trump is hastily lengthening the already difficult citizenship test, which has implications for the United States and its world standing. What can only be perceived as a thinly veiled attempt to further “tighten” border security is,"
+    publishedDateTime: 2020-12-12T02:41:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-should-reverse-the-trump-administrations-harmful-immigration-changes/2020/12/11/26805528-3a3c-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-should-reverse-the-trump-administrations-harmful-immigration-changes/2020/12/11/26805528-3a3c-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-should-reverse-the-trump-administrations-harmful-immigration-changes/2020/12/11/26805528-3a3c-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 136
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZD2DN3BZSQI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump reportedly wants to hold a 2024 campaign event during Biden's inauguration"
     excerpt: "Donald Trump is strategizing ways to stay relevant amid incoming Biden administration, the Daily Beast reported, citing sources close to the president."
     publishedDateTime: 2020-11-28T16:48:00Z
@@ -1581,6 +1597,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joe Biden and Kamala Harris Jointly Named Time's 'Person of the Year'"
+    excerpt: "Democratic presidential candidate and former Vice President Joe Biden and U.S. Senator and Democratic candidate for Vice President Kamala Harris celebrate outside the"
+    publishedDateTime: 2020-12-12T01:44:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Alert: Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump"
     excerpt: "Wisconsin Gov. Tony Evers signs certification of Joe Biden's win ahead of promised lawsuit from President Donald Trump."
     publishedDateTime: 2020-11-30T23:16:00Z

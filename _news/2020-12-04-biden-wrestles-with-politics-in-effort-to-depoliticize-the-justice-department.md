@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-s
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html"
 type: article
 quality: 171
-heat: 251
+heat: 271
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130145456-biden-1125-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden’s Cabinet picks give Kamala an edge in 2024"
+    excerpt: "Biden has opted for seasoned technocrats over ambitious pols for key jobs, denying potential political rivals to Harris a political springboard."
+    publishedDateTime: 2020-12-12T02:58:00Z
+    webUrl: "https://www.politico.com/news/2020/12/11/biden-cabinet-kamala-2024-444482"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/24/67/10b110394fbaa06752f3cd58206d/gettyimages-1284977949-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Wikipedia page for Biden's new Covid czar scrubbed of politically damaging material"
     excerpt: "A Democratic consulting firm made numerous changes to Jeff Zients' page as he became a more important figure on Biden’s team this summer and fall."
