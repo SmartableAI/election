@@ -47,6 +47,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Coronavirus vaccine, pro-Trump DC rally, Army-Navy game: 5 things to know this weekend"
+    excerpt: "CDC advisors meet to review data on Pfizer and BioNTech's COVID vaccine, Trump supporters plan for DC rally and more things to start your weekend."
+    publishedDateTime: 2020-12-12T10:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/12/12/coronavirus-vaccine-army-navy-president-trump-rally-brexit/3872269001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3872269001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3872269001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/31dda42b-429a-49d4-9149-e586d64a933f-USATSI_15294432.jpg?auto=webp&crop=3499,1969,x0,y145&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Most US voters don't want Trump to run in 2024 and 42% say he is 'one of the worst presidents' ever, Fox News poll finds"
+    excerpt: "Voters disapprove of President Trump's handling of COVID-19, immigration, and healthcare. When it comes to economics, Trump is viewed more positively."
+    publishedDateTime: 2020-12-12T10:29:00Z
+    webUrl: "https://www.businessinsider.com/42-trump-one-of-worst-presidents-ever-new-poll-finds-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/42-trump-one-of-worst-presidents-ever-new-poll-finds-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/42-trump-one-of-worst-presidents-ever-new-poll-finds-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fd490e39cf1420018d2f063?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "JgIbilz+fB7AHcGLS8I7tQZirdH/+haKSAe8MSyzfQ3cIX+UALWfxg5/CnpYaGmg/yxwoOtS/WkwzGyEy3tYYz+5UExtNLpaRsbW0HKTwJa47sZpYRSp1RYVYLYngdS9N7Ez1k23hWBGIsCPYlMMSCYuaSuvgOVp0Eo8QG3Ozu1lIZyueRxH0vUyVKFSKYjgjFi3+A6/NpH+PuPZqG2lWQviIxVOkmMd+7osv7jFftX8bPN5/ZM1odlFk1PfBYEBr2MStY+wkNJIeRG5g/dqgi1Ex3fCKR170bwzecLHwcImAEmERhLxUHyCqINqamqDQEpEt8TZSb/tX7XRYlKwG+LzJqdI90oMluZ0TQ6ZKHs=;jxCTRi6YlM/rKKKXXcUYXQ=="
 ---

@@ -2,21 +2,21 @@
 category: news
 title: "Wisconsin Supreme Court in Saturday session for Trump case"
 excerpt: "The Wisconsin Supreme Court is meeting in a rare weekend session to consider President Donald Trump’s lawsuit seeking to overturn his loss to Democrat Joe Biden in the battleground state"
-publishedDateTime: 2020-12-12T04:48:00Z
-originalUrl: "https://www.washingtonpost.com/national/wisconsin-supreme-court-in-saturday-session-for-trump-case/2020/12/11/1fb1af04-3c34-11eb-aad9-8959227280c4_story.html"
-webUrl: "https://www.washingtonpost.com/national/wisconsin-supreme-court-in-saturday-session-for-trump-case/2020/12/11/1fb1af04-3c34-11eb-aad9-8959227280c4_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/wisconsin-supreme-court-in-saturday-session-for-trump-case/2020/12/11/1fb1af04-3c34-11eb-aad9-8959227280c4_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/wisconsin-supreme-court-in-saturday-session-for-trump-case/2020/12/11/1fb1af04-3c34-11eb-aad9-8959227280c4_story.html?outputType=amp"
+publishedDateTime: 2020-12-12T09:40:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/wisconsin-supreme-court-saturday-session-trump-case-74685438"
+webUrl: "https://abcnews.go.com/Politics/wireStory/wisconsin-supreme-court-saturday-session-trump-case-74685438"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsin-supreme-court-saturday-session-trump-case-74685438"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsin-supreme-court-saturday-session-trump-case-74685438"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -1003,6 +1003,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "gBCyks+aJ9O9X6esD4upy5aHqQjhw76fhHNyIoNtK3Uas61SszITZmGOFFcO1gmjS+B0fTzvO++s2t4PO+PkE/gei6uxdSzc1zqvwvjFupCuVvtodUmsAuX/F2KTbqIPxVXdSo7RPTl2rV6bEvZVIDfQxnW/0XuOYVsa+iVDMkkzhBcUwM1b67MbqgtswTPQBT9skKZ2e5qx3MEpBnSs+v8iE3Lrk1hU+XaNEiOK6Jr+1ODOQJUacnX7T1W1yN0JIe5BEXvjqYwcaD8ex0akEW9oP++Q4HB6RbuhKnNGHq+LpFb04bCwi1iau5KXOyDYOWz4fv/yv0LN44xmMoeRt99GU6zdpiQMK3sIWnsFbzo=;dqJGuN840jHEsaHMxYgrTg=="
+secured: "vPhJpGTfcHFGipNhm9TXJpC+OohRyiG7np9xJ7KyjYYHEC4RktTY9gMPhYKzkKMdcMMqzwBkz+LCQANeb4dUcFIjOkRwP6c0Aa7OgW/E++aXOkdQ17oduw0I9DpzrqerYRXYtrCiTKBzSkPxl7orrp6DyEg55hVpkxYOcD10hMvveXFT26mUzz8160wA4g23+GnSmxJj6VMmx8rc4KzQ5FTuCjCKP+M5hPQhfssTC3yxWKX9BIexvSlLTM4wiayT4ayxcZqHN889EGUA1bXUr7l2tepC9Ze6224rl7DqW8mmcXZLKgtjoHJZZ4x4EDLqwH7PDR84rtM1643NIAGYdO3zUZEZt9uXvMnJyp+H8XA=;kcm9EwCMWxgebafHq2esRA=="
 ---
 

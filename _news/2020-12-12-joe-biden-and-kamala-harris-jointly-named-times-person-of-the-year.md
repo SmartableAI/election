@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Joe Biden and Kamala Harris Jointly Named Time's 'Person of the Year'"
-excerpt: "Democratic presidential candidate and former Vice President Joe Biden and U.S. Senator and Democratic candidate for Vice President Kamala Harris celebrate outside the"
-publishedDateTime: 2020-12-12T01:44:00Z
-originalUrl: "https://www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020"
-webUrl: "https://www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020"
-ampWebUrl: "https://www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-12-10/four-finalists-vie-for-times-person-of-the-year-for-2020?context=amp"
+title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
+excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
+publishedDateTime: 2020-12-11T18:34:00Z
+originalUrl: "https://www.reuters.com/article/idUSKBN28K33R?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/idUSKBN28K33R?edition-redirect=ca"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K32U"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K32U"
 type: article
-quality: 70
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544198435&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA08Y"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Kellyanne Conway breaks from Trump and says 'Joe Biden and Kamala Harris will prevail'"
@@ -1710,6 +1716,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "PRWieY8f6v4tfwTUx88SF3tXyMa8EoAXCkposadKv44YXlkgqyCEKKcUUSYBvzeLIf2tGpoVa9oQKdeuPRMFXYInarPzZVfDOHDJbsHjJRPkoULjnZGbVBQVBdxm0ssMIl7iBOCS7TKpC+zQQvb8z2xxz+HiTGzd57OOpR6RIV6K6NNSz2rJy+GdhnX9G9919AlRKCEeGXTNwd2nTkZSs8fZ+7q2EL4tRjhxmkXXHjlUjJGW7de+EiVERCbcvBjCdKxfEYuEOHz85onTltIiMYndO0foIeqiJSxTART80mDNl0Z1S7+m2dUGs4TjZUT9EvLFDYJrJ7BB8lP81+6JTSaj+u3jKsBr3dKhxvs9ky/lsYzM0FlgKSGbuRLJmUtVDKPeWXaLs5t71+OB36Ds46HowM4ivqBtCJNb/W1BNRN0GddSw+GZl+q7YZmP2xx9aBt2Gy5a5OqPZ7AzGicRMp+XnTd5PRXMGULEDdo5Q/0VCxdbt1uYV9XmGGXLaxvxYrf06SZjiUSSUocLjtkhPw==;dtfHEt5u6Jab7GdkyIizHQ=="
+secured: "LE6Ne3uo/PJjcTLuK/+wYee8yyJucov7/IGYWspY9c288+otj7IuuHaA7lJGem8b4ve3vOnh17oqXBXxO03an7/atlaMwk+es/1oBbWRe6i3LZJFT/RogmB5i/JI9qdfUk/MvS94Ahp3U7F9hAzT7gUE/3vshW4AGFigfjIk8Vk6Z7LVQ0zwUkAJzV0s6pRLjJ5OQQMa9nLpQJ2r9Hfwi0CH+Stf6eZzyohSha2plP4YO96adndyrgwNju+PkHrxjnYFwHuoFeOGg0dfV3eblMwecymUCgF18pXmZUfnAY9cTAbBPha2WXq+BrQDGJK7+wlzW+sc5opQilxkU8A4iTasL+J42Fu0IEs1rFHz/RA=;3+YgaQn7+jwAALgDh9dLQA=="
 ---
 

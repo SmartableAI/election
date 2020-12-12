@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Major Architects Group Will Stop Designing Death Chambers Amid Trump's Record-Breaking Executions"
+    excerpt: "Convicted murderer Alfred Bourgeois was put to death on Friday, becoming the second man to be executed in two days."
+    publishedDateTime: 2020-12-12T10:21:00Z
+    webUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310"
+    ampWebUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
+    images:
+      - url: "https://d.newsweek.com/en/full/1685394/lethal-injection-facility-san-quentin-california.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "Q8BwCBkhiIHIbEK/kT7NpzHWUoCYBh4VJp3BxcDgyFUOplZbJl+1LCA6qDVrjksLdLvknAJFNnKWlLNuPKkuyvUDVzZbToQWXTOnAd4HxWdXbXQn9gH7YSHDvNOPKgxDmix7bwWNLkyrtUVHNJXycT/PBhdQviH79KEGgfvWK4sTZxtsKPfUpSeYt++0ZZqr8cCyiOvwLJ1IGB5qf2ncrM68iHx0Ar/zPPWjnGV67MGO0yuPDvDkVjI6MPvIGX+MM40perX87R8m/tBWZQTpxnAy8m0hP1jVWLzYO9sN9I08Ukmy7sFBisXGTwOcrADp8MB4dRliQRIjglAZyu/76k6I1LwHbHT3aA3S6TNJjjt2aVb0Y2HRoDSpbLa5Z7HOzQJOjlosUvCpxgyURwb66w3VFaiPG1uPAuCiJPEDXGdeP6EV5XiTmP4QqW1GkQ/RoxZ6mqF5Pv+vWwAAs4UlpucyXYDSXgWMpblN/JSRsHHfIIvd+yyWPjVqUjQTBeDYceOlRpsqHcJod9l+i7qAfg==;5nuuBtRtncSUQA3V63qZxg=="
 ---

@@ -529,19 +529,19 @@ related:
         isCached: true
   - title: "Wisconsin Supreme Court in Saturday session for Trump case"
     excerpt: "The Wisconsin Supreme Court is meeting in a rare weekend session to consider President Donald Trump’s lawsuit seeking to overturn his loss to Democrat Joe Biden in the battleground state"
-    publishedDateTime: 2020-12-12T04:48:00Z
-    webUrl: "https://www.washingtonpost.com/national/wisconsin-supreme-court-in-saturday-session-for-trump-case/2020/12/11/1fb1af04-3c34-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/wisconsin-supreme-court-in-saturday-session-for-trump-case/2020/12/11/1fb1af04-3c34-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/wisconsin-supreme-court-in-saturday-session-for-trump-case/2020/12/11/1fb1af04-3c34-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    publishedDateTime: 2020-12-12T09:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/wisconsin-supreme-court-saturday-session-trump-case-74685438"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsin-supreme-court-saturday-session-trump-case-74685438"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsin-supreme-court-saturday-session-trump-case-74685438"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
     excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."

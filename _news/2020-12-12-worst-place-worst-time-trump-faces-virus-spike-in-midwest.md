@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/worst-place-worst-time-trump-faces-virus-spike-74673175"
 type: article
 quality: 125
-heat: 145
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,38 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7F6WHEEEFYI6VANDS2IMTCARCE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Coronavirus vaccine, pro-Trump DC rally, Army-Navy game: 5 things to know this weekend"
+    excerpt: "CDC advisors meet to review data on Pfizer and BioNTech's COVID vaccine, Trump supporters plan for DC rally and more things to start your weekend."
+    publishedDateTime: 2020-12-12T10:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/12/12/coronavirus-vaccine-army-navy-president-trump-rally-brexit/3872269001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3872269001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3872269001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/31dda42b-429a-49d4-9149-e586d64a933f-USATSI_15294432.jpg?auto=webp&crop=3499,1969,x0,y145&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Most US voters don't want Trump to run in 2024 and 42% say he is 'one of the worst presidents' ever, Fox News poll finds"
+    excerpt: "Voters disapprove of President Trump's handling of COVID-19, immigration, and healthcare. When it comes to economics, Trump is viewed more positively."
+    publishedDateTime: 2020-12-12T10:29:00Z
+    webUrl: "https://www.businessinsider.com/42-trump-one-of-worst-presidents-ever-new-poll-finds-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/42-trump-one-of-worst-presidents-ever-new-poll-finds-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/42-trump-one-of-worst-presidents-ever-new-poll-finds-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fd490e39cf1420018d2f063?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "rV8yOtdLujKeIjyMf+5ikXiMiH4J1kyE2VZ+05ir4kFGpL63ydAONOrZ7b1SVql8zRqGr2Sfb7VMxmsQDZoDIkOe7T3trR/svAghXU0QTJaErFr55JU+28BRKVbxI3jzA9H7hNRrr15MNobxkkCwJmExL6cI6SfPep54XKhZQghPv7XtSUfWNxn6K3IO+cBpscSHiJleSAN0tA0TVrOQelVucd53vh/34Tv00vwJRYDQJQMC5j2Are/r+jjLS98sq3GiAVaZhN6wo3SpyVprZCHPCNZCkXFSSLcia1MLk6OFE4AvzuEKiHzRssZFlWI1Uc7UIpD7mGujCp+XPTAu6z+b6dC0eGdVckl9aQuuaPk=;ZlujNu71Mj8sldkxorjmuA=="

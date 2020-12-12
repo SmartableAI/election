@@ -433,10 +433,10 @@ related:
         isCached: true
   - title: "As he rails on election, Trump largely mum on toll of virus"
     excerpt: "President Donald Trump has been highlighting lots of really big numbers this week: New highs for the stock market. The 100-plus House members backing a lawsuit challenging his election loss. The nearly 75 million people who voted for him."
-    publishedDateTime: 2020-12-11T23:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/as-he-rails-on-election-trump-largely-mum-on-toll-of-virus/2020/12/11/df3fb77c-3c01-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/as-he-rails-on-election-trump-largely-mum-on-toll-of-virus/2020/12/11/df3fb77c-3c01-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/as-he-rails-on-election-trump-largely-mum-on-toll-of-virus/2020/12/11/df3fb77c-3c01-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    publishedDateTime: 2020-12-12T09:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/as-he-rails-on-election-trump-largely-mum-on-toll-of-virus/2020/12/11/f044daa0-3c30-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/as-he-rails-on-election-trump-largely-mum-on-toll-of-virus/2020/12/11/f044daa0-3c30-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/as-he-rails-on-election-trump-largely-mum-on-toll-of-virus/2020/12/11/f044daa0-3c30-11eb-aad9-8959227280c4_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -556,6 +556,22 @@ related:
     quality: 137
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543979089&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB8111"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "U.S. Supreme Court rejects Texas lawsuit and Trump bid to undo election loss"
+    excerpt: "The U.S. Supreme Court on Friday brought an abrupt end to a long-shot lawsuit filed by Texas and backed by President Donald Trump seeking to throw out voting results in four states, dealing him a crushing setback in his quest to undo his election loss to"
+    publishedDateTime: 2020-12-12T04:54:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28L2YY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L2YY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2YY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544304373&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB000"
         width: 817
         height: 545
         isCached: true
@@ -2175,6 +2191,17 @@ related:
     webUrl: "https://www.usnews.com/news/best-states/ohio/articles/2020-12-10/gop-led-ohio-joins-trump-effort-to-overturn-election-results"
     ampWebUrl: "https://www.usnews.com/news/best-states/ohio/articles/2020-12-10/gop-led-ohio-joins-trump-effort-to-overturn-election-results?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/ohio/articles/2020-12-10/gop-led-ohio-joins-trump-effort-to-overturn-election-results?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Analysis: the Election Is Over; Trump's Attacks Will Linger"
+    excerpt: "The Supreme Court's rejection of a lawsuit seeking to invalidate election results has once again confirmed Democrat Joe Biden's victory in the 2020 election."
+    publishedDateTime: 2020-12-12T06:17:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/analysis-the-election-is-over-trumps-attacks-will-linger"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-12/analysis-the-election-is-over-trumps-attacks-will-linger?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-12/analysis-the-election-is-over-trumps-attacks-will-linger?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/05/politics/pence-trump-2020-2024-future/index.html"
 type: article
 quality: 200
-heat: 2720
+heat: 2740
 published: true
 
 provider:
@@ -1599,6 +1599,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11dc-scotus-texas1-print/11dc-scotus-texas1-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump Spurned New York, but Here’s How He’s Still Tied to the City"
+    excerpt: "The president switched his residency to Florida, but his footprint in New York remains large. Should he return, this is what he’d come home to."
+    publishedDateTime: 2020-12-12T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/12/12/nyregion/trump-home-new-york-city.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/12/nyregion/trump-home-new-york-city.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/nyregion/trump-home-new-york-city.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/04/multimedia/4Metro-Trump-NY/4Metro-Trump-NY-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/in-break-with-trump-mcconnel
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-break-with-trump-mcconnell-urges-passage-of-defense-bill/2020/12/10/13930b5e-3b0e-11eb-aad9-8959227280c4_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/5fca82f3037cbd0018613f11?width=1200&format=jpeg"
         width: 1200
         height: 599
+        isCached: true
+  - title: "Major Architects Group Will Stop Designing Death Chambers Amid Trump's Record-Breaking Executions"
+    excerpt: "Convicted murderer Alfred Bourgeois was put to death on Friday, becoming the second man to be executed in two days."
+    publishedDateTime: 2020-12-12T10:21:00Z
+    webUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310"
+    ampWebUrl: "https://www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/major-architects-group-stop-designing-death-chambers-trump-record-breaking-executions-1554310?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
+    images:
+      - url: "https://d.newsweek.com/en/full/1685394/lethal-injection-facility-san-quentin-california.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "9UeuKmwu3SRv8SZOP7aCWlNO23d7srRJOrReA7CeN5nbQS9r1EGKsw/7CWvvXycb2Gs6sxAwMpI8/ze+Df9owK4wGhJ44QLKhmu0urztobDHK1CQ8Odx2x7T59dKx1fpitjz1hm30+v9ASBm49L2ZpfTaQuUC8qwyx6fMTLN1u7ZP7PMzgcU87kKFPJMBcjKD2i9i7yNZGn/G6VfweLS677F5kreGrl+OmvNOpjRMnqGHaqN+LIsTJY6t0d+haoSoGD82OZrNlBzX+6Behj4sYS1x1ABJH9+OmXgfXyzsuv431grSU0AxuaOsgyqzd6QMh4Db1jUJQYCYWWXT0Eb47jIkpjDL+xXyouRK+sITew=;obz1rUbIBGibB6pWynsnsw=="
