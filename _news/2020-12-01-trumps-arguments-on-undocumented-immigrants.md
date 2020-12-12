@@ -93,6 +93,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "With weeks left in office, the Trump administration is doing a 180-degree turn on a frustrating NATO ally"
+    excerpt: "Trump has avoided sanctioning Turkey for its purchase of Russia's S-400. With just weeks left in office, that appears to be changing."
+    publishedDateTime: 2020-12-10T23:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-reportedly-sanctioning-turkey-over-s-400-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5fd29d01e00bce00188baa90?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Pentagon advisor resigns in protest, saying the Trump administration is putting the nation 'at risk' by purging posts to fill them with loyalists"
+    excerpt: "He said purging advisory boards and replacing members with 'political partisans' has 'now put the nation's safety and security at risk.'"
+    publishedDateTime: 2020-12-07T18:58:00Z
+    webUrl: "https://www.businessinsider.com/pentagon-advisor-resigns-says-trump-admin-putting-nation-at-risk-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/pentagon-advisor-resigns-says-trump-admin-putting-nation-at-risk-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-advisor-resigns-says-trump-admin-putting-nation-at-risk-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/5e3959c25bc79c1f9c787b67?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "llG3kq+wpEyr9EOIZlT700fpL0M1DNWo0XMEbsTQ1dCxF/jYm4Ul3/jcZi4UoXPaGglDMb9glj96r+7zuHO0bSoRGZEGglkkunGlMuTox7W4YHgTn26Ct2D9+cF2CInrerIQ7KrsR/5FBk1eupm3ZfSNmbFLhiZiPicUQgfOsCSwhaNoVF9miTsp88Jg3n2J4Kz2kerN+yI8WSbGjvi1iI/9cwoQh76rJU0+gwVOqiv9Zdlx6cUcFim0/AReTGPOca7Ii+ChtCeGeRJ7v+XsLNgb7OLfyE4HnT6C+3IRf8J5mPsifo2zvpkrK7J43PeThDiUFzXH5YcL2WHpP2mMpJTBH9FwzvUX2RfFnacXnow=;Nh+aJbDZOekG4MCEASFnKw=="
 ---

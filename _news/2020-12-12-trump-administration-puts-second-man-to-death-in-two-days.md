@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. Supreme Court ends Texas lawsuit seeking to undo Trump election loss"
+    excerpt: "The U.S. Supreme Court on Friday brought an abrupt end to a long-shot lawsuit filed by Texas and backed by President Donald Trump seeking to throw out voting results in four states, dealing him a crushing setback in his quest to undo his election loss to"
+    publishedDateTime: 2020-12-12T04:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump/u-s-supreme-court-ends-texas-lawsuit-seeking-to-undo-trump-election-loss-idUSKBN28L2YY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L2YY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2YY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544304373&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB000"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump and his allies have won zero out of at least 38 lawsuits they've filed since Election Day"
     excerpt: "Republicans have filed more than two dozen lawsuits since the election challenging the results. They've won zero."
     publishedDateTime: 2020-12-10T21:33:00Z
@@ -46,6 +62,38 @@ related:
       - url: "https://i.insider.com/5fd0dc06240ebd00126bde01?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Nissan joins GM in exiting auto group backing Trump"
+    excerpt: "Japanese automaker Nissan Motor Co said on Friday it was joining General Motors in exiting a group of automakers that had backed U.S. President Donald Trump in his bid to prevent California from imposing its own vehicle emissions rules."
+    publishedDateTime: 2020-12-04T21:59:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-emissions-trump/nissan-joins-gm-in-exiting-auto-group-backing-trump-idUSKBN28E326"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E326"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E326"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543501229&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31PO"
+        width: 747
+        height: 545
+        isCached: true
+  - title: "Trump has a long history of responding to loss with anything but grace"
+    excerpt: "From an award given to an opponent in Scotland to failing to cheat in a CNBC poll, Trump's response has been consistent."
+    publishedDateTime: 2020-12-07T14:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/07/trump-has-long-history-responding-loss-with-anything-grace/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SKSDQ5BX5UI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump expected to attend Army-Navy game at West Point"
     excerpt: "The game, which Trump has attended the past two years and in 2016, will be played at Army's campus instead of a neutral-site stadium because of the coronavirus pandemic."
@@ -79,6 +127,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "U.S. Senate backs massive arms sales to UAE after Trump veto threat"
+    excerpt: "An effort to stop President Donald Trump's high-tech weapons deals with the United Arab Emirates fell short on Wednesday in the U.S. Senate as Trump's fellow Republicans opposed resolutions of disapproval seeking to block the sale of drones and advanced F-35 fighter jets."
+    publishedDateTime: 2020-12-10T00:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-emirates-arms-idUSKBN28J2BZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2BZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2BZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543980005&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB81AM"
+        width: 747
+        height: 545
+        isCached: true
+  - title: "A month of Trump tweeting about keeping the job he isn’t doing"
+    excerpt: "President Trump wants to keep his job. Or he wants people to think he wants to keep his job so that he can keep fundraising off his effort to keep his job. Or he wants people to think he’s fighting to keep his job because he wants them to think that the 2020 presidential contest was stolen from him so that he can argue he didn’t actually lose the race."
+    publishedDateTime: 2020-12-11T02:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/month-trump-tweeting-about-keeping-job-he-isnt-doing/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/month-trump-tweeting-about-keeping-job-he-isnt-doing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/month-trump-tweeting-about-keeping-job-he-isnt-doing/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DGADXVRRWMI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump administration plans 2nd execution in as many days"
     excerpt: "The Trump administration plans to continue its unprecedented series of post-election federal executions by putting to death a truck driver who abused his 2-year-old daughter for weeks, then killed her by slamming her head against a truck’s windows and dashboard."
     publishedDateTime: 2020-12-11T23:48:00Z
@@ -95,117 +175,160 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "'The people have spoken': Federal judge rejects ex-Trump attorney Sidney Powell's Michigan election lawsuit"
-    excerpt: "The judge said the court was being asked \"to ignore the will of millions of voters. This the Court cannot, and will not, do. The people have spoken.\""
-    publishedDateTime: 2020-12-07T15:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/07/michigan-judge-rejects-lawsuit-from-disavowed-trump-attorney/3856164001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3856164001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3856164001"
+  - title: "U.S. Senate advances massive defense bill, despite Trump veto threat"
+    excerpt: "The U.S. Senate threw its weight behind the annual National Defense Authorization Act, or NDAA, a $740 billion bill setting policy for the Department of Defense, voting by a large margin to advance the bill on Friday despite President Donald Trump's veto threat."
+    publishedDateTime: 2020-12-11T21:12:00Z
+    webUrl: "https://www.reuters.com/article/usa-defense-congress/update-1-us-senate-advances-massive-defense-bill-despite-trump-veto-threat-idUSL1N2IR1MR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L24P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L24P"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544282616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "U.S. Senate backs massive defense bill, defying Trump veto threat"
+    excerpt: "The U.S. Senate on Friday threw its weight behind the annual National Defense Authorization Act (NDAA), a $740 billion bill setting policy for the Department of Defense, passing the bill with a margin large enough to overcome President Donald Trump's promised veto."
+    publishedDateTime: 2020-12-11T21:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28L24P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L24P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L24P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544282616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "U.S. Senate backs massive defense bill, despite Trump veto threat"
+    excerpt: "The U.S. Senate on Friday threw its weight behind the annual National Defense Authorization Act, or NDAA, a $740 billion bill setting policy for the Department of Defense, passing the bill with a margin large enough to overcome President Donald Trump's promised veto."
+    publishedDateTime: 2020-12-11T19:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-congress-idUSKBN28L24P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L24P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L24P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544282616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA13T"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Donald Trump Jr.'s Hunting Trip Expected to Start As Rumors Swirl in Alaska"
+    excerpt: "In February, a week-long $150,000 \"dream hunt\" was raffled off with the winner joining Trump Jr. and his son on a yacht traveling along the Tongass National Forest coastline in southeastern Alaska."
+    publishedDateTime: 2020-12-10T16:49:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-jr-hunting-trip-alaska-1553883"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-jr-hunting-trip-alaska-1553883?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-hunting-trip-alaska-1553883?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1683821/donald-trump-jr.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump finalizes sweeping asylum restrictions in last-minute immigration push"
+    excerpt: "The Trump administration finalized a regulation on Thursday that greatly restricts access to asylum in the United States, part of a last-minute immigration crackdown that incoming President-elect Joe Biden will likely try to reverse."
+    publishedDateTime: 2020-12-10T21:19:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-immigration-idUSKBN28K2D3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K2D3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K2D3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/07/USAT/72557c05-b263-4f9a-9e57-cb4d7cfb6e73-AP_Election_2020_Georgia_2.jpg?auto=webp&crop=4324,2432,x1,y419&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544124113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB91D8"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Can Trump preemptively pardon his allies or himself? Here is what you need to know."
-    excerpt: "Trump has also claimed that he has “the absolute right to pardon myself,” raising the possibility that he may try to impose roadblocks against any future federal prosecution of himself. And a federal judge this week unsealed heavily redacted documents revealing that the FBI has been investigating an unidentified person for a potential pardon-for-bribe scheme."
-    publishedDateTime: 2020-12-03T08:11:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pardons-himself-20201202-b2f5k5xtbbhsbghzcrlavscjwi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pardons-himself-20201202-b2f5k5xtbbhsbghzcrlavscjwi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-pardons-himself-20201202-b2f5k5xtbbhsbghzcrlavscjwi-story.html?outputType=amp"
+  - title: "Another Trump veto possible as Congress votes on blocking $23B arms sale to UAE"
+    excerpt: "President Donald Trump is nearing one last battle with Congress over his push for massive arms sales to the Middle East -- threatening to veto lawmakers' effort to halt a $23 billion sale to the United Arab Emirates."
+    publishedDateTime: 2020-12-09T17:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-veto-congress-votes-blocking-23b-arms-sale/story?id=74615890"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-veto-congress-votes-blocking-23b-arms-sale/story?id=74615890"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-veto-congress-votes-blocking-23b-arms-sale/story?id=74615890"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 119
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
     images:
-      - url: "https://www.chicagotribune.com/resizer/THDtZok_bGc0_mHKvExKL7EF7Gs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y4XJC3VIGROSLTRPTFWLUGCFMQ.jpg"
-        width: 1200
-        height: 800
+      - url: "https://s.abcnews.com/images/Politics/leaders-abraham-accords-gty-ps-201209_1607527065488_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "'Why is he planning a rally when he won the election?': Mixed reception to talk of Trump inaugural rally in Florida"
-    excerpt: "Reports that President Trump is mulling a rival rally in Florida to split screen Joe Biden’s inauguration on Jan. 20 drew a mixed reaction."
-    publishedDateTime: 2020-12-07T23:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/07/mixed-reception-florida-talk-rival-trump-inauguration-rally/6481693002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6481693002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6481693002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NPPP/52e86767-e0ff-47b2-97c0-f6525b66a7bc-Election_2020_Trump_6.jpg?auto=webp&crop=5576,3137,x0,y283&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump administration pushes out more leading defense advisors as the Pentagon purge continues"
-    excerpt: "The removal of members of the Defense Business Board follows the purge of the Defense Policy Board just last week"
-    publishedDateTime: 2020-12-05T04:23:00Z
-    webUrl: "https://www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-admin-pushes-out-more-defense-advisors-in-pentagon-purge-2020-12?amp"
+  - title: "EXPLAINER: Trump's failing, monthlong fight against election"
+    excerpt: "President Donald Trump's frantic effort in the courts to delegitimize an election he lost has come no closer in a month to reversing any results."
+    publishedDateTime: 2020-12-05T03:55:00Z
+    webUrl: "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-trumps-failing-monthlong-fight-against-election-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 114
+    quality: 120
+  - title: "Fact check: Statistical analysis supporting pro-Trump Supreme Court case is 'ludicrous'"
+    excerpt: "The purported statistical analysis wrongly assumes votes in the November election were randomly distributed across each state."
+    publishedDateTime: 2020-12-10T21:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/10/fact-check-ludicrous-statistical-analysis-supporting-pro-trump-case/3877743001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3877743001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3877743001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
     images:
-      - url: "https://i.insider.com/5fca82f3037cbd0018613f11?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/09/USAT/29e07d5e-f819-4835-a34b-48f8fe3ba36b-AP20343706441792.jpg?auto=webp&crop=4272,2403,x10,y11&format=pjpg&width=1200"
         width: 1200
-        height: 599
+        height: 675
         isCached: true
-  - title: "Republicans have ‘concerns’ about Trump — but won’t let reporters quote them by name about it"
-    excerpt: "Many GOP lawmakers have long shied from going on-the-record with their thoughts. It’s created a dissonance in political journalism as Trump attempts to overturn the election."
-    publishedDateTime: 2020-12-11T11:18:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/media/republicans-anonymous-private-concerns-media/2020/12/10/301e98a6-2e75-11eb-bae0-50bb17126614_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/republicans-anonymous-private-concerns-media/2020/12/10/301e98a6-2e75-11eb-bae0-50bb17126614_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/republicans-anonymous-private-concerns-media/2020/12/10/301e98a6-2e75-11eb-bae0-50bb17126614_story.html?outputType=amp"
+  - title: "With Texas AG facing federal probe, lawsuit to help Trump comes amid whispers of pardons"
+    excerpt: "The Texas politician challenging the 2020 election is the subject of an FBI investigation -- a thorny problem President Trump could eliminate with a presidential pardon."
+    publishedDateTime: 2020-12-11T02:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/texas-ag-facing-federal-probe-lawsuit-trump-amid/story?id=74654894"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/texas-ag-facing-federal-probe-lawsuit-trump-amid/story?id=74654894"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/texas-ag-facing-federal-probe-lawsuit-trump-amid/story?id=74654894"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/Politics/texas-ag-ken-paxton-rtr-jc-201210_1607642915058_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Supreme Court will hear Trump administration defend controversial Medicaid work requirements"
+    excerpt: "Forcing low-income people to work or prepare for employment in exchange for health coverage is an experiment that's been tried in only three states."
+    publishedDateTime: 2020-12-04T20:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/04/donald-trumps-medicaid-work-requirements-get-supreme-court-review/6341457002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6341457002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6341457002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 114
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RQNUZTB2NUI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 903
-        isCached: true
-  - title: "The Trump administration is delivering on a 2020 vaccine, but not at the levels he suggested"
-    excerpt: "Many of the promises and projections that the Trump administration made on coronavirus vaccines have since been revised or contradicted by Trump officials or by President Trump himself."
-    publishedDateTime: 2020-12-10T16:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/trump-administration-is-delivering-2020-vaccine-not-levels-he-suggested/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-10-2020/t_86660cef3e8b4d0e8383f3bbc5bc196b_name_20201209_TRUMP_VACCINE_V3.png&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "The big lie that won’t die: How Trump and his allies’ favorite bogus fraud claim keeps surviving"
-    excerpt: "When the history of President Trump’s failing effort to overturn the 2020 election results is written, there will be many bogus claims to chew on. But more than any other, one is emerging is the epitome of bad faith,"
-    publishedDateTime: 2020-12-09T18:31:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/09/big-lie-that-wont-die-how-trump-his-allies-favorite-bogus-fraud-claim-keeps-surviving/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NF22EOQBDII6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/3dbe008c-2f39-4c44-8dfe-841a5dc08ac6-XXX_Supreme_Court_Upholds_Obama_s_Affordable_Care_Act_70385449_.JPG?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump campaign committees spent $1.1 million at Trump properties in the last days of his losing campaign"
     excerpt: "President Trump’s campaign and its affiliated committees spent more than $1.1 million at Trump’s own properties in the last weeks of the 2020 campaign, continuing a pattern during his presidency."
@@ -223,37 +346,21 @@ related:
         width: 1440
         height: 956
         isCached: true
-  - title: "The Finance 202: Trump failed to remake the Fed in his image. His legacy may be polarizing its confirmations."
-    excerpt: "President Trump’s four-year struggle to reshape the Federal Reserve in his image likely met its failed end Thursday. The Senate confirmed one of his last nominees to the central bank’s board: Christopher Waller,"
-    publishedDateTime: 2020-12-04T13:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/04/finance-202-trump-failed-remake-fed-his-image-his-legacy-may-be-polarizing-its-confirmations/?outputType=amp"
+  - title: "Senate sends Trump defense bill he has vowed to veto unless lawmakers impose limits on social media companies"
+    excerpt: "The Senate on Friday approved a wide-ranging defense policy bill, sending it to President Donald Trump, despite his threat to veto the bill because it does not clamp down on big tech companies he claims were biased during the election."
+    publishedDateTime: 2020-12-11T19:53:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-defense-bill-trump-veto-20201211-ckob34bohrasrgmuke7wx5ti5e-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-defense-bill-trump-veto-20201211-ckob34bohrasrgmuke7wx5ti5e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-congress-defense-bill-trump-veto-20201211-ckob34bohrasrgmuke7wx5ti5e-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 106
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SCHDUVRUIMI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "The US's former top election-security official has filed a lawsuit against a Trump lawyer who said he should be 'taken out at dawn and shot'"
-    excerpt: "Chris Krebs' lawsuit said he had faced a \"barrage of threats\" from people who decided to act on Joseph diGenova's \"call to action.\""
-    publishedDateTime: 2020-12-09T00:07:00Z
-    webUrl: "https://www.businessinsider.com/chris-krebs-sues-trump-lawyer-joe-digenova-lawsuit-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/chris-krebs-sues-trump-lawyer-joe-digenova-lawsuit-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chris-krebs-sues-trump-lawyer-joe-digenova-lawsuit-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/5fb479fae74fa70018b830f8?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/MPXAIRk7FxVI57C6w8529yvVNwM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TAIGUUJYLZAGZHJ6TR55AASCAU.jpg"
         width: 1200
-        height: 600
+        height: 689
         isCached: true
   - title: "Trump loses Wis. lawsuit in latest legal defeat"
     excerpt: "President Donald Trump has lost a Wisconsin lawsuit seeking to disqualify more than 221,000 ballots and overturn his loss to Democrat Joe Biden in the battleground state. (Dec. 11)"
@@ -283,22 +390,26 @@ related:
         width: 2986
         height: 1680
         isCached: true
-  - title: "How Michael Anton’s ‘Flight 93 Election’ Essay Defined the Trump Era"
-    excerpt: "Michael Anton wrote an essay for the right-wing Claremont Institute, “The Flight 93 Election,” making the case for Donald Trump’s election as a necessary gamble to stave off the destruction of conservatism."
-    publishedDateTime: 2020-12-11T17:00:00Z
-    webUrl: "https://nymag.com/intelligencer/article/michael-antons-flight-93-election-trump-coup.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/article/michael-antons-flight-93-election-trump-coup.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/michael-antons-flight-93-election-trump-coup.html"
+  - title: "Senate Falls Short of Halting Trump's $23B Arms Sales to UAE"
+    excerpt: "The Senate has fallen short of disapproving the Trump administration’s proposed $23 billion arms sales to the United Arab Emirates."
+    publishedDateTime: 2020-12-10T00:06:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-09/senate-falls-short-of-halting-trumps-23b-arms-sales-to-uae?context=amp"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 90
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/3c6/501/df5878ea62a8f09750b4ca9449461be279-GettyImages-1229998656.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Michigan's Top Court Rejects Appeal by Trump Campaign"
+    excerpt: "President Donald Trump's campaign was handed a unanimous defeat Friday at the Michigan Supreme Court, which declined to hear an appeal about how absentee ballots were handled in Detroit as well as other issues."
+    publishedDateTime: 2020-12-11T22:05:00Z
+    webUrl: "https://www.usnews.com/news/best-states/michigan/articles/2020-12-11/michigans-top-court-rejects-appeal-by-trump-campaign"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "pjOIX8qHjOitMHFP7tjV6bN2Ikl7oCOgYHC82v9P7tEOFx/mqgvtxHFoLg+IMKJujZICal/2uptIMiKzrLL1pG9HSfkL+UAbt2pe3R8HrhB1C0xZKNTYImtpWIX6l1Ihn+VZ1RMqTqj+TjHOKaA6KXh87z8Meez36YTchSnpl/0QSgiEv78LLaquftbH/r4jTboH2yGErMMwIGpMJ7aXT22PnJasyvqg6ZCSl2Q5cMvYOJKf3eC45VL/EXUen82TTXQRe1sTEjuwNR+hpjun75p6nDye/gGlUDjOPAWmgU9P6udbABErVHU+2Si7abCZFPl+ANj3ZJo9TRCXN4NzSKGkvnyuXLya+yx21eimbl0=;h5Y8weOeGGRjYxjKPCCnLg=="
 ---

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'The people have spoken': Federal judge rejects ex-Trump attorney Sidney Powell's Michigan election lawsuit"
+    excerpt: "The judge said the court was being asked \"to ignore the will of millions of voters. This the Court cannot, and will not, do. The people have spoken.\""
+    publishedDateTime: 2020-12-07T15:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/07/michigan-judge-rejects-lawsuit-from-disavowed-trump-attorney/3856164001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3856164001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3856164001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/07/USAT/72557c05-b263-4f9a-9e57-cb4d7cfb6e73-AP_Election_2020_Georgia_2.jpg?auto=webp&crop=4324,2432,x1,y419&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'This ship has sailed': Judges reject 2 more cases from pro-Trump lawyer Sidney Powell"
     excerpt: "Attorney Sidney Powell saw swift defeat in two cases Monday morning, with judges in Michigan and Georgia dismissing her efforts to overturn the 2020 presidential contest."
     publishedDateTime: 2020-12-07T21:24:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://i.insider.com/5fc6705d037cbd00186131db?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Explosive thrown through Michigan man’s window, victim thinks he was targeted over Trump support"
+    excerpt: "A homeowner believes his personal politics led someone to throw an explosive through his window Saturday morning, causing extensive damage to his house. According to WDIV Detroit, the homeowner -- who has not been identified for safety reasons -- was upstairs in his home shortly after midnight when he and his girlfriend heard a pair of explosions."
+    publishedDateTime: 2020-12-08T04:59:00Z
+    webUrl: "https://www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html"
+    ampWebUrl: "https://www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2020/12/explosive-thrown-through-michigan-mans-window-victim-thinks-he-was-targeted-over-trump-support.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 62
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7DEQV7NJM5CEVE6NFWCPVNPERI.jpg"
+        width: 665
+        height: 334
         isCached: true
 
 secured: "sAU4fdldB7FklFfYlxKz0qnSDc1dS0LtdhnfLGVp/UDYg9Nv1r5cP/h6QBdUaz+zhbUfZx7yCjOnPZSgec1Y7ANMM84WKF1tOb/jJ9g/FQepSKVsGP3rjqmQe5SPlRt37eXUHn/6XJqHR4f5oVrvW2jGfM4EssyRmsTpJx9DQ5mQmIV9MjHyh2oKdzwfSQjlXtNIQelZE3Li5haRlLRFKk+iChB5grupwXqR0xN5GLAq4p7BD8cxJgRHfrMWb0/WY9g94i/ygxQPFvcgCfzfqUtmL3d01bGPrKjKgiAbM+rGVIJ66rlAZQMoeM0Mcj2AlU4nCo/TrM1u9tKL5Q8/MYw1ACq821/ZkMzSpmLsn3E=;SL6gOBwhpcMSvxPRbxIGpA=="

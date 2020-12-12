@@ -109,6 +109,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump signs bill averting government shutdown; fight on coronavirus aid drags on"
+    excerpt: "President Donald Trump, facing a midnight deadline on Friday, signed a one-week extension of expiring federal funding to avoid a government shutdown and to provide more time for separate talks on COVID-19 relief and an overarching spending bill."
+    publishedDateTime: 2020-12-12T04:17:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-vote-idUSKBN28L2L2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L2L2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2L2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544283034&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA1E3"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Which Trump official has coronavirus now? This reporter always seems to know first."
     excerpt: "If you want to find out who in the Trump administration has tested positive for coronavirus, you should probably just set an alert for Jennifer Jacobs’s tweets. The Bloomberg reporter has emerged as the preeminent source for intel on covid-19 cases in and around the White House."
     publishedDateTime: 2020-11-24T20:08:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-08/judge-dismisse
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-08/judge-dismisses-flynn-case-following-pardon-from-trump?_amp=true"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2018/12/05/USAT/4a1f6fa3-badd-463d-8f4e-af5c2580740a-615530474.jpg?auto=webp&crop=2826,1590,x343,y292&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How Michael Anton’s ‘Flight 93 Election’ Essay Defined the Trump Era"
+    excerpt: "Michael Anton wrote an essay for the right-wing Claremont Institute, “The Flight 93 Election,” making the case for Donald Trump’s election as a necessary gamble to stave off the destruction of conservatism."
+    publishedDateTime: 2020-12-11T17:00:00Z
+    webUrl: "https://nymag.com/intelligencer/article/michael-antons-flight-93-election-trump-coup.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/michael-antons-flight-93-election-trump-coup.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/michael-antons-flight-93-election-trump-coup.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/3c6/501/df5878ea62a8f09750b4ca9449461be279-GettyImages-1229998656.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "NY AG predicts President Trump will step down so VP Pence can pardon him"
     excerpt: "New York Attorney General Letitia James is predicting President Donald Trump will step down from office so Vice President Mike Pence can pardon him. “He can preemptively pardon individuals, and the ,” James said on ABC’s “The View” Tuesday."

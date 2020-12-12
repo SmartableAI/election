@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggest
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/02/donald-trump-suggests-2024-presidential-bid-ill-see-you-in-four-years"
 type: article
 quality: 124
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Republican presidential candidates for 2024 left waiting as Trump freezes the field of hopefuls"
+    excerpt: "GOP White House hopefuls are essentially left to watch what Trump does next instead of courting fundraisers, building networks and visiting early-voting states."
+    publishedDateTime: 2020-12-06T15:36:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-republican-presidential-candidates-2024-20201206-hhkrzi2hhjfm7dtunvbcbbvtxi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-republican-presidential-candidates-2024-20201206-hhkrzi2hhjfm7dtunvbcbbvtxi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-republican-presidential-candidates-2024-20201206-hhkrzi2hhjfm7dtunvbcbbvtxi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 113
+    images:
+      - url: "https://www.chicagotribune.com/resizer/ZdyvCSvdqPKg_6o2nVn9U_WGnaQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MSHWKTPAHNBURL46ZXID5WL3QE.aspx"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "AF8IWVAQrxf7Lf1tfkqknYMiu5fEKpKVC6a/TlvvEGDW2lEYeBXGmq+IohI9WLVECRRrPud2sr9txXuEd3A6525zkoytohT55J2iqdOUB9hesCpgvsFaX6zKRZ23zwLOW1WIdOyuk+z57r+/8p+t9EgxmwNrybqMl8M+cCvmDDiarJS1LDH9qMaBO37dZLeXk6UJXSuA9SdXIf82y2zWHsFHYzX4LyV5dEOY7PisGYiJnSiHfdPIi7V/g5wcGUNGNbVai2A6QOTWaNO/hSWM0D9Qw32KbX6iBP17+OrF8IH2BAVhqVgbCbH0vvtnczgs1NjbT17P7IuPmiz+7ouJMTySoC0BkA/webUJbWhN1/mRdaE+wblkGoV7/Y4KP153YODXYtNfvxzV9LCf3t8jLqSfABoCBCwVNTQkp6n7nQcJHZ7DxlINDfCVMxHww13k8s1fb6rTZg84BnKDzVPhKes/LnYic60Lx8FGFIc3CUEQpwvnWULZwTFWpFRuHOEDh48kEOp9A5Ms1eOlgKZj7A==;zoDjyvwe8su0o/2Dfbod5g=="
 ---

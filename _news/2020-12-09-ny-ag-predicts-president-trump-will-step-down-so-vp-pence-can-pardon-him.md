@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Michael Anton’s ‘Flight 93 Election’ Essay Defined the Trump Era"
+    excerpt: "Michael Anton wrote an essay for the right-wing Claremont Institute, “The Flight 93 Election,” making the case for Donald Trump’s election as a necessary gamble to stave off the destruction of conservatism."
+    publishedDateTime: 2020-12-11T17:00:00Z
+    webUrl: "https://nymag.com/intelligencer/article/michael-antons-flight-93-election-trump-coup.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/michael-antons-flight-93-election-trump-coup.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/michael-antons-flight-93-election-trump-coup.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/3c6/501/df5878ea62a8f09750b4ca9449461be279-GettyImages-1229998656.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8VwKfV/N+uLN3DmGQpPuW+uhwU5RfwLFy+IQgMe1O30DqkW8ooiPAxV8r+P7XW8sqSSn8klPJDKquAMypguWAFtVQc3AnQQRxpst3A2kiJVIqdO079zvjqMkpJdBuM8oUJo/7lsUUVpaiPLBst9hff2LNV9niHaKO7bzgsP6PaN8L6ZDEpfd/J9Xr32lGhlz+NbelBfYGH2yhlBNZhvx0qWPX5OebZMqibNN4sgJ9YjXVaWenl3R5O0dMm302Cstz+ksYdGioKFX+n48X2LQEbM/Dbduv/D4WJAbS1Psp0Bu9UDKoMurnqNb53/uWckezEWv6ZMfD8ojo5KF6gUqlw8BiAeClm6AJ8Y0LlkOog4=;WURniq58BzIV1KqIxFwpoQ=="
 ---

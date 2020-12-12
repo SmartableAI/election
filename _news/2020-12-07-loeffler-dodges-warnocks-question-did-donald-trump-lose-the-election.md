@@ -45,22 +45,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump finalizes sweeping asylum restrictions in last-minute immigration push"
-    excerpt: "The Trump administration finalized a regulation on Thursday that greatly restricts access to asylum in the United States, part of a last-minute immigration crackdown that incoming President-elect Joe Biden will likely try to reverse."
-    publishedDateTime: 2020-12-10T21:19:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-immigration-idUSKBN28K2D3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K2D3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K2D3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544124113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB91D8"
-        width: 817
-        height: 545
-        isCached: true
   - title: "The Technology 202: Trump's misleading claims about Section 230 could last beyond his showdown with Congress"
     excerpt: "If Trump follows through on his threat to veto the must-pass military operations bill unless it contains language to repeal Section 230, he could face his first potential veto override of his presidency,"
     publishedDateTime: 2020-12-03T14:15:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 121
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543750485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61I4"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump signs bill averting government shutdown; fight on coronavirus aid drags on"
+    excerpt: "President Donald Trump, facing a midnight deadline on Friday, signed a one-week extension of expiring federal funding to avoid a government shutdown and to provide more time for separate talks on COVID-19 relief and an overarching spending bill."
+    publishedDateTime: 2020-12-12T04:17:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-vote-idUSKBN28L2L2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28L2L2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28L2L2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544283034&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA1E3"
         width: 817
         height: 545
         isCached: true

@@ -489,6 +489,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump loses Wisconsin lawsuit in latest legal defeat"
+    excerpt: "President Donald Trump has lost a Wisconsin lawsuit seeking to disqualify more than 221,000 ballots and overturn his loss to Democrat Joe Biden in the battleground state"
+    publishedDateTime: 2020-12-12T02:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-returns-court-wisconsin-time-running-74672181"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-returns-court-wisconsin-time-running-74672181"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-returns-court-wisconsin-time-running-74672181"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Wisconsin state court judge rules against Trump lawsuit"
     excerpt: "President Trump was expected to quickly appeal the Wisconsin ruling against his lawsuit seeking to overturn Democrat Joe Biden’s win in the state."
     publishedDateTime: 2020-12-12T00:58:00Z
@@ -504,6 +520,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/1df2cf4/2147483647/strip/true/crop/3931x2567+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F16%2F76%2F5528bf91477eb439a532d4d450b1%2F644315-sd-elex2020-registar-at018.JPG"
         width: 320
         height: 209
+        isCached: true
+  - title: "Wisconsin Supreme Court in Saturday session for Trump case"
+    excerpt: "The Wisconsin Supreme Court is meeting in a rare weekend session to consider President Donald Trump’s lawsuit seeking to overturn his loss to Democrat Joe Biden in the battleground state"
+    publishedDateTime: 2020-12-12T04:48:00Z
+    webUrl: "https://www.washingtonpost.com/national/wisconsin-supreme-court-in-saturday-session-for-trump-case/2020/12/11/1fb1af04-3c34-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/wisconsin-supreme-court-in-saturday-session-for-trump-case/2020/12/11/1fb1af04-3c34-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/wisconsin-supreme-court-in-saturday-session-for-trump-case/2020/12/11/1fb1af04-3c34-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
     excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."

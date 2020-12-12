@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden, Kamala Harris are Time’s Person of the Year 2020"
 excerpt: "Joe Biden and Kamala Harris are Time’s 2020 Person of the Year, the magazine announced Thursday night. The President-elect and Vice President-elect beat out Donald Trump again, among other finalists."
-publishedDateTime: 2020-12-11T04:23:00Z
-originalUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
-webUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
-ampWebUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
-cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+publishedDateTime: 2020-12-11T07:22:00Z
+originalUrl: "https://www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
+webUrl: "https://www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
+ampWebUrl: "https://www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: MLive
-  domain: mlive.com
+  name: NJ.com
+  domain: nj.com
 
 topics:
   - Election
@@ -1659,6 +1659,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "1yE65c0sRT0G1pR78T4fBbBuUKhISok+6XnZcja0f4eEm9XAxHOtDIi+/yJjZ5l7Cp2oJoetziveBZeuIIsRxCRm2ygxje5oO1K6muxoH7ElwtYqd6s50Xzl8a5uZfdbcuPZ7u1D1Y4axmVFp1pFkkRl6/cN+d4ggr1YtJgypiH65rbj79XNfSlxzOxOl2UGDUbqr5HsjlBoRy/9zVqYS9cL/T6vrTAGGauaNlk6smdLvLD3+hkS+y24kyDJuOD7tfdo4fll9YfmhY8K96OC1YNtKE3+Tp1AOGkof5ckONJIiSYQUvwnW1eBaDjvLo7k7n5YzXAwyVZ1bS5tvlt35kuLH7UB5533bGkX6H43JXx0kygSxWNIrxbmN/1thbzn2jf4VO7d+fqAaKydGbIpGUuNybOmspUsnZJkk0oSzmXuIYIRPjEr1r/8c0h27lRhBd+k34AnW9LY4n6qbUVcCU5T/wDrlIpBaPqx0cFKJHn8zoBl8fU1VLdhFiTrpgogcyrkme74tTPB1a/Qi4U7rQ==;gQ4YZ3k12ysgnuv9Zd2F4Q=="
+secured: "V0UHOmzcOKJl1F3D2T5EEWzbpShGpo33KR0HbOl8I/FNERcQKe4Uq/DNZuKuTyLSRlPX11+uR3ySb3CwyigGmReuRFPfbF6vRRQv7kENRCC+Ni7v52kw7oZqlTju5MKAlqLY71qY95xvLpybBGUH9Ez5HIKOog2WpGDJerZcqQ6BqYP03D+MiZ8AJZCkrJbCquIMAm4irS94ZQHmBPo0YJj6D0u9FRqsMHAmgEGuhSaHDyWbKs68TJdSbMajVIJmLvHriUJx+XOyYoYHz5p1imATlPaSa3lW/oNux0ZEsGIyIBiXX2oFzgqovrzwDvXByP+66D66bPDKJ2yli1Upr5mif/1+swHci8xFW4C45So=;L8jFA8tOloRArsHHPTeM6w=="
 ---
 

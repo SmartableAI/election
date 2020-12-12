@@ -79,31 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "With Texas AG facing federal probe, lawsuit to help Trump comes amid whispers of pardons"
-    excerpt: "The Texas politician challenging the 2020 election is the subject of an FBI investigation -- a thorny problem President Trump could eliminate with a presidential pardon."
-    publishedDateTime: 2020-12-11T02:48:00Z
-    webUrl: "https://abcnews.go.com/Politics/texas-ag-facing-federal-probe-lawsuit-trump-amid/story?id=74654894"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/texas-ag-facing-federal-probe-lawsuit-trump-amid/story?id=74654894"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/texas-ag-facing-federal-probe-lawsuit-trump-amid/story?id=74654894"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 116
-    images:
-      - url: "https://s.abcnews.com/images/Politics/texas-ag-ken-paxton-rtr-jc-201210_1607642915058_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Michigan's Top Court Rejects Appeal by Trump Campaign"
-    excerpt: "President Donald Trump's campaign was handed a unanimous defeat Friday at the Michigan Supreme Court, which declined to hear an appeal about how absentee ballots were handled in Detroit as well as other issues."
-    publishedDateTime: 2020-12-11T22:05:00Z
-    webUrl: "https://www.usnews.com/news/best-states/michigan/articles/2020-12-11/michigans-top-court-rejects-appeal-by-trump-campaign"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "JY+vYpozGpkuimvkGpSJIpYP1RIQummWiqdLab85jiloZR1w6q06Z9jOaJ4Aq3maE9dNFLmJGxvaLbsS5yD6uyYKc2NBm5JlatkGX40Pl77hf4UR/OcCowHkEovB8FLyNpgrz4gLHTjHsps+B26fZUME8nTM5YJZpwmXau576tQyGWiQ7YcxWd91vFo3A4uLUl5AKojj34RGuCFE+ae6rXdExSfYkNnpGvACGSptdn4RWqEMVnookShnOKXRByIlY2/t7gga3cT1kJ3C0A9G2ivkdC0eE4wcX4GsbYJZCluNTAYOdwabC0xHqWAbPxAK1wd5phQcyjhrp/wGUrTt6WMr3kxN8lYQLwLqd815wT4=;JVXiJABlFCZiOTQFbO9+/A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/transportation/2020/12/09/street-clos
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/transportation/2020/12/09/street-closures-dc-protests/?outputType=amp"
 type: article
 quality: 122
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/c9445b3e-4891-4b6d-8858-278174f9fa31-XXX_ILSPR_110720_PHOTO_Rally_03.jpg?auto=webp&crop=4533,2550,x0,y389&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Policing protests: Demonstrators say officers are taking sides as D.C. hosts pro-Trump rallies Saturday"
+    excerpt: "D.C. protesters who have spent months calling for criminal justice reform say they were outnumbered and violently attacked by Proud Boys and other far-right agitators while police stood by on Nov. 14."
+    publishedDateTime: 2020-12-12T04:47:00Z
+    webUrl: "https://www.washingtonpost.com/local/dc-maga-protest/2020/12/11/fe7859d2-3afd-11eb-98c4-25dc9f4987e8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/dc-maga-protest/2020/12/11/fe7859d2-3afd-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/dc-maga-protest/2020/12/11/fe7859d2-3afd-11eb-98c4-25dc9f4987e8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R4M2OKRGY4I6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 950
         isCached: true
 
 secured: "ezAAiRJJ/7+Jpi3CPu7FGs1GXZSq96JTXbtXn0fdozp/FmvHmc5e4H4iHpNe9M9k4L5CjRH3pp7YyBD7l2MQiwfvKaRMEdw8jQlvhs6GlFXDqsoQVUsZFXZgF2k7NX9AoQHBuwPB0Nq9K4RVn1RM/xhmR9CHeM9Czmy7xGfHUllldu0JMGxqUgx/NsDGCkKGpdHfhtzjnRjjbFAMC/+/Rb8U4uIrgNURqZMI4nb7FCcolWHRXNjJJOYdrW+lrMweSdwUtY8nS47xM2uc4vBqaJdJgq+jP+lqpAhN++guWKAX6nF0YOx5z3n3am5XS7LK+ENOUHLv8Y045PJ6C1qVgx9hbM05eQOhCNk5FolpzaM=;lNB0PrUixhkKjQKF5Ehd2Q=="
