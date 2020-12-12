@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden and Kamala Harris jointly named Time's 'Person of the Year'"
 excerpt: "U.S. President-elect Joe Biden and Vice President-elect Kamala Harris were jointly named Time magazine's 2020 \"Person of the Year\" on Thursday, chosen from a list of finalists that included the man Biden vanquished at the polls - President Donald Trump."
 publishedDateTime: 2020-12-11T18:34:00Z
-originalUrl: "https://www.reuters.com/article/idUSKBN28K33R?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/idUSKBN28K33R?edition-redirect=ca"
+originalUrl: "https://www.reuters.com/article/time-person/update-4-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
+webUrl: "https://www.reuters.com/article/time-person/update-4-joe-biden-and-kamala-harris-jointly-named-times-person-of-the-year-idUSL1N2IQ3C0"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K32U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K32U"
 type: article
@@ -1716,6 +1716,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "LE6Ne3uo/PJjcTLuK/+wYee8yyJucov7/IGYWspY9c288+otj7IuuHaA7lJGem8b4ve3vOnh17oqXBXxO03an7/atlaMwk+es/1oBbWRe6i3LZJFT/RogmB5i/JI9qdfUk/MvS94Ahp3U7F9hAzT7gUE/3vshW4AGFigfjIk8Vk6Z7LVQ0zwUkAJzV0s6pRLjJ5OQQMa9nLpQJ2r9Hfwi0CH+Stf6eZzyohSha2plP4YO96adndyrgwNju+PkHrxjnYFwHuoFeOGg0dfV3eblMwecymUCgF18pXmZUfnAY9cTAbBPha2WXq+BrQDGJK7+wlzW+sc5opQilxkU8A4iTasL+J42Fu0IEs1rFHz/RA=;3+YgaQn7+jwAALgDh9dLQA=="
+secured: "L1a/wEkh7gbc0vBRZnRbash60zmTHbdL51rpmqBOI4aJXnUBnKYT7aKSwG1C416TDmveKvlpe4bcDvtukwOF57hgN4yDd5yFMnToMs34Vi+lqTc+jzhog82FFTSMqPkTY8inxW9r4LEj62N6C/5Bz+98YXKwtT4vcUKuzJM54vhJmcsjkWYt5rWqlx2avuuN2mR5YipzifzDkvIymWGaTzKODJip3M5SAVGsyQIfn9bEcdNYmBmgKJhZHTjNcl5k46pkxFhcUBmwAvr29F9oDCEeitmfVAd7T7NmQo5ZV8by8nYD6EgVjInGbdbFZzlNlC3G5ZnBuQgylBgYsYI7bKHEV0kVxryX3MeIhnlus64=;iFxTR201euOgCmQxR81VmQ=="
 ---
 

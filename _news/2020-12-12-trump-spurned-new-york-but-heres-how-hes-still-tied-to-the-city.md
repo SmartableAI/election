@@ -1616,6 +1616,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "What the Science of Addiction Tells Us About Trump"
+    excerpt: "It turns out that your brain on grievances looks a lot like your brain on drugs. And that’s a problem not just for the outgoing president, but for the rest of us."
+    publishedDateTime: 2020-12-12T12:16:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/12/12/trump-grievance-addiction-444570"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/12/12/trump-grievance-addiction-444570"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/12/trump-grievance-addiction-444570"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d1/57/705115f34fa4b2e148a82535bd76/mag-gettyimages-1287973458-773.jpg"
+        width: 2320
+        height: 1547
+        isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
     publishedDateTime: 2020-12-01T16:55:00Z
@@ -2037,6 +2053,6 @@ related:
         height: 773
         isCached: true
 
-secured: "fUAuTwKqnV7kktg0W0bUi/jhMPBu8EUMI/OBY/bLa9E/Mj84FWiiXr0mlKUHWzes5WtPHF6TZO5r0uZ8Ox8R0HTmzxVi0m0011df8D6/vTIEGVBPySvGHmpMQUg2TWeCiRjCRRQ0HoQ2JoXhjwrQoihMTA5y1vX7jjI88cepxjs8uxXFHrll0QD2Czq4MDl1J4EBfcr4dNYQ3/m4rFQrqDiJbNIWEaDfufRuAixXwjwODUwX94p6uAd0VQh1mRgDJgcJAqgyRJmGjn8NmKKQFDoy+EbucA7/c0pt4YUGxyJx3UZCSDrc5/fDXYXvNIWC29kBRLkteSsb28/Sy7E07DB5AU3ojnGPtEOSsuuUAcg=;VHX2Uv0o6v3E03LMnsxwBA=="
+secured: "rR2gUsvHTSdyXg4aZjtMOeOTa80m05t3NDDqYZsC+w4RH9UU1Pa7c40S0QqKotxABiIGJpPfoZZuq3ISNNt/lNOgsD4BLHP2MGnChXOrcZGPLx9xTOmcOLcWr2JI8yMSrXlttxMmW90OI72RkPibJk31PQ2jedkfyLK2ZiM0ccsOEtQKaSKTRnq0Sd8nDhzPdaZWfNyWNi0TcdrGYvx0ojrMf6s/leAJPqQEY6FMBufKPSLazNYvWqimZC4/Z84iWkxEoWrvDlTAU5lwAPbGbqGP7yfpT0WgJkU6JUWZEACjoVhXvwqGT8ercvgSSPaI5at232Bk/xswESFSpOl6gwEAXegYVrQ9mLQ9AFGfg1c4DM3E5sxk4IuX3m6J/UyrV/vvUEPGJcEK067TAuYCWA5nRx2yIJvcn5Q6v7hsvrhc6Tvg+ldHA1P9x46qS1AFzq/uf+HvOGlNzA2G2ujziBaEUOU57Bd4pT8El0Ov1GparCd4e3TUVCyQTuGQMuFWZMgYqMfrV7ZGsim9H+p7Ag==;fj2OwssAxOZDo3ghKdzYaA=="
 ---
 

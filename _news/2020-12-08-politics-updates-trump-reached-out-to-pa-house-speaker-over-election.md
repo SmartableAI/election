@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6484311002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002"
 type: article
 quality: 150
-heat: 3070
+heat: 3090
 published: true
 
 provider:
@@ -463,6 +463,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Pro-Trump groups to march and pray to protest president's election loss"
+    excerpt: "Conservative groups that allege without evidence that President-elect Joe Biden stole the U.S. election from Donald Trump plan protests nationwide on Saturday, including a Washington rally headlined by Trump’s recently pardoned former national security adviser."
+    publishedDateTime: 2020-12-12T11:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-protests/pro-trump-groups-to-march-and-pray-to-protest-presidents-election-loss-idUSKBN28M0E5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544333067&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB064"
+        width: 817
+        height: 545
         isCached: true
   - title: "Armed pro-Trump protesters gather outside Michigan elections chief's home"
     excerpt: "Jocelyn Benson says gathering in which bogus claims were made about electoral fraud was ‘unambiguous, loud and threatening’"

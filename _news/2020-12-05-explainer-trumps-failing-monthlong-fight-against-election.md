@@ -297,6 +297,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump stood no chance in front of a conservative Supreme Court. Here's why."
+    excerpt: "No one should be surprised that the justices, like the Trump-appointed lower court judges in all these elected cases, followed the law.\""
+    publishedDateTime: 2020-12-12T12:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/12/donald-trump-stood-no-chance-front-conservative-supreme-court/6509869002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6509869002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6509869002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/12/USAT/67378732-c15f-4bc3-946c-367c37f4cef3-AP_Trump_Supreme_Court.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: Statistical analysis supporting pro-Trump Supreme Court case is 'ludicrous'"
     excerpt: "The purported statistical analysis wrongly assumes votes in the November election were randomly distributed across each state."
     publishedDateTime: 2020-12-10T21:48:00Z

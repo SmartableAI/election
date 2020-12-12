@@ -1616,6 +1616,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "What the Science of Addiction Tells Us About Trump"
+    excerpt: "It turns out that your brain on grievances looks a lot like your brain on drugs. And that’s a problem not just for the outgoing president, but for the rest of us."
+    publishedDateTime: 2020-12-12T12:16:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/12/12/trump-grievance-addiction-444570"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/12/12/trump-grievance-addiction-444570"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/12/trump-grievance-addiction-444570"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d1/57/705115f34fa4b2e148a82535bd76/mag-gettyimages-1287973458-773.jpg"
+        width: 2320
+        height: 1547
+        isCached: true
   - title: "Federal prosecutor fired by Trump will lead firm’s white-collar practice."
     excerpt: "Berman, the former U.S. attorney for the Southern District of New York who was fired by President Trump in June, has joined the law firm of Fried, Frank, Harris, Shriver & Jacobson, the firm said on Tuesday."
     publishedDateTime: 2020-12-01T16:55:00Z

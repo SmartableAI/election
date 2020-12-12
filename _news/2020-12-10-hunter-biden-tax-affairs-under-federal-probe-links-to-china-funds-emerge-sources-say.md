@@ -366,6 +366,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Will Joe Biden fire the Hunter Biden investigators?"
+    excerpt: "President-elect Joe Biden has not said whether he’ll commit to keeping the Delaware U.S. Attorney investigating Hunter Biden in his position in the new administration."
+    publishedDateTime: 2020-12-12T11:54:00Z
+    webUrl: "https://www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators"
+    ampWebUrl: "https://www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5da600fb-fbc4-43de-a50c-a2190fcc4c4e/c6eb9241-3c2b-4074-b59a-25c4600012a9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Z/kxqctKDOtMXKI/DuO0pezRasiuBpNlhXN53SCRNHOdM6HO3PIXiwmJ8Kk4wtIi6+iaJDpTD99fUsu2N+yMR/Dcw4ycOtY1KcdbWewiN6mrtNh8so4UfjgPV5vMJUy5zPXtT4hRCFKwJ39TXg/FLQMFqImY+DkXTg4rCiQ7vR3zO8ZzCvpHu9RLSwOVURK0v32VkxdYc8kALoyJlmiek8OrVl0gUN9jrbS8PIO1sO6ZDiJMkyLY0mOUwoz/SGZkgjCiZ0aPOmX4xCRHnVMUv5S7bdMsNfdmg5JNj08fftPekqlD4mMLcL9urW8PQBde+aBdMiCIAyKoIhJgx5TRxdj7v/enrFLlO0/6qABg6fM=;ClISGy47EdoQvFJSjrLJ8w=="
 ---

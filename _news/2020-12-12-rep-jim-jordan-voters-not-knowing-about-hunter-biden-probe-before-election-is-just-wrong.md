@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-hunter-biden-investigati
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-hunter-biden-investigation-voters-media.amp"
 type: article
 quality: 179
-heat: 599
+heat: 619
 published: true
 
 provider:
@@ -346,6 +346,22 @@ related:
     quality: 147
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Tom-cotton-12-08.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Will Joe Biden fire the Hunter Biden investigators?"
+    excerpt: "President-elect Joe Biden has not said whether he’ll commit to keeping the Delaware U.S. Attorney investigating Hunter Biden in his position in the new administration."
+    publishedDateTime: 2020-12-12T11:54:00Z
+    webUrl: "https://www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators"
+    ampWebUrl: "https://www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-joe-biden-fire-the-hunter-biden-investigators.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5da600fb-fbc4-43de-a50c-a2190fcc4c4e/c6eb9241-3c2b-4074-b59a-25c4600012a9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
