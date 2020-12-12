@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6484311002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6484311002"
 type: article
 quality: 150
-heat: 2970
+heat: 3010
 published: true
 
 provider:
@@ -1777,6 +1777,38 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/07/de8791be-ab03-43ed-8b42-7c145af54a74/thumbnail/1200x630/ec913cd82cda24b6d22ec8520b304f3c/cbsn-fusion-georgia-lieutenant-governor-on-president-trumps-attempts-to-overturn-election-results-thumbnail-602796-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "'No Wisdom, No Courage!': Trump lashes out at the Supreme Court after it rejected a Texas bid to overturn the election results"
+    excerpt: "\"The Supreme Court really let us down,\" Trump said in a tweet on Friday. \"A Rigged Election, fight on!\""
+    publishedDateTime: 2020-12-12T06:56:00Z
+    webUrl: "https://www.businessinsider.com/trump-criticizes-supreme-court-for-rejection-of-texas-election-lawsuit-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-criticizes-supreme-court-for-rejection-of-texas-election-lawsuit-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-criticizes-supreme-court-for-rejection-of-texas-election-lawsuit-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5fc12a4250e71a0011557ada?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Supreme Court rejects Texas lawsuit — backed by Trump and most House GOP members — to overturn the presidential election result"
+    excerpt: "The Supreme Court on Friday rejected a lawsuit backed by President Donald Trump to overturn Joe Biden’s election victory, ending a desperate attempt to get legal issues rejected by state and federal judges before the nation’s highest court."
+    publishedDateTime: 2020-12-12T03:39:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-republicans-texas-supreme-court-election-lawsuit-20201211-gnoqqkepqbfwxiuoc3b5oqnjvy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-republicans-texas-supreme-court-election-lawsuit-20201211-gnoqqkepqbfwxiuoc3b5oqnjvy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-republicans-texas-supreme-court-election-lawsuit-20201211-gnoqqkepqbfwxiuoc3b5oqnjvy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
+    images:
+      - url: "https://www.chicagotribune.com/resizer/kOCkbMA6Rk-XoLnJFq47FAh4JCc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RJBL2ZVHOTJAKCV3JDRIBUVHTA.jpg"
+        width: 1200
+        height: 773
         isCached: true
   - title: "'I'd get my house bombed tonight': Pennsylvania Republican leaders details pressure to support Trump's efforts to overturn the election"
     excerpt: "Trump has run out of options to take Biden's win away, with the Supreme Court also refusing to hear a challenge to overturn Pennsylvania's results."

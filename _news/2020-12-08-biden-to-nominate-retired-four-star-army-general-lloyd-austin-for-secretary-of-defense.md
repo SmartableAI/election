@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden's health team picks point to more hands-on federal response"
-    excerpt: "President-elect Joe Biden's choices for his health care team point to a stronger federal role in the nation's COVID-19 strategy, restoration of a guiding stress on science and an emphasis on equitable distribution of vaccines and treatments."
-    publishedDateTime: 2020-12-08T16:14:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yqtvvfd-T_Q/biden-health-team-hands-on-federal-response"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-health-team-hands-on-federal-response.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-health-team-hands-on-federal-response.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82f2e1a9-be17-47ad-9e03-87cdb925e02d/3b181a5a-a397-4b4f-94ce-a60e3688ed33/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden defends nomination of retired general to lead Defense Department"
     excerpt: "Responding to criticism from fellow Democrats over Joe Biden's decision to name a recently retired general to lead the Defense Department, the president-elect is defending his choice of retired four-star Gen. Lloyd Austin as Defense secretary in his upcoming administration"
     publishedDateTime: 2020-12-09T20:30:58Z
@@ -127,22 +111,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Comer says investigation into Hunter Biden must go on unimpeded"
-    excerpt: ""
-    publishedDateTime: 2020-12-11T08:58:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rC_Eh0oYIrE/comer-says-investigation-into-hunter-biden-must-go-on-unimpeded"
-    ampWebUrl: "https://www.foxnews.com/politics/comer-says-investigation-into-hunter-biden-must-go-on-unimpeded.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comer-says-investigation-into-hunter-biden-must-go-on-unimpeded.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Key House Democrat pushes back on Biden picking general for defense secretary"
     excerpt: "A prominent House Democrat who sits on the Armed Services Committee is raising concerns about President-elect Joe Biden’s expected pick for defense secretary."
     publishedDateTime: 2020-12-08T16:02:25Z
@@ -172,22 +140,6 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b82c52d-6baf-4dd2-90b8-e403898a75c6/9eea1eab-e62b-406b-912d-b8b272393d47/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden breaks silence on Hunter for first time since federal tax investigation surfaced"
-    excerpt: "“I’m proud of my son,” Biden said in response to a question from Fox News' Peter Doocy."
-    publishedDateTime: 2020-12-11T21:58:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vcpHfaLHDcc/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-breaks-silence-hunter-for-first-time-since-federal-tax-investigation-surfaced.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fdd4fa30-66ad-4e63-adb7-491d71f54190/dac5b2a1-6140-41e0-9388-9a2491361f93/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

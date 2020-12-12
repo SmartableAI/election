@@ -2,25 +2,25 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-11-aoc-knocks-joe-bidens-agenda-as-a-little-hazy.md",
-      "title": "AOC knocks Joe Biden’s agenda as ‘a little hazy’",
-      "excerpt": "President-elect Joe Biden has started to fill out key roles in his cabinet and staff before he takes office, but Congresswoman Alexandria Ocasio-Cortez, D-N.Y., said this week that she'd like to see a more unified unit. ",
+      "path": "_news/2020-12-11-ari-fleischer-mainstream-media-committed-dereliction-of-duty-by-not-reporting-on-hunter-biden.md",
+      "title": "Ari Fleischer: Mainstream media committed 'dereliction of duty' by not reporting on Hunter Biden",
+      "excerpt": "\"The press was derelict in its duty\" by not following up on the New York Post's reporting about Hunter Biden's overseas business dealings, former White House Press Secretary Ari Fleischer told “Outnumbered Overtime” on Thursday.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y2o_wp2ku20/ocasio-cortez-wants-biden-administration-to-have-a-more-cohesive-vision",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y2o_wp2ku20/ocasio-cortez-wants-biden-administration-to-have-a-more-cohesive-vision",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wqAhP-4ld4M/ari-fleischer-on-coverage-of-hunter-biden-mainstream-media-committed-dereliction-of-duty",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wqAhP-4ld4M/ari-fleischer-on-coverage-of-hunter-biden-mainstream-media-committed-dereliction-of-duty",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 202,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94263045-eb33-4a8d-a418-079be75f1161/e3bf2dbe-1805-4073-8722-3e255f507b05/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ocasio-cortez-wants-biden-administration-to-have-a-more-cohesive-vision.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ocasio-cortez-wants-biden-administration-to-have-a-more-cohesive-vision.amp",
-      "publishedDateTime": "2020-12-10T19:27:07-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/ari-fleischer-on-coverage-of-hunter-biden-mainstream-media-committed-dereliction-of-duty.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-on-coverage-of-hunter-biden-mainstream-media-committed-dereliction-of-duty.amp",
+      "publishedDateTime": "2020-12-10T17:49:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

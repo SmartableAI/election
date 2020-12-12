@@ -79,22 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Democratic Gov. Gretchen Whitmer to serve as co-chair of President-elect Joe Biden's inauguration"
-    excerpt: "Michigan Gov. Gretchen Whitmer will serve as co-chair for President-elect Joe Biden’s inauguration next month. "
-    publishedDateTime: 2020-12-07T20:35:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/roZTFUpA4wU/democratic-gretchen-whitmer-co-chair-joe-biden-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/democratic-gretchen-whitmer-co-chair-joe-biden-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-gretchen-whitmer-co-chair-joe-biden-inauguration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20338756509391.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Josh Hawley criticizes Biden Cabinet picks as 'corporatists,' 'war enthusiasts' and Big Tech 'sellouts'"
     excerpt: "Sen. Josh Hawley on Tuesday criticized President-elect Joe Biden's cabinet picks."
     publishedDateTime: 2020-11-24T19:27:54Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-pick-hyped-dossier-pr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-pick-hyped-dossier-promoted-conspiracy-russian.amp"
 type: article
 quality: 165
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration pick Neera Tanden outed sexual harassment victim at liberal think tank: report"
+    excerpt: "President-elect Joe Biden's pick to lead the White House Office of Management and Budget, Neera Tanden — like his other expected nominees — is likely to see a contentious confirmation hearing, but she is no stranger to controversy after reportedly revealing the name of an alleged sexual harassment victim"
+    publishedDateTime: 2020-12-02T14:40:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ygo2Nksy784/biden-pick-neera-tanden-outed-sexual-harassment-victim-liberal-think-tank"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pick-neera-tanden-outed-sexual-harassment-victim-liberal-think-tank.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-neera-tanden-outed-sexual-harassment-victim-liberal-think-tank.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0bef5df3-b1ad-4063-9945-74d7c18dcd09/d317839e-7140-4e34-b763-0f08bbdeea34/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Resurfaced photo shows Biden press sec Jen Psaki wearing hammer and sickle hat with Russian official"
     excerpt: "Jen Psaki, who was named to serve as President-elect Biden's White House press secretary, is facing fresh scrutiny over a photo that shows her wearing a Russian hat that bears the communist hammer-and-sickle logo."
     publishedDateTime: 2020-11-30T23:54:02Z

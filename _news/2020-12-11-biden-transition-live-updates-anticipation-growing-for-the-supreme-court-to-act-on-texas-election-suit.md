@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's effort to overthrow democracy dead ends at Supreme Court but the damage is lasting"
+    excerpt: "President Donald Trump's effort to unravel democracy hit a dead end at the Supreme Court Friday night, capping five weeks in which he dragged the country along on his narcissistic quest to stay in power after President-elect Joe Biden overwhelmingly won the election.\n    \n"
+    publishedDateTime: 2020-12-12T05:30:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nx3U1r1h1AY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211133213-trump-axelrod-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "MM5e7fLmh/sQ/Cr3cELiWUVwea9XSqlKZtkyrLSHmNZiCHOCIgvA3G8ujQ/BQEf3RrxfnFeSX3DxaCl04dLLShzbPnrbV21ui2h09rQ6QuyxpuFVSweUHv+ElnozVCTMkN622OtP5rsUIZ/Sv1qg0IRPsaKgjx1Z1CAv2zwX6m91C26PUwCOBrmapoOXuM+FN2abeopKdArOpzikUuRI6zsp3K7yK7VOvDQxNdkvr/Y2HOfemQNZWGJtwaADG5Lek8kDi7w+VtJFECgpUX0dbHxXIcmpAP//IKbXFIBn1s01Z13D+xyAIO0DdhVXBndptXS8HvCgvKl+ilQ/58xlphRmZjIzFpw+6ZQXFGUDkNj7DUhH7uvGIXmiVYCY2ox9MNxT5I3kFjILKkOKCjDwhduar8bbwxkZ2gHwJDXLV2kIkiFyQKfEvo9GyIS9TgTvqnfzMJnZbV8wyQ5lBPL9eWkI+5ApRJAFVa8En3E3/4Ru9tPTYMjnqLey8eC9Qf4sE6G6yuDhfXiVz2TYAK5Y/w==;Rv0pFeCgoP8GFJQ5os56gA=="
 ---

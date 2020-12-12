@@ -991,6 +991,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Wisconsin Supreme Court to Hear Trump Lawsuit Appeal"
+    excerpt: "The conservative-controlled Wisconsin Supreme Court has agreed to hear arguments over the weekend on President Donald Trump’s state lawsuit seeking to disqualify more than 221,000 ballots and overturn his loss to Democrat Joe Biden in the battleground state."
+    publishedDateTime: 2020-12-12T05:17:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-11/trump-returns-to-court-in-wisconsin-as-time-running-out?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "pDDtDNVPU3QO5xKDsCOVKcdiX1gi5bfvMRZJMXcJ4wIx20/a8jSZux2XdMem2uXvLTc3cgvr+2n2JAs+id46vFkoAqFxTxw9gEgKrDNjCKjAxROZ7wvZZ+v1DWNU3d4sMHz6K0XdA2NsNak1p3sZPk7KaFqI9PJwHdNnucWZSFjTPXcAKhl0Jvvun3/u0ClhgdW7NHRAy1HydZRE4tVnI7ywQCvDIvFYCG1Kx81ol8xhW43jwCQS+PFHVjW2v+3kcqshJl7bZFR8C3NjWMZyu8Z+kcTe6OEENz87+rQRlWO61uW2timf5HYvYB9HXvtg5EKz33ajyiynxzXohJRxV5y/dSHC6BW9kW6wwnlgBoM=;vFe+UNt8+a8HovWepDoXCQ=="
 ---

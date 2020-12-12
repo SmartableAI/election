@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/the-latest-doctor-has-concern-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/the-latest-doctor-has-concern-about-vaccine-availability/2020/12/09/291437fe-3a7e-11eb-aad9-8959227280c4_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Pence plans visit to state to discuss virus vaccines"
+    excerpt: "Vice President Mike Pence has scheduled an Indiana trip to discuss novel coronavirus vaccines as federal officials are expected to"
+    publishedDateTime: 2020-12-12T05:00:00Z
+    webUrl: "https://www.journalgazette.net/news/local/indiana/20201212/pence-plans-visit-to-state-to-discuss-virus-vaccines"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 35
 
 secured: "eKlwzPr2+935qJOpSuq/RnW5TJABx7y+PiL8LFq1yFhRGDuxK0fv69cVyZBvgneW4YcRNtB15EBxLpmD0frXr19Kkq1BPzJPO3CH36SjBNX6QQjCAqd3plq2MhZlR+hD7i+T5v6gF5VOFswWqA0519U1qOWeXw7PU85Sbowi1gs5QOmDu0nZr1bT543hbt3FvOKulf4ehrDpghyBJIPcU7oMEOCvBSe2oPbf1YOlFGMPwoMt3CCeGUZx87nj64fF4C2Lq728gCuAGm4O0ldIrAoTcTxDPDc24/dZYtr0pRVLVUI1bH4FtiOoZX6lZ6pEouTJElDEx4+NlOzuK1/obsUUlBxv0fkgLcnbqA0uNx4=;lZfgcDWHZdZtPhoTLUolZw=="
 ---

@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden changes his story on Bin Laden raid -- again"
-    excerpt: "President-elect Joe Biden came under fire earlier this year for denying his opposition to the 2011 raid that killed Usama bin Laden after previously claiming that he advised then-President Obama against it. "
-    publishedDateTime: 2020-12-07T00:59:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VUmhWXUtvkE/biden-bin-laden-raid-obama"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-bin-laden-raid-obama.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bin-laden-raid-obama.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b76c0eaf-5096-4a0a-bb3c-7fc7db46132a/9941afad-0e5a-4e96-985a-d38d9e65ff99/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "loH57MZBbuQPT5c23b9NDCKUFfSzevsfDWM3rHAgTecI0NWt5ZlT5lg/mY2r8r2+plbo0BMoEawSYHfXbXhQ1Iiu7WBtMXEXg5KZPbSRsuZGjuSCfu5ZcDoeTIlqEnYREVuvmgFCC64wbmzJD8owlQMy+GRtolzBx5kmwrHMdwhhfRA/lAqHElHggAQa3AWzA4zShhgnt07OD72RZpjTgM4EfsGLdMtRRPFqrm8NH4UA1XxtETkW38NVLOKUvrgX/PAIuGtjFBMsIEHiwQwEWO/G47uK1SJG18poanNu69+9vHD6kqi+8FG8+m4C9WTAFhJp51pQ789IMYJu7Mlgy6qzKXFHDQe1YA9kYJ599yI=;qhNRRtYVZeKh1pTiAKTgPA=="
 ---

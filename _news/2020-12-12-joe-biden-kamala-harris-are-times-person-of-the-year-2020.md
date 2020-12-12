@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden, Kamala Harris are Time’s Person of the Year 2020"
 excerpt: "Joe Biden and Kamala Harris are Time’s 2020 Person of the Year, the magazine announced Thursday night. The President-elect and Vice President-elect beat out Donald Trump again, among other finalists."
-publishedDateTime: 2020-12-11T18:18:00Z
-originalUrl: "https://www.al.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
-webUrl: "https://www.al.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
-ampWebUrl: "https://www.al.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
-cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+publishedDateTime: 2020-12-11T19:18:00Z
+originalUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
+webUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html"
+ampWebUrl: "https://www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
+cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/us-world/2020/12/joe-biden-kamala-harris-are-times-person-of-the-year-2020.html?outputType=amp"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: al.com
-  domain: al.com
+  name: MLive
+  domain: mlive.com
 
 topics:
   - Election
@@ -602,6 +602,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-file-gty-ml-201204_1607095813243_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Trump wants a special counsel to investigate purported election fraud and Hunter Biden allegations, report says"
+    excerpt: "Justice Department guidelines say the attorney general can appoint a special counsel, but it's unclear if Attorney General Barr will do so."
+    publishedDateTime: 2020-12-12T06:45:00Z
+    webUrl: "https://www.businessinsider.com/trump-special-counsel-probe-2020-election-hunter-biden-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-special-counsel-probe-2020-election-hunter-biden-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-special-counsel-probe-2020-election-hunter-biden-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5fd0b691cee0cf00114fa553?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Power Up: One reason Trump keeps pushing to overturn Biden win: He's raking in cash"
     excerpt: "President Trump has raised more than $150 million pushing his false claims about a rigged election, but a big chunk of the money could wind up as a down payment for the president's post-White House political operation – another sign that the blundering efforts to overturn the election results may not really be about winning at all."
@@ -1388,6 +1404,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Time Magazine Names Joe Biden, Kamala Harris Person of the Year"
+    excerpt: "Time magazine has named President-elect Joe Biden and Vice President-elect Kamala Harris its “Person of the Year.” Time’s editor-in-chief Edward Felsenthal says Biden and Harris won the honor for “changing the American story,"
+    publishedDateTime: 2020-12-12T05:59:00Z
+    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/"
+    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/time-magazine-names-joe-biden-and-kamala-harris-person-of-the-year/2774289/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 90
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/Time-Person-of-the-Year-2020.gif?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "After years of indifference and denial under President Trump, experts expect Joe Biden to confront the dangers of domestic extremism"
     excerpt: "Former federal security officials are urging President-elect Joe Biden to more seriously acknowledge the growing danger of domestic terrorism."
     publishedDateTime: 2020-12-09T12:24:00Z
@@ -1659,6 +1691,6 @@ related:
       domain: c-span.org
     quality: 50
 
-secured: "+UI4KJoSu+foL8Zb3Xary7M5aEvSf5nPZa1fZZ3hQRuUyxF+91ImfYgL3BBFLUiM1d1hnXniNuDpcexbN7lXw2dpd3r0ygbvALpVgUb3NExZneoPv1G1r0fG8cyMYr9bmbSDkxkBDkQl6vsP0Fgns07HO3YsdYJcogstZ9ep7pGF/85OeiYGqU5PDvGoT6PnI8veYEpwHrZeyC9FcMC+vGyHdr5/1JFGefreY9u7NzcC7FAuagvRG8JlRxwb8pIWAng6hOLYi+Sft71ldS+jc5678yIkSz+CZYjzdi8IcuCmuWrs/KFfkDxJbhTnUx95RhWCnZpoRU+bcytQiLekle+uwIDslkQXG9Rd51QOPlNLmDJ3k103r7145Wbx9Dc/g18IvY5u9H7bX62cVSBDXy+8b9BUpPOwo6fag2wOIxgnWMSXK5fEj4Aa84dLuA7PlmkZF0rzNHAk4weuIu1svgjR27BtApAmVpyNJJwnkpPFM92vHd/CQ8zq6bvVTyAbJcakVWmZeMv+vd8MHOrbHw==;Rd8v9v8QTN3asz1bmX9jnA=="
+secured: "/lNEw5qfrfeDjLcFrIi1ToF8dirMNfvbSdVaGGBMg4+z7U3VyyXRU+2uSd5b7igkA+jQYLmWx4JFfHysgaaCEk9E5WVVu3SPH8YWKe7c7pKugHeY/RhxJNcmHgcUgSVDJni8S4rge28EUznWRVBOaI8hDIT/ediEkzcOuM8ay8pJeazYZQ1iq+vaoIE1m734/PHePCZZcSLEyf5rwGPZTOFSlHE8bycuILwqAL2f+JkyH/BUOjltYEkPUHU+3vrHVdOPP7j676af2W2Ypb8/5+G96V+0gCMBqrC20YMtPPnqXJafdWVo37IffXuM0rqhsY8iDkYi2vk3fswo60j3S1GaUH8aC5MaasIgD83Q2Ak=;oeTQXTahqvKGcoOgSlG4Pg=="
 ---
 
