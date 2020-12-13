@@ -615,6 +615,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Wisconsin Supreme Court shows divisions as it hears Trump lawsuit seeking to overturn state's election"
+    excerpt: "The three liberals on the state's high court showed extreme skepticism toward Trump's arguments. Three conservatives showed some support for at least parts of his claims."
+    publishedDateTime: 2020-12-13T00:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/12/wisconsin-supreme-court-hears-trump-lawsuit/6521387002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6521387002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6521387002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/12/PMJS/815c2fce-ea73-4f89-8038-d06d88e5b851-scotus.jpg?auto=webp&crop=900,506,x21,y23&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Trump campaign’s disingenuous spin on its watered-down voter fraud claims"
     excerpt: "The campaign is disputing a Washington Post article about its scaled-back lawsuit in Pennsylvania. But a look at the lawsuit — and its claims about The Post's reporting — reveal the truth."
     publishedDateTime: 2020-11-16T18:26:00Z

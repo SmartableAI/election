@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Federal court judge dismisses 'extraordinary' Trump lawsuit seeking to overturn Wisconsin election"
+    excerpt: "U.S. District Judge Brett Ludwig — a Trump nominee — concluded Wisconsin officials had followed state laws when they conducted the Nov. 3 election."
+    publishedDateTime: 2020-12-13T00:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/12/trump-wisconsin-lawsuit-dismissed-federal-judge/3894689001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3894689001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3894689001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/10/PMJS/ee1680b4-5450-40a4-afa7-1023a5c58f66-Brett_Ludwig.jpg?auto=webp&crop=533,300,x0,y205&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nissan joins GM in exiting auto group backing Trump"
     excerpt: "Japanese automaker Nissan Motor Co said on Friday it was joining General Motors in exiting a group of automakers that had backed U.S. President Donald Trump in his bid to prevent California from imposing its own vehicle emissions rules."
     publishedDateTime: 2020-12-04T21:59:00Z
@@ -561,6 +577,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "g/RtQFlYrXjz0kGLOzLgIWgf6yt0VHkV40gTUSem6VDZi0CpBhTic+OxYha79t1GBgUhtK0UEJwSVDTHBJnByFc6i33wgQUCkyjxCvgNeChfknrMJHcA+d8lHoiMZraJOUEtmwjgFk+rhI36Xhqd6kAWM+95pzTRWyzoZu9BII5pAloGk5Z9hMtGckEpcvLkUYn7OqRSz59avqS6O1wp0ihLRWoM/DqNAzxrBlO9fVRzW0rFius1p9WAVYsj2IJvB+9Tu6UqsWMAm2kK9xalwJl/UJdiRLYWsazoAprOlShceb6oQ90IxznphAOzClrPdH0hfup2yoNdYjR9O7CWPh1kvesW69E0TWTy9C9ezNQ=;IukFzAAmP7SUiypupA9c/A=="
+secured: "fhNs1Kbi25LmklCf00EkfUQ2e0nFdVWDljQCP3z8PV61JKSfn6tbLHDj+yJtBGsIVIGOlBSwy3BieOtIZvv0+IePeWHYxOfB8NhIj4WBF87FhxEhyO0vinoNx5jb4t31kDAIZ49Tn/FFPRQcKFTGnJPEBzXdivjtfhdPKethxPwPoKf/UOi58pmm4+X74Y7Ht57o6khkWQcIwTGknPNHj1hjgsSUIZ9hgk9Fhf4s2QG9hlgyCtY1p/VLittxssNR2LN0f8CcayrtlCSqaP0H1SouhuGXrlcY6nZHfQ85trcyCD+OfsAux6M30Q40OUSTee7refDLcwsfLYSktUKo8HX4MeLbzDKMgNFpteYC7yRFlIM/71NKJW9OxNTwDiS75umEOh7PUO3GiFncC/9EDeYobO6r3nJhJwOqQEk8ImD4vUIyi8bkkw53vnWvU+B82VeztkfXhDNRRwJXJNMla/B0wDy1KMmgMrHzRHhcHXIOURnax06YXFdKBkKAQgaKSr+IDsa41l+uF19Jk170iA==;1U4a2LrZT2zK2DHf0nFoSg=="
 ---
 

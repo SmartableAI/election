@@ -479,10 +479,26 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Analysis: The election is over; Trump's attacks will linger"
+    excerpt: "The Supreme Court's rejection of a lawsuit seeking to invalidate election results has once again confirmed Democrat Joe Biden's victory in the 2020 election"
+    publishedDateTime: 2020-12-13T00:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-election-trumps-attacks-linger-74685931"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-election-trumps-attacks-linger-74685931"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-election-trumps-attacks-linger-74685931"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_128395a5a3fa4f5fa8955dd591bc5d74_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pro-Trump groups march and pray to protest president's election loss"
-    excerpt: "Conservative groups alleging without evidence that President-elect Joe Biden stole the U.S. election gathered for protests on Saturday, including one in Washington featuring President Donald Trump's recently pardoned former national security adviser."
-    publishedDateTime: 2020-12-12T18:10:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-protests/pro-trump-groups-march-and-pray-to-protest-presidents-election-loss-idUSKBN28M0E5?edition-redirect=ca"
+    excerpt: "Conservative groups alleging without evidence that President-elect Joe Biden stole the U.S. election gathered for protests across the country on Saturday, including one in Washington featuring President Donald Trump's recently pardoned former national security adviser."
+    publishedDateTime: 2020-12-13T00:13:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-protests/pro-trump-groups-to-march-and-pray-to-protest-presidents-election-loss-idUSKBN28M0E5"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28M0E5"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28M0E5"
     type: article
@@ -491,7 +507,7 @@ related:
       domain: reuters.com
     quality: 140
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544344535&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB0B0"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544371148&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB0KJ"
         width: 817
         height: 545
         isCached: true
@@ -1891,6 +1907,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Thousands of Trump supporters rally in Washington, D.C. to protest election results"
+    excerpt: "This Saturday, thousands of Trump supporters gathered at the nation's capital to protest the election results. Crowds chanted \"four more years\" and carried signs reading \"stop the steal\" in a refusal to accept President-elect Biden's victory."
+    publishedDateTime: 2020-12-13T00:12:00Z
+    webUrl: "https://www.cbsnews.com/video/thousands-of-trump-supporters-rally-in-washington-dc-to-protest-election-results/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/13/a939ef09-573f-4c04-ba43-c43cafa47386/thumbnail/1200x630/f1faedc5ff362dff3181789123871e42/cbsn-fusion-thousands-of-trump-supporters-rally-in-washington-dc-to-protest-election-results-thumbnail-607729-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "US Covid response in chaos as controversial Trump pandemic adviser Atlas resigns – live updates"
     excerpt: "Country sees 28th consecutive day with over 100,000 new coronavirus cases recorded – follow all the latest news live"
     publishedDateTime: 2020-12-01T14:45:00Z
@@ -1968,6 +1998,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/kOCkbMA6Rk-XoLnJFq47FAh4JCc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RJBL2ZVHOTJAKCV3JDRIBUVHTA.jpg"
         width: 1200
         height: 773
+        isCached: true
+  - title: "Trump supporters rally to overturn the 2020 election, even as the courts continue striking down lawsuits contesting the results"
+    excerpt: "Trump supporters gathered in droves on Saturday to defend the president's failed legal push to overturn the presidential election."
+    publishedDateTime: 2020-12-13T00:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-supporters-rally-at-supreme-court-against-election-results-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-supporters-rally-at-supreme-court-against-election-results-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-supporters-rally-at-supreme-court-against-election-results-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5fd530ad9cf1420018d2f0c2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "'I'd get my house bombed tonight': Pennsylvania Republican leaders details pressure to support Trump's efforts to overturn the election"
     excerpt: "Trump has run out of options to take Biden's win away, with the Supreme Court also refusing to hear a challenge to overturn Pennsylvania's results."
